@@ -4,6 +4,8 @@
 
 LinearDistance::LinearDistance(IKNResultList* resultList, uint first, uint second) {
 	resultList->InitWordsList();
+	uint i = 1;
+	uint* end_pos =&i;
 	const char* infinitive = "ÈÍÔÈÍÈÒÈÂ";
 	IKNWordShell* wordShell;
 	wordShell = resultList->GetNextWordShell();
@@ -20,6 +22,7 @@ LinearDistance::LinearDistance(IKNResultList* resultList, uint first, uint secon
 		if (wordShell->GetPosId() >= second) {
 			break;
 		}
+		std::cout << wordShell->GetTextPos(end_pos) << " " <<*end_pos<<"\n";
 		wordShell = resultList->GetNextWordShell();
 	}
 }
