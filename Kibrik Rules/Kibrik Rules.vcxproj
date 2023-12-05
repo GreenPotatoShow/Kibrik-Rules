@@ -134,17 +134,17 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="App.cpp" />
+    <ClCompile Include="Chain.cpp" />
     <ClCompile Include="Kibrik Rules.cpp" />
-    <ClCompile Include="LinearDistance.cpp" />
-    <ClCompile Include="ParagraphDistance.cpp" />
     <ClCompile Include="TextLoader.cpp" />
+    <ClCompile Include="TextProcessor.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="App.h" />
-    <ClInclude Include="LinearDistance.h" />
+    <ClInclude Include="Chain.h" />
     <ClInclude Include="macros.h" />
-    <ClInclude Include="ParagraphDistance.h" />
     <ClInclude Include="TextLoader.h" />
+    <ClInclude Include="TextProcessor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

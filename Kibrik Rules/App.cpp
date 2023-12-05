@@ -1,8 +1,9 @@
 #include "App.h"
 #include "TextLoader.h"
+#include "TextProcessor.h"
 
 App::App() {
 	TextLoader textLoader("2.txt");
-	textLoader.linearDistance(0, 166);
+	TextProcessor textProcessor(textLoader);
 
 }
