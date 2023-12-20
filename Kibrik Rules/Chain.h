@@ -6,11 +6,11 @@ class Chain
 {
 public:
 	Chain(int id);
-	std::vector<const IKNAtom*> getWords() const;
+	std::vector<const IKNWordShell*> getWords() const;
 	int getId() const;
-	void pushBackToWords(const IKNAtom* word);
+	void pushBackToWords(const IKNWordShell* word);
 private:
 	int id;
-	std::vector<const IKNAtom*> words;
+	std::vector<const IKNWordShell*> words;
 };
 

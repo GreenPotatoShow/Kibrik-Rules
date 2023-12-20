@@ -6,7 +6,7 @@
 
 Chain::Chain(int id) {
 	this->id = id;
-	std::vector<const IKNAtom*> words;
+	std::vector<const IKNWordShell*> words;
 	this->words = words;
 }
 
@@ -14,10 +14,10 @@ int Chain::getId() const{
 	return this->id;
 }
 
-std::vector<const IKNAtom*> Chain::getWords() const{
+std::vector<const IKNWordShell*> Chain::getWords() const{
 	return this->words;
 }
 
-void Chain::pushBackToWords(const IKNAtom* word) {
+void Chain::pushBackToWords(const IKNWordShell* word) {
 	this->words.push_back(word);
 }

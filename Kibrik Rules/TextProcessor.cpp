@@ -14,11 +14,12 @@ TextProcessor::TextProcessor(const TextLoader &textLoader) {
 	bestCAChainID = -1;
 	currentCA = 0;
 	maxCA = -5;
+	uint* end_pos = new uint;
 	std::vector<Chain> chains;
 	this->chains = chains;
-	std::list<const IKNAtom*> entities = textLoader.getEntities();
+	std::list<const IKNWordShell*> entities = textLoader.getEntities();
 
-	const IKNAtom* currentEntity;
+	const IKNWordShell* currentEntity;
 	currentEntity = entities.front();
 
 	this->chains.push_back(Chain(0));
@@ -28,7 +29,7 @@ TextProcessor::TextProcessor(const TextLoader &textLoader) {
 	while (!entities.empty()) {
 		currentEntity = entities.front();
 		for (auto &chain:this->chains) {
-			currentCA=textLoader.activationÑoeff(chain.getWords().back()->GetTextPos(), currentEntity->GetTextPos());
+			currentCA=textLoader.activationÑoeff(chain.getWords().back()->GetTextPos(end_pos), currentEntity->GetTextPos(end_pos));
 			if (currentCA >= maxCA) {
 				maxCA = currentCA;
 				bestCAChainID = chain.getId();
@@ -48,7 +49,7 @@ TextProcessor::TextProcessor(const TextLoader &textLoader) {
 	for (auto &chain : this->chains) {
 		std::cout << "\n" << chain.getId() << ". ";
 		for (auto word : chain.getWords()) {
-			std::cout << word->GetData() << " ";
+			std::cout << word->GetForm() << " ";
 		}
 	}
 }

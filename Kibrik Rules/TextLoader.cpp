@@ -8,8 +8,12 @@
 #include <fstream>
 #include <iostream>
 
-bool isEntity(const IKNAtom* atom) {
-	return (((atom->GetType() == 4)|| (atom->GetType() == 5)|| (atom->GetType() == 6))&&(atom->GetTextPos()%10==0));
+bool isEntity(const IKNWordShell* wordShell) {
+	const char* noun = "Сущ";
+	const char* pronoun = "Мест-Сущ";
+	IKNWord* iknWord = wordShell->GetWord();
+	auto partSpeech = iknWord->GetPartSpeech();
+	return ((*partSpeech == *noun) || (*partSpeech == *pronoun));
 }
 
 //убираем из текста \n \t и прочее
@@ -25,6 +29,8 @@ std::string clearText(std::string text) {
 
 TextLoader::TextLoader(std::string fileName) {
 	setlocale(LC_ALL, "Russian");
+	uint lastPosId = 0;
+	uint* end_pos = new uint;
 	int position;
 	position = 0;
 	uint* len=new uint;
@@ -46,16 +52,29 @@ TextLoader::TextLoader(std::string fileName) {
 	this->engine->Run(text, 0, len);
 
 	//ищем сущности
-	std::list<const IKNAtom*> entities;
+	std::list<const IKNWordShell*> entities;
 	this->entities = entities;
 
-	IKNParsedText* parsedText=engine->GetParsedText();
-	const IKNAtom* atom;
-	uint maxAtoms = parsedText->GetCount();
-	for (uint i=0;i< maxAtoms;i++){
-		atom = parsedText->Get(i);
-		if (isEntity(atom)) {
-			this->entities.push_back(atom);
+	IKNResultList* resultList = engine->GetResultList();
+	resultList->InitWordsList();
+	IKNWordShell* wordShell;
+	wordShell = resultList->GetNextWordShell();
+	lastPosId = wordShell->GetPosId();
+	IKNWord* iknWord = wordShell->GetWord();
+	auto partSpeech = iknWord->GetPartSpeech();
+	while (wordShell != NULL) {
+		iknWord = wordShell->GetWord();
+		partSpeech = iknWord->GetPartSpeech();
+		if (isEntity(wordShell)) {
+			this->entities.push_back(wordShell);
+		}
+		std::cout << wordShell->GetForm() << " "<< partSpeech<<"\n";
+		lastPosId = wordShell->GetTextPos(end_pos);
+		wordShell = resultList->GetNextWordShell();
+		while (wordShell->GetTextPos(end_pos) == lastPosId) {
+			lastPosId = wordShell->GetTextPos(end_pos);
+			wordShell = resultList->GetNextWordShell();
+			if (!wordShell) { break; }
 		}
 	}
 
@@ -66,7 +85,7 @@ TextLoader::~TextLoader() {
 	this->manager->Release();
 }
 
-const std::list<const IKNAtom*> TextLoader::getEntities() const{
+const std::list<const IKNWordShell*> TextLoader::getEntities() const{
 	return this->entities;
 };
 
@@ -74,12 +93,13 @@ int TextLoader::linearDistance(int first, int second) const{
 	uint lastPosId = 0;
 	std::string word, text;
 	int value = 0;
-	uint* end_pos = new uint;;
+	uint* end_pos = new uint;
 	text = this->text;
 	IKNResultList* resultList;
 	resultList = this->engine->GetResultList();
 	resultList->InitWordsList();
-	const char* infinitive = "ИНФИНИТИВ";
+	const char* verb = "Глаг";
+	const char* infinitive = "Инф";
 	IKNWordShell* wordShell;
 	wordShell = resultList->GetNextWordShell();
 	lastPosId = wordShell->GetPosId();
@@ -93,7 +113,7 @@ int TextLoader::linearDistance(int first, int second) const{
 		iknWord = wordShell->GetWord();
 		auto partSpeech = iknWord->GetPartSpeech();
 		if ((wordShell->GetTextPos(end_pos) >= (uint) first) && (wordShell->GetTextPos(end_pos) < (uint) second)) {
-			if ((*partSpeech == 'Г') || (*partSpeech == *infinitive)) {
+			if ((*partSpeech == *verb) || (*partSpeech == *infinitive)) {
 				value += 1;
 			}
 		}
