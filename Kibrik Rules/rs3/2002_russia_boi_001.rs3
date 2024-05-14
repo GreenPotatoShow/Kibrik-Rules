@@ -1,0 +1,27 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="22" relname="preparation">В Грозном боевики напали на полк вневедомственной охраны\n\nВ Грозном массированному обстрелу подверглась база полка вневедомственной охраны УВД Чечни.</segment>
+		<segment id="10" parent="21" relname="preparation">Огонь велся из автоматического стрелкового оружия и гранатометов.</segment>
+		<segment id="11" parent="12" relname="cause-effect">Осколочные ранения получил рядовой милиции Ильяс Каташев.\n\nИсточник в УВД Чечни сообщил \"Интерфаксу\",</segment>
+		<segment id="12" parent="13" relname="span">что поздно ночью огонь открыли неустановленные лица, передвигавшиеся на большой скорости по Старопромысловскому шоссе.</segment>
+		<segment id="14" parent="20" relname="joint">Установить виновных пока не удалось.\n\nВ том же Старопромысловском районе обстреляна колонна федеральных сил.</segment>
+		<segment id="15" parent="18" relname="cause-effect">При ее прохождении по шоссе из окон полуразрушенных зданий неизвестные открыли огонь из автоматов и подствольников.</segment>
+		<segment id="16" parent="18" relname="joint">В результате ответной стрельбы бандиты были рассеяны.</segment>
+		<segment id="17" parent="18" relname="joint">Жертв и пострадавших среди военных нет.\n\nВедется осмотр места происшествия с целью установления потерь боевиков и задержания тех, кто из них мог остаться в живых.\n\nИсточник: https://www.newsru.com/russia/20Oct2002/boi.html\n</segment>
+		<group id="22" type="span" parent="23" relname="span"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="13" type="span" parent="20" relname="preparation"/>
+		<group id="20" type="multinuc" parent="21" relname="span"/>
+		<group id="19" type="span" parent="20" relname="joint"/>
+		<group id="18" type="multinuc" parent="19" relname="span"/>
+		<group id="23" type="span"/>
+	</body>
+</rst>

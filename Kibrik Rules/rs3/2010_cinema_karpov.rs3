@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="24" relname="sequence">В Москве умер писатель и бывший главред \"Нового мира\" Владимир Карпов\n\nВладимир Карпов - писатель, публицист, бывший первый секретарь Союза писателей СССР, бывший главный редактор журнала \"Новый мир\"</segment>
+		<segment id="21" parent="23" relname="span">- скончался в понедельник в Москве на 86-м году жизни,</segment>
+		<segment id="22" parent="21" relname="elaboration">передает РИА \"Новости\".\n\n\"Владимир Карпов был замечательным писателем, автором романов, повестей, рассказов и исследований о Великой Отечественной войне, Героем Советского Союза, легендарным разведчиком.</segment>
+		<segment id="25" parent="29" relname="span">Союз писателей России выражает соболезнования его родным и близким\",</segment>
+		<segment id="26" parent="28" relname="sequence">- сообщил генеральный директор Союза писателей России Владимир Середин.\n\nВладимир Васильевич Карпов родился в Оренбурге 28 июля 1922 года, жил</segment>
+		<segment id="27" parent="28" relname="sequence">и учился в школе в Ташкенте.</segment>
+		<segment id="30" parent="31" relname="cause-effect">Учился в Ташкентском пехотном училище (1939 - 1941).\n\nВ апреле 1941 года, будучи курсантом,</segment>
+		<segment id="31" parent="32" relname="span">по доносу был репрессирован.</segment>
+		<segment id="33" parent="53" relname="sequence">В 1942 году в составе штрафной роты 629 стрелкового полка 134 стрелковой дивизии воевал на Калининском фронте.</segment>
+		<segment id="34" parent="38" relname="sequence">В феврале 1943 года за проявленное отличие в боях с него была снята судимость.</segment>
+		<segment id="35" parent="37" relname="sequence">В дальнейшем был командиром взвода разведчиков,</segment>
+		<segment id="36" parent="37" relname="sequence">за проявленное мужество получил медаль \"За отвагу\".\n\nВ 1944 году после лечения тяжелого ранения стал слушателем Высшей разведывательной школы Генерального штаба.</segment>
+		<segment id="39" parent="41" relname="sequence">В 1945 году опубликовал свои первые литературные произведения.</segment>
+		<segment id="40" parent="41" relname="sequence">В 1947 году окончил Военную академию имени М. В. Фрунзе, а в 1954 году вечернее отделение Литературного института имени A.M. Горького.</segment>
+		<segment id="42" parent="43" relname="sequence">Прослужил более 10 лет в Средней Азии в Туркестанском военном округе.</segment>
+		<segment id="44" parent="50" relname="joint">С 1962 года - член Союза писателей СССР.\n\nПосле выхода в отставку с военной службы (1966) работал заместителем главного редактора Госкомпечати Узбекской ССР.</segment>
+		<segment id="45" parent="49" relname="sequence">С 1973 года был заместителем главного редактора журнала \"Октябрь\".</segment>
+		<segment id="46" parent="48" relname="sequence">В 1983-1986 годах Владимир Карпов возглавлял журнал \"Новый Мир\".</segment>
+		<segment id="47" parent="48" relname="sequence">С 1986 по 1991 годы он был первым секретарем правления Союза писателей СССР.\n\nЧитателям он известен, прежде всего, как автор таких произведений: \"Командиры седеют рано\", \"Маршальский жезл\", \"Взять живым!\", романа \"Не мечом единым\", \"Маршал Жуков, его соратники и противники в годы войны и мира\" в 2 томах, биографии Сталина \"Генералиссимус\" в 2 томах и других.\n\nИсточник: https://www.newsru.com/cinema/19Jan2010/karpov.html\n</segment>
+		<group id="24" type="multinuc" parent="56" relname="joint"/>
+		<group id="23" type="span" parent="24" relname="sequence"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="29" type="span" parent="55" relname="sequence"/>
+		<group id="28" type="multinuc" parent="25" relname="attribution"/>
+		<group id="54" type="multinuc" parent="55" relname="sequence"/>
+		<group id="32" type="span" parent="54" relname="sequence"/>
+		<group id="53" type="multinuc" parent="54" relname="sequence"/>
+		<group id="52" type="multinuc" parent="53" relname="sequence"/>
+		<group id="38" type="multinuc" parent="52" relname="joint"/>
+		<group id="37" type="multinuc" parent="38" relname="sequence"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="43" type="multinuc" parent="51" relname="sequence"/>
+		<group id="41" type="multinuc" parent="43" relname="sequence"/>
+		<group id="50" type="multinuc" parent="51" relname="sequence"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="sequence"/>
+		<group id="56" type="multinuc"/>
+	</body>
+</rst>

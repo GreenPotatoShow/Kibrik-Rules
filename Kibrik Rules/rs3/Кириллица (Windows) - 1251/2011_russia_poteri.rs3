@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="29" relname="joint">Потери российского ВПК от введения санкций против Ливии могут составить $4 млрд\n\nВведение Совбезом ООН санкций на поставку в Ливию оружия может существенно сказаться на объемах российского оружейного экспорта,</segment>
+		<segment id="28" parent="29" relname="joint">заявил \"Интерфаксу\" военно-дипломатический источник в Москве.\n\n\"Среди стран Ближнего Востока и Северной Африки Ливия является одним из самых крупных покупателей российского оружия.</segment>
+		<segment id="30" parent="34" relname="joint">На сегодняшний день с этой страной заключены контракты в сфере ВТС на сумму около $2 млрд.</segment>
+		<segment id="31" parent="33" relname="span">Кроме того, в финальной стадии находится работа по подготовке контрактов на поставку Триполи авиатехники и средств ПВО.</segment>
+		<segment id="32" parent="31" relname="elaboration">Суммарная их стоимость составляет порядка $1,8 млрд\",</segment>
+		<segment id="35" parent="34" relname="attribution">- сказал собеседник агентства.\n\</segment>
+		<segment id="37" parent="44" relname="attribution">nПо его словам,</segment>
+		<segment id="38" parent="40" relname="span">в случае вступления решения о санкциях в силу все эти контракты будут приостановлены на неопределенный срок,</segment>
+		<segment id="39" parent="38" relname="attribution">как это уже однажды случалось</segment>
+		<segment id="41" parent="42" relname="attribution">.\n\nСобеседник агентства напомнил,</segment>
+		<segment id="42" parent="43" relname="span">что крупный пакет оружейных контрактов стоимостью 1,3 млрд евро был подписан в январе прошлого года во время визита в Москву министра обороны Ливии Юниса Джабера.</segment>
+		<segment id="46" parent="50" relname="span">\"Ливия, в частности, закупила большую партию стрелкового оружия, шесть учебно-боевых самолетов Як-130, различную бронетехнику, а также запчасти к ранее поставленному вооружению\",</segment>
+		<segment id="47" parent="48" relname="attribution">- сказал он</segment>
+		<segment id="48" parent="49" relname="span">.\n\</segment>
+		<segment id="51" parent="59" relname="span">nОжидалось, что Ливия станет первым зарубежным покупателем нового российского многофункционального истребителя Су-35.</segment>
+		<segment id="52" parent="54" relname="joint">Контракт на поставку в Ливию по разным данным от 12 до 15 истребителей Су-35 полностью согласован</segment>
+		<segment id="53" parent="54" relname="joint">и готов к подписанию.</segment>
+		<segment id="55" parent="57" relname="joint">Его стоимость оценивается в $800 млн,</segment>
+		<segment id="56" parent="57" relname="joint">отметил источник.\n\nКроме того, в стадии подготовки находятся контракты по новому боевому вертолету Ка-52 \"Аллигатор\", зенитному ракетно-пушечному комплексу (ЗРПК) \"Панцирь-С1\" и зенитной ракетной системе С-300ПМУ2 \"Фаворит\".</segment>
+		<segment id="60" parent="64" relname="joint">Сообщалось, что Триполи планирует закупить не менее 10 вертолетов Ка-52, порядка 40 комплексов \"Панцирь-С1\" и два дивизиона С-300ПМУ2 \"Фаворит\" на сумму более $1 млрд.\n\</segment>
+		<segment id="61" parent="62" relname="attribution">nПо словам собеседника агентства,</segment>
+		<segment id="62" parent="63" relname="span">Ливия проявляет также большой интерес к новейшей российской зенитной ракетной системе С-400 \"Триумф\", танкам Т-90С, подводным лодкам проекта 636, скоростным ракетным катерам типа \"Молния\", ракетным системам залпового огня \"Град\", другому вооружению.\n\</segment>
+		<segment id="65" parent="66" relname="attribution">nПо словам источника,</segment>
+		<segment id="66" parent="67" relname="span">в общем объеме российско-ливийского военно-технического сотрудничества значительная часть приходится на поставку запчастей и модернизацию находящейся на вооружении ливийской армии боевой техники советского (российского) производства.\n\n\"В период с 1981 по 1985 годы Советский Союз поставил в Ливию около 350 боевых самолетов, в том числе 130 истребителей МиГ-23, 70 - МиГ-21, шесть фронтовых бомбардировщиков Су-24 и шесть дальних бомбардировщиков Ту-22.</segment>
+		<segment id="68" parent="67" relname="elaboration">На вооружении ливийской армии находится порядка 4 тыс. единиц советской бронетехники, большое количество зенитных ракетных комплексов, а также военно-морская техника, другое вооружение\",</segment>
+		<segment id="70" parent="69" relname="attribution">- сказал он.\n\nИсточник: https://www.newsru.com/russia/27Feb2011/poteri.html\n</segment>
+		<group id="29" type="multinuc" parent="76" relname="preparation"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="36" type="span" parent="76" relname="joint"/>
+		<group id="34" type="multinuc" parent="36" relname="span"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="45" type="span" parent="75" relname="joint"/>
+		<group id="44" type="multinuc" parent="45" relname="span"/>
+		<group id="40" type="span" parent="44" relname="joint"/>
+		<group id="43" type="span" parent="44" relname="joint"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="50" type="span" parent="74" relname="joint"/>
+		<group id="49" type="span" parent="46" relname="attribution"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="59" type="span" parent="73" relname="joint"/>
+		<group id="58" type="multinuc" parent="51" relname="elaboration"/>
+		<group id="54" type="multinuc" parent="58" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="64" type="multinuc" parent="72" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="69" type="span" parent="71" relname="span"/>
+		<group id="67" type="span" parent="69" relname="span"/>
+		<group id="77" type="span"/>
+	</body>
+</rst>

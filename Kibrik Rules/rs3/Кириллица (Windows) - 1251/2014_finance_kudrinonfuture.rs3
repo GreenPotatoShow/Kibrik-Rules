@@ -1,0 +1,346 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="163" parent="166" relname="attribution">Кудрин рассказал о неизбежном:</segment>
+		<segment id="164" parent="165" relname="cause-effect">годы стагнации, повышение налогов и \"Лада Калина\"\n\nОкно возможностей для реформ и восстановления экономического роста в России захлопнулось под напором санкций Запада и нового электорального цикла,</segment>
+		<segment id="165" parent="166" relname="span">и стране грозит несколько лет стагнации на грани рецессии в отсутствие политической воли к переменам.</segment>
+		<segment id="168" parent="169" relname="attribution">Так считает бывший министр финансов РФ Алексей Кудрин,</segment>
+		<segment id="169" parent="170" relname="span">ушедший в отставку в сентябре 2011 года.</segment>
+		<segment id="172" parent="175" relname="attribution">Сейчас он возглавляет общественную организацию \"Комитет гражданских инициатив\" (КГИ).\n\nПо оценке Кудрина, прозвучавшей на инвестиционном саммите агентства Reuters,</segment>
+		<segment id="173" parent="175" relname="joint">санкции Запада будут стоить России по 1% ВВП в текущем и следующем годах,</segment>
+		<segment id="174" parent="175" relname="joint">а потом эффект начнет ослабевать.</segment>
+		<segment id="177" parent="179" relname="span">Он поставил под сомнение утвержденный вместе с бюджетом прогноз роста российской экономики в 2015-2017 годах на 1,2%, 2,3% и 3% соответственно.\n\n\"Это все, на мой взгляд, без проведения реформ</segment>
+		<segment id="178" parent="177" relname="interpretation-evaluation">- достаточно сомнительные показатели...</segment>
+		<segment id="180" parent="181" relname="comparison">Будет стагнация, как сейчас.</segment>
+		<segment id="182" parent="184" relname="span">Рецессия может быть.</segment>
+		<segment id="183" parent="182" relname="elaboration">Мы будем все время на уровне рецессии балансировать\",</segment>
+		<segment id="185" parent="188" relname="attribution">- сказал Кудрин</segment>
+		<segment id="186" parent="187" relname="attribution">и назвал</segment>
+		<segment id="187" parent="188" relname="span">заложенный в бюджет прогноз цены на нефть в 100 долларов за баррель на три года \"завышенным и достаточно оптимистичным\".\n\</segment>
+		<segment id="194" parent="201" relname="attribution">nВ своем выступлении Алексей Кудрин также подчеркнул,</segment>
+		<segment id="195" parent="197" relname="span">что период роста мировых цен на нефть,</segment>
+		<segment id="196" parent="195" relname="background">на который пришелся экономический бум первых 15 лет Владимира Путина у власти,</segment>
+		<segment id="198" parent="200" relname="joint">остался в прошлом</segment>
+		<segment id="199" parent="200" relname="joint">и не вернется в ближайшие 20-30 лет.</segment>
+		<segment id="203" parent="205" relname="span">К тому же предстоящую пятилетку России придется провести под санкциями,</segment>
+		<segment id="204" parent="203" relname="condition">что лишь усугубит ситуацию,</segment>
+		<segment id="206" parent="207" relname="cause-effect">поскольку лишит российскую экономику основ ее роста - западных технологий и капитала.\n\n\"Есть предположения, что мы сами произведем,</segment>
+		<segment id="207" parent="208" relname="span">сами профинансируем.</segment>
+		<segment id="210" parent="211" relname="span">Эти возможности существенно уменьшены.</segment>
+		<segment id="213" parent="214" relname="attribution">Я бы сказал,</segment>
+		<segment id="214" parent="215" relname="span">что мы с \"Тойоты\" и БМВ российской сборки пересели на \"Ладу Калину\".</segment>
+		<segment id="216" parent="215" relname="interpretation-evaluation">Точнее, пересядем.</segment>
+		<segment id="218" parent="226" relname="contrast">Этот процесс еще не завершился</segment>
+		<segment id="219" parent="221" relname="span">- но в случае,</segment>
+		<segment id="220" parent="219" relname="condition">если эти санкции,</segment>
+		<segment id="222" parent="224" relname="span">этот процесс продлится,</segment>
+		<segment id="223" parent="222" relname="elaboration">- ну года четыре-пять\",</segment>
+		<segment id="228" parent="227" relname="attribution">- сказал он.\n\n</segment>
+		<segment id="232" parent="241" relname="attribution">\"Я считаю,</segment>
+		<segment id="233" parent="241" relname="contrast">что два-три года - это самый минимальный срок.</segment>
+		<segment id="234" parent="235" relname="attribution">Но я предполагаю,</segment>
+		<segment id="235" parent="236" relname="span">что развитие событий может быть и другим,</segment>
+		<segment id="237" parent="238" relname="attribution">и санкции могут и продлиться\".\n\nДруг Путина Кудрин признал,</segment>
+		<segment id="238" parent="239" relname="span">что в последнее время выпал из узкого круга людей, влияющих на принятие решений в России.</segment>
+		<segment id="243" parent="255" relname="joint">Экономическую политику он назвал \"хаотичной\"</segment>
+		<segment id="244" parent="248" relname="joint">и предрек повышение налогов</segment>
+		<segment id="245" parent="247" relname="span">и отказ от части социальных обязательств</segment>
+		<segment id="246" parent="245" relname="elaboration">в ответ на кризис.\n\n\"Значительная часть элиты поддерживает действия Путина на Украине,</segment>
+		<segment id="249" parent="253" relname="span">но не понимает, как это скажется на общеэкономической, институциональной основе общества и политической системе.</segment>
+		<segment id="250" parent="252" relname="joint">Они не понимают, что будет происходить с точки зрения развития нашего общества и российской экономики в ближайшие годы</segment>
+		<segment id="251" parent="252" relname="joint">и какая модель в экономике и политической системе установится\".\n\</segment>
+		<segment id="257" parent="271" relname="span">nНа санкции Запада за аннексию Крыма и вмешательство в дела Украины</segment>
+		<segment id="258" parent="259" relname="cause-effect">Кремль ответил запретом на импорт части западного продовольствия, программой импортозамещения и заявлением о развороте торговли на Восток</segment>
+		<segment id="259" parent="260" relname="span">.\n\nКудрин предлагает готовиться к затяжному противостоянию,</segment>
+		<segment id="261" parent="262" relname="attribution">но полагает,</segment>
+		<segment id="262" parent="263" relname="span">что выбора в пользу изоляции еще можно избежать.\n\nНа полноценную смену модели развития и переориентацию внешней торговли потребуется \"лет двадцать\",</segment>
+		<segment id="264" parent="267" relname="attribution">предупредил Кудрин,</segment>
+		<segment id="265" parent="266" relname="attribution">добавив,</segment>
+		<segment id="266" parent="267" relname="span">что в ближайшие десятилетия Россия не сможет развиваться без западных технологий и международной кооперации.</segment>
+		<segment id="272" parent="286" relname="contrast">Первой пострадает ключевая отрасль российской экономики - нефтедобывающая.\n\nСокращение доходов обостряет нужду в структурных переменах,</segment>
+		<segment id="273" parent="275" relname="span">однако приближение выборов парламента в 2016 году и президента в 2018-м уменьшает шансы на то, что во власти все же пробудится воля к болезненным реформам,</segment>
+		<segment id="274" parent="273" relname="elaboration">задремавшая в сытые нулевые.\n\n\"Политически - это самый неблагоприятный период проводить такие реформы.</segment>
+		<segment id="278" parent="280" relname="span">То окно возможностей, которое было, - закрылось.</segment>
+		<segment id="279" parent="278" relname="elaboration">Этой осенью.</segment>
+		<segment id="281" parent="282" relname="joint">И сейчас уже все начинают думать о будущих выборах.</segment>
+		<segment id="283" parent="282" relname="interpretation-evaluation">Это очевидно\",</segment>
+		<segment id="287" parent="286" relname="attribution">- сказал Кудрин</segment>
+		<segment id="291" parent="315" relname="contrast">.\n\</segment>
+		<segment id="292" parent="294" relname="span">nОднако переход от слов к делу может затянуться еще на несколько лет,</segment>
+		<segment id="293" parent="292" relname="elaboration">оценил экс-министр финансов только что утвержденный бюджет на трехлетку.</segment>
+		<segment id="295" parent="299" relname="joint">\"Мы прошли еще одну ступеньку,</segment>
+		<segment id="296" parent="298" relname="span">и в бюджете эти меры не заложены,</segment>
+		<segment id="297" parent="296" relname="cause-effect">с точки зрения структурной и институциональной политики они не объявлены.</segment>
+		<segment id="300" parent="306" relname="span">К тому моменту, когда мы подойдем к осознанию необходимости,</segment>
+		<segment id="301" parent="304" relname="condition">пока мы их разработаем,</segment>
+		<segment id="302" parent="304" relname="span">потом внедрим</segment>
+		<segment id="303" parent="302" relname="elaboration">- уже потребуется год-полтора.</segment>
+		<segment id="307" parent="309" relname="joint">Пока этот процесс не начался,</segment>
+		<segment id="308" parent="309" relname="joint">и через три года не будет ярких, существенных темпов роста\",</segment>
+		<segment id="312" parent="311" relname="attribution">- сказал он.\n\n</segment>
+		<segment id="316" parent="318" relname="span">\"Все эти задачи были известны два года назад, три года назад,</segment>
+		<segment id="317" parent="316" relname="elaboration">известны они и сейчас.</segment>
+		<segment id="319" parent="318" relname="elaboration">Эти вопросы эксперты неоднократно докладывали правительству.</segment>
+		<segment id="321" parent="323" relname="span">Но если оно не воспринимается,</segment>
+		<segment id="322" parent="321" relname="condition">если нет понимания,</segment>
+		<segment id="324" parent="325" relname="condition">что если этого не сделать,</segment>
+		<segment id="325" parent="326" relname="span">то тогда и роста не будет,</segment>
+		<segment id="327" parent="329" relname="span">то тогда первое - не хватает политической воли,</segment>
+		<segment id="328" parent="327" relname="elaboration">второе - тех, кто бы эту модель воплощал\".\n\n\"У нас недооценивают масштаб возможностей, который нам дал мировой рынок в последние годы.</segment>
+		<segment id="332" parent="334" relname="span">Кредиты даже нефинансовому сектору сегодня - 620 миллиардов долларов.</segment>
+		<segment id="333" parent="332" relname="interpretation-evaluation">Это существенно.</segment>
+		<segment id="335" parent="341" relname="span">Это поднимало все отрасли экономики в последние годы.</segment>
+		<segment id="336" parent="340" relname="span">Теперь представим, что их нет,</segment>
+		<segment id="337" parent="338" relname="cause-effect">- это была бы другая экономика\".\n\nЗаместить выпадающие доходы и кредит без непопулярных фискальных мер и расходования резервов будет непросто.\n\n\"Резервный фонд, я предполагаю,</segment>
+		<segment id="338" parent="339" relname="span">будет тратиться уже в 2015 году\",</segment>
+		<segment id="345" parent="344" relname="attribution">- сказал Кудрин.\n\</segment>
+		<segment id="347" parent="349" relname="joint">nЗанимать за границей Россия сможет не раньше, чем через три года,</segment>
+		<segment id="348" parent="349" relname="joint">и в значительно меньших масштабах.\n\n\"Субсидии экономике доходят до 6% ВВП в общем консолидированном бюджете.</segment>
+		<segment id="350" parent="349" relname="interpretation-evaluation">Это - существенный резерв для сокращения и перераспределения\".</segment>
+		<segment id="352" parent="354" relname="span">\"(Путинские майские) указы нужно корректировать,</segment>
+		<segment id="353" parent="352" relname="cause-effect">поскольку мы находимся в особой ситуации.</segment>
+		<segment id="355" parent="356" relname="joint">Нужно пересматривать существенно политику, особенно в части социальных расходов на ближайшие годы.</segment>
+		<segment id="357" parent="367" relname="span">Это обычная практика,</segment>
+		<segment id="358" parent="366" relname="span">когда возникают такого рода масштабные риски, в том числе связанные с санкциями.</segment>
+		<segment id="359" parent="361" relname="contrast">Не может экономика стагнировать,</segment>
+		<segment id="360" parent="361" relname="contrast">а политика оставаться такой, будто ничего не изменилось\".\n\nНо и этого недостаточно</segment>
+		<segment id="362" parent="364" relname="span">- уже с 2016 года правительству придется повысить налоги.\n\nНаселение переживет усиление фискальной нагрузки и падение уровня жизни</segment>
+		<segment id="363" parent="362" relname="cause-effect">благодаря консолидации общества вокруг Путина после украинских событий.</segment>
+		<segment id="369" parent="371" relname="span">\"Мне трудно предположить, что какое-то может быть там социальное беспокойство или недовольство на этом фоне.</segment>
+		<segment id="370" parent="369" relname="cause-effect">Потому что присутствует необычный эффект консолидации вокруг политических событий\".</segment>
+		<segment id="372" parent="374" relname="span">\"Сколько он продлится</segment>
+		<segment id="373" parent="372" relname="interpretation-evaluation">- мне трудно предсказать.</segment>
+		<segment id="375" parent="379" relname="span">Возможно, долго\".\n\</segment>
+		<segment id="376" parent="378" relname="sequence">nНапомним, Алексей Кудрин в начале 1990-х годов работал в администрации мэра Санкт-Петербурга Анатолия Собчака вместе с Владимиром Путиным,</segment>
+		<segment id="377" parent="378" relname="sequence">а в 1996-1997 годах совмещал пост заместителя главы администрации президента Ельцина с руководством контрольно-ревизионным управлением.</segment>
+		<segment id="380" parent="386" relname="joint">Кудрин и Путин,</segment>
+		<segment id="381" parent="385" relname="same-unit">также перешедший в 1996 году на работу из Санкт-Петербурга в Москву,</segment>
+		<segment id="382" parent="384" relname="joint">считались членами \"команды Чубайса\".\n\nКудрин был назначен на должность министра финансов 18 мая 2000 года</segment>
+		<segment id="383" parent="384" relname="joint">и занимал этот пост в течение 11 лет.</segment>
+		<segment id="389" parent="390" relname="joint">Кроме того, он был заместителем председателя правительства в 2000-2004 и в 2007-2011 годах.</segment>
+		<segment id="392" parent="401" relname="attribution">Эксперты считают,</segment>
+		<segment id="393" parent="401" relname="joint">что на посту главы Минфина он жестко управлял финансами страны,</segment>
+		<segment id="394" parent="396" relname="joint">проводил налоговую и бюджетную реформы</segment>
+		<segment id="395" parent="396" relname="joint">и оставался приверженцем свободного рынка.\n\nВ 2011 году Дмитрий Медведев,</segment>
+		<segment id="399" parent="400" relname="span">занимавший тогда пост президента России, отправил Алексея Кудрина в отставку.</segment>
+		<segment id="403" parent="412" relname="attribution">Причиной увольнения стало заявление Кудрина о том,</segment>
+		<segment id="404" parent="410" relname="joint">что он не согласен с политикой президента</segment>
+		<segment id="405" parent="409" relname="span">и не видит себя в правительстве,</segment>
+		<segment id="406" parent="408" relname="span">которое может возглавить Медведев.\n\</segment>
+		<segment id="407" parent="406" relname="background">nВ 2013 году во время прямой линии с народом Владимир Путин признался,</segment>
+		<segment id="411" parent="412" relname="span">что они с бывшим министром финансов \"часто вместе полемизируют\".</segment>
+		<segment id="418" parent="421" relname="attribution">Президент также добавил,</segment>
+		<segment id="419" parent="421" relname="contrast">что Алексею Кудрину предлагали вернуться на госслужбу,</segment>
+		<segment id="420" parent="421" relname="contrast">но тот отказался.</segment>
+		<segment id="423" parent="425" relname="span">\"Сачок, работать не хочет\",</segment>
+		<segment id="424" parent="423" relname="attribution">- пошутил тогда глава государства.</segment>
+		<segment id="426" parent="427" relname="sequence">Позднее, в интервью программе \"Вести\", президент не стал раскрывать, какая государственная должность предлагалась бывшему министру финансов,</segment>
+		<segment id="429" parent="440" relname="attribution">но сообщил,</segment>
+		<segment id="430" parent="432" relname="joint">что регулярно встречается с Кудриным \"в приватном порядке\".\n\</segment>
+		<segment id="431" parent="432" relname="joint">nВ 2014 году Кудрин несколько раз появлялся на совещаниях по экономике с участием главы государства.</segment>
+		<segment id="433" parent="438" relname="preparation">В конце апреля,</segment>
+		<segment id="434" parent="438" relname="joint">когда академик и советник президента Сергей Глазьев написал в Минфин письмо с предложением в ответ на возможное расширение санкций со стороны США и Евросоюза отказаться от доллара и евро,</segment>
+		<segment id="435" parent="437" relname="joint">перейти к самоизоляции</segment>
+		<segment id="436" parent="437" relname="joint">и ввести налог на сверхбогатых,</segment>
+		<segment id="442" parent="443" relname="attribution">Алексей Кудрин заявил:</segment>
+		<segment id="443" parent="444" relname="span">\"Сергей Глазьев предлагает</segment>
+		<segment id="446" parent="445" relname="background">наложить на Россию санкции похлеще, чем санкции Запада\".\n\nВ конце мая экс-министр отметил,</segment>
+		<segment id="448" parent="455" relname="condition">что \"прошел период сверхвысоких прибылей и доходов\",</segment>
+		<segment id="449" parent="455" relname="comparison">страна переходит к периоду нормальных доходов в газовой отрасли</segment>
+		<segment id="450" parent="454" relname="span">- таких же, как в других отраслях\".</segment>
+		<segment id="451" parent="453" relname="span">Цена на газ,</segment>
+		<segment id="452" parent="451" relname="attribution">по его мнению,</segment>
+		<segment id="458" parent="460" relname="span">все равно будет снижаться во всем мире,</segment>
+		<segment id="459" parent="458" relname="cause-effect">особенно после начала широкого использования сланцевого газа и использования возможностей по перевозке сжиженного газа в любую точку мира.\n\</segment>
+		<segment id="463" parent="472" relname="attribution">nВ конце июня в большом интервью ИТАР-ТАСС бывший министр финансов заявил,</segment>
+		<segment id="464" parent="470" relname="span">что правительство принимает решения,</segment>
+		<segment id="465" parent="469" relname="span">уменьшающие рост экономики,</segment>
+		<segment id="466" parent="467" relname="condition">когда его надо поднимать.</segment>
+		<segment id="467" parent="468" relname="span">Тогда он также отметил,</segment>
+		<segment id="471" parent="472" relname="span">что дальнейшая эскалация конфликта на Украине и военное вмешательство в ситуацию на востоке этой страны может стоить россиянам до одной пятой их доходов в результате экономических санкций Запада и гонки вооружений.</segment>
+		<segment id="474" parent="475" relname="joint">В России есть силы, которые желали бы изолировать страну от внешнего мира,</segment>
+		<segment id="476" parent="478" relname="joint">однако представители бизнеса хотели бы продолжать работать</segment>
+		<segment id="477" parent="478" relname="joint">и инвестировать на глобальных рынках.\n\nИсточник: https://www.newsru.com/finance/23Sep2014/kudrinonfuture.html\n</segment>
+		<group id="231" type="multinuc" parent="485" relname="joint"/>
+		<group id="193" type="span" parent="231" relname="joint"/>
+		<group id="171" type="span" parent="192" relname="preparation"/>
+		<group id="167" type="span" parent="171" relname="span"/>
+		<group id="166" type="span" parent="167" relname="span"/>
+		<group id="170" type="span" parent="167" relname="attribution"/>
+		<group id="192" type="multinuc" parent="193" relname="span"/>
+		<group id="176" type="span" parent="192" relname="joint"/>
+		<group id="175" type="multinuc" parent="176" relname="span"/>
+		<group id="191" type="multinuc" parent="192" relname="joint"/>
+		<group id="181" type="multinuc" parent="191" relname="joint"/>
+		<group id="179" type="span" parent="181" relname="comparison"/>
+		<group id="190" type="span" parent="191" relname="joint"/>
+		<group id="184" type="span" parent="190" relname="span"/>
+		<group id="189" type="span" parent="184" relname="attribution"/>
+		<group id="188" type="span" parent="189" relname="span"/>
+		<group id="230" type="span" parent="231" relname="joint"/>
+		<group id="212" type="multinuc" parent="230" relname="span"/>
+		<group id="202" type="span" parent="212" relname="joint"/>
+		<group id="201" type="multinuc" parent="202" relname="span"/>
+		<group id="197" type="span" parent="201" relname="same-unit"/>
+		<group id="200" type="multinuc" parent="201" relname="same-unit"/>
+		<group id="211" type="span" parent="212" relname="joint"/>
+		<group id="209" type="span" parent="210" relname="cause-effect"/>
+		<group id="205" type="span" parent="209" relname="span"/>
+		<group id="208" type="span" parent="205" relname="cause-effect"/>
+		<group id="229" type="span" parent="212" relname="interpretation-evaluation"/>
+		<group id="227" type="span" parent="229" relname="span"/>
+		<group id="217" type="span" parent="227" relname="span"/>
+		<group id="215" type="span" parent="217" relname="span"/>
+		<group id="226" type="multinuc" parent="217" relname="elaboration"/>
+		<group id="225" type="span" parent="226" relname="contrast"/>
+		<group id="221" type="span" parent="224" relname="condition"/>
+		<group id="224" type="span" parent="225" relname="span"/>
+		<group id="484" type="multinuc" parent="485" relname="joint"/>
+		<group id="290" type="span" parent="484" relname="joint"/>
+		<group id="256" type="multinuc" parent="290" relname="span"/>
+		<group id="242" type="span" parent="256" relname="joint"/>
+		<group id="241" type="multinuc" parent="242" relname="span"/>
+		<group id="240" type="multinuc" parent="241" relname="contrast"/>
+		<group id="236" type="span" parent="240" relname="joint"/>
+		<group id="239" type="span" parent="240" relname="joint"/>
+		<group id="255" type="multinuc" parent="256" relname="joint"/>
+		<group id="254" type="multinuc" parent="255" relname="joint"/>
+		<group id="248" type="multinuc" parent="254" relname="contrast"/>
+		<group id="247" type="span" parent="248" relname="joint"/>
+		<group id="253" type="span" parent="254" relname="contrast"/>
+		<group id="252" type="multinuc" parent="249" relname="interpretation-evaluation"/>
+		<group id="289" type="span" parent="256" relname="interpretation-evaluation"/>
+		<group id="271" type="span" parent="289" relname="span"/>
+		<group id="270" type="multinuc" parent="257" relname="elaboration"/>
+		<group id="260" type="span" parent="270" relname="contrast"/>
+		<group id="269" type="span" parent="270" relname="contrast"/>
+		<group id="263" type="span" parent="269" relname="span"/>
+		<group id="268" type="span" parent="263" relname="condition"/>
+		<group id="267" type="span" parent="268" relname="span"/>
+		<group id="288" type="span" parent="271" relname="interpretation-evaluation"/>
+		<group id="286" type="multinuc" parent="288" relname="span"/>
+		<group id="285" type="multinuc" parent="286" relname="contrast"/>
+		<group id="275" type="span" parent="285" relname="restatement"/>
+		<group id="284" type="span" parent="285" relname="restatement"/>
+		<group id="282" type="multinuc" parent="284" relname="span"/>
+		<group id="280" type="span" parent="282" relname="joint"/>
+		<group id="483" type="multinuc" parent="484" relname="joint"/>
+		<group id="315" type="multinuc" parent="483" relname="joint"/>
+		<group id="314" type="span" parent="315" relname="contrast"/>
+		<group id="294" type="span" parent="314" relname="span"/>
+		<group id="313" type="span" parent="294" relname="elaboration"/>
+		<group id="311" type="span" parent="313" relname="span"/>
+		<group id="299" type="multinuc" parent="311" relname="span"/>
+		<group id="298" type="span" parent="299" relname="joint"/>
+		<group id="310" type="span" parent="299" relname="elaboration"/>
+		<group id="306" type="span" parent="310" relname="span"/>
+		<group id="305" type="span" parent="300" relname="condition"/>
+		<group id="304" type="span" parent="305" relname="span"/>
+		<group id="309" type="multinuc" parent="306" relname="elaboration"/>
+		<group id="482" type="multinuc" parent="483" relname="joint"/>
+		<group id="346" type="span" parent="482" relname="joint"/>
+		<group id="344" type="multinuc" parent="346" relname="span"/>
+		<group id="320" type="span" parent="344" relname="contrast"/>
+		<group id="318" type="span" parent="320" relname="span"/>
+		<group id="343" type="span" parent="344" relname="contrast"/>
+		<group id="331" type="span" parent="342" relname="solutionhood"/>
+		<group id="323" type="span" parent="330" relname="condition"/>
+		<group id="330" type="span" parent="331" relname="span"/>
+		<group id="326" type="span" parent="329" relname="condition"/>
+		<group id="329" type="span" parent="330" relname="span"/>
+		<group id="342" type="span" parent="343" relname="span"/>
+		<group id="334" type="span" parent="342" relname="span"/>
+		<group id="341" type="span" parent="334" relname="elaboration"/>
+		<group id="340" type="span" parent="335" relname="elaboration"/>
+		<group id="339" type="span" parent="336" relname="cause-effect"/>
+		<group id="481" type="multinuc" parent="482" relname="joint"/>
+		<group id="417" type="multinuc" parent="481" relname="joint"/>
+		<group id="351" type="span" parent="417" relname="joint"/>
+		<group id="349" type="multinuc" parent="351" relname="span"/>
+		<group id="416" type="multinuc" parent="417" relname="joint"/>
+		<group id="368" type="multinuc" parent="416" relname="joint"/>
+		<group id="356" type="multinuc" parent="368" relname="joint"/>
+		<group id="354" type="span" parent="356" relname="joint"/>
+		<group id="367" type="span" parent="368" relname="joint"/>
+		<group id="366" type="span" parent="357" relname="evidence"/>
+		<group id="365" type="span" parent="358" relname="evidence"/>
+		<group id="361" type="multinuc" parent="365" relname="span"/>
+		<group id="364" type="span" parent="361" relname="cause-effect"/>
+		<group id="415" type="multinuc" parent="416" relname="joint"/>
+		<group id="391" type="multinuc" parent="415" relname="joint"/>
+		<group id="371" type="span" parent="391" relname="joint"/>
+		<group id="390" type="multinuc" parent="391" relname="joint"/>
+		<group id="388" type="span" parent="390" relname="joint"/>
+		<group id="374" type="span" parent="388" relname="span"/>
+		<group id="387" type="multinuc" parent="374" relname="elaboration"/>
+		<group id="379" type="span" parent="387" relname="joint"/>
+		<group id="378" type="multinuc" parent="375" relname="cause-effect"/>
+		<group id="386" type="multinuc" parent="387" relname="joint"/>
+		<group id="385" type="multinuc" parent="386" relname="joint"/>
+		<group id="384" type="multinuc" parent="385" relname="same-unit"/>
+		<group id="414" type="span" parent="415" relname="joint"/>
+		<group id="402" type="span" parent="414" relname="span"/>
+		<group id="401" type="multinuc" parent="402" relname="span"/>
+		<group id="400" type="span" parent="401" relname="joint"/>
+		<group id="396" type="multinuc" parent="399" relname="cause-effect"/>
+		<group id="413" type="span" parent="402" relname="cause-effect"/>
+		<group id="412" type="span" parent="413" relname="span"/>
+		<group id="410" type="multinuc" parent="411" relname="attribution"/>
+		<group id="409" type="span" parent="410" relname="joint"/>
+		<group id="408" type="span" parent="405" relname="elaboration"/>
+		<group id="480" type="multinuc" parent="481" relname="joint"/>
+		<group id="462" type="multinuc" parent="480" relname="comparison"/>
+		<group id="428" type="span" parent="462" relname="contrast"/>
+		<group id="422" type="span" parent="428" relname="span"/>
+		<group id="421" type="multinuc" parent="422" relname="span"/>
+		<group id="427" type="multinuc" parent="422" relname="elaboration"/>
+		<group id="425" type="span" parent="427" relname="sequence"/>
+		<group id="461" type="span" parent="462" relname="contrast"/>
+		<group id="457" type="span" parent="461" relname="span"/>
+		<group id="447" type="span" parent="457" relname="span"/>
+		<group id="445" type="span" parent="447" relname="span"/>
+		<group id="441" type="span" parent="445" relname="span"/>
+		<group id="440" type="multinuc" parent="441" relname="span"/>
+		<group id="432" type="multinuc" parent="440" relname="joint"/>
+		<group id="439" type="span" parent="440" relname="joint"/>
+		<group id="438" type="multinuc" parent="439" relname="span"/>
+		<group id="437" type="multinuc" parent="438" relname="joint"/>
+		<group id="444" type="span" parent="441" relname="attribution"/>
+		<group id="456" type="span" parent="447" relname="background"/>
+		<group id="455" type="multinuc" parent="456" relname="span"/>
+		<group id="454" type="span" parent="455" relname="comparison"/>
+		<group id="453" type="span" parent="450" relname="elaboration"/>
+		<group id="460" type="span" parent="457" relname="background"/>
+		<group id="479" type="multinuc" parent="480" relname="comparison"/>
+		<group id="475" type="multinuc" parent="479" relname="contrast"/>
+		<group id="473" type="span" parent="475" relname="joint"/>
+		<group id="472" type="span" parent="473" relname="span"/>
+		<group id="470" type="span" parent="471" relname="attribution"/>
+		<group id="469" type="span" parent="464" relname="elaboration"/>
+		<group id="468" type="span" parent="465" relname="condition"/>
+		<group id="478" type="multinuc" parent="479" relname="contrast"/>
+		<group id="485" type="multinuc"/>
+	</body>
+</rst>

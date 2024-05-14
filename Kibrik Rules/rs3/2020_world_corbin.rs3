@@ -1,0 +1,119 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="50" parent="54" relname="span">Бывшего лидера лейбористов Джереми Корбина временно исключили из партии</segment>
+		<segment id="51" parent="53" relname="span">из-за скандала вокруг антисемитизма\n\nЛейбористская партия приостановила членство своего бывшего лидера Джереми Корбина</segment>
+		<segment id="52" parent="51" relname="cause-effect">из-за скандала вокруг антисемитизма,</segment>
+		<segment id="55" parent="56" relname="span">сообщает Sky News.\n\n\"В свете его сегодняшних комментариев и его неспособности впоследствии отказаться от них Лейбористская партия приостановила членство Джереми Корбина в партии до проведения расследования\",</segment>
+		<segment id="57" parent="65" relname="span">- сообщил представитель лейбористов.\n\nРанее британская Комиссия по равенству и правам человека представила доклад,</segment>
+		<segment id="58" parent="59" relname="attribution">в котором утверждалось,</segment>
+		<segment id="59" parent="60" relname="span">что Лейбористская партия проявила \"грубую халатность\"</segment>
+		<segment id="61" parent="63" relname="span">и не смогла должным образом отреагировать на жалобы на антисемитизм,</segment>
+		<segment id="62" parent="61" relname="condition">когда объединение возглавлял Корбин.</segment>
+		<segment id="67" parent="73" relname="span">Кроме того, партию обвинили в неспособности обеспечить надлежащую подготовку тех, кто занимается такими жалобами и преследовании тех, кто их подавал.\n\</segment>
+		<segment id="68" parent="69" relname="attribution">nСогласно заключению, опубликованному на сайте комиссии,</segment>
+		<segment id="69" parent="70" relname="span">Лейбористская партия \"виновна в харассменте и дискриминации\",</segment>
+		<segment id="71" parent="70" relname="attribution">передает NEWSru Israel.</segment>
+		<segment id="75" parent="79" relname="joint">Комиссия отдала распоряжение руководству партии в течение шести недель предоставить план действий по исправлению ситуации.\n\nНынешний лидер лейбористов Кир Стармер после публикации доклада извинился перед еврейской общиной,</segment>
+		<segment id="76" parent="78" relname="joint">пообещал выполнить все рекомендации комиссии</segment>
+		<segment id="77" parent="78" relname="joint">и заявил о грядущем \"изменении культуры\" в партии,</segment>
+		<segment id="80" parent="79" relname="attribution">пишет \"Новая газета\".</segment>
+		<segment id="82" parent="83" relname="restatement">Его предшественник Джереми Корбин назвал обвинения комиссии \"преувеличенными оппонентами внутри и вне партии по политическим причинам\".</segment>
+		<segment id="84" parent="92" relname="span">Это и послужило причиной отстранения.\n\</segment>
+		<segment id="85" parent="90" relname="attribution">nПо словам Корбина,</segment>
+		<segment id="86" parent="90" relname="span">он \"гордится тем, что является членом Лейбористской партии\",</segment>
+		<segment id="87" parent="89" relname="span">к которой присоединился,</segment>
+		<segment id="88" parent="87" relname="condition">когда ему было 16 лет.</segment>
+		<segment id="93" parent="95" relname="joint">\"Я всю жизнь боролся с расизмом,</segment>
+		<segment id="94" parent="95" relname="joint">и я буду бороться с расизмом до конца моих дней\",</segment>
+		<segment id="96" parent="95" relname="attribution">- подчеркнул политик</segment>
+		<segment id="98" parent="100" relname="joint">.\n\nСреди тех, кого ранее отстраняли от членства в партии по обвинению в антисемитизме,</segment>
+		<segment id="99" parent="100" relname="joint">были депутат Наз Шах, бывший мэр Лондона Кен Ливингстон и друг Корбина депутат Крис Уильямсон.</segment>
+		<segment id="101" parent="107" relname="sequence">Наз Шах опубликовала на своей страничке в Facebook оскорбительный для Израиля пост,</segment>
+		<segment id="102" parent="105" relname="attribution">Ливингстон заявил,</segment>
+		<segment id="103" parent="105" relname="sequence">что Гитлер в 1932 году планировал переселить евреев в Палестину,</segment>
+		<segment id="104" parent="105" relname="sequence">а Уильямсон поддержал музыканта-антисемита.\n\</segment>
+		<segment id="109" parent="111" relname="span">nОтметим, что Наз Шах неоднократно публиковала в интернете антисемитские посты,</segment>
+		<segment id="110" parent="109" relname="cause-effect">за что вынуждена была извиняться еще в 2016 году.</segment>
+		<segment id="112" parent="117" relname="attribution">Тогда речь шла о том,</segment>
+		<segment id="113" parent="117" relname="span">что в 2014 году, еще до работы в парламенте,</segment>
+		<segment id="114" parent="116" relname="span">Наз Шах опубликовала в Facebook карту Израиля,</segment>
+		<segment id="115" parent="114" relname="background">наложенную на карту США под заголовком \"Решение для израильско-палестинского конфликта:</segment>
+		<segment id="119" parent="121" relname="span">переместить Израиль в Соединенные Штаты\",</segment>
+		<segment id="120" parent="119" relname="attribution">сообщала Русская служба BBC.</segment>
+		<segment id="124" parent="128" relname="span">Эту карту она подписала:</segment>
+		<segment id="125" parent="126" relname="cause-effect">\"Проблема решена\".\n\nПринося извинения в парламенте два года спустя,</segment>
+		<segment id="126" parent="127" relname="span">Наз Шах оправдывала свой поступок политической обстановкой и накалом страстей.</segment>
+		<segment id="129" parent="131" relname="span">\"Я написала это во время обострения конфликта в Газе в 2014 году,</segment>
+		<segment id="130" parent="129" relname="condition">когда эмоции были накалены вокруг ближневосточного конфликта.</segment>
+		<segment id="132" parent="134" relname="span">Но это не оправдывает оскорбления, которые я допустила,</segment>
+		<segment id="133" parent="132" relname="cause-effect">за что я приношу свои безоговорочные извинения\",</segment>
+		<segment id="137" parent="138" relname="attribution">- сказала она.</segment>
+		<segment id="138" parent="139" relname="span">Извинения парламентарий принесла после того, как партия приостановила ее членство.\n\nИсточник: https://www.newsru.com/world/29Oct2020/corbin.html\n</segment>
+		<group id="74" type="multinuc" parent="146" relname="joint"/>
+		<group id="66" type="span" parent="74" relname="joint"/>
+		<group id="56" type="span" parent="66" relname="span"/>
+		<group id="54" type="span" parent="55" relname="preparation"/>
+		<group id="53" type="span" parent="50" relname="cause-effect"/>
+		<group id="65" type="span" parent="56" relname="attribution"/>
+		<group id="64" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="60" type="span" parent="64" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="72" type="span" parent="67" relname="elaboration"/>
+		<group id="70" type="span" parent="72" relname="span"/>
+		<group id="145" type="multinuc" parent="146" relname="joint"/>
+		<group id="83" type="multinuc" parent="145" relname="joint"/>
+		<group id="81" type="span" parent="83" relname="restatement"/>
+		<group id="79" type="multinuc" parent="81" relname="span"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="144" type="span" parent="145" relname="joint"/>
+		<group id="92" type="span" parent="143" relname="preparation"/>
+		<group id="91" type="span" parent="84" relname="elaboration"/>
+		<group id="90" type="span" parent="91" relname="span"/>
+		<group id="89" type="span" parent="86" relname="background"/>
+		<group id="143" type="multinuc" parent="144" relname="span"/>
+		<group id="97" type="span" parent="143" relname="joint"/>
+		<group id="95" type="multinuc" parent="97" relname="span"/>
+		<group id="142" type="multinuc" parent="143" relname="joint"/>
+		<group id="108" type="multinuc" parent="142" relname="joint"/>
+		<group id="100" type="multinuc" parent="108" relname="joint"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="106" type="span" parent="107" relname="sequence"/>
+		<group id="105" type="multinuc" parent="106" relname="span"/>
+		<group id="141" type="multinuc" parent="142" relname="joint"/>
+		<group id="123" type="multinuc" parent="141" relname="joint"/>
+		<group id="111" type="span" parent="123" relname="comparison"/>
+		<group id="122" type="span" parent="123" relname="comparison"/>
+		<group id="118" type="span" parent="122" relname="span"/>
+		<group id="117" type="span" parent="118" relname="span"/>
+		<group id="116" type="span" parent="113" relname="elaboration"/>
+		<group id="121" type="span" parent="118" relname="elaboration"/>
+		<group id="140" type="span" parent="141" relname="joint"/>
+		<group id="136" type="span" parent="140" relname="span"/>
+		<group id="128" type="span" parent="136" relname="span"/>
+		<group id="127" type="span" parent="124" relname="elaboration"/>
+		<group id="135" type="multinuc" parent="128" relname="elaboration"/>
+		<group id="131" type="span" parent="135" relname="contrast"/>
+		<group id="134" type="span" parent="135" relname="contrast"/>
+		<group id="139" type="span" parent="136" relname="attribution"/>
+		<group id="146" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,66 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="29" relname="span">Минобороны решило создать отечественную боевую экипировку \"второго поколения\"\n\nМинобороны РФ в настоящее время разрабатывает отечественную боевую экипировку \"Боец-21\" для военнослужащих Сухопутных войск, ВДВ и морской пехоты,</segment>
+		<segment id="28" parent="27" relname="attribution">сообщил во вторник представитель 3-го Центрального научно-исследовательского института (ЦНИИ) Минобороны РФ доцент Владимир Бойко.</segment>
+		<segment id="30" parent="31" relname="attribution">По его словам,</segment>
+		<segment id="31" parent="32" relname="span">работы по созданию планируется завершить к 2015 году.\n\n\"Комплект \"второго поколения\" будет включать системы поражения, защиты, управления, жизнеобеспечения и энергообеспечения\",</segment>
+		<segment id="33" parent="32" relname="attribution">- сказал Бойко на конференции в рамках международной выставки систем безопасности \"Интерполитех-2009\" в Москве.\n\</segment>
+		<segment id="36" parent="37" relname="attribution">nПо его словам,</segment>
+		<segment id="37" parent="38" relname="span">создаваемый комплект боевой экипировки не будет иметь аналогов в мире по своей эффективности.</segment>
+		<segment id="39" parent="43" relname="span">При этом существующий комплект боевой экипировки \"первого поколения\" уже превосходит западные образцы по некоторым параметрам, в частности, по степени защиты,</segment>
+		<segment id="40" parent="41" relname="attribution">сообщает РИА \"Новости\".\n\n- Генштаб подтвердил закупку французского снаряжения,</segment>
+		<segment id="41" parent="42" relname="span">\"но только чтобы сравнить с отечественным\"\n\</segment>
+		<segment id="45" parent="48" relname="attribution">nПо данным эксперта,</segment>
+		<segment id="46" parent="48" relname="joint">новый комплект будет легче предыдущего на 14 килограммов,</segment>
+		<segment id="47" parent="48" relname="joint">его общий вес снизится с нынешних 36 килограммов до 22.</segment>
+		<segment id="50" parent="52" relname="span">\"В настоящее время ведутся разработки бронематериала с использованием нанотехнологий,</segment>
+		<segment id="51" parent="50" relname="elaboration">новые материалы появятся в ближайшие годы\",</segment>
+		<segment id="53" parent="52" relname="attribution">- отметил Бойко.</segment>
+		<segment id="55" parent="57" relname="span">\"В комплект будут внедрены элементы экзоскелетных конструкций</segment>
+		<segment id="56" parent="55" relname="elaboration">(металлический каркас, снимающий излишнюю нагрузку с мышц человека)\",</segment>
+		<segment id="58" parent="62" relname="same-unit">- добавил он.\n\nПримерная стоимость НИОКР (научно-исследовательские и опытно-конструкторские работы) по объекту \"Боец-21\",</segment>
+		<segment id="59" parent="60" relname="attribution">по оценке разработчиков,</segment>
+		<segment id="60" parent="61" relname="span">составляет около 35 миллионов долларов.</segment>
+		<segment id="64" parent="66" relname="span">В то же время, например, США на аналогичные работы выделяют 1,5 миллиарда долларов,</segment>
+		<segment id="65" parent="64" relname="attribution">сообщил докладчик.\n\n</segment>
+		<segment id="67" parent="69" relname="joint">\"Объемы ассигнований за рубежом на эти программы составляют миллиарды долларов</segment>
+		<segment id="68" parent="69" relname="joint">и значительно превосходят объемы ассигнований, выделенные на эти цели в нашей стране\",</segment>
+		<segment id="70" parent="69" relname="attribution">- отметил представитель ЦНИИ.\n\nИсточник: https://www.newsru.com/russia/27Oct2009/boec21.html\n</segment>
+		<group id="35" type="span" parent="77" relname="joint"/>
+		<group id="29" type="span" parent="35" relname="span"/>
+		<group id="34" type="span" parent="29" relname="elaboration"/>
+		<group id="32" type="span" parent="34" relname="span"/>
+		<group id="76" type="multinuc" parent="77" relname="joint"/>
+		<group id="44" type="multinuc" parent="76" relname="joint"/>
+		<group id="38" type="span" parent="44" relname="joint"/>
+		<group id="43" type="span" parent="44" relname="joint"/>
+		<group id="42" type="span" parent="39" relname="attribution"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="49" type="span" parent="75" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="span"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="54" type="span" parent="74" relname="span"/>
+		<group id="52" type="span" parent="54" relname="span"/>
+		<group id="73" type="multinuc" parent="54" relname="elaboration"/>
+		<group id="63" type="multinuc" parent="73" relname="comparison"/>
+		<group id="57" type="span" parent="63" relname="joint"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="61" type="span" parent="62" relname="same-unit"/>
+		<group id="72" type="multinuc" parent="73" relname="comparison"/>
+		<group id="66" type="span" parent="72" relname="joint"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="69" type="multinuc" parent="71" relname="span"/>
+		<group id="77" type="multinuc"/>
+	</body>
+</rst>

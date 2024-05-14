@@ -1,0 +1,36 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="16" relname="joint">Владимир Бекиш: \"Ну не хочет он российского счастья!\"\n\n\"В то время служил он в одной латиноамериканской стране под дипломатическим прикрытием.</segment>
+		<segment id="13" parent="14" relname="attribution">И вот получают они в посольство из МИДа той страны официальное уведомление о том,</segment>
+		<segment id="14" parent="15" relname="span">что вскорости будет введен в обращение паспорт нового образца для поездок за границу.</segment>
+		<segment id="17" parent="19" relname="span">И образец того паспорта – пробитый насквозь специально,</segment>
+		<segment id="18" parent="17" relname="purpose">чтобы им нельзя было воспользоваться.\n\nДальше все просто.</segment>
+		<segment id="21" parent="27" relname="span">Дырку эту - аккуратно круглую</segment>
+		<segment id="22" parent="24" relname="span">- расковыряли,</segment>
+		<segment id="23" parent="22" relname="purpose">чтобы выглядела естественно.\n\</segment>
+		<segment id="25" parent="26" relname="joint">nИ отправили тот паспорт в Москву, в штаб-квартиру с сопроводиловкой: \"</segment>
+		<segment id="28" parent="30" relname="span">...В результате оперативных мероприятий агентурным путем получен образец нового паспорта страны, который скоро будет введен в обращение.</segment>
+		<segment id="29" parent="28" relname="elaboration">К сожалению, бланк паспорта был поврежден в ходе операции...\" Ну и так далее.\"\n\nИсточник: https://www.newsru.com/blog/01Jul2013/spy.html\n</segment>
+		<group id="20" type="span" parent="32" relname="joint"/>
+		<group id="16" type="multinuc" parent="19" relname="cause-effect"/>
+		<group id="15" type="span" parent="16" relname="joint"/>
+		<group id="19" type="span" parent="20" relname="span"/>
+		<group id="31" type="multinuc" parent="32" relname="joint"/>
+		<group id="27" type="span" parent="31" relname="sequence"/>
+		<group id="26" type="multinuc" parent="21" relname="elaboration"/>
+		<group id="24" type="span" parent="26" relname="joint"/>
+		<group id="30" type="span" parent="31" relname="sequence"/>
+		<group id="32" type="multinuc"/>
+	</body>
+</rst>

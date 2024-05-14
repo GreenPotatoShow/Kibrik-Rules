@@ -1,0 +1,98 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="42" parent="44" relname="span">В Швейцарии в альпийском туннеле произошла крупная катастрофа\n\nВ альпийском туннеле Сен-Готар, соединяющем Швейцарию и Италию,</segment>
+		<segment id="43" parent="42" relname="elaboration">сегодня примерно в 9:45 по местному времени произошла крупная катастрофа,</segment>
+		<segment id="45" parent="44" relname="attribution">сообщает ИТАР-ТАСС.</segment>
+		<segment id="47" parent="51" relname="span">После лобового столкновения двух тяжелых грузовиков,</segment>
+		<segment id="50" parent="47" relname="elaboration">один из которых перевозил автомобильные покрышки, в туннеле вспыхнул сильнейший пожар.</segment>
+		<segment id="52" parent="53" relname="attribution">Ряд источников передают,</segment>
+		<segment id="53" parent="54" relname="span">что пламя охватило десятки машин.</segment>
+		<segment id="55" parent="60" relname="attribution">По данным швейцарской полиции,</segment>
+		<segment id="56" parent="58" relname="span">трагедия сопровождалась многочисленными жертвами.\n\nАвария произошла примерно в километре от южного входа в туннель,</segment>
+		<segment id="57" parent="56" relname="elaboration">расположенного в швейцарском кантоне Тичино</segment>
+		<segment id="59" parent="60" relname="joint">.\n\nПравоохранительным органам Швейцарии еще предстоит установить точное количество жертв,</segment>
+		<segment id="62" parent="61" relname="attribution">сообщает \"Интерфакс\".</segment>
+		<segment id="66" parent="70" relname="same-unit">Однако известно, что, по меньшей мере,</segment>
+		<segment id="67" parent="69" relname="joint">десять человек погибли</segment>
+		<segment id="68" parent="69" relname="joint">и несколько отравились продуктами горения.</segment>
+		<segment id="71" parent="73" relname="span">Некоторым автомобилистам,</segment>
+		<segment id="72" parent="71" relname="background">находившимся в момент аварии в туннеле,</segment>
+		<segment id="74" parent="75" relname="same-unit">удалось выйти наружу.</segment>
+		<segment id="77" parent="89" relname="span">Сообщается также, что часть туннеля обрушилась.</segment>
+		<segment id="78" parent="80" relname="span">Сейчас Сен-Готар закрыт</segment>
+		<segment id="79" parent="78" relname="purpose">для движения транспорта.</segment>
+		<segment id="81" parent="80" relname="purpose">Полиция призвала жителей близлежащего городка Айроло оставаться дома.\n\nНа месте катастрофы борьбу с огнем ведут около 150 спасателей и пожарных.</segment>
+		<segment id="83" parent="85" relname="span">Их работу сильно затрудняет густой едкий дым,</segment>
+		<segment id="84" parent="83" relname="cause-effect">причиной которого стало возгорание покрышек, перевозимых грузовиком.</segment>
+		<segment id="86" parent="87" relname="joint">Пожарным пока не удалось пробиться к месту трагедии.\n\nТуннель Сен-Готар находится на автомобильной артерии, соединяющей Цюрих с севером Италии.</segment>
+		<segment id="90" parent="92" relname="span">17-километровый туннель имеет важное транспортное значение не только для Швейцарии, но и для всей Европы.</segment>
+		<segment id="91" parent="90" relname="elaboration">По нему осуществляются, в частности, транзитные перевозки из Германии в Италию.\n\nАварии в многокилометровых туннелях, проложенных через Альпы, далеко не редкость.</segment>
+		<segment id="93" parent="95" relname="joint">Трижды за последние 2,5 года в автомобильных туннелях в этих горах или в непосредственной близости от них вспыхивали крупные пожары,</segment>
+		<segment id="94" parent="95" relname="joint">повлекшие человеческие жертвы.\n\n25 марта 1999 года 30 человек погибли в результате пожара в 12-километровом туннеле Монблан между Францией и Италией.</segment>
+		<segment id="96" parent="101" relname="cause-effect">Мощный пожар возник после того, как в самом центре галереи загорелся один из грузовиков, направлявшийся в сторону Италии.</segment>
+		<segment id="97" parent="101" relname="joint">В результате около трех десятков машин оказались блокированы,</segment>
+		<segment id="98" parent="100" relname="span">а находившиеся в них люди отрезаны огнем и токсичным дымом,</segment>
+		<segment id="99" parent="98" relname="elaboration">с которым не смогла справиться вентиляционная система.</segment>
+		<segment id="103" parent="105" relname="span">28 мая нынешнего года на подъездах к другому туннелю между Италией и Францией - 13-километровому Фрежюс</segment>
+		<segment id="104" parent="103" relname="cause-effect">- загорелся грузовик.</segment>
+		<segment id="106" parent="108" relname="joint">Тогда 14 человек пострадали в результате отравления продуктами горения</segment>
+		<segment id="107" parent="108" relname="joint">и были отправлены в больницу.\n\</segment>
+		<segment id="110" parent="111" relname="joint">nПеред лицом растущей опасности движения по автомобильным туннелям в Альпах власти Италии, Франции и Швейцарии обсуждают вопрос о прокладке скоростной железной дороги в горах.</segment>
+		<segment id="112" parent="113" relname="cause-effect">В частности, к 2015 году планируется ввести в строй участок Турин - Лион,</segment>
+		<segment id="113" parent="114" relname="span">в результате чего будут состыкованы ныне разрозненные участки \"быстрых рельсов\" в южной части Западной Европы.\n\nИсточник: https://www.newsru.com/world/24Oct2001/tonnel.html\n</segment>
+		<group id="46" type="span" parent="121" relname="preparation"/>
+		<group id="44" type="span" parent="46" relname="span"/>
+		<group id="121" type="multinuc" parent="122" relname="span"/>
+		<group id="65" type="multinuc" parent="121" relname="joint"/>
+		<group id="51" type="span" parent="65" relname="joint"/>
+		<group id="64" type="span" parent="65" relname="joint"/>
+		<group id="54" type="span" parent="64" relname="span"/>
+		<group id="63" type="span" parent="54" relname="elaboration"/>
+		<group id="61" type="span" parent="63" relname="span"/>
+		<group id="60" type="multinuc" parent="61" relname="span"/>
+		<group id="58" type="span" parent="60" relname="joint"/>
+		<group id="120" type="multinuc" parent="121" relname="joint"/>
+		<group id="76" type="span" parent="120" relname="joint"/>
+		<group id="70" type="multinuc" parent="76" relname="span"/>
+		<group id="69" type="multinuc" parent="70" relname="same-unit"/>
+		<group id="75" type="multinuc" parent="70" relname="elaboration"/>
+		<group id="73" type="span" parent="75" relname="same-unit"/>
+		<group id="119" type="multinuc" parent="120" relname="joint"/>
+		<group id="89" type="span" parent="119" relname="joint"/>
+		<group id="88" type="multinuc" parent="77" relname="elaboration"/>
+		<group id="82" type="span" parent="88" relname="joint"/>
+		<group id="80" type="span" parent="82" relname="span"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="85" type="span" parent="87" relname="joint"/>
+		<group id="118" type="multinuc" parent="119" relname="joint"/>
+		<group id="92" type="span" parent="118" relname="joint"/>
+		<group id="117" type="multinuc" parent="118" relname="joint"/>
+		<group id="95" type="multinuc" parent="117" relname="joint"/>
+		<group id="116" type="multinuc" parent="117" relname="joint"/>
+		<group id="102" type="span" parent="116" relname="joint"/>
+		<group id="101" type="multinuc" parent="102" relname="span"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="115" type="span" parent="116" relname="joint"/>
+		<group id="111" type="multinuc" parent="115" relname="span"/>
+		<group id="109" type="span" parent="111" relname="joint"/>
+		<group id="105" type="span" parent="109" relname="span"/>
+		<group id="108" type="multinuc" parent="105" relname="elaboration"/>
+		<group id="114" type="span" parent="111" relname="elaboration"/>
+		<group id="122" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,124 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="54" parent="56" relname="sequence">Суд вынесет решение по иску бывшего сторожа Театрального центра на Дубровке\n\nТверской суд Москвы,</segment>
+		<segment id="55" parent="56" relname="sequence">как ожидается, в пятницу вынесет решение по иску бывшего сторожа Театрального центра на Дубровке Николая Любимова,</segment>
+		<segment id="57" parent="63" relname="span">пострадавшего в результате захвата заложников на мюзикле \"Норд-Ост\" в октябре 2002 года.\n\nЛюбимов подал иск к департаменту финансов правительства Москвы,</segment>
+		<segment id="58" parent="62" relname="span">в котором требует возместить ему материальный ущерб в 188 тыс. рублей</segment>
+		<segment id="61" parent="58" relname="cause-effect">в связи с полученной в результате теракта инвалидности.\n\</segment>
+		<segment id="65" parent="68" relname="attribution">nВ ходе прошлого судебного заседания Любимов сообщил,</segment>
+		<segment id="66" parent="68" relname="joint">что получил инвалидность II группы</segment>
+		<segment id="67" parent="68" relname="joint">и утратил трудоспособность.</segment>
+		<segment id="70" parent="71" relname="attribution">По его словам,</segment>
+		<segment id="71" parent="72" relname="span">в заявленную сумму компенсации входят затраты на лечение и лекарства.</segment>
+		<segment id="73" parent="78" relname="attribution">Кроме того, Любиов сообщил,</segment>
+		<segment id="74" parent="78" relname="joint">что на его иждивении находится жена, которой необходима посторонняя помощь.\n\n\"Теперь я сам инвалид,</segment>
+		<segment id="75" parent="77" relname="joint">и мне также необходима посторонняя помощь,</segment>
+		<segment id="76" parent="77" relname="joint">нужна сиделка\",</segment>
+		<segment id="81" parent="80" relname="attribution">- отметил пострадавший.</segment>
+		<segment id="84" parent="88" relname="same-unit">Кроме того,</segment>
+		<segment id="85" parent="86" relname="attribution">по словам Любимова,</segment>
+		<segment id="86" parent="87" relname="span">в сумму ущерба включен утраченный заработок за 16 месяцев,</segment>
+		<segment id="89" parent="88" relname="attribution">сообщает \"Интерфакс\".\n\</segment>
+		<segment id="91" parent="92" relname="attribution">nМежду тем представитель правительства Москвы Андрей Расторгуев заявил,</segment>
+		<segment id="92" parent="93" relname="span">что столичные власти не имеют отношение к данному иску.</segment>
+		<segment id="94" parent="98" relname="span">\"Мы считаем себя не надлежащим ответчиком по данному иску,</segment>
+		<segment id="95" parent="97" relname="span">так как вред здоровью был нанесен истцом</segment>
+		<segment id="96" parent="95" relname="condition">при исполнении своих обязанностей, на производстве\",</segment>
+		<segment id="99" parent="98" relname="attribution">- сказал Расторгуев в суде.\n\</segment>
+		<segment id="102" parent="105" relname="attribution">nПо его словам,</segment>
+		<segment id="103" parent="105" relname="contrast">Любимов \"получил трудовое увечье\",</segment>
+		<segment id="104" parent="105" relname="contrast">а правительство Москвы не является ни работодателем, ни страховщиком.</segment>
+		<segment id="107" parent="109" relname="span">\"В связи с этим мы просим суд заменить ответчика на ОАО \"Московский подшипник\" (работодатель - ИФ) или \"Фонд социального страхования РФ\" - его страховщика\",</segment>
+		<segment id="108" parent="107" relname="attribution">- заявил Расторгуев</segment>
+		<segment id="110" parent="111" relname="joint">.\n\</segment>
+		<segment id="113" parent="117" relname="same-unit">nАдвокат Игорь Трунов,</segment>
+		<segment id="114" parent="115" relname="attribution">представляющий интересы истца, заявил,</segment>
+		<segment id="115" parent="116" relname="span">что категорически возражает против замены ответчика.</segment>
+		<segment id="118" parent="120" relname="joint">\"Был теракт,</segment>
+		<segment id="119" parent="120" relname="joint">и это был не несчастный случай, а преступление\",</segment>
+		<segment id="121" parent="120" relname="attribution">- сказал адвокат на суде</segment>
+		<segment id="124" parent="126" relname="span">.\n\nРанее Тверской суд Москвы частично удовлетворил иски о возмещении материального ущерба,</segment>
+		<segment id="125" parent="124" relname="elaboration">поданные потерпевшими от теракта на Дубровке.\n\</segment>
+		<segment id="127" parent="132" relname="attribution">nПо определению суда</segment>
+		<segment id="128" parent="131" relname="condition">в случае потери пострадавшими кормильца</segment>
+		<segment id="129" parent="131" relname="joint">правительство Москвы должно будет производить пожизненные выплаты,</segment>
+		<segment id="130" parent="131" relname="joint">а также выплатить единовременные пособия.</segment>
+		<segment id="134" parent="137" relname="attribution">В частности, суд постановил,</segment>
+		<segment id="135" parent="137" relname="joint">что московское правительство должно будет пожизненно осуществлять ежемесячные выплаты нетрудоспособным лицам, потерявшим кормильцев,</segment>
+		<segment id="136" parent="137" relname="joint">начиная с 27 сентября.\n\nПравительство Москвы не стало обжаловать это решение,</segment>
+		<segment id="139" parent="145" relname="span">однако сами пострадавшие не согласились с вердиктом Тверского суда.</segment>
+		<segment id="140" parent="144" relname="span">Часть потерпевших осталась неудовлетворенной решением,</segment>
+		<segment id="141" parent="143" relname="joint">поскольку суд удовлетворил их иски частично,</segment>
+		<segment id="142" parent="143" relname="joint">а также отказал в удовлетворении исков членов их семей.</segment>
+		<segment id="147" parent="149" relname="comparison">Многих не устраивает сумма назначенной ежемесячно компенсации.\n\nВ результате захвата заложников в Театральном центре на Дубровке в октябре прошлого года погибло 130 человек,</segment>
+		<segment id="148" parent="149" relname="comparison">более 700 пострадали.\n\nИсточник: https://www.newsru.com/russia/26Mar2004/nord.html\n</segment>
+		<group id="64" type="multinuc" parent="158" relname="joint"/>
+		<group id="56" type="multinuc" parent="64" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="62" type="span" parent="57" relname="elaboration"/>
+		<group id="157" type="multinuc" parent="158" relname="joint"/>
+		<group id="83" type="span" parent="157" relname="joint"/>
+		<group id="69" type="span" parent="82" relname="preparation"/>
+		<group id="68" type="multinuc" parent="69" relname="span"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="80" type="multinuc" parent="82" relname="span"/>
+		<group id="72" type="span" parent="80" relname="joint"/>
+		<group id="79" type="span" parent="80" relname="joint"/>
+		<group id="78" type="multinuc" parent="79" relname="span"/>
+		<group id="77" type="multinuc" parent="78" relname="joint"/>
+		<group id="156" type="span" parent="157" relname="joint"/>
+		<group id="90" type="span" parent="155" relname="preparation"/>
+		<group id="88" type="multinuc" parent="90" relname="span"/>
+		<group id="87" type="span" parent="88" relname="same-unit"/>
+		<group id="155" type="multinuc" parent="156" relname="span"/>
+		<group id="101" type="multinuc" parent="155" relname="joint"/>
+		<group id="93" type="span" parent="101" relname="joint"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="98" type="span" parent="100" relname="span"/>
+		<group id="97" type="span" parent="94" relname="cause-effect"/>
+		<group id="154" type="multinuc" parent="155" relname="joint"/>
+		<group id="112" type="multinuc" parent="154" relname="joint"/>
+		<group id="106" type="span" parent="112" relname="joint"/>
+		<group id="105" type="multinuc" parent="106" relname="span"/>
+		<group id="111" type="multinuc" parent="112" relname="joint"/>
+		<group id="109" type="span" parent="111" relname="joint"/>
+		<group id="153" type="multinuc" parent="154" relname="joint"/>
+		<group id="123" type="span" parent="153" relname="joint"/>
+		<group id="117" type="multinuc" parent="123" relname="span"/>
+		<group id="116" type="span" parent="117" relname="same-unit"/>
+		<group id="122" type="span" parent="117" relname="elaboration"/>
+		<group id="120" type="multinuc" parent="122" relname="span"/>
+		<group id="152" type="multinuc" parent="153" relname="joint"/>
+		<group id="126" type="span" parent="152" relname="joint"/>
+		<group id="151" type="span" parent="152" relname="joint"/>
+		<group id="133" type="span" parent="151" relname="span"/>
+		<group id="132" type="span" parent="133" relname="span"/>
+		<group id="131" type="multinuc" parent="132" relname="span"/>
+		<group id="150" type="multinuc" parent="133" relname="elaboration"/>
+		<group id="146" type="multinuc" parent="150" relname="joint"/>
+		<group id="138" type="span" parent="146" relname="contrast"/>
+		<group id="137" type="multinuc" parent="138" relname="span"/>
+		<group id="145" type="span" parent="146" relname="contrast"/>
+		<group id="144" type="span" parent="139" relname="elaboration"/>
+		<group id="143" type="multinuc" parent="140" relname="cause-effect"/>
+		<group id="149" type="multinuc" parent="150" relname="joint"/>
+		<group id="158" type="multinuc"/>
+	</body>
+</rst>

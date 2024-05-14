@@ -1,0 +1,76 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="88" relname="preparation">В России вдвое выросло число проблемных долевых строек\n\</segment>
+		<segment id="32" parent="34" relname="comparison">nЧисло проблемных объектов долевого строительства в России с начала 2019 года увеличилось вдвое,</segment>
+		<segment id="33" parent="34" relname="comparison">а число обманутых дольщиков за тот же период выросло примерно на 14%.</segment>
+		<segment id="35" parent="37" relname="joint">Такие данные 30 июля привел генеральный прокурор России Юрий Чайка на заседании коллегии Генпрокуратуры по итогам работы ведомства в первом полугодии.\n\n\"Требуют глубокого анализа причины увеличения вдвое в первом полугодии числа проблемных объектов долевого строительства, с 894 до 1845,</segment>
+		<segment id="36" parent="37" relname="joint">и на 6 тысяч обманутых граждан, с 38,7 тысячи до 44 тысячи\",</segment>
+		<segment id="38" parent="44" relname="same-unit">– приводит слова Чайки РИА \"Новости\".\n\nНапомним,</segment>
+		<segment id="39" parent="42" relname="attribution">накануне вице-премьер Виталий Мутко поручил</segment>
+		<segment id="40" parent="42" relname="span">проработать возможность в отдельных случаях предлагать обманутым дольщикам квартиры в готовых или близких к завершению домах вместо недостроенных новостроек,</segment>
+		<segment id="41" parent="40" relname="background">где они купили жилье.</segment>
+		<segment id="47" parent="48" relname="attribution">По словам вице-премьера,</segment>
+		<segment id="48" parent="49" relname="span">возможность получить квартиры в более готовых домах станет \"третьей опцией\" решения проблемы дольщиков помимо завершения дома и компенсации.</segment>
+		<segment id="50" parent="52" relname="span">Такой вариант будет возможен,</segment>
+		<segment id="51" parent="50" relname="condition">если у Фонда дольщиков в конкретном городе будут иметься свободные квартиры в других домах.\n\nВ июне группа отчаявшихся дольщиков из Омска \"украсила\" недостроенный дом манекенами в петлях.</segment>
+		<segment id="54" parent="53" relname="interpretation-evaluation">Городские власти тогда назвали акцию провокационной и жуткой.</segment>
+		<segment id="56" parent="58" relname="span">Ранее власти Красноярска пообещали помочь местным обманутым дольщикам,</segment>
+		<segment id="57" parent="56" relname="elaboration">которые записали видеообращение к Владимиру Путину.\n\</segment>
+		<segment id="59" parent="64" relname="attribution">nНапомним, вступившая в силу 1 июля схема долевого строительства предусматривает,</segment>
+		<segment id="60" parent="63" relname="condition">что при покупке квартиры в новостройке и заключении договора долевого участия</segment>
+		<segment id="61" parent="63" relname="joint">дольщик передает деньги не застройщику, а банку,</segment>
+		<segment id="62" parent="63" relname="joint">и финансовая организация блокирует эти средства на эскроу-счете девелопера до окончания строительства.</segment>
+		<segment id="67" parent="69" relname="joint">Застройщик может получить эти деньги только после сдачи дома,</segment>
+		<segment id="68" parent="69" relname="joint">а средства на строительство жилья девелоперы должны получать в рамках проектного финансирования в виде банковских кредитов.\n\nЭто нововведение должно защитить покупателей, вложившихся в будущий дом на стадии котлована.</segment>
+		<segment id="72" parent="78" relname="span">При этом критерии, утвержденные ранее правительством, позволяют достройку многих объектов по старым правилам и после 1 июля.</segment>
+		<segment id="73" parent="75" relname="span">В частности, речь идет об объектах,</segment>
+		<segment id="74" parent="73" relname="elaboration">готовность которых составляет не менее 30%</segment>
+		<segment id="76" parent="77" relname="joint">и в которых продано не менее 10% квартир.</segment>
+		<segment id="79" parent="82" relname="attribution">По данным Минстроя,</segment>
+		<segment id="80" parent="82" relname="comparison">с использованием эскроу-счетов сейчас будет строиться только 30% объема жилья,</segment>
+		<segment id="81" parent="82" relname="comparison">а полноценный переход на новые правила произойдет примерно через два года.\n\nИсточник: https://www.newsru.com/realty/30Jul2019/chaika.html\n</segment>
+		<group id="88" type="multinuc" parent="89" relname="span"/>
+		<group id="46" type="multinuc" parent="88" relname="joint"/>
+		<group id="34" type="multinuc" parent="46" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="37" type="multinuc" parent="45" relname="joint"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="43" type="span" parent="44" relname="same-unit"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="55" type="span" parent="87" relname="joint"/>
+		<group id="53" type="span" parent="55" relname="span"/>
+		<group id="49" type="span" parent="53" relname="span"/>
+		<group id="52" type="span" parent="49" relname="elaboration"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="66" type="span" parent="86" relname="joint"/>
+		<group id="58" type="span" parent="66" relname="span"/>
+		<group id="65" type="span" parent="58" relname="elaboration"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="69" type="multinuc" parent="85" relname="joint"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="78" type="span" parent="84" relname="span"/>
+		<group id="77" type="multinuc" parent="72" relname="elaboration"/>
+		<group id="75" type="span" parent="77" relname="joint"/>
+		<group id="83" type="span" parent="78" relname="elaboration"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="89" type="span"/>
+	</body>
+</rst>

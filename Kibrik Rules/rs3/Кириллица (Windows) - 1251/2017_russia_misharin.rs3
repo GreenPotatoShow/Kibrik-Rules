@@ -1,0 +1,195 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="88" parent="259" relname="preparation">Суд оштрафовал организатора сыктывкарского митинга</segment>
+		<segment id="89" parent="91" relname="span">\"Он нам не Димон\"\n\nСыктывкарский городской суд оштрафовал на 10 тысяч рублей организатора антикоррупционной акции 26 марта в Сыктывкаре Анатолия Мишарина,</segment>
+		<segment id="90" parent="89" relname="cause-effect">признав митинг несогласованным,</segment>
+		<segment id="92" parent="91" relname="attribution">сообщает интернет-журнал \"7x7\".</segment>
+		<segment id="94" parent="102" relname="joint">Защита намерена обжаловать решение в Верховном суде Коми.</segment>
+		<segment id="95" parent="100" relname="attribution">На суде были показаны видео задержания Мишарина с камер видеонаблюдения и видео, предоставленное самим Мишариным на предыдущем заседании.\n\nАнатолий Мишарин сказал,</segment>
+		<segment id="96" parent="100" relname="joint">что реализовывал свое конституционное право:</segment>
+		<segment id="97" parent="99" relname="joint">подал уведомление о митинге в администрацию</segment>
+		<segment id="98" parent="99" relname="joint">и попросил полицию обеспечить мирное проведение мероприятия.</segment>
+		<segment id="104" parent="109" relname="attribution">Он добавил,</segment>
+		<segment id="105" parent="109" relname="joint">что в протоколе полиции, который он получил после задержания,</segment>
+		<segment id="106" parent="107" relname="attribution">указано:</segment>
+		<segment id="107" parent="108" relname="span">\"Не получил согласия\".</segment>
+		<segment id="111" parent="112" relname="attribution">\"Я не понимаю,</segment>
+		<segment id="112" parent="113" relname="span">речь все-таки идет о согласии или согласовании?\"</segment>
+		<segment id="114" parent="113" relname="attribution">- заявил активист</segment>
+		<segment id="117" parent="118" relname="condition">.\n\nПредставитель МВД настаивала,</segment>
+		<segment id="118" parent="119" relname="span">что документов, подтверждающих согласование мероприятия, нет.</segment>
+		<segment id="120" parent="123" relname="attribution">Защитник Мишарина Эрнест Мезак напомнил,</segment>
+		<segment id="121" parent="123" relname="contrast">что администрация города в ответе упомянула о гайд-парках,</segment>
+		<segment id="122" parent="123" relname="contrast">но не предложила их напрямую.</segment>
+		<segment id="125" parent="131" relname="joint">Мичуринский парк не был предложен митингующим 26 марта,</segment>
+		<segment id="126" parent="130" relname="span">мэрия сослалась на то, что там запланировано мероприятие по \"пропаганде здорового образа жизни и ведической культуры\".</segment>
+		<segment id="127" parent="128" relname="attribution">Корреспондент \"7x7\" утверждает,</segment>
+		<segment id="128" parent="129" relname="span">что в парке в это время танцевали кришнаиты.\n\n</segment>
+		<segment id="133" parent="134" relname="condition">\"Если орган не предлагает альтернативу,</segment>
+		<segment id="134" parent="135" relname="span">массовое мероприятие считается разрешенным в том месте, которое указано в уведомлении,</segment>
+		<segment id="136" parent="135" relname="attribution">- заявил Мезак.</segment>
+		<segment id="138" parent="145" relname="condition">- Если Мишарин не получил предложения о месте проведения мероприятия,</segment>
+		<segment id="139" parent="141" relname="joint">он не мог его принять</segment>
+		<segment id="140" parent="141" relname="joint">или отвергнуть\".\n\nЗащитник спросил,</segment>
+		<segment id="142" parent="144" relname="span">в чем была общественная опасность митинга,</segment>
+		<segment id="143" parent="142" relname="purpose">чтобы суд мог определиться с мерой наказания.</segment>
+		<segment id="147" parent="154" relname="attribution">Представитель МВД утверждала,</segment>
+		<segment id="148" parent="154" relname="contrast">что опасность была,</segment>
+		<segment id="149" parent="151" relname="span">но не смогла сформулировать, какая именно.\n\nАнатолий Мишарин,</segment>
+		<segment id="150" parent="149" relname="background">задержанный в Сыктывкаре 26 марта во время митинга,</segment>
+		<segment id="152" parent="151" relname="background">считает акцию законной,</segment>
+		<segment id="156" parent="162" relname="same-unit">так как,</segment>
+		<segment id="157" parent="160" relname="attribution">по его словам,</segment>
+		<segment id="158" parent="159" relname="attribution">31-я статья Конституции России говорит о том,</segment>
+		<segment id="159" parent="160" relname="span">что граждане имеют право собираться мирно и без оружия.</segment>
+		<segment id="165" parent="167" relname="joint">\"Как можно реализацию конституционного права гражданина России называть признаком экстремизма и терроризма?</segment>
+		<segment id="166" parent="167" relname="joint">Тем более если цель митинга обозначена как \"противодействие коррупции\"?\"</segment>
+		<segment id="168" parent="169" relname="attribution">- объяснял он</segment>
+		<segment id="169" parent="170" relname="span">.\n\</segment>
+		<segment id="174" parent="200" relname="joint">nГородская администрация, по его мнению, превысила свои полномочия.</segment>
+		<segment id="175" parent="176" relname="cause-effect">Он подал заявление в городской суд о незаконном воспрепятствовании проведению собрания, митинга, шествия (статья 149 Уголовного кодекса РФ).\n\n\"КомиОнлайн\" пишет,</segment>
+		<segment id="176" parent="177" relname="span">что Мишарин выступил формальным организатором митингов.</segment>
+		<segment id="178" parent="181" relname="attribution">По его словам,</segment>
+		<segment id="179" parent="181" relname="sequence">он нашел в соцсети \"ВКонтакте\" группу, в которой жители столицы договаривались о выходе на митинг против коррупции,</segment>
+		<segment id="180" parent="181" relname="sequence">впоследствии заблокированную.\n\nНикто не хотел брать на себя ответственность за официальную подачу бумаг и согласование мероприятия.</segment>
+		<segment id="183" parent="187" relname="span">\"Заняться организацией было некому.</segment>
+		<segment id="184" parent="185" relname="cause-effect">Так как я имею кое-какую судебную практику,</segment>
+		<segment id="185" parent="186" relname="span">то решил взять это на себя\",</segment>
+		<segment id="188" parent="187" relname="attribution">- рассказал активист.\n\nЗа день до суда, 9 мая, Мишарин распространил сообщение,</segment>
+		<segment id="190" parent="196" relname="span">в котором приглашал всех желающих на заседание,</segment>
+		<segment id="191" parent="195" relname="joint">которое показывает, как суд готов защищать свободы гражданина на мирное собрание и на изъявление политической воли и Конституцию</segment>
+		<segment id="192" parent="194" relname="joint">.\n\nГлава Коми сравнил антикоррупционные митинги с терроризмом\n\n10 апреля об акции высказался глава Коми Сергей Гапликов,</segment>
+		<segment id="193" parent="194" relname="joint">он сравнил действия выступавших с терроризмом.</segment>
+		<segment id="201" parent="205" relname="span">\"То, что они творят, граничит с терроризмом путем расшатывания общественного мнения в вопросе управления государством.</segment>
+		<segment id="202" parent="204" relname="span">Это, по сути, современный вид экстремизма,</segment>
+		<segment id="203" parent="202" relname="elaboration">который грозит завести общество не в то русло\",</segment>
+		<segment id="206" parent="218" relname="span">- сказал Гапликов (цитата по агентству \"Комиинформ\").\n\nОн также упрекнул СМИ,</segment>
+		<segment id="207" parent="217" relname="span">которые слишком \"ярко\" освещают антикоррупционные митинги.</segment>
+		<segment id="208" parent="216" relname="span">\"Во-первых, я недоумеваю,</segment>
+		<segment id="209" parent="211" relname="span">как вообще кто-либо может чисто идейно,</segment>
+		<segment id="210" parent="209" relname="purpose">не для заработка,</segment>
+		<segment id="212" parent="213" relname="same-unit">поддерживать так называемую несистемную оппозицию,</segment>
+		<segment id="214" parent="213" relname="cause-effect">ведь у них ни в одном слове нет здравого смысла.</segment>
+		<segment id="220" parent="221" relname="cause-effect">Во-вторых, определенные СМИ ярко подают такие мероприятия,</segment>
+		<segment id="221" parent="222" relname="span">что просто недопустимо.</segment>
+		<segment id="223" parent="225" relname="joint">Ведь эти оппозиционеры пытаются достичь своих корыстных политических целей,</segment>
+		<segment id="224" parent="225" relname="joint">причем манипулируя подростками, которые не понимают, куда и зачем их зовут\",</segment>
+		<segment id="227" parent="226" relname="attribution">- высказался глава Коми.\n\</segment>
+		<segment id="230" parent="242" relname="joint">nПоводом для протестных акций \"Он нам не Димон\",</segment>
+		<segment id="231" parent="239" relname="joint">прошедших 26 марта в 80 городах России</segment>
+		<segment id="232" parent="238" relname="joint">и обернувшихся масштабными задержаниями,</segment>
+		<segment id="233" parent="237" relname="span">стал фильм-расследование Фонда борьбы с коррупцией</segment>
+		<segment id="234" parent="236" relname="span">\"Он вам не Димон\", рассказывающий о \"тайной империи\" премьер-министра Дмитрия Медведева.\n\nСам премьер спустя месяц после появления фильма назвал его \"чушью\", \"какими-то бумажками\" и \"компотом\",</segment>
+		<segment id="235" parent="234" relname="elaboration">за которым скрывается попытка вытащить людей на улицу,</segment>
+		<segment id="240" parent="241" relname="span">добиться политических и \"шкурных\" целей.</segment>
+		<segment id="243" parent="244" relname="attribution">Основатель ФБК и кандидат в президенты РФ Алексей Навальный считает,</segment>
+		<segment id="244" parent="245" relname="span">что ответы на разоблачения не получены.</segment>
+		<segment id="246" parent="248" relname="span">Он призвал россиян присоединиться к новой акции протеста против коррупции</segment>
+		<segment id="247" parent="246" relname="elaboration">- на этот раз в День России, 12 июня.\n\nИсточник: https://www.newsru.com/russia/10May2017/misharin.html\n</segment>
+		<group id="259" type="multinuc" parent="260" relname="span"/>
+		<group id="103" type="multinuc" parent="259" relname="joint"/>
+		<group id="93" type="span" parent="103" relname="joint"/>
+		<group id="91" type="span" parent="93" relname="span"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="101" type="span" parent="102" relname="joint"/>
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="99" type="multinuc" parent="100" relname="joint"/>
+		<group id="258" type="multinuc" parent="259" relname="joint"/>
+		<group id="116" type="multinuc" parent="258" relname="joint"/>
+		<group id="110" type="span" parent="116" relname="joint"/>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="108" type="span" parent="109" relname="joint"/>
+		<group id="115" type="span" parent="116" relname="joint"/>
+		<group id="113" type="span" parent="115" relname="span"/>
+		<group id="257" type="span" parent="258" relname="joint"/>
+		<group id="119" type="span" parent="256" relname="preparation"/>
+		<group id="256" type="multinuc" parent="257" relname="span"/>
+		<group id="132" type="multinuc" parent="256" relname="joint"/>
+		<group id="124" type="span" parent="132" relname="sequence"/>
+		<group id="123" type="multinuc" parent="124" relname="span"/>
+		<group id="131" type="multinuc" parent="132" relname="sequence"/>
+		<group id="130" type="span" parent="131" relname="joint"/>
+		<group id="129" type="span" parent="126" relname="elaboration"/>
+		<group id="255" type="multinuc" parent="256" relname="joint"/>
+		<group id="137" type="span" parent="255" relname="joint"/>
+		<group id="135" type="span" parent="137" relname="span"/>
+		<group id="254" type="multinuc" parent="255" relname="joint"/>
+		<group id="164" type="multinuc" parent="254" relname="joint"/>
+		<group id="146" type="span" parent="164" relname="joint"/>
+		<group id="145" type="multinuc" parent="146" relname="span"/>
+		<group id="141" type="multinuc" parent="145" relname="comparison"/>
+		<group id="144" type="span" parent="145" relname="comparison"/>
+		<group id="163" type="span" parent="164" relname="joint"/>
+		<group id="155" type="span" parent="163" relname="span"/>
+		<group id="154" type="multinuc" parent="155" relname="span"/>
+		<group id="153" type="span" parent="154" relname="contrast"/>
+		<group id="151" type="span" parent="153" relname="span"/>
+		<group id="162" type="multinuc" parent="155" relname="cause-effect"/>
+		<group id="161" type="span" parent="162" relname="same-unit"/>
+		<group id="160" type="span" parent="161" relname="span"/>
+		<group id="253" type="multinuc" parent="254" relname="joint"/>
+		<group id="171" type="span" parent="253" relname="joint"/>
+		<group id="167" type="multinuc" parent="171" relname="span"/>
+		<group id="170" type="span" parent="167" relname="attribution"/>
+		<group id="252" type="multinuc" parent="253" relname="joint"/>
+		<group id="200" type="multinuc" parent="252" relname="joint"/>
+		<group id="199" type="multinuc" parent="200" relname="joint"/>
+		<group id="177" type="span" parent="199" relname="joint"/>
+		<group id="198" type="multinuc" parent="199" relname="joint"/>
+		<group id="182" type="span" parent="198" relname="joint"/>
+		<group id="181" type="multinuc" parent="182" relname="span"/>
+		<group id="197" type="span" parent="198" relname="joint"/>
+		<group id="189" type="span" parent="197" relname="span"/>
+		<group id="187" type="span" parent="189" relname="span"/>
+		<group id="186" type="span" parent="183" relname="cause-effect"/>
+		<group id="196" type="span" parent="189" relname="elaboration"/>
+		<group id="195" type="multinuc" parent="190" relname="elaboration"/>
+		<group id="194" type="multinuc" parent="195" relname="joint"/>
+		<group id="251" type="multinuc" parent="252" relname="joint"/>
+		<group id="229" type="multinuc" parent="251" relname="joint"/>
+		<group id="219" type="span" parent="229" relname="joint"/>
+		<group id="205" type="span" parent="219" relname="span"/>
+		<group id="204" type="span" parent="201" relname="interpretation-evaluation"/>
+		<group id="218" type="span" parent="205" relname="cause-effect"/>
+		<group id="217" type="span" parent="206" relname="cause-effect"/>
+		<group id="216" type="span" parent="207" relname="interpretation-evaluation"/>
+		<group id="215" type="span" parent="208" relname="cause-effect"/>
+		<group id="213" type="multinuc" parent="215" relname="span"/>
+		<group id="211" type="span" parent="213" relname="same-unit"/>
+		<group id="228" type="span" parent="229" relname="joint"/>
+		<group id="226" type="span" parent="228" relname="span"/>
+		<group id="222" type="span" parent="226" relname="span"/>
+		<group id="225" type="multinuc" parent="222" relname="cause-effect"/>
+		<group id="250" type="multinuc" parent="251" relname="joint"/>
+		<group id="242" type="multinuc" parent="250" relname="joint"/>
+		<group id="241" type="span" parent="242" relname="joint"/>
+		<group id="239" type="multinuc" parent="240" relname="cause-effect"/>
+		<group id="238" type="multinuc" parent="239" relname="joint"/>
+		<group id="237" type="span" parent="238" relname="joint"/>
+		<group id="236" type="span" parent="233" relname="elaboration"/>
+		<group id="249" type="multinuc" parent="250" relname="joint"/>
+		<group id="245" type="span" parent="249" relname="joint"/>
+		<group id="248" type="span" parent="249" relname="joint"/>
+		<group id="260" type="span"/>
+	</body>
+</rst>

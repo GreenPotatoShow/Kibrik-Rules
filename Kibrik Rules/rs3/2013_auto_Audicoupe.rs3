@@ -1,0 +1,45 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="26" relname="span">Audi показала концепт мощнейшего купе Sport quattro\n\nКомпания Audi официально представила концепт-кар Sport quattro.</segment>
+		<segment id="19" parent="25" relname="span">Его первый публичный показ состоится на автосалоне во Франкфурте.</segment>
+		<segment id="20" parent="22" relname="span">Новинка оснащена гибридной силовой установкой,</segment>
+		<segment id="21" parent="20" relname="elaboration">отдача которой составляет 700 лошадиных сил и 800 Нм крутящего момента.\n\nКак сообщает \"Мотор.ру\",</segment>
+		<segment id="23" parent="24" relname="joint">в состав силовой установки Sport quattro входят 560-сильный четырехлитровый двигатель V8, 150-сильный электромотор, расположенный между двигателем внутреннего сгорания и трансмиссией.</segment>
+		<segment id="27" parent="39" relname="joint">Крутящий момент передает к колесам восьмиступенчатая автоматическая коробка передач.\n\nС такой \"оснасткой\" купе разгоняться с места до \"сотни\" за 3,7 секунды.</segment>
+		<segment id="28" parent="38" relname="joint">Максимальная скорость прототипа равняется 305 километрам в час.</segment>
+		<segment id="29" parent="37" relname="span">Средний расход топлива при этом составляет около 2,5 литра на 100 километров пробега.</segment>
+		<segment id="30" parent="34" relname="span">Снизить этот показатель помогла функция деактивации четырех цилиндров и система Start-Stop.\n\</segment>
+		<segment id="31" parent="33" relname="comparison">nГабаритная длина концепт-кара составляет 4602 миллиметра,</segment>
+		<segment id="32" parent="33" relname="comparison">ширина – 1964 миллиметра, высота – 1386 миллиметров.</segment>
+		<segment id="35" parent="34" relname="elaboration">Колесная база Sport quattro равна 2784 миллиметрам.</segment>
+		<segment id="41" parent="45" relname="comparison">Таким образом, прототип на 99 миллиметров короче,</segment>
+		<segment id="42" parent="44" relname="joint">на 138 миллиметров шире</segment>
+		<segment id="43" parent="44" relname="joint">и на 41 миллиметр ниже по сравнению с седаном Audi A4.</segment>
+		<segment id="46" parent="48" relname="span">Колесная база серийной модели на 24 миллиметра больше, чем у концепта.\n\nПомимо всего вышеперечисленного, концепт-кар получил 21-дюймовые легкосплавные колесные диски с шинами размерностью 285/30, а также матричные светодиодные фары головного света.</segment>
+		<segment id="47" parent="46" relname="elaboration">Первым серийным автомобилем с такими фарами стал обновленный седан Audi A8.\n\nИсточник: https://www.newsru.com/auto/04Sep2013/Audicoupe.html\n</segment>
+		<group id="40" type="multinuc" parent="50" relname="span"/>
+		<group id="26" type="span" parent="40" relname="joint"/>
+		<group id="25" type="span" parent="18" relname="elaboration"/>
+		<group id="24" type="multinuc" parent="19" relname="elaboration"/>
+		<group id="22" type="span" parent="24" relname="joint"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="36" type="span" parent="29" relname="elaboration"/>
+		<group id="34" type="span" parent="36" relname="span"/>
+		<group id="33" type="multinuc" parent="30" relname="elaboration"/>
+		<group id="49" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="45" type="multinuc" parent="49" relname="comparison"/>
+		<group id="44" type="multinuc" parent="45" relname="comparison"/>
+		<group id="48" type="span" parent="49" relname="comparison"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

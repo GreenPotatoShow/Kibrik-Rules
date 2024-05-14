@@ -1,0 +1,55 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="24" relname="span">В Нигерии от похитителей сбежали двое сотрудников \"РУСАЛа\"\n\nВ Нигерии обрели свободу двое захваченных сотрудников компании \"РУСАЛ\",</segment>
+		<segment id="23" parent="22" relname="attribution">передает РИА \"Новости\" со ссылкой на Reuters.</segment>
+		<segment id="25" parent="31" relname="joint">Мировые агентства, в свою очередь, ссылаются на нигерийских военных.</segment>
+		<segment id="26" parent="30" relname="joint">Россияне смогли сбежать от захватчиков</segment>
+		<segment id="27" parent="29" relname="span">и несколько дней скрывались в дельте Нигера,</segment>
+		<segment id="28" parent="27" relname="elaboration">пока их не обнаружил военный патруль.\n\n</segment>
+		<segment id="32" parent="34" relname="span">\"Они убежали от захватчиков из военного лагеря,</segment>
+		<segment id="33" parent="32" relname="elaboration">месторасположение которого пока не установлено,</segment>
+		<segment id="35" parent="39" relname="span">и бродили последние пять дней у реки,</segment>
+		<segment id="36" parent="38" relname="joint">пока наш патруль не обнаружил</segment>
+		<segment id="37" parent="38" relname="joint">и не спас их\",</segment>
+		<segment id="41" parent="40" relname="attribution">- цитирует слова подполковника нигерийской армии Сагира Муссы агентство.</segment>
+		<segment id="43" parent="59" relname="joint">Какие-либо другие подробности освобождения россиян не раскрываются.\n\nПо информации агентства, речь идет о похищенных 20 декабря 2008 года двоих сотрудниках компании \"РУСАЛ\", работавших на алюминиевом заводе Алскон.</segment>
+		<segment id="44" parent="58" relname="joint">Сотрудников \"РУСАЛа\" захватили во время вооруженного нападения на поселок на юге города Икот Абаси.\n\nСлучаи похищения иностранцев в Нигерии нередки.</segment>
+		<segment id="45" parent="49" relname="span">Иногда за ними стоят сепаратисты,</segment>
+		<segment id="46" parent="48" relname="span">которые захватывают заложников,</segment>
+		<segment id="47" parent="46" relname="purpose">чтобы оказать давление на власти страны,</segment>
+		<segment id="50" parent="52" relname="span">однако чаще похищения совершаются</segment>
+		<segment id="51" parent="50" relname="purpose">ради выкупа.</segment>
+		<segment id="56" parent="57" relname="joint">Основной группировкой, которая часто устраивает нападения и акты саботажа на нефтяных иностранных объектах на юге Нигерии, является \"Движение за освобождение дельты Нигера\".\n\nИсточник: https://www.newsru.com/world/19Feb2009/nigeria.html\n</segment>
+		<group id="24" type="span" parent="61" relname="preparation"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="31" type="multinuc" parent="61" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="42" type="span" parent="60" relname="joint"/>
+		<group id="40" type="multinuc" parent="42" relname="span"/>
+		<group id="34" type="span" parent="40" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="38" type="multinuc" parent="35" relname="condition"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="53" type="multinuc" parent="57" relname="joint"/>
+		<group id="49" type="span" parent="53" relname="contrast"/>
+		<group id="48" type="span" parent="45" relname="elaboration"/>
+		<group id="52" type="span" parent="53" relname="contrast"/>
+		<group id="62" type="span"/>
+	</body>
+</rst>

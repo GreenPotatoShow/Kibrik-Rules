@@ -1,0 +1,61 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="70" relname="preparation">Цена нефти в Нью-Йорке держится около отметки 28 долларов\n\</segment>
+		<segment id="26" parent="28" relname="comparison">nВ понедельник, 12 марта, цена апрельских фьючерсов на нефть на Нью-йоркской товарной бирже (NYMEX) составила 28 долларов за баррель,</segment>
+		<segment id="27" parent="28" relname="comparison">что лишь на 1 цент ниже цены пятницы,</segment>
+		<segment id="29" parent="28" relname="attribution">передает агентство Bloomberg.</segment>
+		<segment id="31" parent="32" relname="comparison">На Международной нефтяной бирже (IPE) в Лондоне цена апрельских фьючерсов на нефть марки Brent снизилась на 43 цента до 25,90 доллара за баррель.</segment>
+		<segment id="33" parent="35" relname="comparison">Цена российской нефти Urals с доставкой в порты Средиземного моря в понедельник составила 21,89 доллара за баррель,</segment>
+		<segment id="34" parent="35" relname="comparison">что на 54 цента ниже цены пятницы</segment>
+		<segment id="36" parent="40" relname="span">.\n\nЦены на сырье в Нью-Йорке держатся на столь высоком уровне,</segment>
+		<segment id="37" parent="38" relname="attribution">так как эксперты считают,</segment>
+		<segment id="38" parent="39" relname="span">что ОПЕК наверняка примет решение о сокращении экспорта нефти на конференции 16 марта.</segment>
+		<segment id="42" parent="44" relname="span">Внутри самой организации согласие о необходимости сокращения экспорта уже достигнуто.</segment>
+		<segment id="43" parent="42" relname="elaboration">Об этом в воскресенье в Дохе заявил министр нефти Катара Абдулла бин Хамад аль-Аттия.</segment>
+		<segment id="46" parent="68" relname="span">В ближайшую пятницу министры стран картеля будут обсуждать только объем сокращения.\n\</segment>
+		<segment id="47" parent="50" relname="attribution">nОднако эксперты пребывают в уверенности,</segment>
+		<segment id="50" parent="51" relname="span">что страны-производители, не входящие в картель, не поддержат эту инициативу ОПЕК.</segment>
+		<segment id="52" parent="54" relname="span">\"В любом случае, Норвегия и Россия не последуют за ОПЕК\",</segment>
+		<segment id="53" parent="52" relname="attribution">- уверен американский аналитик Билл О'Грэди.</segment>
+		<segment id="55" parent="57" relname="joint">Насколько эти ожидания оправдаются,</segment>
+		<segment id="56" parent="57" relname="joint">покажет ближайшее время.</segment>
+		<segment id="58" parent="60" relname="span">Напомним, что министр нефти Мексики,</segment>
+		<segment id="59" parent="58" relname="elaboration">которая также не входит в картель,</segment>
+		<segment id="61" parent="63" relname="span">уже провел ряд консультаций в Эр-Рияде,</segment>
+		<segment id="62" parent="61" relname="elaboration">результатом которых, возможно, станут совместные действия этой страны и ОПЕК по стабилизации спроса и предложения на сырье, а также по поддержанию цен на нефть около отметки 25 долларов за баррель.\n\nИсточник: https://www.newsru.com/finance/13Mar2001/oil_price.html\n</segment>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="32" type="multinuc" parent="69" relname="preparation"/>
+		<group id="30" type="span" parent="32" relname="comparison"/>
+		<group id="28" type="multinuc" parent="30" relname="span"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="45" type="multinuc" parent="69" relname="joint"/>
+		<group id="41" type="multinuc" parent="45" relname="joint"/>
+		<group id="35" type="multinuc" parent="41" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="39" type="span" parent="36" relname="cause-effect"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="67" type="span" parent="46" relname="elaboration"/>
+		<group id="51" type="span" parent="67" relname="span"/>
+		<group id="66" type="span" parent="51" relname="elaboration"/>
+		<group id="54" type="span" parent="66" relname="span"/>
+		<group id="65" type="span" parent="54" relname="elaboration"/>
+		<group id="57" type="multinuc" parent="65" relname="span"/>
+		<group id="64" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="60" type="span" parent="64" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="71" type="span"/>
+	</body>
+</rst>

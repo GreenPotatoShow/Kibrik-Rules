@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="70" relname="preparation">В борьбу за пост главы Приморья включился и.о. губернатора Дубинин\n\nКонкурс на должность главы Приморья достиг невероятных размеров 30 человек на одно место.</segment>
+		<segment id="26" parent="31" relname="attribution">Как сообщает НТВ,</segment>
+		<segment id="27" parent="29" relname="span">в борьбу за пост губернатора включился еще один человек,</segment>
+		<segment id="28" parent="27" relname="elaboration">который также претендует на право называться представителем Кремля</segment>
+		<segment id="30" parent="29" relname="background">это исполняющий обязанности губернатора Приморья Валентин Дубинин.\n\nНесколько лет до отставки Наздратенко Дубинин работал в должности вице-губернатора,</segment>
+		<segment id="33" parent="34" relname="sequence">а сейчас, вплоть до выборов, он самый главный в Приморье чиновник.</segment>
+		<segment id="35" parent="38" relname="condition">Когда Дубинин принимал руководство краем,</segment>
+		<segment id="36" parent="38" relname="joint">к нему был приставлен куратор из аппарата представителя президента в Дальневосточном округе Геннадий Апанасенко.\n\nАпанасенко тоже баллотируется в губернаторы</segment>
+		<segment id="37" parent="38" relname="joint">и пользуется поддержкой своего шефа Константина Пуликовского.</segment>
+		<segment id="42" parent="58" relname="joint">К появлению серьезного конкурента в лице Валентина Дубинина Пуликовский, как выяснилось, отнесся без оптимизма.\n\</segment>
+		<segment id="43" parent="45" relname="span">nКак передает корреспондент НТВ,</segment>
+		<segment id="44" parent="43" relname="condition">с подачи Геннадия Апанасенко</segment>
+		<segment id="46" parent="56" relname="joint">во Владивостоке приостановлена проверка финансовой деятельности городской администрации.</segment>
+		<segment id="47" parent="55" relname="contrast">Ревизия была начата по инициативе Валентина Дубинина,</segment>
+		<segment id="48" parent="54" relname="same-unit">но теперь отложена до завершения избирательной кампании.\n\nТем не менее, один из чиновников мэрии, заместитель Юрия Копылова Валентин Нечаев,</segment>
+		<segment id="49" parent="53" relname="same-unit">уже задержан городской прокуратурой,</segment>
+		<segment id="50" parent="51" relname="attribution">как сообщают неофициальные источники,</segment>
+		<segment id="51" parent="52" relname="span">по подозрению в причастности к махинациям с муниципальной собственностью.</segment>
+		<segment id="61" parent="63" relname="span">Ни прокуратура, ни городские чиновники не соглашаются давать разъяснения,</segment>
+		<segment id="62" parent="61" relname="concession">хотя Валентин Нечаев уже несколько суток находится под стражей.</segment>
+		<segment id="64" parent="68" relname="sequence">Исполняющий обязанности губернатора также не смог ничего сообщить об этом он сослался на то,</segment>
+		<segment id="65" parent="67" relname="joint">что лишь вчера вернулся из столицы</segment>
+		<segment id="66" parent="67" relname="joint">и еще не успел узнать все местные новости.\n\nИсточник: https://www.newsru.com/russia/02Apr2001/primorye.html\n</segment>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="60" type="multinuc" parent="70" relname="joint"/>
+		<group id="34" type="multinuc" parent="60" relname="joint"/>
+		<group id="32" type="span" parent="34" relname="sequence"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="29" type="span" parent="31" relname="span"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="39" type="span" parent="59" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="span"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="45" type="span" parent="56" relname="attribution"/>
+		<group id="56" type="multinuc" parent="57" relname="span"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="contrast"/>
+		<group id="53" type="multinuc" parent="54" relname="same-unit"/>
+		<group id="52" type="span" parent="53" relname="same-unit"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="63" type="span" parent="69" relname="joint"/>
+		<group id="68" type="multinuc" parent="69" relname="joint"/>
+		<group id="67" type="multinuc" parent="68" relname="sequence"/>
+		<group id="71" type="span"/>
+	</body>
+</rst>

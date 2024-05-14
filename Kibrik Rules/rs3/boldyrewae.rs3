@@ -1,0 +1,104 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="43" parent="45" relname="span">Позвольте   представиться.</segment>
+		<segment id="44" parent="43" relname="elaboration">Мне  полтора  года.</segment>
+		<segment id="46" parent="52" relname="contrast">Меня  зовут  Полина,</segment>
+		<segment id="47" parent="51" relname="same-unit">но недавно,</segment>
+		<segment id="48" parent="49" relname="condition">когда я рисовала в папином  паспорте,</segment>
+		<segment id="49" parent="50" relname="span">я узнала, что меня зовут Полина Сергеевна.</segment>
+		<segment id="53" parent="61" relname="span">Красиво!\n 	Началась моя жизнь в тот момент,</segment>
+		<segment id="54" parent="56" relname="sequence">когда я чихнула</segment>
+		<segment id="55" parent="56" relname="sequence">и мне на ножку прицепили зеленую бирочку: \"живая девочка\".\n 	Ну, конечно, когда меня привезли домой,</segment>
+		<segment id="59" parent="56" relname="elaboration">восторгу по поводу рождения долгожданной дочки (внучки, правнучки, кисоньки и солнышка) не было конца,</segment>
+		<segment id="62" parent="76" relname="span">но уже на следующий день, а начался он в 5.30.,</segment>
+		<segment id="63" parent="75" relname="joint">реакция на меня была уже не такой однозначной.\n 	С тех пор я немного подросла,</segment>
+		<segment id="64" parent="66" relname="span">и даже поумнела,</segment>
+		<segment id="65" parent="64" relname="interpretation-evaluation">как мне кажется, по крайней мере,</segment>
+		<segment id="67" parent="73" relname="joint">я уже серьезно начинаю задумываться о том, что пора,</segment>
+		<segment id="68" parent="72" relname="span">пора написать пособие для начинающих на тему:</segment>
+		<segment id="69" parent="71" relname="contrast">\"Как добиться того, чтобы родители не только тебя не наказывали,</segment>
+		<segment id="70" parent="71" relname="contrast">но еще и выполняли все желания\".</segment>
+		<segment id="79" parent="87" relname="joint">У меня в этом большой жизненный опыт,</segment>
+		<segment id="80" parent="82" relname="joint">и, поверьте, до всего доходишь методом проб и ошибок.\n 	Ну, например, как посолить мороженое на блюдечке</segment>
+		<segment id="81" parent="82" relname="joint">и сделать так,</segment>
+		<segment id="83" parent="85" relname="joint">что мама обязательно за это похвалит</segment>
+		<segment id="84" parent="85" relname="joint">и побежит звонить своей маме:</segment>
+		<segment id="88" parent="94" relname="joint">\" Какая она у меня умница,</segment>
+		<segment id="89" parent="93" relname="joint">как правильно держит ложку</segment>
+		<segment id="90" parent="92" relname="joint">!\" Или положить пульт от телевизора в стиральную машину</segment>
+		<segment id="91" parent="92" relname="joint">и включить сушку</segment>
+		<segment id="95" parent="94" relname="elaboration">(\"Мама!</segment>
+		<segment id="97" parent="98" relname="attribution">Она уже разобралась с такой сложной техникой!\").\n 	Правда, я допускаю,</segment>
+		<segment id="98" parent="99" relname="span">что иногда и являюсь источником разных неприятностей для родителей.</segment>
+		<segment id="102" parent="104" relname="span">Однажды моя мама пошла в \"Ленинку\"</segment>
+		<segment id="103" parent="102" relname="elaboration">(я думаю, что это место, где собираются Лены</segment>
+		<segment id="105" parent="104" relname="cause-effect">-- ведь так зовут мою маму),</segment>
+		<segment id="107" parent="109" relname="span">но обнаружилось, что в ее пропуске аккуратно выдрана фотография.\n 	А как-то раз я совершенно случайно набрала по телефону номер 02,</segment>
+		<segment id="108" parent="107" relname="concession">хотя хотела набрать 04.</segment>
+		<segment id="111" parent="115" relname="joint">Но все это бывает крайне редко,</segment>
+		<segment id="112" parent="114" relname="joint">и меня все очень-очень любят,</segment>
+		<segment id="113" parent="114" relname="joint">особенно те родственники, которые меня видят нечасто.</segment>
+		<segment id="116" parent="120" relname="span">По телефону я им изображаю,</segment>
+		<segment id="117" parent="119" relname="contrast">как говорит собачка, кошечка, или пылесос,</segment>
+		<segment id="118" parent="119" relname="contrast">а они думают, что дети - это счастье.\n \n</segment>
+		<group id="45" type="span" parent="124" relname="preparation"/>
+		<group id="124" type="span" parent="125" relname="span"/>
+		<group id="78" type="span" parent="123" relname="preparation"/>
+		<group id="52" type="multinuc" parent="77" relname="preparation"/>
+		<group id="51" type="multinuc" parent="52" relname="contrast"/>
+		<group id="50" type="span" parent="51" relname="same-unit"/>
+		<group id="77" type="multinuc" parent="78" relname="span"/>
+		<group id="61" type="span" parent="77" relname="contrast"/>
+		<group id="60" type="span" parent="53" relname="elaboration"/>
+		<group id="56" type="multinuc" parent="60" relname="span"/>
+		<group id="76" type="span" parent="77" relname="contrast"/>
+		<group id="75" type="multinuc" parent="62" relname="elaboration"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="66" type="span" parent="73" relname="interpretation-evaluation"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="71" type="multinuc" parent="68" relname="purpose"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="101" type="span" parent="123" relname="span"/>
+		<group id="87" type="multinuc" parent="101" relname="span"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="82" type="multinuc" parent="85" relname="cause-effect"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="100" type="span" parent="87" relname="elaboration"/>
+		<group id="96" type="span" parent="100" relname="span"/>
+		<group id="94" type="multinuc" parent="96" relname="span"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="99" type="span" parent="96" relname="interpretation-evaluation"/>
+		<group id="122" type="multinuc" parent="101" relname="elaboration"/>
+		<group id="110" type="multinuc" parent="122" relname="contrast"/>
+		<group id="106" type="span" parent="110" relname="contrast"/>
+		<group id="104" type="span" parent="106" relname="span"/>
+		<group id="109" type="span" parent="110" relname="contrast"/>
+		<group id="121" type="span" parent="122" relname="contrast"/>
+		<group id="115" type="multinuc" parent="121" relname="span"/>
+		<group id="114" type="multinuc" parent="115" relname="joint"/>
+		<group id="120" type="span" parent="115" relname="elaboration"/>
+		<group id="119" type="multinuc" parent="116" relname="elaboration"/>
+		<group id="125" type="span"/>
+	</body>
+</rst>

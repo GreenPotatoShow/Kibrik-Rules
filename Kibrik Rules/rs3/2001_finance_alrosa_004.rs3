@@ -1,0 +1,33 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="10" parent="12" relname="span">АЛРОСА и De Beers начали очередные переговоры по торговле алмазами\n\nРоссийский алмазный монополист АЛРОСА и транснациональная компания De Beers во вторник и среду в Москве проведут очередной раунд переговоров по вопросу заключения нового торгового соглашения,</segment>
+		<segment id="11" parent="10" relname="attribution">сообщает \"Интерфакс\" со ссылкой на главу московского представительства De Beers Рэймонда Кларка.\n\</segment>
+		<segment id="13" parent="14" relname="attribution">nПо его словам,</segment>
+		<segment id="14" parent="15" relname="span">во вторник обсуждение перспектив нового торгового соглашения АЛРОСА и De Beers состоится в рамках работы рабочей группы.</segment>
+		<segment id="16" parent="24" relname="span">В среду этот же вопрос обсудят официально руководства АЛРОСА и De Beers.</segment>
+		<segment id="17" parent="19" relname="sequence">Для участия в переговорах вечером во вторник в Москву прибудет управляющий директор De Beers Гэрри Рэльф (Gary Ralfe).\n\nКларк выразил уверенность в успешном исходе переговоров.\n\nПредыдущее торговое соглашение между Россией и De Beers было заключено осенью 1998 года,</segment>
+		<segment id="18" parent="19" relname="sequence">срок его действия истекает в конце 2001 года.</segment>
+		<segment id="20" parent="22" relname="joint">В соответствии с этим документом АЛРОСА имеет право ежегодно продавать в адрес De Beers алмазов на сумму не менее 550 млн. долл., но не более 26% от ежегодного объема продаж De Beers.</segment>
+		<segment id="21" parent="22" relname="joint">Соглашение предусматривает также право России продавать на свободном рынке 5% из текущей добычи алмазов плюс 20% от поставок из государственных запасов.\n\nНа долю АЛРОСА приходится около 20% мировой добычи алмазов.\n\nИсточник: https://www.newsru.com/finance/09Oct2001/alrosa.html\n</segment>
+		<group id="12" type="span" parent="25" relname="preparation"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="15" type="span" parent="25" relname="span"/>
+		<group id="24" type="span" parent="15" relname="elaboration"/>
+		<group id="23" type="multinuc" parent="16" relname="purpose"/>
+		<group id="19" type="multinuc" parent="23" relname="joint"/>
+		<group id="22" type="multinuc" parent="23" relname="joint"/>
+		<group id="26" type="span"/>
+	</body>
+</rst>

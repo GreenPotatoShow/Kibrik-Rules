@@ -1,0 +1,176 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="concession" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="78" parent="80" relname="span">Площадь лесных пожаров сократилась на 10 тысяч гектаров,</segment>
+		<segment id="79" parent="78" relname="attribution">доложили в МЧС.</segment>
+		<segment id="81" parent="80" relname="elaboration">\"Радиоактивного дыма\" можно не бояться\n\nМЧС рапортует о снижении количества природных пожаров на территории России.</segment>
+		<segment id="83" parent="87" relname="span">Наиболее эффективно борьба с огнем ведется в республике Марий-Эл, Мордовии и Пензенской области (Приволжский федеральный округ), а также на территории Московской, Владимирской и Рязанской областей (ЦФО),</segment>
+		<segment id="84" parent="86" relname="span">сообщает \"Интерфакс\" со ссылкой на начальника Национального центра управления в кризисных ситуациях (НЦУКС) МЧС России Владимира Степанова.\n\nТолько за последние сутки общая площадь действующих пожаров сократилась на 10 тысяч га,</segment>
+		<segment id="85" parent="84" relname="attribution">рассказали ИТАР-ТАСС в Управлении информации МЧС России.</segment>
+		<segment id="89" parent="95" relname="comparison">В частности, в Мордовии площадь пожаров уменьшилась на 55 га,</segment>
+		<segment id="90" parent="94" relname="comparison">в Марий Эл - на треть, на 735 га, в Кировской области - на 200 га, в Воронежской - более чем на 80 га.\n</segment>
+		<segment id="91" parent="93" relname="joint">\n- В России полыхает более 500 пожаров.</segment>
+		<segment id="92" parent="93" relname="joint">Рослесхоз и МЧС расходятся в цифрах\n- Ситуация с радиацией в \"чернобыльских лесах\" остается в пределах нормы\n\</segment>
+		<segment id="97" parent="99" relname="joint">nВ четверг, 12 августа, продолжится перегруппировка сил и средств,</segment>
+		<segment id="98" parent="99" relname="joint">а также активно будет применяться авиация МЧС.</segment>
+		<segment id="100" parent="102" relname="joint">\"Основные усилия будут сосредоточены на контроле ситуации в Московской области, Рязанской, Свердловской и Владимирской областях\",</segment>
+		<segment id="101" parent="102" relname="joint">- отметил Степанов.\n\nВ Московской области площадь пожаров за минувшие сутки сократилась более чем на четверть: с 174 га до 126 га.</segment>
+		<segment id="104" parent="106" relname="joint">В борьбе с огнем в Подмосковье участвуют почти 14 тысяч человек</segment>
+		<segment id="105" parent="106" relname="joint">и задействовано около 2,3 тысячи единиц техники.</segment>
+		<segment id="107" parent="117" relname="joint">Кроме того, российским пожарным на этом участке помогают 95 пожарных из Болгарии.\n\nВ России полыхает более 500 пожаров.</segment>
+		<segment id="108" parent="112" relname="span">Рослесхоз и МЧС расходятся в цифрах\n\nПо данным на 12 августа,</segment>
+		<segment id="109" parent="111" relname="span">на территории страны продолжает полыхать более 500 пожаров.</segment>
+		<segment id="110" parent="109" relname="attribution">МЧС сообщает,</segment>
+		<segment id="113" parent="115" relname="comparison">что за минувшие сутки было потушено 224 очага природных пожаров,</segment>
+		<segment id="114" parent="115" relname="comparison">тогда как 562 общей площадью 81 тысяч га продолжают действовать.</segment>
+		<segment id="119" parent="147" relname="joint">Из них 66 очагов считают крупными, в том числе 40 торфяных пожаров.</segment>
+		<segment id="120" parent="122" relname="span">При этом в начале пожароопасного периода общая площадь очагов природных пожаров достигала 816,5 тысячи га.\n\</segment>
+		<segment id="121" parent="120" relname="elaboration">nМежду тем Рослесхоз приводит другие данные:</segment>
+		<segment id="123" parent="127" relname="contrast">за прошедшие сутки удалось справиться только приблизительно с 50 природными пожарами,</segment>
+		<segment id="124" parent="126" relname="span">а общее число сохраняющихся очагов сократилось до 545 с 600,</segment>
+		<segment id="125" parent="124" relname="attribution">о которых говорилось накануне.</segment>
+		<segment id="129" parent="133" relname="same-unit">Из них 107 пожаров (накануне - 100) являются крупными.\n\nКроме того, по данным МЧС,</segment>
+		<segment id="130" parent="132" relname="joint">пожары тушат 165,7 тысячи человек,</segment>
+		<segment id="131" parent="132" relname="joint">задействованы 26,5 тысячи единиц техники и 39 воздушных судов.</segment>
+		<segment id="134" parent="144" relname="joint">Зарубежные страны прислали на помощь России 551 человека, 100 единиц техники, в том числе шесть самолетов и шесть вертолетов.\n\nВ то же время в сообщении пресс-службы Рослесхоза говорится о 15,2 тысячи человек, более 2,4 тысячи техники и 61 воздушном судне.\n\nСитуация с радиацией в \"чернобыльских лесах\" остается в пределах нормы\n\</segment>
+		<segment id="135" parent="138" relname="condition">nВ связи с опасениями, что из-за пожаров в лесах, загрязненных после чернобыльской катастрофы,</segment>
+		<segment id="136" parent="138" relname="joint">произойдет выброс в воздух радиоактивных частиц,</segment>
+		<segment id="137" parent="138" relname="joint">эксперты провели там замеры уровня радиации.</segment>
+		<segment id="140" parent="142" relname="span">На территории этих регионов (Брянской, Орловской и Калужской областей) превышения уровня радиации не зафиксировано,</segment>
+		<segment id="141" parent="140" relname="attribution">передает ИТАР-ТАСС.</segment>
+		<segment id="148" parent="151" relname="attribution">По словам начальника НЦУКС МЧС,</segment>
+		<segment id="149" parent="150" relname="attribution">пожары там тушат в день их возникновения.\n\nДиректор Федерального информационного аналитического центра (ФИАЦ) Росгидромета Валерий Косых подчеркнул также,</segment>
+		<segment id="150" parent="151" relname="span">что в Брянских лесах нет больших пожаров.</segment>
+		<segment id="153" parent="159" relname="contrast">\"То есть там травка загорится,</segment>
+		<segment id="154" parent="155" relname="cause-effect">но так как там уделяют особое внимание,</segment>
+		<segment id="155" parent="156" relname="span">это все быстро тушат.</segment>
+		<segment id="157" parent="158" relname="span">Поэтому там никаких ухудшений радиационной обстановки не было\",</segment>
+		<segment id="160" parent="163" relname="attribution">- цитирует слова Косых РИА \"Новости\".\n\nВ целом, начальник ФИАЦ подтвердил,</segment>
+		<segment id="161" parent="163" relname="span">что пожары в \"чернобыльских лесах\" могут поднять в воздух радиоактивную пыль,</segment>
+		<segment id="162" parent="161" relname="elaboration">которая там осела после катастрофы на АЭС.</segment>
+		<segment id="165" parent="167" relname="contrast">Как следствие, радиационная обстановка может ухудшиться,</segment>
+		<segment id="166" parent="167" relname="contrast">однако существенного вреда здоровью это не нанесет.\n\</segment>
+		<segment id="171" parent="172" relname="attribution">nПо его мнению,</segment>
+		<segment id="172" parent="173" relname="span">пожары могли изменить ситуацию только в первые годы после аварии на АЭС:</segment>
+		<segment id="174" parent="184" relname="span">\"Тогда все еще лежало сверху.</segment>
+		<segment id="175" parent="179" relname="span">Сейчас пыли остается все меньше,</segment>
+		<segment id="176" parent="177" relname="cause-effect">уже скоро 25 лет с момента аварии,</segment>
+		<segment id="177" parent="178" relname="span">потихоньку все это заглубляется.</segment>
+		<segment id="180" parent="182" relname="joint">На поверхности все меньше</segment>
+		<segment id="181" parent="182" relname="joint">и меньше всего остается\".</segment>
+		<segment id="185" parent="187" relname="span">\"Никакого \"второго Чернобыля\" просто быть не может\",</segment>
+		<segment id="186" parent="185" relname="cause-effect">- заключил Валерий Косых.\n\nЭколог, руководитель энергетической программы \"Гринпис России\" Владимир Чупров согласен с этим утверждением, но только отчасти.</segment>
+		<segment id="190" parent="193" relname="attribution">Он также заверяет,</segment>
+		<segment id="191" parent="193" relname="joint">что нынешние пожары не приведут к повторению чернобыльской катастрофы</segment>
+		<segment id="192" parent="193" relname="joint">и не нанесут серьезного вреда здоровью людей.</segment>
+		<segment id="195" parent="209" relname="span">Под угрозой может оказаться, в первую очередь, местное население и пожарные.\n\</segment>
+		<segment id="196" parent="200" relname="span">nМежду тем эколог указывает на то, что, во-первых, снижения количества радиоактивных веществ в Брянской области не фиксируется,</segment>
+		<segment id="197" parent="198" relname="concession">хотя, стоит признать,</segment>
+		<segment id="198" parent="199" relname="span">на большую территорию радиоактивные частицы тоже не распространяются.</segment>
+		<segment id="201" parent="202" relname="joint">\"Есть предположение, что растения просто \"подтягивают\" радионуклиды из более глубоких слоев.</segment>
+		<segment id="203" parent="205" relname="joint">То, что раньше было скрыто,</segment>
+		<segment id="204" parent="205" relname="joint">идет подтяжка того, что ниже\",</segment>
+		<segment id="206" parent="205" relname="attribution">- сказал Чупров.</segment>
+		<segment id="217" parent="220" relname="attribution">Во-вторых, эколог отметил,</segment>
+		<segment id="218" parent="219" relname="cause-effect">что любая доза радиации влияет на организм,</segment>
+		<segment id="219" parent="220" relname="span">поэтому совсем исключать последствия нельзя.\n\</segment>
+		<segment id="222" parent="221" relname="evidence">nНапомним, что накануне в \"Рослесозащите\" подтвердили информацию о пожарах в Брянских лесах.</segment>
+		<segment id="224" parent="228" relname="span">Всего 3,9 тысячи га земель, загрязненных радиоактивными веществами, охвачены с середины июня огнем.</segment>
+		<segment id="225" parent="227" relname="span">Это и вызвало опасения экспертов.</segment>
+		<segment id="226" parent="225" relname="elaboration">Некоторые предположили, что ветер может донести радиоактивные частицы до Москвы и даже до Западной Европы.\n\nИсточник: https://www.newsru.com/russia/12Aug2010/sokratilos.html\n</segment>
+		<group id="216" type="multinuc" parent="230" relname="joint"/>
+		<group id="96" type="span" parent="216" relname="joint"/>
+		<group id="88" type="multinuc" parent="96" relname="span"/>
+		<group id="82" type="span" parent="88" relname="joint"/>
+		<group id="80" type="span" parent="82" relname="span"/>
+		<group id="87" type="span" parent="88" relname="joint"/>
+		<group id="86" type="span" parent="83" relname="attribution"/>
+		<group id="95" type="multinuc" parent="88" relname="elaboration"/>
+		<group id="94" type="multinuc" parent="95" relname="comparison"/>
+		<group id="93" type="multinuc" parent="94" relname="comparison"/>
+		<group id="215" type="multinuc" parent="216" relname="joint"/>
+		<group id="103" type="multinuc" parent="215" relname="joint"/>
+		<group id="99" type="multinuc" parent="103" relname="joint"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="214" type="multinuc" parent="215" relname="joint"/>
+		<group id="118" type="multinuc" parent="214" relname="joint"/>
+		<group id="106" type="multinuc" parent="118" relname="joint"/>
+		<group id="117" type="multinuc" parent="118" relname="joint"/>
+		<group id="116" type="multinuc" parent="117" relname="joint"/>
+		<group id="112" type="span" parent="116" relname="joint"/>
+		<group id="111" type="span" parent="108" relname="elaboration"/>
+		<group id="115" type="multinuc" parent="116" relname="joint"/>
+		<group id="213" type="multinuc" parent="214" relname="joint"/>
+		<group id="147" type="multinuc" parent="213" relname="joint"/>
+		<group id="146" type="multinuc" parent="147" relname="joint"/>
+		<group id="128" type="span" parent="146" relname="joint"/>
+		<group id="122" type="span" parent="128" relname="span"/>
+		<group id="127" type="multinuc" parent="122" relname="elaboration"/>
+		<group id="126" type="span" parent="127" relname="contrast"/>
+		<group id="145" type="multinuc" parent="146" relname="joint"/>
+		<group id="133" type="multinuc" parent="145" relname="joint"/>
+		<group id="132" type="multinuc" parent="133" relname="same-unit"/>
+		<group id="144" type="multinuc" parent="145" relname="joint"/>
+		<group id="143" type="span" parent="144" relname="joint"/>
+		<group id="139" type="span" parent="143" relname="span"/>
+		<group id="138" type="multinuc" parent="139" relname="span"/>
+		<group id="142" type="span" parent="139" relname="elaboration"/>
+		<group id="212" type="multinuc" parent="213" relname="joint"/>
+		<group id="170" type="multinuc" parent="212" relname="joint"/>
+		<group id="152" type="span" parent="170" relname="joint"/>
+		<group id="151" type="span" parent="152" relname="span"/>
+		<group id="169" type="multinuc" parent="170" relname="joint"/>
+		<group id="159" type="multinuc" parent="169" relname="joint"/>
+		<group id="158" type="span" parent="159" relname="contrast"/>
+		<group id="156" type="span" parent="157" relname="cause-effect"/>
+		<group id="168" type="span" parent="169" relname="joint"/>
+		<group id="164" type="span" parent="168" relname="span"/>
+		<group id="163" type="span" parent="164" relname="span"/>
+		<group id="167" type="multinuc" parent="164" relname="interpretation-evaluation"/>
+		<group id="211" type="multinuc" parent="212" relname="joint"/>
+		<group id="189" type="span" parent="211" relname="joint"/>
+		<group id="173" type="span" parent="189" relname="span"/>
+		<group id="188" type="multinuc" parent="173" relname="elaboration"/>
+		<group id="184" type="span" parent="188" relname="joint"/>
+		<group id="183" type="multinuc" parent="174" relname="elaboration"/>
+		<group id="179" type="span" parent="183" relname="comparison"/>
+		<group id="178" type="span" parent="175" relname="cause-effect"/>
+		<group id="182" type="multinuc" parent="183" relname="comparison"/>
+		<group id="187" type="span" parent="188" relname="joint"/>
+		<group id="210" type="span" parent="211" relname="joint"/>
+		<group id="194" type="span" parent="210" relname="span"/>
+		<group id="193" type="multinuc" parent="194" relname="span"/>
+		<group id="209" type="span" parent="194" relname="cause-effect"/>
+		<group id="208" type="multinuc" parent="195" relname="cause-effect"/>
+		<group id="202" type="multinuc" parent="208" relname="comparison"/>
+		<group id="200" type="span" parent="202" relname="joint"/>
+		<group id="199" type="span" parent="196" relname="concession"/>
+		<group id="207" type="span" parent="208" relname="comparison"/>
+		<group id="205" type="multinuc" parent="207" relname="span"/>
+		<group id="229" type="multinuc" parent="230" relname="joint"/>
+		<group id="223" type="span" parent="229" relname="joint"/>
+		<group id="221" type="span" parent="223" relname="span"/>
+		<group id="220" type="span" parent="221" relname="span"/>
+		<group id="228" type="span" parent="229" relname="joint"/>
+		<group id="227" type="span" parent="224" relname="interpretation-evaluation"/>
+		<group id="230" type="multinuc"/>
+	</body>
+</rst>

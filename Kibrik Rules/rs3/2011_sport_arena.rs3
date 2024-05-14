@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="34" relname="joint">ЧМ-2018 примут три, а не два московских стадиона,</segment>
+		<segment id="33" parent="34" relname="joint">утверждают строители\n\nЧемпионат мира по футболу в Москве примут три, а не два стадиона и 14 тренировочных полей.</segment>
+		<segment id="35" parent="39" relname="span">Игры мундиаля пройдут на аренах \"Лужники\", \"Динамо\" и \"Спартак\".</segment>
+		<segment id="36" parent="38" relname="span">Об этом, по данным \"Интерфакса\",</segment>
+		<segment id="37" parent="36" relname="attribution">сообщил на пресс-конференции в среду руководитель департамента градостроительной политики Сергей.\n\n\"Чемпионат мира - это знаковое событие для любого города и любой страны.</segment>
+		<segment id="41" parent="43" relname="joint">Это большой толчок в развитии,</segment>
+		<segment id="42" parent="43" relname="joint">и Москва уделяет особое внимание подготовке к проведению мероприятий чемпионата мира 2018 года,</segment>
+		<segment id="44" parent="43" relname="attribution">- сказал Левкин,</segment>
+		<segment id="46" parent="47" relname="attribution">добавив,</segment>
+		<segment id="47" parent="48" relname="span">что в столице турнир примут три арены.</segment>
+		<segment id="49" parent="51" relname="joint">- \"Динамо\" будет комплексно реконструирован и как арена, и в части прилегающих территорий.</segment>
+		<segment id="50" parent="51" relname="joint">А \"Спартак\" будет построен в районе Волоколамского шоссе\".\n\nОтметим, что в связи с количеством московских арен возникла путаница.</segment>
+		<segment id="52" parent="53" relname="attribution">По итогам первого заседания совета \"ФИФА - Оргкомитет \"Россия-2018\" министр спорта, туризма и молодежной политики РФ Виталий Мутко заявил,</segment>
+		<segment id="53" parent="54" relname="span">что из первоначальной заявки будет исключен один московский стадион - \"Спартак\" или \"Динамо\".\n\</segment>
+		<segment id="55" parent="57" relname="contrast">nПри этом главной ареной благодаря вместимости более 60 тысяч человек точно станут \"Лужники\",</segment>
+		<segment id="56" parent="57" relname="contrast">а красно-белым и бело-голубым придется побороться за оставшуюся вакансию.</segment>
+		<segment id="59" parent="61" relname="joint">Всего же, согласно озвученному министром спорта плану,</segment>
+		<segment id="60" parent="61" relname="joint">ЧМ-2018 примут 11 российских городов и 12 стадионов.\n\nСегодняшнее заявление Левкина вызвало удивление в организационном комитете турнира.</segment>
+		<segment id="62" parent="64" relname="span">\"Мне даже сложно как-то комментировать эти слова,</segment>
+		<segment id="63" parent="62" relname="attribution">- заявил газете \"Спорт-Экспресс\" гендиректор оргкомитета \"Россия-2018\" Алексей Сорокин.</segment>
+		<segment id="66" parent="70" relname="span">- Вы слышали, что на эту тему сказал на пресс-конференции на прошлой неделе министр спорта, туризма и молодежной политики РФ Виталий Мутко.</segment>
+		<segment id="67" parent="68" relname="attribution">Он недвусмысленно заявил:</segment>
+		<segment id="68" parent="69" relname="span">игры ЧМ-2018 в Москве пройдут на двух аренах.</segment>
+		<segment id="71" parent="72" relname="attribution">Получается, что нынешнее заявление противоречит словам министра?\"\n\nРуководитель строительного департамента на пресс-конференции в среду также отметил,</segment>
+		<segment id="72" parent="73" relname="span">что к чемпионату мира будут подготовлены 14 тренировочных площадок с травяным покрытием.</segment>
+		<segment id="74" parent="75" relname="cause-effect">Это стадион \"Истра\", стадион \"Измайлово\", стадион \"Спартак\" в Сокольниках, стадион имени Стрельцова, стадион Института дружбы народов, стадион \"Янтарь\", стадион \"Песчаный\" и ряд других.\n\nЭти мероприятия будут проводиться не обязательно за счет бюджетных средств,</segment>
+		<segment id="75" parent="76" relname="span">здесь возможно привлечение инвестиций.</segment>
+		<segment id="78" parent="84" relname="span">Также за бюджетные средства предусмотрена подготовка в ближайшие три года десяти полей с искусственным покрытием.\n\</segment>
+		<segment id="79" parent="82" relname="attribution">nПо предварительной оценке,</segment>
+		<segment id="80" parent="82" relname="comparison">инвестиционная емкость этих мероприятий может составить около 48 миллиардов,</segment>
+		<segment id="81" parent="82" relname="comparison">плюс нагрузка на бюджет города по инфраструктуре.\n\nИсточник: https://www.newsru.com/sport/19Oct2011/arena.html\n</segment>
+		<group id="40" type="multinuc" parent="91" relname="preparation"/>
+		<group id="34" type="multinuc" parent="40" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="38" type="span" parent="35" relname="attribution"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="45" type="span" parent="90" relname="preparation"/>
+		<group id="43" type="multinuc" parent="45" relname="span"/>
+		<group id="90" type="span" parent="91" relname="span"/>
+		<group id="48" type="span" parent="89" relname="preparation"/>
+		<group id="89" type="multinuc" parent="90" relname="span"/>
+		<group id="51" type="multinuc" parent="89" relname="joint"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="58" type="span" parent="88" relname="joint"/>
+		<group id="54" type="span" parent="58" relname="span"/>
+		<group id="57" type="multinuc" parent="54" relname="elaboration"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="65" type="span" parent="87" relname="joint"/>
+		<group id="61" type="multinuc" parent="65" relname="span"/>
+		<group id="64" type="span" parent="61" relname="elaboration"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="70" type="span" parent="86" relname="joint"/>
+		<group id="69" type="span" parent="66" relname="elaboration"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="77" type="span" parent="85" relname="joint"/>
+		<group id="73" type="span" parent="77" relname="span"/>
+		<group id="76" type="span" parent="73" relname="evidence"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="83" type="span" parent="78" relname="elaboration"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

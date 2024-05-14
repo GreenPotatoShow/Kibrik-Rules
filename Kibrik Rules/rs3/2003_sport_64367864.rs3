@@ -1,0 +1,67 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="28" relname="span">Вальдемарас Хомичюс назначен главным тренером БК 'Динамо'\n\nВальдемарас Хомичюс назначен главным тренером БК 'Динамо'.</segment>
+		<segment id="27" parent="26" relname="elaboration">Сегодня бывший наставник 'Урал-Грейта' подписал контракт с московским клубом.</segment>
+		<segment id="29" parent="31" relname="span">Сразу после этого новый наставник дал небольшое интервью официальному сайту пермяков.\n\n'Я благодарен 'Урал-Грейту' за эти четыре сезона,</segment>
+		<segment id="30" parent="29" relname="attribution">- сказал Хомичюс.</segment>
+		<segment id="33" parent="35" relname="joint">- Именно в Перми я приобрел неоценимый опыт</segment>
+		<segment id="34" parent="35" relname="joint">и превратился из игрока в тренера.</segment>
+		<segment id="36" parent="35" relname="elaboration">Пермь стала для меня вторым домом.</segment>
+		<segment id="38" parent="40" relname="span">Я буду очень скучать по атмосфере,</segment>
+		<segment id="39" parent="38" relname="elaboration">которая царит на матчах в УДС 'Молот'.</segment>
+		<segment id="42" parent="46" relname="span">С другой стороны, хочу,</segment>
+		<segment id="43" parent="44" relname="purpose">чтобы вы поняли меня</segment>
+		<segment id="44" parent="45" relname="span">- в моей карьере наступил новый виток.</segment>
+		<segment id="47" parent="48" relname="cause-effect">Я уже готов к самостоятельной работе</segment>
+		<segment id="48" parent="49" relname="span">и поэтому с благодарностью принял приглашение президента БК 'Динамо' (Москва) Евгения Гомельского.</segment>
+		<segment id="50" parent="49" relname="elaboration">Впереди у меня много работы.</segment>
+		<segment id="53" parent="55" relname="joint">Я надеюсь добиться с моей новой командой высоких результатов,</segment>
+		<segment id="54" parent="55" relname="joint">и с нетерпением буду ждать первого матча в Перми между нашими клубами'.\n\nРешение Вальдемараса Хомичюса комментирует генеральный директор ПБК 'Урал-Грейт' Павел Лях:</segment>
+		<segment id="56" parent="57" relname="sequence">'Мы благодарны Вальдемарасу за все, что он сделал в 'Урал-Грейте'.</segment>
+		<segment id="58" parent="60" relname="joint">В течение четырех сезонов при его активном участии</segment>
+		<segment id="59" parent="60" relname="joint">команда добивалась самых высоких результатов на российском и европейском уровне.</segment>
+		<segment id="61" parent="60" relname="elaboration">Мы гордимся тем, что Пермь по-прежнему остается кузницей баскетбольных кадров.</segment>
+		<segment id="63" parent="65" relname="joint">От нас уехали в Европу</segment>
+		<segment id="64" parent="65" relname="joint">и ярко заявили о себе Пачесас, Чикалкин и Авлеев.</segment>
+		<segment id="66" parent="67" relname="sequence">Теперь настала очередь Вальдемараса совершить вертикальный взлет в карьере.</segment>
+		<segment id="68" parent="67" relname="elaboration">Мы желаем ему удачи!'\n\nИсточник: https://www.newsru.com/sport/30May2003/64367864.html\n</segment>
+		<group id="32" type="multinuc" parent="73" relname="preparation"/>
+		<group id="28" type="span" parent="32" relname="sequence"/>
+		<group id="31" type="span" parent="32" relname="sequence"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="41" type="span" parent="73" relname="joint"/>
+		<group id="37" type="span" parent="41" relname="span"/>
+		<group id="35" type="multinuc" parent="37" relname="span"/>
+		<group id="40" type="span" parent="37" relname="interpretation-evaluation"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="52" type="span" parent="71" relname="preparation"/>
+		<group id="46" type="span" parent="51" relname="preparation"/>
+		<group id="45" type="span" parent="42" relname="purpose"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="49" type="span" parent="51" relname="span"/>
+		<group id="71" type="multinuc" parent="72" relname="span"/>
+		<group id="57" type="multinuc" parent="71" relname="joint"/>
+		<group id="55" type="multinuc" parent="57" relname="sequence"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="62" type="span" parent="70" relname="joint"/>
+		<group id="60" type="multinuc" parent="62" relname="span"/>
+		<group id="69" type="span" parent="70" relname="joint"/>
+		<group id="67" type="multinuc" parent="69" relname="span"/>
+		<group id="65" type="multinuc" parent="67" relname="sequence"/>
+		<group id="74" type="span"/>
+	</body>
+</rst>

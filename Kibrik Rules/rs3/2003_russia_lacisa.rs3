@@ -1,0 +1,22 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="7" parent="9" relname="span">20 детей отравились завтраками в школе N 829 в Москве\n\nОколо 20 учащихся блока начальных классов школы N 829 на улице Виллиса Лациса (Северо-Западный округ) получили пищевое отравление,</segment>
+		<segment id="8" parent="7" relname="elaboration">передает \"Интерфакс\".\n\nУ детей подозревают пищевую токсикоинфекцию.</segment>
+		<segment id="12" parent="16" relname="contrast">По предварительным данным, все школьники, которые почувствовали недомогание, ели в среду на завтрак творожные сырки.\n\nСостояние детей оценивается как удовлетворительное.</segment>
+		<segment id="13" parent="14" relname="attribution">Вместе с тем он не исключил,</segment>
+		<segment id="14" parent="15" relname="span">что часть пострадавших придется госпитализировать.\n\nИсточник: https://www.newsru.com/russia/15Oct2003/lacisa.html\n</segment>
+		<group id="9" type="span" parent="17" relname="joint"/>
+		<group id="16" type="multinuc" parent="17" relname="joint"/>
+		<group id="15" type="span" parent="16" relname="contrast"/>
+		<group id="17" type="multinuc"/>
+	</body>
+</rst>

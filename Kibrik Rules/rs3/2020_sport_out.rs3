@@ -1,0 +1,46 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="19" relname="span">Тренера и легионеров \"Спартака\" вывезли из РФ на частном самолете одного из игроков\n\nПолузащитник московского футбольного клуба \"Спартак\" Андре Шюррле организовал вывоз из России на частном самолете главного тренера команды Доменико Тедеско и нескольких одноклубников.</segment>
+		<segment id="18" parent="17" relname="attribution">Об этом сообщил немецкому изданию Bild один из эвакуированных - тренер вратарей Макс Урванчки.\n\</segment>
+		<segment id="20" parent="21" relname="attribution">nСообщается,</segment>
+		<segment id="21" parent="22" relname="span">что вместе с Тедеско и Урванчки также улетели футболисты-иностранцы француз Самуэль Жиго, чех Алекс Крал и голландец Гус Тил.</segment>
+		<segment id="25" parent="31" relname="span">Регулярные рейсы, на которые они ранее приобрели билеты, были отменены из-за коронавируса.\n\n</segment>
+		<segment id="26" parent="28" relname="span">\"Мы обратились в немецкое посольство,</segment>
+		<segment id="27" parent="26" relname="elaboration">там нам дали телефон горячей линии,</segment>
+		<segment id="29" parent="30" relname="contrast">но в итоге нам помочь не смогли\",</segment>
+		<segment id="33" parent="35" relname="span">- отметил Урванчки.\n\nСам Шюррле некоторое время находится в Берлине,</segment>
+		<segment id="34" parent="33" relname="elaboration">где восстанавливается после травмы голеностопа.</segment>
+		<segment id="36" parent="42" relname="joint">Немец был арендован красно-белыми у дортмундской \"Боруссии\"</segment>
+		<segment id="37" parent="41" relname="span">и выкупать его контракт \"Спартак\" не собирается.\n\nЧемпионат России по футболу был прерван 17 марта</segment>
+		<segment id="38" parent="39" relname="cause-effect">из-за коронавируса</segment>
+		<segment id="39" parent="40" relname="span">и возобновится не раньше середины июня.</segment>
+		<segment id="45" parent="44" relname="elaboration">На данный момент в РПЛ сыграны 22 тура из 30 запланированных.\n\nИсточник: https://www.newsru.com/sport/20Apr2020/out.html\n</segment>
+		<group id="19" type="span" parent="46" relname="preparation"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="44" type="multinuc" parent="46" relname="span"/>
+		<group id="32" type="span" parent="44" relname="joint"/>
+		<group id="22" type="span" parent="32" relname="span"/>
+		<group id="31" type="span" parent="22" relname="elaboration"/>
+		<group id="30" type="multinuc" parent="25" relname="elaboration"/>
+		<group id="28" type="span" parent="30" relname="contrast"/>
+		<group id="43" type="span" parent="44" relname="joint"/>
+		<group id="35" type="span" parent="43" relname="span"/>
+		<group id="42" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="40" type="span" parent="37" relname="cause-effect"/>
+		<group id="47" type="span"/>
+	</body>
+</rst>

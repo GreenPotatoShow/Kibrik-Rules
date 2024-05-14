@@ -1,0 +1,147 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="64" parent="65" relname="attribution">Росстат обнаружил,</segment>
+		<segment id="65" parent="66" relname="span">что из-за кризиса количество бедных в России не увеличилось\n\</segment>
+		<segment id="67" parent="69" relname="joint">nС началом кризиса число бедных в России парадоксальным образом не увеличивается,</segment>
+		<segment id="68" parent="69" relname="joint">а сокращается.</segment>
+		<segment id="70" parent="75" relname="attribution">Росстат сообщил,</segment>
+		<segment id="71" parent="74" relname="cause-effect">что уровень бедности по итогам прошлого года снизился,</segment>
+		<segment id="72" parent="74" relname="span">что кардинально расходится с выводами Всемирного банка,</segment>
+		<segment id="73" parent="72" relname="elaboration">который исследовал российскую бедность.</segment>
+		<segment id="77" parent="80" relname="attribution">Минэкономразвития, в свою очередь, также настаивает,</segment>
+		<segment id="78" parent="80" relname="comparison">что доля граждан с доходами ниже прожиточного минимума в 2009–2012 годах будет заметно ниже, чем в \"тучные\" 2005–2006 годы,</segment>
+		<segment id="79" parent="80" relname="comparison">что также противоречит выводам Всемирного банка.</segment>
+		<segment id="84" parent="92" relname="joint">Такие парадоксы российской статистики эксперты объясняют директивным назначением прожиточного минимума,</segment>
+		<segment id="85" parent="87" relname="span">а также планами увеличения пенсий,</segment>
+		<segment id="86" parent="85" relname="elaboration">которые формально выведут пенсионеров из бедности,</segment>
+		<segment id="88" parent="89" relname="attribution">пишет в пятницу \"Независимая газета\".\n\nСудя по данным Росстата,</segment>
+		<segment id="89" parent="90" relname="span">в 2008 году доля граждан, находящихся за чертой бедности, опустилась до 13,1% против 13,3% в 2007 году.</segment>
+		<segment id="93" parent="95" relname="comparison">В абсолютных цифрах доходы ниже прожиточного минимума в 2008 году имели 18,5 млн россиян,</segment>
+		<segment id="94" parent="95" relname="comparison">тогда как в 2007 году таких было на 200 тысяч человек больше.</segment>
+		<segment id="97" parent="109" relname="span">Результат удивляет,</segment>
+		<segment id="98" parent="101" relname="condition">особенно если учесть, что в 2006 году бедными,</segment>
+		<segment id="99" parent="100" relname="attribution">по данным Росстата,</segment>
+		<segment id="100" parent="101" relname="span">были 15,2% населения, или 21,5 млн человек,</segment>
+		<segment id="103" parent="107" relname="span">а в 2005 году – 17,7%, или 25,2 млн россиян</segment>
+		<segment id="104" parent="105" relname="attribution">.\n\nВ Росстате изданию разъяснили,</segment>
+		<segment id="105" parent="106" relname="span">что ничего странного в этих тенденциях нет.</segment>
+		<segment id="110" parent="113" relname="attribution">По словам главы ведомства Владимира Соколина,</segment>
+		<segment id="111" parent="113" relname="span">нельзя забывать, что первая половина 2008 года была благополучной,</segment>
+		<segment id="112" parent="111" relname="cause-effect">что не могло не отразиться на результатах по итогам года.</segment>
+		<segment id="116" parent="124" relname="same-unit">Кроме того,</segment>
+		<segment id="117" parent="122" relname="attribution">по его словам,</segment>
+		<segment id="118" parent="122" relname="span">в России основную массу бедных составляют пенсионеры,</segment>
+		<segment id="119" parent="121" relname="span">пенсии которых последнее время регулярно индексируются,</segment>
+		<segment id="120" parent="119" relname="purpose">что позволяет многим из них выйти из категории граждан, живущих за чертой бедности.</segment>
+		<segment id="125" parent="127" relname="span">\"Нельзя также не учитывать, что в кризис, как правило, снижается разрыв между наиболее бедными и богатыми слоями граждан</segment>
+		<segment id="126" parent="125" relname="cause-effect">за счет снижения уровня зарплат при неизменных или растущих пенсиях\",</segment>
+		<segment id="128" parent="127" relname="interpretation-evaluation">– обратил внимание Соколин.\n\nНе менее радужны и ближайшие перспективы, которые прогнозируют официальные органы.</segment>
+		<segment id="130" parent="132" relname="comparison">В отличие от развитых стран,</segment>
+		<segment id="131" parent="132" relname="comparison">где уровень бедности измеряется по отношению к средним доходам,</segment>
+		<segment id="133" parent="137" relname="span">в России черта бедности проведена по физиологическому минимуму потребления,</segment>
+		<segment id="134" parent="136" relname="joint">цена которого ежеквартально</segment>
+		<segment id="135" parent="136" relname="joint">и ежегодно утверждается региональными и федеральными властями.</segment>
+		<segment id="139" parent="141" relname="span">В связи с этим Минэкономразвития может планировать на будущее как стоимость минимальной потребительской корзины, так и величину минимальных пенсий и пособий,</segment>
+		<segment id="140" parent="139" relname="elaboration">которые во многом и определяют уровень бедности в стране.\n\</segment>
+		<segment id="144" parent="150" relname="comparison">nТак, согласно последним рабочим прогнозам Минэкономразвития на 2009–2012 годы,</segment>
+		<segment id="145" parent="147" relname="comparison">уровень бедности в Российской Федерации в 2009 году вырастет до 14%,</segment>
+		<segment id="146" parent="147" relname="comparison">в 2010 году останется в пределах 13,9–14%,</segment>
+		<segment id="148" parent="149" relname="comparison">в 2011-м снизится до 13,7–13,9%, в 2012-м – до 13,3–13,7%.</segment>
+		<segment id="151" parent="159" relname="comparison">То есть опять-таки доля бедных россиян в структуре общества будет существенно ниже, чем в докризисные годы,</segment>
+		<segment id="152" parent="158" relname="comparison">за исключением сверхблагополучных 2007 и 2008 годов.\n\nПрожиточный минимум в РФ,</segment>
+		<segment id="153" parent="156" relname="attribution">согласно расчетам Росстата,</segment>
+		<segment id="154" parent="156" relname="comparison">в четвертом квартале 2008 года составил 4693 рубля на одного человека в месяц</segment>
+		<segment id="155" parent="156" relname="comparison">(против 4005 рублей в четвертом квартале 2007 года).</segment>
+		<segment id="160" parent="162" relname="comparison">В том числе для трудоспособного населения – 5086 рублей (4330 рублей),</segment>
+		<segment id="161" parent="162" relname="comparison">для пенсионеров – 3712 рублей (3191 рубль),</segment>
+		<segment id="163" parent="169" relname="span">для детей – 4472 рубля (3830 рублей).\n\nПоследние данные о сокращении бедности расходятся с выводами экспертов Всемирного банка (ВБ),</segment>
+		<segment id="164" parent="167" relname="attribution">которые в марте 2009 года сообщили,</segment>
+		<segment id="165" parent="166" relname="cause-effect">что \"число бедных в России может увеличиться на 2,75 млн,</segment>
+		<segment id="166" parent="167" relname="span">что перечеркнет достижения по снижению уровня бедности, достигнутые в последние годы\".</segment>
+		<segment id="173" parent="176" relname="attribution">По расчетам ВБ,</segment>
+		<segment id="174" parent="176" relname="comparison">к концу 2009 года доля бедного населения составит 15,5%,</segment>
+		<segment id="175" parent="176" relname="comparison">увеличившись на 2,84% по сравнению с докризисным уровнем 2008 года.</segment>
+		<segment id="178" parent="180" relname="joint">Это означает, что число бедных увеличилось приблизительно на 1,1 млн человек в 2008 году</segment>
+		<segment id="179" parent="180" relname="joint">и увеличится еще на 4,7 млн человек в 2009 году.\n\nИсточник: https://www.newsru.com/finance/29May2009/rosstat.html\n</segment>
+		<group id="66" type="span" parent="187" relname="preparation"/>
+		<group id="187" type="multinuc" parent="188" relname="span"/>
+		<group id="83" type="multinuc" parent="187" relname="joint"/>
+		<group id="69" type="multinuc" parent="83" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="76" type="span" parent="82" relname="joint"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="74" type="span" parent="75" relname="span"/>
+		<group id="81" type="span" parent="82" relname="joint"/>
+		<group id="80" type="multinuc" parent="81" relname="span"/>
+		<group id="186" type="multinuc" parent="187" relname="joint"/>
+		<group id="96" type="multinuc" parent="186" relname="joint"/>
+		<group id="92" type="multinuc" parent="96" relname="comparison"/>
+		<group id="91" type="span" parent="92" relname="joint"/>
+		<group id="87" type="span" parent="91" relname="span"/>
+		<group id="90" type="span" parent="87" relname="elaboration"/>
+		<group id="95" type="multinuc" parent="96" relname="comparison"/>
+		<group id="185" type="multinuc" parent="186" relname="joint"/>
+		<group id="115" type="span" parent="185" relname="joint"/>
+		<group id="109" type="span" parent="115" relname="span"/>
+		<group id="108" type="multinuc" parent="97" relname="condition"/>
+		<group id="102" type="span" parent="108" relname="comparison"/>
+		<group id="101" type="span" parent="102" relname="span"/>
+		<group id="107" type="span" parent="108" relname="comparison"/>
+		<group id="106" type="span" parent="103" relname="cause-effect"/>
+		<group id="114" type="span" parent="109" relname="interpretation-evaluation"/>
+		<group id="113" type="span" parent="114" relname="span"/>
+		<group id="184" type="multinuc" parent="185" relname="joint"/>
+		<group id="124" type="multinuc" parent="184" relname="joint"/>
+		<group id="123" type="span" parent="124" relname="same-unit"/>
+		<group id="122" type="span" parent="123" relname="span"/>
+		<group id="121" type="span" parent="118" relname="elaboration"/>
+		<group id="183" type="multinuc" parent="184" relname="joint"/>
+		<group id="143" type="multinuc" parent="183" relname="joint"/>
+		<group id="129" type="span" parent="143" relname="comparison"/>
+		<group id="127" type="span" parent="129" relname="span"/>
+		<group id="142" type="multinuc" parent="143" relname="comparison"/>
+		<group id="138" type="multinuc" parent="142" relname="comparison"/>
+		<group id="132" type="multinuc" parent="138" relname="comparison"/>
+		<group id="137" type="span" parent="138" relname="comparison"/>
+		<group id="136" type="multinuc" parent="133" relname="elaboration"/>
+		<group id="141" type="span" parent="142" relname="comparison"/>
+		<group id="182" type="multinuc" parent="183" relname="joint"/>
+		<group id="172" type="multinuc" parent="182" relname="comparison"/>
+		<group id="150" type="multinuc" parent="172" relname="restatement"/>
+		<group id="149" type="multinuc" parent="150" relname="comparison"/>
+		<group id="147" type="multinuc" parent="149" relname="comparison"/>
+		<group id="171" type="multinuc" parent="172" relname="restatement"/>
+		<group id="159" type="multinuc" parent="171" relname="comparison"/>
+		<group id="158" type="multinuc" parent="159" relname="comparison"/>
+		<group id="157" type="span" parent="158" relname="comparison"/>
+		<group id="156" type="multinuc" parent="157" relname="span"/>
+		<group id="170" type="multinuc" parent="171" relname="comparison"/>
+		<group id="162" type="multinuc" parent="170" relname="joint"/>
+		<group id="169" type="span" parent="170" relname="joint"/>
+		<group id="168" type="span" parent="163" relname="elaboration"/>
+		<group id="167" type="span" parent="168" relname="span"/>
+		<group id="181" type="multinuc" parent="182" relname="comparison"/>
+		<group id="177" type="span" parent="181" relname="restatement"/>
+		<group id="176" type="multinuc" parent="177" relname="span"/>
+		<group id="180" type="multinuc" parent="181" relname="restatement"/>
+		<group id="188" type="span"/>
+	</body>
+</rst>

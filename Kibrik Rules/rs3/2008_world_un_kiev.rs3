@@ -1,0 +1,45 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="18" relname="span">ООН и Киев ведут переговоры об отправке в Судан украинских миротворцев и военных вертолетов\n\nПереговоры об отправке в Судан военных вертолетов и миротворцев из Украины</segment>
+		<segment id="17" parent="16" relname="purpose">для участия в миротворческой операции в Дарфуре ведутся между Объединенными Нациями и Киевом.</segment>
+		<segment id="19" parent="18" relname="attribution">Об этом сообщил генеральный секретарь ООН Пан Ги Мун.\n\n\"В ходе общеполитической дискуссии на 63-й сессии Генеральной Ассамблеи ООН этот вопрос обсуждался с президентом Украины Виктором Ющенко\",</segment>
+		<segment id="21" parent="20" relname="attribution">- отметил он.</segment>
+		<segment id="23" parent="25" relname="span">\"На прошлой неделе в Нью-Йорке прошли переговоры на эту тему с министром обороны Украины\",</segment>
+		<segment id="24" parent="23" relname="attribution">- добавил административный глава международного сообщества.\n\</segment>
+		<segment id="26" parent="31" relname="attribution">nПо его словам,</segment>
+		<segment id="27" parent="31" relname="comparison">к концу 2008 года Смешанная операция Африканского союза-ООН в Дарфуре будет укомплектована на 65 процентов,</segment>
+		<segment id="28" parent="30" relname="span">а к марту 2009 на 85 процентов.\n\nНедавно власти Судана дали согласие на пополнение этой миссии батальонами из Таиланда и Непала,</segment>
+		<segment id="29" parent="28" relname="attribution">указал Пан Ги Мун,</segment>
+		<segment id="33" parent="35" relname="span">передает ИТАР-ТАСС.\n\nРешение об учреждении миссии Африканского союза и ООН,</segment>
+		<segment id="34" parent="33" relname="elaboration">в рамках которой должен быть развернут 20-тысячный миротворческий контингент и шесть тысяч полицейских,</segment>
+		<segment id="36" parent="40" relname="contrast">было принято Советом Безопасности ООН 31 июля 2007 года.\n\nДанная операция носит, в основном, африканский характер,</segment>
+		<segment id="37" parent="39" relname="joint">однако страны Черного континента не могут предоставить необходимое число миротворцев,</segment>
+		<segment id="38" parent="39" relname="joint">и ООН вынуждена обращаться за помощью к другим государствам.\n\nИсточник: https://www.newsru.com/world/08Oct2008/un_kiev.html\n</segment>
+		<group id="22" type="span" parent="44" relname="span"/>
+		<group id="20" type="span" parent="22" relname="span"/>
+		<group id="18" type="span" parent="20" relname="span"/>
+		<group id="43" type="multinuc" parent="22" relname="elaboration"/>
+		<group id="25" type="span" parent="43" relname="joint"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="32" type="span" parent="42" relname="joint"/>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="30" type="span" parent="31" relname="comparison"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="35" type="span" parent="41" relname="joint"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="39" type="multinuc" parent="40" relname="contrast"/>
+		<group id="44" type="span"/>
+	</body>
+</rst>

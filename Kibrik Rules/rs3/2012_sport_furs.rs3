@@ -1,0 +1,141 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="60" parent="63" relname="preparation">РФС: Все, что у нас сходит с рук,</segment>
+		<segment id="61" parent="63" relname="joint">в Польше будет наказываться очень жестко\n\nПрезидент Российского футбольного союза (РФС) Сергей Фурсенко прокомментировал скандальные события во время дебютного матча нашей сборной на групповом этапе чемпионата Европы во Вроцлаве</segment>
+		<segment id="62" parent="63" relname="joint">и посоветовал российским фанатам оставить любую агрессию дома.\n\nЕвро-2012: Расписание и результаты матчей\n\</segment>
+		<segment id="65" parent="70" relname="attribution">nПо его словам,</segment>
+		<segment id="66" parent="70" relname="sequence">потасовка между нашими болельщиками и стюардами произошла в подтрибунном помещении вроцлавского стадиона</segment>
+		<segment id="67" parent="69" relname="sequence">после того, как служба безопасности вычислила человека, который бросил на поле файер,</segment>
+		<segment id="68" parent="69" relname="sequence">и попыталась его задержать.</segment>
+		<segment id="72" parent="74" relname="span">Соответственно его товарищи оказали сопротивление,</segment>
+		<segment id="73" parent="72" relname="cause-effect">решив отбить нарушителя.</segment>
+		<segment id="75" parent="79" relname="contrast">У них это получилось,</segment>
+		<segment id="76" parent="78" relname="joint">но все участники инцидента зафиксированы камерами,</segment>
+		<segment id="77" parent="78" relname="joint">и их наверняка ждут неприятности.\n\n</segment>
+		<segment id="82" parent="84" relname="span">\"Здесь, в Польше, соответствующие законы куда более суровы, чем в России,</segment>
+		<segment id="83" parent="82" relname="attribution">- отметил Сергей Фурсенко в интервью газете \"Спорт-Экспресс\".</segment>
+		<segment id="86" parent="88" relname="comparison">- Мы, конечно, будем помогать своим,</segment>
+		<segment id="87" parent="88" relname="comparison">чем сможем,</segment>
+		<segment id="89" parent="90" relname="cause-effect">но тот, кто специально ищет подобные приключения,</segment>
+		<segment id="90" parent="91" relname="span">должен понимать, на что идет.</segment>
+		<segment id="93" parent="99" relname="span">Хочу еще раз предупредить всех, кто собирается на матчи нашей сборной в Варшаве:</segment>
+		<segment id="94" parent="98" relname="joint">правила, касающиеся файеров,</segment>
+		<segment id="95" parent="97" relname="joint">здесь очень жесткие,</segment>
+		<segment id="96" parent="97" relname="joint">а видеонаблюдение на Евро поставлено прекрасно.</segment>
+		<segment id="101" parent="109" relname="span">Имейте это в виду:</segment>
+		<segment id="102" parent="104" relname="joint">все, что у нас сходит с рук,</segment>
+		<segment id="103" parent="104" relname="joint">тут будет наказываться очень жестко!\"\n\nПольская полиция объявила в розыск 12 участников драки (ФОТО),</segment>
+		<segment id="105" parent="107" relname="span">в результате которой один из стюардов попал в больницу.</segment>
+		<segment id="106" parent="105" relname="elaboration">Их удалось идентифицировать по записям камер видеонаблюдения.</segment>
+		<segment id="110" parent="112" relname="joint">\"Для нас важно, чтобы эти люди были как можно скорее пойманы</segment>
+		<segment id="111" parent="112" relname="joint">и ответили за свои действия.</segment>
+		<segment id="113" parent="114" relname="condition">Если потребуется,</segment>
+		<segment id="114" parent="115" relname="span">мы задействуем международные каналы\",</segment>
+		<segment id="116" parent="115" relname="attribution">- заявили представители полиции</segment>
+		<segment id="120" parent="122" relname="span">.\n\nРоссийские болельщики готовят провокацию на матче с Польшей\n\nРоссийские болельщики запланировали проведение провокационной акции на матче второго тура группового этапа Евро-2012 между сборными России и Польши,</segment>
+		<segment id="121" parent="120" relname="elaboration">который состоится в Варшаве 12 июня.\n\</segment>
+		<segment id="123" parent="126" relname="attribution">nКак сообщил в своем блоге глава спортивного отдела \"Московского комсомольца\" Алексей Лебедев,</segment>
+		<segment id="124" parent="125" relname="condition">во время исполнения гимна</segment>
+		<segment id="125" parent="126" relname="span">фанаты собираются запустить бумажные самолетики на поле.</segment>
+		<segment id="128" parent="127" relname="elaboration">Причем сделано это скорее всего будет на фоне баннера с надписью \"Смоленск\".\n\</segment>
+		<segment id="131" parent="135" relname="sequence">nНапомним, что в авиакатастрофе под Смоленском в апреле 2010 года погибли 96 человек,</segment>
+		<segment id="132" parent="134" relname="span">в том числе президент Польши Лех Качиньский.\n\nРФС: Уважайте себя, свою Родину и свою команду\n\nМВД России ранее сообщило о задержании четверых российских болельщиков,</segment>
+		<segment id="133" parent="132" relname="background">участвовавших в драке после мачта сборных России и Чехии 8 июня.</segment>
+		<segment id="136" parent="148" relname="joint">Их ждет суд.</segment>
+		<segment id="137" parent="140" relname="attribution">Еще нескольких задержали за драку с турками 7 июня.\n\nНапомним также,</segment>
+		<segment id="138" parent="140" relname="span">что УЕФА открыл дисциплинарное дело в отношении РФС</segment>
+		<segment id="139" parent="138" relname="cause-effect">в связи с неподобающим поведением болельщиков на матче между сборными России и Чехии.</segment>
+		<segment id="142" parent="145" relname="interpretation-evaluation">Помимо драки,</segment>
+		<segment id="143" parent="145" relname="joint">наши болельщики бросали на поле фейерверки,</segment>
+		<segment id="144" parent="145" relname="joint">а также демонстрировали баннеры с недозволенным содержанием на пятничном матче.</segment>
+		<segment id="150" parent="156" relname="span">Кроме того, УЕФА в сотрудничестве с FARE начнет расследование в связи с полученной информацией об оскорблении чешских футболистов российскими фанатами.\n\nРФС на своем официальном сайте обратился к болельщикам сборной России с призывом предотвращать провокации на трибунах</segment>
+		<segment id="151" parent="153" relname="span">.\n\n\"Тем, кто выбирает спортивные арены</segment>
+		<segment id="152" parent="151" relname="purpose">для декларирования своих личных политических и прочих позиций,</segment>
+		<segment id="154" parent="155" relname="span">не место на трибунах.</segment>
+		<segment id="157" parent="159" relname="joint">В этой связи РФС и национальная сборная России убедительно просят всех настоящих болельщиков противостоять провокационным действиям хулиганов</segment>
+		<segment id="158" parent="159" relname="joint">и оказывать полное содействие организаторам матчей в вопросах обеспечения безопасности.</segment>
+		<segment id="160" parent="159" relname="elaboration">Мы обращаемся ко всем болельщикам, находящимся в Польше.</segment>
+		<segment id="162" parent="164" relname="joint">Помните, что вы представляете свою страну.</segment>
+		<segment id="163" parent="164" relname="joint">Уважайте себя, свою Родину и свою команду\",</segment>
+		<segment id="167" parent="166" relname="attribution">- говорится в заявлении</segment>
+		<segment id="169" parent="168" relname="attribution">.\n\nРанее аналогичный призыв прозвучал от лица тренеров и игроков национальной сборной России.\n\nИсточник: https://www.newsru.com/sport/11Jun2012/furs.html\n</segment>
+		<group id="64" type="span" parent="175" relname="preparation"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="175" type="multinuc" parent="176" relname="span"/>
+		<group id="85" type="span" parent="175" relname="joint"/>
+		<group id="81" type="multinuc" parent="85" relname="span"/>
+		<group id="71" type="span" parent="81" relname="sequence"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="69" type="multinuc" parent="70" relname="sequence"/>
+		<group id="80" type="span" parent="81" relname="sequence"/>
+		<group id="74" type="span" parent="80" relname="span"/>
+		<group id="79" type="multinuc" parent="74" relname="elaboration"/>
+		<group id="78" type="multinuc" parent="79" relname="contrast"/>
+		<group id="84" type="span" parent="81" relname="attribution"/>
+		<group id="174" type="span" parent="175" relname="joint"/>
+		<group id="100" type="span" parent="173" relname="preparation"/>
+		<group id="92" type="multinuc" parent="100" relname="span"/>
+		<group id="88" type="multinuc" parent="92" relname="contrast"/>
+		<group id="91" type="span" parent="92" relname="contrast"/>
+		<group id="99" type="span" parent="92" relname="interpretation-evaluation"/>
+		<group id="98" type="multinuc" parent="93" relname="elaboration"/>
+		<group id="97" type="multinuc" parent="98" relname="joint"/>
+		<group id="173" type="multinuc" parent="174" relname="span"/>
+		<group id="119" type="span" parent="173" relname="joint"/>
+		<group id="109" type="span" parent="119" relname="span"/>
+		<group id="108" type="span" parent="101" relname="elaboration"/>
+		<group id="104" type="multinuc" parent="107" relname="cause-effect"/>
+		<group id="107" type="span" parent="108" relname="span"/>
+		<group id="118" type="span" parent="109" relname="elaboration"/>
+		<group id="112" type="multinuc" parent="118" relname="span"/>
+		<group id="117" type="span" parent="112" relname="elaboration"/>
+		<group id="115" type="span" parent="117" relname="span"/>
+		<group id="172" type="multinuc" parent="173" relname="joint"/>
+		<group id="130" type="multinuc" parent="172" relname="joint"/>
+		<group id="122" type="span" parent="130" relname="joint"/>
+		<group id="129" type="span" parent="130" relname="joint"/>
+		<group id="127" type="span" parent="129" relname="span"/>
+		<group id="126" type="span" parent="127" relname="span"/>
+		<group id="171" type="multinuc" parent="172" relname="joint"/>
+		<group id="149" type="multinuc" parent="171" relname="joint"/>
+		<group id="135" type="multinuc" parent="149" relname="joint"/>
+		<group id="134" type="span" parent="135" relname="sequence"/>
+		<group id="148" type="multinuc" parent="149" relname="joint"/>
+		<group id="147" type="multinuc" parent="148" relname="joint"/>
+		<group id="141" type="span" parent="147" relname="joint"/>
+		<group id="140" type="span" parent="141" relname="span"/>
+		<group id="146" type="span" parent="147" relname="joint"/>
+		<group id="145" type="multinuc" parent="146" relname="span"/>
+		<group id="170" type="span" parent="171" relname="joint"/>
+		<group id="168" type="span" parent="170" relname="span"/>
+		<group id="166" type="multinuc" parent="168" relname="span"/>
+		<group id="156" type="span" parent="166" relname="joint"/>
+		<group id="155" type="span" parent="150" relname="cause-effect"/>
+		<group id="153" type="span" parent="154" relname="condition"/>
+		<group id="165" type="span" parent="166" relname="joint"/>
+		<group id="161" type="span" parent="165" relname="span"/>
+		<group id="159" type="multinuc" parent="161" relname="span"/>
+		<group id="164" type="multinuc" parent="161" relname="elaboration"/>
+		<group id="176" type="span"/>
+	</body>
+</rst>

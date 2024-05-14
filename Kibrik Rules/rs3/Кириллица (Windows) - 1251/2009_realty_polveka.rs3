@@ -1,0 +1,199 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="88" parent="91" relname="attribution">Эксперты:</segment>
+		<segment id="89" parent="90" relname="purpose">чтобы обеспечить всех россиян жильем</segment>
+		<segment id="90" parent="91" relname="span">– понадобится полвека\n\</segment>
+		<segment id="93" parent="96" relname="purpose">nЧтобы обеспечить квартирами всех россиян,</segment>
+		<segment id="94" parent="96" relname="sequence">стоящих в очереди на улучшение жилищных условий,</segment>
+		<segment id="95" parent="96" relname="sequence">потребуется 20 лет,</segment>
+		<segment id="98" parent="97" relname="attribution">пишет \"Новые известия\".</segment>
+		<segment id="101" parent="105" relname="span">Такие выводы можно сделать,</segment>
+		<segment id="102" parent="103" relname="attribution">отмечает газета,</segment>
+		<segment id="103" parent="104" relname="span">проанализировав опубликованные в конце прошлой недели материалы Федерального фонда содействия развитию жилищного строительства (Фонда РЖС).</segment>
+		<segment id="106" parent="113" relname="attribution">Однако, по мнению независимых экспертов,</segment>
+		<segment id="107" parent="113" relname="span">и такой прогноз – слишком оптимистический,</segment>
+		<segment id="108" parent="112" relname="joint">в реальности же на это потребуется не менее 50 лет.\n\</segment>
+		<segment id="109" parent="111" relname="span">nСроки решения проблемы очередников вытекают из цифр, приведенных в стратегии развития Фонда РЖС на 2010 – 2014 годы,</segment>
+		<segment id="110" parent="109" relname="elaboration">которая была утверждена в конце прошлой недели.</segment>
+		<segment id="115" parent="119" relname="same-unit">Как уточняется в документе со ссылкой на проект федеральной целевой программы (ФЦП) \"Жилище\" на 2011 – 2015 годы,</segment>
+		<segment id="116" parent="118" relname="comparison">жилищный фонд России на сегодняшний день равен 3,1 млрд кв. метров,</segment>
+		<segment id="117" parent="118" relname="comparison">что соответствует примерно 58 млн жилых единиц – индивидуальных домов, квартир.</segment>
+		<segment id="120" parent="122" relname="span">В очереди стоят около 3 млн семей,</segment>
+		<segment id="121" parent="120" relname="elaboration">признанных нуждающимися в обеспечении жильем из государственных и муниципальных жилищных фондов.</segment>
+		<segment id="123" parent="128" relname="evidence">При этом в год его бесплатно получают примерно 150 тысяч домохозяйств.</segment>
+		<segment id="124" parent="127" relname="condition">Таким образом, если существующие темпы не изменятся,</segment>
+		<segment id="125" parent="126" relname="condition">на то, чтобы предоставить всем, кто имеет на это право, бесплатные жилые помещения,</segment>
+		<segment id="126" parent="127" relname="span">уйдет два десятилетия.\n\</segment>
+		<segment id="133" parent="136" relname="attribution">nКак отмечает издание,</segment>
+		<segment id="134" parent="136" relname="comparison">речь идет только о тех, кто официально признан очередником,</segment>
+		<segment id="135" parent="136" relname="comparison">тогда как вообще жилищная проблема стоит перед 60% российских семей, в той или иной степени не удовлетворенных условиями обитания.</segment>
+		<segment id="138" parent="140" relname="joint">Для 32% квартирный вопрос \"стоит достаточно остро</segment>
+		<segment id="139" parent="140" relname="joint">и требует решения в ближайшие три года\",</segment>
+		<segment id="141" parent="142" relname="attribution">говорится в материалах Фонда РЖС,</segment>
+		<segment id="142" parent="143" relname="span">а \"каждая четвертая семья имеет жилье, находящееся в плохом или очень плохом состоянии\".</segment>
+		<segment id="146" parent="147" relname="attribution">Специалисты также отмечают,</segment>
+		<segment id="147" parent="148" relname="span">что общая потребность населения России в жилье составляет в настоящее время 1,57 млрд кв. метров.</segment>
+		<segment id="149" parent="150" relname="purpose">\"Для удовлетворения этой потребности</segment>
+		<segment id="150" parent="151" relname="span">необходимо увеличить жилищный фонд на 46%\",</segment>
+		<segment id="152" parent="160" relname="span">– сообщается в документе.\n\nПодавляющему большинству нуждающихся в новых \"квадратах\" придется решать свои проблемы самим.</segment>
+		<segment id="153" parent="158" relname="attribution">Жилищный кодекс РФ определяет,</segment>
+		<segment id="154" parent="158" relname="span">что социальное жилье предоставляется только малоимущим гражданам.</segment>
+		<segment id="155" parent="156" relname="purpose">Чтобы попасть в эту категорию,</segment>
+		<segment id="156" parent="157" relname="span">необходимо, чтобы подобный статус был подтвержден органом местного самоуправления.</segment>
+		<segment id="163" parent="175" relname="joint">Тот, в свою очередь, учитывает доход, приходящийся на каждого члена семьи, и стоимость имущества, находящегося в их собственности и подлежащего налогообложению.</segment>
+		<segment id="164" parent="174" relname="joint">Также жилье может предоставляться иным категориям граждан, определенным федеральным законом, указом президента РФ или региональным законом.\n\nТак, в столице действует закон \"Об обеспечении права жителей города Москвы на жилые помещения\" от 14 июня 2006 года.</segment>
+		<segment id="165" parent="167" relname="joint">По нему поставить на очередь могут, например, горожан, живущих \"в помещениях, признанных непригодными для постоянного проживания</segment>
+		<segment id="166" parent="167" relname="joint">и не подлежащих ремонту\".</segment>
+		<segment id="168" parent="172" relname="span">Очередниками могут стать также граждане,</segment>
+		<segment id="169" parent="171" relname="joint">если они проживают в коммунальной квартире</segment>
+		<segment id="170" parent="171" relname="joint">и в составе одной из семей имеется больной, \"страдающий тяжелой формой хронического заболевания\".</segment>
+		<segment id="176" parent="178" relname="span">Болезнь при этом должна быть такой,</segment>
+		<segment id="177" parent="176" relname="purpose">чтобы совместное проживание с человеком, который ею страдает, в одной коммунальной квартире было невозможным.</segment>
+		<segment id="179" parent="178" relname="interpretation-evaluation">Все это необходимо подтвердить документами, выдаваемыми клинико-экспертными комиссиями.</segment>
+		<segment id="181" parent="180" relname="elaboration">Есть и другие \"льготные случаи\".\n\n20 лет – только Москве\n\</segment>
+		<segment id="183" parent="189" relname="same-unit">nНо,</segment>
+		<segment id="184" parent="187" relname="attribution">как отмечают независимые эксперты,</segment>
+		<segment id="185" parent="187" relname="span">реальные шансы получить квартиры,</segment>
+		<segment id="186" parent="185" relname="condition">встав в такую очередь, практически равны нулю.</segment>
+		<segment id="190" parent="195" relname="attribution">Поэтому эксперт в сфере недвижимости Ирина Радченко считает,</segment>
+		<segment id="191" parent="195" relname="span">что прогноз в 20 лет,</segment>
+		<segment id="194" parent="191" relname="elaboration">который фактически вытекает из материалов Фонда РЖС, слишком оптимистичен.</segment>
+		<segment id="199" parent="201" relname="span">\"Думаю, это лет 50 как минимум,</segment>
+		<segment id="200" parent="199" relname="attribution">– сказала эксперт \"НИ\".</segment>
+		<segment id="202" parent="222" relname="span">– Даже если проблема будет решаться такими темпами, как в Москве.</segment>
+		<segment id="203" parent="207" relname="span">А столица, надо признать,</segment>
+		<segment id="204" parent="206" relname="span">– это фактически единственный регион в РФ,</segment>
+		<segment id="205" parent="204" relname="elaboration">где социальное жилье еще более-менее строится.</segment>
+		<segment id="208" parent="214" relname="contrast">Говорить о том, что у государства есть какая-то вменяемая политика обеспечения граждан жильем,</segment>
+		<segment id="209" parent="213" relname="span">не приходится\".\n\</segment>
+		<segment id="210" parent="211" relname="attribution">nПо словам специалиста,</segment>
+		<segment id="211" parent="212" relname="span">в стране в целом \"нет ни политической воли, ни тех денежных средств, которые есть в Москве\".</segment>
+		<segment id="215" parent="214" relname="purpose">\"Поэтому дай бог, чтобы в регионах строилось хотя бы коммерческое жилье.</segment>
+		<segment id="217" parent="219" relname="span">И хоть как-то стимулировались спрос и предложение,</segment>
+		<segment id="218" parent="217" relname="purpose">чтобы рынок недвижимости подавал признаки оживления.</segment>
+		<segment id="223" parent="227" relname="span">Вместе с тем государству нужно понимать:</segment>
+		<segment id="224" parent="225" relname="condition">если количество очередников достигнет критической массы,</segment>
+		<segment id="225" parent="226" relname="span">то возможны тяжелые социальные последствия.</segment>
+		<segment id="228" parent="230" relname="comparison">Жить в однокомнатной квартире трем поколениям,</segment>
+		<segment id="229" parent="230" relname="comparison">как это сейчас наблюдается в России, невозможно.</segment>
+		<segment id="232" parent="236" relname="span">Это просто уникально,</segment>
+		<segment id="233" parent="235" relname="contrast">нигде такого больше нет,</segment>
+		<segment id="234" parent="235" relname="contrast">разве только в Китае и в странах третьего мира\",</segment>
+		<segment id="238" parent="239" relname="attribution">– отметила эксперт.\n\nОчередь же,</segment>
+		<segment id="239" parent="240" relname="span">которая в целом по России ничего не дает,</segment>
+		<segment id="241" parent="245" relname="span">необходима властям,</segment>
+		<segment id="242" parent="243" relname="attribution">по мнению Радченко,</segment>
+		<segment id="243" parent="244" relname="span">исключительно для статистического учета:</segment>
+		<segment id="247" parent="249" relname="joint">государству полезно знать, сколько его граждан живут в стесненных условиях,</segment>
+		<segment id="248" parent="249" relname="joint">и отслеживать динамику решении этой проблемы.\n\nИсточник: https://www.newsru.com/realty/23Nov2009/polveka.html\n</segment>
+		<group id="100" type="multinuc" parent="259" relname="preparation"/>
+		<group id="92" type="span" parent="100" relname="joint"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="97" type="span" parent="99" relname="span"/>
+		<group id="96" type="multinuc" parent="97" relname="span"/>
+		<group id="259" type="span" parent="260" relname="span"/>
+		<group id="105" type="span" parent="258" relname="preparation"/>
+		<group id="104" type="span" parent="101" relname="attribution"/>
+		<group id="258" type="multinuc" parent="259" relname="span"/>
+		<group id="132" type="multinuc" parent="258" relname="joint"/>
+		<group id="114" type="span" parent="132" relname="joint"/>
+		<group id="113" type="span" parent="114" relname="span"/>
+		<group id="112" type="multinuc" parent="107" relname="elaboration"/>
+		<group id="111" type="span" parent="112" relname="joint"/>
+		<group id="131" type="multinuc" parent="132" relname="joint"/>
+		<group id="119" type="multinuc" parent="131" relname="joint"/>
+		<group id="118" type="multinuc" parent="119" relname="same-unit"/>
+		<group id="130" type="multinuc" parent="131" relname="joint"/>
+		<group id="122" type="span" parent="130" relname="joint"/>
+		<group id="129" type="span" parent="130" relname="joint"/>
+		<group id="128" type="span" parent="129" relname="span"/>
+		<group id="127" type="span" parent="128" relname="span"/>
+		<group id="257" type="multinuc" parent="258" relname="joint"/>
+		<group id="145" type="multinuc" parent="257" relname="joint"/>
+		<group id="137" type="span" parent="145" relname="joint"/>
+		<group id="136" type="multinuc" parent="137" relname="span"/>
+		<group id="144" type="multinuc" parent="145" relname="joint"/>
+		<group id="140" type="multinuc" parent="144" relname="comparison"/>
+		<group id="143" type="span" parent="144" relname="comparison"/>
+		<group id="256" type="multinuc" parent="257" relname="joint"/>
+		<group id="162" type="span" parent="256" relname="joint"/>
+		<group id="148" type="span" parent="162" relname="span"/>
+		<group id="161" type="multinuc" parent="148" relname="purpose"/>
+		<group id="151" type="span" parent="161" relname="comparison"/>
+		<group id="160" type="span" parent="161" relname="comparison"/>
+		<group id="159" type="span" parent="152" relname="elaboration"/>
+		<group id="158" type="span" parent="159" relname="span"/>
+		<group id="157" type="span" parent="154" relname="purpose"/>
+		<group id="255" type="multinuc" parent="256" relname="joint"/>
+		<group id="175" type="multinuc" parent="255" relname="joint"/>
+		<group id="174" type="multinuc" parent="175" relname="joint"/>
+		<group id="173" type="multinuc" parent="174" relname="joint"/>
+		<group id="167" type="multinuc" parent="173" relname="joint"/>
+		<group id="172" type="span" parent="173" relname="joint"/>
+		<group id="171" type="multinuc" parent="168" relname="condition"/>
+		<group id="254" type="multinuc" parent="255" relname="joint"/>
+		<group id="198" type="multinuc" parent="254" relname="joint"/>
+		<group id="182" type="span" parent="198" relname="contrast"/>
+		<group id="180" type="span" parent="182" relname="span"/>
+		<group id="178" type="span" parent="180" relname="span"/>
+		<group id="197" type="span" parent="198" relname="contrast"/>
+		<group id="189" type="multinuc" parent="196" relname="cause-effect"/>
+		<group id="188" type="span" parent="189" relname="same-unit"/>
+		<group id="187" type="span" parent="188" relname="span"/>
+		<group id="196" type="span" parent="197" relname="span"/>
+		<group id="195" type="span" parent="196" relname="span"/>
+		<group id="253" type="span" parent="254" relname="joint"/>
+		<group id="201" type="span" parent="252" relname="preparation"/>
+		<group id="252" type="multinuc" parent="253" relname="span"/>
+		<group id="222" type="span" parent="252" relname="joint"/>
+		<group id="221" type="span" parent="202" relname="elaboration"/>
+		<group id="207" type="span" parent="221" relname="span"/>
+		<group id="206" type="span" parent="203" relname="elaboration"/>
+		<group id="220" type="span" parent="207" relname="elaboration"/>
+		<group id="216" type="span" parent="220" relname="span"/>
+		<group id="214" type="multinuc" parent="216" relname="span"/>
+		<group id="213" type="span" parent="214" relname="contrast"/>
+		<group id="212" type="span" parent="209" relname="cause-effect"/>
+		<group id="219" type="span" parent="216" relname="interpretation-evaluation"/>
+		<group id="251" type="span" parent="252" relname="joint"/>
+		<group id="237" type="span" parent="250" relname="solutionhood"/>
+		<group id="231" type="span" parent="237" relname="span"/>
+		<group id="227" type="span" parent="231" relname="span"/>
+		<group id="226" type="span" parent="223" relname="condition"/>
+		<group id="230" type="multinuc" parent="227" relname="evidence"/>
+		<group id="236" type="span" parent="231" relname="interpretation-evaluation"/>
+		<group id="235" type="multinuc" parent="232" relname="elaboration"/>
+		<group id="250" type="multinuc" parent="251" relname="span"/>
+		<group id="246" type="span" parent="250" relname="joint"/>
+		<group id="240" type="span" parent="245" relname="attribution"/>
+		<group id="245" type="span" parent="246" relname="span"/>
+		<group id="244" type="span" parent="241" relname="attribution"/>
+		<group id="249" type="multinuc" parent="250" relname="joint"/>
+		<group id="260" type="span"/>
+	</body>
+</rst>

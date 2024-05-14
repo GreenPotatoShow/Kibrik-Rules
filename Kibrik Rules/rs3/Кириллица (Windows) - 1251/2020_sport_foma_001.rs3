@@ -1,0 +1,61 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="24" relname="joint">Украинский футболист усомнился в существовании коронавируса\n\nБывший футболист киевского \"Динамо\", московского \"Локомотива\" и махачкалинского \"Анжи\",</segment>
+		<segment id="23" parent="24" relname="joint">а ныне тренер Александр Алиев привел свое видение ситуации с эпидемией коронавируса COVID-19.</segment>
+		<segment id="25" parent="33" relname="contrast">Спортсмен отказался верить в его существование,</segment>
+		<segment id="26" parent="30" relname="span">а новости об умерших от пандемии назвал фейком.\n\nФутболист пришел к таким выводам,</segment>
+		<segment id="27" parent="29" relname="joint">прогулявшись по украинскому городу Оболонь</segment>
+		<segment id="28" parent="29" relname="joint">и обнаружив, что \"все закрыто\".\n\n\"Честно, не верю в это.</segment>
+		<segment id="31" parent="32" relname="span">Прогулялся я по улице.</segment>
+		<segment id="34" parent="36" relname="joint">Людей много.</segment>
+		<segment id="35" parent="36" relname="joint">Детишек очень много.</segment>
+		<segment id="39" parent="41" relname="span">Погода хорошая.</segment>
+		<segment id="40" parent="39" relname="interpretation-evaluation">Думаю, что это все фейки.</segment>
+		<segment id="42" parent="44" relname="joint">Для кого нужен это коронавирус,</segment>
+		<segment id="43" parent="44" relname="joint">кто все это запустил?</segment>
+		<segment id="45" parent="46" relname="span">Слышал, что сегодня в Италии умерло 368 людей.</segment>
+		<segment id="47" parent="48" relname="attribution">Но я думаю,</segment>
+		<segment id="48" parent="49" relname="span">что все это фейк\",</segment>
+		<segment id="50" parent="54" relname="joint">- заявил 35-летний уроженец Хабаровска на видео в Instagram.\n\nПри этом спортсмен призвал людей беречь себя</segment>
+		<segment id="51" parent="52" relname="cause-effect">и пожелал им здоровья.\n\nПо последним данным, на Украине заразились коронавирусом 16 человек,</segment>
+		<segment id="52" parent="53" relname="span">двое из них скончались.</segment>
+		<segment id="55" parent="57" relname="comparison">По всему миру инфицировано порядка 220 тысяч человек,</segment>
+		<segment id="56" parent="57" relname="comparison">более 9 тысяч не пережили пандемии.\n\nИсточник: https://www.newsru.com/sport/19Mar2020/foma.html\n</segment>
+		<group id="38" type="span" parent="61" relname="preparation"/>
+		<group id="24" type="multinuc" parent="37" relname="preparation"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="33" type="multinuc" parent="37" relname="span"/>
+		<group id="32" type="span" parent="33" relname="contrast"/>
+		<group id="30" type="span" parent="31" relname="cause-effect"/>
+		<group id="29" type="multinuc" parent="26" relname="condition"/>
+		<group id="36" type="multinuc" parent="33" relname="interpretation-evaluation"/>
+		<group id="61" type="span" parent="62" relname="span"/>
+		<group id="41" type="span" parent="60" relname="preparation"/>
+		<group id="60" type="multinuc" parent="61" relname="span"/>
+		<group id="46" type="span" parent="60" relname="contrast"/>
+		<group id="44" type="multinuc" parent="45" relname="solutionhood"/>
+		<group id="59" type="span" parent="60" relname="contrast"/>
+		<group id="49" type="span" parent="59" relname="span"/>
+		<group id="58" type="span" parent="49" relname="cause-effect"/>
+		<group id="54" type="multinuc" parent="58" relname="span"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="57" type="multinuc" parent="54" relname="elaboration"/>
+		<group id="62" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,80 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="36" parent="40" relname="joint">В Италии по подозрению в похищении детей арестована бывшая советская яхтсменка\n\nВ Палермо по подозрению в причастности к деятельности преступной группировки, занимавшейся похищением несовершеннолетних, арестована бывшая советская яхтсменка Лариса Москаленко.</segment>
+		<segment id="37" parent="39" relname="span">Об этом сообщает \"Интерфакс\" со ссылкой на итальянскую газету Corriere della Sera.\n\nМоскаленко стала одной из семи арестованных сотрудниками правоохранительных органов Италии предполагаемых участников преступной группировки,</segment>
+		<segment id="38" parent="37" relname="elaboration">которая занималась похищением детей, в частности, в Тунисе, Египте, Ливане и на Кипре.</segment>
+		<segment id="41" parent="42" relname="attribution">По этому делу проходят также трое итальянцев, два норвежца и швед.\n\nВ свою очередь Lenta.ru со ссылкой на AFP передает,</segment>
+		<segment id="42" parent="43" relname="span">что члены банды похищали детей разведенных супружеских пар по просьбе одного из родителей.</segment>
+		<segment id="44" parent="46" relname="joint">Так, в октябре 2012 года они выкрали ребенка в Тунисе</segment>
+		<segment id="45" parent="46" relname="joint">и переправили его через Италию в Норвегию.</segment>
+		<segment id="47" parent="51" relname="contrast">Месяцем позже они попытались повторить подобную операцию,</segment>
+		<segment id="48" parent="50" relname="span">однако часть похитителей попала в руки полиции.\n\nПорой задержанные похищали детей</segment>
+		<segment id="49" parent="48" relname="purpose">ради выкупа.</segment>
+		<segment id="53" parent="67" relname="span">Один такой случай описывает Gazzetta del sud:</segment>
+		<segment id="54" parent="66" relname="joint">когда похитители потребовали у родителей за освобождение ребенка 200 тысяч евро.\n\nПо сведениям СМИ,</segment>
+		<segment id="55" parent="65" relname="span">в Палермо Москаленко владеет фирмой, предоставляющей услуги по сдаче в аренду элитных катеров и яхт.</segment>
+		<segment id="56" parent="63" relname="attribution">По версии следствия,</segment>
+		<segment id="57" parent="63" relname="span">бывшая советская спортсменка предоставляла сообщникам по преступной группировке яхты и шкиперов</segment>
+		<segment id="58" parent="60" relname="span">для переправки похищенных детей.\n\nРечь идет о международной преступной группировке,</segment>
+		<segment id="59" parent="58" relname="elaboration">которую возглавляют норвежец и швед,</segment>
+		<segment id="61" parent="62" relname="span">об их местонахождении и судьбе пока ничего не сообщается.</segment>
+		<segment id="70" parent="82" relname="joint">Учрежденная ими в Норвегии организация выдавала себя за структуру, предлагающую услуги по обеспечению личной безопасности, считают итальянские правоохранители.</segment>
+		<segment id="71" parent="73" relname="span">По существу же фирма занималась похищением и торговлей детьми,</segment>
+		<segment id="72" parent="71" relname="elaboration">родители которых находились в стадии оформления развода.</segment>
+		<segment id="74" parent="80" relname="span">Похищения осуществлялись в рамках специальных операций.</segment>
+		<segment id="75" parent="77" relname="joint">В них, в частности, были задействованы бывшие военные из стран третьего мира,</segment>
+		<segment id="76" parent="77" relname="joint">считают власти Италии.\n\nПо всей видимости, Палермо и его окрестности могли использоваться преступниками в качестве своеобразного \"логистического центра\",</segment>
+		<segment id="78" parent="79" relname="span">откуда похищенные дети переправлялись в различные части Европы.</segment>
+		<segment id="83" parent="84" relname="attribution">Кроме того, следователи не исключают,</segment>
+		<segment id="84" parent="85" relname="span">что Москаленко через знакомого - отставного российского генерала - участвовала в контрабандных поставках огнестрельного оружия,</segment>
+		<segment id="86" parent="88" relname="span">отмечает Corriere della Sera.\n\nЛариса Москаленко родилась на Украине,</segment>
+		<segment id="87" parent="86" relname="background">в последнее время живет в Италии.</segment>
+		<segment id="90" parent="92" relname="sequence">Ей 50 лет.</segment>
+		<segment id="91" parent="92" relname="sequence">В составе сборной СССР она завоевала бронзовую медаль в парусном спорте на летней Олимпиаде в Сеуле в 1988 году.\n\nИсточник: https://www.newsru.com/world/01Nov2013/larisa.html\n</segment>
+		<group id="40" type="multinuc" parent="97" relname="preparation"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="43" type="span" parent="96" relname="preparation"/>
+		<group id="96" type="span" parent="97" relname="span"/>
+		<group id="52" type="multinuc" parent="95" relname="preparation"/>
+		<group id="46" type="multinuc" parent="52" relname="sequence"/>
+		<group id="51" type="multinuc" parent="52" relname="sequence"/>
+		<group id="50" type="span" parent="51" relname="contrast"/>
+		<group id="95" type="multinuc" parent="96" relname="span"/>
+		<group id="67" type="span" parent="95" relname="joint"/>
+		<group id="66" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="64" type="span" parent="55" relname="elaboration"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="62" type="span" parent="57" relname="purpose"/>
+		<group id="60" type="span" parent="61" relname="purpose"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="82" type="multinuc" parent="94" relname="joint"/>
+		<group id="81" type="span" parent="82" relname="joint"/>
+		<group id="73" type="span" parent="81" relname="span"/>
+		<group id="80" type="span" parent="73" relname="elaboration"/>
+		<group id="79" type="span" parent="74" relname="elaboration"/>
+		<group id="77" type="multinuc" parent="78" relname="cause-effect"/>
+		<group id="93" type="span" parent="94" relname="joint"/>
+		<group id="89" type="multinuc" parent="93" relname="span"/>
+		<group id="85" type="span" parent="89" relname="joint"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="92" type="multinuc" parent="89" relname="elaboration"/>
+		<group id="98" type="span"/>
+	</body>
+</rst>

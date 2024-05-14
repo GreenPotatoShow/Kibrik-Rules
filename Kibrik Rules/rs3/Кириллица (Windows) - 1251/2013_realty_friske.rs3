@@ -1,0 +1,75 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="30" relname="condition">Жанна Фриске, родив ребенка, обоснуется в квартире в Майами,</segment>
+		<segment id="30" parent="31" relname="span">на родину пока не вернется\n\</segment>
+		<segment id="32" parent="31" relname="elaboration">nПевица и актриса Жанна Фриске наконец-то стала счастливой матерью.</segment>
+		<segment id="34" parent="33" relname="attribution">Об этом поведала в своем Twitter подруга певицы и ее коллега по группе \"Блестящие\" Ольга Орлова.\n\n</segment>
+		<segment id="36" parent="40" relname="joint">\"Сегодня моя подружка Фриске Жанна родила сына!!!!</segment>
+		<segment id="37" parent="39" relname="joint">Поздравляю и радуюсь от всего сердца)))</segment>
+		<segment id="38" parent="39" relname="joint">)!!!!!!</segment>
+		<segment id="41" parent="45" relname="span">Ура!!!\" - написала Ольга.\n\nРоды, как известно, прошли в Майами,</segment>
+		<segment id="42" parent="44" relname="span">по некоторым данным, в той же самой клинике,</segment>
+		<segment id="43" parent="42" relname="elaboration">где появилась на свет и дочка Кристины Орбакайте Клавдия.</segment>
+		<segment id="46" parent="48" relname="span">Поддержать любимую женщину прилетел друг Жанны телеведущий Дмитрий Шепелев.</segment>
+		<segment id="47" parent="46" relname="elaboration">По данным \"Экспресс газеты\", он и есть отец ребенка.\n\</segment>
+		<segment id="50" parent="51" relname="attribution">nКак сообщает издание,</segment>
+		<segment id="51" parent="52" relname="span">счастливые родители уже определились с именем для будущего сына.</segment>
+		<segment id="53" parent="54" relname="attribution">По словам еще одной подруги Жанны, телеведущей Леры Кудрявцевой,</segment>
+		<segment id="54" parent="55" relname="span">популярная исполнительница решила назвать малыша Платоном.</segment>
+		<segment id="56" parent="58" relname="joint">Кстати, у ребенка певицы будет двойное гражданство: американское - по месту рождения,</segment>
+		<segment id="57" parent="58" relname="joint">и российское.\n\nЖанна не планирует пока перевозить новорожденного в Москву.</segment>
+		<segment id="60" parent="63" relname="concession">Хотя в Майами весной и летом довольно жарко,</segment>
+		<segment id="61" parent="63" relname="span">у Жанны есть все условия</segment>
+		<segment id="62" parent="61" relname="purpose">для пребывания там:</segment>
+		<segment id="65" parent="67" relname="span">квартира, оснащенная всеми видами технических новинок,</segment>
+		<segment id="66" parent="65" relname="purpose">позволяющих поддерживать нужный микроклимат для ребенка,</segment>
+		<segment id="68" parent="70" relname="span">пишет \"Московский комсомолец\".\nВ Майами сейчас также находится и семья Жанны:</segment>
+		<segment id="69" parent="68" relname="elaboration">ее родители и младшая сестра.\n\</segment>
+		<segment id="72" parent="76" relname="comparison">nНапомним, что в Москве у Фриске тоже остается неплохое жилье.</segment>
+		<segment id="73" parent="74" relname="attribution">В прошлом году сообщалось,</segment>
+		<segment id="74" parent="75" relname="span">что она приобрела квартиру площадью 90 квадратных метров в 22-этажном элитном жилом комплексе \"Шмитовский\" стоимостью порядка 80 миллионов рублей.\n\nИсточник: https://www.newsru.com/realty/08Apr2013/friske.html\n</segment>
+		<group id="35" type="span" parent="82" relname="preparation"/>
+		<group id="33" type="span" parent="35" relname="span"/>
+		<group id="31" type="span" parent="33" relname="span"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="40" type="multinuc" parent="81" relname="preparation"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="81" type="multinuc" parent="82" relname="span"/>
+		<group id="49" type="multinuc" parent="81" relname="joint"/>
+		<group id="45" type="span" parent="49" relname="joint"/>
+		<group id="44" type="span" parent="41" relname="background"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="80" type="span" parent="81" relname="joint"/>
+		<group id="52" type="span" parent="79" relname="preparation"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="59" type="span" parent="79" relname="span"/>
+		<group id="55" type="span" parent="59" relname="span"/>
+		<group id="58" type="multinuc" parent="55" relname="elaboration"/>
+		<group id="78" type="span" parent="59" relname="concession"/>
+		<group id="64" type="span" parent="78" relname="span"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="77" type="span" parent="64" relname="elaboration"/>
+		<group id="71" type="span" parent="77" relname="span"/>
+		<group id="67" type="span" parent="71" relname="span"/>
+		<group id="70" type="span" parent="67" relname="elaboration"/>
+		<group id="76" type="multinuc" parent="71" relname="elaboration"/>
+		<group id="75" type="span" parent="76" relname="comparison"/>
+		<group id="83" type="span"/>
+	</body>
+</rst>

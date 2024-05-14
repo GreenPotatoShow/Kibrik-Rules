@@ -1,0 +1,62 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="25" relname="attribution">Глава Volvo надеется,</segment>
+		<segment id="25" parent="26" relname="span">что брэнд не продадут\n\</segment>
+		<segment id="27" parent="33" relname="span">nРезкий спад продаж Volvo,</segment>
+		<segment id="28" parent="32" relname="span">произошедший в последние несколько месяцев,</segment>
+		<segment id="29" parent="31" relname="span">привел к убыткам за первый квартал 2008 года в 151 миллион долларов</segment>
+		<segment id="30" parent="29" relname="elaboration">(до уплаты налогов).</segment>
+		<segment id="34" parent="37" relname="condition">Не предвидя никаких сдвигов,</segment>
+		<segment id="35" parent="37" relname="comparison">аналитики авторынка склоняются к тому, что Ford в итоге продаст шведские активы,</segment>
+		<segment id="36" parent="37" relname="comparison">так же как продал Jaguar, Land Rover и Aston Martin,</segment>
+		<segment id="40" parent="39" relname="attribution">сообщает \"Motor Authority\".\n\</segment>
+		<segment id="42" parent="44" relname="comparison">nНапомним, Jaguar и Land Rover приобрел индийский концерн Tata,</segment>
+		<segment id="43" parent="44" relname="comparison">а владельцем Aston Martin стал инвестиционный консорциум.\n\</segment>
+		<segment id="45" parent="46" relname="attribution">nОднако глава Volvo Льюис Бут уверен,</segment>
+		<segment id="46" parent="47" relname="span">что этого не произойдет.</segment>
+		<segment id="48" parent="49" relname="attribution">По словам президента компании,</segment>
+		<segment id="49" parent="50" relname="span">ее топ-менеджмент сейчас сосредоточен на улучшении ситуации в бизнесе, а не на его продаже.</segment>
+		<segment id="51" parent="52" relname="attribution">Г-н Бут убежден,</segment>
+		<segment id="52" parent="53" relname="span">что продукция Volvo по-прежнему пользуется спросом,</segment>
+		<segment id="54" parent="58" relname="comparison">однако рост цен на материалы вместе с ослаблением доллара повышают себестоимость шведских машин.\n\nЛьюис Бут выразил уверенность,</segment>
+		<segment id="55" parent="57" relname="joint">что появление нового кроссовера Volvo XC60 существенно поднимет продажи</segment>
+		<segment id="56" parent="57" relname="joint">и одновременно поддержит имидж бренда в секторе люкс автомобильного рынка.\n\n\"Мы должны вывести Volvo из этой ситуации,</segment>
+		<segment id="61" parent="62" relname="attribution">- заметил глава компании. ?</segment>
+		<segment id="62" parent="63" relname="span">Основанием должны стать наши сильные стороны: элементами безопасности и экологичность\".\n\nИсточник: https://www.newsru.com/auto/04May2008/volvo_sale.html\n</segment>
+		<group id="26" type="span" parent="67" relname="preparation"/>
+		<group id="67" type="multinuc" parent="68" relname="span"/>
+		<group id="41" type="span" parent="67" relname="joint"/>
+		<group id="39" type="multinuc" parent="41" relname="span"/>
+		<group id="33" type="span" parent="39" relname="joint"/>
+		<group id="32" type="span" parent="27" relname="elaboration"/>
+		<group id="31" type="span" parent="28" relname="elaboration"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="37" type="multinuc" parent="38" relname="span"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="44" type="multinuc" parent="66" relname="contrast"/>
+		<group id="65" type="span" parent="66" relname="contrast"/>
+		<group id="47" type="span" parent="65" relname="span"/>
+		<group id="64" type="multinuc" parent="47" relname="elaboration"/>
+		<group id="60" type="multinuc" parent="64" relname="joint"/>
+		<group id="50" type="span" parent="60" relname="joint"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="53" type="span" parent="59" relname="contrast"/>
+		<group id="58" type="multinuc" parent="59" relname="contrast"/>
+		<group id="57" type="multinuc" parent="58" relname="comparison"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,43 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="17" relname="span">Рейсовый автобус столкнулся с грузовиком на трассе в Хабаровском крае\n\nВ Хабаровском крае рейсовый автобус,</segment>
+		<segment id="16" parent="15" relname="background">следовавший из Хабаровска в Комсомольск-на-Амуре,</segment>
+		<segment id="18" parent="17" relname="background">около 13:00 по местному времени столкнулся с грузовиком.</segment>
+		<segment id="20" parent="22" relname="span">Пострадали трое пассажиров,</segment>
+		<segment id="21" parent="20" relname="attribution">сообщил \"Интерфаксу\" начальник пресс-службы УМВД по региону Ольга Мироненко в воскресенье.\n\n\"Столкновение автобуса с грузовиком произошло по касательной.</segment>
+		<segment id="23" parent="24" relname="cause-effect">Из-за аварии троих пассажиров посекло осколками стекла.</segment>
+		<segment id="24" parent="25" relname="span">На месте происшествия работает следственно-оперативная группа УМВД по Хабаровскому краю\",</segment>
+		<segment id="27" parent="36" relname="attribution">- сказала Мироненко.\n\nОна также отметила,</segment>
+		<segment id="28" parent="30" relname="span">что, по предварительным данным, виноват водитель автобуса, выехавший на встречную полосу.\n\nГУ МЧС по Хабаровскому краю добавляет,</segment>
+		<segment id="29" parent="28" relname="background">что авария произошла на 42 км трассы Хабаровск - Комсомольск-на-Амуре.</segment>
+		<segment id="31" parent="35" relname="sequence">Пассажирский автобус маршрута 304 столкнулся автомобилем КамАЗ.\n\n\"На момент столкновение в автобусе находились 41 пассажир, из них 6 детей.</segment>
+		<segment id="32" parent="34" relname="span">Двое с травмами различной степени тяжести бригадами скорой помощи были доставлены в больницу п. Князе-Волконское.</segment>
+		<segment id="33" parent="32" relname="elaboration">Другим оказана помощь на месте\",</segment>
+		<segment id="39" parent="40" relname="sequence">- отметили в пресс-службе ведомства.\n\nОстальных пассажиров пересадили в другой автобус.\n\nНа месте аварии работают представители пожарной части, спасатели, специалисты Центра экстренной психологической помощи, бригада скорой медицинской помощи и эксперты правоохранительных органов.\n\nИсточник: https://www.newsru.com/russia/23Jun2013/bus3.html\n</segment>
+		<group id="19" type="span" parent="40" relname="preparation"/>
+		<group id="17" type="span" parent="19" relname="span"/>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="38" type="multinuc" parent="40" relname="sequence"/>
+		<group id="26" type="span" parent="38" relname="sequence"/>
+		<group id="22" type="span" parent="26" relname="span"/>
+		<group id="25" type="span" parent="22" relname="elaboration"/>
+		<group id="37" type="span" parent="38" relname="sequence"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="30" type="span" parent="36" relname="sequence"/>
+		<group id="35" type="multinuc" parent="36" relname="sequence"/>
+		<group id="34" type="span" parent="35" relname="sequence"/>
+		<group id="41" type="span"/>
+	</body>
+</rst>

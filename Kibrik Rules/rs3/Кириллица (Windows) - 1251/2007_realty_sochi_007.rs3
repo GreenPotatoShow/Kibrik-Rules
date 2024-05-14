@@ -1,0 +1,144 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="64" parent="66" relname="span">Десятки тысяч жителей Сочи и россиян,</segment>
+		<segment id="65" parent="64" relname="elaboration">купивших там недвижимость,</segment>
+		<segment id="67" parent="68" relname="span">проснулись миллионерами\n\n</segment>
+		<segment id="69" parent="79" relname="span">\"Меняю двухкомнатную в Сочи на трехкомнатную в Москве с вашей доплатой\".</segment>
+		<segment id="70" parent="74" relname="same-unit">Такие объявления,</segment>
+		<segment id="73" parent="74" relname="same-unit">не исключено, уже в ближайшем будущем заполнят газетные полосы.</segment>
+		<segment id="75" parent="77" relname="joint">Ведь цены на недвижимость в Сочи теперь резко поползут вверх</segment>
+		<segment id="76" parent="77" relname="joint">и сравняются с московскими.\n\nВ ночь с 4 на 5 июля Сочи стал столицей зимней Олимпиады-2014 года.</segment>
+		<segment id="82" parent="88" relname="joint">Город, в который уже вложили миллиарды долларов в ожидании Игр, в скором времени</segment>
+		<segment id="83" parent="85" relname="comparison">\"лопнет\" от инвестиций, которые в него польются после того, как Международный олимпийский комитет (МОК) объявил</segment>
+		<segment id="84" parent="85" relname="comparison">этот российский курортный город олимпийским.\n\nВ Сочи и прилегающих к нему районах в настоящее время проживает около 400 тысяч человек,</segment>
+		<segment id="86" parent="87" relname="contrast">но за последние 5 лет скупать в нем недвижимость стали и приезжие: жители Москвы и Санкт-Петербурга, Сибири и Дальнего Востока, нефте- и газодобывающих регионов.</segment>
+		<segment id="89" parent="88" relname="elaboration">Именно они и подняли цены на квадратные метры в Сочи на небывалую высоту.</segment>
+		<segment id="91" parent="95" relname="comparison">Всего за 5 лет цена в среднем выросла больше чем в 10 раз.\n\nКак сообщили NEWSru</segment>
+		<segment id="92" parent="94" relname="span">.com местные риелторы,</segment>
+		<segment id="93" parent="92" relname="elaboration">в 2002 году, к примеру, однокомнатная квартира площадью около 60 квадратных метров в центре Сочи стоила примерно 15 тысяч долларов.</segment>
+		<segment id="96" parent="98" relname="joint">Сегодня она стоит уже 180 тысяч долларов,</segment>
+		<segment id="97" parent="98" relname="joint">и 4 тысячи долларов за квадратный метр уже никого не удивляют.\n\nА на горнолыжном курорте Красная Поляна 45-метровая однокомнатная квартира в панельном 5-этажном доме тогда стоила не более 6 тысяч долларов.</segment>
+		<segment id="99" parent="100" relname="comparison">Сегодня эта квартира стоит от 90 тысяч долларов.\n\</segment>
+		<segment id="102" parent="103" relname="attribution">nПо мнению риелторов,</segment>
+		<segment id="103" parent="104" relname="span">это только начало.</segment>
+		<segment id="105" parent="115" relname="span">Обладатели сочинской недвижимости давно рассчитывали на такой исход олимпийской гонки.</segment>
+		<segment id="106" parent="107" relname="cause-effect">И сегодня ночью тысячи жителей Сочи и россиян, купивших там недвижимость,</segment>
+		<segment id="107" parent="108" relname="span">проснулись с ощущением, что стали миллионерами.\n\nИ это недалеко от правды.</segment>
+		<segment id="109" parent="111" relname="span">Инвестиции в развитие города теперь достигнут фантастической суммы</segment>
+		<segment id="110" parent="109" relname="elaboration">- десятки миллиардов долларов.</segment>
+		<segment id="112" parent="113" relname="joint">Принятая федеральная целевая программа предусматривает освоение 327 млрд рублей.</segment>
+		<segment id="117" parent="119" relname="span">Кроме того, предусматривается огромный объем частных инвестиций</segment>
+		<segment id="118" parent="117" relname="elaboration">.\n\nЭтот город уже называют \"летней столицей России\",</segment>
+		<segment id="120" parent="132" relname="span">а из-за грядущей Олимпиады Сочи вскоре будут именовать уже и \"зимней столицей России\":</segment>
+		<segment id="121" parent="131" relname="joint">появятся новейшие спортивные сооружения</segment>
+		<segment id="122" parent="130" relname="span">и множество отелей,</segment>
+		<segment id="123" parent="125" relname="joint">построят сотни километров новых дорог,</segment>
+		<segment id="124" parent="125" relname="joint">изменятся инфраструктуры транспортная и энергетическая</segment>
+		<segment id="126" parent="127" relname="condition">.\n\nЧто касается самой недвижимости,</segment>
+		<segment id="127" parent="128" relname="span">то здесь растет все: объем строительства, потребительский спрос, цена на квадратные метры и на землю.</segment>
+		<segment id="134" parent="136" relname="span">К примеру, цены на недвижимость в Туапсе и Геленджике уступают Сочи.\n\nТемпы роста цен на квартиры в Сочи давно выше московских,</segment>
+		<segment id="135" parent="134" relname="concession">хотя стоимость квадратного метра элитного жилья на побережье все же пока ниже:</segment>
+		<segment id="137" parent="139" relname="comparison">максимальная цена за квадратный метр в новостройке в Сочи на берегу Черного моря не превышает 10 тысяч долларов,</segment>
+		<segment id="138" parent="139" relname="comparison">в Москве элитный метр стоит в несколько раз больше.\n\nНо это пока.</segment>
+		<segment id="141" parent="146" relname="interpretation-evaluation">Учитывая, что</segment>
+		<segment id="142" parent="143" relname="cause-effect">из-за высокого спроса</segment>
+		<segment id="143" parent="144" relname="span">цены на жилье в Сочи растут на 30-40% в год,</segment>
+		<segment id="145" parent="146" relname="comparison">то к моменту начала Олимпиады цены в Москве и Сочи могут сравняться.\n\nНа данный момент цена квадратного метра в элитных жилых комплексах в Сочи в среднем не превышает 6 тысяч долларов.</segment>
+		<segment id="148" parent="150" relname="comparison">Квартиры бизнес-класса идут за 2500-3500 долларов,</segment>
+		<segment id="149" parent="150" relname="comparison">эконом-класс - около 2000 долларов за квадратный метр.</segment>
+		<segment id="151" parent="153" relname="joint">Стоимость машиноместа в среднем составляет 25-30 тысяч рублей.\n\nЧто интересно,</segment>
+		<segment id="152" parent="153" relname="joint">вторичный рынок жилья в ценах не уступает новостройкам.\n\nСтоимость квадратного метра в Сочи определяется географическим положением дома (удаленность от Центрального Сочи), инфраструктурой района, близостью к морю и номером курортной зоны, в которой стоит дом (первая зона - самая близкая к морю).</segment>
+		<segment id="156" parent="158" relname="span">Но и в ней кое-где есть свои минусы:</segment>
+		<segment id="157" parent="156" relname="elaboration">по части первой зоны проходит железная дорога, которая идет вдоль моря.</segment>
+		<segment id="159" parent="158" relname="elaboration">Есть участки, где дорога уходит в глубь города на пару километров.</segment>
+		<segment id="161" parent="167" relname="joint">Именно здесь (в первой зоне - до 1 км от моря) находится самая дорогая, элитная недвижимость.</segment>
+		<segment id="162" parent="166" relname="contrast">И стоимость квартиры с окнами на море здесь выше аналогичной с окнами на город или горы примерно на 15%.\n\nНеобходимо отметить, что пока в Сочи по цене элитной квартиры можно приобрести и целый особняк площадью в несколько раз больше квартиры,</segment>
+		<segment id="163" parent="165" relname="span">но площадь земельного участка будет небольшой</segment>
+		<segment id="164" parent="163" relname="elaboration">- сотка в городе стоит уже гораздо больше сотки на подмосковной Рублевке.\n\nАктивно ведут строительство в Сочи московские, питерские и ростовские строительные компании.</segment>
+		<segment id="168" parent="167" relname="elaboration">Они возводят жилые комплексы \"Александрийский Маяк\", \"Новая Александрия\", \"Королевский Парк\", комплекс на проспекте Пушкина, жилой комплекс \"Премьер\", комплекс \"Новая Ривьера\".\n\nВпрочем, спешить с приобретением недвижимости в Сочи именно сейчас не стоит.</segment>
+		<segment id="170" parent="169" relname="background">Обладатели теперь уже \"олимпийских\" квадратных метров намерены этим летом взвинтить цены.</segment>
+		<segment id="173" parent="175" relname="span">Специалисты ожидают, что уже зимой 2008 года цены немного стабилизируются,</segment>
+		<segment id="174" parent="173" relname="interpretation-evaluation">олимпийская лихорадка немного спадет.</segment>
+		<segment id="176" parent="178" relname="span">Но стоимость квадратных метров в Сочи продолжит расти,</segment>
+		<segment id="177" parent="176" relname="concession">хотя уже и без скачков.\n\nИсточник: https://www.newsru.com/realty/05Jul2007/sochi.html\n</segment>
+		<group id="68" type="span" parent="187" relname="preparation"/>
+		<group id="66" type="span" parent="67" relname="cause-effect"/>
+		<group id="187" type="span" parent="188" relname="span"/>
+		<group id="79" type="span" parent="186" relname="preparation"/>
+		<group id="78" type="span" parent="69" relname="elaboration"/>
+		<group id="74" type="multinuc" parent="78" relname="span"/>
+		<group id="77" type="multinuc" parent="74" relname="cause-effect"/>
+		<group id="186" type="span" parent="187" relname="span"/>
+		<group id="90" type="span" parent="185" relname="preparation"/>
+		<group id="88" type="multinuc" parent="90" relname="span"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="85" type="multinuc" parent="87" relname="contrast"/>
+		<group id="185" type="span" parent="186" relname="span"/>
+		<group id="101" type="multinuc" parent="184" relname="preparation"/>
+		<group id="95" type="multinuc" parent="101" relname="comparison"/>
+		<group id="94" type="span" parent="95" relname="comparison"/>
+		<group id="100" type="multinuc" parent="101" relname="comparison"/>
+		<group id="98" type="multinuc" parent="100" relname="comparison"/>
+		<group id="184" type="multinuc" parent="185" relname="span"/>
+		<group id="116" type="span" parent="184" relname="joint"/>
+		<group id="104" type="span" parent="115" relname="preparation"/>
+		<group id="115" type="span" parent="116" relname="span"/>
+		<group id="114" type="span" parent="105" relname="elaboration"/>
+		<group id="108" type="span" parent="114" relname="span"/>
+		<group id="113" type="multinuc" parent="108" relname="elaboration"/>
+		<group id="111" type="span" parent="113" relname="joint"/>
+		<group id="183" type="span" parent="184" relname="joint"/>
+		<group id="133" type="multinuc" parent="183" relname="span"/>
+		<group id="119" type="span" parent="133" relname="joint"/>
+		<group id="132" type="span" parent="133" relname="joint"/>
+		<group id="131" type="multinuc" parent="120" relname="elaboration"/>
+		<group id="130" type="span" parent="131" relname="joint"/>
+		<group id="129" type="multinuc" parent="122" relname="elaboration"/>
+		<group id="125" type="multinuc" parent="129" relname="joint"/>
+		<group id="128" type="span" parent="129" relname="joint"/>
+		<group id="182" type="multinuc" parent="133" relname="elaboration"/>
+		<group id="140" type="multinuc" parent="182" relname="joint"/>
+		<group id="136" type="span" parent="140" relname="comparison"/>
+		<group id="139" type="multinuc" parent="140" relname="comparison"/>
+		<group id="181" type="multinuc" parent="182" relname="joint"/>
+		<group id="155" type="multinuc" parent="181" relname="joint"/>
+		<group id="147" type="span" parent="155" relname="joint"/>
+		<group id="146" type="multinuc" parent="147" relname="span"/>
+		<group id="144" type="span" parent="146" relname="comparison"/>
+		<group id="154" type="span" parent="155" relname="joint"/>
+		<group id="150" type="multinuc" parent="154" relname="span"/>
+		<group id="153" type="multinuc" parent="150" relname="elaboration"/>
+		<group id="180" type="span" parent="181" relname="joint"/>
+		<group id="172" type="span" parent="180" relname="span"/>
+		<group id="160" type="span" parent="172" relname="span"/>
+		<group id="158" type="span" parent="160" relname="span"/>
+		<group id="171" type="span" parent="160" relname="elaboration"/>
+		<group id="169" type="span" parent="171" relname="span"/>
+		<group id="167" type="multinuc" parent="169" relname="span"/>
+		<group id="166" type="multinuc" parent="167" relname="joint"/>
+		<group id="165" type="span" parent="166" relname="contrast"/>
+		<group id="179" type="multinuc" parent="172" relname="elaboration"/>
+		<group id="175" type="span" parent="179" relname="contrast"/>
+		<group id="178" type="span" parent="179" relname="contrast"/>
+		<group id="188" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,41 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="16" relname="span">В США началось расследование по делу о причастности Кучмы к поставкам оружия в Ирак\n\nОбвинения президента Украины Леонида Кучмы в продаже оружия в Ирак,</segment>
+		<segment id="15" parent="14" relname="elaboration">с которыми выступил председатель следственной комиссии Верховной рады по делу Гонгадзе Александр Жир,</segment>
+		<segment id="17" parent="16" relname="background">сейчас тщательно изучает администрация президента США Джорджа Буша.</segment>
+		<segment id="19" parent="18" relname="background">Об этом сообщает украинский сайт Forum со ссылкой на лондонскую Times.\n\n\"Кучму обвиняют в продаже Ираку партии современного противовоздушного оружия на сумму 100 млн. долларов.</segment>
+		<segment id="21" parent="22" relname="condition">В случае если это подтвердится,</segment>
+		<segment id="22" parent="23" relname="span">вынужденная отставка господина Кучмы будет только делом времени\",</segment>
+		<segment id="24" parent="23" relname="attribution">- отмечает издание.\n\nСсылаясь на лидера Социалистической партии Украины Александра Мороза,</segment>
+		<segment id="26" parent="31" relname="attribution">Times сообщает,</segment>
+		<segment id="27" parent="31" relname="span">что вскоре будут преданы огласке новые свидетельства о непосредственной причастности главных украинских должностных лиц к незаконной продаже оружия Ираку.\n\nСам Кучма,</segment>
+		<segment id="28" parent="29" relname="attribution">отмечает газета,</segment>
+		<segment id="29" parent="30" relname="span">отвергает обвинения</segment>
+		<segment id="33" parent="34" relname="attribution">и считает,</segment>
+		<segment id="34" parent="35" relname="span">что они были сделаны в рамках пропагандистской компании.\n\nВ начале марта депутат Верховной рады Александр Жир обвинил президента Леонида Кучму в причастности к незаконной торговле оружием со странами, в отношении которых действует эмбарго на поставку вооружений.\n\nИсточник: https://www.newsru.com/world/29Mar2002/kuchma2.html\n</segment>
+		<group id="20" type="span" parent="38" relname="joint"/>
+		<group id="18" type="span" parent="20" relname="span"/>
+		<group id="16" type="span" parent="18" relname="span"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="25" type="span" parent="36" relname="preparation"/>
+		<group id="23" type="span" parent="25" relname="span"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="32" type="span" parent="36" relname="joint"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="30" type="span" parent="27" relname="attribution"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="38" type="multinuc"/>
+	</body>
+</rst>

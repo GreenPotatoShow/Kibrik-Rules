@@ -1,0 +1,46 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="restatement" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="span">ƒепутаты запретили клонировать людей до прин€ти€ особого закона\n\n√осударственна€ ƒума в среду прин€ла в третьем, окончательном чтении законопроект, продлевающий в –оссии запрет на клонирование человека,</segment>
+		<segment id="20" parent="19" relname="attribution">передает \"»нтерфакс\".</segment>
+		<segment id="22" parent="23" relname="joint">—оответствующие поправки по предложению правительства внос€тс€ в ‘едеральный «акон \"ќ временном запрете на клонирование человека\".</segment>
+		<segment id="24" parent="26" relname="span">ѕ€тилетний запрет на клонирование,</segment>
+		<segment id="25" parent="24" relname="background">который действовал в –оссии с 2002 года,</segment>
+		<segment id="27" parent="33" relname="restatement">истек 23 июн€ 2007 года.\n\n¬ременный запрет на клонирование человека вводитс€ вплоть до вступлени€ в силу специального ‘едерального «акона, \"устанавливающего пор€док использовани€ технологий клонировани€ организмов в цел€х клонировани€ человека\".\n\n- ∆ириновский хочет клонировать гениев и себ€\n\n¬ законопроекте оговорено,</segment>
+		<segment id="28" parent="32" relname="joint">что клонирование иных организмов и клеток - любых, в том числе и человеческих</segment>
+		<segment id="29" parent="31" relname="span">- в исследовательских цел€х не запрещаетс€</segment>
+		<segment id="30" parent="29" relname="cause-effect">.\n\n–анее заместитель министра здравоохранени€ и социального развити€ –‘ ёрий ¬оронин,</segment>
+		<segment id="35" parent="36" relname="attribution">представл€€ депутатам законопроект в первом чтении, за€вил,</segment>
+		<segment id="36" parent="37" relname="span">что смысл проекта - запретить создание клона человека.\n\n»наче,</segment>
+		<segment id="38" parent="43" relname="attribution">как отметил ¬оронин,</segment>
+		<segment id="39" parent="41" relname="span">\"зарубежные исследователи могут использовать –оссию</segment>
+		<segment id="40" parent="39" relname="purpose">дл€ проведени€ неэтичных по отношению к человеку экспериментов\", св€занных с клонированием,</segment>
+		<segment id="42" parent="41" relname="cause-effect">так как в св€зи с истечением ранее установленного временного запрета у нас \"сложилась обстановка, потенциально позвол€юща€ создать генную копию человека\".\n\n»сточник: https://www.newsru.com/russia/10Mar2010/noklon.html\n</segment>
+		<group id="23" type="multinuc" parent="47" relname="joint"/>
+		<group id="21" type="span" parent="23" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="34" type="multinuc" parent="46" relname="joint"/>
+		<group id="26" type="span" parent="34" relname="joint"/>
+		<group id="33" type="multinuc" parent="34" relname="joint"/>
+		<group id="32" type="multinuc" parent="33" relname="restatement"/>
+		<group id="31" type="span" parent="32" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="37" type="span" parent="45" relname="comparison"/>
+		<group id="44" type="span" parent="45" relname="comparison"/>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="41" type="span" parent="43" relname="span"/>
+		<group id="47" type="multinuc"/>
+	</body>
+</rst>

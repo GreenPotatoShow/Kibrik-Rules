@@ -1,0 +1,55 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="28" relname="sequence">В эстонском городе Нарва избиты российские дипломаты\n\nВ ночь на пятницу в Нарве неизвестные напали на второго секретаря посольства России в Эстонии Владимира Зубачева и ведущего специалиста генерального консульства России в Нарве Алексея Тихонова.</segment>
+		<segment id="21" parent="23" relname="joint">Дипломатов избили</segment>
+		<segment id="22" parent="23" relname="joint">и ограбили.</segment>
+		<segment id="24" parent="25" relname="sequence">Пострадавшим была оказана медицинская помощь,</segment>
+		<segment id="26" parent="25" relname="attribution">передает \"Интерфакс\".\n\</segment>
+		<segment id="29" parent="30" relname="attribution">nКак сообщил пресс-секретарь Нарвской полиции,</segment>
+		<segment id="30" parent="31" relname="span">на дипломатов напали трое неизвестных молодых людей, примерно 16-17 лет.</segment>
+		<segment id="32" parent="36" relname="contrast">Одни из них ударил Владимира Зубачева в лицо,</segment>
+		<segment id="33" parent="34" relname="condition">а когда тот упал,</segment>
+		<segment id="34" parent="35" relname="span">у него вытащили бумажник примерно с тысячей крон и кредитной банковской карточкой.</segment>
+		<segment id="37" parent="43" relname="joint">Полиции пока не удалось задержать нападавших</segment>
+		<segment id="38" parent="41" relname="attribution">.\n\nПресс-секретарь посольства России в Таллинне сказал BNS,</segment>
+		<segment id="39" parent="41" relname="joint">что в посольстве ожидают официального сообщения из полиции,</segment>
+		<segment id="40" parent="41" relname="joint">и до этого времени с российской стороны инцидент комментироваться не будет.\n\</segment>
+		<segment id="45" parent="47" relname="span">nМежду тем в МИД РФ уже известно об инциденте с российскими дипломатами в Нарве.</segment>
+		<segment id="46" parent="45" relname="attribution">Об этом сообщили в субботу в департаменте информации и печати российского внешнеполитического ведомства.\n\nНа Смоленской площади отметили,</segment>
+		<segment id="48" parent="52" relname="span">что в настоящее время выясняются все обстоятельства происшедшего.</segment>
+		<segment id="49" parent="51" relname="span">\"После этого будут определены параметры нашей реакции\",</segment>
+		<segment id="50" parent="49" relname="attribution">- заявили в департаменте.\n\nИсточник: https://www.newsru.com/world/27Apr2002/narva2.html\n</segment>
+		<group id="28" type="multinuc" parent="56" relname="joint"/>
+		<group id="27" type="span" parent="28" relname="sequence"/>
+		<group id="25" type="multinuc" parent="27" relname="span"/>
+		<group id="23" type="multinuc" parent="25" relname="sequence"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="31" type="span" parent="54" relname="preparation"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="44" type="multinuc" parent="54" relname="comparison"/>
+		<group id="36" type="multinuc" parent="44" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="contrast"/>
+		<group id="43" type="multinuc" parent="44" relname="joint"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="span"/>
+		<group id="53" type="span" parent="54" relname="comparison"/>
+		<group id="47" type="span" parent="52" relname="attribution"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="51" type="span" parent="48" relname="elaboration"/>
+		<group id="56" type="multinuc"/>
+	</body>
+</rst>

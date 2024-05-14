@@ -1,0 +1,45 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="evidence" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="18" relname="span">Александр Анненский: \"Их нравы или как сэкономить на Пасху...\"\n\n\"...один из супругов,</segment>
+		<segment id="17" parent="16" relname="elaboration">в силу занимаемой им госдолжности, всегда должен летать только на борту самолета, приписанного к правительственному авиапарку,</segment>
+		<segment id="19" parent="18" relname="elaboration">таков закон.</segment>
+		<segment id="21" parent="25" relname="span">Конечно, в принципе, можно взять на борт и свою вторую половину</segment>
+		<segment id="22" parent="24" relname="span">— в случае участия в официальном мероприятии,</segment>
+		<segment id="23" parent="22" relname="elaboration">где присутствие супруга изначально предусмотрено протоколом.</segment>
+		<segment id="26" parent="27" relname="condition">Если же речь идет о частной поездке,</segment>
+		<segment id="27" parent="28" relname="span">каковой, к примеру, безусловно, является путешествие на море,</segment>
+		<segment id="29" parent="30" relname="span">то перелет в салоне правительственного самолета тому придется в обязательном порядке оплачивать из собственного кармана.</segment>
+		<segment id="32" parent="34" relname="span">Для 62-летнего профессора физики Иофхима Зауера 1300 евро,</segment>
+		<segment id="33" parent="32" relname="elaboration">которые ему пришлось бы заплатить за это удовольствие,</segment>
+		<segment id="35" parent="34" relname="purpose">были бы ничем неоправданным расходом, способным оставить свой след в семейном бюджете.</segment>
+		<segment id="37" parent="36" relname="cause-effect">Потому он, как и обычно, предпочел купить себе билет в Италию на регулярный рейс авиакомпании — дискаунтера EasyJet...</segment>
+		<segment id="39" parent="41" relname="span">Да, забыл сказать, что жену профессора зовут Ангела Меркель,</segment>
+		<segment id="40" parent="39" relname="evidence">она канцлером Германии работает...\"\n\nИсточник: https://www.newsru.com/blog/13Apr2012/merkel.html\n</segment>
+		<group id="20" type="span" parent="43" relname="preparation"/>
+		<group id="18" type="span" parent="20" relname="span"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="31" type="span" parent="43" relname="joint"/>
+		<group id="25" type="span" parent="31" relname="span"/>
+		<group id="24" type="span" parent="21" relname="elaboration"/>
+		<group id="30" type="span" parent="25" relname="elaboration"/>
+		<group id="28" type="span" parent="29" relname="condition"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="38" type="span" parent="42" relname="joint"/>
+		<group id="36" type="span" parent="38" relname="span"/>
+		<group id="34" type="span" parent="36" relname="span"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="44" type="span"/>
+	</body>
+</rst>

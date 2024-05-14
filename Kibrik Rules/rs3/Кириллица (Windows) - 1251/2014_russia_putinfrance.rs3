@@ -1,0 +1,69 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="76" relname="preparation">Путин готов встретиться с Олландом в ходе предстоящей поездки во Францию\n\</segment>
+		<segment id="28" parent="38" relname="joint">nВ ходе предстоящей поездки президента РФ Владимира Путина во Францию на празднование 70-летней годовщины высадки союзных войск в Нормандии возможна его двусторонняя встреча с французским коллегой Франсуа Олландом.</segment>
+		<segment id="29" parent="37" relname="joint">Приглашение прислала французская сторона,</segment>
+		<segment id="30" parent="35" relname="attribution">и Путин выразил надежду,</segment>
+		<segment id="31" parent="35" relname="span">что в графике Олланда найдется время</segment>
+		<segment id="32" parent="33" relname="purpose">для общения</segment>
+		<segment id="33" parent="34" relname="span">.\n\</segment>
+		<segment id="39" parent="41" relname="joint">nНапомним, визит Путина во Францию был спланирован в начале мая,</segment>
+		<segment id="40" parent="41" relname="joint">и с момента украинского кризиса и \"аннексии\" Крыма он стал бы первой возможностью для встречи Путина с европейскими коллегами и президентом США Бараком Обамой.</segment>
+		<segment id="42" parent="43" relname="attribution">В Госдепартаменте, правда, почти сразу объявили,</segment>
+		<segment id="43" parent="44" relname="span">что Обама с российским президентом встречаться не будет.</segment>
+		<segment id="45" parent="54" relname="attribution">Но и общение с Олландом стало бы знаком,</segment>
+		<segment id="46" parent="48" relname="span">что Европа готова не только к санкциям, которыми грозит России</segment>
+		<segment id="47" parent="46" relname="cause-effect">в ответ на срыв президентских выборов на Украине.\n\nНа встрече с главами крупнейших информагентств в заключительный день экономического форума в Петербурге Путин заявил:</segment>
+		<segment id="49" parent="50" relname="attribution">\"Насколько я понял,</segment>
+		<segment id="50" parent="51" relname="span">президент Франции хотел бы такую встречу отдельно провести,</segment>
+		<segment id="52" parent="51" relname="elaboration">обсудить вопросы, связанные с двусторонними отношениями и с международной повесткой дня.</segment>
+		<segment id="56" parent="62" relname="span">Я, конечно, открыт для любых переговоров,</segment>
+		<segment id="57" parent="60" relname="condition">если график президента Франции позволит,</segment>
+		<segment id="58" parent="60" relname="joint">с удовольствием встречусь с ним,</segment>
+		<segment id="59" parent="60" relname="joint">поговорю на те темы, которые представляют взаимный интерес\".</segment>
+		<segment id="63" parent="69" relname="joint">(Цитата по \"Интерфаксу\".)\n\nСогласно плану мероприятий,</segment>
+		<segment id="64" parent="68" relname="joint">встреча глав государств - участников празднования 70-летия высадки войск антигитлеровской коалиции в Нормандии состоится в особняке поместья Бенувиль недалеко от города Кан,</segment>
+		<segment id="65" parent="67" relname="span">а международная церемония в память о погибших пройдет в городе Уистреам на нормандском побережье.\n\nНа торжествах будет присутствовать и британский принц Чарльз,</segment>
+		<segment id="66" parent="65" relname="elaboration">сравнивший Путина с Гитлером.</segment>
+		<segment id="70" parent="71" relname="contrast">Правда, личной встречи с президентом РФ он избежит.\n\nИсточник: https://www.newsru.com/russia/24May2014/putinfrance.html\n</segment>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="38" type="multinuc" parent="76" relname="joint"/>
+		<group id="37" type="multinuc" parent="38" relname="joint"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="span"/>
+		<group id="34" type="span" parent="31" relname="purpose"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="41" type="multinuc" parent="75" relname="joint"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="44" type="span" parent="74" relname="joint"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="55" type="span" parent="73" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="48" type="span" parent="54" relname="span"/>
+		<group id="53" type="span" parent="48" relname="elaboration"/>
+		<group id="51" type="span" parent="53" relname="span"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="62" type="span" parent="72" relname="span"/>
+		<group id="61" type="span" parent="56" relname="elaboration"/>
+		<group id="60" type="multinuc" parent="61" relname="span"/>
+		<group id="71" type="multinuc" parent="62" relname="elaboration"/>
+		<group id="69" type="multinuc" parent="71" relname="contrast"/>
+		<group id="68" type="multinuc" parent="69" relname="joint"/>
+		<group id="67" type="span" parent="68" relname="joint"/>
+		<group id="77" type="span"/>
+	</body>
+</rst>

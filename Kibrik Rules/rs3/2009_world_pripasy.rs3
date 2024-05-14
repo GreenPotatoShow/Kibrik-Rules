@@ -1,0 +1,57 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="23" relname="span">Очередной пожар со взрывами на военном складе в Казахстане:</segment>
+		<segment id="22" parent="21" relname="elaboration">погиб срочник\n\nВблизи Алма-Аты на территории учебного центра пограничных войск вечером в понедельник загорелся склад боеприпасов.</segment>
+		<segment id="24" parent="25" relname="attribution">Об этом сообщает \"Интерфакс\" со ссылкой на департамент по ЧС Алма-Атинской области Казахстана.\n\nИсточник в МЧС Казахстана сообщил,</segment>
+		<segment id="25" parent="26" relname="span">что в результате пожара погиб солдат срочной службы.</segment>
+		<segment id="28" parent="36" relname="joint">По всей видимости, в момент возникновения пожара</segment>
+		<segment id="29" parent="31" relname="joint">он находился на дежурстве</segment>
+		<segment id="30" parent="31" relname="joint">и не смог вовремя покинуть территорию учебного центра.\n\nПо данным облЧС,</segment>
+		<segment id="32" parent="33" relname="cause-effect">охваченная огнем площадь составляет около 300 квадратных метров,</segment>
+		<segment id="33" parent="34" relname="span">пожар сопровождается взрывами боеприпасов.</segment>
+		<segment id="37" parent="41" relname="span">Стянутые к месту происшествия силы и средства служб ЧС Алма-Аты и Алма-Атинской области пока не приступают к тушению пожара</segment>
+		<segment id="38" parent="40" relname="joint">именно из-за разрыва боеприпасов</segment>
+		<segment id="39" parent="40" relname="joint">.\n\</segment>
+		<segment id="42" parent="46" relname="same-unit">nНапомним, в марте этого года в результате пожара на складе боеприпасов вооруженных сил Казахстана в Южно-Казахстанской области пострадали 16 человек,</segment>
+		<segment id="43" parent="45" relname="joint">погибли двое,</segment>
+		<segment id="44" parent="45" relname="joint">ведется поиск двоих пропавших.</segment>
+		<segment id="47" parent="49" relname="span">На складе ТОО \"НПО \"Казарсенал\" произошло \"возгорание взрывчатых веществ с последующей детонацией предназначенных к утилизации боеприпасов\".\n\nЗатем огонь перешел на хозяйственные постройки воинской части 44859,</segment>
+		<segment id="48" parent="47" relname="background">произошло 3-4 мощных взрыва.</segment>
+		<segment id="50" parent="52" relname="span">При этом пострадали 16 работников ТОО,</segment>
+		<segment id="51" parent="50" relname="elaboration">из них 12 человек госпитализированы.</segment>
+		<segment id="53" parent="54" relname="joint">На месте взрыва были обнаружены два обгоревших трупа.\n\nИсточник: https://www.newsru.com/world/08Jun2009/pripasy.html\n</segment>
+		<group id="27" type="span" parent="58" relname="preparation"/>
+		<group id="23" type="span" parent="27" relname="span"/>
+		<group id="26" type="span" parent="23" relname="attribution"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="36" type="multinuc" parent="58" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="31" type="multinuc" parent="35" relname="span"/>
+		<group id="34" type="span" parent="31" relname="elaboration"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="41" type="span" parent="57" relname="joint"/>
+		<group id="40" type="multinuc" parent="37" relname="cause-effect"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="46" type="multinuc" parent="56" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="same-unit"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="49" type="span" parent="55" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="52" type="span" parent="54" relname="joint"/>
+		<group id="59" type="span"/>
+	</body>
+</rst>

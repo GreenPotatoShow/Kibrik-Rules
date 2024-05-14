@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="24" relname="joint">Принц Гарри организует экспедицию на Эверест для британских военных, раненных в \"горячих точках\"\n\nМладший сын принца Уэльского Чарльза, 24-летний принц Гарри, объявил</segment>
+		<segment id="21" parent="23" relname="span">о начале подготовки экспедиции на Эверест,</segment>
+		<segment id="22" parent="21" relname="elaboration">в которой примут участие военнослужащие, раненные в \"горячих точках\",</segment>
+		<segment id="25" parent="29" relname="span">сообщает РИА \"Новости\"со ссылкой на британский телеканал Sky News.\n\nЭкспедиция должна состояться ровно через год - в октябре-ноябре 2009 года:</segment>
+		<segment id="28" parent="25" relname="elaboration">85 альпинистам, среди которых будут пострадавшие в ходе военных действий в Ираке и Афганистане военные, предстоит покорить различные пики самой высокой в мире горы.</segment>
+		<segment id="31" parent="45" relname="joint">Это приключение, по замыслу авторов идеи, поможет военным, как новичкам, так и ветеранам альпинизма,</segment>
+		<segment id="32" parent="36" relname="joint">воспрянуть духом,</segment>
+		<segment id="33" parent="35" relname="joint">скорее восстановить свое здоровье</segment>
+		<segment id="34" parent="35" relname="joint">и легче вернуться в привычную военную среду.\n\nПринц Гарри во вторник встретится с организаторами экспедиции</segment>
+		<segment id="37" parent="43" relname="joint">и увидит, как военные,</segment>
+		<segment id="38" parent="42" relname="joint">переживающие сейчас реабилитационный период,</segment>
+		<segment id="39" parent="41" relname="span">тренируются в скалолазании на базе Королевских ВМС в Плимуте.\n\nПринц Гарри, воевавший в Афганистане более двух месяцев,</segment>
+		<segment id="40" parent="39" relname="elaboration">неоднократно выражал поддержку своим раненым боевым товарищам.</segment>
+		<segment id="47" parent="51" relname="sequence">В апреле он вместе со своим старшим братом, принцем Уильямом, посетил реабилитационный центр министерства обороны в графстве Саррей.</segment>
+		<segment id="48" parent="49" relname="attribution">Там он поговорил со своим знакомым, моряком Беном Макбином,</segment>
+		<segment id="49" parent="50" relname="span">лишившимся в Афганистане руки.</segment>
+		<segment id="52" parent="54" relname="joint">Прощаясь, Гарри назвал его \"настоящим героем\".\n\nПринцы не раз принимали участие в благотворительных мероприятиях в пользу фондов поддержки военнослужащих.</segment>
+		<segment id="53" parent="54" relname="joint">Так, по их просьбе все сборы от лондонского премьерного показа нового фильма о приключениях знаменитого агента ОО7 Джеймса Бонда \"Квант милосердия\" (Quantum of Solace) будут переданы благотворительным организациям \"Помощь героям\" и Королевский британский легион.\n\nИсточник: https://www.newsru.com/world/04Nov2008/garry.html\n</segment>
+		<group id="46" type="multinuc" parent="56" relname="joint"/>
+		<group id="30" type="span" parent="46" relname="joint"/>
+		<group id="24" type="multinuc" parent="29" relname="preparation"/>
+		<group id="23" type="span" parent="24" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="span"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="36" type="multinuc" parent="44" relname="joint"/>
+		<group id="35" type="multinuc" parent="36" relname="joint"/>
+		<group id="43" type="multinuc" parent="44" relname="joint"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="51" type="multinuc" parent="55" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="sequence"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="56" type="multinuc"/>
+	</body>
+</rst>

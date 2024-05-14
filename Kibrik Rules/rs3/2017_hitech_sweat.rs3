@@ -1,0 +1,92 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="39" parent="112" relname="preparation">Пересадка донорских бактерий помогла побороть запах пота\n\</segment>
+		<segment id="40" parent="42" relname="span">nГруппа исследователей из Калифорнийского и Гентского университетов провела успешный опыт по пересадке донорских бактерий из подмышечных впадин человека</segment>
+		<segment id="41" parent="40" relname="purpose">для устранения резкого запаха пота.</segment>
+		<segment id="45" parent="49" relname="span">Статья, посвященная эксперименту, была опубликована в журнале Experimental Dermatology.\n\nКак напоминает N+1,</segment>
+		<segment id="46" parent="48" relname="contrast">пот большинства людей сам по себе ничем не пахнет,</segment>
+		<segment id="47" parent="48" relname="contrast">а неприятный запах появляется в результате жизнедеятельности кожной микробиоты.</segment>
+		<segment id="50" parent="52" relname="span">Бактерии разлагают секреты потовых и сальных желез,</segment>
+		<segment id="51" parent="50" relname="condition">выделяя в процессе летучие пахучие вещества.</segment>
+		<segment id="55" parent="57" relname="contrast">Регулярная гигиена и использование дезодорантов обычно помогают избежать неприятного запаха,</segment>
+		<segment id="56" parent="57" relname="contrast">однако у некоторых людей резкий и неприятный запах пота устранить не удается.</segment>
+		<segment id="58" parent="64" relname="span">Это состояние,</segment>
+		<segment id="59" parent="63" relname="joint">известное как осмидроз</segment>
+		<segment id="60" parent="62" relname="span">и плохо поддающееся коррекции,</segment>
+		<segment id="61" parent="60" relname="cause-effect">чаще всего связано с доминированием в микробиоте определенных бактерий.\n\</segment>
+		<segment id="67" parent="69" relname="span">nВ рамках эксперимента ученые из США и Бельгии решили побороть осмидроз</segment>
+		<segment id="68" parent="67" relname="condition">при помощи пересадки донорских бактерий.</segment>
+		<segment id="70" parent="74" relname="span">Для этого исследователи пригласили близнецов,</segment>
+		<segment id="71" parent="73" relname="comparison">один из которых страдал осмидрозом,</segment>
+		<segment id="72" parent="73" relname="comparison">в то время как пот его брата не имел резкого запаха.</segment>
+		<segment id="75" parent="77" relname="joint">Первому брату предложили тщательно отмывать подмышки антибактериальным мылом в течение четырех дней,</segment>
+		<segment id="76" parent="77" relname="joint">а второй брат все это время не должен был мыться.</segment>
+		<segment id="78" parent="82" relname="sequence">После этого у близнеца с нормальным запахом пота взяли соскоб кожи под мышками,</segment>
+		<segment id="79" parent="81" relname="joint">содержащий множество бактерий,</segment>
+		<segment id="80" parent="81" relname="joint">и заселили этими бактериями подмышечные впадины брата.\n\</segment>
+		<segment id="83" parent="85" relname="joint">nВ результате этой пересадки неприятный запах пота быстро исчез,</segment>
+		<segment id="84" parent="85" relname="joint">а эффект сохранялся в течение больше чем года наблюдения.</segment>
+		<segment id="88" parent="99" relname="preparation">Затем исследователи повторили опыт на 17 добровольцах с осмидрозом, которым переселяли бактерии ближайших родственников.</segment>
+		<segment id="89" parent="95" relname="contrast">У 16 участников состояние значительно улучшилось в течение месяца,</segment>
+		<segment id="90" parent="94" relname="span">а половина из них избавилась от неприятного запаха на период в три месяца и более.\n\</segment>
+		<segment id="91" parent="93" relname="span">nВ настоящее время исследователи занимаются разработкой универсальной смеси бактерий,</segment>
+		<segment id="92" parent="91" relname="elaboration">которую можно будет применять вместо донорской микробиоты.</segment>
+		<segment id="96" parent="98" relname="contrast">О сроках завершения этой работы не сообщается,</segment>
+		<segment id="97" parent="98" relname="contrast">но ученые уверены в успехе проекта.\n\nОтметим, что решением проблемы чрезмерного потоотделения и неприятного запаха пота занимаются также разные компании.</segment>
+		<segment id="101" parent="107" relname="joint">Так, в Японии в прошлом году были созданы компактные вентиляторы для подмышек,</segment>
+		<segment id="102" parent="106" relname="span">а компания Nivea разработала специальную насадку для смартфона,</segment>
+		<segment id="103" parent="105" relname="joint">при помощи которой мужчины могут определить, насколько сильно от них пахнет потом,</segment>
+		<segment id="104" parent="105" relname="joint">и принять соответствующие меры.\n\nИсточник: https://www.newsru.com/hitech/13Feb2017/sweat.html\n</segment>
+		<group id="112" type="multinuc" parent="113" relname="span"/>
+		<group id="66" type="multinuc" parent="112" relname="joint"/>
+		<group id="54" type="span" parent="66" relname="joint"/>
+		<group id="42" type="span" parent="54" relname="span"/>
+		<group id="53" type="span" parent="42" relname="elaboration"/>
+		<group id="49" type="span" parent="53" relname="span"/>
+		<group id="48" type="multinuc" parent="45" relname="elaboration"/>
+		<group id="52" type="span" parent="49" relname="elaboration"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="57" type="multinuc" parent="65" relname="span"/>
+		<group id="64" type="span" parent="57" relname="elaboration"/>
+		<group id="63" type="multinuc" parent="58" relname="elaboration"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="111" type="span" parent="112" relname="joint"/>
+		<group id="69" type="span" parent="110" relname="preparation"/>
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="74" type="span" parent="109" relname="preparation"/>
+		<group id="73" type="multinuc" parent="70" relname="elaboration"/>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="87" type="multinuc" parent="109" relname="joint"/>
+		<group id="77" type="multinuc" parent="87" relname="sequence"/>
+		<group id="86" type="multinuc" parent="87" relname="sequence"/>
+		<group id="82" type="multinuc" parent="86" relname="joint"/>
+		<group id="81" type="multinuc" parent="82" relname="sequence"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="100" type="span" parent="108" relname="joint"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="95" type="multinuc" parent="99" relname="span"/>
+		<group id="94" type="span" parent="95" relname="contrast"/>
+		<group id="93" type="span" parent="90" relname="elaboration"/>
+		<group id="98" type="multinuc" parent="95" relname="interpretation-evaluation"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="105" type="multinuc" parent="102" relname="purpose"/>
+		<group id="113" type="span"/>
+	</body>
+</rst>

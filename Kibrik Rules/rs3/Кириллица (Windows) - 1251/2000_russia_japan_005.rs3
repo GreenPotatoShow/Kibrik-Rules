@@ -1,0 +1,52 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="20" relname="span">В Минобороны сожалеют о замедлении развития военных контактов с Японией\n\nВ Минобороны РФ сегодня выразили сожаление</segment>
+		<segment id="19" parent="18" relname="cause-effect">в связи с решением Управления национальной обороны Японии о частичном свертывании программ обменов военными делегациями двух стран.</segment>
+		<segment id="21" parent="22" relname="cause-effect">\"Тот факт, что снижение динамики развития российско-японского военного сотрудничества произошло по вине Токио,</segment>
+		<segment id="22" parent="23" relname="span">заслуживает лишь сожаления\",</segment>
+		<segment id="24" parent="27" relname="attribution">- заявил высокопоставленный представитель Министерства обороны России.\n\nВ четверг японское военное руководство официально объявило</segment>
+		<segment id="25" parent="27" relname="joint">об отмене намечавшегося на конец сентября визита в Токио российской военной делегации,</segment>
+		<segment id="26" parent="27" relname="joint">а также поездки в Россию 30 выпускников Академии национальной обороны Японии.</segment>
+		<segment id="30" parent="31" relname="attribution">В соответствующем оповещении говорилось,</segment>
+		<segment id="31" parent="32" relname="span">что от проведения этих мероприятий в рамках двусторонних обменов японское военное ведомство отказалось \"из-за напряженного графика\".</segment>
+		<segment id="34" parent="38" relname="same-unit">Однако,</segment>
+		<segment id="35" parent="36" relname="attribution">как отмечают местные газеты,</segment>
+		<segment id="36" parent="37" relname="span">японские военные пошли на это в связи со скандалом вокруг ареста офицера японских ВМС</segment>
+		<segment id="39" parent="44" relname="attribution">по подозрению в передаче секретных документов военно-морскому атташе при посольстве РФ в Японии.\n\nРанее министр обороны Игорь Сергеев высказал мнение,</segment>
+		<segment id="40" parent="42" relname="joint">что арест в Токио японского офицера, которого подозревают в шпионаже в пользу России,</segment>
+		<segment id="41" parent="42" relname="joint">существенно не скажется на двустороннем российско-японском сотрудничестве в военной области.\n\nВозможно, Москва, в свою очередь, подготовила ответный шаг на частичное приостановление военных контактов со стороны Токио</segment>
+		<segment id="43" parent="44" relname="joint">сегодня в Минобороны РФ уже не смогли назвать определенную дату визита в Японию главы российского военного ведомства маршала РФ Игоря Сергеева.</segment>
+		<segment id="47" parent="46" relname="background">Ранее поездка была запланирована на ноябрь месяц.\n\nИсточник: https://www.newsru.com/russia/15Sep2000/japan.html\n</segment>
+		<group id="20" type="span" parent="49" relname="preparation"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="33" type="span" parent="48" relname="concession"/>
+		<group id="29" type="span" parent="32" relname="cause-effect"/>
+		<group id="23" type="span" parent="29" relname="span"/>
+		<group id="28" type="span" parent="23" relname="attribution"/>
+		<group id="27" type="multinuc" parent="28" relname="span"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="46" type="span" parent="48" relname="span"/>
+		<group id="38" type="multinuc" parent="46" relname="span"/>
+		<group id="37" type="span" parent="38" relname="same-unit"/>
+		<group id="45" type="span" parent="38" relname="elaboration"/>
+		<group id="44" type="multinuc" parent="45" relname="span"/>
+		<group id="42" type="multinuc" parent="44" relname="joint"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

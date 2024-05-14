@@ -1,0 +1,48 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="19" relname="attribution">Игорь Иванов заверил иранские власти,</segment>
+		<segment id="19" parent="20" relname="span">что АЭС в Бушере будет сдана в срок\n\</segment>
+		<segment id="21" parent="22" relname="attribution">nСекретарь СБ РФ Игорь Иванов заверил Тегеран,</segment>
+		<segment id="22" parent="23" relname="span">что АЭС в Бушере будет сдана в эксплуатацию в намеченные сроки,</segment>
+		<segment id="24" parent="25" relname="joint">сообщает РИА \"Новости\".\n\n\"Россия твердо привержена своим обязательствам завершить проект АЭС Бушер в намеченные сроки\",</segment>
+		<segment id="26" parent="25" relname="attribution">- заявил секретарь российского Совбеза на встрече с министром иностранных дел Ирана Манучехром Моттаки.\n\nВ сентябре 2007 года предполагается осуществить физический, а в ноябре 2007 года - энергетический пуск первого блока АЭС Бушер.</segment>
+		<segment id="28" parent="39" relname="attribution">Топливо на площадку будет поставлено за полгода до начала физического пуска.\n\nВ декабре прошлого года глава Росатома Сергей Кириенко заявил,</segment>
+		<segment id="29" parent="31" relname="span">что АЭС Бушер в Иране будет достроена по графику,</segment>
+		<segment id="30" parent="29" relname="condition">если не будет проблем с финансированием и сбоя в поставках оборудования из третьих стран.\n\n\"Россия выполняет свои обязательства по строительству АЭС Бушер в соответствии с ранее утвержденным графиком.</segment>
+		<segment id="32" parent="38" relname="joint">Если не будет никаких проблем,</segment>
+		<segment id="33" parent="35" relname="joint">а я вижу проблемы только в том, будет ли обеспечено своевременное финансирование</segment>
+		<segment id="34" parent="35" relname="joint">и не будет ли сбоев в поставках оборудования из третьих стран,</segment>
+		<segment id="36" parent="37" relname="joint">то мы не видим никаких проблем и сложностей в реализации графика строительства АЭС Бушер в установленные сроки\",</segment>
+		<segment id="41" parent="47" relname="joint">- сказал Кириенко.\n\nКонтракт на завершение строительства блока номер 1 станции был подписан в Тегеране 8 января 1995 года.</segment>
+		<segment id="42" parent="46" relname="span">Россия также обязалась поставить один реактор типа ВВЭР-1000,</segment>
+		<segment id="43" parent="45" relname="joint">ядерное топливо для него</segment>
+		<segment id="44" parent="45" relname="joint">и подготовить иранских специалистов.\n\nИсточник: https://www.newsru.com/world/28Jan2007/busher.html\n</segment>
+		<group id="20" type="span" parent="49" relname="preparation"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="27" type="span" parent="49" relname="joint"/>
+		<group id="25" type="multinuc" parent="27" relname="span"/>
+		<group id="23" type="span" parent="25" relname="joint"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="40" type="span" parent="48" relname="span"/>
+		<group id="39" type="multinuc" parent="40" relname="span"/>
+		<group id="31" type="span" parent="39" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="joint"/>
+		<group id="37" type="multinuc" parent="38" relname="joint"/>
+		<group id="35" type="multinuc" parent="37" relname="joint"/>
+		<group id="47" type="multinuc" parent="40" relname="attribution"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="45" type="multinuc" parent="42" relname="cause-effect"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

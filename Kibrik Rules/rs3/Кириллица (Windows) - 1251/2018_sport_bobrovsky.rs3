@@ -1,0 +1,30 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="20" relname="span">Вратарь Сергей Бобровский вновь отклонил вызов в сборную России по хоккею\n\nГолкипер клуба Национальной хоккейной лиги (НХЛ) \"Коламбус Блю Джекетс\" Сергей Бобровский не поможет сборной России на стартующем 4 мая в Дании чемпионате мира.\n\nКак информирует пресс-служба Федерации хоккея России (ФХР) в микроблоге Twitter, спортсмен не сможет сыграть на турнире</segment>
+		<segment id="15" parent="19" relname="span">из-за травмы,</segment>
+		<segment id="18" parent="15" relname="elaboration">характер которой не уточняется.\n\nВ нынешнем заокеанском сезоне Бобровский провел за \"Коламбус\" 71 матч, отражая в среднем 92,1 процента бросков.</segment>
+		<segment id="21" parent="20" relname="background">Из розыгрыша Кубка Стэнли команду недавно выбил \"Вашингтон\" Александра Овечкина.\n\</segment>
+		<segment id="23" parent="29" relname="span">nНапомним, что в прошлом году Бобровский также отклонил вызов в сборную перед чемпионатом мира,</segment>
+		<segment id="24" parent="28" relname="span">сославшись на усталость после насыщенного сезона в НХЛ.\n\</segment>
+		<segment id="25" parent="27" relname="span">nРанее из-за травм, полученных в матчах НХЛ,</segment>
+		<segment id="26" parent="25" relname="elaboration">призывы встать под знамена национальной сборной отклонили вратарь Семен Варламов (\"Колорадо\"), защитники Иван Проворов (\"Филадельфия\"), Никита Задоров (\"Колорадо\"), Виктор Антипин (\"Баффало\"), а также нападающие Владимир Тарасенко и Иван Барбашев (оба - \"Сент-Луис\").</segment>
+		<segment id="30" parent="29" relname="elaboration">Вскоре к отказникам, вероятно, присоединится и форвард Артемий Панарин (\"Коламбус\").\n\nНа групповом этапе чемпионата мира в Дании сборная России сыграет с командами Швеции, Чехии, Швейцарии, Белоруссии, Словакии, Франции и Австрии.\n\nИсточник: https://www.newsru.com/sport/26Apr2018/bobrovsky.html\n</segment>
+		<group id="22" type="span" parent="32" relname="comparison"/>
+		<group id="20" type="span" parent="22" relname="span"/>
+		<group id="19" type="span" parent="14" relname="cause-effect"/>
+		<group id="31" type="span" parent="32" relname="comparison"/>
+		<group id="29" type="span" parent="31" relname="span"/>
+		<group id="28" type="span" parent="23" relname="elaboration"/>
+		<group id="27" type="span" parent="24" relname="elaboration"/>
+		<group id="32" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,41 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="16" relname="span">Министры  финансов стран-членов Евросоюза 20 января согласились на направление войск в Центральноафриканскую республику,</segment>
+		<segment id="15" parent="14" relname="attribution">сообщает Reuters.\n</segment>
+		<segment id="17" parent="21" relname="same-unit">На встрече в Брюсселе</segment>
+		<segment id="18" parent="20" relname="span">они одобрили решение направить в ЦАР пятьсот европейских военнослужащих,</segment>
+		<segment id="19" parent="18" relname="elaboration">которые должны будут помочь 1600 французским солдатам и офицерам стабилизировать ситуацию в стране.</segment>
+		<segment id="22" parent="26" relname="span">По всей видимости, в состав контингента войдут военнослужащие из Эстонии, Литвы, Словении, Финляндии, Бельгии, Польши и Швеции.</segment>
+		<segment id="23" parent="25" relname="sequence">Перед их отправкой в ЦАР миссию должен одобрить Совет безопасности ООН.\n Как сообщает Agence France-Presse,</segment>
+		<segment id="24" parent="25" relname="sequence">руководители европейских финансовых ведомств также выделили полмиллиарда долларов в качестве помощи ЦАР в 2014 году.</segment>
+		<segment id="28" parent="29" relname="cause-effect">Ожидается, что эти средства пойдут на гуманитарные проекты и преодоление последствий экономического коллапса.\n Центральноафриканская республика уже более года находится в состоянии хаоса и вялотекущего этно-религиозного конфликта,</segment>
+		<segment id="29" parent="30" relname="span">на фоне которого президент Мишель Джотодия был вынужден подать в отставку.</segment>
+		<segment id="31" parent="35" relname="joint">В ЦАР фактически отсутствуют легитимные органы власти,</segment>
+		<segment id="32" parent="34" relname="span">а ситуация находится под контролем отдельных вооруженных группировок,</segment>
+		<segment id="33" parent="32" relname="elaboration">преследующих собственные цели.\n \n</segment>
+		<group id="16" type="span" parent="37" relname="preparation"/>
+		<group id="37" type="multinuc" parent="38" relname="span"/>
+		<group id="27" type="multinuc" parent="37" relname="joint"/>
+		<group id="21" type="multinuc" parent="27" relname="joint"/>
+		<group id="20" type="span" parent="21" relname="same-unit"/>
+		<group id="26" type="span" parent="27" relname="joint"/>
+		<group id="25" type="multinuc" parent="22" relname="elaboration"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="30" type="span" parent="36" relname="span"/>
+		<group id="35" type="multinuc" parent="30" relname="elaboration"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="38" type="span"/>
+	</body>
+</rst>

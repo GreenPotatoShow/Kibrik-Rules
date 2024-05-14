@@ -1,0 +1,124 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="57" parent="166" relname="preparation">В общежитии \"Моспромстроя\" выявлено значительное превышение ПДК паров ртути в комнате гастарбайтеров\n\</segment>
+		<segment id="58" parent="60" relname="span">nПревышение предельной допустимой концентрации ртути выявлено в общежитии на северо-западе Москвы,</segment>
+		<segment id="59" parent="58" relname="elaboration">где проживают трудовые мигранты,</segment>
+		<segment id="61" parent="60" relname="attribution">сообщил в понедельник начальник пресс-службы столичного Управления МЧС Евгений Бобылев.\n\nОн уточнил,</segment>
+		<segment id="63" parent="66" relname="attribution">что накануне вечером поступило сообщение о том,</segment>
+		<segment id="66" parent="67" relname="span">что в одной из комнат общежития ЗАО \"Моспромстрой\" на улице Фестивальной, в котором проживают гастарбайтеры, было обнаружено превышение ПДК паров ртути от 7 до 12 раз,</segment>
+		<segment id="68" parent="70" relname="span">передает ИТАР-ТАСС.\n\nНа место происшествия были направлены поисково-спасательный отряд и сотрудники Управления мониторинга, лабораторного контроля и прогнозирования чрезвычайных ситуаций,</segment>
+		<segment id="69" parent="68" relname="elaboration">которые провели замеры и первоочередные мероприятия по демеркуризации.</segment>
+		<segment id="73" parent="75" relname="span">\"На 13:00 сегодняшнего дня были выявлены очаги заражения,</segment>
+		<segment id="74" parent="73" relname="elaboration">площадь которого составляет 80 кв. метров\",</segment>
+		<segment id="76" parent="75" relname="attribution">- сообщил Бобылев</segment>
+		<segment id="78" parent="79" relname="joint">.\n\</segment>
+		<segment id="80" parent="85" relname="attribution">nОн отметил,</segment>
+		<segment id="81" parent="85" relname="same-unit">что трудовых мигрантов, проживающих на этаже, где было выявлено превышение ПДК,</segment>
+		<segment id="82" parent="84" relname="span">планируется в понедельник отселить на другие этажи общежития до окончания работ по демеркуризации,</segment>
+		<segment id="83" parent="82" relname="elaboration">которые будут продолжены во вторник.\n\</segment>
+		<segment id="87" parent="88" relname="attribution">nРанее в понедельник сообщалось,</segment>
+		<segment id="88" parent="89" relname="span">что накануне вечером в милицию обратился мужчина</segment>
+		<segment id="90" parent="93" relname="attribution">и сообщил,</segment>
+		<segment id="91" parent="93" relname="span">что в одном из сетевых магазинов купил пакет сахара,</segment>
+		<segment id="92" parent="91" relname="background">в котором дома обнаружил вещество, похожее на ртуть.</segment>
+		<segment id="98" parent="108" relname="joint">В общежитие, расположенное по адресу Фестивальная улица, дом 52, корпус 1, где проживает пострадавший, выехали эксперты.</segment>
+		<segment id="99" parent="101" relname="span">В комнатах и в коридоре седьмого этажа специалисты обнаружили пары ртути,</segment>
+		<segment id="100" parent="99" relname="elaboration">превышающие допустимые нормы в 100 раз,</segment>
+		<segment id="102" parent="106" relname="span">сообщил РИА \"Новости\" источник в правоохранительных органах столицы.\n\</segment>
+		<segment id="105" parent="102" relname="background">nИз-за опасного пакета в воскресенье вечером из общежития, в котором проживает покупатель, были эвакуировали 15 человек.</segment>
+		<segment id="110" parent="123" relname="preparation">По данным \"Интерфакса\", пострадавший - 20-летний рабочий из Узбекистана.</segment>
+		<segment id="111" parent="117" relname="span">За медицинской помощью никто из жильцов общежития не обращался.\n\</segment>
+		<segment id="112" parent="116" relname="span">nПри обследовании с применением специальной лаборатории торгового зала и подсобного помещения магазина,</segment>
+		<segment id="115" parent="112" relname="elaboration">в котором был куплен сахар, специалисты паров ртути не обнаружили.</segment>
+		<segment id="118" parent="122" relname="span">Сотрудники правоохранительных органов выясняют обстоятельства произошедшего.</segment>
+		<segment id="119" parent="121" relname="span">Название магазина не уточняется,</segment>
+		<segment id="120" parent="119" relname="attribution">отмечает NEWSmsk.com.\n\</segment>
+		<segment id="125" parent="128" relname="attribution">nИздание напоминает,</segment>
+		<segment id="126" parent="128" relname="span">в мае прошлого года около 400 граммов ртути было обнаружено в магазине \"Спортмастер\",</segment>
+		<segment id="127" parent="126" relname="background">расположенном в ТЦ на улице Орджоникидзе, 11.</segment>
+		<segment id="130" parent="131" relname="comparison">Предельно допустимая концентрация паров ртути в магазине была превышена в 150 раз.</segment>
+		<segment id="132" parent="133" relname="attribution">Сотрудники милиции выяснили,</segment>
+		<segment id="133" parent="134" relname="span">что опасный металл был разлит в общественном месте умышленно.</segment>
+		<segment id="135" parent="136" relname="cause-effect">По подозрению в совершении преступления практически сразу был задержан уроженец Брянской области,</segment>
+		<segment id="136" parent="137" relname="span">он находился в состоянии сильного алкогольного опьянения.</segment>
+		<segment id="138" parent="140" relname="joint">Продавцов и покупателей магазина эвакуировали,</segment>
+		<segment id="139" parent="140" relname="joint">никто не пострадал.\n\nВ феврале 2009 года ртуть нашли в туалете магазина \"Ашан\", расположенного в торговом центре \"Капитолий\" на Правобережной улице.</segment>
+		<segment id="143" parent="145" relname="span">В кабинке туалетной комнаты для дам покупательница обнаружила два разбитых градусника.</segment>
+		<segment id="144" parent="143" relname="elaboration">Сотрудники милиции обследовали всю территорию гипермаркета \"Ашан-Сити\",</segment>
+		<segment id="146" parent="147" relname="contrast">но ничего подозрительного не обнаружили.</segment>
+		<segment id="148" parent="152" relname="span">Гипермаркет работал в обычном режиме,</segment>
+		<segment id="149" parent="150" relname="cause-effect">никто не пострадал.\n\nВдыхание воздуха, содержащего пары ртути,</segment>
+		<segment id="150" parent="151" relname="span">приводит к отравлению.</segment>
+		<segment id="153" parent="155" relname="joint">Хроническая интоксикация ртутью поражает органы пищеварения, почки, легкие,</segment>
+		<segment id="154" parent="155" relname="joint">влияет на работу головного мозга.</segment>
+		<segment id="156" parent="157" relname="joint">В тяжелейших случаях через несколько дней возможна смерть пострадавшего.\n\nИсточник: https://www.newsru.com/russia/18Oct2010/rtut.html\n</segment>
+		<group id="166" type="multinuc" parent="167" relname="span"/>
+		<group id="72" type="multinuc" parent="166" relname="joint"/>
+		<group id="62" type="span" parent="72" relname="joint"/>
+		<group id="60" type="span" parent="62" relname="span"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="67" type="span" parent="71" relname="joint"/>
+		<group id="70" type="span" parent="71" relname="joint"/>
+		<group id="165" type="multinuc" parent="166" relname="joint"/>
+		<group id="79" type="multinuc" parent="165" relname="joint"/>
+		<group id="77" type="span" parent="79" relname="joint"/>
+		<group id="75" type="span" parent="77" relname="span"/>
+		<group id="164" type="multinuc" parent="165" relname="joint"/>
+		<group id="86" type="span" parent="164" relname="joint"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="84" type="span" parent="85" relname="same-unit"/>
+		<group id="163" type="multinuc" parent="164" relname="joint"/>
+		<group id="109" type="span" parent="163" relname="joint"/>
+		<group id="95" type="multinuc" parent="109" relname="span"/>
+		<group id="89" type="span" parent="95" relname="sequence"/>
+		<group id="94" type="span" parent="95" relname="sequence"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="108" type="multinuc" parent="95" relname="elaboration"/>
+		<group id="107" type="span" parent="108" relname="joint"/>
+		<group id="101" type="span" parent="107" relname="span"/>
+		<group id="106" type="span" parent="101" relname="elaboration"/>
+		<group id="162" type="multinuc" parent="163" relname="joint"/>
+		<group id="124" type="span" parent="162" relname="joint"/>
+		<group id="123" type="multinuc" parent="124" relname="span"/>
+		<group id="117" type="span" parent="123" relname="joint"/>
+		<group id="116" type="span" parent="111" relname="elaboration"/>
+		<group id="122" type="span" parent="123" relname="joint"/>
+		<group id="121" type="span" parent="118" relname="elaboration"/>
+		<group id="161" type="multinuc" parent="162" relname="joint"/>
+		<group id="131" type="multinuc" parent="161" relname="joint"/>
+		<group id="129" type="span" parent="131" relname="comparison"/>
+		<group id="128" type="span" parent="129" relname="span"/>
+		<group id="160" type="multinuc" parent="161" relname="joint"/>
+		<group id="142" type="span" parent="160" relname="joint"/>
+		<group id="134" type="span" parent="142" relname="span"/>
+		<group id="141" type="multinuc" parent="134" relname="evidence"/>
+		<group id="137" type="span" parent="141" relname="joint"/>
+		<group id="140" type="multinuc" parent="141" relname="joint"/>
+		<group id="159" type="multinuc" parent="160" relname="joint"/>
+		<group id="147" type="multinuc" parent="159" relname="joint"/>
+		<group id="145" type="span" parent="147" relname="contrast"/>
+		<group id="158" type="multinuc" parent="159" relname="joint"/>
+		<group id="152" type="span" parent="158" relname="joint"/>
+		<group id="151" type="span" parent="148" relname="elaboration"/>
+		<group id="157" type="multinuc" parent="158" relname="joint"/>
+		<group id="155" type="multinuc" parent="157" relname="joint"/>
+		<group id="167" type="span"/>
+	</body>
+</rst>

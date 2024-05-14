@@ -1,0 +1,53 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="52" relname="preparation">У президента Чехии Гавела резко ухудшилось самочувствие\n\</segment>
+		<segment id="20" parent="23" relname="condition">nВ связи с резким ухудшением состояния здоровья</segment>
+		<segment id="21" parent="23" relname="sequence">президент Чехии Вацлав Гавел в среду по рекомендации врачей прервал свой рабочий визит во Францию</segment>
+		<segment id="22" parent="23" relname="sequence">и срочно возвращается домой,</segment>
+		<segment id="25" parent="26" relname="attribution">передает РИА \"Новости\".\n\nКак сообщил лечащий врач президента Илья Котик,</segment>
+		<segment id="26" parent="27" relname="span">у Гавела \"снова проблемы с легкими\".</segment>
+		<segment id="29" parent="33" relname="sequence">В настоящее время президентский лайнер находится на пути из Парижа в Прагу.\n\nВо вторник Гавел встретился с президентом Франции Жаком Шираком и премьер-министром Франции Жаном-Пьером Раффарэном.</segment>
+		<segment id="30" parent="32" relname="joint">Как стало известно, прямо из аэропорта \"Рузыне\" в столице Чехии Гавел будет доставлен в Центральный военный госпиталь Праги.\n\nВ декабре прошлого года Вацлав Гавел в связи с воспалением легких был срочно госпитализирован</segment>
+		<segment id="31" parent="32" relname="joint">и лечился в Центральном военном госпитале Праги.</segment>
+		<segment id="34" parent="36" relname="span">Тогда сотрудники канцелярии президента Чехии отменили всю рабочую программу главы государства до конца 2001 года.\n\nПроблемы с легкими и постоянные воспаления дыхательных путей участились у 65-летнего Вацлава Гавела после удаления в декабре 1996 года злокачественной опухоли.\n\</segment>
+		<segment id="35" parent="34" relname="background">nВ конце сентября 2001 года президент Чехии был госпитализирован в связи с сердечной аритмией.\n\</segment>
+		<segment id="37" parent="39" relname="span">nВ конце октября 2001 года он вновь попал на больничную койку пражского Центрального военного госпиталя</segment>
+		<segment id="38" parent="37" relname="cause-effect">в связи с обострением хронического бронхита</segment>
+		<segment id="40" parent="46" relname="span">.\n\nГавел</segment>
+		<segment id="41" parent="45" relname="sequence">- в прошлом заядлый курильщик</segment>
+		<segment id="42" parent="44" relname="comparison">- провел в больнице более 200 дней с того момента,</segment>
+		<segment id="43" parent="44" relname="comparison">как стал президентом Чехии.</segment>
+		<segment id="48" parent="49" relname="joint">Он вступил в эту должность в 1993 году.\n\nПрезидент по настоянию врачей бросил курить перед операцией несколько лет назад.\n\nИсточник: https://www.newsru.com/world/17Jul2002/gavel.html\n</segment>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="28" type="span" parent="52" relname="sequence"/>
+		<group id="24" type="span" parent="28" relname="span"/>
+		<group id="23" type="multinuc" parent="24" relname="span"/>
+		<group id="27" type="span" parent="24" relname="attribution"/>
+		<group id="51" type="multinuc" parent="52" relname="sequence"/>
+		<group id="33" type="multinuc" parent="51" relname="joint"/>
+		<group id="32" type="multinuc" parent="33" relname="sequence"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="36" type="span" parent="50" relname="joint"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="47" type="multinuc" parent="49" relname="joint"/>
+		<group id="39" type="span" parent="47" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="45" type="multinuc" parent="40" relname="background"/>
+		<group id="44" type="multinuc" parent="45" relname="sequence"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

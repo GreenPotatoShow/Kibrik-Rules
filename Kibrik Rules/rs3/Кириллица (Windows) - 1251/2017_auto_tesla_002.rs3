@@ -1,0 +1,39 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="27" relname="preparation">Tesla сорвала план по производству Model 3\n\</segment>
+		<segment id="15" parent="27" relname="span">nКомпания Tesla сорвала план по производству своего первого бюджетного электромобиля Model 3.</segment>
+		<segment id="16" parent="25" relname="preparation">В третьем квартале текущего года было собрано всего 260 единиц этой модели вместо запланированных 1,5 тысячи,</segment>
+		<segment id="17" parent="23" relname="span">сообщается в пресс-релизе производителя.\n\nЭту ситуацию в Tesla объяснили сложностями с наладкой производственных процессов на заводе в Калифорнии и фабрике в Неваде,</segment>
+		<segment id="18" parent="20" relname="comparison">которые заняли больше времени,</segment>
+		<segment id="19" parent="20" relname="comparison">чем ожидалось.\n\nВ компании подчеркнули,</segment>
+		<segment id="21" parent="22" relname="span">что проблем с производством или цепочкой поставок Model 3 нет,</segment>
+		<segment id="24" parent="25" relname="joint">и пообещали решить \"узкие производственные\" вопросы в ближайшее время.\n\nПремьера Tesla Model 3 состоялась 28 июля.</segment>
+		<segment id="29" parent="36" relname="preparation">В ходе презентации основатель компании Илон Маск передал покупателям на заводе в Калифорнии первые 30 автомобилей.\n\</segment>
+		<segment id="30" parent="31" relname="attribution">nПри этом сообщалось,</segment>
+		<segment id="31" parent="32" relname="span">что Tesla планирует произвести в августе 100 автомобилей Model 3,</segment>
+		<segment id="33" parent="35" relname="joint">в сентябре - еще 1500,</segment>
+		<segment id="34" parent="35" relname="joint">а к декабрю выйти на производство 20 тысяч автомобилей в месяц.\n\nВ целом амбициозный план главы компании Илона Маска состоит в том, чтобы уже в 2018 году довести ежегодное производство электромобилей Tesla до 500 тысяч.\n\nИсточник: https://www.newsru.com/auto/03Oct2017/tesla.html\n</segment>
+		<group id="28" type="span" parent="38" relname="joint"/>
+		<group id="27" type="span" parent="28" relname="span"/>
+		<group id="26" type="span" parent="15" relname="elaboration"/>
+		<group id="25" type="multinuc" parent="26" relname="span"/>
+		<group id="23" type="span" parent="25" relname="joint"/>
+		<group id="22" type="span" parent="17" relname="elaboration"/>
+		<group id="20" type="multinuc" parent="21" relname="attribution"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="32" type="span" parent="36" relname="joint"/>
+		<group id="35" type="multinuc" parent="36" relname="joint"/>
+		<group id="38" type="multinuc"/>
+	</body>
+</rst>

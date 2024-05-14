@@ -1,0 +1,27 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="13" relname="joint">Пропавших в Сахаре 29 туристов ищут авиация, армия и полиция\n\nОколо 1200 военнослужащих и полицейских ищут в четверг в Алжире 29 туристов, пропавших в малонаселенных районах Сахары.</segment>
+		<segment id="10" parent="12" relname="span">В спасательной операции задействованы вертолеты и самолеты.\n\nВ конце февраля и в течение марта шесть туристических групп бесследно исчезли в треугольнике между городами Таманрассет, Уаргла и Джанет.</segment>
+		<segment id="11" parent="10" relname="elaboration">Пропавшими числятся 15 немцев, 8 австрийцев, 4 швейцарца, один голландец и один швед,</segment>
+		<segment id="14" parent="13" relname="attribution">сообщает ИТАР-ТАСС</segment>
+		<segment id="16" parent="17" relname="joint">.\n\nДо сих пор не удалось обнаружить не только туристов, но и транспортные средства - внедорожники и мотоциклы, на которых они путешествовали по Сахаре.</segment>
+		<segment id="18" parent="22" relname="joint">Одной из основных версий произошедшего считается похищение с целью получения выкупа.\n\nМежду тем из отдаленных районов Алжира началась эвакуация иностранцев.</segment>
+		<segment id="19" parent="21" relname="joint">Сегодня 37 граждан Австрии, Германии и Италии должны покинуть город Таманрассет в сопровождении алжирских военнослужащих</segment>
+		<segment id="20" parent="21" relname="joint">и вернуться в Европу транзитом через Тунис.\n\nИсточник: https://www.newsru.com/world/10Apr2003/tour.html\n</segment>
+		<group id="17" type="multinuc" parent="23" relname="joint"/>
+		<group id="15" type="span" parent="17" relname="joint"/>
+		<group id="13" type="multinuc" parent="15" relname="span"/>
+		<group id="12" type="span" parent="13" relname="joint"/>
+		<group id="22" type="multinuc" parent="23" relname="joint"/>
+		<group id="21" type="multinuc" parent="22" relname="joint"/>
+		<group id="23" type="multinuc"/>
+	</body>
+</rst>

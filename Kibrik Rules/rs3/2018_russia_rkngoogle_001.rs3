@@ -1,0 +1,69 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="31" relname="span">Роскомнадзор оштрафует Google за выдачу ссылок на запрещенные в РФ ресурсы\n\nПоисковик Google не выполнил российское законодательство в части подключения к федеральной государственной информационной системе (ФГИС),</segment>
+		<segment id="28" parent="30" relname="joint">содержащей перечень запрещенных интернет-ресурсов,</segment>
+		<segment id="29" parent="30" relname="joint">и будет оштрафован на сумму до 700 тыс. рублей.</segment>
+		<segment id="32" parent="34" relname="span">Об этом сообщили в четверг в пресс-службе Федеральной службы по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор).\n\n\"При осуществлении контроля Роскомнадзором зафиксирован факт неисполнения компанией Google обязанности по подключению к федеральной государственной информационной системе.</segment>
+		<segment id="33" parent="32" relname="elaboration">Роскомнадзором будут приняты меры реагирования в соответствии с КоАП РФ\",</segment>
+		<segment id="36" parent="39" relname="attribution">- говорится в сообщении.\n\nВ Роскомнадзоре уточнили,</segment>
+		<segment id="37" parent="39" relname="comparison">что сумма штрафа может составить от 500 тысяч до 700 тысяч рублей.\n\nВ ведомстве пояснили,</segment>
+		<segment id="38" parent="39" relname="comparison">что в соответствии со статьей 15.8 федерального закона \"Об информации, информационных технологиях и о защите информации\" действующие на территории РФ операторы поисковых систем обязаны исключить из поисковой выдачи заблокированные в России интернет-ресурсы.\n\nРанее Роскомнадзор направил в компанию Google требование о подключении к федеральной государственной информационной системе.</segment>
+		<segment id="41" parent="43" relname="span">Поисковик должен был в течение 30 дней подключиться к федеральной государственной информационной системе,</segment>
+		<segment id="42" parent="41" relname="elaboration">содержащей перечень запрещенных интернет-ресурсов (ФГИС),</segment>
+		<segment id="44" parent="45" relname="attribution">передает ТАСС.\n\nЗаместитель главы Роскомнадзора Вадим Субботин пояснил,</segment>
+		<segment id="45" parent="46" relname="span">что ведомство провело контрольные мероприятия в отношении Google.</segment>
+		<segment id="48" parent="47" relname="elaboration">Соответствующий акт будет направлен в суд.</segment>
+		<segment id="50" parent="51" relname="attribution">По его словам,</segment>
+		<segment id="51" parent="52" relname="span">будут отведены определенные сроки на получение возражений от компании Google.</segment>
+		<segment id="53" parent="65" relname="sequence">После этого суд примет окончательное решение о штрафе.\n\nДобавим, в последние месяцы компания Google стала объектом скоординированного давления со стороны государственных органов.</segment>
+		<segment id="54" parent="62" relname="span">В сентябре Роскомнадзор, Центризбирком, прокуратура и Федеральная антимонопольная служба РФ прислали в Google письма, в которых фактически обвинили компанию во вредительской политической деятельности.</segment>
+		<segment id="55" parent="61" relname="joint">Причем это произошло в преддверии выборов депутатов региональных и муниципальных парламентов</segment>
+		<segment id="56" parent="59" relname="interpretation-evaluation">и в тот момент,</segment>
+		<segment id="57" parent="59" relname="joint">когда Google отмечала 20-летие.\n\n\"Нам известны случаи, когда популярные сервисы и инструменты Google беспрепятственно становятся площадками, размещающими противоправный, незаконный контент,</segment>
+		<segment id="58" parent="59" relname="joint">напрямую нарушающий нормы законодательства РФ по выборам\",</segment>
+		<segment id="63" parent="62" relname="attribution">- заявил заместитель главы Роскомнадзора Вадим Субботин.\n\</segment>
+		<segment id="70" parent="71" relname="attribution">nПо словам Субботина,</segment>
+		<segment id="71" parent="72" relname="span">более 40 \"специализированных YouTube-каналов в постоянном режиме ведут массированные акции с призывами нарушать российской закон\".</segment>
+		<segment id="73" parent="75" relname="span">\"Путем предоставления фактически неограниченных возможностей со стороны иностранных интернет-гигантов, таких как Google, рядом заинтересованных в дестабилизации обстановки в РФ лиц делаются попытки привлечения пользователей к незаконной деятельности в интернете\",</segment>
+		<segment id="74" parent="73" relname="attribution">- сказал замглавы надзорного ведомства.\n\nИсточник: https://www.newsru.com/russia/25Oct2018/rkngoogle.html\n</segment>
+		<group id="69" type="multinuc" parent="77" relname="span"/>
+		<group id="35" type="multinuc" parent="69" relname="joint"/>
+		<group id="31" type="span" parent="35" relname="joint"/>
+		<group id="30" type="multinuc" parent="27" relname="elaboration"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="68" type="multinuc" parent="69" relname="joint"/>
+		<group id="40" type="span" parent="68" relname="joint"/>
+		<group id="39" type="multinuc" parent="40" relname="span"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="49" type="span" parent="67" relname="joint"/>
+		<group id="47" type="span" parent="49" relname="span"/>
+		<group id="43" type="span" parent="47" relname="span"/>
+		<group id="46" type="span" parent="43" relname="attribution"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="52" type="span" parent="65" relname="preparation"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="64" type="span" parent="65" relname="sequence"/>
+		<group id="62" type="span" parent="64" relname="span"/>
+		<group id="61" type="multinuc" parent="54" relname="elaboration"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="59" type="multinuc" parent="60" relname="span"/>
+		<group id="76" type="multinuc" parent="69" relname="interpretation-evaluation"/>
+		<group id="72" type="span" parent="76" relname="joint"/>
+		<group id="75" type="span" parent="76" relname="joint"/>
+		<group id="77" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,52 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="restatement" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="52" relname="preparation">Итальянцы идут на мировой рекорд по продолжительности пребывания под водой – 10 дней\n\</segment>
+		<segment id="20" parent="24" relname="span">nИтальянцы попытаются установить мировой рекорд,</segment>
+		<segment id="21" parent="23" relname="restatement">прожив под водой около 240 часов,</segment>
+		<segment id="22" parent="23" relname="restatement">то есть десять дней.\n\n37-летний Стефано Барбареси и 29-летняя Стефания Менса в четверг провели свое первое утро на глубине восьми метров в море недалеко от острова Понца,</segment>
+		<segment id="25" parent="24" relname="attribution">сообщает AP.</segment>
+		<segment id="27" parent="29" relname="span">У Барбареси и Менса под водой будут кровати, стол, стулья, тренажер для развития мускулатуры и даже телевизор.\n\nКаждые пять часов итальянцы могут провести немного времени в специальной \"сухой\" комнате,</segment>
+		<segment id="28" parent="27" relname="elaboration">которая также находится под водой.</segment>
+		<segment id="30" parent="36" relname="sequence">Там ныряльщики смогут сменить одежду,</segment>
+		<segment id="31" parent="35" relname="joint">сходить в туалет,</segment>
+		<segment id="32" parent="34" relname="span">а ученые и врачи провести их обследование.\n\nТаким образом, специалисты хотят получить возможность изучить влияние воды на организм человека</segment>
+		<segment id="33" parent="32" relname="condition">в условиях долгого пребывания в море,</segment>
+		<segment id="37" parent="36" relname="attribution">сообщает РИА \"Новости\".\n\</segment>
+		<segment id="40" parent="42" relname="span">nНапомним, в мае 63-летний отставной морской спецназовец из элитного турецкого подразделения САС Намык Эркин предпринял попытку побить мировой рекорд американца Джерри Хала,</segment>
+		<segment id="41" parent="40" relname="elaboration">который в водолазном снаряжении находился под водой 120 часов.</segment>
+		<segment id="43" parent="49" relname="joint">Турок хотел установить свой собственный рекорд по продолжительности пребывания под водой в течение пяти дней.</segment>
+		<segment id="44" parent="48" relname="sequence">При этом Эркин неоднократно переплывал в легком водолазном снаряжении Босфор,</segment>
+		<segment id="45" parent="47" relname="span">а затем, погрузившись в Средиземное море в районе турецкого Мерсина,</segment>
+		<segment id="46" parent="45" relname="background">вышел на поверхность уже на берегу северной части Кипра.\n\nИсточник: https://www.newsru.com/world/09Sep2005/italians.html\n</segment>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="26" type="span" parent="52" relname="joint"/>
+		<group id="24" type="span" parent="26" relname="span"/>
+		<group id="23" type="multinuc" parent="20" relname="elaboration"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="39" type="multinuc" parent="51" relname="joint"/>
+		<group id="29" type="span" parent="39" relname="joint"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="36" type="multinuc" parent="38" relname="span"/>
+		<group id="35" type="multinuc" parent="36" relname="sequence"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="42" type="span" parent="50" relname="sequence"/>
+		<group id="49" type="multinuc" parent="50" relname="sequence"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="sequence"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="evidence" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="joint">\"Альфа\" продолжает скупать долги девелоперов:</segment>
+		<segment id="20" parent="21" relname="joint">теперь ей должен и ПИК\n\nАльфа-банк продолжает скупать долги пострадавших от кризиса девелоперов.</segment>
+		<segment id="22" parent="26" relname="joint">Теперь \"Альфа\" выкупила часть долга группы ПИК у Номос-банка и банкиры отсудили акции компании,</segment>
+		<segment id="23" parent="25" relname="span">пишут \"Ведомости\".\n\nВо вторник московский арбитраж удовлетворил иск Номос-банка о взыскании 12,5% акций группы ПИК,</segment>
+		<segment id="24" parent="23" relname="elaboration">заложенных ее совладельцем Юрием Жуковым в кризисном 2008 году по кредиту в 262 млн долларов.</segment>
+		<segment id="27" parent="29" relname="joint">Суд определил общую сумму долга в 271,4 млн долларов,</segment>
+		<segment id="28" parent="29" relname="joint">а заложенные акции по вчерашним котировкам на LSE стоили 228 млн долларов.\n\nВо вчерашнем заседании суда на стороне \"Номоса\" участвовал юрист Альфа-банка.</segment>
+		<segment id="32" parent="33" relname="attribution">Как рассказали \"Ведомостям\" несколько источников в банковских кругах,</segment>
+		<segment id="33" parent="34" relname="span">\"Альфа\" помогает Номос-банку реструктурировать задолженность группы ПИК.</segment>
+		<segment id="36" parent="47" relname="preparation">Представители обоих банков подтвердили газете эту информацию.</segment>
+		<segment id="37" parent="44" relname="attribution">Близкий к одному из участников сделки источник пояснил,</segment>
+		<segment id="38" parent="44" relname="joint">что структура акционеров \"Альфа-групп\" выкупила у Номос-банка права требования на 50% кредита,</segment>
+		<segment id="39" parent="42" relname="attribution">а представители обоих банков подтвердили лишь,</segment>
+		<segment id="40" parent="42" relname="span">что сделка с частью долга прошла по номиналу.\n\n\"У \"Альфы\" очень опытный юридический персонал,</segment>
+		<segment id="41" parent="40" relname="elaboration">есть специальное подразделение, которое занимается такого рода операциями, например покупкой долгов\",</segment>
+		<segment id="46" parent="45" relname="attribution">- отмечает член правления \"Барклайс банка\" Евгений Ретюнский.</segment>
+		<segment id="49" parent="51" relname="joint">Например, в июле банк выкупил с 75%-ным дисконтом права требования по кредитам Mirax Group на 241,6 млн долларов у Credit Suisse.</segment>
+		<segment id="50" parent="51" relname="joint">Эксперты оценивали доходность операции в 120% годовых.\n\nИсточник: https://www.newsru.com/realty/26May2010/alfa_pik.html\n</segment>
+		<group id="35" type="multinuc" parent="53" relname="joint"/>
+		<group id="31" type="span" parent="35" relname="comparison"/>
+		<group id="21" type="multinuc" parent="30" relname="preparation"/>
+		<group id="30" type="multinuc" parent="31" relname="span"/>
+		<group id="26" type="multinuc" parent="30" relname="joint"/>
+		<group id="25" type="span" parent="26" relname="joint"/>
+		<group id="29" type="multinuc" parent="30" relname="joint"/>
+		<group id="34" type="span" parent="35" relname="comparison"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="48" type="span" parent="52" relname="span"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="44" type="multinuc" parent="45" relname="span"/>
+		<group id="43" type="span" parent="44" relname="joint"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="51" type="multinuc" parent="48" relname="evidence"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

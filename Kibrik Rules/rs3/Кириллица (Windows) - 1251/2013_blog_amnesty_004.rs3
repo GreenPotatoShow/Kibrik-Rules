@@ -1,0 +1,52 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="52" relname="preparation">Эдуард Лимонов: \"Амнистия?!</segment>
+		<segment id="20" parent="21" relname="condition">Да вы что, не может быть, может, аппендицит?\"\n\n\"Уже сегодня, через несколько дней после принятия закона об амнистии,</segment>
+		<segment id="21" parent="22" relname="span">можно с уверенностью заявить,</segment>
+		<segment id="23" parent="25" relname="span">что она была затеяна</segment>
+		<segment id="24" parent="23" relname="purpose">чтобы удовлетворить заграницу и ультралибералов в России.</segment>
+		<segment id="27" parent="29" relname="span">Амнистию провели,</segment>
+		<segment id="28" parent="27" relname="purpose">чтобы заткнуть критику со стороны этих двух сил.\n\nВыпускают по амнистии,</segment>
+		<segment id="30" parent="32" relname="span">мы видим кого: двух наглых девок, Алёхину и Толоконникову, тридцатник гринписовцев</segment>
+		<segment id="31" parent="30" relname="elaboration">(я что вам говорил ровно три месяца назад?!</segment>
+		<segment id="34" parent="39" relname="attribution">26 сентября я писал,</segment>
+		<segment id="35" parent="39" relname="span">что они отделаются несколькими месяцами),</segment>
+		<segment id="36" parent="38" relname="restatement">\"болотных\" обвиняемых</segment>
+		<segment id="37" parent="38" relname="restatement">(пятерых уже амнистировали).</segment>
+		<segment id="41" parent="49" relname="span">И, конечно же, как бы бонусом сверху Путин помиловал Ходорковского.</segment>
+		<segment id="42" parent="44" relname="span">Одним словом, все хорошо, прекрасная маркиза!</segment>
+		<segment id="43" parent="42" relname="elaboration">Веселися, весь народ!\n\nПростых имен амнистированных мы пока не слышим.</segment>
+		<segment id="45" parent="47" relname="span">Только special, Только vipы.</segment>
+		<segment id="46" parent="45" relname="elaboration">Только те, кто мил Западу и отечественным ультралибералам\".\n\nИсточник: https://www.newsru.com/blog/26Dec2013/amnesty.html\n</segment>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="26" type="span" parent="51" relname="solutionhood"/>
+		<group id="22" type="span" parent="25" relname="condition"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="33" type="multinuc" parent="50" relname="solutionhood"/>
+		<group id="29" type="span" parent="33" relname="joint"/>
+		<group id="32" type="span" parent="33" relname="joint"/>
+		<group id="50" type="multinuc" parent="51" relname="span"/>
+		<group id="40" type="span" parent="50" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="38" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="48" type="span" parent="41" relname="elaboration"/>
+		<group id="44" type="span" parent="48" relname="span"/>
+		<group id="47" type="span" parent="44" relname="elaboration"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

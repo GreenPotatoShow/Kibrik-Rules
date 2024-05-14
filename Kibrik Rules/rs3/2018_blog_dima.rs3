@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="91" relname="preparation">Игорь Эйдман: \"Кто подставил медвежонка Диму\"\n\n\"Сорока на хвосте из Москвы принесла.</segment>
+		<segment id="33" parent="39" relname="span">Медведев-то наш не просто так спортивную травму на тренировке по литрболу получил.</segment>
+		<segment id="34" parent="38" relname="joint">Его опять капитально подставили.</segment>
+		<segment id="35" parent="37" relname="joint">Он расстроился</segment>
+		<segment id="36" parent="37" relname="joint">и запил\",</segment>
+		<segment id="40" parent="42" relname="span">- пишет социолог в Facebook.\n\n\"Путин продолжает использовать своего ручного Медвежонка, как некрасивую подружку,</segment>
+		<segment id="41" parent="40" relname="purpose">чтобы хотя бы на его фоне выглядеть привлекательно.</segment>
+		<segment id="44" parent="50" relname="span">Медведеву поручили протащить непопулярную пенсионную реформу.</segment>
+		<segment id="45" parent="47" relname="joint">Он, дурачок,</segment>
+		<segment id="46" parent="47" relname="joint">и рад стараться</segment>
+		<segment id="48" parent="47" relname="cause-effect">.\n\nКремль фактически всю ответственность за это безобразие свалил на правительство и его незадачливого председателя.</segment>
+		<segment id="51" parent="55" relname="joint">А теперь Путин решил сыграть в доброго следователя</segment>
+		<segment id="52" parent="54" relname="span">и смягчить реформу</segment>
+		<segment id="53" parent="52" relname="elaboration">(уже 28 августа ожидается его выступление на этот счет).</segment>
+		<segment id="56" parent="62" relname="span">Населению продадут такую картинку:</segment>
+		<segment id="57" parent="61" relname="contrast">зловредное правительство затеяло беспредел с пенсиями,</segment>
+		<segment id="58" parent="60" relname="joint">но добрый царь вмешался</segment>
+		<segment id="59" parent="60" relname="joint">и дал по рукам распоясавшимся боярам.</segment>
+		<segment id="64" parent="68" relname="contrast">В результате Путин будет опять весь в белом,</segment>
+		<segment id="65" parent="67" relname="joint">а Медведев — опять весь в г...\n\nБедный Медвежонок расстроился по этому поводу</segment>
+		<segment id="66" parent="67" relname="joint">и заранее заболел медвежьей болезнью.</segment>
+		<segment id="69" parent="71" relname="joint">Пьет какой уже день</segment>
+		<segment id="70" parent="71" relname="joint">и плачет:</segment>
+		<segment id="72" parent="76" relname="span">\"Опять Путин меня подставил\".\n\nНаселение в очередной раз разведут.</segment>
+		<segment id="73" parent="75" relname="joint">Смягчат нюансы,</segment>
+		<segment id="74" parent="75" relname="joint">а основные элементы грабительской реформы оставят.</segment>
+		<segment id="78" parent="79" relname="attribution">Но люди решат,</segment>
+		<segment id="79" parent="80" relname="span">что все-таки добрый Путин вмешался:</segment>
+		<segment id="81" parent="83" relname="span">\"совсем отменить не смог,</segment>
+		<segment id="82" parent="81" relname="concession">ну хотя бы смягчил\".</segment>
+		<segment id="85" parent="84" relname="evidence">Так вот и разводят лохов в нашей стране\".\n\nИсточник: https://www.newsru.com/blog/24Aug2018/dima.html\n</segment>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="43" type="span" parent="91" relname="joint"/>
+		<group id="39" type="span" parent="43" relname="span"/>
+		<group id="38" type="multinuc" parent="33" relname="elaboration"/>
+		<group id="37" type="multinuc" parent="38" relname="joint"/>
+		<group id="42" type="span" parent="39" relname="attribution"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="50" type="span" parent="90" relname="joint"/>
+		<group id="49" type="span" parent="44" relname="interpretation-evaluation"/>
+		<group id="47" type="multinuc" parent="49" relname="span"/>
+		<group id="89" type="span" parent="90" relname="joint"/>
+		<group id="63" type="multinuc" parent="88" relname="cause-effect"/>
+		<group id="55" type="multinuc" parent="63" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="61" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="60" type="multinuc" parent="61" relname="contrast"/>
+		<group id="88" type="multinuc" parent="89" relname="span"/>
+		<group id="68" type="multinuc" parent="88" relname="joint"/>
+		<group id="67" type="multinuc" parent="68" relname="contrast"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="77" type="span" parent="87" relname="contrast"/>
+		<group id="71" type="multinuc" parent="77" relname="span"/>
+		<group id="76" type="span" parent="71" relname="elaboration"/>
+		<group id="75" type="multinuc" parent="72" relname="interpretation-evaluation"/>
+		<group id="86" type="span" parent="87" relname="contrast"/>
+		<group id="84" type="span" parent="86" relname="span"/>
+		<group id="80" type="span" parent="84" relname="span"/>
+		<group id="83" type="span" parent="80" relname="elaboration"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,138 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="60" parent="64" relname="span">\"Юрий Долгорукий\" успешно испытал \"Булаву\"</segment>
+		<segment id="61" parent="63" relname="span">- ракета улетела на максимальную дальность\n\nНовейший ракетный подводный крейсер стратегического назначения \"Юрий Долгорукий\" успешно выполнил второй по счету испытательный пуск межконтинентальной баллистической ракеты \"Булава\".</segment>
+		<segment id="62" parent="61" relname="elaboration">Впервые пуск \"Булавы\" осуществлен на максимальную дальность из Белого моря в район Тихого океана.</segment>
+		<segment id="65" parent="66" relname="joint">Об этом ИТАР-ТАСС сообщил сегодня официальный представитель Управления пресс-службы и информации Минобороны РФ.\n\n\"Сегодня в 07:20 мск с атомного подводного ракетоносца \"Юрий Долгорукий\" под командованием капитана 1-го ранга Владимира Ширина из акватории Белого моря произведен очередной пуск МБР \"Булава\",</segment>
+		<segment id="67" parent="66" relname="attribution">- отметил он.</segment>
+		<segment id="69" parent="73" relname="span">- Пуск осуществлен из подводного положения со штатного носителя в рамках государственных летно-конструкторских испытаний комплекса на максимальную дальность полета ракеты\".\n\n\"В установленное время боевые блоки ракеты успешно доставлены в заданный район акватории Тихого океана с соблюдением мер по обеспечению безопасности морского судоходства\",</segment>
+		<segment id="70" parent="72" relname="span">- сказал представитель Минобороны.\n\nЭкипаж подводной лодки при выполнении этой учебно-боевой задачи</segment>
+		<segment id="71" parent="70" relname="elaboration">\"проявил высокий профессионализм и выучку\",</segment>
+		<segment id="74" parent="75" relname="joint">- подчеркнул он.\n\nСегодняшний пуск \"Булавы\" стал 16-м по счету и вторым подряд, успешно произведенным с борта \"Юрий Долгорукого\".</segment>
+		<segment id="77" parent="78" relname="attribution">12 августа в государственной комиссии по проведению испытаний \"Булавы\" сообщили ИТАР-ТАСС,</segment>
+		<segment id="78" parent="79" relname="span">что до конца текущего года планируется провести максимум два пуска ракеты, включая залповый.</segment>
+		<segment id="80" parent="82" relname="sequence">В случае успеха последнего будет принято решение о принятии стратегического морского ракетного комплекса Д-30 (ракета и подлодка) на вооружение ВМФ.\n\n\"Пока планируется провести в последней декаде августа очередное, 16-е по счету, летное испытание одной ракеты,</segment>
+		<segment id="81" parent="82" relname="sequence">а затем - осенью или даже в декабре - залповый пуск двух ракет \"Булава\",</segment>
+		<segment id="83" parent="85" relname="span">сказал тогда собеседник ИТАР-ТАСС.\n\n\"При любом варианте испытаний в случае успешного залпового пуска \"Булавы\" последует решение о принятии этого ракетного комплекса на вооружение нашего ВМФ,</segment>
+		<segment id="84" parent="83" relname="attribution">- подчеркнули в госкомиссии.</segment>
+		<segment id="88" parent="99" relname="preparation">- \"Юрий Долгорукий\" полностью готов к выполнению боевых задач.</segment>
+		<segment id="89" parent="99" relname="joint">Теперь дело за успешным полетом двух ракет \"Булава\" в залповом пуске\".\n\nВ госкомиссии не подтвердили информацию о том, что до конца этого года к пускам \"Булавы\" будет подключена вторая стратегическая АПЛ проекта 955 \"Борей\" - \"Александр Невский\".</segment>
+		<segment id="90" parent="94" relname="span">\"Этот крейсер сейчас проходит только заводские испытания,</segment>
+		<segment id="91" parent="93" relname="sequence">после которых начнутся ходовые.</segment>
+		<segment id="92" parent="93" relname="sequence">Стрелять ракетами он начнет не раньше весны 2012 года\",</segment>
+		<segment id="95" parent="97" relname="span">- уточнил собеседник.\n\nПервый пуск \"Булавы\" с ракетоносца \"Юрий Долгорукий\" был осуществлен 28 июня этого года</segment>
+		<segment id="96" parent="95" relname="background">(в серии испытаний он стал 15-м по счету).</segment>
+		<segment id="101" parent="117" relname="span">До этого испытания в качестве стартовой платформы использовалась переоборудованная подлодка \"Дмитрий Донской\" проекта 941 \"Акула\".</segment>
+		<segment id="102" parent="104" relname="span">По всем параметрам пуск оказался успешным:</segment>
+		<segment id="103" parent="102" relname="elaboration">боевые блоки ракеты, запущенной с борта новейшего российского подводного \"стратега\", прибыли в заданный район на Камчатке.</segment>
+		<segment id="105" parent="106" relname="attribution">Уже пару дней спустя глава Минобороны РФ Анатолий Сердюков заявил на встрече с военными обозревателями ведущих российских СМИ,</segment>
+		<segment id="106" parent="107" relname="span">что \"Булаву\" можно запускать в серийное производство.</segment>
+		<segment id="108" parent="110" relname="span">\"Булава\" полетела,</segment>
+		<segment id="109" parent="108" relname="interpretation-evaluation">это хорошая новость.</segment>
+		<segment id="111" parent="110" relname="elaboration">Мы точно понимаем, что в этом варианте ракету можно запускать в серийное производство,</segment>
+		<segment id="113" parent="112" relname="attribution">- сказал министр.</segment>
+		<segment id="118" parent="120" relname="span">- Мы добились результата,</segment>
+		<segment id="119" parent="118" relname="elaboration">теперь можно заряжать \"Булавой\" ракетоносец \"Юрий Долгорукий\".\n\nМБР морского базирования Р-30 ЗМЗО (РСМ-56) \"Булава\" - новейшая российская трехступенчатая твердотопливная ракета.</segment>
+		<segment id="121" parent="125" relname="span">Она оснащена шестью гиперзвуковыми маневрирующими ядерными блоками индивидуального наведения мощностью по 50 килотонн,</segment>
+		<segment id="122" parent="124" relname="joint">способными менять траекторию полета по высоте и курсу</segment>
+		<segment id="123" parent="124" relname="joint">и поражать цели на расстоянии до 8 тыс. км.</segment>
+		<segment id="126" parent="132" relname="joint">\"Булава\" - это высокоточное оружие,</segment>
+		<segment id="127" parent="131" relname="same-unit">она,</segment>
+		<segment id="128" parent="130" relname="joint">как говорят ракетчики,</segment>
+		<segment id="129" parent="130" relname="joint">стреляет точно в колышек.</segment>
+		<segment id="133" parent="134" relname="cause-effect">Круговое вероятное отклонение от цели ее боевых блоков - всего несколько метров,</segment>
+		<segment id="134" parent="135" relname="span">поэтому они могут прилететь и в шахтную пусковую установку МБР, и на командный пункт военной базы, и на палубу авианосца.</segment>
+		<segment id="136" parent="138" relname="span">Имеющейся у \"Булавы\" мощности боевой ступени, дополненной уникальными возможностями преодоления существующих и перспективных систем ПРО, вполне достаточно</segment>
+		<segment id="137" parent="136" relname="purpose">для решения возлагаемых на нее боевых задач\",</segment>
+		<segment id="141" parent="140" relname="attribution">- отметил собеседник ИТАР- ТАСС в госкомиссии.\n\nШтатные носители \"Булавы\" - \"Бореи\" - спроектированы в санкт-петербургском ЦКБ морской техники \"Рубин\".</segment>
+		<segment id="145" parent="146" relname="condition">При их строительстве</segment>
+		<segment id="146" parent="147" relname="span">применены последние достижения в области разработки корабельных радиоэлектронных средств, снижении шумности.</segment>
+		<segment id="148" parent="147" relname="elaboration">Каждый атомоход несет 16 пусковых установок МБР \"Булава\".</segment>
+		<segment id="150" parent="158" relname="span">Подлодки этого проекта оснащаются всплывающей спасательной камерой, рассчитанной на весь экипаж.</segment>
+		<segment id="151" parent="157" relname="joint">Длина корпуса АПЛ -170 м, ширина -13,5 м,</segment>
+		<segment id="152" parent="156" relname="joint">глубина погружения - 450 м, экипаж -107 человек.\n\n\"Юрий Долгорукий\", головной корабль проекта, был заложен на заводском стапеле в 1996 году</segment>
+		<segment id="153" parent="155" relname="span">и спущен на воду</segment>
+		<segment id="154" parent="153" relname="purpose">для достройки в апреле 2007 года.</segment>
+		<segment id="159" parent="161" relname="sequence">В декабре прошлого года на Севмаше был спущен на воду первый серийный атомоход проекта 955 - \"Александр Невский\",</segment>
+		<segment id="160" parent="161" relname="sequence">сейчас он проходит заводские испытания.</segment>
+		<segment id="163" parent="169" relname="span">На стапеле верфи продолжается строительство еще одного ракетоносца этой серии - \"Владимир Мономах\".</segment>
+		<segment id="164" parent="168" relname="span">Сейчас его готовность составляет около 50 процентов.\n\</segment>
+		<segment id="165" parent="167" relname="joint">nВ соответствии с госпрограммой вооружения,</segment>
+		<segment id="166" parent="167" relname="joint">до 2020 года предстоит построить восемь \"Бореев\".\n\nИсточник: https://www.newsru.com/russia/27Aug2011/bulava1.html\n</segment>
+		<group id="76" type="multinuc" parent="176" relname="joint"/>
+		<group id="68" type="span" parent="76" relname="joint"/>
+		<group id="66" type="multinuc" parent="68" relname="span"/>
+		<group id="64" type="span" parent="66" relname="joint"/>
+		<group id="63" type="span" parent="60" relname="elaboration"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="73" type="span" parent="75" relname="joint"/>
+		<group id="72" type="span" parent="69" relname="attribution"/>
+		<group id="175" type="multinuc" parent="176" relname="joint"/>
+		<group id="87" type="multinuc" parent="175" relname="joint"/>
+		<group id="79" type="span" parent="87" relname="joint"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="82" type="multinuc" parent="85" relname="cause-effect"/>
+		<group id="85" type="span" parent="86" relname="span"/>
+		<group id="174" type="multinuc" parent="175" relname="joint"/>
+		<group id="100" type="span" parent="174" relname="joint"/>
+		<group id="99" type="multinuc" parent="100" relname="span"/>
+		<group id="98" type="span" parent="99" relname="joint"/>
+		<group id="94" type="span" parent="98" relname="span"/>
+		<group id="93" type="multinuc" parent="90" relname="elaboration"/>
+		<group id="97" type="span" parent="94" relname="attribution"/>
+		<group id="173" type="multinuc" parent="174" relname="joint"/>
+		<group id="117" type="span" parent="173" relname="joint"/>
+		<group id="116" type="span" parent="101" relname="elaboration"/>
+		<group id="104" type="span" parent="116" relname="span"/>
+		<group id="115" type="multinuc" parent="104" relname="elaboration"/>
+		<group id="107" type="span" parent="115" relname="joint"/>
+		<group id="114" type="span" parent="115" relname="joint"/>
+		<group id="112" type="span" parent="114" relname="span"/>
+		<group id="110" type="span" parent="112" relname="span"/>
+		<group id="172" type="multinuc" parent="173" relname="joint"/>
+		<group id="144" type="multinuc" parent="172" relname="joint"/>
+		<group id="120" type="span" parent="144" relname="joint"/>
+		<group id="143" type="multinuc" parent="144" relname="joint"/>
+		<group id="125" type="span" parent="143" relname="joint"/>
+		<group id="124" type="multinuc" parent="121" relname="elaboration"/>
+		<group id="142" type="span" parent="143" relname="joint"/>
+		<group id="140" type="multinuc" parent="142" relname="span"/>
+		<group id="132" type="multinuc" parent="140" relname="joint"/>
+		<group id="131" type="multinuc" parent="132" relname="joint"/>
+		<group id="130" type="multinuc" parent="131" relname="same-unit"/>
+		<group id="139" type="span" parent="140" relname="joint"/>
+		<group id="135" type="span" parent="139" relname="span"/>
+		<group id="138" type="span" parent="135" relname="elaboration"/>
+		<group id="171" type="multinuc" parent="172" relname="joint"/>
+		<group id="149" type="span" parent="171" relname="joint"/>
+		<group id="147" type="span" parent="149" relname="span"/>
+		<group id="170" type="multinuc" parent="171" relname="joint"/>
+		<group id="162" type="multinuc" parent="170" relname="joint"/>
+		<group id="158" type="span" parent="162" relname="sequence"/>
+		<group id="157" type="multinuc" parent="150" relname="elaboration"/>
+		<group id="156" type="multinuc" parent="157" relname="joint"/>
+		<group id="155" type="span" parent="156" relname="joint"/>
+		<group id="161" type="multinuc" parent="162" relname="sequence"/>
+		<group id="169" type="span" parent="170" relname="joint"/>
+		<group id="168" type="span" parent="163" relname="elaboration"/>
+		<group id="167" type="multinuc" parent="164" relname="elaboration"/>
+		<group id="176" type="multinuc"/>
+	</body>
+</rst>

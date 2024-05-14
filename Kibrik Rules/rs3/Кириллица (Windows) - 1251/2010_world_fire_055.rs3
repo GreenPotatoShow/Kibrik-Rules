@@ -1,0 +1,57 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="24" relname="span">Репетиция парада Победы в Минске была омрачена возгоранием бронетраспортера (ВИДЕО)\n\nВо время репетиции парада ко Дню Победы в Минске произошло ЧП:</segment>
+		<segment id="23" parent="22" relname="elaboration">загорелся один из бронетранспортеров, двигавшихся по улице Сурганова.</segment>
+		<segment id="25" parent="29" relname="sequence">Инцидент произошел вечером 6 мая, передает \"Хартия'97\" со ссылкой на \"Интерфакс\".\n\nБТР, ехавший вместе с колонной военной техники,</segment>
+		<segment id="26" parent="28" relname="sequence">сначала начал дымиться,</segment>
+		<segment id="27" parent="28" relname="sequence">а затем и вовсе остановился.</segment>
+		<segment id="30" parent="32" relname="span">Технику пришлось перевезти на площадь Бангалор,</segment>
+		<segment id="31" parent="30" relname="purpose">чтобы не препятствовать дальнейшему движению машин.\n\</segment>
+		<segment id="33" parent="34" relname="purpose">nДля тушения горящего БТР</segment>
+		<segment id="34" parent="35" relname="span">были вызваны пожарные, которым удалось справиться с возгоранием в течение десяти минут.</segment>
+		<segment id="38" parent="42" relname="span">БТР еще в течение нескольких часов находился на площади Бангалор.</segment>
+		<segment id="39" parent="41" relname="span">Некоторые очевидцы узнали в нем МТ-ЛБу (многоцелевой тягач легкобронированный усовершенствованный),</segment>
+		<segment id="40" parent="39" relname="elaboration">который является разработанным еще в конце 1960-х советским легким плавающим бронетранспортером.\n\</segment>
+		<segment id="44" parent="47" relname="preparation">nСтоит отметить, что накануне на репетиции парада к 9 мая похожий инцидент произошел и в Москве.</segment>
+		<segment id="45" parent="47" relname="joint">В ходе подготовки к празднику оперативно-тактический комплекс \"Искандер\" вышел из строя</segment>
+		<segment id="46" parent="47" relname="joint">и не смог продолжить движение по Тверской улице в сторону Красной площади.\n\nПримерно в 10:50 колонна военной техники начала движение по Тверской улице.</segment>
+		<segment id="49" parent="54" relname="condition">Когда мимо мэрии проезжала группа, состоящая из нескольких \"Искандеров\",</segment>
+		<segment id="50" parent="54" relname="joint">одна из машин остановилась,</segment>
+		<segment id="51" parent="53" relname="joint">выехала из строя</segment>
+		<segment id="52" parent="53" relname="joint">и включила аварийные сигналы.</segment>
+		<segment id="56" parent="58" relname="sequence">Остальная колонна продолжила движение.\n\nПримерно через десять минут остановившаяся машина развернулась на Тверской улице</segment>
+		<segment id="57" parent="58" relname="sequence">и встала в строй военной техники, возвращающейся после прохождения по Красной площади на Ходынское поле.\n\nИсточник: https://www.newsru.com/world/07May2010/fire.html\n</segment>
+		<group id="24" type="span" parent="61" relname="preparation"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="43" type="multinuc" parent="61" relname="joint"/>
+		<group id="37" type="multinuc" parent="43" relname="sequence"/>
+		<group id="29" type="multinuc" parent="37" relname="sequence"/>
+		<group id="28" type="multinuc" parent="29" relname="sequence"/>
+		<group id="36" type="span" parent="37" relname="sequence"/>
+		<group id="32" type="span" parent="36" relname="span"/>
+		<group id="35" type="span" parent="32" relname="elaboration"/>
+		<group id="42" type="span" parent="43" relname="sequence"/>
+		<group id="41" type="span" parent="38" relname="elaboration"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="48" type="span" parent="60" relname="sequence"/>
+		<group id="47" type="multinuc" parent="48" relname="span"/>
+		<group id="59" type="multinuc" parent="60" relname="sequence"/>
+		<group id="55" type="span" parent="59" relname="sequence"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="53" type="multinuc" parent="54" relname="joint"/>
+		<group id="58" type="multinuc" parent="59" relname="sequence"/>
+		<group id="62" type="span"/>
+	</body>
+</rst>

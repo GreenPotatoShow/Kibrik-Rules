@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="24" relname="attribution">Германия озабочена судьбой НТВ\n\nВласти Германии в четверг заявили,</segment>
+		<segment id="20" parent="24" relname="joint">что \"озабочены ситуацией вокруг НТВ\",</segment>
+		<segment id="21" parent="23" relname="joint">и об этом канцлер Герхард Шредер будет говорить с Владимиром Путиным на следующей неделе, во время визита в Санкт-Петербург.\n\n\"Мы наблюдаем за тем, что происходит со свободой слова,</segment>
+		<segment id="22" parent="23" relname="joint">и с особой озабоченностью за событиями вокруг НТВ.</segment>
+		<segment id="26" parent="28" relname="span">Канцлер Шредер обсудит эти проблемы с президентом Путиным\",</segment>
+		<segment id="27" parent="26" relname="attribution">- сказал официальный представитель правительства Германии.\n\</segment>
+		<segment id="30" parent="32" relname="span">nРечь, таким образом, идет о первой официальной зарубежной реакции на последние события вокруг НТВ.\n\nReuters,</segment>
+		<segment id="31" parent="30" relname="elaboration">которое приводит слова представителя властей ФРГ,</segment>
+		<segment id="33" parent="32" relname="attribution">сообщает,</segment>
+		<segment id="35" parent="36" relname="attribution">что он также подтвердил,</segment>
+		<segment id="36" parent="37" relname="span">что Герхард Шредер даст во время визита интервью радио \"Эхо Москвы\", входящей в \"Медиа-Мост\".</segment>
+		<segment id="39" parent="40" relname="attribution">По данным самой станции,</segment>
+		<segment id="40" parent="41" relname="span">это интервью будет в эфире 9 или 10 апреля,</segment>
+		<segment id="42" parent="45" relname="attribution">и слушатели уже сейчас могут задавать вопросы канцлеру.\n\nReuters пишет,</segment>
+		<segment id="43" parent="45" relname="span">что \"судьба влиятельной телекомпании НТВ,</segment>
+		<segment id="44" parent="43" relname="elaboration">часто критиковавшей правительство, представляется многим тестом на терпимость Путина к несогласным,</segment>
+		<segment id="47" parent="48" relname="attribution">хотя Кремль заявляет,</segment>
+		<segment id="48" parent="49" relname="span">что он находится над битвой между акционерами НТВ\".\n\nИсточник: https://www.newsru.com/world/05Apr2001/ntv_germanyreax.html\n</segment>
+		<group id="29" type="span" parent="53" relname="joint"/>
+		<group id="25" type="span" parent="29" relname="span"/>
+		<group id="24" type="multinuc" parent="25" relname="span"/>
+		<group id="23" type="multinuc" parent="24" relname="joint"/>
+		<group id="28" type="span" parent="25" relname="attribution"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="38" type="span" parent="52" relname="joint"/>
+		<group id="34" type="span" parent="37" relname="attribution"/>
+		<group id="32" type="span" parent="34" relname="span"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="41" type="span" parent="51" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="46" type="span" parent="50" relname="span"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="49" type="span" parent="46" relname="concession"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

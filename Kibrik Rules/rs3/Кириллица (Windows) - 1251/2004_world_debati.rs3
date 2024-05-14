@@ -1,0 +1,53 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="concession" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="23" relname="span">В США состоится заключительный раунд предвыборных теледебатов между Бушем и Керри\n\nТретий, заключительный, раунд теледебатов между президентом США Джорджем Бушем и его соперником на предстоящих выборах - сенатором Джоном Керри - состоится сегодня в университете штата Аризона в городе Темпе.</segment>
+		<segment id="20" parent="22" relname="span">Они будут продолжаться полтора часа.\n\nНачнется традиционная \"словесная дуэль\" в 9 часов вечера по времени Восточного побережья США,</segment>
+		<segment id="21" parent="20" relname="elaboration">когда в Москве будет уже раннее утро следующего дня.</segment>
+		<segment id="24" parent="30" relname="span">На этот раз Джордж Буш и Джон Керри ответят на внутриполитические вопросы,</segment>
+		<segment id="25" parent="27" relname="span">которые будет задавать известный тележурналист Боб Шиффер из CBS.\n\nПервый раунд теледебатов,</segment>
+		<segment id="26" parent="25" relname="background">состоявшийся 30 сентября в Майамском университете в Корал-Гейблз (штат Флорида),</segment>
+		<segment id="28" parent="29" relname="same-unit">был посвящен вопросам внешней политики и национальной безопасности.</segment>
+		<segment id="31" parent="38" relname="concession">Хотя эти темы считались наиболее выигрышными для Буша,</segment>
+		<segment id="32" parent="33" relname="attribution">опросы показали,</segment>
+		<segment id="33" parent="34" relname="span">что убедительную победу в первом словесном поединке одержал Джон Керри,</segment>
+		<segment id="35" parent="37" relname="contrast">передает ИТАР-ТАСС.\n\nВторой раунд, состоявшийся 8 октября в университете Вашингтона в Сент-Луисе (штат Миссури), также остался за Керри,</segment>
+		<segment id="36" parent="37" relname="contrast">однако его преимущество было незначительным.\n\</segment>
+		<segment id="42" parent="47" relname="attribution">nСпециалисты полагают,</segment>
+		<segment id="43" parent="47" relname="joint">что последний раунд теледебатов может оказать существенное влияние на расклад голосов на выборах 2 ноября,</segment>
+		<segment id="44" parent="46" relname="joint">учитывая огромный интерес к ним со стороны аудитории,</segment>
+		<segment id="45" parent="46" relname="joint">а также то, что значительная часть американских избирателей еще не определилась в своих предпочтениях.\n\nПоследний раунд теледебатов будет посвящен обсуждению таких беспокоящих простых американцев вопросов, как экономика, трудовая занятость, социальное обеспечение, здравоохранение, налоги, цены на бензин, образование.\n\</segment>
+		<segment id="49" parent="51" relname="span">nКак показывают последние опросы общественного мнения,</segment>
+		<segment id="50" parent="49" relname="elaboration">Джордж Буш и Джон Керри сейчас имеют равные шансы на победу на предстоящих президентских выборах в США.\n\nИсточник: https://www.newsru.com/world/13Oct2004/debati.html\n</segment>
+		<group id="41" type="multinuc" parent="53" relname="joint"/>
+		<group id="23" type="span" parent="41" relname="joint"/>
+		<group id="22" type="span" parent="19" relname="elaboration"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="30" type="span" parent="40" relname="joint"/>
+		<group id="29" type="multinuc" parent="24" relname="elaboration"/>
+		<group id="27" type="span" parent="29" relname="same-unit"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="38" type="span" parent="39" relname="span"/>
+		<group id="34" type="span" parent="38" relname="span"/>
+		<group id="37" type="multinuc" parent="34" relname="attribution"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="48" type="span" parent="52" relname="comparison"/>
+		<group id="47" type="multinuc" parent="48" relname="span"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="comparison"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

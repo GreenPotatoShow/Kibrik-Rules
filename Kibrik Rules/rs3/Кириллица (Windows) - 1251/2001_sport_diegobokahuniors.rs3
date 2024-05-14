@@ -1,0 +1,73 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="28" parent="30" relname="contrast">Марадона готов побороться за Межконтинентальный кубок\n\n\"Это было бы чудом.</segment>
+		<segment id="29" parent="30" relname="contrast">Но реальность иногда превосходит фантазию\",</segment>
+		<segment id="31" parent="32" relname="attribution">- так отреагировал прославленный футболист Диего Марадона на сообщение,</segment>
+		<segment id="32" parent="33" relname="span">что он может сыграть за аргентинский клуб \"Бока хуниорс\" в матче за Межконтинентальный кубок против немецкой \"Баварии\".</segment>
+		<segment id="35" parent="43" relname="span">Матч должен состояться 27 ноября в Токио.</segment>
+		<segment id="36" parent="38" relname="span">Идею о том, чтобы пригласить Марадону сыграть в этом матче,</segment>
+		<segment id="37" parent="36" relname="attribution">как сообщает итальянская спортивная пресса,</segment>
+		<segment id="39" parent="40" relname="sequence">сейчас всерьез рассматривает руководство \"Бока хуниорс\",</segment>
+		<segment id="41" parent="40" relname="attribution">передает ИТАР-ТАСС.</segment>
+		<segment id="45" parent="78" relname="preparation">В этом клубе Марадона начинал свой путь к вершинам футбола.</segment>
+		<segment id="46" parent="48" relname="span">\"Если это предложение обретет конкретную форму,</segment>
+		<segment id="47" parent="46" relname="attribution">- заявил Марадона,</segment>
+		<segment id="49" parent="53" relname="span">- мне не о чем больше будет просить у Бога\".\n\nПоследним ветераном, который участвовал во встрече обладателей Кубка европейских чемпионов и его южноамериканского аналога - Кубка Либертадорес</segment>
+		<segment id="50" parent="52" relname="span">- стал Бебето,</segment>
+		<segment id="51" parent="50" relname="elaboration">который вышел на поле в составе бразильского клуба \"Крузейру\".</segment>
+		<segment id="55" parent="57" relname="span">В настоящее время Марадона находится на Кубе,</segment>
+		<segment id="56" parent="55" relname="background">где он проходит курс лечения от наркомании.</segment>
+		<segment id="58" parent="62" relname="span">Кроме того, он активно тренируется,</segment>
+		<segment id="59" parent="60" relname="purpose">чтобы подготовиться к участию в матче звезд мирового футбола,</segment>
+		<segment id="60" parent="61" relname="span">который будет посвящен ему.</segment>
+		<segment id="63" parent="67" relname="joint">Игра должна состояться 10 ноября на \"Бомбонера\", стадионе команды \"Бока хуниорс\".\n\</segment>
+		<segment id="64" parent="66" relname="joint">nНа матч приглашены ветераны - Пеле, Франц Бекенбауэр, Мишель Платини, Бобби Чарльтон,</segment>
+		<segment id="65" parent="66" relname="joint">- а также действующие \"звезды\" - Кафу, Роберто Карлос, Ривалдо, Хавьер Савиола, Пабло Аймар.</segment>
+		<segment id="70" parent="71" relname="attribution">В минувшем августе Диего Марадона заявил,</segment>
+		<segment id="71" parent="72" relname="span">что он может еще возвратиться в футбол.</segment>
+		<segment id="73" parent="74" relname="attribution">А в конце сентября появились сведения о том,</segment>
+		<segment id="74" parent="75" relname="span">что он может стать реальным кандидатом на место главного тренера \"Бока хуниорс\".\n\nИсточник: https://www.newsru.com/sport/15Oct2001/diegobokahuniors.html\n</segment>
+		<group id="44" type="multinuc" parent="80" relname="joint"/>
+		<group id="34" type="span" parent="44" relname="joint"/>
+		<group id="30" type="multinuc" parent="34" relname="span"/>
+		<group id="33" type="span" parent="30" relname="evidence"/>
+		<group id="43" type="span" parent="44" relname="joint"/>
+		<group id="42" type="span" parent="35" relname="elaboration"/>
+		<group id="40" type="multinuc" parent="42" relname="span"/>
+		<group id="38" type="span" parent="40" relname="sequence"/>
+		<group id="79" type="span" parent="80" relname="joint"/>
+		<group id="78" type="span" parent="79" relname="span"/>
+		<group id="54" type="span" parent="78" relname="span"/>
+		<group id="48" type="span" parent="53" relname="attribution"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="52" type="span" parent="49" relname="elaboration"/>
+		<group id="77" type="multinuc" parent="54" relname="elaboration"/>
+		<group id="69" type="multinuc" parent="77" relname="joint"/>
+		<group id="57" type="span" parent="69" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="62" type="span" parent="68" relname="span"/>
+		<group id="61" type="span" parent="58" relname="purpose"/>
+		<group id="67" type="multinuc" parent="62" relname="elaboration"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="76" type="multinuc" parent="77" relname="joint"/>
+		<group id="72" type="span" parent="76" relname="sequence"/>
+		<group id="75" type="span" parent="76" relname="sequence"/>
+		<group id="80" type="multinuc"/>
+	</body>
+</rst>

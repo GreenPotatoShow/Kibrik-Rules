@@ -1,0 +1,110 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="45" parent="47" relname="span">Минэкономразвития очнулось:</segment>
+		<segment id="46" parent="45" relname="elaboration">темпы роста российской экономики могут не дотянуть и до 3%\n\</segment>
+		<segment id="48" parent="50" relname="span">nТемпы роста российской экономики в 2013 году могут не достигнуть и 3%,</segment>
+		<segment id="49" parent="48" relname="attribution">признало Минэкономразвития.</segment>
+		<segment id="51" parent="57" relname="contrast">Ранее ведомство планировало, что ВВП вырастет как минимум на 3,6%.</segment>
+		<segment id="52" parent="53" relname="attribution">Однако после первых двум месяцев признало,</segment>
+		<segment id="53" parent="54" relname="span">что такой прогноз слишком оптимистичен,</segment>
+		<segment id="55" parent="54" relname="elaboration">передает \"РБК daily\".\n\nВ январе ВВП вырос на 1,6% в годовом выражении, а в феврале - всего на 0,1%.</segment>
+		<segment id="59" parent="62" relname="attribution">Замминистра экономического развития Андрей Клепач заявил,</segment>
+		<segment id="60" parent="61" relname="condition">что \"пока, если брать экстраполяцию,</segment>
+		<segment id="61" parent="62" relname="span">не получается и 3% роста\".</segment>
+		<segment id="64" parent="68" relname="contrast">В апреле прогноз Минэкономразвития будет обновлен,</segment>
+		<segment id="65" parent="67" relname="span">но, какими могут быть новые показатели,</segment>
+		<segment id="66" parent="65" relname="condition">пока не известно.\n\</segment>
+		<segment id="69" parent="68" relname="cause-effect">nЭксперты таким поворотом дел не удивлены.</segment>
+		<segment id="73" parent="74" relname="attribution">Они напоминают,</segment>
+		<segment id="74" parent="75" relname="span">что экономический рост существенно замедлился еще в конце прошлого года.</segment>
+		<segment id="76" parent="79" relname="attribution">По их словам,</segment>
+		<segment id="77" parent="78" relname="cause-effect">в МЭР понимали, к чему может привести ухудшение показателей,</segment>
+		<segment id="78" parent="79" relname="span">просто об этом нельзя было говорить.</segment>
+		<segment id="81" parent="85" relname="span">Теперь же Минэкономразвития наконец-то столкнулось с реальностью.\n\nПока что больше всего в российскую экономику верит МВФ:</segment>
+		<segment id="82" parent="83" relname="attribution">по февральским оценкам,</segment>
+		<segment id="83" parent="84" relname="span">ВВП в 2013 году увеличится на 3,75%.</segment>
+		<segment id="88" parent="90" relname="span">Оценки Всемирного банка более скромные</segment>
+		<segment id="89" parent="88" relname="elaboration">- месяц назад прогноз был понижен с 3,6 до 3,3%.\n\nСитуация с низким ростом обусловлена календарными эффектами февраля и мая.</segment>
+		<segment id="91" parent="95" relname="span">Сказывается и ускорившаяся инфляция,</segment>
+		<segment id="92" parent="94" relname="span">которая к концу февраля достигла 7,3%,</segment>
+		<segment id="93" parent="92" relname="attribution">пояснил \"Ведомостям\" главный экономист HSBC Александр Морозов.</segment>
+		<segment id="96" parent="95" relname="interpretation-evaluation">Это ограничивает рост реальных зарплат, а следовательно, и оборот розничной торговли.</segment>
+		<segment id="98" parent="100" relname="span">Кроме того, инвестиции естественных монополий сокращаются вслед за прибылями.\n\nСо II квартала ситуация начнет меняться к лучшему,</segment>
+		<segment id="99" parent="98" relname="attribution">считает директор департамента Минэкономразвития Олег Засов (цитата по \"Прайму\").</segment>
+		<segment id="102" parent="104" relname="span">Летом рост поддержит сельское хозяйство,</segment>
+		<segment id="103" parent="102" relname="elaboration">которое заодно поможет сдержать рост цен на продовольствие.\n\nПотенциал роста выше фактических значений,</segment>
+		<segment id="105" parent="104" relname="attribution">считает главный экономист BNP Paribas Юлия Цепляева:</segment>
+		<segment id="107" parent="115" relname="same-unit">но,</segment>
+		<segment id="108" parent="109" relname="purpose">чтобы его реализовать,</segment>
+		<segment id="109" parent="110" relname="span">нужны структурные изменения</segment>
+		<segment id="111" parent="113" relname="span">и реформа институтов,</segment>
+		<segment id="112" parent="111" relname="elaboration">которые, правда, не дадут мгновенного эффекта.</segment>
+		<segment id="116" parent="118" relname="joint">При нынешних макроэкономических показателях и институциональных реалиях,</segment>
+		<segment id="117" parent="118" relname="joint">а также ситуации в мировой экономике потолок роста российской экономики - 2,5% в год,</segment>
+		<segment id="119" parent="118" relname="attribution">оценил Морозов.</segment>
+		<segment id="121" parent="123" relname="span">Впрочем, результаты могут быть и хуже:</segment>
+		<segment id="122" parent="121" relname="elaboration">только \"кипрские риски\" могут стоить отечественной экономике 0,3%.\n\nИсточник: https://www.newsru.com/finance/29Mar2013/rost3.html\n</segment>
+		<group id="47" type="span" parent="130" relname="preparation"/>
+		<group id="130" type="multinuc" parent="131" relname="span"/>
+		<group id="72" type="multinuc" parent="130" relname="joint"/>
+		<group id="58" type="multinuc" parent="72" relname="joint"/>
+		<group id="50" type="span" parent="58" relname="comparison"/>
+		<group id="57" type="multinuc" parent="58" relname="comparison"/>
+		<group id="56" type="span" parent="57" relname="contrast"/>
+		<group id="54" type="span" parent="56" relname="span"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="63" type="span" parent="71" relname="joint"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="70" type="span" parent="71" relname="joint"/>
+		<group id="68" type="multinuc" parent="70" relname="span"/>
+		<group id="67" type="span" parent="68" relname="contrast"/>
+		<group id="129" type="multinuc" parent="130" relname="joint"/>
+		<group id="87" type="multinuc" parent="129" relname="joint"/>
+		<group id="75" type="span" parent="87" relname="comparison"/>
+		<group id="86" type="multinuc" parent="87" relname="comparison"/>
+		<group id="80" type="span" parent="86" relname="comparison"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="85" type="span" parent="86" relname="comparison"/>
+		<group id="84" type="span" parent="81" relname="elaboration"/>
+		<group id="128" type="multinuc" parent="129" relname="joint"/>
+		<group id="90" type="span" parent="128" relname="joint"/>
+		<group id="127" type="multinuc" parent="128" relname="joint"/>
+		<group id="101" type="multinuc" parent="127" relname="comparison"/>
+		<group id="97" type="span" parent="101" relname="joint"/>
+		<group id="95" type="span" parent="97" relname="span"/>
+		<group id="94" type="span" parent="91" relname="elaboration"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="126" type="multinuc" parent="127" relname="comparison"/>
+		<group id="106" type="span" parent="126" relname="contrast"/>
+		<group id="104" type="span" parent="106" relname="span"/>
+		<group id="125" type="span" parent="126" relname="contrast"/>
+		<group id="115" type="multinuc" parent="125" relname="span"/>
+		<group id="114" type="multinuc" parent="115" relname="same-unit"/>
+		<group id="110" type="span" parent="114" relname="joint"/>
+		<group id="113" type="span" parent="114" relname="joint"/>
+		<group id="124" type="multinuc" parent="115" relname="elaboration"/>
+		<group id="120" type="span" parent="124" relname="comparison"/>
+		<group id="118" type="multinuc" parent="120" relname="span"/>
+		<group id="123" type="span" parent="124" relname="comparison"/>
+		<group id="131" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,122 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="52" parent="56" relname="span">Удальцову продлили домашний арест,</segment>
+		<segment id="53" parent="55" relname="span">закрыв для него двери мавзолея и дорогих магазинов\n\nБасманный суд Москвы в четверг продлил домашний арест лидера \"Левого фронта\" Сергея Удальцова,</segment>
+		<segment id="54" parent="53" relname="elaboration">проходящего по делу о подготовке массовых беспорядков в России, до 6 октября,</segment>
+		<segment id="57" parent="56" relname="attribution">передает ИТАР-ТАСС.</segment>
+		<segment id="59" parent="73" relname="span">Таким образом суд отказал в удовлетворении ходатайства защите оппозиционера,</segment>
+		<segment id="60" parent="72" relname="joint">просившей суд изменить меру пресечения с домашнего ареста на подписку о невыезде,</segment>
+		<segment id="61" parent="62" relname="attribution">и принял сторону следствия.\n\nСторона обвинения настаивала на том,</segment>
+		<segment id="62" parent="63" relname="span">что домашний арест необходимо продлить Удальцову</segment>
+		<segment id="64" parent="63" relname="cause-effect">в связи с тем,</segment>
+		<segment id="66" parent="69" relname="condition">что находясь на свободе,</segment>
+		<segment id="67" parent="69" relname="joint">он может воспользоваться связями за рубежом</segment>
+		<segment id="68" parent="69" relname="joint">и уехать.</segment>
+		<segment id="74" parent="75" relname="attribution">Следователи также утверждали,</segment>
+		<segment id="75" parent="76" relname="span">что находясь на свободе лидер \"Левого фронта\" может \"оказать давление на свидетелей и иным образом воспрепятствовать следствию\".\n\n\"Нет ни одного доказательства, что Удальцов намерен скрыться.</segment>
+		<segment id="77" parent="76" relname="background">До ареста он ездил лишь на Украину к родственникам - и все.</segment>
+		<segment id="79" parent="82" relname="cause-effect">Ни у следствия, ни у прокуроров нет данных о том, что Удальцов мог воздействовать на кого-либо.</segment>
+		<segment id="80" parent="81" relname="attribution">Следствие настаивает на домашнем аресте по формальным признакам,</segment>
+		<segment id="81" parent="82" relname="span">что запрещено международным и российским правом\",</segment>
+		<segment id="84" parent="83" relname="attribution">- заявила адвокат оппозиционера Виолетта Волкова.\n\n\"Может, Удальцов хочет посетить мавзолей.</segment>
+		<segment id="87" parent="86" relname="interpretation-evaluation">Для него это важно\"\n\</segment>
+		<segment id="90" parent="93" relname="attribution">nПо ее словам,</segment>
+		<segment id="91" parent="93" relname="span">Удальцову необходимы прогулки и посещение офтальмолога,</segment>
+		<segment id="92" parent="91" relname="cause-effect">так как у него есть некоторые проблемы со зрением.</segment>
+		<segment id="95" parent="94" relname="attribution">Ее поддержал второй адвокат Николай Полозов:</segment>
+		<segment id="97" parent="103" relname="span">\"Может, Удальцов хочет посетить мавзолей.</segment>
+		<segment id="98" parent="102" relname="span">Для него это важно.</segment>
+		<segment id="99" parent="101" relname="span">У нас есть практика,</segment>
+		<segment id="100" parent="99" relname="condition">когда люди, помещенные под домашний арест, посещают дорогие магазины\",</segment>
+		<segment id="104" parent="110" relname="joint">- заявил он.\n\nСудья в свою очередь отклонил все просьбы защитников</segment>
+		<segment id="105" parent="108" relname="attribution">и заявил,</segment>
+		<segment id="106" parent="108" relname="span">что они слишком медленно знакомятся с делом,</segment>
+		<segment id="107" parent="106" relname="condition">пытаясь затянуть процесс.</segment>
+		<segment id="112" parent="114" relname="comparison">\"Из 80 томов дела Волкова лишь с 19 ознакомилась,</segment>
+		<segment id="113" parent="114" relname="comparison">тогда как сам Удальцов - с более 30\",</segment>
+		<segment id="115" parent="114" relname="attribution">- указал он</segment>
+		<segment id="117" parent="119" relname="joint">.\n\nУголовное дело в отношении Удальцова было возбуждено после проверки материалов, изложенных в фильме НТВ \"Анатомия протеста-2\",</segment>
+		<segment id="118" parent="119" relname="joint">где были показаны кадры встречи российских оппозиционеров с грузинским политиком Гиви Таргамадзе.</segment>
+		<segment id="120" parent="121" relname="joint">Кроме того, Удальцова обвиняют в хулиганстве.\n\nОппозиционер был взят под домашний арест 9 февраля.</segment>
+		<segment id="123" parent="127" relname="joint">Ему запрещено покидать свою квартиру на Затонской улице,</segment>
+		<segment id="124" parent="126" relname="joint">общаться с кем-либо кроме адвокатов и близких родственников,</segment>
+		<segment id="125" parent="126" relname="joint">пользоваться любыми средствами связи, в том числе телефоном и интернетом.</segment>
+		<segment id="128" parent="129" relname="attribution">По его мнению,</segment>
+		<segment id="129" parent="130" relname="span">весь этот суд - \"часть кампании против лидеров оппозиции:</segment>
+		<segment id="131" parent="133" relname="joint">часть из них планируется посадить в тюрьму,</segment>
+		<segment id="132" parent="133" relname="joint">часть - дискредитировать в прессе\".\n\nПредварительное следствие по делу оппозиционеров Сергея Удальцова и Леонида Развозжаева было завершено в середине июня,</segment>
+		<segment id="134" parent="139" relname="attribution">и оппозиционер предполагал,</segment>
+		<segment id="135" parent="138" relname="attribution">что суд над ними стартует примерно в октябре.\n\nНа днях сообщалось,</segment>
+		<segment id="136" parent="138" relname="joint">что \"болотное дело\" вышло за пределы столичного региона</segment>
+		<segment id="137" parent="138" relname="joint">и активизировалось на Урале.</segment>
+		<segment id="143" parent="144" relname="attribution">По словам представителей правоохранительных органов,</segment>
+		<segment id="144" parent="145" relname="span">Удальцов, Развозжаев и \"иные лица\" пытались склонить жителей Челябинска, Перми и Екатеринбурга к участию в протестных акциях.\n\nИсточник: https://www.newsru.com/russia/01Aug2013/udaltsov.html\n</segment>
+		<group id="58" type="span" parent="151" relname="preparation"/>
+		<group id="56" type="span" parent="58" relname="span"/>
+		<group id="55" type="span" parent="52" relname="elaboration"/>
+		<group id="151" type="multinuc" parent="152" relname="span"/>
+		<group id="89" type="multinuc" parent="151" relname="joint"/>
+		<group id="73" type="span" parent="89" relname="joint"/>
+		<group id="72" type="multinuc" parent="59" relname="elaboration"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="65" type="span" parent="71" relname="span"/>
+		<group id="63" type="span" parent="65" relname="span"/>
+		<group id="70" type="span" parent="65" relname="cause-effect"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="86" type="multinuc" parent="88" relname="span"/>
+		<group id="78" type="span" parent="86" relname="joint"/>
+		<group id="76" type="span" parent="78" relname="span"/>
+		<group id="85" type="span" parent="86" relname="joint"/>
+		<group id="83" type="span" parent="85" relname="span"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="150" type="multinuc" parent="151" relname="joint"/>
+		<group id="96" type="span" parent="150" relname="joint"/>
+		<group id="94" type="span" parent="96" relname="span"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="149" type="multinuc" parent="150" relname="joint"/>
+		<group id="111" type="multinuc" parent="149" relname="joint"/>
+		<group id="103" type="span" parent="111" relname="joint"/>
+		<group id="102" type="span" parent="97" relname="elaboration"/>
+		<group id="101" type="span" parent="98" relname="elaboration"/>
+		<group id="110" type="multinuc" parent="111" relname="joint"/>
+		<group id="109" type="span" parent="110" relname="joint"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="148" type="multinuc" parent="149" relname="joint"/>
+		<group id="122" type="multinuc" parent="148" relname="joint"/>
+		<group id="116" type="span" parent="122" relname="joint"/>
+		<group id="114" type="multinuc" parent="116" relname="span"/>
+		<group id="121" type="multinuc" parent="122" relname="joint"/>
+		<group id="119" type="multinuc" parent="121" relname="joint"/>
+		<group id="147" type="multinuc" parent="148" relname="joint"/>
+		<group id="127" type="multinuc" parent="147" relname="joint"/>
+		<group id="126" type="multinuc" parent="127" relname="joint"/>
+		<group id="146" type="multinuc" parent="147" relname="joint"/>
+		<group id="142" type="span" parent="146" relname="joint"/>
+		<group id="130" type="span" parent="142" relname="span"/>
+		<group id="141" type="multinuc" parent="130" relname="elaboration"/>
+		<group id="133" type="multinuc" parent="141" relname="joint"/>
+		<group id="140" type="span" parent="141" relname="joint"/>
+		<group id="139" type="span" parent="140" relname="span"/>
+		<group id="138" type="multinuc" parent="139" relname="span"/>
+		<group id="145" type="span" parent="146" relname="joint"/>
+		<group id="152" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,32 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="10" parent="12" relname="span">УЕФА сократил срок дисквалификации защитнику \"Рубина\"\n\nАпелляционная инстанция европейского футбольного союза (УЕФА) частично удовлетворила протест казанского \"Рубина\" на дисквалификацию испанского защитника Сесара Наваса,</segment>
+		<segment id="11" parent="10" relname="elaboration">получившего 21 февраля красную карточку в ответном матче 1/16 финала Лиги Европы УЕФА против действующего обладателя трофея - мадридского \"Атлетико\".\n\</segment>
+		<segment id="13" parent="14" relname="comparison">nВ результате трехматчевая дисквалификация Сесара Наваса была заменена двухматчевой.</segment>
+		<segment id="15" parent="25" relname="joint">Поскольку 33-летний игрок уже пропустил одну встречу (\"Леванте\" - \"Рубин\" 7 марта),</segment>
+		<segment id="16" parent="24" relname="sequence">оставшееся наказание будет распространяться только на ответный матч \"Рубина\" в 1/8 финала (14 марта),</segment>
+		<segment id="17" parent="19" relname="span">информирует uefa.com.\n\nПомимо \"Рубина\", апелляции на решения УЕФА,</segment>
+		<segment id="18" parent="17" relname="cause-effect">связанные с инцидентами на февральских ответных матчах 1/16 финала Лиги Европы,</segment>
+		<segment id="20" parent="21" relname="joint">также подавали турецкий \"Фенербахче\" и итальянский \"Лацио\",</segment>
+		<segment id="22" parent="23" relname="contrast">но их претензии были отклонены.\n\nИсточник: https://www.newsru.com/sport/12Mar2013/navas.html\n</segment>
+		<group id="14" type="multinuc" parent="26" relname="span"/>
+		<group id="12" type="span" parent="14" relname="comparison"/>
+		<group id="25" type="multinuc" parent="14" relname="cause-effect"/>
+		<group id="24" type="multinuc" parent="25" relname="joint"/>
+		<group id="23" type="multinuc" parent="24" relname="sequence"/>
+		<group id="21" type="multinuc" parent="23" relname="contrast"/>
+		<group id="19" type="span" parent="21" relname="joint"/>
+		<group id="26" type="span"/>
+	</body>
+</rst>

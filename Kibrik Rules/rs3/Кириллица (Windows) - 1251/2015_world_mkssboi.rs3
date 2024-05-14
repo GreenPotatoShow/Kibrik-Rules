@@ -1,0 +1,67 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="32" relname="cause-effect">МКС требуется ремонт после сбоя в системе электропитания\n\nМеждународная космическая станция (МКС) нуждается в ремонте после сбоя в системе электропитания, произошедшего в конце прошлой недели.</segment>
+		<segment id="28" parent="30" relname="span">В результате короткого замыкания, произошедшего в пятницу, 13 ноября, на американском сегменте орбитального комплекса,</segment>
+		<segment id="29" parent="28" relname="elaboration">вышел из строя один из восьми блоков питания, снабжающих МКС электричеством,</segment>
+		<segment id="31" parent="30" relname="attribution">сообщает AP со ссылкой на заявление американского аэрокосмического агентства (NASA).\n\nВ настоящее время энергоснабжение станции полностью восстановлено.</segment>
+		<segment id="34" parent="38" relname="joint">Все системы, связанные с неработающим блоком, переведены на резервные каналы электроснабжения.</segment>
+		<segment id="35" parent="37" relname="span">Экипаж станции находится в безопасности,</segment>
+		<segment id="36" parent="35" relname="attribution">заявил журналистам пресс-секретарь NASA Дэн Хуот.\n\n</segment>
+		<segment id="39" parent="41" relname="joint">\"Станция сохранила контроль за своим положением на орбите,</segment>
+		<segment id="40" parent="41" relname="joint">и связь продолжала работать нормально.</segment>
+		<segment id="42" parent="43" relname="joint">Наземные команды специалистов обсуждают будущие планы ремонта\",</segment>
+		<segment id="44" parent="43" relname="attribution">- говорится в сообщении на сайте NASA.\n\nАналогичный инцидент произошел на МКС в 2014 году.</segment>
+		<segment id="48" parent="52" relname="contrast">Вышедший из строя блок придется менять.</segment>
+		<segment id="49" parent="51" relname="span">Однако запасного устройства на борту МКС нет,</segment>
+		<segment id="50" parent="49" relname="attribution">отмечает AP.</segment>
+		<segment id="53" parent="55" relname="span">В NASA рассчитывают доставить его на МКС с помощью американского грузового корабля Dragon компании SpaceX.</segment>
+		<segment id="54" parent="53" relname="elaboration">Его запуск запланирован на начало 2016 года.</segment>
+		<segment id="56" parent="62" relname="joint">Предыдущий запуск ракеты-носителя SpaceX Falcon 9 с двумя тоннами груза для МКС,</segment>
+		<segment id="57" parent="60" relname="cause-effect">состоявшийся в июне, закончился неудачей.\n\nБлок находится на внешней стороне орбитального комплекса,</segment>
+		<segment id="58" parent="59" relname="purpose">и для его замены</segment>
+		<segment id="59" parent="60" relname="span">потребуется выход в открытый космос.</segment>
+		<segment id="63" parent="65" relname="span">Решение на этот счет будет принято позже.\n\</segment>
+		<segment id="64" parent="63" relname="elaboration">nВ состав нынешней экспедиции на МКС входят россияне Олег Кононенко, Сергей Волков и Михаил Корниенко, американцы Скотт Келли и Челл Линдгрен, а также японец Кимия Юи.\n\nВ ноябре МКС отметила пятнадцатилетие с момента, как на ее борт впервые поднялись космонавты.</segment>
+		<segment id="66" parent="68" relname="contrast">Ранее сообщалось, что 15 лет - это расчетный срок службы МКС на орбите,</segment>
+		<segment id="67" parent="68" relname="contrast">однако ресурс станции позволяет использовать ее значительно дольше.</segment>
+		<segment id="69" parent="70" relname="attribution">В 2008 году в Роскосмосе заявляли,</segment>
+		<segment id="70" parent="71" relname="span">что станция может проработать вплоть до 2020 года.\n\nИсточник: https://www.newsru.com/world/17Nov2015/mkssboi.html\n</segment>
+		<group id="47" type="multinuc" parent="77" relname="joint"/>
+		<group id="33" type="span" parent="47" relname="joint"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="30" type="span" parent="32" relname="span"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="38" type="multinuc" parent="46" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="43" type="multinuc" parent="45" relname="span"/>
+		<group id="41" type="multinuc" parent="43" relname="joint"/>
+		<group id="76" type="multinuc" parent="77" relname="joint"/>
+		<group id="52" type="multinuc" parent="76" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="contrast"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="55" type="span" parent="75" relname="joint"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="62" type="multinuc" parent="74" relname="joint"/>
+		<group id="61" type="span" parent="62" relname="joint"/>
+		<group id="60" type="span" parent="61" relname="span"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="65" type="span" parent="73" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="68" type="multinuc" parent="72" relname="joint"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="77" type="multinuc"/>
+	</body>
+</rst>

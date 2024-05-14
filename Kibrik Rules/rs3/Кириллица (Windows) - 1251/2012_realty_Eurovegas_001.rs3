@@ -1,0 +1,47 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="22" relname="joint">В Испании для россиян построят город-казино \"Евровегас\" за 35 млрд долларов\n\nАмериканский миллиардер Шелдон Аделсон намерен создать в Европе игровой комплекс Eurovegas - аналог города-казино Лас-Вегаса.</segment>
+		<segment id="19" parent="21" relname="joint">В строительство \"Евровегаса\" Аделсон инвестирует десятки миллиардов долларов,</segment>
+		<segment id="20" parent="21" relname="joint">а основными его гостями должны стать жители Восточной Европы, в том числе и россияне.\n\</segment>
+		<segment id="23" parent="24" relname="attribution">nКак заявил миллиардер,</segment>
+		<segment id="24" parent="25" relname="span">город-казино будет расположен около одного из главных городов Испании - Мадрида или Барселоны.</segment>
+		<segment id="26" parent="25" relname="elaboration">Окончательное решение о местонахождении проекта он примет в ближайшие три месяца.\n\</segment>
+		<segment id="28" parent="29" relname="attribution">nКак сообщает РБК,</segment>
+		<segment id="29" parent="30" relname="span">строительство столь крупного комплекса создаст в стране с гигантской безработицей (более 23%) большое количество рабочих мест.</segment>
+		<segment id="31" parent="33" relname="span">Именно поэтому испанские регионы активно соперничают в том, чтобы стать местом строительства Eurovegas,</segment>
+		<segment id="32" parent="31" relname="elaboration">в рамках которого планируется построить 12 гостиниц на 36 тыс. номеров, 18 тыс. парковочных мест и три поля для гольфа</segment>
+		<segment id="34" parent="33" relname="interpretation-evaluation">.\n\nПока испанский игровой рынок является весьма слаборазвитым:</segment>
+		<segment id="36" parent="42" relname="joint">с оборотом 450 млн долларов в год он занимает одно из последних мест в Западной Европе.\n\nПо замыслу американского миллиардера,</segment>
+		<segment id="37" parent="41" relname="span">Eurovegas должен привлечь богатых клиентов из Восточной Европы, в том числе из России,</segment>
+		<segment id="38" parent="40" relname="span">где рулетка разрешена лишь в специально выделенных игорных зонах,</segment>
+		<segment id="39" parent="38" relname="elaboration">из которых ни одна так и не построена полностью.\n\nДо введения запрета на казино</segment>
+		<segment id="43" parent="42" relname="elaboration">в России оборот игрового рынка составлял ежегодно около 3 млрд долл.</segment>
+		<segment id="46" parent="47" relname="joint">Сейчас состоятельные россияне продолжают тратить деньги на игру, но уже за рубежом, в том числе и в Белоруссии.\n\nИсточник: https://www.newsru.com/realty/12Apr2012/Eurovegas.html\n</segment>
+		<group id="22" type="multinuc" parent="50" relname="joint"/>
+		<group id="21" type="multinuc" parent="22" relname="joint"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="27" type="span" parent="49" relname="span"/>
+		<group id="25" type="span" parent="27" relname="span"/>
+		<group id="48" type="span" parent="27" relname="elaboration"/>
+		<group id="30" type="span" parent="47" relname="cause-effect"/>
+		<group id="47" type="multinuc" parent="48" relname="span"/>
+		<group id="45" type="multinuc" parent="47" relname="joint"/>
+		<group id="35" type="span" parent="45" relname="joint"/>
+		<group id="33" type="span" parent="35" relname="span"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="42" type="multinuc" parent="44" relname="span"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="40" type="span" parent="37" relname="elaboration"/>
+		<group id="50" type="multinuc"/>
+	</body>
+</rst>

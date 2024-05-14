@@ -1,0 +1,99 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="43" parent="49" relname="span">\"Ведомости\":</segment>
+		<segment id="44" parent="48" relname="span">Кремль посылает десант политтехнологов,</segment>
+		<segment id="45" parent="47" relname="joint">чтобы оценить шансы избираемых губернаторов\n\nКремль направляет в регионы команду из сотрудников администрации президента, политтехнологов и членов \"Единой России\"</segment>
+		<segment id="46" parent="47" relname="joint">для проведения мониторинга избираемости губернаторов, которым предстоят выборы в 2019 году.</segment>
+		<segment id="50" parent="52" relname="joint">Эксперты должны выявить тех, кого нужно заменить,</segment>
+		<segment id="51" parent="52" relname="joint">а также определить форму избирательных кампаний для остающихся,</segment>
+		<segment id="53" parent="59" relname="same-unit">пишет газета \"Ведомости\" со ссылкой на источники, близкие к АП.\n\nПо данным издания,</segment>
+		<segment id="54" parent="58" relname="span">мониторинг было решено проводить</segment>
+		<segment id="55" parent="56" relname="cause-effect">из-за провалов на выборах 9 сентября,</segment>
+		<segment id="56" parent="57" relname="span">победить на которых не смогли четыре действующих губернатора.</segment>
+		<segment id="61" parent="63" relname="span">Теперь администрация президента хочет минимизировать риски,</segment>
+		<segment id="62" parent="61" relname="attribution">объяснил один из собеседников \"Ведомостей\".</segment>
+		<segment id="64" parent="68" relname="joint">Перед десантом поставлена задача - дать объективную оценку текущей обстановке</segment>
+		<segment id="65" parent="67" relname="joint">и определить признаки улучшения ситуации,</segment>
+		<segment id="66" parent="67" relname="joint">либо выявить негативные тенденции.\n\</segment>
+		<segment id="70" parent="72" relname="span">nПосланцы Кремля должны провести многофакторный анализ</segment>
+		<segment id="71" parent="70" relname="elaboration">- от избираемости губернатора до работы регионального блока внутренней политики.</segment>
+		<segment id="73" parent="75" relname="span">При этом от команды не ждут общей позиции,</segment>
+		<segment id="74" parent="73" relname="elaboration">администрацию интересует мнение каждого эксперта.\n\nПо итогам мониторинга кадровые решения могут быть приняты в отношении губернаторов Мурманской, Волгоградской, Челябинской и некоторых других областей,</segment>
+		<segment id="76" parent="75" relname="attribution">сообщил источник.</segment>
+		<segment id="79" parent="83" relname="span">Завершить работу в регионах десант должен до конца ноября.\n\nБольшинство политтехнологов получили для мониторинга по два региона,</segment>
+		<segment id="80" parent="82" relname="span">на каждый должны потратить ориентировочно по две недели,</segment>
+		<segment id="81" parent="80" relname="attribution">говорится в статье.</segment>
+		<segment id="84" parent="96" relname="span">Евгений Минченко отправится в Забайкалье,</segment>
+		<segment id="85" parent="95" relname="span">Григорий Казанков - в Астраханскую и Волгоградскую области,</segment>
+		<segment id="86" parent="88" relname="joint">Олег Матвейчев - в Вологодскую,</segment>
+		<segment id="87" parent="88" relname="joint">Дмитрий Орлов - в Челябинскую и Оренбургскую,</segment>
+		<segment id="89" parent="93" relname="span">Павел Данилин - в Ставропольский край и Калмыкию,</segment>
+		<segment id="90" parent="92" relname="span">Глеб Кузнецов - в Санкт-Петербург,</segment>
+		<segment id="91" parent="90" relname="elaboration">в мониторинге также будет задействован владелец компании \"Крос\" Сергей Зверев.\n\</segment>
+		<segment id="97" parent="104" relname="attribution">nПо словам одного из собеседников,</segment>
+		<segment id="98" parent="100" relname="span">есть установка Кремля,</segment>
+		<segment id="99" parent="98" relname="purpose">чтобы тот, кто проводит аудит, не рассчитывал позже работать в этом регионе.\n\nГубернаторские выборы в сентябре 2019 году запланированы в 16 регионах,</segment>
+		<segment id="103" parent="104" relname="joint">еще в двух - в Кабардино-Балкарии и Крыму - руководителей изберут парламенты по представлению президента.</segment>
+		<segment id="106" parent="108" relname="span">В 9 из этих 18 губернаторы осенью сменились,</segment>
+		<segment id="107" parent="106" relname="elaboration">в оставшихся кандидатами на отставку собеседники \"Ведомостей\", близкие к администрации президента,</segment>
+		<segment id="109" parent="110" relname="attribution">называли Александра Бердникова (Республика Алтай), Юрия Берга (Оренбургская область), Бориса Дубровского (Челябинская область) и Марину Ковтун (Мурманская область).\n\nРанее два источника, близких к Кремлю, рассказали РБК,</segment>
+		<segment id="110" parent="111" relname="span">что в администрации президента обсуждается возможность новых отставок губернаторов весной следующего года.</segment>
+		<segment id="113" parent="117" relname="span">В настоящее время отставки проходят по критерию эффективности/неэффективности глав субъектов,</segment>
+		<segment id="114" parent="116" relname="span">весной ротация будет производиться по электоральному принципу</segment>
+		<segment id="115" parent="114" relname="elaboration">- способности глав регионов переизбраться на новый срок.\n\nИсточник: https://www.newsru.com/russia/29Oct2018/guber.html\n</segment>
+		<group id="49" type="span" parent="124" relname="preparation"/>
+		<group id="48" type="span" parent="43" relname="elaboration"/>
+		<group id="47" type="multinuc" parent="44" relname="purpose"/>
+		<group id="124" type="multinuc" parent="125" relname="span"/>
+		<group id="60" type="multinuc" parent="124" relname="joint"/>
+		<group id="52" type="multinuc" parent="60" relname="joint"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="same-unit"/>
+		<group id="57" type="span" parent="54" relname="cause-effect"/>
+		<group id="123" type="multinuc" parent="124" relname="joint"/>
+		<group id="69" type="span" parent="123" relname="joint"/>
+		<group id="63" type="span" parent="69" relname="span"/>
+		<group id="68" type="multinuc" parent="63" relname="elaboration"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="122" type="multinuc" parent="123" relname="joint"/>
+		<group id="78" type="multinuc" parent="122" relname="joint"/>
+		<group id="72" type="span" parent="78" relname="joint"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="75" type="span" parent="77" relname="span"/>
+		<group id="121" type="multinuc" parent="122" relname="joint"/>
+		<group id="83" type="span" parent="121" relname="joint"/>
+		<group id="82" type="span" parent="79" relname="elaboration"/>
+		<group id="120" type="multinuc" parent="121" relname="joint"/>
+		<group id="96" type="span" parent="120" relname="joint"/>
+		<group id="95" type="span" parent="84" relname="elaboration"/>
+		<group id="94" type="multinuc" parent="85" relname="elaboration"/>
+		<group id="88" type="multinuc" parent="94" relname="joint"/>
+		<group id="93" type="span" parent="94" relname="joint"/>
+		<group id="92" type="span" parent="89" relname="elaboration"/>
+		<group id="119" type="multinuc" parent="120" relname="joint"/>
+		<group id="105" type="span" parent="119" relname="joint"/>
+		<group id="104" type="multinuc" parent="105" relname="span"/>
+		<group id="100" type="span" parent="104" relname="joint"/>
+		<group id="118" type="multinuc" parent="119" relname="joint"/>
+		<group id="112" type="multinuc" parent="118" relname="joint"/>
+		<group id="108" type="span" parent="112" relname="joint"/>
+		<group id="111" type="span" parent="112" relname="joint"/>
+		<group id="117" type="span" parent="118" relname="joint"/>
+		<group id="116" type="span" parent="113" relname="cause-effect"/>
+		<group id="125" type="span"/>
+	</body>
+</rst>

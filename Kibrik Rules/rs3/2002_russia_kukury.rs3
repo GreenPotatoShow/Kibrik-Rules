@@ -1,0 +1,219 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="104" parent="106" relname="span">Корреспондента \"Известий\" могут обвинить в сотрудничестве с похитителями Кукуры\n\nКорреспондент \"Известий\" Юрий Спирин, автор статьи в сегодняшнем номере газеты под названием \"Кассета Кукуры\", может быть обвинен как соучастник похищения первого вице-президента \"Лукойла\" Сергея Кукуры,</segment>
+		<segment id="105" parent="104" relname="cause-effect">поскольку отказывается назвать свой источник информации.</segment>
+		<segment id="107" parent="106" relname="attribution">Об этом сообщила пресс-служба газеты.\n\</segment>
+		<segment id="109" parent="114" relname="attribution">nПо ее данным,</segment>
+		<segment id="110" parent="113" relname="cause-effect">Юрий Спирин в среду был вызван на допрос в прокуратуру Московской области</segment>
+		<segment id="111" parent="113" relname="span">в связи с публикацией статьи \"Кассета Кукуры\" в номере \"Известий\" за 18 сентября,</segment>
+		<segment id="112" parent="111" relname="elaboration">в которой рассказываются подробности обнаружения кассеты с требованием выкупа за первого вице-президента \"Лукойла\" Сергея Кукуры.\n\n\"В первую очередь сотрудников прокуратуры интересовал человек,</segment>
+		<segment id="116" parent="118" relname="span">передавший Спирину сведения о кассете,</segment>
+		<segment id="117" parent="116" relname="elaboration">на которой содержалась информация с требованием выкупа,</segment>
+		<segment id="119" parent="118" relname="attribution">- говорится в сообщении пресс-службы \"Известий\".</segment>
+		<segment id="122" parent="124" relname="span">- Корреспондент \"Известий\" отказался давать показания,</segment>
+		<segment id="123" parent="122" relname="cause-effect">мотивируя отказ отсутствием адвоката\".\n\</segment>
+		<segment id="125" parent="132" relname="attribution">nВ сообщении пресс-службы также отмечается,</segment>
+		<segment id="126" parent="130" relname="span">что \"допросу предшествовала длительная беседа Спирина со следователем прокуратуры Московской области и оперативным сотрудником ГУБОП МВД России,</segment>
+		<segment id="127" parent="128" relname="attribution">во время которой они заявили,</segment>
+		<segment id="128" parent="129" relname="span">что корреспондент \"Известий\" может быть обвинен как соучастник похищения Кукуры,</segment>
+		<segment id="131" parent="130" relname="cause-effect">поскольку отказывается назвать свой источник информации\".\n\n\"В ходе беседы сотрудники косвенно подтвердили информацию о получении кассеты.</segment>
+		<segment id="134" parent="138" relname="same-unit">Однако,</segment>
+		<segment id="135" parent="136" relname="attribution">по их словам,</segment>
+		<segment id="136" parent="137" relname="span">похитители требуют за Сергея Кукуру не шесть миллионов долларов, а больше\",</segment>
+		<segment id="141" parent="138" relname="attribution">- отметили в пресс-службе \"Известий\".\n\nМежду тем \"Известия\" в номере, который выйдет в четверг, продолжают тему расследования дела о похищении Кукуры.</segment>
+		<segment id="144" parent="149" relname="attribution">В частности, газета сообщает со ссылкой на источник в правоохранительных органах,</segment>
+		<segment id="147" parent="149" relname="span">что оперативно-следственная группа, занимающаяся делом Кукуры, всерьез рассматривает новую версию,</segment>
+		<segment id="148" parent="147" relname="elaboration">согласно которой предприниматель мог быть похищен с целью грабежа.\n\</segment>
+		<segment id="151" parent="163" relname="span">nПо сведениям источника \"Известий\", Кукура - очень богатый человек,</segment>
+		<segment id="152" parent="162" relname="joint">его официальная зарплата в \"Лукойле\" составляет 1,8 млн долларов в месяц,</segment>
+		<segment id="153" parent="155" relname="span">сообщает \"Интерфакс\".</segment>
+		<segment id="154" parent="153" relname="elaboration">\"Поэтому преступники могли выкрасть вице-президента крупнейшей нефтяной компании для того, чтобы выведать место хранения средств и возможность доступа к ним.</segment>
+		<segment id="156" parent="159" relname="attribution">Оперативники считают,</segment>
+		<segment id="157" parent="159" relname="joint">что эта версия подтвердится</segment>
+		<segment id="158" parent="159" relname="joint">или же будет опровергнута в самое ближайшее время\",</segment>
+		<segment id="165" parent="178" relname="attribution">- отмечает газета.\n\nВ интервью \"Известиям\" депутат Госдумы, глава подкомитета по охранно-детективной деятельности,</segment>
+		<segment id="166" parent="175" relname="attribution">бывший офицер КГБ Геннадий Гудков заявил,</segment>
+		<segment id="169" parent="174" relname="condition">что, проследив поступающую информацию об обстоятельствах преступления,</segment>
+		<segment id="170" parent="173" relname="attribution">он пришел к выводу,</segment>
+		<segment id="171" parent="173" relname="joint">что оно не могло быть спланировано</segment>
+		<segment id="172" parent="173" relname="joint">и исполнено обычной преступной группировкой.\n\n\"Мне кажется, что похищение было устроено очень серьезной структурой.</segment>
+		<segment id="177" parent="176" relname="interpretation-evaluation">Об этом говорит хотя бы тот факт, что за Кукурой велось тщательное оперативное наблюдение.</segment>
+		<segment id="181" parent="184" relname="attribution">Я считаю,</segment>
+		<segment id="182" parent="184" relname="span">что здесь не обошлось без штатных сотрудников правоохранительных органов,</segment>
+		<segment id="183" parent="182" relname="cause-effect">ведь ни одна организованная преступная группировка никогда не рискнет в таком опасном деле открыто использовать милицейскую форму и автомобиль со спецномерами\",</segment>
+		<segment id="186" parent="194" relname="joint">- заявил Гудков.\n\nПохитители ведут с правоохранительными органами и \"ЛУКОЙЛом\" переговоры об освобождении Кукуры.</segment>
+		<segment id="187" parent="192" relname="attribution">Пожелавший остаться неизвестным сотрудник ГУВД Московской области подтвердил,</segment>
+		<segment id="188" parent="192" relname="contrast">что еще 17 сентября бизнесмена должны были обменять на деньги,</segment>
+		<segment id="189" parent="190" relname="cause-effect">однако по неизвестным причинам эта сделка сорвалась.\n\nСледствие ничего не знает о похитителях одного из руководителей \"Лукойла\"\n\nНачальник Главного управления по борьбе с оргпреступностью МВД России генерал-лейтенант Александр Овчинников заявил,</segment>
+		<segment id="190" parent="191" relname="span">что следствие не располагает данными о том, кто похитил первого вице-президента \"Лукойла\" Сергея Кукуру.</segment>
+		<segment id="196" parent="211" relname="attribution">\"Я могу однозначно заявить,</segment>
+		<segment id="197" parent="210" relname="preparation">что официально в правоохранительные органы информации о предполагаемых преступниках ...</segment>
+		<segment id="198" parent="210" relname="joint">не поступало\",</segment>
+		<segment id="199" parent="208" relname="attribution">- сказал он журналистам.\n\</segment>
+		<segment id="200" parent="201" relname="attribution">nОтвечая на вопрос о том,</segment>
+		<segment id="201" parent="202" relname="span">получили ли правоохранительные органы от похитителей кассету с видеозаписью Кукуры и требованием о выкупе в 3 млн долларов и 3 млн евро наличными,</segment>
+		<segment id="203" parent="206" relname="attribution">начальник ГУБОП ответил:</segment>
+		<segment id="204" parent="206" relname="span">\"Без комментариев\".\n\</segment>
+		<segment id="205" parent="204" relname="cause-effect">nЗа освобождение Кукуры похитители каждый раз требуют разные суммы\n\nВ \"Лукойл\" поступило несколько звонков с требованиями выкупа за похищенного первого вице-президента этой нефтяной компании Сергея Кукуру.</segment>
+		<segment id="213" parent="214" relname="attribution">Как сообщил в среду заместитель начальника ГУВД Московской области Геннадий Дейнеко,</segment>
+		<segment id="214" parent="215" relname="span">каждый раз неизвестные требуют разные суммы.\n\n</segment>
+		<segment id="216" parent="217" relname="interpretation-evaluation">\"Но никаких доказательств, что Кукура находится именно у них,</segment>
+		<segment id="217" parent="218" relname="span">звонившие не представляют\",</segment>
+		<segment id="219" parent="220" relname="attribution">- отметил Дейнеко,</segment>
+		<segment id="220" parent="221" relname="span">передает ИТАР-ТАСС.\n\</segment>
+		<segment id="225" parent="226" relname="attribution">nПо его словам,</segment>
+		<segment id="226" parent="227" relname="span">следствие отрабатывает все возможные версии похищения вице-президента, от бытовой до связанной с профессиональной деятельностью.</segment>
+		<segment id="228" parent="239" relname="attribution">Кроме того, сказал Дейнеко,</segment>
+		<segment id="229" parent="238" relname="cause-effect">проверяется информация о том, что Кукура был похищен</segment>
+		<segment id="230" parent="238" relname="span">в результате внутренних разборок в компании.\n\nПредставители \"Лукойла\" считают,</segment>
+		<segment id="231" parent="237" relname="joint">что информация в СМИ может помешать расследованию\n\</segment>
+		<segment id="232" parent="235" relname="attribution">nПредставители нефтяной компании считают,</segment>
+		<segment id="233" parent="234" relname="attribution">что информация, опубликованная в некоторых СМИ по делу о похищении первого вице-президента Сергея Кукуры,</segment>
+		<segment id="234" parent="235" relname="span">\"может повредить расследованию\".</segment>
+		<segment id="241" parent="240" relname="attribution">Об этом в среду сообщил руководитель пресс-службы компании.\n\</segment>
+		<segment id="246" parent="266" relname="joint">nПо словам источника, \"мы по-прежнему не будем комментировать информацию, которая поступает из неофициальных источников\".\n\</segment>
+		<segment id="247" parent="248" relname="attribution">nНакануне заместитель министра внутренних дел России статс-секретарь Владимир Васильев сообщил,</segment>
+		<segment id="248" parent="249" relname="span">что о ходе расследования обстоятельств похищения Сергея Кукуры доложено премьер-министру России Михаилу Касьянову</segment>
+		<segment id="250" parent="251" relname="attribution">.\n\nЗаместитель министра заверил,</segment>
+		<segment id="251" parent="252" relname="span">что \"на эту тему будет дан исчерпывающий ответ руководством ГУБОП\".</segment>
+		<segment id="254" parent="261" relname="attribution">Однако, по его словам,</segment>
+		<segment id="255" parent="256" relname="purpose">\"для того чтобы это сделать,</segment>
+		<segment id="256" parent="257" relname="span">нужно согласовать все вопросы с руководством следственно-оперативной группы\".\n\n\"Работа проводится,</segment>
+		<segment id="258" parent="260" relname="joint">поступает информация,</segment>
+		<segment id="259" parent="260" relname="joint">она тщательно проверяется,</segment>
+		<segment id="263" parent="262" relname="attribution">- сказал Васильев.</segment>
+		<segment id="269" parent="271" relname="joint">- Поверьте, что проводится очень большая работа, это преступление находится на контроле.</segment>
+		<segment id="270" parent="271" relname="joint">Других деталей сообщить не могу\".\n\nЗаместитель министра отметил также,</segment>
+		<segment id="272" parent="278" relname="span">что вопрос о розыске Сергея Кукуры \"волнует очень многих\", в том числе представителей бизнес-сообщества.\n\nВ четверг, 12 сентября, в 7:20 по московскому времени у деревни Внуково Ленинского района Подмосковья, в 300 м от железнодорожного переезда</segment>
+		<segment id="273" parent="277" relname="joint">четверо неизвестных в масках,</segment>
+		<segment id="276" parent="277" relname="joint">вооруженные автоматическим оружием, вышли из перегородившей проезжую часть дороги автомашины \"Волга\" черного цвета с синими милицейскими номерами.</segment>
+		<segment id="280" parent="282" relname="span">Они остановили Mercedes,</segment>
+		<segment id="281" parent="280" relname="elaboration">в котором находились Сергей Кукура, водитель и охранник.</segment>
+		<segment id="283" parent="285" relname="joint">Неизвестные пересадили Кукуру в \"Волгу\"</segment>
+		<segment id="284" parent="285" relname="joint">и увезли в неизвестном направлении.\n\nВодителю и охраннику надели на голову мешки,</segment>
+		<segment id="286" parent="287" relname="sequence">сделали инъекции неустановленного препарата,</segment>
+		<segment id="288" parent="290" relname="span">после чего на автомобиле Mercedes вывезли в лесной массив у деревни Зайцево Одинцовского района,</segment>
+		<segment id="289" parent="288" relname="elaboration">где эту машину бросили.</segment>
+		<segment id="294" parent="295" relname="joint">При этом у охранника был похищен служебный пистолет \"Иж-71\".</segment>
+		<segment id="296" parent="298" relname="joint">Впоследствии охраннику удалось освободиться</segment>
+		<segment id="297" parent="298" relname="joint">и сообщить о ЧП в Апрелевский городской отдел милиции Наро-Фоминского управления внутренних дел.\n\nПо описаниям охранника Кукуры следствию удалось установить приметы похитителей.\n\nИсточник: https://www.newsru.com/russia/18Sep2002/kukury.html\n</segment>
+		<group id="108" type="span" parent="307" relname="preparation"/>
+		<group id="106" type="span" parent="108" relname="span"/>
+		<group id="307" type="multinuc" parent="308" relname="span"/>
+		<group id="121" type="multinuc" parent="307" relname="joint"/>
+		<group id="115" type="span" parent="121" relname="joint"/>
+		<group id="114" type="span" parent="115" relname="span"/>
+		<group id="113" type="span" parent="114" relname="span"/>
+		<group id="120" type="span" parent="121" relname="joint"/>
+		<group id="118" type="span" parent="120" relname="span"/>
+		<group id="306" type="span" parent="307" relname="joint"/>
+		<group id="124" type="span" parent="305" relname="preparation"/>
+		<group id="305" type="span" parent="306" relname="span"/>
+		<group id="143" type="multinuc" parent="304" relname="preparation"/>
+		<group id="133" type="span" parent="143" relname="contrast"/>
+		<group id="132" type="span" parent="133" relname="span"/>
+		<group id="130" type="span" parent="132" relname="span"/>
+		<group id="129" type="span" parent="126" relname="elaboration"/>
+		<group id="142" type="span" parent="143" relname="contrast"/>
+		<group id="138" type="multinuc" parent="142" relname="span"/>
+		<group id="137" type="span" parent="138" relname="same-unit"/>
+		<group id="304" type="multinuc" parent="305" relname="span"/>
+		<group id="180" type="multinuc" parent="304" relname="joint"/>
+		<group id="164" type="multinuc" parent="180" relname="comparison"/>
+		<group id="150" type="span" parent="164" relname="joint"/>
+		<group id="149" type="span" parent="150" relname="span"/>
+		<group id="163" type="span" parent="164" relname="joint"/>
+		<group id="162" type="multinuc" parent="151" relname="elaboration"/>
+		<group id="161" type="span" parent="162" relname="joint"/>
+		<group id="155" type="span" parent="161" relname="span"/>
+		<group id="160" type="span" parent="155" relname="interpretation-evaluation"/>
+		<group id="159" type="multinuc" parent="160" relname="span"/>
+		<group id="179" type="span" parent="180" relname="comparison"/>
+		<group id="178" type="span" parent="179" relname="span"/>
+		<group id="176" type="span" parent="178" relname="span"/>
+		<group id="175" type="span" parent="176" relname="span"/>
+		<group id="174" type="span" parent="175" relname="span"/>
+		<group id="173" type="multinuc" parent="174" relname="span"/>
+		<group id="303" type="multinuc" parent="304" relname="joint"/>
+		<group id="195" type="multinuc" parent="303" relname="joint"/>
+		<group id="185" type="span" parent="195" relname="joint"/>
+		<group id="184" type="span" parent="185" relname="span"/>
+		<group id="194" type="multinuc" parent="195" relname="joint"/>
+		<group id="193" type="span" parent="194" relname="joint"/>
+		<group id="192" type="multinuc" parent="193" relname="span"/>
+		<group id="191" type="span" parent="192" relname="contrast"/>
+		<group id="302" type="multinuc" parent="303" relname="joint"/>
+		<group id="224" type="multinuc" parent="302" relname="joint"/>
+		<group id="212" type="span" parent="224" relname="joint"/>
+		<group id="211" type="span" parent="212" relname="span"/>
+		<group id="210" type="multinuc" parent="211" relname="span"/>
+		<group id="209" type="span" parent="210" relname="joint"/>
+		<group id="208" type="span" parent="209" relname="span"/>
+		<group id="202" type="span" parent="207" relname="solutionhood"/>
+		<group id="207" type="span" parent="208" relname="span"/>
+		<group id="206" type="span" parent="207" relname="span"/>
+		<group id="223" type="span" parent="224" relname="joint"/>
+		<group id="215" type="span" parent="223" relname="span"/>
+		<group id="222" type="span" parent="215" relname="elaboration"/>
+		<group id="218" type="span" parent="222" relname="span"/>
+		<group id="221" type="span" parent="218" relname="attribution"/>
+		<group id="301" type="multinuc" parent="302" relname="joint"/>
+		<group id="243" type="multinuc" parent="301" relname="joint"/>
+		<group id="227" type="span" parent="243" relname="joint"/>
+		<group id="242" type="span" parent="243" relname="joint"/>
+		<group id="240" type="span" parent="242" relname="span"/>
+		<group id="239" type="span" parent="240" relname="span"/>
+		<group id="238" type="span" parent="239" relname="span"/>
+		<group id="237" type="multinuc" parent="230" relname="evidence"/>
+		<group id="236" type="span" parent="237" relname="joint"/>
+		<group id="235" type="span" parent="236" relname="span"/>
+		<group id="300" type="multinuc" parent="301" relname="joint"/>
+		<group id="266" type="multinuc" parent="300" relname="joint"/>
+		<group id="265" type="multinuc" parent="266" relname="joint"/>
+		<group id="253" type="multinuc" parent="265" relname="contrast"/>
+		<group id="249" type="span" parent="253" relname="joint"/>
+		<group id="252" type="span" parent="253" relname="joint"/>
+		<group id="264" type="span" parent="265" relname="contrast"/>
+		<group id="262" type="span" parent="264" relname="span"/>
+		<group id="261" type="multinuc" parent="262" relname="span"/>
+		<group id="257" type="span" parent="261" relname="joint"/>
+		<group id="260" type="multinuc" parent="261" relname="joint"/>
+		<group id="299" type="multinuc" parent="300" relname="joint"/>
+		<group id="295" type="multinuc" parent="299" relname="sequence"/>
+		<group id="293" type="multinuc" parent="295" relname="joint"/>
+		<group id="279" type="multinuc" parent="293" relname="sequence"/>
+		<group id="271" type="multinuc" parent="279" relname="comparison"/>
+		<group id="278" type="span" parent="279" relname="comparison"/>
+		<group id="277" type="multinuc" parent="272" relname="elaboration"/>
+		<group id="292" type="multinuc" parent="293" relname="sequence"/>
+		<group id="282" type="span" parent="292" relname="sequence"/>
+		<group id="291" type="multinuc" parent="292" relname="sequence"/>
+		<group id="287" type="multinuc" parent="291" relname="sequence"/>
+		<group id="285" type="multinuc" parent="287" relname="sequence"/>
+		<group id="290" type="span" parent="291" relname="sequence"/>
+		<group id="298" type="multinuc" parent="299" relname="sequence"/>
+		<group id="308" type="span"/>
+	</body>
+</rst>

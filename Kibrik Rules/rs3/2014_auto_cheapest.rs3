@@ -1,0 +1,32 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="11" parent="13" relname="span">В Европе названы самые выгодные страны</segment>
+		<segment id="12" parent="11" relname="purpose">для путешествий на машине\n\nБританское издание The Daily Mail составило рейтинг самых выгодных европейских стран для автомобильных путешествий.</segment>
+		<segment id="14" parent="15" relname="joint">При составлении списка учитывалась стоимость бензина, а также стоимость аренды автомобиля.\n\nСамой дешевой страной для любителей автопутешествий оказалась Испания.</segment>
+		<segment id="16" parent="18" relname="comparison">Стоимость литра бензина там в среднем составляет 1,4 евро,</segment>
+		<segment id="17" parent="18" relname="comparison">а прокат машины на неделю обойдется от 78 евро.</segment>
+		<segment id="19" parent="20" relname="joint">Следом идет Португалия с бензином по 1,6 евро и недельной арендой машины за 83 евро.</segment>
+		<segment id="22" parent="24" relname="comparison">На третьем месте Великобритания с бензином по 1,6 евро и недельной стоимостью аренды автомобиля от 126 евро.\n\</segment>
+		<segment id="23" parent="24" relname="comparison">nСамой дорогой страной оказалась Норвегия со стоимостью бензина от 1,9 евро за литр и недельной арендой автомобиля от 315 евро.</segment>
+		<segment id="25" parent="26" relname="joint">Также дорогими для автолюбителей оказались Нидерланды и Италия с бензином по 1,8 евро и стоимостью недельной аренды автомобиля от 178 и 166 евро соответственно,</segment>
+		<segment id="27" parent="26" relname="attribution">передает Autonews.\n\nИсточник: https://www.newsru.com/auto/25Aug2014/cheapest.html\n</segment>
+		<group id="21" type="multinuc" parent="29" relname="comparison"/>
+		<group id="15" type="multinuc" parent="21" relname="joint"/>
+		<group id="13" type="span" parent="15" relname="joint"/>
+		<group id="20" type="multinuc" parent="21" relname="joint"/>
+		<group id="18" type="multinuc" parent="20" relname="joint"/>
+		<group id="28" type="span" parent="29" relname="comparison"/>
+		<group id="26" type="multinuc" parent="28" relname="span"/>
+		<group id="24" type="multinuc" parent="26" relname="joint"/>
+		<group id="29" type="multinuc"/>
+	</body>
+</rst>

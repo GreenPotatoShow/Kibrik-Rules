@@ -1,0 +1,80 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="concession" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="88" relname="preparation">Производители покрышек подкачали \"АвтоВАЗ\".</segment>
+		<segment id="32" parent="34" relname="span">Он может начать закупки у Китая\n\n\"АвтоВАЗ\" может начать закупки китайских шин</segment>
+		<segment id="33" parent="32" relname="purpose">для комплектации своих автомобилей.</segment>
+		<segment id="35" parent="37" relname="span">Тольяттинский завод уже приобрел в Китае несколько сотен покрышек,</segment>
+		<segment id="36" parent="35" relname="purpose">по результатам испытаний которых может быть принято решение о более масштабных поставках,</segment>
+		<segment id="38" parent="40" relname="span">но эксперты скептически смотрят на такие планы российского автогиганта,</segment>
+		<segment id="39" parent="38" relname="cause-effect">так как качество китайских покрышек оставляет желать лучшего</segment>
+		<segment id="41" parent="42" relname="cause-effect">.\n\nКак рассказал РБК источник в менеджменте \"АвтоВАЗа\",</segment>
+		<segment id="42" parent="43" relname="span">таким образом компания пытается выбить для себя более выгодные условия у одного из своих нынешних поставщиков,</segment>
+		<segment id="44" parent="43" relname="cause-effect">поскольку в 2006 году цены на шины выросли на 20%.</segment>
+		<segment id="49" parent="53" relname="span">Напомним, что ранее \"АвтоВАЗ\" пошел на похожий шаг</segment>
+		<segment id="50" parent="52" relname="joint">при закупках металла,</segment>
+		<segment id="51" parent="52" relname="joint">заключив контракт с корейской Samsung на поставку в 2007 году 6,5 тыс. тонн листового проката.\n\</segment>
+		<segment id="54" parent="56" relname="span">nЭто подтвердил и источник в руководстве завода,</segment>
+		<segment id="55" parent="54" relname="elaboration">отметивший появившиеся разногласия с одним из нынешних поставщиков.</segment>
+		<segment id="57" parent="58" relname="span">Поэтому на случай возможного разрыва контракта предприятие и подыскивает альтернативных поставщиков в Китае.</segment>
+		<segment id="60" parent="62" relname="comparison">К кому именно у \"АвтоВАЗа\" возникли претензии,</segment>
+		<segment id="61" parent="62" relname="comparison">на предприятии не говорят.\n\nСейчас покрышки на \"АвтоВАЗ\" поставляют практически все российские производители шин.</segment>
+		<segment id="63" parent="62" relname="background">Известно, что свою продукцию на волжский автозавод также поставляли белорусская \"Белшина\", украинская \"Росава\" и российская \"Сибур\".</segment>
+		<segment id="65" parent="67" relname="span">При этом крупнейшими поставщиками АвтоВАЗа являются \"Нижнекамскшина\",</segment>
+		<segment id="66" parent="65" relname="elaboration">на которую приходится до 60% закупаемых заводом покрышек.\n\nМежду тем \"АвтоВАЗ\" не первый, кто посматривает в сторону Китая.</segment>
+		<segment id="68" parent="69" relname="span">Производители грузовиков уже практикуют закупку шин в Китае.</segment>
+		<segment id="70" parent="72" relname="span">Производителям легковых автомобилей последовать их примеру мешает очень высокая импортная пошлина на китайские покрышки,</segment>
+		<segment id="71" parent="70" relname="elaboration">достигающая 8 евро за один баллон,</segment>
+		<segment id="73" parent="75" relname="span">поэтому \"АвтоВАЗу\" имеет смысл закупать шины в Китае только в том случае,</segment>
+		<segment id="74" parent="73" relname="condition">если компания сможет добиться таможенных льгот.</segment>
+		<segment id="77" parent="80" relname="concession">Несмотря на популярное мнение,</segment>
+		<segment id="78" parent="80" relname="span">что китайские покрышки далеки от идеальных,</segment>
+		<segment id="79" parent="78" relname="elaboration">в Китае имеют свое производство все ведущие мировые шинные компании,</segment>
+		<segment id="82" parent="83" relname="span">поэтому местным производителям есть у кого учиться.\n\nИсточник: https://www.newsru.com/auto/09Apr2007/wheels.html\n</segment>
+		<group id="88" type="multinuc" parent="89" relname="span"/>
+		<group id="48" type="span" parent="88" relname="comparison"/>
+		<group id="34" type="span" parent="48" relname="span"/>
+		<group id="47" type="multinuc" parent="34" relname="elaboration"/>
+		<group id="37" type="span" parent="47" relname="contrast"/>
+		<group id="46" type="span" parent="47" relname="contrast"/>
+		<group id="40" type="span" parent="46" relname="span"/>
+		<group id="45" type="span" parent="40" relname="elaboration"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="87" type="multinuc" parent="88" relname="comparison"/>
+		<group id="59" type="multinuc" parent="87" relname="joint"/>
+		<group id="53" type="span" parent="59" relname="comparison"/>
+		<group id="52" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="58" type="span" parent="59" relname="comparison"/>
+		<group id="56" type="span" parent="57" relname="cause-effect"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="64" type="span" parent="86" relname="joint"/>
+		<group id="62" type="multinuc" parent="64" relname="span"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="69" type="span" parent="85" relname="joint"/>
+		<group id="67" type="span" parent="68" relname="cause-effect"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="76" type="span" parent="84" relname="span"/>
+		<group id="72" type="span" parent="75" relname="cause-effect"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="83" type="span" parent="76" relname="concession"/>
+		<group id="81" type="span" parent="82" relname="cause-effect"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="89" type="span"/>
+	</body>
+</rst>

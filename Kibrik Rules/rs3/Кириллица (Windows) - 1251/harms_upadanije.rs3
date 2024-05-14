@@ -1,0 +1,129 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="55" parent="61" relname="span">Два  человека упали с крыши пятиэтажного дома, новостройки.</segment>
+		<segment id="56" parent="60" relname="span">Кажется, школы.</segment>
+		<segment id="57" parent="59" relname="joint">Они съехали по крыше в сидячем положении до самой кромки</segment>
+		<segment id="58" parent="59" relname="joint">и тут начали падать.\n Их падение раньше всех заметила Ида Марковна.</segment>
+		<segment id="62" parent="64" relname="joint">Она стояла у окна в противоложном доме</segment>
+		<segment id="63" parent="64" relname="joint">и сморкалась в стакан.</segment>
+		<segment id="65" parent="66" relname="sequence">И вдруг она увидела, что кто-то с крыши противоположного дома начинает падать.</segment>
+		<segment id="68" parent="83" relname="preparation">Вглядевшись, Ида Марковна увидела, что это начинают падать сразу целых двое.</segment>
+		<segment id="69" parent="75" relname="span">Совершенно растерявшись,</segment>
+		<segment id="70" parent="74" relname="sequence">Ида Марковна содрала с себя рубашку</segment>
+		<segment id="71" parent="73" relname="span">и начала этой рубашкой скорее протирать запотевшее оконное стекло,</segment>
+		<segment id="72" parent="71" relname="purpose">чтобы лучше разглядеть, кто там падает с крыши.</segment>
+		<segment id="76" parent="78" relname="joint">Однако сообразив, что, пожалуй, падающие могут увидеть ее голой</segment>
+		<segment id="77" parent="78" relname="joint">и невесть чего про нее подумать,</segment>
+		<segment id="79" parent="81" relname="span">Ида Марковна отскочила от окна за плетеный треножник,</segment>
+		<segment id="80" parent="79" relname="elaboration">на котором стоял горшок с цветком.\n</segment>
+		<segment id="86" parent="88" relname="comparison">В это время падающих с крыш увидела другая особа, живущая в том же доме,</segment>
+		<segment id="87" parent="88" relname="comparison">что и Ида Марковна, но только двумя этажами ниже.</segment>
+		<segment id="89" parent="88" relname="interpretation-evaluation">Особу эту тоже звали Ида Марковна.</segment>
+		<segment id="91" parent="95" relname="same-unit">Она, как раз в это время,</segment>
+		<segment id="92" parent="94" relname="sequence">сидела с ногами на подоконнике</segment>
+		<segment id="93" parent="94" relname="sequence">и пришивала к своей туфле пуговку.</segment>
+		<segment id="96" parent="98" relname="joint">Взгянув в окно,</segment>
+		<segment id="97" parent="98" relname="joint">она увидела падающих с крыши.</segment>
+		<segment id="99" parent="107" relname="joint">Ида Марковна взвизгнула</segment>
+		<segment id="100" parent="106" relname="same-unit">и,</segment>
+		<segment id="101" parent="104" relname="condition">вскочив с подоконника,</segment>
+		<segment id="102" parent="104" relname="span">начала спешно открывать окно,</segment>
+		<segment id="103" parent="102" relname="purpose">чтобы лучше увидеть, как падающие с крыши ударятся об землю.</segment>
+		<segment id="111" parent="125" relname="span">Но окно не открывалось.</segment>
+		<segment id="112" parent="116" relname="sequence">Ида Марковна вспомнила, что она забила окно снизу гвоздем,</segment>
+		<segment id="113" parent="115" relname="span">и кинулась к печке,</segment>
+		<segment id="114" parent="113" relname="elaboration">в которой она хранила инструменты: четыре молотка, долото и клещи.\n</segment>
+		<segment id="117" parent="120" relname="condition">Схватив клещи,</segment>
+		<segment id="118" parent="120" relname="joint">Ида Марковна опять подбежала к окну</segment>
+		<segment id="119" parent="120" relname="joint">и выдернула гвоздь.</segment>
+		<segment id="122" parent="123" relname="sequence">Теперь окно легко распахнулось.</segment>
+		<segment id="126" parent="128" relname="sequence">Ида Марковна высунулась из окна</segment>
+		<segment id="127" parent="128" relname="sequence">и увидела, как падающие с крыши со свистом подлетали к земле.\n</segment>
+		<segment id="129" parent="130" relname="sequence">На улице собралась уже небольшая толпа.</segment>
+		<segment id="131" parent="133" relname="joint">Уже раздавались свистки,</segment>
+		<segment id="132" parent="133" relname="joint">и к месту ожидаемого происшествия не спеша подходил маленького роста милиционер.</segment>
+		<segment id="134" parent="136" relname="span">Носатый дворник суетился,</segment>
+		<segment id="135" parent="134" relname="condition">расталкивая людей</segment>
+		<segment id="137" parent="138" relname="attribution">и поясняя,</segment>
+		<segment id="138" parent="139" relname="span">что падающие с крыши могут вдарить собравшихся по головам.\n</segment>
+		<segment id="142" parent="148" relname="sequence">К этому времени уже обе Иды Марковны, одна в платье,</segment>
+		<segment id="143" parent="147" relname="same-unit">а другая голая,</segment>
+		<segment id="144" parent="146" relname="joint">высунувшись в окно, визжали</segment>
+		<segment id="145" parent="146" relname="joint">и били ногами.\n</segment>
+		<segment id="149" parent="155" relname="span">И вот наконец, расставив руки и выпучив глаза,</segment>
+		<segment id="150" parent="154" relname="joint">падающие с крыши ударились об землю.\n Так и мы иногда,</segment>
+		<segment id="151" parent="153" relname="joint">упадая с высот достигнутых,</segment>
+		<segment id="152" parent="153" relname="joint">ударяемся об унылую клеть нашей будущности.\n \n <7 сентября 1940>\n</segment>
+		<group id="85" type="multinuc" parent="161" relname="sequence"/>
+		<group id="67" type="multinuc" parent="85" relname="joint"/>
+		<group id="61" type="span" parent="67" relname="sequence"/>
+		<group id="60" type="span" parent="55" relname="elaboration"/>
+		<group id="59" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="66" type="multinuc" parent="67" relname="sequence"/>
+		<group id="64" type="multinuc" parent="66" relname="sequence"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="83" type="multinuc" parent="84" relname="span"/>
+		<group id="75" type="span" parent="83" relname="contrast"/>
+		<group id="74" type="multinuc" parent="69" relname="elaboration"/>
+		<group id="73" type="span" parent="74" relname="sequence"/>
+		<group id="82" type="span" parent="83" relname="contrast"/>
+		<group id="78" type="multinuc" parent="82" relname="span"/>
+		<group id="81" type="span" parent="78" relname="elaboration"/>
+		<group id="160" type="multinuc" parent="161" relname="sequence"/>
+		<group id="110" type="span" parent="160" relname="contrast"/>
+		<group id="90" type="span" parent="110" relname="span"/>
+		<group id="88" type="multinuc" parent="90" relname="span"/>
+		<group id="109" type="multinuc" parent="90" relname="elaboration"/>
+		<group id="95" type="multinuc" parent="109" relname="sequence"/>
+		<group id="94" type="multinuc" parent="95" relname="same-unit"/>
+		<group id="108" type="multinuc" parent="109" relname="sequence"/>
+		<group id="98" type="multinuc" parent="108" relname="joint"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="106" type="multinuc" parent="107" relname="joint"/>
+		<group id="105" type="span" parent="106" relname="same-unit"/>
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="159" type="multinuc" parent="160" relname="contrast"/>
+		<group id="125" type="span" parent="159" relname="joint"/>
+		<group id="124" type="multinuc" parent="111" relname="evidence"/>
+		<group id="116" type="multinuc" parent="124" relname="sequence"/>
+		<group id="115" type="span" parent="116" relname="sequence"/>
+		<group id="123" type="multinuc" parent="124" relname="sequence"/>
+		<group id="121" type="span" parent="123" relname="sequence"/>
+		<group id="120" type="multinuc" parent="121" relname="span"/>
+		<group id="158" type="multinuc" parent="159" relname="joint"/>
+		<group id="130" type="multinuc" parent="158" relname="sequence"/>
+		<group id="128" type="multinuc" parent="130" relname="sequence"/>
+		<group id="157" type="multinuc" parent="158" relname="sequence"/>
+		<group id="141" type="multinuc" parent="157" relname="sequence"/>
+		<group id="133" type="multinuc" parent="141" relname="joint"/>
+		<group id="140" type="multinuc" parent="141" relname="joint"/>
+		<group id="136" type="span" parent="140" relname="joint"/>
+		<group id="139" type="span" parent="140" relname="joint"/>
+		<group id="156" type="multinuc" parent="157" relname="sequence"/>
+		<group id="148" type="multinuc" parent="156" relname="sequence"/>
+		<group id="147" type="multinuc" parent="148" relname="sequence"/>
+		<group id="146" type="multinuc" parent="147" relname="same-unit"/>
+		<group id="155" type="span" parent="156" relname="sequence"/>
+		<group id="154" type="multinuc" parent="149" relname="condition"/>
+		<group id="153" type="multinuc" parent="154" relname="joint"/>
+		<group id="161" type="multinuc"/>
+	</body>
+</rst>

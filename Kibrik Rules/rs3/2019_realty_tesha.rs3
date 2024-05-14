@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="34" relname="span">\"Собеседник\" обнаружил у тещи главы \"Ростеха\" пентхаус в центре Москвы за 2 млрд рублей\n\n73-летняя теща главы \"Ростеха\" Сергея Чемезова</segment>
+		<segment id="33" parent="32" relname="background">Людмила Рукавишникова является владелицей 700-метрового пентхауса в доме на Малой Никитской улице в Москве.</segment>
+		<segment id="35" parent="34" relname="attribution">Об этом пишет газета \"Собеседник\".\n\</segment>
+		<segment id="37" parent="38" relname="attribution">nВ ходе расследования журналистам издания удалось подтвердить,</segment>
+		<segment id="38" parent="39" relname="span">что Рукавишникова приходится матерью жене Чемезова Екатерине Игнатовой.</segment>
+		<segment id="40" parent="42" relname="span">В настоящее время Рукавишникова значится единственным учредителем компании \"КПК Холдинг\" с нулевым кадровым составом</segment>
+		<segment id="41" parent="40" relname="background">(ранее этой фирмой через \"РТ-Логистика\" владел \"Ростех\".</segment>
+		<segment id="44" parent="46" relname="span">Кроме того, пенсионерка является совладельцем компании \"АФК-Сервис\", которой принадлежит особняк на Патриарших прудах.</segment>
+		<segment id="45" parent="44" relname="elaboration">До 2008 года им также владел \"Ростех\" а сейчас Рукавишникова с компаньонами сдают его площади в аренду.\n\nНаконец, еще одна фирма Рукавишниковой (\"Никсервис\") зарегистрирована в историческом особняке на Малой Никитской.</segment>
+		<segment id="47" parent="51" relname="span">Но в этом доме находятся не офисы, а 12 элитных квартир.</segment>
+		<segment id="48" parent="50" relname="joint">В частности, в особняке живут банкиры Владимир Коган и Михаил Задорнов,</segment>
+		<segment id="49" parent="50" relname="joint">а также бывшая жена Романа Абрамовича Ирина.</segment>
+		<segment id="53" parent="55" relname="span">Однако самая роскошная квартира,</segment>
+		<segment id="54" parent="53" relname="background">пентхаус площадью 696 квадратных метров с марта 2016 года принадлежит Рукавишниковой.</segment>
+		<segment id="56" parent="55" relname="background">Стоимость этой квартиры журналисты оценили в 2 млрд рублей.</segment>
+		<segment id="58" parent="62" relname="span">Квартплата за это жилье в 2018 году превысила 4 млн рублей.\n\nНапомним, в начале февраля, Фонд борьбы с коррупцией Алексея Навального рассказал о роскошной квартире Сергея Чемезова,</segment>
+		<segment id="59" parent="61" relname="span">которая находится на 12-ом и 13-ом этажах здания отеля Four Seasons,</segment>
+		<segment id="60" parent="59" relname="elaboration">построенного на месте гостиницы \"Москва\" возле Красной площади,</segment>
+		<segment id="63" parent="64" relname="joint">и состоит из двух помещений общей площадью 1434 квадратных метра.</segment>
+		<segment id="66" parent="68" relname="joint">Стоимость этой квартиры, из окон которой открывается вид на Кремль, Красную площадь и Исторический музей,</segment>
+		<segment id="67" parent="68" relname="joint">в ФБК оценили по меньшей мере в 5 млрд рублей.\n\nЭта квартира не указана в декларации о доходах и имуществе Сергея Чемезова.</segment>
+		<segment id="69" parent="87" relname="comparison">Она обнаружилась в декларации его жены – Екатерины Игнатовой в виде двух нежилых помещений площадью в 711 и 723 квадратных метра соответственно.</segment>
+		<segment id="70" parent="71" relname="attribution">Ранее в ФБК рассказывали,</segment>
+		<segment id="71" parent="72" relname="span">что сыну Чемезова и его бывшей жене принадлежат две соседние квартиры общей площадью 370 квадратных метров в доме в Шведском тупике в Москве.</segment>
+		<segment id="73" parent="85" relname="joint">В доме на Поварской улице Чемезову и его жене принадлежат две квартиры общей площадью 645 квадратных метров.</segment>
+		<segment id="74" parent="76" relname="span">Кроме того, у сына Чемезова есть квартира на улице Воронцово поле площадью 342 квадратных метра и дача на Рублевке,</segment>
+		<segment id="75" parent="74" relname="elaboration">которую в ФБК оценили в 400 млн рублей.</segment>
+		<segment id="77" parent="79" relname="span">Сам Чемезов также имеет дачу,</segment>
+		<segment id="78" parent="77" relname="background">которая находится в поселке Акулинино.</segment>
+		<segment id="80" parent="82" relname="span">Площадь участка Чемезова составляет 6 гектаров, а главного дома с рыцарским залом и резным троном в нем – 1600 квадратных метров.</segment>
+		<segment id="81" parent="80" relname="elaboration">На территории поместья расположены гостевой дом, ряд других построек и теннисный корт.\n\nИсточник: https://www.newsru.com/realty/27Mar2019/tesha.html\n</segment>
+		<group id="36" type="span" parent="91" relname="preparation"/>
+		<group id="34" type="span" parent="36" relname="span"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="43" type="multinuc" parent="91" relname="joint"/>
+		<group id="39" type="span" parent="43" relname="sequence"/>
+		<group id="42" type="span" parent="43" relname="sequence"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="52" type="multinuc" parent="90" relname="joint"/>
+		<group id="46" type="span" parent="52" relname="contrast"/>
+		<group id="51" type="span" parent="52" relname="contrast"/>
+		<group id="50" type="multinuc" parent="47" relname="elaboration"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="65" type="multinuc" parent="89" relname="joint"/>
+		<group id="57" type="span" parent="65" relname="joint"/>
+		<group id="55" type="span" parent="57" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="62" type="span" parent="64" relname="joint"/>
+		<group id="61" type="span" parent="58" relname="background"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="68" type="multinuc" parent="88" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="86" type="multinuc" parent="87" relname="comparison"/>
+		<group id="72" type="span" parent="86" relname="joint"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="76" type="span" parent="84" relname="joint"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="79" type="span" parent="83" relname="span"/>
+		<group id="82" type="span" parent="79" relname="elaboration"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

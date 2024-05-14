@@ -1,0 +1,29 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="11" relname="span">Самолет МЧС России доставил в Китай лекарства для борьбы с SARS\n\n30 тонн гуманитарного груза,</segment>
+		<segment id="10" parent="9" relname="purpose">предназначенного для борьбы с атипичной пневмонией,</segment>
+		<segment id="12" parent="13" relname="joint">доставил утром в субботу в китайскую столицу самолет Ил-76 МЧС России.\n\nВ помощь направлены оборудование для искусственной вентиляции легких, медицинские препараты группы антибиотиков, средства дезинфекции.</segment>
+		<segment id="14" parent="16" relname="span">Стоимость доставленной в столицу КНР гуманитарной помощи составляет около 1 млн долларов США.\n\nВ аэропорту Пекина состоялась церемония передачи гумантирного груза китайской стороне,</segment>
+		<segment id="15" parent="14" relname="background">которую представлял заместитель министра здравоохранения КНР Ван Лундэ,</segment>
+		<segment id="17" parent="19" relname="span">сообщает ИТАР-ТАСС.\n\nОн передал российским представителям письмо,</segment>
+		<segment id="18" parent="17" relname="elaboration">в котором выражается искренняя благодарность за оказанную Россией поддержку китайскому народу в трудной ситуации.</segment>
+		<segment id="22" parent="21" relname="attribution">На церемонии присутствовал посол России в Китае Игорь Рогачев.\n\nИсточник: https://www.newsru.com/world/17May2003/30sars.html\n</segment>
+		<group id="21" type="multinuc" parent="23" relname="span"/>
+		<group id="13" type="multinuc" parent="21" relname="joint"/>
+		<group id="11" type="span" parent="13" relname="joint"/>
+		<group id="20" type="multinuc" parent="21" relname="joint"/>
+		<group id="16" type="span" parent="20" relname="joint"/>
+		<group id="19" type="span" parent="20" relname="joint"/>
+		<group id="23" type="span"/>
+	</body>
+</rst>

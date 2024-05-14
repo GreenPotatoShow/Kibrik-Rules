@@ -1,0 +1,38 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="13" parent="15" relname="span">Путин выразил соболезнования родственникам погибших в авиакатастрофе в Египте\n\nПрезидент РФ Владимир Путин выразил самые глубокие соболезнования родственникам погибших в катастрофе самолета \"Когалымавиа\" в Египте,</segment>
+		<segment id="14" parent="13" relname="attribution">передает пресс-служба Кремля.\n\nТакже он поручил премьер-министру Дмитрию Медведеву сформировать госкомиссию в связи с катастрофой.</segment>
+		<segment id="16" parent="21" relname="attribution">Позже в правительстве сообщили,</segment>
+		<segment id="17" parent="19" relname="span">что комиссию возглавит глава Минтранса Максим Соколов,</segment>
+		<segment id="18" parent="17" relname="elaboration">который вскоре вылетит в Египет.\n\nРуководству МЧС и Минздрава дано поручение немедленно организовать помощь родственникам погибших в авиакатастрофе в Египте,</segment>
+		<segment id="20" parent="19" relname="attribution">передает ТАСС.\n\nПровести расследования намерены прокуратуры двух стран.</segment>
+		<segment id="23" parent="24" relname="sequence">Соответствующие поручения дали генеральный прокурор России Юрий Чайка и руководство генпрокуратуры Египта.\n\nСамолет Airbus A-321 компании \"Когалымавиа\" с 224 людьми на борту разбился на севере Синайского полуострова Египта утром в субботу, 31 октября.</segment>
+		<segment id="25" parent="26" relname="attribution">Египетские спасатели сообщили</segment>
+		<segment id="26" parent="27" relname="span">об обнаружении обломков и вероятном отсутствии выживших.</segment>
+		<segment id="28" parent="31" relname="attribution">По данным СМИ,</segment>
+		<segment id="29" parent="31" relname="joint">перед крушением командир рейса сообщал о неполадках,</segment>
+		<segment id="30" parent="31" relname="joint">запрашивал экстренную посадку.\n\nИсточник: https://www.newsru.com/russia/31Oct2015/putincon.html\n</segment>
+		<group id="15" type="span" parent="35" relname="sequence"/>
+		<group id="34" type="multinuc" parent="35" relname="sequence"/>
+		<group id="24" type="multinuc" parent="34" relname="sequence"/>
+		<group id="22" type="span" parent="24" relname="sequence"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="19" type="span" parent="21" relname="span"/>
+		<group id="33" type="span" parent="34" relname="sequence"/>
+		<group id="27" type="span" parent="33" relname="span"/>
+		<group id="32" type="span" parent="27" relname="evidence"/>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="35" type="multinuc"/>
+	</body>
+</rst>

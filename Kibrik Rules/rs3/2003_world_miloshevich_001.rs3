@@ -1,0 +1,64 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="27" relname="span">Милошевич потребовал условного освобождения\n\nЭкс-президент Югославии Слободан Милошевич,</segment>
+		<segment id="26" parent="25" relname="background">ранее отказавшийся от услуг адвокатов,</segment>
+		<segment id="28" parent="29" relname="joint">обратился в среду к Гаагскому трибуналу с запросом предоставить ему минимум два года на подготовку к своей защите в суде.\n\</segment>
+		<segment id="30" parent="36" relname="comparison">nКроме того, Милошевич потребовал условного освобождения, а также \"непосредственного и бесконтрольного контакта со своими свидетелями и прямого доступа к необходимым ему документам и источникам информации\" в рамках этой подготовки.\n\</segment>
+		<segment id="31" parent="34" relname="attribution">nВ ответ на его требования</segment>
+		<segment id="32" parent="33" relname="attribution">председательствующий на слушаниях Международного уголовного трибунала для бывшей Югославии (МТБЮ) судья Ричард Мэй заявил,</segment>
+		<segment id="33" parent="34" relname="span">что \"не может быть и речи\" о таком длительном перерыве в процедуре.</segment>
+		<segment id="38" parent="41" relname="attribution">Однако заместитель прокурора Джеффри Найс рекомендовал</segment>
+		<segment id="39" parent="40" relname="attribution">МТБЮ предоставить Милошевичу для этого \"несколько месяцев\".\n\nСуд заявил,</segment>
+		<segment id="40" parent="41" relname="span">что он объявит о своем окончательном решении, по данному вопросу, в ближайшее время.\n\</segment>
+		<segment id="43" parent="46" relname="attribution">nПо словам Ричарда Мэя,</segment>
+		<segment id="44" parent="46" relname="span">совет из трех судей будет \"должным образом\" решать, как долго сможет готовиться к своей защите бывший президент Югославии,</segment>
+		<segment id="45" parent="44" relname="concession">хотя уже ясно, что ему будет дано не меньше времени, чем стороне обвинения.\n\nПроцесс начался в феврале 2002 года;</segment>
+		<segment id="48" parent="52" relname="joint">на нем заслушано 230 свидетелей обвинения,</segment>
+		<segment id="49" parent="50" relname="attribution">и прокуроры настаивают на том,</segment>
+		<segment id="50" parent="51" relname="span">что завершить дело нужно к концу этого года.\n\nКак известно,</segment>
+		<segment id="53" parent="56" relname="attribution">с самого начала процесса бывший югославский лидер заявил,</segment>
+		<segment id="54" parent="56" relname="span">что будет защищать себя самостоятельно,</segment>
+		<segment id="55" parent="54" relname="cause-effect">поскольку не признает законности МТБЮ.</segment>
+		<segment id="61" parent="65" relname="same-unit">Этот процесс, который,</segment>
+		<segment id="62" parent="63" relname="attribution">по мнению экспертов,</segment>
+		<segment id="63" parent="64" relname="span">может затянуться до 2005 года,</segment>
+		<segment id="66" parent="68" relname="joint">уже называют самым длительным в истории Гаагского трибунала.\n\nВ общей сложности 62-летнему Слободан Милошевичу инкриминируют более 60 преступлений, в том числе, геноцид, преступления против человечности и военные преступления в Хорватии, Боснии и Косове в 1990-е годы.\n\nОн уже говорил,</segment>
+		<segment id="67" parent="68" relname="joint">что в ходе своей защиты намерен вызвать в Гаагу в качестве свидетелей таких видных политических деятелей, как президент Франции Жак Ширак и бывший президент США Билл Клинтон.\n\nИсточник: https://www.newsru.com/world/03Sep2003/miloshevich.html\n</segment>
+		<group id="37" type="multinuc" parent="71" relname="joint"/>
+		<group id="29" type="multinuc" parent="37" relname="joint"/>
+		<group id="27" type="span" parent="29" relname="joint"/>
+		<group id="36" type="multinuc" parent="37" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="comparison"/>
+		<group id="34" type="span" parent="35" relname="span"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="60" type="multinuc" parent="70" relname="joint"/>
+		<group id="42" type="span" parent="60" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="47" type="span" parent="59" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="52" type="multinuc" parent="58" relname="span"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="57" type="span" parent="52" relname="interpretation-evaluation"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="65" type="multinuc" parent="69" relname="joint"/>
+		<group id="64" type="span" parent="65" relname="same-unit"/>
+		<group id="68" type="multinuc" parent="69" relname="joint"/>
+		<group id="71" type="multinuc"/>
+	</body>
+</rst>

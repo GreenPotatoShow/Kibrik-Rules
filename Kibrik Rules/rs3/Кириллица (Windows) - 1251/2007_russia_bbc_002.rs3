@@ -1,0 +1,54 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="58" relname="preparation">Росохранкультура: прекращение вещания радио ВВС в Москве - \"рядовой случай\", а не политический скандал\n\</segment>
+		<segment id="22" parent="24" relname="span">nСитуация с прекращением вещания русской службы ВВС на московской FM-частоте никаким образом не связана с конфликтом России и Великобритании,</segment>
+		<segment id="23" parent="22" relname="attribution">возникшим в связи с \"делом Литвиненко\".</segment>
+		<segment id="25" parent="29" relname="joint">Об этом, как передает \"Интерфакс\",</segment>
+		<segment id="26" parent="28" relname="span">заявил глава Россвязьохранкультуры Борис Боярсков.\n\n\"Этот совершенно рядовой случай никоим образом не связан с напряженностью в отношениях между Россией и Великобританией.</segment>
+		<segment id="27" parent="26" relname="attribution">Тем более, что русская служба ВВС - это не британское, а российское СМИ\",</segment>
+		<segment id="31" parent="30" relname="attribution">- заявил Боярсков.</segment>
+		<segment id="33" parent="57" relname="joint">До этого \"след полония\" в решении российских чиновников увидели британские газеты.\n\</segment>
+		<segment id="34" parent="35" relname="attribution">nНапомним, в минувшую пятницу русская служба ВВС получила извещение от владельцев московской FM-радиостанции \"Большое Радио\" о том,</segment>
+		<segment id="35" parent="36" relname="span">что начиная с 17:00 по московскому времени в пятницу программы на русском языке станция транслировать не будет.</segment>
+		<segment id="37" parent="39" relname="span">Подобное извещение поступило и в радиокомпанию \"Голос России\",</segment>
+		<segment id="38" parent="37" relname="elaboration">программы которой также транслировались на частоте \"Большого радио\".\n\</segment>
+		<segment id="40" parent="45" relname="attribution">nПо словам главы Россвязьохранкультуры,</segment>
+		<segment id="41" parent="45" relname="span">прекратив вещание программ ВВС и \"Голоса России\", \"Большое радио\" \"привело свою деятельность в соответствие с программной концепцией, которая указана в его лицензии\".\n\nБорис Боярсков всячески подчеркивает,</segment>
+		<segment id="42" parent="44" relname="joint">что подобных случаев в практике Россвязьохранкультуры довольно много,</segment>
+		<segment id="43" parent="44" relname="joint">и этот ничем не примечателен.</segment>
+		<segment id="47" parent="49" relname="joint">\"Таких дел десятки,</segment>
+		<segment id="48" parent="49" relname="joint">и то, что сейчас уделяется внимание именно этому случаю,</segment>
+		<segment id="50" parent="51" relname="joint">говорит о чьем-то желании придать этой ситуации политический подтекст\",</segment>
+		<segment id="52" parent="51" relname="attribution">- сказал глава Россвязьохранкультуры.\n\nИсточник: https://www.newsru.com/russia/20Aug2007/bbc.html\n</segment>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="32" type="span" parent="58" relname="joint"/>
+		<group id="30" type="multinuc" parent="32" relname="span"/>
+		<group id="24" type="span" parent="30" relname="joint"/>
+		<group id="29" type="multinuc" parent="30" relname="joint"/>
+		<group id="28" type="span" parent="29" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="36" type="span" parent="56" relname="joint"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="39" type="span" parent="55" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="46" type="span" parent="54" relname="joint"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="44" type="multinuc" parent="41" relname="interpretation-evaluation"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="51" type="multinuc" parent="53" relname="span"/>
+		<group id="49" type="multinuc" parent="51" relname="joint"/>
+		<group id="59" type="span"/>
+	</body>
+</rst>

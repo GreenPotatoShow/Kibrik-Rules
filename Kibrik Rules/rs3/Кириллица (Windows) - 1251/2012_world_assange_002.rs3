@@ -1,0 +1,87 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="35" parent="37" relname="span">Знаменитости, собравшие деньги на залог Ассанжу,</segment>
+		<segment id="36" parent="35" relname="purpose">могут потерять свои 300 тысяч долларов\n\nДружественные основателю WikiLeaks Джулиану Ассанжу знаменитости,</segment>
+		<segment id="38" parent="37" relname="background">собравшие 200 тысяч фунтов стерлингов (около 300 тысяч долларов),</segment>
+		<segment id="40" parent="45" relname="cause-effect">предположительно, потеряли их</segment>
+		<segment id="43" parent="45" relname="span">в результате того, что он нарушил условия освобождения под залог,</segment>
+		<segment id="44" parent="43" relname="attribution">сообщает РИА \"Новости\" со ссылкой на британскую газету The Telegraph.\n\nСреди единомышленников основателя WikiLeaks - британский режиссер Кен Лоуч, журналист Джон Пилджер и издатель Феликс Деннис.</segment>
+		<segment id="48" parent="50" relname="span">Под угрозой исчезновения оказались средства еще нескольких человек, включая нобелевского лауреата сэра Джона Салстона,</segment>
+		<segment id="49" parent="48" relname="elaboration">обещавших в качестве поручительства суммы от 5 до 20 тысяч фунтов стерлингов (от 8 до 30 тысяч долларов).</segment>
+		<segment id="51" parent="54" relname="attribution">Лондонский суд должен в ближайшее время вынести решение по данному вопросу.\n\nВ частности, светская львица Джемайма Хан и режиссер Кен Лоуч также подтвердили британскому изданию,</segment>
+		<segment id="52" parent="53" relname="attribution">что на более ранних слушаниях суд объявил,</segment>
+		<segment id="53" parent="54" relname="span">что предоставленные ими деньги будут подлежать конфискации.</segment>
+		<segment id="56" parent="57" relname="condition">Если Ассанж откажется сдаться,</segment>
+		<segment id="57" parent="58" relname="span">властям перейдут все средства поручителей</segment>
+		<segment id="59" parent="60" relname="span">.\n\</segment>
+		<segment id="61" parent="65" relname="span">nНапомним, австралиец Джулиан Ассанж,</segment>
+		<segment id="62" parent="64" relname="sequence">получивший мировую известность после того, как ресурс WikiLeaks опубликовал сотни тысяч документов о военных кампаниях в Афганистане и Ираке, а также тайные депеши Госдепа США,</segment>
+		<segment id="63" parent="64" relname="sequence">был задержан в Лондоне 7 декабря 2010 года по запросу Швеции.</segment>
+		<segment id="66" parent="67" relname="cause-effect">Интернет-разоблачителю вменяется в вину изнасилование и принуждение к развратным действиям,</segment>
+		<segment id="67" parent="68" relname="span">что якобы имело место в Стокгольме в августе 2010 года.</segment>
+		<segment id="69" parent="75" relname="span">Сам Ассанж все обвинения отрицает,</segment>
+		<segment id="70" parent="74" relname="joint">называя их политически мотивированными.\n\nАссанж был освобожден под залог,</segment>
+		<segment id="71" parent="73" relname="joint">при этом он не мог покидать свой дом с 10 вечера до 8 утра</segment>
+		<segment id="72" parent="73" relname="joint">и должен был отмечаться в полицейском участке.</segment>
+		<segment id="76" parent="80" relname="joint">Однако вскоре он пришел в эквадорское посольство</segment>
+		<segment id="77" parent="79" relname="span">и остался там,</segment>
+		<segment id="78" parent="77" relname="cause-effect">нарушив тем самым закон.</segment>
+		<segment id="83" parent="85" relname="span">Арестовать его пока не могут,</segment>
+		<segment id="84" parent="83" relname="cause-effect">так как территория посольства по сути считается территорией, находящейся под юрисдикцией Эквадора.\n\nСообщалось,</segment>
+		<segment id="86" parent="90" relname="span">что британские власти угрожали взятием штурмом посольства Эквадора в Лондоне,</segment>
+		<segment id="87" parent="89" relname="contrast">если его сотрудники не выдадут Ассанжа,</segment>
+		<segment id="88" parent="89" relname="contrast">однако затем МИД Великобритании передал письмо президенту Эквадора Рафаэлю Корреа,</segment>
+		<segment id="92" parent="93" relname="attribution">в котором утверждал,</segment>
+		<segment id="93" parent="94" relname="span">что никогда не выдвигал подобных угроз в отношении эквадорской стороны.\n\nИсточник: https://www.newsru.com/world/04Sep2012/assange.html\n</segment>
+		<group id="47" type="multinuc" parent="100" relname="preparation"/>
+		<group id="39" type="span" parent="47" relname="joint"/>
+		<group id="37" type="span" parent="39" relname="span"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="50" type="span" parent="100" relname="sequence"/>
+		<group id="99" type="multinuc" parent="100" relname="sequence"/>
+		<group id="55" type="span" parent="99" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="98" type="span" parent="99" relname="joint"/>
+		<group id="60" type="span" parent="97" relname="preparation"/>
+		<group id="58" type="span" parent="59" relname="condition"/>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="65" type="span" parent="97" relname="joint"/>
+		<group id="64" type="multinuc" parent="61" relname="elaboration"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="82" type="span" parent="96" relname="joint"/>
+		<group id="68" type="span" parent="81" relname="preparation"/>
+		<group id="81" type="multinuc" parent="82" relname="span"/>
+		<group id="75" type="span" parent="81" relname="contrast"/>
+		<group id="74" type="multinuc" parent="69" relname="elaboration"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="80" type="multinuc" parent="81" relname="contrast"/>
+		<group id="79" type="span" parent="80" relname="joint"/>
+		<group id="95" type="span" parent="96" relname="joint"/>
+		<group id="91" type="span" parent="95" relname="span"/>
+		<group id="85" type="span" parent="91" relname="span"/>
+		<group id="90" type="span" parent="85" relname="cause-effect"/>
+		<group id="89" type="multinuc" parent="86" relname="condition"/>
+		<group id="94" type="span" parent="91" relname="background"/>
+		<group id="101" type="span"/>
+	</body>
+</rst>

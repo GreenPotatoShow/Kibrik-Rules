@@ -1,0 +1,109 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="46" parent="48" relname="span">Всякий,  кто впервые видит подлинники растиражированных по альбомам, иллюстрациям и постерам классических картин Сальвадора Дали,</segment>
+		<segment id="47" parent="46" relname="elaboration">испытывает невероятное изумление.\n Оказывается, все эти грандиозные пылающие жирафы и растёкшиеся часы размером не в полстены,</segment>
+		<segment id="49" parent="48" relname="elaboration">как воображаешь себе, а едва с руку!\n Самое большее — в метр.\n</segment>
+		<segment id="51" parent="56" relname="condition">Когда изумление проходит,</segment>
+		<segment id="52" parent="54" relname="joint">понимаешь, что, во-первых, этого эффекта великий мистификатор</segment>
+		<segment id="53" parent="54" relname="joint">и добивался,</segment>
+		<segment id="55" parent="56" relname="joint">а во-вторых, этому несовпадению есть прагматичное объяснение.\n Всё равно в картинах Дали всех интересует в первую очередь не проработка полутонов и чистота линии,</segment>
+		<segment id="58" parent="64" relname="span">а какая-то одна сюрреалистическая фишка,</segment>
+		<segment id="59" parent="63" relname="span">всякий раз новая,</segment>
+		<segment id="60" parent="62" relname="span">которая и привлекает зрителя,</segment>
+		<segment id="61" parent="60" relname="condition">не давая ему заскучать.\n</segment>
+		<segment id="66" parent="68" relname="span">И только потом замечаешь, что не только с выдумкой, но и с техническим мастерством у эксцентричного мэтра всё в полнейшем порядке.\n То же самое можно сказать и про короткие рассказы барселонца Кима Мунзо.\n Их лаконичность объясняется тем,</segment>
+		<segment id="67" parent="66" relname="background">что каждый из них написан ради некой сюрреалистической ситуации.\n Так, открывается сборник трагикомичной любовной сценой:</segment>
+		<segment id="69" parent="71" relname="joint">пылких любовников всё время прерывают звонками то в дверь, то по телефону</segment>
+		<segment id="70" parent="71" relname="joint">и их любовный акт затягивается на несколько десятилетий.\n Или другая любовная сцена,</segment>
+		<segment id="72" parent="80" relname="span">в купе поезда:</segment>
+		<segment id="73" parent="79" relname="contrast">мужчина и женщина испытывают друг к другу всё растущее влечение,</segment>
+		<segment id="74" parent="78" relname="span">но никак не могут объясниться,</segment>
+		<segment id="75" parent="77" relname="contrast">потому что у них на двоих семь языков,</segment>
+		<segment id="76" parent="77" relname="contrast">но ни одного общего.\n</segment>
+		<segment id="83" parent="85" relname="contrast">Наконец они приходят к пониманию, что им необходимо уединиться в вагонном туалете,</segment>
+		<segment id="84" parent="85" relname="contrast">но слишком поздно:</segment>
+		<segment id="86" parent="88" relname="sequence">его наглухо оккупирует их юная попутчица.\n Она едет зайцем</segment>
+		<segment id="87" parent="88" relname="sequence">и должна спрятаться от проводника.\n Правда, уже после того, как несостоявшаяся любовница сходит с поезда,</segment>
+		<segment id="89" parent="88" relname="attribution">рассказчик понимает, что девчонка солгала:</segment>
+		<segment id="91" parent="93" relname="joint">из её рюкзачка выпадает билет</segment>
+		<segment id="92" parent="93" relname="joint">.\n «Остроумно, но что же здесь сюрреалистического?»\n</segment>
+		<segment id="95" parent="97" relname="span">— спросите вы.\n Вроде бы ничего;</segment>
+		<segment id="96" parent="95" relname="condition">только неожиданная деталь:</segment>
+		<segment id="98" parent="100" relname="contrast">дама сразу привлекла внимание героя «ногами цвета сомон»,</segment>
+		<segment id="99" parent="100" relname="contrast">а цвет сомон — это то же самое, что лососёвый.\n Попробуйте себе представить…\n Да ещё невероятная, сновидческая насыщенность:</segment>
+		<segment id="101" parent="100" relname="elaboration">столько событий и переживаний всего на девять страниц!\n</segment>
+		<segment id="104" parent="113" relname="preparation">И таковы все рассказы Мунзо;</segment>
+		<segment id="105" parent="111" relname="span">только один занимает двадцать страниц,</segment>
+		<segment id="108" parent="110" relname="same-unit">ну так он и называется «Семейная сага».\n Полноформатный сборник рассказов современного иностранного автора — нечастый гость на российских книжных прилавках в последние годы.\n Что же касается каталонской литературы, то мы только-только открываем её для себя</segment>
+		<segment id="109" parent="110" relname="same-unit">(точнее, вычленяем из испанской)</segment>
+		<segment id="112" parent="113" relname="joint">благодаря энтузиазму и усилиям живущей в этом благодатном краю переводчицы Нины Авровой-Раабен.\n Хочется надеяться, что и то и другое начинание будут продолжены.\n Критика:\n Лиза Биргер («Weekend»):\n «Краткие, ни к чему не обязывающие рассказы — 86 подряд.\n Стиль Мунзо витиеватый, красочный и сочный.\n Бесцветный мир в них раскрашивается совсем новыми красками,</segment>
+		<segment id="115" parent="126" relname="condition">как когда, обнажив возлюбленную,</segment>
+		<segment id="116" parent="122" relname="span">герой открывает «совершенно прозрачные груди,</segment>
+		<segment id="117" parent="119" relname="joint">внутри которых произрастает вся тропическая флора</segment>
+		<segment id="118" parent="119" relname="joint">— и пальмы, и талипоты, и хамеропсы</segment>
+		<segment id="120" parent="119" relname="elaboration">— листья их колышут ассирийские ветры, египетские трамонтаны, амазонские муссоны,</segment>
+		<segment id="123" parent="125" relname="span">а в их зелени на фоне зреющих гранатов машут крыльями волнистые попугайчики, какаду, ара и голуби сотни тысяч расцветок».\n Всем этим так зачитываешься,</segment>
+		<segment id="124" parent="123" relname="interpretation-evaluation">что совершенно не обращаешь внимания на мелочи, вроде того, что с географической точки зрения египетские трамонтаны — это полная ерунда».\n \n</segment>
+		<group id="50" type="span" parent="133" relname="preparation"/>
+		<group id="48" type="span" parent="50" relname="span"/>
+		<group id="133" type="multinuc" parent="134" relname="span"/>
+		<group id="65" type="multinuc" parent="133" relname="joint"/>
+		<group id="57" type="span" parent="65" relname="contrast"/>
+		<group id="56" type="multinuc" parent="57" relname="span"/>
+		<group id="54" type="multinuc" parent="56" relname="joint"/>
+		<group id="64" type="span" parent="65" relname="contrast"/>
+		<group id="63" type="span" parent="58" relname="elaboration"/>
+		<group id="62" type="span" parent="59" relname="elaboration"/>
+		<group id="132" type="multinuc" parent="133" relname="joint"/>
+		<group id="82" type="span" parent="132" relname="joint"/>
+		<group id="68" type="span" parent="82" relname="span"/>
+		<group id="81" type="multinuc" parent="68" relname="elaboration"/>
+		<group id="71" type="multinuc" parent="81" relname="comparison"/>
+		<group id="80" type="span" parent="81" relname="comparison"/>
+		<group id="79" type="multinuc" parent="72" relname="elaboration"/>
+		<group id="78" type="span" parent="79" relname="contrast"/>
+		<group id="77" type="multinuc" parent="74" relname="cause-effect"/>
+		<group id="131" type="span" parent="132" relname="joint"/>
+		<group id="85" type="multinuc" parent="131" relname="span"/>
+		<group id="130" type="span" parent="85" relname="elaboration"/>
+		<group id="94" type="span" parent="129" relname="preparation"/>
+		<group id="90" type="span" parent="94" relname="span"/>
+		<group id="88" type="multinuc" parent="90" relname="span"/>
+		<group id="93" type="multinuc" parent="90" relname="elaboration"/>
+		<group id="129" type="multinuc" parent="130" relname="span"/>
+		<group id="103" type="span" parent="129" relname="joint"/>
+		<group id="97" type="span" parent="103" relname="span"/>
+		<group id="102" type="span" parent="97" relname="elaboration"/>
+		<group id="100" type="multinuc" parent="102" relname="span"/>
+		<group id="128" type="span" parent="129" relname="joint"/>
+		<group id="114" type="span" parent="128" relname="span"/>
+		<group id="113" type="multinuc" parent="114" relname="span"/>
+		<group id="111" type="span" parent="113" relname="joint"/>
+		<group id="110" type="multinuc" parent="105" relname="elaboration"/>
+		<group id="127" type="span" parent="114" relname="elaboration"/>
+		<group id="126" type="multinuc" parent="127" relname="span"/>
+		<group id="122" type="span" parent="126" relname="comparison"/>
+		<group id="121" type="span" parent="116" relname="elaboration"/>
+		<group id="119" type="multinuc" parent="121" relname="span"/>
+		<group id="125" type="span" parent="126" relname="comparison"/>
+		<group id="134" type="span"/>
+	</body>
+</rst>

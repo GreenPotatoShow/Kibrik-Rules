@@ -1,0 +1,75 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="31" relname="span">В Париже сгорело посольство Израиля\n\nЦентральное шестиэтажное здание посольского комплекса Израиля в Париже было полностью уничтожено огнем в четверг ранним утром.</segment>
+		<segment id="30" parent="29" relname="attribution">Об этом сообщил журналистам мэр города Бертран Деланоэ</segment>
+		<segment id="32" parent="33" relname="attribution">.\n\nКак сообщает Reuters,</segment>
+		<segment id="33" parent="34" relname="span">пожар начался около 2:00 часов ночи.</segment>
+		<segment id="35" parent="38" relname="attribution">По данным агентства,</segment>
+		<segment id="36" parent="38" relname="span">посольство Израиля,</segment>
+		<segment id="37" parent="36" relname="background">находящееся в тринадцатом квартале Парижа по адресу улица Рабеле, дом 3, сгорело дотла.</segment>
+		<segment id="40" parent="42" relname="joint">Ранее в здании посольства проводились ремонтные работы.</segment>
+		<segment id="41" parent="42" relname="joint">На момент возгорания в посольстве никого не было.\n\</segment>
+		<segment id="44" parent="45" relname="attribution">nПо словам мэра города Бертрана Деланоэ,</segment>
+		<segment id="45" parent="46" relname="span">\"фактически сгорело именно посольство\",</segment>
+		<segment id="47" parent="48" relname="contrast">но никто не пострадал.</segment>
+		<segment id="49" parent="51" relname="span">Ранее сообщалось, что пожар произошел в нежилом здании на территории дипломатической миссии Израиля во Франции,</segment>
+		<segment id="50" parent="49" relname="elaboration">которое находилось на реконструкции.\n\nНа место происшествия прибыли премьер-министр Франции Жан-Пьер Рафарен и министр внутренних дел Николас Саркози, а также глава парижской полиции и мэр столицы.\n\nВ тушении пожара в основном здании участвовало 150 пожарных.</segment>
+		<segment id="52" parent="51" relname="purpose">Ведется расследование причин инцидента.</segment>
+		<segment id="54" parent="61" relname="attribution">О причинах пожара ничего не сообщается.\n\nВ заявлении Елисейского дворца говорится,</segment>
+		<segment id="55" parent="61" relname="joint">что президент Франции Жак Ширак позвонил послу Израиля в Париже Эли Барнави</segment>
+		<segment id="56" parent="59" relname="attribution">и заявил,</segment>
+		<segment id="57" parent="59" relname="span">что власти сделают все необходимое</segment>
+		<segment id="58" parent="57" relname="purpose">для выяснения причин пожара,</segment>
+		<segment id="63" parent="65" relname="span">сообщает ВВС.\n\nВ последний год - особенно после эскалации конфликта на Ближнем Востоке</segment>
+		<segment id="64" parent="63" relname="elaboration">- во Франции было несколько нападений на еврейские здания и объекты.</segment>
+		<segment id="67" parent="71" relname="span">31 марта сгорела синагога Марселя.</segment>
+		<segment id="68" parent="70" relname="span">Во Франции живет самая многочисленная еврейская община в Европе - 700 тысяч человек.\n\nРуководство Израиля, включая премьер-министра Ариэля Шарона, заявляет о том,</segment>
+		<segment id="69" parent="68" relname="interpretation-evaluation">что антисемитизм во Франции растет.</segment>
+		<segment id="72" parent="75" relname="attribution">Однако Париж утверждает,</segment>
+		<segment id="73" parent="75" relname="joint">что подобные атаки в основном осуществляются мусульманами из Северной Африки</segment>
+		<segment id="74" parent="75" relname="joint">и должны рассматриваться в контексте ближневосточного конфликта.\n\nИсточник: https://www.newsru.com/world/23May2002/fire.html\n</segment>
+		<group id="31" type="span" parent="82" relname="preparation"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="34" type="span" parent="81" relname="preparation"/>
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="43" type="multinuc" parent="80" relname="preparation"/>
+		<group id="39" type="span" parent="43" relname="sequence"/>
+		<group id="38" type="span" parent="39" relname="span"/>
+		<group id="42" type="multinuc" parent="43" relname="sequence"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="48" type="multinuc" parent="79" relname="preparation"/>
+		<group id="46" type="span" parent="48" relname="contrast"/>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="53" type="span" parent="79" relname="joint"/>
+		<group id="51" type="span" parent="53" relname="span"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="66" type="multinuc" parent="78" relname="span"/>
+		<group id="62" type="span" parent="66" relname="comparison"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="59" type="span" parent="60" relname="span"/>
+		<group id="65" type="span" parent="66" relname="comparison"/>
+		<group id="77" type="multinuc" parent="66" relname="elaboration"/>
+		<group id="71" type="span" parent="77" relname="contrast"/>
+		<group id="70" type="span" parent="67" relname="elaboration"/>
+		<group id="76" type="span" parent="77" relname="contrast"/>
+		<group id="75" type="multinuc" parent="76" relname="span"/>
+		<group id="83" type="span"/>
+	</body>
+</rst>

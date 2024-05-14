@@ -1,0 +1,317 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="concession" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="146" parent="148" relname="span">Перепись населения добралась до космоса.</segment>
+		<segment id="147" parent="146" relname="elaboration">На Земле безграмотные переписчики шокируют россиян\n\</segment>
+		<segment id="149" parent="162" relname="preparation">nВ России продолжается стартовавшая 14 октября Всероссийская перепись населения.</segment>
+		<segment id="150" parent="162" relname="span">В понедельник в мероприятии примут участие трое российских космонавтов из экипажа МКС-25.</segment>
+		<segment id="151" parent="161" relname="contrast">Кто именно будет опрашивать россиян на орбите, неизвестно,</segment>
+		<segment id="152" parent="153" relname="attribution">но блоггеры констатируют,</segment>
+		<segment id="153" parent="154" relname="span">что рядовые добровольцы,</segment>
+		<segment id="155" parent="159" relname="joint">участвующие в переписи на Земле и совершающие поквартирный обход,</segment>
+		<segment id="156" parent="158" relname="joint">шокирующе безграмотны</segment>
+		<segment id="157" parent="158" relname="joint">и не знают даже такого простого слова, как \"русский\".\n\</segment>
+		<segment id="164" parent="168" relname="sequence">nКак сообщили ИТАР-ТАСС в подмосковном Центре управления полетами (ЦУП),</segment>
+		<segment id="165" parent="167" relname="sequence">сначала специалисты Росстата пообщаются с Александром Калери, Олегом Скрипочкой и Федором Юрчихиным по телефону,</segment>
+		<segment id="166" parent="167" relname="sequence">а затем зададут вопросы космонавтам во время открытого телесеанса в присутствии журналистов.\n\</segment>
+		<segment id="169" parent="170" relname="attribution">nКак отметили в ЦУП,</segment>
+		<segment id="170" parent="171" relname="span">перепись на орбите проводится второй раз.</segment>
+		<segment id="172" parent="171" relname="background">Федор Юрчихин станет первым космонавтом, дважды переписанным в космосе.</segment>
+		<segment id="175" parent="177" relname="sequence">В октябре 2002 года он прилетел на МКС с краткой миссией в составе экипажа шаттла</segment>
+		<segment id="176" parent="177" relname="sequence">и ответил на вопрос переписчиков.</segment>
+		<segment id="178" parent="180" relname="sequence">В понедельник Юрчихин, Калери и Скрипочка ответят на вопросы переписчиков</segment>
+		<segment id="179" parent="180" relname="sequence">и заполнят переписные листы,</segment>
+		<segment id="181" parent="185" relname="joint">которые в сентябре доставил на орбиту грузовой корабль \"Прогресс\", передают \"Вести\".\n\nЗаполненные документы будут доставлены специалистам Росстата Федором Юрчихиным 30 ноября,</segment>
+		<segment id="182" parent="183" relname="condition">когда он вместе с американскими астронавтами Дугласом Уилоком и Шеннон Уокер вернется на Землю на борту корабля \"Союз ТМА-19\".\n\nПока перепись охватывает космос,</segment>
+		<segment id="183" parent="184" relname="span">переписчики на Земле удивляют блоггеров своей безграмотностью.</segment>
+		<segment id="187" parent="188" relname="attribution">Как рассказала в своем ЖЖ блоггер vespro,</segment>
+		<segment id="188" parent="189" relname="span">пришедший к ней домой переписчик не знал, как пишется слово \"русская\",</segment>
+		<segment id="190" parent="191" relname="joint">и в графе \"национальность\" написал странное слово: \"Руска\".</segment>
+		<segment id="194" parent="196" relname="joint">В ответ на замечание блоггера об ошибке</segment>
+		<segment id="195" parent="196" relname="joint">переписчик покраснел</segment>
+		<segment id="197" parent="202" relname="attribution">и сказал,</segment>
+		<segment id="198" parent="200" relname="joint">что надо бы везде исправить.\n\n- \"Сибиряки\" жалуются главе Росстата</segment>
+		<segment id="199" parent="200" relname="joint">- их насильно записывают \"русскими\"\n\nВ графе о знании языков интернет-пользователя переписчик указал: \"онгл. яз\" и \"итолянский\",</segment>
+		<segment id="201" parent="200" relname="condition">имея в виду английский и итальянский языки.</segment>
+		<segment id="205" parent="210" relname="attribution">Как выяснила блоггер,</segment>
+		<segment id="206" parent="210" relname="span">переписчик,</segment>
+		<segment id="207" parent="208" relname="attribution">по его словам,</segment>
+		<segment id="208" parent="209" relname="span">является студентом второго курса академии бизнеса</segment>
+		<segment id="212" parent="213" relname="joint">и, соответственно, сдавал ЕГЭ по русскому языку.\n\</segment>
+		<segment id="215" parent="217" relname="span">nНапомним, Всероссийская перепись населения началась 14 октября по всей стране.</segment>
+		<segment id="216" parent="215" relname="elaboration">В ней принимают участие более 616 тысяч переписчиков, главным образом студенты высших учебных заведений.</segment>
+		<segment id="218" parent="228" relname="comparison">Учету подлежат все, кто в период с 14 по 25 октября будет находиться на территории страны,</segment>
+		<segment id="219" parent="227" relname="span">в том числе граждане других стран, временно или постоянно работающие в России.\n\</segment>
+		<segment id="220" parent="225" relname="attribution">nПо данным переписи 2002 года,</segment>
+		<segment id="221" parent="225" relname="comparison">в России проживало 147 миллионов человек.</segment>
+		<segment id="222" parent="223" relname="attribution">Согласно текущей оценке Росстата,</segment>
+		<segment id="223" parent="224" relname="span">в настоящее время это число составляет 141,9 миллиона человек.</segment>
+		<segment id="229" parent="248" relname="preparation">Переписная кампания закончится 25 октября.</segment>
+		<segment id="230" parent="232" relname="joint">Первые ее итоги станут известны в апреле 2011 года.</segment>
+		<segment id="231" parent="232" relname="joint">Окончательные результаты планируется подвести в конце 2012 года.\n\nСтудентов заставляют участвовать в переписи насильно и за мизерные деньги\n\nПереписчиками работают в основном студенты.</segment>
+		<segment id="233" parent="234" relname="attribution">Как рассказал \"Новой газете\" студент одного из самых элитных технических вузов России,</segment>
+		<segment id="234" parent="235" relname="span">учащихся его учебного заведения в деканате заставляли насильно подписывать договор с Мосгорстатом,</segment>
+		<segment id="236" parent="246" relname="sequence">угрожая в противном случае найти повод для отчисления.\n\nПо данным издания,</segment>
+		<segment id="237" parent="245" relname="span">в Москве в переписи участвуют 37705 переписчиков.</segment>
+		<segment id="238" parent="243" relname="purpose">Для того, чтобы собрать такое количество людей,</segment>
+		<segment id="239" parent="243" relname="sequence">Мосгорстат подписал договор с ректорами 400 вузов.\n\nСтудентам обещают</segment>
+		<segment id="240" parent="242" relname="span">по итогам работы выплатить 5500 рублей</segment>
+		<segment id="241" parent="240" relname="condition">при условии, что они перепишут за 12 дней 400 человек на своем участке.</segment>
+		<segment id="252" parent="263" relname="attribution">По отзывам свидетелей,</segment>
+		<segment id="253" parent="263" relname="joint">студентов заставляют работать переписчиками по 12 часов в день,</segment>
+		<segment id="254" parent="262" relname="joint">без выходных.</segment>
+		<segment id="255" parent="261" relname="span">Ни проезд, ни питание не компенсируются.</segment>
+		<segment id="256" parent="259" relname="condition">В случае отказа угрожают не допустить до сессии.\n\</segment>
+		<segment id="257" parent="258" relname="attribution">nПо словам пресс-секретаря Роскомстата Григория Симановича,</segment>
+		<segment id="258" parent="259" relname="span">о принудительном привлечении к переписи студентов в ведомстве не знают.</segment>
+		<segment id="265" parent="287" relname="comparison">Никаких жалоб и обращений студентов у учреждения, отвечающего за перепись, нет.\n\</segment>
+		<segment id="266" parent="271" relname="attribution">nКак отмечают юристы,</segment>
+		<segment id="267" parent="271" relname="joint">в привлечении студентов к переписи</segment>
+		<segment id="268" parent="269" relname="condition">под давлением угроз</segment>
+		<segment id="269" parent="270" relname="span">можно усмотреть противоправную деятельность в вузах.</segment>
+		<segment id="273" parent="275" relname="span">Но это может произойти только в том случае,</segment>
+		<segment id="274" parent="273" relname="condition">если студенты решатся обратиться с иском под своими фамилиями.</segment>
+		<segment id="276" parent="283" relname="attribution">Между тем многие \"добровольцы\" говорят о том,</segment>
+		<segment id="277" parent="283" relname="span">что не хотят поднимать скандал,</segment>
+		<segment id="278" parent="282" relname="contrast">так как боятся оказаться отчисленными.\n\nКак выяснила \"Новая газета\",</segment>
+		<segment id="279" parent="281" relname="joint">в научно-исследовательском ядерном университете МИФИ пошли дальше</segment>
+		<segment id="280" parent="281" relname="joint">и угрожают не только отчислением, но и \"хозяйственными работами\".\n\</segment>
+		<segment id="289" parent="297" relname="span">nОтметим, что в минувшую субботу в переписи приняли участие президент Медведев и его супруга, а также чета Путиных.</segment>
+		<segment id="290" parent="295" relname="attribution">Как признался Медведев,</segment>
+		<segment id="291" parent="295" relname="sequence">в 1989 году он сам участвовал в переписи в Ленинграде,</segment>
+		<segment id="292" parent="294" relname="joint">ходил по разным домам</segment>
+		<segment id="293" parent="294" relname="joint">и просил открыть дверь.</segment>
+		<segment id="298" parent="313" relname="attribution">По словам президента,</segment>
+		<segment id="299" parent="313" relname="joint">иногда ему открывали,</segment>
+		<segment id="300" parent="312" relname="joint">иногда сомневались,</segment>
+		<segment id="301" parent="311" relname="span">иногда требовали предъявить документы.</segment>
+		<segment id="302" parent="309" relname="attribution">Как отметил Медведев,</segment>
+		<segment id="303" parent="304" relname="condition">если ему не открывали,</segment>
+		<segment id="304" parent="305" relname="span">он все равно \"добивал\" граждан,</segment>
+		<segment id="306" parent="307" relname="condition">приходя еще раз и настаивая на принятии участия в переписи.\n\nВ ходе переписи Владимира и Людмилы Путиных выяснилось,</segment>
+		<segment id="307" parent="308" relname="span">что глава правительства знает меньше языков, чем его жена.</segment>
+		<segment id="315" parent="316" relname="attribution">По словам премьера,</segment>
+		<segment id="316" parent="317" relname="span">он владеет только немецким языком.</segment>
+		<segment id="318" parent="319" relname="attribution">Его жена сказала,</segment>
+		<segment id="319" parent="320" relname="span">что знает немецкий, испанский и французский языки.</segment>
+		<segment id="321" parent="322" relname="span">На вопрос об источнике средств существования</segment>
+		<segment id="324" parent="327" relname="attribution">премьер ответил:</segment>
+		<segment id="325" parent="327" relname="span">\"Трудовая деятельность, других источников у меня нет\".\n\n\"Сибиряки\" жалуются главе Росстата</segment>
+		<segment id="326" parent="325" relname="elaboration">- их насильно записывают \"русскими\"\n\</segment>
+		<segment id="330" parent="333" relname="attribution">nМежду тем жители Сибири пожаловались главе Росстата Александру Суринову,</segment>
+		<segment id="331" parent="333" relname="span">что переписчики игнорируют их самоназвание \"сибиряки\",</segment>
+		<segment id="332" parent="331" relname="condition">записывая их по умолчанию \"русскими\".</segment>
+		<segment id="335" parent="338" relname="attribution">Сами переписчики признаются,</segment>
+		<segment id="336" parent="338" relname="span">что их на инструктаже предупреждали об \"эльфах\" и \"сибиряках\",</segment>
+		<segment id="337" parent="336" relname="elaboration">которые якобы \"хотят сорвать перепись\".</segment>
+		<segment id="342" parent="343" relname="attribution">Блоггеры же утверждают,</segment>
+		<segment id="343" parent="344" relname="span">что действия сотрудников Росстата попадают под статью уголовного кодекса.</segment>
+		<segment id="345" parent="347" relname="span">Глава Росстата обещал разобраться в этой ситуации,</segment>
+		<segment id="346" parent="345" relname="elaboration">сообщает РИА \"Новый Регион\".\n\nОбитатели России восточнее Уральских гор столкнулись с тем, что их, если позволяют \"условно славянские\" черты лица,</segment>
+		<segment id="348" parent="347" relname="background">автоматически записывают в \"русские\",</segment>
+		<segment id="351" parent="350" relname="attribution">пишет издание.</segment>
+		<segment id="356" parent="394" relname="span">Например, один из жителей Иркутской области пишет в своем сетевом дневнике:</segment>
+		<segment id="357" parent="368" relname="condition">\"Когда я назвал себя сибиряком,</segment>
+		<segment id="358" parent="367" relname="attribution">переписчица ответила</segment>
+		<segment id="359" parent="367" relname="joint">\"такой национальности нет\"</segment>
+		<segment id="360" parent="362" relname="joint">и записала русским.</segment>
+		<segment id="361" parent="362" relname="joint">Заставил ее приписать \"сибиряк\".</segment>
+		<segment id="363" parent="364" relname="condition">Причем \"сибиряк\" она сперва карандашиком приписала</segment>
+		<segment id="364" parent="365" relname="span">- я попросил обвести ручкой\".</segment>
+		<segment id="370" parent="372" relname="span">Таким образом, сибиряку пришлось стать во время переписи \"русским сибиряком\",</segment>
+		<segment id="371" parent="370" relname="concession">хотя он не собирался так делать.\n\nЖителю Братска Владимиру Монахову с трудом удалось настоять на своем,</segment>
+		<segment id="373" parent="372" relname="attribution">о чем он пишет в своем блоге:</segment>
+		<segment id="375" parent="374" relname="attribution">\"Вчера пришла переписчица.</segment>
+		<segment id="377" parent="376" relname="background">На ходу задала вопросы,</segment>
+		<segment id="379" parent="378" relname="background">на ходу получила ответы.</segment>
+		<segment id="381" parent="383" relname="contrast">Пыталась записать в графе национальность - \"русский\",</segment>
+		<segment id="382" parent="383" relname="contrast">даже не спросив меня.</segment>
+		<segment id="385" parent="387" relname="span">Я возмутился</segment>
+		<segment id="386" parent="385" relname="cause-effect">- пишите \"сибиряк\"!</segment>
+		<segment id="388" parent="387" relname="elaboration">\"У нас нет такой национальности\",</segment>
+		<segment id="390" parent="389" relname="attribution">- возразила она.</segment>
+		<segment id="395" parent="394" relname="elaboration">Я настоял на своем.</segment>
+		<segment id="397" parent="400" relname="interpretation-evaluation">Главным доводом было</segment>
+		<segment id="398" parent="400" relname="span">- я же не марсианином записываюсь,</segment>
+		<segment id="399" parent="398" relname="concession">хотя имею права.</segment>
+		<segment id="402" parent="405" relname="attribution">Поправила - сибиряк русский\".\n\nВ письме главе Росстата его авторы указывают,</segment>
+		<segment id="403" parent="405" relname="span">что действия переписчиков подпадают под статью 136 УК \"Дискриминация, то есть нарушение прав, свобод и законных интересов человека и гражданина</segment>
+		<segment id="404" parent="403" relname="condition">в зависимости от его пола, расы, национальности, языка, происхождения, места жительства...\"\n\</segment>
+		<segment id="407" parent="406" relname="attribution">nВ ответе федеральный чиновник, фактически, признал,</segment>
+		<segment id="410" parent="418" relname="span">что действия переписчиков, игнорирующих самоназвания участников акции, не совсем законны:</segment>
+		<segment id="411" parent="413" relname="span">\"Спасибо за сигнал.</segment>
+		<segment id="412" parent="411" relname="interpretation-evaluation">По всем случаям будем разбираться.</segment>
+		<segment id="414" parent="416" relname="span">Хотелось бы,</segment>
+		<segment id="415" parent="414" relname="purpose">чтобы к нам обращались непосредственно люди, которых опрашивали\".\n\</segment>
+		<segment id="420" parent="423" relname="attribution">nИздание отмечает,</segment>
+		<segment id="421" parent="423" relname="span">что название национальности \"сибиряки\" присутствует в утвержденном федеральной государственной службой статистики перечне,</segment>
+		<segment id="422" parent="421" relname="elaboration">где она значится под номером 1266 с кодом 263.\n\nИсточник: https://www.newsru.com/russia/18Oct2010/perepis.html\n</segment>
+		<group id="148" type="span" parent="433" relname="preparation"/>
+		<group id="433" type="span" parent="434" relname="span"/>
+		<group id="163" type="span" parent="432" relname="preparation"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="161" type="multinuc" parent="150" relname="elaboration"/>
+		<group id="160" type="span" parent="161" relname="contrast"/>
+		<group id="154" type="span" parent="160" relname="span"/>
+		<group id="159" type="multinuc" parent="154" relname="elaboration"/>
+		<group id="158" type="multinuc" parent="159" relname="joint"/>
+		<group id="432" type="span" parent="433" relname="span"/>
+		<group id="174" type="span" parent="431" relname="preparation"/>
+		<group id="168" type="multinuc" parent="174" relname="span"/>
+		<group id="167" type="multinuc" parent="168" relname="sequence"/>
+		<group id="173" type="span" parent="168" relname="background"/>
+		<group id="171" type="span" parent="173" relname="span"/>
+		<group id="431" type="multinuc" parent="432" relname="span"/>
+		<group id="193" type="multinuc" parent="431" relname="sequence"/>
+		<group id="177" type="multinuc" parent="193" relname="sequence"/>
+		<group id="192" type="span" parent="193" relname="sequence"/>
+		<group id="186" type="span" parent="192" relname="span"/>
+		<group id="180" type="multinuc" parent="186" relname="span"/>
+		<group id="185" type="multinuc" parent="180" relname="elaboration"/>
+		<group id="184" type="span" parent="185" relname="joint"/>
+		<group id="191" type="multinuc" parent="186" relname="elaboration"/>
+		<group id="189" type="span" parent="191" relname="joint"/>
+		<group id="430" type="span" parent="431" relname="sequence"/>
+		<group id="214" type="multinuc" parent="429" relname="preparation"/>
+		<group id="204" type="multinuc" parent="214" relname="comparison"/>
+		<group id="196" type="multinuc" parent="204" relname="joint"/>
+		<group id="203" type="span" parent="204" relname="joint"/>
+		<group id="202" type="span" parent="203" relname="span"/>
+		<group id="200" type="multinuc" parent="202" relname="span"/>
+		<group id="213" type="multinuc" parent="214" relname="comparison"/>
+		<group id="211" type="span" parent="213" relname="joint"/>
+		<group id="210" type="span" parent="211" relname="span"/>
+		<group id="209" type="span" parent="206" relname="attribution"/>
+		<group id="429" type="multinuc" parent="430" relname="span"/>
+		<group id="251" type="multinuc" parent="429" relname="joint"/>
+		<group id="217" type="span" parent="251" relname="joint"/>
+		<group id="250" type="multinuc" parent="251" relname="joint"/>
+		<group id="228" type="multinuc" parent="250" relname="joint"/>
+		<group id="227" type="span" parent="228" relname="comparison"/>
+		<group id="226" type="span" parent="219" relname="elaboration"/>
+		<group id="225" type="multinuc" parent="226" relname="span"/>
+		<group id="224" type="span" parent="225" relname="comparison"/>
+		<group id="249" type="span" parent="250" relname="joint"/>
+		<group id="248" type="multinuc" parent="249" relname="span"/>
+		<group id="232" type="multinuc" parent="248" relname="joint"/>
+		<group id="247" type="multinuc" parent="248" relname="joint"/>
+		<group id="235" type="span" parent="247" relname="joint"/>
+		<group id="246" type="multinuc" parent="247" relname="joint"/>
+		<group id="245" type="span" parent="246" relname="sequence"/>
+		<group id="244" type="span" parent="237" relname="purpose"/>
+		<group id="243" type="multinuc" parent="244" relname="span"/>
+		<group id="242" type="span" parent="243" relname="sequence"/>
+		<group id="428" type="multinuc" parent="429" relname="joint"/>
+		<group id="288" type="multinuc" parent="428" relname="joint"/>
+		<group id="264" type="span" parent="288" relname="joint"/>
+		<group id="263" type="multinuc" parent="264" relname="span"/>
+		<group id="262" type="multinuc" parent="263" relname="joint"/>
+		<group id="261" type="span" parent="262" relname="joint"/>
+		<group id="260" type="span" parent="255" relname="elaboration"/>
+		<group id="259" type="span" parent="260" relname="span"/>
+		<group id="287" type="multinuc" parent="288" relname="joint"/>
+		<group id="286" type="multinuc" parent="287" relname="comparison"/>
+		<group id="272" type="span" parent="286" relname="contrast"/>
+		<group id="271" type="multinuc" parent="272" relname="span"/>
+		<group id="270" type="span" parent="271" relname="joint"/>
+		<group id="285" type="multinuc" parent="286" relname="contrast"/>
+		<group id="275" type="span" parent="285" relname="contrast"/>
+		<group id="284" type="span" parent="285" relname="contrast"/>
+		<group id="283" type="span" parent="284" relname="span"/>
+		<group id="282" type="multinuc" parent="277" relname="cause-effect"/>
+		<group id="281" type="multinuc" parent="282" relname="contrast"/>
+		<group id="427" type="multinuc" parent="428" relname="joint"/>
+		<group id="355" type="multinuc" parent="427" relname="joint"/>
+		<group id="297" type="span" parent="355" relname="joint"/>
+		<group id="296" type="span" parent="289" relname="elaboration"/>
+		<group id="295" type="multinuc" parent="296" relname="span"/>
+		<group id="294" type="multinuc" parent="295" relname="sequence"/>
+		<group id="354" type="multinuc" parent="355" relname="joint"/>
+		<group id="314" type="span" parent="354" relname="joint"/>
+		<group id="313" type="multinuc" parent="314" relname="span"/>
+		<group id="312" type="multinuc" parent="313" relname="joint"/>
+		<group id="311" type="span" parent="312" relname="joint"/>
+		<group id="310" type="span" parent="301" relname="elaboration"/>
+		<group id="309" type="multinuc" parent="310" relname="span"/>
+		<group id="305" type="span" parent="309" relname="joint"/>
+		<group id="308" type="span" parent="309" relname="joint"/>
+		<group id="353" type="multinuc" parent="354" relname="joint"/>
+		<group id="341" type="multinuc" parent="353" relname="comparison"/>
+		<group id="329" type="multinuc" parent="341" relname="joint"/>
+		<group id="323" type="span" parent="329" relname="joint"/>
+		<group id="317" type="span" parent="323" relname="span"/>
+		<group id="322" type="span" parent="317" relname="elaboration"/>
+		<group id="320" type="span" parent="321" relname="attribution"/>
+		<group id="328" type="span" parent="329" relname="joint"/>
+		<group id="327" type="span" parent="328" relname="span"/>
+		<group id="340" type="multinuc" parent="341" relname="joint"/>
+		<group id="334" type="span" parent="340" relname="joint"/>
+		<group id="333" type="span" parent="334" relname="span"/>
+		<group id="339" type="span" parent="340" relname="joint"/>
+		<group id="338" type="span" parent="339" relname="span"/>
+		<group id="352" type="span" parent="353" relname="comparison"/>
+		<group id="350" type="multinuc" parent="352" relname="span"/>
+		<group id="344" type="span" parent="350" relname="joint"/>
+		<group id="349" type="span" parent="350" relname="joint"/>
+		<group id="347" type="span" parent="349" relname="span"/>
+		<group id="426" type="span" parent="427" relname="joint"/>
+		<group id="396" type="span" parent="425" relname="solutionhood"/>
+		<group id="394" type="span" parent="396" relname="span"/>
+		<group id="393" type="multinuc" parent="356" relname="elaboration"/>
+		<group id="369" type="span" parent="393" relname="sequence"/>
+		<group id="368" type="span" parent="369" relname="span"/>
+		<group id="367" type="multinuc" parent="368" relname="span"/>
+		<group id="366" type="multinuc" parent="367" relname="joint"/>
+		<group id="362" type="multinuc" parent="366" relname="sequence"/>
+		<group id="365" type="span" parent="366" relname="sequence"/>
+		<group id="392" type="span" parent="393" relname="sequence"/>
+		<group id="384" type="span" parent="392" relname="span"/>
+		<group id="380" type="span" parent="383" relname="solutionhood"/>
+		<group id="378" type="span" parent="380" relname="span"/>
+		<group id="376" type="span" parent="378" relname="span"/>
+		<group id="374" type="span" parent="376" relname="span"/>
+		<group id="372" type="span" parent="374" relname="span"/>
+		<group id="383" type="multinuc" parent="384" relname="span"/>
+		<group id="391" type="span" parent="384" relname="interpretation-evaluation"/>
+		<group id="389" type="span" parent="391" relname="span"/>
+		<group id="387" type="span" parent="389" relname="span"/>
+		<group id="425" type="multinuc" parent="426" relname="span"/>
+		<group id="419" type="span" parent="425" relname="comparison"/>
+		<group id="409" type="span" parent="418" relname="cause-effect"/>
+		<group id="401" type="span" parent="409" relname="span"/>
+		<group id="400" type="span" parent="401" relname="span"/>
+		<group id="408" type="span" parent="401" relname="elaboration"/>
+		<group id="406" type="span" parent="408" relname="span"/>
+		<group id="405" type="span" parent="406" relname="span"/>
+		<group id="418" type="span" parent="419" relname="span"/>
+		<group id="417" type="multinuc" parent="410" relname="elaboration"/>
+		<group id="413" type="span" parent="417" relname="joint"/>
+		<group id="416" type="span" parent="417" relname="joint"/>
+		<group id="424" type="span" parent="425" relname="comparison"/>
+		<group id="423" type="span" parent="424" relname="span"/>
+		<group id="434" type="span"/>
+	</body>
+</rst>

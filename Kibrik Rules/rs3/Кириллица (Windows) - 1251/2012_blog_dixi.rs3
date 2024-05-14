@@ -1,0 +1,53 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="24" relname="span">Илья Варламов: \"Останутся на своей родине в России.</segment>
+		<segment id="21" parent="23" relname="joint">Все\"\n\n\"Мишу в детстве забрали из пьющей семьи</segment>
+		<segment id="22" parent="23" relname="joint">и зачислили сначала в коррекционный интернат, а затем — в интернат для умственно отсталых.</segment>
+		<segment id="25" parent="31" relname="span">В интернат для умственно отсталых его отправили за плохое поведение.</segment>
+		<segment id="26" parent="30" relname="joint">Миша не застал школу,</segment>
+		<segment id="27" parent="29" relname="joint">и остается загадкой, как он научился читать, писать</segment>
+		<segment id="28" parent="29" relname="joint">и считать.</segment>
+		<segment id="32" parent="40" relname="sequence">В 18 лет он попал в психо-неврологический интернат.</segment>
+		<segment id="33" parent="37" relname="joint">Ему повезло,</segment>
+		<segment id="34" parent="36" relname="joint">его заметили</segment>
+		<segment id="35" parent="36" relname="joint">и спасли волонтеры,</segment>
+		<segment id="38" parent="39" relname="span">иначе он так бы и закончил свою жизнь в ПНИ.</segment>
+		<segment id="41" parent="43" relname="span">Государство выделило ему квартиру,</segment>
+		<segment id="42" parent="41" relname="elaboration">которая больше походила на притон бомжей, чем на жилье.</segment>
+		<segment id="44" parent="48" relname="joint">Не было ни окон, ни дверей,</segment>
+		<segment id="45" parent="47" relname="span">полностью разрушенное помещение 50 метров,</segment>
+		<segment id="46" parent="45" relname="elaboration">в котором приписано 8 человек.</segment>
+		<segment id="49" parent="51" relname="span">Все 20 лет государство тщательно заботилось,</segment>
+		<segment id="50" parent="49" relname="purpose">чтобы в этой жизни Миши не было никаких шансов.\"\n\nИсточник: https://www.newsru.com/blog/22Dec2012/dixi.html\n</segment>
+		<group id="24" type="span" parent="55" relname="preparation"/>
+		<group id="23" type="multinuc" parent="20" relname="elaboration"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="31" type="span" parent="55" relname="joint"/>
+		<group id="30" type="multinuc" parent="25" relname="elaboration"/>
+		<group id="29" type="multinuc" parent="30" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="40" type="multinuc" parent="54" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="sequence"/>
+		<group id="37" type="multinuc" parent="38" relname="cause-effect"/>
+		<group id="36" type="multinuc" parent="37" relname="joint"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="43" type="span" parent="53" relname="span"/>
+		<group id="52" type="span" parent="43" relname="elaboration"/>
+		<group id="48" type="multinuc" parent="52" relname="span"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="51" type="span" parent="48" relname="interpretation-evaluation"/>
+		<group id="56" type="span"/>
+	</body>
+</rst>

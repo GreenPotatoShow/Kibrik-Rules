@@ -1,0 +1,62 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="26" relname="attribution">Президент UFC предложил</segment>
+		<segment id="24" parent="26" relname="span">вывести бойцов организации на улицы США</segment>
+		<segment id="25" parent="24" relname="purpose">для наведения</segment>
+		<segment id="28" parent="30" relname="span">порядка\n\nПрезидент Абсолютного бойцовского чемпионата Дэйна Уайт выступил с идеей прибегнуть к помощи бойцов организации</segment>
+		<segment id="29" parent="28" relname="purpose">для наведения порядка на улицах США во время протестов.</segment>
+		<segment id="32" parent="34" relname="joint">О своем предложении он рассказал в подкасте актера и комика Стивена Гловера,</segment>
+		<segment id="33" parent="34" relname="joint">также известного как Стив-О.\n\n\"Видели видео, на котором Джон Джонс отбирает баллончик с краской у парней?</segment>
+		<segment id="36" parent="40" relname="span">Мне кажется, они чуть не наложили в штаны.</segment>
+		<segment id="37" parent="39" relname="joint">Думаю, может, мне стоит отправить бойцов UFC на улицу</segment>
+		<segment id="38" parent="39" relname="joint">и остановить этот беспредел\",</segment>
+		<segment id="41" parent="40" relname="attribution">- сказал Дэйна Уайт.\n\</segment>
+		<segment id="44" parent="46" relname="span">nНа днях чемпион UFC в полутяжелом весе Джон Джонс выложил видео в Instagram,</segment>
+		<segment id="45" parent="44" relname="elaboration">на котором он отбирает аэрозольный баллончик с краской у протестующих,</segment>
+		<segment id="47" parent="51" relname="joint">в подписи к материалу он достаточно грубо призывает</segment>
+		<segment id="48" parent="50" relname="span">участников акций протеста прекратить беспорядки</segment>
+		<segment id="49" parent="48" relname="cause-effect">.\n\nДжонс занимает первое место в рейтинге UFC вне зависимости от весовой категории.</segment>
+		<segment id="53" parent="61" relname="span">На улицах США вспыхнули массовые беспорядки после инцидента в Миннеаполисе.</segment>
+		<segment id="54" parent="56" relname="span">Причиной волнений послужила смерть афроамериканца Джорджа Флойда,</segment>
+		<segment id="55" parent="54" relname="elaboration">против которого один из офицеров удушающий прием.</segment>
+		<segment id="57" parent="59" relname="sequence">Флойд несколько раз жаловался на невозможность дышать,</segment>
+		<segment id="58" parent="59" relname="sequence">а затем потерял сознание.</segment>
+		<segment id="62" parent="63" relname="span">В результате асфиксии Флойд умер в госпитале.\n\nИсточник: https://www.newsru.com/sport/06Jun2020/ufc.html\n</segment>
+		<group id="43" type="span" parent="65" relname="joint"/>
+		<group id="35" type="multinuc" parent="42" relname="solutionhood"/>
+		<group id="31" type="multinuc" parent="35" relname="joint"/>
+		<group id="27" type="span" parent="31" relname="joint"/>
+		<group id="26" type="span" parent="27" relname="span"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="34" type="multinuc" parent="35" relname="joint"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="40" type="span" parent="42" relname="span"/>
+		<group id="39" type="multinuc" parent="36" relname="interpretation-evaluation"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="52" type="multinuc" parent="64" relname="joint"/>
+		<group id="46" type="span" parent="52" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="61" type="span" parent="62" relname="cause-effect"/>
+		<group id="60" type="multinuc" parent="53" relname="cause-effect"/>
+		<group id="56" type="span" parent="60" relname="joint"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="65" type="multinuc"/>
+	</body>
+</rst>

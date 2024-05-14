@@ -1,0 +1,55 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="22" relname="span">В Москве появится один из первых в мире вращающихся небоскребов\n\nОдин из первых в мире небоскребов с меняющейся конфигурацией будет возведен в Москве в ближайшие два года,</segment>
+		<segment id="21" parent="20" relname="attribution">сообщил один из авторов проекта, итальянский архитектор Дэвид Фишер.</segment>
+		<segment id="23" parent="26" relname="attribution">На состоявшейся в Нью-Йорке презентации Фишер рассказал,</segment>
+		<segment id="24" parent="26" relname="comparison">что несколько ранее - через 20 месяцев - первая в мире башня с вращающимися этажами появится в эмирате Дубай,</segment>
+		<segment id="25" parent="26" relname="comparison">а до конца 2010 года 70-ти этажное подвижное здание высотой 400 метров будет сдано в эксплуатацию в Московском Сити в пределах третьего транспортного кольца.</segment>
+		<segment id="28" parent="27" relname="elaboration">Об этом информирует ИТАР-ТАСС.\n\nСейчас московская башня находится в заключительной стадии проектирования и координации.</segment>
+		<segment id="30" parent="54" relname="span">Ее предварительную сборку из заранее изготовленных компонентов планируется начать в четвертом квартале 2008 года.</segment>
+		<segment id="31" parent="39" relname="same-unit">Правда,</segment>
+		<segment id="32" parent="37" relname="attribution">по словам Фишера,</segment>
+		<segment id="33" parent="35" relname="span">продажа квартир и офисов в будущем небоскребе,</segment>
+		<segment id="34" parent="33" relname="background">который вознесется над Москва-рекой,</segment>
+		<segment id="36" parent="37" relname="same-unit">уже начата.\n\</segment>
+		<segment id="40" parent="52" relname="span">nНапомним, Дэвид Фишер разработал для Объединенных арабских эмиратов проект многоэтажного здания, в котором разместятся отель, квартиры и офисы.</segment>
+		<segment id="41" parent="43" relname="span">Особенность этого здания заключается в том, что все 68 этажей в нем будут вращаться на 360 градусов независимо друг от друга,</segment>
+		<segment id="42" parent="41" relname="purpose">используя для этого энергию ветра.\n\nПо проекту здание будет производить из ветра в 10 раз больше электричества,</segment>
+		<segment id="44" parent="48" relname="span">чем необходимо ему самому.\n\nОбъясняя концепцию своего проекта,</segment>
+		<segment id="45" parent="47" relname="joint">Фишер сравнивает будущий небоскреб с чувственной танцовщицей,</segment>
+		<segment id="46" parent="47" relname="joint">бесконечно танцующей свой танец живота.</segment>
+		<segment id="50" parent="51" relname="joint">Он хотел дать зданию \"четвертое измерение, у которого нет формы\".\n\nСвое произведение архитектурного искусства он решил назвать \"Башней да Винчи\".\n\nИсточник: https://www.newsru.com/realty/25Jun2008/turn.html\n</segment>
+		<group id="22" type="span" parent="55" relname="preparation"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="29" type="span" parent="55" relname="joint"/>
+		<group id="27" type="span" parent="29" relname="span"/>
+		<group id="26" type="multinuc" parent="27" relname="span"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="53" type="multinuc" parent="30" relname="elaboration"/>
+		<group id="39" type="multinuc" parent="53" relname="joint"/>
+		<group id="38" type="span" parent="39" relname="same-unit"/>
+		<group id="37" type="multinuc" parent="38" relname="span"/>
+		<group id="35" type="span" parent="37" relname="same-unit"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="51" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="49" type="multinuc" parent="51" relname="joint"/>
+		<group id="43" type="span" parent="49" relname="comparison"/>
+		<group id="48" type="span" parent="49" relname="comparison"/>
+		<group id="47" type="multinuc" parent="44" relname="elaboration"/>
+		<group id="56" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,96 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="40" parent="43" relname="cause-effect">Медведев сделал обязательной локализацию систем бронирования авиабилетов,</segment>
+		<segment id="41" parent="43" relname="span">что приведет к их подорожанию\n\nПремьер-министр России Дмитрий Медведев подписал постановление,</segment>
+		<segment id="42" parent="41" relname="elaboration">обязывающее российские авиакомпании использовать системы бронирования и продаж авиабилетов с серверами, размещенными на территории РФ,</segment>
+		<segment id="45" parent="44" relname="attribution">сообщили \"Интерфаксу\" в пресс-службе правительства.\n\nСейчас большинство авиакомпаний РФ пользуются услугами иностранных провайдеров систем бронирования:</segment>
+		<segment id="47" parent="55" relname="joint">\"Аэрофлот\" работает с американской Sabre, S7 и \"Уральские авиалинии\" - с испанской Amadeus, \"Победа\" - с американской Navitair.</segment>
+		<segment id="48" parent="50" relname="span">Исключение - \"ЮТэйр\", работающая с российской \"Сирена-трэвел\", и авиакомпания \"Азимут\",</segment>
+		<segment id="49" parent="48" relname="elaboration">провайдером которой является Национальная система бронирования</segment>
+		<segment id="51" parent="53" relname="span">(разработана \"Ростехом\" совместно со структурами владельцев аэропорта \"Внуково\").\n\nНесколько лет назад президент Владимир Путин поручил подготовить изменения в законодательство таким образом,</segment>
+		<segment id="52" parent="51" relname="purpose">чтобы российские перевозчики могли работать только с теми провайдерами, которые хранят персональные данные пассажиров на серверах в РФ.</segment>
+		<segment id="57" parent="59" relname="joint">Подразумевалось, что это обеспечит конфиденциальность данных</segment>
+		<segment id="58" parent="59" relname="joint">и помешает незаконному вмешательству в области транспортной безопасности.\n\nНа деле беспокойство вызывает то, что через системы бронирования иностранные спецслужбы могут узнавать о передвижениях россиян, в том числе чиновников и военнослужащих,</segment>
+		<segment id="60" parent="61" relname="attribution">объяснил РБК источник, близкий к правительству.\n\nПо оценке экспертов,</segment>
+		<segment id="61" parent="62" relname="span">перенос систем может обойтись иностранным компаниям в сотни миллионов долларов.</segment>
+		<segment id="64" parent="68" relname="span">\"Архитектура глобальных иностранных систем не позволяет разделять хосты.</segment>
+		<segment id="65" parent="67" relname="joint">Они сделаны как единый центр по обработке заказов авиакомпаний со всего мира,</segment>
+		<segment id="66" parent="67" relname="joint">и продублировать локальную версию системы может быть достаточно затратно\",</segment>
+		<segment id="69" parent="70" relname="attribution">- говорил директор по экономике и финансам компании ТАИС (разработчик отечественной системы бронирования НСБ) Александр Сизинцев.\n\nАвиакомпания S7 также предупреждала,</segment>
+		<segment id="70" parent="71" relname="span">что ее эти изменения поставят на грань остановки.</segment>
+		<segment id="73" parent="77" relname="joint">Компания участвует в глобальном альянсе One World,</segment>
+		<segment id="74" parent="76" relname="span">и у российских систем нет необходимого функционала</segment>
+		<segment id="75" parent="74" relname="purpose">для работы с системой альянса.</segment>
+		<segment id="78" parent="77" relname="elaboration">С той же проблемой столкнется \"Аэрофлот\", который входит в альянс Sky Team.</segment>
+		<segment id="80" parent="82" relname="contrast">В теории российские системы можно успеть доработать.</segment>
+		<segment id="81" parent="82" relname="contrast">Но сам переход тоже потребует времени и денег.</segment>
+		<segment id="83" parent="89" relname="comparison">Смена системы бронирования занимает до полутора лет,</segment>
+		<segment id="84" parent="88" relname="same-unit">в 2004 году \"Аэрофлот\",</segment>
+		<segment id="85" parent="86" relname="cause-effect">перевозивший тогда в четыре раза меньше пассажиров,</segment>
+		<segment id="86" parent="87" relname="span">потратил на переход на Sabre 15 млн долларов.\n\nПерестраиваться придется и агрегаторам.</segment>
+		<segment id="90" parent="94" relname="contrast">Например, серверы OneTwoTrip расположены в России,</segment>
+		<segment id="91" parent="93" relname="joint">но сам агрегатор работает со всеми доступными системами бронирования, в том числе с иностранными,</segment>
+		<segment id="92" parent="93" relname="joint">а будет - с теми, кто подчинится законодательству.</segment>
+		<segment id="95" parent="97" relname="contrast">Платить за все это придется авиапассажирам.\n\nПродажи авиабилетов вряд ли встанут,</segment>
+		<segment id="96" parent="97" relname="contrast">но свои расходы авиакомпании зашьют в стоимость билетов</segment>
+		<segment id="98" parent="100" relname="span">- об этом говорит даже представитель Utair,</segment>
+		<segment id="99" parent="98" relname="elaboration">которая пользуется услугами российской системы бронирования.</segment>
+		<segment id="102" parent="106" relname="joint">Отрасль - на грани рентабельности,</segment>
+		<segment id="103" parent="105" relname="restatement">рост расходов на убыточные внутренние перевозки</segment>
+		<segment id="104" parent="105" relname="restatement">может стать для авиакомпаний критичным,</segment>
+		<segment id="115" parent="114" relname="attribution">пишет The Bell.\n\nИсточник: https://www.newsru.com/russia/01Aug2019/medvedavia.html\n</segment>
+		<group id="114" type="multinuc" parent="116" relname="span"/>
+		<group id="56" type="multinuc" parent="114" relname="joint"/>
+		<group id="46" type="span" parent="56" relname="joint"/>
+		<group id="44" type="span" parent="46" relname="span"/>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="50" type="span" parent="54" relname="span"/>
+		<group id="53" type="span" parent="50" relname="elaboration"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="63" type="multinuc" parent="113" relname="joint"/>
+		<group id="59" type="multinuc" parent="63" relname="joint"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="112" type="multinuc" parent="113" relname="joint"/>
+		<group id="72" type="span" parent="112" relname="joint"/>
+		<group id="68" type="span" parent="72" relname="span"/>
+		<group id="67" type="multinuc" parent="64" relname="elaboration"/>
+		<group id="71" type="span" parent="68" relname="attribution"/>
+		<group id="111" type="multinuc" parent="112" relname="joint"/>
+		<group id="79" type="span" parent="111" relname="joint"/>
+		<group id="77" type="multinuc" parent="79" relname="span"/>
+		<group id="76" type="span" parent="77" relname="joint"/>
+		<group id="110" type="multinuc" parent="111" relname="joint"/>
+		<group id="82" type="multinuc" parent="110" relname="joint"/>
+		<group id="109" type="span" parent="110" relname="joint"/>
+		<group id="89" type="multinuc" parent="109" relname="span"/>
+		<group id="88" type="multinuc" parent="89" relname="comparison"/>
+		<group id="87" type="span" parent="88" relname="same-unit"/>
+		<group id="108" type="multinuc" parent="89" relname="elaboration"/>
+		<group id="94" type="multinuc" parent="108" relname="joint"/>
+		<group id="93" type="multinuc" parent="94" relname="contrast"/>
+		<group id="107" type="span" parent="108" relname="joint"/>
+		<group id="101" type="span" parent="107" relname="span"/>
+		<group id="97" type="multinuc" parent="101" relname="span"/>
+		<group id="100" type="span" parent="97" relname="attribution"/>
+		<group id="106" type="multinuc" parent="101" relname="elaboration"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="116" type="span"/>
+	</body>
+</rst>

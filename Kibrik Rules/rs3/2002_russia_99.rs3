@@ -1,0 +1,25 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="8" parent="10" relname="span">В Североморске опознано тело 99-го подводника \"Курска\"\n\nВ Североморске опознано тело капитан-лейтенанта Михаила Родионова.</segment>
+		<segment id="9" parent="8" relname="attribution">Об этом в понедельник сообщил военный прокурор Северного флота генерал-майор Владимир Мулов.</segment>
+		<segment id="11" parent="19" relname="span">Он работал на подлодке командиром вычислительной группы.</segment>
+		<segment id="12" parent="18" relname="sequence">На Северный флот был призван из Севастополя.\n\nВ понедельник также было опознано тело старшего лейтенанта Вадима Бубнива.</segment>
+		<segment id="13" parent="17" relname="sequence">Инженер электронавигационной части, 25-летний офицер был призван на Северный флот из Челябинской области.</segment>
+		<segment id="14" parent="16" relname="span">Он закончил Высшее военно-морское училище имени Фрунзе (Санкт-Петербург).\n\nТаким образом, в настоящее время опознаны 99 подводников атомной подводной лодки \"Курск\" из 118, которые в момент аварии находились на ее борту,</segment>
+		<segment id="15" parent="14" relname="attribution">передает \"Интерфакс\".\n\nИсточник: https://www.newsru.com/russia/04Mar2002/99.html\n</segment>
+		<group id="10" type="span" parent="20" relname="sequence"/>
+		<group id="19" type="span" parent="20" relname="sequence"/>
+		<group id="18" type="multinuc" parent="11" relname="elaboration"/>
+		<group id="17" type="multinuc" parent="18" relname="sequence"/>
+		<group id="16" type="span" parent="17" relname="sequence"/>
+		<group id="20" type="multinuc"/>
+	</body>
+</rst>

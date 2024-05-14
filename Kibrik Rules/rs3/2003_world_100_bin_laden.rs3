@@ -1,0 +1,41 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="38" relname="span">Война в Ираке \"породит 100 новых бен Ладенов\",</segment>
+		<segment id="15" parent="24" relname="attribution">считает президент Египта\n\nПрезидент Египта Хосни Мубарак заявил в понедельник,</segment>
+		<segment id="16" parent="18" relname="span">что возглавляемая США война в Ираке спровоцирует появление \"сотни новых бен Ладенов\",</segment>
+		<segment id="17" parent="16" relname="elaboration">привлекая все больше мусульман в ряды настроенных против Запада боевиков.\n\n\"Эта война,</segment>
+		<segment id="19" parent="21" relname="joint">когда окончится</segment>
+		<segment id="20" parent="21" relname="joint">и если окончится,</segment>
+		<segment id="22" parent="23" relname="span">будет иметь ужасные последствия\",</segment>
+		<segment id="26" parent="29" relname="attribution">- заявил Мубарак,</segment>
+		<segment id="27" parent="29" relname="joint">выступая перед египетскими солдатами в городе Суэц</segment>
+		<segment id="28" parent="29" relname="joint">.\n\n\"Вместо одного бен Ладена нам придется иметь дело со 100 бен Ладенами\",</segment>
+		<segment id="32" parent="31" relname="attribution">- добавил президент Египта,</segment>
+		<segment id="34" parent="35" relname="attribution">сообщает Reuters.\n\</segment>
+		<segment id="35" parent="36" relname="span">nНапомним, что Египет, как и большинство других арабских стран, официально протестует против войны в Ираке.\n\nИсточник: https://www.newsru.com/world/31Mar2003/100_bin_laden.html\n</segment>
+		<group id="37" type="multinuc" parent="14" relname="elaboration"/>
+		<group id="33" type="span" parent="37" relname="comparison"/>
+		<group id="31" type="span" parent="33" relname="span"/>
+		<group id="25" type="span" parent="31" relname="span"/>
+		<group id="24" type="multinuc" parent="25" relname="span"/>
+		<group id="18" type="span" parent="24" relname="same-unit"/>
+		<group id="23" type="span" parent="24" relname="same-unit"/>
+		<group id="21" type="multinuc" parent="22" relname="condition"/>
+		<group id="30" type="span" parent="25" relname="attribution"/>
+		<group id="29" type="multinuc" parent="30" relname="span"/>
+		<group id="36" type="span" parent="37" relname="comparison"/>
+		<group id="38" type="span"/>
+	</body>
+</rst>

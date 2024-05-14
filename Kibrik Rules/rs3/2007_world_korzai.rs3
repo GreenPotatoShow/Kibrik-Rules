@@ -1,0 +1,52 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="restatement" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="span">Карзай: правительство Афганистана и талибы все охотнее идут на переговоры\n\nЛидеры движения \"Талибан\" все активней и чаще входят в контакт с афганским правительством в поисках путей для заключения мира,</segment>
+		<segment id="20" parent="19" relname="attribution">заявил в Кабуле после встречи с генсеком НАТО Яап де Хооп Схеффером президент Афганистана Хамид Карзай,</segment>
+		<segment id="22" parent="23" relname="joint">передает \"Интерфакс\".\n\n\"Растет число контактов с нами со стороны Талибана как в Афганистане, так и в Пакистане.</segment>
+		<segment id="24" parent="23" relname="elaboration">Их число особенно возросло за последние семь-восемь месяцев.</segment>
+		<segment id="26" parent="28" relname="span">Только на этой неделе у меня было более пяти контактов с руководителями Талибана,</segment>
+		<segment id="27" parent="26" relname="elaboration">которые хотят выяснить, могут ли они вернуться в Афганистан\",</segment>
+		<segment id="29" parent="28" relname="attribution">- сообщил президент</segment>
+		<segment id="31" parent="38" relname="attribution">.\n\nАфганское руководство и командование войск западной коалиции в Афганистане признают,</segment>
+		<segment id="32" parent="33" relname="purpose">что для того, чтобы положить конец вооруженным действиям талибов,</segment>
+		<segment id="33" parent="34" relname="span">переговоры необходимы,</segment>
+		<segment id="35" parent="37" relname="restatement">но проводить их надо с позиции силы,</segment>
+		<segment id="36" parent="37" relname="restatement">отмечают наблюдатели.\n\n\"Мы готовы к переговорам с теми талибами, которые не входят в \"Аль-Каиду\" и террористическую сеть\",</segment>
+		<segment id="40" parent="39" relname="attribution">- подчеркнул Карзай.\n\</segment>
+		<segment id="44" parent="46" relname="span">nС инициативой возобновить контакты с исламистами,</segment>
+		<segment id="45" parent="44" relname="elaboration">которые могли бы положить конец кровопролитию,</segment>
+		<segment id="47" parent="46" relname="elaboration">Карзай выступил в начале сентября.</segment>
+		<segment id="49" parent="51" relname="joint">Он не исключил возможности личной встречи с лидером \"Талибан\", муллой Мохаммадом Омаром, а также предоставления движению постов в правительстве в обмен на мир.</segment>
+		<segment id="50" parent="51" relname="joint">Идею проведения мирных переговоров поддержало и представительство ООН в Кабуле.\n\nИсточник: https://www.newsru.com/world/23Nov2007/korzai.html\n</segment>
+		<group id="43" type="span" parent="53" relname="joint"/>
+		<group id="25" type="span" parent="42" relname="preparation"/>
+		<group id="23" type="multinuc" parent="25" relname="span"/>
+		<group id="21" type="span" parent="23" relname="joint"/>
+		<group id="42" type="multinuc" parent="43" relname="span"/>
+		<group id="30" type="span" parent="42" relname="joint"/>
+		<group id="28" type="span" parent="30" relname="span"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="39" type="span" parent="41" relname="span"/>
+		<group id="38" type="multinuc" parent="39" relname="span"/>
+		<group id="34" type="span" parent="38" relname="contrast"/>
+		<group id="37" type="multinuc" parent="38" relname="contrast"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="48" type="span" parent="52" relname="joint"/>
+		<group id="46" type="span" parent="48" relname="span"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

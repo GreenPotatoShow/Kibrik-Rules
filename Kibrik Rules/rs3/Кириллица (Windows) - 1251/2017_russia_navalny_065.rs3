@@ -1,0 +1,50 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="20" relname="sequence">Навальный выразил уверенность в победе над Путиным,</segment>
+		<segment id="19" parent="20" relname="sequence">если выборы будут честными\n\nОппозиционный политик, основатель Фонда борьбы с коррупцией (ФБК) Алексей Навальный дал свое первое интервью с момента официального старта президентской предвыборной кампании в России.</segment>
+		<segment id="21" parent="24" relname="attribution">В беседе с агентством AP</segment>
+		<segment id="22" parent="23" relname="attribution">оппозиционер выразил уверенность,</segment>
+		<segment id="23" parent="24" relname="span">что одержал бы победу над действующим российским лидером Владимиром Путиным,</segment>
+		<segment id="26" parent="33" relname="condition">если бы выборы президента в РФ были справедливыми.\n\nВместе с тем Навальный сказал,</segment>
+		<segment id="27" parent="29" relname="span">что не может победить в этой гонке до тех пор,</segment>
+		<segment id="28" parent="27" relname="condition">пока Кремль контролирует все, что происходит на телевидении в России,</segment>
+		<segment id="32" parent="33" relname="span">откуда о новостях узнают большинство россиян.\n\</segment>
+		<segment id="37" parent="41" relname="span">nКак ранее неоднократно заявляли в Центризбиркоме РФ, Навальный</segment>
+		<segment id="38" parent="39" relname="cause-effect">из-за неснятой судимости</segment>
+		<segment id="39" parent="40" relname="span">за тяжкое преступление не сможет участвовать в выборах президента РФ в 2018 году.</segment>
+		<segment id="42" parent="47" relname="attribution">Тем не менее оппозиционер сообщил в день официального старта предвыборной кампании,</segment>
+		<segment id="43" parent="45" relname="span">что в течение недели собирается подать заявление в ЦИК</segment>
+		<segment id="44" parent="43" relname="purpose">для регистрации в качестве кандидата в президенты.\n\nВ свою очередь, глава Центральной избирательной комиссии Элла Памфилова пообещала,</segment>
+		<segment id="46" parent="45" relname="background">что возглавляемое ею ведомство рассмотрит документы всех претендентов на президентский пост.\n\nИсточник: https://www.newsru.com/russia/18Dec2017/navalny.html\n</segment>
+		<group id="36" type="multinuc" parent="50" relname="span"/>
+		<group id="20" type="multinuc" parent="36" relname="joint"/>
+		<group id="35" type="multinuc" parent="36" relname="joint"/>
+		<group id="25" type="span" parent="35" relname="joint"/>
+		<group id="24" type="span" parent="25" relname="span"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="29" type="span" parent="32" relname="cause-effect"/>
+		<group id="49" type="multinuc" parent="36" relname="background"/>
+		<group id="41" type="span" parent="49" relname="contrast"/>
+		<group id="40" type="span" parent="37" relname="cause-effect"/>
+		<group id="48" type="span" parent="49" relname="contrast"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

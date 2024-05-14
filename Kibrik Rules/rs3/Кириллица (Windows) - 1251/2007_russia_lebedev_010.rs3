@@ -1,0 +1,72 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="29" relname="joint">Читинский облсуд отклонил кассацию прокуратуры,</segment>
+		<segment id="28" parent="29" relname="joint">касающуюся жалобы Платона Лебедева\n\nЧитинский областной суд отклонил во вторник кассацию прокуратуры на решение Ингодинского районного суда Читы по жалобе бывшего главы МФО МЕНАТЕП Платона Лебедева на следователя Генпрокуратуры.</segment>
+		<segment id="30" parent="32" relname="span">\"Судебная коллегия по уголовным делам указала на необоснованность кассационного представления и надуманность аргументов\",</segment>
+		<segment id="31" parent="30" relname="attribution">- сообщил агентству \"Интерфакс\" адвокат Лебедева Владимир Краснов.\n\nТаким образом, решение суда первой инстанции подтверждено в Читинском областном суде.\n\</segment>
+		<segment id="34" parent="38" relname="sequence">nНапомним, ранее прокуратура в кассационном порядке опротестовывала решение Ингодинского районного суда,</segment>
+		<segment id="35" parent="36" relname="attribution">удовлетворившего 14 февраля жалобу бывшего главы МФО МЕНАТЕП Лебедева о признании незаконным постановление следователя Генеральной прокуратуры Салавата Каримова об отказе запросить документы, подтверждающие алиби Лебедева.\n\nРанее другой адвокат Лебедева Владимир Краснов сообщал,</segment>
+		<segment id="36" parent="37" relname="span">что его подзащитный добивается от Генеральной прокуратуры предоставления из различных учреждений официальных документов, которые обеспечивают его алиби.</segment>
+		<segment id="39" parent="43" relname="span">\"Лебедев поднимал вопрос о предоставлении алиби и на предыдущих процессах,</segment>
+		<segment id="40" parent="42" relname="span">потому как в приговоре написано, что он в Москве сделал то-то,</segment>
+		<segment id="41" parent="40" relname="concession">хотя в этот день Лебедев находился в Германии на операционном столе под общим наркозом, где ему делали операцию на горле\",</segment>
+		<segment id="44" parent="43" relname="attribution">- сказал Краснов</segment>
+		<segment id="47" parent="48" relname="attribution">.\n\nРанее источник, близкий к следствию, сообщал,</segment>
+		<segment id="48" parent="49" relname="span">что следствие по новому уголовному делу в отношении акционеров НК ЮКОС Михаила Ходорковского и Лебедева будет завершено в сжатые сроки - в течение месяца.</segment>
+		<segment id="50" parent="55" relname="attribution">По словам источника,</segment>
+		<segment id="51" parent="55" relname="span">значительная часть следственных действий по сбору доказательств уже проведена.\n\nЛебедев и Ходорковский в середине декабря 2006 года были этапированы в следственный изолятор Читы из колонии,</segment>
+		<segment id="52" parent="54" relname="span">где они отбывали восьмилетний срок наказания,</segment>
+		<segment id="53" parent="52" relname="purpose">для проведения следственных действий по новому уголовному делу</segment>
+		<segment id="57" parent="61" relname="joint">.\n\n7 февраля районный Ингодинский суд Читы избрал Ходорковскому и Лебедеву меру пресечения в виде содержания в читинском следственном изоляторе до 30 марта на весь ход предварительного следствия по новому уголовному делу в отношении бывших руководителей ЮКОСа.\n\</segment>
+		<segment id="58" parent="59" relname="condition">nЕсли суд по новому делу признает Ходорковского и Лебедева виновными,</segment>
+		<segment id="59" parent="60" relname="span">то им могут добавить еще по 10-15 лет лишения свободы.</segment>
+		<segment id="62" parent="65" relname="attribution">В Генпрокуратуре решили,</segment>
+		<segment id="63" parent="65" relname="span">что статья 199 УК \"Уклонение от налогообложения юридического лица\" - слишком легкая для заключенных Ходорковского и Лебедева,</segment>
+		<segment id="64" parent="63" relname="cause-effect">ведь по ней чаще всего выносят \"условные\" приговоры или ограничиваются штрафами,</segment>
+		<segment id="67" parent="68" relname="span">поэтому в постановлении, подписанном старшим следователем по особо важным делам Салаватом Каримовым,</segment>
+		<segment id="69" parent="71" relname="span">обоим \"юкосовцам\" вменяется \"тяжкая\" 160-я статья УК (\"Присвоение вверенного имущества\", до 10 лет заключения) и \"особо тяжкая\" 174-я, прим. 1 ч. 4</segment>
+		<segment id="70" parent="69" relname="elaboration">(\"Легализация преступно нажитых средств организованной группой\", наказывается сроком от 10 до 15 лет лишения свободы).\n\nИсточник: https://www.newsru.com/russia/13Mar2007/lebedev.html\n</segment>
+		<group id="33" type="span" parent="76" relname="preparation"/>
+		<group id="29" type="multinuc" parent="32" relname="preparation"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="46" type="span" parent="76" relname="joint"/>
+		<group id="38" type="multinuc" parent="46" relname="span"/>
+		<group id="37" type="span" parent="38" relname="sequence"/>
+		<group id="45" type="span" parent="38" relname="interpretation-evaluation"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="42" type="span" parent="39" relname="cause-effect"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="49" type="span" parent="75" relname="joint"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="56" type="span" parent="74" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="54" type="span" parent="51" relname="elaboration"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="61" type="multinuc" parent="73" relname="joint"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="68" type="span" parent="72" relname="joint"/>
+		<group id="66" type="span" parent="67" relname="cause-effect"/>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="77" type="span"/>
+	</body>
+</rst>

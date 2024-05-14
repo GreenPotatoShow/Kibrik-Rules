@@ -1,0 +1,43 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="23" relname="span">Прокуратура пытается ликвидировать Национал-большевистскую партию Лимонова\n\nМосковская областная прокуратура требует ликвидировать Национал-большевистскую партию (НБП) в связи с нарушением закона о политических партиях.\n\n17 июня в Мособлсуде будет рассмотрен иск областной прокуратуры \"О ликвидации НБП как политической организации\",</segment>
+		<segment id="16" parent="21" relname="attribution">сообщил \"Интерфаксу\" в четверг пресс-секретарь НБП Александр Аверин.\n\nОн отметил,</segment>
+		<segment id="17" parent="21" relname="joint">что \"первое заседание на данному делу прошло 22 апреля,</segment>
+		<segment id="18" parent="20" relname="span">а намеченное на сегодня слушание было перенесено в связи с отпуском адвоката Сергея Беляка,</segment>
+		<segment id="19" parent="18" relname="elaboration">защищающего в суде интересы партии\".\n\</segment>
+		<segment id="24" parent="29" relname="attribution">nПо словам Аверина,</segment>
+		<segment id="25" parent="26" relname="attribution">\"в иске указано,</segment>
+		<segment id="26" parent="27" relname="span">что мы не имеем права использовать слово \"партия\" в нашем названии,</segment>
+		<segment id="28" parent="27" relname="cause-effect">так как НБП не является зарегистрированной политической партией\".</segment>
+		<segment id="31" parent="34" relname="attribution">Он напомнил,</segment>
+		<segment id="32" parent="34" relname="span">что Минюст отказался регистрировать НБП как партию в октябре прошлого года.\n\n\"Сейчас мы вносим изменения в наш устав,</segment>
+		<segment id="33" parent="32" relname="purpose">чтобы убрать слово \"партия\" из названия.</segment>
+		<segment id="36" parent="37" relname="span">Мы будем именоваться \"Общественно-политическое движение \"Национал-большевистский порядок\", таким образом, привычная всем аббревиатура НБП останется\",</segment>
+		<segment id="38" parent="39" relname="joint">- заявил Аверин.\n\nКроме того, \"лимоновцы\" собираются оформить регистрацию организации не в Московской области, а в столице.\n\nИсточник: https://www.newsru.com/russia/13May2004/anotherrussia.html\n</segment>
+		<group id="23" type="span" parent="41" relname="joint"/>
+		<group id="22" type="span" parent="15" relname="attribution"/>
+		<group id="21" type="multinuc" parent="22" relname="span"/>
+		<group id="20" type="span" parent="21" relname="joint"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="30" type="span" parent="40" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="span"/>
+		<group id="27" type="span" parent="29" relname="span"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="37" type="span" parent="39" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="cause-effect"/>
+		<group id="34" type="span" parent="35" relname="span"/>
+		<group id="41" type="multinuc"/>
+	</body>
+</rst>

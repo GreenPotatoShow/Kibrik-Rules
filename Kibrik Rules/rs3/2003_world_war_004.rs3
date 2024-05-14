@@ -1,0 +1,38 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="16" relname="span">В боестолкновении двух афганских группировок погибли 60 человек\n\nНа севере Афганистана в столкновениях между отрядами этнических лидеров в среду погибли по крайней мере 60 человек,</segment>
+		<segment id="15" parent="14" relname="elaboration">десятки бойцов ранены,</segment>
+		<segment id="17" parent="20" relname="attribution">пишет в четверг газета News.\n\nПо данным издания,</segment>
+		<segment id="18" parent="20" relname="joint">в настоящее время возле \"северной столицы\" Афганистана города Мазари-Шариф продолжаются бои между двумя противоборствующими группировками - бойцами из числа сторонников этнического таджика Атта Мохаммада (лидера фракции партии \"Джамиат-е-ислами\") и узбекского генерала, заместителя министра обороны Абдул Рашида Достума,</segment>
+		<segment id="19" parent="20" relname="joint">являющегося также лидером собственной партии \"Дмумбиш-е-милли\",</segment>
+		<segment id="23" parent="33" relname="contrast">сообщает РИА \"Новости\".\n\nОба лидера, входившие ранее в Северный альянс, поддерживают президента Хамида Карзая,</segment>
+		<segment id="24" parent="32" relname="contrast">однако борются между собой за контроль над отдельными районами в провинциях Балх, Фарьяб, Джаузджан и Сар-е-пуль.\n\nПредставители ООН пытаются примирить этнических лидеров,</segment>
+		<segment id="25" parent="27" relname="span">тем не менее столкновения между отрядами полевых командиров, лояльных Мохаммаду и Достуму,</segment>
+		<segment id="26" parent="25" relname="elaboration">не прекращаются.\n\nПо поступившим с севера страны данным, в среду бои шли возле города Фаизабада,</segment>
+		<segment id="28" parent="30" relname="joint">расположенного на полпути между Мазари-Шарифом и оплотом Достума Шибирганом,</segment>
+		<segment id="29" parent="30" relname="joint">а также возле Меймене - столице провинции Фарьяб.</segment>
+		<segment id="35" parent="37" relname="joint">Стороны активно применяют танки и тяжелую артиллерию,</segment>
+		<segment id="36" parent="37" relname="joint">и те, и другие несут потери в живой силе.\n\nИсточник: https://www.newsru.com/world/09Oct2003/war.html\n</segment>
+		<group id="34" type="multinuc" parent="38" relname="span"/>
+		<group id="22" type="multinuc" parent="34" relname="joint"/>
+		<group id="16" type="span" parent="22" relname="joint"/>
+		<group id="21" type="span" parent="22" relname="joint"/>
+		<group id="20" type="multinuc" parent="21" relname="span"/>
+		<group id="33" type="multinuc" parent="34" relname="joint"/>
+		<group id="32" type="multinuc" parent="33" relname="contrast"/>
+		<group id="31" type="span" parent="32" relname="contrast"/>
+		<group id="27" type="span" parent="31" relname="span"/>
+		<group id="30" type="multinuc" parent="27" relname="elaboration"/>
+		<group id="37" type="multinuc" parent="34" relname="elaboration"/>
+		<group id="38" type="span"/>
+	</body>
+</rst>

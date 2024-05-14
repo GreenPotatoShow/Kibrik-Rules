@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="35" relname="span">Financial Times: банкротство ЮКОСа выгодно судебным исполнителям\n\nАкционеры, исполнительные директора и кредиторы нефтяной компании ЮКОС могут серьезно пострадать</segment>
+		<segment id="34" parent="33" relname="cause-effect">из-за банкротства,</segment>
+		<segment id="36" parent="38" relname="span">к которому подталкивают компанию,</segment>
+		<segment id="37" parent="36" relname="condition">увеличивая налоговые счета.</segment>
+		<segment id="40" parent="44" relname="same-unit">Однако есть одна государственная служба, которой разгорающаяся борьба может быть выгодна,</segment>
+		<segment id="41" parent="43" relname="span">пишет Financial Times (перевод на сайте Inopressa.ru).\n\nВчера ЮКОС получил счет от судебных исполнителей,</segment>
+		<segment id="42" parent="41" relname="elaboration">оценивших свои услуги по максимальному тарифу из предусмотренных законом.</segment>
+		<segment id="46" parent="48" relname="span">Взыскиваемая сумма составляет 7% от счета на 99 млрд рублей,</segment>
+		<segment id="47" parent="46" relname="elaboration">предъявленному компании за неуплату налогов в 2000 году.</segment>
+		<segment id="51" parent="53" relname="span">Таким образом, судебные издержки равняются 6,9 млрд - это больше, чем большинство компаний платят в виде налогов в год.\n\n</segment>
+		<segment id="52" parent="51" relname="interpretation-evaluation">\"У нас создалось впечатление, что они ничего не сделали за эти деньги,</segment>
+		<segment id="54" parent="53" relname="attribution">-сказал вчера один из представителей ЮКОСа</segment>
+		<segment id="57" parent="85" relname="joint">после того, как судебные исполнители в последние несколько дней приходили в офисы компании и ее региональных дочерних предприятий.</segment>
+		<segment id="58" parent="66" relname="span">- Они требуют невозможного:</segment>
+		<segment id="59" parent="64" relname="purpose">чтобы долг был погашен,</segment>
+		<segment id="60" parent="64" relname="joint">несмотря на то что активы компании по решению суда заморожены</segment>
+		<segment id="61" parent="63" relname="span">и мы не можем их продавать,</segment>
+		<segment id="62" parent="61" relname="purpose">чтобы мобилизовать капитал\".\n\nТехнически вчерашний новый счет от судебных исполнителей является штрафом за то, что на прошлой неделе ЮКОС не оплатил счет на 99 млрд рублей.</segment>
+		<segment id="67" parent="79" relname="joint">На практике же по закону только 30% от дополнительной суммы в 6,9 млрд пойдет в федеральный бюджет.</segment>
+		<segment id="68" parent="70" relname="span">Остальное предназначается внебюджетному фонду развития судебного процесса,</segment>
+		<segment id="69" parent="68" relname="elaboration">контролируемому министерством юстиции.\n\nОтдельное постановление правительства разрешает тратить средства этого фонда на оплату услуг специалистов,</segment>
+		<segment id="71" parent="75" relname="span">причем судебные исполнители получают до 5% от той суммы, которую они помогают изъять,</segment>
+		<segment id="72" parent="74" relname="joint">хотя теоретически эта сумма не должна превышать десятикратную минимальную зарплату.\n\n\"На этом этапе, я думаю, всем нам надо бросить работу</segment>
+		<segment id="73" parent="74" relname="joint">и переквалифицироваться в судебных исполнителей\",</segment>
+		<segment id="77" parent="76" relname="attribution">- говорит один коммерческий юрист из Москвы</segment>
+		<segment id="80" parent="82" relname="contrast">.\n\</segment>
+		<segment id="81" parent="82" relname="contrast">nНо ЮКОС поджидают и новые сюрпризы.</segment>
+		<segment id="88" parent="90" relname="span">В придачу ко вчерашнему штрафу в 7% судебные исполнители имеют право выставлять компании дополнительные счета на неопределенные суммы</segment>
+		<segment id="89" parent="88" relname="purpose">для покрытия их расходов,</segment>
+		<segment id="91" parent="93" relname="span">когда ЮКОС продаст активы,</segment>
+		<segment id="92" parent="91" relname="purpose">чтобы заплатить 99 млрд рублей.\n\nИсточник: https://www.newsru.com/finance/13Jul2004/sud_ispolnit.html\n</segment>
+		<group id="87" type="multinuc" parent="95" relname="span"/>
+		<group id="45" type="multinuc" parent="87" relname="joint"/>
+		<group id="39" type="span" parent="45" relname="contrast"/>
+		<group id="35" type="span" parent="39" relname="span"/>
+		<group id="38" type="span" parent="35" relname="elaboration"/>
+		<group id="44" type="multinuc" parent="45" relname="contrast"/>
+		<group id="43" type="span" parent="44" relname="same-unit"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="56" type="span" parent="86" relname="joint"/>
+		<group id="48" type="span" parent="56" relname="span"/>
+		<group id="55" type="span" parent="48" relname="interpretation-evaluation"/>
+		<group id="53" type="span" parent="55" relname="span"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="66" type="span" parent="84" relname="comparison"/>
+		<group id="65" type="span" parent="58" relname="purpose"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="83" type="span" parent="84" relname="comparison"/>
+		<group id="79" type="multinuc" parent="83" relname="span"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="76" type="span" parent="78" relname="span"/>
+		<group id="70" type="span" parent="76" relname="span"/>
+		<group id="75" type="span" parent="70" relname="elaboration"/>
+		<group id="74" type="multinuc" parent="71" relname="concession"/>
+		<group id="82" type="multinuc" parent="79" relname="interpretation-evaluation"/>
+		<group id="94" type="span" parent="87" relname="interpretation-evaluation"/>
+		<group id="90" type="span" parent="94" relname="span"/>
+		<group id="93" type="span" parent="90" relname="condition"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

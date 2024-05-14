@@ -1,0 +1,106 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="44" parent="46" relname="joint">Фильм \"Интервью\" о Ким Чен Ыне можно будет посмотреть не только в кино, но и через интернет,</segment>
+		<segment id="45" parent="46" relname="joint">пообещала Sony Pictures\n\nВидеохостинг YouTube дал предварительное согласие на показ фильма \"Интервью\" о Ким Чен Ыне после того, как кинокомпания Sony Pictures объявила,</segment>
+		<segment id="47" parent="48" relname="span">что готова устроить премьеру скандальной киноленты 25 декабря.</segment>
+		<segment id="49" parent="48" relname="attribution">Об этом сообщает издание The Independent.</segment>
+		<segment id="51" parent="54" relname="attribution">По информации Reuters,</segment>
+		<segment id="52" parent="54" relname="joint">картину можно будет посмотреть онлайн,</segment>
+		<segment id="53" parent="54" relname="joint">также используя сервисы Google Play Microsoft и XBox Video.\n\nПримечательно, что фильм уже сегодня доступен для просмотра на официальном сайте.</segment>
+		<segment id="56" parent="58" relname="span">Стоимость просмотра киноленты составит 5,99 долларов</segment>
+		<segment id="57" parent="56" relname="purpose">для единовременного просмотра или 14,99 долларов</segment>
+		<segment id="59" parent="58" relname="condition">в случае покупки</segment>
+		<segment id="61" parent="63" relname="span">.\n\nОнлайн-премьера будет совпадать по времени с тем моментом,</segment>
+		<segment id="62" parent="61" relname="condition">когда фильм покажут в кинотеатрах США.</segment>
+		<segment id="66" parent="71" relname="attribution">Sony Pictures также сообщает,</segment>
+		<segment id="67" parent="69" relname="span">что ищет других партнеров</segment>
+		<segment id="68" parent="67" relname="purpose">для показа картины в интернете,</segment>
+		<segment id="70" parent="69" relname="purpose">чтобы распространить его как можно шире.</segment>
+		<segment id="73" parent="74" relname="cause-effect">Напомним, что премьера фильма чуть не сорвалась после того, как сетевые американские кинотеатры получили угрозы совершения терактов.\n\nВ компании рассказали,</segment>
+		<segment id="74" parent="75" relname="span">что картину согласились показывать около 200 кинотеатров.</segment>
+		<segment id="77" parent="80" relname="attribution">Руководитель Sony Pictures Майкл Линтон заявил:</segment>
+		<segment id="78" parent="79" relname="attribution">\"Мы горды,</segment>
+		<segment id="79" parent="80" relname="span">что выстояли против тех, кто пытался подавлять свободу слова\".</segment>
+		<segment id="82" parent="88" relname="span">Президент США Барак Обама приветствовал решение компании выпустить фильм в прокат.\n\nВ конце ноября хакеры осуществили кибератаку на Sony Pictures,</segment>
+		<segment id="83" parent="87" relname="span">снявшую \"Интервью\":</segment>
+		<segment id="84" parent="86" relname="joint">в сеть попали несколько фильмов, готовящихся к премьере,</segment>
+		<segment id="85" parent="86" relname="joint">а также множество конфиденциальной информации, включая переписку топ-менеджеров.</segment>
+		<segment id="89" parent="93" relname="sequence">Позже компьютерные \"взломщики\" пригрозили организацией терактов в США в случае проката \"Интервью\".</segment>
+		<segment id="90" parent="92" relname="contrast">В компании собрались было отменить премьеру,</segment>
+		<segment id="91" parent="92" relname="contrast">но после критики со стороны президента США Барака Обамы передумали.\n\nПравительство США в конце прошлой недели обвинило в хакерской атаке власти КНДР.</segment>
+		<segment id="95" parent="96" relname="attribution">Президент США Барака Обама пообещал,</segment>
+		<segment id="96" parent="97" relname="span">что Вашингтон примет ответные меры.</segment>
+		<segment id="98" parent="97" relname="interpretation-evaluation">Пхеньян свою причастность к атаке отрицает.\n\nРанее сюжет фильма уже вызвал бурное недовольство в КНДР.</segment>
+		<segment id="100" parent="103" relname="attribution">Ким Чен Ын заявил,</segment>
+		<segment id="101" parent="103" relname="joint">что кинолента - не что иное, как \"спонсирование терроризма\"</segment>
+		<segment id="102" parent="103" relname="joint">и сродни объявлению войны.</segment>
+		<segment id="105" parent="109" relname="span">Создателям \"Интервью\" между тем пришлось переснимать часть эпизодов,</segment>
+		<segment id="106" parent="108" relname="comparison">в частности, вырезать из картины северокорейскую военную форму с изображением Ким Ир Сена на пуговицах,</segment>
+		<segment id="107" parent="108" relname="comparison">что в КНДР сочли кощунством.</segment>
+		<segment id="110" parent="112" relname="span">Кроме того, студия Sony Pictures решила вырезать сцену,</segment>
+		<segment id="111" parent="110" relname="elaboration">в которой лицо северокорейского лидера \"плавится\".</segment>
+		<segment id="115" parent="117" relname="span">Некоторым изменениям подвергнется также изображение тяжелой военной техники.\n\</segment>
+		<segment id="116" parent="115" relname="elaboration">nНапомним, по сюжету картины ведущий ток-шоу Дэвид Скайларк (Джеймс Франко) и его продюсер (Сет Роген) оказываются ввязанными в заговор по убийству вождя Северной Кореи Ким Чен Ына.</segment>
+		<segment id="118" parent="120" relname="joint">Компанию Рогену в режиссерском кресле составил Эван Голдберг.</segment>
+		<segment id="119" parent="120" relname="joint">Ким Чен Ына сыграл Рэндалл Парк.\n\nИсточник: https://www.newsru.com/cinema/24Dec2014/kndrkino.html\n</segment>
+		<group id="50" type="span" parent="127" relname="preparation"/>
+		<group id="48" type="span" parent="50" relname="span"/>
+		<group id="46" type="multinuc" parent="47" relname="attribution"/>
+		<group id="127" type="span" parent="128" relname="span"/>
+		<group id="65" type="multinuc" parent="126" relname="preparation"/>
+		<group id="55" type="span" parent="65" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="60" type="span" parent="64" relname="joint"/>
+		<group id="58" type="span" parent="60" relname="span"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="126" type="multinuc" parent="127" relname="span"/>
+		<group id="76" type="span" parent="126" relname="joint"/>
+		<group id="72" type="span" parent="76" relname="span"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="69" type="span" parent="71" relname="span"/>
+		<group id="75" type="span" parent="72" relname="elaboration"/>
+		<group id="125" type="span" parent="126" relname="joint"/>
+		<group id="81" type="span" parent="124" relname="preparation"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="124" type="multinuc" parent="125" relname="span"/>
+		<group id="94" type="multinuc" parent="124" relname="joint"/>
+		<group id="88" type="span" parent="94" relname="sequence"/>
+		<group id="87" type="span" parent="82" relname="elaboration"/>
+		<group id="86" type="multinuc" parent="83" relname="elaboration"/>
+		<group id="93" type="multinuc" parent="94" relname="sequence"/>
+		<group id="92" type="multinuc" parent="93" relname="sequence"/>
+		<group id="123" type="multinuc" parent="124" relname="joint"/>
+		<group id="99" type="span" parent="123" relname="joint"/>
+		<group id="97" type="span" parent="99" relname="span"/>
+		<group id="122" type="span" parent="123" relname="joint"/>
+		<group id="114" type="multinuc" parent="122" relname="span"/>
+		<group id="104" type="span" parent="114" relname="joint"/>
+		<group id="103" type="multinuc" parent="104" relname="span"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="109" type="span" parent="113" relname="joint"/>
+		<group id="108" type="multinuc" parent="105" relname="elaboration"/>
+		<group id="112" type="span" parent="113" relname="joint"/>
+		<group id="121" type="multinuc" parent="114" relname="elaboration"/>
+		<group id="117" type="span" parent="121" relname="joint"/>
+		<group id="120" type="multinuc" parent="121" relname="joint"/>
+		<group id="128" type="span"/>
+	</body>
+</rst>

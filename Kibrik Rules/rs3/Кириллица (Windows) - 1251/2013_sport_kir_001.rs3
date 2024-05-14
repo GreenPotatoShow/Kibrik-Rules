@@ -1,0 +1,46 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="40" relname="preparation">Переход Кириленко в клуб Прохорова вызвал недовольство в НБА\n\</segment>
+		<segment id="16" parent="35" relname="preparation">nПереход российского баскетболиста Андрея Кириленко в \"Бруклин Нетс\" вызвал недовольство руководителей клубов НБА.</segment>
+		<segment id="17" parent="19" relname="span">Некоторые менеджеры команд призвали руководство лиги досконально изучить детали соглашения россиянина с \"Бруклином\" на предмет побочных договоров.\n\nВ июне Кириленко отказался проводить последний год в \"Миннесоте Тимбервулвз\",</segment>
+		<segment id="18" parent="17" relname="elaboration">за который он должен был заработать 10 млн долларов,</segment>
+		<segment id="20" parent="24" relname="comparison">а на днях подписал контракт с \"Нетс\",</segment>
+		<segment id="21" parent="23" relname="joint">согласившись на трехкратное понижение зарплаты</segment>
+		<segment id="22" parent="23" relname="joint">.\n\nГенменеджер \"Бруклина\" Билли Кинг,</segment>
+		<segment id="26" parent="31" relname="condition">словно не замечая шумихи вокруг этого перехода,</segment>
+		<segment id="27" parent="30" relname="attribution">заявил,</segment>
+		<segment id="28" parent="29" relname="cause-effect">что в команде рады подписанию контракта с российским форвардом.\n\n\"Мы очень рады,</segment>
+		<segment id="29" parent="30" relname="span">что Кириленко пополнил нашу команду,</segment>
+		<segment id="34" parent="33" relname="attribution">- сказал Кинг пресс-службе клуба.</segment>
+		<segment id="37" parent="39" relname="span">- Он является проверенным ветераном НБА с уникальным набором профессиональных навыков.</segment>
+		<segment id="38" parent="37" relname="elaboration">Его приход поможет нам строить гибкую схему атаки\".\n\nИсточник: https://www.newsru.com/sport/13Jul2013/kir.html\n</segment>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="36" type="span" parent="40" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="span"/>
+		<group id="33" type="span" parent="35" relname="span"/>
+		<group id="25" type="multinuc" parent="33" relname="span"/>
+		<group id="19" type="span" parent="25" relname="sequence"/>
+		<group id="24" type="multinuc" parent="25" relname="sequence"/>
+		<group id="23" type="multinuc" parent="24" relname="comparison"/>
+		<group id="32" type="span" parent="25" relname="interpretation-evaluation"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="41" type="span"/>
+	</body>
+</rst>

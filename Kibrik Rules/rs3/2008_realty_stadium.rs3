@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="36" relname="span">Ввод нового стадиона \"Зенита\" перенесен:</segment>
+		<segment id="33" parent="35" relname="comparison">проект оказался в два раза дороже,</segment>
+		<segment id="34" parent="35" relname="comparison">чем думали\n\nВвод в эксплуатацию нового футбольного стадиона на Крестовском острове Петербурга откладывается минимум на год,</segment>
+		<segment id="37" parent="39" relname="span">сообщил журналистам президент ФК \"Зенит\" Александр Дюков в пятницу в Мюнхене.\n\n\"В 2009 году стадион очень вряд ли будет введет в эксплуатацию.</segment>
+		<segment id="38" parent="37" relname="background">В перспективе - может быть в 2010 году\",</segment>
+		<segment id="41" parent="42" relname="attribution">- сказал Дюков</segment>
+		<segment id="42" parent="43" relname="span">.\n\</segment>
+		<segment id="45" parent="48" relname="attribution">nПо его словам,</segment>
+		<segment id="46" parent="48" relname="joint">перенос сроков связан с тем, что на данный момент проект строительства стадиона не согласован с Главгосэкспертизой,</segment>
+		<segment id="47" parent="48" relname="joint">а также с удорожанием проекта.</segment>
+		<segment id="50" parent="62" relname="span">Сейчас проект строительства стадиона на Крестовском будет стоить приблизительно 13-14 млрд рублей.</segment>
+		<segment id="51" parent="55" relname="joint">Ранее сообщалось, что по госконтракту стоимость строительства стадиона должна составить около 6,67 млрд рублей,</segment>
+		<segment id="52" parent="53" relname="attribution">уточняет \"Интерфакс\".\n\nДюков отметил,</segment>
+		<segment id="53" parent="54" relname="span">что сегодня стоимость строительства нового стадиона в России стала не ниже, чем в Европе.</segment>
+		<segment id="56" parent="58" relname="restatement">В качестве примера он привел стадион в Гельзенкирхене,</segment>
+		<segment id="57" parent="58" relname="restatement">где играет футбольный клуб \"Шальке 04\",</segment>
+		<segment id="59" parent="60" relname="restatement">и на который будет похож новый петербургский стадион.\n\</segment>
+		<segment id="63" parent="68" relname="attribution">nПо словам президента петербургского клуба,</segment>
+		<segment id="64" parent="68" relname="span">в 2000 году стоимость строительства стадиона составляла 30 млн долларов,</segment>
+		<segment id="65" parent="67" relname="span">\"но за это время выросла и стоимость работ, и материалов\".\n\n\"Тот бюджет, который был первоначально принят за основу оказался необоснован:</segment>
+		<segment id="66" parent="65" relname="elaboration">японское архитектурное бюро подсчитало стоимость работ \"на коленке\",</segment>
+		<segment id="70" parent="69" relname="attribution">- сказал Дюков,</segment>
+		<segment id="72" parent="79" relname="attribution">добавив,</segment>
+		<segment id="73" parent="79" relname="comparison">что в Петербурге строительство стадиона обойдется дороже,</segment>
+		<segment id="74" parent="78" relname="span">чем в Европе</segment>
+		<segment id="75" parent="77" relname="joint">из-за особенностей грунтов,</segment>
+		<segment id="76" parent="77" relname="joint">а также из-за того, что пришлось демонтировать старый стадион им. Кирова.\n\</segment>
+		<segment id="81" parent="83" relname="span">nНапомним, новый футбольный стадион строится в Петербурге на месте бывшего стадиона им. Кирова по проекту покойного японского архитектора Кисе Куракавы.</segment>
+		<segment id="82" parent="81" relname="elaboration">Вместительность стадиона должна составить 62 тысяч зрителей.</segment>
+		<segment id="84" parent="86" relname="span">Футбольное поле на новом стадионе будет выдвижным,</segment>
+		<segment id="85" parent="84" relname="purpose">что позволит обеспечить сохранность естественного газона.\n\nИсточник: https://www.newsru.com/realty/25Apr2008/stadium.html\n</segment>
+		<group id="44" type="span" parent="92" relname="joint"/>
+		<group id="40" type="span" parent="44" relname="span"/>
+		<group id="36" type="span" parent="40" relname="span"/>
+		<group id="35" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="39" type="span" parent="36" relname="attribution"/>
+		<group id="43" type="span" parent="40" relname="attribution"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="49" type="span" parent="91" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="span"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="62" type="span" parent="90" relname="joint"/>
+		<group id="61" type="multinuc" parent="50" relname="elaboration"/>
+		<group id="55" type="multinuc" parent="61" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="58" type="multinuc" parent="60" relname="restatement"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="71" type="span" parent="89" relname="joint"/>
+		<group id="69" type="span" parent="71" relname="span"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="67" type="span" parent="64" relname="elaboration"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="80" type="span" parent="88" relname="joint"/>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="78" type="span" parent="79" relname="comparison"/>
+		<group id="77" type="multinuc" parent="74" relname="cause-effect"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="83" type="span" parent="87" relname="joint"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="92" type="multinuc"/>
+	</body>
+</rst>

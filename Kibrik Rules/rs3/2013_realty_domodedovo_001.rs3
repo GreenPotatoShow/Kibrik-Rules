@@ -1,0 +1,85 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="35" parent="100" relname="preparation">Аэропорт \"Домодедово\" остается без третьей ВПП\n\nСтали известны подробности закрытого совещания у премьера Дмитрия Медведева о судьбе крупнейшего в России аэропорта \"Домодедово\".</segment>
+		<segment id="36" parent="37" relname="attribution">Как пишет \"Коммерсант\",</segment>
+		<segment id="37" parent="38" relname="span">Минтранс намерен уже к 2020 году обеспечить расширение пропускной способности аэропорта до 56 миллионов человек в год,</segment>
+		<segment id="39" parent="43" relname="span">но не благодаря строительству третьей взлетно-посадочной полосы,</segment>
+		<segment id="40" parent="42" relname="joint">на котором настаивают частные владельцы \"Домодедово\",</segment>
+		<segment id="41" parent="42" relname="joint">а путем реконструкции аэровокзального комплекса, аэродромной инфраструктуры и системы управления воздушным движением.\n\n6 марта прошло закрытое совещание у премьера Медведева.</segment>
+		<segment id="45" parent="47" relname="span">Министр транспорта Максим Соколов представил</segment>
+		<segment id="46" parent="45" relname="background">на нем доклад,</segment>
+		<segment id="48" parent="50" relname="span">предлагающий мероприятия, которые призваны обеспечить для \"Домодедово\" возможность обслуживать к 2020 году 54-56 миллионов человек в год</segment>
+		<segment id="49" parent="48" relname="elaboration">(в 2012 году - 28,2 миллиона),</segment>
+		<segment id="52" parent="51" relname="attribution">передает газета.\n\nМинистр признает,</segment>
+		<segment id="56" parent="58" relname="span">что нынешний аэровокзальный комплекс, включающий один терминал площадью 184,2 тысячи кв. метров, работает в режиме \"перегрузки\",</segment>
+		<segment id="57" parent="56" relname="cause-effect">поскольку его расчетная мощность составляет 21 миллион человек в год.</segment>
+		<segment id="60" parent="61" relname="cause-effect">Это несоответствие мощностей</segment>
+		<segment id="61" parent="62" relname="span">привело к снижению уровня обслуживания,</segment>
+		<segment id="63" parent="62" relname="attribution">говорится в докладе.</segment>
+		<segment id="66" parent="72" relname="span">Изменить ситуацию к лучшему,</segment>
+		<segment id="67" parent="70" relname="attribution">по мнению Минтранса,</segment>
+		<segment id="68" parent="70" relname="joint">должна программа по развитию инфраструктуры аэропорта</segment>
+		<segment id="69" parent="70" relname="joint">.\n\nВ целом на развитие аэродромной инфраструктуры \"Домодедово\" в бюджете 2013 - 2015 годов заложено почти 19 миллиардов рублей.</segment>
+		<segment id="73" parent="74" relname="attribution">Министр подчеркивает,</segment>
+		<segment id="74" parent="75" relname="span">что главным открытым вопросом остается привлечение недостающих 14,5 миллиарда рублей на реконструкцию старых и строительство новых перронов для самолетов.\n\</segment>
+		<segment id="78" parent="80" relname="contrast">nПо словам источника \"Коммерсанта\", знакомого с ситуацией, прорабатываются различные модели по привлечению внебюджетных инвестиций,</segment>
+		<segment id="79" parent="80" relname="contrast">но решения нет.</segment>
+		<segment id="82" parent="84" relname="span">Для государства же основным аэродромным проектом в \"Домодедово\" станет строительство новой ВПП на расстоянии 287,5 метра от существующей ВПП-2,</segment>
+		<segment id="83" parent="82" relname="elaboration">выводимой из эксплуатации в 2015 году</segment>
+		<segment id="85" parent="87" relname="span">.\n\nЭту схему Минтранс и Росавиация выработали в октябре 2012 года,</segment>
+		<segment id="86" parent="85" relname="concession">хотя в \"Домодедово\" настаивали на варианте строительства новой ВПП на расстоянии 1837,5 метра параллельно оси ВПП-2 со вводом в 2016 году.</segment>
+		<segment id="89" parent="95" relname="contrast">После 2016 года планировалось построить ВПП-3.</segment>
+		<segment id="90" parent="91" relname="attribution">Но в Минтрансе сочли,</segment>
+		<segment id="91" parent="92" relname="span">что строительство полосы на расстоянии 287,5 метра \"экономичнее\",</segment>
+		<segment id="93" parent="94" relname="joint">а третью ВПП решили строить в государственном аэропорту \"Шереметьево\".\n\nИсточник: https://www.newsru.com/realty/11Mar2013/domodedovo.html\n</segment>
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="44" type="multinuc" parent="100" relname="joint"/>
+		<group id="38" type="span" parent="44" relname="contrast"/>
+		<group id="43" type="span" parent="44" relname="contrast"/>
+		<group id="42" type="multinuc" parent="39" relname="elaboration"/>
+		<group id="99" type="multinuc" parent="100" relname="joint"/>
+		<group id="65" type="span" parent="99" relname="joint"/>
+		<group id="59" type="span" parent="65" relname="span"/>
+		<group id="53" type="span" parent="58" relname="attribution"/>
+		<group id="51" type="span" parent="53" relname="span"/>
+		<group id="47" type="span" parent="51" relname="span"/>
+		<group id="50" type="span" parent="47" relname="purpose"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="64" type="span" parent="59" relname="interpretation-evaluation"/>
+		<group id="62" type="span" parent="64" relname="span"/>
+		<group id="98" type="span" parent="99" relname="joint"/>
+		<group id="72" type="span" parent="97" relname="preparation"/>
+		<group id="71" type="span" parent="66" relname="elaboration"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="81" type="multinuc" parent="97" relname="joint"/>
+		<group id="75" type="span" parent="81" relname="contrast"/>
+		<group id="80" type="multinuc" parent="81" relname="contrast"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="88" type="multinuc" parent="96" relname="sequence"/>
+		<group id="84" type="span" parent="88" relname="joint"/>
+		<group id="87" type="span" parent="88" relname="joint"/>
+		<group id="95" type="multinuc" parent="96" relname="sequence"/>
+		<group id="94" type="multinuc" parent="95" relname="contrast"/>
+		<group id="92" type="span" parent="94" relname="joint"/>
+		<group id="101" type="span"/>
+	</body>
+</rst>

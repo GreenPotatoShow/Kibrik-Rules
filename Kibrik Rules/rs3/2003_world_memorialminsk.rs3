@@ -1,0 +1,46 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="43" relname="preparation">В Минске вандалы осквернили памятник воинам Великой Отечественной войны\n\nОчередной акт вандализма совершен в четверг в Минске.</segment>
+		<segment id="17" parent="19" relname="span">Как сообщили \"Интерфаксу\" в правоохранительных органах республики,</segment>
+		<segment id="18" parent="17" relname="background">в столичном парке Челюскинцев был осквернен памятник воинам Великой Отечественной войны.\n\</segment>
+		<segment id="20" parent="23" relname="attribution">nПо свидетельству очевидцев,</segment>
+		<segment id="21" parent="23" relname="sequence">трое подростков облили памятник из баллончика с черной краской,</segment>
+		<segment id="22" parent="23" relname="sequence">а потом подожгли венки.</segment>
+		<segment id="26" parent="30" relname="span">В результате пламя достигало двух метров.</segment>
+		<segment id="27" parent="29" relname="span">Сейчас памятник покрыт копотью.\n\nВ правоохранительных органах пока не установили,</segment>
+		<segment id="28" parent="27" relname="background">кто совершил акт вандализма.</segment>
+		<segment id="32" parent="35" relname="attribution">По мнению собеседника агентства,</segment>
+		<segment id="33" parent="35" relname="span">раскрытию подобных преступлений препятствует то,</segment>
+		<segment id="34" parent="33" relname="evidence">что очевидцы несвоевременно обращаются с заявлениями в органы внутренних дел.\n\nВ последнее время в белорусской столице было совершено несколько подобных актов вандализма.</segment>
+		<segment id="37" parent="41" relname="sequence">Так, в минувшем году были осквернены еврейские могилы на Северном кладбище столицы.</segment>
+		<segment id="38" parent="40" relname="span">А несколько дней назад в урочище Куропаты на месте захоронения жертв сталинских репрессий были осквернены установленные здесь скамейка и памятная плита,</segment>
+		<segment id="39" parent="38" relname="elaboration">которые были подарены республике посольством США в Минске.\n\nАкты вандализма также были зарегистрированы в Борисове, Бобруйске и ряде других городов Белоруссии.\n\nИсточник: https://www.newsru.com/world/05Jun2003/memorialminsk.html\n</segment>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="31" type="span" parent="43" relname="joint"/>
+		<group id="25" type="span" parent="30" relname="cause-effect"/>
+		<group id="19" type="span" parent="25" relname="span"/>
+		<group id="24" type="span" parent="19" relname="elaboration"/>
+		<group id="23" type="multinuc" parent="24" relname="span"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="29" type="span" parent="26" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="36" type="span" parent="42" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="span"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="sequence"/>
+		<group id="44" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,100 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="42" parent="44" relname="joint">Представителям династии Романовых предложили вернуться в Россию для \"сглаживания политических противоречий внутри страны\"\n\nПредставителям Российского императорского дома Романовых предложили вернуться в Россию.</segment>
+		<segment id="43" parent="44" relname="joint">Депутат законодательного собрания Ленинградской области Владимир Петров уже направил соответствующие обращения к официальным представителям династии - великой княгине Марии Владимировне и князю Дмитрию Романовичу,</segment>
+		<segment id="45" parent="44" relname="attribution">сообщает Русская служба BBC.</segment>
+		<segment id="47" parent="54" relname="attribution">По его мнению,</segment>
+		<segment id="48" parent="50" relname="span">возвращение потомков императора в Россию \"станет символом возрождения духовной мощи народов России\" и будет способствовать \"сглаживанию политических противоречий внутри страны\".\n\nДепутат заявил,</segment>
+		<segment id="49" parent="48" relname="interpretation-evaluation">что в России часто говорят про \"духовные скрепы\",</segment>
+		<segment id="51" parent="52" relname="attribution">и отметил,</segment>
+		<segment id="52" parent="53" relname="span">что надо продемонстрировать великую историю страны.</segment>
+		<segment id="56" parent="57" relname="attribution">Он указал,</segment>
+		<segment id="57" parent="58" relname="span">что представители фамилии Романовых сами хотят вернуться в Россию,</segment>
+		<segment id="59" parent="64" relname="attribution">и сообщил,</segment>
+		<segment id="60" parent="63" relname="attribution">что намерен заняться разработкой законопроекта \"Об особом положении представителей царской фамилии\".\n\nДепутат считает,</segment>
+		<segment id="61" parent="63" relname="joint">что Романовы могли бы участвовать в государственных церемониальных мероприятиях,</segment>
+		<segment id="62" parent="63" relname="joint">играть \"символическую роль\" и \"стать символом сохранения традиций и национальной культуры\".</segment>
+		<segment id="67" parent="69" relname="span">В качестве официальной резиденции Романовых в России депутат предлагает выделить один из дворцов в пригородах Санкт-Петербурга или Крыма.\n\nРоссийская императорская семья - единственная из европейских династий, переживших свержение монархии,</segment>
+		<segment id="68" parent="67" relname="elaboration">которая не обрела своего дома на родине.</segment>
+		<segment id="70" parent="72" relname="span">В Болгарии, Сербии, Румынии произошла реституция</segment>
+		<segment id="71" parent="70" relname="elaboration">- возвращение части изъятого имущества,</segment>
+		<segment id="73" parent="75" relname="span">потомки царских семей проживают в своих странах.\n\nРазговор о возвращении Романовых в Россию ведется с конца ХХ века,</segment>
+		<segment id="74" parent="73" relname="condition">когда распался Советский Союз.</segment>
+		<segment id="80" parent="83" relname="attribution">Однако директор канцелярии главы Российского императорского дома Романовых Александр Закатов в интервью \"Известиям\" отметил,</segment>
+		<segment id="81" parent="83" relname="contrast">что представители дома готовы переехать в Россию,</segment>
+		<segment id="82" parent="83" relname="contrast">но только если \"возвращение будет достойным\".</segment>
+		<segment id="85" parent="96" relname="attribution">По его словам,</segment>
+		<segment id="86" parent="88" relname="span">княгиня хочет,</segment>
+		<segment id="87" parent="86" relname="purpose">чтобы \"императорский дом являлся исторической институцией\",</segment>
+		<segment id="89" parent="90" relname="attribution">хотя в целом не претендует на политические полномочия.\n\nГерольдмейстер Императорского дома Станислав Думин объяснил,</segment>
+		<segment id="90" parent="91" relname="span">что княгиня не собирается требовать от властей России полностью вернуть утраченное царствовавшей семьей имущество,</segment>
+		<segment id="92" parent="94" relname="span">но хотя бы одна резиденция необходима,</segment>
+		<segment id="93" parent="92" relname="cause-effect">потому что \"она должна где-то жить\".</segment>
+		<segment id="98" parent="100" relname="span">\"Речь идет не о восстановлении монархии, а о восстановлении исторической справедливости\",</segment>
+		<segment id="99" parent="98" relname="attribution">- заявил он.\n\nИнициативы депутата Петрова\n\nОтметим, что Владимир Петров известен в Ленинградской области своими нетривиальными поступками.</segment>
+		<segment id="104" parent="106" relname="span">Например, ранее он довел двух поросят до истощения,</segment>
+		<segment id="105" parent="104" relname="cause-effect">решив кормить их из расчета МРОТ и продуктовой корзины.\n\</segment>
+		<segment id="107" parent="108" relname="attribution">nВ мае он заявил</segment>
+		<segment id="108" parent="109" relname="span">о желании принять участие в выборах губернатора Ленобласти</segment>
+		<segment id="110" parent="114" relname="span">и ради этого,</segment>
+		<segment id="111" parent="112" relname="attribution">по данным BaltInfo,</segment>
+		<segment id="112" parent="113" relname="span">даже вышел из \"Единой России\".</segment>
+		<segment id="119" parent="120" relname="contrast">Однако, по данным издания, пока ни одна партия его не выдвинула.\n\nИсточник: https://www.newsru.com/russia/23Jun2015/romanoff.html\n</segment>
+		<group id="46" type="span" parent="121" relname="preparation"/>
+		<group id="44" type="multinuc" parent="46" relname="span"/>
+		<group id="121" type="span" parent="122" relname="span"/>
+		<group id="103" type="multinuc" parent="121" relname="span"/>
+		<group id="79" type="multinuc" parent="103" relname="contrast"/>
+		<group id="55" type="span" parent="79" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="50" type="span" parent="54" relname="joint"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="66" type="multinuc" parent="78" relname="joint"/>
+		<group id="58" type="span" parent="66" relname="joint"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="77" type="multinuc" parent="78" relname="joint"/>
+		<group id="69" type="span" parent="77" relname="joint"/>
+		<group id="76" type="multinuc" parent="77" relname="joint"/>
+		<group id="72" type="span" parent="76" relname="sequence"/>
+		<group id="75" type="span" parent="76" relname="sequence"/>
+		<group id="102" type="multinuc" parent="103" relname="contrast"/>
+		<group id="84" type="span" parent="102" relname="joint"/>
+		<group id="83" type="multinuc" parent="84" relname="span"/>
+		<group id="101" type="multinuc" parent="102" relname="joint"/>
+		<group id="97" type="span" parent="101" relname="joint"/>
+		<group id="96" type="span" parent="97" relname="span"/>
+		<group id="88" type="span" parent="96" relname="span"/>
+		<group id="95" type="multinuc" parent="88" relname="concession"/>
+		<group id="91" type="span" parent="95" relname="contrast"/>
+		<group id="94" type="span" parent="95" relname="contrast"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="120" type="multinuc" parent="103" relname="elaboration"/>
+		<group id="116" type="multinuc" parent="120" relname="contrast"/>
+		<group id="106" type="span" parent="116" relname="joint"/>
+		<group id="115" type="multinuc" parent="116" relname="joint"/>
+		<group id="109" type="span" parent="115" relname="joint"/>
+		<group id="114" type="span" parent="115" relname="joint"/>
+		<group id="113" type="span" parent="110" relname="attribution"/>
+		<group id="122" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="70" relname="preparation">Блоггеры собираются поддержать \"Живой журнал\" акцией протеста против хакерских атак\n\nПользователи \"Живого журнала\" организовывают акцию в поддержку ресурса и против хакерских атак.</segment>
+		<segment id="26" parent="30" relname="span">Для этого они собираются прийти к офису компании SUP,</segment>
+		<segment id="27" parent="29" relname="span">которая владеет порталом,</segment>
+		<segment id="28" parent="27" relname="purpose">чтобы выразить свое признание сервису.</segment>
+		<segment id="31" parent="34" relname="attribution">Кроме того, они хотят продемонстрировать,</segment>
+		<segment id="32" parent="34" relname="span">что могут собираться и вне интернет-пространства,</segment>
+		<segment id="33" parent="32" relname="attribution">передает радиостанция \"Эхо Москвы\".\n\nС таким предложением выступил один из блоггеров-тысячников Сергей Мухаммедов через свой Twitter-аккаунт.</segment>
+		<segment id="37" parent="38" relname="cause-effect">Мероприятие в поддержку \"Живого журнала\" состоится в ближайшую пятницу, 8 апреля, в 12:00.\n\nСвоими действиями пользователи намерены доказать \"злобным хакерам\",</segment>
+		<segment id="38" parent="39" relname="span">что способны организоваться без помощи \"Живого журнала\".</segment>
+		<segment id="40" parent="42" relname="span">\"Докажем, что мы можем собраться и без \"ЖЖ\"!</segment>
+		<segment id="41" parent="40" relname="attribution">– призывает Мухаммедов.</segment>
+		<segment id="44" parent="50" relname="joint">– А не принести ли нам игрушечных козликов к офису СУПа в знак поддержки \"ЖЖ\"?\"\n\n\"Козлик Фрэнк\" является эмблемой и покровителем \"Живого журнала\" в интернете.</segment>
+		<segment id="45" parent="49" relname="joint">Блоггер не сомневается в массовой поддержке своего мероприятия,</segment>
+		<segment id="46" parent="48" relname="joint">пишет РИА \"Новый регион\".\n\nХакерские атаки на \"ЖЖ\" не стихают почти неделю,</segment>
+		<segment id="47" parent="48" relname="joint">и блоггеры уже сравнивают их с аварией на АЭС \"Фукусима\".</segment>
+		<segment id="51" parent="55" relname="joint">Происходящее порождает множество версий о целях кибервзломщиков.\n\nДиректор по развитию продуктов компании SUP, управляющей \"Живым журналом\", Илья Дронов, заявил ранее,</segment>
+		<segment id="52" parent="54" relname="joint">что главной целью атак является \"размазывание\" аудитории по другим социальным сетям.\n\nАвтор проекта \"РосПил\",</segment>
+		<segment id="53" parent="54" relname="joint">блоггер Алексей Навальный не сомневается в причастности к атаке \"подразделений кремлевской администрации, курирующих внутреннюю политику\".</segment>
+		<segment id="56" parent="58" relname="span">\"Поняв, что все их стратегии по развитию \"путинской линии\" в интернете потерпели крах,</segment>
+		<segment id="57" parent="56" relname="concession">несмотря на огромные денежные вложения,</segment>
+		<segment id="59" parent="60" relname="span">они решили бороться с самыми проблемными для них площадками более простым (и, как им кажется, эффективным) способом\",</segment>
+		<segment id="61" parent="60" relname="attribution">– считает Навальный.\n\</segment>
+		<segment id="63" parent="64" relname="attribution">nЖурналист и блоггер Олег Козырев назвал</segment>
+		<segment id="64" parent="65" relname="span">DDos-атаку на \"ЖЖ\" \"террористическим актом, сравнимым по последствиям с тем, как если бы террористы захотели лишить Россию телевидения и радио\".\n\nИсточник: https://www.newsru.com/russia/06Apr2011/livej.html\n</segment>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="36" type="multinuc" parent="69" relname="preparation"/>
+		<group id="30" type="span" parent="36" relname="joint"/>
+		<group id="29" type="span" parent="26" relname="elaboration"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="34" type="span" parent="35" relname="span"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="43" type="span" parent="69" relname="joint"/>
+		<group id="39" type="span" parent="43" relname="span"/>
+		<group id="42" type="span" parent="39" relname="elaboration"/>
+		<group id="68" type="multinuc" parent="69" relname="joint"/>
+		<group id="50" type="multinuc" parent="68" relname="joint"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="55" type="multinuc" parent="67" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="62" type="span" parent="66" relname="span"/>
+		<group id="60" type="span" parent="62" relname="span"/>
+		<group id="58" type="span" parent="59" relname="cause-effect"/>
+		<group id="65" type="span" parent="62" relname="interpretation-evaluation"/>
+		<group id="71" type="span"/>
+	</body>
+</rst>

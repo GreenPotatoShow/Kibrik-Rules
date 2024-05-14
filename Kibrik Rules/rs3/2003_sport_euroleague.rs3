@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="97" relname="preparation">ЦСКА почти в \"Финале четырех\"\n\nМосковский ЦСКА практически обеспечил себе место в \"Финале четырех\" баскетбольной Евролиги.</segment>
+		<segment id="35" parent="39" relname="span">Накануне в Москве подопечные Душана Ивковича выиграли у \"Эфес Пилсена\" - 66:54.\n\</segment>
+		<segment id="36" parent="38" relname="span">nПосле поражения в Турции Ивкович сделал ставку на прессинг,</segment>
+		<segment id="37" parent="36" relname="elaboration">который, правда турки разбивали легко.</segment>
+		<segment id="40" parent="39" relname="elaboration">В атаке же ЦСКА рассчитывал на снайперские качества Холдена и индивидуальное мастерство игроков передней линии.</segment>
+		<segment id="42" parent="50" relname="sequence">В итоге первая четверть осталась за \"Эфесом\".</segment>
+		<segment id="43" parent="47" relname="span">Во втором периоде красно-синие организовали рывок</segment>
+		<segment id="44" parent="46" relname="joint">- 11:2,</segment>
+		<segment id="45" parent="46" relname="joint">и вышли вперед.</segment>
+		<segment id="48" parent="47" relname="elaboration">Лишь однажды после этого \"Эфес\" вновь захватил лидерство, да и то ненадолго.</segment>
+		<segment id="51" parent="53" relname="joint">ЦСКА прочно прибрал инициативу к своим рукам</segment>
+		<segment id="52" parent="53" relname="joint">и не упускал ее до финальной сирены,</segment>
+		<segment id="54" parent="58" relname="span">отмечает РИА \"Новости\".\n\nГости потеряли шансы на победу,</segment>
+		<segment id="55" parent="57" relname="joint">когда их лидер Маркус Браун подвернул ногу</segment>
+		<segment id="56" parent="57" relname="joint">и отправился отдыхать досрочно.</segment>
+		<segment id="60" parent="62" relname="joint">Другой снайпер турок Антонио Грэйнджер не мог в одиночку выиграть весь матч,</segment>
+		<segment id="61" parent="62" relname="joint">а Каспарс Камбала свои очки набрал только в конце игры.</segment>
+		<segment id="65" parent="67" relname="span">Лучшим в команде Душана Ивковича стал американский легионер Виктор Александер,</segment>
+		<segment id="66" parent="65" relname="elaboration">забросивший 18 очков.</segment>
+		<segment id="68" parent="74" relname="span">У гостей точностью отличился Антонио Грэйнджер</segment>
+		<segment id="69" parent="72" relname="attribution">- на его счету 22 очка.\n\nПосле встречи Ивкович заявил,</segment>
+		<segment id="70" parent="72" relname="comparison">что эта победа очень важна для московского клуба,</segment>
+		<segment id="71" parent="72" relname="comparison">тем более, что она одержана над сильной, хорошо сбалансированной командой.</segment>
+		<segment id="75" parent="77" relname="joint">\"Мы контролировали игру все 40 минут,</segment>
+		<segment id="76" parent="77" relname="joint">и это дало свой результат\",</segment>
+		<segment id="78" parent="77" relname="attribution">- сказал Ивкович,</segment>
+		<segment id="80" parent="81" relname="comparison">отметив, что его подопечные показали самую лучшую в сезоне игру в защите.</segment>
+		<segment id="85" parent="87" relname="span">Югославский специалист посвятил эту победу генеральному директору ПБК ЦСКА Сергею Кущенко,</segment>
+		<segment id="86" parent="85" relname="background">который впервые присутствовал на пресс-конференции.</segment>
+		<segment id="88" parent="90" relname="span">Победа над основным конкурентом фактически делает ЦСКА участником \"Финала четырех\" самого престижного баскетбольного турнира в Европе.</segment>
+		<segment id="89" parent="88" relname="elaboration">Свой последний матч в \"Топ 16\" армейцы сыграют 16 апреля.</segment>
+		<segment id="92" parent="94" relname="span">Баскетболистам ЦСКА предстоит сразиться с хорватской \"Цибоной\",</segment>
+		<segment id="93" parent="92" relname="elaboration">которая также имеет теоретические шансы на попадание в \"Финал четырех\".\n\nИсточник: https://www.newsru.com/sport/10Apr2003/euroleague.html\n</segment>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="41" type="span" parent="97" relname="joint"/>
+		<group id="39" type="span" parent="41" relname="span"/>
+		<group id="38" type="span" parent="35" relname="elaboration"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="84" type="multinuc" parent="96" relname="joint"/>
+		<group id="64" type="span" parent="84" relname="sequence"/>
+		<group id="50" type="multinuc" parent="63" relname="preparation"/>
+		<group id="49" type="span" parent="50" relname="sequence"/>
+		<group id="47" type="span" parent="49" relname="span"/>
+		<group id="46" type="multinuc" parent="43" relname="elaboration"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="59" type="span" parent="63" relname="joint"/>
+		<group id="53" type="multinuc" parent="59" relname="span"/>
+		<group id="58" type="span" parent="53" relname="elaboration"/>
+		<group id="57" type="multinuc" parent="54" relname="elaboration"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="83" type="multinuc" parent="84" relname="sequence"/>
+		<group id="67" type="span" parent="83" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="74" type="span" parent="82" relname="joint"/>
+		<group id="73" type="span" parent="68" relname="elaboration"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="81" type="multinuc" parent="82" relname="joint"/>
+		<group id="79" type="span" parent="81" relname="comparison"/>
+		<group id="77" type="multinuc" parent="79" relname="span"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="91" type="multinuc" parent="95" relname="joint"/>
+		<group id="87" type="span" parent="91" relname="joint"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="98" type="span"/>
+	</body>
+</rst>

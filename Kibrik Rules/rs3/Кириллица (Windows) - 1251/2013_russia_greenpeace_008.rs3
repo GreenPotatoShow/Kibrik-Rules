@@ -1,0 +1,101 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="concession" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="41" parent="118" relname="preparation">В Мурманске неизвестные с ножами украли у активистов Greenpeace \"символ несправедливого суда\"\n\</segment>
+		<segment id="42" parent="48" relname="span">nАктивисты Greenpeace в Мурманске в результате нападения вооруженных злоумышленников лишились клетки,</segment>
+		<segment id="43" parent="47" relname="span">которую планировали использовать</segment>
+		<segment id="44" parent="45" relname="purpose">для проведения протестной акции,</segment>
+		<segment id="45" parent="46" relname="span">связанной с судом над своими соратниками.</segment>
+		<segment id="49" parent="53" relname="span">Впрочем, инцидент на планы экологов не повлиял.\n\n\"Мы обратились в полицию,</segment>
+		<segment id="50" parent="52" relname="span">она этим занимается,</segment>
+		<segment id="51" parent="50" relname="elaboration">сейчас полицейские в нашем офисе\",</segment>
+		<segment id="55" parent="54" relname="attribution">- сообщила \"Интерфаксу\" в пятницу пресс-секретарь Greenpeace России Татьяна Васильева.</segment>
+		<segment id="57" parent="60" relname="attribution">В свою очередь в пресс-службе ГУ МВД по Мурманской области \"Русской службе новостей\" заявили,</segment>
+		<segment id="58" parent="60" relname="span">что в настоящее время уточняются все обстоятельства произошедшего.\n\n\"Планировался одиночный пикет - активист в клетке.</segment>
+		<segment id="59" parent="58" relname="interpretation-evaluation">Клетка - символ несправедливого суда.</segment>
+		<segment id="62" parent="64" relname="span">Но ночью она исчезла</segment>
+		<segment id="63" parent="62" relname="elaboration">- все зафиксировано камерами слежения.</segment>
+		<segment id="65" parent="66" relname="joint">Также прокололи шины машины, которая стояла на месте нашей\",</segment>
+		<segment id="67" parent="66" relname="attribution">- сказала Васильева \"Интерфаксу\".</segment>
+		<segment id="70" parent="72" relname="span">\"На видео шесть человек в масках с ножами.</segment>
+		<segment id="71" parent="70" relname="elaboration">Грузят клетку в свою машину\",</segment>
+		<segment id="73" parent="72" relname="attribution">- уточнила пресс-секретарь.</segment>
+		<segment id="75" parent="86" relname="attribution">По ее словам,</segment>
+		<segment id="76" parent="82" relname="sequence">клетку должны были установить у здания Октябрьского районного суда в Мурманске,</segment>
+		<segment id="77" parent="81" relname="span">где в пятницу рассматривается апелляция на арест четырех членов команды корабля Arctic Sunrise.\n\nКак говорится на сайте Greenpeace,</segment>
+		<segment id="78" parent="79" relname="concession">несмотря на \"провокацию\" с реквизитом,</segment>
+		<segment id="79" parent="80" relname="span">одиночный пикет у здания суда все же состоялся.\n\nРанее мурманский суд отправил под арест 30 участников команды судна Arctic Sunrise,</segment>
+		<segment id="83" parent="85" relname="span">задержанного российскими пограничниками</segment>
+		<segment id="84" parent="83" relname="cause-effect">за попытку провести акцию протеста против нефтедобычи в Печорском море.</segment>
+		<segment id="88" parent="90" relname="joint">Экологов доставили на берег</segment>
+		<segment id="89" parent="90" relname="joint">и поместили в изоляторы временного содержания Мурманска и ближайших городов.</segment>
+		<segment id="91" parent="93" relname="span">Всем арестованным предъявлено обвинение в пиратстве.\n\nАкции протеста в защиту экологов пройдут по всему миру\n\nВ Мурманске, Москве и других городах России и мира</segment>
+		<segment id="92" parent="91" relname="cause-effect">в пятницу проходят митинги протеста в поддержку арестованных экологов в рамках акций \"30 дней несправедливости\".</segment>
+		<segment id="95" parent="98" relname="attribution">По данным сайта Greenpeace,</segment>
+		<segment id="96" parent="98" relname="joint">на сегодня \"запланировано множество интересного\".\n\nВ частности, активисты Китая выйдут на акцию в Тибете у подножия горы Эверест,</segment>
+		<segment id="97" parent="98" relname="joint">также состоится митинг у памятника Махатме Ганди в Мехико.</segment>
+		<segment id="100" parent="101" relname="joint">Запланировано протестное мероприятие в Нидерландах в родном городе Оудесхипе одного из задержанных активистов - Маннеса Убелса и в городе-побратиме Мурманска.</segment>
+		<segment id="102" parent="106" relname="sequence">Ожидается \"красочная акция с цветами\" в Бангкоке,</segment>
+		<segment id="103" parent="105" relname="span">в Германии продолжатся пикеты у российского посольства в Берлине,</segment>
+		<segment id="104" parent="103" relname="elaboration">которые проходят с 19 сентября.\n\nТакже сторонники экологов выйдут в индийском городе Бангалор в Парк Свободы,</segment>
+		<segment id="107" parent="109" relname="joint">где когда-то стояла тюрьма,</segment>
+		<segment id="108" parent="109" relname="joint">и проведут сидячую забастовку продолжительностью 24 часа в Неаполе - родном городе еще одного задержанного активиста Кристиана д'Аллессандро.\n\nВ Москве на 16:00 намечена согласованная с властями акция в Гайд-парке в ЦПКиО имени Горького.</segment>
+		<segment id="111" parent="112" relname="sequence">В ней будут участвовать экологи, фотограф Митя Алешковский, представитель Комитета спасения Печоры, защитница Химкинского леса Евгения Чирикова, руководитель энергетической программы Greenpeace России Владимир Чупров и другие.\n\nИсточник: https://www.newsru.com/russia/18Oct2013/greenpeace.html\n</segment>
+		<group id="118" type="multinuc" parent="119" relname="span"/>
+		<group id="56" type="span" parent="118" relname="joint"/>
+		<group id="54" type="multinuc" parent="56" relname="span"/>
+		<group id="48" type="span" parent="54" relname="joint"/>
+		<group id="47" type="span" parent="42" relname="elaboration"/>
+		<group id="46" type="span" parent="43" relname="purpose"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="52" type="span" parent="49" relname="elaboration"/>
+		<group id="117" type="span" parent="118" relname="joint"/>
+		<group id="69" type="multinuc" parent="116" relname="preparation"/>
+		<group id="61" type="span" parent="69" relname="contrast"/>
+		<group id="60" type="span" parent="61" relname="span"/>
+		<group id="68" type="span" parent="69" relname="contrast"/>
+		<group id="66" type="multinuc" parent="68" relname="span"/>
+		<group id="64" type="span" parent="66" relname="joint"/>
+		<group id="116" type="span" parent="117" relname="span"/>
+		<group id="74" type="span" parent="115" relname="preparation"/>
+		<group id="72" type="span" parent="74" relname="span"/>
+		<group id="115" type="multinuc" parent="116" relname="span"/>
+		<group id="87" type="span" parent="115" relname="joint"/>
+		<group id="86" type="multinuc" parent="87" relname="span"/>
+		<group id="82" type="multinuc" parent="86" relname="sequence"/>
+		<group id="81" type="span" parent="82" relname="sequence"/>
+		<group id="80" type="span" parent="77" relname="concession"/>
+		<group id="85" type="span" parent="86" relname="sequence"/>
+		<group id="114" type="multinuc" parent="115" relname="joint"/>
+		<group id="94" type="span" parent="114" relname="joint"/>
+		<group id="90" type="multinuc" parent="94" relname="span"/>
+		<group id="93" type="span" parent="90" relname="elaboration"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="101" type="multinuc" parent="113" relname="joint"/>
+		<group id="99" type="span" parent="101" relname="joint"/>
+		<group id="98" type="multinuc" parent="99" relname="span"/>
+		<group id="112" type="multinuc" parent="113" relname="joint"/>
+		<group id="110" type="multinuc" parent="112" relname="sequence"/>
+		<group id="106" type="multinuc" parent="110" relname="sequence"/>
+		<group id="105" type="span" parent="106" relname="sequence"/>
+		<group id="109" type="multinuc" parent="110" relname="sequence"/>
+		<group id="119" type="span"/>
+	</body>
+</rst>

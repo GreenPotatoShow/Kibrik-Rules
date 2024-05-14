@@ -1,0 +1,44 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="restatement" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="17" relname="attribution">МИД Азербайджана ответил</segment>
+		<segment id="17" parent="18" relname="span">на предложение Армении не применять силу\n\</segment>
+		<segment id="19" parent="21" relname="span">nВнешнеполитическое ведомство Азербайджана ответило на призыв президента Армении Сержа Саргсяна подписать договор о неприменении силы,</segment>
+		<segment id="20" parent="19" relname="attribution">сообщает 1news.az.\n\</segment>
+		<segment id="22" parent="24" relname="span">n\"Прежде чем призывать другую сторону не применять силу,</segment>
+		<segment id="23" parent="22" relname="cause-effect">пусть президент Армении ответит на вопрос, кто первым применил насилие.</segment>
+		<segment id="26" parent="28" relname="span">Если глава Армении хочет ликвидировать угрозу применения силы,</segment>
+		<segment id="27" parent="26" relname="cause-effect">пусть поспособствует устранению причин, которые могут привести к применению силы.</segment>
+		<segment id="29" parent="30" relname="restatement">То есть выведет армянские вооруженные формирования из оккупированных территорий Азербайджана\",</segment>
+		<segment id="32" parent="39" relname="attribution">- заявил официальный представитель МИД Азербайджана Эльхан Полухов,</segment>
+		<segment id="33" parent="35" relname="span">комментируя призыв президента Армении Сержа Саргсяна Азербайджану,</segment>
+		<segment id="34" parent="33" relname="elaboration">сделанный им по телеканалу «Евроньюс»,</segment>
+		<segment id="36" parent="38" relname="span">подписать договор о неприменении силы.\n\n\"Азербайджан в своих действиях опирается только на принципы и нормы международного права,</segment>
+		<segment id="37" parent="36" relname="elaboration">которые в том числе подразумевают право на восстановление территориальной целостности\"</segment>
+		<segment id="42" parent="41" relname="attribution">,- отметил официальный представитель МИД Азербайджана.\n\nИсточник: https://www.newsru.com/world/20Mar2010/azerb.html\n</segment>
+		<group id="18" type="span" parent="44" relname="span"/>
+		<group id="43" type="span" parent="18" relname="elaboration"/>
+		<group id="41" type="multinuc" parent="43" relname="span"/>
+		<group id="31" type="multinuc" parent="41" relname="joint"/>
+		<group id="25" type="multinuc" parent="31" relname="joint"/>
+		<group id="21" type="span" parent="25" relname="joint"/>
+		<group id="24" type="span" parent="25" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="joint"/>
+		<group id="28" type="span" parent="30" relname="restatement"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="35" type="span" parent="38" relname="attribution"/>
+		<group id="38" type="span" parent="39" relname="span"/>
+		<group id="44" type="span"/>
+	</body>
+</rst>

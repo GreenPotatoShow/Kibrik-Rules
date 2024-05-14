@@ -1,0 +1,80 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="38" relname="span">В Лондоне - плюс 40.</segment>
+		<segment id="35" parent="37" relname="span">Больше всего от жары страдают гвардейцы королевы\n\nЗападная и Центральная Европа продолжают страдать от небывало жаркой погоды,</segment>
+		<segment id="36" parent="35" relname="elaboration">установившейся на континенте.\n\nВ ряде стран отмечены рекордно высокие температуры.</segment>
+		<segment id="39" parent="41" relname="joint">В среду в Лондоне впервые за последние 13 лет столбик термометра поднялся до 40 градуса,</segment>
+		<segment id="40" parent="41" relname="joint">передает Reuters.\n\nЖители британской столицы и туристы пытаются спастись от обжигающего воздуха в фонтанах.</segment>
+		<segment id="42" parent="46" relname="joint">Они ныряют в воду</segment>
+		<segment id="43" parent="45" relname="joint">даже не раздеваясь</segment>
+		<segment id="44" parent="45" relname="joint">и стоят под струями воды.\n\n</segment>
+		<segment id="49" parent="51" relname="span">\"Вообще-то я никогда не мечтал искупаться в лондонском фонтане,</segment>
+		<segment id="50" parent="49" relname="attribution">- говорит итальянец Доменик Ре.</segment>
+		<segment id="53" parent="55" relname="span">- Но из-за этой ужасной жары,</segment>
+		<segment id="54" parent="53" relname="interpretation-evaluation">это было просто потрясающе\".\n\</segment>
+		<segment id="56" parent="64" relname="span">nТяжелее всего приходится гвардейцам королевы</segment>
+		<segment id="57" parent="59" relname="span">- даже в столь жаркую погоду они не могут изменить уставу,</segment>
+		<segment id="58" parent="57" relname="elaboration">который предписывает им носить мундир из плотной ткани и металлическую каску.\n\nГвардейцы ее величества,</segment>
+		<segment id="60" parent="62" relname="joint">несущие почетный караул у королевского комплекса Уайт Холл в центре Лондоне,</segment>
+		<segment id="61" parent="62" relname="joint">обязаны часами фактически без движения восседать на лошади - на самом пекле в центре Лондона.</segment>
+		<segment id="65" parent="68" relname="attribution">Выглядят они,</segment>
+		<segment id="66" parent="67" relname="attribution">как отмечают журналисты,</segment>
+		<segment id="67" parent="68" relname="span">крайне неважно.\n\nВо Франции в городе Оксер,</segment>
+		<segment id="72" parent="69" relname="background">расположенном в центре страны, впервые температура превысила 41 градус,</segment>
+		<segment id="74" parent="76" relname="span">в Лилле был побит рекорд жары,</segment>
+		<segment id="75" parent="74" relname="background">установленный в 1959 году.</segment>
+		<segment id="78" parent="80" relname="span">Одним из самых тяжелых последствий такой погоды являются лесные пожары.\n\nНаиболее драматическая ситуация сложилась в Португалии,</segment>
+		<segment id="79" parent="78" relname="elaboration">которая обратилась за помощью к странам-членам НАТО.</segment>
+		<segment id="81" parent="83" relname="joint">Там огнем уничтожено около 100 тыс. гектаров лесных массивов,</segment>
+		<segment id="82" parent="83" relname="joint">14 человек погибли.</segment>
+		<segment id="84" parent="86" relname="span">В соседней Испании за пять дней сгорели 27 тыс. гектаров.\n\nВ Швейцарии было нарушено железнодорожное движение на линии Люцерна-Цюрих</segment>
+		<segment id="85" parent="84" relname="cause-effect">из-за вызванной жарой деформации рельсов.</segment>
+		<segment id="89" parent="91" relname="span">Кроме того, начали таять ледники,</segment>
+		<segment id="90" parent="89" relname="elaboration">расположенных на высоте до 4 тыс. метров.\n\nВ Западной Европе от последствий жары - лесных пожаров, тепловых ударов и т.д.</segment>
+		<segment id="92" parent="91" relname="elaboration">- скончалось уже 34 человека.\n\nИсточник: https://www.newsru.com/world/07Aug2003/europe_heat.html\n</segment>
+		<group id="52" type="multinuc" parent="98" relname="joint"/>
+		<group id="48" type="span" parent="52" relname="comparison"/>
+		<group id="38" type="span" parent="48" relname="span"/>
+		<group id="37" type="span" parent="34" relname="elaboration"/>
+		<group id="47" type="span" parent="38" relname="elaboration"/>
+		<group id="41" type="multinuc" parent="47" relname="span"/>
+		<group id="46" type="multinuc" parent="41" relname="elaboration"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="comparison"/>
+		<group id="97" type="multinuc" parent="98" relname="joint"/>
+		<group id="55" type="span" parent="97" relname="joint"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="64" type="span" parent="96" relname="joint"/>
+		<group id="63" type="multinuc" parent="56" relname="cause-effect"/>
+		<group id="59" type="span" parent="63" relname="joint"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="77" type="span" parent="95" relname="joint"/>
+		<group id="73" type="span" parent="77" relname="span"/>
+		<group id="69" type="span" parent="73" relname="span"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="76" type="span" parent="73" relname="background"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="88" type="span" parent="94" relname="joint"/>
+		<group id="80" type="span" parent="88" relname="span"/>
+		<group id="87" type="multinuc" parent="80" relname="elaboration"/>
+		<group id="83" type="multinuc" parent="87" relname="joint"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="93" type="span" parent="94" relname="joint"/>
+		<group id="91" type="span" parent="93" relname="span"/>
+		<group id="98" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,93 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="37" parent="39" relname="joint">Госзаказчиков, замеченных в склонности к роскоши,</segment>
+		<segment id="38" parent="39" relname="joint">внесут в черный список\n\nДо 1 ноября Минэкономразвития должно внести в правительство скандально известный законопроект о Федеральной контрактной системе.</segment>
+		<segment id="40" parent="44" relname="comparison">На сайте министерства был размещен последний вариант документа, отправленного на второй круг согласований в министерства и ведомства.\n\nОднако в Минэкономразвития не исключают,</segment>
+		<segment id="41" parent="43" relname="span">что и этот во многом компромиссный вариант вряд ли будет полностью одобрен,</segment>
+		<segment id="42" parent="41" relname="elaboration">пишет \"Российская газета\".\n\nНаиболее принципиальные поправки в законопроект связаны с введением реестра недобросовестных заказчиков наряду с реестром недобросовестных поставщиков, введением дисквалификации (увольнения без права продолжения госслужбы) как меры ответственности заказчика.</segment>
+		<segment id="46" parent="52" relname="joint">Появилась отдельная статья по экспертизе при оценке конкурсных заявок и приемке результатов научных исследований.\n\nПо замыслу министерства,</segment>
+		<segment id="47" parent="51" relname="span">недобросовестным будет считаться заказчик,</segment>
+		<segment id="48" parent="50" relname="span">у которого в текущем году обнаружены нарушения в 5-10% закупок</segment>
+		<segment id="49" parent="48" relname="elaboration">- такой порог устанавливается по стоимости и по общему числу торгов.</segment>
+		<segment id="53" parent="57" relname="span">Причем учитываться будут не только уже совершенные нарушения, но и планируемые</segment>
+		<segment id="54" parent="56" relname="span">- ведь в ФКС будет отслеживаться план закупок на весь год.\n\nК стандартным нарушениям законопроект добавляет два новых - необоснованный заказ и низкая эффективность закупок</segment>
+		<segment id="55" parent="54" relname="elaboration">(когда купленный товар или услуга не используются),</segment>
+		<segment id="58" parent="59" relname="attribution">пишут \"Ведомости\".\n\nФАС продолжает настаивать на том,</segment>
+		<segment id="59" parent="60" relname="span">что главным инструментом торгов по госзакупкам должен быть электронный аукцион на понижение цены.</segment>
+		<segment id="63" parent="65" relname="span">С точки зрения антимонопольщиков это наиболее эффективная форма</segment>
+		<segment id="64" parent="63" relname="purpose">для предотвращения договорных торгов и установления оптимальной цены</segment>
+		<segment id="66" parent="67" relname="restatement">.\n\nФАС законопроект не поддержит,</segment>
+		<segment id="68" parent="67" relname="attribution">говорит сотрудник ведомства.</segment>
+		<segment id="71" parent="73" relname="span">Предлагаемый реестр не защитит интересы поставщиков,</segment>
+		<segment id="72" parent="71" relname="attribution">считает руководитель партнерства профессионалов госзаказа Екатерина Лезина:</segment>
+		<segment id="74" parent="78" relname="joint">\"Заказчики придумают, как обходить его,</segment>
+		<segment id="75" parent="76" relname="condition">так же как есть пути обхода реестра недобросовестных поставщиков\".\n\nПока же, как свидетельствует сайт госзакупок,</segment>
+		<segment id="76" parent="77" relname="span">госслужащие предпочитают покупать за казенный счет дорогие автомобили и эксклюзивную мебель.</segment>
+		<segment id="79" parent="83" relname="span">А ФСБ прославилась закупкой комфортабельного катера,</segment>
+		<segment id="80" parent="82" relname="joint">оборудованного для отдыха на воде,</segment>
+		<segment id="81" parent="82" relname="joint">и очень дорогих телевизоров.\n\</segment>
+		<segment id="84" parent="87" relname="attribution">nНапомним, что почти год назад президент Медведев решил</segment>
+		<segment id="85" parent="87" relname="span">реформировать систему госзакупок,</segment>
+		<segment id="86" parent="85" relname="elaboration">в которой \"теряется\" до триллиона бюджетных денег.</segment>
+		<segment id="89" parent="95" relname="span">Практически сразу возникли серьезные разногласия между Федеральной антимонопольной службой,</segment>
+		<segment id="90" parent="93" relname="attribution">которая настаивала на том,</segment>
+		<segment id="91" parent="93" relname="span">что это надо делать на базе действующего 94-ФЗ, и Минэкономразвития,</segment>
+		<segment id="92" parent="91" relname="elaboration">которое предложило проводить реформу с помощью Федеральной контрактной системы (ФКС).</segment>
+		<segment id="102" parent="103" relname="cause-effect">Оба ведомства подготовили собственные варианты законопроектов.</segment>
+		<segment id="103" parent="104" relname="span">В итоге решено было отталкиваться от проекта, предложенного Министерством экономического развития.</segment>
+		<segment id="105" parent="106" relname="contrast">Но при этом учесть аргументы и предложения всех заинтересованных сторон.\n\nИсточник: https://www.newsru.com/finance/19Oct2011/goszakaz.html\n</segment>
+		<group id="101" type="multinuc" parent="107" relname="span"/>
+		<group id="45" type="span" parent="101" relname="joint"/>
+		<group id="39" type="multinuc" parent="44" relname="preparation"/>
+		<group id="44" type="multinuc" parent="45" relname="span"/>
+		<group id="43" type="span" parent="44" relname="comparison"/>
+		<group id="100" type="multinuc" parent="101" relname="joint"/>
+		<group id="70" type="span" parent="100" relname="joint"/>
+		<group id="62" type="multinuc" parent="70" relname="span"/>
+		<group id="52" type="multinuc" parent="62" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="50" type="span" parent="47" relname="elaboration"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="57" type="span" parent="61" relname="joint"/>
+		<group id="56" type="span" parent="53" relname="cause-effect"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="69" type="span" parent="62" relname="interpretation-evaluation"/>
+		<group id="67" type="multinuc" parent="69" relname="span"/>
+		<group id="65" type="span" parent="67" relname="restatement"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="73" type="span" parent="98" relname="preparation"/>
+		<group id="98" type="multinuc" parent="99" relname="span"/>
+		<group id="78" type="multinuc" parent="98" relname="joint"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="97" type="span" parent="98" relname="joint"/>
+		<group id="83" type="span" parent="97" relname="span"/>
+		<group id="82" type="multinuc" parent="79" relname="purpose"/>
+		<group id="96" type="multinuc" parent="83" relname="elaboration"/>
+		<group id="88" type="span" parent="96" relname="joint"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="95" type="span" parent="96" relname="joint"/>
+		<group id="94" type="span" parent="89" relname="elaboration"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="106" type="multinuc" parent="101" relname="interpretation-evaluation"/>
+		<group id="104" type="span" parent="106" relname="contrast"/>
+		<group id="107" type="span"/>
+	</body>
+</rst>

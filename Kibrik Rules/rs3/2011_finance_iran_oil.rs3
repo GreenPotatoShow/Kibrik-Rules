@@ -1,0 +1,30 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="10" parent="12" relname="span">Нефть растет на новостях о возможных протестах в Иране\n\nЦены на нефть на торгах во вторник незначительно растут на фоне сообщений из Ирана о запланированных акциях протеста,</segment>
+		<segment id="11" parent="10" relname="cause-effect">которые вызывают беспокойство инвесторов касательно возможных перебоев с поставками иранской нефти,</segment>
+		<segment id="13" parent="12" relname="attribution">передает Bloomberg.\n\nЦена апрельских фьючерсов на американскую легкую нефть марки WTI (Light Sweet Crude Oil) на электронных торгах в Нью-Йорке по состоянию на 14:45 (мск) выросла на 0,1 доллара, или на 0,1% - до 97,07 доллара за баррель.</segment>
+		<segment id="15" parent="18" relname="attribution">Спотовая цена на североморскую нефтяную смесь марки Brent повысилась на 0,26 доллара, или на 0,23% - до 112,06 доллара за баррель.\n\nПо итогам торгов понедельника стоимость апрельских фьючерсов на нефть WTI составляла 96,97 доллара за баррель.\n\nРанее иранский оппозиционный сайт Kaleme сообщил,</segment>
+		<segment id="16" parent="18" relname="joint">что лидеры иранской оппозиции Мусави и Кяруби арестованы</segment>
+		<segment id="17" parent="18" relname="joint">и направлены в тюрьму Хешматиех в Тегеране.</segment>
+		<segment id="20" parent="21" relname="attribution">В связи с этим иранская оппозиция заявила</segment>
+		<segment id="21" parent="22" relname="span">о намерении провести митинги и акции протеста.\n\nПозднее сегодня официальные власти Ирана опровергли сообщения об аресте,</segment>
+		<segment id="23" parent="22" relname="attribution">передает РИА \"Новости\".\n\nИсточник: https://www.newsru.com/finance/01Mar2011/iran_oil.html\n</segment>
+		<group id="14" type="span" parent="26" relname="joint"/>
+		<group id="12" type="span" parent="14" relname="span"/>
+		<group id="25" type="span" parent="26" relname="joint"/>
+		<group id="19" type="span" parent="25" relname="span"/>
+		<group id="18" type="multinuc" parent="19" relname="span"/>
+		<group id="24" type="span" parent="19" relname="cause-effect"/>
+		<group id="22" type="span" parent="24" relname="span"/>
+		<group id="26" type="multinuc"/>
+	</body>
+</rst>

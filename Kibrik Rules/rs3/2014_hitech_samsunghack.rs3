@@ -1,0 +1,57 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="58" relname="preparation">В смартфонах Samsung обнаружили опасную уязвимость\n\</segment>
+		<segment id="22" parent="23" relname="attribution">nСпециалисты Национального института стандартов и технологий США (NIST) сообщили</segment>
+		<segment id="23" parent="24" relname="span">о серьезной уязвимости в программном обеспечении смартфонов Samsung и, в частности, в функции Find My Mobile,</segment>
+		<segment id="25" parent="24" relname="attribution">сообщает портал Onliner.\n\nСервис Find My Mobile представляет собой аналог сервисов Android Device Manager и Find My iPhone.</segment>
+		<segment id="27" parent="29" relname="joint">С его помощью пользователи могут удаленно заблокировать смартфон</segment>
+		<segment id="28" parent="29" relname="joint">или отследить его местоположение.\n\</segment>
+		<segment id="31" parent="34" relname="attribution">nЭксперты установили,</segment>
+		<segment id="32" parent="34" relname="span">что система не проверяет источник данных о ключе безопасности,</segment>
+		<segment id="33" parent="32" relname="purpose">необходимом для управления смартфоном и передаваемом через сеть.</segment>
+		<segment id="36" parent="40" relname="joint">Эта уязвимость дает хакерам потенциальную возможность удаленно заблокировать смартфон жертвы,</segment>
+		<segment id="37" parent="39" relname="joint">позвонить с него</segment>
+		<segment id="38" parent="39" relname="joint">или даже удалить с него все файлы.</segment>
+		<segment id="42" parent="48" relname="joint">Специалисты оценили опасность обнаруженного бага в 7,8 балла из 10,</segment>
+		<segment id="43" parent="47" relname="span">а возможность его эксплуатации оценивается в максимальные 10 баллов.\n\nОдин из экспертов NIST по имени Мохамед Басет разместил на YouTube видеоролик,</segment>
+		<segment id="44" parent="45" relname="attribution">в котором продемонстрировал,</segment>
+		<segment id="45" parent="46" relname="span">как именно можно получить доступ к устройству с включенной функцией Find My Mobile.\n\</segment>
+		<segment id="49" parent="51" relname="contrast">nКомпания Samsung получила уведомление об обнаруженной ошибке,</segment>
+		<segment id="50" parent="51" relname="contrast">однако пока ее представители никак не прокомментировали ситуацию.</segment>
+		<segment id="52" parent="53" relname="condition">Тем, кто опасается вторжения хакеров,</segment>
+		<segment id="53" parent="54" relname="span">специалисты рекомендуют отключить функцию удаленного поиска и управления смартфоном до устранения уязвимости.\n\nИсточник: https://www.newsru.com/hitech/28Oct2014/samsunghack.html\n</segment>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="30" type="multinuc" parent="58" relname="joint"/>
+		<group id="26" type="span" parent="30" relname="joint"/>
+		<group id="24" type="span" parent="26" relname="span"/>
+		<group id="29" type="multinuc" parent="30" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="41" type="span" parent="57" relname="joint"/>
+		<group id="35" type="span" parent="41" relname="span"/>
+		<group id="34" type="span" parent="35" relname="span"/>
+		<group id="40" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="48" type="multinuc" parent="56" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="46" type="span" parent="43" relname="elaboration"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="51" type="multinuc" parent="55" relname="span"/>
+		<group id="54" type="span" parent="51" relname="evidence"/>
+		<group id="59" type="span"/>
+	</body>
+</rst>

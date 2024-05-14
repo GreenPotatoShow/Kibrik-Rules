@@ -1,0 +1,36 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="20" relname="joint">Борис Беккер и Джон Макинрой сыграют в Копенгагене\n\nДатская столица становится ареной выступлений бывших звезд мирового спорта.</segment>
+		<segment id="13" parent="15" relname="span">Вслед за поединком экс-чемпиона мира по боксу Майка Тайсона и датского тяжеловеса Бриана Нильсена,</segment>
+		<segment id="14" parent="13" relname="background">состоявшегося в ночь на 14 октября,</segment>
+		<segment id="16" parent="18" relname="span">здесь пройдет показательный матч двух лучших в прошлом теннисистов-профессионалов - немца Бориса Беккера и американца Джона Макинроя</segment>
+		<segment id="17" parent="16" relname="elaboration">.\n\</segment>
+		<segment id="21" parent="22" relname="condition">nЕсли Макинрой ранее выступал на датских кортах,</segment>
+		<segment id="22" parent="23" relname="span">то для немца это будет своеобразная премьера.</segment>
+		<segment id="24" parent="26" relname="span">За всю свою стремительную и успешную карьеру Беккер ни разу не был в Дании,</segment>
+		<segment id="25" parent="24" relname="cause-effect">поскольку здесь не проводятся турниры \"Большого шлема\".</segment>
+		<segment id="28" parent="30" relname="joint">Матч пройдет 27 ноября в три сета</segment>
+		<segment id="29" parent="30" relname="joint">и будет посвящен 125-летнему юбилею Копенгагенского футбольного клуба, одного из старейших в Европе.\n\nИсточник: https://www.newsru.com/sport/18Oct2001/mcenroebacker.html\n</segment>
+		<group id="20" type="multinuc" parent="32" relname="span"/>
+		<group id="19" type="multinuc" parent="20" relname="joint"/>
+		<group id="15" type="span" parent="19" relname="sequence"/>
+		<group id="18" type="span" parent="19" relname="sequence"/>
+		<group id="31" type="span" parent="20" relname="elaboration"/>
+		<group id="27" type="span" parent="31" relname="span"/>
+		<group id="23" type="span" parent="27" relname="span"/>
+		<group id="26" type="span" parent="23" relname="elaboration"/>
+		<group id="30" type="multinuc" parent="27" relname="elaboration"/>
+		<group id="32" type="span"/>
+	</body>
+</rst>

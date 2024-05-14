@@ -1,0 +1,92 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="39" parent="40" relname="attribution">Facebook сообщила</segment>
+		<segment id="40" parent="41" relname="span">об удалении десятков тысяч фейковых аккаунтов перед выборами в ФРГ\n\nСоциальная сеть Facebook сообщила о массовой \"зачистке\" аккаунтов перед прошедшими парламентскими выборами в Германии.</segment>
+		<segment id="42" parent="46" relname="span">В результате проделанной работы были удалены десятки тысяч фальшивых страниц,</segment>
+		<segment id="43" parent="45" relname="span">говорится в распространенном сообщении соцсети.\n\n\"После сообщений об иностранном вмешательстве в преддверии президентских выборов в США и Франции мы тесно сотрудничали с немецкими властями по нескольким инициативам, направленным на борьбу с дезинформацией,</segment>
+		<segment id="44" parent="43" relname="purpose">чтобы сделать Facebook более безопасной и защищенной средой, предназначенной для подлинной гражданской активности\",</segment>
+		<segment id="48" parent="47" relname="attribution">- говорится в сообщении, опубликованном от имени представителя соцсети Ричарда Аллана.\n\</segment>
+		<segment id="50" parent="53" relname="attribution">nПо его словам,</segment>
+		<segment id="51" parent="52" relname="purpose">для того, чтобы предотвратить случаи злоупотребления Facebook,</segment>
+		<segment id="52" parent="53" relname="span">руководство соцсети запустило новую инициативу \"по удалению фальшивых аккаунтов путем выявления подозрительной активности\".</segment>
+		<segment id="55" parent="61" relname="joint">В результате в течение месяца до выборов были удалены \"десятки тысяч\" поддельных аккаунтов, созданных в ФРГ.\n\n- Цукерберг ответил на обвинения Трампа насчет участия Facebook в сговоре против него\n\nТакже в Facebook приняли и другие меры:</segment>
+		<segment id="56" parent="60" relname="sequence">протестировали функцию \"Похожие статьи\" (Related Articles),</segment>
+		<segment id="57" parent="59" relname="joint">создали вкладку,</segment>
+		<segment id="58" parent="59" relname="joint">щелкнув по которой, пользователи могли ознакомиться с предвыборными программами политических партий, и т. д.\n\nВ ходе работы Facebook тесно сотрудничал с немецкими властями, в том числе с Федеральным ведомством по безопасности информационной техники ФРГ (BSI).</segment>
+		<segment id="62" parent="68" relname="joint">\"Мы провели обучение членов парламента (ФРГ) и кандидатов по вопросам безопасности в интернете.</segment>
+		<segment id="63" parent="65" relname="span">Мы также создали специальный канал связи с BSI</segment>
+		<segment id="64" parent="63" relname="purpose">для решения вопросов, связанных с безопасностью и подлинностью в контексте федеральных выборов\",</segment>
+		<segment id="66" parent="65" relname="attribution">- говорится в заявлении Facebook.\n\nПарламентские выборы в Германии прошли 24 сентября.</segment>
+		<segment id="71" parent="110" relname="preparation">По их итогам в бундестаг прошли шесть партий, в том числе впервые - националистическая \"Альтернатива для Германии\".</segment>
+		<segment id="72" parent="75" relname="attribution">Перед выборами глава Facebook Марк Цукерберг заявил,</segment>
+		<segment id="73" parent="75" relname="sequence">что следов вмешательства в ход выборов в Германии с помощью соцсети обнаружено не было.\n\nВместе с тем в начале сентября в Facebook заявили,</segment>
+		<segment id="74" parent="75" relname="sequence">что аккаунты, связанные с Россией, в течение двух лет покупали политическую рекламу, в том числе перед прошедшими в ноябре 2016 года президентскими выборами в США.</segment>
+		<segment id="77" parent="82" relname="attribution">По данным компании,</segment>
+		<segment id="78" parent="82" relname="span">с июня 2015 года по май 2017 года 470 таких аккаунтов потратили около 100 тысяч долларов на три тысячи рекламных сообщений,</segment>
+		<segment id="79" parent="81" relname="span">которые могли повлиять на исход голосования.\n\nАмериканские СМИ связывали заказ рекламы с работой \"фабрики троллей\",</segment>
+		<segment id="80" parent="79" relname="elaboration">которую курирует петербургский бизнесмен Евгений Пригожин,</segment>
+		<segment id="84" parent="91" relname="attribution">более известный как \"личный повар Путина\".\n\n21 сентября Цукерберг сообщил,</segment>
+		<segment id="85" parent="91" relname="joint">что его компания активно сотрудничает с американскими чиновниками</segment>
+		<segment id="86" parent="89" relname="cause-effect">и помогает им расследовать возможное вмешательство российских властей в выборы президента США посредством покупки политической рекламы в соцсети.\n\nВ апреле руководство Facebook сообщало,</segment>
+		<segment id="87" parent="89" relname="joint">что приняло меры против фейковых аккаунтов,</segment>
+		<segment id="88" parent="89" relname="joint">распространяющих дезинформацию о выборах во Франции.</segment>
+		<segment id="94" parent="101" relname="attribution">Источники агентства Reuters сообщали,</segment>
+		<segment id="95" parent="101" relname="span">что число аккаунтов, зарегистрированных во французском сегменте соцсети,</segment>
+		<segment id="96" parent="100" relname="restatement">приостановленных за ведение пропаганды или спам</segment>
+		<segment id="99" parent="100" relname="restatement">(во многом в связи с выборами), выросло до 70 тысяч.</segment>
+		<segment id="103" parent="105" relname="joint">В апреле компания выявила</segment>
+		<segment id="104" parent="105" relname="joint">и отключила 30 тысяч таких учетных записей.</segment>
+		<segment id="106" parent="107" relname="joint">В Facebook не стали опровергать эти цифры.\n\nИсточник: https://www.newsru.com/world/28Sep2017/fbdelfake.html\n</segment>
+		<group id="49" type="span" parent="113" relname="joint"/>
+		<group id="47" type="span" parent="49" relname="span"/>
+		<group id="41" type="span" parent="46" relname="cause-effect"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="45" type="span" parent="42" relname="elaboration"/>
+		<group id="112" type="multinuc" parent="113" relname="joint"/>
+		<group id="70" type="span" parent="112" relname="joint"/>
+		<group id="54" type="span" parent="69" relname="cause-effect"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="69" type="span" parent="70" relname="span"/>
+		<group id="61" type="multinuc" parent="69" relname="span"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="59" type="multinuc" parent="60" relname="sequence"/>
+		<group id="68" type="multinuc" parent="61" relname="elaboration"/>
+		<group id="67" type="span" parent="68" relname="joint"/>
+		<group id="65" type="span" parent="67" relname="span"/>
+		<group id="111" type="span" parent="112" relname="joint"/>
+		<group id="110" type="multinuc" parent="111" relname="span"/>
+		<group id="76" type="span" parent="110" relname="joint"/>
+		<group id="75" type="multinuc" parent="76" relname="span"/>
+		<group id="109" type="multinuc" parent="110" relname="joint"/>
+		<group id="93" type="multinuc" parent="109" relname="joint"/>
+		<group id="83" type="span" parent="93" relname="joint"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="81" type="span" parent="78" relname="elaboration"/>
+		<group id="92" type="span" parent="93" relname="joint"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="89" type="multinuc" parent="90" relname="span"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="102" type="span" parent="108" relname="joint"/>
+		<group id="101" type="span" parent="102" relname="span"/>
+		<group id="100" type="multinuc" parent="95" relname="elaboration"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="105" type="multinuc" parent="107" relname="joint"/>
+		<group id="113" type="multinuc"/>
+	</body>
+</rst>

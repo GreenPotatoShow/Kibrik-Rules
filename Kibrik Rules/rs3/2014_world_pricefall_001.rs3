@@ -1,0 +1,97 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="41" parent="43" relname="span">Германия \"празднует\" рекордное падение цен на еду</segment>
+		<segment id="42" parent="41" relname="cause-effect">- благодаря российскому эмбарго\n\</segment>
+		<segment id="44" parent="48" relname="span">nВ Германии отмечается рекордное удешевление ряда товаров:</segment>
+		<segment id="45" parent="47" relname="joint">продукты подешевели благодаря российскому эмбарго,</segment>
+		<segment id="46" parent="47" relname="joint">а промышленные товары - из-за курса евро и дешевой нефти.</segment>
+		<segment id="49" parent="51" relname="span">Выгоднее всего покупать сейчас фрукты и овощи,</segment>
+		<segment id="50" parent="49" relname="attribution">сообщает DW:</segment>
+		<segment id="52" parent="54" relname="comparison">тут цены снизились на 30-44%.</segment>
+		<segment id="53" parent="54" relname="comparison">России же тем временем рекомендуют готовиться к значительному росту цен на продукты нынешней зимой.\n\nКрупнейшая бульварная газета Германии Bild вышла с огромным заголовком на первой странице: \"Обвал цен!\".</segment>
+		<segment id="57" parent="61" relname="same-unit">Со ссылкой на Федеральное статистическое ведомство Германии</segment>
+		<segment id="58" parent="60" relname="span">издание опубликовало список из 87 продовольственных и промышленных товаров,</segment>
+		<segment id="59" parent="58" relname="elaboration">цены на которые с начала 2014 года снизились больше всего.</segment>
+		<segment id="62" parent="61" relname="elaboration">Лидирует салат, подешевевший на 44%.</segment>
+		<segment id="64" parent="72" relname="span">Восемь первых строчек вслед за салатом занимают фрукты и овощи.</segment>
+		<segment id="65" parent="71" relname="comparison">Тыквы, баклажаны и кукуруза подешевели на 36,4%,</segment>
+		<segment id="66" parent="70" relname="comparison">томаты - на 35,2%,</segment>
+		<segment id="67" parent="69" relname="comparison">огурцы - на 32,7%,</segment>
+		<segment id="68" parent="69" relname="comparison">виноград - на 28,9%, клубника и малина - на 27,5%, картофель - на 19,3%, персики - на 19,2%.</segment>
+		<segment id="74" parent="88" relname="span">\"Никогда еще ходить по магазинам не было так приятно\",</segment>
+		<segment id="75" parent="87" relname="joint">- резюмирует Bild.\n\nТаким образом, продовольственное эмбарго, введенное Россией 7 августа в ответ на западные санкции,</segment>
+		<segment id="76" parent="80" relname="joint">привело,</segment>
+		<segment id="77" parent="78" relname="attribution">как и предсказывали специалисты,</segment>
+		<segment id="78" parent="79" relname="span">к существенному снижению потребительских цен в Германии,</segment>
+		<segment id="81" parent="83" relname="span">и без того оказавшихся под давлением</segment>
+		<segment id="82" parent="81" relname="cause-effect">из-за очень хорошего урожая,</segment>
+		<segment id="84" parent="83" relname="attribution">отмечает DW.</segment>
+		<segment id="89" parent="91" relname="joint">Немецким фермерам удалось в этом году собрать рекордное количество картофеля</segment>
+		<segment id="90" parent="91" relname="joint">и получить хороший урожай яблок.\n\nК тому же,</segment>
+		<segment id="92" parent="91" relname="attribution">отмечают наблюдающие за рынком эксперты,</segment>
+		<segment id="94" parent="96" relname="span">в Германию</segment>
+		<segment id="95" parent="94" relname="cause-effect">из-за российского эмбарго</segment>
+		<segment id="97" parent="101" relname="span">хлынула продукция из Польши,</segment>
+		<segment id="98" parent="100" relname="joint">которая является крупнейшим в мире экспортером яблок</segment>
+		<segment id="99" parent="100" relname="joint">и специализировалась именно на поставках в Россию.</segment>
+		<segment id="104" parent="106" relname="comparison">В берлинских супермаркетах уже предлагают 5 килограммов за 2,50 евро,</segment>
+		<segment id="105" parent="106" relname="comparison">пишет газета Berliner Zeitung.\n\nВпрочем, к продуктам питания относятся лишь 18 из 87 наименований в списке популярной немецкой газеты.</segment>
+		<segment id="107" parent="108" relname="comparison">Остальное - промышленные товары: от компьютерных игр и пальто до телевизоров, шампуней, свитеров и холодильников.</segment>
+		<segment id="109" parent="113" relname="joint">Главные причины удешевления в этой сфере - падение мировых цен на нефть и снижение курса евро.</segment>
+		<segment id="110" parent="112" relname="comparison">Дорогая валюта в начале года позволила выгодно закупить сырье за границей,</segment>
+		<segment id="111" parent="112" relname="comparison">а дешевая нефть снизила общие издержки.\n\nИсточник: https://www.newsru.com/world/09Oct2014/pricefall.html\n</segment>
+		<group id="43" type="span" parent="118" relname="preparation"/>
+		<group id="118" type="multinuc" parent="119" relname="span"/>
+		<group id="56" type="multinuc" parent="118" relname="joint"/>
+		<group id="48" type="span" parent="56" relname="joint"/>
+		<group id="47" type="multinuc" parent="44" relname="elaboration"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="51" type="span" parent="55" relname="span"/>
+		<group id="54" type="multinuc" parent="51" relname="elaboration"/>
+		<group id="117" type="multinuc" parent="118" relname="joint"/>
+		<group id="73" type="multinuc" parent="117" relname="joint"/>
+		<group id="63" type="span" parent="73" relname="comparison"/>
+		<group id="61" type="multinuc" parent="63" relname="span"/>
+		<group id="60" type="span" parent="61" relname="same-unit"/>
+		<group id="72" type="span" parent="73" relname="comparison"/>
+		<group id="71" type="multinuc" parent="64" relname="elaboration"/>
+		<group id="70" type="multinuc" parent="71" relname="comparison"/>
+		<group id="69" type="multinuc" parent="70" relname="comparison"/>
+		<group id="116" type="span" parent="117" relname="joint"/>
+		<group id="88" type="span" parent="115" relname="preparation"/>
+		<group id="87" type="multinuc" parent="74" relname="cause-effect"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="80" type="multinuc" parent="86" relname="joint"/>
+		<group id="79" type="span" parent="80" relname="joint"/>
+		<group id="85" type="span" parent="86" relname="joint"/>
+		<group id="83" type="span" parent="85" relname="span"/>
+		<group id="115" type="multinuc" parent="116" relname="span"/>
+		<group id="103" type="span" parent="115" relname="joint"/>
+		<group id="93" type="span" parent="103" relname="span"/>
+		<group id="91" type="multinuc" parent="93" relname="span"/>
+		<group id="102" type="span" parent="93" relname="elaboration"/>
+		<group id="96" type="span" parent="101" relname="cause-effect"/>
+		<group id="101" type="span" parent="102" relname="span"/>
+		<group id="100" type="multinuc" parent="97" relname="elaboration"/>
+		<group id="114" type="multinuc" parent="115" relname="joint"/>
+		<group id="108" type="multinuc" parent="114" relname="joint"/>
+		<group id="106" type="multinuc" parent="108" relname="comparison"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="112" type="multinuc" parent="113" relname="joint"/>
+		<group id="119" type="span"/>
+	</body>
+</rst>

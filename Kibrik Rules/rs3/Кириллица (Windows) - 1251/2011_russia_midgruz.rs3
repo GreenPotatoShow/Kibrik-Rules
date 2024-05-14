@@ -1,0 +1,160 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="73" parent="74" relname="attribution">МИД РФ назвал</segment>
+		<segment id="74" parent="75" relname="span">шпионский скандал с фотокорами в Грузии \"антироссийской паранойей\"\n\nМИД РФ расценил как проявление антироссийских настроений задержание в Грузии фотографов, обвиняемых в связях со спецслужбами РФ.</segment>
+		<segment id="76" parent="79" relname="attribution">Об этом говорится в ответе на вопрос СМИ официального представителя МИД РФ Александра Лукашевича,</segment>
+		<segment id="77" parent="79" relname="joint">текст которого распространен во вторник</segment>
+		<segment id="78" parent="79" relname="joint">и доступен на сайте ведомства.\n\n\"Мне уже приходилось высказываться на данную тему.</segment>
+		<segment id="82" parent="90" relname="span">Могу лишь констатировать, что антироссийская истерия в Тбилиси вновь набирает обороты.</segment>
+		<segment id="83" parent="86" relname="attribution">Власти старательно убеждают мировое сообщество и собственное население в том,</segment>
+		<segment id="84" parent="86" relname="span">что Грузия наводнена российскими шпионами и диверсантами,</segment>
+		<segment id="85" parent="84" relname="elaboration">с которыми доблестные местные спецслужбы борются не покладая рук\",</segment>
+		<segment id="88" parent="87" relname="attribution">- говорится в ответе.\n\n\"Теперь авторам \"шпионских историй\" потребовались в качестве персонажей еще и грузинские фотографы.</segment>
+		<segment id="92" parent="94" relname="span">Хочу выразить искреннее сочувствие этим людям, ставшим новыми жертвами произвола тбилисских властей\",</segment>
+		<segment id="93" parent="92" relname="attribution">- добавил Лукашевич.\n\nРоссийский дипломат напомнил о предыдущем шпионском скандале:</segment>
+		<segment id="95" parent="97" relname="span">\"Еще один пример того, как заложниками антироссийской паранойи становятся ни в чем не повинные люди,</segment>
+		<segment id="96" parent="95" relname="attribution">- российский гражданин Юрий Скрыльников.</segment>
+		<segment id="98" parent="110" relname="sequence">Ранее он был осужден в Грузии на 18 лет лишения свободы</segment>
+		<segment id="99" parent="109" relname="sequence">после того, как у него якобы обнаружили фальшивую валюту.</segment>
+		<segment id="100" parent="108" relname="sequence">7 июля с.г. грузинский суд \"назначил\" его \"связным ГРУ\"</segment>
+		<segment id="101" parent="106" relname="attribution">и приговорил еще к 14 годам заключения\".\n\nЛукашевич заверил,</segment>
+		<segment id="102" parent="104" relname="span">что МИД при содействии Швейцарии,</segment>
+		<segment id="103" parent="102" relname="elaboration">представляющей интересы России в Тбилиси,</segment>
+		<segment id="105" parent="106" relname="joint">продолжает \"добиваться прекращения беззакония в отношении российских граждан\".\n\nОтметим, что европейские СМИ уделяют внимание шпионскому фотоскандалу в Грузии.</segment>
+		<segment id="112" parent="114" relname="joint">Стремится ли Москва устранить грузинского президента</segment>
+		<segment id="113" parent="114" relname="joint">или речь идет о приступе паранойи у очень эмоционального Михаила Саакашвили?</segment>
+		<segment id="115" parent="124" relname="attribution">- задается вопросом швейцарская Le Temps</segment>
+		<segment id="116" parent="123" relname="preparation">.\n\n</segment>
+		<segment id="117" parent="119" relname="contrast">\"Как грузинские, так и российские СМИ обожают теории заговора,</segment>
+		<segment id="118" parent="119" relname="contrast">а обвинение в шпионаже остается эффективным средством дискредитации любой критики,</segment>
+		<segment id="120" parent="122" relname="span">- указывает издание,</segment>
+		<segment id="121" parent="120" relname="background">выдержку из статьи которого публикует сайт InoPressa.ru.</segment>
+		<segment id="127" parent="130" relname="attribution">- Грузинский президент,</segment>
+		<segment id="130" parent="131" relname="span">занимающий этот пост с 2003 года, не раз обвинял лидеров грузинской оппозиции в получении финансирования из Москвы.</segment>
+		<segment id="132" parent="136" relname="same-unit">Россия, с 2008 года много раз арестовывавшая \"грузинских шпионов\",</segment>
+		<segment id="133" parent="135" relname="joint">отрицает какие-либо связи с арестованными фотографами</segment>
+		<segment id="134" parent="135" relname="joint">и называет это дело \"шитой белыми нитками провокацией\".\n\</segment>
+		<segment id="138" parent="141" relname="attribution">nНакануне СМИ сообщали,</segment>
+		<segment id="139" parent="140" relname="attribution">что один из арестованных в Грузии фотографов, Гиоргий Абдаладзе,</segment>
+		<segment id="140" parent="141" relname="span">обратился к президенту страны Михаилу Саакашвили с требованием объяснить причину преследования.</segment>
+		<segment id="143" parent="146" relname="attribution">Он также высказал предположение о том,</segment>
+		<segment id="144" parent="146" relname="span">за что именно были задержаны фотокорреспонденты,</segment>
+		<segment id="145" parent="144" relname="elaboration">которых власти Грузии обвиняют в шпионаже.</segment>
+		<segment id="148" parent="151" relname="attribution">Арестованный фотограф утверждает,</segment>
+		<segment id="149" parent="151" relname="joint">что никогда не делал ничего во вред своей стране</segment>
+		<segment id="150" parent="151" relname="joint">и высказывает предположение, что он и его коллеги были задержаны из-за фотографий, сделанных во время митинга оппозиции 26 мая в Тбилиси\n\</segment>
+		<segment id="155" parent="156" relname="attribution">nМежду тем сообщалось также,</segment>
+		<segment id="156" parent="157" relname="span">что другой арестованный - личный фотограф Саакашвили Ираклий Геденидзе</segment>
+		<segment id="158" parent="159" relname="attribution">- уже сознался,</segment>
+		<segment id="159" parent="160" relname="span">что его завербовали российские спецслужбы.</segment>
+		<segment id="162" parent="175" relname="attribution">По его словам,</segment>
+		<segment id="163" parent="165" relname="sequence">он был завербован Главным разведывательным управлением (ГРУ) Минобороны России</segment>
+		<segment id="164" parent="165" relname="sequence">и в течение ряда лет передавал в Москву сведения, \"содержавшие государственную тайну\".\n\nДве популярные грузинские газеты - \"Алия\" и \"Резонанси\" - вышли во вторник с черными квадратами вместо изображений лиц государственных чиновников,</segment>
+		<segment id="166" parent="174" relname="joint">в знак поддержки группы фоторепортеров, арестованных по обвинению в шпионаже.</segment>
+		<segment id="167" parent="173" relname="joint">Кроме того, арестованный Гиоргий Абдаладзе попросил не только грузинские издания, но и представительства Reuters, AP и France Press в Грузии представлять фотоинформацию зарубежным газетам и журналам с черными квадратами вместо лиц чиновников.\n\nШпионский фотоскандал\n\nНапомним, ранее департамент контрразведки МВД Грузии сообщил,</segment>
+		<segment id="168" parent="172" relname="joint">что 7 июля его сотрудники задержали представителя европейского фотоагентства EPA в Грузии Зураба Курцикидзе, фотографа пресс-службы администрации президента Ираклия Геденидзе, его супругу, фотографа Натию Геденидзе и фотографа Георгия Абдаладзе, работавшего по контракту с МИД Грузии.\n\nМВД Грузии заявило,</segment>
+		<segment id="169" parent="171" relname="joint">что фотожурналисты \"обвиняются в передаче разного рода информации организации, действующей под прикрытием спецслужбы одного из зарубежных государств,</segment>
+		<segment id="170" parent="171" relname="joint">исходя из их служебного положения, в ущерб интересам Грузии\".\n\nПравозащитники и журналисты в течение двух дней добивались от грузинских властей подробной информации о происходящем.</segment>
+		<segment id="178" parent="179" relname="attribution">Однако власти заявили,</segment>
+		<segment id="179" parent="180" relname="span">что \"делу фотографов\" присвоен гриф секретности,</segment>
+		<segment id="181" parent="193" relname="sequence">и ограничились лишь короткими комментариями, которые и появились в прессе.\n\nЛишь 9 июля представитель МВД Грузии объявил в ходе брифинга,</segment>
+		<segment id="182" parent="192" relname="joint">что задержанные фоторепортеры были связаны с российскими спецслужбами</segment>
+		<segment id="183" parent="191" relname="span">и передавали им секретную информацию.</segment>
+		<segment id="184" parent="189" relname="attribution">Следствие утверждает,</segment>
+		<segment id="185" parent="187" relname="joint">что Курцикидзе был связан с сотрудниками ГРУ Минобороны РФ</segment>
+		<segment id="186" parent="187" relname="joint">и с помощью Геденидзе и Абдаладзе \"передавал секретную информацию гражданам России\".\n\nОфициальное обвинение задержанным - Геденидзе, Абдаладзе и Курцикидзе,</segment>
+		<segment id="188" parent="189" relname="sequence">было предъявлено в ночь на субботу.</segment>
+		<segment id="195" parent="199" relname="sequence">Затем дело было передано в суд.</segment>
+		<segment id="196" parent="198" relname="joint">Ираклий Геденидзе и его супруга Натия дали признательные показания,</segment>
+		<segment id="197" parent="198" relname="joint">МВД также распространило изображения части изъятых материалов.\n\nГеденидзе, Абдаладзе, и Курцикидзе Тбилисским городским судом избрано двухмесячное предварительное заключение на время следствия.</segment>
+		<segment id="201" parent="207" relname="span">Супруга Ираклия Геденидзе Натия была освобождена под залог в размере 10 тысяч лари (около 6 тысяч долларов США).</segment>
+		<segment id="202" parent="206" relname="span">Суд над задержанными,</segment>
+		<segment id="203" parent="204" relname="attribution">по словам их адвокатов,</segment>
+		<segment id="204" parent="205" relname="span">начнется 1 сентября.\n\nИсточник: https://www.newsru.com/russia/12Jul2011/midgruz.html\n</segment>
+		<group id="91" type="multinuc" parent="215" relname="joint"/>
+		<group id="81" type="span" parent="91" relname="joint"/>
+		<group id="75" type="span" parent="81" relname="span"/>
+		<group id="80" type="span" parent="75" relname="attribution"/>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="89" type="span" parent="82" relname="elaboration"/>
+		<group id="87" type="span" parent="89" relname="span"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="214" type="span" parent="215" relname="joint"/>
+		<group id="94" type="span" parent="213" relname="preparation"/>
+		<group id="213" type="multinuc" parent="214" relname="span"/>
+		<group id="111" type="multinuc" parent="213" relname="joint"/>
+		<group id="97" type="span" parent="111" relname="sequence"/>
+		<group id="110" type="multinuc" parent="111" relname="sequence"/>
+		<group id="109" type="multinuc" parent="110" relname="sequence"/>
+		<group id="108" type="multinuc" parent="109" relname="sequence"/>
+		<group id="107" type="span" parent="108" relname="sequence"/>
+		<group id="106" type="multinuc" parent="107" relname="span"/>
+		<group id="104" type="span" parent="106" relname="joint"/>
+		<group id="212" type="multinuc" parent="213" relname="joint"/>
+		<group id="126" type="span" parent="212" relname="joint"/>
+		<group id="114" type="multinuc" parent="125" relname="solutionhood"/>
+		<group id="125" type="span" parent="126" relname="span"/>
+		<group id="124" type="span" parent="125" relname="span"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="119" type="multinuc" parent="123" relname="span"/>
+		<group id="122" type="span" parent="119" relname="attribution"/>
+		<group id="211" type="multinuc" parent="212" relname="joint"/>
+		<group id="137" type="multinuc" parent="211" relname="joint"/>
+		<group id="131" type="span" parent="137" relname="joint"/>
+		<group id="136" type="multinuc" parent="137" relname="joint"/>
+		<group id="135" type="multinuc" parent="136" relname="same-unit"/>
+		<group id="210" type="multinuc" parent="211" relname="joint"/>
+		<group id="154" type="multinuc" parent="210" relname="joint"/>
+		<group id="142" type="span" parent="154" relname="joint"/>
+		<group id="141" type="span" parent="142" relname="span"/>
+		<group id="153" type="multinuc" parent="154" relname="joint"/>
+		<group id="147" type="span" parent="153" relname="joint"/>
+		<group id="146" type="span" parent="147" relname="span"/>
+		<group id="152" type="span" parent="153" relname="joint"/>
+		<group id="151" type="multinuc" parent="152" relname="span"/>
+		<group id="209" type="multinuc" parent="210" relname="joint"/>
+		<group id="177" type="multinuc" parent="209" relname="joint"/>
+		<group id="161" type="multinuc" parent="177" relname="joint"/>
+		<group id="157" type="span" parent="161" relname="joint"/>
+		<group id="160" type="span" parent="161" relname="joint"/>
+		<group id="176" type="span" parent="177" relname="joint"/>
+		<group id="175" type="multinuc" parent="176" relname="span"/>
+		<group id="165" type="multinuc" parent="175" relname="joint"/>
+		<group id="174" type="multinuc" parent="175" relname="joint"/>
+		<group id="173" type="multinuc" parent="174" relname="joint"/>
+		<group id="172" type="multinuc" parent="173" relname="joint"/>
+		<group id="171" type="multinuc" parent="172" relname="joint"/>
+		<group id="208" type="span" parent="209" relname="joint"/>
+		<group id="200" type="multinuc" parent="208" relname="span"/>
+		<group id="194" type="multinuc" parent="200" relname="sequence"/>
+		<group id="180" type="span" parent="194" relname="joint"/>
+		<group id="193" type="multinuc" parent="194" relname="joint"/>
+		<group id="192" type="multinuc" parent="193" relname="sequence"/>
+		<group id="191" type="span" parent="192" relname="joint"/>
+		<group id="190" type="span" parent="183" relname="elaboration"/>
+		<group id="189" type="multinuc" parent="190" relname="span"/>
+		<group id="187" type="multinuc" parent="189" relname="sequence"/>
+		<group id="199" type="multinuc" parent="200" relname="sequence"/>
+		<group id="198" type="multinuc" parent="199" relname="sequence"/>
+		<group id="207" type="span" parent="200" relname="elaboration"/>
+		<group id="206" type="span" parent="201" relname="elaboration"/>
+		<group id="205" type="span" parent="202" relname="elaboration"/>
+		<group id="215" type="multinuc"/>
+	</body>
+</rst>

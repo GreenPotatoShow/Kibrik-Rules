@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="36" parent="97" relname="preparation">Прокуратура не нашла нарушений прав заключенных, объявивших голодовку в Рыбинске\n\</segment>
+		<segment id="37" parent="39" relname="span">nПрокуратура не выявила нарушения прав осужденных в исправительной колонии N2 в Рыбинске Ярославской области,</segment>
+		<segment id="38" parent="37" relname="background">где несколько десятков заключенных в начале октября объявили голодовку.</segment>
+		<segment id="40" parent="41" relname="attribution">Проверяющие пришли к выводу,</segment>
+		<segment id="41" parent="42" relname="span">что они сделали это с целью дестабилизировать обстановку в колонии,</segment>
+		<segment id="43" parent="44" relname="attribution">передает РИА \"Новости\".\n\nПрокуратура региона выяснила,</segment>
+		<segment id="44" parent="45" relname="span">что от приема пищи отказывались 35 осужденных, которые содержатся в штрафном изоляторе, в помещениях камерного типа и на строгих условиях содержания.</segment>
+		<segment id="48" parent="52" relname="sequence">После начала проверок со стороны прокуратуры региона, УФСИН и уполномоченного по правам человека по Ярославской области Сергея Бабуркина заключенные прекратили голодовку.\n\nПо сообщению прокуратуры,</segment>
+		<segment id="49" parent="51" relname="joint">прокуроры совместно с Бабуркиным провели опрос голодавших,</segment>
+		<segment id="50" parent="51" relname="joint">а также проверили соблюдение требований законодательства к условиям содержания заключенных.</segment>
+		<segment id="53" parent="55" relname="joint">\"Были истребованы необходимые документы,</segment>
+		<segment id="54" parent="55" relname="joint">проведены беседы с представителями администрации колонии\",</segment>
+		<segment id="56" parent="55" relname="attribution">- отметили в ведомстве.\n\n\"Нарушений прав осужденных не выявлено.</segment>
+		<segment id="59" parent="62" relname="attribution">В целом, проверка показала,</segment>
+		<segment id="60" parent="62" relname="joint">что действия заключенных по отказу в приеме пищи были направлены на дестабилизацию обстановки в колонии</segment>
+		<segment id="61" parent="62" relname="joint">и вызваны ослаблением контроля со стороны сотрудников учреждения\",</segment>
+		<segment id="64" parent="63" relname="attribution">- заявили в прокуратуре.\n\</segment>
+		<segment id="66" parent="67" relname="attribution">nПо мнению омбудсмена,</segment>
+		<segment id="67" parent="68" relname="span">главной причиной объявления акции протеста осужденными стало нарушение порядка передачи обращений осужденных в различные правовые инстанции.</segment>
+		<segment id="69" parent="77" relname="sequence">Сергей Бабуркин собирается продолжить работу по жалобам осужденных.</segment>
+		<segment id="70" parent="73" relname="attribution">Ранее он заявлял,</segment>
+		<segment id="71" parent="73" relname="span">что осужденные жаловались на условия содержания</segment>
+		<segment id="72" parent="71" relname="condition">.\n\nВ настоящее время колония работает в штатном режиме.</segment>
+		<segment id="75" parent="74" relname="elaboration">Все заключенные принимают пищу.</segment>
+		<segment id="80" parent="86" relname="span">Оперативная обстановка управляемая и контролируемая, заверили в прокуратуре</segment>
+		<segment id="81" parent="84" relname="attribution">.\n\nДо этого ярославские СМИ писали,</segment>
+		<segment id="82" parent="84" relname="span">что заключенные объявили голодовку</segment>
+		<segment id="83" parent="82" relname="cause-effect">из-за произвола со стороны администрации учреждения.</segment>
+		<segment id="87" parent="89" relname="span">Они рассказали об ужасных условиях содержания:</segment>
+		<segment id="88" parent="87" relname="elaboration">холод, сырость, туберкулез, полуголодное существование.</segment>
+		<segment id="90" parent="91" relname="joint">Также люди жаловались на \"тюремный беспредел\", избиения и поборы с родственников осужденных.\n\nИсточник: https://www.newsru.com/russia/10Oct2016/golodovka.html\n</segment>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="47" type="span" parent="97" relname="joint"/>
+		<group id="39" type="span" parent="46" relname="preparation"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="42" type="span" parent="46" relname="span"/>
+		<group id="45" type="span" parent="42" relname="attribution"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="58" type="multinuc" parent="96" relname="joint"/>
+		<group id="52" type="multinuc" parent="58" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="sequence"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="55" type="multinuc" parent="57" relname="span"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="65" type="span" parent="95" relname="joint"/>
+		<group id="63" type="span" parent="65" relname="span"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="68" type="span" parent="93" relname="preparation"/>
+		<group id="93" type="multinuc" parent="94" relname="span"/>
+		<group id="77" type="multinuc" parent="93" relname="joint"/>
+		<group id="76" type="span" parent="77" relname="sequence"/>
+		<group id="74" type="span" parent="76" relname="span"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="86" type="span" parent="92" relname="joint"/>
+		<group id="85" type="span" parent="80" relname="cause-effect"/>
+		<group id="84" type="span" parent="85" relname="span"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="89" type="span" parent="91" relname="joint"/>
+		<group id="98" type="span"/>
+	</body>
+</rst>

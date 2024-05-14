@@ -1,0 +1,40 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="37" relname="preparation">Радуев обвинил СМИ в очернении его \"чести и достоинства\"\n\nГлавный подсудимый на процессе по делу о нападении чеченских боевиков на Кизляр Салман Радуев обвиняет СМИ в очернении его \"чести и достоинства\".</segment>
+		<segment id="15" parent="18" relname="attribution">Как передает РИА \"Новости\",</segment>
+		<segment id="16" parent="17" relname="attribution">в среду Радуев выступил с заявлением,</segment>
+		<segment id="17" parent="18" relname="span">что средства массовой информации в сообщениях с судебных заседаний \"наносят вред его престижу\".</segment>
+		<segment id="20" parent="22" relname="joint">Очередной выпад Радуев сделал в адрес ОРТ.</segment>
+		<segment id="21" parent="22" relname="joint">Поводом для этого послужило то, что Общественное российское телевидение много внимания обратило на показания против него на судебном заседании Дадашевой и Таймасхановой, осужденных за террористический акт - взрыв на железнодорожном вокзале Пятигорска.</segment>
+		<segment id="24" parent="27" relname="attribution">В то же время глава гособвинения на процессе,</segment>
+		<segment id="25" parent="27" relname="span">Генеральный прокурор России Владимир Устинов не видит предвзятости</segment>
+		<segment id="26" parent="25" relname="condition">при освещении СМИ хода суда.</segment>
+		<segment id="29" parent="33" relname="same-unit">Генпрокурор,</segment>
+		<segment id="30" parent="31" relname="attribution">комментируя то, что в среду на утреннем заседании в суде были зачитаны письменные показания не явившихся на процесс по различным причинам потерпевших и свидетелей, сообщил,</segment>
+		<segment id="31" parent="32" relname="span">что не считает это нарушением закона.</segment>
+		<segment id="34" parent="35" relname="joint">После перерыва процесс продолжится в 14:00 по московскому времени.\n\nИсточник: https://www.newsru.com/russia/05Dec2001/raduev_smi.html\n</segment>
+		<group id="37" type="multinuc" parent="38" relname="span"/>
+		<group id="23" type="multinuc" parent="37" relname="comparison"/>
+		<group id="19" type="span" parent="23" relname="joint"/>
+		<group id="18" type="span" parent="19" relname="span"/>
+		<group id="22" type="multinuc" parent="23" relname="joint"/>
+		<group id="36" type="multinuc" parent="37" relname="comparison"/>
+		<group id="28" type="span" parent="36" relname="joint"/>
+		<group id="27" type="span" parent="28" relname="span"/>
+		<group id="35" type="multinuc" parent="36" relname="joint"/>
+		<group id="33" type="multinuc" parent="35" relname="joint"/>
+		<group id="32" type="span" parent="33" relname="same-unit"/>
+		<group id="38" type="span"/>
+	</body>
+</rst>

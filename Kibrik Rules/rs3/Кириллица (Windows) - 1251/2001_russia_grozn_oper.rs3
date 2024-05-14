@@ -1,0 +1,25 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="8" parent="10" relname="joint">Федеральные войска проводят в Грозном масштабную спецоперацию\n\nКак сообщает \"Интерфакс\",</segment>
+		<segment id="9" parent="10" relname="joint">в Грозном федеральные войска проводят масштабную спецоперацию.</segment>
+		<segment id="11" parent="10" relname="elaboration">Жизнь в городе практически парализована действиями военных.</segment>
+		<segment id="13" parent="15" relname="span">Жители опасаются, что командование может отдать приказ о проведении зачистки \"по примеру Серноводска и Ассиновской\".</segment>
+		<segment id="14" parent="13" relname="elaboration">Сейчас город блокирован по секторам.</segment>
+		<segment id="16" parent="18" relname="span">О целях этой операции командование группировки в Чечне не сообщает местным властям,</segment>
+		<segment id="17" parent="16" relname="attribution">отметили собеседники агентства в мэрии города.\n\nИсточник: https://www.newsru.com/russia/14Jul2001/grozn_oper.html\n</segment>
+		<group id="12" type="span" parent="20" relname="joint"/>
+		<group id="10" type="multinuc" parent="12" relname="span"/>
+		<group id="19" type="multinuc" parent="20" relname="joint"/>
+		<group id="15" type="span" parent="19" relname="joint"/>
+		<group id="18" type="span" parent="19" relname="joint"/>
+		<group id="20" type="multinuc"/>
+	</body>
+</rst>

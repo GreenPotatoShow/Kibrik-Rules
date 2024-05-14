@@ -1,0 +1,101 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="43" parent="45" relname="joint">Абхазия просит у России кредит за кредитом</segment>
+		<segment id="44" parent="45" relname="joint">и передает ей в управление железную дорогу и аэропорт\n\nАбхазия просит у России кредиты в размере 1 млрд рублей на развитие мелкого и среднего бизнеса и в размере 2 млрд на ремонт железной дороги.</segment>
+		<segment id="46" parent="48" relname="span">Об этом заявил абхазский президент Сергей Багапш на пресс-конференции в пятницу в Сухуми</segment>
+		<segment id="47" parent="46" relname="background">(напомним, накануне в беседе с премьером Путиным речь шла о сумме лишь в миллиард-полтора)</segment>
+		<segment id="50" parent="53" relname="attribution">.\n\nБагапш также сообщил,</segment>
+		<segment id="51" parent="53" relname="joint">что абхазская железная дорога будет передана российскому ОАО \"РЖД\" в управление на десять лет,</segment>
+		<segment id="52" parent="53" relname="joint">сухумский аэропорт также перейдет во временное управление России.</segment>
+		<segment id="55" parent="57" relname="joint">\"Это не продажа,</segment>
+		<segment id="56" parent="57" relname="joint">это передача во временное управление\",</segment>
+		<segment id="58" parent="57" relname="attribution">- цитирует слова Багапша \"Интерфакс\".\n\nНа пресс-конференции Багапш также заметил,</segment>
+		<segment id="60" parent="61" relname="cause-effect">что из-за финансового кризиса</segment>
+		<segment id="61" parent="62" relname="span">Минобороны России приняло решение сократить количество военнослужащих, которые будут размещены на Гудаутской военной базе в Абхазии.</segment>
+		<segment id="65" parent="71" relname="span">В Минобороны РФ эту информацию не подтверждают.\n\nЕще одной темой обсуждения на пресс-конференции в пятницу стала тема охраны абхазско-грузинской границы.</segment>
+		<segment id="66" parent="69" relname="attribution">По словам президента Абхазии,</segment>
+		<segment id="67" parent="69" relname="span">там будет создано только два контрольно-пропускных пункта,</segment>
+		<segment id="68" parent="67" relname="attribution">передает РИА \"Новости\".\n\</segment>
+		<segment id="72" parent="75" relname="condition">nКомментируя вопросы восстановления,</segment>
+		<segment id="73" parent="74" relname="attribution">Багапш заметил,</segment>
+		<segment id="74" parent="75" relname="span">что реконструкция Сухумского аэропорта начнется в июне.</segment>
+		<segment id="77" parent="79" relname="span">\"С Россией воздушное сообщение мы восстановим быстро.</segment>
+		<segment id="78" parent="77" relname="elaboration">Первоначально это будут рейсы в Москву, Санкт-Петербург и Ростов\",</segment>
+		<segment id="80" parent="79" relname="attribution">- сообщил он.\n\n</segment>
+		<segment id="86" parent="87" relname="condition">\"Если железная дорога и аэропорт будут в управлении России,</segment>
+		<segment id="87" parent="88" relname="span">то мы уходим от решения таких сложных вопросов, как предоставление железнодорожного и международного кодов, которые нам еще долго не дадут,</segment>
+		<segment id="89" parent="90" relname="joint">а это все будет сказываться на тарифах перевозок\",</segment>
+		<segment id="91" parent="90" relname="attribution">- добавил президент Абхазии.</segment>
+		<segment id="93" parent="95" relname="span">Его слова приводит \"Интерфакс\".\n\nГоворя о кредитах,</segment>
+		<segment id="94" parent="93" relname="background">которые Сухуми просит у Москвы,</segment>
+		<segment id="96" parent="99" relname="attribution">Багапш отметил,</segment>
+		<segment id="97" parent="99" relname="span">что они необходимы</segment>
+		<segment id="98" parent="97" relname="purpose">для развития аграрного сектора и перерабатывающей отрасли.</segment>
+		<segment id="102" parent="104" relname="span">Планируется привести железную дорогу в такое состояние,</segment>
+		<segment id="103" parent="102" relname="purpose">чтобы по ней можно было перевозить тяжелые грузы.\n\nОн пояснил,</segment>
+		<segment id="105" parent="111" relname="span">что \"возвращать кредит будут инвесторы, которые будут заниматься перевозкой стройматериалов из Абхазии на олимпийские объекты в Сочи\".\n\nО численности российских военных на Гудаутской базе Багапш заявил:</segment>
+		<segment id="106" parent="110" relname="comparison">\"Первоначально планировалось, что количество российских военнослужащих на этой базе составит 3800 человек,</segment>
+		<segment id="107" parent="109" relname="span">теперь это число составит 1700 военных\".\n\nВ Минобороны РФ утверждают,</segment>
+		<segment id="108" parent="107" relname="elaboration">что сейчас там размещено 3 700 российских военнослужащих.</segment>
+		<segment id="113" parent="115" relname="span">\"Никаких указаний о сокращении личного состава пока не поступало\",</segment>
+		<segment id="114" parent="113" relname="attribution">- сообщил высокопоставленный источник в Генштабе Вооруженных сил РФ.\n\nПрезидент Абхазии также сообщил,</segment>
+		<segment id="116" parent="117" relname="joint">где будут организованы переходы на грузино-абхазской границе - по центральному мосту через реку Ингур и в так называемой нижней зоне Гальского района.</segment>
+		<segment id="118" parent="120" relname="span">Вопрос о втором переходе еще решается.\n\nПунктов перехода грузино-абхазской границы в Кодорском ущелье не будет,</segment>
+		<segment id="119" parent="118" relname="attribution">передает РИА \"Новости\" слова президента Абхазии.\n\nИсточник: https://www.newsru.com/russia/15May2009/crd.html\n</segment>
+		<group id="85" type="multinuc" parent="125" relname="joint"/>
+		<group id="49" type="span" parent="85" relname="joint"/>
+		<group id="45" type="multinuc" parent="49" relname="span"/>
+		<group id="48" type="span" parent="45" relname="attribution"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="64" type="multinuc" parent="84" relname="joint"/>
+		<group id="54" type="span" parent="64" relname="joint"/>
+		<group id="53" type="multinuc" parent="54" relname="span"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="59" type="span" parent="62" relname="attribution"/>
+		<group id="57" type="multinuc" parent="59" relname="span"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="71" type="span" parent="83" relname="joint"/>
+		<group id="70" type="span" parent="65" relname="elaboration"/>
+		<group id="69" type="span" parent="70" relname="span"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="76" type="span" parent="82" relname="joint"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="81" type="span" parent="82" relname="joint"/>
+		<group id="79" type="span" parent="81" relname="span"/>
+		<group id="124" type="multinuc" parent="125" relname="joint"/>
+		<group id="92" type="span" parent="124" relname="joint"/>
+		<group id="90" type="multinuc" parent="92" relname="span"/>
+		<group id="88" type="span" parent="90" relname="joint"/>
+		<group id="123" type="multinuc" parent="124" relname="joint"/>
+		<group id="101" type="multinuc" parent="123" relname="joint"/>
+		<group id="95" type="span" parent="101" relname="joint"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="122" type="multinuc" parent="123" relname="joint"/>
+		<group id="112" type="multinuc" parent="122" relname="joint"/>
+		<group id="104" type="span" parent="112" relname="joint"/>
+		<group id="111" type="span" parent="112" relname="joint"/>
+		<group id="110" type="multinuc" parent="105" relname="elaboration"/>
+		<group id="109" type="span" parent="110" relname="comparison"/>
+		<group id="121" type="multinuc" parent="122" relname="joint"/>
+		<group id="117" type="multinuc" parent="121" relname="joint"/>
+		<group id="115" type="span" parent="117" relname="joint"/>
+		<group id="120" type="span" parent="121" relname="joint"/>
+		<group id="125" type="multinuc"/>
+	</body>
+</rst>

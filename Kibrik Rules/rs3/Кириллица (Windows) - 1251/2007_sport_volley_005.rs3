@@ -1,0 +1,60 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="solutionhood" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="24" relname="span">Команда Владимира Алекно без поражений добрались до полуфинала ЧЕ\n\nРоссийские волейболисты без поражений прошли предварительные этапы чемпионата Европы среди мужских команд,</segment>
+		<segment id="23" parent="22" relname="elaboration">который в эти дни проходит в Москве и Санкт-Петербурге.</segment>
+		<segment id="25" parent="27" relname="span">В заключительном матче второго группового этапа континентального первенства команда Владимира Алекно нанесла поражение сборной Финляндии со счетом 3-2 (22:25, 28:26, 22:25, 25:16, 15:8).\n\nТаким образом, россияне вышли в полуфинал домашнего турнира с первого места в группе F.\n\nВ прошлом году Европейская конфедерация волейбола отказалось от привычной схемы,</segment>
+		<segment id="26" parent="25" relname="elaboration">когда победитель одной группы в полуфинале играет с командой, занявшей второе место в другой.</segment>
+		<segment id="28" parent="30" relname="span">Теперь соперников для победителей групп определяют</segment>
+		<segment id="29" parent="28" relname="condition">при помощи жеребьевки</segment>
+		<segment id="31" parent="32" relname="same-unit">.\n\nВ полуфинале оппонентом сборной России с одинаковой вероятностью могли стать команды Сербии и Финляндии.</segment>
+		<segment id="34" parent="59" relname="preparation">Жюри чемпионата провело жеребьевку за закрытыми дверями.</segment>
+		<segment id="35" parent="37" relname="comparison">По ее результатам первую полуфинальную пару составили Испания и Финляндия,</segment>
+		<segment id="36" parent="37" relname="comparison">а вторую - Россия и Сербия.\n\nПолуфиналы состоятся 15 сентября.</segment>
+		<segment id="38" parent="39" relname="cause-effect">Матч за третье место и финал - 16 сентября.\n\n\"Близость медалей делает опасным любого соперника,</segment>
+		<segment id="39" parent="40" relname="span">поэтому для меня не принципиально, с кем играть в полуфинале,</segment>
+		<segment id="41" parent="40" relname="attribution">- признался агентству \"Весь спорт\" главный тренер мужской сборной России Владимир Алекно.</segment>
+		<segment id="43" parent="57" relname="span">- Сербы - значит, сербы.</segment>
+		<segment id="44" parent="45" relname="cause-effect">Возможности этой команды нам хорошо известны,</segment>
+		<segment id="45" parent="46" relname="span">будем готовиться.</segment>
+		<segment id="47" parent="51" relname="joint">Костяк сборной Сербии составляют олимпийские чемпионы 2000 года,</segment>
+		<segment id="48" parent="50" relname="span">и это их сильный козырь,</segment>
+		<segment id="49" parent="48" relname="cause-effect">ведь они знают, как побеждать в решающих матчах важнейших турниров.</segment>
+		<segment id="52" parent="53" relname="solutionhood">Какие у сербов слабые стороны?</segment>
+		<segment id="53" parent="54" relname="span">Слабость сборной Сербии - в силе сборной России\".\n\nИсточник: https://www.newsru.com/sport/14Sep2007/volley.html\n</segment>
+		<group id="24" type="span" parent="61" relname="preparation"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="33" type="span" parent="61" relname="joint"/>
+		<group id="27" type="span" parent="33" relname="span"/>
+		<group id="32" type="multinuc" parent="27" relname="elaboration"/>
+		<group id="30" type="span" parent="32" relname="same-unit"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="59" type="span" parent="60" relname="span"/>
+		<group id="37" type="multinuc" parent="58" relname="preparation"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="42" type="span" parent="58" relname="joint"/>
+		<group id="40" type="span" parent="42" relname="span"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="56" type="span" parent="43" relname="elaboration"/>
+		<group id="46" type="span" parent="56" relname="span"/>
+		<group id="55" type="multinuc" parent="46" relname="elaboration"/>
+		<group id="51" type="multinuc" parent="55" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="62" type="span"/>
+	</body>
+</rst>

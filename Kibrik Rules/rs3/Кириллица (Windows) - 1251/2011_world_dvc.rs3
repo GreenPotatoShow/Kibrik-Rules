@@ -1,0 +1,91 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="38" parent="40" relname="span">МИД Японии: послевоенный период отношений с Россией еще не закончен\n\nНа \"северные острова\" хотят вернуться 7,5 тысяч японцев,</segment>
+		<segment id="39" parent="38" relname="attribution">заявил в интервью радиостанции \"Эхо Москвы\" министр иностранных дел Японии Сэйдзи Маэхара.\n\n</segment>
+		<segment id="41" parent="42" relname="condition">\"Что касается четырех северных островов,</segment>
+		<segment id="42" parent="43" relname="span">исторически там никогда не жили русские, только японцы.</segment>
+		<segment id="44" parent="43" relname="elaboration">После нападения российской армии 17 тысяч жителей уехали оттуда.</segment>
+		<segment id="46" parent="48" relname="joint">Сейчас осталось только 7500 тысяч человек,</segment>
+		<segment id="47" parent="48" relname="joint">и они желают вернуться туда.</segment>
+		<segment id="49" parent="50" relname="joint">Мы хотели бы провести мирные переговоры с применением диалога\",</segment>
+		<segment id="52" parent="51" relname="attribution">- сказал он.\n\n</segment>
+		<segment id="54" parent="59" relname="attribution">\"Мы утверждаем,</segment>
+		<segment id="55" parent="59" relname="joint">что Северные территории Курильских островов являются исконными японскими территориями,</segment>
+		<segment id="56" parent="58" relname="joint">и хотели бы как можно скорее решить этот вопрос</segment>
+		<segment id="57" parent="58" relname="joint">и развивать наши отношения дальше\",</segment>
+		<segment id="61" parent="60" relname="attribution">- заявил Маэхара.\n\n</segment>
+		<segment id="63" parent="65" relname="span">\"Пока можно сказать, что послевоенный период отношений между Россией и Японией еще не закончен\",</segment>
+		<segment id="64" parent="63" relname="attribution">- отметил он.\n\</segment>
+		<segment id="66" parent="67" relname="attribution">nПо его мнению,</segment>
+		<segment id="67" parent="68" relname="span">мирное соглашение между странами поможет развить сотрудничество России и Японии в области технологий, экономики, в сфере освоения ресурсов.</segment>
+		<segment id="69" parent="70" relname="attribution">Он также уверен,</segment>
+		<segment id="70" parent="71" relname="span">что после соглашения относительно Курил из России в Японию и из Японии в Россию может ездить больше туристов, чем сейчас.\n\n</segment>
+		<segment id="72" parent="76" relname="span">\"Думаю, что в сердце японцев есть сомнения,</segment>
+		<segment id="73" parent="75" relname="span">которые останавливают продвижение отношений с Россией,</segment>
+		<segment id="74" parent="73" relname="condition">пока территория Северных островов не возвращается к нам\",</segment>
+		<segment id="77" parent="82" relname="attribution">- отметил он</segment>
+		<segment id="78" parent="81" relname="attribution">.\n\nМаэхара также уверен,</segment>
+		<segment id="79" parent="80" relname="condition">что если рассматривать этот вопрос с точки зрения международного права,</segment>
+		<segment id="80" parent="81" relname="span">то у многих стран можно получить поддержку позиции Японии.</segment>
+		<segment id="85" parent="87" relname="contrast">Глава МИД Японии надеется на постепенное решение вопроса,</segment>
+		<segment id="86" parent="87" relname="contrast">но не знает, сколько времени оно займет.\n\</segment>
+		<segment id="88" parent="89" relname="attribution">nОн также заявил,</segment>
+		<segment id="89" parent="90" relname="span">что Япония до сих пор не знает точного количества погибших японских военнопленных во время второй мировой войны.</segment>
+		<segment id="91" parent="95" relname="contrast">\"У меня нет подробной информации,</segment>
+		<segment id="92" parent="94" relname="joint">но, насколько мне известно, примерно 575 тыс. японцев в России были интернированы,</segment>
+		<segment id="93" parent="94" relname="joint">и среди них где-то десять процентов человек погибли\",</segment>
+		<segment id="96" parent="95" relname="attribution">- сказал он</segment>
+		<segment id="98" parent="99" relname="attribution">и добавил,</segment>
+		<segment id="99" parent="100" relname="span">что точного количества пока не знает.\n\nИсточник: https://www.newsru.com/world/12Feb2011/dvc.html\n</segment>
+		<group id="40" type="span" parent="109" relname="preparation"/>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="53" type="span" parent="109" relname="joint"/>
+		<group id="51" type="multinuc" parent="53" relname="span"/>
+		<group id="45" type="span" parent="51" relname="joint"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="48" type="multinuc" parent="50" relname="joint"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="62" type="span" parent="108" relname="joint"/>
+		<group id="60" type="span" parent="62" relname="span"/>
+		<group id="59" type="multinuc" parent="60" relname="span"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="65" type="span" parent="107" relname="joint"/>
+		<group id="106" type="multinuc" parent="107" relname="joint"/>
+		<group id="68" type="span" parent="106" relname="joint"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="71" type="span" parent="105" relname="joint"/>
+		<group id="104" type="multinuc" parent="105" relname="joint"/>
+		<group id="84" type="span" parent="104" relname="joint"/>
+		<group id="76" type="span" parent="84" relname="span"/>
+		<group id="75" type="span" parent="72" relname="elaboration"/>
+		<group id="83" type="span" parent="76" relname="attribution"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="103" type="span" parent="104" relname="joint"/>
+		<group id="87" type="multinuc" parent="103" relname="span"/>
+		<group id="102" type="multinuc" parent="87" relname="elaboration"/>
+		<group id="90" type="span" parent="102" relname="comparison"/>
+		<group id="101" type="multinuc" parent="102" relname="comparison"/>
+		<group id="97" type="span" parent="101" relname="joint"/>
+		<group id="95" type="multinuc" parent="97" relname="span"/>
+		<group id="94" type="multinuc" parent="95" relname="contrast"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="110" type="span"/>
+	</body>
+</rst>

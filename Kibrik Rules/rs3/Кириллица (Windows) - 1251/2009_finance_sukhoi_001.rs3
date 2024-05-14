@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="37" relname="same-unit">Инопресса отметила несостоятельность российского Sukhoi Superjet-100\n\nРоссия,</segment>
+		<segment id="34" parent="36" relname="joint">пытающаяся отвоевать коммерческие небеса,</segment>
+		<segment id="35" parent="36" relname="joint">выступила с дебютом на аэрокосмическом салоне Ле-Бурже в понедельник,</segment>
+		<segment id="38" parent="37" relname="condition">представив региональный самолет Sukhoi Superjet-100,</segment>
+		<segment id="40" parent="39" relname="attribution">пишет InoPressa.ru со ссылкой на Forbes.\n\</segment>
+		<segment id="42" parent="46" relname="span">nОднако международная реакция на Superjet-100 прохладна:</segment>
+		<segment id="43" parent="44" relname="condition">пока только три международные авиакомпании официально разместили заказы на этот самолет - это армянская \"Армавиа\", итальянская ItAli и венгерская Malev.\n\n- Авиасалон Ле-Бурже принес российскому авиапрому соглашения на 95 новых самолетов\n\nПока Malev - фирма, в которой российский \"Внешэкономбанк\" владеет долей в 49%,</segment>
+		<segment id="44" parent="45" relname="span">- подписала только соглашение о намерениях на приобретение 30 самолетов.</segment>
+		<segment id="47" parent="48" relname="attribution">На вопрос, действительно ли компания считает,</segment>
+		<segment id="48" parent="49" relname="span">что Sukhoi - это лучший региональный самолет, существующий ныне на рынке,</segment>
+		<segment id="50" parent="53" relname="attribution">ее гендиректор Мартин Гаусс ответил:</segment>
+		<segment id="51" parent="53" relname="span">\"Исходя из того, что мы знаем на сегодняшний день, это так\".\n\nСпециалисты не согласны с этим утверждением,</segment>
+		<segment id="52" parent="51" relname="attribution">пишет автор статьи Лайонел Лорен.</segment>
+		<segment id="57" parent="58" relname="attribution">Ричард Абулафиа из Teal Group заявил,</segment>
+		<segment id="58" parent="59" relname="span">что сам по себе Superjet-100 не предлагает ничего нового, по крайней мере, ничего такого, чего не было бы у конкурентов: Bombardier (Канада) или Embraer (Бразилия).</segment>
+		<segment id="60" parent="64" relname="span">В настоящее время эти два производителя доминируют на рынке региональных самолетов,</segment>
+		<segment id="61" parent="62" relname="attribution">отмечает издание.\n\nВ свою очередь французская Le Monde отмечает,</segment>
+		<segment id="62" parent="63" relname="span">что SSJ стал единственной новинкой авиасалона 2009 года в Ле-Бурже.</segment>
+		<segment id="66" parent="68" relname="joint">Этот аппарат стремится составить конкуренцию двум гигантам сектора региональных самолетов - канадскому Bombardier и бразильскому Embraer.</segment>
+		<segment id="67" parent="68" relname="joint">Кроме того, он символизирует возвращение России на рынок гражданской авиации.</segment>
+		<segment id="69" parent="73" relname="span">У русских большие амбиции:</segment>
+		<segment id="70" parent="72" relname="span">к 2025 году они хотят выйти на третье место в мире по строительству пассажирских и гражданских транспортных самолетов,</segment>
+		<segment id="71" parent="70" relname="elaboration">завладев 10-12% рынка против 1% сегодня,</segment>
+		<segment id="74" parent="79" relname="attribution">пишет газета.\n\nЭто дерзкое пари,</segment>
+		<segment id="75" parent="79" relname="span">учитывая отставание, особенно в технологическом плане,</segment>
+		<segment id="76" parent="78" relname="span">которое предстоит преодолеть,</segment>
+		<segment id="77" parent="76" relname="attribution">отмечает Le Monde.</segment>
+		<segment id="82" parent="88" relname="span">Для производства SuperJet 100 \"Сухой\" заключил соглашения с многими западными партнерами.</segment>
+		<segment id="83" parent="87" relname="span">Итальянская Alenia подписала договор о продаже самолета за пределами России.</segment>
+		<segment id="84" parent="86" relname="span">Первый полет состоялся в 2008 году,</segment>
+		<segment id="85" parent="84" relname="elaboration">на настоящий момент куплено 98 самолетов,</segment>
+		<segment id="89" parent="88" relname="attribution">сообщает издание.\n\nИсточник: https://www.newsru.com/finance/16Jun2009/sukhoi.html\n</segment>
+		<group id="41" type="span" parent="94" relname="preparation"/>
+		<group id="39" type="span" parent="41" relname="span"/>
+		<group id="37" type="multinuc" parent="39" relname="span"/>
+		<group id="36" type="multinuc" parent="37" relname="same-unit"/>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="56" type="multinuc" parent="94" relname="joint"/>
+		<group id="46" type="span" parent="56" relname="comparison"/>
+		<group id="45" type="span" parent="42" relname="elaboration"/>
+		<group id="55" type="span" parent="56" relname="comparison"/>
+		<group id="49" type="span" parent="55" relname="span"/>
+		<group id="54" type="span" parent="49" relname="attribution"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="65" type="span" parent="93" relname="joint"/>
+		<group id="59" type="span" parent="65" relname="span"/>
+		<group id="64" type="span" parent="59" relname="elaboration"/>
+		<group id="63" type="span" parent="60" relname="elaboration"/>
+		<group id="92" type="span" parent="93" relname="joint"/>
+		<group id="68" type="multinuc" parent="91" relname="preparation"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="81" type="multinuc" parent="91" relname="span"/>
+		<group id="73" type="span" parent="81" relname="comparison"/>
+		<group id="72" type="span" parent="69" relname="elaboration"/>
+		<group id="80" type="span" parent="81" relname="comparison"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="78" type="span" parent="75" relname="elaboration"/>
+		<group id="90" type="span" parent="81" relname="purpose"/>
+		<group id="88" type="span" parent="90" relname="span"/>
+		<group id="87" type="span" parent="82" relname="elaboration"/>
+		<group id="86" type="span" parent="83" relname="elaboration"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,40 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="17" relname="cause-effect">Саакашвили предлагает</segment>
+		<segment id="15" parent="17" relname="span">назначить премьер-министром Грузии Зураба Жвания\n\nПрезидент Грузии Михаил Саакашвили представил</segment>
+		<segment id="16" parent="15" relname="purpose">для утверждения парламентом на должность премьер-министра кандидатуру Зураба Жвания.</segment>
+		<segment id="19" parent="18" relname="attribution">Об этом Саакашвили заявил журналистам в понедельник вечером перед началом встречи с руководителями парламентских фракций</segment>
+		<segment id="21" parent="30" relname="attribution">.\n\nПрезидент также сообщил,</segment>
+		<segment id="22" parent="24" relname="span">что представил на должность министра госбезопасности кандидатуру Зураба Адеишвили,</segment>
+		<segment id="23" parent="22" relname="elaboration">исполняющего в настоящее время обязанности министра юстиции Грузии.\n\nПри этом Михаил Саакашвили сказал:</segment>
+		<segment id="25" parent="29" relname="joint">\"Нынешний министр госбезопасности Валерий Хабурдзания - серьезный кадр,</segment>
+		<segment id="26" parent="27" relname="attribution">и он будет обязательно останется в государственном аппарате на одном из постов\".\n\nКроме того, Михаил Саакашвили сообщил,</segment>
+		<segment id="27" parent="28" relname="span">что создаются администрации президента и правительства Грузии.</segment>
+		<segment id="32" parent="33" relname="attribution">По его словам,</segment>
+		<segment id="33" parent="34" relname="span">количество сотрудников в аппаратах администраций будет гораздо меньше, чем в бывшей государственной канцелярии,</segment>
+		<segment id="35" parent="34" relname="attribution">сообщает \"Интерфакс\".\n\nИсточник: https://www.newsru.com/world/09Feb2004/saakzhvan.html\n</segment>
+		<group id="20" type="span" parent="38" relname="joint"/>
+		<group id="18" type="span" parent="20" relname="span"/>
+		<group id="17" type="span" parent="18" relname="span"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="31" type="span" parent="37" relname="span"/>
+		<group id="30" type="multinuc" parent="31" relname="span"/>
+		<group id="24" type="span" parent="30" relname="joint"/>
+		<group id="29" type="multinuc" parent="30" relname="joint"/>
+		<group id="28" type="span" parent="29" relname="joint"/>
+		<group id="36" type="span" parent="31" relname="elaboration"/>
+		<group id="34" type="span" parent="36" relname="span"/>
+		<group id="38" type="multinuc"/>
+	</body>
+</rst>

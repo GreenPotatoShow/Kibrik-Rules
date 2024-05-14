@@ -1,0 +1,30 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="22" relname="preparation">Слишком низкая инфляция опасна для экономики России\n\nЦентробанк РФ предоставил в Госдуму РФ доклад об \"Основных направлениях единой государственной денежно-кредитной политики на 2001 год\".</segment>
+		<segment id="10" parent="11" relname="attribution">В докладе говорится о том,</segment>
+		<segment id="11" parent="12" relname="span">что уровень инфляции ниже отметки 12-14% в год,</segment>
+		<segment id="13" parent="15" relname="joint">\"может ограничить рост</segment>
+		<segment id="14" parent="15" relname="joint">и замедлить темпы экономического развития\".\n\nВместе с тем, передает \"АК&М\",</segment>
+		<segment id="16" parent="17" relname="attribution">по мнению ЦБ,</segment>
+		<segment id="17" parent="18" relname="span">достижение прогнозируемого уровня инфляции на 2001 год может быть обеспечено только при сокращении задолженности правительства РФ перед Банком России в условиях бездефицитного бюджета.</segment>
+		<segment id="21" parent="22" relname="comparison">Каждый год, по мнению авторов \"Основных направлений\", \"цель по инфляции должна быть ниже ее фактического значения в предыдущем году\".\n\nИсточник: https://www.newsru.com/finance/02Oct2000/cb.html\n</segment>
+		<group id="22" type="multinuc" parent="23" relname="span"/>
+		<group id="20" type="span" parent="22" relname="comparison"/>
+		<group id="12" type="span" parent="20" relname="span"/>
+		<group id="19" type="span" parent="12" relname="purpose"/>
+		<group id="15" type="multinuc" parent="18" relname="purpose"/>
+		<group id="18" type="span" parent="19" relname="span"/>
+		<group id="23" type="span"/>
+	</body>
+</rst>

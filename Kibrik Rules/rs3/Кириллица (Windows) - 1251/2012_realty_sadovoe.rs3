@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="24" relname="joint">Плитка на всех тротуарах Садового кольца появится до 2016 года\n\nВласти Москвы планируют выполнить мощение тротуаров на всех улицах в пределах Садового кольца до 2016 года,</segment>
+		<segment id="21" parent="23" relname="joint">следует из размещенной на сайте Москомархитектуры схемы очередности выполнения работ по мощению пешеходных пространств в центре столицы.\n\nСогласно схеме,</segment>
+		<segment id="22" parent="23" relname="joint">в 2011 году уже проведено мощение тротуаров на Тверской, Мясницкой, Яузской, Николоямской и Серпуховской улицах, на Ленинском проспекте, на Большой Ордынке и на нескольких других улицах (общая площадь мощения 33 гектара).\n\nКроме того, частично выполнено мощение пешеходных пространств на самом Садовом кольце (13,5 гектара из 29,7 гектара),</segment>
+		<segment id="25" parent="30" relname="attribution">пишет РИА \"Новости\".\n\nВ 2012 году,</segment>
+		<segment id="26" parent="29" relname="attribution">как следует из материалов Москомархитектуры,</segment>
+		<segment id="27" parent="29" relname="span">планируется замостить в исторической части города в общей сложности 7,1 гектара на таких улицах как Возвиженка, Никольская, Рождественка, Лубянка, Большая Бронная, Ильинка, Полянка, Петровский, Тверской и Никитский бульвары, Лубянская и Манежная площади.\n\nМощение тротуаров на остальных улицах в границах Садового кольца, а также Звенигородского шоссе, улицы 1905 года, Комсомольского проспекта и набережных Москвы-реки за его пределами</segment>
+		<segment id="28" parent="27" relname="elaboration">(площадь мощения 71,3 гектара),</segment>
+		<segment id="33" parent="41" relname="joint">в соответствии со схемой, предполагается провести до 2016 года.\n\nПосле 2016 года столичные власти намерены приступить к работам по мощению пешеходных пространств в Центральном административном округе, но уже за Садовым кольцом (всего 176,9 гектара), следует из материалов.\n\nЗамена асфальта на плитку началась в Москве в 2011 году</segment>
+		<segment id="34" parent="40" relname="span">по инициативе мэра Сергея Собянина,</segment>
+		<segment id="35" parent="38" relname="attribution">который заявил,</segment>
+		<segment id="36" parent="38" relname="joint">что городу, особенно в центральной части, стоит избавиться от непрезентабельного асфальта</segment>
+		<segment id="37" parent="38" relname="joint">и распорядился привести тротуары в порядок.</segment>
+		<segment id="43" parent="44" relname="attribution">Городские власти сообщали,</segment>
+		<segment id="44" parent="45" relname="span">что всего в городе необходимо уложить порядка 1,14 миллиона квадратных метров плитки.</segment>
+		<segment id="46" parent="48" relname="contrast">В 2011 году в Москве планировалось уложить плитку на тротуарах центральных улиц и вылетных магистралей,</segment>
+		<segment id="47" parent="48" relname="contrast">однако полностью выполнить план не успели.</segment>
+		<segment id="49" parent="50" relname="attribution">По словам Собянина,</segment>
+		<segment id="50" parent="51" relname="span">работы по укладке плитки должны завершиться не позднее 2013 года.\n\nКроме того, Москомархитектура разработала архитектурно-художественную концепцию мощения пешеходных пространств в исторической части Москвы, включая вылетные магистрали города.</segment>
+		<segment id="52" parent="51" relname="elaboration">Эти материалы сейчас находятся на согласовании.\n\nИсточник: https://www.newsru.com/realty/03Aug2012/sadovoe.html\n</segment>
+		<group id="42" type="span" parent="55" relname="preparation"/>
+		<group id="32" type="multinuc" parent="41" relname="preparation"/>
+		<group id="24" type="multinuc" parent="32" relname="joint"/>
+		<group id="23" type="multinuc" parent="24" relname="joint"/>
+		<group id="31" type="span" parent="32" relname="joint"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="29" type="span" parent="30" relname="span"/>
+		<group id="41" type="multinuc" parent="42" relname="span"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="39" type="span" parent="34" relname="elaboration"/>
+		<group id="38" type="multinuc" parent="39" relname="span"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="45" type="span" parent="54" relname="preparation"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="48" type="multinuc" parent="54" relname="joint"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="51" type="span" parent="53" relname="span"/>
+		<group id="56" type="span"/>
+	</body>
+</rst>

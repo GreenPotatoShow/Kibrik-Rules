@@ -1,0 +1,28 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="23" relname="joint">Российские сигареты \"Прима\" будут производить на деньги англичан\n\</segment>
+		<segment id="10" parent="11" relname="attribution">nПо сообщению газеты \"Файнэншл таймс\" вчера британская табачная группа Gallaher объявила</segment>
+		<segment id="11" parent="12" relname="span">о своих планах инвестирования в табачный рынок России.</segment>
+		<segment id="13" parent="21" relname="joint">Стало известно, что в московскую табачную фабрику \"Лиггетт-Дукат\", производящую сигареты \"Прима\", британской табачной группой будет вложено около 58 млн. долларов.\n\</segment>
+		<segment id="14" parent="15" relname="cause-effect">nПредполагается, что в результате производительность московской фабрики увеличится на 25 млрд. сигарет в год против 40 млрд., которые выпускает фабрика сейчас.\n\nГлава Gallaher Найджел Нортридж говорит о том,</segment>
+		<segment id="15" parent="16" relname="span">что инвестиции значительно повысят производственный потенциал фабрики.</segment>
+		<segment id="17" parent="19" relname="joint">На фабрике будет продолжен выпуск сигарет \"Прима\",</segment>
+		<segment id="18" parent="19" relname="joint">наряду с которым будет запущено новое производство сигарет в твердых упаковках.\n\nНадо сказать, что после решения Gallaher вложить деньги в российский табачный рынок акции табачной группы выросли на Лондонской бирже на 10 пунктов.\n\nИсточник: https://www.newsru.com/finance/07Sep2000/prima.html\n</segment>
+		<group id="22" type="multinuc" parent="23" relname="joint"/>
+		<group id="12" type="span" parent="22" relname="joint"/>
+		<group id="21" type="multinuc" parent="22" relname="joint"/>
+		<group id="20" type="multinuc" parent="21" relname="joint"/>
+		<group id="16" type="span" parent="20" relname="comparison"/>
+		<group id="19" type="multinuc" parent="20" relname="comparison"/>
+		<group id="23" type="multinuc"/>
+	</body>
+</rst>

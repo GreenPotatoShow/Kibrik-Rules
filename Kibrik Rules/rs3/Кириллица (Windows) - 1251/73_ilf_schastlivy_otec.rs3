@@ -1,0 +1,336 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="158" parent="162" relname="span">Товарищ  Сундучанский ожидал прибавления семейства.</segment>
+		<segment id="159" parent="161" relname="joint">В последние решающие дни он путался между столами сослуживцев</segment>
+		<segment id="160" parent="161" relname="joint">и расслабленным голосом бормотал: \n  - Мальчик или девочка?</segment>
+		<segment id="163" parent="167" relname="span">Вот что меня интересует, Марья Васильевна!</segment>
+		<segment id="164" parent="165" relname="condition">Если будет девочка,</segment>
+		<segment id="165" parent="166" relname="span">как назвать?</segment>
+		<segment id="169" parent="177" relname="span">\n  Марью Васильевну вопрос о продлении славного рода Сундучанских почти не интересовал.</segment>
+		<segment id="170" parent="176" relname="same-unit">\n</segment>
+		<segment id="171" parent="175" relname="joint">- Назовите Клотильдой,</segment>
+		<segment id="172" parent="174" relname="joint">- хмуро отвечала она,</segment>
+		<segment id="173" parent="174" relname="joint">- или как хотите.</segment>
+		<segment id="178" parent="180" relname="span">По общественным делам я принимаю только после занятий.</segment>
+		<segment id="179" parent="178" relname="elaboration">\n  - А если мальчик?</segment>
+		<segment id="181" parent="189" relname="span">- допытывал Сундучанский.</segment>
+		<segment id="182" parent="188" relname="same-unit">\n</segment>
+		<segment id="183" parent="185" relname="span">- Извините, я занята,</segment>
+		<segment id="184" parent="183" relname="attribution">- говорила Марья Васильевна,</segment>
+		<segment id="186" parent="185" relname="attribution">- у меня ударное задание.</segment>
+		<segment id="190" parent="194" relname="same-unit">\n</segment>
+		<segment id="191" parent="192" relname="condition">- Если мальчик,</segment>
+		<segment id="192" parent="193" relname="span">- советовал товарищ Отверстиев,</segment>
+		<segment id="195" parent="194" relname="attribution">- назовите в мою честь - Колей...</segment>
+		<segment id="197" parent="198" relname="joint">И не путайся здесь под ногами, не до тебя.</segment>
+		<segment id="201" parent="211" relname="span">Мне срочно нужно вырешить вопросы тары.</segment>
+		<segment id="202" parent="204" relname="joint">\n  Однажды Сундучаиский прибежал на службу,</segment>
+		<segment id="203" parent="204" relname="joint">тяжело дыша.</segment>
+		<segment id="205" parent="206" relname="condition">\n  - А если двойня,</segment>
+		<segment id="206" parent="207" relname="span">тогда как назвать?</segment>
+		<segment id="208" parent="209" relname="span">- крикнул он на весь отдел.</segment>
+		<segment id="212" parent="214" relname="joint">\n  Служащие застонали.</segment>
+		<segment id="213" parent="214" relname="joint">\n  - О черт!</segment>
+		<segment id="215" parent="217" relname="joint">Пристал!</segment>
+		<segment id="216" parent="217" relname="joint">Называй как хочешь!</segment>
+		<segment id="219" parent="221" relname="joint">Ну, Давид и Голиаф.</segment>
+		<segment id="220" parent="221" relname="joint">\n  - Или Брокгауз и Ефрон.</segment>
+		<segment id="222" parent="221" relname="interpretation-evaluation">Отличные имена.</segment>
+		<segment id="225" parent="224" relname="attribution">\n  Насчет Брокгауза сказал Отверстиев.</segment>
+		<segment id="227" parent="233" relname="span">Он был остряк.</segment>
+		<segment id="228" parent="232" relname="same-unit">\n</segment>
+		<segment id="229" parent="231" relname="span">- Вы вот шутите,</segment>
+		<segment id="230" parent="229" relname="attribution">- сказал Сундучанский жалобно,</segment>
+		<segment id="234" parent="235" relname="sequence">- а я уже отправил жену в родовспомогательное заведение.</segment>
+		<segment id="237" parent="239" relname="span">\n  Надо правду сказать,</segment>
+		<segment id="238" parent="237" relname="cause-effect">никакого впечатления не вызвало сообщение товарища Сундучанского.</segment>
+		<segment id="240" parent="242" relname="joint">Был последний месяц хозяйственного года,</segment>
+		<segment id="241" parent="242" relname="joint">и все были очень заняты.</segment>
+		<segment id="249" parent="296" relname="preparation">\n  Наконец удивительное событие произошло.</segment>
+		<segment id="250" parent="266" relname="span">Род Сундучанских продлился.</segment>
+		<segment id="251" parent="253" relname="sequence">Счастливый отец отправился на службу.</segment>
+		<segment id="252" parent="253" relname="sequence">Уши его горели на солнце.</segment>
+		<segment id="254" parent="264" relname="same-unit">\n</segment>
+		<segment id="255" parent="257" relname="joint">\"Я войду,</segment>
+		<segment id="256" parent="257" relname="joint">как будто бы ничего не случилось,</segment>
+		<segment id="258" parent="261" relname="attribution">- думал он,</segment>
+		<segment id="259" parent="260" relname="condition">- а когда они набросятся на меня с расспросами,</segment>
+		<segment id="260" parent="261" relname="span">я, может быть, им кое-что расскажу\".</segment>
+		<segment id="267" parent="275" relname="span">\n  Так он и сделал.</segment>
+		<segment id="268" parent="274" relname="span">Вошел, как будто бы ничего не случилось.</segment>
+		<segment id="269" parent="273" relname="joint">\n  - А!</segment>
+		<segment id="270" parent="272" relname="span">Сундучанский!</segment>
+		<segment id="271" parent="270" relname="attribution">- закричал Отверстиев.</segment>
+		<segment id="276" parent="293" relname="solutionhood">- Ну как?</segment>
+		<segment id="277" parent="292" relname="solutionhood">Готово?</segment>
+		<segment id="278" parent="292" relname="span">\n  - Готово,</segment>
+		<segment id="279" parent="291" relname="span">- ответил молодой отец зардевшись.</segment>
+		<segment id="280" parent="289" relname="preparation">\n</segment>
+		<segment id="281" parent="289" relname="span">- Ну, тащи ее сюда.</segment>
+		<segment id="282" parent="286" relname="span">\n  - В том-то и дело, что не ее, а его.</segment>
+		<segment id="283" parent="285" relname="span">У меня родился мальчик.</segment>
+		<segment id="284" parent="283" relname="elaboration">\n  - Опять ты со своим мальчиком!</segment>
+		<segment id="287" parent="286" relname="elaboration">Я про таблицу говорю.</segment>
+		<segment id="298" parent="299" relname="solutionhood">Готова таблица?</segment>
+		<segment id="299" parent="300" relname="span">Ведь ее нужно в ударном порядке сдать.</segment>
+		<segment id="301" parent="317" relname="span">\n  И Сундучанский грустно сел за стол дописывать таблицу.</segment>
+		<segment id="302" parent="306" relname="same-unit">\n  Уходя,</segment>
+		<segment id="303" parent="305" relname="joint">он не сдержался</segment>
+		<segment id="304" parent="305" relname="joint">и сказал Марье Васильевне: \n  - Зашли бы все-таки.</segment>
+		<segment id="307" parent="315" relname="span">На сына взглянули бы.</segment>
+		<segment id="308" parent="314" relname="span">Очень на меня похож.</segment>
+		<segment id="309" parent="313" relname="comparison">Восемь с половиной фунтов весит, бандит.</segment>
+		<segment id="310" parent="312" relname="span">\n  - Три с четвертью кило,</segment>
+		<segment id="311" parent="310" relname="attribution">- машинально прикинула Марья Васильевна.</segment>
+		<segment id="319" parent="332" relname="solutionhood">- Вы сегодня на собрании будете?</segment>
+		<segment id="320" parent="331" relname="solutionhood">Вопросы шефства...</segment>
+		<segment id="321" parent="331" relname="same-unit">\n</segment>
+		<segment id="322" parent="324" relname="span">- Слушай, Отверстиев,</segment>
+		<segment id="323" parent="322" relname="attribution">- сказал Сундучанский,</segment>
+		<segment id="325" parent="326" relname="sequence">- мальчик у меня - во!</segment>
+		<segment id="327" parent="329" relname="joint">Совсем как человек: живот, ножки.</segment>
+		<segment id="328" parent="329" relname="joint">А также уши.</segment>
+		<segment id="334" parent="342" relname="span">Конечно, пока довольно маленькие.</segment>
+		<segment id="335" parent="336" relname="solutionhood">Может, зашел бы?</segment>
+		<segment id="336" parent="337" relname="span">Жена как будет рада!</segment>
+		<segment id="338" parent="339" relname="span">\n  - Ну, мне пора,</segment>
+		<segment id="340" parent="339" relname="attribution">- вздохнул Отверстиев.</segment>
+		<segment id="343" parent="351" relname="span">- Мы тут буксир один организуем.</segment>
+		<segment id="344" parent="346" relname="span">Времени, брат, совершенно нет.</segment>
+		<segment id="345" parent="344" relname="elaboration">Кланяйся своей дочурке.</segment>
+		<segment id="347" parent="348" relname="span">- И убежал.</segment>
+		<segment id="349" parent="348" relname="elaboration">\n  В этот день Сундучанский так никого и не залучил к себе домой полюбоваться на сына.</segment>
+		<segment id="352" parent="358" relname="joint">\n  А время шло Сын прибавлял в весе,</segment>
+		<segment id="353" parent="354" relname="attribution">и родители начали даже распускать слух о том,</segment>
+		<segment id="354" parent="355" relname="span">что он якобы сказал \"агу\",</segment>
+		<segment id="356" parent="357" relname="span">чего с двухнедельным младенцем обычно никогда не бывает.</segment>
+		<segment id="359" parent="360" relname="contrast">\n  Но и эта потрясающая новость не вызвала притока сослуживцев в квартиру Сундучанского.</segment>
+		<segment id="364" parent="372" relname="sequence">\n  Тогда горемыка отец решился на крайность.</segment>
+		<segment id="365" parent="367" relname="joint">Он пришел на службу раньше всех</segment>
+		<segment id="366" parent="367" relname="joint">и на доске объявлений вывесил бумажку:</segment>
+		<segment id="368" parent="367" relname="elaboration">\n  БРИГАДА \n  по обследованию ребенка Сундучанского начинает работу \n  сегодня, в 6 часов, в квартире т. Сундучанского.</segment>
+		<segment id="370" parent="369" relname="elaboration">\n  Явка тт Отверстиева, Кускова, Имянинен, Шакальской и Башмакова \n  ОБЯЗАТЕЛЬНА.</segment>
+		<segment id="373" parent="375" relname="sequence">\n  В три часа к Сундучанскому подошел Башмаков</segment>
+		<segment id="374" parent="375" relname="sequence">и зашептал: \n  - Слушай, Сундучанский.</segment>
+		<segment id="376" parent="375" relname="interpretation-evaluation">Я сегодня никак не могу.</segment>
+		<segment id="378" parent="379" relname="sequence">У меня кружок и потом... жена больна... ей-богу!</segment>
+		<segment id="382" parent="386" relname="span">\n  - Ничего не поделаешь,</segment>
+		<segment id="383" parent="384" relname="attribution">- холодно сказал Сундучанский,</segment>
+		<segment id="384" parent="385" relname="span">- все загружены.</segment>
+		<segment id="388" parent="392" relname="joint">Я, может, тоже загружен.</segment>
+		<segment id="389" parent="390" relname="attribution">Нет, брат, в объявлении ясно написано:</segment>
+		<segment id="390" parent="391" relname="span">\"Явка обязательна\"...</segment>
+		<segment id="393" parent="400" relname="condition">\n  С соответствующим опозданием,</segment>
+		<segment id="394" parent="400" relname="same-unit">то есть часов в семь,</segment>
+		<segment id="395" parent="399" relname="joint">члены бригады,</segment>
+		<segment id="396" parent="398" relname="joint">запыхавшись,</segment>
+		<segment id="397" parent="398" relname="joint">вбежали в квартиру Сундучанского.</segment>
+		<segment id="402" parent="406" relname="span">\n  - Надо бы поаккуратнее,</segment>
+		<segment id="403" parent="404" relname="attribution">- заметил хозяин,</segment>
+		<segment id="404" parent="405" relname="span">- ну да ладно, садитесь.</segment>
+		<segment id="408" parent="435" relname="preparation">Сейчас начнем.</segment>
+		<segment id="409" parent="434" relname="preparation">\n</segment>
+		<segment id="410" parent="412" relname="span">И он вкатил в комнату коляску,</segment>
+		<segment id="411" parent="410" relname="background">где, разинув рот, лежал молодой Сундучанский.</segment>
+		<segment id="413" parent="412" relname="background">\n  - Вот, - сказал Сундучанский-отец.</segment>
+		<segment id="415" parent="417" relname="joint">- Можете смотреть.</segment>
+		<segment id="416" parent="417" relname="joint">\n  - А как регламент?</segment>
+		<segment id="419" parent="420" relname="sequence">- спросила Шакальская.</segment>
+		<segment id="421" parent="423" relname="joint">- Сначала смотреть,</segment>
+		<segment id="422" parent="423" relname="joint">а потом задавать вопросы?</segment>
+		<segment id="424" parent="425" relname="joint">Или можно сначала вопросы?</segment>
+		<segment id="426" parent="427" relname="span">\n</segment>
+		<segment id="428" parent="429" relname="span">- Можно вопросы,</segment>
+		<segment id="430" parent="431" relname="attribution">- сказал отец,</segment>
+		<segment id="431" parent="432" relname="span">подавляя буйную радость.</segment>
+		<segment id="439" parent="445" relname="same-unit">\n</segment>
+		<segment id="440" parent="442" relname="sequence">- Не скажет ли нам докладчик,</segment>
+		<segment id="441" parent="442" relname="sequence">- спросил Отверстиев привычным голосом,</segment>
+		<segment id="443" parent="444" relname="span">- каковы качественные показатели этого объекта...</segment>
+		<segment id="446" parent="447" relname="joint">\n  - Можно слово к порядку ведения собрания?</segment>
+		<segment id="448" parent="456" relname="span">- перебила, как всегда, активная Шакальская.</segment>
+		<segment id="449" parent="453" relname="same-unit">\n</segment>
+		<segment id="450" parent="452" relname="joint">- Не замечается ли в ребенке недопотолстения,</segment>
+		<segment id="451" parent="452" relname="joint">то есть недоприбавлення в весе?</segment>
+		<segment id="454" parent="455" relname="span">- застенчиво спросил Башмаков.</segment>
+		<segment id="458" parent="460" relname="joint">\n</segment>
+		<segment id="459" parent="460" relname="joint">И машинка завертелась.</segment>
+		<segment id="461" parent="462" relname="joint">\n  Счастливый отец не успевал отвечать на вопросы.\n</segment>
+		<group id="248" type="span" parent="470" relname="sequence"/>
+		<group id="168" type="span" parent="247" relname="solutionhood"/>
+		<group id="162" type="span" parent="167" relname="solutionhood"/>
+		<group id="161" type="multinuc" parent="158" relname="elaboration"/>
+		<group id="167" type="span" parent="168" relname="span"/>
+		<group id="166" type="span" parent="163" relname="elaboration"/>
+		<group id="247" type="span" parent="248" relname="span"/>
+		<group id="177" type="span" parent="246" relname="preparation"/>
+		<group id="176" type="multinuc" parent="169" relname="elaboration"/>
+		<group id="175" type="multinuc" parent="176" relname="same-unit"/>
+		<group id="174" type="multinuc" parent="175" relname="joint"/>
+		<group id="246" type="multinuc" parent="247" relname="span"/>
+		<group id="200" type="span" parent="246" relname="joint"/>
+		<group id="180" type="span" parent="199" relname="solutionhood"/>
+		<group id="199" type="span" parent="200" relname="span"/>
+		<group id="189" type="span" parent="199" relname="span"/>
+		<group id="188" type="multinuc" parent="181" relname="elaboration"/>
+		<group id="187" type="span" parent="188" relname="same-unit"/>
+		<group id="185" type="span" parent="187" relname="span"/>
+		<group id="198" type="multinuc" parent="189" relname="elaboration"/>
+		<group id="196" type="span" parent="198" relname="joint"/>
+		<group id="194" type="multinuc" parent="196" relname="span"/>
+		<group id="193" type="span" parent="194" relname="same-unit"/>
+		<group id="245" type="multinuc" parent="246" relname="joint"/>
+		<group id="211" type="span" parent="245" relname="joint"/>
+		<group id="210" type="multinuc" parent="201" relname="elaboration"/>
+		<group id="204" type="multinuc" parent="210" relname="joint"/>
+		<group id="209" type="span" parent="210" relname="joint"/>
+		<group id="207" type="span" parent="208" relname="condition"/>
+		<group id="244" type="span" parent="245" relname="joint"/>
+		<group id="236" type="multinuc" parent="244" relname="span"/>
+		<group id="226" type="span" parent="236" relname="sequence"/>
+		<group id="224" type="multinuc" parent="226" relname="span"/>
+		<group id="218" type="span" parent="224" relname="joint"/>
+		<group id="214" type="multinuc" parent="218" relname="span"/>
+		<group id="217" type="multinuc" parent="214" relname="elaboration"/>
+		<group id="223" type="span" parent="224" relname="joint"/>
+		<group id="221" type="multinuc" parent="223" relname="span"/>
+		<group id="235" type="multinuc" parent="236" relname="sequence"/>
+		<group id="233" type="span" parent="235" relname="sequence"/>
+		<group id="232" type="multinuc" parent="227" relname="interpretation-evaluation"/>
+		<group id="231" type="span" parent="232" relname="same-unit"/>
+		<group id="243" type="span" parent="236" relname="interpretation-evaluation"/>
+		<group id="239" type="span" parent="243" relname="span"/>
+		<group id="242" type="multinuc" parent="239" relname="evidence"/>
+		<group id="469" type="multinuc" parent="470" relname="sequence"/>
+		<group id="297" type="span" parent="469" relname="sequence"/>
+		<group id="296" type="multinuc" parent="297" relname="span"/>
+		<group id="266" type="span" parent="296" relname="sequence"/>
+		<group id="265" type="span" parent="250" relname="elaboration"/>
+		<group id="253" type="multinuc" parent="265" relname="span"/>
+		<group id="264" type="multinuc" parent="253" relname="elaboration"/>
+		<group id="263" type="multinuc" parent="264" relname="same-unit"/>
+		<group id="257" type="multinuc" parent="263" relname="joint"/>
+		<group id="262" type="span" parent="263" relname="joint"/>
+		<group id="261" type="span" parent="262" relname="span"/>
+		<group id="295" type="multinuc" parent="296" relname="sequence"/>
+		<group id="275" type="span" parent="295" relname="joint"/>
+		<group id="274" type="span" parent="267" relname="elaboration"/>
+		<group id="273" type="multinuc" parent="268" relname="elaboration"/>
+		<group id="272" type="span" parent="273" relname="joint"/>
+		<group id="294" type="span" parent="295" relname="joint"/>
+		<group id="293" type="span" parent="294" relname="span"/>
+		<group id="292" type="span" parent="293" relname="span"/>
+		<group id="291" type="span" parent="278" relname="elaboration"/>
+		<group id="290" type="span" parent="279" relname="elaboration"/>
+		<group id="289" type="span" parent="290" relname="span"/>
+		<group id="288" type="span" parent="281" relname="elaboration"/>
+		<group id="286" type="span" parent="288" relname="span"/>
+		<group id="285" type="span" parent="282" relname="elaboration"/>
+		<group id="468" type="multinuc" parent="469" relname="sequence"/>
+		<group id="318" type="span" parent="468" relname="sequence"/>
+		<group id="300" type="span" parent="318" relname="span"/>
+		<group id="317" type="span" parent="300" relname="elaboration"/>
+		<group id="316" type="span" parent="301" relname="elaboration"/>
+		<group id="306" type="multinuc" parent="316" relname="span"/>
+		<group id="305" type="multinuc" parent="306" relname="same-unit"/>
+		<group id="315" type="span" parent="306" relname="elaboration"/>
+		<group id="314" type="span" parent="307" relname="elaboration"/>
+		<group id="313" type="multinuc" parent="308" relname="elaboration"/>
+		<group id="312" type="span" parent="313" relname="comparison"/>
+		<group id="467" type="multinuc" parent="468" relname="sequence"/>
+		<group id="363" type="multinuc" parent="467" relname="sequence"/>
+		<group id="333" type="span" parent="363" relname="sequence"/>
+		<group id="332" type="span" parent="333" relname="span"/>
+		<group id="331" type="multinuc" parent="332" relname="span"/>
+		<group id="330" type="span" parent="331" relname="same-unit"/>
+		<group id="326" type="multinuc" parent="330" relname="span"/>
+		<group id="324" type="span" parent="326" relname="sequence"/>
+		<group id="329" type="multinuc" parent="326" relname="elaboration"/>
+		<group id="362" type="multinuc" parent="363" relname="sequence"/>
+		<group id="342" type="span" parent="362" relname="joint"/>
+		<group id="341" type="span" parent="334" relname="elaboration"/>
+		<group id="339" type="span" parent="341" relname="span"/>
+		<group id="337" type="span" parent="338" relname="solutionhood"/>
+		<group id="361" type="multinuc" parent="362" relname="joint"/>
+		<group id="351" type="span" parent="361" relname="joint"/>
+		<group id="350" type="span" parent="343" relname="elaboration"/>
+		<group id="348" type="span" parent="350" relname="span"/>
+		<group id="346" type="span" parent="347" relname="cause-effect"/>
+		<group id="360" type="multinuc" parent="361" relname="joint"/>
+		<group id="358" type="multinuc" parent="360" relname="contrast"/>
+		<group id="357" type="span" parent="358" relname="joint"/>
+		<group id="355" type="span" parent="356" relname="attribution"/>
+		<group id="466" type="multinuc" parent="467" relname="sequence"/>
+		<group id="372" type="multinuc" parent="466" relname="sequence"/>
+		<group id="371" type="span" parent="372" relname="sequence"/>
+		<group id="369" type="span" parent="371" relname="span"/>
+		<group id="367" type="multinuc" parent="369" relname="span"/>
+		<group id="465" type="multinuc" parent="466" relname="sequence"/>
+		<group id="387" type="span" parent="465" relname="sequence"/>
+		<group id="379" type="multinuc" parent="387" relname="span"/>
+		<group id="377" type="span" parent="379" relname="sequence"/>
+		<group id="375" type="multinuc" parent="377" relname="span"/>
+		<group id="386" type="span" parent="379" relname="elaboration"/>
+		<group id="385" type="span" parent="382" relname="attribution"/>
+		<group id="464" type="span" parent="465" relname="sequence"/>
+		<group id="438" type="span" parent="463" relname="solutionhood"/>
+		<group id="392" type="multinuc" parent="437" relname="preparation"/>
+		<group id="391" type="span" parent="392" relname="joint"/>
+		<group id="437" type="multinuc" parent="438" relname="span"/>
+		<group id="407" type="span" parent="437" relname="sequence"/>
+		<group id="401" type="span" parent="407" relname="span"/>
+		<group id="400" type="multinuc" parent="401" relname="span"/>
+		<group id="399" type="multinuc" parent="400" relname="same-unit"/>
+		<group id="398" type="multinuc" parent="399" relname="joint"/>
+		<group id="406" type="span" parent="401" relname="interpretation-evaluation"/>
+		<group id="405" type="span" parent="402" relname="attribution"/>
+		<group id="436" type="span" parent="437" relname="sequence"/>
+		<group id="435" type="span" parent="436" relname="span"/>
+		<group id="434" type="multinuc" parent="435" relname="span"/>
+		<group id="420" type="multinuc" parent="434" relname="sequence"/>
+		<group id="418" type="span" parent="420" relname="sequence"/>
+		<group id="414" type="span" parent="418" relname="span"/>
+		<group id="412" type="span" parent="414" relname="span"/>
+		<group id="417" type="multinuc" parent="414" relname="interpretation-evaluation"/>
+		<group id="433" type="span" parent="434" relname="sequence"/>
+		<group id="429" type="span" parent="433" relname="span"/>
+		<group id="427" type="span" parent="428" relname="solutionhood"/>
+		<group id="425" type="multinuc" parent="426" relname="solutionhood"/>
+		<group id="423" type="multinuc" parent="425" relname="joint"/>
+		<group id="432" type="span" parent="429" relname="attribution"/>
+		<group id="463" type="span" parent="464" relname="span"/>
+		<group id="457" type="span" parent="462" relname="solutionhood"/>
+		<group id="447" type="multinuc" parent="456" relname="solutionhood"/>
+		<group id="445" type="multinuc" parent="447" relname="joint"/>
+		<group id="444" type="span" parent="445" relname="same-unit"/>
+		<group id="442" type="multinuc" parent="443" relname="solutionhood"/>
+		<group id="456" type="span" parent="457" relname="span"/>
+		<group id="455" type="span" parent="448" relname="elaboration"/>
+		<group id="453" type="multinuc" parent="454" relname="solutionhood"/>
+		<group id="452" type="multinuc" parent="453" relname="same-unit"/>
+		<group id="462" type="multinuc" parent="463" relname="span"/>
+		<group id="460" type="multinuc" parent="462" relname="joint"/>
+		<group id="470" type="multinuc"/>
+	</body>
+</rst>

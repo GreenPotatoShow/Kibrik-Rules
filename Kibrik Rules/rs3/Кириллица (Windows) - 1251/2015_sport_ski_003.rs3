@@ -1,0 +1,19 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="5" parent="10" relname="preparation">РУСАДА поймало на допинге лыжников-юниоров\n\nРоссийские лыжники Никита Машкин и Арина Калинина дисквалифицированы на два года за нарушение антидопинговых правил.</segment>
+		<segment id="6" parent="10" relname="joint">Об этом сообщает пресс-служба Российского антидопингового агентства (РУСАДА).\n\n\"Федерация лыжных гонок России на основании решений Дисциплинарного антидопингового комитета приняла решение о дисквалификации спортсмена Машкина Н. Е. и спортсменки Калининой А. Г. за нарушение антидопинговых правил на два года начиная с 22 апреля 2014 года\",</segment>
+		<segment id="7" parent="9" relname="span">- говорится в сообщении.\n\nЛетом прошлого года комиссия по предварительному рассмотрению РУСАДА отстранила лыжников от участия в соревнованиях</segment>
+		<segment id="8" parent="7" relname="purpose">из-за положительных допинг-проб.\n\nОтметим, что Никита Машкин в 2014 году стал победителем первенства страны по лыжным гонкам среди юниоров.\n\nИсточник: https://www.newsru.com/sport/28Jan2015/ski.html\n</segment>
+		<group id="10" type="multinuc" parent="11" relname="span"/>
+		<group id="9" type="span" parent="10" relname="joint"/>
+		<group id="11" type="span"/>
+	</body>
+</rst>

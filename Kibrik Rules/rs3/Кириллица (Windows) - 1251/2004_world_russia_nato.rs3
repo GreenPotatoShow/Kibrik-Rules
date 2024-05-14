@@ -1,0 +1,42 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="17" relname="span">Генсек НАТО созывает экстренное заседание совета Россия-НАТО</segment>
+		<segment id="16" parent="15" relname="cause-effect">в связи с терактом в Беслане\n\nГенеральный секретарь НАТО Яап де Хооп Схеффер созывает во вторник в Брюсселе экстренное заседание Совета Россия-НАТО в связи с террористическим актом в Беслане.\n\nКак говорится в распространенном пресс-службой главы альянса сообщении,</segment>
+		<segment id="18" parent="20" relname="joint">заседание пройдет на уровне послов</segment>
+		<segment id="19" parent="20" relname="joint">и будет посвящено вопросам борьбы с международным терроризмом.</segment>
+		<segment id="22" parent="32" relname="joint">С российской стороны в заседании примет участие постоянный представитель РФ при НАТО Константин Тоцкий</segment>
+		<segment id="23" parent="25" relname="span">.\n\nКак сообщили РИА \"Новости\" в пресс-службе альянса,</segment>
+		<segment id="24" parent="23" relname="background">заседание намечено на 18:00 по московскому времени,</segment>
+		<segment id="26" parent="30" relname="joint">и по итогам заседания ожидается принятие совместного заявления.\n\nРанее Генсек НАТО решительно осудил акты терроризма в России</segment>
+		<segment id="27" parent="28" relname="attribution">и заявил</segment>
+		<segment id="28" parent="29" relname="span">о готовности совместно с РФ продолжать бороться с этим злом</segment>
+		<segment id="33" parent="36" relname="preparation">.\n\</segment>
+		<segment id="34" parent="35" relname="attribution">nКак сообщил в понедельник вечером заместитель директора Департамента информации и печати МИД РФ Михаил Троянский,</segment>
+		<segment id="35" parent="36" relname="span">одной из тем заседания Совета РФ-НАТО будут вопросы укрепления взаимодействия Москвы и Североатлантического альянса в борьбе с международным терроризмом будут.\n\n\"Среди прочих вопросов на нем будут также обсуждаться пути укрепления взаимодействия и сотрудничества России и НАТО в антитеррористической сфере\",</segment>
+		<segment id="39" parent="38" relname="attribution">- сказал Троянский.\n\nИсточник: https://www.newsru.com/world/06Sep2004/russia_nato.html\n</segment>
+		<group id="21" type="multinuc" parent="41" relname="joint"/>
+		<group id="17" type="span" parent="21" relname="joint"/>
+		<group id="20" type="multinuc" parent="21" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="38" type="multinuc" parent="40" relname="span"/>
+		<group id="32" type="multinuc" parent="38" relname="joint"/>
+		<group id="31" type="multinuc" parent="32" relname="joint"/>
+		<group id="25" type="span" parent="31" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="41" type="multinuc"/>
+	</body>
+</rst>

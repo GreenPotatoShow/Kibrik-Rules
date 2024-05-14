@@ -1,0 +1,78 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="33" relname="span">\"Газпромбанк\" готовится к IPO в Лондоне\n\n\"Газпромбанк\" планирует провести первичное размещение акций на Лондонской фондовой бирже (LSE),</segment>
+		<segment id="32" parent="31" relname="elaboration">в ходе которого банк намерен предложить пакет из 25% акций,</segment>
+		<segment id="34" parent="33" relname="attribution">сообщает британская Daily Mail.</segment>
+		<segment id="36" parent="40" relname="joint">Будет ли при этом проведена допэмиссия,</segment>
+		<segment id="37" parent="39" relname="span">не уточняется.\n\nЛистинг \"Газпромбанка\" может состояться в ближайшие несколько месяцев,</segment>
+		<segment id="38" parent="37" relname="background">сейчас банк подыскивает консультантов по сделке,</segment>
+		<segment id="41" parent="40" relname="attribution">пишет газета со ссылкой на свои источники.</segment>
+		<segment id="43" parent="45" relname="joint">За 25% акций банк рассчитывает выручить свыше 1 млрд британских фунтов,</segment>
+		<segment id="44" parent="45" relname="joint">т.е. около 1,5-1,6 млрд долларов.\n\nДо кризиса о возможности выхода на IPO \"Газпромбанка\" заявлялось официально,</segment>
+		<segment id="46" parent="47" relname="contrast">но выход на биржу был отложен.\n\</segment>
+		<segment id="49" parent="50" relname="attribution">nКак пишет газета,</segment>
+		<segment id="50" parent="51" relname="span">вырученные средства пойдут на расширение стратегического инвестирования в такие сферы как нефть и газ, а также экспансию на глобальных рынках.</segment>
+		<segment id="52" parent="54" relname="joint">Сейчас банк располагает региональной сетью из 44 отделений</segment>
+		<segment id="53" parent="54" relname="joint">и имеет представительства в Пекине и Улан-Баторе.</segment>
+		<segment id="55" parent="57" relname="comparison">\"Газпромбанк\" также участвует в капитале зарубежных банков - \"Белгазпромбанка\" (Белоруссия), \"Арэксимбанка\" (Армения) и РКБ А/О в Цюрихе (Швейцария).\n\nВ конце января глава АСВ Александр Турбанов предлагал</segment>
+		<segment id="56" parent="57" relname="comparison">крупнейшим банкам (с активами свыше 5% от совокупных активов российских банков)</segment>
+		<segment id="58" parent="60" relname="joint">провести IPO</segment>
+		<segment id="59" parent="60" relname="joint">и разместить до 25% акций.</segment>
+		<segment id="62" parent="70" relname="comparison">\"Газпромбанк\", который является третьим по величине активов российским банком под указанные параметры подпадает.\n\</segment>
+		<segment id="63" parent="66" relname="attribution">nКак считает RB.ru,</segment>
+		<segment id="64" parent="66" relname="span">сейчас многие компании надеются подправить свои дела,</segment>
+		<segment id="65" parent="64" relname="condition">рассчитывая на привлечение нового капитала через IPO.</segment>
+		<segment id="68" parent="69" relname="joint">Аналитики \"Уралсиба\" оценили потребность российских компаний в капитале в 55 млрд долларов в следующие 18-24 месяцев.</segment>
+		<segment id="71" parent="77" relname="same-unit">При этом,</segment>
+		<segment id="72" parent="75" relname="attribution">по мнению экспертов,</segment>
+		<segment id="73" parent="75" relname="comparison">они вполне могут рассчитывать на привлечение 24-35 млрд на дальнейшее развитие.\n\</segment>
+		<segment id="74" parent="75" relname="comparison">nВ этом году британские банкиры ждут волны IPO российских компаний.</segment>
+		<segment id="78" parent="81" relname="attribution">С начала года уже были известны планы по размещению крупнейшего производителя и экспортера угля в России СУЭК Сергея Попова и Андрея Мельниченко и контролируемой Владимиром Потаниным \"Проф-Медиа\", 26 января заявил</segment>
+		<segment id="79" parent="80" relname="attribution">о возможности проведения IPO и холдинг \"Металлоинвест\" Алишера Усманова.\n\nАлмазодобывающая монополия \"Алроса\" также недавно заявила,</segment>
+		<segment id="80" parent="81" relname="span">что не исключает размещения своих двух горнодобывающих подразделений.\n\nИсточник: https://www.newsru.com/finance/08Feb2010/gazprombank.html\n</segment>
+		<group id="35" type="span" parent="89" relname="joint"/>
+		<group id="33" type="span" parent="35" relname="span"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="48" type="multinuc" parent="88" relname="comparison"/>
+		<group id="42" type="span" parent="48" relname="joint"/>
+		<group id="40" type="multinuc" parent="42" relname="span"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="45" type="multinuc" parent="47" relname="contrast"/>
+		<group id="87" type="span" parent="88" relname="comparison"/>
+		<group id="51" type="span" parent="86" relname="preparation"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="54" type="multinuc" parent="85" relname="preparation"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="61" type="multinuc" parent="85" relname="joint"/>
+		<group id="57" type="multinuc" parent="61" relname="joint"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="70" type="multinuc" parent="84" relname="joint"/>
+		<group id="69" type="multinuc" parent="70" relname="comparison"/>
+		<group id="67" type="span" parent="69" relname="joint"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="77" type="multinuc" parent="83" relname="joint"/>
+		<group id="76" type="span" parent="77" relname="same-unit"/>
+		<group id="75" type="multinuc" parent="76" relname="span"/>
+		<group id="82" type="span" parent="83" relname="joint"/>
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="89" type="multinuc"/>
+	</body>
+</rst>

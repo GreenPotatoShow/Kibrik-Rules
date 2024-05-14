@@ -1,0 +1,55 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="23" relname="span">Суд рассмотрит вопрос об отмене приговора экс-главе Минатома Евгению Адамову\n\nМосгорсуд в четверг рассмотрит жалобу на приговор экс-главе Минатома РФ Евгению Адамову,</segment>
+		<segment id="22" parent="21" relname="elaboration">осужденному на 5,5 лет лишения свободы за хищение бюджетных средств в размере 31 млн долларов.</segment>
+		<segment id="24" parent="29" relname="attribution">Как сообщила ранее руководитель пресс-службы Мосгорсуда Анна Усачева,</segment>
+		<segment id="25" parent="28" relname="condition">в своей кассационной жалобе</segment>
+		<segment id="26" parent="28" relname="joint">защита просит отменить приговор</segment>
+		<segment id="27" parent="28" relname="joint">и прекратить уголовное дело.\n\nАдамов был приговорен к 5,5 года колонии общего режима Замоскворецким судом столицы 20 февраля.</segment>
+		<segment id="32" parent="48" relname="joint">Он был признан виновным по статьям УК РФ \"мошенничество\", \"злоупотребление должностными полномочиями\" и \"превышение должностных полномочий\".</segment>
+		<segment id="33" parent="37" relname="span">Двое других фигурантов дела - экс-директор Троицкого института инновационных и термоядерных исследований Вячеслав Письменный и бывший директор \"Техснабэкспорта\" Ревмир Фрайштут были осуждены на 4 года условно каждый.\n\nСогласно приговору,</segment>
+		<segment id="34" parent="36" relname="joint">Адамов в составе организованной группы незаконно завладел контрольным пакетом акций российско-американского совместного предприятия по торговле ураном</segment>
+		<segment id="35" parent="36" relname="joint">и таким образом своими действиями подсудимым был нанесен ущерб РФ в особо крупном размере,</segment>
+		<segment id="38" parent="44" relname="span">передает ИТАР-ТАСС.\n\n\"В 1998-1999 году Адамов организовал в Москве преступную группу,</segment>
+		<segment id="39" parent="43" relname="span">в которую вошли Письменный, Фрайштут и лицо,</segment>
+		<segment id="40" parent="42" relname="span">в отношении которого дело выделено в отдельное производство</segment>
+		<segment id="41" parent="40" relname="elaboration">(речь идет о президенте российско-швейцарского предприятия \"Глоуб Нуклиа Сервисес энд Саплай, ЛТД\" Александре Чернове, находящемся в розыске)\",</segment>
+		<segment id="46" parent="45" relname="attribution">- говорится в приговоре.</segment>
+		<segment id="50" parent="56" relname="span">- Осуществляя завладение имуществом,</segment>
+		<segment id="51" parent="53" relname="span">подсудимые действовали вопреки интересам РФ с целью извлечения имущественной выгоды как для себя лично, так и для членов организованной преступной группировки\".\n\nЭкс-глава Минатома был задержан 2 мая 2005 года в Берне по ходатайству США,</segment>
+		<segment id="52" parent="51" relname="elaboration">которые обвинили его в присвоении 9 млн долларов,</segment>
+		<segment id="54" parent="53" relname="elaboration">предоставленных России на проекты обеспечения ядерной безопасности.</segment>
+		<segment id="57" parent="58" relname="sequence">Позже по запросу РФ он был экстрадирован в Москву.\n\nИсточник: https://www.newsru.com/russia/17Apr2008/adamov.html\n</segment>
+		<group id="49" type="span" parent="59" relname="joint"/>
+		<group id="31" type="span" parent="48" relname="preparation"/>
+		<group id="23" type="span" parent="30" relname="preparation"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="29" type="span" parent="30" relname="span"/>
+		<group id="28" type="multinuc" parent="29" relname="span"/>
+		<group id="48" type="multinuc" parent="49" relname="span"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="45" type="multinuc" parent="47" relname="span"/>
+		<group id="37" type="span" parent="45" relname="joint"/>
+		<group id="36" type="multinuc" parent="33" relname="elaboration"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="43" type="span" parent="38" relname="elaboration"/>
+		<group id="42" type="span" parent="39" relname="elaboration"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="56" type="span" parent="58" relname="sequence"/>
+		<group id="55" type="span" parent="50" relname="elaboration"/>
+		<group id="53" type="span" parent="55" relname="span"/>
+		<group id="59" type="multinuc"/>
+	</body>
+</rst>

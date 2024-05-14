@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="30" relname="joint">Участники The Rolling Stones нарушают британские законы,</segment>
+		<segment id="27" parent="29" relname="span">продолжая курить на сцене\n\nЛегендарная рок-группа The Rolling Stones грубо нарушила новый закон Великобритании,</segment>
+		<segment id="28" parent="27" relname="elaboration">касающийся запрета на курение в общественных местах.</segment>
+		<segment id="31" parent="32" relname="joint">Два участника коллектива курили на сцене лондонской O2 Арены.</segment>
+		<segment id="33" parent="35" relname="span">Впрочем, на первый раз группе удалось избежать крупного штрафа.</segment>
+		<segment id="34" parent="33" relname="evidence">Суд города Гринвич принял решение помиловать заядлых курильщиков.\n\nГитаристы Кейт Ричардс и Ронни Вуд курили сигареты во время концерта The Rolling Stones в бывшем \"Куполе Тысячелетия\".</segment>
+		<segment id="36" parent="40" relname="span">Максимальный штраф за курение в общественном месте,</segment>
+		<segment id="39" parent="36" relname="evidence">согласно закону, вступившему в силу с 1 июля, составляет 5 тысяч долларов,</segment>
+		<segment id="41" parent="40" relname="attribution">передает BBC.\n\nПресс-секретарь О2 Арены отметил:</segment>
+		<segment id="43" parent="45" relname="contrast">\"Один из членов группы действительно курил,</segment>
+		<segment id="44" parent="45" relname="contrast">однако он потушил сигарету до того, как вышел на сцену.</segment>
+		<segment id="46" parent="48" relname="joint">Мы уверены, что это произошло случайно</segment>
+		<segment id="47" parent="48" relname="joint">и благодарны группе за сотрудничество.</segment>
+		<segment id="53" parent="55" relname="span">Вместе со всеми жителями страны мы серьезно относимся к запрету на курение\".\n\nПредставитель гринвичского суда сообщил:</segment>
+		<segment id="54" parent="53" relname="elaboration">\"Мы не получили никаких жалоб со стороны зрителей.</segment>
+		<segment id="56" parent="57" relname="joint">Мы напомнили руководству O2 о необходимости соблюдать закон\".</segment>
+		<segment id="58" parent="63" relname="attribution">Отметим, на концерте Ричард с сигаретой в руках сказал зрителям,</segment>
+		<segment id="59" parent="63" relname="joint">что группа \"прошла долгий путь</segment>
+		<segment id="60" parent="62" relname="span">и рада своему возвращению\".\n\nThe Rolling Stones в скором времени предстоит еще раз выступить на О2 Арене</segment>
+		<segment id="61" parent="60" relname="elaboration">– группа завершит там длившееся два года мировое турне двумя концертами.</segment>
+		<segment id="65" parent="67" relname="span">Напомним, Ричард уже попадал в неприятные ситуации,</segment>
+		<segment id="66" parent="65" relname="cause-effect">связанные с запретом на курение.</segment>
+		<segment id="68" parent="70" relname="joint">Впрочем, музыканту, появившемуся на сцене в Шотландии с сигаретой в руках,</segment>
+		<segment id="69" parent="70" relname="joint">и в тот раз удалось избежать штрафа.\n\nИсточник: https://www.newsru.com/cinema/23Aug2007/richards.html\n</segment>
+		<group id="52" type="span" parent="74" relname="joint"/>
+		<group id="32" type="multinuc" parent="51" relname="preparation"/>
+		<group id="30" type="multinuc" parent="32" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="span"/>
+		<group id="35" type="span" parent="51" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="42" type="span" parent="50" relname="span"/>
+		<group id="40" type="span" parent="42" relname="span"/>
+		<group id="49" type="span" parent="42" relname="elaboration"/>
+		<group id="45" type="multinuc" parent="49" relname="span"/>
+		<group id="48" type="multinuc" parent="45" relname="interpretation-evaluation"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="57" type="multinuc" parent="73" relname="joint"/>
+		<group id="55" type="span" parent="57" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="64" type="span" parent="72" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="67" type="span" parent="71" relname="joint"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="74" type="multinuc"/>
+	</body>
+</rst>

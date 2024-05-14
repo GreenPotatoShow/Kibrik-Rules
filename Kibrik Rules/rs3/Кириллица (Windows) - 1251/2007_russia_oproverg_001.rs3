@@ -1,0 +1,63 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="26" relname="attribution">Генпрокуратура РФ заявила</segment>
+		<segment id="26" parent="27" relname="span">о задержании воров,</segment>
+		<segment id="28" parent="29" relname="attribution">пытавшихся ограбить здание ведомства\n\nГенеральная прокуратура России заявила</segment>
+		<segment id="29" parent="30" relname="span">о задержании воров пытавшихся ограбить здание ведомства.</segment>
+		<segment id="32" parent="36" relname="span">Кроме того, в Генпрокуратуре опровергли сведения о том, что злоумышленники якобы пытались выкрасть из здания материалы уголовного дела, касающиеся убийства журналиста Пола Хлебникова.\n\nКак сообщили \"Интерфаксу\" источники в Генпрокуратуре,</segment>
+		<segment id="33" parent="35" relname="comparison">на днях двое неработающих мужчин были задержаны после того,</segment>
+		<segment id="34" parent="35" relname="comparison">как обнаружились следы взлома окна одного из кабинетов хозяйственного управления ведомства.</segment>
+		<segment id="37" parent="39" relname="span">Злоумышленники хотели воспользоваться строительными лесами, которыми обнесена одна из стен здания Генпрокуратуры на Большой Дмитровке.\n\n\"Ничего из кабинета не пропало.</segment>
+		<segment id="38" parent="37" relname="elaboration">Злоумышленники задержаны по \"горячим следам\"\",</segment>
+		<segment id="41" parent="44" relname="attribution">- отметил собеседник агентства.\n\nВ Генпрокуратуре опровергли сведения о том,</segment>
+		<segment id="42" parent="44" relname="span">что злоумышленники якобы пытались выкрасть из здания материалы уголовного дела по делу Хлебникова.\n\n\"Мы категорически опровергаем данные сведения.</segment>
+		<segment id="43" parent="42" relname="interpretation-evaluation">Это вымыслы недобросовестных журналистов, ничего общего с реальностью не имеющие\",</segment>
+		<segment id="46" parent="53" relname="attribution">- заявил \"Интерфаксу\" официальный представитель Генпрокуратуры РФ в пятницу.\n\nОн отметил,</segment>
+		<segment id="47" parent="53" relname="span">что двое молодых мужчин, задержанных на днях за попытку проникнуть через окно в кабинет хозяйственного управления Генпрокуратуры РФ на Большой Дмитровке в Москве,</segment>
+		<segment id="48" parent="52" relname="span">\"даже не знали, по их собственным признаниям,</segment>
+		<segment id="49" parent="51" relname="joint">куда они лезут\".\n\n\"Это обычные воришки, которые решили воспользоваться случаем</segment>
+		<segment id="50" parent="51" relname="joint">и залезть в помещение,</segment>
+		<segment id="55" parent="54" relname="attribution">- подчеркнул представитель прокуратуры.</segment>
+		<segment id="60" parent="62" relname="span">- Материалы уголовных дел хранятся в Следственном управлении Генпрокуратуры РФ,</segment>
+		<segment id="61" parent="60" relname="elaboration">здание которого находится в совершенно другом месте - в Техническом переулке Москвы\".\n\n\"СМИ, опубликовавшие эту \"утку\",</segment>
+		<segment id="63" parent="64" relname="attribution">с таким же успехом могли написать,</segment>
+		<segment id="64" parent="65" relname="span">что злоумышленники пытались выкрасть материалы уголовного дела по убийству замглавы Центробанка Козлова и любого другого громкого дела\",</segment>
+		<segment id="67" parent="69" relname="joint">- заметил представитель Генпрокуратуры.\n\nПо факту взлома возбуждено уголовное дело.</segment>
+		<segment id="68" parent="69" relname="joint">Расследование ведет прокуратура Москвы.\n\nИсточник: https://www.newsru.com/russia/17Aug2007/oproverg.html\n</segment>
+		<group id="59" type="multinuc" parent="71" relname="joint"/>
+		<group id="31" type="span" parent="59" relname="joint"/>
+		<group id="27" type="span" parent="31" relname="span"/>
+		<group id="30" type="span" parent="27" relname="purpose"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="40" type="multinuc" parent="58" relname="joint"/>
+		<group id="36" type="span" parent="40" relname="joint"/>
+		<group id="35" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="45" type="span" parent="57" relname="joint"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="54" type="span" parent="56" relname="span"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="52" type="span" parent="47" relname="elaboration"/>
+		<group id="51" type="multinuc" parent="48" relname="elaboration"/>
+		<group id="70" type="span" parent="71" relname="joint"/>
+		<group id="66" type="span" parent="70" relname="span"/>
+		<group id="62" type="span" parent="66" relname="span"/>
+		<group id="65" type="span" parent="62" relname="elaboration"/>
+		<group id="69" type="multinuc" parent="66" relname="attribution"/>
+		<group id="71" type="multinuc"/>
+	</body>
+</rst>

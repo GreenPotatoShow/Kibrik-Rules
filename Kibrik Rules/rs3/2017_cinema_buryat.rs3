@@ -1,0 +1,45 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="43" relname="preparation">В первом трейлере БДСМ-драмы \"Бурятский жеребец\" Ленин с прищуром глядит на главных героев (ВИДЕО)\n\nСоздатели \"самого откровенного в республике фильма\" под названием \"Бурятский жеребец\" опубликовали первый трейлер к картине.</segment>
+		<segment id="17" parent="18" relname="attribution">По мнению \"Байкал Daily\",</segment>
+		<segment id="18" parent="19" relname="span">короткий ролик позволяет предположить,</segment>
+		<segment id="20" parent="24" relname="joint">что БДСМ-драма будет на порядок пикантнее и жестче \"Пятидесяти оттенков серого\" Сэм Тейлор-Джонсон и \"Нимфоманки\" Ларса фон Триера.\n\nFlashSiberia отмечает,</segment>
+		<segment id="21" parent="23" relname="span">что одна из откровенных сцен снята в автомобиле, припаркованном напротив здания правительства Бурятии,</segment>
+		<segment id="22" parent="21" relname="background">рядом с самым большим в России памятником Ленину.</segment>
+		<segment id="26" parent="34" relname="span">Показанный крупным планом вождь мирового пролетариата с прищуром смотрит на главных героев.\n\nВидео продолжительностью в одну минуту 22 секунды не позволяет получить представление о сюжете картины и сути заложенной в нем драмы.\n\n\"В нашем фильме мы расскажем о проблемах, которые возникают между влюбленными.</segment>
+		<segment id="27" parent="29" relname="contrast">Покажем мир, где чувства заменяются лайками,</segment>
+		<segment id="28" parent="29" relname="contrast">а живое общение разными приложениями-болталками.</segment>
+		<segment id="30" parent="32" relname="span">И, конечно, раскроем тему секса.</segment>
+		<segment id="31" parent="30" relname="elaboration">Его никто не отменял\",</segment>
+		<segment id="36" parent="42" relname="span">- рассказал сайту Infpol режиссер Баяс Будаев.\n\nКак отметил исполнитель главной роли Михаил Апальков,</segment>
+		<segment id="37" parent="41" relname="contrast">\"был соблазн снимать жесткое порно,</segment>
+		<segment id="38" parent="40" relname="span">но все-таки это будет откровенная эротика\".\n\nИзвестно, что 1 апреля творческая группа провела очередной кастинг на роли в \"Бурятском жеребце\".</segment>
+		<segment id="39" parent="38" relname="elaboration">Ранее на съемочной площадке был замечен французский актер и режиссер Венсан Перес.\n\nИсточник: https://www.newsru.com/cinema/07Apr2017/buryat.html\n</segment>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="35" type="multinuc" parent="43" relname="joint"/>
+		<group id="25" type="span" parent="35" relname="joint"/>
+		<group id="19" type="span" parent="24" relname="attribution"/>
+		<group id="24" type="multinuc" parent="25" relname="span"/>
+		<group id="23" type="span" parent="24" relname="joint"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="33" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="29" type="multinuc" parent="33" relname="joint"/>
+		<group id="32" type="span" parent="33" relname="joint"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="41" type="multinuc" parent="36" relname="purpose"/>
+		<group id="40" type="span" parent="41" relname="contrast"/>
+		<group id="44" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,48 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="25" relname="preparation">В Египте арестованы сотрудники международных правозащитных и благотворительных организаций\n\nВ Египте полицией арестованы сотрудники международных правозащитных и благотворительных организаций.</segment>
+		<segment id="19" parent="24" relname="attribution">Как сообщили представители организации \"Международная амнистия\",</segment>
+		<segment id="20" parent="24" relname="span">два ее сотрудника в числе еще 30 правозащитников были задержаны в четверг в Каире.\n\nВоенная полиция блокировала здание правового центра,</segment>
+		<segment id="21" parent="23" relname="joint">в котором проводили совещание активисты,</segment>
+		<segment id="22" parent="23" relname="joint">и арестовала участников собрания.</segment>
+		<segment id="27" parent="30" relname="attribution">По данным \"Международной амнистии\",</segment>
+		<segment id="28" parent="30" relname="joint">задержанные были увезены в неизвестном направлении,</segment>
+		<segment id="29" parent="30" relname="joint">передает ИТАР-ТАСС.\n\n- Корреспонденту ABC военные грозили \"отсечь голову\"\n\n\"Мы призываем к немедленному освобождению наших коллег и других людей, находящихся вместе с ними.</segment>
+		<segment id="32" parent="36" relname="span">Они должны иметь возможность,</segment>
+		<segment id="33" parent="35" relname="span">не опасаясь ареста и притеснений,</segment>
+		<segment id="34" parent="33" relname="cause-effect">наблюдать за ситуацией с правами человека в Египте в этот критический момент\",</segment>
+		<segment id="38" parent="47" relname="attribution">- заявил генеральный секретарь \"Международной амнистии\" Салиль Шетти.\n\nМежду тем, международная благотворительная организация \"Оксфам\",</segment>
+		<segment id="39" parent="47" relname="joint">главное отделение которой находится в Великобритании,</segment>
+		<segment id="40" parent="45" relname="attribution">также заявила,</segment>
+		<segment id="41" parent="43" relname="span">что восемь сотрудников ее египетского филиала были арестованы в четверг, 3 февраля.\n\nА у съемочной группы компании BBC,</segment>
+		<segment id="42" parent="41" relname="elaboration">освещающей волнения в АРЕ,</segment>
+		<segment id="44" parent="45" relname="sequence">были конфискованы камера и переносной компьютер.\n\nИсточник: https://www.newsru.com/world/04Feb2011/arrest.html\n</segment>
+		<group id="26" type="span" parent="50" relname="joint"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="24" type="span" parent="25" relname="span"/>
+		<group id="23" type="multinuc" parent="20" relname="elaboration"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="37" type="multinuc" parent="49" relname="joint"/>
+		<group id="31" type="span" parent="37" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="span"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="35" type="span" parent="32" relname="cause-effect"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="span"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="span"/>
+		<group id="43" type="span" parent="45" relname="sequence"/>
+		<group id="50" type="multinuc"/>
+	</body>
+</rst>

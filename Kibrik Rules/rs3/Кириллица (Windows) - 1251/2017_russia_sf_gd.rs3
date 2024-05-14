@@ -1,0 +1,89 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="37" parent="39" relname="span">\"Ведомости\":</segment>
+		<segment id="38" parent="37" relname="elaboration">Кремль все чаще вносит значимые законопроекты через СФ, а не через Госдуму\n\nЗаконодательные инициативы Кремля все чаще проводятся через Совет Федерации, а не Госдуму.</segment>
+		<segment id="40" parent="42" relname="span">Об этом сообщают \"Ведомости\" со ссылкой на свои источники в администрации и обеих палатах парламента.\n\nПо данным издания, в частности, так было и с поправками в избирательное законодательство,</segment>
+		<segment id="41" parent="40" relname="background">которые внес сенатор Андрей Клишас,</segment>
+		<segment id="43" parent="47" relname="span">и с антитеррористическими поправками об усилении контроля за продажей SIM-карт,</segment>
+		<segment id="46" parent="43" relname="elaboration">которые, по данным собеседников \"Ведомостей\", разрабатывает сенатор Людмила Бокова по инициативе Кремля.\n\</segment>
+		<segment id="50" parent="60" relname="span">nПри этом и сама председатель Совета Федерации Валентина Матвиенко сейчас активнее, чем председатель Госдумы Вячеслав Володин.</segment>
+		<segment id="51" parent="59" relname="same-unit">В частности, она одной из первых среди высокопоставленных политиков прокомментировала антикоррупционные митинги, организованные 26 марта Алексеем Навальным,</segment>
+		<segment id="52" parent="57" relname="attribution">заявив,</segment>
+		<segment id="53" parent="57" relname="joint">что власть должна реагировать на протесты</segment>
+		<segment id="54" parent="56" relname="span">и вести диалог с гражданами,</segment>
+		<segment id="55" parent="54" relname="purpose">чтобы понимать, почему они протестуют.</segment>
+		<segment id="61" parent="65" relname="same-unit">Также Матвиенко - в отличие от пресс-секретаря президента Дмитрия Пескова и замминистра иностранных дел Сергея Рябкова</segment>
+		<segment id="62" parent="63" relname="attribution">- согласилась с критикой в адрес заместителя постпреда России при ООН Владимира Сафронкова</segment>
+		<segment id="63" parent="64" relname="span">за его резкие высказывания,</segment>
+		<segment id="66" parent="65" relname="interpretation-evaluation">отмечают \"Ведомости\".\n\</segment>
+		<segment id="68" parent="81" relname="preparation">nНа фоне этого рейтинг одобрения Совета Федерации,</segment>
+		<segment id="69" parent="80" relname="attribution">по данным ВЦИОМа,</segment>
+		<segment id="70" parent="72" relname="joint">в последние три месяца заметно увеличился</segment>
+		<segment id="71" parent="72" relname="joint">и превысил рейтинг Госдумы,</segment>
+		<segment id="73" parent="75" relname="joint">а медиаиндекс самой Матвиенко с сентября 2016 года вырос почти вдвое</segment>
+		<segment id="74" parent="75" relname="joint">и она обогнала Володина.\n\nВалентина Матвиенко - системный человек и администрации президента лучше работается с ней,</segment>
+		<segment id="76" parent="75" relname="elaboration">Володин в последнее время ведет себя непредсказуемо,</segment>
+		<segment id="78" parent="77" relname="attribution">говорит федеральный чиновник.</segment>
+		<segment id="86" parent="88" relname="contrast">Собеседник, близкий к администрации, отрицает системное использование Совета Федерации руководством внутриполитического блока Кремля для своих инициатив,</segment>
+		<segment id="87" parent="88" relname="contrast">но соглашается, что такие случаи были.</segment>
+		<segment id="89" parent="95" relname="span">Человек, близкий к думскому руководству,</segment>
+		<segment id="90" parent="93" relname="attribution">уверен,</segment>
+		<segment id="91" parent="93" relname="joint">что таково право администрации,</segment>
+		<segment id="92" parent="93" relname="joint">и подчеркивает хорошие отношения Володина и Матвиенко.</segment>
+		<segment id="96" parent="98" relname="joint">Матвиенко улавливает повестку</segment>
+		<segment id="97" parent="98" relname="joint">и пытается ее использовать,</segment>
+		<segment id="99" parent="98" relname="attribution">считает собеседник газеты в Госдуме</segment>
+		<segment id="101" parent="103" relname="comparison">.\n\nДобавим, ранее издание РБК обратило внимание на то, что сенаторы в 2016 году стали зарабатывать больше,</segment>
+		<segment id="102" parent="103" relname="comparison">а депутаты Госдумы - меньше.\n\nИсточник: https://www.newsru.com/russia/02May2017/sf_gd.html\n</segment>
+		<group id="85" type="multinuc" parent="107" relname="joint"/>
+		<group id="49" type="multinuc" parent="85" relname="joint"/>
+		<group id="39" type="span" parent="49" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="42" type="span" parent="48" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="60" type="span" parent="84" relname="joint"/>
+		<group id="59" type="multinuc" parent="50" relname="elaboration"/>
+		<group id="58" type="span" parent="59" relname="same-unit"/>
+		<group id="57" type="multinuc" parent="58" relname="span"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="67" type="span" parent="83" relname="comparison"/>
+		<group id="65" type="multinuc" parent="67" relname="span"/>
+		<group id="64" type="span" parent="65" relname="same-unit"/>
+		<group id="82" type="span" parent="83" relname="comparison"/>
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="80" type="multinuc" parent="81" relname="span"/>
+		<group id="72" type="multinuc" parent="80" relname="comparison"/>
+		<group id="79" type="span" parent="80" relname="comparison"/>
+		<group id="77" type="span" parent="79" relname="span"/>
+		<group id="75" type="multinuc" parent="77" relname="span"/>
+		<group id="106" type="multinuc" parent="107" relname="joint"/>
+		<group id="88" type="multinuc" parent="106" relname="joint"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="95" type="span" parent="105" relname="joint"/>
+		<group id="94" type="span" parent="89" relname="attribution"/>
+		<group id="93" type="multinuc" parent="94" relname="span"/>
+		<group id="104" type="multinuc" parent="105" relname="joint"/>
+		<group id="100" type="span" parent="104" relname="joint"/>
+		<group id="98" type="multinuc" parent="100" relname="span"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="107" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,38 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="purpose" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="22" relname="joint">Народный артист СССР Ростислав Янковский умер в Минске\n\nНародный артист СССР, артист Русского театра Ростислав Янковский скончался в Минске,</segment>
+		<segment id="15" parent="21" relname="span">передает ТАСС со ссылкой на белорусского киносценариста и драматурга Андрея Курейчика.\n\nНа официальном сайте театра имени Максима Горького в Минске говорится:</segment>
+		<segment id="16" parent="18" relname="span">\"Его смерть - тяжелейшая и невосполнимая утрата для семьи, для друзей и для миллионов поклонников его таланта,</segment>
+		<segment id="17" parent="16" relname="interpretation-evaluation">огромная потеря для Искусства,</segment>
+		<segment id="19" parent="18" relname="elaboration">служению которому он посвятил всю свою жизнь…</segment>
+		<segment id="23" parent="31" relname="joint">Великий актер всегда будет жить в ролях, блестяще сыгранных им,</segment>
+		<segment id="24" parent="30" relname="span">а добрый и искренний, открытый и светлый, уникальный,</segment>
+		<segment id="25" parent="29" relname="span">мужественный человек навсегда останется в сердцах родных и друзей, в памяти миллионов людей,</segment>
+		<segment id="26" parent="28" relname="joint">для которых он был, есть</segment>
+		<segment id="27" parent="28" relname="joint">и будет кумиром\".\n\nГражданская панихида состоится 28 июня в 10:00 на Большой сцене театра.\n\nНародный артист СССР и Белорусской ССР родился 5 февраля 1930 года.</segment>
+		<segment id="32" parent="34" relname="joint">Янковский - почетный гражданин города Минска, лауреат Государственной премии РБ, премии Союзного государства в области литературы и искусства, премии \"За духовное возрождение\".\n\nАртист сыграл более 160 ролей,</segment>
+		<segment id="33" parent="34" relname="joint">около 30 из них в кино, в том числе в картинах: \"Служили два товарища\", \"Статский советник\", \"В июне 41-го\".\n\nРостислав Янковский был неизменным председателем Минского международного кинофестиваля \"Листопад\".</segment>
+		<segment id="35" parent="36" relname="joint">За большой вклад в развитие белорусской культуры актер удостоен ордена Франциска Скорины и ордена Отечества III степени.\n\nИсточник: https://www.newsru.com/cinema/26Jun2016/yankovsky.html\n</segment>
+		<group id="22" type="multinuc" parent="38" relname="joint"/>
+		<group id="21" type="span" parent="22" relname="joint"/>
+		<group id="20" type="span" parent="15" relname="purpose"/>
+		<group id="18" type="span" parent="20" relname="span"/>
+		<group id="37" type="multinuc" parent="38" relname="joint"/>
+		<group id="31" type="multinuc" parent="37" relname="joint"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="29" type="span" parent="24" relname="elaboration"/>
+		<group id="28" type="multinuc" parent="25" relname="elaboration"/>
+		<group id="36" type="multinuc" parent="37" relname="joint"/>
+		<group id="34" type="multinuc" parent="36" relname="joint"/>
+		<group id="38" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="20" relname="attribution">Власти Ингушетии заведут досье на беженцев из Чечни\n\nПрезидент Ингушетии Мурат Зязиков заявил,</segment>
+		<segment id="20" parent="21" relname="span">что в республике будет создана база данных всех чеченских беженцев.</segment>
+		<segment id="22" parent="24" relname="span">\"Данные из источников федеральной миграционной службы, республики Ингушетия и Чеченской республики, разнятся на 20-30 тыс. семей\",</segment>
+		<segment id="23" parent="22" relname="attribution">- сообщил Зязиков и интервью \"Интерфаксу\".\n\</segment>
+		<segment id="26" parent="29" relname="attribution">nПо его словам,</segment>
+		<segment id="27" parent="28" relname="cause-effect">за последний месяц поступило около 10 тысяч заявлений чеченских беженцев, находящихся в Ингушетии,</segment>
+		<segment id="28" parent="29" relname="span">об их желании вернуться домой.</segment>
+		<segment id="31" parent="42" relname="preparation">\"С каждым днем число желающих вернуться увеличивается\",</segment>
+		<segment id="32" parent="41" relname="attribution">- сказал глава республики.\n\nОн заверил,</segment>
+		<segment id="33" parent="41" relname="span">что возвращение беженцев будет происходить только на добровольной основе:</segment>
+		<segment id="34" parent="40" relname="span">\"Это исключительно добровольный процесс и насильственного выдавливания беженцев с территории Ингушетии не было и не будет.</segment>
+		<segment id="35" parent="39" relname="joint">Все они граждане России</segment>
+		<segment id="36" parent="37" relname="cause-effect">и имеют право жить там, где хотят\".\n\nМурат Зязиков опроверг утверждения некоторых международных правозащитных организаций о том,</segment>
+		<segment id="37" parent="38" relname="span">что в лагеря беженцев не завозится хлеб.</segment>
+		<segment id="44" parent="48" relname="joint">\"Мы помогаем беженцам</segment>
+		<segment id="45" parent="47" relname="span">и намерены делать это и впредь,</segment>
+		<segment id="46" parent="45" relname="concession">хотя наша республика испытывает большие экономические трудности\",</segment>
+		<segment id="49" parent="48" relname="attribution">- сказал он.\n\nИсточник: https://www.newsru.com/russia/30Jun2002/bezenzy.html\n</segment>
+		<group id="25" type="multinuc" parent="52" relname="preparation"/>
+		<group id="21" type="span" parent="25" relname="joint"/>
+		<group id="24" type="span" parent="25" relname="joint"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="30" type="span" parent="51" relname="preparation"/>
+		<group id="29" type="span" parent="30" relname="span"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="43" type="span" parent="51" relname="span"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="40" type="span" parent="33" relname="elaboration"/>
+		<group id="39" type="multinuc" parent="34" relname="elaboration"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="50" type="span" parent="43" relname="elaboration"/>
+		<group id="48" type="multinuc" parent="50" relname="span"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

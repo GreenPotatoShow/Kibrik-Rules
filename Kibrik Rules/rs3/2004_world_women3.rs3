@@ -1,0 +1,52 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="span">В Германии женщина прошла 100 км от автосервиса до дома,</segment>
+		<segment id="20" parent="19" relname="cause-effect">решив, что муж уехал без нее\n\</segment>
+		<segment id="22" parent="28" relname="span">nВ Германии женщина прошла около 100 км от автосервиса до дома,</segment>
+		<segment id="23" parent="26" relname="cause-effect">поскольку подумала, что муж бросил ее на стоянке</segment>
+		<segment id="24" parent="25" relname="cause-effect">и уехал без нее.\n\nКак выяснилось позже,</segment>
+		<segment id="25" parent="26" relname="span">немка просто не заметила свою машину на стоянке у сервиса,</segment>
+		<segment id="29" parent="28" relname="attribution">сообщает Ananova.</segment>
+		<segment id="32" parent="38" relname="same-unit">Между тем ее муж, тщетно дожидавшийся ее в автомобиле,</segment>
+		<segment id="33" parent="36" relname="attribution">решил,</segment>
+		<segment id="34" parent="36" relname="joint">что с супругой что-то случилось,</segment>
+		<segment id="35" parent="36" relname="joint">и сообщил об исчезновении в полицию.\n\nОднако помощь представителей правопорядка не потребовалась.</segment>
+		<segment id="39" parent="43" relname="sequence">Через 15 часов жена, крайне уставшая и задыхающаяся от долгой ходьбы,</segment>
+		<segment id="40" parent="42" relname="span">и при этом крайне разгневанная,</segment>
+		<segment id="41" parent="40" relname="cause-effect">дошла до дома.\n\</segment>
+		<segment id="44" parent="46" relname="joint">nОна так рассердилась</segment>
+		<segment id="45" parent="46" relname="joint">и обиделась на своего супруга,</segment>
+		<segment id="47" parent="48" relname="cause-effect">что он бросил ее на стоянке вдали от дома,</segment>
+		<segment id="48" parent="49" relname="span">что решила добраться до родного городка самостоятельно.\n\nИсточник: https://www.newsru.com/world/16Jun2004/women3.html\n</segment>
+		<group id="31" type="multinuc" parent="53" relname="comparison"/>
+		<group id="21" type="span" parent="31" relname="comparison"/>
+		<group id="30" type="span" parent="31" relname="comparison"/>
+		<group id="28" type="span" parent="30" relname="span"/>
+		<group id="27" type="span" parent="22" relname="cause-effect"/>
+		<group id="26" type="span" parent="27" relname="span"/>
+		<group id="52" type="multinuc" parent="53" relname="comparison"/>
+		<group id="38" type="multinuc" parent="52" relname="sequence"/>
+		<group id="37" type="span" parent="38" relname="same-unit"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="51" type="multinuc" parent="52" relname="sequence"/>
+		<group id="43" type="multinuc" parent="51" relname="comparison"/>
+		<group id="42" type="span" parent="43" relname="sequence"/>
+		<group id="50" type="span" parent="51" relname="comparison"/>
+		<group id="46" type="multinuc" parent="49" relname="cause-effect"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

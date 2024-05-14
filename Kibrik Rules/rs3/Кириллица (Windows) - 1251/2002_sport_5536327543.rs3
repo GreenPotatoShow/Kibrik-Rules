@@ -1,0 +1,39 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="15" relname="attribution">Президенты клубов ПХЛ высказались</segment>
+		<segment id="15" parent="16" relname="span">за сокращение фонда заработной платы игроков\n\nСовет президентов Профессиональной хоккейной лиги (ПХЛ) одобрил политику Лиги,</segment>
+		<segment id="17" parent="16" relname="purpose">направленную на сокращение фонда заработной платы клубов ПХЛ,</segment>
+		<segment id="19" parent="20" relname="joint">и отметил необходимость ее продолжения.</segment>
+		<segment id="21" parent="22" relname="attribution">Как передает РИА 'Новости',</segment>
+		<segment id="22" parent="23" relname="span">председателем Совета президентов лиги был избран президент хоккейного клуба \"Локомотив\" (Ярославль) Юрий Яковлев.</segment>
+		<segment id="24" parent="28" relname="joint">Также были утверждены в должности главных судей-инспекторов ПХЛ Виктор Якушев из Санкт-Петербурга и москвич Леонид Вайсфельд.\n\nПрезиденту Федерации хоккея России (ФХР) Александру Стеблину предложено создать специальную Антидопинговую комиссию ФХР и ПХЛ</segment>
+		<segment id="25" parent="27" relname="span">и представить на утверждение очередного Совета президентов кандидатов</segment>
+		<segment id="26" parent="25" relname="purpose">для работы в этом органе.\n\</segment>
+		<segment id="29" parent="34" relname="preparation">nРассмотрев обращения ряда клубов о внесении изменений в \"Регламент официальных российских соревнований по хоккею в сезоне 2002-2003\",</segment>
+		<segment id="30" parent="33" relname="attribution">Совет президентов ПХЛ единогласно принял решение,</segment>
+		<segment id="31" parent="33" relname="span">что данный документ в ходе чемпионата России 2002-2003 никаких изменений не претерпит.\n\nВо вторник, 26 ноября, состоится Исполком Федерации хоккея России,</segment>
+		<segment id="32" parent="31" relname="elaboration">на котором планируется утвердить план работы ФХР и ПХЛ на следующий год.\n\nИсточник: https://www.newsru.com/sport/23Nov2002/5536327543.html\n</segment>
+		<group id="20" type="multinuc" parent="37" relname="preparation"/>
+		<group id="18" type="span" parent="20" relname="joint"/>
+		<group id="16" type="span" parent="18" relname="span"/>
+		<group id="37" type="multinuc" parent="38" relname="span"/>
+		<group id="23" type="span" parent="37" relname="joint"/>
+		<group id="36" type="multinuc" parent="37" relname="joint"/>
+		<group id="28" type="multinuc" parent="36" relname="joint"/>
+		<group id="27" type="span" parent="28" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="34" type="span" parent="35" relname="span"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="38" type="span"/>
+	</body>
+</rst>

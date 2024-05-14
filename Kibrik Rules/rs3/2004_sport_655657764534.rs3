@@ -1,0 +1,54 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="22" relname="span">\"Авангард\" одержал вторую победу на старте чемпионата\n\nОмский \"Авангард\" одержал вторую победу на старте чемпионата России по хоккею,</segment>
+		<segment id="21" parent="20" relname="elaboration">переиграв дома нижкекамский \"Нефтехимик\".</segment>
+		<segment id="23" parent="22" relname="background">Встреча завершилась со счетом 3:2 в пользу \"ястребов\".</segment>
+		<segment id="25" parent="27" relname="span">Заброшенными шайбами в составе победителей отметились Дмитрий Субботин, Евгений Хацей и Дмитрий Затонский.\n\nВ \"металлургическом\" противостоянии команд Магнитогорска и Новокузнецка,</segment>
+		<segment id="26" parent="25" relname="attribution">по данным РИА \"Новости\",</segment>
+		<segment id="28" parent="30" relname="joint">сильнее оказались гости,</segment>
+		<segment id="29" parent="30" relname="joint">победившие со счетом 3:2.\n\nВо встрече уфимского \"Салавата Юлаева\" и ярославского \"Локомотива\" победителя так и не удалось выявить</segment>
+		<segment id="31" parent="30" relname="elaboration">- матч завершился вничью со счетом 2:2.\n\nМосковский \"Спартак\" уступил в гостевом матче тольяттинской \"Ладе\".</segment>
+		<segment id="34" parent="36" relname="joint">Встреча завершилась со счетом 4:2 в пользу хозяев льда,</segment>
+		<segment id="35" parent="36" relname="joint">а заброшенные шайбы в составе \"Лады\" на свой счет записали Александр Бутурлин, Александр Нестеров, Руслан Берников и Александр Скугарев.</segment>
+		<segment id="37" parent="38" relname="joint">У красно-белых двумя голами отметился защитник Евгений Шалдыбин.\n\nЧереповецкая \"Северсталь\" с минимальным счетом переиграла хоккеистов пермского \"Молота-Прикамья\".</segment>
+		<segment id="39" parent="53" relname="span">Единственную шайбу в первом периоде этой встречи забросил нападающий Юрий Трубачев.</segment>
+		<segment id="40" parent="42" relname="span">Череповецкий клуб одержал вторую победу на старте чемпионата,</segment>
+		<segment id="41" parent="40" relname="purpose">не позволив соперникам ни разу поразить свои ворота.\n\nВоскресенский \"Химик\" на своей площадке уступил казанскому \"Ак Барсу\" со счетом 1:2.</segment>
+		<segment id="43" parent="45" relname="span">Гости вышли вперед в счете во втором периоде,</segment>
+		<segment id="44" parent="43" relname="condition">забросив две шайбы усилиями Виталия Ячменева и Дениса Денисова.</segment>
+		<segment id="46" parent="50" relname="span">В оставшееся время встречи \"Химик\" смог только сократить отставание</segment>
+		<segment id="47" parent="49" relname="joint">- шайбу в ворота \"Ак Барса\" забросил Валерий Каменский.\n\nВ других матчах дня московские динамовцы на своем льду разгромили новосибирскую \"Сибирь\" со счетом 5:0,</segment>
+		<segment id="48" parent="49" relname="joint">а столичные армейцы в Санкт-Петербурге переиграли СКА - 4:1.\n\nИсточник: https://www.newsru.com/sport/03Sep2004/655657764534.html\n</segment>
+		<group id="24" type="span" parent="55" relname="preparation"/>
+		<group id="22" type="span" parent="24" relname="span"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="33" type="multinuc" parent="55" relname="joint"/>
+		<group id="27" type="span" parent="33" relname="sequence"/>
+		<group id="32" type="span" parent="33" relname="sequence"/>
+		<group id="30" type="multinuc" parent="32" relname="span"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="38" type="multinuc" parent="54" relname="joint"/>
+		<group id="36" type="multinuc" parent="38" relname="joint"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="52" type="multinuc" parent="39" relname="elaboration"/>
+		<group id="42" type="span" parent="52" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="45" type="span" parent="51" relname="span"/>
+		<group id="50" type="span" parent="45" relname="elaboration"/>
+		<group id="49" type="multinuc" parent="46" relname="elaboration"/>
+		<group id="56" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,50 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="span">Польского летчика сняли на ВИДЕО в кабине истребителя МиГ-29 во время фигур высшего пилотажа\n\nРоссийские самолеты не перестают привлекать внимание на международных авиашоу:</segment>
+		<segment id="20" parent="19" relname="elaboration">во время одного из них на базе британских королевских ВВС \"Фейфорд\" был представлен истребитель МиГ-29.</segment>
+		<segment id="22" parent="28" relname="sequence">Его выступление сняли на камеру, причем не глазами зрителей и даже не от лица пилота:</segment>
+		<segment id="23" parent="25" relname="span">компактную камеру HD закрепили прямо перед лицом летчика,</segment>
+		<segment id="24" parent="23" relname="condition">получив кадры с неожиданного ракурса.\n\nЗа штурвалом МиГ-29 сидел польский пилот Адриан Роек,</segment>
+		<segment id="26" parent="25" relname="attribution">сообщается в описании к видео на YouTube.</segment>
+		<segment id="30" parent="32" relname="span">Благодаря высокому качеству,</segment>
+		<segment id="31" parent="30" relname="elaboration">в ролике можно разглядеть и летчика, и его амуницию, и английские холмы, остающиеся за его спиной.</segment>
+		<segment id="34" parent="35" relname="attribution">Автор ролика отмечает,</segment>
+		<segment id="35" parent="36" relname="span">что таким образом полет не снимали ни разу.\n\</segment>
+		<segment id="37" parent="43" relname="joint">nИз-за неожиданного ракурса зрители могут заметить, что пилот дышит особым образом.</segment>
+		<segment id="38" parent="42" relname="joint">Эта техника помогает летчикам избежать гравитационного шока и потери сознания за штурвалом во время исполнения фигур высшего пилотажа,</segment>
+		<segment id="39" parent="41" relname="span">поясняется в описании к ролику.\n\nМиГ-29 - многоцелевой российский истребитель четвертого поколения,</segment>
+		<segment id="40" parent="39" relname="elaboration">который развивает скорость до 1500 км/ч.</segment>
+		<segment id="45" parent="47" relname="joint">МиГ-29 имеет в своем арсенале практически весь спектр современного авиационного вооружения,</segment>
+		<segment id="46" parent="47" relname="joint">пользуется популярностью за рубежом.\n\nРоссийские самолеты постоянно привлекают к себе внимание на международных выставках.</segment>
+		<segment id="48" parent="50" relname="joint">Так, на недавнем авиасалоне в Ле Бурже фурор произвел Су-35,</segment>
+		<segment id="49" parent="50" relname="joint">а на камеру с разных точек (как с земли, так и в кабине) засняли полет учебно-боевого самолета Як-130.\n\nИсточник: https://www.newsru.com/world/22Jul2013/mig29.html\n</segment>
+		<group id="33" type="span" parent="53" relname="joint"/>
+		<group id="29" type="multinuc" parent="33" relname="span"/>
+		<group id="21" type="span" parent="29" relname="sequence"/>
+		<group id="28" type="multinuc" parent="29" relname="sequence"/>
+		<group id="27" type="span" parent="28" relname="sequence"/>
+		<group id="25" type="span" parent="27" relname="span"/>
+		<group id="32" type="span" parent="29" relname="elaboration"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="44" type="span" parent="52" relname="joint"/>
+		<group id="36" type="span" parent="44" relname="span"/>
+		<group id="43" type="multinuc" parent="36" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="47" type="multinuc" parent="51" relname="span"/>
+		<group id="50" type="multinuc" parent="47" relname="elaboration"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

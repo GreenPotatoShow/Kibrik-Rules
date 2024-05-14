@@ -1,0 +1,105 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="46" parent="48" relname="span">Участницу Pussy Riot Марию Алехину не выпустили из Москвы в Лондон\n\nАктивистка и участница группы Pussy Riot Мария Алехина не смогла вылететь из России в Великобританию.</segment>
+		<segment id="47" parent="46" relname="cause-effect">Ее остановили во время паспортного контроля.</segment>
+		<segment id="49" parent="50" relname="attribution">Сотрудники ФСБ сказали Алехиной,</segment>
+		<segment id="50" parent="51" relname="span">что ей запрещен выезд из страны.</segment>
+		<segment id="53" parent="52" relname="attribution">Об этом активистка сообщила на своей страничке в Facebook.\n\nИнцидент произошел в московском аэропорту Домодедово.</segment>
+		<segment id="55" parent="59" relname="sequence">В 16:00 Мария должна была вылететь в Лондон,</segment>
+		<segment id="56" parent="58" relname="span">а оттуда в Эдинбург,</segment>
+		<segment id="57" parent="56" relname="elaboration">где в рамках Эдинбургского фестиваля запланировано театральное выступление по ее книге Riot Days.</segment>
+		<segment id="60" parent="62" relname="sequence">В Великобритании у Марии должно было состояться около 13 выступлений, в том числе на Эдинбургском музыкальном фестивале.\n\n\"На паспортном (контроле) девушка взяла паспорт,</segment>
+		<segment id="61" parent="62" relname="sequence">посмотрела в компьютер,</segment>
+		<segment id="63" parent="65" relname="sequence">сразу позвонила</segment>
+		<segment id="64" parent="65" relname="sequence">и что-то шепотом почти сказала в трубку,</segment>
+		<segment id="67" parent="66" relname="attribution">- рассказала Алехина.</segment>
+		<segment id="69" parent="72" relname="attribution">- Сказала,</segment>
+		<segment id="70" parent="72" relname="sequence">документы требуют дополнительной проверки,</segment>
+		<segment id="71" parent="72" relname="sequence">пришел сотрудник</segment>
+		<segment id="74" parent="79" relname="attribution">- вообще мальчик - сказал,</segment>
+		<segment id="75" parent="79" relname="sequence">что ФСБ\".\n\nПограничники сообщили активистке,</segment>
+		<segment id="76" parent="78" relname="span">что ей запрещен выезд из страны</segment>
+		<segment id="77" parent="76" relname="condition">.\n\</segment>
+		<segment id="82" parent="89" relname="attribution">nКак сообщил ТАСС адвокат Алехиной Алексей Глухов,</segment>
+		<segment id="83" parent="89" relname="joint">вероятной причиной невыпуска за границу могло послужить наличие двух исполнительных производств по постановлениям Мещанского районного суда Москвы о назначении обязательных работ.\n\nИсточник в правоохранительных органах также сказал ТАСС,</segment>
+		<segment id="84" parent="88" relname="joint">что Алехиной был ограничен выезд за рубеж в рамках исполнительного производства.\n\nСогласно закону,</segment>
+		<segment id="85" parent="87" relname="joint">постановление об ограничении выезда за рубеж действует в течение полугода,</segment>
+		<segment id="86" parent="87" relname="joint">и может быть отменено лишь при исполнении требований исполнительного производства.\n\nВ Федеральной службе судебных приставов подтвердили эту информацию.</segment>
+		<segment id="91" parent="93" relname="span">\"В Кунцевском отделе судебных приставов УФССП по Москве возбуждены исполнительные производства в отношении Алехиной Марии Владимировны об отбывании ею обязательных работ\",</segment>
+		<segment id="92" parent="91" relname="attribution">- приводит \"Интерфакс\" комментарий пресс-бюро УФССП.\n\</segment>
+		<segment id="94" parent="99" relname="attribution">nВ нем отмечается,</segment>
+		<segment id="95" parent="99" relname="span">что Алехина была уведомлена судебным приставом о возбуждении исполнительных производств,</segment>
+		<segment id="96" parent="98" relname="span">\"однако добровольно решение суда не исполнила,</segment>
+		<segment id="97" parent="96" relname="cause-effect">в связи с чем было вынесено постановление о временном ограничении права выезда за пределы РФ\".\n\n\"Судебным приставом-исполнителем принимается весь комплекс мер, направленных на исполнение Алехиной М. В. решения Мещанского районного суда города Москвы\",</segment>
+		<segment id="101" parent="102" relname="attribution">- сказано в пресс-релизе.\n\nАлехина озвучила иную версию\n\nМария Алехина предположила,</segment>
+		<segment id="102" parent="103" relname="span">что инцидент в аэропорту связан с прошедшей 7 августа акцией у входа в приемную ФСИН в Москве.</segment>
+		<segment id="104" parent="105" relname="sequence">Об этом рассказала представитель правозащиты \"Открытой России\" Валентина Дехтяренко.\n\</segment>
+		<segment id="108" parent="111" relname="attribution">nПо словам Алехиной,</segment>
+		<segment id="111" parent="112" relname="span">8 августа к ее матери (по месту прописки Марии) \"пришли из уголовного розыска\".</segment>
+		<segment id="113" parent="115" relname="sequence">Также полицейские нагрянули домой ко второму участнику акции у здания ФСИН - Дмитрию Цорионову (Энтео),</segment>
+		<segment id="114" parent="115" relname="sequence">передает РБК.\n\nНапомним, участницы группы Pussy Riot Мария Алехина и Надежда Толоконникова получили в 2012 году по два года колонии за скандальную акцию (\"панк-молебен\") в храме Христа Спасителя.</segment>
+		<segment id="116" parent="126" relname="joint">В конце 2013-го они были амнистированы в связи с 20-летием российской Конституции.\n\nВ декабре 2017 года Марию Алехину приговорили к 40 часам обязательных работ за то, что в день 100-летия ВЧК она вышла к зданию ФСБ с плакатом \"С днем рождения, палачи\".</segment>
+		<segment id="117" parent="118" relname="cause-effect">В апреле 2018 года ее приговорили к еще 100 часам работ за то, что она запускала самолетики у здания ФСБ</segment>
+		<segment id="118" parent="119" relname="span">в знак протеста против блокировки мессенджера Telegram.</segment>
+		<segment id="120" parent="124" relname="span">А месяц назад суд оштрафовал Алехину на 400 тысяч рублей</segment>
+		<segment id="121" parent="123" relname="joint">за уклонение от обязательных работ.\n\n7 августа Мария Алехина и Дмитрий Энтео пришли к приемной ФСИН</segment>
+		<segment id="122" parent="123" relname="joint">и расклеили плакаты про ответственность ведомства за убийства, пытки и рабский труд.\n\nИсточник: https://www.newsru.com/russia/08Aug2018/alehina.html\n</segment>
+		<group id="54" type="span" parent="133" relname="preparation"/>
+		<group id="52" type="span" parent="54" relname="span"/>
+		<group id="48" type="span" parent="52" relname="span"/>
+		<group id="51" type="span" parent="48" relname="elaboration"/>
+		<group id="133" type="span" parent="134" relname="span"/>
+		<group id="59" type="multinuc" parent="132" relname="preparation"/>
+		<group id="58" type="span" parent="59" relname="sequence"/>
+		<group id="132" type="span" parent="133" relname="span"/>
+		<group id="68" type="span" parent="131" relname="preparation"/>
+		<group id="66" type="multinuc" parent="68" relname="span"/>
+		<group id="62" type="multinuc" parent="66" relname="sequence"/>
+		<group id="65" type="multinuc" parent="66" relname="sequence"/>
+		<group id="131" type="span" parent="132" relname="span"/>
+		<group id="81" type="multinuc" parent="130" relname="preparation"/>
+		<group id="73" type="span" parent="81" relname="sequence"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="80" type="span" parent="81" relname="sequence"/>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="78" type="span" parent="79" relname="sequence"/>
+		<group id="130" type="multinuc" parent="131" relname="span"/>
+		<group id="90" type="span" parent="130" relname="joint"/>
+		<group id="89" type="multinuc" parent="90" relname="span"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="129" type="multinuc" parent="130" relname="joint"/>
+		<group id="107" type="multinuc" parent="129" relname="joint"/>
+		<group id="93" type="span" parent="107" relname="joint"/>
+		<group id="106" type="multinuc" parent="107" relname="joint"/>
+		<group id="100" type="span" parent="106" relname="joint"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="98" type="span" parent="95" relname="elaboration"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="103" type="span" parent="105" relname="sequence"/>
+		<group id="128" type="span" parent="129" relname="joint"/>
+		<group id="112" type="span" parent="127" relname="preparation"/>
+		<group id="127" type="multinuc" parent="128" relname="span"/>
+		<group id="115" type="multinuc" parent="127" relname="sequence"/>
+		<group id="126" type="multinuc" parent="127" relname="sequence"/>
+		<group id="125" type="multinuc" parent="126" relname="joint"/>
+		<group id="119" type="span" parent="125" relname="sequence"/>
+		<group id="124" type="span" parent="125" relname="sequence"/>
+		<group id="123" type="multinuc" parent="120" relname="cause-effect"/>
+		<group id="134" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,137 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="62" parent="70" relname="span">Самые угоняемые автомобили в Москве (СПИСОК)\n\nПравоохранительные органы опубликовали статистику угонов автотранспорта.</segment>
+		<segment id="63" parent="65" relname="span">К традиционно любимым похитителями автомобилям ВАЗ и машинам бизнес-класса в нынешнем году прибавились иномарки бюджетного класса,</segment>
+		<segment id="64" parent="63" relname="attribution">пишет \"Комсомольская правда\".\n\nПо данным ГУВД Москвы,</segment>
+		<segment id="66" parent="68" relname="span">в общей сложности в Москве угоняют 40 автомобилей в день,</segment>
+		<segment id="67" parent="66" relname="background">в Московской области - 20 в день.</segment>
+		<segment id="71" parent="73" relname="span">Так, за первые шесть месяцев 2006 года в общей сложности были угнаны более 1700 автомобилей ВАЗ.\n\n- История вопроса: Как угоняют вашу машину\n\nВ летний период в столичном регионе количество угоняемых машин вырастает на 15%,</segment>
+		<segment id="72" parent="71" relname="attribution">говорят представители Департамента уголовного розыска МВД России.</segment>
+		<segment id="74" parent="77" relname="attribution">Старший оперуполномоченный Владимир Зуб рассказал \"Московскому комсомольцу\",</segment>
+		<segment id="75" parent="77" relname="contrast">что в этом году с начала мая по начало августа в Москве было похищено 3683 автомобиля - по 1200 машин в месяц,</segment>
+		<segment id="76" parent="77" relname="contrast">а зимой-весной этот показатель был чуть более тысячи.\n\</segment>
+		<segment id="81" parent="84" relname="attribution">nПо словам специалистов,</segment>
+		<segment id="82" parent="84" relname="joint">летом из-за жары водители нередко оставляют машины с приоткрытыми окнами</segment>
+		<segment id="83" parent="84" relname="joint">или не пользуются механическими противоугонными средствами.</segment>
+		<segment id="86" parent="88" relname="span">Кроме того, в теплые месяцы автомобилисты чаще посещают заведения общепита,</segment>
+		<segment id="87" parent="86" relname="elaboration">оставляя ключи в доступном для профессиональных воров месте - на столе или прилавке.\n\</segment>
+		<segment id="89" parent="90" relname="contrast">nОднако столичным угонщикам в последнее время приходится придумывать все более изощренные способы похищения автомобилей.</segment>
+		<segment id="94" parent="100" relname="span">Этим летом с подмосковных пляжей несколько машин было угнано при помощи довольно оригинальной схемы:</segment>
+		<segment id="95" parent="99" relname="joint">пока специально приглашенные девушки в обнаженном виде плескались в водоеме</segment>
+		<segment id="96" parent="98" relname="joint">и отвлекали автомобилистов,</segment>
+		<segment id="97" parent="98" relname="joint">злоумышленники похищали их машины.</segment>
+		<segment id="101" parent="109" relname="contrast">После одного из таких случаев владельцы недосчитались сразу четырех машин,</segment>
+		<segment id="102" parent="108" relname="span">а еще десять были ограблены.\n\nЕще одна криминальная особенность лета</segment>
+		<segment id="103" parent="107" relname="span">- похищают преимущественно отечественные автомобили,</segment>
+		<segment id="104" parent="105" relname="cause-effect">поскольку их легче угнать</segment>
+		<segment id="105" parent="106" relname="span">для последующей продажи или разбора на запчасти.\n\nСамые угоняемые авто в Москве за первые шесть месяцев 2006 года (по информации газеты КП)\n\nНовые автомобили - количество угонов\n\n1.</segment>
+		<segment id="110" parent="109" relname="elaboration">ВАЗ 2112 – 174\n2.</segment>
+		<segment id="112" parent="178" relname="span">ВАЗ 21099 – 149\n3.</segment>
+		<segment id="113" parent="115" relname="joint">ВАЗ 2115 - 118\n4.</segment>
+		<segment id="114" parent="115" relname="joint">ВАЗ 2110 - 111\n5.</segment>
+		<segment id="116" parent="118" relname="comparison">ВАЗ 2109 - 98\n6.</segment>
+		<segment id="117" parent="118" relname="comparison">Chevrolet Niva - 83\n7.</segment>
+		<segment id="119" parent="121" relname="comparison">VW Passat - 72\n8.</segment>
+		<segment id="120" parent="121" relname="comparison">ВАЗ 2105 - 63\n9.</segment>
+		<segment id="123" parent="125" relname="joint">ВАЗ 2114 - 59\n10.</segment>
+		<segment id="124" parent="125" relname="joint">Opel Astra - 51\n11.</segment>
+		<segment id="126" parent="130" relname="joint">Toyota Avensis - 51\n12.</segment>
+		<segment id="127" parent="129" relname="span">Ford Focus - 50\n\nСтарые автомобили - количество угонов\n\n1.</segment>
+		<segment id="128" parent="127" relname="elaboration">VW Passat - 261\n2.</segment>
+		<segment id="131" parent="130" relname="elaboration">ВАЗ 2109 - 209\n3.</segment>
+		<segment id="134" parent="136" relname="joint">ВАЗ 2112 - 197\n4.</segment>
+		<segment id="135" parent="136" relname="joint">ВАЗ 21099 - 149\n5.</segment>
+		<segment id="137" parent="153" relname="span">ВАЗ 2115 - 118\n6.</segment>
+		<segment id="138" parent="152" relname="span">Audi 100 - 116\n7.</segment>
+		<segment id="139" parent="141" relname="comparison">ВАЗ 2110 - 111\n8.</segment>
+		<segment id="140" parent="141" relname="comparison">VW Golf - 101\n9.</segment>
+		<segment id="142" parent="144" relname="joint">ВАЗ 2104 - 88\n10.</segment>
+		<segment id="143" parent="144" relname="joint">ВАЗ 2105 - 87\n11.</segment>
+		<segment id="145" parent="149" relname="span">Toyota RAV4 - 87\n12.</segment>
+		<segment id="146" parent="148" relname="joint">ВАЗ 2106 - 86\n\nСамые угоняемые автомобили в период с мая по август 2006 года (по информации газеты МК)\n\n1.</segment>
+		<segment id="147" parent="148" relname="joint">ВАЗ-2112 -158 угонов\n2.</segment>
+		<segment id="154" parent="160" relname="joint">ВАЗ-2109 -133 угона\n3.</segment>
+		<segment id="155" parent="159" relname="joint">ВАЗ-21099 -108 угонов\n4.</segment>
+		<segment id="156" parent="158" relname="comparison">Honda Accord - 101 угон\n5.</segment>
+		<segment id="157" parent="158" relname="comparison">Volkswagen Passat - 91 угон\n6.</segment>
+		<segment id="161" parent="163" relname="joint">Toyota Camry - 89 угонов\n7.</segment>
+		<segment id="162" parent="163" relname="joint">Audi 80 - 87 угонов\n8.</segment>
+		<segment id="164" parent="165" relname="comparison">Volkswagen Golf - 73 угона\n9.</segment>
+		<segment id="166" parent="167" relname="joint">Toyota Avensis - 68 угонов\n10.</segment>
+		<segment id="168" parent="170" relname="comparison">Audi А6 - 64 угона\n11.</segment>
+		<segment id="169" parent="170" relname="comparison">Chevrolet Niva - 62 угона\n\nИсточник: https://www.newsru.com/russia/18Aug2006/mashinki.html\n</segment>
+		<group id="80" type="multinuc" parent="182" relname="joint"/>
+		<group id="70" type="span" parent="80" relname="joint"/>
+		<group id="69" type="span" parent="62" relname="elaboration"/>
+		<group id="65" type="span" parent="69" relname="span"/>
+		<group id="68" type="span" parent="65" relname="elaboration"/>
+		<group id="79" type="multinuc" parent="80" relname="joint"/>
+		<group id="73" type="span" parent="79" relname="joint"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="77" type="multinuc" parent="78" relname="span"/>
+		<group id="181" type="span" parent="182" relname="joint"/>
+		<group id="91" type="multinuc" parent="181" relname="span"/>
+		<group id="85" type="span" parent="91" relname="joint"/>
+		<group id="84" type="multinuc" parent="85" relname="span"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="88" type="span" parent="90" relname="contrast"/>
+		<group id="180" type="span" parent="91" relname="elaboration"/>
+		<group id="100" type="span" parent="180" relname="span"/>
+		<group id="99" type="multinuc" parent="94" relname="elaboration"/>
+		<group id="98" type="multinuc" parent="99" relname="joint"/>
+		<group id="179" type="span" parent="100" relname="elaboration"/>
+		<group id="111" type="span" parent="179" relname="span"/>
+		<group id="109" type="multinuc" parent="111" relname="span"/>
+		<group id="108" type="span" parent="109" relname="contrast"/>
+		<group id="107" type="span" parent="102" relname="elaboration"/>
+		<group id="106" type="span" parent="103" relname="cause-effect"/>
+		<group id="178" type="span" parent="111" relname="elaboration"/>
+		<group id="177" type="multinuc" parent="112" relname="elaboration"/>
+		<group id="115" type="multinuc" parent="177" relname="joint"/>
+		<group id="176" type="multinuc" parent="177" relname="joint"/>
+		<group id="122" type="multinuc" parent="176" relname="joint"/>
+		<group id="118" type="multinuc" parent="122" relname="joint"/>
+		<group id="121" type="multinuc" parent="122" relname="joint"/>
+		<group id="175" type="multinuc" parent="176" relname="joint"/>
+		<group id="133" type="multinuc" parent="175" relname="joint"/>
+		<group id="125" type="multinuc" parent="133" relname="joint"/>
+		<group id="132" type="span" parent="133" relname="joint"/>
+		<group id="130" type="multinuc" parent="132" relname="span"/>
+		<group id="129" type="span" parent="130" relname="joint"/>
+		<group id="174" type="span" parent="175" relname="joint"/>
+		<group id="136" type="multinuc" parent="174" relname="span"/>
+		<group id="173" type="multinuc" parent="136" relname="elaboration"/>
+		<group id="153" type="span" parent="173" relname="joint"/>
+		<group id="152" type="span" parent="137" relname="elaboration"/>
+		<group id="151" type="multinuc" parent="138" relname="elaboration"/>
+		<group id="141" type="multinuc" parent="151" relname="joint"/>
+		<group id="150" type="multinuc" parent="151" relname="joint"/>
+		<group id="144" type="multinuc" parent="150" relname="joint"/>
+		<group id="149" type="span" parent="150" relname="joint"/>
+		<group id="148" type="multinuc" parent="145" relname="elaboration"/>
+		<group id="172" type="multinuc" parent="173" relname="joint"/>
+		<group id="160" type="multinuc" parent="172" relname="joint"/>
+		<group id="159" type="multinuc" parent="160" relname="joint"/>
+		<group id="158" type="multinuc" parent="159" relname="joint"/>
+		<group id="171" type="multinuc" parent="172" relname="joint"/>
+		<group id="167" type="multinuc" parent="171" relname="joint"/>
+		<group id="165" type="multinuc" parent="167" relname="joint"/>
+		<group id="163" type="multinuc" parent="165" relname="comparison"/>
+		<group id="170" type="multinuc" parent="171" relname="joint"/>
+		<group id="182" type="multinuc"/>
+	</body>
+</rst>

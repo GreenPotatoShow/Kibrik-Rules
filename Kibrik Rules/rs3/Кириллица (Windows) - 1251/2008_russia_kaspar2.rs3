@@ -1,0 +1,97 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="39" parent="41" relname="sequence">3 марта 2 марша: Каспаров выйдет на улицу оспаривать избрание Медведева\n\nЭкс-чемпион мира по шахматам Гарри Каспаров заявил в интервью AFP о своей решимости после выборов</segment>
+		<segment id="40" parent="41" relname="sequence">2 марта с помощью уличных акций оспорить \"незаконное\" избрание Дмитрия Медведева, официального преемника президента Владимира Путина.</segment>
+		<segment id="42" parent="45" relname="attribution">Каспаров возмущен,</segment>
+		<segment id="43" parent="45" relname="joint">что СМИ игнорируют планы оппозиции - два \"марша несогласных\", в Москве и Санкт-Петербурге,</segment>
+		<segment id="44" parent="45" relname="joint">- а лишь транслируют сюжеты с поездками Медведева по стране.\n\nЧлены его движения \"Другая Россия\" выйдут на улицы под лозунгом \"Долой самодержавие и престолонаследие!\",</segment>
+		<segment id="47" parent="48" relname="attribution">сказал шахматист</segment>
+		<segment id="48" parent="49" relname="span">в ходе визита в Сочи в рамках контркампании.</segment>
+		<segment id="51" parent="53" relname="span">(Полный текст на сайте InoPressa.ru).\n\n\"Власть боится протеста в любой форме,</segment>
+		<segment id="52" parent="51" relname="concession">каким бы слабым он ни был,</segment>
+		<segment id="54" parent="53" relname="attribution">– добавил Каспаров,</segment>
+		<segment id="56" parent="55" relname="background">проведший пять дней в тюремной камере после аналогичного марша в конце 2007 года.</segment>
+		<segment id="59" parent="110" relname="preparation">– Сильная власть не боится политических дискуссий.</segment>
+		<segment id="60" parent="66" relname="joint">Сильная власть не боится того, что скажет какой-то Каспаров.</segment>
+		<segment id="61" parent="63" relname="span">Сильная власть не привозит ОМОН со всей страны,</segment>
+		<segment id="62" parent="61" relname="purpose">чтобы разогнать манифестацию\".\n\nКаспаров обвиняет власти в том, что они сделали все возможное,</segment>
+		<segment id="64" parent="63" relname="purpose">чтобы он не стал кандидатом в президенты.</segment>
+		<segment id="67" parent="70" relname="attribution">Он уверяет,</segment>
+		<segment id="68" parent="70" relname="joint">что \"ведет переговоры\",</segment>
+		<segment id="69" parent="70" relname="joint">стремясь заручиться поддержкой части коммунистов и либералов из СПС и \"Яблока\".</segment>
+		<segment id="72" parent="76" relname="span">Каспаров,</segment>
+		<segment id="73" parent="75" relname="span">энергия которого контрастирует с зимней спячкой,</segment>
+		<segment id="74" parent="73" relname="elaboration">в которую, похоже, впали другие оппозиционеры,</segment>
+		<segment id="77" parent="78" relname="attribution">признает,</segment>
+		<segment id="78" parent="79" relname="span">что для оппозиции остается в случае \"кризиса\" одна-единственная возможность.\n\n\"Сегодня общество очень инертное\",</segment>
+		<segment id="81" parent="84" relname="attribution">– признает Каспаров,</segment>
+		<segment id="82" parent="83" relname="cause-effect">сожалея об \"отсутствии истинной надежды в обществе\",</segment>
+		<segment id="83" parent="84" relname="span">что дает возможность \"фокуснику\" Путину хвастаться \"искусственной\" популярностью, основанной на \"интенсивной телепропаганде\".\n\nНадо \"показать, что оппозиция не подчиняется логике маргинализации\",</segment>
+		<segment id="86" parent="92" relname="span">объясняет Каспаров,</segment>
+		<segment id="87" parent="91" relname="contrast">которого некоторые считают мечтателем,</segment>
+		<segment id="88" parent="90" relname="span">но он отказывается сдаваться,</segment>
+		<segment id="89" parent="88" relname="cause-effect">проводя в последние месяцы конференции в западных странах и конфиденциальные встречи в России.</segment>
+		<segment id="95" parent="101" relname="same-unit">Он,</segment>
+		<segment id="96" parent="99" relname="attribution">по его словам,</segment>
+		<segment id="97" parent="99" relname="joint">не верит в \"миф о Медведеве-либерале\", \"ориентированном на Запад\",</segment>
+		<segment id="98" parent="99" relname="joint">и в случае кризиса опасается \"жестоких репрессий\".\n\nВ конце марта он надеется собрать в Москве диссидентскую \"Национальную ассамблею\" с коммунистами и либералами:</segment>
+		<segment id="102" parent="104" relname="span">\"Мы собираемся дублировать работу парламента,</segment>
+		<segment id="103" parent="102" relname="elaboration">превратившегося в регистрационную палату\" и \"показать народу, что систему можно перестроить с нуля\",</segment>
+		<segment id="105" parent="104" relname="attribution">объясняет Каспаров.\n\nИсточник: https://www.newsru.com/russia/28Feb2008/kaspar2.html\n</segment>
+		<group id="41" type="multinuc" parent="112" relname="preparation"/>
+		<group id="112" type="multinuc" parent="113" relname="span"/>
+		<group id="58" type="span" parent="112" relname="joint"/>
+		<group id="50" type="span" parent="58" relname="span"/>
+		<group id="46" type="span" parent="50" relname="span"/>
+		<group id="45" type="multinuc" parent="46" relname="span"/>
+		<group id="49" type="span" parent="46" relname="attribution"/>
+		<group id="57" type="span" parent="50" relname="background"/>
+		<group id="55" type="span" parent="57" relname="span"/>
+		<group id="53" type="span" parent="55" relname="span"/>
+		<group id="111" type="span" parent="112" relname="joint"/>
+		<group id="110" type="multinuc" parent="111" relname="span"/>
+		<group id="66" type="multinuc" parent="110" relname="joint"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="63" type="span" parent="65" relname="span"/>
+		<group id="109" type="multinuc" parent="110" relname="joint"/>
+		<group id="71" type="span" parent="109" relname="joint"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="94" type="multinuc" parent="108" relname="joint"/>
+		<group id="80" type="multinuc" parent="94" relname="joint"/>
+		<group id="76" type="span" parent="80" relname="same-unit"/>
+		<group id="75" type="span" parent="72" relname="elaboration"/>
+		<group id="79" type="span" parent="80" relname="same-unit"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="85" type="span" parent="93" relname="contrast"/>
+		<group id="84" type="span" parent="85" relname="span"/>
+		<group id="92" type="span" parent="93" relname="contrast"/>
+		<group id="91" type="multinuc" parent="86" relname="background"/>
+		<group id="90" type="span" parent="91" relname="contrast"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="101" type="multinuc" parent="107" relname="joint"/>
+		<group id="100" type="span" parent="101" relname="same-unit"/>
+		<group id="99" type="multinuc" parent="100" relname="span"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="104" type="span" parent="106" relname="span"/>
+		<group id="113" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,44 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="18" relname="span">Басков попросил увеличить цены на свои спектакли в Нижнем,</segment>
+		<segment id="17" parent="16" relname="purpose">чтобы помочь горожанам\n\nЗаслуженный артист России Николай Басков впервые выступит на сцене Нижегородского театра оперы и балета 23 ноября в концерте \"Николай Басков представляет\".</segment>
+		<segment id="19" parent="18" relname="attribution">Об этом сообщила коллегия по развитию Нижнего Новгорода как столицы Приволжского федерального округа</segment>
+		<segment id="21" parent="27" relname="joint">.\n\nВ настоящее время свое участие в концерте подтвердили солистки Государственного академического Большого театра России Заслуженная артистка России Лариса Рудакова (сопрано) и Народная артистка России Мария Гаврилова (сопрано).\n\nКроме того, 25 ноября Басков исполнит партию Ленского в опере \"Евгений Онегин\",</segment>
+		<segment id="22" parent="25" relname="attribution">а 27 ноября примет участие в закрытии фестиваля \"Болдинская осень\", сообщает \"Интерфакс\".\n\nВ пресс-релизе также говорится,</segment>
+		<segment id="23" parent="25" relname="joint">что билеты на концерты и спектакли с участием певца стоят от 250 до 1500 рублей</segment>
+		<segment id="24" parent="25" relname="joint">и уже продаются в кассах театра.</segment>
+		<segment id="29" parent="32" relname="attribution">По данным газеты \"Новые известия\",</segment>
+		<segment id="30" parent="32" relname="span">билеты расходятся с трудом,</segment>
+		<segment id="31" parent="30" relname="cause-effect">так как нижегородцы не привыкли к таким высоким ценам.\n\nСтоимость билетов повышена по сравнению со всеми остальными спектаклями театра по инициативе самого Баскова.\n\nТакая просьба была вызвана тем,</segment>
+		<segment id="34" parent="36" relname="joint">что все выступления Баскова на сцене Нижегородского театра оперы и балета будут благотворительным,</segment>
+		<segment id="35" parent="36" relname="joint">а собранные средства пойдут на подготовку к празднованию 70-летия театра,</segment>
+		<segment id="37" parent="36" relname="attribution">отмечается в сообщении.\n\nКак сообщалось ранее,</segment>
+		<segment id="40" parent="42" relname="span">3 сентября Николай Басков подписал два контракта с Нижегородским театром оперы и балета:</segment>
+		<segment id="41" parent="40" relname="elaboration">как солист и как продюсер.\n\nИсточник: https://www.newsru.com/cinema/19Oct2004/babaskov.html\n</segment>
+		<group id="28" type="multinuc" parent="44" relname="joint"/>
+		<group id="20" type="span" parent="28" relname="joint"/>
+		<group id="18" type="span" parent="20" relname="span"/>
+		<group id="27" type="multinuc" parent="28" relname="joint"/>
+		<group id="26" type="span" parent="27" relname="joint"/>
+		<group id="25" type="multinuc" parent="26" relname="span"/>
+		<group id="43" type="multinuc" parent="44" relname="joint"/>
+		<group id="39" type="span" parent="43" relname="joint"/>
+		<group id="33" type="span" parent="39" relname="span"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="38" type="span" parent="33" relname="cause-effect"/>
+		<group id="36" type="multinuc" parent="38" relname="span"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="44" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,116 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="48" parent="50" relname="span">Задержанный по делу о мошенничестве в \"РусГидро\" Евгений Дод не признает вину\n\nПредседатель совета директоров ПАО \"Квадра\" Евгений Дод,</segment>
+		<segment id="49" parent="48" relname="elaboration">задержанный накануне по делу о работе в компании \"РусГидро\",</segment>
+		<segment id="51" parent="53" relname="span">не признает вину в мошенничестве на 73 млн рублей</segment>
+		<segment id="52" parent="51" relname="condition">при начислении себе премии за 2013 год.</segment>
+		<segment id="55" parent="54" relname="interpretation-evaluation">Об этом сообщает ТАСС со ссылкой на источник, знакомый с ситуацией.\n\n\"Свою вину он не признает.</segment>
+		<segment id="57" parent="59" relname="span">Все претензии следствия категорически отвергает,</segment>
+		<segment id="58" parent="57" relname="condition">настаивая на законности своих действий\",</segment>
+		<segment id="60" parent="59" relname="attribution">- рассказал собеседник агентства.</segment>
+		<segment id="62" parent="70" relname="span">Обзор наиболее интересных статей российской прессы на эту тему публикует сайт \"Заголовки\".\n\nКак считает следствие,</segment>
+		<segment id="63" parent="65" relname="span">в 2013 году Дод,</segment>
+		<segment id="64" parent="63" relname="elaboration">будучи председателем правления \"РусГидро\",</segment>
+		<segment id="66" parent="67" relname="same-unit">после утверждения финансового отчета компании начислил самому себе специальную премию в размере 353,21 млн рублей,</segment>
+		<segment id="68" parent="69" relname="joint">неправомерно завысив ее размер не менее чем на 73,2 млн рублей.</segment>
+		<segment id="71" parent="79" relname="joint">При этом он якобы действовал в сговоре с главным бухгалтером \"РусГидро\" Дмитрием Финкелем.\n\</segment>
+		<segment id="72" parent="76" relname="span">nСогласно материалам следствия,</segment>
+		<segment id="73" parent="74" relname="attribution">на которые ссылается Legal Report,</segment>
+		<segment id="74" parent="75" relname="span">вознаграждение топ-менеджеров \"РусГидро\" зависело от финансовых результатов компании,</segment>
+		<segment id="77" parent="76" relname="attribution">пишет РБК.</segment>
+		<segment id="80" parent="81" relname="purpose">Чтобы увеличить бонусы,</segment>
+		<segment id="81" parent="82" relname="span">Дод и Финкель не отразили в финансовой отчетности за 2013 год бумажные убытки на 12,4 млрд рублей от обесценивания 84,39% акций РАО \"Энергетические системы Востока\", 29,8% \"Якутскэнерго\" и 1,04% \"Дальневосточной энергетической компании\".\n\nТем самым компания якобы ввела в заблуждение акционеров.</segment>
+		<segment id="83" parent="95" relname="span">При этом в 2013-2014 годах претензий к компании по размеру вознаграждений не было.</segment>
+		<segment id="84" parent="85" relname="attribution">Опрошенные \"РБК\" знакомые Дода и высокопоставленные чиновники затруднились пояснить,</segment>
+		<segment id="85" parent="86" relname="span">почему претензии к топ-менеджеру возникли спустя 2,5 года после выплаты вознаграждения и почти год после увольнения из компании.\n\nВ среду, 22 июня, стало известно о задержании Дода и Финкеля.</segment>
+		<segment id="87" parent="88" relname="attribution">Как стало известно газете \"Коммерсант\",</segment>
+		<segment id="88" parent="89" relname="span">Дод был задержан в среду около 10 часов утра на Ленинградском вокзале.</segment>
+		<segment id="90" parent="92" relname="sequence">Его сначала допросили в качестве свидетеля,</segment>
+		<segment id="91" parent="92" relname="sequence">а потом уже и как подозреваемого.</segment>
+		<segment id="96" parent="102" relname="sequence">По итогам допроса экс-глава \"РусГидро\" был официально задержан на 48 часов.\n\</segment>
+		<segment id="97" parent="100" relname="attribution">nКак пояснил официальный представитель СКР Владимир Маркин,</segment>
+		<segment id="98" parent="100" relname="span">в ближайшее время следователи намерены обратиться в Басманный райсуд с ходатайствами об аресте Евгения Дода и его предполагаемого соучастника - главного бухгалтера, начальника департамента корпоративного учета и отчетности \"РусГидро\" Дмитрия Финкеля.\n\nВчера же следователи и оперативники провели более 30 обысков,</segment>
+		<segment id="99" parent="98" relname="elaboration">в ходе которых \"были изъяты предметы и документы, имеющие значение для расследования\".</segment>
+		<segment id="103" parent="105" relname="span">Следственные действия проводились в офисах \"РусГидро\" и \"Квадры\", а также в московской квартире Дода, двух частных домах в поселке Немчиновке в Одинцовском районе и доме в поселке Пестово рядом с Мытищами,</segment>
+		<segment id="104" parent="103" relname="background">которые были записаны на близких к предпринимателю людей.</segment>
+		<segment id="106" parent="108" relname="span">Кроме того, следствие намерено проверить информацию о недвижимости Дода и его близких за границей</segment>
+		<segment id="107" parent="106" relname="elaboration">- например, во Франции и Швейцарии, которая оформлена на офшорные компании.</segment>
+		<segment id="109" parent="111" relname="span">На всю эту недвижимость, а также счета предпринимателя в банках следствие рассчитывает наложить арест,</segment>
+		<segment id="110" parent="109" relname="purpose">чтобы компенсировать причиненный им ущерб.\n\nДод возглавил \"РусГидро\" в ноябре 2009 года,</segment>
+		<segment id="112" parent="114" relname="span">сменив и. о. председателя правления компании Василия Зубакина,</segment>
+		<segment id="113" parent="112" relname="background">который ушел после аварии на Саяно-Шушенской ГЭС 17 августа 2009 года,</segment>
+		<segment id="115" parent="116" relname="sequence">когда погибли 75 человек.\n\nДо \"РусГидро\" Дод был гендиректором \"Интер РАО\".</segment>
+		<segment id="120" parent="122" relname="span">Как он сам признавал в интервью \"Известиям\" в 2014 году,</segment>
+		<segment id="121" parent="120" relname="elaboration">\"работал под началом\" председателя совета директоров энергохолдинга Игоря Сечина.</segment>
+		<segment id="123" parent="124" relname="attribution">В том же интервью Дод сказал:</segment>
+		<segment id="124" parent="125" relname="span">\"Игорь Иванович - мой старший товарищ\".\n\n\"РусГидро\" - крупнейшая гидрогенерирующая компания в России.</segment>
+		<segment id="126" parent="130" relname="comparison">По итогам 2014 года выручка \"РусГидро\" (по МСФО) составила 329,6 млрд рублей,</segment>
+		<segment id="127" parent="129" relname="span">чистая прибыль - 24,1 млрд рублей.</segment>
+		<segment id="128" parent="127" relname="elaboration">Компания объединяет более 70 объектов возобновляемой энергетики.\n\nИсточник: https://www.newsru.com/russia/23Jun2016/dod2.html\n</segment>
+		<group id="56" type="span" parent="139" relname="preparation"/>
+		<group id="54" type="multinuc" parent="56" relname="span"/>
+		<group id="50" type="span" parent="54" relname="same-unit"/>
+		<group id="53" type="span" parent="54" relname="same-unit"/>
+		<group id="139" type="span" parent="140" relname="span"/>
+		<group id="61" type="span" parent="138" relname="preparation"/>
+		<group id="59" type="span" parent="61" relname="span"/>
+		<group id="138" type="multinuc" parent="139" relname="span"/>
+		<group id="70" type="span" parent="138" relname="joint"/>
+		<group id="69" type="multinuc" parent="62" relname="evidence"/>
+		<group id="67" type="multinuc" parent="69" relname="joint"/>
+		<group id="65" type="span" parent="67" relname="same-unit"/>
+		<group id="137" type="span" parent="138" relname="joint"/>
+		<group id="79" type="multinuc" parent="136" relname="preparation"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="76" type="span" parent="78" relname="span"/>
+		<group id="75" type="span" parent="72" relname="elaboration"/>
+		<group id="136" type="multinuc" parent="137" relname="span"/>
+		<group id="82" type="span" parent="136" relname="joint"/>
+		<group id="135" type="multinuc" parent="136" relname="joint"/>
+		<group id="95" type="span" parent="135" relname="joint"/>
+		<group id="94" type="multinuc" parent="83" relname="elaboration"/>
+		<group id="86" type="span" parent="94" relname="sequence"/>
+		<group id="93" type="multinuc" parent="94" relname="sequence"/>
+		<group id="89" type="span" parent="93" relname="sequence"/>
+		<group id="92" type="multinuc" parent="93" relname="sequence"/>
+		<group id="134" type="multinuc" parent="135" relname="joint"/>
+		<group id="102" type="multinuc" parent="134" relname="joint"/>
+		<group id="101" type="span" parent="102" relname="sequence"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="133" type="multinuc" parent="134" relname="joint"/>
+		<group id="119" type="multinuc" parent="133" relname="comparison"/>
+		<group id="105" type="span" parent="119" relname="joint"/>
+		<group id="118" type="span" parent="119" relname="joint"/>
+		<group id="108" type="span" parent="118" relname="span"/>
+		<group id="117" type="multinuc" parent="108" relname="evidence"/>
+		<group id="111" type="span" parent="117" relname="sequence"/>
+		<group id="116" type="multinuc" parent="117" relname="sequence"/>
+		<group id="114" type="span" parent="116" relname="sequence"/>
+		<group id="132" type="span" parent="133" relname="comparison"/>
+		<group id="122" type="span" parent="132" relname="span"/>
+		<group id="131" type="span" parent="122" relname="elaboration"/>
+		<group id="125" type="span" parent="131" relname="span"/>
+		<group id="130" type="multinuc" parent="125" relname="elaboration"/>
+		<group id="129" type="span" parent="130" relname="comparison"/>
+		<group id="140" type="span"/>
+	</body>
+</rst>

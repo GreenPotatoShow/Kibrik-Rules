@@ -1,0 +1,45 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="20" relname="joint">ФАС предлагает снизить цены на невозвратные авиабилеты на 25%\n\nФедеральная антимонопольная служба России предлагает обязать авиакомпании снижать цены на невозвратные билеты на маршрутах с низкой конкуренцией.</segment>
+		<segment id="19" parent="20" relname="joint">Об этом агентству \"Прайм\" рассказал замглавы ФАС Анатолий Голомолзин.\n\n\"Мы предлагали на маршрутах с ограниченной конкуренцией применять требование, что авиакомпании должны снижать стоимость таких билетов на величину порядка 25%\",</segment>
+		<segment id="21" parent="20" relname="attribution">- сказал он.</segment>
+		<segment id="23" parent="48" relname="preparation">Тогда параллельно с введением льгот для перевозчиков удастся защитить и пассажиров.\n\</segment>
+		<segment id="26" parent="32" relname="joint">nЗаконопроект, позволяющий авиаперевозчикам продавать невозвратные билеты в России, внесен в Госдуму депутатами в июле.</segment>
+		<segment id="27" parent="31" relname="span">Поправки в Воздушный кодекс РФ предполагают установление 30-процентной квоты для таких тарифов.</segment>
+		<segment id="28" parent="30" relname="span">Это позволило бы снизить цены на авиабилеты,</segment>
+		<segment id="29" parent="28" relname="elaboration">в которые сегодня включены издержки, связанные с возвратом билетов.\n\</segment>
+		<segment id="33" parent="34" relname="attribution">nПо словам Голомолзина,</segment>
+		<segment id="34" parent="35" relname="span">ведомство не возражает против факта существования невозвратных авиабилетов.</segment>
+		<segment id="38" parent="35" relname="elaboration">\"Такая практика существует во всем мире, в том числе на направлениях в Россию и из нее\", - добавил он.\n\nНа монополизированных направлениях у авиаперевозчиков не будет стимулов снижать цены параллельно с уменьшением издержек.</segment>
+		<segment id="40" parent="42" relname="span">\"Там, где маршруты являются неконкурентными</segment>
+		<segment id="41" parent="40" relname="cause-effect">- это в значительной степени касается региональных и местных перевозок,</segment>
+		<segment id="43" parent="42" relname="cause-effect">- у нас есть опасение, что закрепление этой 30-процентной квоты приведет к тому, что существующие билеты просто превратятся в невозвратные\",</segment>
+		<segment id="45" parent="44" relname="attribution">- пояснил Голомолзин.\n\nИсточник: https://www.newsru.com/finance/22Jul2013/fas_avia.html\n</segment>
+		<group id="22" type="span" parent="50" relname="joint"/>
+		<group id="20" type="multinuc" parent="22" relname="span"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="span"/>
+		<group id="32" type="multinuc" parent="48" relname="joint"/>
+		<group id="31" type="span" parent="32" relname="joint"/>
+		<group id="30" type="span" parent="27" relname="purpose"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="39" type="span" parent="47" relname="joint"/>
+		<group id="35" type="span" parent="39" relname="span"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="44" type="span" parent="46" relname="span"/>
+		<group id="42" type="span" parent="44" relname="span"/>
+		<group id="50" type="multinuc"/>
+	</body>
+</rst>

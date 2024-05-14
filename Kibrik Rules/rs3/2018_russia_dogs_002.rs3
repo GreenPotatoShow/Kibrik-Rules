@@ -1,0 +1,107 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="45" parent="47" relname="joint">Минспорта и оргкомитет \"Россия-2018\" обяжут регионы построить приюты для животных перед ЧМ-2018\n\nМинистерство спорта РФ и организационный комитет \"Россия-2018\" выступают за гуманное отношение к животным</segment>
+		<segment id="46" parent="47" relname="joint">и планируют обязать все регионы, в которых пройдут матчи чемпионата мира по футболу,</segment>
+		<segment id="48" parent="49" relname="joint">построить приюты для бездомных собак и кошек.</segment>
+		<segment id="50" parent="52" relname="joint">Ранее сообщалось, что власти российских регионов в преддверии ЧМ-2018 заказывают массовые отстрелы бродячих зверей на улицах.\n\nСтроительство объектов проконтролирует комитет Госдумы по экологии и охране окружающей среды.</segment>
+		<segment id="51" parent="52" relname="joint">За основу возьмут типовые проекты, возведенные в Санкт-Петербурге и Нижнем Новгороде.</segment>
+		<segment id="53" parent="52" relname="attribution">Об этом газете \"Известия\" заявил глава комитета Владимир Бурматов.</segment>
+		<segment id="56" parent="61" relname="preparation">Информацию подтвердили в оргкомитете \"Россия-2018\" и Минспорта РФ.\n\nПо словам председателя оргкомитета \"Россия-2018\" Алексея Сорокина,</segment>
+		<segment id="57" parent="59" relname="span">организаторы ЧМ-2018 в России и Международная федерация футбола (FIFA) призывают регионы использовать только гуманные меры</segment>
+		<segment id="58" parent="57" relname="purpose">для контроля популяции бездомных животных</segment>
+		<segment id="60" parent="61" relname="joint">и просят создавать пункты передержки и приюты.</segment>
+		<segment id="63" parent="65" relname="span">\"Никакой утилизации ни в коем случае не будет\",</segment>
+		<segment id="64" parent="63" relname="attribution">- заверил он</segment>
+		<segment id="66" parent="68" relname="joint">.\n\nПравительство рекомендовало губернаторам построить временные приюты-передержки</segment>
+		<segment id="67" parent="68" relname="joint">и регулировать численность бездомных животных гуманными методами,</segment>
+		<segment id="69" parent="68" relname="attribution">сообщил газете Владимир Бурматов.</segment>
+		<segment id="73" parent="76" relname="attribution">По его данным,</segment>
+		<segment id="74" parent="76" relname="joint">в некоторых регионах уже прислушались к обращению.</segment>
+		<segment id="75" parent="76" relname="joint">Минспорта и оргкомитет ЧМ передают властям типовые проекты приютов.</segment>
+		<segment id="78" parent="82" relname="restatement">По окончании мундиаля приюты начнут работать на благо регионов</segment>
+		<segment id="79" parent="80" relname="attribution">.\n\nВ Минспорта \"Известиям\" сообщили,</segment>
+		<segment id="80" parent="81" relname="span">что подобные объекты уже построены в Нижнем Новгороде, Санкт-Петербурге, Калининграде и Саранске.</segment>
+		<segment id="83" parent="82" relname="elaboration">В остальных семи городах ЧМ подобные пункты передержки появятся в ближайшее время.</segment>
+		<segment id="85" parent="86" relname="attribution">В регионах, принимающих ЧМ-2018, подтвердили,</segment>
+		<segment id="86" parent="87" relname="span">что дополнительные приюты для бездомных животных уже создаются.\n\</segment>
+		<segment id="90" parent="87" relname="elaboration">nКак стало известно, в Калининградской области в ближайшее время появятся два крупных пункта передержки.</segment>
+		<segment id="92" parent="102" relname="joint">В Саранске планируется открыть приют для бездомных животных во II квартале.</segment>
+		<segment id="93" parent="101" relname="span">В Самаре в настоящее время рассматриваются дополнительные меры для стимулирования общественных приютов,</segment>
+		<segment id="94" parent="96" relname="span">в том числе выделение грантов в области защиты и площадок</segment>
+		<segment id="95" parent="94" relname="purpose">для размещения новых приютов.\n\nВ пресс-службе губернатора Волгоградской области \"Известиям\" сообщили,</segment>
+		<segment id="97" parent="99" relname="joint">что отстрел животных муниципальными службами Волгограда не производится</segment>
+		<segment id="98" parent="99" relname="joint">и не планируется.</segment>
+		<segment id="103" parent="107" relname="joint">В Казани регулирование численности бездомных животных происходит в плановом порядке,</segment>
+		<segment id="104" parent="106" relname="span">дополнительных приютов в республике к ЧМ строить не планируется</segment>
+		<segment id="105" parent="104" relname="cause-effect">.\n\nРанее на новую волну убийств бродячих животных пожаловались жители Сочи.</segment>
+		<segment id="108" parent="124" relname="span">По словам очевидцев, животных убивают на улицах.</segment>
+		<segment id="109" parent="112" relname="attribution">По информации зоозащитников,</segment>
+		<segment id="110" parent="111" relname="attribution">работы по отстрелу собак в Сочи идут непрерывно.\n\nСМИ писали,</segment>
+		<segment id="111" parent="112" relname="span">что в Самаре на решение проблемы бездомных животных решено потратить 9 млн рублей.</segment>
+		<segment id="114" parent="115" relname="condition">Так, в Тольятти, где смогут остановиться болельщики ЧМ,</segment>
+		<segment id="115" parent="116" relname="span">власти выделили около 2 млн рублей на уничтожение бездомных животных.</segment>
+		<segment id="118" parent="119" relname="joint">Журналисты обнаружили, что тендеры на \"отлов, умерщвление и утилизацbю трупов\" бездомных животных были объявлены в Татарстане, Волгограде, Астрахани, Белгороде.</segment>
+		<segment id="120" parent="122" relname="span">Позже УФАС Татарстана приостановило аукцион по отлову бродячих кошек и собак в Набережных Челнах,</segment>
+		<segment id="121" parent="120" relname="elaboration">которые тоже благоустраивают к приему болельщиков.\n\nИсточник: https://www.newsru.com/russia/05Mar2018/dogs.html\n</segment>
+		<group id="55" type="span" parent="131" relname="joint"/>
+		<group id="49" type="multinuc" parent="54" relname="preparation"/>
+		<group id="47" type="multinuc" parent="49" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="52" type="multinuc" parent="54" relname="span"/>
+		<group id="130" type="multinuc" parent="131" relname="joint"/>
+		<group id="72" type="multinuc" parent="130" relname="joint"/>
+		<group id="62" type="span" parent="72" relname="joint"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="59" type="span" parent="61" relname="joint"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="65" type="span" parent="70" relname="solutionhood"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="68" type="multinuc" parent="70" relname="span"/>
+		<group id="129" type="span" parent="130" relname="joint"/>
+		<group id="77" type="span" parent="128" relname="preparation"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="128" type="multinuc" parent="129" relname="span"/>
+		<group id="84" type="span" parent="128" relname="joint"/>
+		<group id="82" type="multinuc" parent="84" relname="span"/>
+		<group id="81" type="span" parent="82" relname="restatement"/>
+		<group id="127" type="multinuc" parent="128" relname="joint"/>
+		<group id="91" type="span" parent="127" relname="joint"/>
+		<group id="87" type="span" parent="91" relname="span"/>
+		<group id="126" type="multinuc" parent="127" relname="joint"/>
+		<group id="102" type="multinuc" parent="126" relname="joint"/>
+		<group id="101" type="span" parent="102" relname="joint"/>
+		<group id="100" type="span" parent="93" relname="elaboration"/>
+		<group id="96" type="span" parent="99" relname="attribution"/>
+		<group id="99" type="multinuc" parent="100" relname="span"/>
+		<group id="125" type="multinuc" parent="126" relname="joint"/>
+		<group id="107" type="multinuc" parent="125" relname="joint"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="124" type="span" parent="125" relname="joint"/>
+		<group id="123" type="multinuc" parent="108" relname="evidence"/>
+		<group id="119" type="multinuc" parent="123" relname="sequence"/>
+		<group id="117" type="span" parent="119" relname="joint"/>
+		<group id="113" type="span" parent="117" relname="span"/>
+		<group id="112" type="span" parent="113" relname="span"/>
+		<group id="116" type="span" parent="113" relname="interpretation-evaluation"/>
+		<group id="122" type="span" parent="123" relname="sequence"/>
+		<group id="131" type="multinuc"/>
+	</body>
+</rst>

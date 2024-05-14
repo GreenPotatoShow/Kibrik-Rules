@@ -1,0 +1,92 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="39" parent="112" relname="attribution">Экс-советник Путина:</segment>
+		<segment id="40" parent="42" relname="span">Россию на Украине остановят только военные действия против ее армии\n\nБывший советник президента России Владимира Путина,</segment>
+		<segment id="41" parent="40" relname="attribution">российский экономист Андрей Илларионов высказал</segment>
+		<segment id="43" parent="44" relname="attribution">парадоксальную мысль о том,</segment>
+		<segment id="44" parent="45" relname="span">что кризис на Украине могут прекратить только военные действия против России.</segment>
+		<segment id="47" parent="56" relname="attribution">По его мнению,</segment>
+		<segment id="48" parent="50" relname="span">российские власти видят только два выхода из конфликта,</segment>
+		<segment id="49" parent="48" relname="elaboration">ни один из которых не сопряжен с украинским суверенитетом,</segment>
+		<segment id="51" parent="53" relname="span">передает немецкое издание Der Standard,</segment>
+		<segment id="52" parent="51" relname="elaboration">которое цитирует InoPressa.\n\n\"Единственное, чего боится Путин,</segment>
+		<segment id="55" parent="54" relname="interpretation-evaluation">- это применение военной силы против российских войск\",</segment>
+		<segment id="58" parent="59" relname="attribution">- заявил Андрей Илларионов,</segment>
+		<segment id="59" parent="60" relname="span">который был его советником по экономической политике во время первого президентского срока.</segment>
+		<segment id="63" parent="70" relname="attribution">Он выступил с лекцией в Зальцбурге на конференции, организованной International Peace Institute</segment>
+		<segment id="64" parent="65" relname="attribution">.\n\nИлларионов считает,</segment>
+		<segment id="65" parent="66" relname="span">что никакие санкции не способны заставить Россию прекратить поставки оружия на Украину,</segment>
+		<segment id="67" parent="69" relname="comparison">ограничительные меры Запада никоим образом не повлияют на поведение Владимира Путина.\n\nТакже бывший советник президента рассказал,</segment>
+		<segment id="68" parent="69" relname="comparison">в чем отличие точки зрения Путина на прошедшие и происходящие события.</segment>
+		<segment id="72" parent="79" relname="attribution">По словам Илларионова,</segment>
+		<segment id="73" parent="77" relname="span">холодная война,</segment>
+		<segment id="74" parent="75" relname="attribution">согласно представлениям Путина,</segment>
+		<segment id="75" parent="76" relname="span">считается \"третьей мировой войной\",</segment>
+		<segment id="78" parent="79" relname="comparison">а то, что сейчас происходит на Украине, - \"четвертой мировой войной против англосаксонского мира\".\n\n</segment>
+		<segment id="81" parent="88" relname="attribution">\"Согласно позиции российского президента,</segment>
+		<segment id="82" parent="88" relname="span">есть только два варианта мирного урегулирования на Украине:</segment>
+		<segment id="83" parent="87" relname="joint">либо Украина, подобно Крыму,</segment>
+		<segment id="84" parent="86" relname="joint">перейдет под контроль России,</segment>
+		<segment id="85" parent="86" relname="joint">либо она перестанет существовать как самостоятельное государство\",</segment>
+		<segment id="90" parent="89" relname="attribution">- заявил экс-советник президента России.\n\nДобавим, что ранее Андрей Илларионов говорил о крахе планов Кремля по разделению Украины.</segment>
+		<segment id="92" parent="93" relname="attribution">В мае этого года, после выборов украинского президента, Илларионов заявил,</segment>
+		<segment id="93" parent="94" relname="span">что \"путинские пропагандисты\" не раз говорили о разделении Украины на сторонников евроинтеграции и русскоязычных, на \"Бандеровщину\" и \"Новороссию\",</segment>
+		<segment id="95" parent="99" relname="same-unit">однако выборы, по его словам,</segment>
+		<segment id="96" parent="97" relname="attribution">показали \"абсолютную победу национального выбора\", победу \"западного варианта развития единой Украины\".\n\nДо этого Илларионов отмечал,</segment>
+		<segment id="97" parent="98" relname="span">что санкции, введенные Западом, всерьез Кремлем не рассматриваются.</segment>
+		<segment id="101" parent="104" relname="attribution">Экономист заявил,</segment>
+		<segment id="102" parent="104" relname="span">что \"в Кремле смеются\" над введенными ограничительными мерами.</segment>
+		<segment id="103" parent="102" relname="interpretation-evaluation">\"Там их считают не более чем шуткой\",</segment>
+		<segment id="106" parent="105" relname="attribution">- говорил бывший советник.\n\nИсточник: https://www.newsru.com/russia/28Aug2014/sovetnik.html\n</segment>
+		<group id="112" type="multinuc" parent="113" relname="span"/>
+		<group id="62" type="multinuc" parent="112" relname="joint"/>
+		<group id="46" type="span" parent="62" relname="joint"/>
+		<group id="42" type="span" parent="45" relname="attribution"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="61" type="span" parent="62" relname="joint"/>
+		<group id="57" type="span" parent="61" relname="span"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="54" type="span" parent="56" relname="span"/>
+		<group id="50" type="span" parent="54" relname="span"/>
+		<group id="53" type="span" parent="50" relname="attribution"/>
+		<group id="60" type="span" parent="57" relname="attribution"/>
+		<group id="111" type="multinuc" parent="112" relname="joint"/>
+		<group id="71" type="span" parent="111" relname="joint"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="66" type="span" parent="70" relname="joint"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="110" type="multinuc" parent="111" relname="joint"/>
+		<group id="80" type="span" parent="110" relname="joint"/>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="77" type="span" parent="79" relname="comparison"/>
+		<group id="76" type="span" parent="73" relname="elaboration"/>
+		<group id="109" type="multinuc" parent="110" relname="joint"/>
+		<group id="91" type="span" parent="109" relname="joint"/>
+		<group id="89" type="span" parent="91" relname="span"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="87" type="multinuc" parent="82" relname="elaboration"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="100" type="multinuc" parent="108" relname="joint"/>
+		<group id="94" type="span" parent="100" relname="contrast"/>
+		<group id="99" type="multinuc" parent="100" relname="contrast"/>
+		<group id="98" type="span" parent="99" relname="same-unit"/>
+		<group id="107" type="span" parent="108" relname="joint"/>
+		<group id="105" type="span" parent="107" relname="span"/>
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="113" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="21" relname="span">Пассажиры рейса Air India, летевшего из Дели в Гонконг, эвакуированы</segment>
+		<segment id="18" parent="19" relname="cause-effect">из-за угрозы взрыва\n\</segment>
+		<segment id="19" parent="20" relname="span">nУгроза взрыва самолета авиакомпании Air India оказалась ложной.</segment>
+		<segment id="22" parent="21" relname="attribution">Об этом заявил журналистам в четверг министр гражданской авиации Индии Сайед Шахнаваз Хуссейн.\n\</segment>
+		<segment id="24" parent="31" relname="attribution">nПо его словам,</segment>
+		<segment id="25" parent="31" relname="joint">никаких террористов среди пассажиров рейса Думбаи /Бомбей/ - Дели - Гонконг не было.\n\nКак сообщил ранее в прямом эфире телеканал Star News,</segment>
+		<segment id="26" parent="27" relname="condition">во время полета индийского самолета службы безопасности делийского аэропорта</segment>
+		<segment id="27" parent="28" relname="span">были проинформированы о возможности присутствия двух террористов со взрывчаткой на борту авиалайнера.\n\nОднако имена террористов,</segment>
+		<segment id="29" parent="28" relname="elaboration">названные спецслужбам, в списке пассажиров не были найдены.</segment>
+		<segment id="33" parent="34" relname="contrast">Тем не менее, авиалайнер был задержан в Дели.\n\</segment>
+		<segment id="35" parent="36" relname="attribution">nКак сообщает Reuters,</segment>
+		<segment id="36" parent="37" relname="span">полиция и силы безопасности вели проверку самолета, а также 178 находившихся на борту лайнера пассажиров.</segment>
+		<segment id="38" parent="39" relname="cause-effect">Из-за анонимного предупреждения о теракте</segment>
+		<segment id="39" parent="40" relname="span">все пассажиров лайнера были вынуждены спешно покинуть салон.\n\nВсе рейсы авиакомпании Air India были задержаны на неопределенное время,</segment>
+		<segment id="41" parent="40" relname="attribution">передает РИА \"Новости\".\n\nЭто уже пятый за текущую неделю ложный звонок.</segment>
+		<segment id="44" parent="43" relname="elaboration">Всего с начала года в стране зарегистрированы 363 случая \"телефонного терроризма\" в отношении авиарейсов.\n\nИсточник: https://www.newsru.com/world/31Oct2002/india.html\n</segment>
+		<group id="23" type="span" parent="46" relname="preparation"/>
+		<group id="21" type="span" parent="23" relname="span"/>
+		<group id="20" type="span" parent="17" relname="cause-effect"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="34" type="multinuc" parent="46" relname="joint"/>
+		<group id="32" type="span" parent="34" relname="contrast"/>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="28" type="span" parent="30" relname="span"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="37" type="span" parent="43" relname="span"/>
+		<group id="42" type="span" parent="37" relname="cause-effect"/>
+		<group id="40" type="span" parent="42" relname="span"/>
+		<group id="47" type="span"/>
+	</body>
+</rst>

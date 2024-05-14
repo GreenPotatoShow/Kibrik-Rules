@@ -1,0 +1,60 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="30" relname="span">Квартира-дворец на Манхэттене, которую не дали купить Абрамовичу,</segment>
+		<segment id="23" parent="29" relname="span">теперь сдается в аренду за 6 млн рублей в месяц\n\nРоскошнейшая квартира на Манхэттене,</segment>
+		<segment id="24" parent="28" relname="sequence">которую в числе прочих хотел приобрести российский миллиардер Роман Абрамович,</segment>
+		<segment id="25" parent="27" relname="contrast">вернулась на рынок,</segment>
+		<segment id="26" parent="27" relname="contrast">но теперь лишь в качестве арендного жилья стоимостью 150 тысяч долларов (около 6 млн рублей) в месяц,</segment>
+		<segment id="31" parent="35" relname="span">пишет The Daily News.\n\nЭто реконструированный триплекс,</segment>
+		<segment id="32" parent="34" relname="joint">расположенный в особняке Berwind Mansion на Пятой Авеню, 848,</segment>
+		<segment id="33" parent="34" relname="joint">изнутри скорее напоминает дворец в стиле Людовика XV - с бальной залой, библиотекой и обшитой дубом гостиной, выходящей окнами на Центральный парк.\n\n</segment>
+		<segment id="37" parent="39" relname="span">\"Я никогда не видел более впечатляющей реконструкции за все свои 26 лет в бизнесе,</segment>
+		<segment id="38" parent="37" relname="attribution">- делится впечатлениями брокер Алекс Ламберт из Stribling & Associates.</segment>
+		<segment id="40" parent="42" relname="joint">- Люди, которым принадлежат такие дома,</segment>
+		<segment id="41" parent="42" relname="joint">обычно не сдают их в аренду,</segment>
+		<segment id="43" parent="49" relname="span">поэтому это уникальная возможность\".\n\</segment>
+		<segment id="44" parent="46" relname="span">nВ настоящее время исторический особняк в эдвардианско-георгианском стиле разделен на пять апартаментов,</segment>
+		<segment id="45" parent="44" relname="elaboration">часть из которых или даже якобы все пять сразу хотел купить в прошлом году Роман Абрамович со своей подругой Дарьей Жуковой,</segment>
+		<segment id="47" parent="46" relname="purpose">планируя превратить все это жилище в дом на одну семью.</segment>
+		<segment id="52" parent="58" relname="span">Однако на заключительном этапе сделки ей воспротивился владелец одной из квартир,</segment>
+		<segment id="53" parent="56" relname="attribution">посчитавший,</segment>
+		<segment id="54" parent="56" relname="span">что она стоит дороже 75 миллионов долларов,</segment>
+		<segment id="55" parent="54" relname="elaboration">за которые ее предлагалось купить.</segment>
+		<segment id="59" parent="60" relname="span">В результате вся покупка сорвалась.\n\nЗато сэкономленные деньги бизнесмен инвестировал в пептидные батарейки.\n\nИсточник: https://www.newsru.com/realty/02Oct2014/berwind_roman.html\n</segment>
+		<group id="36" type="multinuc" parent="61" relname="preparation"/>
+		<group id="30" type="span" parent="36" relname="joint"/>
+		<group id="29" type="span" parent="22" relname="elaboration"/>
+		<group id="28" type="multinuc" parent="23" relname="elaboration"/>
+		<group id="27" type="multinuc" parent="28" relname="sequence"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="34" type="multinuc" parent="31" relname="background"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="51" type="multinuc" parent="61" relname="contrast"/>
+		<group id="39" type="span" parent="51" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="42" type="multinuc" parent="49" relname="cause-effect"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="48" type="span" parent="43" relname="elaboration"/>
+		<group id="46" type="span" parent="48" relname="span"/>
+		<group id="60" type="span" parent="61" relname="contrast"/>
+		<group id="58" type="span" parent="59" relname="cause-effect"/>
+		<group id="57" type="span" parent="52" relname="elaboration"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="62" type="span"/>
+	</body>
+</rst>

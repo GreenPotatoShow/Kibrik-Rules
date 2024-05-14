@@ -1,0 +1,144 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="62" parent="63" relname="attribution">Playboy предложил актрисе и модели Софи Монк раздеться за миллион\n\nАвстралийская актриса и модель Софи Монк в эфире радиостанции 2Day FM рассказала,</segment>
+		<segment id="63" parent="64" relname="span">что получила заманчивое предложение от журнала Playboy:</segment>
+		<segment id="65" parent="67" relname="span">один миллион долларов - за одну фотосессию в обнаженном виде,</segment>
+		<segment id="66" parent="65" relname="attribution">сообщает NEWSru Israel.\n\</segment>
+		<segment id="69" parent="72" relname="attribution">nПо словам актрисы,</segment>
+		<segment id="70" parent="72" relname="contrast">она пока обдумывает это предложение,</segment>
+		<segment id="71" parent="72" relname="contrast">но, судя по всему, склонна его принять.</segment>
+		<segment id="74" parent="76" relname="joint">В прошлом Софи не раз приходилось позировать обнаженной перед камерой</segment>
+		<segment id="75" parent="76" relname="joint">и играть роли, в которых надо было раздеваться в кадре.</segment>
+		<segment id="78" parent="92" relname="joint">Но ей уже 31 год,</segment>
+		<segment id="79" parent="80" relname="attribution">и актриса говорит,</segment>
+		<segment id="80" parent="81" relname="span">что теперь подобные решения даются не так легко,</segment>
+		<segment id="82" parent="86" relname="same-unit">как в юности,</segment>
+		<segment id="83" parent="85" relname="joint">когда многие девушки спят</segment>
+		<segment id="84" parent="85" relname="joint">и видят себя на страницах Playboy.\n\nОтметим, что у Софи есть шанс стать потомственной моделью Playboy,</segment>
+		<segment id="87" parent="88" relname="cause-effect">так как ее мать Санди тоже снималась в свое время для этого мужского журнала</segment>
+		<segment id="88" parent="89" relname="span">и работала в клубе Playboy.</segment>
+		<segment id="93" parent="97" relname="span">Кроме того, героиней Софи всегда была Мэрилин Монро, одна из первых моделей Playboy.\n\nСудя по всему, решение будет зависеть от мнения агентов Софи,</segment>
+		<segment id="94" parent="95" relname="cause-effect">которые должны оценить, может ли предложение о работе для Playboy негативно отразиться на актерской карьере Монк.\n\nНи один мужчина в мире не скажет сегодня Софи Монк,</segment>
+		<segment id="95" parent="96" relname="span">что запрещает ей сниматься без одежды.</segment>
+		<segment id="98" parent="108" relname="joint">Отец давно не вмешивается в ее дела,</segment>
+		<segment id="99" parent="107" relname="span">да и относится к таким съемкам, как к выгодной работе.</segment>
+		<segment id="100" parent="106" relname="span">Мужа у Софи нет.</segment>
+		<segment id="101" parent="104" relname="attribution">В январе в эфире той же радиостанции 2Day FM она объявляла,</segment>
+		<segment id="102" parent="104" relname="span">что вскоре выходит замуж за своего \"старого друга\" - миллионера Джимми Эсбажа,</segment>
+		<segment id="103" parent="102" relname="background">который старше ее почти на 20 лет.</segment>
+		<segment id="110" parent="117" relname="attribution">Но уже в марте, в другом интервью, Софи сообщила,</segment>
+		<segment id="111" parent="113" relname="span">что \"разошлась\" с Джимми</segment>
+		<segment id="112" parent="111" relname="elaboration">(свадьба так и не состоялась).\n\nОбворожительной Софи Монк никак не удается встретить мужчину всей ее жизни,</segment>
+		<segment id="114" parent="116" relname="sequence">до Эсбажа она успела расстаться со звукорежиссером Бенджи Мадденом и с актером Джейсоном Стэтэмом,</segment>
+		<segment id="115" parent="116" relname="sequence">в обоих случаях почти доведя дело до свадьбы.\n\nСофи Монк.</segment>
+		<segment id="119" parent="176" relname="preparation">Краткая биографическая справка\n\nРодилась 14 декабря 1979 года в Винчестере, на юге Англии.</segment>
+		<segment id="120" parent="128" relname="sequence">Когда девочке было два года,</segment>
+		<segment id="121" parent="127" relname="sequence">ее семья переехала в Австралию, в Куинслэнд:</segment>
+		<segment id="122" parent="126" relname="joint">отец устал от туманов</segment>
+		<segment id="123" parent="125" relname="span">и согласился на уговоры жены,</segment>
+		<segment id="124" parent="123" relname="elaboration">которая родилась на Зеленом Континенте.</segment>
+		<segment id="129" parent="133" relname="span">Артистичность Софи унаследовала от матери,</segment>
+		<segment id="130" parent="132" relname="span">которая в девичестве зарабатывала себе на жизнь выступлениями в лондонском клубе Playboy.\n\nСофи начала петь со сцены,</segment>
+		<segment id="131" parent="130" relname="background">когда ей было 4 года.</segment>
+		<segment id="134" parent="135" relname="attribution">В школе, по ее собственному признанию,</segment>
+		<segment id="135" parent="136" relname="span">она \"была маленьким клоуном\".</segment>
+		<segment id="139" parent="143" relname="span">Одной из первых театральных ролей юной Софи Монк стала роль Мэрилин Монро</segment>
+		<segment id="140" parent="142" relname="span">- она играла ее в парке Movie World на Золотом Побережье Австралии.\n\nВ 19 лет Софи Монк стала одной из пяти участниц музыкальной группы Bardot,</segment>
+		<segment id="141" parent="140" relname="elaboration">которая очень скоро добралась до вершин австралийских хит-парадов.</segment>
+		<segment id="144" parent="154" relname="sequence">Так стартовала звездная карьера мисс Монк.\n\nВ 2003-м году альбомом \"Девушка из календаря\" (Calendar Girl) Софи начала сольную карьеру,</segment>
+		<segment id="145" parent="153" relname="joint">и вскоре приобрела мировую известность.\n\nЛетом 2004-го имя Софи Монк звучало во всех мировых СМИ:</segment>
+		<segment id="146" parent="148" relname="span">она была первой австралийской \"звездой\", отважившейся отправиться в Ирак во время войны,</segment>
+		<segment id="147" parent="146" relname="purpose">чтобы поднять боевой дух солдат коалиции</segment>
+		<segment id="149" parent="151" relname="joint">.\n\nВ 2005-м Монк предприняла первую попытку покорить Голливуд,</segment>
+		<segment id="150" parent="151" relname="joint">сыграв знакомую с детства роль Мэрилин Монро в телефильме \"Мистерия Натали Вуд\".</segment>
+		<segment id="156" parent="164" relname="sequence">В 2006 году Софи снялась в фильме \"Киносвидание\" (Date Movie)</segment>
+		<segment id="157" parent="163" relname="span">- она сыграла роль Энди,</segment>
+		<segment id="158" parent="162" relname="span">явным образом пародируя скандально известную Пэрис Хилтон.</segment>
+		<segment id="159" parent="161" relname="span">В том же году ею была сыграна роль Стэйси в фантастической комедии \"Клик\".\n\nВ 2008-м Софи снялась обнаженной в \"черной комедии\" \"Sex and Death 101\",</segment>
+		<segment id="160" parent="159" relname="elaboration">чем застолбила себе место в сексуальных рейтингах американских таблоидов,</segment>
+		<segment id="165" parent="169" relname="contrast">но признания академиков от кинематографии не получила.\n\nЗа последние три года она снялась еще в шести картинах,</segment>
+		<segment id="166" parent="168" relname="span">но по-прежнему остается \"австралийской звездой\",</segment>
+		<segment id="167" parent="166" relname="elaboration">на которую не обращают особого внимания в Голливуде.\n\nПресса больше интересуется личной жизнью соблазнительной блондинки Софи Монк, чем ее сомнительными успехами в кинематографе.\n\nВ этом году в рейтинге \"Playboy's Sexiest Celebrities list\" заняла 3-ю строчку.</segment>
+		<segment id="171" parent="173" relname="comparison">Но в списке \"100 самых прекрасных женщин мира\" от Maxim она была лишь 96-й,</segment>
+		<segment id="172" parent="173" relname="comparison">а в \"горячую сотню\" FHM не попала вовсе.\n\nИсточник: https://www.newsru.com/cinema/19Jul2011/monk.html\n</segment>
+		<group id="68" type="span" parent="181" relname="preparation"/>
+		<group id="64" type="span" parent="68" relname="span"/>
+		<group id="67" type="span" parent="64" relname="elaboration"/>
+		<group id="181" type="multinuc" parent="182" relname="span"/>
+		<group id="77" type="span" parent="181" relname="joint"/>
+		<group id="73" type="span" parent="77" relname="span"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="76" type="multinuc" parent="73" relname="elaboration"/>
+		<group id="180" type="multinuc" parent="181" relname="joint"/>
+		<group id="92" type="multinuc" parent="180" relname="joint"/>
+		<group id="91" type="span" parent="92" relname="joint"/>
+		<group id="81" type="span" parent="91" relname="span"/>
+		<group id="90" type="multinuc" parent="81" relname="elaboration"/>
+		<group id="86" type="multinuc" parent="90" relname="comparison"/>
+		<group id="85" type="multinuc" parent="86" relname="same-unit"/>
+		<group id="89" type="span" parent="90" relname="comparison"/>
+		<group id="179" type="multinuc" parent="180" relname="joint"/>
+		<group id="109" type="multinuc" parent="179" relname="joint"/>
+		<group id="97" type="span" parent="109" relname="joint"/>
+		<group id="96" type="span" parent="93" relname="elaboration"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="107" type="span" parent="108" relname="joint"/>
+		<group id="106" type="span" parent="99" relname="evidence"/>
+		<group id="105" type="span" parent="100" relname="elaboration"/>
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="178" type="multinuc" parent="179" relname="joint"/>
+		<group id="118" type="span" parent="178" relname="joint"/>
+		<group id="117" type="multinuc" parent="118" relname="span"/>
+		<group id="113" type="span" parent="117" relname="sequence"/>
+		<group id="116" type="multinuc" parent="117" relname="sequence"/>
+		<group id="177" type="span" parent="178" relname="joint"/>
+		<group id="176" type="span" parent="177" relname="span"/>
+		<group id="138" type="multinuc" parent="175" relname="preparation"/>
+		<group id="128" type="multinuc" parent="138" relname="joint"/>
+		<group id="127" type="multinuc" parent="128" relname="sequence"/>
+		<group id="126" type="multinuc" parent="127" relname="sequence"/>
+		<group id="125" type="span" parent="126" relname="joint"/>
+		<group id="137" type="span" parent="138" relname="joint"/>
+		<group id="133" type="span" parent="137" relname="span"/>
+		<group id="132" type="span" parent="129" relname="background"/>
+		<group id="136" type="span" parent="133" relname="elaboration"/>
+		<group id="175" type="multinuc" parent="176" relname="span"/>
+		<group id="155" type="multinuc" parent="175" relname="joint"/>
+		<group id="143" type="span" parent="155" relname="joint"/>
+		<group id="142" type="span" parent="139" relname="elaboration"/>
+		<group id="154" type="multinuc" parent="155" relname="joint"/>
+		<group id="153" type="multinuc" parent="154" relname="sequence"/>
+		<group id="152" type="multinuc" parent="153" relname="joint"/>
+		<group id="148" type="span" parent="152" relname="joint"/>
+		<group id="151" type="multinuc" parent="152" relname="joint"/>
+		<group id="174" type="multinuc" parent="175" relname="joint"/>
+		<group id="170" type="multinuc" parent="174" relname="contrast"/>
+		<group id="164" type="multinuc" parent="170" relname="contrast"/>
+		<group id="163" type="span" parent="164" relname="sequence"/>
+		<group id="162" type="span" parent="157" relname="condition"/>
+		<group id="161" type="span" parent="158" relname="elaboration"/>
+		<group id="169" type="multinuc" parent="170" relname="contrast"/>
+		<group id="168" type="span" parent="169" relname="contrast"/>
+		<group id="173" type="multinuc" parent="174" relname="contrast"/>
+		<group id="182" type="span"/>
+	</body>
+</rst>

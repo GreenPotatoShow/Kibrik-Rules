@@ -1,0 +1,68 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="76" relname="preparation">Версию о постороннем лице за штурвалом разбившегося Ту-154 опровергли\n\</segment>
+		<segment id="28" parent="30" relname="span">nВерсия о пилотировании посторонним лицом военного самолета Ту-154,</segment>
+		<segment id="29" parent="28" relname="elaboration">потерпевшего крушение в водах Черного моря близ Сочи в декабре прошлого года,</segment>
+		<segment id="31" parent="33" relname="span">не имеет никаких оснований,</segment>
+		<segment id="32" parent="31" relname="attribution">передает \"Интерфакс\" со ссылкой на источник, знакомый с ситуацией.\n\n</segment>
+		<segment id="35" parent="37" relname="span">\"Разговоры о том, что возможной причиной авиакатастрофы над Черным морем стала замена одного из членов экипажа посторонним лицом,</segment>
+		<segment id="36" parent="35" relname="cause-effect">лишены всяких оснований\",</segment>
+		<segment id="38" parent="37" relname="attribution">- заявил собеседник агентства.\n\</segment>
+		<segment id="41" parent="44" relname="attribution">nПо его словам,</segment>
+		<segment id="42" parent="43" relname="purpose">чтобы говорить о каких-либо реальных версиях причин крушения,</segment>
+		<segment id="43" parent="44" relname="span">надо дождаться окончания экспертизы.</segment>
+		<segment id="46" parent="48" relname="joint">\"Срок следствия продлен на шесть месяцев,</segment>
+		<segment id="47" parent="48" relname="joint">и к тому времени, скорее всего, станет известно о причинах трагедии\",</segment>
+		<segment id="49" parent="48" relname="attribution">отметил он.\n\nНакануне, 21 марта, \"Новая газета\",</segment>
+		<segment id="51" parent="64" relname="attribution">основываясь на мнении \"эксперта, опытного военного летчика\", высказала предположение,</segment>
+		<segment id="52" parent="64" relname="joint">что перепутать рычаги уборки шасси и закрылков член штатного экипажа не мог.\n\nСледовательно,</segment>
+		<segment id="53" parent="54" relname="attribution">по словам эксперта,</segment>
+		<segment id="54" parent="55" relname="span">командир судна Роман Волков оставался на командирском, левом кресле</segment>
+		<segment id="56" parent="62" relname="contrast">и контролировал управление,</segment>
+		<segment id="57" parent="61" relname="same-unit">но взлетал,</segment>
+		<segment id="60" parent="61" relname="same-unit">находясь на правом кресле, посторонний.\n\nПосторонний, как пишет \"Новая газета\", был военным летчиком,</segment>
+		<segment id="66" parent="68" relname="joint">занимавшим должность старшего инструктора-летчика службы летной подготовки войсковой части N 42829,</segment>
+		<segment id="67" parent="68" relname="joint">и он есть в списке погибших.\n\</segment>
+		<segment id="69" parent="71" relname="joint">nНа борту разбившегося 25 декабря при взлете из аэропорта Адлера самолета находились 92 человека: военнослужащие, артисты ансамбля имени Александрова, сотрудники трех российских телеканалов и глава фонда \"Справедливая помощь\" Елизавета Глинка.</segment>
+		<segment id="70" parent="71" relname="joint">Во время крушения никому из них выжить не удалось.\n\nИсточник: https://www.newsru.com/russia/22Mar2017/versia.html\n</segment>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="40" type="span" parent="76" relname="joint"/>
+		<group id="34" type="multinuc" parent="40" relname="span"/>
+		<group id="30" type="span" parent="34" relname="same-unit"/>
+		<group id="33" type="span" parent="34" relname="same-unit"/>
+		<group id="39" type="span" parent="34" relname="elaboration"/>
+		<group id="37" type="span" parent="39" relname="span"/>
+		<group id="75" type="span" parent="76" relname="joint"/>
+		<group id="45" type="span" parent="74" relname="preparation"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="74" type="multinuc" parent="75" relname="span"/>
+		<group id="50" type="span" parent="74" relname="joint"/>
+		<group id="48" type="multinuc" parent="50" relname="span"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="65" type="span" parent="73" relname="joint"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="55" type="span" parent="63" relname="sequence"/>
+		<group id="62" type="multinuc" parent="63" relname="sequence"/>
+		<group id="61" type="multinuc" parent="62" relname="contrast"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="68" type="multinuc" parent="72" relname="span"/>
+		<group id="71" type="multinuc" parent="68" relname="elaboration"/>
+		<group id="77" type="span"/>
+	</body>
+</rst>

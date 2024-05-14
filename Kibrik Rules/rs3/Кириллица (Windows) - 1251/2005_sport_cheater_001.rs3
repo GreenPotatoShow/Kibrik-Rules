@@ -1,0 +1,83 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="35" relname="span">Моуринью опять удалось перехитрить УЕФА?\n\nБританские журналисты строят догадки о том, руководил ли главный тренер \"Челси\" Жозе Моуринью своей командой во время первого матча 1/4 финала Лиги чемпионов по футболу против немецкой \"Баварии\",</segment>
+		<segment id="34" parent="33" relname="elaboration">который завершился победой хозяев со счетом 4:2.\n\</segment>
+		<segment id="36" parent="40" relname="span">nНапомним, что УЕФА дисквалифицировал Моуринью на два матча Лиги чемпионов</segment>
+		<segment id="37" parent="39" relname="span">после критических высказываний тренера в адрес шведского арбитра Андерса Фриска после первого матча 1/8 финала,</segment>
+		<segment id="38" parent="37" relname="elaboration">в котором \"Челси\" встречался с испанской \"Барселоной\".</segment>
+		<segment id="42" parent="49" relname="attribution">После этого португальский специалист заявил,</segment>
+		<segment id="43" parent="48" relname="cause-effect">что за игрой против \"Баварии\" он будет наблюдать не со стадиона, а из \"тихого места\".\n\nЖурналисты полагают,</segment>
+		<segment id="44" parent="46" relname="span">что Моуринью все же удалось руководить \"аристократами\" в победном матче с \"Баварией\",</segment>
+		<segment id="45" parent="44" relname="cause-effect">ибо команда работала \"как хорошо смазанная и отлаженная машина\",</segment>
+		<segment id="47" parent="46" relname="elaboration">чутко реагируя на малейшие изменения рисунка игры.</segment>
+		<segment id="51" parent="55" relname="span">Больше других подозрений вызвал тренер лондонцев по фитнесу португалец Руй Фария,</segment>
+		<segment id="52" parent="54" relname="span">который несмотря на теплую погоду</segment>
+		<segment id="53" parent="52" relname="background">пришел на матч в шапке</segment>
+		<segment id="56" parent="57" relname="sequence">и время от времени прикладывал руку к уху.\n\nРепортеры быстро сделали вывод, что в спрятанном ухе - наушник прямой связи с Жозе Моуринью,</segment>
+		<segment id="58" parent="57" relname="attribution">сообщает ВВС.</segment>
+		<segment id="62" parent="66" relname="same-unit">При этом Фария,</segment>
+		<segment id="63" parent="64" relname="attribution">по мнению журналистов,</segment>
+		<segment id="64" parent="65" relname="span">слишком много для его должности беседовал во время матча с находящимися на тренерской скамейке помощниками Моуринью Стивом Кларком и Балтемаром Брито.</segment>
+		<segment id="67" parent="75" relname="joint">Представители \"Челси\" после матча отказались комментировать эти заявления,</segment>
+		<segment id="68" parent="73" relname="attribution">подчеркнув,</segment>
+		<segment id="69" parent="73" relname="span">что тактика и стратегия игры против \"Баварии\" были продуманы до мелочей заранее.\n\nПо некоторым сведениям,</segment>
+		<segment id="70" parent="72" relname="span">сам Моуринью наблюдал за игрой,</segment>
+		<segment id="71" parent="70" relname="condition">находясь где-то в комплексе \"Челси\".</segment>
+		<segment id="77" parent="82" relname="attribution">В программке к матчу он написал,</segment>
+		<segment id="78" parent="82" relname="span">что воздержится от каких-либо комментариев,</segment>
+		<segment id="79" parent="80" relname="cause-effect">поскольку \"в этом бизнесе как только ты говоришь правду,</segment>
+		<segment id="80" parent="81" relname="span">тебя заставляют расплачиваться\".\n\</segment>
+		<segment id="84" parent="85" relname="comparison">nИнтересно, что еще будучи тренером \"Порту\" Моуринью также получил дисквалификацию от УЕФА на игру против итальянского \"Лацио\".</segment>
+		<segment id="86" parent="89" relname="attribution">После того матча Моуринью признался,</segment>
+		<segment id="87" parent="89" relname="joint">что ему удалось \"обхитрить дисквалификацию\"</segment>
+		<segment id="88" parent="89" relname="joint">и руководить своими подопечными,</segment>
+		<segment id="91" parent="92" relname="sequence">сообщает РИА \"Новости\".\n\nПо словам пресс-секретаря \"Челси\" Симона Гринберга, никаких нареканий от делегатов УЕФА после матча с \"Баварией\" получено не было.\n\nИсточник: https://www.newsru.com/sport/07Apr2005/cheater.html\n</segment>
+		<group id="61" type="multinuc" parent="95" relname="joint"/>
+		<group id="41" type="multinuc" parent="61" relname="sequence"/>
+		<group id="35" type="span" parent="41" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="39" type="span" parent="36" relname="elaboration"/>
+		<group id="60" type="multinuc" parent="61" relname="sequence"/>
+		<group id="50" type="span" parent="60" relname="joint"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="46" type="span" parent="48" relname="span"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="57" type="multinuc" parent="59" relname="span"/>
+		<group id="55" type="span" parent="57" relname="sequence"/>
+		<group id="54" type="span" parent="51" relname="background"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="76" type="span" parent="94" relname="joint"/>
+		<group id="66" type="multinuc" parent="76" relname="span"/>
+		<group id="65" type="span" parent="66" relname="same-unit"/>
+		<group id="75" type="multinuc" parent="66" relname="elaboration"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="72" type="span" parent="69" relname="elaboration"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="85" type="multinuc" parent="93" relname="joint"/>
+		<group id="83" type="span" parent="85" relname="comparison"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="81" type="span" parent="78" relname="cause-effect"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="90" type="span" parent="92" relname="sequence"/>
+		<group id="89" type="multinuc" parent="90" relname="span"/>
+		<group id="95" type="multinuc"/>
+	</body>
+</rst>

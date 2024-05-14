@@ -1,0 +1,414 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="200" parent="202" relname="joint">Парта  стояла у окна,</segment>
+		<segment id="201" parent="202" relname="joint">и никто раньше Саньки Коншакова не мог уследить,</segment>
+		<segment id="203" parent="209" relname="comparison">как к деревне подкрадывалась весна,</segment>
+		<segment id="204" parent="208" relname="comparison">как на пригорках проступали рыжие проталины,</segment>
+		<segment id="205" parent="207" relname="joint">темнел снег в поле,</segment>
+		<segment id="206" parent="207" relname="joint">вздувалась в овраге река.</segment>
+		<segment id="211" parent="215" relname="same-unit">И,</segment>
+		<segment id="212" parent="213" relname="condition">когда трогался лед,</segment>
+		<segment id="213" parent="214" relname="span">первым всему классу возвещал об этом Санька.</segment>
+		<segment id="217" parent="243" relname="sequence">\n  А еще из окна класса ему хорошо было видно дорогу, по которой два раза в неделю, к концу второго урока, проходил колхозный письмоносец Тимка Колечкин.</segment>
+		<segment id="218" parent="224" relname="sequence">\n  Тогда Санька поднимал руку</segment>
+		<segment id="219" parent="223" relname="same-unit">и,</segment>
+		<segment id="220" parent="221" relname="condition">получив разрешение выйти из класса,</segment>
+		<segment id="221" parent="222" relname="span">стремглав бежал догонять Тимку.</segment>
+		<segment id="225" parent="241" relname="span">\n  Но сегодня письмоносец запаздывал.</segment>
+		<segment id="226" parent="230" relname="joint">Прозвенел звонок,</segment>
+		<segment id="227" parent="229" relname="contrast">началась большая перемена,</segment>
+		<segment id="228" parent="229" relname="contrast">а его все не было.</segment>
+		<segment id="231" parent="235" relname="span">\n  Санька налегке,</segment>
+		<segment id="232" parent="234" relname="span">не надевая стеганки,</segment>
+		<segment id="233" parent="232" relname="condition">только нахлобучив на вихрастую голову пилотку, которую он носил всю зиму,</segment>
+		<segment id="236" parent="237" relname="cause-effect">отчего у него до сих пор шелушились помороженные уши,</segment>
+		<segment id="237" parent="238" relname="span">выбежал за угол школы.</segment>
+		<segment id="245" parent="253" relname="span">\n  Снег кругом лежал темный, ноздреватый,</segment>
+		<segment id="246" parent="252" relname="sequence">ручейки с глухим бормотанием перегрызали черную от вытаявшего навоза дорогу,</segment>
+		<segment id="247" parent="250" relname="cause-effect">проталины на пригретых солнцем пригорках казались сухими и теплыми</segment>
+		<segment id="248" parent="250" relname="joint">- так хотелось разуться</segment>
+		<segment id="249" parent="250" relname="joint">и побегать по ним босиком!</segment>
+		<segment id="254" parent="253" relname="elaboration">\n  \"Где-нибудь река вскрылась.</segment>
+		<segment id="256" parent="258" relname="restatement">Застрянет теперь наш Тимка,</segment>
+		<segment id="257" parent="258" relname="restatement">не то еще письма подмочит\",</segment>
+		<segment id="259" parent="258" relname="attribution">- озабоченно подумал Санька.</segment>
+		<segment id="262" parent="272" relname="span">\n  Задрав голову,</segment>
+		<segment id="263" parent="271" relname="joint">он долго щурился на солнце,</segment>
+		<segment id="264" parent="266" relname="joint">оглядывался по сторонам,</segment>
+		<segment id="265" parent="266" relname="joint">принюхивался,</segment>
+		<segment id="267" parent="268" relname="attribution">словно не доверял,</segment>
+		<segment id="268" parent="269" relname="span">что все это - и солнце, и потеплевший ветер, и влажный душистый воздух - подлинное, весеннее.</segment>
+		<segment id="275" parent="287" relname="sequence">\n  Из-за поворота дороги показался Тимка Колечкин, маленький, белоголовый, в старенькой шубейке, в овчинной шапке.</segment>
+		<segment id="276" parent="278" relname="joint">\n  Санька зашагал ему навстречу,</segment>
+		<segment id="277" parent="278" relname="joint">деловито пожал руку: \n  - Запаздываешь, почтарь!</segment>
+		<segment id="279" parent="278" relname="elaboration">\n  - У Калачевки мост разобрали.</segment>
+		<segment id="281" parent="283" relname="sequence">Ледохода ждут.</segment>
+		<segment id="282" parent="283" relname="sequence">Еле через реку перебрался,</segment>
+		<segment id="284" parent="283" relname="attribution">- сказал Тимка.</segment>
+		<segment id="290" parent="348" relname="sequence">\n  Санька кивнул на толстую кожаную сумку на его плече: \n  - Богато сегодня?</segment>
+		<segment id="291" parent="301" relname="span">\n  - Это еще не все...</segment>
+		<segment id="292" parent="300" relname="span">Тут и половины нет.</segment>
+		<segment id="293" parent="299" relname="joint">Знаешь, сколько писем на почту приходит... тысячи... разбирать не успевают.</segment>
+		<segment id="294" parent="298" relname="span">Так и лежат кучей.</segment>
+		<segment id="295" parent="296" relname="solutionhood">\n  - А нам опять ничего?</segment>
+		<segment id="296" parent="297" relname="span">\n</segment>
+		<segment id="302" parent="303" relname="attribution">- Я ж поясняю,</segment>
+		<segment id="303" parent="304" relname="span">- Тимка старался не смотреть на Саньку:</segment>
+		<segment id="305" parent="304" relname="cause-effect">- недодали мне почту.</segment>
+		<segment id="307" parent="306" relname="elaboration">Запаздывают с сортировкой.</segment>
+		<segment id="309" parent="311" relname="sequence">Вот завтра дополучу</segment>
+		<segment id="310" parent="311" relname="sequence">- обязательно вам будет.</segment>
+		<segment id="312" parent="311" relname="elaboration">\n</segment>
+		<segment id="314" parent="315" relname="span">- Ты и в прошлый раз так говорил</segment>
+		<segment id="316" parent="317" relname="sequence">- обязательно... и в позапрошлый!</segment>
+		<segment id="318" parent="320" relname="sequence">- Санька уныло махнул рукой</segment>
+		<segment id="319" parent="320" relname="sequence">и направился к школе.</segment>
+		<segment id="323" parent="329" relname="sequence">\n  Тимка вздохнул,</segment>
+		<segment id="324" parent="328" relname="sequence">словно был в чем виноват перед Санькой,</segment>
+		<segment id="325" parent="327" relname="sequence">порылся в сумке</segment>
+		<segment id="326" parent="327" relname="sequence">и побежал за ним: \n  - Машу Ракитину позови.</segment>
+		<segment id="330" parent="341" relname="preparation">Письмо ей!</segment>
+		<segment id="331" parent="341" relname="sequence">\n  Санька остановился,</segment>
+		<segment id="332" parent="334" relname="joint">кинул беглый взгляд на конверт</segment>
+		<segment id="333" parent="334" relname="joint">и помахал рукой худенькой большеглазой девочке с короткими пенькового цвета волосами, стоявшей с подругами на школьном крыльце.</segment>
+		<segment id="335" parent="337" relname="span">\n  Пряча по привычке руки в рукава жакетки,</segment>
+		<segment id="336" parent="335" relname="elaboration">Маша Ракитина подошла к Тимке.</segment>
+		<segment id="338" parent="337" relname="elaboration">\n  Ей письмо, да еще с почты.</segment>
+		<segment id="343" parent="342" relname="interpretation-evaluation">Небывалое дело!</segment>
+		<segment id="349" parent="355" relname="sequence">\n  Правда, в прошлом году после ссоры с подружкой Зиной Колесовой,</segment>
+		<segment id="352" parent="354" relname="sequence">жившей от нее через три дома, пришло Маше письмо с пометкой \"срочное\" и с тремя марками на конверте.</segment>
+		<segment id="353" parent="354" relname="sequence">Да и то его принес не письмоносец с толстой сумкой, а Зинкин братишка.</segment>
+		<segment id="356" parent="368" relname="sequence">Он вытолкнул тряпку, закрывавшую незастекленную часть рамы,</segment>
+		<segment id="357" parent="365" relname="sequence">бросил письмо в избу</segment>
+		<segment id="358" parent="359" relname="attribution">и закричал:</segment>
+		<segment id="359" parent="360" relname="span">\"Зинка с тобой по гроб жизни теперь не водится!</segment>
+		<segment id="361" parent="363" relname="joint">И в школу за ней не заходи</segment>
+		<segment id="362" parent="363" relname="joint">и за одну парту вместе не садись</segment>
+		<segment id="366" parent="365" relname="interpretation-evaluation">!\" \n  Но Маша и не подумала читать письмо.</segment>
+		<segment id="369" parent="393" relname="sequence">Она вымела его вместе с мусором за порог,</segment>
+		<segment id="370" parent="380" relname="sequence">а потом, когда через два дня девочки помирились,</segment>
+		<segment id="371" parent="379" relname="sequence">они отыскали письмо на помойке</segment>
+		<segment id="372" parent="378" relname="same-unit">и,</segment>
+		<segment id="373" parent="376" relname="condition">не читая,</segment>
+		<segment id="374" parent="376" relname="joint">разорвали на сто кусков</segment>
+		<segment id="375" parent="376" relname="joint">и пустили по ветру.</segment>
+		<segment id="381" parent="382" relname="sequence">\n  Но сейчас Тимка Колечкин держал в руках настоящее письмо с почты, толстое, в белом конверте, все в жирных черных штемпелях.</segment>
+		<segment id="383" parent="385" relname="sequence">\n  Маша недоверчиво взяла его</segment>
+		<segment id="384" parent="385" relname="sequence">и вдруг опрометью бросилась в класс.</segment>
+		<segment id="386" parent="387" relname="sequence">Ученики побежали следом: \n  - От кого, Маша?</segment>
+		<segment id="388" parent="390" relname="joint">\n  - Читай скорее!</segment>
+		<segment id="389" parent="390" relname="joint">\n  - На адрес посмотри, на почерк!</segment>
+		<segment id="396" parent="398" relname="joint">\n  Но девочка, сев на парту, выставила острые локотки</segment>
+		<segment id="397" parent="398" relname="joint">и грудью прикрыла письмо: \n  - Уйдите...</segment>
+		<segment id="399" parent="401" relname="joint">Никому ничего не покажу.</segment>
+		<segment id="400" parent="401" relname="joint">Сперва сама прочитаю.</segment>
+		<segment id="402" parent="408" relname="span">Все уйдите!</segment>
+		<segment id="403" parent="407" relname="contrast">\n  Ученики неохотно разошлись по своим местам.</segment>
+		<segment id="404" parent="406" relname="joint">Но головы их, как подсолнухи к солнцу, неудержимо поворачивались в сторону Маши,</segment>
+		<segment id="405" parent="406" relname="joint">а глаза с завистью следили за тем, как девочка читает письмо.</segment>
+		<segment id="411" parent="421" relname="sequence">\n  Вдруг Маша порывисто поднялась,</segment>
+		<segment id="412" parent="414" relname="joint">вскинула голову</segment>
+		<segment id="413" parent="414" relname="joint">и возбужденно закричала: \n  - Девочки, ребята!..</segment>
+		<segment id="415" parent="414" relname="elaboration">Стожаровские, торбеевские, локтевские - все, все, кто учился у Андрея Иваныча!</segment>
+		<segment id="417" parent="419" relname="span">Вы знаете... он жив!</segment>
+		<segment id="418" parent="417" relname="elaboration">Жив!</segment>
+		<segment id="422" parent="424" relname="span">- Девочка взмахнула письмом, как сигнальным флагом.</segment>
+		<segment id="423" parent="422" relname="attribution">- Письмо нам шлет...</segment>
+		<segment id="425" parent="424" relname="elaboration">Про всех спрашивает!</segment>
+		<segment id="427" parent="429" relname="span">\n  Ученики вновь окружили Машину парту: \n  - Это правда?</segment>
+		<segment id="428" parent="427" relname="elaboration">\n  - Где он теперь?</segment>
+		<segment id="430" parent="431" relname="span">\n  - Почему молчал так долго?</segment>
+		<segment id="434" parent="444" relname="joint">\n  - Да читай же, не мучай!</segment>
+		<segment id="435" parent="437" relname="contrast">\n  - Нет, нет,</segment>
+		<segment id="436" parent="437" relname="contrast">только не Маша,</segment>
+		<segment id="438" parent="442" relname="same-unit">- возразил пухлощекий, с выпуклыми рачьими глазами Петька Девяткин,</segment>
+		<segment id="439" parent="441" relname="joint">вспомнив, как девочка всегда торопится</segment>
+		<segment id="440" parent="441" relname="joint">и перевирает слова.</segment>
+		<segment id="445" parent="444" relname="attribution">- Пусть Коншак читает.</segment>
+		<segment id="448" parent="449" relname="span">\n  Дрогнувшей рукой Санька взял у Маши письмо.</segment>
+		<segment id="451" parent="507" relname="joint">\n  В классе стало очень тихо.</segment>
+		<segment id="452" parent="505" relname="preparation">\n  Учитель, Андрей Иваныч Ракитин, родной брат Машиной матери, обращался через племянницу ко всем своим бывшим ученикам.</segment>
+		<segment id="453" parent="458" relname="attribution">Он сообщал,</segment>
+		<segment id="454" parent="458" relname="joint">что лежит после ранения в госпитале,</segment>
+		<segment id="455" parent="457" relname="joint">чувствует себя совсем хорошо</segment>
+		<segment id="456" parent="457" relname="joint">и хочется ему о многом побеседовать с ребятами.</segment>
+		<segment id="460" parent="464" relname="span">Молчал он так долго</segment>
+		<segment id="461" parent="463" relname="joint">потому, что находился в таких местах,</segment>
+		<segment id="462" parent="463" relname="joint">где не было ни полевых почт, ни письмоносцев.</segment>
+		<segment id="465" parent="471" relname="span">\n  Что это за места, столь далекие, учитель, конечно,</segment>
+		<segment id="466" parent="470" relname="contrast">- расскажет ребятам,</segment>
+		<segment id="467" parent="469" relname="span">но не сейчас, а немного позже,</segment>
+		<segment id="468" parent="467" relname="condition">как только вернется в родные Стожары.</segment>
+		<segment id="473" parent="474" relname="contrast">А встреча не за горами...</segment>
+		<segment id="476" parent="486" relname="span">\n  - \"А чем вы, дорогие мои друзья, встретите своих. отцов и братьев,</segment>
+		<segment id="477" parent="484" relname="condition">когда они отвоюются</segment>
+		<segment id="478" parent="483" relname="solutionhood">и вернутся домой?</segment>
+		<segment id="479" parent="482" relname="attribution">- читал Санька слова учителя.</segment>
+		<segment id="480" parent="482" relname="joint">- Как вы живете,</segment>
+		<segment id="481" parent="482" relname="joint">учитесь в школе?</segment>
+		<segment id="487" parent="491" relname="joint">Довольны ли матери вашими успехами?</segment>
+		<segment id="488" parent="490" relname="joint">Шумит ли наш зеленый сад над рекой, в котором до войны мы так любили работать?</segment>
+		<segment id="489" parent="490" relname="joint">Колосятся ли в поле хлеба, которыми так славился колхоз имени Пушкина?</segment>
+		<segment id="492" parent="500" relname="span">Подробно напишите мне обо всем, расскажите про колхоз, про школу.</segment>
+		<segment id="493" parent="495" relname="span">Не удивляйтесь, друзья мои,</segment>
+		<segment id="494" parent="493" relname="condition">когда найдете в этом письме немного семян\".</segment>
+		<segment id="496" parent="497" relname="solutionhood">\n  - Каких семян?</segment>
+		<segment id="497" parent="498" relname="span">Где?</segment>
+		<segment id="503" parent="502" relname="attribution">- закричал Семушкин.</segment>
+		<segment id="508" parent="510" relname="span">\n  Маша достала из конверта небольшой бумажный пакетик,</segment>
+		<segment id="509" parent="508" relname="elaboration">на котором было написано: \n \n  Цензуру прошу не задерживать.</segment>
+		<segment id="511" parent="513" relname="joint">\n  Посевной материал.</segment>
+		<segment id="512" parent="513" relname="joint">\n \n  Маша высыпала на ладонь мелкие коричневые зернышки.</segment>
+		<segment id="515" parent="525" relname="joint">\n  Головы школьников склонились над ее ладонью.</segment>
+		<segment id="516" parent="523" relname="solutionhood">\n  - Это мак, да?</segment>
+		<segment id="517" parent="523" relname="span">- спросила Зина Колесова.</segment>
+		<segment id="520" parent="522" relname="span">\n  - Не похоже,</segment>
+		<segment id="521" parent="520" relname="attribution">- ответила Маша.</segment>
+		<segment id="527" parent="551" relname="span">\n  - \"Я нашел эти семена,</segment>
+		<segment id="528" parent="550" relname="span">- продолжал читать Санька, - в пустом поле, около окопа.</segment>
+		<segment id="529" parent="549" relname="joint">Кругом все заросло бурьяном и чертополохом,</segment>
+		<segment id="530" parent="532" relname="joint">а сквозь них пробивалось несколько созревших головок клевера,</segment>
+		<segment id="531" parent="532" relname="joint">и таких на редкость крупных,</segment>
+		<segment id="533" parent="547" relname="span">что я залюбовался.</segment>
+		<segment id="534" parent="546" relname="joint">Богатые, должно быть, травы выращивали люди на этом поле.</segment>
+		<segment id="535" parent="539" relname="sequence">Я отобрал лучшие зерна,</segment>
+		<segment id="536" parent="538" relname="sequence">сохранил их</segment>
+		<segment id="537" parent="538" relname="sequence">и теперь посылаю вам.</segment>
+		<segment id="540" parent="544" relname="joint">Приютите это доброе семя,</segment>
+		<segment id="541" parent="543" relname="joint">вырастите его,</segment>
+		<segment id="542" parent="543" relname="joint">и оно щедро отблагодарит вас за труды.</segment>
+		<segment id="552" parent="554" relname="span">\n  \"Что можно сделать,</segment>
+		<segment id="553" parent="552" relname="condition">если зерен так мало?\"</segment>
+		<segment id="555" parent="556" relname="span">- спросите вы.</segment>
+		<segment id="558" parent="559" relname="contrast">Но вспомните бригадира нашего колхоза Егора Платоновича Коншакова.</segment>
+		<segment id="561" parent="579" relname="span">До войны он вывел замечательный сорт пшеницы всего лишь из трех колосков.</segment>
+		<segment id="562" parent="564" relname="span">Да, да, из трех колосков, в которых было ровным счетом двести восемь зерен.</segment>
+		<segment id="563" parent="562" relname="elaboration">\n  Расспросите об этом поподробнее Катерину Васильевну Коншакову и опытника Захара Митрича Векшина.</segment>
+		<segment id="567" parent="571" relname="span">Берегите, друзья мои, этот редкий сорт, выращенный Егором Платоновичем, не дайте ему потеряться.</segment>
+		<segment id="568" parent="570" relname="comparison">Сейчас солдатам дорог каждый колосок,</segment>
+		<segment id="569" parent="570" relname="comparison">каждая былинка в поле.</segment>
+		<segment id="572" parent="576" relname="joint">Придут они домой,</segment>
+		<segment id="573" parent="575" relname="joint">порадуются вместе с вами на золотые нивы</segment>
+		<segment id="574" parent="575" relname="joint">и скажут великое спасибо за ваше усердие и заботу.</segment>
+		<segment id="580" parent="581" relname="comparison">\n  Ваш учитель Андрей Иванович\".</segment>
+		<segment id="582" parent="588" relname="span">\n  Школьники вновь склонились над Машиной ладонью.</segment>
+		<segment id="583" parent="587" relname="contrast">Сколько раз видели они семена трав и злаков в поле и на току, в ящике сеялки и под барабаном молотилки, в мешках и закромах амбаров,</segment>
+		<segment id="584" parent="585" relname="cause-effect">но никогда маленькие, темные, тугие, как скрученные пружинки,</segment>
+		<segment id="585" parent="586" relname="span">зернышки не вызывали такого интереса, как сейчас.\n</segment>
+		<group id="244" type="multinuc" parent="596" relname="sequence"/>
+		<group id="216" type="span" parent="244" relname="sequence"/>
+		<group id="210" type="multinuc" parent="215" relname="cause-effect"/>
+		<group id="202" type="multinuc" parent="210" relname="comparison"/>
+		<group id="209" type="multinuc" parent="210" relname="comparison"/>
+		<group id="208" type="multinuc" parent="209" relname="comparison"/>
+		<group id="207" type="multinuc" parent="208" relname="comparison"/>
+		<group id="215" type="multinuc" parent="216" relname="span"/>
+		<group id="214" type="span" parent="215" relname="same-unit"/>
+		<group id="243" type="multinuc" parent="244" relname="sequence"/>
+		<group id="242" type="multinuc" parent="243" relname="sequence"/>
+		<group id="224" type="multinuc" parent="242" relname="sequence"/>
+		<group id="223" type="multinuc" parent="224" relname="sequence"/>
+		<group id="222" type="span" parent="223" relname="same-unit"/>
+		<group id="241" type="span" parent="242" relname="sequence"/>
+		<group id="240" type="span" parent="225" relname="elaboration"/>
+		<group id="230" type="multinuc" parent="240" relname="span"/>
+		<group id="229" type="multinuc" parent="230" relname="joint"/>
+		<group id="239" type="span" parent="230" relname="elaboration"/>
+		<group id="235" type="span" parent="238" relname="cause-effect"/>
+		<group id="234" type="span" parent="231" relname="elaboration"/>
+		<group id="238" type="span" parent="239" relname="span"/>
+		<group id="595" type="multinuc" parent="596" relname="sequence"/>
+		<group id="289" type="multinuc" parent="595" relname="sequence"/>
+		<group id="261" type="span" parent="289" relname="joint"/>
+		<group id="255" type="span" parent="261" relname="span"/>
+		<group id="253" type="span" parent="255" relname="span"/>
+		<group id="252" type="multinuc" parent="245" relname="elaboration"/>
+		<group id="251" type="span" parent="252" relname="sequence"/>
+		<group id="250" type="multinuc" parent="251" relname="span"/>
+		<group id="260" type="span" parent="255" relname="interpretation-evaluation"/>
+		<group id="258" type="multinuc" parent="260" relname="span"/>
+		<group id="288" type="multinuc" parent="289" relname="joint"/>
+		<group id="272" type="span" parent="288" relname="joint"/>
+		<group id="271" type="multinuc" parent="262" relname="elaboration"/>
+		<group id="270" type="span" parent="271" relname="joint"/>
+		<group id="266" type="multinuc" parent="270" relname="span"/>
+		<group id="269" type="span" parent="266" relname="elaboration"/>
+		<group id="287" type="multinuc" parent="288" relname="joint"/>
+		<group id="286" type="multinuc" parent="287" relname="sequence"/>
+		<group id="280" type="span" parent="286" relname="sequence"/>
+		<group id="278" type="multinuc" parent="280" relname="span"/>
+		<group id="285" type="span" parent="286" relname="sequence"/>
+		<group id="283" type="multinuc" parent="285" relname="span"/>
+		<group id="594" type="multinuc" parent="595" relname="sequence"/>
+		<group id="348" type="multinuc" parent="594" relname="joint"/>
+		<group id="347" type="multinuc" parent="348" relname="sequence"/>
+		<group id="301" type="span" parent="347" relname="sequence"/>
+		<group id="300" type="span" parent="291" relname="elaboration"/>
+		<group id="299" type="multinuc" parent="292" relname="elaboration"/>
+		<group id="298" type="span" parent="299" relname="joint"/>
+		<group id="297" type="span" parent="294" relname="interpretation-evaluation"/>
+		<group id="346" type="multinuc" parent="347" relname="sequence"/>
+		<group id="322" type="multinuc" parent="346" relname="sequence"/>
+		<group id="308" type="span" parent="322" relname="sequence"/>
+		<group id="306" type="span" parent="308" relname="span"/>
+		<group id="304" type="span" parent="306" relname="span"/>
+		<group id="321" type="multinuc" parent="322" relname="sequence"/>
+		<group id="317" type="multinuc" parent="321" relname="sequence"/>
+		<group id="315" type="span" parent="317" relname="sequence"/>
+		<group id="313" type="span" parent="314" relname="preparation"/>
+		<group id="311" type="multinuc" parent="313" relname="span"/>
+		<group id="320" type="multinuc" parent="321" relname="sequence"/>
+		<group id="345" type="multinuc" parent="346" relname="sequence"/>
+		<group id="329" type="multinuc" parent="345" relname="sequence"/>
+		<group id="328" type="multinuc" parent="329" relname="sequence"/>
+		<group id="327" type="multinuc" parent="328" relname="sequence"/>
+		<group id="344" type="span" parent="345" relname="sequence"/>
+		<group id="342" type="span" parent="344" relname="span"/>
+		<group id="341" type="multinuc" parent="342" relname="span"/>
+		<group id="340" type="multinuc" parent="341" relname="sequence"/>
+		<group id="334" type="multinuc" parent="340" relname="sequence"/>
+		<group id="339" type="span" parent="340" relname="sequence"/>
+		<group id="337" type="span" parent="339" relname="span"/>
+		<group id="593" type="multinuc" parent="594" relname="joint"/>
+		<group id="395" type="multinuc" parent="593" relname="joint"/>
+		<group id="355" type="multinuc" parent="395" relname="sequence"/>
+		<group id="354" type="multinuc" parent="355" relname="sequence"/>
+		<group id="394" type="multinuc" parent="395" relname="sequence"/>
+		<group id="368" type="multinuc" parent="394" relname="sequence"/>
+		<group id="367" type="span" parent="368" relname="sequence"/>
+		<group id="365" type="multinuc" parent="367" relname="span"/>
+		<group id="364" type="multinuc" parent="365" relname="sequence"/>
+		<group id="360" type="span" parent="364" relname="joint"/>
+		<group id="363" type="multinuc" parent="364" relname="joint"/>
+		<group id="393" type="multinuc" parent="394" relname="sequence"/>
+		<group id="392" type="multinuc" parent="393" relname="sequence"/>
+		<group id="382" type="multinuc" parent="392" relname="sequence"/>
+		<group id="380" type="multinuc" parent="382" relname="sequence"/>
+		<group id="379" type="multinuc" parent="380" relname="sequence"/>
+		<group id="378" type="multinuc" parent="379" relname="sequence"/>
+		<group id="377" type="span" parent="378" relname="same-unit"/>
+		<group id="376" type="multinuc" parent="377" relname="span"/>
+		<group id="391" type="span" parent="392" relname="sequence"/>
+		<group id="387" type="multinuc" parent="390" relname="solutionhood"/>
+		<group id="385" type="multinuc" parent="387" relname="sequence"/>
+		<group id="390" type="multinuc" parent="391" relname="span"/>
+		<group id="592" type="multinuc" parent="593" relname="joint"/>
+		<group id="450" type="multinuc" parent="592" relname="joint"/>
+		<group id="410" type="multinuc" parent="450" relname="sequence"/>
+		<group id="398" type="multinuc" parent="410" relname="sequence"/>
+		<group id="409" type="multinuc" parent="410" relname="sequence"/>
+		<group id="401" type="multinuc" parent="409" relname="sequence"/>
+		<group id="408" type="span" parent="409" relname="sequence"/>
+		<group id="407" type="multinuc" parent="402" relname="elaboration"/>
+		<group id="406" type="multinuc" parent="407" relname="contrast"/>
+		<group id="449" type="span" parent="450" relname="sequence"/>
+		<group id="447" type="span" parent="448" relname="solutionhood"/>
+		<group id="433" type="multinuc" parent="446" relname="solutionhood"/>
+		<group id="421" type="multinuc" parent="433" relname="sequence"/>
+		<group id="420" type="span" parent="421" relname="sequence"/>
+		<group id="416" type="span" parent="420" relname="span"/>
+		<group id="414" type="multinuc" parent="416" relname="span"/>
+		<group id="419" type="span" parent="416" relname="interpretation-evaluation"/>
+		<group id="432" type="multinuc" parent="433" relname="sequence"/>
+		<group id="426" type="span" parent="432" relname="sequence"/>
+		<group id="424" type="span" parent="426" relname="span"/>
+		<group id="431" type="span" parent="432" relname="sequence"/>
+		<group id="429" type="span" parent="430" relname="solutionhood"/>
+		<group id="446" type="span" parent="447" relname="span"/>
+		<group id="444" type="multinuc" parent="446" relname="span"/>
+		<group id="443" type="span" parent="444" relname="joint"/>
+		<group id="437" type="multinuc" parent="443" relname="span"/>
+		<group id="442" type="multinuc" parent="437" relname="elaboration"/>
+		<group id="441" type="multinuc" parent="442" relname="same-unit"/>
+		<group id="591" type="multinuc" parent="592" relname="joint"/>
+		<group id="507" type="multinuc" parent="591" relname="joint"/>
+		<group id="506" type="span" parent="507" relname="joint"/>
+		<group id="505" type="multinuc" parent="506" relname="span"/>
+		<group id="475" type="span" parent="505" relname="joint"/>
+		<group id="459" type="span" parent="475" relname="span"/>
+		<group id="458" type="multinuc" parent="459" relname="span"/>
+		<group id="457" type="multinuc" parent="458" relname="joint"/>
+		<group id="474" type="multinuc" parent="459" relname="elaboration"/>
+		<group id="472" type="span" parent="474" relname="contrast"/>
+		<group id="464" type="span" parent="472" relname="span"/>
+		<group id="463" type="multinuc" parent="460" relname="cause-effect"/>
+		<group id="471" type="span" parent="464" relname="elaboration"/>
+		<group id="470" type="multinuc" parent="465" relname="elaboration"/>
+		<group id="469" type="span" parent="470" relname="contrast"/>
+		<group id="504" type="span" parent="505" relname="joint"/>
+		<group id="502" type="multinuc" parent="504" relname="span"/>
+		<group id="486" type="span" parent="502" relname="joint"/>
+		<group id="485" type="span" parent="476" relname="elaboration"/>
+		<group id="484" type="span" parent="485" relname="span"/>
+		<group id="483" type="span" parent="484" relname="span"/>
+		<group id="482" type="multinuc" parent="483" relname="span"/>
+		<group id="501" type="span" parent="502" relname="joint"/>
+		<group id="491" type="multinuc" parent="500" relname="solutionhood"/>
+		<group id="490" type="multinuc" parent="491" relname="joint"/>
+		<group id="500" type="span" parent="501" relname="span"/>
+		<group id="499" type="span" parent="492" relname="elaboration"/>
+		<group id="495" type="span" parent="499" relname="span"/>
+		<group id="498" type="span" parent="495" relname="elaboration"/>
+		<group id="590" type="multinuc" parent="591" relname="joint"/>
+		<group id="560" type="multinuc" parent="590" relname="joint"/>
+		<group id="526" type="multinuc" parent="560" relname="joint"/>
+		<group id="514" type="multinuc" parent="526" relname="comparison"/>
+		<group id="510" type="span" parent="514" relname="joint"/>
+		<group id="513" type="multinuc" parent="514" relname="joint"/>
+		<group id="525" type="multinuc" parent="526" relname="comparison"/>
+		<group id="524" type="span" parent="525" relname="joint"/>
+		<group id="523" type="span" parent="524" relname="span"/>
+		<group id="522" type="span" parent="517" relname="elaboration"/>
+		<group id="559" type="multinuc" parent="560" relname="joint"/>
+		<group id="557" type="span" parent="559" relname="contrast"/>
+		<group id="551" type="span" parent="557" relname="span"/>
+		<group id="550" type="span" parent="527" relname="elaboration"/>
+		<group id="549" type="multinuc" parent="528" relname="elaboration"/>
+		<group id="548" type="span" parent="549" relname="joint"/>
+		<group id="532" type="multinuc" parent="547" relname="cause-effect"/>
+		<group id="547" type="span" parent="548" relname="span"/>
+		<group id="546" type="multinuc" parent="533" relname="elaboration"/>
+		<group id="545" type="span" parent="546" relname="joint"/>
+		<group id="539" type="multinuc" parent="545" relname="span"/>
+		<group id="538" type="multinuc" parent="539" relname="sequence"/>
+		<group id="544" type="multinuc" parent="539" relname="interpretation-evaluation"/>
+		<group id="543" type="multinuc" parent="544" relname="joint"/>
+		<group id="556" type="span" parent="551" relname="interpretation-evaluation"/>
+		<group id="554" type="span" parent="555" relname="condition"/>
+		<group id="589" type="multinuc" parent="590" relname="joint"/>
+		<group id="581" type="multinuc" parent="589" relname="comparison"/>
+		<group id="579" type="span" parent="581" relname="comparison"/>
+		<group id="578" type="span" parent="561" relname="elaboration"/>
+		<group id="564" type="span" parent="578" relname="span"/>
+		<group id="577" type="multinuc" parent="564" relname="elaboration"/>
+		<group id="571" type="span" parent="577" relname="joint"/>
+		<group id="570" type="multinuc" parent="567" relname="elaboration"/>
+		<group id="576" type="multinuc" parent="577" relname="joint"/>
+		<group id="575" type="multinuc" parent="576" relname="joint"/>
+		<group id="588" type="span" parent="589" relname="comparison"/>
+		<group id="587" type="multinuc" parent="582" relname="elaboration"/>
+		<group id="586" type="span" parent="587" relname="contrast"/>
+		<group id="596" type="multinuc"/>
+	</body>
+</rst>

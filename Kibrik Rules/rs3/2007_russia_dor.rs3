@@ -1,0 +1,31 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="11" parent="15" relname="span">Владимир Путин подписал закон о дорогах и дорожной деятельности\n\nПрезидент РФ Владимир Путин подписал федеральный закон \"Об автомобильных дорогах и дорожной деятельности в Российской Федерации и о внесении изменений в отдельные законодательные акты РФ\",</segment>
+		<segment id="12" parent="14" relname="joint">принятый Госдумой 18 октября</segment>
+		<segment id="13" parent="14" relname="joint">и одобренный Советом Федерации 26 октября.</segment>
+		<segment id="16" parent="18" relname="joint">Об этом сообщила пресс-служба Кремля.\n\nЗаконом определяется понятие \"автомобильная дорога\", ее структура, устанавливаются единые требования к автомобильным дорогам и порядок их идентификации,</segment>
+		<segment id="17" parent="18" relname="joint">вводится классификация автомобильных дорог в зависимости от их значения, вида разрешенного использования, условий движения по ним и доступа на них транспортных средств, а также от формы собственности.\n\</segment>
+		<segment id="20" parent="24" relname="joint">nВ законе урегулированы вопросы осуществления дорожной деятельности, в том числе вопросы проектирования, строительства, реконструкции, капитального ремонта, ремонта и содержания автомобильных дорог,</segment>
+		<segment id="21" parent="23" relname="joint">а также установлены особенности использования земельных участков, предназначенных для размещения автомобильных дорог.\n\nЗаконом регламентируются порядок и условия принятия решений об использовании автомобильной дороги на платной основе,</segment>
+		<segment id="22" parent="23" relname="joint">а также устанавливаются основания прекращения и приостановления такого использования.\n\</segment>
+		<segment id="25" parent="26" relname="joint">nПомимо этого, закон определяет порядок организации движения по автомобильным дорогам страны транспортных средств, осуществляющих перевозки опасных, тяжеловесных и (или) крупногабаритных грузов.\n\nЗаконом определяются особенности осуществления дорожной деятельности в городах федерального значения Москве и Санкт-Петербурге,</segment>
+		<segment id="27" parent="26" relname="attribution">сообщает ИТАР-ТАСС.\n\nИсточник: https://www.newsru.com/russia/11Nov2007/dor.html\n</segment>
+		<group id="19" type="multinuc" parent="29" relname="joint"/>
+		<group id="15" type="span" parent="19" relname="joint"/>
+		<group id="14" type="multinuc" parent="11" relname="elaboration"/>
+		<group id="18" type="multinuc" parent="19" relname="joint"/>
+		<group id="28" type="span" parent="29" relname="joint"/>
+		<group id="26" type="multinuc" parent="28" relname="span"/>
+		<group id="24" type="multinuc" parent="26" relname="joint"/>
+		<group id="23" type="multinuc" parent="24" relname="joint"/>
+		<group id="29" type="multinuc"/>
+	</body>
+</rst>

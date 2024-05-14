@@ -1,0 +1,85 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="36" parent="103" relname="preparation">Мердок прибывает в Лондон спасать свою империю после скандала с прослушкой\n\</segment>
+		<segment id="37" parent="41" relname="span">nВ экстренном порядке глава второй по размеру медиа группы мира News Corporation Руперт Мэрдок прибывает сегодня из США в Лондон</segment>
+		<segment id="38" parent="40" relname="span">в попытке найти выход из нынешнего тяжелейшего кризиса,</segment>
+		<segment id="39" parent="38" relname="background">в котором оказалась его британская часть бизнеса</segment>
+		<segment id="42" parent="43" relname="same-unit">.\n\</segment>
+		<segment id="44" parent="46" relname="span">nКак объявил в минувшую пятницу премьер-министр Великобритании Дэвид Кэмерон,</segment>
+		<segment id="45" parent="44" relname="elaboration">против сотрудников принадлежащего Мэрдоку британского еженедельника News of the World</segment>
+		<segment id="47" parent="49" relname="span">начинаются два расследования:</segment>
+		<segment id="48" parent="47" relname="purpose">на предмет прослушивания телефонных линий и коррупционного подкупа полиции с целью получения конфиденциальной информации.\n\</segment>
+		<segment id="52" parent="54" relname="joint">nВ пятницу был арестован бывший главный редактор News of the World и бывший главный советник нынешнего премьер-министра по СМИ Энди Коулсон,</segment>
+		<segment id="53" parent="54" relname="joint">а также еще два бывших сотрудника еженедельника.</segment>
+		<segment id="55" parent="58" relname="condition">В случае,</segment>
+		<segment id="56" parent="57" relname="condition">если они будут признаны виновными,</segment>
+		<segment id="57" parent="58" relname="span">им грозят 7 лет тюремного заключения.\n\</segment>
+		<segment id="63" parent="67" relname="span">nМежду тем, выступая в пятницу перед сотрудниками редакции News of the World,</segment>
+		<segment id="64" parent="65" relname="attribution">исполнительный директор News Corporation и ближайшая соратница Руперта Мэрдока - Ребека Брукс заявила,</segment>
+		<segment id="65" parent="66" relname="span">что \"в ближайшее время достоянием станут более неприятные вещи\", которые творились в редакции еженедельника.</segment>
+		<segment id="68" parent="69" relname="condition">\"Через год вы все поймете,</segment>
+		<segment id="69" parent="70" relname="span">почему мы приняли решение закрыть News of the World,</segment>
+		<segment id="71" parent="70" relname="attribution">- заметила она.\n\</segment>
+		<segment id="74" parent="77" relname="attribution">nСогласно имеющейся информации,</segment>
+		<segment id="75" parent="77" relname="span">под ударом оказался и бизнес Руперта Мэрдока в США,</segment>
+		<segment id="76" parent="75" relname="elaboration">где ему, в частности, принадлежат газета WSJ и влиятельный телеканал Fox News.</segment>
+		<segment id="79" parent="82" relname="attribution">Им грозит проверка,</segment>
+		<segment id="82" parent="83" relname="span">аналогичная той, что в ближайшее время подвергнется в Великобритании со стороны властей еженедельник News of the World.\n\nКак отмечают в Лондоне, под вопрос сейчас поставлен весь стиль управления медиагруппы Мэрдока.</segment>
+		<segment id="85" parent="87" relname="contrast">\"Пока еще рано говорить о крахе империи Мэрдока,</segment>
+		<segment id="86" parent="87" relname="contrast">однако создавшаяся в результате нынешнего скандала ситуация способна привести к кардинальным изменениям на мировом рынке СМИ\",</segment>
+		<segment id="88" parent="90" relname="span">- сообщил ИТАР-ТАСС сотрудник одного из крупнейших банков лондонского Сити,</segment>
+		<segment id="89" parent="88" relname="elaboration">который является активным инвестором в секторе масс-медиа.\n\nСтало также известно, что ряд крупнейших акционеров News Corporation готовы сейчас поставить вопрос о необходимости значительных изменений в управлении компании и прихода в ее руководство новых людей</segment>
+		<segment id="92" parent="91" relname="background">.\n\nВ этой связи в Лондоне называют имя Чейза Кэри как приемника Руперта Мэрдока.</segment>
+		<segment id="94" parent="95" relname="attribution">До сегодняшнего дня Руперт Мэрдок давал понять,</segment>
+		<segment id="95" parent="96" relname="span">что намерен оставить пост руководителя компании своему сыну - Джеймсу Мэрдоку.</segment>
+		<segment id="97" parent="98" relname="contrast">Однако нынешний скандал вокруг News of the World способен безвозвратно подорвать его позиции.\n\nИсточник: https://www.newsru.com/world/09Jul2011/smi4.html\n</segment>
+		<group id="103" type="multinuc" parent="104" relname="span"/>
+		<group id="51" type="multinuc" parent="103" relname="joint"/>
+		<group id="43" type="multinuc" parent="51" relname="joint"/>
+		<group id="41" type="span" parent="43" relname="same-unit"/>
+		<group id="40" type="span" parent="37" relname="elaboration"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="46" type="span" parent="49" relname="attribution"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="60" type="span" parent="102" relname="joint"/>
+		<group id="54" type="multinuc" parent="60" relname="span"/>
+		<group id="59" type="span" parent="54" relname="elaboration"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="101" type="multinuc" parent="102" relname="joint"/>
+		<group id="73" type="span" parent="101" relname="joint"/>
+		<group id="67" type="span" parent="73" relname="span"/>
+		<group id="66" type="span" parent="63" relname="elaboration"/>
+		<group id="72" type="span" parent="67" relname="interpretation-evaluation"/>
+		<group id="70" type="span" parent="72" relname="span"/>
+		<group id="100" type="multinuc" parent="101" relname="joint"/>
+		<group id="84" type="multinuc" parent="100" relname="joint"/>
+		<group id="78" type="span" parent="84" relname="joint"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="99" type="multinuc" parent="100" relname="joint"/>
+		<group id="93" type="span" parent="99" relname="joint"/>
+		<group id="91" type="span" parent="93" relname="span"/>
+		<group id="87" type="multinuc" parent="91" relname="span"/>
+		<group id="90" type="span" parent="87" relname="attribution"/>
+		<group id="98" type="multinuc" parent="99" relname="joint"/>
+		<group id="96" type="span" parent="98" relname="contrast"/>
+		<group id="104" type="span"/>
+	</body>
+</rst>

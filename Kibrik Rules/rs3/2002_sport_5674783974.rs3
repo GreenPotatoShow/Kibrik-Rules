@@ -1,0 +1,41 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="20" relname="span">Среди кандидатов на проведение чемпионата Европы-2008 по футболу фаворитов нет\n\</segment>
+		<segment id="19" parent="16" relname="elaboration">nНаибольший интерес на открывшемся сегодня в столице Дании заседания исполнительного комитета Союза европейских футбольных ассоциаций (УЕФА) вызывает обсуждение вопросов, связанных с процедурой выбора страны, в которой состоится чемпионат Европы 2008-го года,</segment>
+		<segment id="21" parent="20" relname="attribution">сообщает ИТАР-ТАСС.\n\nОдин из претендентов - Россия.</segment>
+		<segment id="23" parent="27" relname="span">Конкуренция перед окончательным решением, которое исполком УЕФА примет 13 декабря,</segment>
+		<segment id="24" parent="26" relname="span">очень серьезная,</segment>
+		<segment id="25" parent="24" relname="cause-effect">поскольку на проведение Евро-2008 также совместно претендует блок скандинавских стран - Дания, Норвегия и Швеция.\n\nОтвечая на вопрос о предпочтениях,</segment>
+		<segment id="28" parent="29" relname="attribution">президент УЕФА Леннарт Юханссон заявил:</segment>
+		<segment id="29" parent="30" relname="span">\"Как президент я должен быть абсолютно нейтральным.</segment>
+		<segment id="32" parent="36" relname="span">Однако понятным является твердое требование</segment>
+		<segment id="33" parent="35" relname="joint">- необходимо представить твердые гарантии успешного проведения</segment>
+		<segment id="34" parent="35" relname="joint">и доказать профессионализм в организации турнира.</segment>
+		<segment id="37" parent="41" relname="contrast">Здесь шансы северных стран велики.</segment>
+		<segment id="40" parent="41" relname="contrast">Однако я хотел бы сказать то же самое, если вы спросите и об остальных претендентах\".\n\nОдной из тем заседания является также разработка программ финансирования действий против расизма.\n\nИсточник: https://www.newsru.com/sport/07Nov2002/5674783974.html\n</segment>
+		<group id="22" type="span" parent="43" relname="preparation"/>
+		<group id="20" type="span" parent="22" relname="span"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="31" type="span" parent="43" relname="contrast"/>
+		<group id="27" type="span" parent="31" relname="span"/>
+		<group id="26" type="span" parent="23" relname="elaboration"/>
+		<group id="30" type="span" parent="27" relname="attribution"/>
+		<group id="42" type="span" parent="43" relname="contrast"/>
+		<group id="36" type="span" parent="42" relname="span"/>
+		<group id="35" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="41" type="multinuc" parent="36" relname="elaboration"/>
+		<group id="44" type="span"/>
+	</body>
+</rst>

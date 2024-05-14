@@ -1,0 +1,66 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="27" relname="span">В Якутии 9 апреля объявлено днем траура\n\nВ Якутии 9 апреля объявлен днем траура</segment>
+		<segment id="26" parent="25" relname="cause-effect">в связи с гибелью 22 учеников во время пожара в школе села Сыдыбыл.</segment>
+		<segment id="28" parent="32" relname="joint">Соответствующий указ подписал во вторник президент республики Вячеслав Штыров.\n\nНа всей территории республики на зданиях органов государственной власти и местного самоуправления в среду будут приспущены государственные флаги России и Якутии,</segment>
+		<segment id="29" parent="31" relname="joint">телевидение и учреждения культуры отменят все развлекательные передачи и мероприятия.\n\nВ Сыдыбыле состоялась встреча правительственной комиссии с родителями погибших, на которой принято совместное решение</segment>
+		<segment id="30" parent="31" relname="joint">- похоронить детей в одной могиле после того, как найдут все останки.\n\nНа месте погребения будет возведен мемориальный комплекс.</segment>
+		<segment id="33" parent="32" relname="attribution">Об этом сообщил председатель правительства Якутии Егор Борисов.\n\</segment>
+		<segment id="36" parent="37" relname="attribution">nПо его словам,</segment>
+		<segment id="37" parent="38" relname="span">на сегодняшний день обнаружены останки 15 из 22 погибших.</segment>
+		<segment id="39" parent="41" relname="joint">Поиски остальных тел продолжаются,</segment>
+		<segment id="40" parent="41" relname="joint">эксперты проводят идентификацию жертв пожара,</segment>
+		<segment id="42" parent="41" relname="attribution">передает ИТАР-ТАСС.\n\</segment>
+		<segment id="44" parent="47" relname="attribution">nНапомним,</segment>
+		<segment id="45" parent="46" relname="cause-effect">в результате пожара в школе поселка Сыдыбыл в Якутии погибли 22 ребенка,</segment>
+		<segment id="46" parent="47" relname="span">различные ранения получили 39 человек.</segment>
+		<segment id="51" parent="58" relname="attribution">По предварительным данным,</segment>
+		<segment id="52" parent="57" relname="cause-effect">причиной пожара стало возгорание электрического щита.\n\nУчительница якутского языка Саргылана Капустина рассказала,</segment>
+		<segment id="53" parent="57" relname="joint">что пожар начался в школьной раздевалке,</segment>
+		<segment id="54" parent="56" relname="span">огонь быстро распространился по первому этажу,</segment>
+		<segment id="55" parent="54" relname="condition">отрезав путь к выходу.</segment>
+		<segment id="60" parent="62" relname="contrast">Выпускники помогали учителям спасать младших школьников,</segment>
+		<segment id="61" parent="62" relname="contrast">а сами не сумели выбраться из огня.\n\</segment>
+		<segment id="63" parent="62" relname="elaboration">nПо факту пожара в школе возбуждено уголовное дело по статье 219 УК РФ, часть 2.</segment>
+		<segment id="65" parent="66" relname="attribution">Согласно этой статье,</segment>
+		<segment id="66" parent="67" relname="span">виновные могут получить до 10 лет лишения свободы.\n\nИсточник: https://www.newsru.com/russia/08Apr2003/yakutia3.html\n</segment>
+		<group id="35" type="span" parent="71" relname="sequence"/>
+		<group id="27" type="span" parent="34" relname="preparation"/>
+		<group id="34" type="span" parent="35" relname="span"/>
+		<group id="32" type="multinuc" parent="34" relname="span"/>
+		<group id="31" type="multinuc" parent="32" relname="joint"/>
+		<group id="70" type="multinuc" parent="71" relname="sequence"/>
+		<group id="50" type="multinuc" parent="70" relname="sequence"/>
+		<group id="38" type="span" parent="50" relname="joint"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="43" type="span" parent="49" relname="span"/>
+		<group id="41" type="multinuc" parent="43" relname="span"/>
+		<group id="48" type="span" parent="43" relname="elaboration"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="69" type="multinuc" parent="70" relname="sequence"/>
+		<group id="59" type="span" parent="69" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="57" type="multinuc" parent="58" relname="span"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="64" type="span" parent="67" relname="cause-effect"/>
+		<group id="62" type="multinuc" parent="64" relname="span"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="71" type="multinuc"/>
+	</body>
+</rst>

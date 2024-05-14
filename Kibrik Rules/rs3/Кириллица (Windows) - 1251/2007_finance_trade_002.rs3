@@ -1,0 +1,63 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="26" relname="span">Нью-Йоркские биржи поставили новый рекорд.</segment>
+		<segment id="25" parent="24" relname="elaboration">Уолл-стрит ликует\n\nЧетверг, 12 июля, стал самым удачным для американского индекса Dow Jones за последние четыре года.</segment>
+		<segment id="27" parent="30" relname="cause-effect">Голубые фишки за день буквально взлетели вверх на 283 пункта,</segment>
+		<segment id="28" parent="30" relname="span">что позволило индексу легко перешагнуть отметку в 13800,</segment>
+		<segment id="29" parent="28" relname="interpretation-evaluation">это рекорд.</segment>
+		<segment id="32" parent="33" relname="comparison">Закрылся Dow Jones на отметке 13,861.\n\nИндекс Nasdaq тоже поднялся - примерно на 50 пунктов.</segment>
+		<segment id="35" parent="66" relname="preparation">Такая положительная однодневная динамика не наблюдалась на этой бирже с марта этого года.</segment>
+		<segment id="36" parent="44" relname="contrast">В итоге биржа закрылась с самым высоким показателем за последние шесть лет - 2701.\n\nИндекс Standard & Poor's установил свой рекорд, по сравнению с другими индексами - небольшой.</segment>
+		<segment id="37" parent="39" relname="span">Но все же, благодаря росту на 28,94</segment>
+		<segment id="38" parent="37" relname="elaboration">(или 1,91%) этому индексу удалось зафиксировать показатель на новом для себя уровне 1547.\n\</segment>
+		<segment id="40" parent="42" relname="span">nНастроение на Уолл-стрит было ликующим,</segment>
+		<segment id="41" parent="40" relname="concession">несмотря на вернувшуюся неловкость в связи с американскими проблемами в Ираке.</segment>
+		<segment id="45" parent="46" relname="attribution">Администрация Буша признала в четверг,</segment>
+		<segment id="46" parent="47" relname="span">что Соединенные Штаты добились только \"смешанного прогресса\" в своей цели к политической, военной и экономической реформе в Ираке.\n\nЕсть и другие отрицательные факторы.</segment>
+		<segment id="48" parent="50" relname="joint">Доллар продолжил свободное падение,</segment>
+		<segment id="49" parent="50" relname="joint">и конца этой тенденции пока не видно.</segment>
+		<segment id="52" parent="64" relname="span">Цены на нефть продолжают держаться на достигнутом 11-месячном максимуме.</segment>
+		<segment id="53" parent="59" relname="joint">Хотя на Нью-йоркской торговой бирже энергоносителей стоимость барреля нефти-сырца и снизилась на 6 центов до 72,50 долларов,</segment>
+		<segment id="54" parent="55" relname="attribution">аналитики все же предупреждают,</segment>
+		<segment id="55" parent="56" relname="span">что еще более высокое движение цен на \"черное золото\" может в конечном счете лишить экономику устойчивости.\n\nОднако никаких признаков этого в Европе.</segment>
+		<segment id="57" parent="56" relname="interpretation-evaluation">Немецкий Dax прибавил приблизительно 2 процента.</segment>
+		<segment id="60" parent="62" relname="span">Парижский CAC-40 поднялся на 1,7%.</segment>
+		<segment id="61" parent="60" relname="elaboration">Индекс Лондонской FTSE повысился почти на 1,3%.\n\nТолько в Японии Nikkei чуть-чуть опустился - на 0,36%.\n\nИсточник: https://www.newsru.com/finance/13Jul2007/trade.html\n</segment>
+		<group id="34" type="multinuc" parent="67" relname="preparation"/>
+		<group id="26" type="span" parent="34" relname="joint"/>
+		<group id="33" type="multinuc" parent="34" relname="joint"/>
+		<group id="31" type="span" parent="33" relname="comparison"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="66" type="multinuc" parent="67" relname="span"/>
+		<group id="44" type="multinuc" parent="66" relname="comparison"/>
+		<group id="43" type="multinuc" parent="44" relname="contrast"/>
+		<group id="39" type="span" parent="43" relname="comparison"/>
+		<group id="42" type="span" parent="43" relname="comparison"/>
+		<group id="65" type="multinuc" parent="66" relname="comparison"/>
+		<group id="51" type="span" parent="65" relname="joint"/>
+		<group id="47" type="span" parent="51" relname="span"/>
+		<group id="50" type="multinuc" parent="47" relname="interpretation-evaluation"/>
+		<group id="64" type="span" parent="65" relname="joint"/>
+		<group id="63" type="multinuc" parent="52" relname="elaboration"/>
+		<group id="59" type="multinuc" parent="63" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="56" type="span" parent="58" relname="span"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

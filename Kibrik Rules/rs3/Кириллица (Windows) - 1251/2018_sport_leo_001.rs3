@@ -1,0 +1,57 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="23" relname="span">По числу голов за один клуб Лионель Месси обошел всех,</segment>
+		<segment id="22" parent="21" relname="elaboration">кроме Пеле\n\nАргентинский нападающий Лионель Месси забил свой 566-й мяч за \"Барселону\" в матче чемпионата Испании против \"Бетиса\" (3:4).</segment>
+		<segment id="24" parent="26" relname="span">Это второй результат по голам за один клуб за всю историю футбола,</segment>
+		<segment id="25" parent="24" relname="attribution">сообщает Mundo Deportivo</segment>
+		<segment id="28" parent="30" relname="span">.\n\nПо этому показателю Месси теперь уступает лишь Пеле,</segment>
+		<segment id="29" parent="28" relname="elaboration">который в свое время забил за бразильский \"Сантос\" 643 мяча.\n\nПозади Месси остались Герд Мюллер (\"Бавария\", 565 голов), Эйсебио (\"Бенфика\", 473 гола), Криштиану Роналду (\"Реал\", 450 голов) и многие, многие другие.\n\nКак отмечает издание,</segment>
+		<segment id="31" parent="33" relname="span">аргентинцу осталось забить 77 мячей,</segment>
+		<segment id="32" parent="31" relname="purpose">чтобы сравняться с легендарным Королем футбола,</segment>
+		<segment id="34" parent="36" relname="span">и 78</segment>
+		<segment id="35" parent="34" relname="purpose">- чтобы его превзойти.\n\nПринимая во внимание,</segment>
+		<segment id="37" parent="36" relname="background">что Лео штампует в среднем по 50 голов в год,</segment>
+		<segment id="41" parent="42" relname="joint">рекорд Пеле продержится еще максимум пару сезонов.</segment>
+		<segment id="43" parent="47" relname="joint">Но это при условии, что лидер каталонцев не получит серьезной травмы,</segment>
+		<segment id="44" parent="46" relname="span">или не решит покинуть \"Барселону\",</segment>
+		<segment id="45" parent="44" relname="background">где провел всю свою карьеру.\n\</segment>
+		<segment id="48" parent="53" relname="attribution">nОднако продление контракта с командой до 2021 года говорит о том,</segment>
+		<segment id="49" parent="53" relname="span">что Месси твердо намерен остаться игроком одного клуба</segment>
+		<segment id="50" parent="52" relname="joint">.\n\nАргентинец защищает цвета \"Барселоны\" с 2004 года</segment>
+		<segment id="51" parent="52" relname="joint">и является автором многочисленных рекордов.</segment>
+		<segment id="56" parent="55" relname="elaboration">В частности, он лучший бомбардир в истории чемпионатов Испании, сборной Аргентины и \"Барселоны\", рекордсмен по количеству голов, забитых за один календарный год (91, 2012 год) и за один сезон (73, сезон-2011/12).\n\nИсточник: https://www.newsru.com/sport/13Nov2018/leo.html\n</segment>
+		<group id="27" type="multinuc" parent="58" relname="preparation"/>
+		<group id="23" type="span" parent="27" relname="comparison"/>
+		<group id="26" type="span" parent="27" relname="comparison"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="42" type="multinuc" parent="58" relname="contrast"/>
+		<group id="40" type="multinuc" parent="42" relname="joint"/>
+		<group id="30" type="span" parent="40" relname="comparison"/>
+		<group id="39" type="multinuc" parent="40" relname="comparison"/>
+		<group id="33" type="span" parent="39" relname="joint"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="36" type="span" parent="38" relname="span"/>
+		<group id="57" type="span" parent="58" relname="contrast"/>
+		<group id="55" type="multinuc" parent="57" relname="span"/>
+		<group id="47" type="multinuc" parent="55" relname="contrast"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="contrast"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="52" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="59" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,42 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="40" relname="preparation">Соперник боксера Александра Поветкина получил травму\n\</segment>
+		<segment id="16" parent="40" relname="joint">nСоперник перспективного российского супертяжеловеса Александра Поветкина американец Росс Пьюритти получил травму.</segment>
+		<segment id="17" parent="19" relname="span">Боксеры должны были провести рейтинговый бой 10 декабря в Москве в рамках спортивного шоу,</segment>
+		<segment id="18" parent="17" relname="elaboration">главным событием которого является чемпионский поединок WBC между Олегом Маскаевым и Питером Окелло из Уганды.\n\</segment>
+		<segment id="20" parent="19" relname="cause-effect">nПовреждение заставило американца отказаться от намеченного на 3 ноября в Нью-Йорке рейтингового боя с известным новозеландцем Дэвидом Туа.</segment>
+		<segment id="22" parent="23" relname="attribution">Как сообщили организаторы поединка,</segment>
+		<segment id="23" parent="24" relname="span">Пьюритти заменил Абрахам Окайн из Ганы.\n\</segment>
+		<segment id="25" parent="26" relname="attribution">nПо данным ИТАР-ТАСС,</segment>
+		<segment id="26" parent="27" relname="span">на заключительном этапе подготовки Пьюритти получил сильное рассечение на лбу.</segment>
+		<segment id="28" parent="30" relname="joint">Пока неясна степень травмы</segment>
+		<segment id="29" parent="30" relname="joint">и то,</segment>
+		<segment id="31" parent="32" relname="span">позволит ли она ему выступить 10 декабря в Москве.\n\n40-летний Росс Пьюритти имеет репутацию очень стойкого бойца.</segment>
+		<segment id="33" parent="35" relname="joint">За свою профессиональную карьеру он выходил на ринг против большого количества известных боксеров,</segment>
+		<segment id="34" parent="35" relname="joint">и даже смог нанести первое поражение в карьере нынешнему чемпиону IBF в супертяжелом весе украинцу Владимиру Кличко.\n\nИсточник: https://www.newsru.com/sport/31Oct2006/pov.html\n</segment>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="21" type="span" parent="38" relname="preparation"/>
+		<group id="19" type="span" parent="21" relname="span"/>
+		<group id="38" type="span" parent="39" relname="span"/>
+		<group id="24" type="span" parent="38" relname="span"/>
+		<group id="37" type="span" parent="24" relname="elaboration"/>
+		<group id="27" type="span" parent="37" relname="span"/>
+		<group id="36" type="multinuc" parent="27" relname="elaboration"/>
+		<group id="32" type="span" parent="36" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="condition"/>
+		<group id="35" type="multinuc" parent="36" relname="joint"/>
+		<group id="41" type="span"/>
+	</body>
+</rst>

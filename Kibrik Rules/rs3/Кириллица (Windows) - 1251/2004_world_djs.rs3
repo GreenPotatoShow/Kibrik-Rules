@@ -1,0 +1,59 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="64" relname="preparation">Непризнанная Абхазия выбирает президента\n\</segment>
+		<segment id="24" parent="26" relname="span">nВ Абхазии в воскресенье утром открылись избирательные участки</segment>
+		<segment id="25" parent="24" relname="purpose">для голосования на выборах президента непризнанной республики</segment>
+		<segment id="27" parent="28" relname="joint">.\n\nКак сообщила РИА \"Новости\" председатель избирательного участка номер 2 в Сухуми,</segment>
+		<segment id="31" parent="39" relname="span">директор русскоязычной школы имени Чехова Рита Бения, голосовать можно на основании нескольких документов.\n\nЭто, в частности, старый советский паспорт, советский загранпаспорт 40-й, 41-й и 42-й серии, а также форма N 9</segment>
+		<segment id="32" parent="38" relname="same-unit">- документ, в котором находится штамп о прописке,</segment>
+		<segment id="33" parent="34" relname="attribution">уточнила председатель участка.\n\nКак передает РИА \"Новости\",</segment>
+		<segment id="34" parent="35" relname="span">обстановка в городе спокойная,</segment>
+		<segment id="36" parent="37" relname="same-unit">центр Сухуми с большим количеством брошенных, частично разрушенных, заколоченных досками зданий выглядит безлюдным.</segment>
+		<segment id="41" parent="43" relname="joint">Весь город все еще увешан предвыборными плакатами кандидатов.\n\nМилиционеров и военнослужащих на улицах не видно.</segment>
+		<segment id="42" parent="43" relname="joint">Вместе с тем, на каждом избирательном участке присутствуют представители правоохранительных органов.</segment>
+		<segment id="45" parent="51" relname="span">Участок номер два, где будут голосовать трое из претендентов на пост президента,</segment>
+		<segment id="46" parent="48" relname="span">в том числе Рауль Хаджимба,</segment>
+		<segment id="47" parent="46" relname="background">охраняют трое сотрудников МВД.\n\nС момента открытия участка сюда приходят избиратели,</segment>
+		<segment id="49" parent="50" relname="contrast">однако пока их немного.</segment>
+		<segment id="52" parent="53" relname="attribution">Местные жители заявляли,</segment>
+		<segment id="53" parent="54" relname="span">что настроены идти на выборы</segment>
+		<segment id="55" parent="58" relname="attribution">.\n\nНакануне исполняющий обязанности премьер-министра Абхазии Астамур Тарба сообщил,</segment>
+		<segment id="56" parent="58" relname="joint">что никаких усиленных мер безопасности в связи с выборами принимать не планируется,</segment>
+		<segment id="57" parent="58" relname="joint">дополнительные подразделения МВД к охране правопорядка не привлекаются.\n\nРабота избирательных участков продлится до 20:00 мск.</segment>
+		<segment id="61" parent="62" relname="comparison">На высший государственный пост Абхазии претендуют пять кандидатов - генеральный директор Госкомпании \"Черноморэнерго\" Сергей Багапш, экс-премьер-министр Анри Джергения, лидер Народной партии Якуб Лакоба, премьер-министр Абхазии Рауль Хаджимба и экс-министр иностранных дел Сергей Шамба.\n\nИсточник: https://www.newsru.com/world/03Oct2004/djs.html\n</segment>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="44" type="span" parent="64" relname="joint"/>
+		<group id="40" type="multinuc" parent="44" relname="span"/>
+		<group id="28" type="multinuc" parent="40" relname="joint"/>
+		<group id="26" type="span" parent="28" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="38" type="multinuc" parent="31" relname="elaboration"/>
+		<group id="37" type="multinuc" parent="38" relname="same-unit"/>
+		<group id="35" type="span" parent="37" relname="same-unit"/>
+		<group id="43" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="51" type="span" parent="63" relname="joint"/>
+		<group id="50" type="multinuc" parent="45" relname="elaboration"/>
+		<group id="48" type="span" parent="50" relname="contrast"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="60" type="multinuc" parent="62" relname="comparison"/>
+		<group id="54" type="span" parent="60" relname="joint"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="65" type="span"/>
+	</body>
+</rst>

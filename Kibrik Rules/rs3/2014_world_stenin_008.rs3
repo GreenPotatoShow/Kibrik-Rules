@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="27" relname="span">Фотокора \"России сегодня\" Стенина объявили в розыск на Украине\n\nФотокорреспондент \"России сегодня\" Андрей Стенин, пропавший на Украине, объявлен милицией страны в розыск,</segment>
+		<segment id="26" parent="25" relname="attribution">заявил советник главы МВД Антон Геращенко в эфире телеканала \"112\".\n\n\"По Андрею Стенину</segment>
+		<segment id="28" parent="30" relname="span">- он поставлен в розыск,</segment>
+		<segment id="29" parent="28" relname="cause-effect">поскольку есть обращение соответствующих инстанций, где он работал\",</segment>
+		<segment id="31" parent="30" relname="attribution">- цитирует Геращенко РИА \"Новости\".</segment>
+		<segment id="34" parent="37" relname="attribution">Советник предположил,</segment>
+		<segment id="35" parent="37" relname="span">что Стенин находится в плену у сепаратистов.\n\nАндрей Стенин работает в РИА \"Новости\"</segment>
+		<segment id="36" parent="35" relname="background">(на базе которого было создано МИА \"Россия сегодня\") с 2009 года.</segment>
+		<segment id="39" parent="38" relname="background">За это время он побывал в множестве горячих точек, включая Египет и Сирию.</segment>
+		<segment id="41" parent="43" relname="span">Стенин,</segment>
+		<segment id="42" parent="41" relname="elaboration">работавший в Донецке, Славянске и других городах востока Украины,</segment>
+		<segment id="44" parent="45" relname="same-unit">не выходил на связь с 5 августа.</segment>
+		<segment id="46" parent="47" relname="sequence">Через несколько дней после его исчезновения российские следователи возбудили дело по факту похищения журналиста.</segment>
+		<segment id="49" parent="59" relname="span">В поддержку Стенина выступили различные общественные организации, включая Международную федерацию журналистов (IFJ), базирующихся во Франции \"Репортеров без границ\" (RSF) и Amnesty International.\n\n12 августа Геращенко сообщал о возможном аресте Стенина спецслужбами Украины:</segment>
+		<segment id="50" parent="53" relname="condition">\"Я не в курсе, где он находится,</segment>
+		<segment id="51" parent="52" relname="attribution">я только предполагаю,</segment>
+		<segment id="52" parent="53" relname="span">что его могла задержать наша служба безопасности.</segment>
+		<segment id="55" parent="57" relname="joint">Он или жив,</segment>
+		<segment id="56" parent="57" relname="joint">или находится у террористов, или у нашей СБУ.</segment>
+		<segment id="60" parent="61" relname="attribution">В МВД его нет\".\n\nВ пятницу глава совета при президенте РФ по развитию гражданского общества Михаил Федотов обратился в пятницу к уполномоченному по правам человека на Украине Валерии Лутковской с просьбой помочь найти фотокорреспондента Стенина.\n\nНеназванный источник РИА \"Новости\" ранее заявлял,</segment>
+		<segment id="61" parent="62" relname="span">что против фотографа готовятся возбудить дело:</segment>
+		<segment id="63" parent="67" relname="span">\"В отношении Андрея Стенина готовится уголовное дело,</segment>
+		<segment id="64" parent="65" relname="attribution">основанное якобы на свидетельских показаниях о том,</segment>
+		<segment id="65" parent="66" relname="span">что он присутствовал при казнях и пытках украинских военнослужащих\".\n\nИсточник: https://www.newsru.com/world/16Aug2014/stenin.html\n</segment>
+		<group id="33" type="span" parent="71" relname="joint"/>
+		<group id="27" type="span" parent="33" relname="span"/>
+		<group id="32" type="span" parent="27" relname="attribution"/>
+		<group id="30" type="span" parent="32" relname="span"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="48" type="multinuc" parent="70" relname="joint"/>
+		<group id="40" type="span" parent="48" relname="joint"/>
+		<group id="38" type="span" parent="40" relname="span"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="45" type="multinuc" parent="47" relname="sequence"/>
+		<group id="43" type="span" parent="45" relname="same-unit"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="59" type="span" parent="69" relname="joint"/>
+		<group id="58" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="54" type="span" parent="58" relname="joint"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="68" type="multinuc" parent="69" relname="joint"/>
+		<group id="62" type="span" parent="68" relname="joint"/>
+		<group id="67" type="span" parent="68" relname="joint"/>
+		<group id="66" type="span" parent="63" relname="elaboration"/>
+		<group id="71" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="21" relname="cause-effect">Сотрудник московской ГАИ отказался от взятки почти в 50 млн рублей\n\nСтоличный полицейский отказался от взятки в 45 млн рублей,</segment>
+		<segment id="21" parent="22" relname="span">обещанной ему за помощь в постановке на учет трехсот нерастаможенных грузовиков,</segment>
+		<segment id="23" parent="24" relname="joint">сообщает \"Интерфакс\" со ссылкой на пресс-службу ГУ МВД России по Москве.\n\n\"Столичным управлением ГИБДД совместно с Управлением экономической безопасности ГУ МВД России по Москве предотвращена незаконная легализация грузовых транспортных средств, ввезенных на территорию Российской Федерации с нарушением таможенного законодательства\",</segment>
+		<segment id="25" parent="30" relname="attribution">- сказал сотрудник пресс-службы.\n\nОн пояснил,</segment>
+		<segment id="26" parent="30" relname="span">что несколько месяцев назад 30-летний житель Дальневосточного федерального округа предложил высокопоставленному сотруднику московской Госавтоинспекции в нарушение законодательства</segment>
+		<segment id="27" parent="29" relname="joint">поставить на учет</segment>
+		<segment id="28" parent="29" relname="joint">и выдать паспорта транспортного средства почти на триста импортных грузовых автомобилей.\n\n</segment>
+		<segment id="33" parent="35" relname="joint">\"Общая сумма незаконного денежного вознаграждения,</segment>
+		<segment id="34" parent="35" relname="joint">обещанная полицейскому за легализацию всей партии грузовиков,</segment>
+		<segment id="36" parent="37" relname="same-unit">составляла 45 миллионов рублей.</segment>
+		<segment id="38" parent="42" relname="joint">Сотрудник УГИБДД незамедлительно сообщил о данном предложении своему начальству,</segment>
+		<segment id="39" parent="40" relname="cause-effect">и руководством московского Главка МВД</segment>
+		<segment id="40" parent="41" relname="span">было принято решение о задержании взяткодателя с поличным\",</segment>
+		<segment id="43" parent="46" relname="attribution">- сказал представитель полиции Москвы.\n\nНакануне</segment>
+		<segment id="46" parent="47" relname="span">при попытке передачи должностному лицу столичной Госавтоинспекции первого транша взятки в размере 100 тысяч рублей подозреваемый был задержан.</segment>
+		<segment id="50" parent="54" relname="joint">Возбуждено уголовное дело по ст. 291 УК РФ (дача взятки).</segment>
+		<segment id="51" parent="53" relname="joint">Идет сбор доказательной базы по делу,</segment>
+		<segment id="52" parent="53" relname="joint">устанавливаются сообщники подозреваемого.\n\nИсточник: https://www.newsru.com/auto/28Mar2013/vz_hld.html\n</segment>
+		<group id="32" type="span" parent="56" relname="sequence"/>
+		<group id="24" type="multinuc" parent="32" relname="span"/>
+		<group id="22" type="span" parent="24" relname="joint"/>
+		<group id="31" type="span" parent="24" relname="attribution"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="29" type="multinuc" parent="26" relname="purpose"/>
+		<group id="55" type="multinuc" parent="56" relname="sequence"/>
+		<group id="49" type="multinuc" parent="55" relname="sequence"/>
+		<group id="37" type="multinuc" parent="49" relname="sequence"/>
+		<group id="35" type="multinuc" parent="37" relname="same-unit"/>
+		<group id="48" type="multinuc" parent="49" relname="sequence"/>
+		<group id="42" type="multinuc" parent="48" relname="sequence"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="sequence"/>
+		<group id="54" type="multinuc" parent="55" relname="sequence"/>
+		<group id="53" type="multinuc" parent="54" relname="joint"/>
+		<group id="56" type="multinuc"/>
+	</body>
+</rst>

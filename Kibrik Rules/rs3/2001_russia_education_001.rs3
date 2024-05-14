@@ -1,0 +1,71 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="33" relname="joint">Правительство России сегодня обсуждает модернизацию системы образования страны\n\nОткрывая заседание,</segment>
+		<segment id="30" parent="31" relname="attribution">премьер-министр сказал,</segment>
+		<segment id="31" parent="32" relname="span">что реформа образования затрагивает непосредственно каждого гражданина.</segment>
+		<segment id="34" parent="35" relname="attribution">Михаил Касьянов также заметил,</segment>
+		<segment id="35" parent="36" relname="span">что одним из ключевых вопросов сегодняшнего заседания станет обсуждение платного образования.\n\</segment>
+		<segment id="37" parent="40" relname="attribution">nКак сообщает РБК,</segment>
+		<segment id="38" parent="39" relname="attribution">глава правительства также сообщил,</segment>
+		<segment id="39" parent="40" relname="span">что многих родителей волнует целый спектр проблем бытового характера, в частности, вопрос о том, какие школьные услуги и мероприятия должны быть платными - завтраки, охрана, ремонт или что-то иное.\n\</segment>
+		<segment id="43" parent="46" relname="attribution">nКак указал Касьянов,</segment>
+		<segment id="44" parent="45" relname="attribution">большинство родителей в ходе анонимных опросов подтверждают,</segment>
+		<segment id="45" parent="46" relname="span">что платят очень во многих случаях.</segment>
+		<segment id="48" parent="52" relname="same-unit">В связи с этим,</segment>
+		<segment id="49" parent="50" relname="attribution">подчеркнул премьер,</segment>
+		<segment id="50" parent="51" relname="span">возникает законный вопрос:</segment>
+		<segment id="53" parent="52" relname="elaboration">какая часть среднего образования в России является на самом деле бесплатной?</segment>
+		<segment id="56" parent="60" relname="span">Уровень финансирования,</segment>
+		<segment id="57" parent="58" relname="attribution">сказал Касьянов,</segment>
+		<segment id="58" parent="59" relname="span">выходит на приемлемый уровень,</segment>
+		<segment id="63" parent="64" relname="joint">и это также необходимо учитывать при рассмотрении вопроса \"о платности\" образования в средней школе.\n\</segment>
+		<segment id="65" parent="70" relname="attribution">nКак сообщил сегодня министр образования РФ Владимир Филиппов,</segment>
+		<segment id="66" parent="70" relname="span">докладывая о концепции модернизации образования на заседании Правительства России,</segment>
+		<segment id="67" parent="69" relname="comparison">в стране через три года будут введена система единого государственного экзамена,</segment>
+		<segment id="68" parent="69" relname="comparison">а через шесть лет - 12-летнее среднее образование.</segment>
+		<segment id="72" parent="78" relname="span">Доклад министра был одобрен на заседании правительства.</segment>
+		<segment id="73" parent="74" relname="attribution">По словам Филиппова,</segment>
+		<segment id="74" parent="75" relname="span">единый госэкзамен предполагается ввести с лета 2004 года.</segment>
+		<segment id="76" parent="75" relname="elaboration">Перед этим проект должен быть одобрен в 15 субъектах РФ.\n\nИсточник: https://www.newsru.com/russia/25Oct2001/education.html\n</segment>
+		<group id="33" type="multinuc" parent="82" relname="preparation"/>
+		<group id="32" type="span" parent="33" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="42" type="span" parent="82" relname="joint"/>
+		<group id="36" type="span" parent="42" relname="span"/>
+		<group id="41" type="span" parent="36" relname="elaboration"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="81" type="span" parent="82" relname="joint"/>
+		<group id="55" type="span" parent="80" relname="solutionhood"/>
+		<group id="47" type="span" parent="55" relname="span"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="54" type="span" parent="47" relname="cause-effect"/>
+		<group id="52" type="multinuc" parent="54" relname="span"/>
+		<group id="51" type="span" parent="52" relname="same-unit"/>
+		<group id="80" type="multinuc" parent="81" relname="span"/>
+		<group id="64" type="multinuc" parent="80" relname="comparison"/>
+		<group id="60" type="span" parent="64" relname="joint"/>
+		<group id="59" type="span" parent="56" relname="attribution"/>
+		<group id="79" type="multinuc" parent="80" relname="comparison"/>
+		<group id="71" type="span" parent="79" relname="joint"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="69" type="multinuc" parent="66" relname="elaboration"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="77" type="span" parent="72" relname="elaboration"/>
+		<group id="75" type="span" parent="77" relname="span"/>
+		<group id="83" type="span"/>
+	</body>
+</rst>

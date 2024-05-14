@@ -1,0 +1,58 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="24" relname="joint">Цены на нефть упали</segment>
+		<segment id="23" parent="24" relname="joint">после заявлений лидеров ЕС по Ираку\n\nЦены на нефть во вторник падают после заявлений лидеров стран ЕС по Ираку.</segment>
+		<segment id="25" parent="27" relname="joint">Цена январских фьючерсных контрактов в электронной системе торгов Нью-йоркской товарной биржи NYMEX утром во вторник упала на 1,8%</segment>
+		<segment id="26" parent="27" relname="joint">и составила 36,13 долл.</segment>
+		<segment id="28" parent="27" relname="cause-effect">за баррель\n\</segment>
+		<segment id="30" parent="32" relname="span">nЛидеры европейских стран собрались на неформальный саммит в Брюсселе,</segment>
+		<segment id="31" parent="30" relname="elaboration">где должны выработать единую позицию по иракской проблеме.</segment>
+		<segment id="33" parent="38" relname="attribution">По итогам понедельника они заявили,</segment>
+		<segment id="34" parent="38" relname="contrast">что считают необходимым предоставить инспекторам ООН дополнительное время для проверок в Ираке,</segment>
+		<segment id="35" parent="37" relname="span">тем самым устранить угрозу немедленного проведения США вооруженной операции против этой страны.\n\nВ подписанном в Брюсселе заявлении лидеры ЕС впервые упоминают</segment>
+		<segment id="36" parent="35" relname="cause-effect">возможность применения силы против Багдада, но лишь в качестве \"последней меры\".</segment>
+		<segment id="41" parent="59" relname="joint">Одновременно главы европейских стран подчеркнули \"центральную роль ООН и полномочия ее Совета Безопасности в урегулировании иракского кризиса\".\n\nЦена апрельских фьючерсов на нефть Brent на Международной нефтяной бирже в Лондоне 17 февраля упала на 58 центов - до 31,92 долл. за баррель.</segment>
+		<segment id="42" parent="44" relname="joint">Баррель российской Urals стоил 30,98 долл.\n\</segment>
+		<segment id="43" parent="44" relname="joint">nОдновременно с этим после прекращения забастовки в Венесуэле государственная нефтяная компания Petroleos de Venesuela подсчитывает убытки.</segment>
+		<segment id="45" parent="46" relname="attribution">Как заявил президент компании Али Родригес,</segment>
+		<segment id="46" parent="47" relname="span">63 дня общенациональной забастовки стоили 3 млрд долл.</segment>
+		<segment id="48" parent="49" relname="span">В результате Венесуэла была вынуждена импортировать около 100 тыс баррелей бензина в день,</segment>
+		<segment id="50" parent="49" relname="attribution">отмечает ИТАР-ТАСС.\n\</segment>
+		<segment id="52" parent="53" relname="attribution">nПо словам Родригеса,</segment>
+		<segment id="53" parent="54" relname="span">проблема производства и внутреннего потребления бензина будет решена в Венесуэле в первой половине марта.</segment>
+		<segment id="55" parent="56" relname="joint">Сейчас острая нехватка бензина сохраняется.\n\nИсточник: https://www.newsru.com/finance/18Feb2003/oil.html\n</segment>
+		<group id="24" type="multinuc" parent="61" relname="preparation"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="29" type="span" parent="61" relname="joint"/>
+		<group id="27" type="multinuc" parent="29" relname="span"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="40" type="multinuc" parent="60" relname="joint"/>
+		<group id="32" type="span" parent="40" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="span"/>
+		<group id="37" type="span" parent="38" relname="contrast"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="44" type="multinuc" parent="58" relname="span"/>
+		<group id="57" type="multinuc" parent="44" relname="elaboration"/>
+		<group id="51" type="span" parent="57" relname="joint"/>
+		<group id="49" type="span" parent="51" relname="span"/>
+		<group id="47" type="span" parent="48" relname="cause-effect"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="54" type="span" parent="56" relname="joint"/>
+		<group id="62" type="span"/>
+	</body>
+</rst>

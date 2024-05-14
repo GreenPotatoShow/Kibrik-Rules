@@ -1,0 +1,25 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="8" parent="19" relname="preparation">Третьяк и Тарпищев займутся совершенствованием деятельности ОКР\n\nИсполком Олимпийского комитета России утвердил состав Комиссии по совершенствованию деятельности ОКР и подготовке к Олимпийскому собранию в количестве 12 человек,</segment>
+		<segment id="9" parent="19" relname="joint">сообщает официальный сайт комитета.\n\nЕе возглавил Ахмед Билалов, первый заместитель председателя Совета содействия ОКР.\n\nВ комиссию вошли Валентин Балахничев - президент Всероссийской федерации легкой атлетики, Александра Бриллиантова - начальник Правового управления ОКР,</segment>
+		<segment id="10" parent="18" relname="span">Максим Викторов - член Общественной палаты РФ,</segment>
+		<segment id="11" parent="17" relname="joint">Светлана Журова - вице-спикер Госдумы,</segment>
+		<segment id="12" parent="16" relname="span">Борис Кабаргин - заместитель председателя Олимпийского совета Ростовской области, Игорь Казиков - и.о. президента ОКР, Александр Паршиков - генеральный директор МГФСО, Михаил Степанянц - руководитель Департамента физической культуры и спорта города Москвы,</segment>
+		<segment id="13" parent="15" relname="joint">Шамиль Тарпищев - член МОК, президент Федерации тенниса России, Владислав Третьяк - президент Федерации хоккея России, Юрий Юрьев - генеральный секретарь ОКР.\n\nОлимпийское собрание пройдет 20 мая 2010 года,</segment>
+		<segment id="14" parent="15" relname="joint">на нем, помимо прочего, будет избран новый президент ОКР.\n\nИсточник: https://www.newsru.com/sport/01Apr2010/12.html\n</segment>
+		<group id="19" type="multinuc" parent="20" relname="span"/>
+		<group id="18" type="span" parent="19" relname="joint"/>
+		<group id="17" type="multinuc" parent="10" relname="elaboration"/>
+		<group id="16" type="span" parent="17" relname="joint"/>
+		<group id="15" type="multinuc" parent="12" relname="elaboration"/>
+		<group id="20" type="span"/>
+	</body>
+</rst>

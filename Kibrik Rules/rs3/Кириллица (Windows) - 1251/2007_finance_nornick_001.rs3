@@ -1,0 +1,80 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="34" relname="span">\"Онэксим\" не поддержал выделение \"Энергополюса\" из \"Норильского никеля\"\n\nАкционеры \"Норникеля\" на внеочередном собрании 14 декабря не приняли решения о выделении энергоактивов в независимую компанию,</segment>
+		<segment id="33" parent="32" relname="attribution">заявил председатель совета директоров ГМК,</segment>
+		<segment id="35" parent="36" relname="joint">гендиректор ХК \"Интеррос\" Андрей Клишас на брифинге по итогам собрания.\n\n\"Один из крупных акционеров воздержался от голосования\",</segment>
+		<segment id="37" parent="36" relname="attribution">- уточнил он</segment>
+		<segment id="39" parent="90" relname="preparation">.\n\</segment>
+		<segment id="40" parent="43" relname="attribution">nКак сообщил генеральный директор ГМК Денис Морозов,</segment>
+		<segment id="41" parent="42" relname="condition">\"если акционеры не хотят выделения энергоактивов,</segment>
+		<segment id="42" parent="43" relname="span">то дополнительные деньги нам не помешают\".</segment>
+		<segment id="45" parent="47" relname="span">\"Теперь мы будем изучать разные варианты,</segment>
+		<segment id="46" parent="45" relname="elaboration">в том числе их продажу\",</segment>
+		<segment id="48" parent="47" relname="attribution">- сказал он</segment>
+		<segment id="51" parent="55" relname="joint">.\n\n\"Норникель\" вновь предложит вопрос о выделении энергоактивов на рассмотрение акционеров,</segment>
+		<segment id="52" parent="54" relname="joint">\"если они не будут проданы</segment>
+		<segment id="53" parent="54" relname="joint">или структура акционеров вдруг изменится\".\n\n14 декабря от голосования воздержался \"Онэксим\",</segment>
+		<segment id="56" parent="55" relname="attribution">группа \"Интеррос\" проголосовала \"за\".</segment>
+		<segment id="58" parent="60" relname="span">Выделение \"Энергополюса\" поддержали миноритарии,</segment>
+		<segment id="59" parent="58" relname="elaboration">которым в сумме принадлежит около 20% акций ГМК.\n\n\"Сегодня мы увидим падение котировок \"Норникеля\",</segment>
+		<segment id="61" parent="60" relname="cause-effect">так как есть некая неопределенность относительно контроля.</segment>
+		<segment id="63" parent="65" relname="contrast">Она будет иметь негативное влияние на капитализацию \"Норникеля\",</segment>
+		<segment id="64" parent="65" relname="contrast">но существенно на ней не отразится\",</segment>
+		<segment id="66" parent="65" relname="attribution">- заявил представитель компании.\n\nГруппа \"Онэксим\",</segment>
+		<segment id="68" parent="72" relname="span">представляющая интересы Михаила Прохорова,</segment>
+		<segment id="69" parent="70" relname="attribution">ранее в пятницу предупредила,</segment>
+		<segment id="70" parent="71" relname="span">что воздержится от голосования на собрании,</segment>
+		<segment id="73" parent="76" relname="attribution">аргументировав свое решение тем,</segment>
+		<segment id="74" parent="76" relname="span">что \"это вопрос к новому собственнику пакета\" \"Онэксима\" в \"Норникеле\".\n\n21 декабря заканчивается действие оферты на приобретение пакета \"Онэксима\" в \"Норникеле\" Владимиром Потаниным,</segment>
+		<segment id="75" parent="74" relname="elaboration">по истечении которой владельцем акций станет либо бывший партнер Прохорова по \"Интерросу\", либо ОК \"Российский алюминий\".\n\nЭнергоактивы стоимостью 7 млрд долларов не будут выделены из компании в независимое ОАО \"ЭнергоПолюс\".</segment>
+		<segment id="81" parent="86" relname="attribution">\"Норникель\" уже заявлял,</segment>
+		<segment id="82" parent="86" relname="joint">что они могут быть проданы,</segment>
+		<segment id="83" parent="85" relname="joint">а полученные за счет этого средства пойдут на новые приобретения.\n\nПредполагалось, что в случае создания \"ЭнергоПолюс\" станет одним из крупнейших независимых инвесторов в российской электроэнергетической отрасли:</segment>
+		<segment id="84" parent="85" relname="joint">ему будут принадлежать электрогенерирующие активы, составляющие примерно 6% от совокупной установленной электрической мощности в России.\n\nИсточник: https://www.newsru.com/finance/14Dec2007/nornick.html\n</segment>
+		<group id="38" type="span" parent="92" relname="joint"/>
+		<group id="36" type="multinuc" parent="38" relname="span"/>
+		<group id="34" type="span" parent="36" relname="joint"/>
+		<group id="91" type="span" parent="92" relname="joint"/>
+		<group id="90" type="multinuc" parent="91" relname="span"/>
+		<group id="50" type="span" parent="90" relname="joint"/>
+		<group id="44" type="span" parent="50" relname="span"/>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="49" type="span" parent="44" relname="interpretation-evaluation"/>
+		<group id="47" type="span" parent="49" relname="span"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="57" type="span" parent="89" relname="joint"/>
+		<group id="55" type="multinuc" parent="57" relname="span"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="80" type="multinuc" parent="88" relname="span"/>
+		<group id="62" type="span" parent="80" relname="joint"/>
+		<group id="60" type="span" parent="62" relname="span"/>
+		<group id="79" type="multinuc" parent="80" relname="joint"/>
+		<group id="67" type="span" parent="79" relname="joint"/>
+		<group id="65" type="multinuc" parent="67" relname="span"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="72" type="span" parent="78" relname="joint"/>
+		<group id="71" type="span" parent="68" relname="background"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="87" type="span" parent="80" relname="elaboration"/>
+		<group id="86" type="multinuc" parent="87" relname="span"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="92" type="multinuc"/>
+	</body>
+</rst>

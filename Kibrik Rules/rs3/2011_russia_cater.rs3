@@ -1,0 +1,105 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="44" parent="127" relname="preparation">СМИ:</segment>
+		<segment id="45" parent="47" relname="span">очередное ЧП на Волге устроил пьяный сын депутата</segment>
+		<segment id="46" parent="45" relname="elaboration">- он может избежать наказания\n\nСМИ выяснили подробности и некоторые обстоятельства столкновения катера с баржей, произошедшего на реке Волге в Кировском районе Казани 26 августа.</segment>
+		<segment id="48" parent="53" relname="attribution">Как пишет в понедельник \"Комсомольская правда\",</segment>
+		<segment id="49" parent="53" relname="span">в баржу врезался на личном катере сын депутата госсовета Татарстана Альберта Фахрутдинова Булат,</segment>
+		<segment id="50" parent="52" relname="span">катавшийся по Волге</segment>
+		<segment id="51" parent="50" relname="elaboration">в состоянии сильного алкогольного опьянения.\n\</segment>
+		<segment id="56" parent="65" relname="attribution">nПо данным издания,</segment>
+		<segment id="57" parent="59" relname="span">трагедия произошла в десятом часу вечера в пятницу,</segment>
+		<segment id="58" parent="57" relname="condition">когда катер возвращался обратно в Лесную гавань:</segment>
+		<segment id="60" parent="62" relname="joint">в темноте Булат Фахрутдинов просто не заметил баржу</segment>
+		<segment id="61" parent="62" relname="joint">и врезался в нее на огромной скорости.\n\n\"Он был настолько пьян,</segment>
+		<segment id="63" parent="62" relname="interpretation-evaluation">что мало понимал, что происходит.</segment>
+		<segment id="67" parent="71" relname="sequence">Двух слов связать не мог.</segment>
+		<segment id="68" parent="70" relname="sequence">Его вытащили из воды</segment>
+		<segment id="69" parent="70" relname="sequence">и тут же отправили в больницу,</segment>
+		<segment id="72" parent="71" relname="attribution">- рассказали спасатели, работавшие на месте ЧП.</segment>
+		<segment id="75" parent="85" relname="span">- Успел сказать только, что с ним были еще два человека\".</segment>
+		<segment id="76" parent="78" relname="span">Их тела все воскресенье искали водолазы,</segment>
+		<segment id="77" parent="76" relname="elaboration">отмечается в публикации.\n\nОднако в понедельник стало известно, что поиски прекращены после того, как Булат Фахрутдинов изменил показания</segment>
+		<segment id="79" parent="80" relname="attribution">и объявил,</segment>
+		<segment id="80" parent="81" relname="span">что в момент аварии он находился на катере один,</segment>
+		<segment id="82" parent="81" relname="attribution">сообщает портал ProKazan.ru.\n\</segment>
+		<segment id="86" parent="123" relname="preparation">nПроверку по данному факту проводит Казанский следственный отдел на транспорте Приволжского управления на транспорте СКР.</segment>
+		<segment id="87" parent="91" relname="span">В настоящее время также уточняется,</segment>
+		<segment id="88" parent="90" relname="joint">кому принадлежал катер</segment>
+		<segment id="89" parent="90" relname="joint">и какой ущерб нанесен обоим судам,</segment>
+		<segment id="92" parent="91" relname="evidence">отмечает издание.\n\nОфициально информация о причастности сына депутата к очередному ЧП на воде пока не подтверждена.</segment>
+		<segment id="94" parent="100" relname="span">Катер Crownline-270CR стоимостью несколько миллионов рублей,</segment>
+		<segment id="95" parent="99" relname="sequence">который ушел под воду,</segment>
+		<segment id="96" parent="98" relname="joint">уже достали,</segment>
+		<segment id="97" parent="98" relname="joint">и теперь судно осматривают следователи,</segment>
+		<segment id="101" parent="100" relname="attribution">сообщает \"КП\".\n\</segment>
+		<segment id="104" parent="107" relname="attribution">nПо данным СМИ,</segment>
+		<segment id="105" parent="107" relname="sequence">Булат Фахрутдинов руководит крупной строительной компанией,</segment>
+		<segment id="106" parent="107" relname="sequence">а сам он в свои 29 лет даже занимал пост и.о. замминистра промышленности и торговли Татарстана.</segment>
+		<segment id="109" parent="110" relname="attribution">При этом СМИ намекают,</segment>
+		<segment id="110" parent="111" relname="span">что виновник ЧП может избежать наказания.\n\nПо правилам судоходства, маломерным судам категорически запрещено ходить в темноте по акватории, подобной Лесной гавани.</segment>
+		<segment id="112" parent="113" relname="attribution">В то же время в Инспекции по маломерным судам уверяют,</segment>
+		<segment id="113" parent="114" relname="span">что ходить было можно, но с безопасной скоростью.</segment>
+		<segment id="115" parent="117" relname="joint">От того, чью правоту признает транспортная прокуратура в этом споре,</segment>
+		<segment id="116" parent="117" relname="joint">теперь зависит, накажут ли водителя катера,</segment>
+		<segment id="118" parent="119" relname="comparison">отмечает \"КП\".\n\nИсточник: https://www.newsru.com/russia/29Aug2011/cater.html\n</segment>
+		<group id="127" type="multinuc" parent="128" relname="span"/>
+		<group id="55" type="multinuc" parent="127" relname="joint"/>
+		<group id="47" type="span" parent="55" relname="sequence"/>
+		<group id="54" type="span" parent="55" relname="sequence"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="52" type="span" parent="49" relname="background"/>
+		<group id="126" type="multinuc" parent="127" relname="joint"/>
+		<group id="74" type="span" parent="126" relname="joint"/>
+		<group id="66" type="span" parent="74" relname="span"/>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="59" type="span" parent="65" relname="span"/>
+		<group id="64" type="span" parent="59" relname="elaboration"/>
+		<group id="62" type="multinuc" parent="64" relname="span"/>
+		<group id="73" type="span" parent="66" relname="elaboration"/>
+		<group id="71" type="multinuc" parent="73" relname="span"/>
+		<group id="70" type="multinuc" parent="71" relname="sequence"/>
+		<group id="125" type="multinuc" parent="126" relname="joint"/>
+		<group id="85" type="span" parent="125" relname="joint"/>
+		<group id="84" type="multinuc" parent="75" relname="elaboration"/>
+		<group id="78" type="span" parent="84" relname="joint"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="81" type="span" parent="83" relname="span"/>
+		<group id="124" type="span" parent="125" relname="joint"/>
+		<group id="123" type="multinuc" parent="124" relname="span"/>
+		<group id="103" type="multinuc" parent="123" relname="joint"/>
+		<group id="93" type="span" parent="103" relname="sequence"/>
+		<group id="91" type="span" parent="93" relname="span"/>
+		<group id="90" type="multinuc" parent="87" relname="background"/>
+		<group id="102" type="span" parent="103" relname="sequence"/>
+		<group id="100" type="span" parent="102" relname="span"/>
+		<group id="99" type="multinuc" parent="94" relname="elaboration"/>
+		<group id="98" type="multinuc" parent="99" relname="sequence"/>
+		<group id="122" type="multinuc" parent="123" relname="joint"/>
+		<group id="108" type="span" parent="122" relname="joint"/>
+		<group id="107" type="multinuc" parent="108" relname="span"/>
+		<group id="121" type="multinuc" parent="122" relname="joint"/>
+		<group id="111" type="span" parent="121" relname="joint"/>
+		<group id="120" type="span" parent="121" relname="joint"/>
+		<group id="114" type="span" parent="120" relname="span"/>
+		<group id="119" type="multinuc" parent="114" relname="evidence"/>
+		<group id="117" type="multinuc" parent="119" relname="comparison"/>
+		<group id="128" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,87 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="38" parent="109" relname="preparation">В Москве открылся парк развлечений \"Остров мечты\".</segment>
+		<segment id="39" parent="41" relname="sequence">Его раскритиковали за внешний облик и огромную парковку\n\n29 февраля в Москве для посетителей</segment>
+		<segment id="40" parent="41" relname="sequence">открылся крупнейший в Европе крытый тематический парк развлечений \"Остров мечты\",</segment>
+		<segment id="42" parent="44" relname="joint">расположенный в Нагатинской пойме.\n\nПлощадь парка составляет около 240 тыс. квадратных метров,</segment>
+		<segment id="43" parent="44" relname="joint">а пропускная способность составляет почти 12 млн человек в год,</segment>
+		<segment id="46" parent="45" relname="attribution">передает ТАСС.</segment>
+		<segment id="48" parent="50" relname="sequence">В настоящий момент в парке из 27 аттракционов работают 23.</segment>
+		<segment id="49" parent="50" relname="sequence">Оставшиеся четыре аттракциона планируют запустить 28 марта.</segment>
+		<segment id="51" parent="55" relname="span">До парка \"Остров мечты\" гости могут добраться городским транспортом:</segment>
+		<segment id="54" parent="51" relname="elaboration">от станции \"Кожуховской\" предусмотрены 12 автобусов, от \"ЗИЛа\" – десять автобусов.\n\nКак напоминает TJ, парк развлечений начали строить еще в 2015 году в Нагатинской пойме, на территории бывших золоотвалов завода ЗИЛ.</segment>
+		<segment id="56" parent="58" relname="sequence">Открыть \"Остров мечты\" планировали в 2018 году,</segment>
+		<segment id="57" parent="58" relname="sequence">но затем этот срок несколько раз переносили.</segment>
+		<segment id="59" parent="58" relname="elaboration">Строительством парка занимался холдинг \"Остров мечты\", которым владеет группа \"Регионы\" братьев Амирана и Алихана Муцоевых.</segment>
+		<segment id="62" parent="66" relname="span">Отец Муцоевых – депутат Государственной думы и бывший бизнесмен Зелимхан Муцоев.</segment>
+		<segment id="63" parent="65" relname="span">В общей сложности в проект инвестировали около 1,5 млрд долларов,</segment>
+		<segment id="64" parent="63" relname="elaboration">включая кредит в 500 млн долларов, выданный банком ВТБ.</segment>
+		<segment id="67" parent="68" relname="joint">Амиран Муцоев объяснял высокую стоимость строительства парка сложной стеклянной крышей, необычным фундаментом и дорогими аттракционами.\n\</segment>
+		<segment id="69" parent="73" relname="contrast">nИзначально парк планировали сделать совместно со студией DreamWorks,</segment>
+		<segment id="70" parent="72" relname="span">но бизнесмены отказались от идеи монобрендового пространства,</segment>
+		<segment id="71" parent="70" relname="condition">решив собрать в нем зоны российских и зарубежных мультфильмов.</segment>
+		<segment id="74" parent="76" relname="span">Сотрудничество с \"Союзмультфильмом\" также не состоялось</segment>
+		<segment id="75" parent="74" relname="cause-effect">из-за невыгодных условий, предложенных \"Островом мечты\".\n\nПарк разделен на несколько зон: тематический парк с девятью \"сказочными мирами\", променад с магазинами и ресторанами, выполненный в стиле известных городов мира, а также ландшафтный парк.</segment>
+		<segment id="77" parent="78" relname="sequence">Позднее на территории обещают построить набережную, гостиницу и детскую яхтенную школу.</segment>
+		<segment id="80" parent="82" relname="joint">Посетить променад и ландшафтный парк можно бесплатно,</segment>
+		<segment id="81" parent="82" relname="joint">а билеты в тематический парк стоят от 1900 рублей на одного ребенка в будний день до 9900 рублей на семью с двумя детьми в выходной.</segment>
+		<segment id="85" parent="102" relname="preparation">Билет Fast Pass для прохода без очередей стоит примерно в два раза дороже.</segment>
+		<segment id="86" parent="90" relname="comparison">Высокую стоимость билетов владельцы объясняют тем,</segment>
+		<segment id="87" parent="89" relname="joint">что основную аудиторию парка составят москвичи</segment>
+		<segment id="88" parent="89" relname="joint">.\n\nВ соцсетях раскритиковали новый парк аттракционов\n\</segment>
+		<segment id="91" parent="100" relname="preparation">nУ первых посетителей и пользователей соцсетей возникло немало нареканий к парку.</segment>
+		<segment id="92" parent="94" relname="span">Так, день открытия ознаменовался очередями в гардероб</segment>
+		<segment id="93" parent="92" relname="cause-effect">из-за большого наплыва людей,</segment>
+		<segment id="95" parent="94" relname="elaboration">к которому администрация парка оказалась не готова.</segment>
+		<segment id="97" parent="99" relname="joint">Также посетители обратили внимание на отсутствие навигационных табличек, закрытые аттракционы и строительный мусор.</segment>
+		<segment id="98" parent="99" relname="joint">Пользователи раскритиковали архитектурный облик парка и огромную парковку перед входом.\n\nИсточник: https://www.newsru.com/realty/02Mar2020/ostrov_mechty.html\n</segment>
+		<group id="109" type="span" parent="110" relname="span"/>
+		<group id="47" type="span" parent="108" relname="preparation"/>
+		<group id="45" type="multinuc" parent="47" relname="span"/>
+		<group id="41" type="multinuc" parent="45" relname="joint"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="50" type="multinuc" parent="107" relname="preparation"/>
+		<group id="107" type="multinuc" parent="108" relname="span"/>
+		<group id="61" type="multinuc" parent="107" relname="joint"/>
+		<group id="55" type="span" parent="61" relname="sequence"/>
+		<group id="60" type="span" parent="61" relname="sequence"/>
+		<group id="58" type="multinuc" parent="60" relname="span"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="68" type="multinuc" parent="105" relname="preparation"/>
+		<group id="66" type="span" parent="68" relname="joint"/>
+		<group id="65" type="span" parent="62" relname="elaboration"/>
+		<group id="105" type="multinuc" parent="106" relname="span"/>
+		<group id="79" type="multinuc" parent="105" relname="joint"/>
+		<group id="73" type="multinuc" parent="79" relname="joint"/>
+		<group id="72" type="span" parent="73" relname="contrast"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="76" type="span" parent="78" relname="sequence"/>
+		<group id="104" type="span" parent="105" relname="joint"/>
+		<group id="82" type="multinuc" parent="103" relname="preparation"/>
+		<group id="103" type="span" parent="104" relname="span"/>
+		<group id="102" type="multinuc" parent="103" relname="span"/>
+		<group id="90" type="multinuc" parent="102" relname="joint"/>
+		<group id="89" type="multinuc" parent="90" relname="comparison"/>
+		<group id="101" type="span" parent="102" relname="joint"/>
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="96" type="span" parent="100" relname="joint"/>
+		<group id="94" type="span" parent="96" relname="span"/>
+		<group id="99" type="multinuc" parent="100" relname="joint"/>
+		<group id="110" type="span"/>
+	</body>
+</rst>

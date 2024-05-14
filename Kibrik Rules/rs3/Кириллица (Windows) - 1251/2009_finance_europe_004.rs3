@@ -1,0 +1,58 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="26" relname="span">В Европе падают продажи автомобилей,</segment>
+		<segment id="25" parent="24" relname="concession">несмотря на меры правительственной поддержки\n\nПродажи машин в Европе в апреле сокращаются 12-й месяц подряд,</segment>
+		<segment id="27" parent="28" relname="joint">сообщила Европейская ассоциация производителей автомобилей.\n\nВ прошлом месяце сошли с конвейера 1,252 млн новых автомобилей,</segment>
+		<segment id="29" parent="30" relname="comparison">что на 12,3% меньше показателя за апрель 2008 года.</segment>
+		<segment id="31" parent="33" relname="comparison">Падение показателя в январе-апреле составило 15,9% относительно аналогичного периода прошлого года,</segment>
+		<segment id="32" parent="33" relname="comparison">сообщает \"Интерфакс\".\n\nПродажи в Западной Европе в апреле опустились на 11,6%.</segment>
+		<segment id="34" parent="36" relname="joint">Единственными странами, где продажи росли,</segment>
+		<segment id="35" parent="36" relname="joint">оказались Австрия (+12,8%) и Германия (+19,4%)</segment>
+		<segment id="37" parent="36" relname="cause-effect">- благодаря правительственным программам.</segment>
+		<segment id="39" parent="45" relname="joint">Покупателям предлагается сдать на слом старые автомобили</segment>
+		<segment id="40" parent="44" relname="joint">и купить новые,</segment>
+		<segment id="43" parent="44" relname="joint">более экономичные модели со скидкой.\n\nДругие государства, в которых действуют схожие программы, показали темпы снижения продаж менее 10%:</segment>
+		<segment id="46" parent="48" relname="comparison">Франция - на 7,1%,</segment>
+		<segment id="47" parent="48" relname="comparison">Италия - на 7,5% и Люксембург - на 8,5%.\n\</segment>
+		<segment id="49" parent="57" relname="comparison">nВ Великобритании в апреле было зарегистрировано на 24% меньше автомобилей, чем за тот же месяц прошлого года,</segment>
+		<segment id="50" parent="52" relname="span">и в Испании - на 45,6% меньше.\n\nХуже всего в прошлом месяце чувствовали себя рынки Исландии</segment>
+		<segment id="51" parent="50" relname="elaboration">(снижение на 88,4%),</segment>
+		<segment id="53" parent="55" relname="comparison">Латвии (на 85,4%), Литвы (на 74,4%) и Ирландии (на 66,7%)</segment>
+		<segment id="54" parent="55" relname="comparison">.\n\nПродажи лидера европейского авторынка Volkswagen Group в апреле сократились на 4,2% по сравнению с тем же месяцем прошлого года - до 284,607 тыс. автомобилей.</segment>
+		<segment id="60" parent="62" relname="comparison">Доля компании на рынке Европы увеличилась до 22,7% с 20,8%.\n\nПродажи PSA Group упали на 14,7%,</segment>
+		<segment id="61" parent="62" relname="comparison">Ford Group - на 6,3% и GM Group - на 13,1%.\n\nFiat Group увеличила реализацию на 4,7%.</segment>
+		<segment id="63" parent="64" relname="joint">Повышение продаж продемонстрировала еще только южнокорейская Hyundai - на 9,7%.\n\nИсточник: https://www.newsru.com/finance/14May2009/europe.html\n</segment>
+		<group id="30" type="multinuc" parent="67" relname="preparation"/>
+		<group id="28" type="multinuc" parent="30" relname="comparison"/>
+		<group id="26" type="span" parent="28" relname="joint"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="33" type="multinuc" parent="66" relname="preparation"/>
+		<group id="66" type="multinuc" parent="67" relname="span"/>
+		<group id="38" type="span" parent="66" relname="joint"/>
+		<group id="36" type="multinuc" parent="38" relname="span"/>
+		<group id="65" type="multinuc" parent="66" relname="joint"/>
+		<group id="59" type="multinuc" parent="65" relname="comparison"/>
+		<group id="45" type="multinuc" parent="59" relname="comparison"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="58" type="multinuc" parent="59" relname="comparison"/>
+		<group id="48" type="multinuc" parent="58" relname="comparison"/>
+		<group id="57" type="multinuc" parent="58" relname="comparison"/>
+		<group id="56" type="multinuc" parent="57" relname="comparison"/>
+		<group id="52" type="span" parent="56" relname="comparison"/>
+		<group id="55" type="multinuc" parent="56" relname="comparison"/>
+		<group id="64" type="multinuc" parent="65" relname="comparison"/>
+		<group id="62" type="multinuc" parent="64" relname="joint"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,94 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="38" parent="42" relname="span">Сергей Миронов лично проконтролирует судьбу нижегородских альтернативщиков\n\nПредседатель Совета Федерации возьмет под личный контроль судьбу альтернативщиков в Нижнем Новгороде\n\nПредседатель Совета Федерации Сергей Миронов выразил озабоченность дальнейшей судьбой 20 призывников в Нижнем Новгороде,</segment>
+		<segment id="39" parent="41" relname="joint">которые выбрали альтернативную службу</segment>
+		<segment id="40" parent="41" relname="joint">и проходят ее в одной из городских больниц в качестве санитаров,</segment>
+		<segment id="43" parent="42" relname="interpretation-evaluation">сообщает \"Интерфакс\".\n\n\"Я возьму под личный контроль судьбу этих ребят.</segment>
+		<segment id="45" parent="47" relname="span">Нельзя дискредитировать власть,</segment>
+		<segment id="46" parent="45" relname="cause-effect">преследуя людей за то, что они реализуют свое конституционное право\",</segment>
+		<segment id="48" parent="49" relname="attribution">- сказал Миронов.\n\nИстория вопроса\n\nЧуть больше года назад, 27 июня 2001 года,</segment>
+		<segment id="49" parent="50" relname="span">мэр Нижнего Новгорода Юрий Лебедев подписал распоряжение о прохождении призывниками альтернативной гражданской службы в муниципальных учреждениях города.</segment>
+		<segment id="52" parent="54" relname="joint">В ходе прошлогоднего осеннего призыва в городскую призывную комиссию поступило 30 заявлений от юношей, пожелавших пройти альтернативную гражданскую службу (АГС).</segment>
+		<segment id="53" parent="54" relname="joint">21 заявление было удовлетворено.\n\nМолодые люди подписали контракт о прохождении АГС в 1-й Градской больнице Нижнего Новгорода в качестве санитаров.</segment>
+		<segment id="55" parent="57" relname="contrast">Муниципальный отряд по альтернативной гражданской службе 4 января 2002 года приступил к службе.\n\</segment>
+		<segment id="56" parent="57" relname="contrast">nОднако это распоряжение мэра было опротестовано в суде прокурором Нижнего Новгорода.</segment>
+		<segment id="59" parent="60" relname="attribution">Согласно исковому заявлению</segment>
+		<segment id="60" parent="61" relname="span">распоряжение главы Нижнего Новгорода не соответствует законодательству.</segment>
+		<segment id="62" parent="66" relname="contrast">\"В соответствии с Конституцией РФ функции обороны и безопасности государства находятся исключительно в ведении федеральных властей,</segment>
+		<segment id="63" parent="65" relname="span">а альтернативная гражданская служба должна регулироваться законом,</segment>
+		<segment id="64" parent="63" relname="elaboration">которого у нас нет\",</segment>
+		<segment id="67" parent="66" relname="attribution">- заявил тогда на судебном заседании представитель прокуратуры.\n\n16 января 2002 года Нижегородский районный суд отклонил иск прокурора.</segment>
+		<segment id="69" parent="70" relname="sequence">В свою очередь, прокуратура Нижнего Новгорода подала кассационный протест на это решение.</segment>
+		<segment id="71" parent="75" relname="joint">Судебная коллегия по гражданским делам Нижегородского областного суда 15 февраля отменила решение Нижегородского районного суда от 16 января</segment>
+		<segment id="72" parent="74" relname="span">и признала недействительным распоряжение мэра Лебедва об альтернативной гражданской службе.\n\n5 апреля Нижегородский областной военный комиссариат разослал молодым людям, проходившим АГС,</segment>
+		<segment id="73" parent="72" relname="purpose">повестки для явки в военкомат с последующей отправкой на военную службу.</segment>
+		<segment id="76" parent="84" relname="span">Однако в весенний призыв их судьба так решена и не была.\n\n20 июня альтернативщики прекратили работу в больнице</segment>
+		<segment id="77" parent="83" relname="span">в знак протеста против решения Госдумы,</segment>
+		<segment id="78" parent="81" relname="condition">которая 19 июня при обсуждении законопроекта об АГС</segment>
+		<segment id="79" parent="81" relname="span">отклонила поправку фракции СПС о том,</segment>
+		<segment id="80" parent="79" relname="purpose">чтобы засчитать срок прохождения альтернативной службы нижегородцам.</segment>
+		<segment id="85" parent="93" relname="span">А 25 июня они вернулись в больницу с надеждой на то, что службу им все-таки засчитают.\n\</segment>
+		<segment id="86" parent="92" relname="comparison">nВ соответствии с только что принятым законом об альтернативной службе граждане проходят ее, как правило, за пределами субъектов России, в которых они проживают.</segment>
+		<segment id="87" parent="91" relname="comparison">В соответствии с законом срок АГС составляет 3,5 года,</segment>
+		<segment id="88" parent="90" relname="comparison">а для граждан с высшим образованием - 1 год и 9 месяцев.\n\nИстория принятия закона\n\nИзначально на рассмотрение нижней палаты были внесены три проекта закона.\n\nПервый проект был внесен в Госдуму правительством, второй - группой депутатов,</segment>
+		<segment id="89" parent="90" relname="comparison">а третий - депутатом от СПС Владимиром Семеновым.</segment>
+		<segment id="94" parent="96" relname="joint">Их основное различие заключалось в сроках прохождения альтернативной гражданской службы.\n\nА в середине июня правительство внесло свои поправки в законопроект,</segment>
+		<segment id="95" parent="96" relname="joint">предложив срок службы в 3-3,5 года.\n\n28 июня после долгих согласований и внесения поправок</segment>
+		<segment id="97" parent="98" relname="joint">Госдума приняла в третьем, окончательном чтении законопроект об альтернативной воинской службе.\n\n10 июля Совет Федерации одобрил закон \"Об альтернативной гражданской службе\".\n\</segment>
+		<segment id="99" parent="101" relname="joint">nТеперь закон поступит на подпись к президенту,</segment>
+		<segment id="100" parent="101" relname="joint">где, скорее всего, будет утвержден.\n\nИсточник: https://www.newsru.com/russia/11Jul2002/alternativ.html\n</segment>
+		<group id="44" type="span" parent="109" relname="preparation"/>
+		<group id="42" type="span" parent="44" relname="span"/>
+		<group id="41" type="multinuc" parent="38" relname="elaboration"/>
+		<group id="109" type="span" parent="110" relname="span"/>
+		<group id="51" type="span" parent="108" relname="preparation"/>
+		<group id="47" type="span" parent="51" relname="span"/>
+		<group id="50" type="span" parent="47" relname="attribution"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="58" type="multinuc" parent="107" relname="preparation"/>
+		<group id="54" type="multinuc" parent="58" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="107" type="span" parent="108" relname="span"/>
+		<group id="61" type="span" parent="106" relname="preparation"/>
+		<group id="106" type="span" parent="107" relname="span"/>
+		<group id="70" type="multinuc" parent="105" relname="preparation"/>
+		<group id="68" type="span" parent="70" relname="sequence"/>
+		<group id="66" type="multinuc" parent="68" relname="span"/>
+		<group id="65" type="span" parent="66" relname="contrast"/>
+		<group id="105" type="multinuc" parent="106" relname="span"/>
+		<group id="75" type="multinuc" parent="105" relname="contrast"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="104" type="multinuc" parent="105" relname="contrast"/>
+		<group id="84" type="span" parent="104" relname="joint"/>
+		<group id="83" type="span" parent="76" relname="cause-effect"/>
+		<group id="82" type="span" parent="77" relname="elaboration"/>
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="93" type="span" parent="103" relname="joint"/>
+		<group id="92" type="multinuc" parent="85" relname="elaboration"/>
+		<group id="91" type="multinuc" parent="92" relname="comparison"/>
+		<group id="90" type="multinuc" parent="91" relname="comparison"/>
+		<group id="102" type="span" parent="103" relname="joint"/>
+		<group id="98" type="multinuc" parent="102" relname="span"/>
+		<group id="96" type="multinuc" parent="98" relname="joint"/>
+		<group id="101" type="multinuc" parent="98" relname="elaboration"/>
+		<group id="110" type="span"/>
+	</body>
+</rst>

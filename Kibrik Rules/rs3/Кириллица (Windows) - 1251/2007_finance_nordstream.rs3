@@ -1,0 +1,70 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="28" parent="79" relname="preparation">Эстония разрешит Nord Stream исследовать свою морскую экономическую зону под будущий газопровод\n\</segment>
+		<segment id="29" parent="33" relname="joint">nПравительство Эстонии готово разрешить компании Nord Stream, подконтрольной \"Газпрому\", исследования в морской экономической зоне страны.</segment>
+		<segment id="30" parent="32" relname="joint">Это решение властей Эстонии в отношении Северо-Европейского газопровода стало возможным после вмешательства Германии, заинтересованной в реализации проекта.\n\nВесной правительство Финляндии порекомендовало Nord Stream AG изменить маршрут газопровода в Финском заливе</segment>
+		<segment id="31" parent="32" relname="joint">и провести его южнее, по экономической зоне Эстонии.</segment>
+		<segment id="34" parent="46" relname="joint">31 мая Nord Stream AG обратилась к правительству Эстонии и Дании с просьбой дать разрешение исследовать экономическую морскую зону на предмет возможной прокладки газопровода.</segment>
+		<segment id="35" parent="37" relname="joint">Дания согласовала новый маршрут за два часа,</segment>
+		<segment id="36" parent="37" relname="joint">Эстонии же потребовалось для рассмотрения этого вопроса четыре месяца,</segment>
+		<segment id="38" parent="43" relname="attribution">напоминает \"Коммерсант\".\n\nСпикер парламента Эстонии Эне Эргма 10 сентября напомнила,</segment>
+		<segment id="39" parent="41" relname="span">что 30 сентября истекает срок,</segment>
+		<segment id="40" parent="39" relname="condition">когда власти Эстонии должны ответить Nord Stream,</segment>
+		<segment id="42" parent="43" relname="joint">и потребовала рассмотреть вопрос срочно как \"имеющий важное государственное значение\".</segment>
+		<segment id="48" parent="50" relname="span">В случае отказа газопровод проложат в экономической зоне Финляндии,</segment>
+		<segment id="49" parent="48" relname="elaboration">\"а риски, связанные с окружающей средой и безопасностью, останутся\",</segment>
+		<segment id="51" parent="54" relname="attribution">считают эксперты.</segment>
+		<segment id="52" parent="54" relname="joint">Это уже произошло с Польшей,</segment>
+		<segment id="53" parent="54" relname="joint">также выступавшей против проекта.\n\nПравительству Эстонии предстоит принять трудное решение.</segment>
+		<segment id="57" parent="59" relname="span">До сих пор только представители газовой компании Eesti Gaaz,</segment>
+		<segment id="58" parent="57" relname="elaboration">в которой контрольный пакет принадлежит \"Газпрому\" и немецкому E.On, поддерживали проект.</segment>
+		<segment id="60" parent="61" relname="joint">А все политики и ученые страны в один голос говорили о возможной экологической катастрофе и недопустимости реализации проекта.\n\nПерелом произошел после визита министра иностранных дел Германии Франка Вальтера Штайнмайера в Таллин в июле.</segment>
+		<segment id="62" parent="64" relname="joint">Министр отозвался о газопроводе как об \"общеевропейском проекте\"</segment>
+		<segment id="63" parent="64" relname="joint">и потребовал консолидации мнений стран ЕС в отношениях с Россией</segment>
+		<segment id="65" parent="68" relname="attribution">.\n\nАналитики считают,</segment>
+		<segment id="66" parent="67" relname="condition">что при росте потребления газа в Европе к 2015 году на 40%,</segment>
+		<segment id="67" parent="68" relname="span">жест примирения со стороны Эстонии неизбежен.</segment>
+		<segment id="70" parent="72" relname="span">Сорвать его она уже не сможет:</segment>
+		<segment id="71" parent="70" relname="elaboration">в нем есть заинтересованность Германии, Великобритании и Франции,</segment>
+		<segment id="73" parent="72" relname="attribution">отметил аналитик.\n\nИсточник: https://www.newsru.com/finance/13Sep2007/nordstream.html\n</segment>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="47" type="multinuc" parent="79" relname="joint"/>
+		<group id="33" type="multinuc" parent="47" relname="joint"/>
+		<group id="32" type="multinuc" parent="33" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="37" type="multinuc" parent="45" relname="span"/>
+		<group id="44" type="span" parent="37" relname="elaboration"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="41" type="span" parent="43" relname="joint"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="56" type="multinuc" parent="78" relname="comparison"/>
+		<group id="50" type="span" parent="56" relname="comparison"/>
+		<group id="55" type="span" parent="56" relname="comparison"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="77" type="multinuc" parent="78" relname="comparison"/>
+		<group id="61" type="multinuc" parent="77" relname="joint"/>
+		<group id="59" type="span" parent="61" relname="joint"/>
+		<group id="76" type="multinuc" parent="77" relname="joint"/>
+		<group id="64" type="multinuc" parent="76" relname="joint"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="69" type="span" parent="75" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="72" type="span" parent="74" relname="span"/>
+		<group id="80" type="span"/>
+	</body>
+</rst>

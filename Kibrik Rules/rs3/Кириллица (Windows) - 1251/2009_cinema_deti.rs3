@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="36" relname="joint">В Киеве открывается международный детский конкурс песни \"Евровидение-2009\"\n\nНесмотря на эпидемию гриппа,</segment>
+		<segment id="35" parent="36" relname="joint">16 ноября в Киеве начинается международный детский конкурс песни \"Евровидение-2009\" - детская версия телевизионного конкурса \"Евровидение\".</segment>
+		<segment id="37" parent="39" relname="span">Оргкомитет конкурса 12 ноября провел заседание,</segment>
+		<segment id="38" parent="37" relname="elaboration">на котором, в частности, обсудил мероприятия по обеспечению его безопасного проведения.</segment>
+		<segment id="40" parent="44" relname="joint">Финальный концерт конкурса пройдет 21 ноября на сцене киевского Дворца спорта.\n\nВ конкурсе примут участие исполнители из Армении, Белоруссии, Бельгии, Греции, Кипра, Македонии, Мальты, Нидерландов, России, Румынии, Сербии, Украины, Швеции</segment>
+		<segment id="41" parent="43" relname="span">.\n\nЖители России смогут увидеть финал \"Детского Евровидения\" 21 ноября в 22:15 в эфире телеканала \"Россия\",</segment>
+		<segment id="42" parent="41" relname="background">который ранее с помощью зрителей определил российского представителя на конкурсе.</segment>
+		<segment id="45" parent="47" relname="joint">В этом году Россию представляет 11-летняя Катя Рябова из города Юбилейный Московской области с песней \"Маленький принц\".\n\nКак сообщили \"Интерфаксу\" в пресс-службе телеканала,</segment>
+		<segment id="46" parent="47" relname="joint">эту песню сочинила сама Катя вместе с друзьями.</segment>
+		<segment id="50" parent="52" relname="span">Отметим, что взрослым разрешается официально помогать в написании конкурсных песен</segment>
+		<segment id="51" parent="50" relname="condition">при условии, что все права на эти песни останутся за детьми.\n\nПервоначально в детском \"Евровидении\" принимали участие дети в возрасте от 8 до 15 лет,</segment>
+		<segment id="53" parent="55" relname="joint">однако с 2007 года возрастной лимит был сужен,</segment>
+		<segment id="54" parent="55" relname="joint">и сейчас к конкурсу допускаются дети в возрасте от 10 до 15 лет на момент финала.\n\nПомимо возрастного лимита есть еще несколько немаловажных отличий Детского Евровидения (JESC) от взрослого (ESC)</segment>
+		<segment id="56" parent="55" relname="elaboration">:\n- Страна-победитель JESC не получает автоматического права на проведение конкурса следующего года.</segment>
+		<segment id="60" parent="62" relname="span">Организатор конкурса следующего года определяется заранее</segment>
+		<segment id="61" parent="60" relname="elaboration">.\n- В детском \"Евровидении\" могут участвовать максимум 18 стран,</segment>
+		<segment id="63" parent="67" relname="joint">в то время как во взрослом конкурсе такого лимита не существует</segment>
+		<segment id="64" parent="66" relname="joint">.\n- В JESC каждый участник должен быть выбран посредством национального отбора с телеголосованием,</segment>
+		<segment id="65" parent="66" relname="joint">а в ESC метод отбора вольны выбирать сами участвующие телекомпании.\n- В JESC смена песни после отбора не допускается.</segment>
+		<segment id="69" parent="77" relname="span">Рекомендовано проводить отборы не ранее чем за 3 месяца до конкурса</segment>
+		<segment id="70" parent="72" relname="joint">.\n- В JESC страну имеют право представлять дети, являющиеся ее гражданами,</segment>
+		<segment id="71" parent="72" relname="joint">или проживающие в ней не менее двух с половиной лет,</segment>
+		<segment id="73" parent="75" relname="span">а в ESC ограничений по национальности не существует</segment>
+		<segment id="74" parent="73" relname="elaboration">.\n- Участникам международного финала детского \"Евровидения\" (за исключением участников бэк-вокала или подтанцовки) запрещено повторное участие в конкурсе.</segment>
+		<segment id="78" parent="80" relname="joint">\n- Принимающие в JESC участие песни не должны быть коммерчески выпущены</segment>
+		<segment id="79" parent="80" relname="joint">и/или публично исполнены до 1-го июня текущего года</segment>
+		<segment id="81" parent="89" relname="joint">.\n- Песни, принимающие участие в JESC, должны быть длиной от 2 мин. 30 сек. до 2 мин. 45 сек.,</segment>
+		<segment id="82" parent="88" relname="comparison">в то время как в ESC допускаются песни не длиннее 3 минут.\n- Все песни, участвующие в детском Евровидении, должны исполняться на государственных языках стран-участниц,</segment>
+		<segment id="83" parent="87" relname="joint">в то время как в ESC действует правило свободного выбора языка исполнения.\n- В написании песни должны активно принимать участие дети в возрасте от 10 до 15 лет,</segment>
+		<segment id="84" parent="85" relname="condition">и в случае, если они не являются основными исполнителями,</segment>
+		<segment id="85" parent="86" relname="span">они все равно должны принимать участие в исполнении песни в качестве бэк-вокалистов, танцоров или инструменталистов.\n\nРоссия принимает участие в детском \"Евровидении\" с 2005 года.</segment>
+		<segment id="93" parent="95" relname="joint">Первым нашу страну представлял девятилетний Владик Крутских с коллективом \"Волшебники двора\".</segment>
+		<segment id="94" parent="95" relname="joint">В 2006 году наши участницы - сестры Настя и Маша Толмачевы из Курска - стали победителями этого международного конкурса.\n\nИсточник: https://www.newsru.com/cinema/16Nov2009/deti.html\n</segment>
+		<group id="36" type="multinuc" parent="97" relname="preparation"/>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="59" type="multinuc" parent="97" relname="joint"/>
+		<group id="49" type="multinuc" parent="59" relname="joint"/>
+		<group id="39" type="span" parent="49" relname="joint"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="44" type="multinuc" parent="48" relname="span"/>
+		<group id="43" type="span" parent="44" relname="joint"/>
+		<group id="47" type="multinuc" parent="44" relname="elaboration"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="52" type="span" parent="58" relname="contrast"/>
+		<group id="57" type="span" parent="58" relname="contrast"/>
+		<group id="55" type="multinuc" parent="57" relname="span"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="92" type="multinuc" parent="96" relname="joint"/>
+		<group id="68" type="multinuc" parent="92" relname="joint"/>
+		<group id="62" type="span" parent="68" relname="joint"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="77" type="span" parent="91" relname="joint"/>
+		<group id="76" type="multinuc" parent="69" relname="elaboration"/>
+		<group id="72" type="multinuc" parent="76" relname="contrast"/>
+		<group id="75" type="span" parent="76" relname="contrast"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="80" type="multinuc" parent="90" relname="joint"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="comparison"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="98" type="span"/>
+	</body>
+</rst>

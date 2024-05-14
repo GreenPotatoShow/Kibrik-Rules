@@ -1,0 +1,110 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="48" parent="52" relname="span">Марсоход Curiosity вместе с эстонским дизайнером создали интерактивную панораму Марса (ФОТО)\n\nРовер Curiosity,</segment>
+		<segment id="51" parent="48" relname="elaboration">уже третью неделю обживающийся на поверхности Марса, продолжает радовать поклонников новыми фотографиями с Красной планеты.</segment>
+		<segment id="53" parent="55" relname="span">Вслед за первыми цветными снимками и фото в 3D марсоход прислал на Землю панораму окрестностей кратера Гейла,</segment>
+		<segment id="54" parent="53" relname="elaboration">в котором он совершил посадку.</segment>
+		<segment id="56" parent="60" relname="sequence">Снимки окружающих Curiosity пейзажей позволили сделать первую интерактивную панораму Марса.\n\nПанораму в стиле Google Earth создал эстонский фотограф и дизайнер Андрей Бодров,</segment>
+		<segment id="57" parent="59" relname="span">ранее уже получивший некоторую известность благодаря своим панорамам с парада Победы на Красной площади 9 мая 2010 года</segment>
+		<segment id="58" parent="57" relname="elaboration">(посмотреть панорамы можно ЗДЕСЬ).</segment>
+		<segment id="61" parent="65" relname="span">На этот раз фотограф использовал не собственные фото, а снимки марсохода,</segment>
+		<segment id="62" parent="64" relname="span">выполненные в высоком разрешении.\n\nСозданное изображение позволяет детально рассмотреть местность вокруг Curiosity:</segment>
+		<segment id="63" parent="62" relname="elaboration">обернуться можно на 360 градусов.</segment>
+		<segment id="69" parent="73" relname="span">Изображение также можно приблизить,</segment>
+		<segment id="70" parent="72" relname="span">так что отчетливо различимы и скалистые вершины у края кратера, и камушки под колесами марсохода.\n\nCuriosity rover: Martian solar day 2\n\nИнтерактивная панорама, размещенная Бодровым на нескольких тематических интернет-ресурсах,</segment>
+		<segment id="71" parent="70" relname="elaboration">за пару дней собрала тысячи просмотров и множество откликов.</segment>
+		<segment id="74" parent="77" relname="cause-effect">Так что дизайнер на своей странице в Facebook даже пошутил,</segment>
+		<segment id="75" parent="77" relname="span">что стоило установить плату за просмотр</segment>
+		<segment id="76" parent="75" relname="condition">.\n\</segment>
+		<segment id="80" parent="82" relname="span">nВ то же время некоторые пользователи высказываются весьма критично в адрес дизайнера,</segment>
+		<segment id="81" parent="80" relname="elaboration">называя его работу подделкой и творением Photoshop.</segment>
+		<segment id="83" parent="85" relname="span">Не прибавило веры в подлинность изображения и размещение панорамы на ресурсе 360cities.net,</segment>
+		<segment id="84" parent="83" relname="elaboration">где в качестве места съемки почему-то назван американский штат Нью-Мексико,</segment>
+		<segment id="86" parent="85" relname="background">известный своими инопланетного вида пустынями</segment>
+		<segment id="88" parent="90" relname="span">.\n\nДизайнер, впрочем, и не скрывает,</segment>
+		<segment id="89" parent="88" relname="cause-effect">что при создании интерактивного изображения использовал графические редакторы.</segment>
+		<segment id="93" parent="95" relname="span">Например, для того чтобы объединить множество снимков в один панорамный и</segment>
+		<segment id="94" parent="93" relname="purpose">для усиления яркости цвета.</segment>
+		<segment id="96" parent="100" relname="span">Также на небе было дорисовано солнце,</segment>
+		<segment id="97" parent="99" relname="span">не попавшее в объектив Curiosity,</segment>
+		<segment id="98" parent="97" relname="attribution">объяснил дизайнер TMP.</segment>
+		<segment id="101" parent="105" relname="span">В остальном же изображение полностью соответствует реальности,</segment>
+		<segment id="102" parent="103" relname="attribution">уверяет Бодров</segment>
+		<segment id="103" parent="104" relname="span">.\n\nМарсоход прислал новые фото\n\nCuriosity тем временем продолжает испытание всех своих приборов и, в частности, 17 фотокамер,</segment>
+		<segment id="106" parent="107" relname="span">в результате чего на Землю поступают все новые снимки с Марса.</segment>
+		<segment id="113" parent="115" relname="joint">Самые свежие на данный момент - это цветные фото поверхности в высоком разрешении.</segment>
+		<segment id="114" parent="115" relname="joint">Также марсоход прислал свежую панораму, правда, не интерактивную.\n\nВообще, проверка работоспособности всех систем аппарата - дело небыстрое.</segment>
+		<segment id="116" parent="118" relname="span">Так что до горы Шарп,</segment>
+		<segment id="117" parent="116" relname="background">расположенной в центре кратера Гейла,</segment>
+		<segment id="119" parent="121" relname="joint">Curiosity будет добираться,</segment>
+		<segment id="120" parent="121" relname="joint">как ожидается, около года.</segment>
+		<segment id="123" parent="125" relname="span">Процесс будут тормозить и остановки, которые марсоход будет совершать,</segment>
+		<segment id="124" parent="123" relname="purpose">чтобы исследовать заинтересовавшие его камушки,</segment>
+		<segment id="126" parent="125" relname="attribution">отмечает The Daily Mail.\n\</segment>
+		<segment id="129" parent="133" relname="joint">nПродолжает работу и космический аппарат,</segment>
+		<segment id="130" parent="132" relname="joint">доставивший Curiosity на Марс</segment>
+		<segment id="131" parent="132" relname="joint">и зависший на его орбите.</segment>
+		<segment id="134" parent="136" relname="span">Новый искусственный спутник планеты сделал фотографии той части поверхности Марса, где находится ровер.</segment>
+		<segment id="135" parent="134" relname="elaboration">Снимки опубликованы на странице NASA.\n\nИсточник: https://www.newsru.com/world/15Aug2012/mars.html\n</segment>
+		<group id="112" type="multinuc" parent="140" relname="joint"/>
+		<group id="68" type="multinuc" parent="112" relname="joint"/>
+		<group id="52" type="span" parent="68" relname="joint"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="55" type="span" parent="67" relname="sequence"/>
+		<group id="66" type="span" parent="67" relname="sequence"/>
+		<group id="60" type="multinuc" parent="66" relname="span"/>
+		<group id="59" type="span" parent="60" relname="sequence"/>
+		<group id="65" type="span" parent="60" relname="elaboration"/>
+		<group id="64" type="span" parent="61" relname="elaboration"/>
+		<group id="111" type="multinuc" parent="112" relname="joint"/>
+		<group id="79" type="span" parent="111" relname="joint"/>
+		<group id="73" type="span" parent="78" relname="cause-effect"/>
+		<group id="72" type="span" parent="69" relname="cause-effect"/>
+		<group id="78" type="span" parent="79" relname="span"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="110" type="span" parent="111" relname="joint"/>
+		<group id="92" type="span" parent="110" relname="span"/>
+		<group id="82" type="span" parent="92" relname="span"/>
+		<group id="91" type="multinuc" parent="82" relname="elaboration"/>
+		<group id="87" type="span" parent="91" relname="joint"/>
+		<group id="85" type="span" parent="87" relname="span"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="109" type="span" parent="92" relname="elaboration"/>
+		<group id="95" type="span" parent="109" relname="span"/>
+		<group id="108" type="span" parent="95" relname="elaboration"/>
+		<group id="100" type="span" parent="108" relname="span"/>
+		<group id="99" type="span" parent="96" relname="elaboration"/>
+		<group id="107" type="span" parent="100" relname="elaboration"/>
+		<group id="105" type="span" parent="106" relname="cause-effect"/>
+		<group id="104" type="span" parent="101" relname="elaboration"/>
+		<group id="139" type="span" parent="140" relname="joint"/>
+		<group id="115" type="multinuc" parent="139" relname="span"/>
+		<group id="138" type="multinuc" parent="115" relname="elaboration"/>
+		<group id="128" type="span" parent="138" relname="joint"/>
+		<group id="122" type="span" parent="128" relname="span"/>
+		<group id="118" type="span" parent="122" relname="span"/>
+		<group id="121" type="multinuc" parent="118" relname="background"/>
+		<group id="127" type="span" parent="122" relname="elaboration"/>
+		<group id="125" type="span" parent="127" relname="span"/>
+		<group id="137" type="multinuc" parent="138" relname="joint"/>
+		<group id="133" type="multinuc" parent="137" relname="joint"/>
+		<group id="132" type="multinuc" parent="133" relname="joint"/>
+		<group id="136" type="span" parent="137" relname="joint"/>
+		<group id="140" type="multinuc"/>
+	</body>
+</rst>

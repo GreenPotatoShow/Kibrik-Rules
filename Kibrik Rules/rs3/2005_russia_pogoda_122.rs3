@@ -1,0 +1,57 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="61" relname="preparation">На первомайские праздники в Москве немного похолодает\n\</segment>
+		<segment id="23" parent="25" relname="span">nВ столичном регионе в четверг ожидаются кратковременные дожди,</segment>
+		<segment id="24" parent="23" relname="attribution">сообщили в Московском Гидрометеобюро.</segment>
+		<segment id="26" parent="25" relname="elaboration">Ночью температура воздуха в столице составит плюс 6-8 градусов, по области - плюс 4-9.</segment>
+		<segment id="28" parent="30" relname="span">Днем в Москве будет 15-17 градусов выше нуля,</segment>
+		<segment id="29" parent="28" relname="elaboration">в Подмосковье - 13-18 тепла.</segment>
+		<segment id="31" parent="32" relname="joint">Ветер юго-восточный, 3-8 метров в секунду.\n\nА к выходным в Москве немного похолодает.</segment>
+		<segment id="33" parent="34" relname="span">Так, незначительное похолодание ожидается в первые дни мая.</segment>
+		<segment id="35" parent="37" relname="span">\"1 и 2 мая ожидается небольшое понижение температуры.</segment>
+		<segment id="36" parent="35" relname="elaboration">Днем термометр будет находиться на отметке около 8-11 градусов\",</segment>
+		<segment id="38" parent="39" relname="attribution">- сообщили в среду \"Интерфаксу\" в Гидрометеобюро Москвы и Московской области.\n\nПо данным метеорологов,</segment>
+		<segment id="39" parent="40" relname="span">также понизится температура в ночные часы.</segment>
+		<segment id="42" parent="44" relname="joint">В ночь с 30 апреля на 1 мая в Москве будет от 2 до 7 градусов,</segment>
+		<segment id="43" parent="44" relname="joint">в ночь с 1 на 2 мая температура может опуститься до нуля градусов.</segment>
+		<segment id="45" parent="47" relname="span">С 3 мая температура в городе начнет повышаться,</segment>
+		<segment id="46" parent="45" relname="attribution">сообщает \"Интерфакс\".\n\</segment>
+		<segment id="49" parent="55" relname="same-unit">nВ целом в предстоящие дни,</segment>
+		<segment id="50" parent="53" relname="attribution">сообщают синоптики,</segment>
+		<segment id="51" parent="53" relname="joint">в столице будет переменная облачность,</segment>
+		<segment id="52" parent="53" relname="joint">пройдут кратковременные дожди.</segment>
+		<segment id="56" parent="57" relname="joint">До конца месяца в дневные часы температура будет достигать в среднем 16 градусов.\n\nИсточник: https://www.newsru.com/russia/28Apr2005/pogoda.html\n</segment>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="27" type="span" parent="61" relname="joint"/>
+		<group id="25" type="span" parent="27" relname="span"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="34" type="span" parent="60" relname="joint"/>
+		<group id="32" type="multinuc" parent="33" relname="cause-effect"/>
+		<group id="30" type="span" parent="32" relname="joint"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="41" type="span" parent="59" relname="joint"/>
+		<group id="37" type="span" parent="41" relname="span"/>
+		<group id="40" type="span" parent="37" relname="attribution"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="48" type="multinuc" parent="58" relname="joint"/>
+		<group id="44" type="multinuc" parent="48" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="55" type="multinuc" parent="57" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="same-unit"/>
+		<group id="53" type="multinuc" parent="54" relname="span"/>
+		<group id="62" type="span"/>
+	</body>
+</rst>

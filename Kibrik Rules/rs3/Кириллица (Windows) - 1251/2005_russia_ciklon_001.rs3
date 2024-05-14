@@ -1,0 +1,100 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="42" parent="50" relname="span">На Петербург надвигается новый циклон,</segment>
+		<segment id="43" parent="45" relname="span">способный вызвать повышение уровня воды в Hеве\n\nАтлантический циклон,</segment>
+		<segment id="44" parent="43" relname="background">эпицентр которого сейчас находится над Великобританией,</segment>
+		<segment id="46" parent="48" relname="joint">достигнет Санкт-Петербурга 14 января</segment>
+		<segment id="47" parent="48" relname="joint">и может вызвать повышение уровня воды в Hеве,</segment>
+		<segment id="51" parent="52" relname="attribution">сказал \"Интерфаксу\" в среду начальник отдела прогнозов Гидрометцентра Петербурга Александр Колесов.\n\n\"Вызовет ли приход нового циклона 298-е наводнение в Петербурге,</segment>
+		<segment id="52" parent="53" relname="span">можно будет спрогнозировать в четверг во второй половине дня.</segment>
+		<segment id="55" parent="59" relname="span">На данный момент ничего точного утверждать нельзя,</segment>
+		<segment id="56" parent="58" relname="span">так как сам циклон находится над Англией.</segment>
+		<segment id="57" parent="56" relname="elaboration">Как правило, угрозу наводнения от подобных циклонов можно прогнозировать только за 12 часов\",</segment>
+		<segment id="60" parent="59" relname="attribution">- сказал Колесов</segment>
+		<segment id="62" parent="65" relname="attribution">.\n\nПредставитель Гидрометцентра сказал,</segment>
+		<segment id="63" parent="64" relname="cause-effect">что подобный циклон может вызвать повышение уровня воды в Hеве на 100-130 сантиметров,</segment>
+		<segment id="64" parent="65" relname="span">что не приведет к затоплению прибрежных территорий.</segment>
+		<segment id="69" parent="77" relname="joint">Напомним, что в минувшее воскресенье циклон с Атлантики привел к повышению уровня воды в Hеве на 239 сантиметров выше ординара, ряд улиц и промышленных зданий оказались затоплены.</segment>
+		<segment id="70" parent="72" relname="span">Повышение уровня воды на один метр выше ординара</segment>
+		<segment id="71" parent="70" relname="cause-effect">не приведет к подобным последствиям,</segment>
+		<segment id="73" parent="74" relname="attribution">уточнил Колесов</segment>
+		<segment id="74" parent="75" relname="span">.\n\nВ Эстонии объявлено штормовое предупреждение\n\</segment>
+		<segment id="79" parent="118" relname="preparation">nМетеослужба Эстонии распространила очередное штормовое предупреждение.</segment>
+		<segment id="80" parent="81" relname="attribution">Согласно поступившим данным,</segment>
+		<segment id="81" parent="82" relname="span">уже сегодня скорость ветра на побережье достигнет 25-28 м/сек.</segment>
+		<segment id="83" parent="89" relname="joint">В течение ночи ураганный ветер распространится на всю территорию республики,</segment>
+		<segment id="84" parent="88" relname="same-unit">а на островах и побережье в четверг днем порывы ветра,</segment>
+		<segment id="85" parent="86" relname="attribution">по прогнозам синоптиков,</segment>
+		<segment id="86" parent="87" relname="span">могут достигать 30 м/сек.\n\nНадвигающийся ураган представляет реальную угрозу для столицы Эстонии.</segment>
+		<segment id="91" parent="95" relname="same-unit">Небывало теплая погода и дожди вызвали повышение уровня воды в озере Юлемисте,</segment>
+		<segment id="92" parent="94" relname="joint">расположенном на окраине Таллина</segment>
+		<segment id="93" parent="94" relname="joint">и снабжающем его питьевой водой.</segment>
+		<segment id="96" parent="100" relname="joint">Озеро может выйти из берегов</segment>
+		<segment id="97" parent="99" relname="span">и тогда вода хлынет по городским улицам к морю,</segment>
+		<segment id="98" parent="97" relname="elaboration">которое расположено на 37 метров ниже уровня озера.</segment>
+		<segment id="103" parent="107" relname="span">Сейчас до критической отметки осталось всего около одного метра.\n\nФирма \"Таллина веси\", главный оператор системы водоснабжения эстонской столицы, начала срочную откачку воды из озера.</segment>
+		<segment id="104" parent="106" relname="span">\"Насосы работали всю предыдущую ночь,</segment>
+		<segment id="105" parent="104" relname="attribution">- рассказал в среду ИТАР-ТАСС директор станции водоочистки Рихо Соби.</segment>
+		<segment id="110" parent="116" relname="contrast">- Прямой угрозы затопления пока нет,</segment>
+		<segment id="111" parent="115" relname="span">однако ситуация может измениться к худшему,</segment>
+		<segment id="112" parent="113" relname="condition">если вновь пойдет дождь</segment>
+		<segment id="113" parent="114" relname="span">или поднимется сильный ветер\".\n\nИсточник: https://www.newsru.com/russia/12Jan2005/ciklon.html\n</segment>
+		<group id="54" type="span" parent="121" relname="preparation"/>
+		<group id="50" type="span" parent="54" relname="span"/>
+		<group id="49" type="span" parent="42" relname="purpose"/>
+		<group id="45" type="span" parent="48" relname="purpose"/>
+		<group id="48" type="multinuc" parent="49" relname="span"/>
+		<group id="53" type="span" parent="50" relname="attribution"/>
+		<group id="121" type="span" parent="122" relname="span"/>
+		<group id="61" type="span" parent="120" relname="preparation"/>
+		<group id="59" type="span" parent="61" relname="span"/>
+		<group id="58" type="span" parent="55" relname="cause-effect"/>
+		<group id="120" type="multinuc" parent="121" relname="span"/>
+		<group id="78" type="multinuc" parent="120" relname="joint"/>
+		<group id="66" type="span" parent="78" relname="joint"/>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="77" type="multinuc" parent="78" relname="joint"/>
+		<group id="76" type="span" parent="77" relname="joint"/>
+		<group id="72" type="span" parent="76" relname="span"/>
+		<group id="75" type="span" parent="72" relname="attribution"/>
+		<group id="119" type="span" parent="120" relname="joint"/>
+		<group id="118" type="multinuc" parent="119" relname="span"/>
+		<group id="90" type="multinuc" parent="118" relname="joint"/>
+		<group id="82" type="span" parent="90" relname="joint"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="87" type="span" parent="88" relname="same-unit"/>
+		<group id="117" type="span" parent="118" relname="joint"/>
+		<group id="109" type="span" parent="117" relname="span"/>
+		<group id="95" type="multinuc" parent="109" relname="span"/>
+		<group id="94" type="multinuc" parent="95" relname="same-unit"/>
+		<group id="108" type="multinuc" parent="95" relname="elaboration"/>
+		<group id="100" type="multinuc" parent="108" relname="joint"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="107" type="span" parent="108" relname="joint"/>
+		<group id="106" type="span" parent="103" relname="elaboration"/>
+		<group id="116" type="multinuc" parent="109" relname="elaboration"/>
+		<group id="115" type="span" parent="116" relname="contrast"/>
+		<group id="114" type="span" parent="111" relname="condition"/>
+		<group id="122" type="span"/>
+	</body>
+</rst>

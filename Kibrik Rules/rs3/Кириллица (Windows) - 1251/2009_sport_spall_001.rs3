@@ -1,0 +1,76 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="28" parent="29" relname="attribution">Лучано Спаллетти возглавил \"Зенит\" не из-за денег\n\nНовый рулевой питерского \"Зенита\" Лучано Спаллетти признался,</segment>
+		<segment id="29" parent="30" relname="span">что его выбор пал в пользу российской команды не только из-за выгодного с финансовой точки зрения предложения сине-бело-голубых.\n\n</segment>
+		<segment id="31" parent="35" relname="contrast">\"Я никогда не хотел покидать \"Рому\",</segment>
+		<segment id="32" parent="34" relname="span">но порой жизнь складывается так,</segment>
+		<segment id="33" parent="32" relname="cause-effect">что у тебя не остается иного выбора,</segment>
+		<segment id="36" parent="35" relname="attribution">- заявил Спаллетти в интервью Gazzetta dello Sport.</segment>
+		<segment id="39" parent="78" relname="solutionhood">- Почему мой выбор пал именно на \"Зенит\"?</segment>
+		<segment id="40" parent="42" relname="joint">Просто российский клуб проявил очень серьезную заинтересованность в моих услугах</segment>
+		<segment id="41" parent="42" relname="joint">и позволил мне спокойно оценить структуру клуба.</segment>
+		<segment id="43" parent="42" relname="elaboration">Руководители \"Зенита\" - молодые, профессиональные и думающие о перспективах люди.</segment>
+		<segment id="45" parent="47" relname="span">Эти аспекты являются очень важными</segment>
+		<segment id="46" parent="45" relname="condition">при принятии подобных решений.</segment>
+		<segment id="48" parent="50" relname="span">Вообще, финансовая сторона вопроса не имела решающего значения.</segment>
+		<segment id="49" parent="48" relname="interpretation-evaluation">Я с удовольствием буду жить со своей семьей в Санкт-Петербурге.</segment>
+		<segment id="52" parent="53" relname="purpose">Для меня при определении нового места работы</segment>
+		<segment id="53" parent="54" relname="span">были важны условия.</segment>
+		<segment id="55" parent="54" relname="elaboration">Я намерен поучаствовать в проекте по созданию сильной команды как на национальном, так и на европейском уровне.</segment>
+		<segment id="57" parent="61" relname="span">Кроме того, важное значение имело мнение семьи:</segment>
+		<segment id="58" parent="60" relname="joint">Тамара и ребята согласились с моим выбором</segment>
+		<segment id="59" parent="60" relname="joint">и полностью меня поддержали\".\n\</segment>
+		<segment id="62" parent="68" relname="same-unit">nПо слухам,</segment>
+		<segment id="63" parent="66" relname="condition">если бы Спаллетти немного повременил с окончательным решением,</segment>
+		<segment id="64" parent="66" relname="span">то ему могли бы поступить предложения от грандов европейского футбола - \"Реала\", \"Милана\" или \"Ювентуса\".\n\n\"Мне очень хотелось поработать за рубежом,</segment>
+		<segment id="65" parent="64" relname="background">используя тот опыт, который получил за годы карьеры в Италии,</segment>
+		<segment id="69" parent="72" relname="attribution">- отметил новоявленный наставник питерцев.</segment>
+		<segment id="70" parent="72" relname="span">- Я планирую поделиться всеми тонкостями итальянского футбола,</segment>
+		<segment id="71" parent="70" relname="cause-effect">ведь наша общая миссия в жизни состоит в том, чтобы дарить свои знания другим людям\".\n\nИсточник: https://www.newsru.com/sport/13Dec2009/spall.html\n</segment>
+		<group id="38" type="multinuc" parent="80" relname="joint"/>
+		<group id="30" type="span" parent="38" relname="contrast"/>
+		<group id="37" type="span" parent="38" relname="contrast"/>
+		<group id="35" type="multinuc" parent="37" relname="span"/>
+		<group id="34" type="span" parent="35" relname="contrast"/>
+		<group id="79" type="span" parent="80" relname="joint"/>
+		<group id="78" type="span" parent="79" relname="span"/>
+		<group id="44" type="span" parent="77" relname="preparation"/>
+		<group id="42" type="multinuc" parent="44" relname="span"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="51" type="span" parent="76" relname="preparation"/>
+		<group id="47" type="span" parent="51" relname="span"/>
+		<group id="50" type="span" parent="47" relname="elaboration"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="56" type="span" parent="76" relname="joint"/>
+		<group id="54" type="span" parent="56" relname="span"/>
+		<group id="75" type="span" parent="76" relname="joint"/>
+		<group id="61" type="span" parent="75" relname="span"/>
+		<group id="60" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="74" type="span" parent="61" relname="elaboration"/>
+		<group id="68" type="multinuc" parent="74" relname="span"/>
+		<group id="67" type="span" parent="68" relname="same-unit"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="73" type="span" parent="68" relname="attribution"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="80" type="multinuc"/>
+	</body>
+</rst>

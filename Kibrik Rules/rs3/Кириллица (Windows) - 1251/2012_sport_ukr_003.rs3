@@ -1,0 +1,54 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="25" relname="joint">Украина потратила на подготовку к Евро-2012 свыше 5 млрд долларов\n\</segment>
+		<segment id="22" parent="24" relname="span">nЗа четыре года подготовки к футбольному чемпионату Европы</segment>
+		<segment id="23" parent="22" relname="elaboration">Украина потратила из государственной казны около 42 млрд гривен (5,2 млрд долларов).</segment>
+		<segment id="26" parent="28" relname="span">Такие данные предоставило Национальное агентство по вопросам подготовки и проведения на Украине финальной части Евро-2012.\n\nСогласно Государственной целевой программе,</segment>
+		<segment id="27" parent="26" relname="elaboration">в 2008-2011 годах было выделено государственных средств в размере 41 млрд 752 млн гривен.</segment>
+		<segment id="29" parent="31" relname="span">Эта сумма пошла как на инвестиции в спортивную инфраструктуру,</segment>
+		<segment id="30" parent="29" relname="background">которая непосредственно касается ЧЕ-2012,</segment>
+		<segment id="32" parent="33" relname="joint">и на то, что относится к чемпионату косвенно.\n\n</segment>
+		<segment id="35" parent="37" relname="span">\"Общая сумма инвестиций в подготовку стадионов и аэропортов составляет около 20 млрд гривен,</segment>
+		<segment id="36" parent="35" relname="attribution">- цитирует ИТАР-ТАСС заместителя главы Национального агентства по подготовке Евро Валерия Жалдака.</segment>
+		<segment id="39" parent="41" relname="joint">- На строительство новых и реконструкцию действующих стадионов было потрачено 7194,4 млн гривен.</segment>
+		<segment id="40" parent="41" relname="joint">На строительство новых, реконструкцию и дооснащение действующих тренировочных баз - 344,49 млн гривен\".\n\nНа развитие аэропортов государство потратило 10,5 млрд гривен.</segment>
+		<segment id="42" parent="44" relname="joint">В стоимость вошли взлетно-посадочные полосы во всех принимающих городах,</segment>
+		<segment id="43" parent="44" relname="joint">за исключением Киева, и два терминала в Донецке и Львове.</segment>
+		<segment id="45" parent="47" relname="comparison">Терминал в \"Борисполе\" строится за счет собственных средств аэропорта,</segment>
+		<segment id="46" parent="47" relname="comparison">а в Харькове - за счет инвестора,</segment>
+		<segment id="48" parent="49" relname="joint">отметил Жалдак.\n\nКрупная сумма израсходована на строительство, реконструкцию, капитальный и текущий ремонт автомобильных дорог - 18,3 млрд гривен.</segment>
+		<segment id="51" parent="55" relname="joint">Еще свыше 1,5 млрд гривен пошло на ремонт автодорог и обеспечение транспортных услуг в городах, принимающих чемпионат.\n\nПочти 2 млрд гривен потрачено на строительство железнодорожно-автомобильного и Подольского мостовых переходов через Днепр в Киеве.</segment>
+		<segment id="52" parent="54" relname="span">Ремонтировались также общежития, в которых будут жить гости чемпионата, театры и музеи.\n\nЦелевая программа по подготовке к чемпионату Европы предусматривает финансирование в общем размере более 117 млрд гривен,</segment>
+		<segment id="53" parent="52" relname="elaboration">включая как государственное финансирование, так и средства инвесторов.\n\nИсточник: https://www.newsru.com/sport/13Mar2012/ukr.html\n</segment>
+		<group id="25" type="multinuc" parent="58" relname="preparation"/>
+		<group id="24" type="span" parent="25" relname="joint"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="38" type="span" parent="58" relname="joint"/>
+		<group id="34" type="multinuc" parent="38" relname="span"/>
+		<group id="28" type="span" parent="34" relname="joint"/>
+		<group id="33" type="multinuc" parent="34" relname="joint"/>
+		<group id="31" type="span" parent="33" relname="joint"/>
+		<group id="37" type="span" parent="34" relname="elaboration"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="41" type="multinuc" parent="57" relname="joint"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="50" type="multinuc" parent="56" relname="joint"/>
+		<group id="44" type="multinuc" parent="50" relname="joint"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="47" type="multinuc" parent="49" relname="joint"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="59" type="span"/>
+	</body>
+</rst>

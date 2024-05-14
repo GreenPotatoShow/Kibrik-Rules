@@ -1,0 +1,41 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="16" relname="span">На Виктора Януковича готовится покушение,</segment>
+		<segment id="15" parent="14" relname="attribution">утверждает депутат Верховной Рады\n\</segment>
+		<segment id="17" parent="19" relname="span">nВо время подготовки и проведения переголосования второго тура выборов президента Украины 26 декабря возможна реализация сценариев срыва выборов,</segment>
+		<segment id="18" parent="17" relname="elaboration">среди которых - покушение на кандидата в президенты Виктора Януковича или введение чрезвычайного положения.\n\nОб этом в понедельник,</segment>
+		<segment id="20" parent="21" relname="sequence">13 декабря в эфире ТРК \"Эра\" заявил народный депутат, заместитель председателя комитета Верховной Рады по борьбе с организованной преступностью и коррупцией Григорий Омельченко</segment>
+		<segment id="22" parent="29" relname="attribution">.\n\nВ частности, по словам Омельченко,</segment>
+		<segment id="23" parent="25" relname="joint">\"из компетентных источников\" им получена информация,</segment>
+		<segment id="24" parent="25" relname="joint">в соответствии с которой покушение на Виктора Януковича может произойти во время его визита \"в одну из западно-украинских областей\".\n\</segment>
+		<segment id="26" parent="28" relname="contrast">nПосле этого в стране должно быть введено чрезвычайное положение,</segment>
+		<segment id="27" parent="28" relname="contrast">а переголосование перенесено на неопределенный срок,</segment>
+		<segment id="32" parent="35" relname="attribution">сообщает ИА \"Новости Украина\".\n\nЗамглавы парламентского комитета выразил надежду,</segment>
+		<segment id="33" parent="34" relname="cause-effect">что после обнародования им данного сценария,</segment>
+		<segment id="34" parent="35" relname="span">осуществление подобных планов станет невозможным.\n\nИсточник: https://www.newsru.com/world/13Dec2004/pokush.html\n</segment>
+		<group id="16" type="span" parent="38" relname="joint"/>
+		<group id="37" type="multinuc" parent="38" relname="joint"/>
+		<group id="31" type="multinuc" parent="37" relname="joint"/>
+		<group id="21" type="multinuc" parent="31" relname="joint"/>
+		<group id="19" type="span" parent="21" relname="sequence"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="span"/>
+		<group id="25" type="multinuc" parent="29" relname="span"/>
+		<group id="28" type="multinuc" parent="25" relname="elaboration"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="span"/>
+		<group id="38" type="multinuc"/>
+	</body>
+</rst>

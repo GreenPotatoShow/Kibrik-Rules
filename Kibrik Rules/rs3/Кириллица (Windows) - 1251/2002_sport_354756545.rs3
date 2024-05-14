@@ -1,0 +1,36 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="16" relname="sequence">Президент ХК \"Динамо\" Сергей Сидоровский подал в отставку\n\nНеожиданное известие пришло из ХК \"Динамо\" Москва:</segment>
+		<segment id="13" parent="14" relname="attribution">президент клуба Сергей Сидоровский объявил</segment>
+		<segment id="14" parent="15" relname="span">о своем решении уйти в отставку.</segment>
+		<segment id="17" parent="18" relname="attribution">Как сообщает \"Весь хоккей\",</segment>
+		<segment id="18" parent="19" relname="span">затянувшаяся серия неудач в московском \"Динамо\" предвещала изменения в команде.</segment>
+		<segment id="20" parent="21" relname="joint">Два домашних поражения от \"Нефтехимика\" и \"Ак Барса\" накалили ситуацию до предела.\n\</segment>
+		<segment id="22" parent="26" relname="contrast">nИ вот случилось то, чего ждали, отставка.</segment>
+		<segment id="23" parent="25" relname="span">Но покидает команду не главный тренер, а президент.</segment>
+		<segment id="24" parent="23" relname="elaboration">Сергей Сидоровский взял на себя всю ответственность за неудачи команды.</segment>
+		<segment id="28" parent="30" relname="sequence">В прошлом году он был одним из тех, кто принимал решение об отстранении с поста главного тренера Зинутэлы Билялетдинова и назначении на его место Владимира Семенова.</segment>
+		<segment id="29" parent="30" relname="sequence">Теперь он выразил готовность ответить за свои действия.\n\nИсточник: https://www.newsru.com/sport/08Jan2002/354756545.html\n</segment>
+		<group id="16" type="multinuc" parent="31" relname="preparation"/>
+		<group id="15" type="span" parent="16" relname="sequence"/>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="27" type="multinuc" parent="31" relname="joint"/>
+		<group id="21" type="multinuc" parent="27" relname="joint"/>
+		<group id="19" type="span" parent="21" relname="joint"/>
+		<group id="26" type="multinuc" parent="27" relname="joint"/>
+		<group id="25" type="span" parent="26" relname="contrast"/>
+		<group id="30" type="multinuc" parent="31" relname="joint"/>
+		<group id="32" type="span"/>
+	</body>
+</rst>

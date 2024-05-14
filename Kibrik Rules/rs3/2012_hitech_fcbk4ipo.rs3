@@ -1,0 +1,142 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="63" parent="65" relname="span">Facebook подала заявку на первичное размещение акций,</segment>
+		<segment id="64" parent="63" relname="cause-effect">оценив себя в 100 миллиардов\n\</segment>
+		<segment id="66" parent="68" relname="span">nКомпания,</segment>
+		<segment id="67" parent="66" relname="elaboration">владеющая крупнейшей социальной сетью мира Facebook,</segment>
+		<segment id="69" parent="70" relname="same-unit">подала заявку на первичное размещение своих акций.</segment>
+		<segment id="71" parent="75" relname="span">Пока неизвестно, на какой бирже - нью-йоркской NYSE или электронной Nasdaq</segment>
+		<segment id="72" parent="74" relname="span">- произойдет размещение акций.</segment>
+		<segment id="73" parent="72" relname="elaboration">Их стоимость и сроки IPO также не называются.\n\nАндеррайтерами IPO выступят инвестиционные банки Morgan Stanley, Goldman Sachs, Bank of America Merrill Lynch, Barclays Capital и JP Morgan,</segment>
+		<segment id="76" parent="77" relname="attribution">сообщает РИА \"Новости\".\n\nКомпания, основанная Марком Цукербергом в 2004 году,</segment>
+		<segment id="77" parent="78" relname="span">надеется получить оценку своей стоимости в 75-100 млрд долларов.</segment>
+		<segment id="81" parent="82" relname="attribution">По данным Комиссии по ценным бумагам США,</segment>
+		<segment id="82" parent="83" relname="span">Facebook надеется привлечь инвестиции в объеме пяти миллиардов долларов,</segment>
+		<segment id="84" parent="86" relname="span">однако источники газеты The Wall Street Journal называют сумму в 10 млрд.\n\nFacebook,</segment>
+		<segment id="85" parent="84" relname="background">созданная в общежитии Гарвардского университета в 2004 году,</segment>
+		<segment id="87" parent="95" relname="span">сейчас имеет 845 млн ежемесячных уникальных пользователей</segment>
+		<segment id="88" parent="94" relname="span">(года назад таких было 608 млн),</segment>
+		<segment id="89" parent="93" relname="same-unit">которые имеют 100 млрд связей,</segment>
+		<segment id="90" parent="92" relname="joint">каждый день оставляют 2,7 млрд \"лайков\" и комментариев,</segment>
+		<segment id="91" parent="92" relname="joint">а также загружают 250 млн фотографий.\n\nДанное IPO может стать крупнейшим в истории интернет-компаний.</segment>
+		<segment id="98" parent="100" relname="span">Аналитики называют его одним из самых ожидаемых на рынке после IPO Google,</segment>
+		<segment id="99" parent="98" relname="elaboration">оценившего себя в 29 млрд долларов,</segment>
+		<segment id="101" parent="105" relname="span">в 2004 году.\n\</segment>
+		<segment id="102" parent="104" relname="span">nНакануне размещения потенциальные инвесторы смогли впервые получить официальные данные о финансовых показателях компании,</segment>
+		<segment id="103" parent="102" relname="attribution">передает \"Интерфакс\".</segment>
+		<segment id="107" parent="119" relname="contrast">Ранее Facebook официально никогда не раскрывала подобные данные,</segment>
+		<segment id="108" parent="118" relname="span">но ей все равно пришлось бы это сделать до апреля текущего года.</segment>
+		<segment id="109" parent="117" relname="joint">У компании уже более 500 частных инвесторов,</segment>
+		<segment id="110" parent="115" relname="attribution">а это делает обнародование сведений о доходах обязательным.\n\nFacebook сообщила,</segment>
+		<segment id="111" parent="115" relname="comparison">что прибыль составила в прошлом году около 1 млрд долларов,</segment>
+		<segment id="112" parent="114" relname="comparison">увеличившись по сравнению с предыдущим годом на 65%,</segment>
+		<segment id="113" parent="114" relname="comparison">при выручке в 3,71 млрд долларов.</segment>
+		<segment id="121" parent="124" relname="attribution">Эксперты,</segment>
+		<segment id="122" parent="124" relname="span">оказавшиеся не слишком проницательными,</segment>
+		<segment id="123" parent="122" relname="background">ранее оценивали прибыль компании в 3,5-4 млрд,</segment>
+		<segment id="126" parent="134" relname="span">тем не менее понятно, что растет она стремительными темпами:</segment>
+		<segment id="127" parent="133" relname="comparison">в 2009 году чистый доход компании составлял 229 млн долларов,</segment>
+		<segment id="128" parent="132" relname="comparison">а в 2010-м - 606 млн.\n\nПочти 85% доходов, которые за год выросли на 88%,</segment>
+		<segment id="129" parent="131" relname="joint">было получено от рекламы,</segment>
+		<segment id="130" parent="131" relname="joint">остальное - за счет игр и других выплат.\n\</segment>
+		<segment id="136" parent="137" relname="attribution">nСогласно представленным данным,</segment>
+		<segment id="137" parent="138" relname="span">компания потратила в прошлом году на разработки и исследования 114 млн долларов против 9 млн долларов годом ранее.</segment>
+		<segment id="139" parent="143" relname="joint">Число сотрудников составляет в Facebook 3200 против 2170 годом ранее.\n\</segment>
+		<segment id="140" parent="141" relname="attribution">nВ письме инвесторам основатель и глава Facebook Марк Цукерберг отметил,</segment>
+		<segment id="141" parent="142" relname="span">что видит задачу в том, чтобы сделать мир более открытым и взаимосвязанным, а не просто в создании бизнеса:</segment>
+		<segment id="145" parent="158" relname="interpretation-evaluation">\"Скажу проще:</segment>
+		<segment id="146" parent="148" relname="span">мы не создаем сервисы,</segment>
+		<segment id="147" parent="146" relname="purpose">чтобы зарабатывать,</segment>
+		<segment id="149" parent="151" relname="span">мы зарабатываем,</segment>
+		<segment id="150" parent="149" relname="purpose">чтобы создавать более хорошие сервисы\".\n\</segment>
+		<segment id="153" parent="157" relname="comparison">nСам он получил в прошлом году компенсационный пакет в размере почти 1,5 долларов</segment>
+		<segment id="154" parent="156" relname="span">- больше, чем вся выручка компании,</segment>
+		<segment id="155" parent="154" relname="elaboration">из них собственно зарплата составила около 500 млн долларов.</segment>
+		<segment id="162" parent="172" relname="joint">Однако начиная с 2012 года самый молодой миллиардер в истории собирается, как в свое время покойный Стив Джобс, установить себе зарплату в 1 доллар в год.\n\nМарк Цукерберг полностью контролирует бизнес компании:</segment>
+		<segment id="163" parent="165" relname="joint">заключила с ним соглашение о праве голосовать их акциями после IPO,</segment>
+		<segment id="164" parent="165" relname="joint">другие выдали главе компании \"безотзывную доверенность\" на голосование по всем вопросам, касающимся работы компании.\n\nТаким образом, Цукерберг владеет 28,2% голосующих акций,</segment>
+		<segment id="166" parent="168" relname="comparison">однако сможет голосовать,</segment>
+		<segment id="167" parent="168" relname="comparison">как если бы у него было 57% голосующих акций,</segment>
+		<segment id="169" parent="170" relname="comparison">отмечает газета \"Ведомости\".\n\nПохожие условия для своих акционеров имеют и Google, и китайский Baidu, и \"Яндекс\".</segment>
+		<segment id="173" parent="176" relname="attribution">Как ранее пояснял газете гендиректор \"Яндекса\" Аркадий Волож,</segment>
+		<segment id="174" parent="176" relname="span">так часто поступают компании,</segment>
+		<segment id="175" parent="174" relname="elaboration">в которых бизнес на 90% зависит от творческого коллектива.\n\nИсточник: https://www.newsru.com/hitech/02Feb2012/fcbk4ipo.html\n</segment>
+		<group id="65" type="span" parent="184" relname="preparation"/>
+		<group id="184" type="span" parent="185" relname="span"/>
+		<group id="80" type="span" parent="183" relname="preparation"/>
+		<group id="70" type="multinuc" parent="80" relname="span"/>
+		<group id="68" type="span" parent="70" relname="same-unit"/>
+		<group id="79" type="span" parent="70" relname="elaboration"/>
+		<group id="75" type="span" parent="79" relname="span"/>
+		<group id="74" type="span" parent="71" relname="elaboration"/>
+		<group id="78" type="span" parent="75" relname="attribution"/>
+		<group id="183" type="multinuc" parent="184" relname="span"/>
+		<group id="97" type="multinuc" parent="183" relname="joint"/>
+		<group id="83" type="span" parent="97" relname="contrast"/>
+		<group id="96" type="span" parent="97" relname="contrast"/>
+		<group id="86" type="span" parent="96" relname="span"/>
+		<group id="95" type="span" parent="86" relname="elaboration"/>
+		<group id="94" type="span" parent="87" relname="elaboration"/>
+		<group id="93" type="multinuc" parent="88" relname="elaboration"/>
+		<group id="92" type="multinuc" parent="93" relname="same-unit"/>
+		<group id="182" type="multinuc" parent="183" relname="joint"/>
+		<group id="120" type="multinuc" parent="182" relname="joint"/>
+		<group id="106" type="multinuc" parent="120" relname="joint"/>
+		<group id="100" type="span" parent="106" relname="joint"/>
+		<group id="105" type="span" parent="106" relname="joint"/>
+		<group id="104" type="span" parent="101" relname="elaboration"/>
+		<group id="119" type="multinuc" parent="120" relname="joint"/>
+		<group id="118" type="span" parent="119" relname="contrast"/>
+		<group id="117" type="multinuc" parent="108" relname="elaboration"/>
+		<group id="116" type="span" parent="117" relname="joint"/>
+		<group id="115" type="multinuc" parent="116" relname="span"/>
+		<group id="114" type="multinuc" parent="115" relname="comparison"/>
+		<group id="181" type="span" parent="182" relname="joint"/>
+		<group id="135" type="multinuc" parent="180" relname="preparation"/>
+		<group id="125" type="span" parent="135" relname="contrast"/>
+		<group id="124" type="span" parent="125" relname="span"/>
+		<group id="134" type="span" parent="135" relname="contrast"/>
+		<group id="133" type="multinuc" parent="126" relname="elaboration"/>
+		<group id="132" type="multinuc" parent="133" relname="comparison"/>
+		<group id="131" type="multinuc" parent="132" relname="comparison"/>
+		<group id="180" type="multinuc" parent="181" relname="span"/>
+		<group id="144" type="multinuc" parent="180" relname="joint"/>
+		<group id="138" type="span" parent="144" relname="joint"/>
+		<group id="143" type="multinuc" parent="144" relname="joint"/>
+		<group id="142" type="span" parent="143" relname="joint"/>
+		<group id="179" type="multinuc" parent="180" relname="joint"/>
+		<group id="159" type="span" parent="179" relname="contrast"/>
+		<group id="158" type="span" parent="159" relname="span"/>
+		<group id="152" type="multinuc" parent="158" relname="span"/>
+		<group id="148" type="span" parent="152" relname="joint"/>
+		<group id="151" type="span" parent="152" relname="joint"/>
+		<group id="157" type="multinuc" parent="152" relname="elaboration"/>
+		<group id="156" type="span" parent="157" relname="comparison"/>
+		<group id="178" type="span" parent="179" relname="contrast"/>
+		<group id="172" type="multinuc" parent="178" relname="span"/>
+		<group id="171" type="multinuc" parent="172" relname="joint"/>
+		<group id="165" type="multinuc" parent="171" relname="contrast"/>
+		<group id="170" type="multinuc" parent="171" relname="contrast"/>
+		<group id="168" type="multinuc" parent="170" relname="comparison"/>
+		<group id="177" type="span" parent="172" relname="elaboration"/>
+		<group id="176" type="span" parent="177" relname="span"/>
+		<group id="185" type="span"/>
+	</body>
+</rst>

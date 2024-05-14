@@ -1,0 +1,197 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="91" parent="95" relname="joint">Янукович неожиданно явился в московский суд</segment>
+		<segment id="92" parent="94" relname="joint">и рассказал об иностранных снайперах на Майдане\n\nБывший президент Украины Виктор Янукович неожиданно явился в Дрогомиловский суд Москвы</segment>
+		<segment id="93" parent="94" relname="joint">и дал показания в качестве заинтересованного лица по иску бывшего депутата Верховной Рады Владимира Олейника о признании произошедших на Украине в 2014 году событий государственным переворотом.</segment>
+		<segment id="96" parent="104" relname="joint">В Киеве тем временем суд санкционировал задержание экс-главы государства</segment>
+		<segment id="97" parent="103" relname="span">.\n\nОлейник,</segment>
+		<segment id="98" parent="102" relname="same-unit">который является соучредителем Комитета спасения Украины,</segment>
+		<segment id="99" parent="101" relname="contrast">ранее обращался в украинскую Генпрокуратуру с требованием возбудить уголовное дело по факту госпереворота,</segment>
+		<segment id="100" parent="101" relname="contrast">но получил отказ.</segment>
+		<segment id="106" parent="110" relname="same-unit">При этом экс-депутат,</segment>
+		<segment id="107" parent="108" relname="attribution">по его словам,</segment>
+		<segment id="108" parent="109" relname="span">намерен использовать всю судебную систему Украины</segment>
+		<segment id="111" parent="119" relname="span">и обратиться в Европейский суд по правам человека для признания переворота в феврале 2014 года как юридического факта,</segment>
+		<segment id="112" parent="118" relname="span">передает ТАСС.\n\nКак отмечается в иске,</segment>
+		<segment id="113" parent="117" relname="span">Олейник надеется защитить свои права гражданина Украины в российском суде,</segment>
+		<segment id="114" parent="116" relname="span">руководствуясь принятой Генеральной Ассамблеей ООН Всеобщей декларацией прав человека,</segment>
+		<segment id="115" parent="114" relname="elaboration">ратифицированной как Россией, так и Украиной.\n\nВ четверг в суд для дачи показаний</segment>
+		<segment id="120" parent="126" relname="span">прибыл Виктор Янукович,</segment>
+		<segment id="123" parent="125" relname="same-unit">который, отвечая на вопросы судьи,</segment>
+		<segment id="124" parent="125" relname="same-unit">подчеркнул,</segment>
+		<segment id="127" parent="128" relname="span">что готов давать показания в качестве заинтересованного лица.</segment>
+		<segment id="131" parent="139" relname="span">\"Я решил принять участие в суде,</segment>
+		<segment id="132" parent="137" relname="cause-effect">так как события 2013-2014-х годов вышли за пределы правового поля,</segment>
+		<segment id="133" parent="137" relname="joint">проходили с нарушением законов Украины,</segment>
+		<segment id="134" parent="136" relname="joint">повлекли тяжкие последствия,</segment>
+		<segment id="135" parent="136" relname="joint">пострадали граждане Украины и других стран\",</segment>
+		<segment id="140" parent="139" relname="attribution">- пояснил он.\n\n</segment>
+		<segment id="143" parent="147" relname="contrast">\"Сегодня я буду свидетельствовать по всем этим фактам,</segment>
+		<segment id="144" parent="146" relname="span">но прежде всего по факту государственного переворота,</segment>
+		<segment id="145" parent="144" relname="elaboration">который повлек тяжкие последствия для моей страны\",</segment>
+		<segment id="148" parent="164" relname="span">- акцентировал Янукович.\n\</segment>
+		<segment id="149" parent="163" relname="span">nГоворя о событиях почти трехлетней давности,</segment>
+		<segment id="150" parent="155" relname="attribution">бывший президент Украины заявил,</segment>
+		<segment id="153" parent="155" relname="span">что снайперы, которые стреляли в феврале 2014 года на площади Независимости в Киеве в ходе Евромайдана, прибыли на Украину из других стран.\n\n\"Была информация о том, что снайперы прибыли на Украину из других стран,</segment>
+		<segment id="154" parent="153" relname="elaboration">многие снайперы были в масках.</segment>
+		<segment id="157" parent="158" relname="cause-effect">Стрельба велась из зданий, которые контролировал Майдан.</segment>
+		<segment id="158" parent="159" relname="span">Попытки попасть в эти здания со стороны представителей Майдана пресекались\",</segment>
+		<segment id="160" parent="159" relname="attribution">- отметил Янукович,</segment>
+		<segment id="166" parent="167" relname="cause-effect">не уточнив, гражданами каких стран были эти снайперы (цитата по РИА \"Новости\").\n\nКроме того, экс-президент Украины в ходе судебного заседания в очередной раз подчеркнул,</segment>
+		<segment id="167" parent="168" relname="span">что его отстранили от власти в нарушение украинской конституции.</segment>
+		<segment id="169" parent="172" relname="attribution">В частности, по его словам,</segment>
+		<segment id="170" parent="172" relname="span">не была выполнена процедура импичмента.\n\n\"Данное решение нарушает статью 108 конституции,</segment>
+		<segment id="171" parent="170" relname="elaboration">которая предполагает следующие основания для прекращения полномочий президента.</segment>
+		<segment id="174" parent="178" relname="span">Первое - добровольная отставка.</segment>
+		<segment id="175" parent="177" relname="joint">Я в отставку не подавал.</segment>
+		<segment id="176" parent="177" relname="joint">Второе - невозможность выполнения полномочий президента по состоянию здоровья.</segment>
+		<segment id="179" parent="187" relname="span">Я был абсолютно здоров,</segment>
+		<segment id="180" parent="186" relname="span">у меня никаких проблем со здоровьем не было.</segment>
+		<segment id="181" parent="185" relname="span">Третье - устранение от должности в порядке импичмента.</segment>
+		<segment id="182" parent="184" relname="joint">Эта процедура не была выполнена,</segment>
+		<segment id="183" parent="184" relname="joint">и это тоже нарушение конституции\",</segment>
+		<segment id="188" parent="190" relname="joint">- отметил он.\n\nВспоминая события начала 2014 года,</segment>
+		<segment id="189" parent="190" relname="joint">Янукович также рассказал и о том, как в феврале была предпринята попытка расстрелять его и его сопровождение.</segment>
+		<segment id="194" parent="197" relname="attribution">По его словам,</segment>
+		<segment id="195" parent="197" relname="span">23 февраля 2014 года на его кортеж было совершено нападение по дороге из Киева в Харьков.\n\n\"Потом засада была обнаружена на границе Донецкой и Запорожской области,</segment>
+		<segment id="196" parent="195" relname="background">передовая группа обнаружила вооруженную засаду.</segment>
+		<segment id="199" parent="206" relname="attribution">Один из гаишников сообщил моей охране,</segment>
+		<segment id="200" parent="206" relname="joint">что нас \"ждут\",</segment>
+		<segment id="201" parent="205" relname="span">что дана команда остановить кортеж президента,</segment>
+		<segment id="202" parent="204" relname="joint">расстрелять всех,</segment>
+		<segment id="203" parent="204" relname="joint">никого в живых не оставлять\",</segment>
+		<segment id="209" parent="210" relname="sequence">- рассказал бывший глава государства.\n\n28 ноября Янукович из Советского районного суда Ростова-на-Дону по видеосвязи со второй попытки ответил на вопросы Святошинского районного суда Киева по делу о событиях на майдане Незалежности в 2014 году.</segment>
+		<segment id="216" parent="220" relname="span">Первое заседание, которое должно было состояться 25 ноября, перенесли</segment>
+		<segment id="217" parent="218" relname="cause-effect">из-за невозможности доставить в здание экс-бойцов украинского спецподразделения \"Беркут\", которых обвиняют в убийствах активистов Майдана.\n\nВ начале заседания генпрокурор Украины Юрий Луценко объявил</segment>
+		<segment id="218" parent="219" relname="span">Януковичу подозрения в госизмене и посягательстве на территориальную целостность.</segment>
+		<segment id="221" parent="236" relname="attribution">Луценко сказал,</segment>
+		<segment id="222" parent="236" relname="joint">что экс-президент \"подозревается в совершении государственной измены, пособничестве представителям власти РФ в умышленных действиях, совершенных с целью изменения границ территории и государственной границы Украины на нарушение порядка, установленного конституцией Украины, и ведение агрессивной войны,</segment>
+		<segment id="223" parent="225" relname="span">то есть преступлений, предусмотренных частью 1 статьи 111, частью 5 статьи 27, частью 3 статьи 110, частью 5 статьи 27, частью 2 статьи 437 Уголовного кодекса Украины\" (цитата по текстовой расшифровке сайта телеканала).\n\nКиевский суд санкционировал задержание Януковича\n\nТем временем Печерский районный суд Киева,</segment>
+		<segment id="224" parent="223" relname="elaboration">рассмотрев в ходе закрытого заседания ходатайство прокурора Главной военной прокуратуры Украины Романа Кравченко,</segment>
+		<segment id="226" parent="234" relname="joint">санкционировал задержание бывшего президента страны Виктора Януковича.</segment>
+		<segment id="227" parent="232" relname="attribution">Об этом на своей странице в Facebook написал главный прокурор Украины Юрий Луценко.\n\nОн пояснил,</segment>
+		<segment id="228" parent="232" relname="span">что правоохранительные органы добиваются задержания Януковича,</segment>
+		<segment id="229" parent="231" relname="joint">чтобы затем рассмотреть ходатайство о применении меры пресечения в виде содержания под стражей для бывшего главы государства.\n\nРанее, 10 декабря, Луценко пообещал в начале следующего года предъявить Януковичу обвинение в государственной измене</segment>
+		<segment id="230" parent="231" relname="joint">и начать судебный процесс.</segment>
+		<segment id="239" parent="240" relname="attribution">По его словам,</segment>
+		<segment id="240" parent="241" relname="span">досудебное следствие будет завершено в \"ближайшие месяцы\",</segment>
+		<segment id="242" parent="244" relname="sequence">напоминает РБК.\n\nВиктор Янукович бежал с семьей с Украины в конце февраля 2014 года после акций протеста в центре Киева.</segment>
+		<segment id="243" parent="244" relname="sequence">22 февраля Верховная Рада приняла постановление, в котором говорилось,</segment>
+		<segment id="246" parent="247" relname="span">что Янукович \"самоустранился\" от исполнения обязанностей.</segment>
+		<segment id="248" parent="254" relname="sequence">Полномочия президента были переданы спикеру Рады Александру Турчинову,</segment>
+		<segment id="249" parent="253" relname="span">а 25 мая 2014 года состоялись досрочные выборы главы государства,</segment>
+		<segment id="250" parent="252" relname="span">на которых победил Петр Порошенко.\n\nНа родине Янукович стал фигурантом ряда уголовных дел, в том числе об умышленном массовом убийстве,</segment>
+		<segment id="251" parent="250" relname="elaboration">в рамках которого он был объявлен в международный розыск.</segment>
+		<segment id="255" parent="256" relname="span">Помимо этого, Служба безопасности Украины завела на Януковича уголовное дело об узурпации власти,</segment>
+		<segment id="258" parent="259" relname="cause-effect">а Генпрокуратура Украины открыла уголовное дело о незаконном присвоении госимущества.\n\nВ июне 2015 года Интерпол приостановил розыск экс-президента</segment>
+		<segment id="259" parent="260" relname="span">после того, как адвокаты Януковича подали жалобу на якобы политический характер его преследования.</segment>
+		<segment id="262" parent="266" relname="span">Летом 2016 года Генпрокуратура России отказалась выдавать Януковича Украине,</segment>
+		<segment id="263" parent="264" relname="attribution">так как сочла</segment>
+		<segment id="264" parent="265" relname="span">его уголовное преследование на родине политически мотивированным.\n\nИсточник: https://www.newsru.com/russia/15Dec2016/yanukovitch.html\n</segment>
+		<group id="215" type="multinuc" parent="269" relname="joint"/>
+		<group id="105" type="multinuc" parent="215" relname="joint"/>
+		<group id="95" type="multinuc" parent="105" relname="sequence"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="104" type="multinuc" parent="105" relname="sequence"/>
+		<group id="103" type="span" parent="104" relname="joint"/>
+		<group id="102" type="multinuc" parent="97" relname="elaboration"/>
+		<group id="101" type="multinuc" parent="102" relname="same-unit"/>
+		<group id="214" type="multinuc" parent="215" relname="joint"/>
+		<group id="142" type="span" parent="214" relname="joint"/>
+		<group id="130" type="multinuc" parent="142" relname="span"/>
+		<group id="110" type="multinuc" parent="130" relname="joint"/>
+		<group id="109" type="span" parent="110" relname="same-unit"/>
+		<group id="129" type="span" parent="130" relname="joint"/>
+		<group id="119" type="span" parent="129" relname="span"/>
+		<group id="118" type="span" parent="111" relname="elaboration"/>
+		<group id="117" type="span" parent="112" relname="purpose"/>
+		<group id="116" type="span" parent="113" relname="elaboration"/>
+		<group id="128" type="span" parent="119" relname="elaboration"/>
+		<group id="126" type="span" parent="127" relname="attribution"/>
+		<group id="125" type="multinuc" parent="120" relname="background"/>
+		<group id="141" type="span" parent="130" relname="background"/>
+		<group id="139" type="span" parent="141" relname="span"/>
+		<group id="138" type="span" parent="131" relname="cause-effect"/>
+		<group id="137" type="multinuc" parent="138" relname="span"/>
+		<group id="136" type="multinuc" parent="137" relname="joint"/>
+		<group id="213" type="multinuc" parent="214" relname="joint"/>
+		<group id="165" type="multinuc" parent="213" relname="joint"/>
+		<group id="147" type="multinuc" parent="165" relname="joint"/>
+		<group id="146" type="span" parent="147" relname="contrast"/>
+		<group id="164" type="span" parent="165" relname="joint"/>
+		<group id="163" type="span" parent="148" relname="elaboration"/>
+		<group id="162" type="span" parent="149" relname="elaboration"/>
+		<group id="156" type="span" parent="162" relname="span"/>
+		<group id="155" type="span" parent="156" relname="span"/>
+		<group id="161" type="span" parent="156" relname="elaboration"/>
+		<group id="159" type="span" parent="161" relname="span"/>
+		<group id="212" type="multinuc" parent="213" relname="joint"/>
+		<group id="168" type="span" parent="212" relname="joint"/>
+		<group id="211" type="multinuc" parent="212" relname="joint"/>
+		<group id="193" type="multinuc" parent="211" relname="joint"/>
+		<group id="173" type="span" parent="193" relname="joint"/>
+		<group id="172" type="span" parent="173" relname="span"/>
+		<group id="192" type="span" parent="193" relname="joint"/>
+		<group id="178" type="span" parent="191" relname="preparation"/>
+		<group id="177" type="multinuc" parent="174" relname="elaboration"/>
+		<group id="191" type="multinuc" parent="192" relname="span"/>
+		<group id="187" type="span" parent="191" relname="joint"/>
+		<group id="186" type="span" parent="179" relname="cause-effect"/>
+		<group id="185" type="span" parent="180" relname="elaboration"/>
+		<group id="184" type="multinuc" parent="181" relname="elaboration"/>
+		<group id="190" type="multinuc" parent="191" relname="joint"/>
+		<group id="210" type="multinuc" parent="211" relname="joint"/>
+		<group id="208" type="multinuc" parent="210" relname="sequence"/>
+		<group id="198" type="span" parent="208" relname="sequence"/>
+		<group id="197" type="span" parent="198" relname="span"/>
+		<group id="207" type="span" parent="208" relname="sequence"/>
+		<group id="206" type="multinuc" parent="207" relname="span"/>
+		<group id="205" type="span" parent="206" relname="joint"/>
+		<group id="204" type="multinuc" parent="201" relname="condition"/>
+		<group id="268" type="multinuc" parent="269" relname="joint"/>
+		<group id="238" type="multinuc" parent="268" relname="joint"/>
+		<group id="220" type="span" parent="238" relname="joint"/>
+		<group id="219" type="span" parent="216" relname="cause-effect"/>
+		<group id="237" type="span" parent="238" relname="joint"/>
+		<group id="236" type="multinuc" parent="237" relname="span"/>
+		<group id="235" type="multinuc" parent="236" relname="joint"/>
+		<group id="225" type="span" parent="235" relname="joint"/>
+		<group id="234" type="multinuc" parent="235" relname="joint"/>
+		<group id="233" type="span" parent="234" relname="joint"/>
+		<group id="232" type="span" parent="233" relname="span"/>
+		<group id="231" type="multinuc" parent="228" relname="purpose"/>
+		<group id="267" type="multinuc" parent="268" relname="joint"/>
+		<group id="261" type="multinuc" parent="267" relname="joint"/>
+		<group id="257" type="multinuc" parent="261" relname="sequence"/>
+		<group id="247" type="span" parent="257" relname="sequence"/>
+		<group id="245" type="multinuc" parent="246" relname="cause-effect"/>
+		<group id="241" type="span" parent="245" relname="sequence"/>
+		<group id="244" type="multinuc" parent="245" relname="sequence"/>
+		<group id="256" type="span" parent="257" relname="sequence"/>
+		<group id="254" type="multinuc" parent="255" relname="cause-effect"/>
+		<group id="253" type="span" parent="254" relname="sequence"/>
+		<group id="252" type="span" parent="249" relname="elaboration"/>
+		<group id="260" type="span" parent="261" relname="sequence"/>
+		<group id="266" type="span" parent="267" relname="joint"/>
+		<group id="265" type="span" parent="262" relname="cause-effect"/>
+		<group id="269" type="multinuc"/>
+	</body>
+</rst>

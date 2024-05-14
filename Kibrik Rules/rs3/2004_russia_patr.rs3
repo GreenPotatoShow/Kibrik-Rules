@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="34" relname="span">На Северном Кавказе действуют 10 эмиссаров \"Аль-Каиды\"\n\nНа Северном Кавказе, по оперативным данным, в настоящее время действует около 10 представителей международной террористической сети \"Аль-Каида\".</segment>
+		<segment id="33" parent="32" relname="attribution">Об этом во вторник заявил директор ФСБ России Николай Патрушев,</segment>
+		<segment id="35" parent="37" relname="span">выступая в эфире телеканала НТВ.\n\n\"Хаттаб, который уничтожен,</segment>
+		<segment id="36" parent="35" relname="background">это член \"Аль-Каиды\", Абу аль-Валид, который также был уничтожен,</segment>
+		<segment id="38" parent="40" relname="span">это тоже член \"Аль-Каиды\",</segment>
+		<segment id="39" parent="38" relname="elaboration">далее на его место пришел Абу Хавс.</segment>
+		<segment id="43" parent="47" relname="span">Это все иностранные граждане,</segment>
+		<segment id="44" parent="46" relname="joint">которые находятся на территории России</segment>
+		<segment id="45" parent="46" relname="joint">и являются лидерами этих бандформирований\",</segment>
+		<segment id="48" parent="47" relname="attribution">- сказал Патрушев.\n\n</segment>
+		<segment id="51" parent="52" relname="attribution">\"По нашим данным,</segment>
+		<segment id="52" parent="53" relname="span">в настоящее время на территории Северного Кавказа находятся около 10 представителей \"Аль-Каиды\",</segment>
+		<segment id="54" parent="53" relname="attribution">- добавил он.\n\n</segment>
+		<segment id="56" parent="58" relname="span">\"Совершенно недавно был задержан Абу Мусхаб</segment>
+		<segment id="57" parent="56" relname="elaboration">- это гражданин Алжира,</segment>
+		<segment id="59" parent="64" relname="attribution">в своих показаниях говорит,</segment>
+		<segment id="60" parent="64" relname="joint">что имеет вид на жительство в Великобритании,</segment>
+		<segment id="61" parent="63" relname="span">и прибыл сюда</segment>
+		<segment id="62" parent="61" relname="purpose">для подготовки террористов и совершения терактов\",</segment>
+		<segment id="67" parent="66" relname="attribution">- в качестве примера сообщил директор ФСБ.\n\</segment>
+		<segment id="69" parent="72" relname="attribution">nОн подчеркнул,</segment>
+		<segment id="70" parent="72" relname="joint">что представителей \"Аль-Каиды\" ФСБ России \"знает в оперативном плане</segment>
+		<segment id="71" parent="72" relname="joint">и будет принимать меры с тем, чтобы нейтрализовать их деятельность\".</segment>
+		<segment id="74" parent="76" relname="span">\"Это или их уничтожение, или их задержание и предание суду\",</segment>
+		<segment id="75" parent="74" relname="attribution">- добавил Патрушев</segment>
+		<segment id="77" parent="79" relname="span">.\n\nВ России в нынешнем году предотвращено более 500 терактов, из них 200, которые могли иметь серьезный резонанс в обществе,</segment>
+		<segment id="78" parent="77" relname="attribution">сообщил Николай Патрушев</segment>
+		<segment id="81" parent="87" relname="comparison">.\n\n\"Только в текущем году предотвращено более 200 террористических актов, которые бы имели серьезный резонанс у нас в обществе.</segment>
+		<segment id="82" parent="83" relname="attribution">А в общей сложности статистика говорит,</segment>
+		<segment id="83" parent="84" relname="span">что таких терактов предотвращено в этом году более 500\",</segment>
+		<segment id="85" parent="84" relname="attribution">- сказал Николай Патрушев в интервью телекомпании НТВ во вторник.\n\nИсточник: https://www.newsru.com/russia/05Oct2004/patr.html\n</segment>
+		<group id="50" type="span" parent="92" relname="joint"/>
+		<group id="42" type="span" parent="50" relname="span"/>
+		<group id="34" type="span" parent="42" relname="span"/>
+		<group id="41" type="multinuc" parent="34" relname="background"/>
+		<group id="37" type="span" parent="41" relname="restatement"/>
+		<group id="40" type="span" parent="41" relname="restatement"/>
+		<group id="49" type="span" parent="42" relname="interpretation-evaluation"/>
+		<group id="47" type="span" parent="49" relname="span"/>
+		<group id="46" type="multinuc" parent="43" relname="elaboration"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="55" type="span" parent="91" relname="joint"/>
+		<group id="53" type="span" parent="55" relname="span"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="68" type="span" parent="90" relname="joint"/>
+		<group id="66" type="span" parent="68" relname="span"/>
+		<group id="58" type="span" parent="66" relname="span"/>
+		<group id="65" type="span" parent="58" relname="elaboration"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="73" type="span" parent="89" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="80" type="multinuc" parent="88" relname="comparison"/>
+		<group id="76" type="span" parent="80" relname="joint"/>
+		<group id="79" type="span" parent="80" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="comparison"/>
+		<group id="86" type="span" parent="87" relname="comparison"/>
+		<group id="84" type="span" parent="86" relname="span"/>
+		<group id="92" type="multinuc"/>
+	</body>
+</rst>

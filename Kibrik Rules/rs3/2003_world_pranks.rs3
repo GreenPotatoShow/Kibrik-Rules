@@ -1,0 +1,87 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="36" parent="40" relname="span">У жителей Лондона появилось новое увлечение</segment>
+		<segment id="37" parent="39" relname="span">- они мучают иллюзиониста,</segment>
+		<segment id="38" parent="37" relname="elaboration">9 дней висящего над Темзой\n\</segment>
+		<segment id="41" parent="43" relname="span">nСреди жителей Лондона набирает популярность новый вид спорта - издевательства над Дэвидом Блэйном,</segment>
+		<segment id="42" parent="41" relname="elaboration">передает AP.\n\nАмериканский иллюзионист Дэвид Блэйн находится в плексигласовой капсуле, подвешенной над Темзой.</segment>
+		<segment id="44" parent="45" relname="attribution">Он пообещал,</segment>
+		<segment id="45" parent="46" relname="span">что сможет провести там 44 дня без еды.</segment>
+		<segment id="47" parent="49" relname="joint">В камеру ему будет подаваться только вода,</segment>
+		<segment id="48" parent="49" relname="joint">а по другой трубочке будут отводиться продукты жизнедеятельности.</segment>
+		<segment id="50" parent="51" relname="joint">Доктора будут исследовать их на предмет состояния здоровья иллюзиониста.</segment>
+		<segment id="53" parent="55" relname="span">С собой в капсулу Дэвид Блэйн взял подушку, матрас, запас носовых платков, тетрадку, ручку и портрет покойной матери,</segment>
+		<segment id="54" parent="53" relname="elaboration">который, по его словам, будет придавать ему силы.</segment>
+		<segment id="58" parent="59" relname="joint">С самого начала акции, Блэйн подвергался жестоким и злым шуткам со стороны лондонцев.</segment>
+		<segment id="60" parent="62" relname="span">Весь понедельник Блэйн был вынужден наблюдать за чизбургером,</segment>
+		<segment id="61" parent="60" relname="background">который летал перед его капсулой.</segment>
+		<segment id="63" parent="67" relname="sequence">Шутники прицепили его к игрушечному вертолету на дистанционном управлении.\n\nПосле того, как вертолет сделал несколько \"кругов почета\",</segment>
+		<segment id="64" parent="66" relname="joint">он потерял управление</segment>
+		<segment id="65" parent="66" relname="joint">и разбился на близлежащей автостоянке.\n\nТолпы зевак с камерами и биноклями часами наблюдают за фокусником.</segment>
+		<segment id="69" parent="71" relname="joint">Иногда толпа начинает скандировать</segment>
+		<segment id="70" parent="71" relname="joint">\"Дэвид, сделай что-нибудь!\".\n\nНесколько дней подряд зеваки забрасывали капсулу Блэйна яйцами и жареной картошкой.</segment>
+		<segment id="72" parent="74" relname="span">Один из хулиганов забрасывал капсулу мячиками</segment>
+		<segment id="73" parent="72" relname="purpose">для гольфа,</segment>
+		<segment id="75" parent="77" relname="span">а спать фокуснику приходится под звуки индийского барабана.\n\nПроплывающие по Темзе катера и лодки с туристами сигналят,</segment>
+		<segment id="76" parent="75" relname="elaboration">выражая свою поддержку и восхищение,</segment>
+		<segment id="78" parent="79" relname="joint">а одна девушка сняла перед стеклянной капсулой свой лифчик.\n\</segment>
+		<segment id="81" parent="82" relname="condition">nВо избежание инцидентов,</segment>
+		<segment id="82" parent="83" relname="span">власти усилили охрану вокруг места проведения акции.\n\nТеперь от зевак Дэвида Блэйна защищает проволочный забор,</segment>
+		<segment id="84" parent="86" relname="span">а за толпой наблюдает конный полицейский.\n\nТеперь поклонники прикрепляют к забору таблички \"не беспокоить\", букеты цветов и плюшевых мишек.\n\nВрачи говорят,</segment>
+		<segment id="85" parent="84" relname="interpretation-evaluation">что \"самое интересное у Блэйна впереди\".</segment>
+		<segment id="88" parent="90" relname="span">\"Самая интересная стадия начнется через 12-14 дней,</segment>
+		<segment id="89" parent="88" relname="elaboration">когда Дэвида начнут мучить голодные галлюцинации\",</segment>
+		<segment id="91" parent="90" relname="attribution">- заявил доктор Джон Поттер</segment>
+		<segment id="93" parent="95" relname="span">- психиатр,</segment>
+		<segment id="94" parent="93" relname="elaboration">который наблюдает за состоянием Блэйна.\n\nИсточник: https://www.newsru.com/world/15Sep2003/pranks.html\n</segment>
+		<group id="40" type="span" parent="103" relname="preparation"/>
+		<group id="39" type="span" parent="36" relname="cause-effect"/>
+		<group id="103" type="span" parent="104" relname="span"/>
+		<group id="43" type="span" parent="102" relname="preparation"/>
+		<group id="102" type="multinuc" parent="103" relname="span"/>
+		<group id="52" type="multinuc" parent="102" relname="joint"/>
+		<group id="46" type="span" parent="52" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="49" type="multinuc" parent="51" relname="joint"/>
+		<group id="101" type="multinuc" parent="102" relname="joint"/>
+		<group id="59" type="multinuc" parent="101" relname="joint"/>
+		<group id="55" type="span" parent="59" relname="joint"/>
+		<group id="100" type="multinuc" parent="101" relname="joint"/>
+		<group id="68" type="multinuc" parent="100" relname="joint"/>
+		<group id="62" type="span" parent="68" relname="sequence"/>
+		<group id="67" type="multinuc" parent="68" relname="sequence"/>
+		<group id="66" type="multinuc" parent="67" relname="sequence"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="71" type="multinuc" parent="98" relname="preparation"/>
+		<group id="98" type="multinuc" parent="99" relname="span"/>
+		<group id="80" type="multinuc" parent="98" relname="joint"/>
+		<group id="74" type="span" parent="80" relname="joint"/>
+		<group id="79" type="multinuc" parent="80" relname="joint"/>
+		<group id="77" type="span" parent="79" relname="joint"/>
+		<group id="97" type="multinuc" parent="98" relname="joint"/>
+		<group id="87" type="multinuc" parent="97" relname="joint"/>
+		<group id="83" type="span" parent="87" relname="joint"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="96" type="span" parent="97" relname="joint"/>
+		<group id="92" type="span" parent="96" relname="span"/>
+		<group id="90" type="span" parent="92" relname="span"/>
+		<group id="95" type="span" parent="92" relname="attribution"/>
+		<group id="104" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,99 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="42" parent="121" relname="preparation">Следователи намерены вновь допросить Ходорковского и Лебедева\n\</segment>
+		<segment id="43" parent="45" relname="span">nНа этой неделе следователи Генпрокуратуры вновь возьмутся за осужденных на восемь лет лишения свободы экс-руководителей нефтяной компании ЮКОС Михаила Ходорковского и Платона Лебедева,</segment>
+		<segment id="44" parent="43" relname="attribution">пишет газета \"Время новостей\".</segment>
+		<segment id="46" parent="51" relname="attribution">По словам адвоката Лебедева Евгения Бару,</segment>
+		<segment id="47" parent="51" relname="sequence">расписание допросов уже утверждено на три месяца вперед,</segment>
+		<segment id="48" parent="50" relname="sequence">первый может состояться уже 26 декабря.\n\nСледственные действия, о которых уже уведомили адвокатов заключенных,</segment>
+		<segment id="49" parent="50" relname="sequence">пройдут в рамках расследования еще одного \"дела ЮКОСа\".</segment>
+		<segment id="54" parent="56" relname="span">Никакой конкретной информации о сути грозящих Ходорковскому и Лебедеву обвинений до сих пор нет.</segment>
+		<segment id="55" parent="54" relname="evidence">Известно только, что речь идет о давно обещанном Генпрокуратурой уголовном деле об отмывании \"миллионов долларов\".\n\</segment>
+		<segment id="57" parent="65" relname="span">nДо сих пор Генпрокуратура ограничивалась лишь намеками на существование еще одного крупного дела, связанного с Ходорковским и Лебедевым.</segment>
+		<segment id="58" parent="60" relname="span">Еще летом прошлого года,</segment>
+		<segment id="59" parent="58" relname="background">когда не вступил в силу памятный приговор Мещанского суда столицы,</segment>
+		<segment id="61" parent="63" relname="span">адвокатам было велено явиться в СИЗО</segment>
+		<segment id="62" parent="61" relname="purpose">для предъявления новых обвинений.</segment>
+		<segment id="66" parent="72" relname="span">Но этого по каким-то причинам не произошло.</segment>
+		<segment id="67" parent="71" relname="sequence">Уже после того, как приговор с незначительными изменениями был утвержден Мосгорсудом,</segment>
+		<segment id="68" parent="69" relname="attribution">Генпрокуратура в лице ее тогдашнего официального представителя Натальи Вишняковой пообещала журналистам,</segment>
+		<segment id="69" parent="70" relname="span">что новое дело грядет в ближайшем будущем.</segment>
+		<segment id="73" parent="79" relname="sequence">Прошел год, в прокуратуре поменялся практически весь руководящий состав,</segment>
+		<segment id="74" parent="78" relname="span">и в начале нынешнего декабря об этом деле напомнил новый генпрокурор Юрий Чайка,</segment>
+		<segment id="75" parent="76" relname="attribution">который в беседе с иностранными журналистами доверительно сообщил,</segment>
+		<segment id="76" parent="77" relname="span">что не исключает возможности предъявления новых обвинений Ходорковскому и Лебедеву.\n\nНапомним, что о переводе осужденных из их колоний в СИЗО Читы стало известно в конце прошлой неделе.</segment>
+		<segment id="80" parent="86" relname="joint">Перевод происходил в обстановке строжайшей секретности,</segment>
+		<segment id="81" parent="82" relname="attribution">и даже адвокатам сообщили</segment>
+		<segment id="82" parent="83" relname="span">не о самом факте перевода,</segment>
+		<segment id="84" parent="85" relname="contrast">а лишь о том, что в Чите с их подзащитными будут проводиться некие следственные действия.</segment>
+		<segment id="88" parent="93" relname="attribution">Старший следователь по особо важным делам Салават Каримов уведомил защитника Михаила Ходорковского о том,</segment>
+		<segment id="89" parent="93" relname="span">что \"26 декабря в 10 часов с его подзащитным в читинском изоляторе 75/1 по адресу: город Чита, ул. Ингодинская, д.1а будут проводиться следственные действия,</segment>
+		<segment id="92" parent="89" relname="elaboration">при которых, как говорилось в уведомлении, вправе участвовать и адвокат.\n\n22 декабря,</segment>
+		<segment id="95" parent="99" relname="span">адвокат Юрий Шмидт,</segment>
+		<segment id="96" parent="97" relname="attribution">отвечая на вопрос о том,</segment>
+		<segment id="97" parent="98" relname="span">с чем связан перевод его подзащитного и Лебедева в Читу,</segment>
+		<segment id="100" parent="103" relname="attribution">уже тогда предположил,</segment>
+		<segment id="101" parent="103" relname="span">что это сделано</segment>
+		<segment id="102" parent="101" relname="purpose">для предъявления новых обвинений.</segment>
+		<segment id="107" parent="112" relname="attribution">По его словам,</segment>
+		<segment id="108" parent="112" relname="span">\"следственные действия Генпрокуратура намерена проводить с 26 декабря по 5 февраля\".\n\nСейчас адвокаты спешно собираются в Читу</segment>
+		<segment id="109" parent="111" relname="span">для того, чтобы установить, сколько людей числится фигурантами этого дела,</segment>
+		<segment id="110" parent="109" relname="elaboration">\"по каким именно событиям, за какой период и на каких территориях совершенных\",</segment>
+		<segment id="114" parent="113" relname="attribution">- сказал Бару.\n\nИсточник: https://www.newsru.com/russia/25Dec2006/new_dopros.html\n</segment>
+		<group id="121" type="multinuc" parent="122" relname="span"/>
+		<group id="53" type="multinuc" parent="121" relname="joint"/>
+		<group id="45" type="span" parent="53" relname="joint"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="span"/>
+		<group id="50" type="multinuc" parent="51" relname="sequence"/>
+		<group id="120" type="multinuc" parent="121" relname="joint"/>
+		<group id="56" type="span" parent="120" relname="joint"/>
+		<group id="119" type="multinuc" parent="120" relname="joint"/>
+		<group id="65" type="span" parent="119" relname="joint"/>
+		<group id="64" type="span" parent="57" relname="elaboration"/>
+		<group id="60" type="span" parent="63" relname="cause-effect"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="118" type="span" parent="119" relname="joint"/>
+		<group id="72" type="span" parent="117" relname="preparation"/>
+		<group id="71" type="multinuc" parent="66" relname="evidence"/>
+		<group id="70" type="span" parent="71" relname="sequence"/>
+		<group id="117" type="multinuc" parent="118" relname="span"/>
+		<group id="87" type="multinuc" parent="117" relname="joint"/>
+		<group id="79" type="multinuc" parent="87" relname="joint"/>
+		<group id="78" type="span" parent="79" relname="sequence"/>
+		<group id="77" type="span" parent="74" relname="background"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="83" type="span" parent="85" relname="contrast"/>
+		<group id="116" type="multinuc" parent="117" relname="joint"/>
+		<group id="106" type="multinuc" parent="116" relname="joint"/>
+		<group id="94" type="span" parent="106" relname="joint"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="105" type="span" parent="106" relname="joint"/>
+		<group id="99" type="span" parent="104" relname="cause-effect"/>
+		<group id="98" type="span" parent="95" relname="elaboration"/>
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="103" type="span" parent="104" relname="span"/>
+		<group id="115" type="span" parent="116" relname="joint"/>
+		<group id="113" type="span" parent="115" relname="span"/>
+		<group id="112" type="span" parent="113" relname="span"/>
+		<group id="111" type="span" parent="108" relname="purpose"/>
+		<group id="122" type="span"/>
+	</body>
+</rst>

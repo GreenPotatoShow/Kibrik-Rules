@@ -1,0 +1,45 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="18" relname="sequence">Президент Казахстана прибыл с визитом в Бразилию</segment>
+		<segment id="17" parent="18" relname="sequence">и остановился там, где жил Путин\n\nПрезидент Казахстана Нурсултан Назарбаев прибыл с первым государственным визитом в Бразилию.</segment>
+		<segment id="19" parent="20" relname="sequence">Сразу после торжественной церемонии встречи на военной базе бразильской столицы Назарбаев направился в одну из самых фешенебельных гостиниц города - \"Блю Три Алворада\".</segment>
+		<segment id="21" parent="23" relname="span">В 2004 году во время первого визита президента России в Южную Америку здесь останавливался Владимир Путин,</segment>
+		<segment id="22" parent="21" relname="attribution">отмечает ИТАР-ТАСС</segment>
+		<segment id="24" parent="25" relname="same-unit">.\n\nВ четверг в Бразилиа казахстанского президента ожидает напряженная программа.</segment>
+		<segment id="26" parent="30" relname="joint">Как ожидается, Назарбаев проведет переговоры со своим бразильским коллегой Луисом Инасиу Лулой да Силвой,</segment>
+		<segment id="27" parent="29" relname="span">встретится с председателями обеих палат Национального конгресса Бразилии - Федерального сената и Палаты депутатов, а также с главой Верховного суда.\n\nВ пятницу Назарбаев и сопровождающая его делегация предпринимателей обсудят возможность реализации совместных проектов с представителями деловых кругов крупнейшей страны Латинской Америки.\n\nПо информации местных СМИ, Казахстан, в частности, интересует опыт бразильской национальной нефтяной компании Petrobras по разработке месторождений нефти на больших морских глубинах,</segment>
+		<segment id="28" parent="27" relname="elaboration">который может быть применен на глубоководных участках шельфа Каспийского моря.</segment>
+		<segment id="31" parent="33" relname="span">В Бразилиа состоится подписание ряда двусторонних соглашений,</segment>
+		<segment id="32" parent="31" relname="elaboration">после чего президент Казахстана отправится в Рио-де-Жанейро</segment>
+		<segment id="34" parent="39" relname="attribution">.\n\nКак сообщили ИТАР-ТАСС в бразильском МИД,</segment>
+		<segment id="35" parent="38" relname="attribution">\"во время официальных встреч Нурсултана Назарбаева</segment>
+		<segment id="36" parent="38" relname="joint">будут обсуждаться способы углубления политического диалога, расширения взаимодействия в сфере торговли, в первую очередь, в области сельского хозяйства и энергетики\".\n\nСобеседник агентства особо отметил,</segment>
+		<segment id="37" parent="38" relname="joint">что позиции обеих стран по различным вопросам международной повестки дня совпадают, в частности, в том, что касается \"необходимости реформирования Совета Безопасности ООН и завершения Дохийского раунда переговоров, ведущихся под эгидой Всемирной торговой организации\".\n\nЗавершится визит 30 сентября.\n\nИсточник: https://www.newsru.com/world/27Sep2007/brazilia.html\n</segment>
+		<group id="20" type="multinuc" parent="43" relname="preparation"/>
+		<group id="18" type="multinuc" parent="20" relname="sequence"/>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="25" type="multinuc" parent="42" relname="preparation"/>
+		<group id="23" type="span" parent="25" relname="same-unit"/>
+		<group id="42" type="multinuc" parent="43" relname="span"/>
+		<group id="30" type="multinuc" parent="42" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="33" type="span" parent="41" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="38" type="multinuc" parent="39" relname="span"/>
+		<group id="44" type="span"/>
+	</body>
+</rst>

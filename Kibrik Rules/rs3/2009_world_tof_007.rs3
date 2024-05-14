@@ -1,0 +1,85 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="35" parent="37" relname="span">В Аденский залив прибыл новый отряд Тихоокеанского флота\n\nОтряд кораблей Тихоокеанского флота (ТОФ) в составе большого противолодочного корабля \"Адмирал Трибуц\", танкера \"Борис Бутома\" и спасательного буксира МБ-99 прибыл в Аденский залив,</segment>
+		<segment id="36" parent="35" relname="elaboration">где приступает к операции по защите морского судоходства от нападения пиратов</segment>
+		<segment id="38" parent="37" relname="elaboration">.\n\</segment>
+		<segment id="40" parent="43" relname="attribution">nКак сообщил в четверг руководитель пресс-службы ТОФ Роман Мартов,</segment>
+		<segment id="43" parent="44" relname="span">переход тихоокеанцев к месту несения вахты у берегов Сомали прошел по плану, самочувствие экипажей нормальное,</segment>
+		<segment id="45" parent="46" relname="same-unit">все системы и механизмы работают в штатном режиме,</segment>
+		<segment id="47" parent="46" relname="attribution">сообщает \"Интерфакс\".\n\n</segment>
+		<segment id="50" parent="52" relname="joint">\"Сейчас наши моряки знакомятся с обстановкой</segment>
+		<segment id="51" parent="52" relname="joint">и приступают к формированию первого конвоя\",</segment>
+		<segment id="53" parent="54" relname="attribution">- сказал Мартов</segment>
+		<segment id="54" parent="55" relname="span">.\n\</segment>
+		<segment id="57" parent="64" relname="attribution">nРанее он рассказал,</segment>
+		<segment id="58" parent="63" relname="cause-effect">что в период подготовки к боевой службе тихоокеанцы учли опыт своих предшественников, изменения в тактике пиратов,</segment>
+		<segment id="59" parent="63" relname="span">поэтому готовили экипажи и подразделения морской пехоты в соответствии со специально выработанными для этого рекомендациями</segment>
+		<segment id="60" parent="62" relname="span">.\n\nНовый отряд ТОФ стал третьим по счету,</segment>
+		<segment id="61" parent="60" relname="elaboration">который в 2009 году будет обеспечивать безопасность морского судоходства в Аденском заливе.</segment>
+		<segment id="66" parent="65" relname="elaboration">Первым был отряд в составе БПК \"Адмирал Виноградов\", буксира \"Фотий Крылов\", танкеров \"Печенга\" и \"Борис Бутома\".</segment>
+		<segment id="68" parent="70" relname="joint">Ему на смену пришел отряд под командованием БПК \"Адмирал Пантелеев\".</segment>
+		<segment id="69" parent="70" relname="joint">В него входили также танкеры \"Ижора\", \"Иркут\" и буксир \"МБ-37\".\n\nНапомним, что 28 апреля экипаж БПК \"Адмирал Пантелеев\" задержал судно с пиратами на борту примерно в 15 милях восточнее побережья Сомали.</segment>
+		<segment id="71" parent="74" relname="condition">При досмотре</segment>
+		<segment id="72" parent="74" relname="span">было обнаружено семь автоматов Калашникова, пистолеты различных марок, алюминиевые лестницы</segment>
+		<segment id="73" parent="72" relname="purpose">для подъема на борт, навигационное оборудование, в том числе спутниковое, запасные канистры с топливом и большое количество стреляных гильз.</segment>
+		<segment id="76" parent="78" relname="joint">29 сомалийских пиратов в конце мая были переданы властям Ирана и Пакистана.\n\nВо время проводки шестого каравана торговых судов морские пехотинцы ТОФ,</segment>
+		<segment id="77" parent="78" relname="joint">находящиеся на борту БПК \"Адмирал Пантелеев\", предотвратили атаку пиратов на грузовой теплоход Eide Trader под флагом Маршалловых островов.</segment>
+		<segment id="80" parent="83" relname="cause-effect">Когда к теплоходу стали стремительно приближаться две скоростные лодки,</segment>
+		<segment id="81" parent="83" relname="joint">они встретили пиратов пулеметным огнем,</segment>
+		<segment id="82" parent="83" relname="joint">заставив их изменить курс.\n\</segment>
+		<segment id="85" parent="86" relname="attribution">nПо данным ООН,</segment>
+		<segment id="86" parent="87" relname="span">в пошлом году у берегов Сомали было зарегистрировано более 120 нападений морских разбойников на торговые суда.</segment>
+		<segment id="91" parent="97" relname="same-unit">Власти этой страны, переставшей существовать как единое государство еще в 1991 году,</segment>
+		<segment id="92" parent="95" relname="attribution">признают,</segment>
+		<segment id="93" parent="95" relname="joint">что не могут справиться с проблемой пиратства</segment>
+		<segment id="94" parent="95" relname="joint">и обращаются к международному сообществу.\n\nИсточник: https://www.newsru.com/world/30Jul2009/tof.html\n</segment>
+		<group id="49" type="multinuc" parent="100" relname="preparation"/>
+		<group id="39" type="span" parent="49" relname="joint"/>
+		<group id="37" type="span" parent="39" relname="span"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="46" type="multinuc" parent="48" relname="span"/>
+		<group id="44" type="span" parent="46" relname="same-unit"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="56" type="span" parent="99" relname="preparation"/>
+		<group id="52" type="multinuc" parent="56" relname="span"/>
+		<group id="55" type="span" parent="52" relname="attribution"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="67" type="span" parent="98" relname="preparation"/>
+		<group id="65" type="span" parent="67" relname="span"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="62" type="span" parent="59" relname="elaboration"/>
+		<group id="98" type="span" parent="99" relname="span"/>
+		<group id="90" type="multinuc" parent="98" relname="span"/>
+		<group id="70" type="multinuc" parent="90" relname="sequence"/>
+		<group id="89" type="span" parent="90" relname="sequence"/>
+		<group id="79" type="multinuc" parent="89" relname="span"/>
+		<group id="75" type="span" parent="79" relname="joint"/>
+		<group id="74" type="span" parent="75" relname="span"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="88" type="span" parent="79" relname="elaboration"/>
+		<group id="84" type="span" parent="88" relname="span"/>
+		<group id="83" type="multinuc" parent="84" relname="span"/>
+		<group id="87" type="span" parent="84" relname="elaboration"/>
+		<group id="97" type="multinuc" parent="90" relname="interpretation-evaluation"/>
+		<group id="96" type="span" parent="97" relname="same-unit"/>
+		<group id="95" type="multinuc" parent="96" relname="span"/>
+		<group id="101" type="span"/>
+	</body>
+</rst>

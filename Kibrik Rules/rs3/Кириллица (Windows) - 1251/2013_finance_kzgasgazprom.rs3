@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="22" relname="span">Газотранспортная система Киргизии достанется \"Газпрому\" за 1 доллар\n\n\"Газпром\" выкупит права на газотранспортную систему (ГТС) Киргизии за 1 доллар,</segment>
+		<segment id="21" parent="20" relname="attribution">сообщает РБК daily.</segment>
+		<segment id="23" parent="28" relname="attribution">По данным сайта правительства РФ,</segment>
+		<segment id="24" parent="26" relname="joint">российское правительство одобрило проект соглашения о сотрудничестве в сфере транспортировки и реализации газа на территории Киргизии,</segment>
+		<segment id="25" parent="26" relname="joint">в соответствии с которым под контроль российского монополиста перейдет ГТС республики.\n\nПравительство Киргизии одобрило проект соглашения еще 27 мая,</segment>
+		<segment id="27" parent="28" relname="span">оно будет действовать сроком 25 лет.\n\</segment>
+		<segment id="30" parent="34" relname="joint">nВ соответствии с договоренностями сторон,</segment>
+		<segment id="31" parent="33" relname="span">в Киргизии будет создано дочернее предприятие киргизского газового монополиста \"Кыргызгаза\",</segment>
+		<segment id="32" parent="31" relname="elaboration">которому перейдет все его имущество: газопроводы, газораспределительные станции, подземные хранилища газа, земельные участки и иное имущество.</segment>
+		<segment id="35" parent="36" relname="comparison">100% акций созданной \"дочки\" \"Газпром\" купит за один доллар.\n\nУстанавливать тарифы на транспортировку газа по территории Киргизии в третьи страны и на его хранение в подземных хранилищах будет \"Газпром\".</segment>
+		<segment id="37" parent="53" relname="joint">Киргизская сторона гарантирует исключительное право компании на импорт природного газа в Киргизию, защиту инвестиций российской монополии и ее дочерних обществ от экспроприации и национализации.</segment>
+		<segment id="38" parent="52" relname="comparison">Компания также должна обеспечить беспрепятственный перевод за границу платежей, связанных с инвестициями.\n\nВ соглашении оговорены следующие обязанности российской стороны: вложение инвестиций в модернизацию и реконструкцию газовой инфраструктуры Киргизии на сумму не менее 20 млрд руб. в течение пяти лет.</segment>
+		<segment id="39" parent="41" relname="joint">\"Газпром\" также обеспечит бесперебойную поставку газа для киргизских потребителей.\n\nПо данным \"Кыргызгаза\",</segment>
+		<segment id="40" parent="41" relname="joint">Киргизия потребляет около 1 млрд куб. м газа в год.</segment>
+		<segment id="42" parent="44" relname="span">Компания зависит от импорта газа,</segment>
+		<segment id="43" parent="42" relname="attribution">напоминает газета \"Ведомости\".</segment>
+		<segment id="48" parent="50" relname="comparison">Разработки запасов газа, которые сосредоточены на юге страны в Джалал-Абадской и Баткенской областях, обеспечивают лишь 1,8-2% от требующихся стране более 800 млн куб. м в год.</segment>
+		<segment id="49" parent="50" relname="comparison">Большую часть газа \"Кыргызгаз\" покупает в Узбекистане и Казахстане.\n\nИсточник: https://www.newsru.com/finance/12Jul2013/kzgasgazprom.html\n</segment>
+		<group id="22" type="span" parent="55" relname="preparation"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="29" type="span" parent="55" relname="joint"/>
+		<group id="28" type="span" parent="29" relname="span"/>
+		<group id="26" type="multinuc" parent="27" relname="cause-effect"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="36" type="multinuc" parent="54" relname="comparison"/>
+		<group id="34" type="multinuc" parent="36" relname="comparison"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="53" type="multinuc" parent="54" relname="comparison"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="comparison"/>
+		<group id="45" type="multinuc" parent="51" relname="comparison"/>
+		<group id="41" type="multinuc" parent="45" relname="comparison"/>
+		<group id="44" type="span" parent="45" relname="comparison"/>
+		<group id="50" type="multinuc" parent="51" relname="comparison"/>
+		<group id="56" type="span"/>
+	</body>
+</rst>

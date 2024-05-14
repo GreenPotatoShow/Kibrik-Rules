@@ -1,0 +1,96 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="39" parent="40" relname="attribution">Две трети американцев заявили,</segment>
+		<segment id="40" parent="41" relname="span">что следят за ситуацией на Украине;</segment>
+		<segment id="42" parent="43" relname="contrast">но лишь 16% знают, где примерно находится эта страна\n\</segment>
+		<segment id="44" parent="46" relname="span">nС того момента как Крым стал территорией России,</segment>
+		<segment id="45" parent="44" relname="interpretation-evaluation">американские СМИ пытались выяснить у своей аудитории мнение касательно этой ситуации.</segment>
+		<segment id="47" parent="50" relname="attribution">Хотя две трети американцев признались,</segment>
+		<segment id="48" parent="50" relname="joint">что следят за происходящим на Украине,</segment>
+		<segment id="49" parent="50" relname="joint">оказалось, что большинство из них не знает, что конкретно там случилось.</segment>
+		<segment id="53" parent="57" relname="span">Мало того, подавляющее большинство граждан США даже не могут ответить на вопрос, где эта самая Украина находится.\n\nВ конце марта 2014 года издание The Washington Post с помощью компании Survey Sampling International Inc. провело опрос среди жителей США.</segment>
+		<segment id="54" parent="56" relname="span">Основной вопрос был стандартным:</segment>
+		<segment id="55" parent="54" relname="elaboration">\"Как, по вашему мнению, власти должны реагировать на ситуацию по Украине?\".</segment>
+		<segment id="58" parent="62" relname="span">Однако был и подвох:</segment>
+		<segment id="59" parent="61" relname="span">опрашиваемых просили найти Украину на карте.\n\nКак выяснилось,</segment>
+		<segment id="60" parent="59" relname="elaboration">только один из шести американцев (16%) может приблизительно указать расположение Украины.</segment>
+		<segment id="63" parent="65" relname="sequence">Характерно, что люди, которые верили, что эта страна находится в Восточной Европе,</segment>
+		<segment id="64" parent="65" relname="sequence">были более информированы о ситуации в Крыму, чем \"находившие\" эту страну в Бразилии или в Индийском океане.</segment>
+		<segment id="67" parent="74" relname="attribution">Интересно, пишет издание,</segment>
+		<segment id="68" parent="70" relname="span">что чем хуже люди определяли регион,</segment>
+		<segment id="69" parent="68" relname="elaboration">где находится Украина,</segment>
+		<segment id="71" parent="73" relname="span">тем более радикально они были настроены,</segment>
+		<segment id="72" parent="71" relname="cause-effect">желая военного вмешательства США в происходящее.\n\</segment>
+		<segment id="76" parent="78" relname="contrast">nСледует отметить, что у большинства пользователей Украина все же \"отыскивалась\" где-то в Европе или в Азии,</segment>
+		<segment id="77" parent="78" relname="contrast">но в среднем респонденты ошибались примерно на 1800 миль.</segment>
+		<segment id="79" parent="80" relname="comparison">Украину \"находили\" на территориях от Португалии до Казахстана, от Финляндии и до Судана.\n\nЗнания в области географии сильно отличались у разных социально-демографических групп.</segment>
+		<segment id="81" parent="83" relname="comparison">Молодые американцы, как правило, давали более точные ответы,</segment>
+		<segment id="82" parent="83" relname="comparison">чем их старшие сограждане.</segment>
+		<segment id="84" parent="86" relname="comparison">27% респондентов в возрасте 18-24 лет правильно определили Украину,</segment>
+		<segment id="85" parent="86" relname="comparison">а в категории 65+ это количество было заметно ниже, всего 14%.</segment>
+		<segment id="87" parent="93" relname="span">Мужчины оказались более информированными, нежели женщины:</segment>
+		<segment id="88" parent="92" relname="comparison">похвастаться своими знаниями географии смогли 20% представителей сильного пола и 13% опрошенных, принадлежащих к прекрасной половине человечества.\n\</segment>
+		<segment id="89" parent="91" relname="comparison">nИнтересно, что ответы людей без определенных политических убеждений были точнее почти в два раза чаще,</segment>
+		<segment id="90" parent="91" relname="comparison">чем ответы республиканцев и демократов (29%, 15% и 14% соответственно).</segment>
+		<segment id="94" parent="97" relname="interpretation-evaluation">Неудивительно, что</segment>
+		<segment id="95" parent="97" relname="comparison">люди с высшим образованием давали больше правильных ответов,</segment>
+		<segment id="96" parent="97" relname="comparison">чем их менее образованные коллеги (21% и 13%);</segment>
+		<segment id="99" parent="103" relname="same-unit">но не все американцы,</segment>
+		<segment id="100" parent="102" relname="joint">даже получившие хорошие знания в вузе,</segment>
+		<segment id="101" parent="102" relname="joint">смогли найти Украину.\n\nИсточник: https://www.newsru.com/world/08Apr2014/lost.html\n</segment>
+		<group id="43" type="multinuc" parent="112" relname="preparation"/>
+		<group id="41" type="span" parent="43" relname="contrast"/>
+		<group id="112" type="span" parent="113" relname="span"/>
+		<group id="52" type="span" parent="111" relname="preparation"/>
+		<group id="46" type="span" parent="52" relname="span"/>
+		<group id="51" type="span" parent="46" relname="elaboration"/>
+		<group id="50" type="multinuc" parent="51" relname="span"/>
+		<group id="111" type="multinuc" parent="112" relname="span"/>
+		<group id="57" type="span" parent="111" relname="contrast"/>
+		<group id="56" type="span" parent="53" relname="elaboration"/>
+		<group id="110" type="multinuc" parent="111" relname="contrast"/>
+		<group id="66" type="span" parent="110" relname="joint"/>
+		<group id="62" type="span" parent="66" relname="span"/>
+		<group id="61" type="span" parent="58" relname="elaboration"/>
+		<group id="65" type="multinuc" parent="62" relname="elaboration"/>
+		<group id="109" type="span" parent="110" relname="joint"/>
+		<group id="75" type="span" parent="109" relname="span"/>
+		<group id="74" type="multinuc" parent="75" relname="span"/>
+		<group id="70" type="span" parent="74" relname="joint"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="108" type="multinuc" parent="75" relname="evidence"/>
+		<group id="80" type="multinuc" parent="108" relname="joint"/>
+		<group id="78" type="multinuc" parent="80" relname="comparison"/>
+		<group id="107" type="span" parent="108" relname="joint"/>
+		<group id="83" type="multinuc" parent="107" relname="span"/>
+		<group id="106" type="multinuc" parent="83" relname="evidence"/>
+		<group id="86" type="multinuc" parent="106" relname="comparison"/>
+		<group id="105" type="multinuc" parent="106" relname="comparison"/>
+		<group id="93" type="span" parent="105" relname="comparison"/>
+		<group id="92" type="multinuc" parent="87" relname="evidence"/>
+		<group id="91" type="multinuc" parent="92" relname="comparison"/>
+		<group id="104" type="multinuc" parent="105" relname="comparison"/>
+		<group id="98" type="span" parent="104" relname="contrast"/>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="103" type="multinuc" parent="104" relname="contrast"/>
+		<group id="102" type="multinuc" parent="103" relname="same-unit"/>
+		<group id="113" type="span"/>
+	</body>
+</rst>

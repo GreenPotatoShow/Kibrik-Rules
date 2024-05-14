@@ -1,0 +1,177 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="81" parent="83" relname="joint">В России запретят \"затенять\" соседей</segment>
+		<segment id="82" parent="83" relname="joint">и перекрывать заборами доступ к берегам\n\</segment>
+		<segment id="84" parent="90" relname="span">nДля рассмотрения в Госдуме готовится законопроект,</segment>
+		<segment id="85" parent="87" relname="span">в которым впервые четко прописываются правила, как жить на своей земле,</segment>
+		<segment id="86" parent="85" relname="condition">не нарушая права соседей,</segment>
+		<segment id="88" parent="87" relname="attribution">пишет \"Российская газета\".</segment>
+		<segment id="92" parent="95" relname="attribution">Согласно законопроекту,</segment>
+		<segment id="93" parent="95" relname="joint">надо дружить с соседями</segment>
+		<segment id="94" parent="95" relname="joint">и не запираться от людей.</segment>
+		<segment id="97" parent="98" relname="condition">А если придется против воли расставаться с шестью сотками</segment>
+		<segment id="98" parent="99" relname="span">- только за хорошие откупные.\n\n\"Дальше все зависит от скорости работы Госдумы,</segment>
+		<segment id="100" parent="99" relname="attribution">- заявил не так давно заместитель министра юстиции России Юрий Любимов.</segment>
+		<segment id="103" parent="111" relname="span">- Понятно, что документ большой.</segment>
+		<segment id="104" parent="110" relname="span">Сейчас в проекте стоит дата вступления в силу - 1 сентября 2012 года.</segment>
+		<segment id="105" parent="109" relname="contrast">Теоретически она может подвинуться,</segment>
+		<segment id="106" parent="107" relname="interpretation-evaluation">но я очень надеюсь,</segment>
+		<segment id="107" parent="108" relname="span">что уже в этом году мы увидим обновленный ГК\".\n\</segment>
+		<segment id="112" parent="115" relname="attribution">nКак отмечает газета,</segment>
+		<segment id="113" parent="115" relname="span">любители загородиться от мира высокими заборами не должны обольщаться:</segment>
+		<segment id="114" parent="113" relname="elaboration">нормы \"мой огород - моя крепость\" в проекте не предусмотрены.</segment>
+		<segment id="117" parent="118" relname="joint">Главная защита будет в том, что правила жизни на земле будут четко и подробно расписаны.</segment>
+		<segment id="119" parent="121" relname="span">Например, законопроект определяет,</segment>
+		<segment id="120" parent="119" relname="condition">когда хозяина земли могут немного ограничить в правах.</segment>
+		<segment id="122" parent="126" relname="same-unit">В таком случае,</segment>
+		<segment id="123" parent="125" relname="contrast">как бы он ни хотел закрыться от людей,</segment>
+		<segment id="124" parent="125" relname="contrast">а пускать посторонних все равно придется.\n\</segment>
+		<segment id="129" parent="130" relname="attribution">nКак сказано в проекте,</segment>
+		<segment id="130" parent="131" relname="span">права собственника могут быть ограничены в публичных интересах.</segment>
+		<segment id="132" parent="134" relname="span">Это значит - в пользу общества.</segment>
+		<segment id="133" parent="132" relname="evidence">Хрестоматийный пример - тропинка к общественному пляжу прошла через земли богатого и влиятельного человека.</segment>
+		<segment id="135" parent="137" relname="joint">Он поставил забор,</segment>
+		<segment id="136" parent="137" relname="joint">и людям пришлось обходить несколько километров.\n\</segment>
+		<segment id="140" parent="141" relname="attribution">nКак сказано в законопроекте,</segment>
+		<segment id="141" parent="142" relname="span">полоса земли вдоль береговой линии водного объекта общего пользования - береговая полоса - предназначается для общего пользования.</segment>
+		<segment id="143" parent="147" relname="joint">Граждане имеют право свободно пользоваться такой береговой полосой.\nТочно так же человек, гуляя по лесу или саду,</segment>
+		<segment id="144" parent="146" relname="contrast">не должен задумываться, где можно ходить,</segment>
+		<segment id="145" parent="146" relname="contrast">а куда нельзя заступать.</segment>
+		<segment id="148" parent="154" relname="joint">Если частная территория не огорожена</segment>
+		<segment id="149" parent="152" relname="attribution">и там нет четких и ясных обозначений,</segment>
+		<segment id="150" parent="151" relname="condition">что хозяин против прогулок посторонних,</segment>
+		<segment id="151" parent="152" relname="span">то вход открыт любому.</segment>
+		<segment id="157" parent="165" relname="joint">\"Любое лицо может пройти через участок</segment>
+		<segment id="158" parent="164" relname="span">при условии, что это не причиняет ущерба или беспокойства собственнику\",</segment>
+		<segment id="159" parent="161" relname="span">сказано в проекте.\n\nТакже вход без разрешения хозяина могут открыть</segment>
+		<segment id="160" parent="159" relname="purpose">для прохода или проезда по его земле,</segment>
+		<segment id="162" parent="161" relname="condition">когда иной дороги нет.</segment>
+		<segment id="168" parent="170" relname="joint">Ремонт коммунальных, инженерных, электрических и других линий и сетей - тоже святое, опять вход разрешен.</segment>
+		<segment id="169" parent="170" relname="joint">Есть и другие не менее уважительные причины.</segment>
+		<segment id="172" parent="174" relname="span">Открыть чужую землю для посторонних могут на время или навсегда.\n\nПри этом в законопроекте есть важная фраза: \"ограничения права собственности на земельный участок в публичных интересах</segment>
+		<segment id="173" parent="172" relname="condition">без изъятия земельного участка устанавливаются нормативными актами уполномоченных государственных органов и органов местного самоуправления\".</segment>
+		<segment id="175" parent="174" relname="elaboration">Иными словами, власти смогут самостоятельно открыть участок гражданина для общественных нужд.\n\</segment>
+		<segment id="177" parent="179" relname="joint">nЭто значит, что и обычные люди, которым по уважительной причине потребуется заставить землевладельца подвинуться,</segment>
+		<segment id="178" parent="179" relname="joint">смогут обращаться в местные администрации, а не только в суд.\n\</segment>
+		<segment id="180" parent="185" relname="condition">nНо если установленные ограничения покажутся собственнику излишне обременительными,</segment>
+		<segment id="181" parent="185" relname="joint">он будет вправе требовать выплаты ему справедливой компенсации.</segment>
+		<segment id="182" parent="184" relname="span">Размеры и порядок компенсаций будут определены отдельно - законами и ведомственными инструкциями.\n\nСкорее всего, появятся определенные ставки и тарифы, сколько казна должна человеку,</segment>
+		<segment id="183" parent="182" relname="condition">если его на излюбленных шести сотках постоянно тревожат по государственной или общественной надобности геологи, электрики, коммунальщики и пр.</segment>
+		<segment id="187" parent="189" relname="span">К слову, научно-исследовательские или проектно-изыскательские работы входят в число уважительных причин,</segment>
+		<segment id="188" parent="187" relname="condition">когда доступ на землю открывается.\n\</segment>
+		<segment id="190" parent="191" relname="condition">nКогда установление ограничений сделает жизнь на участке невозможной,</segment>
+		<segment id="191" parent="192" relname="span">собственник будет вправе потребовать его выкупа по хорошей цене или предоставления равноценного земельного участка, а также возмещения причиненных убытков.\n\nВ целом,</segment>
+		<segment id="193" parent="194" relname="attribution">по словам Юрия Любимова,</segment>
+		<segment id="194" parent="195" relname="span">законопроект впервые детально урегулирует соседские права.\n\n</segment>
+		<segment id="197" parent="199" relname="span">\"Большая часть посвящена земельным участкам,</segment>
+		<segment id="198" parent="197" relname="attribution">- сказал Юрий Любимов.</segment>
+		<segment id="206" parent="212" relname="span">- Многие вещи, которые раньше решались бытовым путем, сейчас прямо урегулированы.</segment>
+		<segment id="207" parent="210" relname="attribution">Кодекс детально прописывает,</segment>
+		<segment id="208" parent="210" relname="contrast">что вы как владелец соседнего участка можете делать,</segment>
+		<segment id="209" parent="210" relname="contrast">а что не можете\".\n\</segment>
+		<segment id="213" parent="215" relname="joint">nНапример, закрывать единственный проход соседу будет строго запрещено.</segment>
+		<segment id="214" parent="215" relname="joint">\"Бросать тень\" на соседа возбраняется.</segment>
+		<segment id="216" parent="217" relname="condition">Если постройки загораживают кому-то солнце</segment>
+		<segment id="217" parent="218" relname="span">- их придется снести.\n\</segment>
+		<segment id="219" parent="221" relname="span">nВ проекте сказано, что собственник земельного участка обязан принимать меры по предотвращению вреда,</segment>
+		<segment id="220" parent="219" relname="elaboration">который может быть причинен соседнему участку.</segment>
+		<segment id="224" parent="226" relname="span">Нельзя, скажем, углублять свой земельный участок таким образом,</segment>
+		<segment id="225" parent="224" relname="condition">что грунт соседнего участка лишится опоры.</segment>
+		<segment id="227" parent="228" relname="joint">Запрещено возводить канализационные сооружения, приводящие к загрязнению соседнего участка.\n\nИсточник: https://www.newsru.com/realty/06Mar2012/new_gk.html\n</segment>
+		<group id="91" type="span" parent="239" relname="joint"/>
+		<group id="83" type="multinuc" parent="91" relname="span"/>
+		<group id="90" type="span" parent="83" relname="purpose"/>
+		<group id="89" type="span" parent="84" relname="elaboration"/>
+		<group id="87" type="span" parent="89" relname="span"/>
+		<group id="238" type="multinuc" parent="239" relname="joint"/>
+		<group id="102" type="multinuc" parent="238" relname="joint"/>
+		<group id="96" type="span" parent="102" relname="contrast"/>
+		<group id="95" type="multinuc" parent="96" relname="span"/>
+		<group id="101" type="span" parent="102" relname="contrast"/>
+		<group id="99" type="span" parent="101" relname="span"/>
+		<group id="237" type="multinuc" parent="238" relname="joint"/>
+		<group id="111" type="span" parent="237" relname="joint"/>
+		<group id="110" type="span" parent="103" relname="evidence"/>
+		<group id="109" type="multinuc" parent="104" relname="interpretation-evaluation"/>
+		<group id="108" type="span" parent="109" relname="contrast"/>
+		<group id="236" type="multinuc" parent="237" relname="joint"/>
+		<group id="128" type="multinuc" parent="236" relname="joint"/>
+		<group id="118" type="multinuc" parent="128" relname="joint"/>
+		<group id="116" type="span" parent="118" relname="joint"/>
+		<group id="115" type="span" parent="116" relname="span"/>
+		<group id="127" type="multinuc" parent="128" relname="joint"/>
+		<group id="121" type="span" parent="127" relname="contrast"/>
+		<group id="126" type="multinuc" parent="127" relname="contrast"/>
+		<group id="125" type="multinuc" parent="126" relname="same-unit"/>
+		<group id="235" type="multinuc" parent="236" relname="joint"/>
+		<group id="139" type="span" parent="235" relname="joint"/>
+		<group id="131" type="span" parent="139" relname="span"/>
+		<group id="138" type="span" parent="131" relname="elaboration"/>
+		<group id="134" type="span" parent="138" relname="span"/>
+		<group id="137" type="multinuc" parent="134" relname="elaboration"/>
+		<group id="234" type="multinuc" parent="235" relname="joint"/>
+		<group id="156" type="span" parent="234" relname="joint"/>
+		<group id="142" type="span" parent="156" relname="span"/>
+		<group id="155" type="multinuc" parent="142" relname="elaboration"/>
+		<group id="147" type="multinuc" parent="155" relname="joint"/>
+		<group id="146" type="multinuc" parent="147" relname="joint"/>
+		<group id="154" type="multinuc" parent="155" relname="joint"/>
+		<group id="153" type="span" parent="154" relname="joint"/>
+		<group id="152" type="span" parent="153" relname="span"/>
+		<group id="233" type="multinuc" parent="234" relname="joint"/>
+		<group id="171" type="span" parent="233" relname="joint"/>
+		<group id="165" type="multinuc" parent="171" relname="span"/>
+		<group id="164" type="span" parent="165" relname="joint"/>
+		<group id="163" type="span" parent="158" relname="cause-effect"/>
+		<group id="161" type="span" parent="163" relname="span"/>
+		<group id="170" type="multinuc" parent="165" relname="cause-effect"/>
+		<group id="232" type="multinuc" parent="233" relname="joint"/>
+		<group id="176" type="span" parent="232" relname="joint"/>
+		<group id="174" type="span" parent="176" relname="span"/>
+		<group id="231" type="multinuc" parent="232" relname="joint"/>
+		<group id="203" type="multinuc" parent="231" relname="joint"/>
+		<group id="179" type="multinuc" parent="203" relname="contrast"/>
+		<group id="202" type="multinuc" parent="203" relname="contrast"/>
+		<group id="186" type="span" parent="202" relname="joint"/>
+		<group id="185" type="multinuc" parent="186" relname="span"/>
+		<group id="184" type="span" parent="185" relname="joint"/>
+		<group id="201" type="span" parent="202" relname="joint"/>
+		<group id="189" type="span" parent="201" relname="span"/>
+		<group id="200" type="multinuc" parent="189" relname="elaboration"/>
+		<group id="196" type="multinuc" parent="200" relname="joint"/>
+		<group id="192" type="span" parent="196" relname="joint"/>
+		<group id="195" type="span" parent="196" relname="joint"/>
+		<group id="199" type="span" parent="200" relname="joint"/>
+		<group id="230" type="multinuc" parent="231" relname="joint"/>
+		<group id="212" type="span" parent="230" relname="joint"/>
+		<group id="211" type="span" parent="206" relname="elaboration"/>
+		<group id="210" type="multinuc" parent="211" relname="span"/>
+		<group id="229" type="multinuc" parent="230" relname="joint"/>
+		<group id="223" type="multinuc" parent="229" relname="joint"/>
+		<group id="215" type="multinuc" parent="223" relname="joint"/>
+		<group id="222" type="span" parent="223" relname="joint"/>
+		<group id="218" type="span" parent="221" relname="condition"/>
+		<group id="221" type="span" parent="222" relname="span"/>
+		<group id="228" type="multinuc" parent="229" relname="joint"/>
+		<group id="226" type="span" parent="228" relname="joint"/>
+		<group id="239" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,59 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="23" relname="attribution">Физики выяснили,</segment>
+		<segment id="23" parent="24" relname="span">что заставило Луну вращаться 3,9 млрд лет назад\n\nСтолкновение с массивным астероидом в далеком прошлом заставило Луну вращаться</segment>
+		<segment id="25" parent="24" relname="attribution">- к такому выводу пришли ученые Парижского института физики Земли.</segment>
+		<segment id="27" parent="32" relname="attribution">Проведенный анализ позволил им предположить,</segment>
+		<segment id="28" parent="29" relname="cause-effect">что около 3,9 млрд лет тому назад</segment>
+		<segment id="29" parent="30" relname="span">единственный естественный спутник нашей планеты вращался,</segment>
+		<segment id="31" parent="32" relname="joint">и это можно было наблюдать в ночном небе,</segment>
+		<segment id="34" parent="33" relname="attribution">сообщает InoPressa.ru со ссылкой на The Guardian.\n\</segment>
+		<segment id="36" parent="39" relname="attribution">nСогласно статье ученых Марка Вичорека и Матье Ле Февра,</segment>
+		<segment id="37" parent="38" relname="cause-effect">появившейся в журнале New Scientist,</segment>
+		<segment id="38" parent="39" relname="span">проведенный ими анализ западного и восточного полушария Луны на предмет интенсивности метеоритных кратеров и их возраста дал удивительную картину.</segment>
+		<segment id="41" parent="45" relname="comparison">Дело в том, что в наши дни орбита Луны такова,</segment>
+		<segment id="42" parent="44" relname="span">что она вращается все время вокруг Земли,</segment>
+		<segment id="43" parent="42" relname="elaboration">будучи обращена к ней одной и той же стороной,</segment>
+		<segment id="46" parent="50" relname="span">мы же ее не видим иногда</segment>
+		<segment id="47" parent="49" relname="contrast">из-за тени, заслоняющей солнечный свет.\n\nИнтенсивность кратеров позволила ученым предположить, что в далеком прошлом значительный астероид не только повернул ось спутника нашей планеты,</segment>
+		<segment id="48" parent="49" relname="contrast">но и заставил ее вращаться.</segment>
+		<segment id="52" parent="56" relname="span">Видимо, она вращалась долгое время,</segment>
+		<segment id="53" parent="55" relname="span">постепенно замедляясь,</segment>
+		<segment id="54" parent="53" relname="condition">пока не остановилась в своем нынешнем положении,</segment>
+		<segment id="57" parent="58" relname="joint">заключают ученые.\n\nИсточник: https://www.newsru.com/world/22Jan2009/moonturn.html\n</segment>
+		<group id="26" type="span" parent="62" relname="joint"/>
+		<group id="24" type="span" parent="26" relname="span"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="35" type="span" parent="61" relname="joint"/>
+		<group id="33" type="span" parent="35" relname="span"/>
+		<group id="32" type="multinuc" parent="33" relname="span"/>
+		<group id="30" type="span" parent="32" relname="joint"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="40" type="span" parent="60" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="51" type="multinuc" parent="59" relname="span"/>
+		<group id="45" type="multinuc" parent="51" relname="joint"/>
+		<group id="44" type="span" parent="45" relname="comparison"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="49" type="multinuc" parent="46" relname="cause-effect"/>
+		<group id="58" type="multinuc" parent="51" relname="elaboration"/>
+		<group id="56" type="span" parent="58" relname="joint"/>
+		<group id="55" type="span" parent="52" relname="condition"/>
+		<group id="62" type="multinuc"/>
+	</body>
+</rst>

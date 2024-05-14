@@ -1,0 +1,69 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="76" relname="preparation">Арестованный экс-мэр Благовещенска получил статус выдвинутого кандидата в Госдуму\n\</segment>
+		<segment id="28" parent="32" relname="span">nБывший глава Благовещенска Амурской области Александр Мигуля,</segment>
+		<segment id="29" parent="31" relname="sequence">который находится в СИЗО по обвинению в коррупции,</segment>
+		<segment id="30" parent="31" relname="sequence">получил статус выдвинутого кандидата в Госдуму.</segment>
+		<segment id="33" parent="35" relname="contrast">Об этом \"Интерфаксу\" в среду сообщила секретарь областного избиркома Татьяна Ныркова.\n\n\"Пока еще ни одного кандидата в Госдуму не зарегистрировали,</segment>
+		<segment id="34" parent="35" relname="contrast">но приняли документы от четырех кандидатов, в том числе и от Мигули.</segment>
+		<segment id="37" parent="39" relname="sequence">Завтра на заседании мы даем разрешение на открытие специального избирательного счета,</segment>
+		<segment id="38" parent="39" relname="sequence">регистрируем его уполномоченного представителя по финансовым вопросам\",</segment>
+		<segment id="40" parent="39" relname="attribution">- сообщила собеседница агентства.\n\nВ четверг, 14 июля, облизбирком проведет регистрацию доверенных лиц Мигули.</segment>
+		<segment id="43" parent="46" relname="attribution">По словам Нырковой,</segment>
+		<segment id="44" parent="46" relname="span">из четырех кандидатов в Госдуму от партии идет только один,</segment>
+		<segment id="45" parent="44" relname="elaboration">остальные - самовыдвиженцы, в том числе и бывший градоначальник.\n\</segment>
+		<segment id="48" parent="51" relname="attribution">nКак сообщалось,</segment>
+		<segment id="49" parent="51" relname="span">во вторник экс-мэр через доверенных лиц сдал в избирательную комиссию документы</segment>
+		<segment id="50" parent="49" relname="purpose">для выдвижения в качестве кандидата на выборы депутатов Госдумы РФ</segment>
+		<segment id="53" parent="55" relname="span">.\n\nВо вторник в областном суде рассматривалась апелляционная жалоба Мигули на постановление Благовещенского городского суда,</segment>
+		<segment id="54" parent="53" relname="elaboration">по которому он останется под стражей до 24 сентября.</segment>
+		<segment id="57" parent="59" relname="span">Ходатайство было оставлено без удовлетворения.\n\nАлександр Мигуля в конце июня обратился в суд и к руководству следственного изолятора с просьбой допустить в СИЗО нотариуса,</segment>
+		<segment id="58" parent="57" relname="purpose">чтобы оформить доверенность на представителя его интересов.</segment>
+		<segment id="60" parent="62" relname="span">Разрешение было получено накануне - в последний день, когда экс-мэр мог зарегистрироваться в качестве кандидата-самовыдвиженца в Госдуму.\n\n30 июня суд перешел к чтению обвинительного заключения,</segment>
+		<segment id="61" parent="60" relname="elaboration">которое будет продолжено 25 июля.</segment>
+		<segment id="63" parent="65" relname="sequence">Экс-мэр Благовещенска обвиняется по статьям 286 (\"Превышение полномочий\"), 285.1 (\"Нецелевое расходование бюджетных средств\"), 285 (\"Злоупотребление должностными полномочиями\") УК РФ.\n\nУголовное дело в отношении Мигули было возбуждено в апреле 2011 года.</segment>
+		<segment id="64" parent="65" relname="sequence">В июне 2011 года он был объявлен в международный розыск.</segment>
+		<segment id="66" parent="70" relname="sequence">В мае 2015 года экс-мэра задержали в Липецкой области,</segment>
+		<segment id="67" parent="69" relname="sequence">после чего этапировали в Амурскую область</segment>
+		<segment id="68" parent="69" relname="sequence">и поместили в следственный изолятор.\n\nИсточник: https://www.newsru.com/russia/13Jul2016/migulya.html\n</segment>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="42" type="multinuc" parent="76" relname="sequence"/>
+		<group id="36" type="multinuc" parent="42" relname="sequence"/>
+		<group id="32" type="span" parent="36" relname="joint"/>
+		<group id="31" type="multinuc" parent="28" relname="background"/>
+		<group id="35" type="multinuc" parent="36" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="sequence"/>
+		<group id="39" type="multinuc" parent="41" relname="span"/>
+		<group id="75" type="span" parent="76" relname="sequence"/>
+		<group id="47" type="span" parent="74" relname="preparation"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="74" type="multinuc" parent="75" relname="span"/>
+		<group id="56" type="multinuc" parent="74" relname="sequence"/>
+		<group id="52" type="span" parent="56" relname="sequence"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="55" type="span" parent="56" relname="sequence"/>
+		<group id="73" type="multinuc" parent="74" relname="sequence"/>
+		<group id="59" type="span" parent="73" relname="sequence"/>
+		<group id="72" type="multinuc" parent="73" relname="sequence"/>
+		<group id="62" type="span" parent="72" relname="sequence"/>
+		<group id="71" type="multinuc" parent="72" relname="sequence"/>
+		<group id="65" type="multinuc" parent="71" relname="sequence"/>
+		<group id="70" type="multinuc" parent="71" relname="sequence"/>
+		<group id="69" type="multinuc" parent="70" relname="sequence"/>
+		<group id="77" type="span"/>
+	</body>
+</rst>

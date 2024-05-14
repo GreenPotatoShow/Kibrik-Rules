@@ -1,0 +1,77 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="42" relname="span">Царнаеву готовят новые обвинения:</segment>
+		<segment id="33" parent="37" relname="joint">он знал о причастности брата к тройному убийству,</segment>
+		<segment id="34" parent="36" relname="span">полагает обвинение\n\nАмериканская прокуратура располагает доказательствами того, что Джохар Царнаев,</segment>
+		<segment id="35" parent="34" relname="background">обвиняемый в совершении теракта во время Бостонского марафона в апреле прошлого года,</segment>
+		<segment id="38" parent="40" relname="span">знал о причастности своего старшего брата Тамерлана к нераскрытому тройному убийству</segment>
+		<segment id="39" parent="38" relname="elaboration">.\n\</segment>
+		<segment id="43" parent="44" relname="attribution">nКак передает ТАСС,</segment>
+		<segment id="44" parent="45" relname="span">прокуроры нашли человека, который готов дать в суде показания о том, что Джохар Царнаев знал о причастности старшего брата к убийству в Уолтэме.\n\nВ сентябре 2011 года в одной из квартир в городе Уолтэм (штат Массачусетс) были найдены тела трех молодых мужчин с ножевыми ранениями шеи.</segment>
+		<segment id="46" parent="48" relname="joint">Полицейским так и не удалось выйти на след тех, кто мог стоять за этим преступлением.</segment>
+		<segment id="47" parent="48" relname="joint">Они пришли к выводу, что убийство было совершено кем-то, кто был знаком с погибшими.</segment>
+		<segment id="50" parent="58" relname="contrast">Тамерлан Царнаев был другом одного из убитых, 25-летнего инструктора по боевым искусствам Брендана Месса.</segment>
+		<segment id="51" parent="57" relname="span">Однако по какой-то причине его по этому делу никогда не допрашивали.</segment>
+		<segment id="52" parent="56" relname="span">О его возможной причастности к убийству</segment>
+		<segment id="53" parent="55" relname="span">стало известно от 27-летнего выходца из Чечни Ибрагима Тодашева,</segment>
+		<segment id="54" parent="53" relname="elaboration">который был застрелен во время проводившегося в мае прошлого года допроса по делу о теракте на марафоне.\n\nСледующие досудебные слушания по делу о теракте на марафоне назначены на 20 октября.</segment>
+		<segment id="59" parent="88" relname="preparation">Прокуратура настаивает на том, чтобы Джохар присутствовал на них лично.\n\nСуд над Джохаром Царнаевым начнется в январе 2015 года.</segment>
+		<segment id="60" parent="65" relname="attribution">Как отмечают СМИ,</segment>
+		<segment id="61" parent="64" relname="attribution">защитники попытаются убедить присяжных и судью в том,</segment>
+		<segment id="62" parent="64" relname="joint">что зачинщиком бостонского теракта был Тамерлан,</segment>
+		<segment id="63" parent="64" relname="joint">а младший брат попросту попал под его влияние.</segment>
+		<segment id="67" parent="68" relname="condition">Если их стратегия окажется успешной,</segment>
+		<segment id="68" parent="69" relname="span">Джохар может избежать смертной казни.</segment>
+		<segment id="70" parent="73" relname="attribution">Прокуроры уже заявили,</segment>
+		<segment id="73" parent="74" relname="span">что намерены требовать для предполагаемого террориста высшей меры наказания.\n\n15 апреля 2013 года в центре Бостона, недалеко от финишной черты марафона, с интервалом в 12 секунд прогремели два взрыва.</segment>
+		<segment id="75" parent="77" relname="joint">Погибли три человека,</segment>
+		<segment id="76" parent="77" relname="joint">более 260 получили ранения.</segment>
+		<segment id="81" parent="85" relname="sequence">Через три дня после теракта Тамерлан был убит в перестрелке с полицией,</segment>
+		<segment id="82" parent="84" relname="sequence">Джохар был обнаружен в катере на заднем дворе одного из частных домов в пригороде Бостона</segment>
+		<segment id="83" parent="84" relname="sequence">и арестован.\n\nВ июле прошлого года состоялись первые судебные слушания по этому делу.</segment>
+		<segment id="86" parent="87" relname="joint">Царнаев не признал себя виновным ни по одному из предъявленных ему 30 пунктов обвинения.\n\nИсточник: https://www.newsru.com/world/12Oct2014/tsarnaev.html\n</segment>
+		<group id="42" type="span" parent="91" relname="preparation"/>
+		<group id="41" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="37" type="multinuc" parent="41" relname="sequence"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="sequence"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="49" type="span" parent="91" relname="joint"/>
+		<group id="45" type="span" parent="49" relname="span"/>
+		<group id="48" type="multinuc" parent="45" relname="elaboration"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="58" type="multinuc" parent="90" relname="joint"/>
+		<group id="57" type="span" parent="58" relname="contrast"/>
+		<group id="56" type="span" parent="51" relname="elaboration"/>
+		<group id="55" type="span" parent="52" relname="evidence"/>
+		<group id="89" type="span" parent="90" relname="joint"/>
+		<group id="88" type="multinuc" parent="89" relname="span"/>
+		<group id="80" type="span" parent="88" relname="joint"/>
+		<group id="66" type="span" parent="80" relname="span"/>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="79" type="span" parent="66" relname="elaboration"/>
+		<group id="69" type="span" parent="79" relname="span"/>
+		<group id="78" type="span" parent="69" relname="evidence"/>
+		<group id="74" type="span" parent="78" relname="span"/>
+		<group id="77" type="multinuc" parent="74" relname="elaboration"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="85" type="multinuc" parent="87" relname="joint"/>
+		<group id="84" type="multinuc" parent="85" relname="sequence"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

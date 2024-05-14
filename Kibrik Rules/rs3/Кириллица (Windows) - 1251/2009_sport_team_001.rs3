@@ -1,0 +1,34 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="31" relname="preparation">Российским футболистам не нашлось места в команде года по версии УЕФА\n\nПосетители официального сайта Европейского союза футбольных ассоциаций (УЕФА) путем голосования определили состав команды года.</segment>
+		<segment id="13" parent="31" relname="span">Шесть из двенадцати позиций в ней остались за представителями победившей на ЕВРО-2008 сборной Испании.</segment>
+		<segment id="14" parent="16" relname="contrast">Россиянам в этой символической сборной места не нашлось.\n\nКоманда года-2008 по версии УЕФА:\n\nИкер Касильяс (\"Реал\" Мадрид, сборная Испании), Серхио Рамос (\"Реал\" Мадрид, сборная Испании), Джон Терри (\"Челси\", сборная Англии), Карлес Пуйоль (\"Барселона\", сборная Испании), Филипп Лам (\"Бавария\", сборная Германии), Криштиану Роналду (\"Манчестер Юнайтед\", сборная Португалии), Хави Эрнандес (\"Барселона\", сборная Испании), Цеск Фабрегас (\"Арсенал\", сборная Испании), Франк Рибери (\"Бавария\", сборная Франции), Лионель Месси (\"Барселона\"), Фернандо Торрес (\"Ливерпуль\", сборная Испании).\n\nЛучшим тренером болельщики назвали демиурга \"МЮ\" Алекса Фергюсона,</segment>
+		<segment id="15" parent="16" relname="contrast">а капитанская повязка досталась Хави.\n\nЗа кандидатов было отдано в общей сложности более 3,3 млн. голосов.</segment>
+		<segment id="17" parent="19" relname="joint">\"Барселона\" делегировала в символическую сборную сразу трех футболистов</segment>
+		<segment id="18" parent="19" relname="joint">и оказалась наиболее представленной в ней.</segment>
+		<segment id="20" parent="24" relname="span">Следующими в этом списке с двумя игроками от клуба идут \"Реал\" и \"Бавария\".\n\</segment>
+		<segment id="21" parent="23" relname="span">nНапомним, в символическую сборную УЕФА были номинированы сразу пять представителей питерского \"Зенита\",</segment>
+		<segment id="22" parent="21" relname="elaboration">завоевавшего в прошлом году Кубок УЕФА и Суперкубок УЕФА.</segment>
+		<segment id="25" parent="27" relname="contrast">Это Анатолий Тимощук, Александр Анюков, Андрей Аршавин, Константин Зырянов и главный тренер Дик Адвокат.</segment>
+		<segment id="26" parent="27" relname="contrast">Но в итоговую дюжину не попал ни один из них.\n\nИсточник: https://www.newsru.com/sport/21Jan2009/team.html\n</segment>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="30" type="multinuc" parent="13" relname="elaboration"/>
+		<group id="16" type="multinuc" parent="30" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="19" type="multinuc" parent="29" relname="span"/>
+		<group id="28" type="span" parent="19" relname="elaboration"/>
+		<group id="24" type="span" parent="28" relname="span"/>
+		<group id="23" type="span" parent="20" relname="elaboration"/>
+		<group id="27" type="multinuc" parent="24" relname="elaboration"/>
+		<group id="32" type="span"/>
+	</body>
+</rst>

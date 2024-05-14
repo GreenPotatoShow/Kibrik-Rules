@@ -1,0 +1,86 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="35" parent="37" relname="span">Трое нарушителей задержаны на армяно-турецкой границе\n\nНа границе Армении и Турции задержаны трое нарушителей.</segment>
+		<segment id="36" parent="35" relname="elaboration">Все они граждане Бангладеш.</segment>
+		<segment id="38" parent="39" relname="attribution">Они говорят,</segment>
+		<segment id="39" parent="40" relname="span">что заблудились,</segment>
+		<segment id="41" parent="47" relname="span">однако пограничники уверены, что эти иностранцы разведчики,</segment>
+		<segment id="42" parent="46" relname="span">которые пытаются узнать слабые места на границе,</segment>
+		<segment id="43" parent="45" relname="joint">чтобы затем использовать эту информацию</segment>
+		<segment id="44" parent="45" relname="joint">для переброски в Армению экстремистов.\n\nЗа последние два года это уже третий случай нарушения турецко-армянской границы.</segment>
+		<segment id="50" parent="52" relname="span">Все попытки проникнуть в Армению со стороны Турции произошли на одном и том же Арташатском участке.</segment>
+		<segment id="51" parent="50" relname="elaboration">По этому направлению в свое время в Армению пытались уходить курдские партизаны от преследования регулярных войск Турции.\n\nЗадержание произошло ночью.</segment>
+		<segment id="54" parent="56" relname="joint">Руки всех трех нарушителей были обмотаны тряпками.</segment>
+		<segment id="55" parent="56" relname="joint">Очевидно, они заранее готовились к преодолению колючей проволоки.</segment>
+		<segment id="57" parent="60" relname="condition">Увидев пограничников,</segment>
+		<segment id="58" parent="60" relname="joint">нарушители, как по команде, бросились врассыпную,</segment>
+		<segment id="59" parent="60" relname="joint">и на поиски одного из них понадобилось полчаса.</segment>
+		<segment id="63" parent="69" relname="same-unit">Он, не мешкая,</segment>
+		<segment id="64" parent="68" relname="span">выполнил приказы на русском \"стой!\" и \"лежать!\".\n\</segment>
+		<segment id="65" parent="67" relname="contrast">nСначала задержанный отвечал на вопросы русского пограничника,</segment>
+		<segment id="66" parent="67" relname="contrast">но потом замолчал.</segment>
+		<segment id="70" parent="97" relname="preparation">Пришлось из Еревана вызвать переводчика студента-индийца.</segment>
+		<segment id="71" parent="74" relname="attribution">Нарушители рассказали,</segment>
+		<segment id="72" parent="74" relname="joint">что приехали в Турцию как туристы</segment>
+		<segment id="73" parent="74" relname="joint">и были ограблены.</segment>
+		<segment id="76" parent="81" relname="condition">Однако, оставшись без денег и документов,</segment>
+		<segment id="77" parent="81" relname="joint">они почему-то решили идти не в полицию,</segment>
+		<segment id="78" parent="80" relname="joint">а добираться до Бангладеш пешком через Иран</segment>
+		<segment id="79" parent="80" relname="joint">и заблудились.\n\nНа соседней ирано-турецкой границе технических средств охраны нет.</segment>
+		<segment id="84" parent="85" relname="cause-effect">Выходцы из Бангладеш уже не первый раз пытаются проникнуть в Армению.</segment>
+		<segment id="85" parent="86" relname="span">Поэтому российские пограничники к этим словам относятся с подозрением.\n\n</segment>
+		<segment id="87" parent="89" relname="span">\"Я не исключаю как вариант, что пытаются прощупать данный участок государственной границы,</segment>
+		<segment id="88" parent="87" relname="purpose">для того чтобы наладить канал переброски мусульман, воюющих за веру, за чистый ислам, за территорию Чечни\",</segment>
+		<segment id="90" parent="92" relname="span">- говорит Сергей Факулин, замначальника Арташатского отряда ФПС РФ.\n\nЗадержанные на днях будут переданы Министерству национальной безопасности Армении,</segment>
+		<segment id="91" parent="90" relname="elaboration">где займутся выяснением их личностей.</segment>
+		<segment id="94" parent="93" relname="elaboration">Все отличившиеся в ходе задержания пограничники представлены к награждению.\n\nИсточник: https://www.newsru.com/world/21Sep2000/armenia.html\n</segment>
+		<group id="53" type="multinuc" parent="101" relname="joint"/>
+		<group id="49" type="span" parent="53" relname="joint"/>
+		<group id="37" type="span" parent="49" relname="span"/>
+		<group id="48" type="multinuc" parent="37" relname="elaboration"/>
+		<group id="40" type="span" parent="48" relname="contrast"/>
+		<group id="47" type="span" parent="48" relname="contrast"/>
+		<group id="46" type="span" parent="41" relname="elaboration"/>
+		<group id="45" type="multinuc" parent="42" relname="purpose"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="100" type="multinuc" parent="101" relname="joint"/>
+		<group id="62" type="multinuc" parent="100" relname="joint"/>
+		<group id="56" type="multinuc" parent="62" relname="joint"/>
+		<group id="61" type="span" parent="62" relname="joint"/>
+		<group id="60" type="multinuc" parent="61" relname="span"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="69" type="multinuc" parent="98" relname="preparation"/>
+		<group id="68" type="span" parent="69" relname="same-unit"/>
+		<group id="67" type="multinuc" parent="64" relname="elaboration"/>
+		<group id="98" type="span" parent="99" relname="span"/>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="83" type="multinuc" parent="97" relname="joint"/>
+		<group id="75" type="span" parent="83" relname="contrast"/>
+		<group id="74" type="multinuc" parent="75" relname="span"/>
+		<group id="82" type="span" parent="83" relname="contrast"/>
+		<group id="81" type="multinuc" parent="82" relname="span"/>
+		<group id="80" type="multinuc" parent="81" relname="joint"/>
+		<group id="96" type="span" parent="97" relname="joint"/>
+		<group id="86" type="span" parent="96" relname="span"/>
+		<group id="95" type="span" parent="86" relname="elaboration"/>
+		<group id="93" type="span" parent="95" relname="span"/>
+		<group id="89" type="span" parent="93" relname="span"/>
+		<group id="92" type="span" parent="89" relname="attribution"/>
+		<group id="101" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="36" relname="span">—четна€ палата: \"»жјвто\" близок к банкротству\n\n омпани€ \"»жјвто\",</segment>
+		<segment id="33" parent="35" relname="span">выпускающа€ в –оссии модели корейской Kia Motors и \"јвто¬ј«а\", близка к банкротству</segment>
+		<segment id="34" parent="33" relname="cause-effect">из-за более чем 3 млрд рублей просроченных долгов,</segment>
+		<segment id="37" parent="36" relname="attribution">пришла к выводу —четна€ палата –‘ по итогам проверки автозавода,</segment>
+		<segment id="39" parent="45" relname="joint">передает Reuters.\n\n\"ќбщество отвечает основным признакам банкрота,</segment>
+		<segment id="40" parent="43" relname="cause-effect">а взыскание кредиторской задолженности</segment>
+		<segment id="41" parent="42" relname="condition">при существенной просрочке платежей</segment>
+		<segment id="42" parent="43" relname="span">может быть реализовано через механизм банкротства\",</segment>
+		<segment id="47" parent="46" relname="attribution">- говоритс€ в акте проверки</segment>
+		<segment id="49" parent="57" relname="joint">.\n\n—четна€ палата провер€ла завод, принадлежавший ранее \"√руппе —ок\" бизнесмена ёри€  ачмазова, на предмет эффективности использовани€ таможенных льгот и признаков фиктивного банкротства.\n\nЌа момент проверки, котора€ проводилась с 8 июн€ по 17 июл€ 2009 года,</segment>
+		<segment id="50" parent="52" relname="comparison">просрочка погашени€ долгов составл€ла более трех мес€цев,</segment>
+		<segment id="51" parent="52" relname="comparison">что по закону о банкротстве может быть основанием дл€ за€влени€ о банкротстве.\n\nЌа 1 апрел€ сумма просроченного долга составила 3,2 млрд рублей,</segment>
+		<segment id="53" parent="55" relname="span">то есть 22% от общей суммы кредиторской задолженности (14,5 млрд рублей).</segment>
+		<segment id="54" parent="53" relname="elaboration">¬ том числе банкам \"»жјвто\" просрочил выплату 836,4 млн рублей, держател€м облигаций - 1,94 млрд рублей, поставщикам и подр€дчикам - 506,2 млн рублей, в том числе 176,6 млн рублей \"јвто¬ј«у\".\n\nѕроверка —четной палаты прошла по следам конфликта бывшего владельца \"»жјвто\" - \"группы —ок\" Ц и \"јвто¬ј«а\".</segment>
+		<segment id="58" parent="64" relname="contrast">\"—ок\" с конца 2007 года договаривалс€ с \"јвто¬ј«ом\" о продаже \"»жјвто\",</segment>
+		<segment id="59" parent="63" relname="restatement">но весной за€вил о выходе из переговоров.</segment>
+		<segment id="60" parent="62" relname="span">ћенеджмент \"»жјвто\" и власти ”дмуртии, просили совладельца \"јвто¬ј«а\" госкорпорацию –остехнологии вз€ть завод под свой контроль,</segment>
+		<segment id="61" parent="60" relname="elaboration">утвержда€, что иначе \"»жјвто\" грозит банкротство.</segment>
+		<segment id="65" parent="68" relname="attribution">Ќо –остехнологии ответили,</segment>
+		<segment id="66" parent="67" relname="cause-effect">что \"»жјвто\" им сейчас неинтересен.\n\nћежду тем завод постепенно прекратил производство из- за низкого спроса и высоких цен на машинокомплекты автомобилей KIA,</segment>
+		<segment id="67" parent="68" relname="span">что почти остановило его выплаты по долгам.\n\</segment>
+		<segment id="70" parent="77" relname="attribution">n¬ апреле представитель »жјвто говорил,</segment>
+		<segment id="71" parent="75" relname="span">что компани€ полностью закрываетс€,</segment>
+		<segment id="72" parent="74" relname="joint">увольн€€ почти весь персонал</segment>
+		<segment id="73" parent="74" relname="joint">и консервиру€ мощности на неопределенный срок.\n\n¬опросы —четной палаты в ходе проверки вызвала, в частности, схема \"закольцовывани€\" акционерного капитала \"»жјвто\" в начале 2009 года,</segment>
+		<segment id="76" parent="75" relname="elaboration">когда \"—ок\" продал 74,79% акций \"дочкам\" завода ќќќ \"√росс\", ќќќ \"Ќорэкс\" и ќќќ \"»ж- омплект\".</segment>
+		<segment id="79" parent="82" relname="attribution">\"—ок\" официально утверждал,</segment>
+		<segment id="80" parent="82" relname="contrast">что согласовывал все свои действи€ с –остехнологи€ми,</segment>
+		<segment id="81" parent="82" relname="contrast">но источники, близкие к госкорпорации, это отрицали.\n\nќсновными кредиторами \"»жјвто\" на 1 апрел€ были \"—бербанк\" (7,74 млрд рублей долга), јк Ѕарс Ѕанк (1,97 млрд рублей), ћосковский деловой мир (1,97 млрд рублей), \"”ралсиб\" (846,7 млн рублей), јльфа-банк (470 млн рублей), Ѕанк «енит (178,3 млн рублей).\n\n онтрольный пакет \"»жјвто\" (51,01% акций) заложен в \"—бербанке\" с залоговой стоимостью 2,1 млрд рублей,</segment>
+		<segment id="84" parent="86" relname="contrast">но на 1 апрел€ у \"»жјвто\" просроченных долгов перед \"—бербанком\" не было.\n\n¬ первом квартале \"»жјвто\" частично реструктурировал долг на сумму 5,05 млрд рублей,</segment>
+		<segment id="85" parent="86" relname="contrast">но длительность отсрочки платежей составила от четырех мес€цев до 2-х лет по долгосрочным кредитам и от четырех мес€цев до полугода по краткосрочным.\n\n»сточник: https://www.newsru.com/finance/04Aug2009/izhavto_default.html\n</segment>
+		<group id="48" type="span" parent="91" relname="preparation"/>
+		<group id="46" type="multinuc" parent="48" relname="span"/>
+		<group id="38" type="span" parent="46" relname="joint"/>
+		<group id="36" type="span" parent="38" relname="span"/>
+		<group id="35" type="span" parent="32" relname="elaboration"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="57" type="multinuc" parent="91" relname="joint"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="52" type="multinuc" parent="56" relname="restatement"/>
+		<group id="55" type="span" parent="56" relname="restatement"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="64" type="multinuc" parent="89" relname="preparation"/>
+		<group id="63" type="multinuc" parent="64" relname="contrast"/>
+		<group id="62" type="span" parent="63" relname="restatement"/>
+		<group id="89" type="span" parent="90" relname="span"/>
+		<group id="69" type="span" parent="88" relname="preparation"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="88" type="multinuc" parent="89" relname="span"/>
+		<group id="78" type="span" parent="88" relname="joint"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="75" type="span" parent="77" relname="span"/>
+		<group id="74" type="multinuc" parent="71" relname="evidence"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="83" type="span" parent="87" relname="contrast"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="86" type="multinuc" parent="87" relname="contrast"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

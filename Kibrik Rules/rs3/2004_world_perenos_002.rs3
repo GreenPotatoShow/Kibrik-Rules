@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="27" relname="attribution">Белый дом допускает,</segment>
+		<segment id="27" parent="28" relname="span">что \"Аль-Каида\" может сорвать выборы президента\n\nВ Соединенных Штатах изучают вопрос о возможности переноса ноябрьских президентских выборов в случае совершения на территории страны осенью террористического акта.</segment>
+		<segment id="29" parent="34" relname="attribution">Об этом сообщил в последнем номере журнал Newsweek,</segment>
+		<segment id="30" parent="33" relname="attribution">ссылаясь на официальные источники</segment>
+		<segment id="31" parent="32" relname="attribution">.\n\nКак стало известно,</segment>
+		<segment id="32" parent="33" relname="span">на прошлой неделе министерство национальной безопасности США (МНБ) обратилось в департамент юридического советника министерства юстиции с просьбой изучить необходимые с юридической точки зрения шаги, которые позволили бы отложить в случае необходимости выборы.\n\</segment>
+		<segment id="37" parent="43" relname="span">nНа прошлой неделе министр национальной безопасности Том Ридж специально созвал пресс-конференцию,</segment>
+		<segment id="38" parent="41" relname="attribution">на которой сообщил,</segment>
+		<segment id="39" parent="41" relname="span">что американские спецслужбы располагают достоверной информацией о намерении террористической группировки \"Аль-Каида\" совершить крупномасштабную акцию на территории США с тем,</segment>
+		<segment id="40" parent="39" relname="purpose">чтобы сорвать выборы</segment>
+		<segment id="44" parent="45" relname="attribution">.\n\nОн и другие официальные лица администрации утверждают,</segment>
+		<segment id="45" parent="46" relname="span">что не располагают точными данными о времени, месте и методе проведения теракта.</segment>
+		<segment id="48" parent="50" relname="span">Тем не менее мартовские взрывы на железной дороге в Мадриде,</segment>
+		<segment id="49" parent="48" relname="background">которые оказали прямое влияние на исход выборов в Испании,</segment>
+		<segment id="51" parent="53" relname="span">а также смысл перехваченных спецсредствами переговоров членов \"Аль-Каиды\" убеждают в том, что террористы,</segment>
+		<segment id="52" parent="51" relname="attribution">по словам одного официального представителя США,</segment>
+		<segment id="54" parent="58" relname="joint">\"хотят помешать проведению выборов\".\n\nВ МНБ хотят,</segment>
+		<segment id="55" parent="57" relname="span">чтобы министерство юстиции дало заключение по письму,</segment>
+		<segment id="56" parent="55" relname="elaboration">которое председатель недавно созданной комиссии по содействию проведению выборов в США Дефорест Соарис направил Тому Риджу.\n\</segment>
+		<segment id="60" parent="63" relname="attribution">nВ нем указывается,</segment>
+		<segment id="61" parent="63" relname="joint">что в структуре федерального правительства \"нет ведомства, которое было бы наделено правом отменять</segment>
+		<segment id="62" parent="63" relname="joint">или переносить сроки выборов\".</segment>
+		<segment id="67" parent="70" relname="attribution">Соарис считает,</segment>
+		<segment id="68" parent="70" relname="span">что Риджу следует добиваться от конгресса принятия чрезвычайного закона,</segment>
+		<segment id="69" parent="68" relname="elaboration">который наделил бы министерство национальной безопасности таким полномочиями.\n\nИсточник: https://www.newsru.com/world/11Jul2004/perenos.html\n</segment>
+		<group id="36" type="span" parent="74" relname="joint"/>
+		<group id="28" type="span" parent="36" relname="span"/>
+		<group id="35" type="span" parent="28" relname="attribution"/>
+		<group id="34" type="span" parent="35" relname="span"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="47" type="multinuc" parent="73" relname="joint"/>
+		<group id="43" type="span" parent="47" relname="joint"/>
+		<group id="42" type="span" parent="37" relname="elaboration"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="66" type="multinuc" parent="72" relname="span"/>
+		<group id="50" type="span" parent="66" relname="joint"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="59" type="span" parent="65" relname="span"/>
+		<group id="53" type="span" parent="59" relname="span"/>
+		<group id="58" type="multinuc" parent="53" relname="purpose"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="64" type="span" parent="59" relname="elaboration"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="71" type="span" parent="66" relname="interpretation-evaluation"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="74" type="multinuc"/>
+	</body>
+</rst>

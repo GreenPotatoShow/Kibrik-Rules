@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="97" relname="preparation">На следующих президентских выборах у правых должен быть единый кандидат\n\</segment>
+		<segment id="35" parent="41" relname="span">nНа президентских выборах 2004 года СПС и \"Яблоко\", возможно, будет представлять единый кандидат.</segment>
+		<segment id="38" parent="40" relname="span">Переговоры о том, что этим единым кандидатом будет лидер \"Яблока\" Григорий Явлинский, уже ведутся,</segment>
+		<segment id="39" parent="38" relname="attribution">сообщил лидер фракции СПС Борис Немцов</segment>
+		<segment id="42" parent="43" relname="attribution">.\n\nПо его словам,</segment>
+		<segment id="43" parent="44" relname="span">У СПС и \"Яблока\" \"должен быть один кандидат\".</segment>
+		<segment id="45" parent="49" relname="joint">\"Будет полной глупостью и преступлением перед страной,</segment>
+		<segment id="46" parent="48" relname="span">не побоюсь этого слова,</segment>
+		<segment id="47" parent="46" relname="condition">если будет и от СПС свой кандидат, и от \"Яблока\",</segment>
+		<segment id="50" parent="49" relname="attribution">- заявил Борис Немцов в интервью программе \"Итоги\".</segment>
+		<segment id="53" parent="54" relname="attribution">При этом Немцов признался,</segment>
+		<segment id="54" parent="55" relname="span">что на президентских выборах 2000 года голосовал за Явлинского.</segment>
+		<segment id="56" parent="59" relname="attribution">По словам лидера думской фракции СПС,</segment>
+		<segment id="57" parent="59" relname="restatement">кандидата на выборах-2004 должны определить так называемые праймериз,</segment>
+		<segment id="58" parent="59" relname="restatement">то есть предварительные выборы между кандидатами от коалиции правых сил.\n\n\"Технология праймериз, безусловно, кандидаты в президенты должны пройти горнило предвыборной борьбы внутри коалиции.</segment>
+		<segment id="61" parent="65" relname="span">И должен на финишную прямую президентской гонки выйти тот, у кого максимальный уровень доверия.</segment>
+		<segment id="62" parent="64" relname="joint">Это технологично,</segment>
+		<segment id="63" parent="64" relname="joint">это правильно.</segment>
+		<segment id="66" parent="68" relname="joint">Если такие договоренности будут,</segment>
+		<segment id="67" parent="68" relname="joint">и они зафиксированы будут,</segment>
+		<segment id="69" parent="70" relname="joint">и на это согласится Явлинский,</segment>
+		<segment id="71" parent="75" relname="span">хочу обратить ваше внимание,</segment>
+		<segment id="72" parent="73" relname="attribution">то я считаю,</segment>
+		<segment id="73" parent="74" relname="span">что это вполне реалистичная картина, вполне реалистичная.</segment>
+		<segment id="77" parent="79" relname="span">Я не вижу здесь никаких противопоказаний\",</segment>
+		<segment id="78" parent="77" relname="attribution">- заявил Немцов.\n\</segment>
+		<segment id="82" parent="92" relname="span">nПо его словам Явлинский относится к такой перспективе \"с пониманием\".</segment>
+		<segment id="83" parent="89" relname="span">\"Но ответа окончательного нет.</segment>
+		<segment id="84" parent="86" relname="joint">Личные амбиции дело хорошее, безусловно,</segment>
+		<segment id="85" parent="86" relname="joint">и часто они движут в том числе и политика.</segment>
+		<segment id="87" parent="88" relname="contrast">Но ответственность историческая, которая лежит на этих людях, гораздо важнее и выше, чем личные амбиции\",</segment>
+		<segment id="90" parent="89" relname="attribution">- подытожил Немцов\n\nИсточник: https://www.newsru.com/russia/29Apr2001/primeris4.html\n</segment>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="41" type="span" parent="97" relname="joint"/>
+		<group id="40" type="span" parent="35" relname="elaboration"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="52" type="multinuc" parent="96" relname="joint"/>
+		<group id="44" type="span" parent="52" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="49" type="multinuc" parent="51" relname="span"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="95" type="span" parent="96" relname="joint"/>
+		<group id="55" type="span" parent="95" relname="span"/>
+		<group id="94" type="multinuc" parent="55" relname="elaboration"/>
+		<group id="60" type="span" parent="94" relname="joint"/>
+		<group id="59" type="multinuc" parent="60" relname="span"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="81" type="span" parent="93" relname="joint"/>
+		<group id="65" type="span" parent="81" relname="span"/>
+		<group id="64" type="multinuc" parent="61" relname="interpretation-evaluation"/>
+		<group id="80" type="span" parent="65" relname="elaboration"/>
+		<group id="76" type="span" parent="80" relname="span"/>
+		<group id="70" type="multinuc" parent="75" relname="condition"/>
+		<group id="68" type="multinuc" parent="70" relname="joint"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="74" type="span" parent="71" relname="interpretation-evaluation"/>
+		<group id="79" type="span" parent="76" relname="interpretation-evaluation"/>
+		<group id="92" type="span" parent="93" relname="joint"/>
+		<group id="91" type="span" parent="82" relname="elaboration"/>
+		<group id="89" type="span" parent="91" relname="span"/>
+		<group id="88" type="multinuc" parent="83" relname="elaboration"/>
+		<group id="86" type="multinuc" parent="88" relname="contrast"/>
+		<group id="98" type="span"/>
+	</body>
+</rst>

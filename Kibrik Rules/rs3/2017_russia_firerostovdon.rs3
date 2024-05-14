@@ -1,0 +1,166 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="75" parent="77" relname="span">Пожар в центре Ростова-на-Дону локализован\n\nПожар в центре Ростова-на-Дону,</segment>
+		<segment id="76" parent="75" relname="background">из-за которого в городе был введен режим ЧС,</segment>
+		<segment id="78" parent="77" relname="elaboration">локализован пожарными в 18:53 мск</segment>
+		<segment id="80" parent="84" relname="sequence">на всей площади возгорания около 10 тыс. кв. м,</segment>
+		<segment id="81" parent="83" relname="span">сообщает агентство \"Интерфакс\" со ссылкой на Главное управление МЧС России по Ростовской области.\n\nИнформация о возгорании частного дома рядом с ЖК \"Тихий Дон\" по адресу улица Нижегородская, 33,</segment>
+		<segment id="82" parent="81" relname="background">поступила в местное управление МЧС в 12:52 по московскому времени.</segment>
+		<segment id="86" parent="88" relname="span">Огонь перекинулся на соседние здания.</segment>
+		<segment id="87" parent="86" relname="elaboration">В общей сложности огнем было охвачено 25 частных домов на общей площади около 10 тыс. кв м.\n\nИз зоны возгорания эвакуировано 650 человек.</segment>
+		<segment id="90" parent="94" relname="joint">Развернуто шесть пунктов временного размещения вместимостью более 700 человек.</segment>
+		<segment id="91" parent="93" relname="joint">В ликвидации возгорания было задействовано семь вертолетов МЧС России, Минобороны РФ и Росгвардии.\n\nПожар стал вторым за последнее время в данном районе,</segment>
+		<segment id="92" parent="93" relname="joint">заявил начальник ГУ МЧС России по Ростовской области Валерий Синьков на заседании оперативного штаба по ликвидации пожара.\n\n\"Изначально горение происходило на площади 600 кв. м.</segment>
+		<segment id="95" parent="99" relname="span">Нужно разобраться в том, кому принадлежат эти постройки.</segment>
+		<segment id="96" parent="98" relname="span">Это уже второй пожар в этом районе,</segment>
+		<segment id="97" parent="96" relname="elaboration">первый пожар был на площади 1,2 тыс. м\",</segment>
+		<segment id="101" parent="100" relname="attribution">- сказал он.\n\</segment>
+		<segment id="103" parent="108" relname="attribution">nПо словам представителя МЧС,</segment>
+		<segment id="104" parent="108" relname="joint">около 100 строений в зоне пожара</segment>
+		<segment id="105" parent="107" relname="joint">либо полностью сгорели,</segment>
+		<segment id="106" parent="107" relname="joint">либо получили повреждения.</segment>
+		<segment id="110" parent="111" relname="cause-effect">\"В ночное время предстоит организовать ликвидацию открытого горения и разбор завалов,</segment>
+		<segment id="111" parent="112" relname="span">поэтому группировка сил продолжает наращиваться.</segment>
+		<segment id="113" parent="115" relname="span">Возможно, мы обратимся к властям,</segment>
+		<segment id="114" parent="113" relname="purpose">чтобы привлечь волонтеров\",</segment>
+		<segment id="117" parent="116" relname="attribution">- уточнил он</segment>
+		<segment id="120" parent="127" relname="attribution">.\n\nОчевидцы говорят,</segment>
+		<segment id="121" parent="127" relname="joint">что пожарные прибыли на место через час после начала возгорания\n\nПожарные на место прибыли только спустя час после начала пожара,</segment>
+		<segment id="122" parent="126" relname="same-unit">пишет RostovGazeta со ссылкой на одного из очевидцев.\n\n\"Когда я приехал,</segment>
+		<segment id="123" parent="125" relname="joint">горели уже дома,</segment>
+		<segment id="124" parent="125" relname="joint">пожарных не было.</segment>
+		<segment id="129" parent="133" relname="contrast">Через час приехал один расчет,</segment>
+		<segment id="130" parent="132" relname="joint">но горело уже со всех сторон,</segment>
+		<segment id="131" parent="132" relname="joint">и они не могли ничего сделать\",</segment>
+		<segment id="134" parent="133" relname="attribution">- рассказал местный житель</segment>
+		<segment id="137" parent="216" relname="preparation">.\n\</segment>
+		<segment id="138" parent="142" relname="same-unit">nПозже,</segment>
+		<segment id="139" parent="140" relname="attribution">по словам источников,</segment>
+		<segment id="140" parent="141" relname="span">начали прибывать новые расчеты.</segment>
+		<segment id="143" parent="149" relname="same-unit">\"Горел один частный дом изначально,</segment>
+		<segment id="144" parent="148" relname="contrast">подъехала одна полицейская машина,</segment>
+		<segment id="145" parent="146" relname="condition">но в течение часа, если не больше,</segment>
+		<segment id="146" parent="147" relname="span">не было ни одной пожарной машины.</segment>
+		<segment id="150" parent="151" relname="condition">Если бы этот частный дом вовремя потушили,</segment>
+		<segment id="151" parent="152" relname="span">то последствий можно было бы избежать\",</segment>
+		<segment id="153" parent="155" relname="span">- рассказал другой очевидец.\n\nЗа медпомощью обратились 36 человек,</segment>
+		<segment id="154" parent="153" relname="elaboration">госпитализировано 8\n\</segment>
+		<segment id="159" parent="161" relname="span">nВ результате ЧП госпитализировано восемь человек,</segment>
+		<segment id="160" parent="159" relname="elaboration">в их числе трое полицейских и спасатель МЧС,</segment>
+		<segment id="162" parent="170" relname="span">сообщает РИА \"Новости\" со ссылкой на городскую больницу скорой медицинской помощи.\n\</segment>
+		<segment id="163" parent="169" relname="span">nРанее сообщалось о госпитализации трех человек.</segment>
+		<segment id="164" parent="167" relname="attribution">Правительство Ростовской области сообщило,</segment>
+		<segment id="165" parent="166" relname="cause-effect">что из-за пожара</segment>
+		<segment id="166" parent="167" relname="span">за медпомощью обратились 27 человек.\n\</segment>
+		<segment id="172" parent="173" relname="attribution">nПо уточненным данным,</segment>
+		<segment id="173" parent="174" relname="span">число пострадавших к вечеру достигло 36 человек.</segment>
+		<segment id="177" parent="179" relname="span">Как сообщили ТАСС в региональном центре медицины катастроф, за медицинской помощью обратились 36 человек.</segment>
+		<segment id="178" parent="177" relname="elaboration">\"Семь из них госпитализированы с ожогами и отравлением продуктами горения в состоянии средней степени тяжести.</segment>
+		<segment id="180" parent="182" relname="span">Еще 29 пострадавшим помощь оказана амбулаторно\",</segment>
+		<segment id="181" parent="180" relname="attribution">- сказали в центре.\n\nПрокуратура города проводит проверку в связи с пожаром\n\</segment>
+		<segment id="185" parent="187" relname="comparison">nПрокурор области поручил прокурору города провести проверку исполнения законодательства о пожарной безопасности по факту возгорания жилых домов,</segment>
+		<segment id="186" parent="187" relname="comparison">сообщается на сайте областной прокуратуры.\n\nВ ходе проверки будет дана комплексная оценка сложившейся ситуации.</segment>
+		<segment id="190" parent="200" relname="joint">При наличии оснований будут приняты меры прокурорского реагирования.\n\nВ центре Ростова-на-Дону более тысячи человек остались без света\n\nСвыше 1200 человек остаются без электроснабжения.</segment>
+		<segment id="191" parent="193" relname="span">\"Из-за пожара пришлось отключить две трансформаторные подстанции,</segment>
+		<segment id="192" parent="191" relname="elaboration">которые находятся в районе возгорания.</segment>
+		<segment id="194" parent="196" relname="comparison">От одной из них запитаны 350 жителей домов,</segment>
+		<segment id="195" parent="196" relname="comparison">от другой - 858.</segment>
+		<segment id="198" parent="199" relname="span">Таким образом, от электроснабжения сейчас отключены 1208 человек\",</segment>
+		<segment id="202" parent="207" relname="attribution">- сообщила ТАСС пресс-секретарь \"Донэнерго\" Анна Ларченко.\n\nОна уточнила,</segment>
+		<segment id="203" parent="205" relname="span">что энергоснабжение будет восстановлено,</segment>
+		<segment id="204" parent="203" relname="condition">как только пожарные МЧС локализуют все участки возгорания,</segment>
+		<segment id="206" parent="207" relname="span">ранее это делать небезопасно.\n\</segment>
+		<segment id="209" parent="211" relname="joint">nВ городе работает оперативный штаб по ликвидации последствий возгорания,</segment>
+		<segment id="210" parent="211" relname="joint">проводится эвакуация жителей из многоэтажных домов, расположенных по улице Нижегородской в непосредственной близости от очага.\n\nИсточник: https://www.newsru.com/russia/21Aug2017/firerostovdon.html\n</segment>
+		<group id="89" type="multinuc" parent="220" relname="preparation"/>
+		<group id="85" type="multinuc" parent="89" relname="joint"/>
+		<group id="79" type="span" parent="85" relname="sequence"/>
+		<group id="77" type="span" parent="79" relname="span"/>
+		<group id="84" type="multinuc" parent="85" relname="sequence"/>
+		<group id="83" type="span" parent="84" relname="sequence"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="220" type="multinuc" parent="221" relname="span"/>
+		<group id="102" type="span" parent="220" relname="joint"/>
+		<group id="100" type="span" parent="102" relname="span"/>
+		<group id="94" type="multinuc" parent="100" relname="span"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="99" type="span" parent="94" relname="elaboration"/>
+		<group id="98" type="span" parent="95" relname="elaboration"/>
+		<group id="219" type="multinuc" parent="220" relname="joint"/>
+		<group id="119" type="span" parent="219" relname="joint"/>
+		<group id="109" type="span" parent="119" relname="span"/>
+		<group id="108" type="multinuc" parent="109" relname="span"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="118" type="span" parent="109" relname="elaboration"/>
+		<group id="116" type="span" parent="118" relname="span"/>
+		<group id="112" type="span" parent="115" relname="cause-effect"/>
+		<group id="115" type="span" parent="116" relname="span"/>
+		<group id="218" type="multinuc" parent="219" relname="joint"/>
+		<group id="136" type="multinuc" parent="218" relname="joint"/>
+		<group id="128" type="span" parent="136" relname="sequence"/>
+		<group id="127" type="multinuc" parent="128" relname="span"/>
+		<group id="126" type="multinuc" parent="127" relname="joint"/>
+		<group id="125" type="multinuc" parent="126" relname="same-unit"/>
+		<group id="135" type="span" parent="136" relname="sequence"/>
+		<group id="133" type="multinuc" parent="135" relname="span"/>
+		<group id="132" type="multinuc" parent="133" relname="contrast"/>
+		<group id="217" type="span" parent="218" relname="joint"/>
+		<group id="216" type="multinuc" parent="217" relname="span"/>
+		<group id="158" type="span" parent="216" relname="joint"/>
+		<group id="142" type="multinuc" parent="158" relname="span"/>
+		<group id="141" type="span" parent="142" relname="same-unit"/>
+		<group id="157" type="multinuc" parent="142" relname="elaboration"/>
+		<group id="149" type="multinuc" parent="157" relname="joint"/>
+		<group id="148" type="multinuc" parent="149" relname="same-unit"/>
+		<group id="147" type="span" parent="148" relname="contrast"/>
+		<group id="156" type="span" parent="157" relname="joint"/>
+		<group id="152" type="span" parent="156" relname="span"/>
+		<group id="155" type="span" parent="152" relname="attribution"/>
+		<group id="215" type="multinuc" parent="216" relname="joint"/>
+		<group id="171" type="multinuc" parent="215" relname="joint"/>
+		<group id="161" type="span" parent="171" relname="comparison"/>
+		<group id="170" type="span" parent="171" relname="comparison"/>
+		<group id="169" type="span" parent="162" relname="elaboration"/>
+		<group id="168" type="span" parent="163" relname="elaboration"/>
+		<group id="167" type="span" parent="168" relname="span"/>
+		<group id="214" type="multinuc" parent="215" relname="joint"/>
+		<group id="184" type="span" parent="214" relname="joint"/>
+		<group id="174" type="span" parent="183" relname="preparation"/>
+		<group id="183" type="multinuc" parent="184" relname="span"/>
+		<group id="179" type="span" parent="183" relname="sequence"/>
+		<group id="182" type="span" parent="183" relname="sequence"/>
+		<group id="213" type="multinuc" parent="214" relname="joint"/>
+		<group id="201" type="multinuc" parent="213" relname="joint"/>
+		<group id="187" type="multinuc" parent="201" relname="joint"/>
+		<group id="200" type="multinuc" parent="201" relname="joint"/>
+		<group id="199" type="span" parent="200" relname="joint"/>
+		<group id="197" type="span" parent="198" relname="cause-effect"/>
+		<group id="193" type="span" parent="197" relname="span"/>
+		<group id="196" type="multinuc" parent="193" relname="elaboration"/>
+		<group id="212" type="multinuc" parent="213" relname="joint"/>
+		<group id="208" type="span" parent="212" relname="joint"/>
+		<group id="207" type="span" parent="208" relname="span"/>
+		<group id="205" type="span" parent="206" relname="cause-effect"/>
+		<group id="211" type="multinuc" parent="212" relname="joint"/>
+		<group id="221" type="span"/>
+	</body>
+</rst>

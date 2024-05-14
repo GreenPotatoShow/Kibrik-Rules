@@ -1,0 +1,41 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="18" relname="span">Корейские автомобили – лидеры ноябрьских продаж в России\n\nПо данным, представленным сегодня Европейской ассоциацией бизнеса,</segment>
+		<segment id="15" parent="16" relname="cause-effect">в ноябре группа продала в России соответственно 17283 и 15115 автомашин,</segment>
+		<segment id="16" parent="17" relname="span">что вывело их на первые два места.</segment>
+		<segment id="19" parent="21" relname="span">По пятам за ними следует Chevrolet</segment>
+		<segment id="20" parent="19" relname="elaboration">(реализовано 15031 авто),</segment>
+		<segment id="22" parent="23" relname="joint">а закрывают пятерку самых популярных в России иностранных брендов Nissan и Renault,</segment>
+		<segment id="24" parent="23" relname="attribution">сообщает ИТАР-ТАСС</segment>
+		<segment id="26" parent="36" relname="span">.\n\nПродукция Hyundai Motors три месяца подряд оказывается в лидерах среди зарубежных производителей.</segment>
+		<segment id="27" parent="29" relname="contrast">За январь-ноябрь эта компания продала в РФ без малого 147 тыс. машин,</segment>
+		<segment id="28" parent="29" relname="contrast">а Kia Motors реализовала 142,2 тыс. автомобилей.</segment>
+		<segment id="30" parent="32" relname="span">Правда, пока обе уступают компании Chevrolet,</segment>
+		<segment id="31" parent="30" relname="elaboration">которая реализовала на российском рынке 157,1 тыс. автомашин.\n\nСвоими показателями Hyundai обязана популярности у россиян суб-компактной модели Solaris, выпускаемой на заводе под Санкт-Петербургом.</segment>
+		<segment id="33" parent="34" relname="joint">В ноябре россияне купили 9986 машин этой марки.\n\nИсточник: https://www.newsru.com/auto/09Dec2011/korean_lead.html\n</segment>
+		<group id="18" type="span" parent="37" relname="preparation"/>
+		<group id="17" type="span" parent="14" relname="elaboration"/>
+		<group id="37" type="multinuc" parent="38" relname="span"/>
+		<group id="25" type="span" parent="37" relname="comparison"/>
+		<group id="23" type="multinuc" parent="25" relname="span"/>
+		<group id="21" type="span" parent="23" relname="joint"/>
+		<group id="36" type="span" parent="37" relname="comparison"/>
+		<group id="35" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="29" type="multinuc" parent="35" relname="contrast"/>
+		<group id="34" type="multinuc" parent="35" relname="contrast"/>
+		<group id="32" type="span" parent="34" relname="joint"/>
+		<group id="38" type="span"/>
+	</body>
+</rst>

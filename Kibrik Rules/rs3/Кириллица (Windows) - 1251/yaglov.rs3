@@ -1,0 +1,152 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="66" parent="68" relname="span">И  все же этот день был днем везения.\n 	Охотник остановился у огромного дуба,</segment>
+		<segment id="67" parent="66" relname="purpose">чтобы еще раз свериться с направлением по солнцу.</segment>
+		<segment id="69" parent="70" relname="cause-effect">Тело убитого и выпотрошенного олененка оказалось тяжелой ношей,</segment>
+		<segment id="70" parent="71" relname="span">это заметно влияло на скорость передвижения:</segment>
+		<segment id="72" parent="74" relname="span">уже час назад он должен был выйти к дороге,</segment>
+		<segment id="73" parent="72" relname="background">где его ждал темно-зеленый УАЗик.</segment>
+		<segment id="75" parent="77" relname="span">И еще это болото с гигантами-дубами,</segment>
+		<segment id="76" parent="75" relname="interpretation-evaluation">которое совсем сбило его с толку:</segment>
+		<segment id="78" parent="80" relname="contrast">казалось, он шел назад тем же путем,</segment>
+		<segment id="79" parent="80" relname="contrast">но заблудился!</segment>
+		<segment id="81" parent="82" relname="joint">Странное болото появилось неизвестно откуда.\n 	Близился вечер.</segment>
+		<segment id="86" parent="88" relname="span">День медленно догорал,</segment>
+		<segment id="87" parent="86" relname="background">цепляясь солнцем за кроны деревьев.\n 	Он шел,</segment>
+		<segment id="89" parent="92" relname="attribution">и был твердо уверен,</segment>
+		<segment id="90" parent="92" relname="joint">что еще немного</segment>
+		<segment id="91" parent="92" relname="joint">- и он выберется.</segment>
+		<segment id="95" parent="96" relname="sequence">Он не паниковал, старый, опытный охотник.\n</segment>
+		<segment id="97" parent="96" relname="elaboration">Пока по пояс не провалился в болотную жижу.\n 	Он закричал.\n</segment>
+		<segment id="99" parent="102" relname="condition">Услышав крик,</segment>
+		<segment id="102" parent="103" relname="span">старик, дремлющий перед тлеющим костерком, вздрогнул.</segment>
+		<segment id="104" parent="106" relname="span">Он на секунду замер,</segment>
+		<segment id="105" parent="104" relname="condition">вслушиваясь в вечерний лес,</segment>
+		<segment id="107" parent="109" relname="sequence">потом схватил здоровенную палку</segment>
+		<segment id="108" parent="109" relname="sequence">и быстро зашагал по направлению к трясине.\n</segment>
+		<segment id="112" parent="118" relname="sequence">Старик появился перед ним неожиданно.</segment>
+		<segment id="113" parent="115" relname="joint">Охотник, погрузившийся уже по грудь,</segment>
+		<segment id="114" parent="115" relname="joint">даже не заметил его приближения.\n 	- Ну, старик, а ты меня напугал.</segment>
+		<segment id="116" parent="117" relname="span">Так тихо подкрался.</segment>
+		<segment id="119" parent="121" relname="joint">Нагни-ка мне вон ту березку,</segment>
+		<segment id="120" parent="121" relname="joint">видишь, увяз я малость.\n 	Старик не шелохнулся.</segment>
+		<segment id="122" parent="121" relname="elaboration">Он увидел изуродованное тело маленького зверя, кровавым куском валявшееся позади охотника.\n</segment>
+		<segment id="124" parent="187" relname="solutionhood">- Эй, папаша, ты что, заснул?</segment>
+		<segment id="125" parent="142" relname="preparation">Я к тебе обращаюсь.</segment>
+		<segment id="126" parent="128" relname="span">Нагни эту чертову березку,</segment>
+		<segment id="127" parent="126" relname="purpose">чтобы я смог выбраться!\n 	Старик не обратил на это никакого внимания.</segment>
+		<segment id="129" parent="131" relname="sequence">Он посмотрел на охотника</segment>
+		<segment id="130" parent="131" relname="sequence">и отрицательно покачал головой.\n 	-Да помоги же мне, старый говн...</segment>
+		<segment id="132" parent="134" relname="joint">- дальнейшее потонуло в неразборчивом бульканье,</segment>
+		<segment id="133" parent="134" relname="joint">грязная вонючая жижа плеснулась ему в рот.</segment>
+		<segment id="135" parent="136" relname="span">Трясина уже почти затянула его к себе.</segment>
+		<segment id="138" parent="140" relname="sequence">Он крепче схватил руками карабин, погружавшийся вместе с ним.\n</segment>
+		<segment id="139" parent="140" relname="sequence">И тогда старик спросил его:\n 	- Ты веришь в сказки?\n 	- Какие, в жопу, сказки?!</segment>
+		<segment id="144" parent="167" relname="preparation">Да я сдохну через минуту!!!</segment>
+		<segment id="145" parent="147" relname="joint">Кидай скорее палку,</segment>
+		<segment id="146" parent="147" relname="joint">Ну, же!\n</segment>
+		<segment id="148" parent="149" relname="contrast">- А зря ты не веришь в сказки.</segment>
+		<segment id="150" parent="166" relname="span">А ведь я - леший.</segment>
+		<segment id="151" parent="153" relname="span">Я хозяин этого леса, который ты осквернил своим бессмысленным и жестоким убийством.\n 	- Да ты что, старый козел,</segment>
+		<segment id="152" parent="151" relname="interpretation-evaluation">спятил?!\n 	- Ты совершил зло.</segment>
+		<segment id="154" parent="164" relname="span">И ты умрешь.\n</segment>
+		<segment id="155" parent="163" relname="joint">- Ну, получай, сука!\n 	Охотник с трудом вырвал, увязший в трясине,</segment>
+		<segment id="156" parent="162" relname="joint">карабин быстро снял его с предохранителя</segment>
+		<segment id="157" parent="161" relname="same-unit">и,</segment>
+		<segment id="158" parent="159" relname="cause-effect">почти не целясь,</segment>
+		<segment id="159" parent="160" relname="span">выстрелил в старика.\n 	Пуля прошила лешего навылет.</segment>
+		<segment id="169" parent="171" relname="span">Старик даже не вздрогнул:</segment>
+		<segment id="170" parent="169" relname="elaboration">призрак, сказочное существо, неуязвимое для всесильных пуль.\n 	Очертания старика стали размываться.</segment>
+		<segment id="172" parent="173" relname="cause-effect">Он уходил.\n 	Охотник задергался пытаясь еще раз самостоятельно дотянутся до спасительного дерева.</segment>
+		<segment id="173" parent="174" relname="span">Этим он только ускорил свое погружение.\n</segment>
+		<segment id="176" parent="180" relname="joint">Последнее, что он увидел,</segment>
+		<segment id="177" parent="179" relname="joint">потрясло его</segment>
+		<segment id="178" parent="179" relname="joint">и на мгновение заставило забыть о своей гибели:</segment>
+		<segment id="181" parent="183" relname="joint">молодой олененок бежал прочь,</segment>
+		<segment id="182" parent="183" relname="joint">покидая болото и смерть.\n 	И все же этот день был днем везения.\n \n</segment>
+		<group id="68" type="span" parent="193" relname="preparation"/>
+		<group id="193" type="multinuc" parent="194" relname="span"/>
+		<group id="85" type="multinuc" parent="193" relname="joint"/>
+		<group id="71" type="span" parent="85" relname="sequence"/>
+		<group id="84" type="multinuc" parent="85" relname="sequence"/>
+		<group id="74" type="span" parent="84" relname="sequence"/>
+		<group id="83" type="span" parent="84" relname="sequence"/>
+		<group id="77" type="span" parent="83" relname="span"/>
+		<group id="82" type="multinuc" parent="77" relname="elaboration"/>
+		<group id="80" type="multinuc" parent="82" relname="joint"/>
+		<group id="192" type="multinuc" parent="193" relname="joint"/>
+		<group id="98" type="span" parent="192" relname="sequence"/>
+		<group id="96" type="multinuc" parent="98" relname="span"/>
+		<group id="94" type="multinuc" parent="96" relname="sequence"/>
+		<group id="88" type="span" parent="94" relname="joint"/>
+		<group id="93" type="span" parent="94" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="span"/>
+		<group id="191" type="multinuc" parent="192" relname="sequence"/>
+		<group id="111" type="multinuc" parent="191" relname="sequence"/>
+		<group id="103" type="span" parent="111" relname="sequence"/>
+		<group id="110" type="multinuc" parent="111" relname="sequence"/>
+		<group id="106" type="span" parent="110" relname="sequence"/>
+		<group id="109" type="multinuc" parent="110" relname="sequence"/>
+		<group id="190" type="multinuc" parent="191" relname="sequence"/>
+		<group id="118" type="multinuc" parent="190" relname="sequence"/>
+		<group id="117" type="span" parent="118" relname="sequence"/>
+		<group id="115" type="multinuc" parent="116" relname="cause-effect"/>
+		<group id="189" type="multinuc" parent="190" relname="sequence"/>
+		<group id="123" type="span" parent="189" relname="sequence"/>
+		<group id="121" type="multinuc" parent="123" relname="span"/>
+		<group id="188" type="span" parent="189" relname="sequence"/>
+		<group id="187" type="multinuc" parent="188" relname="span"/>
+		<group id="143" type="span" parent="187" relname="sequence"/>
+		<group id="142" type="multinuc" parent="143" relname="span"/>
+		<group id="128" type="span" parent="142" relname="sequence"/>
+		<group id="141" type="multinuc" parent="142" relname="sequence"/>
+		<group id="137" type="multinuc" parent="141" relname="sequence"/>
+		<group id="131" type="multinuc" parent="137" relname="sequence"/>
+		<group id="136" type="span" parent="137" relname="sequence"/>
+		<group id="134" type="multinuc" parent="135" relname="cause-effect"/>
+		<group id="140" type="multinuc" parent="141" relname="sequence"/>
+		<group id="186" type="multinuc" parent="187" relname="sequence"/>
+		<group id="168" type="span" parent="186" relname="sequence"/>
+		<group id="167" type="span" parent="168" relname="span"/>
+		<group id="149" type="multinuc" parent="167" relname="span"/>
+		<group id="147" type="multinuc" parent="149" relname="contrast"/>
+		<group id="166" type="span" parent="149" relname="evidence"/>
+		<group id="165" type="multinuc" parent="150" relname="elaboration"/>
+		<group id="153" type="span" parent="165" relname="joint"/>
+		<group id="164" type="span" parent="165" relname="joint"/>
+		<group id="163" type="multinuc" parent="154" relname="cause-effect"/>
+		<group id="162" type="multinuc" parent="163" relname="joint"/>
+		<group id="161" type="multinuc" parent="162" relname="joint"/>
+		<group id="160" type="span" parent="161" relname="same-unit"/>
+		<group id="185" type="multinuc" parent="186" relname="sequence"/>
+		<group id="175" type="multinuc" parent="185" relname="joint"/>
+		<group id="171" type="span" parent="175" relname="joint"/>
+		<group id="174" type="span" parent="175" relname="joint"/>
+		<group id="184" type="span" parent="185" relname="joint"/>
+		<group id="180" type="multinuc" parent="184" relname="span"/>
+		<group id="179" type="multinuc" parent="180" relname="joint"/>
+		<group id="183" type="multinuc" parent="180" relname="elaboration"/>
+		<group id="194" type="span"/>
+	</body>
+</rst>

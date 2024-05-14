@@ -1,0 +1,46 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="19" relname="joint">В США разбился медицинский вертолет,</segment>
+		<segment id="18" parent="19" relname="joint">четыре человека погибли\n\nВ Калифорнии разбился медицинский вертолет.</segment>
+		<segment id="20" parent="22" relname="sequence">Катастрофа произошла вечером в четверг, 10 декабря.</segment>
+		<segment id="21" parent="22" relname="sequence">Вертолет летел из города Фресно в госпиталь города Бейкерсфилд,</segment>
+		<segment id="23" parent="25" relname="span">сообщает NBC News.\n\nВ результате крушения вертолета воздушной медицинской службы SkyLife погибли четыре человека: пилот, медсестра, фельдшер и пациент,</segment>
+		<segment id="24" parent="23" relname="attribution">рассказал директор калифорнийской больницы Дэн Линч.\n\</segment>
+		<segment id="30" parent="45" relname="preparation">nПо данным властей штата, время полета между двумя госпиталями составляет 10 минут.</segment>
+		<segment id="31" parent="32" relname="cause-effect">Поиски были начаты спустя 30 минут после потери связи с экипажем.\n\nПредставители служб спасения уточнили,</segment>
+		<segment id="32" parent="33" relname="span">что вертолет упал в районе садов Шервуд-авеню и шоссе 65, к северу от Бейкерсфилда.</segment>
+		<segment id="34" parent="40" relname="contrast">Расследованием обстоятельств крушения вертолета займутся Национальное управление безопасности перевозок и Федеральное авиационное управление.\n\nДанных о причинах крушения машины нет,</segment>
+		<segment id="35" parent="36" relname="attribution">однако эксперты отмечают,</segment>
+		<segment id="36" parent="37" relname="span">что погодные условия всегда являются фактором риска,</segment>
+		<segment id="38" parent="37" relname="condition">даже если экипаж опытный.</segment>
+		<segment id="41" parent="43" relname="joint">Уточняется, что во время крушения стоял густой туман</segment>
+		<segment id="42" parent="43" relname="joint">и шел проливной дождь.\n\nИсточник: https://www.newsru.com/world/11Dec2015/heli.html\n</segment>
+		<group id="27" type="multinuc" parent="47" relname="joint"/>
+		<group id="19" type="multinuc" parent="27" relname="sequence"/>
+		<group id="26" type="multinuc" parent="27" relname="sequence"/>
+		<group id="22" type="multinuc" parent="26" relname="sequence"/>
+		<group id="25" type="span" parent="26" relname="sequence"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="span"/>
+		<group id="33" type="span" parent="45" relname="joint"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="40" type="multinuc" parent="44" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="contrast"/>
+		<group id="37" type="span" parent="39" relname="span"/>
+		<group id="43" type="multinuc" parent="44" relname="joint"/>
+		<group id="47" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,52 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="52" relname="preparation">По размерам экономики Китай все еще третий\n\</segment>
+		<segment id="20" parent="21" relname="condition">nВопреки ожиданиям,</segment>
+		<segment id="21" parent="22" relname="span">Китай по итогам прошедшего года так и не опередил Японию по объему ВВП.</segment>
+		<segment id="23" parent="25" relname="comparison">Это выяснилось в понедельник после публикации статистики по Японии,</segment>
+		<segment id="24" parent="25" relname="comparison">где рост ВВП в четвертом квартале в годовом выражении составил 4,6%,</segment>
+		<segment id="26" parent="28" relname="joint">сообщает деловой портал BFM.ru.\n\nРост ВВП Японии превысил прогнозы</segment>
+		<segment id="27" parent="28" relname="joint">и позволил стране сохранить за собой позицию второй крупнейшей экономики мира.</segment>
+		<segment id="31" parent="33" relname="sequence">В конце прошлого года, после того как власти Китая пересмотрели данные о валовом внутреннем продукте за 2008 год в сторону повышения,</segment>
+		<segment id="32" parent="33" relname="sequence">появились оценки, согласно которым китайская экономика должна была обогнать японскую еще в четвертом квартале прошлого года.\n\</segment>
+		<segment id="34" parent="35" relname="attribution">nОднако эксперты полагают,</segment>
+		<segment id="35" parent="36" relname="span">что в этом году Китай все же опередит Японию в экономическом рейтинге.</segment>
+		<segment id="37" parent="39" relname="span">ВВП Японии в 2009 году составил 5,27 трлн долларов,</segment>
+		<segment id="38" parent="37" relname="attribution">согласно данным, опубликованным в понедельник,</segment>
+		<segment id="40" parent="44" relname="comparison">тогда как объем китайской экономики в прошлом году достиг 4,9 трлн долларов</segment>
+		<segment id="41" parent="43" relname="span">.\n\nЯпония занимает вторую позицию по объему экономики с тех пор,</segment>
+		<segment id="42" parent="41" relname="background">как обошла в 1968 году Германию.</segment>
+		<segment id="48" parent="50" relname="span">\"Многие ожидали, что Япония отойдет на третью строчку в 2009 году\",</segment>
+		<segment id="49" parent="48" relname="attribution">- комментирует в интервью CNN старший экономист JP Morgan Масамити Адати.\n\nИсточник: https://www.newsru.com/finance/16Feb2010/china.html\n</segment>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="30" type="multinuc" parent="52" relname="comparison"/>
+		<group id="22" type="span" parent="30" relname="comparison"/>
+		<group id="29" type="multinuc" parent="30" relname="comparison"/>
+		<group id="25" type="multinuc" parent="29" relname="comparison"/>
+		<group id="28" type="multinuc" parent="29" relname="comparison"/>
+		<group id="51" type="multinuc" parent="52" relname="comparison"/>
+		<group id="47" type="multinuc" parent="51" relname="comparison"/>
+		<group id="33" type="multinuc" parent="47" relname="comparison"/>
+		<group id="46" type="multinuc" parent="47" relname="comparison"/>
+		<group id="36" type="span" parent="46" relname="comparison"/>
+		<group id="45" type="multinuc" parent="46" relname="comparison"/>
+		<group id="39" type="span" parent="45" relname="comparison"/>
+		<group id="44" type="multinuc" parent="45" relname="comparison"/>
+		<group id="43" type="span" parent="44" relname="comparison"/>
+		<group id="50" type="span" parent="51" relname="comparison"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

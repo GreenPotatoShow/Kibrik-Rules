@@ -1,0 +1,167 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="74" parent="78" relname="span">Разоблачен \"миф XXI века\" о богатых россиянах:</segment>
+		<segment id="75" parent="77" relname="contrast">на VIP-\"скорых\" ездят,</segment>
+		<segment id="76" parent="77" relname="contrast">но на пиратов не охотятся\n\</segment>
+		<segment id="79" parent="83" relname="span">nВ Германии решили развенчать распространенное заблуждение о миллионах богатых россиян,</segment>
+		<segment id="80" parent="82" relname="span">которые швыряются деньгами,</segment>
+		<segment id="81" parent="80" relname="purpose">чтобы проводить жизнь в экстравагантных развлечениях.</segment>
+		<segment id="84" parent="96" relname="span">Отметив, что слухи о нашествии русских толстосумов на Европу активизировались после банковского кризиса на Кипре,</segment>
+		<segment id="85" parent="86" relname="attribution">Харальд Мартенштайн высказал мнение в газете Tagesspiegel,</segment>
+		<segment id="86" parent="87" relname="span">что богатый россиянин - это \"миф XXI века\".\n\nКак следует из статьи,</segment>
+		<segment id="88" parent="94" relname="span">миф поддерживает прежде всего российская пресса,</segment>
+		<segment id="89" parent="92" relname="attribution">которая сообщает,</segment>
+		<segment id="90" parent="92" relname="joint">что богатеев в стране уже не менее семи миллионов</segment>
+		<segment id="91" parent="92" relname="joint">и их число постоянно растет.</segment>
+		<segment id="98" parent="102" relname="comparison">Однако большинство россиян живут в бедности,</segment>
+		<segment id="99" parent="101" relname="span">а средний заработок в России - 265 евро в месяц</segment>
+		<segment id="100" parent="99" relname="elaboration">(около 9 тысяч рублей),</segment>
+		<segment id="103" parent="102" relname="attribution">отмечает автор статьи,</segment>
+		<segment id="105" parent="104" relname="attribution">о которой пишет InoPressa.</segment>
+		<segment id="108" parent="112" relname="same-unit">Стоит заметить, что в действительности,</segment>
+		<segment id="109" parent="110" relname="attribution">по данным Росстата,</segment>
+		<segment id="110" parent="111" relname="span">средняя зарплата в прошлом году в РФ составила 26440 рублей.\n\nНемецкий журналист призывает не делать обобщений,</segment>
+		<segment id="113" parent="125" relname="span">говоря о богатых русских.</segment>
+		<segment id="114" parent="124" relname="joint">Кто-то из них разбогател на нефти и газе,</segment>
+		<segment id="115" parent="123" relname="joint">другие поднялись на выгодных связях,</segment>
+		<segment id="116" parent="122" relname="span">в отдельных случаях свою роль сыграл криминал.\n\nРоссийские толстосумы выделяются экстравагантным образом жизни</segment>
+		<segment id="117" parent="121" relname="span">- используют такси класса \"люкс\", замаскированные под \"скорую помощь\",</segment>
+		<segment id="118" parent="120" relname="joint">чтобы с сиреной объезжать пробки,</segment>
+		<segment id="119" parent="120" relname="joint">и участвуют в \"сафари по охоте на пиратов\",</segment>
+		<segment id="127" parent="126" relname="attribution">пишет автор.</segment>
+		<segment id="129" parent="150" relname="preparation">Он приводит подробности столь экзотического развлечения для богатых, описанного в прессе.</segment>
+		<segment id="130" parent="131" relname="attribution">Как сообщалось,</segment>
+		<segment id="131" parent="132" relname="span">для желающих пощекотать себе нервы якобы организуется круиз к побережью Сомали, где водятся пираты.</segment>
+		<segment id="133" parent="139" relname="joint">Как только наивные морские разбойники бросаются на судно</segment>
+		<segment id="134" parent="138" relname="joint">и берут его на абордаж,</segment>
+		<segment id="135" parent="137" relname="joint">приходит время развлечься миллионерам.\n\nВооруженные до зубов богатеи выскакивают на палубу</segment>
+		<segment id="136" parent="137" relname="joint">и открывают огонь на поражение.</segment>
+		<segment id="140" parent="146" relname="span">За поездку надо выложить более пяти тысяч евро,</segment>
+		<segment id="141" parent="145" relname="joint">причем судно сопровождает спецназ,</segment>
+		<segment id="142" parent="144" relname="contrast">пересказал журналист сообщения о кровавых развлечениях богатых русских.\n\nВпрочем, позже выяснилось, что история про сафари - утка,</segment>
+		<segment id="143" parent="144" relname="contrast">но сообщения о VIP-\"скорых\" оказались правдой,</segment>
+		<segment id="148" parent="147" relname="attribution">пишет автор статьи.</segment>
+		<segment id="152" parent="154" relname="span">О такой услуге российские СМИ в очередной раз вспомнили в январе,</segment>
+		<segment id="153" parent="152" relname="condition">когда обсуждался вопрос о платных скорых.</segment>
+		<segment id="155" parent="164" relname="attribution">Тогда же глава департамента здравоохранения Москвы Георгий Голухов официально подтвердил,</segment>
+		<segment id="156" parent="158" relname="span">что в столице выявлены факты,</segment>
+		<segment id="157" parent="156" relname="condition">когда коммерческая \"скорая\" за деньги возит бизнесменов в аэропорт.\n\nО необычной, но крайне актуальной для московских пробок услуге</segment>
+		<segment id="159" parent="158" relname="background">сообщалось еще пару лет назад,</segment>
+		<segment id="161" parent="163" relname="contrast">когда поездка в пределах МКАД оценивалась в 6-8 тысяч рублей в час,</segment>
+		<segment id="162" parent="163" relname="contrast">а до аэропорта можно было доехать за пять тысяч.</segment>
+		<segment id="167" parent="174" relname="attribution">По словам журналистов,</segment>
+		<segment id="168" parent="174" relname="joint">к 2013 году расценки снизились.\n\nНа Западе заговорили о \"хороших русских\"\n\nПодводя итог описаниям бытия российских богатеев,</segment>
+		<segment id="169" parent="173" relname="span">журналист из Tagesspiegel призвал коллег создать портрет \"хороших богатых россиян\",</segment>
+		<segment id="170" parent="172" relname="contrast">которые проводят время не в диких оргиях,</segment>
+		<segment id="171" parent="172" relname="contrast">а живут по-разному.</segment>
+		<segment id="176" parent="184" relname="joint">Кто-то из них критикует власть,</segment>
+		<segment id="177" parent="183" relname="joint">кого-то убивают,</segment>
+		<segment id="178" parent="181" relname="attribution">заключает Харальд Мартенштайн,</segment>
+		<segment id="179" parent="181" relname="joint">не вдаваясь в конкретику.\n\nО \"хороших русских\" в связи с последними событиями на Кипре</segment>
+		<segment id="180" parent="181" relname="joint">пишет и Оливер Тренкамп в Der Spiegel.</segment>
+		<segment id="186" parent="188" relname="contrast">До сих пор эта страна имела славу идеального места для российских олигархов, \"отмывающих\" грязные деньги.</segment>
+		<segment id="187" parent="188" relname="contrast">Однако местные власти пытаются бороться с мифом.</segment>
+		<segment id="189" parent="199" relname="joint">Прекрасно осознавая, что уход русских из кипрских городов станет настоящей катастрофой,</segment>
+		<segment id="190" parent="197" relname="attribution">местные жители продолжают заверять,</segment>
+		<segment id="191" parent="197" relname="joint">что россияне исправно платят налоги</segment>
+		<segment id="192" parent="194" relname="span">и не отмывают на острове грязные деньги,</segment>
+		<segment id="193" parent="192" relname="background">как принято думать,</segment>
+		<segment id="195" parent="196" relname="sequence">пишет InoPressa.\n\nВ последнее время о \"русских колонизаторах</segment>
+		<segment id="200" parent="202" relname="span">\" на Кипре западная пресса пишет постоянно,</segment>
+		<segment id="201" parent="200" relname="elaboration">причем по большей части с перечислением примет их разгульной жизни - яхт, особняков, икры и льющейся рекой водкой \"Путинка\".</segment>
+		<segment id="205" parent="207" relname="span">Кстати, недавно прочно осевших русских \"колонизаторов\" обнаружили у себя в стране и итальянцы</segment>
+		<segment id="206" parent="205" relname="attribution">- по данным местной прессы,</segment>
+		<segment id="208" parent="210" relname="span">богатые русские прибывают в Лигурию и на Сардинию на фешенебельных яхтах,</segment>
+		<segment id="209" parent="208" relname="purpose">чтобы отдохнуть на купленных здесь собственных виллах.\n\nИсточник: https://www.newsru.com/world/01Apr2013/rich.html\n</segment>
+		<group id="78" type="span" parent="217" relname="preparation"/>
+		<group id="77" type="multinuc" parent="74" relname="elaboration"/>
+		<group id="217" type="multinuc" parent="218" relname="span"/>
+		<group id="107" type="multinuc" parent="217" relname="joint"/>
+		<group id="97" type="multinuc" parent="107" relname="contrast"/>
+		<group id="83" type="span" parent="97" relname="joint"/>
+		<group id="82" type="span" parent="79" relname="elaboration"/>
+		<group id="96" type="span" parent="97" relname="joint"/>
+		<group id="95" type="multinuc" parent="84" relname="elaboration"/>
+		<group id="87" type="span" parent="95" relname="joint"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="93" type="span" parent="88" relname="elaboration"/>
+		<group id="92" type="multinuc" parent="93" relname="span"/>
+		<group id="106" type="span" parent="107" relname="contrast"/>
+		<group id="104" type="span" parent="106" relname="span"/>
+		<group id="102" type="multinuc" parent="104" relname="span"/>
+		<group id="101" type="span" parent="102" relname="comparison"/>
+		<group id="216" type="multinuc" parent="217" relname="joint"/>
+		<group id="128" type="span" parent="216" relname="joint"/>
+		<group id="126" type="multinuc" parent="128" relname="span"/>
+		<group id="112" type="multinuc" parent="126" relname="joint"/>
+		<group id="111" type="span" parent="112" relname="same-unit"/>
+		<group id="125" type="span" parent="126" relname="joint"/>
+		<group id="124" type="multinuc" parent="113" relname="elaboration"/>
+		<group id="123" type="multinuc" parent="124" relname="joint"/>
+		<group id="122" type="span" parent="123" relname="joint"/>
+		<group id="121" type="span" parent="116" relname="elaboration"/>
+		<group id="120" type="multinuc" parent="117" relname="purpose"/>
+		<group id="215" type="multinuc" parent="216" relname="joint"/>
+		<group id="151" type="span" parent="215" relname="joint"/>
+		<group id="150" type="multinuc" parent="151" relname="span"/>
+		<group id="132" type="span" parent="150" relname="joint"/>
+		<group id="149" type="span" parent="150" relname="joint"/>
+		<group id="147" type="span" parent="149" relname="span"/>
+		<group id="139" type="multinuc" parent="147" relname="span"/>
+		<group id="138" type="multinuc" parent="139" relname="joint"/>
+		<group id="137" type="multinuc" parent="138" relname="joint"/>
+		<group id="146" type="span" parent="139" relname="evidence"/>
+		<group id="145" type="multinuc" parent="140" relname="elaboration"/>
+		<group id="144" type="multinuc" parent="145" relname="joint"/>
+		<group id="214" type="multinuc" parent="215" relname="joint"/>
+		<group id="166" type="span" parent="214" relname="joint"/>
+		<group id="154" type="span" parent="165" relname="preparation"/>
+		<group id="165" type="span" parent="166" relname="span"/>
+		<group id="164" type="span" parent="165" relname="span"/>
+		<group id="160" type="span" parent="164" relname="span"/>
+		<group id="158" type="span" parent="160" relname="span"/>
+		<group id="163" type="multinuc" parent="160" relname="elaboration"/>
+		<group id="213" type="multinuc" parent="214" relname="joint"/>
+		<group id="185" type="multinuc" parent="213" relname="joint"/>
+		<group id="175" type="span" parent="185" relname="joint"/>
+		<group id="174" type="multinuc" parent="175" relname="span"/>
+		<group id="173" type="span" parent="174" relname="joint"/>
+		<group id="172" type="multinuc" parent="169" relname="elaboration"/>
+		<group id="184" type="multinuc" parent="185" relname="joint"/>
+		<group id="183" type="multinuc" parent="184" relname="joint"/>
+		<group id="182" type="span" parent="183" relname="joint"/>
+		<group id="181" type="multinuc" parent="182" relname="span"/>
+		<group id="212" type="multinuc" parent="213" relname="joint"/>
+		<group id="204" type="multinuc" parent="212" relname="comparison"/>
+		<group id="188" type="multinuc" parent="204" relname="joint"/>
+		<group id="203" type="multinuc" parent="204" relname="joint"/>
+		<group id="199" type="multinuc" parent="203" relname="joint"/>
+		<group id="198" type="span" parent="199" relname="joint"/>
+		<group id="197" type="multinuc" parent="198" relname="span"/>
+		<group id="196" type="multinuc" parent="197" relname="joint"/>
+		<group id="194" type="span" parent="196" relname="sequence"/>
+		<group id="202" type="span" parent="203" relname="joint"/>
+		<group id="211" type="multinuc" parent="212" relname="comparison"/>
+		<group id="207" type="span" parent="211" relname="joint"/>
+		<group id="210" type="span" parent="211" relname="joint"/>
+		<group id="218" type="span"/>
+	</body>
+</rst>

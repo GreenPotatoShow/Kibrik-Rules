@@ -1,0 +1,56 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="24" relname="preparation">Иранский министр опубликовал ФОТО космического скафандра.</segment>
+		<segment id="22" parent="24" relname="span">Он продается в интернет-магазинах за 20 долларов\n\nМинистр по коммуникациям и информационным технологиям Ирана Мохаммад-Джавад Азари Джахроми разместил в своем микроблоге в Twitter изображение космического скафандра,</segment>
+		<segment id="23" parent="22" relname="purpose">проиллюстрировав с его помощью сообщение о запланированном на эту неделю запуске нового спутника.\n\n\"С молитвой и верой в Аллаха в конце этой недели спутник \"Зафар\" выйдет на орбиту, на расстояние 530 километров от Земли\",</segment>
+		<segment id="26" parent="25" relname="attribution">– приводит сообщение Джахроми Русская служба BBC.</segment>
+		<segment id="28" parent="30" relname="span">Спутник массой 90 килограммов оснащен четырьмя камерами</segment>
+		<segment id="29" parent="28" relname="purpose">для съемки земной поверхности,</segment>
+		<segment id="31" parent="32" relname="contrast">а на орбите он должен пробыть 1,5 года.\n\</segment>
+		<segment id="33" parent="37" relname="span">nВскоре пользователи усомнились в том, что на фотографии изображен настоящий скафандр.</segment>
+		<segment id="34" parent="36" relname="span">Самые дотошные быстро нашли то же самое изображение на сайтах интернет-магазинов, торгующих карнавальными костюмами.</segment>
+		<segment id="35" parent="34" relname="elaboration">Купить такой \"скафандр\" в интернете можно за 20 долларов.</segment>
+		<segment id="38" parent="43" relname="attribution">При этом комментаторы отметили,</segment>
+		<segment id="39" parent="41" relname="span">что со снимка, выложенного министром, удалили эмблемы NASA и флаг США</segment>
+		<segment id="40" parent="39" relname="background">(его заменили иранским флагом на другом плече),</segment>
+		<segment id="42" parent="43" relname="contrast">но следы ретуширования бросаются в глаза.</segment>
+		<segment id="45" parent="48" relname="attribution">Некоторые также обратили внимание,</segment>
+		<segment id="46" parent="48" relname="span">что на фотографии скафандр надет поверх пиджака и рубашки.\n\nМохаммад-Джавад Азари Джахроми является единственным министром правительства Ирана,</segment>
+		<segment id="47" parent="46" relname="background">который родился после Исламской революции 1979 года.</segment>
+		<segment id="50" parent="52" relname="joint">Он активно пользуется соцсетями</segment>
+		<segment id="51" parent="52" relname="joint">и любит комиксы, а также фантастические фильмы.</segment>
+		<segment id="54" parent="55" relname="joint">Осенью прошлого года Джахроми сравнил президента США Дональда Трампа с одним из главных злодеев вселенной Marvel – титаном Таносом.\n\nИсточник: https://www.newsru.com/hitech/05Feb2020/iran_fake.html\n</segment>
+		<group id="27" type="span" parent="59" relname="joint"/>
+		<group id="25" type="span" parent="27" relname="span"/>
+		<group id="24" type="span" parent="25" relname="span"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="32" type="multinuc" parent="58" relname="joint"/>
+		<group id="30" type="span" parent="32" relname="contrast"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="37" type="span" parent="57" relname="joint"/>
+		<group id="36" type="span" parent="33" relname="elaboration"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="44" type="span" parent="56" relname="joint"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="41" type="span" parent="43" relname="contrast"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="53" type="span" parent="55" relname="joint"/>
+		<group id="49" type="span" parent="53" relname="span"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="52" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="59" type="multinuc"/>
+	</body>
+</rst>

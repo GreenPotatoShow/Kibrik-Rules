@@ -1,0 +1,64 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="30" relname="span">Число задержанных в Великобритании по подозрению в терроризме увеличилось до семи:</segment>
+		<segment id="27" parent="29" relname="span">задержаны еще двое\n\nПолиция задержала под Глазго еще двоих подозреваемых в причастности к трем неудавшимся терактам,</segment>
+		<segment id="28" parent="27" relname="background">которые не состоялись 29 июня в Лондоне и 30 июня в Глазго.\n\</segment>
+		<segment id="31" parent="33" relname="span">nОдним из подозреваемых в организации теракта в аэропорту Глазго является иракский доктор по имени Бибаль Абдулла,</segment>
+		<segment id="32" parent="31" relname="background">прошедший врачебную подготовку в Багдаде.</segment>
+		<segment id="34" parent="38" relname="span">Утверждается, что Абдулла является тем подозреваемым,</segment>
+		<segment id="35" parent="37" relname="span">который практически не пострадал в субботнем инциденте в аэропорту в Глазго,</segment>
+		<segment id="36" parent="35" relname="elaboration">когда горящий джип пытался протаранить стеклянный вход в здание пассажирского терминала.\n\nТаким образом число задержанных в Великобритании по подозрению в терроризме увеличилось до семи,</segment>
+		<segment id="39" parent="38" relname="attribution">сообщает SkyNews.</segment>
+		<segment id="43" parent="47" relname="joint">О новых задержанных известно, что им 25 и 28 лет</segment>
+		<segment id="46" parent="47" relname="joint">и что они не являются уроженцами Шотландии.\n\nПятеро ранее задержанных - выходцы из Ирана, Иордании и Ливана, двое из них - врачи.</segment>
+		<segment id="48" parent="50" relname="span">Так, один из них, 26-летний Мохаммед Аша,</segment>
+		<segment id="49" parent="48" relname="background">получил медицинское образование в Иордании в 2004 году,</segment>
+		<segment id="51" parent="55" relname="joint">а на следующий год приехал в Великобританию</segment>
+		<segment id="52" parent="54" relname="comparison">и проживал в Ньюкастле-под-Лаймом,</segment>
+		<segment id="53" parent="54" relname="comparison">что в Стаффордшире.</segment>
+		<segment id="58" parent="60" relname="span">Вместе с ним была арестована женщина 27 лет в традиционном мусульманском одеянии – предположительно его жена.</segment>
+		<segment id="59" parent="58" relname="elaboration">Их задержали в Чешире на автодороге М6.\n\nПро неудавшийся теракт в аэропорту выясняются новые подробности.</segment>
+		<segment id="61" parent="71" relname="span">Оказывается, полиция уже была на хвосте террористов.</segment>
+		<segment id="62" parent="64" relname="span">За 10 минут до теракта полицейские вышли на агентство недвижимости,</segment>
+		<segment id="63" parent="62" relname="elaboration">которое сдавало им жилплощадь в расположенной недалеко от аэропорта деревне Хьюстон.</segment>
+		<segment id="65" parent="68" relname="attribution">Жилье всех задержанных подверглось обыскам.\n\nМинистерство внутренних дел отказывается подтверждать,</segment>
+		<segment id="66" parent="68" relname="contrast">что имеет дело с иностранной террористической группой,</segment>
+		<segment id="67" parent="68" relname="contrast">но признает связь между неудавшимися терактами в Лондоне и поджогом джипа в аэропорту Глазго.\n\nИсточник: https://www.newsru.com/world/02Jul2007/plustwo.html\n</segment>
+		<group id="42" type="multinuc" parent="74" relname="joint"/>
+		<group id="30" type="span" parent="42" relname="joint"/>
+		<group id="29" type="span" parent="26" relname="elaboration"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="33" type="span" parent="41" relname="span"/>
+		<group id="40" type="span" parent="33" relname="elaboration"/>
+		<group id="38" type="span" parent="40" relname="span"/>
+		<group id="37" type="span" parent="34" relname="elaboration"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="57" type="multinuc" parent="73" relname="joint"/>
+		<group id="47" type="multinuc" parent="57" relname="joint"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="50" type="span" parent="56" relname="sequence"/>
+		<group id="55" type="multinuc" parent="56" relname="sequence"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="60" type="span" parent="72" relname="joint"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="70" type="multinuc" parent="61" relname="elaboration"/>
+		<group id="64" type="span" parent="70" relname="joint"/>
+		<group id="69" type="span" parent="70" relname="joint"/>
+		<group id="68" type="multinuc" parent="69" relname="span"/>
+		<group id="74" type="multinuc"/>
+	</body>
+</rst>

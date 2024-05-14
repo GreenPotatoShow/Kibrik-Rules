@@ -1,0 +1,45 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="18" relname="span">Латвия становится экспортером автомобилей</segment>
+		<segment id="17" parent="16" relname="elaboration">- в продажу идут конфискованные машины\n\</segment>
+		<segment id="19" parent="25" relname="same-unit">nВ связи с мировым экономическим кризисом,</segment>
+		<segment id="20" parent="21" relname="cause-effect">в Латвии большое количество автомобилей, купленных в кредит и переданных в залог,</segment>
+		<segment id="21" parent="22" relname="span">в результате неплатежеспособности клиентов оказались в собственности банков,</segment>
+		<segment id="23" parent="22" relname="attribution">передает Inopressa.\n\</segment>
+		<segment id="27" parent="28" relname="attribution">nПо словам исполнительного директора Swedbank в Латвии Мариса Манчинскиса,</segment>
+		<segment id="28" parent="29" relname="span">теперь кредитные учреждения требуют гарантий также в случае потребительских кредитов.</segment>
+		<segment id="30" parent="29" relname="elaboration">В залоге часто оказываются автомобили.</segment>
+		<segment id="32" parent="31" relname="elaboration">Машины легко продать за границей.</segment>
+		<segment id="34" parent="36" relname="span">Причем из-за тяжелой финансовой ситуации внутри страны</segment>
+		<segment id="35" parent="34" relname="cause-effect">за рубежом они реализовываются быстрее и за более высокую цену.\n\</segment>
+		<segment id="37" parent="38" relname="span">nТак, в течение первых десяти месяцев 2009 года Латвия экспортировала автомобилей на общую сумму около 123 миллиона евро.</segment>
+		<segment id="39" parent="41" relname="joint">Машины направляются в Европу, Новую Зеландию, Саудовскую Аравию, Коста-Рику и Гану.\n\nРезультат - страна, не имеющая собственного автопрома,</segment>
+		<segment id="40" parent="41" relname="joint">на глазах превращается в экспортера автомобилей.\n\nИсточник: https://www.newsru.com/auto/26Jan2010/latviya.html\n</segment>
+		<group id="26" type="multinuc" parent="44" relname="joint"/>
+		<group id="18" type="span" parent="26" relname="joint"/>
+		<group id="25" type="multinuc" parent="26" relname="joint"/>
+		<group id="24" type="span" parent="25" relname="same-unit"/>
+		<group id="22" type="span" parent="24" relname="span"/>
+		<group id="43" type="span" parent="44" relname="joint"/>
+		<group id="33" type="span" parent="43" relname="span"/>
+		<group id="31" type="span" parent="33" relname="span"/>
+		<group id="29" type="span" parent="31" relname="span"/>
+		<group id="42" type="multinuc" parent="33" relname="elaboration"/>
+		<group id="38" type="span" parent="42" relname="joint"/>
+		<group id="36" type="span" parent="37" relname="cause-effect"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="44" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="30" relname="span">Очевидцы сообщают о новом возгорании в метро:</segment>
+		<segment id="27" parent="29" relname="span">на \"салатовой\" ветке\n\nВ метро между \"Люблино\" и \"Братиславской\" произошло возгорание,</segment>
+		<segment id="28" parent="27" relname="attribution">сообщает \"Русская служба новостей\" со ссылкой на очевидцев.</segment>
+		<segment id="31" parent="37" relname="sequence">Поезда по \"салатовой\" ветке ходят с увеличенным интервалом.\n\n\"Машинист в метро сказал,</segment>
+		<segment id="32" parent="36" relname="joint">что наш поезд был остановлен на Волжской</segment>
+		<segment id="33" parent="35" relname="span">и высадили пассажиров из вагона,</segment>
+		<segment id="34" parent="33" relname="cause-effect">потому что на перегоне \"Люблино\" - \"Братиславская\" произошло возгорание.</segment>
+		<segment id="38" parent="42" relname="joint">Поезда ходят с увеличенным интервалом.</segment>
+		<segment id="39" parent="41" relname="joint">Пахнет гарью, небольшая дымка.</segment>
+		<segment id="40" parent="41" relname="joint">Свет в тоннеле метро горит\",</segment>
+		<segment id="44" parent="45" relname="attribution">- сказал он</segment>
+		<segment id="45" parent="46" relname="span">.\n\nКомментариев пресс-службы Московского метрополитена пока нет.</segment>
+		<segment id="48" parent="49" relname="attribution">Однако через некоторое время по телефону горячей линии сообщили,</segment>
+		<segment id="49" parent="50" relname="span">что движение по \"салатовой\" ветке восстановлено.\n\nИная версия у источника ИТАР-ТАСС в правоохранительных органах:</segment>
+		<segment id="51" parent="52" relname="attribution">там объяснили,</segment>
+		<segment id="52" parent="53" relname="span">что задержка в движении была вызвана коротким замыканием светофора.</segment>
+		<segment id="55" parent="57" relname="joint">\"Инцидент никак не повлиял на работу столичной подземки,</segment>
+		<segment id="56" parent="57" relname="joint">поезда идут с увеличенным интервалом\",</segment>
+		<segment id="58" parent="57" relname="attribution">- сказал собеседник агентства.\n\</segment>
+		<segment id="60" parent="70" relname="span">nНапомним, что этим летом столичную подземку неприятности преследуют одна за другой.</segment>
+		<segment id="61" parent="63" relname="span">Наиболее крупное ЧП случилось в утренний час пик 5 июня.</segment>
+		<segment id="62" parent="61" relname="elaboration">На перегоне \"Охотный ряд\" - \"Библиотека имени Ленина\" произошло возгорание высоковольтного кабеля и последующее задымление.</segment>
+		<segment id="64" parent="68" relname="span">Несколько десятков человек пострадали.</segment>
+		<segment id="65" parent="67" relname="span">Как удалось установить впоследствии,</segment>
+		<segment id="66" parent="65" relname="cause-effect">причиной стал дефект контактов в устаревшем блоке электропереключения.\n\nИсточник: https://www.newsru.com/russia/11Jul2013/lublino.html\n</segment>
+		<group id="30" type="span" parent="73" relname="preparation"/>
+		<group id="29" type="span" parent="26" relname="elaboration"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="47" type="span" parent="73" relname="sequence"/>
+		<group id="43" type="multinuc" parent="47" relname="span"/>
+		<group id="37" type="multinuc" parent="43" relname="joint"/>
+		<group id="36" type="multinuc" parent="37" relname="sequence"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="46" type="span" parent="43" relname="attribution"/>
+		<group id="72" type="multinuc" parent="73" relname="sequence"/>
+		<group id="54" type="span" parent="72" relname="joint"/>
+		<group id="50" type="span" parent="54" relname="span"/>
+		<group id="53" type="span" parent="50" relname="cause-effect"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="59" type="span" parent="71" relname="sequence"/>
+		<group id="57" type="multinuc" parent="59" relname="span"/>
+		<group id="70" type="span" parent="71" relname="sequence"/>
+		<group id="69" type="multinuc" parent="60" relname="elaboration"/>
+		<group id="63" type="span" parent="69" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="67" type="span" parent="64" relname="elaboration"/>
+		<group id="74" type="span"/>
+	</body>
+</rst>

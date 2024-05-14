@@ -1,0 +1,66 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="70" relname="preparation">Коммуналки навсегда:</segment>
+		<segment id="26" parent="27" relname="attribution">власти Москвы считают,</segment>
+		<segment id="27" parent="28" relname="span">что от этой формы жилья не уйти\n\</segment>
+		<segment id="29" parent="33" relname="span">nВ Москве около 88 тысяч коммунальных квартир,</segment>
+		<segment id="30" parent="32" relname="span">в которых проживает 182 тысячи семей,</segment>
+		<segment id="31" parent="30" relname="elaboration">из них очередниками являются 47 тысяч,</segment>
+		<segment id="34" parent="36" relname="span">сообщил первый заместитель\nруководителя городского департамента жилищной политики и жилищного фонда\nНиколай Федосеев.\n\n\"Коммунальной квартира считается,</segment>
+		<segment id="35" parent="34" relname="elaboration">если у комнат в ней либо\nнесколько собственников, либо несколько нанимателей по разным договорам\nсоциального найма.</segment>
+		<segment id="39" parent="43" relname="span">Понятие коммунальных квартир в городе, вероятно, не\nисчезнет никогда,</segment>
+		<segment id="40" parent="42" relname="joint">потому что всегда найдутся желающие продать</segment>
+		<segment id="41" parent="42" relname="joint">и купить\nкомнату, долю в квартире\",</segment>
+		<segment id="44" parent="43" relname="attribution">- сказал он.</segment>
+		<segment id="46" parent="48" relname="span">Его слова приводит агентство \"Интерфакс\".\n\nПо данным Федосеева,</segment>
+		<segment id="47" parent="46" relname="background">из 3,9 млн московских квартир 2,3% являются\nкоммунальными.</segment>
+		<segment id="49" parent="51" relname="span">Наибольшая доля коммуналок в Центральном и Южном округах\n-4,1% и 3,2% соответственно, наименьшее - в Зеленограде (0,6%).\</segment>
+		<segment id="50" parent="49" relname="elaboration">nПри этом московские власти намерены расселить к 2020 году все\nкоммуналки,</segment>
+		<segment id="52" parent="51" relname="elaboration">в которых есть городская собственность.\n\n\"Были попытки создать программу расселения коммуналок раньше,</segment>
+		<segment id="54" parent="55" relname="contrast">но\nона не обеспечивалась финансово.</segment>
+		<segment id="56" parent="57" relname="span">Поэтому программа расселения\nкоммунальных квартир реализовывалась лишь через программы предоставления\nжилья очередникам и переселения из ветхого жилья\",</segment>
+		<segment id="58" parent="57" relname="attribution">- сказал Федосеев.\</segment>
+		<segment id="60" parent="65" relname="attribution">nОн подчеркнул,</segment>
+		<segment id="61" parent="65" relname="comparison">что коммунальные квартиры, в которых все комнаты\nнаходятся в собственности граждан,</segment>
+		<segment id="62" parent="64" relname="span">власти расселять не будут,</segment>
+		<segment id="63" parent="62" relname="cause-effect">за\nисключением квартир, где есть очередники.\n\nИсточник: https://www.newsru.com/realty/02Apr2010/kommumalka.html\n</segment>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="38" type="span" parent="70" relname="joint"/>
+		<group id="28" type="span" parent="38" relname="span"/>
+		<group id="37" type="multinuc" parent="28" relname="elaboration"/>
+		<group id="33" type="span" parent="37" relname="joint"/>
+		<group id="32" type="span" parent="29" relname="elaboration"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="69" type="span" parent="70" relname="joint"/>
+		<group id="45" type="span" parent="68" relname="preparation"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="42" type="multinuc" parent="39" relname="cause-effect"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="48" type="span" parent="67" relname="preparation"/>
+		<group id="67" type="multinuc" parent="68" relname="span"/>
+		<group id="59" type="span" parent="67" relname="comparison"/>
+		<group id="57" type="span" parent="59" relname="span"/>
+		<group id="55" type="multinuc" parent="56" relname="cause-effect"/>
+		<group id="53" type="span" parent="55" relname="contrast"/>
+		<group id="51" type="span" parent="53" relname="span"/>
+		<group id="66" type="span" parent="67" relname="comparison"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="64" type="span" parent="65" relname="comparison"/>
+		<group id="71" type="span"/>
+	</body>
+</rst>

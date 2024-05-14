@@ -1,0 +1,27 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="11" relname="span">В Татарстане из Красной книги исчезли сурки\n\nВ Татарстане перестанут охранять сурков,</segment>
+		<segment id="10" parent="9" relname="cause-effect">потому что это животное решено исключить из Красной книги.</segment>
+		<segment id="12" parent="18" relname="joint">Соответствующее разрешение уже получено в Министерстве экологии и природных ресурсов республики,</segment>
+		<segment id="13" parent="17" relname="joint">передает Regions.Ru.\n\nCейчас на территории Татарстана обитает около 20 тыс. сурков,</segment>
+		<segment id="14" parent="16" relname="joint">они быстро размножаются</segment>
+		<segment id="15" parent="16" relname="joint">и охранять их больше нет необходимости.</segment>
+		<segment id="19" parent="21" relname="span">Предполагается, что скоро из Красной книги исчезнут и серые куропатки,</segment>
+		<segment id="20" parent="19" relname="elaboration">численность которых достигла почти 200 тысяч.\n\nИсточник: https://www.newsru.com/russia/27Jun2001/surki.html\n</segment>
+		<group id="11" type="span" parent="23" relname="span"/>
+		<group id="22" type="multinuc" parent="11" relname="elaboration"/>
+		<group id="18" type="multinuc" parent="22" relname="joint"/>
+		<group id="17" type="multinuc" parent="18" relname="joint"/>
+		<group id="16" type="multinuc" parent="17" relname="joint"/>
+		<group id="21" type="span" parent="22" relname="joint"/>
+		<group id="23" type="span"/>
+	</body>
+</rst>

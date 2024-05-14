@@ -1,0 +1,50 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="27" relname="comparison">МИД России рекомендует гражданам России отказаться от поездок в Непал\n\nМИД России рекомендует российским гражданам отказаться от поездок в Непал,</segment>
+		<segment id="20" parent="26" relname="span">сообщает РИА \"Новости\".\n\n\"МИД России рекомендует российским гражданам, посещающим Непал с личными целями,</segment>
+		<segment id="21" parent="25" relname="joint">проявлять повышенную осмотрительность и осторожность</segment>
+		<segment id="22" parent="24" relname="span">и, по возможности, воздерживаться от поездок в эту страну,</segment>
+		<segment id="23" parent="22" relname="condition">в случае появления информации о резком обострении там обстановки\",</segment>
+		<segment id="28" parent="27" relname="attribution">- заявили во вторник в российском внешнеполитическом ведомстве</segment>
+		<segment id="30" parent="31" relname="attribution">.\n\nВ МИД России пояснили,</segment>
+		<segment id="31" parent="32" relname="span">что такая рекомендация основана на информации, поступающей из столицы страны Катманду.</segment>
+		<segment id="33" parent="36" relname="attribution">Руководство Коммунистической партии Непала (маоистской) объявило</segment>
+		<segment id="34" parent="36" relname="joint">об одностороннем прекращении переговоров с правительством по урегулированию внутреннего конфликта</segment>
+		<segment id="35" parent="36" relname="joint">и отказе от достигнутого семь месяцев назад перемирия.</segment>
+		<segment id="38" parent="40" relname="span">Имеют место вооруженные столкновения между повстанцами и правительственными силами,</segment>
+		<segment id="39" parent="38" relname="attribution">указали в МИД РФ</segment>
+		<segment id="43" parent="44" relname="joint">.\n\nВ связи с этим российский МИД выражает обеспокоенность срывом мирного политического процесса.</segment>
+		<segment id="45" parent="46" relname="attribution">В Москве надеются,</segment>
+		<segment id="46" parent="47" relname="span">что \"в Непале не исчерпаны возможности диалога в интересах создания в королевстве мирной обстановки, обеспечения политического и социально-экономического прогресса страны на основе норм демократической конституционности и правопорядка\",</segment>
+		<segment id="48" parent="47" relname="attribution">- заявили в МИД РФ.\n\nИсточник: https://www.newsru.com/russia/02Sep2003/nepal.html\n</segment>
+		<group id="29" type="span" parent="53" relname="joint"/>
+		<group id="27" type="multinuc" parent="29" relname="span"/>
+		<group id="26" type="span" parent="27" relname="comparison"/>
+		<group id="25" type="multinuc" parent="20" relname="purpose"/>
+		<group id="24" type="span" parent="25" relname="joint"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="32" type="span" parent="51" relname="preparation"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="37" type="span" parent="51" relname="span"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="50" type="span" parent="37" relname="elaboration"/>
+		<group id="44" type="multinuc" parent="50" relname="span"/>
+		<group id="40" type="span" parent="44" relname="joint"/>
+		<group id="49" type="span" parent="44" relname="elaboration"/>
+		<group id="47" type="span" parent="49" relname="span"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

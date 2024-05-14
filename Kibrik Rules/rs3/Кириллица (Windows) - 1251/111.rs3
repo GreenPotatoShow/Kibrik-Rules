@@ -1,0 +1,81 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="35" relname="span">Президент  Туниса Зин аль-Абидин бен Али, управлявший страной 23 года, бежал.\n Он покинул Тунис,</segment>
+		<segment id="34" parent="33" relname="elaboration">где бушуют самые массовые за десятилетия протесты.\n Тысячи тунисцев вышли на улицы</segment>
+		<segment id="36" parent="38" relname="span">.\n Бен Али поднялся на борт самолета в пятницу вечером по местному времени.\n Перед этим военные закрыли аэропорт.\n А потом и воздушное пространство Туниса.\n Президентский самолет совершил посадку в Джидде,</segment>
+		<segment id="37" parent="36" relname="attribution">как сообщают СМИ Саудовской Аравии</segment>
+		<segment id="40" parent="41" relname="attribution">.\n Саудовская Аравия подтвердила в субботу утром,</segment>
+		<segment id="41" parent="42" relname="span">что Бен Али и его семья прибыли в королевство</segment>
+		<segment id="43" parent="51" relname="span">.\n Власти Франции,</segment>
+		<segment id="44" parent="45" relname="attribution">некогда правившей Тунисом, как колонией, заявили,</segment>
+		<segment id="45" parent="46" relname="span">что не получали от бен Али запроса на предоставление убежища.\n Министерство иностранных дел Франции подчеркивает,</segment>
+		<segment id="47" parent="49" relname="span">что власти будут консультироваться с новым правительством Туниса перед тем, как принять решение,</segment>
+		<segment id="48" parent="47" relname="condition">если такой запрос поступит.\n Перед тем, как уехать из Туниса,</segment>
+		<segment id="52" parent="58" relname="joint">президент распустил правительство</segment>
+		<segment id="53" parent="56" relname="attribution">и объявил</segment>
+		<segment id="54" parent="55" relname="cause-effect">в стране чрезвычайное положение.\n Собрания и общественные мероприятия запрещены.\n Полиции разрешено открывать огонь на поражение.\n В ходе демонстраций погибли, по меньшей мере, 23 человека.\n Беспорядки вспыхнули после самоубийства недавнего выпускника университета,</segment>
+		<segment id="55" parent="56" relname="span">который был вынужден заниматься торговлей.\n</segment>
+		<segment id="60" parent="68" relname="joint">Он поджег себя после того, как полиция конфисковала его товары,</segment>
+		<segment id="61" parent="62" relname="attribution">заявив,</segment>
+		<segment id="62" parent="63" relname="span">что у него отсутствовало разрешение на торговлю</segment>
+		<segment id="64" parent="66" relname="joint">.\n Многие недовольные требовали отстранить бен Али от власти</segment>
+		<segment id="65" parent="66" relname="joint">.\n В столице полиция применяла слезоточивый газ и дубинки</segment>
+		<segment id="69" parent="72" relname="attribution">.\n Очевидцы утверждают,</segment>
+		<segment id="70" parent="71" relname="cause-effect">что слышали выстрелы в районе Министерства внутренних дел.\n По официальным сведениям,</segment>
+		<segment id="71" parent="72" relname="span">в результате пожара в тюрьме города Монастир к югу от столицы погибло 42 человека</segment>
+		<segment id="74" parent="75" relname="attribution">.\n Сперва премьер-министр Мохаммед аль-Гануши заявил,</segment>
+		<segment id="75" parent="76" relname="span">что временно исполнять обязанности президента будет он.\n</segment>
+		<segment id="78" parent="79" relname="attribution">Однако позднее Конституционный совет Туниса — высший орган судебной власти — сообщил,</segment>
+		<segment id="79" parent="80" relname="span">что Бен Али окончательно утратил властные полномочия</segment>
+		<segment id="81" parent="84" relname="attribution">и обязанности главы государства будет выполнять спикер парламента Фуад Мебезза.\n Конституционный совет Туниса сообщил</segment>
+		<segment id="82" parent="84" relname="span">что у нового лидера государства есть 60 дней,</segment>
+		<segment id="83" parent="82" relname="purpose">чтобы организовать новые президентские выборы</segment>
+		<segment id="87" parent="88" relname="attribution">.\n Мебазза сообщил,</segment>
+		<segment id="88" parent="89" relname="span">что уже попросил премьер-министра страны сформировать правительство.\n \n</segment>
+		<group id="39" type="multinuc" parent="95" relname="joint"/>
+		<group id="35" type="span" parent="39" relname="joint"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="42" type="span" parent="93" relname="preparation"/>
+		<group id="93" type="multinuc" parent="94" relname="span"/>
+		<group id="59" type="multinuc" parent="93" relname="joint"/>
+		<group id="51" type="span" parent="59" relname="joint"/>
+		<group id="50" type="span" parent="43" relname="elaboration"/>
+		<group id="46" type="span" parent="49" relname="attribution"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="68" type="multinuc" parent="92" relname="joint"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="63" type="span" parent="67" relname="joint"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="77" type="multinuc" parent="91" relname="contrast"/>
+		<group id="73" type="span" parent="77" relname="joint"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="76" type="span" parent="77" relname="joint"/>
+		<group id="90" type="multinuc" parent="91" relname="contrast"/>
+		<group id="86" type="multinuc" parent="90" relname="joint"/>
+		<group id="80" type="span" parent="86" relname="joint"/>
+		<group id="85" type="span" parent="86" relname="joint"/>
+		<group id="84" type="span" parent="85" relname="span"/>
+		<group id="89" type="span" parent="90" relname="joint"/>
+		<group id="95" type="multinuc"/>
+	</body>
+</rst>

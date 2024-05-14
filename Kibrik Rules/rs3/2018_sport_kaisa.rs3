@@ -1,0 +1,36 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="14" relname="span">‘инка  айса ћ€к€р€йнен стала победительницей  убка мира по биатлону\n\n‘инска€ биатлонистка  айса ћ€к€р€йнен стала обладательницей большого ’рустального глобуса,</segment>
+		<segment id="13" parent="12" relname="background">вручаемого за победу в общем зачете  убка мира по итогам сезона.</segment>
+		<segment id="15" parent="31" relname="span">“рофей разыгрывалс€ в заключительной гонке сезона с общего старта в рамках дев€того этапа в “юмени.\n\nЌа итоговую победу претендовали две биатлонистки - ћ€к€р€йнен и јнастаси€  узьмина из —ловакии.</segment>
+		<segment id="16" parent="18" relname="comparison">¬ гонке ћ€к€р€йнен финишировала шестой,</segment>
+		<segment id="17" parent="18" relname="comparison">тогда как  узьмина - 11-й.\n\n¬ генеральной классификации</segment>
+		<segment id="19" parent="21" relname="sequence">35-летн€€ финка набрала 822 балла по итогам 22 личных стартов</segment>
+		<segment id="20" parent="21" relname="sequence">и обошла на три очка родную сестру российского биатлониста јнтона Ўипулина.</segment>
+		<segment id="23" parent="29" relname="span">ѕервую тройку замкнула белоруска ƒарь€ ƒомрачева (804 очка).</segment>
+		<segment id="24" parent="26" relname="span">Ћучшей из росси€нок оказалась ≈катерина ёрлова-ѕерхт (474),</segment>
+		<segment id="25" parent="24" relname="elaboration">зан€вша€ 13-е место.\n\n айса ћ€к€р€йнен в третий раз становитс€ победительницей общего зачета  убка мира.</segment>
+		<segment id="27" parent="28" relname="joint">–анее ей это удавалось в сезонах 2010/11 и 2013/14.\n\n” мужчин досрочную победу в общем зачете  убка мира ранее одержал француз ћартен ‘уркад.\n\n»сточник: https://www.newsru.com/sport/26Mar2018/kaisa.html\n</segment>
+		<group id="14" type="span" parent="31" relname="preparation"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="30" type="multinuc" parent="15" relname="elaboration"/>
+		<group id="22" type="multinuc" parent="30" relname="joint"/>
+		<group id="18" type="multinuc" parent="22" relname="sequence"/>
+		<group id="21" type="multinuc" parent="22" relname="sequence"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="28" type="multinuc" parent="23" relname="elaboration"/>
+		<group id="26" type="span" parent="28" relname="joint"/>
+		<group id="32" type="span"/>
+	</body>
+</rst>

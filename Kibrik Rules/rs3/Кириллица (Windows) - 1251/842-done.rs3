@@ -1,0 +1,72 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="28" parent="30" relname="span">Бывший  глава нефтяной компании ЮКОС Михаил Ходорковский,</segment>
+		<segment id="29" parent="28" relname="elaboration">в отношении которого ныне проходит второй судебный процесс в Хамовническом районном суде г. Москвы,</segment>
+		<segment id="31" parent="32" relname="same-unit">объявил вчера, 17 мая, бессрочную голодовку,</segment>
+		<segment id="33" parent="37" relname="span">до тех пор пока он не получит достоверного подтверждения того, что президенту РФ Дмитрию Медведеву известно о решении суда продлить ему и обвиняемому вместе с ним Платону Лебедеву срок содержания под стражей на очередные три месяца,</segment>
+		<segment id="34" parent="36" relname="span">вопреки вступившим в силу с 7 апреля сего года поправкам к Уголовно-процессуальному кодексу РФ,</segment>
+		<segment id="35" parent="34" relname="elaboration">которые были внесены по инициативе президента Медведева.</segment>
+		<segment id="39" parent="41" relname="span">В соответствии со статьёй 108 УПК РФ к подсудимым в этом процессе не может быть применена мера пресечения в виде заключения под стражу.\n «Если Президент согласится,</segment>
+		<segment id="40" parent="39" relname="attribution">— говорится в заявлении М. Ходорковского на имя председателя Верховного Суда РФ В.М. Лебедева,</segment>
+		<segment id="42" parent="46" relname="joint">— что внесенные им, принятые Федеральным Собранием РФ и подписанные им законы могут не исполняться судейскими и иными чиновниками, по их собственному усмотрению,</segment>
+		<segment id="43" parent="45" relname="joint">я смирюсь на этом этапе с моей конкретной ситуацией.»\n Проводящего голодовку М. Ходорковского поместят в одиночную камеру</segment>
+		<segment id="44" parent="45" relname="joint">и отберут у него продукты питания.</segment>
+		<segment id="48" parent="47" relname="attribution">Об этом сообщил источник в Федеральной службе исполнения наказаний (ФСИН).</segment>
+		<segment id="51" parent="52" relname="attribution">По его словам,</segment>
+		<segment id="52" parent="53" relname="span">подобные меры применяются в установленном порядке ко всем заключённым, отказывающимся от еды.</segment>
+		<segment id="54" parent="59" relname="attribution">Источник агентства Интерфакс добавил,</segment>
+		<segment id="55" parent="57" relname="span">что медперсонал СИЗО «Матросская тишина»,</segment>
+		<segment id="56" parent="55" relname="background">в котором содержится Ходорковский,</segment>
+		<segment id="58" parent="59" relname="same-unit">будет ежедневно проверять состояние его здоровья.</segment>
+		<segment id="61" parent="67" relname="joint">В частности, голодающего будут взвешивать,</segment>
+		<segment id="62" parent="66" relname="joint">измерять ему давление</segment>
+		<segment id="63" parent="65" relname="span">и брать анализы,</segment>
+		<segment id="64" parent="63" relname="elaboration">результаты которых будут заноситься в специальную ведомость.</segment>
+		<segment id="68" parent="69" relname="attribution">По мнению сотрудника ФСИН,</segment>
+		<segment id="69" parent="70" relname="span">примерно через десять дней к Ходорковскому могут применить принудительное кормление.</segment>
+		<segment id="71" parent="73" relname="span">Это произойдёт,</segment>
+		<segment id="72" parent="71" relname="condition">когда в моче голодающего появится ацетон,</segment>
+		<segment id="75" parent="74" relname="attribution">пояснил источник.\n \n</segment>
+		<group id="50" type="multinuc" parent="80" relname="sequence"/>
+		<group id="38" type="span" parent="50" relname="joint"/>
+		<group id="32" type="multinuc" parent="37" relname="preparation"/>
+		<group id="30" type="span" parent="32" relname="same-unit"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="36" type="span" parent="33" relname="elaboration"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="47" type="multinuc" parent="49" relname="span"/>
+		<group id="41" type="span" parent="47" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="79" type="span" parent="80" relname="sequence"/>
+		<group id="53" type="span" parent="79" relname="span"/>
+		<group id="78" type="span" parent="53" relname="elaboration"/>
+		<group id="60" type="span" parent="78" relname="span"/>
+		<group id="59" type="multinuc" parent="60" relname="span"/>
+		<group id="57" type="span" parent="59" relname="same-unit"/>
+		<group id="77" type="span" parent="60" relname="elaboration"/>
+		<group id="67" type="multinuc" parent="77" relname="span"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="76" type="span" parent="67" relname="elaboration"/>
+		<group id="74" type="span" parent="76" relname="span"/>
+		<group id="70" type="span" parent="74" relname="span"/>
+		<group id="73" type="span" parent="70" relname="interpretation-evaluation"/>
+		<group id="80" type="multinuc"/>
+	</body>
+</rst>

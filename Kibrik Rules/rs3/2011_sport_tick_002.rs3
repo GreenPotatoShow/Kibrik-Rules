@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="24" relname="span">VIP-билеты на ЧМ по фигурному катанию в Москве уже раскуплены\n\nСамые дорогие билеты на чемпионат мира по фигурному катанию в Москве уже раскуплены.</segment>
+		<segment id="19" parent="22" relname="attribution">Об этом сообщает ИТАР-ТАСС со ссылкой на дирекцию дворца \"Мегаспорт\",</segment>
+		<segment id="20" parent="22" relname="span">где будет проходить мировое первенство.\n\nПродажа билетов на ЧМ,</segment>
+		<segment id="21" parent="20" relname="elaboration">который пройдет с 25 апреля по 1 мая, ведется с понедельника.</segment>
+		<segment id="25" parent="31" relname="span">Наибольшим спросом пользовались билеты стоимостью 700-2000 рублей на два финальных дня</segment>
+		<segment id="26" parent="30" relname="same-unit">- 30 апреля и 1 мая,</segment>
+		<segment id="27" parent="29" relname="span">их в кассах дворца спорта уже нет.\n\nСпрос был также на билеты на первые два дня чемпионата мира стоимостью 150-350 рублей,</segment>
+		<segment id="28" parent="27" relname="elaboration">которые также раскуплены.</segment>
+		<segment id="32" parent="33" relname="sequence">В продаже остались билеты на 27 и 29 апреля стоимостью 200 рублей.\n\n</segment>
+		<segment id="34" parent="38" relname="span">\"Наш дворец спорта очень компактный и удобный.</segment>
+		<segment id="35" parent="37" relname="span">Ледовая площадка хорошо просматривается с любого зрительского места, с каждой из четырех трибун,</segment>
+		<segment id="36" parent="35" relname="attribution">- отметили в дирекции.</segment>
+		<segment id="39" parent="47" relname="span">- Кроме того, зрителям помогает в просмотре соревнований видеокуб, установленный в центре зала.</segment>
+		<segment id="40" parent="42" relname="span">Наиболее красивые и зрелищные моменты можно будет наблюдать на ЧМ на любом из четырех экранов\".\n\nВ продажу в кассы дворца спорта поступила только часть билетов,</segment>
+		<segment id="41" parent="40" relname="elaboration">остальные реализовываются с помощью других видов распространения, в том числе через интернет-сайты, где билеты в продаже еще есть.</segment>
+		<segment id="43" parent="45" relname="joint">К сожалению, их стоимость превышает номинальную в два - пять раз</segment>
+		<segment id="44" parent="45" relname="joint">и может обойтись любителю этого зрелищного вида спорта в 6-7 тысяч рублей.\n\nИсточник: https://www.newsru.com/sport/14Apr2011/tick.html\n</segment>
+		<group id="24" type="span" parent="49" relname="preparation"/>
+		<group id="23" type="span" parent="18" relname="attribution"/>
+		<group id="22" type="span" parent="23" relname="span"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="33" type="multinuc" parent="49" relname="joint"/>
+		<group id="31" type="span" parent="33" relname="sequence"/>
+		<group id="30" type="multinuc" parent="25" relname="elaboration"/>
+		<group id="29" type="span" parent="30" relname="same-unit"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="38" type="span" parent="48" relname="joint"/>
+		<group id="37" type="span" parent="34" relname="elaboration"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="46" type="span" parent="39" relname="elaboration"/>
+		<group id="42" type="span" parent="46" relname="span"/>
+		<group id="45" type="multinuc" parent="42" relname="elaboration"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

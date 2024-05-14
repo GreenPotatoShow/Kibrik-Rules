@@ -1,0 +1,56 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="58" relname="preparation">Ирландцы открыли Евросоюзу путь на восток\n\nПолитическая элита Ирландии, а также других столиц Европейского союза вздохнула с облегчением.</segment>
+		<segment id="22" parent="30" relname="span">Как свидетельствуют предварительные результаты проведенного здесь в субботу повторного референдума по вопросу ратификации Ниццского договора ЕС,</segment>
+		<segment id="23" parent="27" relname="span">сторонники этого документа,</segment>
+		<segment id="24" parent="26" relname="joint">заключенного на саммите \"пятнадцати\" в Ницце в декабре 2000 года</segment>
+		<segment id="25" parent="26" relname="joint">и создающего основу для дальнейшего расширения Евросоюза,</segment>
+		<segment id="28" parent="29" relname="same-unit">одержали убедительную победу,</segment>
+		<segment id="31" parent="42" relname="attribution">сообщает ИТАР-ТАСС.\n\nСогласно первым итогам референдума,</segment>
+		<segment id="32" parent="38" relname="comparison">которые подведены в семи наиболее крупных округах Ирландии,</segment>
+		<segment id="33" parent="36" relname="attribution">в поддержку точки зрения правительства страны</segment>
+		<segment id="34" parent="36" relname="span">о необходимости ратифицировать новый договор ЕС высказались почти 67 процентов ирландцев,</segment>
+		<segment id="35" parent="34" relname="condition">принявших участие в голосовании.</segment>
+		<segment id="39" parent="41" relname="span">Их в два раза больше, чем противников договора,</segment>
+		<segment id="40" parent="39" relname="elaboration">набравших всего 33,4 процента голосов.\n\</segment>
+		<segment id="45" parent="49" relname="span">nПо существу в руках ирландцев оказалась судьба 10 стран-кандидатов в члены ЕС,</segment>
+		<segment id="46" parent="48" relname="joint">так как от итогов референдума зависит,</segment>
+		<segment id="47" parent="48" relname="joint">состоится или нет уже запланированное на весну 2003 года подписание договора о вступлении в Евросоюз Кипра, Чехии, Эстонии, Венгрии, Латвии, Литвы, Мальты, Польши, Словакии и Словении.</segment>
+		<segment id="50" parent="56" relname="comparison">На первом референдуме в июне 2001 года 53,87 процента высказались против Ниццкого договора при 46,13 процента проголосовавших \"за\".\n\nГод назад население страны поддержало не правительственную точку зрения, а партию \"зеленых\", Шинн фейн, \"Альянс за мир и нейтралитет\" и ряд других общественных организаций,</segment>
+		<segment id="51" parent="54" relname="attribution">считающих,</segment>
+		<segment id="52" parent="54" relname="joint">что новый договор повлечет отход Ирландии от традиционно проводимой ею политики военного нейтралитета,</segment>
+		<segment id="53" parent="54" relname="joint">а также приведет к снижению веса малых стран Евросоюза в процессе принимаемых в нем решений.\n\nИсточник: https://www.newsru.com/world/20Oct2002/ipl.html\n</segment>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="44" type="multinuc" parent="58" relname="joint"/>
+		<group id="30" type="span" parent="44" relname="joint"/>
+		<group id="29" type="multinuc" parent="22" relname="elaboration"/>
+		<group id="27" type="span" parent="29" relname="same-unit"/>
+		<group id="26" type="multinuc" parent="23" relname="elaboration"/>
+		<group id="43" type="span" parent="44" relname="joint"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="38" type="multinuc" parent="42" relname="span"/>
+		<group id="37" type="span" parent="38" relname="comparison"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="41" type="span" parent="38" relname="elaboration"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="49" type="span" parent="57" relname="joint"/>
+		<group id="48" type="multinuc" parent="45" relname="cause-effect"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="comparison"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="59" type="span"/>
+	</body>
+</rst>

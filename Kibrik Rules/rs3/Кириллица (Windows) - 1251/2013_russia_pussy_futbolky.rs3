@@ -1,0 +1,114 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="47" parent="51" relname="span">Роскомнадзор обвинил СМИ в разжигании религиозной розни</segment>
+		<segment id="48" parent="49" relname="cause-effect">за публикации о футболках в поддержку Pussy Riot\n\nРоскомнадзор вынес предупреждения нескольким СМИ</segment>
+		<segment id="49" parent="50" relname="span">за материалы о футболках новосибирского художника Артема Лоскутова в поддержку Pussy Riot,</segment>
+		<segment id="52" parent="51" relname="cause-effect">из-за которых его ранее признали виновным в оскорблении чувств верующих.</segment>
+		<segment id="54" parent="65" relname="preparation">Ведомство нашло в публикациях признаки \"возбуждения религиозной розни\",</segment>
+		<segment id="55" parent="65" relname="span">сообщается на сайте Роскомнадзора.\n\nВ нарушении ст.4 закона \"О средствах массовой информации\" были уличены интернет-порталы \"Грани.ру\"</segment>
+		<segment id="56" parent="64" relname="joint">(за статью \"Артем Лоскутов оштрафован за футболки \"СВБД ПСРТ\"),</segment>
+		<segment id="57" parent="63" relname="span">\"Полит.ру\"</segment>
+		<segment id="58" parent="62" relname="span">(за статью \"Артема Лоскутова оштрафовали за футболки с \"иконами Pussy Riot\"), \"Обещания.Ru\"</segment>
+		<segment id="59" parent="61" relname="span">(за статью \"Художник из Новосибирска оштрафован за оскорбление религиозных чувств\") и \"Сибкрай.ru\"</segment>
+		<segment id="60" parent="59" relname="elaboration">(за статью \"Лоскутов поплатился за футболки с \"иконами Pussy Riot\").</segment>
+		<segment id="68" parent="70" relname="span">Судя по названиям материалов, несложно догадаться, что в них шла речь о штрафе в тысячу рублей,</segment>
+		<segment id="69" parent="68" relname="elaboration">который наложили на Лоскутова 1 февраля за оскорбление чувств верующих.</segment>
+		<segment id="71" parent="72" relname="joint">Чувства верующих \"задели\" футболки его авторства, на которых в иконографии \"Знамение\" изображена Богородица в балаклаве.</segment>
+		<segment id="73" parent="75" relname="span">Изображение сопровождалось надписью \"СВБД ПСРТ\" (Свободу Pussy Riot).\n\nТри из четырех обвиненных в разжигании религиозной розни публикаций были иллюстрированы фотографиями футболок,</segment>
+		<segment id="74" parent="73" relname="elaboration">которые были сделаны фотографом Никитой Хнюниным для \"Сиб.фм\".</segment>
+		<segment id="77" parent="79" relname="span">Однако, как отмечает интернет-портал \"Сиб.фм\",</segment>
+		<segment id="78" parent="77" relname="elaboration">который сам публиковал фотосессию,</segment>
+		<segment id="80" parent="81" relname="same-unit">к нему претензий из Роскомнадзора не поступало.</segment>
+		<segment id="82" parent="89" relname="interpretation-evaluation">Примечательно, что</segment>
+		<segment id="83" parent="89" relname="span">СМИ, опубликовавших новость о штрафе Лоскутову,</segment>
+		<segment id="84" parent="86" relname="span">действительно было гораздо больше,</segment>
+		<segment id="85" parent="84" relname="attribution">чем заявлено в сообщении на сайте надзорного органа,</segment>
+		<segment id="87" parent="88" relname="contrast">однако им предупреждений не было сделано.</segment>
+		<segment id="91" parent="97" relname="joint">Впрочем, \"Грани.ру\", которые попали в \"черный список\",</segment>
+		<segment id="92" parent="95" relname="attribution">также утверждают,</segment>
+		<segment id="93" parent="95" relname="joint">что \"не получали от Роскомнадзора никакого уведомления о предупреждении\".\n\nРоскомнадзор сформировал свои претензии к СМИ после обращения в прокуратуру общественного движения \"Народный Собор\",</segment>
+		<segment id="94" parent="95" relname="joint">пишут \"Известия\".</segment>
+		<segment id="101" parent="131" relname="span">Движение просило признать экстремистским изображение Богородицы в балаклаве.\n\n\"У меня был разговор с сотрудниками РИА \"Новости\".</segment>
+		<segment id="102" parent="105" relname="attribution">Суды уже дважды признали,</segment>
+		<segment id="103" parent="104" relname="cause-effect">что изображение, стилизованное под икону Божьей матери,</segment>
+		<segment id="104" parent="105" relname="span">является оскорбительным для православных христиан.</segment>
+		<segment id="107" parent="108" relname="contrast">Но СМИ, включая РИА \"Новости\", продолжали публикации этих рисунков.</segment>
+		<segment id="109" parent="117" relname="joint">Я позвонил</segment>
+		<segment id="110" parent="111" relname="attribution">и сказал,</segment>
+		<segment id="111" parent="112" relname="span">что это недопустимо,</segment>
+		<segment id="113" parent="114" relname="attribution">- мне объяснили,</segment>
+		<segment id="114" parent="115" relname="span">что рисунок не внесен в список экстремистских.</segment>
+		<segment id="118" parent="120" relname="span">И в феврале этого года мы обратились в прокуратуру,</segment>
+		<segment id="119" parent="118" relname="purpose">чтобы провели экспертизу</segment>
+		<segment id="121" parent="122" relname="restatement">- является ли это изображение экстремистским\",</segment>
+		<segment id="123" parent="127" relname="span">- цитирует газета руководителя новосибирского отделения \"Народного Собора\" Юрия Задоя.\n\</segment>
+		<segment id="124" parent="125" relname="attribution">nПо его словам,</segment>
+		<segment id="125" parent="126" relname="span">в заявлении был перечислен ряд СМИ, публиковавших на своих сайтах фотографии футболок и самой картины.</segment>
+		<segment id="134" parent="135" relname="attribution">Сам Артем Лоскутов сказал,</segment>
+		<segment id="135" parent="136" relname="span">что до последнего момента не знал о претензиях к СМИ.\n\nИсточник: https://www.newsru.com/russia/23Apr2013/pussy_futbolky.html\n</segment>
+		<group id="133" type="multinuc" parent="137" relname="joint"/>
+		<group id="67" type="multinuc" parent="133" relname="joint"/>
+		<group id="53" type="span" parent="67" relname="joint"/>
+		<group id="51" type="span" parent="53" relname="span"/>
+		<group id="50" type="span" parent="47" relname="cause-effect"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="64" type="multinuc" parent="55" relname="elaboration"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="62" type="span" parent="57" relname="elaboration"/>
+		<group id="61" type="span" parent="58" relname="elaboration"/>
+		<group id="132" type="multinuc" parent="133" relname="joint"/>
+		<group id="100" type="multinuc" parent="132" relname="joint"/>
+		<group id="76" type="multinuc" parent="100" relname="contrast"/>
+		<group id="72" type="multinuc" parent="76" relname="joint"/>
+		<group id="70" type="span" parent="72" relname="joint"/>
+		<group id="75" type="span" parent="76" relname="joint"/>
+		<group id="99" type="span" parent="100" relname="contrast"/>
+		<group id="81" type="multinuc" parent="99" relname="span"/>
+		<group id="79" type="span" parent="81" relname="same-unit"/>
+		<group id="98" type="multinuc" parent="81" relname="interpretation-evaluation"/>
+		<group id="90" type="span" parent="98" relname="joint"/>
+		<group id="89" type="span" parent="90" relname="span"/>
+		<group id="88" type="multinuc" parent="83" relname="evidence"/>
+		<group id="86" type="span" parent="88" relname="contrast"/>
+		<group id="97" type="multinuc" parent="98" relname="joint"/>
+		<group id="96" type="span" parent="97" relname="joint"/>
+		<group id="95" type="multinuc" parent="96" relname="span"/>
+		<group id="131" type="span" parent="132" relname="joint"/>
+		<group id="130" type="multinuc" parent="101" relname="elaboration"/>
+		<group id="108" type="multinuc" parent="130" relname="joint"/>
+		<group id="106" type="span" parent="108" relname="contrast"/>
+		<group id="105" type="span" parent="106" relname="span"/>
+		<group id="129" type="multinuc" parent="130" relname="joint"/>
+		<group id="117" type="multinuc" parent="129" relname="joint"/>
+		<group id="116" type="span" parent="117" relname="joint"/>
+		<group id="112" type="span" parent="116" relname="span"/>
+		<group id="115" type="span" parent="112" relname="cause-effect"/>
+		<group id="128" type="span" parent="129" relname="joint"/>
+		<group id="122" type="multinuc" parent="128" relname="span"/>
+		<group id="120" type="span" parent="122" relname="restatement"/>
+		<group id="127" type="span" parent="122" relname="attribution"/>
+		<group id="126" type="span" parent="123" relname="elaboration"/>
+		<group id="136" type="span" parent="137" relname="joint"/>
+		<group id="137" type="multinuc"/>
+	</body>
+</rst>

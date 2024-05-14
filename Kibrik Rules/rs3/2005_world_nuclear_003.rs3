@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="22" relname="span">Величайшие умы советской ядерной программы переобучаются в Великобритании \"мирным\" профессиям\n\nВеличайшие умы советской ядерной программы эры холодной войны слушают новый университетский курс в Великобритании,</segment>
+		<segment id="21" parent="20" relname="elaboration">который поможет им сделать более \"мирную\" карьеру.</segment>
+		<segment id="23" parent="22" relname="elaboration">После краха СССР осталось 15-30 тыс. физиков и инженеров, специализировавшихся на ядерном оружии.</segment>
+		<segment id="25" parent="27" relname="span">Новый обучающий курс проводится в рамках международной программы по нераспространению оружия массового поражения,</segment>
+		<segment id="26" parent="25" relname="elaboration">пишет Guardian (перевод на сайте Inopressa).\n\nУниверситет Де Монтфорд поможет студентам освоить такие сферы, как коммерческая журналистика, интернет для бизнеса, межкультурные исследования, язык международных переговоров, составление рыночных стратегий и информационный анализ.\n\nЭто - лишь малая часть глобальных усилий \"Большой семерки\", состоящей из самых богатых стран, по предотвращению распространения ядерного оружия.</segment>
+		<segment id="28" parent="29" relname="joint">Правительство Соединенного Королевства обещало выделять по 4 млн фунтов в год на проведение программ переобучения специалистов-ядерщиков из ряда стран, в том числе из России, Казахстана, Узбекистана и Украины.\n\nВысокопоставленные представители закрытых российских ядерных объектов, ядерных институтов республик СНГ обучаются деловому английскому и ведению переговоров.</segment>
+		<segment id="30" parent="33" relname="attribution">Кайрат Кадыржанов, директор Института ядерной физики в Казахстане, говорит:</segment>
+		<segment id="31" parent="33" relname="span">\"Мы живем в новые времена,</segment>
+		<segment id="32" parent="31" relname="condition">когда наша страна движется к рыночной экономике.</segment>
+		<segment id="35" parent="37" relname="span">Все больше моя работа оказывается связанной не с наукой и физикой, а с новыми продуктами, интересными нашему населению\".\n\nСреди студентов - исследователи, ученые и госслужащие.</segment>
+		<segment id="36" parent="35" relname="evidence">Есть представители из Сарова, Северска, Снежинска, Озерска и Зеленогорска.</segment>
+		<segment id="38" parent="42" relname="joint">Цель новой программы - помочь этим специалистам найти хорошо оплачиваемую работу,</segment>
+		<segment id="39" parent="41" relname="joint">не связанную с ядерным оружием,</segment>
+		<segment id="40" parent="41" relname="joint">и помочь другим странам коммерциализировать технологии.\n\</segment>
+		<segment id="43" parent="44" relname="attribution">nПо словам руководителя курса и главы Центра изучения английского Дэвида Бойдона,</segment>
+		<segment id="44" parent="45" relname="span">он очень рад, что участвует в этом проекте.</segment>
+		<segment id="48" parent="50" relname="span">\"Энтузиазм и увлеченность, которые они проявляют, будучи студентами, доказывает их заинтересованность в этом проекте.</segment>
+		<segment id="49" parent="48" relname="cause-effect">Всего за три дня мы увидели улучшения не только в их английском, но и в освоении деловых навыков, которые им потребуются\".\n\nИсточник: https://www.newsru.com/world/08Feb2005/nuclear.html\n</segment>
+		<group id="24" type="span" parent="56" relname="joint"/>
+		<group id="22" type="span" parent="24" relname="span"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="29" type="multinuc" parent="55" relname="joint"/>
+		<group id="27" type="span" parent="29" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="34" type="span" parent="53" relname="preparation"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="37" type="span" parent="53" relname="span"/>
+		<group id="52" type="multinuc" parent="37" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="52" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="45" type="span" parent="51" relname="span"/>
+		<group id="50" type="span" parent="45" relname="elaboration"/>
+		<group id="56" type="multinuc"/>
+	</body>
+</rst>

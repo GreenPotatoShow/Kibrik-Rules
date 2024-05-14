@@ -1,0 +1,81 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="88" relname="preparation">Гарри Бардин снял продолжение \"Чучи\"\n\nВсемирно известный режиссер Гарри Бардин закончил работу над анимационным фильмом \"Чуча-2\".</segment>
+		<segment id="32" parent="36" relname="joint">Свое новое творение он уже показал журналистам</segment>
+		<segment id="33" parent="34" relname="attribution">и рассказал,</segment>
+		<segment id="34" parent="35" relname="span">почему у \"Чучи\" появилось продолжение.\n\n</segment>
+		<segment id="37" parent="39" relname="span">\"Вот в эту уродину я влюбился\",</segment>
+		<segment id="38" parent="37" relname="attribution">- признался Бардин в интервью программе \"Киновости\" (\"НТВ-Плюс\").\n\</segment>
+		<segment id="41" parent="47" relname="joint">nНесмотря на то, что первый фильм при всех своих достоинствах прошел мимо широких экранов</segment>
+		<segment id="42" parent="46" relname="span">и заинтересовал всего лишь один телеканал,</segment>
+		<segment id="43" parent="45" relname="span">мэтр отечественной мультипликации и его команда взялись за работы над второй \"Чучей\".\n\n\"Это редко удается,</segment>
+		<segment id="44" parent="43" relname="condition">когда придумывается персонаж.</segment>
+		<segment id="48" parent="51" relname="concession">Несмотря на то, что я уже в мультипликации 27 лет,</segment>
+		<segment id="49" parent="50" relname="cause-effect">но вот такого рода персонаж у меня появился, наверное, впервые.</segment>
+		<segment id="50" parent="51" relname="span">И с ним хотелось еще поиграть.</segment>
+		<segment id="53" parent="52" relname="interpretation-evaluation">Я чувствовал, что я не доиграл,</segment>
+		<segment id="55" parent="54" relname="attribution">- пояснил режиссер.</segment>
+		<segment id="58" parent="64" relname="span">- Мы уже знали, что она может,</segment>
+		<segment id="59" parent="63" relname="joint">чего она любит,</segment>
+		<segment id="60" parent="62" relname="joint">чего она терпит,</segment>
+		<segment id="61" parent="62" relname="joint">что не терпит.</segment>
+		<segment id="65" parent="66" relname="joint">Она уже диктовала нам свой стиль поведения.</segment>
+		<segment id="67" parent="68" relname="condition">И когда мы освоили это,</segment>
+		<segment id="68" parent="69" relname="span">глупо было бросать всю эту затею.</segment>
+		<segment id="70" parent="74" relname="same-unit">Это то же самое,</segment>
+		<segment id="71" parent="73" relname="joint">если научиться играть на скрипке,</segment>
+		<segment id="72" parent="73" relname="joint">а потом переходить на фортепиано\".\n\nНовый анимационный фильм Бардина это еще один день из жизни Чучи.</segment>
+		<segment id="76" parent="84" relname="span">День, полный захватывающих приключений.</segment>
+		<segment id="77" parent="83" relname="span">Это забавная и трогательная история дружбы маленького мальчика и существа, на лицо ужасного, доброго внутри.\n\nПривязанность Бардина к своему детищу постоянно растет.</segment>
+		<segment id="78" parent="82" relname="joint">Он уже написал сценарий третьей части картины</segment>
+		<segment id="79" parent="81" relname="restatement">и загорелся идеей производства Чучи-игрушки,</segment>
+		<segment id="80" parent="81" relname="restatement">совершенно не задумываясь о том, насколько удачной будет прокатная судьба новой ленты.\n\nИсточник: https://www.newsru.com/cinema/26Nov2001/bardin.html\n</segment>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="40" type="span" parent="87" relname="preparation"/>
+		<group id="36" type="multinuc" parent="40" relname="span"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="39" type="span" parent="36" relname="elaboration"/>
+		<group id="87" type="multinuc" parent="88" relname="span"/>
+		<group id="57" type="span" parent="87" relname="joint"/>
+		<group id="47" type="multinuc" parent="57" relname="span"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="45" type="span" parent="42" relname="elaboration"/>
+		<group id="56" type="span" parent="47" relname="interpretation-evaluation"/>
+		<group id="54" type="span" parent="56" relname="span"/>
+		<group id="52" type="span" parent="54" relname="span"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="66" type="multinuc" parent="86" relname="joint"/>
+		<group id="64" type="span" parent="66" relname="joint"/>
+		<group id="63" type="multinuc" parent="58" relname="cause-effect"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="75" type="span" parent="85" relname="joint"/>
+		<group id="69" type="span" parent="75" relname="span"/>
+		<group id="74" type="multinuc" parent="69" relname="elaboration"/>
+		<group id="73" type="multinuc" parent="74" relname="same-unit"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="83" type="span" parent="76" relname="elaboration"/>
+		<group id="82" type="multinuc" parent="77" relname="elaboration"/>
+		<group id="81" type="multinuc" parent="82" relname="joint"/>
+		<group id="89" type="span"/>
+	</body>
+</rst>

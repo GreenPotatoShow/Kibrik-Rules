@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="26" relname="attribution">Президент РФПЛ заявил,</segment>
+		<segment id="26" parent="27" relname="span">что пиво - неотъемлемая часть футбола\n\</segment>
+		<segment id="28" parent="34" relname="span">nРуководство Российской футбольной премьер-лиги (РФПЛ) в лице ее президента Сергея Прядкина поддерживает возвращение пива на стадионы.</segment>
+		<segment id="29" parent="30" relname="attribution">Чиновник отметил,</segment>
+		<segment id="30" parent="31" relname="span">что с нового сезона лига может заключить партнерское соглашение с пивной компанией.\n\n\"Закон не позволяет пить пиво на стадионе,</segment>
+		<segment id="32" parent="31" relname="attribution">- цитирует Прядкина газета \"Спорт-Экспресс\".</segment>
+		<segment id="35" parent="69" relname="span">- Пиво - неотъемлемая часть футбола.</segment>
+		<segment id="36" parent="67" relname="preparation">Возврат пивных брендов - очень важная вещь.</segment>
+		<segment id="37" parent="39" relname="span">Интерес у пивняков есть,</segment>
+		<segment id="38" parent="37" relname="condition">с нового сезона однозначно появится пивной партнер.</segment>
+		<segment id="40" parent="41" relname="condition">Если клуб найдет себе пивного партнера,</segment>
+		<segment id="41" parent="42" relname="span">мы тоже не против.</segment>
+		<segment id="43" parent="45" relname="span">В условиях кризиса сотрудничество с пивными брендами может принести много дивидендов\".\n\nВ начале июля прошлого года Госдума приняла закон,</segment>
+		<segment id="44" parent="43" relname="elaboration">временно приостанавливающий действие запрета на рекламу пива на стадионах, в печатных изданиях и на телевидении,</segment>
+		<segment id="46" parent="45" relname="cause-effect">в связи с приближающимся чемпионатом мира - 2018.\n\nСогласно документу, рекламу производителей пива и самого напитка разрешили размещать на стадионах в период официальных спортивных мероприятий,</segment>
+		<segment id="48" parent="47" relname="elaboration">на телеканалах во время трансляции спортивных соревнований и в специализированных печатных изданиях</segment>
+		<segment id="51" parent="52" relname="condition">.\n\nПрядкин не исключает,</segment>
+		<segment id="52" parent="53" relname="span">что болельщикам разрешат употреблять пиво на стадионах.\n\n\"Закон принят.</segment>
+		<segment id="54" parent="56" relname="joint">Нам бы хотелось немного изменить его.</segment>
+		<segment id="55" parent="56" relname="joint">Мы боремся за то, чтобы на стадионах разрешили пить пиво\",</segment>
+		<segment id="58" parent="62" relname="span">- приводит телеканал \"Вести\" слова футбольного чиновника,</segment>
+		<segment id="59" parent="61" relname="span">назвавшего текущий запрет на продажу слабоалкогольных напитков \"ничего не решающей глупостью\".\n\nПиво исчезло со стадионов в 2002 году после беспорядков на Манежной площади,</segment>
+		<segment id="60" parent="59" relname="cause-effect">связанных с поражением сборной России от Японии на чемпионате мира по футболу.</segment>
+		<segment id="63" parent="62" relname="elaboration">Три года спустя это ограничение закрепили на законодательном уровне.\n\nИсточник: https://www.newsru.com/sport/18Mar2015/beer.html\n</segment>
+		<group id="27" type="span" parent="70" relname="preparation"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="34" type="span" parent="70" relname="joint"/>
+		<group id="33" type="span" parent="28" relname="elaboration"/>
+		<group id="31" type="span" parent="33" relname="span"/>
+		<group id="69" type="span" parent="70" relname="joint"/>
+		<group id="68" type="span" parent="35" relname="elaboration"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="39" type="span" parent="66" relname="preparation"/>
+		<group id="66" type="multinuc" parent="67" relname="span"/>
+		<group id="50" type="span" parent="66" relname="joint"/>
+		<group id="42" type="span" parent="49" relname="preparation"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="47" type="span" parent="49" relname="span"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="65" type="multinuc" parent="66" relname="joint"/>
+		<group id="57" type="span" parent="65" relname="joint"/>
+		<group id="53" type="span" parent="57" relname="span"/>
+		<group id="56" type="multinuc" parent="53" relname="interpretation-evaluation"/>
+		<group id="64" type="span" parent="65" relname="joint"/>
+		<group id="62" type="span" parent="64" relname="span"/>
+		<group id="61" type="span" parent="58" relname="elaboration"/>
+		<group id="71" type="span"/>
+	</body>
+</rst>

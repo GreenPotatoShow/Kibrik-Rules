@@ -1,0 +1,116 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="48" parent="50" relname="span">\"Твенте\" пожалуется в УЕФА на русские морозы и термометры\n\nПредставители голландского футбольного клуба \"Твенте\",</segment>
+		<segment id="49" parent="48" relname="elaboration">накануне переигравшего казанский \"Рубин\" в стартовом матче плей-офф Лиги Европы,</segment>
+		<segment id="51" parent="50" relname="elaboration">намерены подать жалобу в УЕФА.</segment>
+		<segment id="53" parent="57" relname="span">Гнев гостей российской столицы вызвала морозная погода в день матча, а также \"странные\" показания термометра в Лужниках.\n\nГолландцы,</segment>
+		<segment id="54" parent="55" relname="concession">несмотря на победу,</segment>
+		<segment id="55" parent="56" relname="span">после игры пребывали в шоке от решения УЕФА провести матч в такую экстремальную погоду.</segment>
+		<segment id="58" parent="60" relname="span">Врач команды Хейки Майнц в последние дни стала настоящей телезвездой:</segment>
+		<segment id="59" parent="58" relname="elaboration">почти все ведущие каналы Нидерландов взяли у нее интервью касательно московских морозов.\n\n</segment>
+		<segment id="63" parent="64" relname="condition">\"Не буду скрывать,</segment>
+		<segment id="64" parent="65" relname="span">мы хотели отменить матч,</segment>
+		<segment id="66" parent="65" relname="attribution">– сообщила она \"Советскому спорту\".</segment>
+		<segment id="68" parent="70" relname="span">- Я досконально изучила вопрос о том, какие последствия могут ожидать игроков,</segment>
+		<segment id="69" parent="68" relname="condition">если они проведут 90 минут на таком морозе.</segment>
+		<segment id="71" parent="75" relname="span">Список возможных заболеваний получился внушительным:</segment>
+		<segment id="72" parent="73" relname="cause-effect">воспаление легких, обморожение пальцев, носа, ушей,</segment>
+		<segment id="73" parent="74" relname="span">можно долго продолжать.</segment>
+		<segment id="76" parent="78" relname="span">Мы очень разочарованы,</segment>
+		<segment id="77" parent="76" relname="cause-effect">в УЕФА приняли безответственное решение\".\n\nГенеральный менеджер голландского клуба Ян ван Халст высказался в еще более резкой форме.\n\n\"Я очень зол,</segment>
+		<segment id="79" parent="85" relname="span">мы не хотели проводить матч,</segment>
+		<segment id="80" parent="84" relname="span">нельзя позволять выходить на поле</segment>
+		<segment id="81" parent="82" relname="condition">при такой погоде,</segment>
+		<segment id="82" parent="83" relname="span">– негодует он.</segment>
+		<segment id="87" parent="91" relname="span">- Не важно, матч ли это Лиги Европы или Лиги чемпионов,</segment>
+		<segment id="88" parent="90" relname="joint">выиграли мы 10:0</segment>
+		<segment id="89" parent="90" relname="joint">или проиграли с тем же счетом.</segment>
+		<segment id="93" parent="95" relname="span">Все это не имеет значения,</segment>
+		<segment id="94" parent="93" relname="condition">когда на карту поставлена жизнь футболиста, человека!</segment>
+		<segment id="96" parent="99" relname="attribution">Когда мы сказали,</segment>
+		<segment id="99" parent="100" relname="span">что против проведения игры, УЕФА пригрозил нам чуть ли не трехлетней дисквалификацией.</segment>
+		<segment id="101" parent="103" relname="contrast">Они там пропагандируют взаимоуважение,</segment>
+		<segment id="102" parent="103" relname="contrast">а на деле сами не уважают футболистов.</segment>
+		<segment id="104" parent="106" relname="joint">Чистой воды лицемерие\".\n\n\"Пошлем жалобу в УЕФА</segment>
+		<segment id="105" parent="106" relname="joint">и потребуем объяснений,</segment>
+		<segment id="109" parent="108" relname="attribution">- заявил Халст.</segment>
+		<segment id="117" parent="131" relname="sequence">- Вы знаете эту историю с измерением температуры до матча?</segment>
+		<segment id="118" parent="120" relname="comparison">Термометр \"Твенте\" показывал минус 17,6,</segment>
+		<segment id="119" parent="120" relname="comparison">тогда как термометр \"Лужников\" показал 14,2.</segment>
+		<segment id="121" parent="123" relname="span">При этом инспекторы УЕФА даже не привезли собственного термометра\".\n\nЛюбопытный выход из сложившейся ситуации предложил единственный российский легионер в голландском чемпионате Дмитрий Булыкин,</segment>
+		<segment id="122" parent="121" relname="elaboration">защищающий цвета клуба \"Ден Хааг\".</segment>
+		<segment id="124" parent="126" relname="span">Он призвал переиграть московский матч,</segment>
+		<segment id="125" parent="124" relname="condition">признав его результат недействительным.\n\nУзнав о жалобе \"Твенте\",</segment>
+		<segment id="127" parent="126" relname="attribution">форвард заявил буквально следующее:</segment>
+		<segment id="132" parent="138" relname="span">\"Это чересчур,</segment>
+		<segment id="133" parent="136" relname="condition">если они это сделали,</segment>
+		<segment id="134" parent="136" relname="joint">то надо отменить результат матча</segment>
+		<segment id="135" parent="136" relname="joint">и переиграть его\".\n\nИсточник: https://www.newsru.com/sport/18Feb2011/tvent.html\n</segment>
+		<group id="116" type="multinuc" parent="140" relname="joint"/>
+		<group id="62" type="span" parent="116" relname="joint"/>
+		<group id="52" type="span" parent="61" relname="preparation"/>
+		<group id="50" type="span" parent="52" relname="span"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="57" type="span" parent="61" relname="joint"/>
+		<group id="56" type="span" parent="53" relname="concession"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="115" type="multinuc" parent="116" relname="joint"/>
+		<group id="67" type="span" parent="115" relname="joint"/>
+		<group id="65" type="span" parent="67" relname="span"/>
+		<group id="114" type="span" parent="115" relname="joint"/>
+		<group id="70" type="span" parent="113" relname="preparation"/>
+		<group id="113" type="span" parent="114" relname="span"/>
+		<group id="75" type="span" parent="113" relname="span"/>
+		<group id="74" type="span" parent="71" relname="elaboration"/>
+		<group id="112" type="span" parent="75" relname="elaboration"/>
+		<group id="92" type="span" parent="112" relname="span"/>
+		<group id="86" type="span" parent="92" relname="span"/>
+		<group id="78" type="span" parent="86" relname="span"/>
+		<group id="85" type="span" parent="78" relname="interpretation-evaluation"/>
+		<group id="84" type="span" parent="79" relname="purpose"/>
+		<group id="83" type="span" parent="80" relname="condition"/>
+		<group id="91" type="span" parent="86" relname="interpretation-evaluation"/>
+		<group id="90" type="multinuc" parent="87" relname="elaboration"/>
+		<group id="111" type="span" parent="92" relname="interpretation-evaluation"/>
+		<group id="95" type="span" parent="111" relname="span"/>
+		<group id="110" type="span" parent="95" relname="elaboration"/>
+		<group id="108" type="span" parent="110" relname="span"/>
+		<group id="100" type="span" parent="108" relname="span"/>
+		<group id="107" type="span" parent="100" relname="elaboration"/>
+		<group id="103" type="multinuc" parent="107" relname="span"/>
+		<group id="106" type="multinuc" parent="103" relname="interpretation-evaluation"/>
+		<group id="139" type="span" parent="140" relname="joint"/>
+		<group id="131" type="multinuc" parent="139" relname="span"/>
+		<group id="130" type="multinuc" parent="131" relname="sequence"/>
+		<group id="120" type="multinuc" parent="130" relname="comparison"/>
+		<group id="129" type="multinuc" parent="130" relname="comparison"/>
+		<group id="123" type="span" parent="129" relname="joint"/>
+		<group id="128" type="span" parent="129" relname="joint"/>
+		<group id="126" type="span" parent="128" relname="span"/>
+		<group id="138" type="span" parent="131" relname="interpretation-evaluation"/>
+		<group id="137" type="span" parent="132" relname="condition"/>
+		<group id="136" type="multinuc" parent="137" relname="span"/>
+		<group id="140" type="multinuc"/>
+	</body>
+</rst>

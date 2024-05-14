@@ -1,0 +1,95 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="41" parent="45" relname="span">Инспектор ГИБДД Москвы,</segment>
+		<segment id="42" parent="44" relname="joint">который ловил нарушителей из засады</segment>
+		<segment id="43" parent="44" relname="joint">и \"отказывался\" от взяток,</segment>
+		<segment id="46" parent="47" relname="sequence">будет уволен (ВИДЕО)\n\nЗнаменитый инспектор ГИБДД,</segment>
+		<segment id="48" parent="50" relname="span">прославившийся на всю страну</segment>
+		<segment id="49" parent="48" relname="cause-effect">благодаря видеоролику,</segment>
+		<segment id="51" parent="50" relname="elaboration">в котором задержанный им за нарушение ПДД водитель пересчитывает деньги,</segment>
+		<segment id="53" parent="54" relname="condition">сидя в патрульной машине,</segment>
+		<segment id="54" parent="55" relname="span">будет уволен,</segment>
+		<segment id="56" parent="55" relname="attribution">сообщила в пятницу пресс-служба ГУ МВД по Москве.</segment>
+		<segment id="60" parent="68" relname="span">Уголовное дело против гаишника пока не возбудили.</segment>
+		<segment id="61" parent="66" relname="attribution">Он утверждает,</segment>
+		<segment id="62" parent="66" relname="contrast">что просто останавливал водителей, выехавших на встречную полосу,</segment>
+		<segment id="63" parent="65" relname="joint">однако никаких взяток, которые предлагали ему нарушители,</segment>
+		<segment id="64" parent="65" relname="joint">он не брал.\n\</segment>
+		<segment id="69" parent="79" relname="sequence">nВ ходе служебной проверки выяснилось, что события на видеоролике, обнародованном на сайте общества \"Синих ведерок\", произошли 8 сентября.</segment>
+		<segment id="70" parent="78" relname="sequence">Инспектор 3 роты отдельного батальона ГИБДД УВД ЮВАО без разрешения дежурного по батальону самовольно покинул место дислокации</segment>
+		<segment id="71" parent="77" relname="span">и уехал на Волжский бульвар, дом 29,</segment>
+		<segment id="74" parent="75" relname="condition">где, как сообщалось, затаившись в \"засаде\",</segment>
+		<segment id="75" parent="76" relname="span">останавливал машины, водители которых выезжали на полосу встречного движения.\n\nСотрудники ОСБ установили личность водителя, снятого на видео с деньгами в руках в патрульной машине.</segment>
+		<segment id="80" parent="87" relname="attribution">Владелец автомобиля Chevrolet Cruze пояснил,</segment>
+		<segment id="81" parent="87" relname="joint">что достал</segment>
+		<segment id="82" parent="84" relname="span">и пересчитал деньги,</segment>
+		<segment id="83" parent="82" relname="purpose">чтобы передать их инспектору</segment>
+		<segment id="85" parent="84" relname="cause-effect">за несоставление протокола о лишении его прав.</segment>
+		<segment id="89" parent="91" relname="joint">Однако инспектор от денег якобы отказался</segment>
+		<segment id="90" parent="91" relname="joint">и вернул права.\n\</segment>
+		<segment id="92" parent="113" relname="attribution">nПо мнению ГУ МВД по Москве</segment>
+		<segment id="93" parent="99" relname="joint">инспектор допустил сразу несколько нарушений:</segment>
+		<segment id="94" parent="98" relname="joint">самовольно покинул пост несения службы,</segment>
+		<segment id="95" parent="97" relname="joint">не поставил в известность вышестоящее руководство и органы прокуратуры о попытке дачи ему взятки,</segment>
+		<segment id="96" parent="97" relname="joint">не составил соответствующий протокол о привлечении к административной ответственности за нарушение ПДД.</segment>
+		<segment id="100" parent="101" relname="condition">\"За совершение поступка, порочащего честь сотрудника органов внутренних дел,</segment>
+		<segment id="101" parent="102" relname="span">он будет уволен\",</segment>
+		<segment id="103" parent="104" relname="attribution">- сказали в пресс-службе ведомства.\n\nКак передает \"Интерфакс\",</segment>
+		<segment id="104" parent="105" relname="span">наказание понесли также начальники инспектора.</segment>
+		<segment id="107" parent="109" relname="span">Врио старшего дежурной части штаба ОБ ДПС ГИБДД УВД по ЮВАО объявлено неполное служебное соответствие,</segment>
+		<segment id="108" parent="107" relname="elaboration">командиру взвода, где служил уволенный инспектор,</segment>
+		<segment id="110" parent="111" relname="sequence">объявлен выговор.\n\nМатериалы проверки по факту возможного получения взятки будут направлены в Следственный комитет РФ по Москве.\n\nИсточник: https://www.newsru.com/auto/16Sep2011/gaec.html\n</segment>
+		<group id="59" type="multinuc" parent="119" relname="joint"/>
+		<group id="47" type="multinuc" parent="59" relname="sequence"/>
+		<group id="45" type="span" parent="47" relname="sequence"/>
+		<group id="44" type="multinuc" parent="41" relname="elaboration"/>
+		<group id="58" type="multinuc" parent="59" relname="sequence"/>
+		<group id="52" type="span" parent="58" relname="sequence"/>
+		<group id="50" type="span" parent="52" relname="span"/>
+		<group id="57" type="span" parent="58" relname="sequence"/>
+		<group id="55" type="span" parent="57" relname="span"/>
+		<group id="118" type="multinuc" parent="119" relname="joint"/>
+		<group id="68" type="span" parent="118" relname="joint"/>
+		<group id="67" type="span" parent="60" relname="elaboration"/>
+		<group id="66" type="multinuc" parent="67" relname="span"/>
+		<group id="65" type="multinuc" parent="66" relname="contrast"/>
+		<group id="117" type="multinuc" parent="118" relname="joint"/>
+		<group id="79" type="multinuc" parent="117" relname="joint"/>
+		<group id="78" type="multinuc" parent="79" relname="sequence"/>
+		<group id="77" type="span" parent="78" relname="sequence"/>
+		<group id="76" type="span" parent="71" relname="elaboration"/>
+		<group id="116" type="multinuc" parent="117" relname="joint"/>
+		<group id="88" type="span" parent="116" relname="contrast"/>
+		<group id="87" type="multinuc" parent="88" relname="span"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="84" type="span" parent="86" relname="span"/>
+		<group id="115" type="span" parent="116" relname="contrast"/>
+		<group id="91" type="multinuc" parent="115" relname="span"/>
+		<group id="114" type="span" parent="91" relname="elaboration"/>
+		<group id="113" type="multinuc" parent="114" relname="span"/>
+		<group id="99" type="multinuc" parent="113" relname="joint"/>
+		<group id="98" type="multinuc" parent="99" relname="joint"/>
+		<group id="97" type="multinuc" parent="98" relname="joint"/>
+		<group id="112" type="multinuc" parent="113" relname="joint"/>
+		<group id="106" type="span" parent="112" relname="joint"/>
+		<group id="102" type="span" parent="106" relname="span"/>
+		<group id="105" type="span" parent="102" relname="attribution"/>
+		<group id="111" type="multinuc" parent="112" relname="joint"/>
+		<group id="109" type="span" parent="111" relname="sequence"/>
+		<group id="119" type="multinuc"/>
+	</body>
+</rst>

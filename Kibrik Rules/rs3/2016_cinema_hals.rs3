@@ -1,0 +1,78 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="33" relname="span">Sotheby's признал подделкой картину Франса Хальса,</segment>
+		<segment id="32" parent="31" relname="elaboration">проданную за 10,8 млн долларов\n\</segment>
+		<segment id="34" parent="38" relname="span">nЭксперты Sotheby's признали подделкой картину,</segment>
+		<segment id="35" parent="37" relname="joint">которая считалась работой знаменитого голландского художника Франса Хальса</segment>
+		<segment id="36" parent="37" relname="joint">и была продана на аукционе в 2011 году за 10,8 миллиона долларов.</segment>
+		<segment id="39" parent="41" relname="span">Аукционный дом полностью возместил ущерб владельцу полотна,</segment>
+		<segment id="40" parent="39" relname="background">который купил его пять лет назад,</segment>
+		<segment id="42" parent="41" relname="attribution">сообщает ВВС.\n\nПолотно было подвергнуто углубленному анализу с использованием современных технических средств.</segment>
+		<segment id="45" parent="47" relname="span">Установлено, что картина была создана</segment>
+		<segment id="46" parent="45" relname="condition">при помощи современных материалов</segment>
+		<segment id="48" parent="49" relname="joint">и, таким образом, не могла быть написана в XVII веке.\n\nРазоблачение фальшивого Хальса стало частью скандала с предполагаемым появлением в арт-пространстве свыше двух десятков подделок.</segment>
+		<segment id="51" parent="58" relname="attribution">Как на прошлой неделе писало издание The Daily Mail,</segment>
+		<segment id="52" parent="55" relname="attribution">эксперты считают,</segment>
+		<segment id="53" parent="55" relname="span">что многие картины, приписываемые кисти Старых мастеров</segment>
+		<segment id="54" parent="53" relname="background">(принятое обозначение выдающихся художников Западной Европы, работавших до начала XVIII столетия),</segment>
+		<segment id="57" parent="58" relname="same-unit">могут оказаться подделками.</segment>
+		<segment id="60" parent="62" relname="span">Речь идет о более чем 25 картинах общей стоимостью около 246 миллионов долларов.\n\nВсемирно известный арт-дилер Боб Хабольдт назвал</segment>
+		<segment id="61" parent="60" relname="elaboration">проводящееся расследование скандалом века в сфере искусства.</segment>
+		<segment id="63" parent="65" relname="span">В последний раз нечто подобное происходило в 1940-х годах,</segment>
+		<segment id="64" parent="63" relname="elaboration">когда под сомнение была поставлена подлинность картин, приписываемых голландскому художнику Яну Вермееру.\n\</segment>
+		<segment id="66" parent="68" relname="span">nНа этот раз под подозрение, в частности, попали картина итальянского художника эпохи раннего барокко Орацио Джентилески \"Давид с головой Голиафа\" и \"Венера\" немецкого живописца эпохи Ренессанса Лукаса Кранаха (Старшего).\n\nРасследование началось после того, как в марте 2016 года властями с выставки во Франции была изъята \"Венера\", принадлежавшая князю Лихтенштейна.</segment>
+		<segment id="67" parent="66" relname="background">Это произошло после высказанных сомнений в подлинности полотна, якобы датированного 1531 годом.</segment>
+		<segment id="70" parent="72" relname="sequence">Картина появилась на арт-рынке в 2012 году</segment>
+		<segment id="71" parent="72" relname="sequence">и была на следующий год продана князю на торгах в лондонской галерее Colnaghi за шесть миллионов фунтов стерлингов (7,8 миллиона долларов).</segment>
+		<segment id="73" parent="74" relname="sequence">В настоящее время над определением ее подлинности работают специалисты Лувра.\n\nКартины, приписываемые Хальсу и Джентилески, были куплены лондонским арт-дилером Марком Вайссом.</segment>
+		<segment id="75" parent="79" relname="span">Американский коллекционер,</segment>
+		<segment id="76" parent="78" relname="span">купивший Хальса,</segment>
+		<segment id="77" parent="76" relname="elaboration">узнав, что \"Портрет мужчины\" связан с изъятой \"Венерой\" Кранаха,</segment>
+		<segment id="80" parent="81" relname="same-unit">поставил в известность Sotheby's.</segment>
+		<segment id="82" parent="81" relname="evidence">Так эксперты аукционного дома выявили подделку.\n\nИсточник: https://www.newsru.com/cinema/07Oct2016/hals.html\n</segment>
+		<group id="33" type="span" parent="88" relname="preparation"/>
+		<group id="88" type="multinuc" parent="89" relname="span"/>
+		<group id="50" type="multinuc" parent="88" relname="joint"/>
+		<group id="44" type="multinuc" parent="50" relname="joint"/>
+		<group id="38" type="span" parent="44" relname="joint"/>
+		<group id="37" type="multinuc" parent="34" relname="elaboration"/>
+		<group id="43" type="span" parent="44" relname="joint"/>
+		<group id="41" type="span" parent="43" relname="span"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="47" type="span" parent="49" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="59" type="span" parent="87" relname="joint"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="56" type="span" parent="58" relname="same-unit"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="62" type="span" parent="86" relname="joint"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="69" type="multinuc" parent="85" relname="joint"/>
+		<group id="65" type="span" parent="69" relname="sequence"/>
+		<group id="68" type="span" parent="69" relname="sequence"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="74" type="multinuc" parent="84" relname="joint"/>
+		<group id="72" type="multinuc" parent="74" relname="sequence"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="81" type="multinuc" parent="83" relname="span"/>
+		<group id="79" type="span" parent="81" relname="same-unit"/>
+		<group id="78" type="span" parent="75" relname="elaboration"/>
+		<group id="89" type="span"/>
+	</body>
+</rst>

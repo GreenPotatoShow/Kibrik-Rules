@@ -1,0 +1,99 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="41" parent="42" relname="attribution">Федеральный суд в Техасе отклонил ходатайство ЮКОСа\n\nСудья окружного федерального суда штата Техас в Хьюстоне Нэнси Атлас заявила,</segment>
+		<segment id="42" parent="43" relname="span">что ЮКОС не убедил суд в обоснованности своей апелляции.\n\nЮКОС не обосновал возможность достижения успеха по существу аппеляции\",</segment>
+		<segment id="44" parent="45" relname="attribution">говорится в письменном решении судьи Атлас,</segment>
+		<segment id="45" parent="46" relname="span">в котором она в пятницу отказала ЮКОСу в удовлетворении ходатайства о защите активов компании на время рассмотрения ее апелляции.\n\n\"На данном этапе рассмотрения дела ЮКОС не доказал,</segment>
+		<segment id="47" parent="49" relname="span">что суд по банкротству нарушил свои правомочия,</segment>
+		<segment id="48" parent="47" relname="condition">когда вынес постановление о наличии оснований для прекращения дела о банкротстве ЮКОСа,</segment>
+		<segment id="52" parent="51" relname="attribution">- отметила судья.\n\</segment>
+		<segment id="54" parent="58" relname="joint">nПри этом судья согласилась с вынесенным ранее решением нижестоящего федерального суда по банкротству о том,</segment>
+		<segment id="55" parent="57" relname="joint">что юрисдикция американского суда не распространяется на дело ЮКОСа.\n\n\"У суда имеется серьезная обеспокоенность в отношении того,</segment>
+		<segment id="56" parent="57" relname="joint">следует ли должным образом рассматривать настоящее дело в суде южного округа штата Техас и вообще в США\",</segment>
+		<segment id="59" parent="58" relname="attribution">- сообщила судья Атлас.\n\</segment>
+		<segment id="61" parent="68" relname="attribution">nВ своем 10-страничном решении судья подчеркнула также,</segment>
+		<segment id="62" parent="68" relname="span">что ее решение основано на соответствующей интерпретации такого важного правового момента как \"невмешательство суда одной страны в действия властей другого государства\".\n\n\"Хотя настоящий суд и не одобряет действия Российской Федерации в отношении ЮКОСа, его дочерних компаний и руководителей,</segment>
+		<segment id="63" parent="67" relname="span">общественный интерес одной страны,</segment>
+		<segment id="64" parent="65" relname="condition">заключающийся в невмешательстве в применение другим правительством его собственных законов,</segment>
+		<segment id="65" parent="66" relname="span">является как правило существенным фактором\",</segment>
+		<segment id="70" parent="80" relname="joint">- подчеркивается в документе.\n\nЮКОС в течение дня прокомментирует отказ окружного федерального суда штата Техас в Хьюстоне защититить активы на время рассмотрения его апелляции.</segment>
+		<segment id="71" parent="79" relname="span">Об этом сообщил РИА \"Новости\" официальный представитель ЮКОСа в США Майкл Лэйк.\n\nСудья Летиция Кларк 3 марта приняла решение о прекращении судопроизводства по делу о банкротстве НК ЮКОС,</segment>
+		<segment id="72" parent="78" relname="joint">удовлетворив соответствующее ходатайство Deutsche Bank AG,</segment>
+		<segment id="73" parent="76" relname="attribution">напоминает \"Интерфакс\".\n\nКларк в 33-страничном решении заявила,</segment>
+		<segment id="74" parent="76" relname="joint">что дело должно рассматриваться в суде,</segment>
+		<segment id="75" parent="76" relname="joint">где будет обеспечено участие в процессе российского правительства.</segment>
+		<segment id="82" parent="85" relname="attribution">В своем решении судья также написала,</segment>
+		<segment id="83" parent="84" relname="attribution">что она не приняла во внимание аргументы представителей ЮКОСа о том,</segment>
+		<segment id="84" parent="85" relname="span">что российское правительство наложило на компанию налоговые взыскания по политическим причинам.</segment>
+		<segment id="87" parent="90" relname="attribution">ЮКОС настаивает,</segment>
+		<segment id="88" parent="90" relname="joint">что он не может рассчитывать на справедливое рассмотрение своего дела в России.\n\nСразу после этого решения суда адвокаты ЮКОСа в экстренном порядке подали апелляцию</segment>
+		<segment id="89" parent="90" relname="joint">и потребовали от окружного суда предоставить судебную защиту авуаров ЮКОСа на период ее рассмотрения</segment>
+		<segment id="92" parent="93" relname="joint">.\n\nЮКОС подал иск о добровольном банкротстве в суд США 14 декабря 2004 года - перед аукционом по продаже за долги его основной добывающей \"дочки\" - ОАО \"Юганскнефтегаз\".</segment>
+		<segment id="95" parent="115" relname="contrast">Решением от 16 декабря 2004 года суд США запретил компаниям и банкам предпринимать какие-либо действия по отчуждению собственности НК.</segment>
+		<segment id="96" parent="100" relname="span">Тем не менее 19 декабря 2004 года 76,79% акций \"Юганскнефтегаза\" были проданы на аукционе за 9,3 млрд долларов.\n\nDeutsche Bank,</segment>
+		<segment id="97" parent="99" relname="joint">который возглавлял группу банков,</segment>
+		<segment id="98" parent="99" relname="joint">планировавших профинансировать покупку \"Юганскнефтегаза\",</segment>
+		<segment id="101" parent="103" relname="joint">и на который могли распространиться угрозы ЮКОСа,</segment>
+		<segment id="102" parent="103" relname="joint">в декабре 2004 года подал в американский суд заявление с просьбой прекратить дело о реорганизации ЮКОСа,</segment>
+		<segment id="105" parent="112" relname="attribution">обосновав это тем,</segment>
+		<segment id="106" parent="108" relname="span">что компания имеет в США незначительные активы и лишь одного работника.\n\nЮКОС считал,</segment>
+		<segment id="107" parent="106" relname="cause-effect">что дело о банкротстве компании может рассматриваться по законам США,</segment>
+		<segment id="109" parent="111" relname="span">поскольку в рамках дела речь может идти об исках от кредиторов и заемщиков на сумму более 1,5 млрд долларов, а также интересах более 50 тыс. акционеров,</segment>
+		<segment id="110" parent="109" relname="elaboration">многие из которых являются американскими гражданами.\n\nИсточник: https://www.newsru.com/finance/18Mar2005/houston.html\n</segment>
+		<group id="53" type="span" parent="118" relname="preparation"/>
+		<group id="51" type="multinuc" parent="53" relname="span"/>
+		<group id="43" type="span" parent="51" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="46" type="span" parent="49" relname="cause-effect"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="118" type="span" parent="119" relname="span"/>
+		<group id="60" type="span" parent="117" relname="preparation"/>
+		<group id="58" type="multinuc" parent="60" relname="span"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="117" type="multinuc" parent="118" relname="span"/>
+		<group id="81" type="multinuc" parent="117" relname="joint"/>
+		<group id="69" type="span" parent="81" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="67" type="span" parent="62" relname="elaboration"/>
+		<group id="66" type="span" parent="63" relname="elaboration"/>
+		<group id="80" type="multinuc" parent="81" relname="joint"/>
+		<group id="79" type="span" parent="80" relname="joint"/>
+		<group id="78" type="multinuc" parent="71" relname="interpretation-evaluation"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="116" type="multinuc" parent="117" relname="joint"/>
+		<group id="94" type="multinuc" parent="116" relname="joint"/>
+		<group id="86" type="span" parent="94" relname="joint"/>
+		<group id="85" type="span" parent="86" relname="span"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="91" type="span" parent="93" relname="joint"/>
+		<group id="90" type="multinuc" parent="91" relname="span"/>
+		<group id="115" type="multinuc" parent="116" relname="joint"/>
+		<group id="114" type="multinuc" parent="115" relname="contrast"/>
+		<group id="104" type="span" parent="114" relname="joint"/>
+		<group id="100" type="span" parent="103" relname="cause-effect"/>
+		<group id="99" type="multinuc" parent="96" relname="elaboration"/>
+		<group id="103" type="multinuc" parent="104" relname="span"/>
+		<group id="113" type="span" parent="114" relname="joint"/>
+		<group id="112" type="span" parent="113" relname="span"/>
+		<group id="108" type="span" parent="112" relname="span"/>
+		<group id="111" type="span" parent="108" relname="cause-effect"/>
+		<group id="119" type="span"/>
+	</body>
+</rst>

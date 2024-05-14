@@ -1,0 +1,91 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="38" parent="109" relname="preparation">Зонд Stardust впервые доставил на Землю межзвездную пыль\n\</segment>
+		<segment id="39" parent="41" relname="span">nСпасаемая капсула американского космического зонда Stardust сегодня успешно приземлилась.</segment>
+		<segment id="40" parent="39" relname="background">Она впервые в истории доставила на Землю образцы кометного вещества и межзвездной пыли.</segment>
+		<segment id="42" parent="52" relname="joint">Stardust собирал образцы космической пыли в ходе полета, продолжавшегося семь лет.</segment>
+		<segment id="43" parent="47" relname="joint">Зонд пролетел расстояние в 4,8 млрд километров.</segment>
+		<segment id="44" parent="46" relname="sequence">Расходы на проект составили 212 млн долларов.\n\nРано утром в воскресенье спасаемая капсула с бесценным для ученых грузом успешно отделилась от американского космического зонда Stardust</segment>
+		<segment id="45" parent="46" relname="sequence">и самостоятельно направилась к Земле.\n\nПримерно 13:00 мск капсула на высоте 125 км вошла в атмосферу нашей планеты.</segment>
+		<segment id="48" parent="50" relname="sequence">В этот момент капсула имела скорость в 46 тыс. 440 км в час</segment>
+		<segment id="49" parent="50" relname="sequence">и установила новый рекорд скорости для возвращающихся из космоса объектов, созданных человеком.</segment>
+		<segment id="54" parent="58" relname="span">Предыдущий рекорд был установлен в мае 1996 года возвращаемым командным модулем аппарата Apollo-10.\n\</segment>
+		<segment id="55" parent="57" relname="comparison">nНа высоте примерно 32-х километров раскрылся тормозной парашют,</segment>
+		<segment id="56" parent="57" relname="comparison">а на 3-километровой высоте приблизительно в 13:05 мск - основной парашют.</segment>
+		<segment id="59" parent="67" relname="joint">Капсула совершила мягкую посадку на армейском полигоне в штате Юта.\n\</segment>
+		<segment id="60" parent="61" relname="attribution">nКак отмечают специалисты,</segment>
+		<segment id="61" parent="62" relname="span">ранее образцы твердого инопланетного вещества доставлялись на Землю только советским \"лунником\" и американскими астронавтами с поверхности Луны,</segment>
+		<segment id="63" parent="64" relname="cause-effect">но из-за пределов лунной орбиты</segment>
+		<segment id="64" parent="65" relname="span">этого пока осуществить не удавалось.\n\nЗа посадкой капсулы наблюдал специальный самолет NASA.</segment>
+		<segment id="68" parent="70" relname="span">Оставляемый ею светящийся след можно было видеть в ночном небе с территории нескольких американских штатов.</segment>
+		<segment id="69" parent="68" relname="elaboration">На земле капсулу встречают несколько поисковых команд,</segment>
+		<segment id="71" parent="76" relname="attribution">сообщает ИТАР-ТАСС.\n\nУченые надеются,</segment>
+		<segment id="72" parent="74" relname="contrast">что кометное вещество не только поможет понять состав комет,</segment>
+		<segment id="73" parent="74" relname="contrast">но и станет огромным материальным вкладом в изучении ранней истории Солнечной системы.\n\n\"В последние несколько десятилетий космические аппараты уже подходили к кометам на достаточно близкое расстояние,</segment>
+		<segment id="75" parent="74" relname="elaboration">обеспечивая нас очень интересными данными\",</segment>
+		<segment id="78" parent="77" relname="attribution">- сказал старший наблюдатель за миссией Stardust Дон Браунли.\n\</segment>
+		<segment id="83" parent="86" relname="attribution">nКак сказал доктор Саймон Грин из Открытого университета,</segment>
+		<segment id="86" parent="87" relname="span">участвующий совместно с группой британских ученых в проекте Stardust, собранные с кометы образцы могут рассказать ученым много интересного о прошлом.\n\n\"Кометы состоят из льда.</segment>
+		<segment id="88" parent="90" relname="joint">Они очень холодные</segment>
+		<segment id="89" parent="90" relname="joint">и были очень холодными с момента их возникновения\",</segment>
+		<segment id="91" parent="90" relname="attribution">- говорит британский ученый.</segment>
+		<segment id="94" parent="96" relname="span">\"Это защищает материал,</segment>
+		<segment id="95" parent="94" relname="elaboration">из которого они образованы,</segment>
+		<segment id="97" parent="96" relname="condition">от любого нагревания.</segment>
+		<segment id="99" parent="101" relname="span">Таким образом, они не менялись с момента их возникновения,</segment>
+		<segment id="100" parent="99" relname="condition">когда возникла и вся Солнечная система.</segment>
+		<segment id="102" parent="101" relname="elaboration">Теперь у нас есть что-то вроде небольшой капсулы времени с информацией о том, как все было 4,5 млрд лет назад\",</segment>
+		<segment id="105" parent="104" relname="attribution">- поясняет Саймон Грин.\n\nИсточник: https://www.newsru.com/world/15Jan2006/star.html\n</segment>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="53" type="multinuc" parent="109" relname="joint"/>
+		<group id="41" type="span" parent="53" relname="joint"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="47" type="multinuc" parent="51" relname="sequence"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="50" type="multinuc" parent="51" relname="sequence"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="82" type="multinuc" parent="108" relname="joint"/>
+		<group id="58" type="span" parent="82" relname="joint"/>
+		<group id="57" type="multinuc" parent="54" relname="elaboration"/>
+		<group id="81" type="multinuc" parent="82" relname="joint"/>
+		<group id="67" type="multinuc" parent="81" relname="joint"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="62" type="span" parent="66" relname="contrast"/>
+		<group id="65" type="span" parent="66" relname="contrast"/>
+		<group id="80" type="multinuc" parent="81" relname="joint"/>
+		<group id="70" type="span" parent="80" relname="joint"/>
+		<group id="79" type="span" parent="80" relname="joint"/>
+		<group id="77" type="span" parent="79" relname="span"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="74" type="multinuc" parent="76" relname="span"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="93" type="multinuc" parent="107" relname="joint"/>
+		<group id="87" type="span" parent="93" relname="joint"/>
+		<group id="92" type="span" parent="93" relname="joint"/>
+		<group id="90" type="multinuc" parent="92" relname="span"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="104" type="span" parent="106" relname="span"/>
+		<group id="98" type="span" parent="104" relname="span"/>
+		<group id="96" type="span" parent="98" relname="span"/>
+		<group id="103" type="span" parent="98" relname="elaboration"/>
+		<group id="101" type="span" parent="103" relname="span"/>
+		<group id="110" type="span"/>
+	</body>
+</rst>

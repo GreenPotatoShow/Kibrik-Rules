@@ -1,0 +1,81 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="35" relname="joint">'Реал', перед 'Локо', устроил показательный разгром 'Мальорке'\n\nМадридский \"Реал\" в преддверии игры против \"Локомотива\" в Лиге чемпионов,</segment>
+		<segment id="34" parent="35" relname="joint">устроил разгром 'Мальорке'.\n\nВидимо, поражение в Лиге чемпионов от 'Милана' дало ту необходимую встряску мадридской команде, в которой она нуждалась.</segment>
+		<segment id="36" parent="38" relname="sequence">Победы в Межконтинентальном кубке и в испанском первенстве говорят сами за себя.</segment>
+		<segment id="37" parent="38" relname="sequence">И уже в среду в том, что 'Реал' вышел из штопора придется убедиться подопечным Юрия Семина.</segment>
+		<segment id="40" parent="42" relname="sequence">Эх, как же сейчас не пожалеть, что календарь свел столичные клубы России и Испании именно в это, благоприятное, для 'Реала' время.\n\n\"Мальорка\" перед этой встречей не проигрывала последние 9 туров</segment>
+		<segment id="41" parent="42" relname="sequence">и вышла на третье место в таблице.</segment>
+		<segment id="43" parent="45" relname="span">То, что 'Мальорка' прогрессирует показал и первый тайм,</segment>
+		<segment id="44" parent="43" relname="elaboration">закончившийся со счетом - 1:1.</segment>
+		<segment id="46" parent="47" relname="contrast">Однако, на вторые 45 минут хозяев просто не хватило.</segment>
+		<segment id="50" parent="93" relname="preparation">'Реал' в буквальном смысле разорвал соперника.</segment>
+		<segment id="51" parent="55" relname="sequence">Сначала Роналдо оформил дубль,</segment>
+		<segment id="52" parent="54" relname="sequence">затем два мяча записал на свой счет Рауль,</segment>
+		<segment id="53" parent="54" relname="sequence">а подвел итог Гути.</segment>
+		<segment id="56" parent="58" relname="joint">\"Реал\" победил</segment>
+		<segment id="57" parent="58" relname="joint">и теперь занимает шестое место в чемпионате,</segment>
+		<segment id="59" parent="60" relname="comparison">напоминает Росбизнесконсалтинг.\n\nОтметим, что 'Реал' играл против своего соперника в сильнейшем составе.</segment>
+		<segment id="61" parent="60" relname="interpretation-evaluation">И это должно настроить Юрия Семина на изучение именно этих футболистов.</segment>
+		<segment id="65" parent="75" relname="span">Российские тренеры, которые, несомненно посетили эту встречу, прежде всего, должны увидеть закономерность второго тайма.</segment>
+		<segment id="66" parent="68" relname="span">Во время первых 45 минут 'Реал' не атакует,</segment>
+		<segment id="67" parent="66" relname="cause-effect">словно выискивая слабые места соперника.</segment>
+		<segment id="69" parent="72" relname="condition">Если команда обнаружит их за это время,</segment>
+		<segment id="70" parent="72" relname="span">то во второй половине следует ждать массированных атак, в стиле Наполеона,</segment>
+		<segment id="71" parent="70" relname="elaboration">славившегося умением подводить решающие силы к решающему месту в решающее время.</segment>
+		<segment id="76" parent="79" relname="condition">Если же соперник 'Королевского клуба' своих слабостей не покажет,</segment>
+		<segment id="77" parent="79" relname="span">то 'Реал' будет и дальше прощупывать своего оппонента,</segment>
+		<segment id="78" parent="77" relname="elaboration">прислушиваясь по ходу матча к указаниям дель Боске.\n\nИтак, 'Локомотиву', прежде всего, стоит продержаться два тайма в одном и том же темпе.</segment>
+		<segment id="81" parent="82" relname="condition">Если хотя бы эта установка Семина сработает</segment>
+		<segment id="82" parent="83" relname="span">(нет сомнений, что таковая будет присутствовать в его предматчевых наставлениях),</segment>
+		<segment id="84" parent="85" relname="span">то с 'Реалом' можно будет сыграть и вничью.</segment>
+		<segment id="86" parent="87" relname="condition">Если же кто-то из игроков 'Локо' не сдюжит против испанских звезд,</segment>
+		<segment id="87" parent="88" relname="span">то Семину придется плохо.\n\nИсточник: https://www.newsru.com/sport/09Dec2002/ligachampreal.html\n</segment>
+		<group id="49" type="span" parent="95" relname="joint"/>
+		<group id="39" type="span" parent="49" relname="span"/>
+		<group id="35" type="multinuc" parent="39" relname="span"/>
+		<group id="38" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="48" type="multinuc" parent="39" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="48" relname="comparison"/>
+		<group id="47" type="multinuc" parent="48" relname="comparison"/>
+		<group id="45" type="span" parent="47" relname="contrast"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="55" type="multinuc" parent="92" relname="preparation"/>
+		<group id="54" type="multinuc" parent="55" relname="sequence"/>
+		<group id="92" type="span" parent="93" relname="span"/>
+		<group id="62" type="span" parent="92" relname="span"/>
+		<group id="60" type="multinuc" parent="62" relname="span"/>
+		<group id="58" type="multinuc" parent="60" relname="comparison"/>
+		<group id="91" type="multinuc" parent="62" relname="elaboration"/>
+		<group id="75" type="span" parent="91" relname="joint"/>
+		<group id="74" type="multinuc" parent="65" relname="elaboration"/>
+		<group id="68" type="span" parent="74" relname="restatement"/>
+		<group id="73" type="span" parent="74" relname="restatement"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="80" type="span" parent="90" relname="span"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="89" type="span" parent="80" relname="concession"/>
+		<group id="85" type="span" parent="89" relname="span"/>
+		<group id="83" type="span" parent="84" relname="condition"/>
+		<group id="88" type="span" parent="85" relname="elaboration"/>
+		<group id="95" type="multinuc"/>
+	</body>
+</rst>

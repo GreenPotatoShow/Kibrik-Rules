@@ -1,0 +1,67 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="28" relname="span">Власти Петербурга назвали текущую стоимость стадиона \"Зенит-Арена\" с учетом дополнительных контрактов\n\nСметная стоимость строительства стадиона \"Зенит-Арена\" на Крестовском острове в Санкт-Петербурге с учетом двух дополнительных контрактов с генподрядчиком на сумму 952 миллиона рублей и 2,078 миллиарда рублей составляет 41,712 миллиарда рублей.</segment>
+		<segment id="27" parent="26" relname="attribution">Об этом сообщили в пресс-службе городского комитета по строительству,</segment>
+		<segment id="29" parent="33" relname="joint">передает РИА \"Новости\".\n\n\"В том числе затраты непосредственно на спортивный комплекс (футбольная составляющая) составляют 35,98 миллиарда рублей,</segment>
+		<segment id="30" parent="32" relname="joint">развитие и благоустройство территории - 4,381 миллиард рублей,</segment>
+		<segment id="31" parent="32" relname="joint">зону контроля доступа (периметр безопасности и безопасность стадиона) - 1,35 миллиарда рублей\",</segment>
+		<segment id="35" parent="34" relname="attribution">- сообщили в комитете.\n\nДополнительные контракты с генподрядчиком строительства стадиона компанией \"Метрострой\" были заключены в декабре 2016 года и в январе 2017 года - на 952 миллиона рублей (на закупку оборудования в зоне контроля) и на 2,078 миллиарда рублей (на выполнение комплекса дополнительных работ, в частности связанных с реализацией требований силовых ведомств).</segment>
+		<segment id="37" parent="42" relname="attribution">В комитете уточнили,</segment>
+		<segment id="38" parent="42" relname="comparison">что новых контрактов с ОАО \"Метрострой\" заключать не планируется.\n\nКомитету по строительству на 2017 год предусмотрены бюджетные средства в рамках подготовки Санкт-Петербурга к проведению в 2018 году чемпионата мира по футболу в сумме 1,148 миллиарда рублей,</segment>
+		<segment id="39" parent="41" relname="sequence">на 2018 год - 803,77 миллиона рублей.\n\nНапомним, \"Зенит-Арену\" начали возводить в 2007 году</segment>
+		<segment id="40" parent="41" relname="sequence">и планировали завершить еще в 2009 году.</segment>
+		<segment id="44" parent="50" relname="span">Но затем сроки сдачи стадиона неоднократно отодвигались.</segment>
+		<segment id="45" parent="49" relname="joint">За эти годы его смета выросла почти в семь раз - с 6,7 до 42 млрд рублей.</segment>
+		<segment id="46" parent="48" relname="span">С августа новым генеральным подрядчиком стройки назначено ОАО \"Метрострой\",</segment>
+		<segment id="47" parent="46" relname="elaboration">которое контролируется Смольным.</segment>
+		<segment id="51" parent="53" relname="span">Прежний подрядчик подал несколько исков к властям города.\n\</segment>
+		<segment id="52" parent="51" relname="purpose">nЧтобы сдать проект в срок,</segment>
+		<segment id="54" parent="55" relname="sequence">летом Смольный утвердил план переброски 2,6 млрд рублей на достройку стадиона со строительства больниц и школ.</segment>
+		<segment id="58" parent="60" relname="same-unit">В конце октября инспекторы ФИФА, попрыгав на новом поле стадиона,</segment>
+		<segment id="59" parent="60" relname="same-unit">пришли к выводу, что играть на нем невозможно.</segment>
+		<segment id="61" parent="66" relname="attribution">Власти города объявили,</segment>
+		<segment id="62" parent="64" relname="span">что для того, чтобы привести арену в соответствие с требованиями УЕФА</segment>
+		<segment id="63" parent="62" relname="elaboration">(которые жестче, чем у ФИФА) к Евро-2020,</segment>
+		<segment id="65" parent="66" relname="span">потребуются дополнительные расходы.\n\n29 декабря 2016 года Госстройнадзор Санкт-Петербурга выдал разрешение на ввод стадиона в эксплуатацию,</segment>
+		<segment id="68" parent="69" relname="contrast">однако после этого были заключены новые контракты на завершение объекта.\n\nИсточник: https://www.newsru.com/realty/30Jan2017/zenit.html\n</segment>
+		<group id="36" type="span" parent="74" relname="joint"/>
+		<group id="34" type="multinuc" parent="36" relname="span"/>
+		<group id="28" type="span" parent="34" relname="joint"/>
+		<group id="33" type="multinuc" parent="34" relname="joint"/>
+		<group id="32" type="multinuc" parent="33" relname="joint"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="43" type="span" parent="73" relname="contrast"/>
+		<group id="42" type="multinuc" parent="43" relname="span"/>
+		<group id="41" type="multinuc" parent="42" relname="comparison"/>
+		<group id="72" type="multinuc" parent="73" relname="contrast"/>
+		<group id="50" type="span" parent="72" relname="joint"/>
+		<group id="49" type="multinuc" parent="44" relname="evidence"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="55" type="multinuc" parent="71" relname="sequence"/>
+		<group id="53" type="span" parent="55" relname="sequence"/>
+		<group id="70" type="span" parent="71" relname="sequence"/>
+		<group id="60" type="multinuc" parent="70" relname="span"/>
+		<group id="69" type="multinuc" parent="60" relname="elaboration"/>
+		<group id="67" type="span" parent="69" relname="contrast"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="64" type="span" parent="65" relname="purpose"/>
+		<group id="74" type="multinuc"/>
+	</body>
+</rst>

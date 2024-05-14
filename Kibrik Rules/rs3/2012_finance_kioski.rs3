@@ -1,0 +1,71 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="76" relname="preparation">Тысячи киоскеров попросили Медведева и Путина вернуть им сигареты и пиво\n\n165 тысяч киоскеров со всей России подписали обращение к президенту и премьер-министру РФ.</segment>
+		<segment id="28" parent="30" relname="span">Поводом для письма,</segment>
+		<segment id="29" parent="28" relname="attribution">говорится в сообщении Коалиции киоскеров,</segment>
+		<segment id="31" parent="32" relname="same-unit">стало резкое ухудшение условий ведения бизнеса,</segment>
+		<segment id="33" parent="37" relname="span">которое ставит под вопрос существование мелкорозничной торговли,</segment>
+		<segment id="34" parent="36" relname="joint">обеспечивающей работой около миллиона россиян</segment>
+		<segment id="35" parent="36" relname="joint">и являющейся важным звеном в деятельности российских производителей продуктов питания,</segment>
+		<segment id="38" parent="42" relname="joint">передает \"Финмаркет\".\n\nПредприниматели выделяют три самых главных дискриминационных фактора: правила размещения нестационарных объектов, дефицит торговых площадей</segment>
+		<segment id="39" parent="41" relname="joint">и как следствие рост арендных ставок,</segment>
+		<segment id="40" parent="41" relname="joint">а также сокращение перечня товаров, разрешенных к реализации.\n\</segment>
+		<segment id="45" parent="50" relname="attribution">nПо мнению киоскеров,</segment>
+		<segment id="46" parent="48" relname="span">если первые два фактора являются мощным административным барьером</segment>
+		<segment id="47" parent="46" relname="purpose">для ведения и тем более развития бизнеса,</segment>
+		<segment id="49" parent="50" relname="span">то последний обернется настоящей катастрофой.\n\nТак, летом текущего года вступил в действие запрет продажи слабоалкогольных напитков в киосках.</segment>
+		<segment id="52" parent="56" relname="span">Кроме того, подготовленный Минздравом проект федерального закона \"Об охране здоровья населения от воздействия окружающего табачного дыма и последствий потребления табака\" запрещает торговлю табачной продукцией в киосках и небольших магазинах площадью менее 50 кв. м.\n\</segment>
+		<segment id="53" parent="54" relname="attribution">nКак отмечают эксперты,</segment>
+		<segment id="54" parent="55" relname="span">сигареты и пиво составляют значительную часть в ассортименте киосков и маленьких магазинов.</segment>
+		<segment id="57" parent="69" relname="contrast">Запрет их продажи сократит выручку малого бизнеса,</segment>
+		<segment id="58" parent="60" relname="span">но самое главное приведет к массовому оттоку покупателей в крупные супермаркеты.\n\</segment>
+		<segment id="59" parent="58" relname="elaboration">nПредприниматели полностью разделяют необходимость борьбы за сокращение потребления алкоголя и табака в России,</segment>
+		<segment id="61" parent="63" relname="span">однако не понимают, почему эта борьба выражается в преференциях для крупных предприятий торговли.\n\n\"Наши клиенты будут продолжать покупать пиво и сигареты, но уже в крупных магазинах,</segment>
+		<segment id="62" parent="61" relname="elaboration">где им будет удобнее приобрести и все остальные товары.</segment>
+		<segment id="64" parent="66" relname="span">В результате это приведет к закрытию нескольких сотен тысяч небольших торговых объектов по всей стране и увольнению огромного числа занятых в этом бизнесе людей</segment>
+		<segment id="65" parent="64" relname="interpretation-evaluation">,\"</segment>
+		<segment id="70" parent="71" relname="attribution">- считает координатор Движения киоскеров Владлен Максимов,</segment>
+		<segment id="71" parent="72" relname="span">чьи слова приводятся в сообщении.\n\nИсточник: https://www.newsru.com/finance/04Oct2012/kioski.html\n</segment>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="44" type="span" parent="76" relname="joint"/>
+		<group id="32" type="multinuc" parent="44" relname="span"/>
+		<group id="30" type="span" parent="32" relname="same-unit"/>
+		<group id="43" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="37" type="span" parent="43" relname="joint"/>
+		<group id="36" type="multinuc" parent="33" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="51" type="span" parent="75" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="span"/>
+		<group id="48" type="span" parent="49" relname="condition"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="56" type="span" parent="74" relname="span"/>
+		<group id="55" type="span" parent="52" relname="elaboration"/>
+		<group id="73" type="span" parent="56" relname="elaboration"/>
+		<group id="69" type="multinuc" parent="73" relname="span"/>
+		<group id="68" type="multinuc" parent="69" relname="contrast"/>
+		<group id="60" type="span" parent="68" relname="contrast"/>
+		<group id="67" type="span" parent="68" relname="contrast"/>
+		<group id="63" type="span" parent="66" relname="cause-effect"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="72" type="span" parent="69" relname="attribution"/>
+		<group id="77" type="span"/>
+	</body>
+</rst>

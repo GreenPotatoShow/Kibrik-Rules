@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="restatement" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="27" relname="preparation">Глава тюменской ГИБДД пойдет в тюрьму по стопам предшественника.</segment>
+		<segment id="19" parent="27" relname="sequence">Он продал коммерсанту стационарный пост ГАИ\n\nНачальник ГИБДД ГУВД Тюменской области полковник Валерий Смолин изобличен в превышении должностных полномочий</segment>
+		<segment id="20" parent="26" relname="sequence">- он продал коммерсанту пост ГАИ.\n\nВ 2002 году,</segment>
+		<segment id="21" parent="25" relname="sequence">занимая должность начальника Заводоуковского ГРОВД,</segment>
+		<segment id="22" parent="24" relname="span">Смолин за 140 тысяч рублей продал директору одной из коммерческих фирм здание стационарного поста ГИБДД,</segment>
+		<segment id="23" parent="22" relname="elaboration">расположенное на федеральной трассе Тюмень-Омск.</segment>
+		<segment id="29" parent="31" relname="restatement">Здание, разумеется, было федеральной собственностью,</segment>
+		<segment id="30" parent="31" relname="restatement">передают \"Автоновости\".\n\</segment>
+		<segment id="32" parent="31" relname="elaboration">nВ отношении полковника возбуждено уголовное дело по статье 286 УК РФ (превышение должностных полномочий).</segment>
+		<segment id="34" parent="38" relname="same-unit">Начальнику Тюменской ГИБДД,</segment>
+		<segment id="35" parent="36" relname="condition">если его признают виновным,</segment>
+		<segment id="36" parent="37" relname="span">грозит от 3 до 10 лет.\n\</segment>
+		<segment id="39" parent="41" relname="joint">nСледствие поручено отделу по расследованию особо важных дел прокуратуры Тюменской области</segment>
+		<segment id="40" parent="41" relname="joint">и взято управлением Генпрокуратуры РФ в УрФО на особый контроль,</segment>
+		<segment id="42" parent="43" relname="joint">сообщили ИТАР-ТАСС в пресс-службе Управления Генпрокуратуры РФ в Уральском федеральном округе.\n\nСреди гаишных начальников Тюменской области случаи превышения должностных полномочий стали закономерностью.\n\nТак, в 2006 году предшественник Смолина на посту начальника Тюменского ГИБДД Игорь Киселев был приговорен к пяти годам колонии за злоупотребление полномочиями, отмывание денежных средств и растрату.</segment>
+		<segment id="45" parent="47" relname="joint">Милиционер легализовал угнанный автомобиль BMW</segment>
+		<segment id="46" parent="47" relname="joint">и присвоил имущество, подлежащее передаче на баланс ГУВД Тюменской области.\n\nИсточник: https://www.newsru.com/russia/16May2007/sale.html\n</segment>
+		<group id="28" type="span" parent="50" relname="joint"/>
+		<group id="27" type="multinuc" parent="28" relname="span"/>
+		<group id="26" type="multinuc" parent="27" relname="sequence"/>
+		<group id="25" type="multinuc" parent="26" relname="sequence"/>
+		<group id="24" type="span" parent="25" relname="sequence"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="33" type="span" parent="49" relname="joint"/>
+		<group id="31" type="multinuc" parent="33" relname="span"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="44" type="multinuc" parent="48" relname="joint"/>
+		<group id="38" type="multinuc" parent="44" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="same-unit"/>
+		<group id="43" type="multinuc" parent="44" relname="joint"/>
+		<group id="41" type="multinuc" parent="43" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="50" type="multinuc"/>
+	</body>
+</rst>

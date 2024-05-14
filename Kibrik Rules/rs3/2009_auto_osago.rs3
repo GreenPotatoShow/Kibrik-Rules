@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="36" relname="span">Вступили в силу новые правила ОСАГО:</segment>
+		<segment id="35" parent="34" relname="elaboration">они экономят время водителей и автоинспекторов\n\</segment>
+		<segment id="37" parent="58" relname="preparation">nВ воскресенье в России вступили в силу новые правила оформления повреждений в ДТП.</segment>
+		<segment id="38" parent="40" relname="span">Теперь в случае,</segment>
+		<segment id="39" parent="38" relname="condition">если сумма ущерба не превышает 25 000 рублей,</segment>
+		<segment id="41" parent="42" relname="purpose">для получения страховых выплат</segment>
+		<segment id="42" parent="43" relname="span">по ОСАГО</segment>
+		<segment id="44" parent="46" relname="span">можно будет обойтись</segment>
+		<segment id="45" parent="44" relname="condition">без участия инспектора ГИБДД,</segment>
+		<segment id="49" parent="57" relname="span">передает Росбалт.\n\nНапомним, что речь идет об авариях,</segment>
+		<segment id="52" parent="56" relname="joint">в которых нет пострадавших, участвовали две машины</segment>
+		<segment id="53" parent="55" relname="span">и у участников ДТП нет разногласий.\n\nТеперь после оформления протокола потерпевший может обратиться напрямую в страховую компанию,</segment>
+		<segment id="54" parent="53" relname="elaboration">с которой у него заключен договор, а не в компанию виновника аварии.\n\</segment>
+		<segment id="60" parent="62" relname="span">nПодобная схема уже работала для всех,</segment>
+		<segment id="61" parent="60" relname="elaboration">кто оформил полис ОСАГО до 1 марта текущего года.</segment>
+		<segment id="63" parent="71" relname="joint">Теперь же она распространилась на всех автовладельцев.\n\nКак считают в ГИБДД,</segment>
+		<segment id="64" parent="70" relname="joint">новые правила помогут значительно сэкономить время водителей, а также и самих автоинспекторов.\n\</segment>
+		<segment id="65" parent="68" relname="cause-effect">nЗа это время страховщики протестировали новую систему</segment>
+		<segment id="66" parent="68" relname="joint">и убедились, что она отлажена.\n\n\"Система прямого возмещения убытков работает полгода,</segment>
+		<segment id="67" parent="68" relname="joint">и она показала, что может работать хорошо.</segment>
+		<segment id="73" parent="76" relname="attribution">Я думаю,</segment>
+		<segment id="74" parent="75" relname="condition">что если сейчас все быстро пойдут пользоваться прямым урегулированием,</segment>
+		<segment id="75" parent="76" relname="span">то ничего страшного не произойдет.</segment>
+		<segment id="78" parent="77" relname="interpretation-evaluation">Сегодня система способна работать хорошо\",</segment>
+		<segment id="80" parent="79" relname="attribution">- считает член президиума РСА Сергей Саркисов.\n\</segment>
+		<segment id="82" parent="85" relname="attribution">nПо мнению заместителя начальника департамента обеспечения безопасности дорожного движения МВД России Владимира Кузина,</segment>
+		<segment id="83" parent="85" relname="joint">нововведения в ОСАГО могут разгрузить автоинспекторов</segment>
+		<segment id="84" parent="85" relname="joint">и позволить им больше времени уделять своим главным обязанностям - организации дорожного движения</segment>
+		<segment id="87" parent="92" relname="attribution">.\n\nКузин уверен,</segment>
+		<segment id="88" parent="91" relname="condition">что если водители начнут оформлять ДТП без ГАИ,</segment>
+		<segment id="89" parent="91" relname="joint">то для сотрудников ГИБДД уменьшится работы,</segment>
+		<segment id="90" parent="91" relname="joint">они будут реже выезжать на место ДТП.\n\nИсточник: https://www.newsru.com/auto/02Nov2009/osago.html\n</segment>
+		<group id="36" type="span" parent="97" relname="preparation"/>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="59" type="span" parent="97" relname="joint"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="48" type="span" parent="58" relname="joint"/>
+		<group id="40" type="span" parent="47" relname="condition"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="43" type="span" parent="46" relname="purpose"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="56" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="72" type="multinuc" parent="96" relname="joint"/>
+		<group id="62" type="span" parent="72" relname="joint"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="69" type="span" parent="70" relname="joint"/>
+		<group id="68" type="multinuc" parent="69" relname="span"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="81" type="span" parent="95" relname="joint"/>
+		<group id="79" type="span" parent="81" relname="span"/>
+		<group id="77" type="span" parent="79" relname="span"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="86" type="span" parent="94" relname="joint"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="93" type="span" parent="94" relname="joint"/>
+		<group id="92" type="span" parent="93" relname="span"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="98" type="span"/>
+	</body>
+</rst>

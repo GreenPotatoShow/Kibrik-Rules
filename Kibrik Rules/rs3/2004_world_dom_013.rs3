@@ -1,0 +1,33 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="10" parent="12" relname="span">В Египте обрушился многоквартирный дом</segment>
+		<segment id="11" parent="10" relname="elaboration">- 5 человек погибли\n\</segment>
+		<segment id="13" parent="17" relname="same-unit">nВ Египте обрушился пятиэтажный многоквартирный дом,</segment>
+		<segment id="14" parent="16" relname="joint">пять человек погибли,</segment>
+		<segment id="15" parent="16" relname="joint">17 получили ранения.</segment>
+		<segment id="18" parent="22" relname="sequence">На месте происшествия работают спасатели,</segment>
+		<segment id="19" parent="20" relname="attribution">передает АР.\n\nПо информации Министерства внутренних дел Египта,</segment>
+		<segment id="20" parent="21" relname="span">здание располагалось в районе города Асван, в 685 км к югу от Каира.</segment>
+		<segment id="24" parent="23" relname="cause-effect">Причины происшествия выясняются.\n\nИсточник: https://www.newsru.com/world/22Jun2004/dom.html\n</segment>
+		<group id="12" type="span" parent="25" relname="preparation"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="23" type="span" parent="25" relname="span"/>
+		<group id="17" type="multinuc" parent="23" relname="span"/>
+		<group id="16" type="multinuc" parent="17" relname="same-unit"/>
+		<group id="22" type="multinuc" parent="17" relname="elaboration"/>
+		<group id="21" type="span" parent="22" relname="sequence"/>
+		<group id="26" type="span"/>
+	</body>
+</rst>

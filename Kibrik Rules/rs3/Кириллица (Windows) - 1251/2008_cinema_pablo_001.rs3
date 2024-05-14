@@ -1,0 +1,48 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="22" relname="span">Акварель Пикассо,</segment>
+		<segment id="19" parent="21" relname="span">где художник изобразил себя в объятиях любовницы,</segment>
+		<segment id="20" parent="19" relname="background">продана за $160 тысяч\n\</segment>
+		<segment id="23" parent="25" relname="span">nРанняя акварельная работа Пабло Пикассо,</segment>
+		<segment id="24" parent="23" relname="elaboration">на которой художник, предположительно, изобразил самого себя обнаженным в объятиях своей первой подруги Одетты,</segment>
+		<segment id="26" parent="25" relname="background">была продана на аукционе Duke's в Дорчестере за 160 тысяч долларов,</segment>
+		<segment id="28" parent="27" relname="attribution">передает ИТАР-ТАСС.\n\nЛуиза Ленуар, известная как Одетта, была, согласно биографам Пикассо, первой любовницей художника.</segment>
+		<segment id="31" parent="37" relname="span">Их роман начался в Париже,</segment>
+		<segment id="32" parent="36" relname="span">когда Пикассо было немногим более 20 лет,</segment>
+		<segment id="33" parent="35" relname="joint">когда он был беден</segment>
+		<segment id="34" parent="35" relname="joint">и еще только мечтал о признании.\n\nКартина, получившая название \"Объятие\", была почти случайно обнаружена в одном из домов на юго-западе Англии вместе с двумя полотнами британских художников Джорджа Стаббса и Альфреда Маннингса.</segment>
+		<segment id="38" parent="39" relname="joint">Имя бывшего владельца работы держится по его собственной просьбе в секрете.\n\nНовым же обладателем картины стала некая дама из Лондона, приобретшая ее для своего мужа.</segment>
+		<segment id="40" parent="42" relname="joint">Работа датируется 1901-1902 годами</segment>
+		<segment id="41" parent="42" relname="joint">и имеет автограф живописца, оставленный с обратной стороны.</segment>
+		<segment id="43" parent="45" relname="comparison">Оценочная стоимость работы составляла как минимум 200 тысяч долларов.\n\nЭксперты рассчитывали,</segment>
+		<segment id="44" parent="45" relname="comparison">что за такую же цену с молотка уйдут работы Джорджа Стаббса и Альфреда Маннингса.</segment>
+		<segment id="46" parent="47" relname="contrast">Однако их картины были проданы за 131,5 тысячу долларов и 90 тысяч долларов соответственно.\n\nИсточник: https://www.newsru.com/cinema/11Apr2008/pablo.html\n</segment>
+		<group id="30" type="multinuc" parent="50" relname="joint"/>
+		<group id="22" type="span" parent="30" relname="joint"/>
+		<group id="21" type="span" parent="18" relname="background"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="27" type="span" parent="29" relname="span"/>
+		<group id="25" type="span" parent="27" relname="span"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="39" type="multinuc" parent="49" relname="joint"/>
+		<group id="37" type="span" parent="39" relname="joint"/>
+		<group id="36" type="span" parent="31" relname="elaboration"/>
+		<group id="35" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="42" type="multinuc" parent="48" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="45" type="multinuc" parent="47" relname="contrast"/>
+		<group id="50" type="multinuc"/>
+	</body>
+</rst>

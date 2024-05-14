@@ -1,0 +1,41 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="43" relname="preparation">Южнокорейский вертолет потерпел крушение в Японском море в районе, являющемся предметом спора между Сеулом и Токио\n\</segment>
+		<segment id="17" parent="21" relname="comparison">nСемь человек числятся пропавшими без вести после крушения южнокорейского противопожарного вертолета в Японском море неподалеку от островов Токто (Такэсима),</segment>
+		<segment id="18" parent="20" relname="joint">расположенных к востоку от Корейского полуострова</segment>
+		<segment id="19" parent="20" relname="joint">и являющихся предметом спора между Сеулом и Токио,</segment>
+		<segment id="22" parent="21" relname="attribution">передает ТАСС со ссылкой на агентство Рёнхап.\n\</segment>
+		<segment id="24" parent="27" relname="attribution">nПо его информации,</segment>
+		<segment id="27" parent="28" relname="span">вертолет EC225 производства компании Airbus потерпел крушение ночью 31 октября, на его борту находились пять спасателей и два гражданина Южной Кореи.</segment>
+		<segment id="29" parent="33" relname="joint">В поисково-спасательной операции принимают участие несколько десятков морских судов и вертолетов.\n\nПрезидент Республики Корея Мун Чжэ Ин отдал распоряжение провести проверку исправности вертолетов этой модели.</segment>
+		<segment id="30" parent="32" relname="joint">До ее окончания предписано воздержаться от их эксплуатации,</segment>
+		<segment id="31" parent="32" relname="joint">сообщила журналистам на брифинге официальный представитель главы государства.\n\nОстрова Токто являются предметом спора между Токио и Сеулом.</segment>
+		<segment id="35" parent="36" relname="attribution">Япония утверждает,</segment>
+		<segment id="36" parent="37" relname="span">что Южная Корея незаконно оккупировала эти территории, включенные в состав Японской империи в 1905 году.</segment>
+		<segment id="38" parent="39" relname="attribution">Южнокорейские власти, как и руководство КНДР, заявляют,</segment>
+		<segment id="39" parent="40" relname="span">что этот крошечный архипелаг всегда входил в состав корейского государства.\n\nИсточник: https://www.newsru.com/world/01Nov2019/helicopter.html\n</segment>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="23" type="span" parent="43" relname="joint"/>
+		<group id="21" type="multinuc" parent="23" relname="span"/>
+		<group id="20" type="multinuc" parent="21" relname="comparison"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="34" type="multinuc" parent="42" relname="joint"/>
+		<group id="28" type="span" parent="34" relname="joint"/>
+		<group id="33" type="multinuc" parent="34" relname="joint"/>
+		<group id="32" type="multinuc" parent="33" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="37" type="span" parent="41" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="44" type="span"/>
+	</body>
+</rst>

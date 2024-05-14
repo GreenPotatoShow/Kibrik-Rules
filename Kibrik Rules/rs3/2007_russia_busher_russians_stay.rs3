@@ -1,0 +1,80 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="34" relname="span">\"Атомстройэкспорт\": Российские специалисты из Бушера не уезжали\n\nВ Иране российские специалисты продолжают работать на строительстве АЭС в Бушере,</segment>
+		<segment id="33" parent="32" relname="attribution">сообщили представители компании \"Атомстройэкспорт\", осуществляющей возведение объекта.</segment>
+		<segment id="35" parent="45" relname="span">Таким образом представители компании дезавуировали сообщения об отзыве российских специалистов,</segment>
+		<segment id="36" parent="40" relname="same-unit">которые,</segment>
+		<segment id="37" parent="38" relname="attribution">как сообщалось ранее,</segment>
+		<segment id="38" parent="39" relname="span">покидают Иран</segment>
+		<segment id="41" parent="42" relname="attribution">.\n\nВместе с тем представители \"Атомстройэкспорта\" пояснили,</segment>
+		<segment id="42" parent="43" relname="span">что речь идет об \"обычной ротации\" работников, которая пpоходит в \"рабочем режиме\",</segment>
+		<segment id="46" parent="45" relname="attribution">передает ИТАР-ТАСС.</segment>
+		<segment id="48" parent="51" relname="attribution">По их словам,</segment>
+		<segment id="49" parent="50" relname="cause-effect">единственным препятствием сейчас является отсутствие финансирования строительства с иранской стороны,</segment>
+		<segment id="50" parent="51" relname="span">что мешает направить на станцию новую партию специалистов из России.\n\nВ свою очередь пресс-секретарь Росатома Сергей Новиков также сказал о \"ротации (российских) специалистов\",</segment>
+		<segment id="53" parent="56" relname="attribution">но признал,</segment>
+		<segment id="54" parent="56" relname="span">что \"из-за того, что Иран не осуществляет финансирования строительства,</segment>
+		<segment id="55" parent="54" relname="cause-effect">в условиях неопределенности специалисты покидают площадку\".\n\</segment>
+		<segment id="59" parent="60" relname="attribution">nПо неофициальным данным,</segment>
+		<segment id="60" parent="61" relname="span">в настоящее время с площадки строительства АЭС в Бушере уже уехали 5-6 процентов российских специалистов.</segment>
+		<segment id="62" parent="72" relname="span">На объекте трудятся около 2 тысяч россиян</segment>
+		<segment id="63" parent="71" relname="joint">.\n\nТакже во вторник МИД России обратил внимание Тегерана на появление в иранских СМИ ряда недружественных и не соответствующих действительности высказываний и публикаций, связанных, прежде всего, с ходом сооружения АЭС в Бушере.\n\nРечь об этом,</segment>
+		<segment id="64" parent="69" relname="attribution">как передает РИА \"Новости\" со ссылкой на департамент информации и печати Министерства иностранных дел (МИД) Российской федерации (РФ),</segment>
+		<segment id="65" parent="69" relname="joint">шла на встрече первого заместителя министра иностранных дел России Андрея Денисова с послом Ирана в Москве Голямрезой Ансари,\n\n\"Подчеркнуто, что существующие проблемы в этой области носят исключительно финансово-технический характер</segment>
+		<segment id="66" parent="68" relname="span">и решаются соответствующими российскими и иранскими организациями переговорным путем в спокойной рабочей обстановке,</segment>
+		<segment id="67" parent="66" relname="condition">без ненужной политизации этого вопроса\",</segment>
+		<segment id="74" parent="75" relname="attribution">- говорится в сообщении МИД РФ.\n\n\"Атомстройэкспорт\" ранее сообщил,</segment>
+		<segment id="75" parent="76" relname="span">что последний платеж от иранского заказчика был переведен в середине января 2007 года.</segment>
+		<segment id="77" parent="85" relname="same-unit">Однако,</segment>
+		<segment id="78" parent="79" relname="attribution">по заверениям иранской стороны,</segment>
+		<segment id="79" parent="80" relname="span">платежи отправляются исправно,</segment>
+		<segment id="81" parent="83" relname="span">включая дополнительный аккредитив.\n\</segment>
+		<segment id="82" parent="81" relname="elaboration">nНа встрече обсуждались также и другие актуальные вопросы двусторонних отношений,</segment>
+		<segment id="86" parent="85" relname="attribution">заявил МИД.\n\nИсточник: https://www.newsru.com/russia/20Mar2007/busher_russians_stay.html\n</segment>
+		<group id="34" type="span" parent="91" relname="preparation"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="47" type="span" parent="91" relname="joint"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="44" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="40" type="multinuc" parent="44" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="same-unit"/>
+		<group id="43" type="span" parent="44" relname="joint"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="58" type="multinuc" parent="90" relname="joint"/>
+		<group id="52" type="span" parent="58" relname="contrast"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="57" type="span" parent="58" relname="contrast"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="73" type="multinuc" parent="89" relname="joint"/>
+		<group id="61" type="span" parent="73" relname="joint"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="71" type="multinuc" parent="62" relname="cause-effect"/>
+		<group id="70" type="span" parent="71" relname="joint"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="76" type="span" parent="88" relname="contrast"/>
+		<group id="87" type="span" parent="88" relname="contrast"/>
+		<group id="85" type="multinuc" parent="87" relname="span"/>
+		<group id="84" type="span" parent="85" relname="same-unit"/>
+		<group id="80" type="span" parent="84" relname="span"/>
+		<group id="83" type="span" parent="80" relname="elaboration"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

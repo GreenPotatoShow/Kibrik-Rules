@@ -1,0 +1,69 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="31" relname="joint">Джамала не приедет на \"Новую волну\" из-за \"специфического отношения\" к российскому ТВ</segment>
+		<segment id="28" parent="30" relname="span">- Крутой\n\nПобедительница \"Евровидения-2016\" Джамала не будет участвовать в \"Новой волне\" в Сочи,</segment>
+		<segment id="29" parent="28" relname="attribution">рассказал на Общественном совете по подготовке к конкурсу продюсер и композитор Игорь Крутой</segment>
+		<segment id="32" parent="34" relname="contrast">.\n\n\"Не приедет,</segment>
+		<segment id="33" parent="34" relname="contrast">но не по нашей вине.</segment>
+		<segment id="36" parent="38" relname="span">Украинские исполнители очень специфически относятся к нашим телевизионным проектам,</segment>
+		<segment id="37" parent="36" relname="concession">хотя деньги зарабатывают в России.</segment>
+		<segment id="39" parent="41" relname="contrast">Вся Москва обвешана афишами украинских исполнителей.</segment>
+		<segment id="40" parent="41" relname="contrast">Но София Ротару приедет\",</segment>
+		<segment id="43" parent="42" relname="attribution">- приводит слова Крутого ТАСС.</segment>
+		<segment id="45" parent="47" relname="span">Ранее стало известно, что организаторы конкурса пригласили в Сочи Стинга.\n\nВ настоящее время украинская певица крымскотатарского происхождения занята съемками клипа на принесшую ей победу песню \"1944\".</segment>
+		<segment id="46" parent="45" relname="attribution">Об этом она рассказала в Instagram.</segment>
+		<segment id="48" parent="73" relname="preparation">Съемки проходят в Буковинских Карпатах.\n\nИздание \"Крым.</segment>
+		<segment id="49" parent="50" relname="attribution">Реалии\" утверждает,</segment>
+		<segment id="50" parent="51" relname="span">что Джамала станет тренером следующего, седьмого по счету сезона украинского шоу \"Голос страны\".</segment>
+		<segment id="52" parent="54" relname="joint">\"Я люблю настоящие голоса</segment>
+		<segment id="53" parent="54" relname="joint">и буду искать на \"Голос страны\" тембры вне времени.</segment>
+		<segment id="55" parent="57" relname="span">\"Голос страны\" - это шоу,</segment>
+		<segment id="56" parent="55" relname="elaboration">благодаря которому в будущем будет рождаться новая музыка и новые голоса.</segment>
+		<segment id="58" parent="60" relname="joint">Я приглашаю всех на кастинги седьмого сезона проекта.</segment>
+		<segment id="59" parent="60" relname="joint">Я буду искать печальные голоса\",</segment>
+		<segment id="61" parent="63" relname="sequence">- пообещала певица.\n\nКонкурс \"Новая волна\" с 2002 года проводился в Юрмале,</segment>
+		<segment id="62" parent="63" relname="sequence">а в 2014 году переехал в Сочи.</segment>
+		<segment id="67" parent="71" relname="span">Одной из причин стал запрет на посещение Латвии,</segment>
+		<segment id="68" parent="70" relname="span">вынесенный некоторым российским артистам.</segment>
+		<segment id="69" parent="68" relname="elaboration">В их числе оказались Иосиф Кобзон и Валерия.\n\nИсточник: https://www.newsru.com/cinema/02Jun2016/newvawe.html\n</segment>
+		<group id="35" type="span" parent="76" relname="preparation"/>
+		<group id="31" type="multinuc" parent="35" relname="span"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="34" type="multinuc" parent="31" relname="cause-effect"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="44" type="span" parent="76" relname="joint"/>
+		<group id="42" type="multinuc" parent="44" relname="span"/>
+		<group id="38" type="span" parent="42" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="47" type="span" parent="75" relname="joint"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="51" type="span" parent="73" relname="span"/>
+		<group id="72" type="multinuc" parent="51" relname="elaboration"/>
+		<group id="66" type="multinuc" parent="72" relname="joint"/>
+		<group id="54" type="multinuc" parent="66" relname="joint"/>
+		<group id="65" type="multinuc" parent="66" relname="joint"/>
+		<group id="57" type="span" parent="65" relname="joint"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="60" type="multinuc" parent="64" relname="sequence"/>
+		<group id="63" type="multinuc" parent="64" relname="sequence"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="70" type="span" parent="67" relname="elaboration"/>
+		<group id="77" type="span"/>
+	</body>
+</rst>

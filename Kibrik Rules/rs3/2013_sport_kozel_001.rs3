@@ -1,0 +1,90 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="39" parent="42" relname="attribution">В \"Тереке\" гадают,</segment>
+		<segment id="40" parent="42" relname="span">можно ли назвать еще одного арбитра \"продажным козлом\"\n\nПрезидент грозненского \"Терека\" Магомед Даудов обвинил в предвзятости судью Сергея Карасева,</segment>
+		<segment id="41" parent="40" relname="elaboration">который 31 марта обслуживал матч Премьер-лиги с петербургским \"Зенитом\" (0:3).\n\</segment>
+		<segment id="44" parent="45" relname="attribution">nПо мнению Даудова,</segment>
+		<segment id="45" parent="46" relname="span">арбитраж Карасева повлиял на итоговый результат.</segment>
+		<segment id="47" parent="49" relname="span">В частности, недовольство президента клуба вызвало удаление защитника грозненцев Федора Кудряшова.\n\n\"Арбитраж Карасева полностью повлиял на итоговый результат,</segment>
+		<segment id="48" parent="47" relname="attribution">- цитирует Даудова пресс-служба \"Терека\".</segment>
+		<segment id="51" parent="52" relname="cause-effect">- Очевидно, что нога Кудряшова была впереди ноги Александра Кержакова,</segment>
+		<segment id="52" parent="53" relname="span">соответственно, не было нарушения правил.</segment>
+		<segment id="55" parent="56" relname="attribution">Повтор с боковой линии показывает,</segment>
+		<segment id="56" parent="57" relname="span">что Кержаков, судя по всему, находился в положении \"вне игры\".</segment>
+		<segment id="58" parent="60" relname="joint">Более того, вратарь успевал к мячу,</segment>
+		<segment id="59" parent="60" relname="joint">и говорить о \"фоле последней надежды\" некорректно.</segment>
+		<segment id="62" parent="65" relname="attribution">Карасев всеми своими действиями показал,</segment>
+		<segment id="63" parent="65" relname="joint">что он не видел ситуацию</segment>
+		<segment id="64" parent="65" relname="joint">и не разобрался в ней.</segment>
+		<segment id="67" parent="68" relname="attribution">Он даже карточку показал сначала Мартину Йиранеку,</segment>
+		<segment id="68" parent="69" relname="span">что говорит о том, что в ситуации он не разобрался.</segment>
+		<segment id="71" parent="74" relname="attribution">Игрок \"Зенита\" Аксель Витсель подчеркнул,</segment>
+		<segment id="72" parent="74" relname="span">что красная карточка игроку \"Терека\" явилась ключевым моментом матча\".\n\nДаудов считает,</segment>
+		<segment id="73" parent="72" relname="interpretation-evaluation">что Карасев в матчах \"Терека\" всегда допускает ошибки в пользу соперника.</segment>
+		<segment id="76" parent="80" relname="span">\"Так было в Санкт-Петербурге в 2010 году,</segment>
+		<segment id="77" parent="79" relname="joint">когда он назначил необоснованный пенальти в наши ворота</segment>
+		<segment id="78" parent="79" relname="joint">и не засчитал гол Гвазавы.</segment>
+		<segment id="81" parent="85" relname="span">Так было в первом туре текущего чемпионата,</segment>
+		<segment id="82" parent="83" relname="cause-effect">когда он не назначил очевидный пенальти</segment>
+		<segment id="83" parent="84" relname="span">за нарушение против Иванова\",</segment>
+		<segment id="86" parent="85" relname="attribution">- напомнил он</segment>
+		<segment id="89" parent="91" relname="span">.\n\nПрезидент \"Терека\" считает очень низким уровень российского судейства,</segment>
+		<segment id="90" parent="89" relname="attribution">напомнив,</segment>
+		<segment id="92" parent="100" relname="span">что ФИФА не включила в список кандидатов на обслуживание матчей ЧМ-2014 ни одного отечественного арбитра.\n\n\"После очередного случая \"квалифицированного\" судейства у меня возникает вопрос к господину Розетти:</segment>
+		<segment id="93" parent="95" relname="joint">как мне называть человека, который предвзятыми действиями влияет на результат</segment>
+		<segment id="94" parent="95" relname="joint">и издевается над болельщиками - уважаемым Сергеем Геннадьевичем или продажным козлом?\" - интересуется Даудов.\n\nМатч с \"Зенитом\" был перенесен в Махачкалу</segment>
+		<segment id="96" parent="98" relname="span">по решению Контрольно-дисциплинарного комитета РФС,</segment>
+		<segment id="97" parent="96" relname="elaboration">который наказал \"Терек\" за инцидент, произошедший 17 марта в матче 21-го тура с казанским \"Рубином\" (0:0).</segment>
+		<segment id="104" parent="106" relname="sequence">После того как главный арбитр встречи Михаил Вилков на последних минутах удалил защитника хозяев Ризвана Уциева, на стадионе по громкой связи прозвучало оскорбление рефери.</segment>
+		<segment id="105" parent="106" relname="sequence">Высказывания в адрес Вилкова, как выяснилось позже, прозвучали со стороны главы Чеченской Республики Рамзана Кадырова.\n\nИсточник: https://www.newsru.com/sport/02Apr2013/kozel.html\n</segment>
+		<group id="43" type="span" parent="112" relname="preparation"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="112" type="multinuc" parent="113" relname="span"/>
+		<group id="54" type="multinuc" parent="112" relname="joint"/>
+		<group id="50" type="span" parent="54" relname="joint"/>
+		<group id="46" type="span" parent="50" relname="span"/>
+		<group id="49" type="span" parent="46" relname="elaboration"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="111" type="span" parent="112" relname="joint"/>
+		<group id="61" type="multinuc" parent="110" relname="preparation"/>
+		<group id="57" type="span" parent="61" relname="joint"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="70" type="span" parent="109" relname="preparation"/>
+		<group id="66" type="span" parent="70" relname="span"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="69" type="span" parent="66" relname="elaboration"/>
+		<group id="109" type="span" parent="110" relname="span"/>
+		<group id="75" type="span" parent="108" relname="preparation"/>
+		<group id="74" type="span" parent="75" relname="span"/>
+		<group id="108" type="multinuc" parent="109" relname="span"/>
+		<group id="88" type="multinuc" parent="108" relname="sequence"/>
+		<group id="80" type="span" parent="88" relname="joint"/>
+		<group id="79" type="multinuc" parent="76" relname="elaboration"/>
+		<group id="87" type="span" parent="88" relname="joint"/>
+		<group id="85" type="span" parent="87" relname="span"/>
+		<group id="84" type="span" parent="81" relname="elaboration"/>
+		<group id="107" type="multinuc" parent="108" relname="sequence"/>
+		<group id="101" type="span" parent="107" relname="joint"/>
+		<group id="91" type="span" parent="100" relname="attribution"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="99" type="span" parent="92" relname="elaboration"/>
+		<group id="95" type="multinuc" parent="99" relname="span"/>
+		<group id="98" type="span" parent="95" relname="elaboration"/>
+		<group id="106" type="multinuc" parent="107" relname="joint"/>
+		<group id="113" type="span"/>
+	</body>
+</rst>

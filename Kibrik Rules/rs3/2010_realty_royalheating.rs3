@@ -1,0 +1,54 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="58" relname="preparation">Скандал в Букингемском дворце: королева хотела его отопить на деньги бедных\n\</segment>
+		<segment id="24" parent="28" relname="span">nВ Великобритании обнародованы скандальные документы,</segment>
+		<segment id="25" parent="26" relname="attribution">из которых следует,</segment>
+		<segment id="26" parent="27" relname="span">что в 2004 году правительство Великобритании отказало Королевскому двору в просьбе выдать деньги из фонда помощи бедным на отопление Букингемского дворца и Виндзорского замка,</segment>
+		<segment id="29" parent="31" relname="joint">сообщает InoPressa.ru со ссылкой на The Independent.\n\nВ 2004 году затраты на газ и электричество подскочили на 50%</segment>
+		<segment id="30" parent="31" relname="joint">и достигли \"непосильной\" для королевы суммы в более чем 1 млн фунтов ежегодно.</segment>
+		<segment id="33" parent="37" relname="span">По этой причине ее помощники обратились к ответственным лицам с вопросом,</segment>
+		<segment id="34" parent="36" relname="span">имеют ли они право подать заявку на участие в программе Министерства по делам окружающей среды,</segment>
+		<segment id="35" parent="34" relname="elaboration">в рамках которой 60 млн фунтов распределяются между малоимущими гражданами и социальными учреждениями.</segment>
+		<segment id="38" parent="40" relname="span">\"Поразительно, но предполагаемая подача заявки не вызвала сопротивления со стороны правительства\",</segment>
+		<segment id="39" parent="38" relname="attribution">- удивляется автор публикации Роберт Веркаик.\n\</segment>
+		<segment id="43" parent="45" relname="span">nВ итоге чиновники все же отказали Елизавете II в ее просьбе,</segment>
+		<segment id="44" parent="43" relname="condition">мотивировав свое решение \"опасениями,</segment>
+		<segment id="46" parent="45" relname="interpretation-evaluation">что это превратится в пиар-катастрофу\" как для правительства, так и для самой королевы.</segment>
+		<segment id="48" parent="49" relname="attribution">Сотрудник профильного ведомства \"дипломатично разъяснил,</segment>
+		<segment id="49" parent="50" relname="span">что деньги предназначены для людей с \"низким доходом\".</segment>
+		<segment id="52" parent="54" relname="span">На сегодняшний день содержание монаршего семейства обходится британским налогоплательщикам в 38 млн фунтов,</segment>
+		<segment id="53" parent="52" relname="attribution">указывает в заключение The Independent.\n\nНапомним, что в прошлом году Елизавета II вынуждена была пойти на необычное новшество в поисках дополнительных доходов королевской семьи.:</segment>
+		<segment id="55" parent="56" relname="joint">она распорядилась проводить ночные экскурсии по своей лондонской резиденции.\n\nИсточник: https://www.newsru.com/realty/24Sep2010/royalheating.html\n</segment>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="42" type="multinuc" parent="58" relname="joint"/>
+		<group id="32" type="multinuc" parent="42" relname="joint"/>
+		<group id="28" type="span" parent="32" relname="comparison"/>
+		<group id="27" type="span" parent="24" relname="elaboration"/>
+		<group id="31" type="multinuc" parent="32" relname="comparison"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="37" type="span" parent="41" relname="span"/>
+		<group id="36" type="span" parent="33" relname="elaboration"/>
+		<group id="40" type="span" parent="37" relname="interpretation-evaluation"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="51" type="span" parent="57" relname="joint"/>
+		<group id="47" type="span" parent="51" relname="span"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="50" type="span" parent="47" relname="elaboration"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="54" type="span" parent="56" relname="joint"/>
+		<group id="59" type="span"/>
+	</body>
+</rst>

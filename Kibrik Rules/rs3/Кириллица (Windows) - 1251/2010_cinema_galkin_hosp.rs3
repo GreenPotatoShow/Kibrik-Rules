@@ -1,0 +1,81 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="36" relname="span">Актер Владислав Галкин госпитализирован\n\nИзвестный российский актер Владислав Галкин был помещен в пятницу в больницу имени Боткина</segment>
+		<segment id="33" parent="35" relname="span">- по неуточненным пока данным,</segment>
+		<segment id="34" parent="33" relname="cause-effect">из-за серьезных проблем с печенью и поджелудочной железой.</segment>
+		<segment id="37" parent="40" relname="attribution">Как сообщает Life News,</segment>
+		<segment id="38" parent="40" relname="span">Галкин находится в 50-м отделении хирургии,</segment>
+		<segment id="39" parent="38" relname="elaboration">которое специализируется на болезнях именно такого рода.\n\</segment>
+		<segment id="42" parent="43" relname="attribution">nПо словам врачей,</segment>
+		<segment id="43" parent="44" relname="span">актер чувствует себя нормально,</segment>
+		<segment id="45" parent="46" relname="contrast">однако необходимость в его госпитализации все-таки есть.</segment>
+		<segment id="47" parent="57" relname="joint">Он жаловался на сильные боли в области живота</segment>
+		<segment id="48" parent="50" relname="span">и пройдет обследование,</segment>
+		<segment id="49" parent="48" relname="purpose">по итогам которого ему назначат лечение</segment>
+		<segment id="51" parent="54" relname="cause-effect">.\n\nПортал не исключает,</segment>
+		<segment id="52" parent="54" relname="span">что проблемы со здоровьем у Владислава Галкина могли возникнуть</segment>
+		<segment id="53" parent="52" relname="cause-effect">из-за злоупотребления алкоголем.</segment>
+		<segment id="58" parent="63" relname="preparation">Ранее практически по той же причине у актера возникли проблемы с законом.\n\</segment>
+		<segment id="59" parent="63" relname="joint">nНапомним, в декабре Пресненский суд Москвы приговорил Галкина к одному году и двум месяцам заключения условно с испытательным сроком полтора года,</segment>
+		<segment id="60" parent="62" relname="span">признав его виновным в хулиганстве и сопротивлении сотрудникам милиции.\n\nПо данным следствия,</segment>
+		<segment id="61" parent="60" relname="background">в ночь на 24 июля 2009 года Галкин устроил драку в кафе на Садово-Кудринской улице Москвы.</segment>
+		<segment id="65" parent="66" relname="cause-effect">В ответ на отказ бармена налить ему виски</segment>
+		<segment id="66" parent="67" relname="span">актер взял стул,</segment>
+		<segment id="68" parent="74" relname="sequence">ударил им о барную стойку,</segment>
+		<segment id="69" parent="73" relname="joint">после чего выстрелил из газового пистолета по бутылкам,</segment>
+		<segment id="70" parent="72" relname="joint">продолжая требовать выпивку</segment>
+		<segment id="71" parent="72" relname="joint">и угрожая применить оружие.</segment>
+		<segment id="76" parent="80" relname="joint">Когда в бар прибыл участковый уполномоченный ОВД по Пресненскому району</segment>
+		<segment id="77" parent="79" relname="sequence">и потребовал от Галкина прекратить дебош,</segment>
+		<segment id="78" parent="79" relname="sequence">актер ударил его кулаком в голову.\n\nУголовное дело рассматривалось в особом порядке,</segment>
+		<segment id="81" parent="82" relname="restatement">то есть минуя стадию судебного следствия,</segment>
+		<segment id="83" parent="85" relname="joint">поскольку обвиняемый признал свою вину</segment>
+		<segment id="84" parent="85" relname="joint">и раскаялся.\n\nИсточник: https://www.newsru.com/cinema/08Jan2010/galkin_hosp.html\n</segment>
+		<group id="36" type="span" parent="91" relname="preparation"/>
+		<group id="35" type="span" parent="32" relname="elaboration"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="41" type="span" parent="91" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="46" type="multinuc" parent="89" relname="preparation"/>
+		<group id="44" type="span" parent="46" relname="contrast"/>
+		<group id="89" type="multinuc" parent="90" relname="span"/>
+		<group id="57" type="multinuc" parent="89" relname="sequence"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="50" type="span" parent="56" relname="span"/>
+		<group id="55" type="span" parent="50" relname="cause-effect"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="88" type="multinuc" parent="89" relname="sequence"/>
+		<group id="64" type="span" parent="88" relname="sequence"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="87" type="span" parent="88" relname="sequence"/>
+		<group id="75" type="multinuc" parent="87" relname="span"/>
+		<group id="67" type="span" parent="75" relname="sequence"/>
+		<group id="74" type="multinuc" parent="75" relname="sequence"/>
+		<group id="73" type="multinuc" parent="74" relname="sequence"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="86" type="span" parent="75" relname="elaboration"/>
+		<group id="82" type="multinuc" parent="86" relname="span"/>
+		<group id="80" type="multinuc" parent="82" relname="restatement"/>
+		<group id="79" type="multinuc" parent="80" relname="joint"/>
+		<group id="85" type="multinuc" parent="82" relname="cause-effect"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

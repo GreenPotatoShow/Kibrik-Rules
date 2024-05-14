@@ -1,0 +1,38 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="16" relname="span">Сообщество \"Пора валить\": \"Надо валить или исповедь русофоба\"\n\n\"В больших городах атмосфера озлобленности просто повсюду</segment>
+		<segment id="15" parent="14" relname="interpretation-evaluation">и проявляется повсеместно.</segment>
+		<segment id="17" parent="19" relname="joint">Начальство срывается на подчинённых,</segment>
+		<segment id="18" parent="19" relname="joint">подчинённые отыгрываются на тех кто пониже.</segment>
+		<segment id="21" parent="27" relname="joint">Педагоги кричат на учеников,</segment>
+		<segment id="22" parent="26" relname="joint">ученики избивают более младших учеников,</segment>
+		<segment id="23" parent="25" relname="joint">пожилые люди вымещают своё недовольство жизнью на молодых,</segment>
+		<segment id="24" parent="25" relname="joint">мужья на жён, матери на детей, полицейские на задержанных, мелкие чиновники на простых граждан...</segment>
+		<segment id="28" parent="36" relname="span">В общем, те кто сильнее отыгрываются на тех, кто слабее.\n\nНо наиболее ярко это проявляется... в Интернете.</segment>
+		<segment id="29" parent="35" relname="span">Нигде кроме как в Рунете я не встречал такого количества негатива.</segment>
+		<segment id="30" parent="34" relname="span">Читая форумы, комментарии в блогах и сообществах я всегда удивлялся:</segment>
+		<segment id="31" parent="32" relname="solutionhood">откуда в русских столько злобы и ненависти?</segment>
+		<segment id="32" parent="33" relname="span">Примеров тому бесчисленное множество, например, комментарии, которые несомненно последуют к этой записи.\"\n\nИсточник: https://www.newsru.com/blog/21May2013/rusofob.html\n</segment>
+		<group id="20" type="span" parent="37" relname="solutionhood"/>
+		<group id="16" type="span" parent="20" relname="span"/>
+		<group id="19" type="multinuc" parent="16" relname="elaboration"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="27" type="multinuc" parent="37" relname="span"/>
+		<group id="26" type="multinuc" parent="27" relname="joint"/>
+		<group id="25" type="multinuc" parent="26" relname="joint"/>
+		<group id="36" type="span" parent="27" relname="interpretation-evaluation"/>
+		<group id="35" type="span" parent="28" relname="elaboration"/>
+		<group id="34" type="span" parent="29" relname="elaboration"/>
+		<group id="33" type="span" parent="30" relname="elaboration"/>
+		<group id="38" type="span"/>
+	</body>
+</rst>

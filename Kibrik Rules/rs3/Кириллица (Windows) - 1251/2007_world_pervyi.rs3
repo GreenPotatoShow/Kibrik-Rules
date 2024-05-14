@@ -1,0 +1,54 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="52" relname="preparation">Появился первый обвиняемый по делу о неудавшихся терактах в Лондоне и Глазго\n\nВ деле о несостоявшихся терактах в Лондоне и Глазго в ближайшее время появится первый обвиняемый.</segment>
+		<segment id="20" parent="24" relname="joint">В пятницу Королевская прокурорская служба официально рекомендовала полиции предъявить иракскому медику Билялю Абдулле обвинения в участии в заговоре с целью произвести взрыв</segment>
+		<segment id="21" parent="23" relname="span">.\n\nАбдулла был непосредственным участникам попытки теракта в аэропорту Глазго,</segment>
+		<segment id="22" parent="21" relname="elaboration">когда охваченный пламенем джип Cherokee пытался протаранить стеклянный вход в здание пассажирского терминала.</segment>
+		<segment id="25" parent="27" relname="span">В машине находились баллоны с газом,</segment>
+		<segment id="26" parent="25" relname="elaboration">которые, к счастью, не взорвались.\n\nВодитель загоревшегося джипа, ливанец Халид Ахмед получил тяжелейшие ожоги</segment>
+		<segment id="28" parent="30" relname="span">и сейчас находится в критическом состоянии в клинике Royal Alexandra Hospital в шотландском городе Пейсли.\n\n27-летний Абдулла,</segment>
+		<segment id="29" parent="28" relname="background">работавший в этом лечебном учреждении временным исполняющим обязанности врача,</segment>
+		<segment id="31" parent="32" relname="same-unit">является вторым исполнителем попытки теракта.</segment>
+		<segment id="34" parent="36" relname="sequence">Он практически не пострадал в этом инциденте.\n\nВ 2004 году Абдулла получил диплом врача в Багдаде,</segment>
+		<segment id="35" parent="36" relname="sequence">а затем переехал в Великобританию.</segment>
+		<segment id="39" parent="45" relname="joint">Сообщается, что обвинение будет официально предъявлено Билялю Абдулле в субботу во время судебного заседания,</segment>
+		<segment id="40" parent="42" relname="span">передает ИТАР-ТАСС.\n\nОстальные задержанные по этому делу остаются под стражей,</segment>
+		<segment id="41" parent="40" relname="condition">ожидая решения о предъявлении им обвинения прокуратурой,</segment>
+		<segment id="43" parent="42" relname="attribution">заявила представитель этого ведомства Сюзан Хемминг.</segment>
+		<segment id="47" parent="48" relname="attribution">По ее словам,</segment>
+		<segment id="48" parent="49" relname="span">у следствия \"веские доказательства\" для предъявления обвинений Абдулле в подготовке взрывов 29 и 30 июня в Лондоне и Глазго,</segment>
+		<segment id="50" parent="49" relname="attribution">сообщает SkyNews.\n\nИсточник: https://www.newsru.com/world/07Jul2007/pervyi.html\n</segment>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="46" type="multinuc" parent="52" relname="span"/>
+		<group id="38" type="multinuc" parent="46" relname="joint"/>
+		<group id="24" type="multinuc" parent="38" relname="sequence"/>
+		<group id="23" type="span" parent="24" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="sequence"/>
+		<group id="33" type="multinuc" parent="37" relname="span"/>
+		<group id="27" type="span" parent="33" relname="joint"/>
+		<group id="32" type="multinuc" parent="33" relname="joint"/>
+		<group id="30" type="span" parent="32" relname="same-unit"/>
+		<group id="36" type="multinuc" parent="33" relname="background"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="42" type="span" parent="44" relname="span"/>
+		<group id="51" type="span" parent="46" relname="interpretation-evaluation"/>
+		<group id="49" type="span" parent="51" relname="span"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

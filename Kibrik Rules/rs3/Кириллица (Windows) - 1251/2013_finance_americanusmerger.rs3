@@ -1,0 +1,98 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="41" parent="43" relname="span">Суд в США одобрил слияние American Airlines и US Airways\n\nФедеральный суд в США одобрил план выхода из банкротства AMR Corp., владельца авиакомпании American Airlines,</segment>
+		<segment id="42" parent="41" relname="cause-effect">за счет слияния с US Airways Group Inc.,</segment>
+		<segment id="44" parent="43" relname="attribution">сообщает агентство \"Интерфакс\".\n\nКак пишет газета The Wall Street Journal со ссылкой на источник,</segment>
+		<segment id="46" parent="50" relname="same-unit">знакомый с ситуацией,</segment>
+		<segment id="47" parent="49" relname="span">единственным препятствием на пути к завершению слияния</segment>
+		<segment id="48" parent="47" relname="elaboration">является поданный Минюстом США иск,</segment>
+		<segment id="51" parent="53" relname="span">требующий заблокировать сделку по объединению авиакомпаний</segment>
+		<segment id="52" parent="51" relname="cause-effect">в связи с нарушением антимонопольного законодательства</segment>
+		<segment id="55" parent="60" relname="attribution">.\n\nМинюст полагает,</segment>
+		<segment id="56" parent="60" relname="span">что сделка, в результате которой будет создана крупнейшая мировая авиакомпания,</segment>
+		<segment id="57" parent="59" relname="joint">нарушает антимонопольное законодательство США</segment>
+		<segment id="58" parent="59" relname="joint">и приведет к ослаблению конкуренции в отрасли, а также повышению цен для потребителей.\n\</segment>
+		<segment id="64" parent="70" relname="restatement">nОдобрение сделки судом по банкротствам означает,</segment>
+		<segment id="65" parent="69" relname="joint">что в случае, если AMR и US Airways выиграют суд по иску Минюста,</segment>
+		<segment id="66" parent="68" relname="joint">или урегулируют этот вопрос с правительством,</segment>
+		<segment id="67" parent="68" relname="joint">их план по слиянию вступит в силу.\n\</segment>
+		<segment id="72" parent="76" relname="span">nОдно из условий соглашения между авиакомпаниями предполагает,</segment>
+		<segment id="73" parent="75" relname="span">что любая из сторон может отказаться от сделки в случае,</segment>
+		<segment id="74" parent="73" relname="condition">если регуляторы не одобрят ее до 17 декабря.</segment>
+		<segment id="77" parent="78" relname="attribution">Тем не менее, обе компании заявляли,</segment>
+		<segment id="78" parent="79" relname="span">что готовы отодвинуть эту дату,</segment>
+		<segment id="80" parent="79" relname="elaboration">отмечает источник\n\n6,7 тыс. перелетов в день\n\</segment>
+		<segment id="83" parent="85" relname="span">nНапомним, слияние корпорации US Airways Group и обанкротившейся AMR Corp.,</segment>
+		<segment id="84" parent="83" relname="elaboration">подразделением которой является American Airlines Inc,</segment>
+		<segment id="86" parent="87" relname="same-unit">должно завершиться в третьем квартале 2013 года.</segment>
+		<segment id="88" parent="100" relname="span">Сделка уже получила одобрение Еврокомиссии,</segment>
+		<segment id="89" parent="92" relname="attribution">пришедшей к выводу,</segment>
+		<segment id="90" parent="92" relname="span">что трансатлантические маршруты,</segment>
+		<segment id="91" parent="90" relname="cause-effect">за исключением одного, не будут затронуты объединением американских компаний</segment>
+		<segment id="94" parent="96" relname="span">и на них сохранится достаточно сильная конкуренция со стороны других авиаперевозчиков.\n\nПо условиям сделки,</segment>
+		<segment id="95" parent="94" relname="elaboration">акционеры US Airways получат 28% объединенной компании,</segment>
+		<segment id="97" parent="96" relname="elaboration">оставшиеся 72% - акционеры AMR и кредиторы находящейся с конца 2011 года в процессе банкротства American Airlines.</segment>
+		<segment id="102" parent="106" relname="span">Объединенная компания сохранит наименование American Airlines и штаб-квартиру в Форт-Уорте (штат Техас).</segment>
+		<segment id="103" parent="105" relname="joint">Слияние приведет к созданию крупнейшей в мире авиакомпании с капитализацией порядка 11 млрд долларов.\n\nФлот будущего авиаперевозчика-гаганта превысит 900 самолетов,</segment>
+		<segment id="104" parent="105" relname="joint">суммарно они будут выполнять более 6,7 тыс. перелетов по 336 направлениям в 56 странах в день.</segment>
+		<segment id="107" parent="106" relname="elaboration">Персонал обновленной American Airlines составит более 95 тысяч человек.</segment>
+		<segment id="109" parent="113" relname="span">Компания также намерена сохранить все хабы,</segment>
+		<segment id="110" parent="112" relname="joint">обслуживающие в настоящее время American Airlines и US Airways.\n\nПредседатель совета директоров и главный исполнительный директор US Airways Даг Паркер возглавит объединенную компанию</segment>
+		<segment id="111" parent="112" relname="joint">и войдет в совет директоров.</segment>
+		<segment id="114" parent="115" relname="joint">Председатель совета директоров, президент и CEO American Airlines Томас Хортон будет возглавлять совет директоров компании до первого годового собрания акционеров.\n\nИсточник: https://www.newsru.com/finance/13Sep2013/americanusmerger.html\n</segment>
+		<group id="71" type="span" parent="119" relname="joint"/>
+		<group id="63" type="span" parent="71" relname="span"/>
+		<group id="45" type="span" parent="62" relname="preparation"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="54" type="span" parent="62" relname="joint"/>
+		<group id="50" type="multinuc" parent="54" relname="span"/>
+		<group id="49" type="span" parent="50" relname="same-unit"/>
+		<group id="53" type="span" parent="50" relname="elaboration"/>
+		<group id="61" type="span" parent="62" relname="joint"/>
+		<group id="60" type="span" parent="61" relname="span"/>
+		<group id="59" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="70" type="multinuc" parent="63" relname="elaboration"/>
+		<group id="69" type="multinuc" parent="70" relname="restatement"/>
+		<group id="68" type="multinuc" parent="69" relname="joint"/>
+		<group id="118" type="multinuc" parent="119" relname="joint"/>
+		<group id="82" type="multinuc" parent="118" relname="joint"/>
+		<group id="76" type="span" parent="82" relname="contrast"/>
+		<group id="75" type="span" parent="72" relname="elaboration"/>
+		<group id="81" type="span" parent="82" relname="contrast"/>
+		<group id="79" type="span" parent="81" relname="span"/>
+		<group id="117" type="multinuc" parent="118" relname="joint"/>
+		<group id="101" type="multinuc" parent="117" relname="joint"/>
+		<group id="87" type="multinuc" parent="101" relname="joint"/>
+		<group id="85" type="span" parent="87" relname="same-unit"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="99" type="multinuc" parent="88" relname="elaboration"/>
+		<group id="93" type="span" parent="99" relname="joint"/>
+		<group id="92" type="span" parent="93" relname="span"/>
+		<group id="98" type="span" parent="99" relname="joint"/>
+		<group id="96" type="span" parent="98" relname="span"/>
+		<group id="116" type="multinuc" parent="117" relname="joint"/>
+		<group id="108" type="span" parent="116" relname="joint"/>
+		<group id="106" type="span" parent="108" relname="span"/>
+		<group id="105" type="multinuc" parent="102" relname="elaboration"/>
+		<group id="115" type="multinuc" parent="116" relname="joint"/>
+		<group id="113" type="span" parent="115" relname="joint"/>
+		<group id="112" type="multinuc" parent="109" relname="elaboration"/>
+		<group id="119" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,70 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="28" parent="30" relname="span">Глава Hermitage Capital подал уголовный иск против Danske Bank,</segment>
+		<segment id="29" parent="28" relname="background">подозреваемого в отмывании денег из РФ,</segment>
+		<segment id="31" parent="33" relname="span">узнала Financial Times\n\nОснователь и глава фонда Hermitage Capital Уильям Браудер подал уголовный иск против крупнейшего датского банка Danske Bank,</segment>
+		<segment id="32" parent="31" relname="background">который подозревается в отмывании денег из России.</segment>
+		<segment id="35" parent="34" relname="attribution">Об этом сообщает деловая газета Financial Times</segment>
+		<segment id="37" parent="39" relname="sequence">.\n\nПо ее данным,</segment>
+		<segment id="38" parent="39" relname="sequence">22-страничный документ был подан Браудером государственному прокурору Дании по особо важным экономическим и интернациональным преступлениям в среду вечером, 11 июля.\n\</segment>
+		<segment id="40" parent="45" relname="attribution">nВ нем утверждается,</segment>
+		<segment id="41" parent="43" relname="span">что как минимум 190 счетов, открытых в банке,</segment>
+		<segment id="42" parent="41" relname="purpose">использовались для отмывания 203 млн долларов из российского бюджета</segment>
+		<segment id="44" parent="45" relname="same-unit">в рамках хищения,</segment>
+		<segment id="47" parent="53" relname="span">раскрытого юристом фонда Сергеем Магнитским,</segment>
+		<segment id="48" parent="51" relname="attribution">говорится в статье,</segment>
+		<segment id="51" parent="52" relname="span">перевод которой публикует InoPressa.\n\nСогласно иску Браудера, изначально в эстонском подразделении Danske были открыты 16 счетов подставных компаний.</segment>
+		<segment id="55" parent="57" relname="joint">На них было переведено 203 млн долларов, связанных с хищением.</segment>
+		<segment id="56" parent="57" relname="joint">Далее деньги с этих счетов были переведены на другие пять счетов в Danske.</segment>
+		<segment id="58" parent="60" relname="sequence">Затем между этими 21 счетами и другими 169 производились дальнейшие транзакции.\n\nВ заявлении Браудера утверждается,</segment>
+		<segment id="59" parent="60" relname="sequence">данные переводы были осуществлены в 2007-2015 годах.</segment>
+		<segment id="61" parent="60" relname="elaboration">Оборот средств по этим счетам составил более 9 млрд долларов.</segment>
+		<segment id="63" parent="65" relname="span">С другого счета в Danske был осуществлен перевод денег, которые оказались на швейцарском счете, управляемом помощником Путина,</segment>
+		<segment id="64" parent="63" relname="elaboration">говорится в иске.\n\nDanske Bank - крупнейший банк Дании.</segment>
+		<segment id="66" parent="68" relname="span">В начале мая он подвергся критике</segment>
+		<segment id="67" parent="66" relname="cause-effect">в связи со скандалом с отмыванием денег посредством эстонского филиала организации.</segment>
+		<segment id="69" parent="73" relname="span">Управление по финансовому надзору страны сделало банку восемь внушений и столько же предписаний.\n\nОсновные претензии регулятора были связаны с \"критическими недостатками\" в организации деятельности Danske Bank,</segment>
+		<segment id="70" parent="72" relname="span">благодаря которым стало возможным совершение преступления,</segment>
+		<segment id="71" parent="70" relname="elaboration">в причастности к которому подозревают сотрудников Федеральной службы безопасности РФ (ФСБ) и членов семьи президента России Владимира Путина.\n\nИсточник: https://www.newsru.com/world/13Jul2018/brauderbank.html\n</segment>
+		<group id="36" type="span" parent="80" relname="joint"/>
+		<group id="34" type="multinuc" parent="36" relname="span"/>
+		<group id="30" type="span" parent="34" relname="joint"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="79" type="multinuc" parent="80" relname="joint"/>
+		<group id="39" type="multinuc" parent="79" relname="joint"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="54" type="multinuc" parent="78" relname="joint"/>
+		<group id="46" type="span" parent="54" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="span"/>
+		<group id="43" type="span" parent="45" relname="same-unit"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="52" type="span" parent="47" relname="attribution"/>
+		<group id="77" type="multinuc" parent="78" relname="joint"/>
+		<group id="57" type="multinuc" parent="77" relname="sequence"/>
+		<group id="76" type="multinuc" parent="77" relname="sequence"/>
+		<group id="62" type="span" parent="76" relname="joint"/>
+		<group id="60" type="multinuc" parent="62" relname="span"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="65" type="span" parent="75" relname="joint"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="68" type="span" parent="73" relname="preparation"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="72" type="span" parent="69" relname="elaboration"/>
+		<group id="80" type="multinuc"/>
+	</body>
+</rst>

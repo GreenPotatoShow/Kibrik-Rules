@@ -1,0 +1,66 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="29" relname="joint">\"Левиафан\" Звягинцева не понравился Мединскому</segment>
+		<segment id="28" parent="29" relname="joint">и,</segment>
+		<segment id="30" parent="33" relname="attribution">по его мнению,</segment>
+		<segment id="31" parent="33" relname="joint">не пострадает от купюр\n\nФильм \"Левиафан\" российского режиссера Андрея Звягинцева, участвующий в основном конкурсе Каннского фестиваля,</segment>
+		<segment id="32" parent="33" relname="joint">не пострадает от того, что в прокатной версии из картины вырежут нецензурную лексику,</segment>
+		<segment id="35" parent="36" relname="joint">считает министр культуры РФ Владимир Мединский.\n\n\"Левиафан\" не пострадает от того, что из него вырежут мат.</segment>
+		<segment id="38" parent="40" relname="contrast">Фильм талантливый,</segment>
+		<segment id="39" parent="40" relname="contrast">но он мне не понравился\",</segment>
+		<segment id="41" parent="43" relname="span">- цитирует заявление министра РИА \"Новости\".\n\n14 мая в Каннах стартовал главный европейский киносмотр,</segment>
+		<segment id="42" parent="41" relname="elaboration">который продлится до 25 мая.</segment>
+		<segment id="46" parent="54" relname="span">Россию в конкурсной программе представляет фильм \"Левиафан\" - \"история библейского Иова на материале современной России\".</segment>
+		<segment id="47" parent="49" relname="span">В центре истории - живущий на севере Николай,</segment>
+		<segment id="48" parent="47" relname="background">который вместе с отцом построил дом и мастерскую.</segment>
+		<segment id="50" parent="52" relname="span">Но его нормальная жизнь рушится под влиянием судьбы.</segment>
+		<segment id="51" parent="50" relname="elaboration">Главную роль в картине исполнил Алексей Серебряков.\n\nОтметим, что, по данным букмекеров, \"Левиафан\" входит в шестерку фаворитов фестиваля.</segment>
+		<segment id="55" parent="59" relname="joint">Главным кандидатом на победу букмекеры считают фильм \"Зимняя спячка\" турецкого режиссера Нури Бильге Джейлана.</segment>
+		<segment id="56" parent="58" relname="span">Также в список фаворитов вошли \"Местный\" Томми Ли Джонса, \"Уильям Тернер\" Майкла Ли, \"Поиск\" Мишеля Хазанавичуса и \"Тихая вода\" Наоми Кавасе,</segment>
+		<segment id="57" parent="56" relname="attribution">передает ИТАР-ТАСС.\n\nРанее сообщалось, что из прокатной версии картины уберут ненормативную лексику.</segment>
+		<segment id="62" parent="73" relname="preparation">Закон, запрещающий использовать нецензурную лексику в теле- и радиоэфире, в кинопрокате и при публичном исполнении произведений искусства, был принят в начале мая.</segment>
+		<segment id="63" parent="64" relname="attribution">Согласно документу,</segment>
+		<segment id="64" parent="65" relname="span">в случае использования нецензурной брани в фильме устанавливается запрет на выдачу картине прокатного удостоверения.\n\nРанее сообщалось, что на \"Кинотавре\" \"Левиафан\" Звягинцева покажут с сохранением ненормативной лексики.\n\nЗвягинцев - один из самых успешных и известных в мире российских режиссеров.</segment>
+		<segment id="66" parent="65" relname="elaboration">В 2011 году его картина \"Елена\" получила в Канне специальный приз жюри в конкурсе \"Особый взгляд\".</segment>
+		<segment id="68" parent="72" relname="joint">Фильм собрал целый букет наград, в том числе четырех \"Золотых орлов\", один из которых - за лучшую режиссуру.</segment>
+		<segment id="69" parent="71" relname="span">\"Возвращение\" Звягинцева, получившее главный приз на Венецианском фестивале 2003 года,</segment>
+		<segment id="70" parent="69" relname="elaboration">посмотрело 600 тысяч зрителей в одной только Франции.\n\nИсточник: https://www.newsru.com/cinema/22May2014/leviathanmedin.html\n</segment>
+		<group id="45" type="span" parent="77" relname="joint"/>
+		<group id="37" type="span" parent="45" relname="span"/>
+		<group id="29" type="multinuc" parent="37" relname="span"/>
+		<group id="36" type="multinuc" parent="29" relname="elaboration"/>
+		<group id="34" type="span" parent="36" relname="joint"/>
+		<group id="33" type="multinuc" parent="34" relname="span"/>
+		<group id="44" type="span" parent="37" relname="interpretation-evaluation"/>
+		<group id="40" type="multinuc" parent="44" relname="span"/>
+		<group id="43" type="span" parent="40" relname="attribution"/>
+		<group id="76" type="multinuc" parent="77" relname="joint"/>
+		<group id="54" type="span" parent="76" relname="joint"/>
+		<group id="53" type="multinuc" parent="46" relname="elaboration"/>
+		<group id="49" type="span" parent="53" relname="contrast"/>
+		<group id="52" type="span" parent="53" relname="contrast"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="59" type="multinuc" parent="75" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="67" type="span" parent="73" relname="joint"/>
+		<group id="65" type="span" parent="67" relname="span"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="77" type="multinuc"/>
+	</body>
+</rst>

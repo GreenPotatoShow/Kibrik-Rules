@@ -1,0 +1,33 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="11" parent="13" relname="span">Сомалийские пираты захватили танкер,</segment>
+		<segment id="12" parent="11" relname="elaboration">ходивший под флагом Антигуа и Барбуды\n\nТанкер, ходивший под флагом Антигуа и Барбуды,</segment>
+		<segment id="14" parent="13" relname="elaboration">захвачен пиратами в территориальных водах Сомали.</segment>
+		<segment id="16" parent="17" relname="attribution">Как сообщили представители властей карибского государства,</segment>
+		<segment id="17" parent="18" relname="span">нападение произошло во вторник, 5 мая.\n\nКак говорится в официальном коммюнике правительства,</segment>
+		<segment id="19" parent="23" relname="joint">\"приблизительно в 15:09 по московскому времени морское ведомство Антигуа и Барбуды было оповещено о том,</segment>
+		<segment id="20" parent="22" relname="span">что контейнеровоз Victoria, ходивший под флагом страны,</segment>
+		<segment id="21" parent="20" relname="elaboration">захвачен восемью пиратами в Аденском заливе\".\n\nКакой-либо информации о жертвах среди экипажа судна и его национальной принадлежности пока не поступало.\n\nСудно направлялось в саудовский порт Джидда,</segment>
+		<segment id="24" parent="23" relname="elaboration">расположенный в Красном море,</segment>
+		<segment id="27" parent="26" relname="attribution">передает ИТАР-ТАСС.\n\nИсточник: https://www.newsru.com/world/06May2009/antigua.html\n</segment>
+		<group id="15" type="span" parent="28" relname="preparation"/>
+		<group id="13" type="span" parent="15" relname="span"/>
+		<group id="28" type="span" parent="29" relname="span"/>
+		<group id="26" type="span" parent="28" relname="span"/>
+		<group id="18" type="span" parent="26" relname="span"/>
+		<group id="25" type="span" parent="18" relname="elaboration"/>
+		<group id="23" type="multinuc" parent="25" relname="span"/>
+		<group id="22" type="span" parent="23" relname="joint"/>
+		<group id="29" type="span"/>
+	</body>
+</rst>

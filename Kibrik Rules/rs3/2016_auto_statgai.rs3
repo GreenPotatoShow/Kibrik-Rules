@@ -1,0 +1,39 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="38" relname="span">В России наполовину увеличилось количество ДТП по вине водителей грузовиков\n\</segment>
+		<segment id="15" parent="17" relname="comparison">nВ России за девять месяцев зарегистрировано около 12 тысяч ДТП по вине водителей грузовых автомобилей,</segment>
+		<segment id="16" parent="17" relname="comparison">что на 51% больше аналогичного показателя прошлого года,</segment>
+		<segment id="18" parent="20" relname="span">пишет \"Коммерсант\" ссылкой на статистику ГИБДД.\n\nВ документе особо отмечен рост происшествий с пьяными водителями грузовых авто:</segment>
+		<segment id="19" parent="18" relname="elaboration">с начала года по их вине произошло 672 ДТП, прирост - свыше 120%.</segment>
+		<segment id="22" parent="36" relname="span">Всего с начала года из-за водителей грузовиков погибли 1,7 тысячи человек.</segment>
+		<segment id="23" parent="26" relname="attribution">Из данных инспекции следует,</segment>
+		<segment id="24" parent="25" relname="evidence">что 9 тысяч ДТП совершили водители грузовиков, находящихся в личной собственности.\n\nТакже из новых данных ГИБДД следует,</segment>
+		<segment id="25" parent="26" relname="span">что количество аварий легковых автомобилей в России в этом году уменьшается.</segment>
+		<segment id="28" parent="30" relname="span">При этом отмечается рост аварийности по вине водителей,</segment>
+		<segment id="29" parent="28" relname="elaboration">которые имеют лицензию на перевозочную деятельность:</segment>
+		<segment id="31" parent="33" relname="comparison">почти 1,2 тысячи ДТП,</segment>
+		<segment id="32" parent="33" relname="comparison">что на четверть выше показателя за девять месяцев прошлого года.\n\nИсточник: https://www.newsru.com/auto/10Oct2016/statgai.html\n</segment>
+		<group id="37" type="multinuc" parent="14" relname="elaboration"/>
+		<group id="21" type="multinuc" parent="37" relname="joint"/>
+		<group id="17" type="multinuc" parent="21" relname="comparison"/>
+		<group id="20" type="span" parent="21" relname="comparison"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="35" type="multinuc" parent="22" relname="elaboration"/>
+		<group id="27" type="span" parent="35" relname="joint"/>
+		<group id="26" type="span" parent="27" relname="span"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="30" type="span" parent="34" relname="span"/>
+		<group id="33" type="multinuc" parent="30" relname="elaboration"/>
+		<group id="38" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,44 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="40" relname="preparation">Николя Саркози получит \"летающий дворец\" стоимостью 185 млн евро\n\</segment>
+		<segment id="16" parent="20" relname="joint">nУстаревший небольшой самолет Николя Саркози Airbus-319 будет в скором времени заменен авиалайнером A330-200,</segment>
+		<segment id="17" parent="19" relname="span">более соответствующим высоким запросам президента Франции.\n\nПарламентарии одобрили решение о выделении на самолет 185 миллионов евро,</segment>
+		<segment id="18" parent="17" relname="concession">несмотря на попытки социалистов отклонить проект,</segment>
+		<segment id="21" parent="22" relname="attribution">сообщает британское издание The Guardian,</segment>
+		<segment id="22" parent="23" relname="span">на которое ссылается InoPressa.ru.\n\</segment>
+		<segment id="25" parent="36" relname="attribution">nПо данным газеты,</segment>
+		<segment id="26" parent="30" relname="span">самолет, приобретенный у авиакомпании Air Caraibes,</segment>
+		<segment id="27" parent="29" relname="sequence">в настоящее время проходит дорогостоящую модернизацию</segment>
+		<segment id="28" parent="29" relname="sequence">и поступит в эксплуатацию не раньше конца 2010 года.\n\nВ лайнере, который критики уже прозвали \"Air Sarko One\"</segment>
+		<segment id="31" parent="35" relname="same-unit">(по прозвищу французского президента) и \"летающим дворцом\", размером 60 метров в длину и 17 метров в высоту,</segment>
+		<segment id="32" parent="34" relname="joint">будет оборудовано частное крыло для президента,</segment>
+		<segment id="33" parent="34" relname="joint">оснащенное кабинетом, спальней и ванной.</segment>
+		<segment id="38" parent="39" relname="joint">Также в нем будет зал для совещаний и места на 60 человек.\n\nИсточник: https://www.newsru.com/world/17Nov2009/airsarko1.html\n</segment>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="24" type="span" parent="40" relname="joint"/>
+		<group id="20" type="multinuc" parent="24" relname="span"/>
+		<group id="19" type="span" parent="20" relname="joint"/>
+		<group id="23" type="span" parent="20" relname="attribution"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="37" type="span" parent="39" relname="joint"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="30" type="span" parent="36" relname="span"/>
+		<group id="29" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="35" type="multinuc" parent="30" relname="elaboration"/>
+		<group id="34" type="multinuc" parent="35" relname="same-unit"/>
+		<group id="41" type="span"/>
+	</body>
+</rst>

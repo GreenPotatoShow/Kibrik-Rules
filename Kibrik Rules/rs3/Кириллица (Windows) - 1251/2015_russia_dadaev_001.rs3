@@ -1,0 +1,147 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="66" parent="70" relname="joint">Предполагаемый убийца Немцова обжаловал отказ СК в возбуждении дела о применении к нему пыток\n\nПредполагаемый убийца политика Бориса Немцова,</segment>
+		<segment id="69" parent="70" relname="joint">бывший заместитель командира чеченского батальона \"Север\" Заур Дадаев, обжаловал отказ Следственного комитета возбудить уголовное дело о якобы применении к нему пыток.</segment>
+		<segment id="71" parent="84" relname="attribution">Об этом сообщает РИА \"Новости\" со ссылкой на адвоката Шамсудина Цакаева,</segment>
+		<segment id="72" parent="75" relname="attribution">представляющего интересы Дадаева.\n\nЗащитник уточнил,</segment>
+		<segment id="73" parent="75" relname="joint">что его клиент в жалобе, поданной в Басманный суд Москвы,</segment>
+		<segment id="74" parent="75" relname="joint">просит признать постановление СК об отказе незаконным,</segment>
+		<segment id="77" parent="79" relname="joint">отменить его</segment>
+		<segment id="78" parent="79" relname="joint">и обязать следственные органы возбудить уголовное дело.\n\nДадаев сразу после задержания в Ингушетии дал признательные показания не только против себя, но и против остальных задержанных,</segment>
+		<segment id="80" parent="82" relname="span">однако позже, после доставки в Москву,</segment>
+		<segment id="81" parent="80" relname="cause-effect">в суде от них отказался.</segment>
+		<segment id="87" parent="88" relname="attribution">Как утверждает главный обвиняемый по этому делу,</segment>
+		<segment id="88" parent="89" relname="span">ему пришлось признать вину после угроз и избиения.</segment>
+		<segment id="90" parent="91" relname="attribution">Другие фигуранты дела также заявили</segment>
+		<segment id="91" parent="92" relname="span">о своей непричастности к этому резонансному преступлению</segment>
+		<segment id="93" parent="96" relname="attribution">.\n\nСМИ сообщали,</segment>
+		<segment id="94" parent="96" relname="span">что новый руководитель следственной группы Николай Тутевич назначил экспертизы,</segment>
+		<segment id="95" parent="94" relname="purpose">чтобы выяснить, не оказывалось ли на Дадаева психологическое и физическое давление.</segment>
+		<segment id="100" parent="117" relname="cause-effect">Однако после проведения доследственной проверки заявления Дадаева следствие не нашло оснований для возбуждения дела по якобы оказанному на арестанта психологическому давлению либо физическому воздействию.</segment>
+		<segment id="101" parent="103" relname="span">Тем самым первичные признательные показания Дадаева были признаны законными,</segment>
+		<segment id="102" parent="101" relname="concession">несмотря на то, что он в дальнейшем от них отказался.\n\nО \"секретном свидетеле\" защита обвиняемых ничего не знает\n\nТем временем 5 июня СМИ сообщили</segment>
+		<segment id="104" parent="108" relname="span">о наличии у следствия по делу об убийстве Немцова некоего секретного свидетеля,</segment>
+		<segment id="107" parent="104" relname="elaboration">который якобы общался с обвиняемыми в ходе подготовки к преступлению, знал об их планах</segment>
+		<segment id="109" parent="115" relname="span">и помог спецслужбам выйти на них.\n\nОднако адвокат Роза Магомедова,</segment>
+		<segment id="110" parent="114" relname="span">представляющая интересы одного из обвиняемых,</segment>
+		<segment id="111" parent="112" relname="attribution">заявила РИА \"Новости\",</segment>
+		<segment id="112" parent="113" relname="span">что \"ничего про это не знает\".</segment>
+		<segment id="121" parent="122" relname="attribution">По ее словам,</segment>
+		<segment id="122" parent="123" relname="span">про \"секретного свидетеля\" никто из участников процесса не говорил.</segment>
+		<segment id="124" parent="131" relname="attribution">Магомедова добавила,</segment>
+		<segment id="125" parent="131" relname="joint">что следствие пока не знакомит сторону защиты с доказательствами,</segment>
+		<segment id="126" parent="130" relname="span">они могут узнать весь объем доказательств только перед передачей дела в суд.\n\nСогласно законодательству,</segment>
+		<segment id="127" parent="129" relname="span">данные таких свидетелей засекречиваются,</segment>
+		<segment id="128" parent="127" relname="condition">если им может грозить опасность.</segment>
+		<segment id="133" parent="141" relname="joint">В таком случае их имена не называются даже участникам процесса</segment>
+		<segment id="134" parent="136" relname="span">и показания в суде они дают под псевдонимом из другой комнаты,</segment>
+		<segment id="135" parent="134" relname="purpose">чтобы никто не мог их узнать,</segment>
+		<segment id="137" parent="139" relname="span">при этом даже их голоса меняются</segment>
+		<segment id="138" parent="137" relname="condition">при помощи специального оборудования,</segment>
+		<segment id="142" parent="141" relname="attribution">отмечает агентство</segment>
+		<segment id="145" parent="153" relname="joint">.\n\nКак ране сообщило агентство \"Росбалт\" со ссылкой на источник, \"знакомый с ситуацией\",</segment>
+		<segment id="146" parent="152" relname="joint">\"этот свидетель попал в руки спецслужб в самом начале марта</segment>
+		<segment id="147" parent="148" relname="attribution">и рассказал все, что знал</segment>
+		<segment id="148" parent="149" relname="span">(в частности, назвал Геремеева, Дадаева, Губашева, Шаванова в числе лиц, которые могут быть причастны к убийству Немцова)\".\n\n\"Этот человек располагал информацией,</segment>
+		<segment id="150" parent="149" relname="cause-effect">поскольку общался с данными лицами\",</segment>
+		<segment id="154" parent="153" relname="attribution">- поведал источник.</segment>
+		<segment id="156" parent="159" relname="attribution">По его словам,</segment>
+		<segment id="157" parent="159" relname="joint">именно этот секретный свидетель</segment>
+		<segment id="158" parent="159" relname="joint">и сообщил силовикам информацию о возможных участниках убийства Немцова.\n\nБорис Немцов был убит поздно вечером 27 февраля 2015 года в центре Москвы, рядом с Кремлем.</segment>
+		<segment id="161" parent="164" relname="attribution">По подозрению в совершении этого преступления, помимо Дадаева, арестованы братья Анзор и Шадид Губашевы, Хамзат Бахаев и Тамерлан Эскерханов - все уроженцы Чечни.\n\nСМИ также писали,</segment>
+		<segment id="162" parent="164" relname="span">что в причастности к преступлению подозревается бывший офицер батальона \"Север\" Руслан Геремеев,</segment>
+		<segment id="163" parent="162" relname="elaboration">допросить которого следствию пока так и не удалось.</segment>
+		<segment id="166" parent="169" relname="attribution">В прессе сообщалось,</segment>
+		<segment id="169" parent="170" relname="span">что он якобы уехал в Арабские Эмираты.\n\</segment>
+		<segment id="172" parent="179" relname="attribution">nВ то же время СМИ писали,</segment>
+		<segment id="173" parent="175" relname="span">что загадочным Русиком,</segment>
+		<segment id="174" parent="173" relname="elaboration">который,</segment>
+		<segment id="176" parent="177" relname="attribution">по словам Дадаева,</segment>
+		<segment id="177" parent="178" relname="span">обещал им за ликвидацию Немцова 25 млн рублей,</segment>
+		<segment id="181" parent="185" relname="span">может оказаться не Геремеев,</segment>
+		<segment id="182" parent="183" relname="attribution">как считалось ранее,</segment>
+		<segment id="183" parent="184" relname="span">а житель Чечни Руслан Мухудинов.</segment>
+		<segment id="187" parent="188" relname="joint">Срок расследования дела продлен до 28 августа.\n\nИсточник: https://www.newsru.com/russia/05Jun2015/dadaev.html\n</segment>
+		<group id="120" type="multinuc" parent="194" relname="joint"/>
+		<group id="86" type="span" parent="120" relname="joint"/>
+		<group id="70" type="multinuc" parent="85" relname="preparation"/>
+		<group id="85" type="span" parent="86" relname="span"/>
+		<group id="84" type="multinuc" parent="85" relname="span"/>
+		<group id="76" type="span" parent="84" relname="sequence"/>
+		<group id="75" type="multinuc" parent="76" relname="span"/>
+		<group id="83" type="multinuc" parent="84" relname="sequence"/>
+		<group id="79" type="multinuc" parent="83" relname="sequence"/>
+		<group id="82" type="span" parent="83" relname="sequence"/>
+		<group id="119" type="multinuc" parent="120" relname="joint"/>
+		<group id="99" type="multinuc" parent="119" relname="contrast"/>
+		<group id="89" type="span" parent="99" relname="joint"/>
+		<group id="98" type="multinuc" parent="99" relname="joint"/>
+		<group id="92" type="span" parent="98" relname="joint"/>
+		<group id="97" type="span" parent="98" relname="joint"/>
+		<group id="96" type="span" parent="97" relname="span"/>
+		<group id="118" type="span" parent="119" relname="contrast"/>
+		<group id="117" type="multinuc" parent="118" relname="span"/>
+		<group id="103" type="span" parent="117" relname="joint"/>
+		<group id="116" type="multinuc" parent="117" relname="joint"/>
+		<group id="108" type="span" parent="116" relname="joint"/>
+		<group id="115" type="span" parent="116" relname="joint"/>
+		<group id="114" type="span" parent="109" relname="elaboration"/>
+		<group id="113" type="span" parent="110" relname="attribution"/>
+		<group id="193" type="span" parent="194" relname="joint"/>
+		<group id="123" type="span" parent="192" relname="preparation"/>
+		<group id="192" type="multinuc" parent="193" relname="span"/>
+		<group id="144" type="span" parent="192" relname="joint"/>
+		<group id="132" type="span" parent="144" relname="span"/>
+		<group id="131" type="multinuc" parent="132" relname="span"/>
+		<group id="130" type="span" parent="131" relname="joint"/>
+		<group id="129" type="span" parent="126" relname="elaboration"/>
+		<group id="143" type="span" parent="132" relname="elaboration"/>
+		<group id="141" type="multinuc" parent="143" relname="span"/>
+		<group id="140" type="multinuc" parent="141" relname="joint"/>
+		<group id="136" type="span" parent="140" relname="joint"/>
+		<group id="139" type="span" parent="140" relname="joint"/>
+		<group id="191" type="multinuc" parent="192" relname="joint"/>
+		<group id="155" type="span" parent="191" relname="joint"/>
+		<group id="153" type="multinuc" parent="155" relname="span"/>
+		<group id="152" type="multinuc" parent="153" relname="joint"/>
+		<group id="151" type="span" parent="152" relname="joint"/>
+		<group id="149" type="span" parent="151" relname="span"/>
+		<group id="190" type="multinuc" parent="191" relname="joint"/>
+		<group id="160" type="span" parent="190" relname="joint"/>
+		<group id="159" type="multinuc" parent="160" relname="span"/>
+		<group id="189" type="multinuc" parent="190" relname="joint"/>
+		<group id="171" type="span" parent="189" relname="joint"/>
+		<group id="165" type="span" parent="171" relname="span"/>
+		<group id="164" type="span" parent="165" relname="span"/>
+		<group id="170" type="span" parent="165" relname="elaboration"/>
+		<group id="188" type="multinuc" parent="189" relname="joint"/>
+		<group id="186" type="multinuc" parent="188" relname="joint"/>
+		<group id="180" type="span" parent="186" relname="comparison"/>
+		<group id="179" type="multinuc" parent="180" relname="span"/>
+		<group id="175" type="span" parent="179" relname="same-unit"/>
+		<group id="178" type="span" parent="179" relname="same-unit"/>
+		<group id="185" type="span" parent="186" relname="comparison"/>
+		<group id="184" type="span" parent="181" relname="background"/>
+		<group id="194" type="multinuc"/>
+	</body>
+</rst>

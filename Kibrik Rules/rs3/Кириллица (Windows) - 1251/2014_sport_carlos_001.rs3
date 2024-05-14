@@ -1,0 +1,28 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="13" relname="joint">Роберто Карлоса уволили с поста главного тренера \"Сивасспора\"\n\nЗнаменитый в недавнем прошлом футболист Роберто Карлос уволен с поста главного тренера турецкого клуба \"Сивасспор\".</segment>
+		<segment id="10" parent="12" relname="span">Контракт с бразильским специалистом расторгнут по соглашению сторон,</segment>
+		<segment id="11" parent="10" relname="elaboration">сообщает Fanatik.\n\n\"Сивасспор\" в субботу в матче чемпионата Турции проиграл на своем поле \"Башахшехиру\" со счетом 0:2.</segment>
+		<segment id="14" parent="13" relname="elaboration">После 14 матчей \"Сивасспор\" с десятью очками занимает предпоследнее, 17-е, место в первенстве страны.\n\nРоберто Карлос возглавлял \"Сивасспор\" с лета 2013 года.</segment>
+		<segment id="16" parent="18" relname="joint">В прошлом сезоне команда под руководством бразильца заняла пятое место в национальном чемпионате</segment>
+		<segment id="17" parent="18" relname="joint">и пробилась в Лигу Европы,</segment>
+		<segment id="19" parent="20" relname="contrast">но по решению УЕФА была исключена из розыгрыша второго по значимости еврокубка.\n\nЗабавно, что в середине декабря бразилец был признан лучшим тренером Турции по итогам 2014 года,</segment>
+		<segment id="21" parent="20" relname="attribution">отмечает \"Р-Спорт\".\n\nИсточник: https://www.newsru.com/sport/21Dec2014/carlos.html\n</segment>
+		<group id="15" type="span" parent="23" relname="joint"/>
+		<group id="13" type="multinuc" parent="15" relname="span"/>
+		<group id="12" type="span" parent="13" relname="joint"/>
+		<group id="22" type="span" parent="23" relname="joint"/>
+		<group id="20" type="multinuc" parent="22" relname="span"/>
+		<group id="18" type="multinuc" parent="20" relname="contrast"/>
+		<group id="23" type="multinuc"/>
+	</body>
+</rst>

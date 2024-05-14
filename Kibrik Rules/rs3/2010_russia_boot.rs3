@@ -1,0 +1,54 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="24" relname="span">Российский МИД вызвал на ковер посла Таиланда:</segment>
+		<segment id="21" parent="23" relname="joint">в Москве разочарованы</segment>
+		<segment id="22" parent="23" relname="joint">и недоумевают\n\</segment>
+		<segment id="25" parent="27" relname="span">nПосол Таиланда в России Чалермон Танчит был приглашен в МИД России,</segment>
+		<segment id="26" parent="25" relname="elaboration">где ему заявлено о разочаровании и недоумении в связи с решением таиландского суда по делу гражданина РФ Виктора Бута,</segment>
+		<segment id="28" parent="27" relname="attribution">передает ”Интерфакс».\n\n</segment>
+		<segment id="30" parent="34" relname="span">\"Заявлено о крайнем разочаровании и недоумении по поводу политически мотивированного вердикта таиландского Апелляционного суда,</segment>
+		<segment id="31" parent="33" relname="sequence">который противоречит ранее принятому в августе 2009 года решению Уголовного суда этой страны,</segment>
+		<segment id="32" parent="33" relname="sequence">отказавшего в экстрадиции Виктора Бута в США</segment>
+		<segment id="35" parent="34" relname="cause-effect">в связи с недостаточностью представленных американской стороной доказательств виновности российского гражданина\",</segment>
+		<segment id="37" parent="36" relname="attribution">- говорится в сообщении МИД РФ,</segment>
+		<segment id="39" parent="52" relname="attribution">распространенном в пятницу.\n\nВ документе отмечается,</segment>
+		<segment id="40" parent="41" relname="attribution">что \"посол обещал довести позицию российской стороны до правительства Таиланда\".\n\nВ сообщении говорится,</segment>
+		<segment id="41" parent="42" relname="span">что Чалермон Танчит был приглашен в МИД 20 августа</segment>
+		<segment id="43" parent="45" relname="span">и встречался там с заместителем министра иностранных дел России Алексеем Бородавкиным,</segment>
+		<segment id="44" parent="43" relname="elaboration">который и сделал упомянутое представление</segment>
+		<segment id="46" parent="50" relname="span">.\n\n20 августа Апелляционный суд Таиланда принял решение об экстрадиции в США гражданина РФ Виктора Бута,</segment>
+		<segment id="47" parent="49" relname="contrast">которого обвиняют в торговле оружием,</segment>
+		<segment id="48" parent="49" relname="contrast">но он отрицает эти обвинения.\n\nИсточник: https://www.newsru.com/russia/20Aug2010/boot.html\n</segment>
+		<group id="24" type="span" parent="55" relname="preparation"/>
+		<group id="23" type="multinuc" parent="20" relname="elaboration"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="29" type="span" parent="55" relname="joint"/>
+		<group id="27" type="span" parent="29" relname="span"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="38" type="span" parent="54" relname="joint"/>
+		<group id="36" type="span" parent="38" relname="span"/>
+		<group id="34" type="span" parent="36" relname="span"/>
+		<group id="33" type="multinuc" parent="30" relname="elaboration"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="42" type="span" parent="52" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="45" type="span" parent="51" relname="span"/>
+		<group id="50" type="span" parent="45" relname="cause-effect"/>
+		<group id="49" type="multinuc" parent="46" relname="elaboration"/>
+		<group id="56" type="span"/>
+	</body>
+</rst>

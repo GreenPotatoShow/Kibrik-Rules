@@ -1,0 +1,77 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="88" relname="preparation">В США создали самый крохотный в мире компьютер\n\</segment>
+		<segment id="32" parent="36" relname="span">nИнженеры из Мичиганского университета разработали рекордно миниатюрный компьютер,</segment>
+		<segment id="33" parent="34" relname="cause-effect">объем которого составляет всего 0,04 кубического миллиметра,</segment>
+		<segment id="34" parent="35" relname="span">что значительно меньше объема рисового зернышка.</segment>
+		<segment id="37" parent="43" relname="sequence">Описание устройства было опубликовано на сайте Университета.\n\nЧип, представленный учеными из США,</segment>
+		<segment id="38" parent="42" relname="span">получил 32-битный ARM-процессор, энергозависимую оперативную память, датчик температуры и оптическую схему из фотовольтаического элемента и светодиода,</segment>
+		<segment id="39" parent="41" relname="joint">позволяющую устройству принимать энергию и входящие сигналы через световые импульсы,</segment>
+		<segment id="40" parent="41" relname="joint">а также отправлять исходящий сигнал таким же образом,</segment>
+		<segment id="45" parent="44" relname="attribution">поясняет N+1.</segment>
+		<segment id="47" parent="51" relname="joint">Энергопотребление чипа составляет всего 16 нановатт,</segment>
+		<segment id="48" parent="50" relname="span">и получаемой через фотовольтаический элемент энергии достаточно для его работы.\n\nВ процессе работы встроенный датчик температуры передает процессору показания в виде импульсов с соответствующим временным интервалом,</segment>
+		<segment id="49" parent="48" relname="elaboration">которые процессор сравнивает с импульсами с постоянным интервалом, получаемыми от базовой станции через световые сигналы.</segment>
+		<segment id="52" parent="59" relname="attribution">По словам разработчиков,</segment>
+		<segment id="53" parent="59" relname="joint">точность измерения температуры составляет 0,1 градуса,</segment>
+		<segment id="54" parent="56" relname="span">и в перспективе миниатюрный компьютер можно использовать</segment>
+		<segment id="55" parent="54" relname="purpose">для измерения разницы температур в тканях,</segment>
+		<segment id="57" parent="56" relname="elaboration">которая может служить признаком злокачественной опухоли.\n\</segment>
+		<segment id="62" parent="67" relname="attribution">nПри этом инженеры подчеркивают,</segment>
+		<segment id="63" parent="67" relname="span">что созданное ими устройство нельзя называть полноценным компьютером,</segment>
+		<segment id="64" parent="66" relname="joint">поскольку у него нет постоянной памяти,</segment>
+		<segment id="65" parent="66" relname="joint">а хранение данных возможно только при наличии внешнего питания.\n\</segment>
+		<segment id="69" parent="73" relname="span">nОтметим, что исследователи заметно превзошли достижение инженеров из IBM</segment>
+		<segment id="72" parent="69" relname="elaboration">- в марте этого года компания представила компьютер, длина и ширина которого составляют по одному миллиметру.</segment>
+		<segment id="74" parent="75" relname="attribution">В IBM рассчитывают,</segment>
+		<segment id="75" parent="76" relname="span">что серийное производство нового компьютера начнется в течение ближайших пяти лет,</segment>
+		<segment id="77" parent="78" relname="contrast">а себестоимость одного такого устройства составит не более 10 центов.</segment>
+		<segment id="79" parent="81" relname="span">Компания планирует использовать миниатюрные компьютеры</segment>
+		<segment id="80" parent="79" relname="purpose">для отслеживания посылок,</segment>
+		<segment id="82" parent="83" relname="joint">а также для защиты товаров от кражи и подделки.\n\nИсточник: https://www.newsru.com/hitech/25Jun2018/dwarfcomp.html\n</segment>
+		<group id="88" type="multinuc" parent="89" relname="span"/>
+		<group id="46" type="span" parent="88" relname="joint"/>
+		<group id="44" type="multinuc" parent="46" relname="span"/>
+		<group id="36" type="span" parent="44" relname="joint"/>
+		<group id="35" type="span" parent="32" relname="elaboration"/>
+		<group id="43" type="multinuc" parent="44" relname="joint"/>
+		<group id="42" type="span" parent="43" relname="sequence"/>
+		<group id="41" type="multinuc" parent="38" relname="purpose"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="61" type="span" parent="87" relname="joint"/>
+		<group id="51" type="multinuc" parent="61" relname="span"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="60" type="span" parent="51" relname="elaboration"/>
+		<group id="59" type="multinuc" parent="60" relname="span"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="56" type="span" parent="58" relname="span"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="68" type="span" parent="86" relname="joint"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="66" type="multinuc" parent="63" relname="cause-effect"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="73" type="span" parent="85" relname="comparison"/>
+		<group id="84" type="multinuc" parent="85" relname="comparison"/>
+		<group id="78" type="multinuc" parent="84" relname="joint"/>
+		<group id="76" type="span" parent="78" relname="contrast"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="81" type="span" parent="83" relname="joint"/>
+		<group id="89" type="span"/>
+	</body>
+</rst>

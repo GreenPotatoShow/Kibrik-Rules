@@ -1,0 +1,63 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="26" relname="span">Бывший король Афганистана спустя 29 лет вернулся на родину\n\nБывший король Афганистана Мохаммед Захир Шах покинул Италию</segment>
+		<segment id="25" parent="24" relname="background">после почти 30-летнего пребывания здесь в изгнании.</segment>
+		<segment id="27" parent="29" relname="sequence">87-летний экс-монарх вылетел в ночь со среды на четверг с римской военно-воздушной базы на самолете ВВС Италии Boeing-707</segment>
+		<segment id="28" parent="29" relname="sequence">и в четверг утром прибыл в Кабул,</segment>
+		<segment id="30" parent="31" relname="sequence">сообщает ИТАР-ТАСС.\n\nВ полете Захир Шаха сопровождал прибывший накануне в итальянскую столицу глава временного афганского правительства Хамид Карзай.</segment>
+		<segment id="33" parent="34" relname="attribution">Во время своего пребывания в Риме глава временной афганской администрации заявил,</segment>
+		<segment id="34" parent="35" relname="span">что не считает себя будущим лидером Афганистана.\n\n\"Сейчас я возглавляю администрацию, которая призвана временно руководить страной,</segment>
+		<segment id="36" parent="35" relname="attribution">- сказал Карзай.</segment>
+		<segment id="39" parent="50" relname="attribution">- Политическое будущее Афганистана определит Лойя джирга\".\n\nМежду тем, Карзай отметил,</segment>
+		<segment id="40" parent="44" relname="span">что \"если Лойя джирга доверит ему продолжать руководить страной\",</segment>
+		<segment id="41" parent="43" relname="span">он сочтет это за честь,</segment>
+		<segment id="42" parent="41" relname="condition">если же этого не произойдет,</segment>
+		<segment id="45" parent="47" relname="joint">\"я с уважением отнесусь к этому решению</segment>
+		<segment id="46" parent="47" relname="joint">и отойду от дел:</segment>
+		<segment id="48" parent="47" relname="interpretation-evaluation">это будет хорошая возможность немного отдохнуть\".\n\</segment>
+		<segment id="52" parent="54" relname="contrast">nПо сообщениям, экс-президент Афганистана Бурхануддин Раббани приветствовал в Кабуле возвращение бывшего короля Захир Шаха в Афганистан,</segment>
+		<segment id="53" parent="54" relname="contrast">однако выступил против идеи восстановления там конституционной монархии.</segment>
+		<segment id="55" parent="58" relname="attribution">Раббани заявил,</segment>
+		<segment id="56" parent="58" relname="span">что Захир Шах может вернуться на родину,</segment>
+		<segment id="57" parent="56" relname="cause-effect">поскольку это его право.\n\n\"Однако,</segment>
+		<segment id="60" parent="63" relname="attribution">- подчеркнул экс-президент,</segment>
+		<segment id="61" parent="63" relname="joint">- мир давно пришел к республиканской форме правления</segment>
+		<segment id="62" parent="63" relname="joint">и реставрация монархии неприемлема\".\n\nИсточник: https://www.newsru.com/world/18Apr2002/shah.html\n</segment>
+		<group id="38" type="multinuc" parent="68" relname="joint"/>
+		<group id="32" type="multinuc" parent="38" relname="sequence"/>
+		<group id="26" type="span" parent="32" relname="sequence"/>
+		<group id="31" type="multinuc" parent="32" relname="sequence"/>
+		<group id="29" type="multinuc" parent="31" relname="sequence"/>
+		<group id="37" type="span" parent="38" relname="sequence"/>
+		<group id="35" type="span" parent="37" relname="span"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="51" type="span" parent="67" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="span"/>
+		<group id="44" type="span" parent="50" relname="span"/>
+		<group id="43" type="span" parent="40" relname="condition"/>
+		<group id="49" type="span" parent="44" relname="interpretation-evaluation"/>
+		<group id="47" type="multinuc" parent="49" relname="span"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="54" type="multinuc" parent="66" relname="joint"/>
+		<group id="65" type="multinuc" parent="66" relname="joint"/>
+		<group id="59" type="span" parent="65" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="64" type="span" parent="65" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="68" type="multinuc"/>
+	</body>
+</rst>

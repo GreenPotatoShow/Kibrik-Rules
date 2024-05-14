@@ -1,0 +1,50 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="53" relname="span">Во Франции планируют построить аэропорт на месте 3 кладбищ времен Первой Мировой войны\n\</segment>
+		<segment id="20" parent="22" relname="span">nВо Франции назревает новый скандал,</segment>
+		<segment id="21" parent="20" relname="elaboration">связанный со строительством третьего аэропорта в районе Парижа.</segment>
+		<segment id="23" parent="31" relname="span">Дело в том, что на участке, отведенном под строительство, находятся кладбища времен Первой Мировой войны,</segment>
+		<segment id="24" parent="30" relname="joint">где похоронены тысячи британских, немецких и французских солдат.\n\nС решением местных властей не согласна международная Комиссия,</segment>
+		<segment id="25" parent="29" relname="span">занимающаяся вопросами сохранения военных захоронений,</segment>
+		<segment id="26" parent="28" relname="span">которая намерена обсудить возникший конфликт с правительством Франции.\n\nСтроительство нового аэропорта планируется осуществить на территории Шольне,</segment>
+		<segment id="27" parent="26" relname="elaboration">расположенном в парижском районе Сомм.\n\</segment>
+		<segment id="33" parent="38" relname="attribution">nПо словам Роя Хемингтона, заместителя председателя французского отделения Комиссии,</segment>
+		<segment id="34" parent="38" relname="joint">на территории британского кладбища находятся порядка 60 могил,</segment>
+		<segment id="35" parent="37" relname="joint">более 20 тысяч захоронений насчитывает немецкое кладбище</segment>
+		<segment id="36" parent="37" relname="joint">и около 4 тысяч солдат покоятся на территории французского кладбища.</segment>
+		<segment id="40" parent="44" relname="same-unit">И именно эти захоронения,</segment>
+		<segment id="41" parent="43" relname="joint">согласно плану строительства аэропорта,</segment>
+		<segment id="42" parent="43" relname="joint">по всей видимости, предполагается ликвидировать.\n\nУчасток, выделенный под возведение нового аэропорта,</segment>
+		<segment id="45" parent="47" relname="joint">захватывает долину, расположенную в 120 км от Парижа,</segment>
+		<segment id="46" parent="47" relname="joint">и где в 1916 году у городка Сомм произошло кровопролитное сражение,</segment>
+		<segment id="49" parent="48" relname="attribution">передает MIGnews.com .\n\nИсточник: https://www.newsru.com/world/17Nov2001/trdcysd.html\n</segment>
+		<group id="52" type="multinuc" parent="19" relname="elaboration"/>
+		<group id="32" type="span" parent="52" relname="joint"/>
+		<group id="22" type="span" parent="32" relname="span"/>
+		<group id="31" type="span" parent="22" relname="elaboration"/>
+		<group id="30" type="multinuc" parent="23" relname="elaboration"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="28" type="span" parent="25" relname="elaboration"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="39" type="span" parent="51" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="span"/>
+		<group id="37" type="multinuc" parent="38" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="48" type="span" parent="50" relname="span"/>
+		<group id="44" type="multinuc" parent="48" relname="span"/>
+		<group id="43" type="multinuc" parent="44" relname="same-unit"/>
+		<group id="47" type="multinuc" parent="44" relname="background"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

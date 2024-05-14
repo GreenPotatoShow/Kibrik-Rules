@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="20" relname="span">В небе над Шанхаем и Пекином почти одновременно появились НЛО\n\nВ небе над двумя крупнейшими городами Китая - Шанхаем и Пекином</segment>
+		<segment id="19" parent="18" relname="elaboration">- почти в одно и то же время были замечены неопознанные летающие объекты.</segment>
+		<segment id="21" parent="23" relname="span">Необычное совпадение произошло несколько дней назад,</segment>
+		<segment id="22" parent="21" relname="elaboration">сообщает газета China Daily.\n\nСветящийся НЛО гигантских размеров над Шанхаем наблюдали экипажи более чем десяти пролетавших в этом районе самолетов.</segment>
+		<segment id="25" parent="30" relname="attribution">По словам одного из пилотов,</segment>
+		<segment id="26" parent="28" relname="joint">он заметил огромный светящийся сферический объект во время полета над Шанхаем 20 августа, в 21:00 по местному времени на высоте 10,7 тыс. метров</segment>
+		<segment id="27" parent="28" relname="joint">.\n\nШар увеличивался в размерах,</segment>
+		<segment id="29" parent="28" relname="condition">пока не достиг более 50 морских миль (92,6 км) в диаметре.</segment>
+		<segment id="32" parent="34" relname="joint">В Управлении гражданской авиации Китая подтвердили информацию о появлении НЛО в небе над Шанхаем,</segment>
+		<segment id="33" parent="34" relname="joint">передает NEWSru Israel.\n\nПочти одновременно с этим явлением жители Пекина наблюдали в небе светящееся кольцо.</segment>
+		<segment id="35" parent="39" relname="span">Как рассказал один из очевидцев,</segment>
+		<segment id="36" parent="38" relname="joint">который сфотографировал гало</segment>
+		<segment id="37" parent="38" relname="joint">и опубликовал фото в своем микро-блоге,</segment>
+		<segment id="40" parent="41" relname="same-unit">сначала оно было небольшим,</segment>
+		<segment id="42" parent="46" relname="sequence">затем увеличилось,</segment>
+		<segment id="43" parent="45" relname="joint">двинулось в северном направлении</segment>
+		<segment id="44" parent="45" relname="joint">и через несколько минут исчезло из виду.\n\nИсточник: https://www.newsru.com/world/24Aug2011/2nlo.html\n</segment>
+		<group id="24" type="span" parent="50" relname="span"/>
+		<group id="20" type="span" parent="24" relname="span"/>
+		<group id="23" type="span" parent="20" relname="elaboration"/>
+		<group id="49" type="multinuc" parent="24" relname="interpretation-evaluation"/>
+		<group id="31" type="span" parent="49" relname="sequence"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="28" type="multinuc" parent="30" relname="span"/>
+		<group id="48" type="span" parent="49" relname="sequence"/>
+		<group id="34" type="multinuc" parent="48" relname="span"/>
+		<group id="47" type="multinuc" parent="34" relname="elaboration"/>
+		<group id="41" type="multinuc" parent="47" relname="sequence"/>
+		<group id="39" type="span" parent="41" relname="same-unit"/>
+		<group id="38" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="46" type="multinuc" parent="47" relname="sequence"/>
+		<group id="45" type="multinuc" parent="46" relname="sequence"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,123 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="54" parent="60" relname="joint">Ученые потеряли связь с единственным и давно \"просроченным\" российским космическим телескопом\n\nСпециалисты НПО имени Лавочкина с четверга не могут восстановить связь с единственным российским космическим телескопом \"Спектр-Р\".</segment>
+		<segment id="55" parent="57" relname="span">Проблемы возникли во время сеанса,</segment>
+		<segment id="56" parent="55" relname="elaboration">проходившего с 9 до 12 часов 10 января,</segment>
+		<segment id="58" parent="57" relname="attribution">сообщил порталу N+1 научный руководитель проекта \"Радиоастрон\",</segment>
+		<segment id="61" parent="62" relname="joint">член-корреспондент РАН Юрий Ковалев.\n\n\"Именно во время этого сеанса связи не удалось включить передатчик на борту.</segment>
+		<segment id="63" parent="65" relname="span">То есть, с утра четверга у нас нет телеметрической информации с аппарата\",</segment>
+		<segment id="64" parent="63" relname="attribution">- пояснил он.</segment>
+		<segment id="67" parent="69" relname="span">С тех пор было предпринято четыре попытки связаться с телескопом</segment>
+		<segment id="68" parent="67" relname="condition">при помощи антенн в Подмосковье и Уссурийске.</segment>
+		<segment id="70" parent="74" relname="span">Следующая попытка намечена на воскресенье.\n\</segment>
+		<segment id="71" parent="72" relname="attribution">nПо словам Ковалева,</segment>
+		<segment id="72" parent="73" relname="span">есть надежда, что спутник \"жив\",</segment>
+		<segment id="75" parent="76" relname="cause-effect">так как специалисты уловили сигнал с борта - несущую частоту 8 ГГц,</segment>
+		<segment id="76" parent="77" relname="span">что свидетельствует о наличии энергии и работе научной аппаратуры.\n\n\"Там разные системы связи,</segment>
+		<segment id="78" parent="80" relname="joint">часть работает,</segment>
+		<segment id="79" parent="80" relname="joint">часть не работает.</segment>
+		<segment id="84" parent="90" relname="span">Часть сигналов есть.</segment>
+		<segment id="85" parent="89" relname="span">Такие сбои уже бывали.</segment>
+		<segment id="86" parent="88" relname="joint">Может все заработать.</segment>
+		<segment id="87" parent="88" relname="joint">Мы на это надеемся\",</segment>
+		<segment id="91" parent="94" relname="attribution">- сказал РИА \"Новости\" директор Астрокосмического центра ФИАН академик Николай Кардашев.\n\nПо его словам,</segment>
+		<segment id="92" parent="94" relname="contrast">аппарат не работает только на прием командной информации,</segment>
+		<segment id="93" parent="94" relname="contrast">но на Земле продолжают принимать научные данные от него.\n\nГарантийный срок службы аппарата истек в 2014 году\n\n\"Специалистами Главной оперативной группы управления космическим аппаратом ведутся работы по устранению имеющихся замечаний\",</segment>
+		<segment id="96" parent="95" relname="attribution">- прокомментировали в Роскосмосе (цитата по \"Интерфаксу\").</segment>
+		<segment id="100" parent="105" relname="attribution">В госкорпорации добавили,</segment>
+		<segment id="103" parent="105" relname="contrast">что гарантийный срок службы аппарата, запущенного в 2011 году, истек в 2014-м,</segment>
+		<segment id="104" parent="105" relname="contrast">но он \"продолжает решать целевые задачи\".\n\</segment>
+		<segment id="107" parent="109" relname="contrast">nИзначально работу телескопа планировалось завершить в 2016 году,</segment>
+		<segment id="108" parent="109" relname="contrast">но позже ее продлили до 31 декабря 2019-го.</segment>
+		<segment id="110" parent="114" relname="span">\"Так называемый гарантийный срок составлял три года.</segment>
+		<segment id="111" parent="113" relname="joint">Ожидаемое время работы - пять лет,</segment>
+		<segment id="112" parent="113" relname="joint">и сейчас мы перекрыли этот срок в полтора раза,</segment>
+		<segment id="115" parent="114" relname="attribution">- рассказал Ковалев \"Газете.Ru\".</segment>
+		<segment id="119" parent="125" relname="joint">- Продолжаются крайне интересные наблюдения галактик, мегамазеров и пульсаров,</segment>
+		<segment id="120" parent="123" relname="attribution">исследуется открытый нами эффект рассеяния\".\n\nНаучный руководитель проекта напомнил,</segment>
+		<segment id="121" parent="123" relname="joint">что это не первая техническая проблема со спутником,</segment>
+		<segment id="122" parent="123" relname="joint">и ранее специалистам НПО Лавочкина всегда удавалось их решать.</segment>
+		<segment id="126" parent="127" relname="condition">Если же связь с аппаратом восстановить не удастся,</segment>
+		<segment id="127" parent="128" relname="span">проект придется завершить,</segment>
+		<segment id="129" parent="134" relname="attribution">констатировал Колвалев.\n\nДиректор Астрокосмического центра ФИАН в свою очередь уточнил,</segment>
+		<segment id="132" parent="134" relname="span">что говорить о выходе телескопа из строя говорить нельзя,</segment>
+		<segment id="133" parent="132" relname="cause-effect">так как от него идут сигналы.</segment>
+		<segment id="137" parent="139" relname="joint">\"Пока не могут разобраться с управлением,</segment>
+		<segment id="138" parent="139" relname="joint">и как раз на это будут направлены те сеансы, которые будут\",</segment>
+		<segment id="140" parent="141" relname="attribution">- пояснил он ТАСС.</segment>
+		<segment id="141" parent="142" relname="span">О статусе аппарата можно будет говорить в понедельник.\n\n\"Радиоастрон\" - международный космический проект, нацеленный на фундаментальные исследования Вселенной.</segment>
+		<segment id="144" parent="145" relname="span">Космический телескоп \"Спектр-Р\" является его основным элементом.</segment>
+		<segment id="146" parent="152" relname="span">Аппарат был запущен 18 июля 2011 года с космодрома Байконур ракетой \"Зенит\".</segment>
+		<segment id="147" parent="151" relname="span">Он находится на эллиптической орбите с высотой апогея около 350 тыс. км.\n\nГлавная задача аппарата - интерферометрические наблюдения активных ядер галактик, пульсаров, квазаров, межзвездных газовых облаков.</segment>
+		<segment id="148" parent="150" relname="span">Это самый большой в истории космический радиотелескоп,</segment>
+		<segment id="149" parent="148" relname="elaboration">он включен в книгу рекордов Гиннесса.\n\nИсточник: https://www.newsru.com/hitech/12Jan2019/spectrr.html\n</segment>
+		<group id="66" type="multinuc" parent="158" relname="joint"/>
+		<group id="62" type="multinuc" parent="66" relname="restatement"/>
+		<group id="60" type="multinuc" parent="62" relname="joint"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="57" type="span" parent="59" relname="span"/>
+		<group id="65" type="span" parent="66" relname="restatement"/>
+		<group id="157" type="multinuc" parent="158" relname="joint"/>
+		<group id="99" type="multinuc" parent="157" relname="joint"/>
+		<group id="83" type="multinuc" parent="99" relname="joint"/>
+		<group id="69" type="span" parent="83" relname="sequence"/>
+		<group id="82" type="span" parent="83" relname="sequence"/>
+		<group id="74" type="span" parent="82" relname="span"/>
+		<group id="73" type="span" parent="70" relname="elaboration"/>
+		<group id="81" type="span" parent="74" relname="cause-effect"/>
+		<group id="77" type="span" parent="80" relname="cause-effect"/>
+		<group id="80" type="multinuc" parent="81" relname="span"/>
+		<group id="98" type="span" parent="99" relname="joint"/>
+		<group id="90" type="span" parent="98" relname="span"/>
+		<group id="89" type="span" parent="84" relname="elaboration"/>
+		<group id="88" type="multinuc" parent="85" relname="interpretation-evaluation"/>
+		<group id="97" type="span" parent="90" relname="attribution"/>
+		<group id="95" type="span" parent="97" relname="span"/>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="156" type="multinuc" parent="157" relname="joint"/>
+		<group id="118" type="multinuc" parent="156" relname="joint"/>
+		<group id="106" type="span" parent="118" relname="joint"/>
+		<group id="105" type="multinuc" parent="106" relname="span"/>
+		<group id="117" type="span" parent="118" relname="joint"/>
+		<group id="109" type="multinuc" parent="117" relname="span"/>
+		<group id="116" type="span" parent="109" relname="elaboration"/>
+		<group id="114" type="span" parent="116" relname="span"/>
+		<group id="113" type="multinuc" parent="110" relname="elaboration"/>
+		<group id="155" type="multinuc" parent="156" relname="joint"/>
+		<group id="125" type="multinuc" parent="155" relname="joint"/>
+		<group id="124" type="span" parent="125" relname="joint"/>
+		<group id="123" type="multinuc" parent="124" relname="span"/>
+		<group id="154" type="multinuc" parent="155" relname="joint"/>
+		<group id="136" type="span" parent="154" relname="joint"/>
+		<group id="128" type="span" parent="135" relname="condition"/>
+		<group id="135" type="span" parent="136" relname="span"/>
+		<group id="134" type="span" parent="135" relname="span"/>
+		<group id="153" type="multinuc" parent="154" relname="joint"/>
+		<group id="145" type="span" parent="153" relname="joint"/>
+		<group id="143" type="span" parent="144" relname="solutionhood"/>
+		<group id="139" type="multinuc" parent="143" relname="span"/>
+		<group id="142" type="span" parent="139" relname="attribution"/>
+		<group id="152" type="span" parent="153" relname="joint"/>
+		<group id="151" type="span" parent="146" relname="elaboration"/>
+		<group id="150" type="span" parent="147" relname="elaboration"/>
+		<group id="158" type="multinuc"/>
+	</body>
+</rst>

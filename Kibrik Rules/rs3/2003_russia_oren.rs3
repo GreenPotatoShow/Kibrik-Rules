@@ -1,0 +1,31 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="22" relname="preparation">Губернатор Оренбургской области Алексей Чернышов сохранил свой пост\n\</segment>
+		<segment id="10" parent="12" relname="span">nНа состоявшихся в минувшее воскресенье губернаторских выборах в Оренбургской области действующий губернатор подтвердил свои полномочия.</segment>
+		<segment id="11" parent="10" relname="elaboration">Об этом в понедельник сообщили в избирательной комиссии этого региона</segment>
+		<segment id="13" parent="15" relname="joint">.\n\nГлава администрации Оренбургской области Алексей Чернышов заручился поддержкой 63,83 процента голосов избирателей.\n\nЕго ближайший соперник - депутат Госдумы и предприниматель Олег Наумов</segment>
+		<segment id="14" parent="15" relname="joint">- получил лишь 10,55 процента голосов жителей области, пришедших на избирательные участки.\n\nПротив всех проголосовали 8,24% избирателей.</segment>
+		<segment id="17" parent="18" relname="attribution">В облизбиркоме отметили,</segment>
+		<segment id="18" parent="19" relname="span">что явка на выборы губернатора составила 55,74%.\n\</segment>
+		<segment id="20" parent="19" relname="purpose">nДля победы на выборах в первом туре было необходимо набрать более 50% голосов.\n\nИсточник: https://www.newsru.com/russia/08Dec2003/oren.html\n</segment>
+		<group id="22" type="multinuc" parent="23" relname="span"/>
+		<group id="16" type="multinuc" parent="22" relname="comparison"/>
+		<group id="12" type="span" parent="16" relname="sequence"/>
+		<group id="15" type="multinuc" parent="16" relname="sequence"/>
+		<group id="21" type="span" parent="22" relname="comparison"/>
+		<group id="19" type="span" parent="21" relname="span"/>
+		<group id="23" type="span"/>
+	</body>
+</rst>

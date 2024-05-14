@@ -1,0 +1,101 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="41" parent="43" relname="span">Советники рекомендуют Трампу</segment>
+		<segment id="42" parent="41" relname="purpose">для увеличения рейтинга</segment>
+		<segment id="44" parent="46" relname="span">не упоминать Россию всуе\n\nСоветники президента США Дональда Трампа рекомендовали ему реже затрагивать тему России,</segment>
+		<segment id="45" parent="44" relname="purpose">чтобы отвлечь внимание общества от ведущегося в стране расследования о предполагаемых связях главы государства с Москвой.\n\nВ частности, советники просили Трампа не упоминать РФ 21 июня - во время выступления в городе Сидар-Рапидс (штат Айова),</segment>
+		<segment id="48" parent="54" relname="span">сообщил телеканалу NBC некий высокопоставленный чиновник в окружении Трампа.\n\nПо данным СМИ,</segment>
+		<segment id="49" parent="53" relname="sequence">в Сидар-Рапидс глава государства посещал сельскохозяйственные объекты,</segment>
+		<segment id="50" parent="51" relname="attribution">а затем выступил с речью.\n\nОтмечается,</segment>
+		<segment id="51" parent="52" relname="span">что Трамп выполнил эту просьбу советников.</segment>
+		<segment id="56" parent="58" relname="span">Он ни словом не обмолвился о России во время своего выступления,</segment>
+		<segment id="57" parent="56" relname="background">которое состоялось вечером среды.</segment>
+		<segment id="59" parent="60" relname="contrast">Однако выдержки президента хватило лишь на несколько часов.</segment>
+		<segment id="61" parent="69" relname="span">Уже в четверг утром он оставил следующую запись в своем аккаунте в Twitter:</segment>
+		<segment id="62" parent="66" relname="same-unit">\"Кстати,</segment>
+		<segment id="63" parent="64" relname="condition">если Россия вмешивалась в выборы 2016 году,</segment>
+		<segment id="64" parent="65" relname="span">все это происходило при администрации Обамы.</segment>
+		<segment id="67" parent="68" relname="span">Почему они не остановили их?\"\n\</segment>
+		<segment id="71" parent="80" relname="attribution">nПо информации телеканала,</segment>
+		<segment id="72" parent="75" relname="attribution">советники считают,</segment>
+		<segment id="73" parent="75" relname="joint">что Трампу и его администрации удалось достичь некоторых успехов</segment>
+		<segment id="74" parent="75" relname="joint">и президенту следовало бы обратить внимание общественности на них.</segment>
+		<segment id="77" parent="78" relname="purpose">Это позволило бы ему упрочить свои позиции.\n\nРанее сообщалось,</segment>
+		<segment id="78" parent="79" relname="span">что рейтинг одобрения деятельности главы Белого дома достиг рекордно низкого уровня - всего 38%.</segment>
+		<segment id="82" parent="86" relname="span">Одной из причин этого называлось увольнение директора ФБР Джеймса Коми,</segment>
+		<segment id="83" parent="85" relname="joint">которое некоторые связали с расследованием против Трампа.\n\nКак известно,</segment>
+		<segment id="84" parent="85" relname="joint">американского лидера подозревают в сговоре с Кремлем во время предвыборной кампании в США.</segment>
+		<segment id="87" parent="92" relname="attribution">Американские спецслужбы полагают,</segment>
+		<segment id="88" parent="92" relname="span">что российские хакеры совершили атаки на серверы национального комитета Демократической партии Хиллари Клинтон,</segment>
+		<segment id="89" parent="91" relname="sequence">похитив компрометирующие ее материалы,</segment>
+		<segment id="90" parent="91" relname="sequence">которые затем были опубликованы в Сети.</segment>
+		<segment id="94" parent="104" relname="joint">Клинтон являлась соперницей Трампа на выборах президента.</segment>
+		<segment id="95" parent="102" relname="attribution">По мнению следователей,</segment>
+		<segment id="96" parent="98" relname="joint">произошедший скандал с утечкой повлиял на ее позиции</segment>
+		<segment id="97" parent="98" relname="joint">и помог Трампу одержать победу.\n\nПо версии спецслужб,</segment>
+		<segment id="99" parent="101" relname="span">победа Трампа была выгодна Кремлю,</segment>
+		<segment id="100" parent="99" relname="cause-effect">так как российские власти понимали, что с ним проще наладить взаимодействие, чем с Клинтон.</segment>
+		<segment id="110" parent="114" relname="joint">Из-за этого Трампа заподозрили в возможном сговоре с Москвой.\n\nАмериканский лидер категорически отрицает инкриминируемую ему связь с Кремлем,</segment>
+		<segment id="111" parent="112" relname="attribution">он также заявлял,</segment>
+		<segment id="112" parent="113" relname="span">что не верит в причастность России к хакерским атакам.</segment>
+		<segment id="115" parent="116" relname="attribution">Трамп уже неоднократно называл</segment>
+		<segment id="116" parent="117" relname="span">ведущееся расследование крупнейшей охотой на ведьм.\n\nИсточник: https://www.newsru.com/world/23Jun2017/vsue.html\n</segment>
+		<group id="109" type="multinuc" parent="119" relname="span"/>
+		<group id="55" type="span" parent="109" relname="joint"/>
+		<group id="47" type="multinuc" parent="55" relname="span"/>
+		<group id="43" type="span" parent="47" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="54" type="span" parent="47" relname="attribution"/>
+		<group id="53" type="multinuc" parent="48" relname="background"/>
+		<group id="52" type="span" parent="53" relname="sequence"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="70" type="multinuc" parent="108" relname="joint"/>
+		<group id="60" type="multinuc" parent="70" relname="joint"/>
+		<group id="58" type="span" parent="60" relname="contrast"/>
+		<group id="69" type="span" parent="70" relname="joint"/>
+		<group id="68" type="span" parent="61" relname="elaboration"/>
+		<group id="66" type="multinuc" parent="67" relname="cause-effect"/>
+		<group id="65" type="span" parent="66" relname="same-unit"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="81" type="span" parent="107" relname="joint"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="76" type="span" parent="80" relname="span"/>
+		<group id="75" type="multinuc" parent="76" relname="span"/>
+		<group id="79" type="span" parent="76" relname="purpose"/>
+		<group id="106" type="multinuc" parent="107" relname="joint"/>
+		<group id="86" type="span" parent="106" relname="joint"/>
+		<group id="85" type="multinuc" parent="82" relname="background"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="93" type="span" parent="105" relname="joint"/>
+		<group id="92" type="span" parent="93" relname="span"/>
+		<group id="91" type="multinuc" parent="88" relname="elaboration"/>
+		<group id="104" type="multinuc" parent="105" relname="joint"/>
+		<group id="103" type="span" parent="104" relname="joint"/>
+		<group id="102" type="multinuc" parent="103" relname="span"/>
+		<group id="98" type="multinuc" parent="102" relname="joint"/>
+		<group id="101" type="span" parent="102" relname="joint"/>
+		<group id="118" type="multinuc" parent="109" relname="background"/>
+		<group id="114" type="multinuc" parent="118" relname="joint"/>
+		<group id="113" type="span" parent="114" relname="joint"/>
+		<group id="117" type="span" parent="118" relname="joint"/>
+		<group id="119" type="span"/>
+	</body>
+</rst>

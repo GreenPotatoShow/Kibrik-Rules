@@ -1,0 +1,89 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="36" parent="38" relname="span">Лавров и Тиллерсон на встрече в Нью-Йорке обсудили Сирию и Украину\n\nГлава Министерства иностранных дел РФ Сергей Лавров и госсекретарь США Рекс Тиллерсон в ходе встречи в воскресенье в постоянном представительстве РФ при Организации Объединенных Наций (ООН) в Нью-Йорке обсудили взаимодействие по Сирии, ситуацию на Ближнем Востоке и процесс урегулирования кризиса на Украине.</segment>
+		<segment id="37" parent="36" relname="attribution">Об этом заявила журналистам официальный представитель МИД РФ Мария Захарова.\n\n\"17 сентября в Нью-Йорке состоялась встреча министра иностранных дел РФ Сергея Лаврова и госсекретаря США Тиллерсона.</segment>
+		<segment id="39" parent="55" relname="joint">Стороны обсудили взаимодействие по сирийскому кризису и другие аспекты ситуации на Ближнем Востоке и на севере Африки, а также ход реализации минских договоренностей\",</segment>
+		<segment id="40" parent="41" relname="attribution">- сказала по итогам переговоров Захарова,</segment>
+		<segment id="41" parent="42" relname="span">слова которой приводит ТАСС</segment>
+		<segment id="43" parent="52" relname="attribution">.\n\nВ свою очередь в заявлении главы пресс-службы Госдепартамента США Хизер Нойерт говорится,</segment>
+		<segment id="44" parent="47" relname="attribution">что глава МИД РФ Сергей Лавров и госсекретарь США Рекс Тиллерсон вновь заявили</segment>
+		<segment id="45" parent="47" relname="span">о приверженности устранению конфликтных ситуаций</segment>
+		<segment id="46" parent="45" relname="condition">при проведении военных операций в Сирии,</segment>
+		<segment id="49" parent="51" relname="joint">а также снижению уровня насилия в арабской республике.\n\nВстреча Лаврова и Тиллерсона носила неформальный характер</segment>
+		<segment id="50" parent="51" relname="joint">и продолжалась около 45 минут.\n\nВ последний раз Тиллерсон и Лавров общались 31 августа.</segment>
+		<segment id="56" parent="57" relname="attribution">Как сообщалось,</segment>
+		<segment id="57" parent="58" relname="span">глава Госдепа во время телефонного разговора предупредил российского министра о новых ограничениях со стороны Вашингтона, в частности о закрытии Генконсульства России в Сан-Франциско.</segment>
+		<segment id="59" parent="61" relname="span">В МИД РФ после этого выразили сожаление</segment>
+		<segment id="60" parent="59" relname="cause-effect">в связи с эскалацией напряженности в двусторонних отношениях.\n\nРоссийская делегация во главе с Сергеем Лавровым начала работу на 72-й сессии Генеральной ассамблеи ООН.</segment>
+		<segment id="62" parent="65" relname="attribution">Ранее замглавы МИД РФ Сергей Рябков заявил,</segment>
+		<segment id="63" parent="65" relname="sequence">что встреча глав внешнеполитических ведомств России и США должна показать,</segment>
+		<segment id="64" parent="65" relname="sequence">что в двусторонних отношениях виден свет в конце тоннеля.\n\nОтметим, что во вторник, 19 сентября, президент США Дональд Трамп впервые выступит с речью перед членами ООН по вопросу реформирования этой организации.</segment>
+		<segment id="69" parent="74" relname="attribution">Пресса писала,</segment>
+		<segment id="70" parent="74" relname="joint">что глава американского государства укажет на особое значение Соединенных Штатов для мирового сообщества</segment>
+		<segment id="71" parent="72" relname="attribution">.\n\nНа прошлой неделе помощник президента России Юрий Ушаков сообщил,</segment>
+		<segment id="72" parent="73" relname="span">что президент РФ Владимир Путин не получал от Трампа приглашения на предстоящий саммит.</segment>
+		<segment id="76" parent="77" relname="attribution">Reuters со ссылкой на собственные источники сообщало,</segment>
+		<segment id="77" parent="78" relname="span">что на встречу приглашены лидеры стран, которые подписали подготовленную Вашингтоном декларацию с призывом к генеральному секретарю ООН Антониу Гуттеришу</segment>
+		<segment id="79" parent="80" relname="purpose">\"начать эффективную и целесообразную реформу\" организации.\n\nВ рамках сессии в четверг, 21 сентября,</segment>
+		<segment id="80" parent="81" relname="span">Совет Безопасности ООН проведет заседание, посвященное борьбе с распространением оружия массового уничтожения (ОМУ),</segment>
+		<segment id="82" parent="86" relname="same-unit">сообщил \"Интерфаксу\" пресс-секретарь постоянного представительства РФ при ООН Федор Стржижовский.\n\nКроме того,</segment>
+		<segment id="83" parent="84" relname="attribution">как сообщила официальный представитель российского внешнеполитического ведомства Мария Захарова,</segment>
+		<segment id="84" parent="85" relname="span">Лавров в рамках поездки на Генеральную ассамблею ООН примет участие в заседании совета министров иностранных дел Шанхайской организации сотрудничества.\n\n\"Повестка дня встречи предусматривает обсуждение первоочередных задач и приоритетные направления развития и деятельности Шанхайской организации сотрудничества на новом этапе\",</segment>
+		<segment id="89" parent="88" relname="attribution">- сказала Захарова.</segment>
+		<segment id="92" parent="94" relname="span">\"Состоится также обмен мнениями по актуальным глобальным и региональным проблемам с прицелом на укрепление международной роли организации.</segment>
+		<segment id="93" parent="92" relname="elaboration">В этом мероприятии запланировано участие генерального секретаря ООН господина Гуттериша\",</segment>
+		<segment id="95" parent="94" relname="attribution">- добавила она.\n\</segment>
+		<segment id="97" parent="99" relname="span">nНапомним, сессия Генассамблеи ООН проходит на фоне активной фазы кризиса на Корейском полуострове.</segment>
+		<segment id="98" parent="97" relname="elaboration">В минувшую пятницу состоялись закрытые консультации СБ ООН по ситуации вокруг КНДР после очередного запуска баллистической ракеты этой страной.\n\nИсточник: https://www.newsru.com/world/18Sep2017/lavrov_tillerson.html\n</segment>
+		<group id="38" type="span" parent="103" relname="preparation"/>
+		<group id="103" type="span" parent="104" relname="span"/>
+		<group id="55" type="multinuc" parent="102" relname="preparation"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="42" type="span" parent="53" relname="attribution"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="48" type="span" parent="52" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="102" type="multinuc" parent="103" relname="span"/>
+		<group id="68" type="multinuc" parent="102" relname="joint"/>
+		<group id="58" type="span" parent="68" relname="joint"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="61" type="span" parent="67" relname="sequence"/>
+		<group id="66" type="span" parent="67" relname="sequence"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="101" type="multinuc" parent="102" relname="joint"/>
+		<group id="91" type="multinuc" parent="101" relname="joint"/>
+		<group id="75" type="span" parent="91" relname="joint"/>
+		<group id="74" type="multinuc" parent="75" relname="span"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="88" type="span" parent="90" relname="span"/>
+		<group id="78" type="span" parent="88" relname="span"/>
+		<group id="87" type="multinuc" parent="78" relname="purpose"/>
+		<group id="81" type="span" parent="87" relname="joint"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="85" type="span" parent="86" relname="same-unit"/>
+		<group id="100" type="multinuc" parent="101" relname="joint"/>
+		<group id="96" type="span" parent="100" relname="joint"/>
+		<group id="94" type="span" parent="96" relname="span"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="104" type="span"/>
+	</body>
+</rst>

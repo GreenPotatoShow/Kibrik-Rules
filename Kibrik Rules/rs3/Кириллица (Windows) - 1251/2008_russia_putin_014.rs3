@@ -1,0 +1,45 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="24" relname="sequence">Владимир Путин поздравил Дмитрия Медведева с победой на президентских выборах\n\nНа Васильевском спуске в Москве вечером 2 марта прошел концерт \"Россия, вперед\", в котором приняли участие многие известные поп и рок-группы.</segment>
+		<segment id="19" parent="21" relname="sequence">К 35 тысячам зрителей вышли Владимир Путин и Дмитрий Медведев.\n\nВице-премьер правительства РФ обратился к зрителям со словами благодарности за то, они пришли на выборы</segment>
+		<segment id="20" parent="21" relname="sequence">и проголосовали за него.\n\</segment>
+		<segment id="22" parent="23" relname="sequence">nВ свою очередь Владимир Путин поздравил Дмитрия Медведева с \"уверенной победой\" на выборах президента.</segment>
+		<segment id="25" parent="49" relname="span">\"Выборы президента Российской Федерации состоялись.</segment>
+		<segment id="26" parent="30" relname="joint">Наш кандидат Дмитрий Анатольевич Медведев уверенно лидирует.</segment>
+		<segment id="27" parent="29" relname="joint">Я поздравляю Дмитрия Анатольевича Медведева</segment>
+		<segment id="28" parent="29" relname="joint">и желаю ему успехов\",</segment>
+		<segment id="31" parent="35" relname="span">- сказал третий президент России.\n\nНа момент выступления Путина,</segment>
+		<segment id="34" parent="31" relname="background">которое в прямом эфире транслировалось по НТВ, было обработано только 40% бюллетеней.</segment>
+		<segment id="36" parent="46" relname="joint">При этом у Медведева было более 66% голосов.\n\nПрезидентские выборы прошли в России в пятый раз.</segment>
+		<segment id="37" parent="45" relname="joint">Пост президента РФ был учрежден на всенародном референдуме в 1991 году.</segment>
+		<segment id="38" parent="40" relname="span">Первым главой государства был ныне покойный Борис Ельцин.\n\nВторой президент России - Владимир Путин,</segment>
+		<segment id="39" parent="38" relname="background">избранный на эту должность в 2000 году,</segment>
+		<segment id="41" parent="43" relname="joint">уже отработал два предусмотренных Конституцией РФ четырехлетних срока</segment>
+		<segment id="42" parent="43" relname="joint">и 7 мая должен покинуть высший государственный пост.\n\nИсточник: https://www.newsru.com/russia/02Mar2008/putin.html\n</segment>
+		<group id="24" type="multinuc" parent="50" relname="joint"/>
+		<group id="23" type="multinuc" parent="24" relname="sequence"/>
+		<group id="21" type="multinuc" parent="23" relname="sequence"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="48" type="span" parent="25" relname="elaboration"/>
+		<group id="30" type="multinuc" parent="47" relname="preparation"/>
+		<group id="29" type="multinuc" parent="30" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="span"/>
+		<group id="35" type="span" parent="47" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="40" type="span" parent="44" relname="sequence"/>
+		<group id="43" type="multinuc" parent="44" relname="sequence"/>
+		<group id="50" type="multinuc"/>
+	</body>
+</rst>

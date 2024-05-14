@@ -1,0 +1,47 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="49" relname="preparation">Британский миллиардер снимет фильм о сложных отношениях музыкантов The Rolling Stones\n\nИстория создания одного из лучших альбомов The Rolling Stones - Exile On Main Street и сложные взаимоотношения участников британской рок-группы Мика Джаггера и Кита Ричардса лягут в основу нового фильма о легендарных музыкантах.</segment>
+		<segment id="19" parent="21" relname="span">Полнометражную художественную картину о бурной жизни коллектива,</segment>
+		<segment id="20" parent="19" relname="attribution">как сообщили 23 апреля местные средства массовой информации,</segment>
+		<segment id="22" parent="23" relname="sequence">решил снять британский миллиардер Ричард Брэнсон.\n\nОснователь звукозаписывающей компании Virgin Records приобрел права на экранизацию книги Роберта Гринфилда \"Изгнание на Мейн-стрит: Сезон в аду вместе с \"Роллинг стоунз\" (Exile On Main Street: A Season In Hell With The Rolling Stones).</segment>
+		<segment id="24" parent="26" relname="span">Сценарий напишут братья Брэндон и Фил Мерфи.\n\nОб условиях работы над альбомом в подвале виллы, арендованной Ричардсом на юге Франции в начале 1970-х годов,</segment>
+		<segment id="25" parent="24" relname="elaboration">не так давно рассказывалось в документальной ленте \"Роллинг стоунз\" в изгнании\".</segment>
+		<segment id="30" parent="32" relname="span">Однако процесс записи 10-й пластинки рок-группы, проходившей в атмосфере сплошной вечеринки, как считает энергичный предприниматель,</segment>
+		<segment id="31" parent="30" relname="purpose">достаточно интересен для того, чтобы превратить его в полнометражный художественный фильм.\n\n12 июля исполнится ровно полвека с момента первого выступления культового коллектива именно под названием The Rolling Stones.</segment>
+		<segment id="33" parent="32" relname="background">Оно состоялось в не менее знаменитом лондонском клубе The Marquee.</segment>
+		<segment id="35" parent="47" relname="joint">Состав группы тогда выглядел следующим образом - Джаггер, Ричардс, гитарист Брайан Джонс, клавишник Иэн Стюарт, басист Дик Тейлор и ударник Тони Чепмэн.\n\nС тех пор коллектив исколесил весь мир более чем с 40 концертными турами.</segment>
+		<segment id="36" parent="38" relname="sequence">Последний раз музыканты приезжали в Россию 28 июля 2007 года,</segment>
+		<segment id="37" parent="38" relname="sequence">когда состоялось их грандиозное выступление на Дворцовой площади Санкт-Петербурга.\n\nВ честь своего 50-летия The Rolling Stones решили также выпустить фотоальбом, который поступит в продажу 12 июля.</segment>
+		<segment id="39" parent="41" relname="span">В 352-страничное издание \"The Rolling Stones: 50\" войдут 700 иллюстраций,</segment>
+		<segment id="40" parent="39" relname="elaboration">300 из которых - в цвете.</segment>
+		<segment id="42" parent="44" relname="span">Все фотографии, отобранные лично музыкантами, сопровождаются их комментариями.</segment>
+		<segment id="43" parent="42" relname="elaboration">Стоимость альбома составляет около 30 фунтов стерлингов (48 долларов).\n\nИсточник: https://www.newsru.com/cinema/23Apr2012/rollingsfilm.html\n</segment>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="27" type="multinuc" parent="49" relname="joint"/>
+		<group id="23" type="multinuc" parent="27" relname="joint"/>
+		<group id="21" type="span" parent="23" relname="sequence"/>
+		<group id="26" type="span" parent="27" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="34" type="span" parent="48" relname="joint"/>
+		<group id="32" type="span" parent="34" relname="span"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="38" type="multinuc" parent="46" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="41" type="span" parent="45" relname="joint"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

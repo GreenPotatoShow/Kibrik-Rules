@@ -1,0 +1,60 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="25" relname="span">В Москве задержаны создатели сайта \"Коготь\", распространявшие компромат на известных людей\n\nСотрудники милиции задержали создателей сайта \"Коготь\",</segment>
+		<segment id="24" parent="23" relname="elaboration">распространявших в интернете компрометирующие материалы на известных людей.</segment>
+		<segment id="26" parent="25" relname="attribution">Об этом сообщил сегодня на брифинге в ГУВД Москвы Дмитрий Чепчугов, начальник управления по борьбе с преступлениями в сфере высоких технологий.\n\</segment>
+		<segment id="28" parent="29" relname="attribution">nПо его словам,</segment>
+		<segment id="29" parent="30" relname="span">эту операцию сотрудники милиции проводили совместно с Федеральным бюро расследований США.</segment>
+		<segment id="31" parent="33" relname="span">Основанием для \"дела\" стало заявление гражданина,</segment>
+		<segment id="32" parent="31" relname="elaboration">статья о котором появилась на этом сайте.</segment>
+		<segment id="35" parent="37" relname="joint">В ходе оперативно-розыскных мероприятий удалось установить</segment>
+		<segment id="36" parent="37" relname="joint">и задержать всех организаторов и исполнителей этого преступления.</segment>
+		<segment id="38" parent="40" relname="joint">Ими оказались несколько сотрудников одного из частных охранных предприятий России,</segment>
+		<segment id="39" parent="40" relname="joint">а также частная компания, находящаяся на территории США,</segment>
+		<segment id="41" parent="45" relname="span">но организованная выходцами из России</segment>
+		<segment id="42" parent="43" relname="attribution">.\n\nКак заявил Чепчугов,</segment>
+		<segment id="43" parent="44" relname="span">уголовное дело возбуждено по статье 137 УК РФ \"нарушение неприкосновенности частной жизни\".</segment>
+		<segment id="47" parent="60" relname="preparation">Расследованием этого преступления занимается прокуратура Москвы.</segment>
+		<segment id="48" parent="50" relname="span">Сообщить фамилии кого-либо из задержанных, названия фирм и другую информацию по этому делу Чепчугов отказался,</segment>
+		<segment id="49" parent="48" relname="interpretation-evaluation">сославшись на тайну следствия.\n\</segment>
+		<segment id="51" parent="50" relname="elaboration">nОтвечая на вопрос о правомочности работы в интернете сайта \"Компромат.ру\",</segment>
+		<segment id="53" parent="54" relname="attribution">он сказал,</segment>
+		<segment id="54" parent="55" relname="span">что оснований для проведения расследования нет.</segment>
+		<segment id="56" parent="58" relname="span">\"Ни от одного из лиц, упоминающихся на этом сайте, заявлений в милицию не поступало\",</segment>
+		<segment id="57" parent="56" relname="attribution">подчеркнул Дмитрий Чепчугов.\n\nИсточник: https://www.newsru.com/russia/14Feb2001/kogot.html\n</segment>
+		<group id="27" type="span" parent="64" relname="preparation"/>
+		<group id="25" type="span" parent="27" relname="span"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="34" type="span" parent="63" relname="preparation"/>
+		<group id="30" type="span" parent="34" relname="span"/>
+		<group id="33" type="span" parent="30" relname="purpose"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="37" type="multinuc" parent="62" relname="preparation"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="46" type="multinuc" parent="62" relname="joint"/>
+		<group id="40" type="multinuc" parent="46" relname="contrast"/>
+		<group id="45" type="span" parent="46" relname="contrast"/>
+		<group id="44" type="span" parent="41" relname="elaboration"/>
+		<group id="61" type="span" parent="62" relname="joint"/>
+		<group id="60" type="multinuc" parent="61" relname="span"/>
+		<group id="52" type="span" parent="60" relname="joint"/>
+		<group id="50" type="span" parent="52" relname="span"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="55" type="span" parent="59" relname="span"/>
+		<group id="58" type="span" parent="55" relname="elaboration"/>
+		<group id="65" type="span"/>
+	</body>
+</rst>

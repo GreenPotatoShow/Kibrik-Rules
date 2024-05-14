@@ -1,0 +1,47 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="18" relname="span">Пострадавшей при взрыве на Киевском шоссе сделают пластическую операцию в Израиле\n\n28-летняя москвича Татьяна Сапунова,</segment>
+		<segment id="17" parent="16" relname="background">пострадавшая в результате взрыва на Киевском шоссе,</segment>
+		<segment id="19" parent="21" relname="span">отправится во вторник в Израиль,</segment>
+		<segment id="20" parent="19" relname="elaboration">где ей будет сделана пластическая операция,</segment>
+		<segment id="23" parent="22" relname="attribution">сообщает \"Интерфакс\".\n\</segment>
+		<segment id="25" parent="27" relname="span">nКак сообщили в 1-й градской больнице Москвы,</segment>
+		<segment id="26" parent="25" relname="background">куда была помещена пострадавшая,</segment>
+		<segment id="28" parent="34" relname="joint">Сапунову будут сопровождать ее мать Елена и главный раввин России (ФЕОР) Берл Лазар.\n\nНакануне целый ряд видных клиник Израиля, в частности, медицинский центр в городе Хайфа,</segment>
+		<segment id="29" parent="33" relname="span">предложили москвичке свои бесплатные услуги.\n\nОднако Федерация еврейских общин России,</segment>
+		<segment id="30" parent="32" relname="joint">которая взяла на себя расходы по излечению Сапуновой,</segment>
+		<segment id="31" parent="32" relname="joint">предпочла самую лучшую - тель-авивскую клинику пластической хирургии \"Тель-Ашонэр\".\n\</segment>
+		<segment id="36" parent="37" relname="cause-effect">nВ настоящее время прогнозы российских врачей относительно перспектив реабилитации пострадавшей выглядят достаточно оптимистично.\n\nВ конце мая Сапунова получила ранения</segment>
+		<segment id="37" parent="38" relname="span">в результате взрыва,</segment>
+		<segment id="39" parent="41" relname="span">прогремевшего в тот момент,</segment>
+		<segment id="40" parent="39" relname="condition">когда она попыталась убрать антисемитский плакат с обочины Киевского шоссе.\n\nИсточник: https://www.newsru.com/russia/04Jun2002/sapunova.html\n</segment>
+		<group id="24" type="span" parent="43" relname="preparation"/>
+		<group id="22" type="span" parent="24" relname="span"/>
+		<group id="18" type="span" parent="22" relname="span"/>
+		<group id="21" type="span" parent="18" relname="elaboration"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="35" type="multinuc" parent="43" relname="joint"/>
+		<group id="27" type="span" parent="35" relname="sequence"/>
+		<group id="34" type="multinuc" parent="35" relname="sequence"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="32" type="multinuc" parent="29" relname="purpose"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="38" type="span" parent="42" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="44" type="span"/>
+	</body>
+</rst>

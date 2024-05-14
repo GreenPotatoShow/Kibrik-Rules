@@ -1,0 +1,101 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="42" parent="44" relname="span">Следователи на Урале не нашли криминала в распиле учеными древнейшей скульптуры - Большого Шигирского идола\n\nВ Свердловской области прекращено уголовное дело о повреждении Большого Шигирского идола,</segment>
+		<segment id="43" parent="42" relname="elaboration">фрагмент которого при исследовании был распилен на две части,</segment>
+		<segment id="45" parent="47" relname="span">сообщает сайт регионального следственного управления следственного комитета России (СУ СКР).\n\nСледователи провели тщательное расследование,</segment>
+		<segment id="46" parent="45" relname="purpose">в ходе которого была проведена \"комиссионная историко-культурная экспертиза\" с привлечением специалистов ведущих институтов Российской академии наук.\n\n</segment>
+		<segment id="49" parent="52" relname="attribution">\"Согласно заключению экспертов,</segment>
+		<segment id="50" parent="52" relname="joint">научно-исследовательские работы, проведенные с музейным предметом \"Большой Шигирский идол\" в июне 2014 года в Свердловском областном краеведческом музее,</segment>
+		<segment id="51" parent="52" relname="joint">не повлекли причинения повреждения либо ущерба с точки зрения изменения объекта, потери его частей либо значимости и археологической ценности\",</segment>
+		<segment id="54" parent="53" relname="attribution">- говорится в сообщении СУ СКР.\n\</segment>
+		<segment id="56" parent="66" relname="joint">nОтмечается, что \"проведенные работы не нанесли вреда сохранности экспоната и его внешнему облику\".</segment>
+		<segment id="57" parent="61" relname="joint">\"Использованная методика отбора образцов на тот момент являлась лучшей</segment>
+		<segment id="58" parent="60" relname="joint">и позволяла наиболее точно определить возраст образцов,</segment>
+		<segment id="59" parent="60" relname="joint">извлечь максимум информации при минимальном объеме образца.</segment>
+		<segment id="62" parent="63" relname="span">Таким образом, поперечный разрез нижнего фрагмента музейного экспоната был необходим\",</segment>
+		<segment id="64" parent="63" relname="elaboration">- отмечает следствие.\n\nВ ходе расследования было установлено, что сотрудники музея не совершили \"общественно опасных действий, которые подлежат квалификации согласно действующему уголовному законодательству\".</segment>
+		<segment id="67" parent="69" relname="joint">Уголовное дело было прекращено \"в связи с отсутствием в действиях сотрудников музея состава преступления, предусмотренного ч. 1 ст. 243 УК РФ\" (уничтожение или повреждение объектов культурного наследия или культурных ценностей),</segment>
+		<segment id="68" parent="69" relname="joint">отмечают следователи.\n\nВ ходе расследования следствие установило также недоработку со стороны чиновников Министерства культуры Свердловской области.</segment>
+		<segment id="70" parent="72" relname="joint">Именно с их подачи сотрудников музея проверяли на причастность к уголовному преступлению.\n\nВ СУ СКП выяснили,</segment>
+		<segment id="71" parent="72" relname="joint">что сами чиновники свердловского Минкульта при этом \"не предприняли каких-либо мер, направленных на издание ведомственных актов, регламентирующих производство научно-исследовательской деятельности в отношении музейных ценностей, находящихся в Свердловском областном краеведческом музее\".</segment>
+		<segment id="73" parent="75" relname="span">Они также \"не разработали порядок согласования данной деятельности, привлечения иностранных специалистов, изъятия образцов для исследования\".\n\n\"В связи с изложенным, руководителем регионального следственного управления СК России в адрес министра культуры Свердловской области направлена информация о необходимости выступить с инициативой перед соответствующими должностными лицами Министерства культуры России</segment>
+		<segment id="74" parent="73" relname="purpose">с целью издания нормативных актов, регулирующих указанную деятельность,</segment>
+		<segment id="76" parent="78" relname="span">отсутствие которых, в частности, явилось одним из оснований</segment>
+		<segment id="77" parent="76" relname="purpose">для возбуждения уголовного дела.</segment>
+		<segment id="80" parent="82" relname="joint">До разработки нормативных документов федеральным органом исполнительной власти региональному Министерству культуры предложено самостоятельно разработать ведомственные акты, регламентирующие научно-исследовательскую деятельность в отношении музейных ценностей\",</segment>
+		<segment id="81" parent="82" relname="joint">- отмечают в СУ СКР.\n\nБольшой Шигирский идол был найден золотоискателями в 1880-х годах в торфянике рядом с Шигирским озером на Урале возле нынешнего Кировграда на глубине четырех метров.</segment>
+		<segment id="86" parent="88" relname="joint">Артефакт представлял собой выструганную доску из лиственницы длинной более пяти метров,</segment>
+		<segment id="87" parent="88" relname="joint">с двух сторон испещренную резными геометрическими фигурами и антропоморфными (напоминающими человека) личинами.</segment>
+		<segment id="89" parent="90" relname="comparison">Верх украшала объемная голова.</segment>
+		<segment id="91" parent="96" relname="attribution">Ученые полагали,</segment>
+		<segment id="92" parent="96" relname="contrast">что у идола были также руки и ноги,</segment>
+		<segment id="93" parent="95" relname="joint">но затем пришли к выводу, что реликвия была портативной</segment>
+		<segment id="94" parent="95" relname="joint">и крепилась ко вкопанному в землю столбу.\n\</segment>
+		<segment id="98" parent="102" relname="joint">nВ советское время идол хранился в запасниках Свердловского краеведческого музея</segment>
+		<segment id="99" parent="101" relname="span">и был публично представлен широкой общественности в 2003 году,</segment>
+		<segment id="100" parent="99" relname="background">когда российские ученые изготовили для него уникальный стеклянный саркофаг.\n\nВ июне 2014 года идола впервые извлекли из саркофага</segment>
+		<segment id="103" parent="111" relname="span">и отпилили от него семь щепочек-образцов,</segment>
+		<segment id="104" parent="110" relname="joint">с помощью которых ученые из РФ и Германии решили более точно определить возраст скульптуры,</segment>
+		<segment id="105" parent="108" relname="attribution">а также выяснить, как именно и с помощью каких инструментов она была изготовлена.\n\nНемецкие ученые выяснили,</segment>
+		<segment id="106" parent="108" relname="span">что возраст идола составляет около 11 тыс. лет</segment>
+		<segment id="107" parent="106" relname="elaboration">(на 1,5 тыс. лет старше, чем считалось до этого).</segment>
+		<segment id="113" parent="114" relname="attribution">Это подтверждает,</segment>
+		<segment id="114" parent="115" relname="span">что Шигирский идол является древнейшей монументальной деревянной скульптурой в мире.\n\nИсточник: https://www.newsru.com/russia/29Mar2016/deloclosed.html\n</segment>
+		<group id="48" type="multinuc" parent="121" relname="preparation"/>
+		<group id="44" type="span" parent="48" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="121" type="span" parent="122" relname="span"/>
+		<group id="55" type="span" parent="120" relname="preparation"/>
+		<group id="53" type="span" parent="55" relname="span"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="120" type="multinuc" parent="121" relname="span"/>
+		<group id="66" type="multinuc" parent="120" relname="joint"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="63" type="span" parent="65" relname="span"/>
+		<group id="61" type="multinuc" parent="62" relname="cause-effect"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="119" type="multinuc" parent="120" relname="joint"/>
+		<group id="85" type="multinuc" parent="119" relname="joint"/>
+		<group id="69" type="multinuc" parent="85" relname="joint"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="72" type="multinuc" parent="84" relname="joint"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="79" type="span" parent="83" relname="joint"/>
+		<group id="75" type="span" parent="79" relname="span"/>
+		<group id="78" type="span" parent="75" relname="elaboration"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="118" type="multinuc" parent="119" relname="joint"/>
+		<group id="90" type="multinuc" parent="118" relname="joint"/>
+		<group id="88" type="multinuc" parent="90" relname="comparison"/>
+		<group id="117" type="multinuc" parent="118" relname="joint"/>
+		<group id="97" type="span" parent="117" relname="joint"/>
+		<group id="96" type="multinuc" parent="97" relname="span"/>
+		<group id="95" type="multinuc" parent="96" relname="contrast"/>
+		<group id="116" type="span" parent="117" relname="joint"/>
+		<group id="112" type="multinuc" parent="116" relname="span"/>
+		<group id="102" type="multinuc" parent="112" relname="joint"/>
+		<group id="101" type="span" parent="102" relname="joint"/>
+		<group id="111" type="span" parent="112" relname="joint"/>
+		<group id="110" type="multinuc" parent="103" relname="elaboration"/>
+		<group id="109" type="span" parent="110" relname="joint"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="115" type="span" parent="112" relname="evidence"/>
+		<group id="122" type="span"/>
+	</body>
+</rst>

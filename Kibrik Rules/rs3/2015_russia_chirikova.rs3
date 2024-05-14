@@ -1,0 +1,88 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="36" parent="103" relname="preparation">Эколог Евгения Чирикова увезла семью из России\n\</segment>
+		<segment id="37" parent="39" relname="joint">nЛидер движения в защиту Химкинского леса, общественный деятель Евгения Чирикова покинула Россию</segment>
+		<segment id="38" parent="39" relname="joint">и вместе с семьей переехала в Эстонию,</segment>
+		<segment id="40" parent="39" relname="attribution">передает Delfi со ссылкой на местное телевидение.\n\nВ интервью ERR она заявила:</segment>
+		<segment id="42" parent="44" relname="span">\"Прежде всего, я решила убрать из России свою главную точку уязвимости - детей.</segment>
+		<segment id="43" parent="42" relname="elaboration">Не секрет, что в России идут репрессии в отношении общественных активистов\".</segment>
+		<segment id="46" parent="53" relname="attribution">Она напомнила,</segment>
+		<segment id="47" parent="52" relname="attribution">что в 2013 году активисты готовили доклад о том,</segment>
+		<segment id="48" parent="50" relname="span">\"сколько экологов было убито,</segment>
+		<segment id="49" parent="48" relname="elaboration">посажено в тюрьму,</segment>
+		<segment id="51" parent="52" relname="span">подвергались физическому насилию\".</segment>
+		<segment id="55" parent="57" relname="span">\"К сожалению, ситуация с правами человека в России только ухудшается\",</segment>
+		<segment id="56" parent="55" relname="attribution">- считает Чирикова.\n\</segment>
+		<segment id="60" parent="65" relname="attribution">nПо ее словам,</segment>
+		<segment id="61" parent="65" relname="joint">\"в России идут репрессии в отношении общественных активистов\",</segment>
+		<segment id="62" parent="64" relname="joint">а Эстония - \"свободная страна,</segment>
+		<segment id="63" parent="64" relname="joint">и здесь нет таких ограничений для общественной деятельности\".</segment>
+		<segment id="67" parent="69" relname="span">\"Здесь невозможна типичная для российского общественника ситуация,</segment>
+		<segment id="68" parent="67" relname="condition">когда к нему приходят домой с обыском\",</segment>
+		<segment id="70" parent="69" relname="attribution">- цитирует Чирикову \"Интерфакс\".\n\nДругие цитаты из интервью для публикации выбрало агентство РИА \"Новости\".</segment>
+		<segment id="73" parent="76" relname="attribution">Чирикова заявила,</segment>
+		<segment id="74" parent="76" relname="joint">что Эстония расположена близко от России</segment>
+		<segment id="75" parent="76" relname="joint">и это очень удобно.</segment>
+		<segment id="78" parent="80" relname="span">\"В любой момент могу оперативно приехать в Россию</segment>
+		<segment id="79" parent="78" relname="purpose">для решения своих общественно-экологических вопросов.</segment>
+		<segment id="81" parent="80" relname="elaboration">Здесь я могу более эффективно заниматься своими общественно-экологическими проектами\",</segment>
+		<segment id="83" parent="82" relname="attribution">- отметила она.\n\</segment>
+		<segment id="85" parent="91" relname="same-unit">nТакже,</segment>
+		<segment id="86" parent="88" relname="span">передает РИА,</segment>
+		<segment id="87" parent="86" relname="purpose">для семьи Чириковой \"было приятным сюрпризом,</segment>
+		<segment id="89" parent="90" relname="span">что в Эстонии так много русских\".</segment>
+		<segment id="92" parent="98" relname="joint">У детей нет стресса, связанного с переездом в другую страну,</segment>
+		<segment id="93" parent="95" relname="span">практически все хорошо говорят по-русски,</segment>
+		<segment id="94" parent="93" relname="attribution">отметила эколог.\n\nВ Эстонии общественный деятель планирует заниматься тем, чем занималась и в России,</segment>
+		<segment id="96" parent="95" relname="purpose">- помощью экологическим группам и продвижением зеленой повестки дня.\n\nИсточник: https://www.newsru.com/russia/18Apr2015/chirikova.html\n</segment>
+		<group id="103" type="multinuc" parent="104" relname="span"/>
+		<group id="59" type="multinuc" parent="103" relname="joint"/>
+		<group id="45" type="span" parent="59" relname="joint"/>
+		<group id="41" type="span" parent="45" relname="span"/>
+		<group id="39" type="multinuc" parent="41" relname="span"/>
+		<group id="44" type="span" parent="41" relname="purpose"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="54" type="span" parent="58" relname="span"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="50" type="span" parent="51" relname="cause-effect"/>
+		<group id="57" type="span" parent="54" relname="interpretation-evaluation"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="72" type="multinuc" parent="102" relname="joint"/>
+		<group id="66" type="span" parent="72" relname="joint"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="69" type="span" parent="71" relname="span"/>
+		<group id="101" type="span" parent="102" relname="joint"/>
+		<group id="77" type="span" parent="100" relname="preparation"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="84" type="span" parent="100" relname="joint"/>
+		<group id="82" type="span" parent="84" relname="span"/>
+		<group id="80" type="span" parent="82" relname="span"/>
+		<group id="99" type="multinuc" parent="100" relname="joint"/>
+		<group id="91" type="multinuc" parent="99" relname="joint"/>
+		<group id="90" type="span" parent="91" relname="same-unit"/>
+		<group id="88" type="span" parent="89" relname="attribution"/>
+		<group id="98" type="multinuc" parent="99" relname="joint"/>
+		<group id="97" type="span" parent="98" relname="joint"/>
+		<group id="95" type="span" parent="97" relname="span"/>
+		<group id="104" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,35 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="14" relname="span">В Конго совершена попытка государственного переворота\n\nПравительственные войска контролируют ситуацию в столице Демократической Республики Конго,</segment>
+		<segment id="13" parent="12" relname="background">где сегодня вспыхнули бои с группой неизвестных вооруженных лиц,</segment>
+		<segment id="15" parent="14" relname="elaboration">совершивших нападение на ряд военных постов и телевизионную станцию,</segment>
+		<segment id="17" parent="30" relname="attribution">сообщает ИТАР-ТАСС.\n\nОфициальный представитель правительства Виталь Камере заявил,</segment>
+		<segment id="18" parent="20" relname="joint">что уже \"проведены аресты</segment>
+		<segment id="19" parent="20" relname="joint">и конфисковано оружие и боеприпасы\".\n\nКамере, являющийся министром печати и информации,</segment>
+		<segment id="21" parent="25" relname="span">не сообщил подробности вооруженных столкновений в Киншасе,</segment>
+		<segment id="22" parent="24" relname="joint">не уточнив, кто совершил нападение</segment>
+		<segment id="23" parent="24" relname="joint">и является ли произошедшее мятежом.\n\nДРК в прошлом году вышла из пятилетней гражданской войны,</segment>
+		<segment id="26" parent="25" relname="background">унесшей жизни более 3 млн человек.</segment>
+		<segment id="28" parent="27" relname="background">После достижения соглашение о мире между всеми участниками конфликта было сформировано переходное правительство национального единства.\n\nИсточник: https://www.newsru.com/world/28Mar2004/kongo2.html\n</segment>
+		<group id="16" type="span" parent="31" relname="preparation"/>
+		<group id="14" type="span" parent="16" relname="span"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="30" type="multinuc" parent="31" relname="span"/>
+		<group id="20" type="multinuc" parent="30" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="27" type="span" parent="29" relname="span"/>
+		<group id="25" type="span" parent="27" relname="span"/>
+		<group id="24" type="multinuc" parent="21" relname="background"/>
+		<group id="32" type="span"/>
+	</body>
+</rst>

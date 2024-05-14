@@ -1,0 +1,83 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="36" relname="joint">\"АвтоВАЗ\" привезет в Тольятти европейский завод двигателей,</segment>
+		<segment id="35" parent="36" relname="joint">оставшийся после развода GM с Fiat\n\n\"АвтоВАЗ\" и GM могут объявить о начале строительства моторного завода уже в мае.</segment>
+		<segment id="37" parent="39" relname="span">Причем завод этот,</segment>
+		<segment id="38" parent="37" relname="elaboration">по некоторым данным, будет доставлен в Тольятти не из Индии, а из Европы,</segment>
+		<segment id="40" parent="45" relname="attribution">и будет вполне современным.\n\n\"Ведомости\" утверждают,</segment>
+		<segment id="41" parent="45" relname="span">что задержка в создании нового СП между GM и \"АвтоВАЗом\" вызвана тем, что сейчас завод двигателей,</segment>
+		<segment id="42" parent="44" relname="span">расположенный в венгерском Стенготтарде,</segment>
+		<segment id="43" parent="42" relname="elaboration">контролирует не General Motors, а СП американского концерна и итальянской промышленной группы Fiat - Fiat GM Powertrain.</segment>
+		<segment id="49" parent="51" relname="span">За \"развод\" с Fiat американцы заплатили 2 млрд долларов,</segment>
+		<segment id="50" parent="49" relname="elaboration">раздел активов будет завершен в мае.</segment>
+		<segment id="52" parent="54" relname="sequence">После этого венгерский завод перейдет под полный контроль General Motors,</segment>
+		<segment id="53" parent="54" relname="sequence">и его перевезут в Тольятти,</segment>
+		<segment id="55" parent="57" relname="joint">утверждает газета.\n\nЗавод в Стенготтарде открылся в 1990 году</segment>
+		<segment id="56" parent="57" relname="joint">и сейчас выпускает двигатели и трансмиссии.</segment>
+		<segment id="59" parent="58" relname="elaboration">Ежегодный объем производства - более 600 тысяч двигателей в год объемом 1,4-1,8 л.</segment>
+		<segment id="62" parent="63" relname="attribution">Основными клиентами завода являются Opel, Allison, Saturn и Vauxhall.\n\nВпрочем, другой источник \"Ведомостей\" сообщил,</segment>
+		<segment id="63" parent="64" relname="span">что мощности индийского завода обанкротившейся Daewoo Motors также привезут в Тольятти.</segment>
+		<segment id="65" parent="66" relname="joint">На этих мощностях будут производиться коробки передач.\n\nОфициально на \"АвтоВАЗе\" и в GM не стали комментировать сроки запуска нового проекта и его параметры.</segment>
+		<segment id="67" parent="68" relname="attribution">\"Ведомости\" полагают,</segment>
+		<segment id="68" parent="69" relname="span">что общая стоимость проекта составит 500 млн долларов.</segment>
+		<segment id="70" parent="72" relname="span">При этом ВАЗ надеется получить контрольный пакет,</segment>
+		<segment id="71" parent="70" relname="cause-effect">поскольку помимо индийского завода выкупит у GM и долю в венгерском предприятии.</segment>
+		<segment id="74" parent="77" relname="attribution">Источник, близкий к GM, поясняет,</segment>
+		<segment id="75" parent="77" relname="span">что американская корпорация отказалась от равного разделения долей</segment>
+		<segment id="76" parent="75" relname="cause-effect">из-за того, что большая часть продукции предприятия будет поставляться на \"АвтоВАЗ\".</segment>
+		<segment id="79" parent="81" relname="span">Возможно, новыми двигателями будет оснащаться флагманская модель ВАЗа - Lada Priora.\n\nВ мае прошлого года о проекте строительства завода двигателей в Тольятти</segment>
+		<segment id="80" parent="79" relname="attribution">сообщил Джон Милонас,</segment>
+		<segment id="82" parent="81" relname="attribution">бывший тогда гендиректором \"GM-АвтоВАЗа\".</segment>
+		<segment id="89" parent="92" relname="attribution">Тогда он пообещал,</segment>
+		<segment id="90" parent="92" relname="joint">что это будут \"самые крупные вложения иностранного капитала в российский автопром за все время\".</segment>
+		<segment id="91" parent="92" relname="joint">В числе инвесторов проекта он называл GM, \"АвтоВАЗ\" и некую банковскую структуру (предположительно - ЕБРР).</segment>
+		<segment id="94" parent="96" relname="contrast">Ожидалось, что официально о запуске этого проекта будет объявлено в ноябре прошлого года.</segment>
+		<segment id="95" parent="96" relname="contrast">Но руководство GM и \"АвтоВАЗа\" так и не анонсировало этот проект.\n\nИсточник: https://www.newsru.com/finance/04Mar2005/vaz.html\n</segment>
+		<group id="88" type="span" parent="97" relname="solutionhood"/>
+		<group id="48" type="span" parent="87" relname="preparation"/>
+		<group id="36" type="multinuc" parent="48" relname="span"/>
+		<group id="47" type="multinuc" parent="36" relname="elaboration"/>
+		<group id="39" type="span" parent="47" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="44" type="span" parent="41" relname="elaboration"/>
+		<group id="87" type="multinuc" parent="88" relname="span"/>
+		<group id="61" type="multinuc" parent="87" relname="joint"/>
+		<group id="51" type="span" parent="61" relname="joint"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="58" type="multinuc" parent="60" relname="span"/>
+		<group id="54" type="multinuc" parent="58" relname="sequence"/>
+		<group id="57" type="multinuc" parent="58" relname="sequence"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="66" type="multinuc" parent="86" relname="joint"/>
+		<group id="64" type="span" parent="66" relname="joint"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="73" type="multinuc" parent="85" relname="joint"/>
+		<group id="69" type="span" parent="73" relname="joint"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="78" type="span" parent="84" relname="joint"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="81" type="span" parent="83" relname="span"/>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="93" type="span" parent="97" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="span"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="98" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,39 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="16" relname="span">В подмосковном Жуковском прошел первый демонстрационный полет сверхманевренного истребителя МиГ-29ОВТ\n\nРоссийская самолетостроительная корпорация \"МиГ\" в пятницу в подмосковном Жуковском впервые представила журналистам в полете новый сверхманевренный истребитель МиГ-29ОВТ (с отклоняемым вектором тяги).\n\nПоказательный полет выполнил начальник Летно-испытательного центра имени Федотова РСК \"МиГ\", старший летчик-испытатель РСК \"МиГ\" Герой России Павел Власов.</segment>
+		<segment id="15" parent="14" relname="elaboration">Он продемонстрировал фигуры высшего пилотажа - \"двойной кульбит\" и \"бумеранг\",</segment>
+		<segment id="17" parent="16" relname="attribution">передает \"Интерфакс\".\n\n</segment>
+		<segment id="19" parent="21" relname="span">\"Основное качество МиГ-29ОВТ</segment>
+		<segment id="20" parent="19" relname="elaboration">- сверхманевренность - достигается за счет оснащения самолета двигателями с отклоняемым вектором тяги, интегрированным в контур управления самолета\",</segment>
+		<segment id="22" parent="27" relname="attribution">- сказал директор Инженерного центра ОКБ имени Микояна РСК \"МиГ\" Владимир Барковский.\n\nПавел Власов сообщил,</segment>
+		<segment id="23" parent="27" relname="span">что уникальные пилотажные возможности МиГ-29ОВТ будут продемонстрированы на авиасалоне МАКС-2005,</segment>
+		<segment id="24" parent="26" relname="span">который пройдет в подмосковном Жуковском с 16 по 21 августа.\n\nРеактивное сопло с отклоняемым вектором тяги предназначено</segment>
+		<segment id="25" parent="24" relname="purpose">для улучшения тактико-технических характеристик самолета.</segment>
+		<segment id="30" parent="36" relname="joint">Регулируемое реактивное сопло с отклоняемым вектором тяги - устройство с изменяемыми,</segment>
+		<segment id="31" parent="35" relname="joint">в зависимости от режимов работы двигателя, размерами критического и выходного сечений,</segment>
+		<segment id="32" parent="34" relname="joint">в канале которого происходит ускорение потока газа с целью создания реактивной тяги</segment>
+		<segment id="33" parent="34" relname="joint">и возможностью отклонения вектора тяги во всех направлениях.\n\nИсточник: https://www.newsru.com/russia/05Aug2005/mig.html\n</segment>
+		<group id="18" type="span" parent="38" relname="joint"/>
+		<group id="16" type="span" parent="18" relname="span"/>
+		<group id="37" type="multinuc" parent="38" relname="joint"/>
+		<group id="29" type="span" parent="37" relname="joint"/>
+		<group id="21" type="span" parent="29" relname="span"/>
+		<group id="28" type="span" parent="21" relname="attribution"/>
+		<group id="27" type="span" parent="28" relname="span"/>
+		<group id="26" type="span" parent="23" relname="elaboration"/>
+		<group id="36" type="multinuc" parent="37" relname="joint"/>
+		<group id="35" type="multinuc" parent="36" relname="joint"/>
+		<group id="34" type="multinuc" parent="35" relname="joint"/>
+		<group id="38" type="multinuc"/>
+	</body>
+</rst>

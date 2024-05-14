@@ -1,0 +1,87 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="37" parent="106" relname="preparation">\"Бавария\" еле отыгралась в матче с \"Ганновером\"\n\nПолузащитник сборной Англии Оуэн Харгривз помог мюнхенской \"Баварии\" взять одно очко в матче второго тура чемпионата Германии с \"Ганновером\".</segment>
+		<segment id="38" parent="40" relname="comparison">На последней минуте матча Харгривз забил со штрафного,</segment>
+		<segment id="39" parent="40" relname="comparison">что и принесло столь нужный \"Баварии\" результат - 3:3.</segment>
+		<segment id="41" parent="45" relname="span">Харгривз забил за минуту до начала компенсированного времени.\n\nТаким образом на первое место в немецком чемпионате вышла дортмундская \"Боруссия\", которая взяла верх над \"Вольфсбургом\" - 4:0.</segment>
+		<segment id="42" parent="44" relname="span">Напомним, что в прошлом году \"Боруссия\" уступила чемпионство \"Баварии\",</segment>
+		<segment id="43" parent="42" relname="elaboration">пропустив вперед еще и \"Гамбург\".\n\nСейчас \"Боруссия\" находится в группе из шести команд, которые имеют в активе по четыре очка.</segment>
+		<segment id="47" parent="59" relname="span">Кстати, в эту группу входит и \"Бавария\", которая проигрывает \"Боруссии\" по разнице голов.</segment>
+		<segment id="50" parent="54" relname="span">Кстати, в эту группу входит и \"Бавария\", которая проигрывает \"Боруссии\" по разнице голов.\n\nНапомним, что \"Бавария\" начала защиту своего титула с победы над \"Айнтрахтом\" - 3:1, показав наступательный футбол.</segment>
+		<segment id="51" parent="53" relname="span">В матче с \"Ганновером\" нападение мюнхенцев завязло в обороне соперника,</segment>
+		<segment id="52" parent="51" relname="interpretation-evaluation">что не делает чести команде, которая собралась возвращать себе престиж в европейских турнирах.</segment>
+		<segment id="55" parent="56" relname="attribution">Впрочем, тренер \"Баварии\" Оттмар Хитцфельд отметил,</segment>
+		<segment id="56" parent="57" relname="span">что игра была весьма интересной.</segment>
+		<segment id="61" parent="63" relname="joint">\"В первом тайме команда была не похожа сама на себя,</segment>
+		<segment id="62" parent="63" relname="joint">и играла нервно,</segment>
+		<segment id="64" parent="66" relname="joint">но во второй половине все встало на свои места,</segment>
+		<segment id="65" parent="66" relname="joint">и ничью мы отвоевали\",</segment>
+		<segment id="68" parent="70" relname="span">- сказал наставник \"Баварии\".\n\n\"Ганновер\",</segment>
+		<segment id="69" parent="68" relname="elaboration">который выиграл в первом туре у \"Гамбурга\"</segment>
+		<segment id="71" parent="73" relname="span">- 3:0</segment>
+		<segment id="72" parent="71" relname="elaboration">- повел в матче с \"Баварией\" со счетом - 3:1 после голов Небойси Крупниковича, Иржи Штайнера и Томаса Кристиансена.</segment>
+		<segment id="76" parent="78" relname="comparison">Перед перерывом, правда, успел отличиться Михаэль Баллак.</segment>
+		<segment id="77" parent="78" relname="comparison">А на второй тайм вышла совсем другая \"Бавария\".</segment>
+		<segment id="79" parent="83" relname="contrast">Клаудио Писсаро забил два гола,</segment>
+		<segment id="80" parent="82" relname="span">но один из них судья не засчитал,</segment>
+		<segment id="81" parent="80" relname="cause-effect">так как второй мяч Писсаро забил из офсайда.</segment>
+		<segment id="84" parent="88" relname="span">Отметим, что голландец Рой Макай,</segment>
+		<segment id="87" parent="84" relname="elaboration">который на этой неделе завершил все вопросы с переходом из \"Депортиво\" в \"Баварию\", на поле не вышел,</segment>
+		<segment id="89" parent="91" relname="span">и теперь будет ждать третьего тура,</segment>
+		<segment id="90" parent="89" relname="purpose">чтобы появиться в составе нового клуба.\n\nЧто касается матча \"Боруссии\",</segment>
+		<segment id="92" parent="94" relname="span">то там героем стал чешский форвард Томаш Росцки,</segment>
+		<segment id="93" parent="92" relname="elaboration">который забил два мяча в каждом из таймов.</segment>
+		<segment id="97" parent="101" relname="span">Кроме того, Росицки отменно дирижировал действиями партнеров.</segment>
+		<segment id="98" parent="100" relname="span">Еще два гола забили Марсио Аморузо и Ян Колер.</segment>
+		<segment id="99" parent="98" relname="elaboration">Все это происходило в присутствии 72 тысяч зрителей.\n\nИсточник: https://www.newsru.com/sport/09Aug2003/bundessecond.html\n</segment>
+		<group id="106" type="multinuc" parent="107" relname="span"/>
+		<group id="60" type="multinuc" parent="106" relname="joint"/>
+		<group id="46" type="span" parent="60" relname="joint"/>
+		<group id="40" type="multinuc" parent="46" relname="span"/>
+		<group id="45" type="span" parent="40" relname="elaboration"/>
+		<group id="44" type="span" parent="41" relname="elaboration"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="58" type="span" parent="47" relname="elaboration"/>
+		<group id="54" type="span" parent="58" relname="span"/>
+		<group id="53" type="span" parent="50" relname="interpretation-evaluation"/>
+		<group id="57" type="span" parent="54" relname="interpretation-evaluation"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="75" type="span" parent="105" relname="joint"/>
+		<group id="67" type="multinuc" parent="75" relname="span"/>
+		<group id="63" type="multinuc" parent="67" relname="contrast"/>
+		<group id="66" type="multinuc" parent="67" relname="contrast"/>
+		<group id="74" type="multinuc" parent="67" relname="attribution"/>
+		<group id="70" type="span" parent="74" relname="sequence"/>
+		<group id="73" type="span" parent="74" relname="sequence"/>
+		<group id="104" type="span" parent="105" relname="joint"/>
+		<group id="78" type="multinuc" parent="103" relname="preparation"/>
+		<group id="103" type="span" parent="104" relname="span"/>
+		<group id="83" type="multinuc" parent="103" relname="span"/>
+		<group id="82" type="span" parent="83" relname="contrast"/>
+		<group id="102" type="multinuc" parent="83" relname="elaboration"/>
+		<group id="96" type="multinuc" parent="102" relname="joint"/>
+		<group id="88" type="span" parent="96" relname="joint"/>
+		<group id="95" type="span" parent="96" relname="joint"/>
+		<group id="91" type="span" parent="95" relname="span"/>
+		<group id="94" type="span" parent="91" relname="elaboration"/>
+		<group id="101" type="span" parent="102" relname="joint"/>
+		<group id="100" type="span" parent="97" relname="elaboration"/>
+		<group id="107" type="span"/>
+	</body>
+</rst>

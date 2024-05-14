@@ -1,0 +1,48 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="19" relname="span">Россияне выбывают из чемпионата Европы по футзалу\n\nРоссийская сборная по футзалу выбыла из чемпионата Европы,</segment>
+		<segment id="18" parent="17" relname="elaboration">который проходит в эти дни в Италии.</segment>
+		<segment id="20" parent="21" relname="sequence">Накануне поздно вечером подопечные Евгения Ловчева проиграли хозяевам соревнований - итальянцам - 0:1.\n\nНапомним, что перед этой встречей российскую команду устраивала только победа.</segment>
+		<segment id="22" parent="24" relname="span">Только так россияне набирали необходимые шесть очков,</segment>
+		<segment id="23" parent="22" relname="elaboration">которые гарантировали путевку в полуфинал турнира.</segment>
+		<segment id="25" parent="42" relname="preparation">В первом туре российская команда проиграла Чехии.</segment>
+		<segment id="26" parent="32" relname="span">До матча соперникам было известно, что чехи, выступавшие в этой же группе, разгромили словенцев</segment>
+		<segment id="27" parent="31" relname="joint">- 8:3</segment>
+		<segment id="28" parent="30" relname="span">- и для выхода в полуфинал россиянам надо было выиграть с любым счетом.\n\nХозяева не хотели уступать,</segment>
+		<segment id="29" parent="28" relname="condition">построив игру от обороны.</segment>
+		<segment id="33" parent="41" relname="contrast">Счет 0:0 держался на протяжении всей встречи,</segment>
+		<segment id="34" parent="40" relname="span">но за 14 секунд до конца игры,</segment>
+		<segment id="35" parent="38" relname="condition">когда россияне были на площадке лишь втроем против четверых итальянцев,</segment>
+		<segment id="36" parent="38" relname="joint">Фогил воспользовался прекрасным пасом партнера,</segment>
+		<segment id="37" parent="38" relname="joint">хладнокровно вкатив мяч в сетку ворот сборной России.</segment>
+		<segment id="45" parent="44" relname="elaboration">Итак, в полуфиналах сыграют Италия - Испания, а также Украина - Чехия.\n\nИсточник: https://www.newsru.com/sport/21Feb2003/rusgooff.html\n</segment>
+		<group id="21" type="multinuc" parent="46" relname="preparation"/>
+		<group id="19" type="span" parent="21" relname="sequence"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="44" type="span" parent="46" relname="span"/>
+		<group id="24" type="span" parent="44" relname="span"/>
+		<group id="43" type="span" parent="24" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="43" relname="span"/>
+		<group id="32" type="span" parent="42" relname="comparison"/>
+		<group id="31" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="comparison"/>
+		<group id="40" type="span" parent="41" relname="contrast"/>
+		<group id="39" type="span" parent="34" relname="elaboration"/>
+		<group id="38" type="multinuc" parent="39" relname="span"/>
+		<group id="47" type="span"/>
+	</body>
+</rst>

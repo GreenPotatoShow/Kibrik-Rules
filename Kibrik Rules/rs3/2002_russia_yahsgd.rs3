@@ -1,0 +1,21 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="7" parent="11" relname="joint">Авиация федеральных сил разбомбила базу боевиков в горах Чечни\n\nАвиация федеральных сил в Чечне нанесла серию ракетно-бомбовых ударов по позициям боевиков.</segment>
+		<segment id="8" parent="10" relname="joint">За минувшие сутки для выполнения боевых задач авиацией было выполнено 10 вылетов фронтовых бомбардировщиков Су-24 и штурмовиков Су-25,</segment>
+		<segment id="9" parent="10" relname="joint">сообщил \"Интерфаксу\" источник в штабе Объединенной группировки войск в воскресенье.\n\n\"По предварительным данным, авиацией уничтожена горная база боевиков два опорных пункта, минометный расчет\",</segment>
+		<segment id="12" parent="14" relname="joint">- отметил источник.\n\nВертолеты Ми-24 в минувшие сутки сопровождали по территории Чечни семь колонн федеральных сил</segment>
+		<segment id="13" parent="14" relname="joint">и нанесли несколько ракетных ударов по мелким группам боевиков.</segment>
+		<segment id="15" parent="16" relname="joint">Вертолеты Ми-24 выполнили более 20 вылетов на визуальную разведку и по контролю за обстановкой на дорогах.\n\nИсточник: https://www.newsru.com/russia/15Dec2002/yahsgd.html\n</segment>
+		<group id="11" type="multinuc" parent="17" relname="joint"/>
+		<group id="10" type="multinuc" parent="11" relname="joint"/>
+		<group id="16" type="multinuc" parent="17" relname="joint"/>
+		<group id="14" type="multinuc" parent="16" relname="joint"/>
+		<group id="17" type="multinuc"/>
+	</body>
+</rst>

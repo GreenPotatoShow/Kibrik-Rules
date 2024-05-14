@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="27" relname="span">Жители Окинавы вновь требуют убрать американскую базу.</segment>
+		<segment id="26" parent="25" relname="background">17 тысяч вышли на митинг\n\</segment>
+		<segment id="28" parent="29" relname="concession">nНесмотря на дождь,</segment>
+		<segment id="29" parent="30" relname="span">более 17 тыс. человек приняли сегодня участие в масштабной акции протеста против американского военного присутствия на территории южного японского острова Окинава.</segment>
+		<segment id="31" parent="35" relname="joint">Они взялись за руки</segment>
+		<segment id="32" parent="34" relname="span">и выстроились живой цепью вдоль забора авиабазы США Футэмма,</segment>
+		<segment id="33" parent="32" relname="cause-effect">требуя от властей ее закрытия,</segment>
+		<segment id="37" parent="39" relname="span">сообщает ИТАР-ТАСС.\n\nГлавы администраций японских городов Гинован и Наго обнародовали также совместное заявление,</segment>
+		<segment id="38" parent="37" relname="elaboration">адресованное правительствам Японии и Соединенных Штатов.</segment>
+		<segment id="40" parent="41" relname="joint">В нем они потребовали отказаться от планов передислоцировать базу Футэмма в пределах префектуры.\n\n</segment>
+		<segment id="44" parent="48" relname="span">\"Власти должны ослабить бремя, которое ложится на местных жителей</segment>
+		<segment id="45" parent="47" relname="joint">из-за размещения здесь военных объектов США,</segment>
+		<segment id="46" parent="47" relname="joint">и не оставлять здесь базу из соображений безопасности или поддержания сдерживающего потенциала\",</segment>
+		<segment id="49" parent="50" relname="attribution">- подчеркнули мэры</segment>
+		<segment id="50" parent="51" relname="span">.\n\nЭта акция приурочена к отмечавшейся в субботу 38-й годовщине возвращения Японии административных прав на остров Окинава.</segment>
+		<segment id="53" parent="57" relname="span">В результате разгрома японского милитаризма во Второй мировой войне</segment>
+		<segment id="56" parent="53" relname="elaboration">вплоть до 1972 года он находился под управлением США.\n\nВ мае 2006 года Токио и Вашингтон в рамках проекта реорганизации американского военного присутствия в Японии договорились перенести базу Футэмма из города Гинован в менее населенный район острова.</segment>
+		<segment id="58" parent="60" relname="span">Однако новое правительство во главе с премьером Юкио Хатоямой,</segment>
+		<segment id="59" parent="58" relname="background">которое было сформировано осенью прошлого года, заявило</segment>
+		<segment id="61" parent="63" relname="span">о необходимости пересмотреть этот план,</segment>
+		<segment id="62" parent="61" relname="condition">учитывая пожелания жителей.\n\nСогласования этого вопроса как с США, так и с местными муниципалитетами пока не дают результата.</segment>
+		<segment id="68" parent="70" relname="joint">На этой неделе глава японского правительства отказался от неоднократно озвученного обещания решить этот вопрос до конца мая.\n\nНа Окинаве сконцентрировано 75 процентов площади всех американских объектов в Японии.</segment>
+		<segment id="69" parent="70" relname="joint">Общая численность контингента вооруженных сил США на территории японского архипелага в настоящее время составляет около 36 тыс солдат и офицеров.\n\nИсточник: https://www.newsru.com/world/16May2010/okin.html\n</segment>
+		<group id="67" type="multinuc" parent="71" relname="comparison"/>
+		<group id="43" type="span" parent="67" relname="joint"/>
+		<group id="27" type="span" parent="42" relname="preparation"/>
+		<group id="42" type="multinuc" parent="43" relname="span"/>
+		<group id="36" type="span" parent="42" relname="comparison"/>
+		<group id="30" type="span" parent="36" relname="span"/>
+		<group id="35" type="multinuc" parent="30" relname="elaboration"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="comparison"/>
+		<group id="39" type="span" parent="41" relname="joint"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="52" type="span" parent="66" relname="joint"/>
+		<group id="48" type="span" parent="52" relname="span"/>
+		<group id="47" type="multinuc" parent="44" relname="cause-effect"/>
+		<group id="51" type="span" parent="48" relname="attribution"/>
+		<group id="65" type="multinuc" parent="66" relname="joint"/>
+		<group id="57" type="span" parent="65" relname="contrast"/>
+		<group id="64" type="span" parent="65" relname="contrast"/>
+		<group id="60" type="span" parent="63" relname="attribution"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="70" type="multinuc" parent="71" relname="comparison"/>
+		<group id="71" type="multinuc"/>
+	</body>
+</rst>

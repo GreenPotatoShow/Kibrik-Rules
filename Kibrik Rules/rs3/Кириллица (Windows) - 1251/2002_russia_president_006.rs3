@@ -1,0 +1,62 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="solutionhood" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="24" relname="attribution">83% россиян считают,</segment>
+		<segment id="24" parent="25" relname="span">что нашей стране необходима \"сильная рука\"\n\nПочти половина населения нашей страны</segment>
+		<segment id="26" parent="27" relname="attribution">- 49% - считают,</segment>
+		<segment id="27" parent="28" relname="span">что населению России необходим сильный и властный руководитель.</segment>
+		<segment id="30" parent="44" relname="span">Таковы результаты опроса, проведенного Агентством региональных политических исследований (АРПИ).\n\nВ ходе исследования опрашиваемым задавали вопрос:</segment>
+		<segment id="31" parent="33" relname="span">\"Бывают ли, по вашему мнению,</segment>
+		<segment id="32" parent="31" relname="evidence">такие ситуации в жизни страны,</segment>
+		<segment id="34" parent="38" relname="span">когда народу нужен сильный и властный руководитель, \"сильная рука\"?\"\n\nНа втором месте стоит ответ \"бывают такие ситуации, например, сейчас, когда нужно сосредоточить всю полноту власти в одних руках\" - 34%.\n\n15% респондентов считают,</segment>
+		<segment id="35" parent="37" relname="contrast">что ни в коем случае нельзя допустить, чтобы вся власть была отдана в руки одного человека,</segment>
+		<segment id="36" parent="37" relname="contrast">а 2% затрудняются ответить.</segment>
+		<segment id="40" parent="42" relname="comparison">Воздержавшихся от ответа не было.\n\nПри этом за последние два года, а точнее с марта 2000 года по ноябрь 2002 года, число сторонников того, что нашему народу необходима \"сильная рука\",</segment>
+		<segment id="41" parent="42" relname="comparison">возросло с 42% до 49%.\n\</segment>
+		<segment id="46" parent="47" relname="attribution">nСреди положительно ответивших на вопрос,</segment>
+		<segment id="47" parent="48" relname="span">\"бывают ли ситуации, когда надо сосредоточить власть в одних руках\",</segment>
+		<segment id="49" parent="53" relname="joint">преобладают жители Уральского округа,</segment>
+		<segment id="50" parent="52" relname="span">а среди высказавшихся против того, чтобы власть была в руках одного человека,</segment>
+		<segment id="51" parent="50" relname="elaboration">преобладают жители Дальневосточного округа.\n\nПримечательно, что количество сторонников \"сильной руки\" растет по мере снижения дохода и образования.</segment>
+		<segment id="55" parent="57" relname="span">Военнослужащие чаще остальных высказываются за то, что бывают ситуации,</segment>
+		<segment id="56" parent="55" relname="condition">когда власть должна быть в одних руках.\n\</segment>
+		<segment id="58" parent="59" relname="attribution">nОценивая политические пристрастия респондентов,</segment>
+		<segment id="59" parent="60" relname="span">можно отметить, что ответ о необходимости \"сильной руки\" больше популярен среди сторонников Зюганова, КПРФ и ЛДПР.</segment>
+		<segment id="61" parent="62" relname="joint">Кроме того, интересно, что чаще остальных за необходимость \"сильной руки\" высказываются пессимисты.\n\nСреди противников идеи концентрации власти в руках одного человека преобладают сторонники Союза правых сил и \"Яблока\".\n\nОпрос проводился более чем в 84 городских и сельских населенных пунктах в 28 субъектах Российской Федерации, во всех федеральных округах страны, среди 1600 человек.\n\nИсточник: https://www.newsru.com/russia/26Nov2002/president.html\n</segment>
+		<group id="45" type="span" parent="64" relname="solutionhood"/>
+		<group id="29" type="multinuc" parent="44" relname="preparation"/>
+		<group id="25" type="span" parent="29" relname="comparison"/>
+		<group id="28" type="span" parent="29" relname="comparison"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="43" type="span" parent="30" relname="elaboration"/>
+		<group id="39" type="span" parent="43" relname="span"/>
+		<group id="33" type="span" parent="39" relname="span"/>
+		<group id="38" type="span" parent="33" relname="elaboration"/>
+		<group id="37" type="multinuc" parent="34" relname="interpretation-evaluation"/>
+		<group id="42" type="multinuc" parent="39" relname="interpretation-evaluation"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="54" type="multinuc" parent="64" relname="comparison"/>
+		<group id="48" type="span" parent="54" relname="joint"/>
+		<group id="53" type="multinuc" parent="54" relname="joint"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="comparison"/>
+		<group id="57" type="span" parent="63" relname="joint"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="60" type="span" parent="62" relname="joint"/>
+		<group id="65" type="span"/>
+	</body>
+</rst>

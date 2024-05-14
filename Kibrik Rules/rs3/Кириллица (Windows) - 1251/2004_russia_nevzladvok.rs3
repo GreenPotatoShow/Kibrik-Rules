@@ -1,0 +1,44 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="40" relname="preparation">Адвокат Невзлина обратился с жалобой к генпрокурору на действия следствия\n\nЗащита одного из крупнейших акционеров НК ЮКОС Леонида Невзлина обратилась к генпрокурору Владимиру Устинову с жалобой на действия следствия</segment>
+		<segment id="16" parent="19" relname="attribution">.\n\nАдвокат Леонида Невзлина Дмитрий Харитонов сообщил \"Интерфаксу\" во вторник,</segment>
+		<segment id="17" parent="19" relname="sequence">что до сих пор защита не ознакомлена с официальным постановлением о привлечении бизнесмена в качестве обвиняемого и об избрании ему в качестве меры пресечения содержание под стражей.\n\n\"28 января после того, как первый заместитель генпрокурора Юрий Бирюков официально подтвердил информацию об объявлении моего доверителя в международный розыск,</segment>
+		<segment id="18" parent="19" relname="sequence">я направил ходатайство на имя следователя Генпрокуратуры Салавата Каримова с просьбой ознакомить меня с материалами дела.</segment>
+		<segment id="21" parent="20" relname="elaboration">К этому ходатайству я приложил ордер на участие в деле\",</segment>
+		<segment id="23" parent="38" relname="attribution">- сказал Харитонов.\n\nАдвокат утверждал:</segment>
+		<segment id="24" parent="28" relname="contrast">\"Генпрокуратура должна была дать ответ на это ходатайство в течение трех дней,</segment>
+		<segment id="25" parent="27" relname="span">однако до сих я его не получил\".\n\nДмитрий Харитонов считает,</segment>
+		<segment id="26" parent="25" relname="cause-effect">что таким образом следствие лишает Леонида Невзлина права на защиту.</segment>
+		<segment id="29" parent="31" relname="span">\"Дело в том, что все эти процессуальные решения - о привлечении в качестве обвиняемого и об избрании меры пресечения</segment>
+		<segment id="30" parent="29" relname="elaboration">- защита вправе обжаловать в суд,</segment>
+		<segment id="32" parent="34" relname="span">однако мы не можем этого сделать,</segment>
+		<segment id="33" parent="32" relname="cause-effect">так как нас не знакомят с этими документами\",</segment>
+		<segment id="36" parent="35" relname="attribution">- подчеркнул защитник.\n\nИсточник: https://www.newsru.com/russia/03Feb2004/nevzladvok.html\n</segment>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="22" type="span" parent="40" relname="joint"/>
+		<group id="20" type="span" parent="22" relname="span"/>
+		<group id="19" type="multinuc" parent="20" relname="span"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="span"/>
+		<group id="28" type="multinuc" parent="38" relname="joint"/>
+		<group id="27" type="span" parent="28" relname="contrast"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="35" type="multinuc" parent="37" relname="span"/>
+		<group id="31" type="span" parent="35" relname="contrast"/>
+		<group id="34" type="span" parent="35" relname="contrast"/>
+		<group id="41" type="span"/>
+	</body>
+</rst>

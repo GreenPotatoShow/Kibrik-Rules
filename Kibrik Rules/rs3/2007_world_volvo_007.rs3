@@ -1,0 +1,92 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="38" parent="40" relname="span">В США водитель выехал на встречную полосу:</segment>
+		<segment id="39" parent="38" relname="elaboration">пять человек погибли\n\</segment>
+		<segment id="43" parent="51" relname="joint">nОшибка 29-летнего водителя, выехавшего в американском штате Иллинойс на скоростную магистраль против движения, стала причиной гибели пяти человек, включая виновника аварии.</segment>
+		<segment id="44" parent="46" relname="span">Полицейские идентифицируют водителя как Фредерика Си, жителя Чикаго,</segment>
+		<segment id="45" parent="44" relname="background">зарегистрированного в одном из ближайших пригородов,</segment>
+		<segment id="47" parent="46" relname="attribution">передает CNN.\n\</segment>
+		<segment id="49" parent="50" relname="comparison">nВ результате аварии в течение трех часов было полностью перекрыто шоссе 290, соединяющее центральную часть Чикаго с западными пригородами.\n\</segment>
+		<segment id="52" parent="57" relname="attribution">nСотрудник дорожной полиции Иван Букацык говорит:</segment>
+		<segment id="53" parent="57" relname="joint">\"Мужчина выехал на своем Volvo против движения на скоростную магистраль</segment>
+		<segment id="54" parent="56" relname="span">и лоб в лоб столкнулся с BMW,</segment>
+		<segment id="55" parent="54" relname="background">в котором было четверо пассажиров.</segment>
+		<segment id="59" parent="60" relname="cause-effect">В результате столкновения BMW загорелся,</segment>
+		<segment id="60" parent="61" relname="span">можно сказать - взорвался.</segment>
+		<segment id="62" parent="64" relname="span">Третьим участником аварии стал фургон,</segment>
+		<segment id="63" parent="62" relname="elaboration">водитель которого не успел вовремя оттормозиться\".</segment>
+		<segment id="67" parent="73" relname="span">К счастью, водитель фургона серьезно не пострадал.\n\nИв Родригез, пресс-атташе департамента пожарной охраны Чикаго,</segment>
+		<segment id="68" parent="71" relname="attribution">сообщила,</segment>
+		<segment id="69" parent="71" relname="span">что водитель Volvo был на скорой помощи доставлен в больницу,</segment>
+		<segment id="70" parent="69" relname="elaboration">где врачи констатировали его смерть.</segment>
+		<segment id="74" parent="79" relname="attribution">По словам Букацыка,</segment>
+		<segment id="75" parent="79" relname="contrast">полицейским удалось найти родственников 29-летнего виновника аварии,</segment>
+		<segment id="76" parent="78" relname="span">однако ни с кем из близких людей, погибших в BMW,</segment>
+		<segment id="77" parent="76" relname="condition">пока войти в контакт не удалось.\n\n</segment>
+		<segment id="81" parent="87" relname="span">\"Приятель четверых, который ехал на другой машине,</segment>
+		<segment id="82" parent="85" relname="attribution">рассказал,</segment>
+		<segment id="83" parent="85" relname="joint">что все они из Мексики, путешествовали,</segment>
+		<segment id="84" parent="85" relname="joint">и близких родственников в США у них нет\",</segment>
+		<segment id="88" parent="87" relname="attribution">- добавил полицейский.</segment>
+		<segment id="93" parent="97" relname="span">В настоящее время официальные лица связались с консульством Мексики с просьбой о помощи в идентификации погибших пассажиров BMW.\n\</segment>
+		<segment id="94" parent="95" relname="attribution">nПо словам свидетеля,</segment>
+		<segment id="95" parent="96" relname="span">Volvo вылетел на одностороннюю магистраль на скорости под 100 миль в час (160 км/ч),</segment>
+		<segment id="98" parent="99" relname="attribution">однако Букацык говорит,</segment>
+		<segment id="99" parent="100" relname="span">что у следствия пока нет точных данных о скорости.</segment>
+		<segment id="102" parent="103" relname="condition">\"Надо понимать, что даже если обе машины ехали со скоростью 55 миль,</segment>
+		<segment id="103" parent="104" relname="span">то столкновение произошло на 110 милях в час\",</segment>
+		<segment id="105" parent="104" relname="attribution">- подчеркнул он.\n\nИсточник: https://www.newsru.com/world/29Oct2007/volvo.html\n</segment>
+		<group id="40" type="span" parent="109" relname="preparation"/>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="51" type="multinuc" parent="109" relname="joint"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="48" type="span" parent="50" relname="comparison"/>
+		<group id="46" type="span" parent="48" relname="span"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="92" type="multinuc" parent="108" relname="sequence"/>
+		<group id="66" type="span" parent="92" relname="sequence"/>
+		<group id="58" type="span" parent="65" relname="cause-effect"/>
+		<group id="57" type="multinuc" parent="58" relname="span"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="61" type="span" parent="65" relname="joint"/>
+		<group id="64" type="span" parent="65" relname="joint"/>
+		<group id="91" type="multinuc" parent="92" relname="sequence"/>
+		<group id="73" type="span" parent="91" relname="joint"/>
+		<group id="72" type="span" parent="67" relname="elaboration"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="80" type="span" parent="90" relname="span"/>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="78" type="span" parent="79" relname="contrast"/>
+		<group id="89" type="span" parent="80" relname="elaboration"/>
+		<group id="87" type="span" parent="89" relname="span"/>
+		<group id="86" type="span" parent="81" relname="background"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="107" type="multinuc" parent="108" relname="sequence"/>
+		<group id="101" type="multinuc" parent="107" relname="joint"/>
+		<group id="97" type="span" parent="101" relname="contrast"/>
+		<group id="96" type="span" parent="93" relname="background"/>
+		<group id="100" type="span" parent="101" relname="contrast"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="104" type="span" parent="106" relname="span"/>
+		<group id="110" type="span"/>
+	</body>
+</rst>

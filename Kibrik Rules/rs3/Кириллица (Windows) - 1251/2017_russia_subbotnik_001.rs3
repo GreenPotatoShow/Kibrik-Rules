@@ -1,0 +1,142 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="62" parent="66" relname="span">Ярославским ветеранам труда выставили счет за неучастие в субботнике\n\nПожилые жильцы кооперативного дома на улице Кривого в Ярославле получили платежки ЖКУ за апрель с новой, весьма удивившей их строкой</segment>
+		<segment id="63" parent="65" relname="span">- \"Неучастие в субботнике\",</segment>
+		<segment id="64" parent="63" relname="elaboration">напротив которой стояла сумма начисления 500 рублей,</segment>
+		<segment id="67" parent="71" relname="span">пишет \"Российская газета\".\n\n\"Ко мне на прием пришли жильцы этого дома:</segment>
+		<segment id="68" parent="70" relname="contrast">77-летний мужчина с трудом поднялся на второй этаж,</segment>
+		<segment id="69" parent="70" relname="contrast">а его жена вообще из дома уже не выходит.</segment>
+		<segment id="73" parent="75" relname="joint">И вот они должны были участвовать в общедомовом субботнике</segment>
+		<segment id="74" parent="75" relname="joint">и оказались оштрафованы за то, что на него не вышли\",</segment>
+		<segment id="76" parent="78" relname="span">- поделился с изданием депутат Ярославского муниципалитета Анатолий Каширин,</segment>
+		<segment id="77" parent="76" relname="background">которому пенсионеры пожаловались на происходящее.</segment>
+		<segment id="81" parent="83" relname="span">\"Оба посетителя - ветераны труда.</segment>
+		<segment id="82" parent="81" relname="elaboration">Просто вопиющий случай\",</segment>
+		<segment id="84" parent="83" relname="attribution">- подчеркнул он.\n\</segment>
+		<segment id="87" parent="90" relname="attribution">nПо словам 80-летней Маргариты Рябовой,</segment>
+		<segment id="88" parent="90" relname="span">добавку к счетам за коммунальные услуги получили все пенсионеры,</segment>
+		<segment id="89" parent="88" relname="condition">не участвовавшие в уборке придомовой территории.</segment>
+		<segment id="92" parent="100" relname="span">\"Начислили всем, кто не участвовал.</segment>
+		<segment id="93" parent="95" relname="span">Я сама, хотя мне и 80 лет,</segment>
+		<segment id="94" parent="93" relname="background">лично вышла на субботник,</segment>
+		<segment id="96" parent="98" relname="contrast">потому что знаю, что в противном случае с меня удержат 500 рублей,</segment>
+		<segment id="97" parent="98" relname="contrast">а это для меня большие деньги\",</segment>
+		<segment id="101" parent="100" relname="attribution">- рассказала женщина.\n\</segment>
+		<segment id="104" parent="113" relname="attribution">nПо словам Рябовой,</segment>
+		<segment id="105" parent="107" relname="joint">никакого общего собрания жильцов по вопросу участия или неучастия в субботнике не было</segment>
+		<segment id="106" parent="107" relname="joint">и председатель ЖСК \"Дружба-2\" все решила единолично.\n\nСреди оштрафованных - 76-летняя жительница дома, бывший узник концлагеря и ветеран,</segment>
+		<segment id="108" parent="112" relname="contrast">она с трудом передвигается по квартире.\n\</segment>
+		<segment id="109" parent="111" relname="span">nОднако руководство ЖСК не понимает, что предосудительного может быть в штрафах</segment>
+		<segment id="110" parent="109" relname="cause-effect">за неучастие в субботнике.</segment>
+		<segment id="115" parent="118" relname="attribution">По словам председателя \"Дружбы-2\" Ирины Ступиной,</segment>
+		<segment id="116" parent="118" relname="contrast">общее собрание было,</segment>
+		<segment id="117" parent="118" relname="contrast">но в 2014 году и о нем многие забыли.</segment>
+		<segment id="120" parent="121" relname="joint">На нем было принято решение о штрафах.</segment>
+		<segment id="122" parent="123" relname="cause-effect">\"Мы сами себя обслуживаем.</segment>
+		<segment id="123" parent="124" relname="span">Поэтому прибираться надо не только в квартирах, но и на территории возле дома.</segment>
+		<segment id="125" parent="128" relname="attribution">А народ думает,</segment>
+		<segment id="126" parent="128" relname="joint">что придет какой-то дядя</segment>
+		<segment id="127" parent="128" relname="joint">и приберет.</segment>
+		<segment id="130" parent="132" relname="span">Тот, кто не хочет это делать,</segment>
+		<segment id="131" parent="130" relname="condition">пусть платит</segment>
+		<segment id="133" parent="132" relname="cause-effect">- мы наймем людей для этих целей\",</segment>
+		<segment id="136" parent="141" relname="attribution">- пояснила Ступина.\n\nЖильцам старше 70 лет,</segment>
+		<segment id="137" parent="140" relname="attribution">по словам председателя,</segment>
+		<segment id="138" parent="140" relname="contrast">штрафы не начислялись,</segment>
+		<segment id="139" parent="140" relname="contrast">а попадание их в список оштрафованных - чистая случайность.</segment>
+		<segment id="145" parent="148" relname="attribution">Ступина заявила,</segment>
+		<segment id="146" parent="148" relname="joint">что живет в доме недавно</segment>
+		<segment id="147" parent="148" relname="joint">и не может знать возраст всех жильцов.</segment>
+		<segment id="150" parent="151" relname="attribution">Она пообещала,</segment>
+		<segment id="151" parent="152" relname="span">что всем, кто старше 70, сделают перерасчет.\n\</segment>
+		<segment id="154" parent="158" relname="contrast">nМежду тем в прокуратуру уже направлен депутатский запрос,</segment>
+		<segment id="155" parent="157" relname="contrast">а жильцы возмущены не только штрафами,</segment>
+		<segment id="156" parent="157" relname="contrast">но и тем, что им неизвестны цели расходования средств.</segment>
+		<segment id="159" parent="161" relname="joint">Ревизионная комиссия не может получить разрешения на проверку домовой бухгалтерии,</segment>
+		<segment id="160" parent="161" relname="joint">а тариф за содержание и ремонт жилья достиг в доме уже 21,94 рубля за квадратный метр.</segment>
+		<segment id="162" parent="164" relname="span">При этом сам пункт \"Содержание и ремонт жилья\" в числе прочего включает в себя и уборку придомовой территории.\n\nВ прокуратуре Ярославской области уже начата проверка этой ситуации,</segment>
+		<segment id="163" parent="162" relname="attribution">сообщает \"Интерфакс\".\n\</segment>
+		<segment id="167" parent="175" relname="span">nПо абсурдности начисление штрафов 80-летним ветеранам труда можно сравнить с ситуацией, произошедшей в городе Братске Иркутской области осенью 2016 года.</segment>
+		<segment id="168" parent="170" relname="joint">Там жильцы одной из новостроек с сентября начали получать счета ЖКУ с ощутимо возросшими суммами.</segment>
+		<segment id="169" parent="170" relname="joint">Оказалось, что новые счета были выставлены на основании протокола общего собрания, якобы проведенного новым секретарем и председателем 23 августа.</segment>
+		<segment id="171" parent="173" relname="span">Вот только председатель проводить собрание в тот день не могла,</segment>
+		<segment id="172" parent="171" relname="cause-effect">так как умерла за месяц до него.\n\nИсточник: https://www.newsru.com/russia/18May2017/subbotnik.html\n</segment>
+		<group id="86" type="span" parent="182" relname="joint"/>
+		<group id="80" type="multinuc" parent="86" relname="span"/>
+		<group id="72" type="multinuc" parent="80" relname="sequence"/>
+		<group id="66" type="span" parent="72" relname="sequence"/>
+		<group id="65" type="span" parent="62" relname="purpose"/>
+		<group id="71" type="span" parent="72" relname="sequence"/>
+		<group id="70" type="multinuc" parent="67" relname="background"/>
+		<group id="79" type="span" parent="80" relname="sequence"/>
+		<group id="75" type="multinuc" parent="79" relname="span"/>
+		<group id="78" type="span" parent="75" relname="attribution"/>
+		<group id="85" type="span" parent="80" relname="elaboration"/>
+		<group id="83" type="span" parent="85" relname="span"/>
+		<group id="181" type="multinuc" parent="182" relname="joint"/>
+		<group id="103" type="multinuc" parent="181" relname="joint"/>
+		<group id="91" type="span" parent="103" relname="joint"/>
+		<group id="90" type="span" parent="91" relname="span"/>
+		<group id="102" type="span" parent="103" relname="joint"/>
+		<group id="100" type="span" parent="102" relname="span"/>
+		<group id="99" type="span" parent="92" relname="elaboration"/>
+		<group id="95" type="span" parent="99" relname="span"/>
+		<group id="98" type="multinuc" parent="95" relname="cause-effect"/>
+		<group id="180" type="multinuc" parent="181" relname="joint"/>
+		<group id="114" type="span" parent="180" relname="joint"/>
+		<group id="113" type="multinuc" parent="114" relname="span"/>
+		<group id="107" type="multinuc" parent="113" relname="joint"/>
+		<group id="112" type="multinuc" parent="113" relname="joint"/>
+		<group id="111" type="span" parent="112" relname="contrast"/>
+		<group id="179" type="span" parent="180" relname="joint"/>
+		<group id="121" type="multinuc" parent="178" relname="preparation"/>
+		<group id="119" type="span" parent="121" relname="joint"/>
+		<group id="118" type="multinuc" parent="119" relname="span"/>
+		<group id="178" type="multinuc" parent="179" relname="span"/>
+		<group id="144" type="multinuc" parent="178" relname="joint"/>
+		<group id="124" type="span" parent="144" relname="contrast"/>
+		<group id="143" type="span" parent="144" relname="contrast"/>
+		<group id="135" type="span" parent="143" relname="span"/>
+		<group id="129" type="span" parent="135" relname="span"/>
+		<group id="128" type="multinuc" parent="129" relname="span"/>
+		<group id="134" type="span" parent="129" relname="elaboration"/>
+		<group id="132" type="span" parent="134" relname="span"/>
+		<group id="142" type="span" parent="135" relname="attribution"/>
+		<group id="141" type="span" parent="142" relname="span"/>
+		<group id="140" type="multinuc" parent="141" relname="span"/>
+		<group id="177" type="multinuc" parent="178" relname="joint"/>
+		<group id="153" type="span" parent="177" relname="joint"/>
+		<group id="149" type="span" parent="153" relname="span"/>
+		<group id="148" type="multinuc" parent="149" relname="span"/>
+		<group id="152" type="span" parent="149" relname="elaboration"/>
+		<group id="176" type="multinuc" parent="177" relname="joint"/>
+		<group id="166" type="multinuc" parent="176" relname="joint"/>
+		<group id="158" type="multinuc" parent="166" relname="joint"/>
+		<group id="157" type="multinuc" parent="158" relname="contrast"/>
+		<group id="165" type="multinuc" parent="166" relname="joint"/>
+		<group id="161" type="multinuc" parent="165" relname="joint"/>
+		<group id="164" type="span" parent="165" relname="joint"/>
+		<group id="175" type="span" parent="176" relname="joint"/>
+		<group id="174" type="span" parent="167" relname="elaboration"/>
+		<group id="170" type="multinuc" parent="174" relname="span"/>
+		<group id="173" type="span" parent="170" relname="elaboration"/>
+		<group id="182" type="multinuc"/>
+	</body>
+</rst>

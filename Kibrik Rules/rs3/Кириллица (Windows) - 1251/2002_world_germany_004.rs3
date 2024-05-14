@@ -1,0 +1,22 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="6" parent="8" relname="span">60% лекарств, продаваемых в Германии, бесполезны\n\nВ Германии до 60% продаваемых в аптеках без рецепта лекарств \"бесполезны или малоэффективны\".</segment>
+		<segment id="7" parent="6" relname="attribution">Об этом сообщил в среду авторитетный в ФРГ Фонд качества продукции \"Варентест\",</segment>
+		<segment id="9" parent="11" relname="span">передает РИА \"Новости\".\n\nСпециалисты фонда протестировали 1,5 тыс. лекарственных препаратов, предлагаемых в немецких аптеках</segment>
+		<segment id="10" parent="9" relname="purpose">для приобретения без рецепта врача.\n\nСреди дорогих и, как выяснилось, практически бесполезных лекарств - средства против гриппа и простудных заболеваний, а также обезболивающие медикаменты.\n\nДве трети немцев обращаются за лекарствами, в первую очередь, не к врачам, а непосредственно в аптеки.</segment>
+		<segment id="12" parent="11" relname="elaboration">Ежегодно население ФРГ расходует на лекарства 4,3 млрд. евро.\n\nИсточник: https://www.newsru.com/world/04Dec2002/germany.html\n</segment>
+		<group id="8" type="span" parent="14" relname="joint"/>
+		<group id="13" type="span" parent="14" relname="joint"/>
+		<group id="11" type="span" parent="13" relname="span"/>
+		<group id="14" type="multinuc"/>
+	</body>
+</rst>

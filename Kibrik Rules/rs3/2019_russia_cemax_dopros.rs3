@@ -1,0 +1,206 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="93" parent="104" relname="attribution">Цемах заявил,</segment>
+		<segment id="94" parent="96" relname="span">что спецслужбы на Украине добивались от него \"нужных показаний\" по делу MH17\n\nЖитель Донецкой народной республики (ДНР) Владимир Цемах,</segment>
+		<segment id="95" parent="94" relname="background">который в июне нынешнего года был похищен украинскими спецслужбами,</segment>
+		<segment id="97" parent="99" relname="span">а затем освобожден в рамках обмена между Украиной и РФ,</segment>
+		<segment id="98" parent="97" relname="attribution">рассказал РИА \"Новости\",</segment>
+		<segment id="101" parent="103" relname="span">что в ходе допросов украинские следователи вместе с представителями Нидерландов и Австралии оказывали на него давление,</segment>
+		<segment id="102" parent="101" relname="purpose">чтобы склонить к даче \"нужных показаний\" по делу малайзийского \"Боинга\".\n\</segment>
+		<segment id="106" parent="109" relname="attribution">nПо словам Цемаха,</segment>
+		<segment id="107" parent="109" relname="sequence">который в 2014 году был командиром отряда противовоздушной обороны ополченцев Донбасса в городе Снежное,</segment>
+		<segment id="108" parent="109" relname="sequence">он был похищен прямо из своего дома в городе Снежное сотрудниками Службы безопасности Украины (СБУ).</segment>
+		<segment id="111" parent="112" relname="joint">При этом ему ввели препараты-транквилизаторы.</segment>
+		<segment id="113" parent="118" relname="attribution">Цемах отметил,</segment>
+		<segment id="114" parent="116" relname="span">что уже вскоре после похищения на сайте Bellingcat был опубликован снимок его удостоверения,</segment>
+		<segment id="115" parent="114" relname="elaboration">которое похитители забрали у него</segment>
+		<segment id="117" parent="118" relname="sequence">и приобщили к следственным материалам</segment>
+		<segment id="120" parent="124" relname="span">и на которое должна была распространяться тайна следствия.\n\nУсловия содержания в киевском изоляторе,</segment>
+		<segment id="121" parent="122" relname="attribution">по словам Цемаха,</segment>
+		<segment id="122" parent="123" relname="span">были тяжелыми.</segment>
+		<segment id="126" parent="128" relname="joint">К нему не допускали врачей,</segment>
+		<segment id="127" parent="128" relname="joint">допрашивали без присутствия адвокатов.</segment>
+		<segment id="129" parent="131" relname="span">При этом допросы снимались на видеокамеру.</segment>
+		<segment id="130" parent="129" relname="elaboration">Их проводили сотрудники СБУ, а также представители полиции Нидерландов и Австралии.</segment>
+		<segment id="133" parent="135" relname="contrast">Некоторые среди них говорили только по-английски,</segment>
+		<segment id="134" parent="135" relname="contrast">однако двое хорошо владели и русским.</segment>
+		<segment id="138" parent="139" relname="condition">\"Если приезжали австралийцы и голландцы,</segment>
+		<segment id="139" parent="140" relname="span">то это проводились в помещениях СИЗО,</segment>
+		<segment id="141" parent="142" relname="condition">а если приезжали представители СБУ,</segment>
+		<segment id="142" parent="143" relname="span">они везли к себе в службу\",</segment>
+		<segment id="145" parent="144" relname="attribution">- рассказал Цемах.\n\</segment>
+		<segment id="150" parent="155" relname="condition">nВ ходе допроса в присутствии иностранных представителей</segment>
+		<segment id="151" parent="155" relname="joint">следователь генпрокуратуры Украины, по слова Цемаха, грозил ему пожизненным заключением</segment>
+		<segment id="152" parent="153" relname="attribution">и заявлял,</segment>
+		<segment id="153" parent="154" relname="span">что украинская сторона не включит его в список на обмен заключенными.</segment>
+		<segment id="157" parent="162" relname="attribution">\"Представитель Генпрокуратуры сказал,</segment>
+		<segment id="158" parent="160" relname="joint">что мне не обмен,</segment>
+		<segment id="159" parent="160" relname="joint">мне пожизненное светит,</segment>
+		<segment id="161" parent="162" relname="contrast">но многое будет зависеть от того, что ты ответишь этим товарищам\",</segment>
+		<segment id="164" parent="167" relname="attribution">- рассказал Цемах,</segment>
+		<segment id="165" parent="167" relname="span">имея в виду представителей Австралии и Нидерландов</segment>
+		<segment id="166" parent="165" relname="elaboration">.\n\</segment>
+		<segment id="171" parent="175" relname="joint">nВ случае дачи нужных следователям показаний Цемаха обещали освободить от приговора,</segment>
+		<segment id="172" parent="174" relname="joint">вывезти в Нидерланды,</segment>
+		<segment id="173" parent="174" relname="joint">предоставить жилье.</segment>
+		<segment id="176" parent="182" relname="sequence">\"Предлагали программу защиты свидетелей,</segment>
+		<segment id="177" parent="181" relname="span">предлагали гражданство, домик в Голландии почему-то.</segment>
+		<segment id="178" parent="179" relname="cause-effect">Почему не в Австралии</segment>
+		<segment id="179" parent="180" relname="span">- вот это меня удивило\",</segment>
+		<segment id="183" parent="182" relname="attribution">- рассказал Владимир Цемах.</segment>
+		<segment id="186" parent="218" relname="span">Однако он отказался давать показания, которые от него требовали.\n\</segment>
+		<segment id="187" parent="217" relname="joint">nНапомним, Россия и Украина 7 сентября освободили по 35 осужденных и задержанных граждан.</segment>
+		<segment id="188" parent="204" relname="joint">Среди освобожденных с российской стороны были осужденный по обвинению в терроризме режиссер Олег Сенцов и 24 украинских военных, участвовавших в вооруженном инциденте у берегов Крыма.</segment>
+		<segment id="189" parent="203" relname="span">Цемах вошел в число 35 человек, переданных Украиной России.</segment>
+		<segment id="190" parent="192" relname="span">По одной из версий, Москва пошла на обмен</segment>
+		<segment id="191" parent="190" relname="elaboration">именно из желания заполучить Цемаха</segment>
+		<segment id="195" parent="201" relname="span">.\n\n3 сентября Главный прокурор Нидерландов Фред Вестербеке призвал Украину не передавать Цемаха России,</segment>
+		<segment id="196" parent="198" relname="span">поскольку он проходит подозреваемым по делу об уничтожении MH17.\n\nМалайзийский Boeing 777-200,</segment>
+		<segment id="197" parent="196" relname="elaboration">летевший из Амстердама в Куала-Лумпур рейсом MH17,</segment>
+		<segment id="199" parent="200" relname="same-unit">был сбит 17 июля 2014 года под Донецком в зоне вооруженного конфликта в Донбассе.</segment>
+		<segment id="205" parent="211" relname="span">На борту находились 298 человек (граждане почти двух десятков государств),</segment>
+		<segment id="206" parent="210" relname="span">все они погибли.\n\</segment>
+		<segment id="207" parent="208" relname="purpose">nДля расследования катастрофы</segment>
+		<segment id="208" parent="209" relname="span">была создана Совместная следственная группа (ССГ).</segment>
+		<segment id="212" parent="214" relname="joint">В нее вошли представители Австралии, Бельгии, Малайзии, Нидерландов и Украины.</segment>
+		<segment id="213" parent="214" relname="joint">Россия же в нее не вошла.</segment>
+		<segment id="219" parent="238" relname="attribution">С самого начала возникли подозрения,</segment>
+		<segment id="220" parent="222" relname="span">что к уничтожению лайнера имеют отношения подразделения российской армии,</segment>
+		<segment id="221" parent="220" relname="elaboration">использовавшие для уничтожения самолета зенитно-ракетный комплекс \"Бук\".\n\nВ июне 2017 года страны, входящие в состав следственной группы, приняли решение,</segment>
+		<segment id="223" parent="225" relname="span">что судебный процесс над подозреваемыми в крушении будет проходить в голландском суде и по голландским законам.\n\nОбвинения в рамках уголовного дела предъявлены трем россиянам (бывшему главе вооруженных сил ДНР Игорю Гиркину,</segment>
+		<segment id="224" parent="223" relname="background">известному под псевдонимом Стрелков, командиру разведгруппы Сергею Дубинскому с позывным \"Хмурый\" и его заместителю Олегу Пулатову),</segment>
+		<segment id="227" parent="229" relname="span">а также гражданину Украины Леониду Харченко.\n\nСледствие также установило имена военнослужащих 53-й зенитной бригады ВС РФ,</segment>
+		<segment id="228" parent="227" relname="background">которые находились в районе российско-украинской границы в середине июля 2014 года.</segment>
+		<segment id="230" parent="232" relname="span">Были опубликованы даже фотографии этих военнослужащих.</segment>
+		<segment id="231" parent="230" relname="interpretation-evaluation">Предположительно, именно они обслуживали ЗРК \"Бук\", из которого сбили лайнер.\n\nПрокурор Нидерландов признал,</segment>
+		<segment id="234" parent="235" relname="span">что суд, скорее всего, будет заочным,</segment>
+		<segment id="236" parent="237" relname="contrast">а шансы подозреваемых оказаться на скамье подсудимых ничтожны.\n\</segment>
+		<segment id="240" parent="251" relname="preparation">nВ рамках расследования встал вопрос и о том, какова роль российского руководства в произошедшем.</segment>
+		<segment id="241" parent="243" relname="sequence">Голландские следователи обнародовали несколько телефонных разговоров между Игорем Гиркиным и российскими чиновниками</segment>
+		<segment id="242" parent="243" relname="sequence">- предположительно, главой Крыма Сергеем Аксеновым и помощником президента России Владиславом Сурковым.\n\nВ разговорах речь шла о помощи от России.</segment>
+		<segment id="244" parent="249" relname="attribution">В беседе с Аксеновым Гиркин перечислил,</segment>
+		<segment id="245" parent="249" relname="span">что необходимо - противотанковая артиллерия, танки и ПВО с уже готовыми специалистами,</segment>
+		<segment id="246" parent="247" relname="cause-effect">так как своих \"времени готовить у нас не будет,</segment>
+		<segment id="247" parent="248" relname="span">уже нет\".</segment>
+		<segment id="254" parent="261" relname="attribution">Ему сообщили,</segment>
+		<segment id="255" parent="261" relname="joint">что помощь придет.\n\nА Сурков за неделю до катастрофы MH17 заверяет премьер-министра ДНР Александра Бородая в том,</segment>
+		<segment id="256" parent="259" relname="attribution">что \"поговорил со старшими товарищами,</segment>
+		<segment id="257" parent="259" relname="joint">старше не бывает\" о военной помощи ополченцам</segment>
+		<segment id="258" parent="259" relname="joint">и намекает на некое \"переломное действие\".\n\nОтметим, что Владимир Цемах летом 2014 года \"был начальником ПВО\" в Снежном.</segment>
+		<segment id="263" parent="262" relname="elaboration">Именно в районе этого города были зафиксированы на видео передвижения \"Бука\" непосредственно перед тем, как лайнер упал на землю.</segment>
+		<segment id="265" parent="267" relname="span">Цемах также лично прятал \"Бук\" после инцидента,</segment>
+		<segment id="266" parent="265" relname="attribution">о чем он говорил в интервью.</segment>
+		<segment id="268" parent="269" relname="joint">Видеозапись этого разговора расшифровали журналисты группы Bellingcat.\n\nИсточник: https://www.newsru.com/russia/01Nov2019/cemax_dopros.html\n</segment>
+		<group id="149" type="multinuc" parent="275" relname="joint"/>
+		<group id="105" type="span" parent="149" relname="joint"/>
+		<group id="104" type="multinuc" parent="105" relname="span"/>
+		<group id="100" type="multinuc" parent="104" relname="sequence"/>
+		<group id="96" type="span" parent="100" relname="sequence"/>
+		<group id="99" type="span" parent="100" relname="sequence"/>
+		<group id="103" type="span" parent="104" relname="sequence"/>
+		<group id="148" type="multinuc" parent="149" relname="joint"/>
+		<group id="112" type="multinuc" parent="148" relname="joint"/>
+		<group id="110" type="span" parent="112" relname="joint"/>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="147" type="span" parent="148" relname="joint"/>
+		<group id="137" type="multinuc" parent="147" relname="span"/>
+		<group id="125" type="multinuc" parent="137" relname="joint"/>
+		<group id="119" type="span" parent="125" relname="joint"/>
+		<group id="118" type="multinuc" parent="119" relname="span"/>
+		<group id="116" type="span" parent="118" relname="sequence"/>
+		<group id="124" type="span" parent="125" relname="joint"/>
+		<group id="123" type="span" parent="120" relname="interpretation-evaluation"/>
+		<group id="136" type="span" parent="137" relname="joint"/>
+		<group id="132" type="multinuc" parent="136" relname="span"/>
+		<group id="128" type="multinuc" parent="132" relname="joint"/>
+		<group id="131" type="span" parent="132" relname="joint"/>
+		<group id="135" type="multinuc" parent="132" relname="elaboration"/>
+		<group id="146" type="span" parent="137" relname="elaboration"/>
+		<group id="144" type="multinuc" parent="146" relname="span"/>
+		<group id="140" type="span" parent="144" relname="joint"/>
+		<group id="143" type="span" parent="144" relname="joint"/>
+		<group id="274" type="multinuc" parent="275" relname="joint"/>
+		<group id="170" type="multinuc" parent="274" relname="joint"/>
+		<group id="156" type="span" parent="170" relname="joint"/>
+		<group id="155" type="multinuc" parent="156" relname="span"/>
+		<group id="154" type="span" parent="155" relname="joint"/>
+		<group id="169" type="span" parent="170" relname="joint"/>
+		<group id="163" type="span" parent="169" relname="span"/>
+		<group id="162" type="multinuc" parent="163" relname="span"/>
+		<group id="160" type="multinuc" parent="162" relname="contrast"/>
+		<group id="168" type="span" parent="163" relname="attribution"/>
+		<group id="167" type="span" parent="168" relname="span"/>
+		<group id="273" type="multinuc" parent="274" relname="joint"/>
+		<group id="185" type="multinuc" parent="273" relname="joint"/>
+		<group id="175" type="multinuc" parent="185" relname="joint"/>
+		<group id="174" type="multinuc" parent="175" relname="joint"/>
+		<group id="184" type="span" parent="185" relname="joint"/>
+		<group id="182" type="multinuc" parent="184" relname="span"/>
+		<group id="181" type="span" parent="182" relname="sequence"/>
+		<group id="180" type="span" parent="177" relname="interpretation-evaluation"/>
+		<group id="272" type="multinuc" parent="273" relname="joint"/>
+		<group id="218" type="span" parent="272" relname="joint"/>
+		<group id="217" type="multinuc" parent="186" relname="elaboration"/>
+		<group id="216" type="multinuc" parent="217" relname="joint"/>
+		<group id="204" type="multinuc" parent="216" relname="joint"/>
+		<group id="203" type="span" parent="204" relname="joint"/>
+		<group id="202" type="span" parent="189" relname="elaboration"/>
+		<group id="192" type="span" parent="202" relname="span"/>
+		<group id="201" type="span" parent="192" relname="elaboration"/>
+		<group id="200" type="multinuc" parent="195" relname="cause-effect"/>
+		<group id="198" type="span" parent="200" relname="same-unit"/>
+		<group id="215" type="span" parent="216" relname="joint"/>
+		<group id="211" type="span" parent="215" relname="span"/>
+		<group id="210" type="span" parent="205" relname="elaboration"/>
+		<group id="209" type="span" parent="206" relname="purpose"/>
+		<group id="214" type="multinuc" parent="211" relname="elaboration"/>
+		<group id="271" type="multinuc" parent="272" relname="joint"/>
+		<group id="253" type="multinuc" parent="271" relname="joint"/>
+		<group id="239" type="span" parent="253" relname="joint"/>
+		<group id="238" type="multinuc" parent="239" relname="span"/>
+		<group id="226" type="multinuc" parent="238" relname="joint"/>
+		<group id="222" type="span" parent="226" relname="comparison"/>
+		<group id="225" type="span" parent="226" relname="comparison"/>
+		<group id="237" type="multinuc" parent="238" relname="joint"/>
+		<group id="235" type="span" parent="237" relname="contrast"/>
+		<group id="233" type="span" parent="234" relname="attribution"/>
+		<group id="229" type="span" parent="233" relname="span"/>
+		<group id="232" type="span" parent="229" relname="elaboration"/>
+		<group id="252" type="span" parent="253" relname="joint"/>
+		<group id="251" type="multinuc" parent="252" relname="span"/>
+		<group id="243" type="multinuc" parent="251" relname="joint"/>
+		<group id="250" type="span" parent="251" relname="joint"/>
+		<group id="249" type="span" parent="250" relname="span"/>
+		<group id="248" type="span" parent="245" relname="cause-effect"/>
+		<group id="270" type="multinuc" parent="271" relname="joint"/>
+		<group id="264" type="span" parent="270" relname="joint"/>
+		<group id="262" type="span" parent="264" relname="span"/>
+		<group id="261" type="multinuc" parent="262" relname="span"/>
+		<group id="260" type="span" parent="261" relname="joint"/>
+		<group id="259" type="multinuc" parent="260" relname="span"/>
+		<group id="269" type="multinuc" parent="270" relname="joint"/>
+		<group id="267" type="span" parent="269" relname="joint"/>
+		<group id="275" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,96 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="40" parent="42" relname="span">Умер отец Гвинет Пэлтроу\n\nКинозвезда Гвинет Пэлтроу была крайне потрясена вчера вечером сообщением о смерти отца,</segment>
+		<segment id="41" parent="40" relname="attribution">сообщает Mirror.</segment>
+		<segment id="43" parent="45" relname="span">TV продюсер Брюс Пэлтроу, по предварительным данным, скончался от сердечного приступа,</segment>
+		<segment id="44" parent="43" relname="background">в то время как он проводил отпуск с дочерью, женой и сыном в Италии.\n\nЕму было 58 лет,</segment>
+		<segment id="46" parent="45" relname="background">два года назад он победил рак горла.</segment>
+		<segment id="48" parent="50" relname="span">По сведениям хорошо информированного о жизни и взаимоотношениях отца и дочери источника,</segment>
+		<segment id="49" parent="48" relname="elaboration">Гвинет всегда видела опору и защитника в отце.</segment>
+		<segment id="51" parent="53" relname="joint">Она была настоящей дочерью своего отца</segment>
+		<segment id="52" parent="53" relname="joint">и очень его любила.</segment>
+		<segment id="54" parent="56" relname="span">Она очень страдает,</segment>
+		<segment id="55" parent="54" relname="cause-effect">гармоничный мир ее жизни потерпел сокрушительный крах.\n\nГвинет и ее семья проводили отпуск в Италии.</segment>
+		<segment id="60" parent="70" relname="sequence">В прошлую пятницу они отметили 30-й день рождения актрисы.</segment>
+		<segment id="61" parent="65" relname="sequence">Они посетили Рим</segment>
+		<segment id="62" parent="64" relname="span">и отдохнули в Сиене,</segment>
+		<segment id="63" parent="62" relname="background">где Гвинет однажды снималась.</segment>
+		<segment id="66" parent="68" relname="sequence">Ее мать, актриса Блит Дэннер и брат Джейк были с Гвинет и Брюсом.\n\nОтец Гвинет заболел в среду,</segment>
+		<segment id="67" parent="68" relname="sequence">его поместили в частную клинику в Риме.</segment>
+		<segment id="71" parent="73" relname="sequence">До четверга он находился в госпитале San Camillo-Forlanini hospital,</segment>
+		<segment id="72" parent="73" relname="sequence">где и умер от сердечного приступ.</segment>
+		<segment id="74" parent="76" relname="span">Гвинет все время болезни не оставляла отца,</segment>
+		<segment id="75" parent="74" relname="cause-effect">только вчера утром она покинула больницу.</segment>
+		<segment id="77" parent="79" relname="joint">Она была бледна</segment>
+		<segment id="78" parent="79" relname="joint">и выглядела очень плохо.</segment>
+		<segment id="83" parent="85" relname="span">Жены Брюса Блит Дэннер,</segment>
+		<segment id="84" parent="83" relname="background">с которой он прожил в течение 32 лет,</segment>
+		<segment id="86" parent="85" relname="background">в момент его кончины не было в Риме.</segment>
+		<segment id="88" parent="87" relname="background">В это время она снималась в Лос-Анджелесе.\n\nКарьера Брюса Пэлтроу началась в 1960-х годах с театральных постановок.</segment>
+		<segment id="90" parent="92" relname="joint">Однако, позже он оставил театр</segment>
+		<segment id="91" parent="92" relname="joint">и занялся телевидением.</segment>
+		<segment id="93" parent="95" relname="span">Брюс получил известность в США за ряд телесериалов,</segment>
+		<segment id="94" parent="93" relname="elaboration">особенной популярностью пользовался сериал 80-х о жизни больницы St Elsewhere.</segment>
+		<segment id="96" parent="102" relname="contrast">Этот сериал был восторженно принят зрителями,</segment>
+		<segment id="97" parent="100" relname="attribution">но получил низкие оценки придирчивой критики.\n\nГвинет Пэлтроу сказала,</segment>
+		<segment id="98" parent="100" relname="joint">что она любила быть рядом</segment>
+		<segment id="99" parent="100" relname="joint">и работать с отцом.</segment>
+		<segment id="103" parent="106" relname="attribution">\"Я думаю,</segment>
+		<segment id="104" parent="106" relname="span">что он - самый сильный человек,</segment>
+		<segment id="105" parent="104" relname="background">которого я когда-либо знала в жизни\",</segment>
+		<segment id="108" parent="107" relname="attribution">- сказала она в 1999 году на церемонии вручения Оскара за \"Влюбленного Шекспира\".\n\nИсточник: https://www.newsru.com/cinema/04Oct2002/paltrow.html\n</segment>
+		<group id="42" type="span" parent="115" relname="preparation"/>
+		<group id="115" type="multinuc" parent="116" relname="span"/>
+		<group id="59" type="multinuc" parent="115" relname="joint"/>
+		<group id="47" type="span" parent="59" relname="sequence"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="58" type="span" parent="59" relname="sequence"/>
+		<group id="50" type="span" parent="58" relname="span"/>
+		<group id="57" type="multinuc" parent="50" relname="elaboration"/>
+		<group id="53" type="multinuc" parent="57" relname="joint"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="114" type="multinuc" parent="115" relname="joint"/>
+		<group id="82" type="multinuc" parent="114" relname="joint"/>
+		<group id="70" type="multinuc" parent="82" relname="sequence"/>
+		<group id="69" type="multinuc" parent="70" relname="sequence"/>
+		<group id="65" type="multinuc" parent="69" relname="sequence"/>
+		<group id="64" type="span" parent="65" relname="sequence"/>
+		<group id="68" type="multinuc" parent="69" relname="sequence"/>
+		<group id="81" type="multinuc" parent="82" relname="sequence"/>
+		<group id="73" type="multinuc" parent="81" relname="sequence"/>
+		<group id="80" type="span" parent="81" relname="sequence"/>
+		<group id="76" type="span" parent="80" relname="span"/>
+		<group id="79" type="multinuc" parent="76" relname="interpretation-evaluation"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="89" type="span" parent="113" relname="contrast"/>
+		<group id="87" type="span" parent="89" relname="span"/>
+		<group id="85" type="span" parent="87" relname="span"/>
+		<group id="112" type="span" parent="113" relname="contrast"/>
+		<group id="92" type="multinuc" parent="112" relname="span"/>
+		<group id="111" type="multinuc" parent="92" relname="elaboration"/>
+		<group id="95" type="span" parent="111" relname="joint"/>
+		<group id="110" type="span" parent="111" relname="joint"/>
+		<group id="102" type="multinuc" parent="110" relname="span"/>
+		<group id="101" type="span" parent="102" relname="contrast"/>
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="109" type="span" parent="102" relname="elaboration"/>
+		<group id="107" type="span" parent="109" relname="span"/>
+		<group id="106" type="span" parent="107" relname="span"/>
+		<group id="116" type="span"/>
+	</body>
+</rst>

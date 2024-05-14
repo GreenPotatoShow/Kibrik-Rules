@@ -1,0 +1,35 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="31" relname="preparation">Московские светофоры будут штрафовать за выезд за стоп-линию\n\</segment>
+		<segment id="13" parent="31" relname="joint">nВ Москве в светофоры встроят специальные чипы, которые позволят фиксировать выезд за стоп-линию.</segment>
+		<segment id="14" parent="16" relname="span">Кроме того, вскоре камеры научатся фиксировать выезд на красный свет.\n\nОб очередном нововведении рассказал глава столичного Департамента транспорта и развития дорожно-транспортной инфраструктуры Москвы по вопросам транспорта Максим Ликсутов:</segment>
+		<segment id="15" parent="14" relname="elaboration">\"Совместно с ГИБДД мы сейчас хотим ввести автоматическую фиксацию выезда за линию светофора.</segment>
+		<segment id="17" parent="16" relname="elaboration">В светофор встраивается специальное устройство, которое будет это фиксировать\",</segment>
+		<segment id="19" parent="29" relname="joint">- цитирует Ликсутова Autonews.\n\nРанее сообщалось, что уже в скором времени комплексы фиксации нарушений ПДД начнут запечатлевать движение на красный свет.</segment>
+		<segment id="20" parent="27" relname="attribution">Об этом журналистам поведал главный автоинспектор города Александр Ильин:</segment>
+		<segment id="21" parent="25" relname="joint">\"В ближайшее время мы планируем внедрить фиксацию нарушений, связанных с выездом на запрещающий сигнал светофора, пересечением стоп-линии на перекрестках на запрещающий сигнал, выездом на перекресток, забитый транспортом,</segment>
+		<segment id="22" parent="24" relname="span">и фиксацию движения грузовых автомобилей дальше второй полосы,</segment>
+		<segment id="23" parent="22" relname="interpretation-evaluation">что очень важно в Москве\".\n\</segment>
+		<segment id="26" parent="27" relname="joint">nВ настоящее время камеры в Москве фиксируют выезд на выделенную полосу, превышение скорости, а также неправильную парковку.\n\nИсточник: https://www.newsru.com/auto/04Oct2012/svetofor.html\n</segment>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="30" type="multinuc" parent="31" relname="joint"/>
+		<group id="18" type="span" parent="30" relname="joint"/>
+		<group id="16" type="span" parent="18" relname="span"/>
+		<group id="29" type="multinuc" parent="30" relname="joint"/>
+		<group id="28" type="span" parent="29" relname="joint"/>
+		<group id="27" type="multinuc" parent="28" relname="span"/>
+		<group id="25" type="multinuc" parent="27" relname="joint"/>
+		<group id="24" type="span" parent="25" relname="joint"/>
+		<group id="32" type="span"/>
+	</body>
+</rst>

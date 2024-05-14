@@ -1,0 +1,100 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="concession" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="41" parent="43" relname="span">\"Единая Россия\" предлагает увеличить штрафы,</segment>
+		<segment id="42" parent="41" relname="condition">отвязав их от МРОТ\n\nГруппа депутатов от \"Единой России\" внесла в Госдуму законопроект,</segment>
+		<segment id="44" parent="46" relname="span">исключающий из Кодекса об административных правонарушениях понятие о минимальном размере оплаты труда (МРОТ),</segment>
+		<segment id="45" parent="44" relname="condition">с помощью которого исчисляются штрафы.</segment>
+		<segment id="48" parent="49" relname="attribution">Оппоненты \"единороссов\" уверены,</segment>
+		<segment id="49" parent="50" relname="span">что эта инициатива неминуемо приведет к увеличению штрафов,</segment>
+		<segment id="51" parent="52" relname="attribution">пишет \"Коммерсант\".\n\nОдин из авторов документа, глава думского комитета по конституционному законодательству и госстроительству Владимир Плигин, пояснил,</segment>
+		<segment id="52" parent="53" relname="span">что \"определение размеров административных штрафов в МРОТ является нелогичным\".</segment>
+		<segment id="56" parent="58" relname="comparison">Дело в том, что МРОТ, закрепленный в КоАПе, составляет 100 рублей,</segment>
+		<segment id="57" parent="58" relname="comparison">тогда как минимальная оплата труда, которую государство определило для работодателей, - 1100 рублей.\n\n</segment>
+		<segment id="59" parent="63" relname="span">\"Понятие МРОТа создает трудности в практическом применении КОАПа:</segment>
+		<segment id="60" parent="62" relname="joint">не каждый россиянин понимает, что такое МРОТ</segment>
+		<segment id="61" parent="62" relname="joint">и какова его сумма.</segment>
+		<segment id="64" parent="63" relname="interpretation-evaluation">Мы хотим сделать законодательство более доступным\",</segment>
+		<segment id="66" parent="65" relname="attribution">- говорит Плигин.</segment>
+		<segment id="70" parent="71" relname="attribution">Он пообещал,</segment>
+		<segment id="71" parent="72" relname="span">что \"исчисление штрафов в рублях будет аналогично суммам, ранее указанным в МРОТе\".</segment>
+		<segment id="73" parent="79" relname="span">\"Законопроект носит технический характер,</segment>
+		<segment id="74" parent="78" relname="joint">- подчеркнул Плигин.\n\nВместе с тем есть противники этого утверждения.</segment>
+		<segment id="75" parent="76" relname="attribution">Глава движения автомобилистов России, депутат Госдумы Виктор Похмелкин назвал</segment>
+		<segment id="76" parent="77" relname="span">инициативу \"единороссов\" \"преждевременной и бессмысленной\".</segment>
+		<segment id="80" parent="81" relname="attribution">\"Я уверен,</segment>
+		<segment id="81" parent="82" relname="span">что это приведет к тому, что в ходе второго и третьего чтений в законопроекте появятся изменения,</segment>
+		<segment id="83" parent="82" relname="attribution">- заявил депутат.</segment>
+		<segment id="85" parent="86" relname="joint">- Будут существенно увеличены штрафы\".</segment>
+		<segment id="87" parent="90" relname="attribution">Глава движения автомобилистов отметил,</segment>
+		<segment id="88" parent="90" relname="span">что \"ударит это, прежде всего, по тем, кто за рулем</segment>
+		<segment id="89" parent="88" relname="cause-effect">- они больше других сталкиваются с проблемой оплаты штрафов\".\n\</segment>
+		<segment id="92" parent="94" relname="sequence">nНа следующей неделе законопроект будет направлен всем депутатам,</segment>
+		<segment id="93" parent="94" relname="sequence">а затем рассмотрен в первом чтении.</segment>
+		<segment id="95" parent="99" relname="span">\"Мне документ представляется логичным.</segment>
+		<segment id="96" parent="98" relname="contrast">Не исключено, что он претерпит небольшие изменения,</segment>
+		<segment id="97" parent="98" relname="contrast">но с его идеей наверняка все согласятся\",</segment>
+		<segment id="100" parent="102" relname="joint">- уверен Владимир Плигин.\n\nПонятие МРОТа появилось в КоАПе летом 2000 года</segment>
+		<segment id="101" parent="102" relname="joint">и регулируется ст. 5 закона \"О минимальном размере оплаты труда\".</segment>
+		<segment id="104" parent="111" relname="preparation">С 1 июля до 31 декабря 2000 года эта сумма равнялась 83 рублям, а с 1 января 2001 – 100 рублям.</segment>
+		<segment id="105" parent="110" relname="concession">Несмотря на то, что МРОТ для работодателей за шесть лет менялся несколько раз,</segment>
+		<segment id="106" parent="110" relname="joint">МРОТ, установленный для штрафов,</segment>
+		<segment id="107" parent="109" relname="joint">оставался неизменным,</segment>
+		<segment id="108" parent="109" relname="joint">изменялся лишь сам размер штрафов за отдельные правонарушения.\n\nИсточник: https://www.newsru.com/russia/12Oct2006/mrot.html\n</segment>
+		<group id="69" type="multinuc" parent="119" relname="joint"/>
+		<group id="55" type="multinuc" parent="69" relname="comparison"/>
+		<group id="47" type="multinuc" parent="55" relname="comparison"/>
+		<group id="43" type="span" parent="47" relname="comparison"/>
+		<group id="46" type="span" parent="47" relname="comparison"/>
+		<group id="54" type="multinuc" parent="55" relname="comparison"/>
+		<group id="50" type="span" parent="54" relname="joint"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="68" type="multinuc" parent="69" relname="comparison"/>
+		<group id="58" type="multinuc" parent="68" relname="comparison"/>
+		<group id="67" type="span" parent="68" relname="comparison"/>
+		<group id="65" type="span" parent="67" relname="span"/>
+		<group id="63" type="span" parent="65" relname="span"/>
+		<group id="62" type="multinuc" parent="59" relname="elaboration"/>
+		<group id="118" type="multinuc" parent="119" relname="joint"/>
+		<group id="72" type="span" parent="118" relname="joint"/>
+		<group id="117" type="multinuc" parent="118" relname="joint"/>
+		<group id="79" type="span" parent="117" relname="joint"/>
+		<group id="78" type="multinuc" parent="73" relname="attribution"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="116" type="multinuc" parent="117" relname="joint"/>
+		<group id="86" type="multinuc" parent="116" relname="joint"/>
+		<group id="84" type="span" parent="86" relname="joint"/>
+		<group id="82" type="span" parent="84" relname="span"/>
+		<group id="115" type="multinuc" parent="116" relname="joint"/>
+		<group id="91" type="span" parent="115" relname="joint"/>
+		<group id="90" type="span" parent="91" relname="span"/>
+		<group id="114" type="multinuc" parent="115" relname="joint"/>
+		<group id="94" type="multinuc" parent="114" relname="joint"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="103" type="multinuc" parent="113" relname="joint"/>
+		<group id="99" type="span" parent="103" relname="joint"/>
+		<group id="98" type="multinuc" parent="95" relname="interpretation-evaluation"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="112" type="span" parent="113" relname="joint"/>
+		<group id="111" type="span" parent="112" relname="span"/>
+		<group id="110" type="multinuc" parent="111" relname="span"/>
+		<group id="109" type="multinuc" parent="110" relname="joint"/>
+		<group id="119" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,27 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="8" parent="10" relname="span">Дмитрий Арапенков: \"Медицинский туризм поневоле\"\n\n\"В Германии в настоящий момент происходит бум медицинского туризма.</segment>
+		<segment id="9" parent="8" relname="elaboration">Уже в 2010 году оборот в этой отрасли составил около 260 млрд. евро.</segment>
+		<segment id="11" parent="12" relname="attribution">По данным немецких СМИ в 2012,</segment>
+		<segment id="12" parent="13" relname="span">количество русских пациентов и пациентов из стран СНГ увеличилось более чем в три раза.\n\nКонечно же, медицинский туризм имеет давнюю историю.</segment>
+		<segment id="14" parent="16" relname="span">Цари, русская аристократия, писатели, художники, поэты выезжали в Германию,</segment>
+		<segment id="15" parent="14" relname="purpose">чтобы поправить свое здоровье.</segment>
+		<segment id="17" parent="18" relname="joint">Долгое время лечение за границей считалось элитным.\"\n\nИсточник: https://www.newsru.com/blog/03Jan2013/medcare.html\n</segment>
+		<group id="10" type="span" parent="19" relname="preparation"/>
+		<group id="19" type="multinuc" parent="20" relname="span"/>
+		<group id="13" type="span" parent="19" relname="joint"/>
+		<group id="18" type="multinuc" parent="19" relname="joint"/>
+		<group id="16" type="span" parent="18" relname="joint"/>
+		<group id="20" type="span"/>
+	</body>
+</rst>

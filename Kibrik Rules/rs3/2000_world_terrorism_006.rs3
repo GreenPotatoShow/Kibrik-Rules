@@ -1,0 +1,23 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="7" parent="17" relname="span">В Мадриде прошла манифестация протеста против терроризма\n\nЧетверть миллиона жителей испанской столицы приняли участие в манифестации против терроризма.</segment>
+		<segment id="8" parent="16" relname="joint">Массовое шествие во главе с председателем правительства Испании Хосе Мариа Аснаром стало ответом на убийство члена Верховного суда Испании Франсиско Кероля, его телохранителя и водителя.</segment>
+		<segment id="9" parent="11" relname="span">Они стали жертвами покушения,</segment>
+		<segment id="10" parent="9" relname="elaboration">организованного боевиками баскской террористической организации ЭТА.</segment>
+		<segment id="12" parent="13" relname="cause-effect">Террористы заложили в автомобиль, припаркованный недалеко от автобусной остановки, заряд динамита весом от 30 до 40 килограммов.</segment>
+		<segment id="13" parent="14" relname="span">В результате взрыва ранения получили в общей сложности более 60 человек.\n\nИсточник: https://www.newsru.com/world/01Nov2000/terrorism.html\n</segment>
+		<group id="16" type="multinuc" parent="7" relname="elaboration"/>
+		<group id="15" type="multinuc" parent="16" relname="joint"/>
+		<group id="11" type="span" parent="15" relname="joint"/>
+		<group id="14" type="span" parent="15" relname="joint"/>
+		<group id="17" type="span"/>
+	</body>
+</rst>

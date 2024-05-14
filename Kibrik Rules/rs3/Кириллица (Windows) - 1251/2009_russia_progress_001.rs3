@@ -1,0 +1,76 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="35" relname="contrast">\"Прогресс\" доставил на МКС груз и подарки.</segment>
+		<segment id="32" parent="34" relname="span">Но космонавты отправились спать,</segment>
+		<segment id="33" parent="32" relname="condition">не распаковав их\n\nВторой модифицированный грузовой корабль \"Прогресс\" во вторник вечером успешно пристыковался к Международной космической станции.</segment>
+		<segment id="36" parent="40" relname="joint">\"В 23:24 мск \"Прогресс М-02М\" был пристыкован к переходному отсеку \"Пирс\" в автоматическом режиме\",</segment>
+		<segment id="37" parent="38" relname="attribution">- сообщил официальный представитель подмосковного Центра управления полетами Валерий Лындин,</segment>
+		<segment id="38" parent="39" relname="span">на которого ссылается ИТАР-ТАСС.\n\nНа борту \"грузовика\" более 2,5 т грузов - продукты, вода, топливо и оборудование, а также подарки для экипажа МКС-19 - россиянина Геннадия Падалки, американца Майкла Барратта и японца Коити Ваката.\n\n\"Прогресс\" доставил на станцию третий компьютеризированный скафандр \"Орлан-МК\".</segment>
+		<segment id="42" parent="44" relname="joint">Первый \"умный\" скафандр был доставлен на орбиту в середине сентября прошлого года,</segment>
+		<segment id="43" parent="44" relname="joint">а второй - в феврале этого года,</segment>
+		<segment id="45" parent="47" relname="span">однако в них за бортом еще не работали,</segment>
+		<segment id="46" parent="45" relname="elaboration">уточнили в ЦУП.</segment>
+		<segment id="49" parent="51" relname="span">Космонавты апробируют свои новые \"костюмы\" в июне,</segment>
+		<segment id="50" parent="49" relname="elaboration">когда проведут два выхода в открытый космос.\n\nС очередной \"оказией\" с Земли космонавты получили не только топливо, воду, аппаратуру, кислород и стандартные рационы питания.</segment>
+		<segment id="52" parent="54" relname="span">По просьбе командира Падалки,</segment>
+		<segment id="53" parent="52" relname="elaboration">который 21 июня отметит на орбите свой день рождения,</segment>
+		<segment id="55" parent="54" relname="elaboration">специалисты послали экипажу 5 кг помидоров и 8 кг яблок, а также по килограмму лука и чеснока.</segment>
+		<segment id="57" parent="59" relname="span">Все овощи и фрукты упакованы в специальные контейнеры,</segment>
+		<segment id="58" parent="57" relname="purpose">позволяющие сохранять свежие плоды в течение нескольких месяцев.</segment>
+		<segment id="60" parent="62" relname="span">А в посылке от психологов космонавт найдет 10 плиток шоколада и коробку шоколадных конфет,</segment>
+		<segment id="61" parent="60" relname="elaboration">которыми он сможет украсить праздничный стол.\n\nА российские психологи прислали пополнение в бортовую видеотеку - лучший российский фильм 2008 года \"Стиляги\", удостоенный высшей отечественной теленаграды сериал \"Ликвидация\", фантастический фильм-притчу \"Медвежий поцелуй\" и американскую комедию \"Анализируй то\".</segment>
+		<segment id="64" parent="82" relname="contrast">Разнообразить досуг космонавтам помогут и свежие номера журналов \"GEO\" и \"Российский космос\".\n\</segment>
+		<segment id="65" parent="71" relname="same-unit">nОднако,</segment>
+		<segment id="66" parent="69" relname="attribution">как сообщили в ЦУП,</segment>
+		<segment id="67" parent="69" relname="span">космонавты во вторник не смогут получить письма и подарки от родных и психологов,</segment>
+		<segment id="68" parent="67" relname="elaboration">которых на станции всегда ждут с особенным нетерпением.</segment>
+		<segment id="72" parent="78" relname="joint">Экипаж отроет люки \"Прогресса\" только днем в среду, 13 мая.\n\nТакое нарушение традиции сразу же извлекать из \"грузовика\" подарки объясняется тем, что корабль пристыковался к станции очень поздно,</segment>
+		<segment id="73" parent="77" relname="joint">за два часа до отбоя экипажа,</segment>
+		<segment id="74" parent="76" relname="joint">и медики не стали менять график сна и бодрствования космонавтов на орбите.\n\n\"До отбоя, который намечен на 01:30 мск (13 мая),</segment>
+		<segment id="75" parent="76" relname="joint">Геннадий Падалка, Майкл Барратт и Коити Ваката должны только \"стянуть\" корабль с МКС с помощью специальной штанги\",</segment>
+		<segment id="79" parent="78" relname="attribution">- уточнил официальный представитель ЦУП Валерий Лындин.</segment>
+		<segment id="88" parent="89" relname="joint">Все остальные необходимые для открытия люка операции - проверку герметичности соединения, выравнивание давления и установку специальной механической стяжки - экипаж проведет в среду в первой половине дня.\n\nИсточник: https://www.newsru.com/russia/12May2009/progress.html\n</segment>
+		<group id="87" type="multinuc" parent="89" relname="joint"/>
+		<group id="41" type="multinuc" parent="87" relname="joint"/>
+		<group id="35" type="multinuc" parent="41" relname="joint"/>
+		<group id="34" type="span" parent="35" relname="contrast"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="48" type="multinuc" parent="86" relname="joint"/>
+		<group id="44" type="multinuc" parent="48" relname="contrast"/>
+		<group id="47" type="span" parent="48" relname="contrast"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="51" type="span" parent="85" relname="joint"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="56" type="span" parent="84" relname="joint"/>
+		<group id="54" type="span" parent="56" relname="span"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="63" type="multinuc" parent="83" relname="joint"/>
+		<group id="59" type="span" parent="63" relname="joint"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="81" type="multinuc" parent="82" relname="contrast"/>
+		<group id="71" type="multinuc" parent="81" relname="joint"/>
+		<group id="70" type="span" parent="71" relname="same-unit"/>
+		<group id="69" type="span" parent="70" relname="span"/>
+		<group id="80" type="span" parent="81" relname="joint"/>
+		<group id="78" type="multinuc" parent="80" relname="span"/>
+		<group id="77" type="multinuc" parent="78" relname="joint"/>
+		<group id="76" type="multinuc" parent="77" relname="joint"/>
+		<group id="89" type="multinuc"/>
+	</body>
+</rst>

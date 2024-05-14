@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="36" relname="span">В Москве готовятся к эпидемии гриппа</segment>
+		<segment id="35" parent="34" relname="elaboration">- прививки сделали лишь 52 тысячи жителей\n\nЛечебные учреждения столицы готовятся к возможной эпидемии гриппа.</segment>
+		<segment id="37" parent="43" relname="joint">Об этом сообщил руководитель департамента здравоохранения Москвы Андрей Сельцовский на заседании санитарно противоэпидемиологической комиссии,</segment>
+		<segment id="38" parent="42" relname="joint">передает \"Интерфакс\".\n\nЗапланировано перепрофилирование коек в стационарах для госпитализации детей и взрослых (550 детских и 1600 взрослых) в Тушинской детской городской больнице, Детской городской клинической больнице N9 имени Сперанского, Детской инфекционной больнице N5, а также Городской клинической инфекционной больнице N1.\n\nВ поликлиники, как взрослые, так и детские,</segment>
+		<segment id="39" parent="41" relname="span">дополнительно были направлены 600 врачей-ординаторов и 450 врачей-интернов.\n\nМосавтотранс выделил дополнительный транспорт</segment>
+		<segment id="40" parent="39" relname="purpose">для обслуживания больных на дому.</segment>
+		<segment id="47" parent="59" relname="joint">В лечебных заведениях проверены вентиляционные установки, утеплены окна и двери.\n\</segment>
+		<segment id="48" parent="50" relname="span">nДля иммунизации медицинских работников департаментом здравоохранения закуплено 50 тыс. доз вакцины против гриппа.</segment>
+		<segment id="49" parent="48" relname="elaboration">Вакцинации подлежат 82 тыс. медиков.\n\</segment>
+		<segment id="51" parent="52" relname="purpose">nДля профилактики гриппа</segment>
+		<segment id="52" parent="53" relname="span">в столице планируется привить 234 тыс. детей дошкольного возраста, посещающих дошкольные учреждения, воспитанников сиротских и коррекционных образовательных учреждений, кадетских школ.</segment>
+		<segment id="54" parent="56" relname="sequence">Кроме этого, будут привиты 920 тыс. школьников.\n\nВ сентябре уже прошел первый курс вакцинации,</segment>
+		<segment id="55" parent="56" relname="sequence">второй намечен после осенних каникул.\n\nВ Москве от гриппа привиты всего 52 тыс. человек\n\</segment>
+		<segment id="61" parent="62" relname="attribution">nМежду тем первый заместитель мэра в правительстве столицы Людмила Швецова на заседании санитарно-противоэпидемиологической комиссии заявила,</segment>
+		<segment id="62" parent="63" relname="span">что работа по профилактике гриппа и ОРВИ проводится в Москве не в полном объеме.</segment>
+		<segment id="64" parent="72" relname="span">В городе привиты всего 52 тыс. человек.\n\</segment>
+		<segment id="65" parent="70" relname="attribution">nПо ее данным,</segment>
+		<segment id="66" parent="70" relname="span">ежегодно в столице регистрируются от 2,5 до 3 млн больных гриппом и ОРВИ</segment>
+		<segment id="67" parent="69" relname="span">(10% от всех заболевших в России),</segment>
+		<segment id="68" parent="67" relname="elaboration">среди которых более 50% детей.\n\</segment>
+		<segment id="74" parent="75" relname="attribution">nВ 2003 году экономические потери от этих заболеваний в столице составили около 9 млрд рублей.\n\nГлавный санитарный врач столицы Николай Филатов на заседании комиссии добавил,</segment>
+		<segment id="75" parent="76" relname="span">что в городе не принимаются должные меры по защите населения со стороны учреждений.</segment>
+		<segment id="77" parent="87" relname="span">Так, службой метрополитена приобретено всего 200 доз вакцины на 34 тыс. работающих, ГУВД - 1100,</segment>
+		<segment id="78" parent="85" relname="attribution">хотя только в приемниках-распределителях этого ведомства находятся 30 тыс. детей.\n\nФилатов также сообщил,</segment>
+		<segment id="79" parent="85" relname="comparison">что на проведение профилактических мероприятий по гриппу и ОРВИ в 2004 году выделено более 26 млн. рублей,</segment>
+		<segment id="80" parent="84" relname="comparison">что в 2,5 раза больше, чем в прошлом.\n\nВ первую неделю сентября,</segment>
+		<segment id="81" parent="82" relname="attribution">по сравнению с августом,</segment>
+		<segment id="82" parent="83" relname="span">наблюдался рост еженедельной заболеваемости гриппом и ОРВИ на 20-30%.</segment>
+		<segment id="88" parent="92" relname="span">В октябре темпы прироста заболеваемости несколько снизились.</segment>
+		<segment id="89" parent="91" relname="comparison">В частности, за прошлую неделю зарегистрировано 64306 больных,</segment>
+		<segment id="90" parent="91" relname="comparison">из них 36 тыс. - дети, среди которых 40% составляют школьники.\n\nТем не менее, до эпидемиологического порога еще далеко,</segment>
+		<segment id="93" parent="92" relname="attribution">добавил главный санитарный врач.\n\nИсточник: https://www.newsru.com/russia/21Oct2004/gripp2.html\n</segment>
+		<group id="60" type="multinuc" parent="98" relname="joint"/>
+		<group id="44" type="span" parent="60" relname="joint"/>
+		<group id="36" type="span" parent="43" relname="preparation"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="50" type="span" parent="58" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="53" type="span" parent="57" relname="joint"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="97" type="multinuc" parent="98" relname="joint"/>
+		<group id="73" type="span" parent="97" relname="joint"/>
+		<group id="63" type="span" parent="73" relname="span"/>
+		<group id="72" type="span" parent="63" relname="elaboration"/>
+		<group id="71" type="span" parent="64" relname="elaboration"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="69" type="span" parent="66" relname="elaboration"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="76" type="span" parent="96" relname="joint"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="87" type="span" parent="95" relname="comparison"/>
+		<group id="86" type="span" parent="77" relname="concession"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="84" type="multinuc" parent="85" relname="comparison"/>
+		<group id="83" type="span" parent="84" relname="comparison"/>
+		<group id="94" type="span" parent="95" relname="comparison"/>
+		<group id="92" type="span" parent="94" relname="span"/>
+		<group id="91" type="multinuc" parent="88" relname="elaboration"/>
+		<group id="98" type="multinuc"/>
+	</body>
+</rst>

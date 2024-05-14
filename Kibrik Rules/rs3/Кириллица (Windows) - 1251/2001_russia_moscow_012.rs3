@@ -1,0 +1,24 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="7" parent="16" relname="preparation">Возле жилого дома в Москве обнаружена боевая граната\n\nБоевая граната РГД-5 была обнаружена в воскресенье днем возле жилого дома в Москве на улице Снежная.</segment>
+		<segment id="8" parent="13" relname="attribution">Как сообщили в правоохранительных органах столицы,</segment>
+		<segment id="9" parent="13" relname="joint">информация об обнаружении гранаты поступила примерно 16:00 по московскому времени.\n\nПрибывшие на место происшествия саперы московской военной комендатуры изъяли гранату</segment>
+		<segment id="10" parent="12" relname="span">и вывезли ее на специальный полигон</segment>
+		<segment id="11" parent="10" relname="purpose">для уничтожения,</segment>
+		<segment id="15" parent="16" relname="joint">передает РИА \"Новости\".\n\nСотрудники милиции пытаются установить, кто мог оставить гранату возле жилого дома.\n\nИсточник: https://www.newsru.com/russia/13Aug2001/moscow.html\n</segment>
+		<group id="16" type="multinuc" parent="17" relname="span"/>
+		<group id="14" type="span" parent="16" relname="joint"/>
+		<group id="13" type="multinuc" parent="14" relname="span"/>
+		<group id="12" type="span" parent="13" relname="joint"/>
+		<group id="17" type="span"/>
+	</body>
+</rst>

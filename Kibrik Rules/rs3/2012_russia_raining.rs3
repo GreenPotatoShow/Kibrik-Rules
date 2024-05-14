@@ -1,0 +1,92 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="37" parent="38" relname="preparation">Метеорологи пообещали Центральной России \"сезон тропических дождей\"\n\nТеплая и влажная погода с грозовыми дождями продолжится в Центре Европейской России до выходных,</segment>
+		<segment id="38" parent="39" relname="span">сообщает Гидрометцентр.\n\n\"Сохранятся условия, которые будут способствовать интенсивному вертикальному перемешиванию воздушных масс,</segment>
+		<segment id="40" parent="41" relname="span">что обусловит комплекс неблагоприятных гидрометеорологических условий.</segment>
+		<segment id="42" parent="44" relname="span">Развитие мощной кучево-дождевой облачности</segment>
+		<segment id="43" parent="42" relname="elaboration">приведет к выпадению ливней, местами сильных, гроз, града, шквалов\",</segment>
+		<segment id="45" parent="44" relname="attribution">- говорится в пресс-релизе Гидрометцентра.\n\nВ среду с юго-запада к областям Центрального федерального округа приблизится циклон.</segment>
+		<segment id="48" parent="52" relname="joint">Грозовые дожди,</segment>
+		<segment id="49" parent="51" relname="sequence">местами сопровождаемые градом и порывистым ветром, начнутся в Брянской и Смоленской областях,</segment>
+		<segment id="50" parent="51" relname="sequence">а к середине дня они распространятся на территорию Курской, Калужской и Орловской областей.</segment>
+		<segment id="53" parent="55" relname="joint">К вечеру зона осадков продвинется еще дальше на северо-восток,</segment>
+		<segment id="54" parent="55" relname="joint">и охватит большую часть округа, за исключением северо-востока и юго-запада.</segment>
+		<segment id="56" parent="58" relname="contrast">При этом на северо-западе и в центре округа температура будет близка к норме,</segment>
+		<segment id="57" parent="58" relname="contrast">однако в Воронежской области жара будет достигать 30-35 градусов.\n\</segment>
+		<segment id="61" parent="75" relname="span">nВ ночь на четверг центр циклона пройдет по территории Московской области.</segment>
+		<segment id="62" parent="68" relname="joint">Там, а также в сопредельных с ней областях, пройдут дожди,</segment>
+		<segment id="63" parent="67" relname="same-unit">местами сильные,</segment>
+		<segment id="64" parent="66" relname="span">прогремят грозы,</segment>
+		<segment id="65" parent="64" relname="cause-effect">возможно усиление ветра до 12-17 метров в секунду.</segment>
+		<segment id="69" parent="73" relname="joint">Температура составит около 12-17 градусов.\n\</segment>
+		<segment id="70" parent="72" relname="contrast">nВ четверг циклон уйдет на северо-восток,</segment>
+		<segment id="71" parent="72" relname="contrast">однако вероятность кратковременных дождей все же сохранится.</segment>
+		<segment id="76" parent="78" relname="comparison">Воздух прогреется до 21-26 градусов,</segment>
+		<segment id="77" parent="78" relname="comparison">на юго-востоке до 30-35 градусов.\n\n</segment>
+		<segment id="79" parent="81" relname="span">\"В пятницу новая волна,</segment>
+		<segment id="80" parent="79" relname="elaboration">возникшая на атмосферном фронте, приблизится к округу с юго-запада.</segment>
+		<segment id="82" parent="86" relname="span">Это станет причиной нового периода непогоды</segment>
+		<segment id="83" parent="85" relname="joint">- дожди на значительной территории могут быть сильными</segment>
+		<segment id="84" parent="85" relname="joint">Их по-прежнему будут сопровождать грозы, местами град и усиление ветра до 12-17 метров в секунду.</segment>
+		<segment id="88" parent="89" relname="interpretation-evaluation">Ночная температура существенно не изменится,</segment>
+		<segment id="89" parent="90" relname="span">днем плотные облака не позволят температуре превысить значения 21-26 градусов.</segment>
+		<segment id="91" parent="93" relname="span">Но на юго-востоке по-прежнему будет жарко - до 30-35 градусов\",</segment>
+		<segment id="92" parent="91" relname="attribution">- говорится в сообщении.\n\nВ выходные циклон покинет Центральный федеральный округ.</segment>
+		<segment id="100" parent="102" relname="joint">Фон атмосферного давления повысится,</segment>
+		<segment id="101" parent="102" relname="joint">а дожди вновь приобретут локальный и кратковременный характер.</segment>
+		<segment id="103" parent="105" relname="joint">Ночью температура несколько понизится - до 10-16 градусов,</segment>
+		<segment id="104" parent="105" relname="joint">днем же воздух в большинстве областей прогреется до комфортных 20-26 градусов.\n\nИсточник: https://www.newsru.com/russia/13Jun2012/raining.html\n</segment>
+		<group id="99" type="span" parent="107" relname="span"/>
+		<group id="47" type="multinuc" parent="98" relname="preparation"/>
+		<group id="41" type="span" parent="47" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="cause-effect"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="44" type="span" parent="46" relname="span"/>
+		<group id="98" type="multinuc" parent="99" relname="span"/>
+		<group id="60" type="span" parent="98" relname="joint"/>
+		<group id="52" type="multinuc" parent="60" relname="span"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="59" type="multinuc" parent="52" relname="elaboration"/>
+		<group id="55" type="multinuc" parent="59" relname="joint"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="97" type="multinuc" parent="98" relname="joint"/>
+		<group id="75" type="span" parent="97" relname="joint"/>
+		<group id="74" type="multinuc" parent="61" relname="elaboration"/>
+		<group id="68" type="multinuc" parent="74" relname="joint"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="66" type="span" parent="67" relname="same-unit"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="96" type="span" parent="97" relname="joint"/>
+		<group id="78" type="multinuc" parent="95" relname="preparation"/>
+		<group id="95" type="multinuc" parent="96" relname="span"/>
+		<group id="87" type="span" parent="95" relname="joint"/>
+		<group id="81" type="span" parent="87" relname="span"/>
+		<group id="86" type="span" parent="81" relname="elaboration"/>
+		<group id="85" type="multinuc" parent="82" relname="cause-effect"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="90" type="span" parent="94" relname="contrast"/>
+		<group id="93" type="span" parent="94" relname="contrast"/>
+		<group id="106" type="span" parent="99" relname="interpretation-evaluation"/>
+		<group id="102" type="multinuc" parent="106" relname="span"/>
+		<group id="105" type="multinuc" parent="102" relname="elaboration"/>
+		<group id="107" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="28" relname="attribution">Свидетель обвинения заявил суду,</segment>
+		<segment id="26" parent="28" relname="span">что вообще ничего не знает о похищенной Ходорковским нефти\n\nБывший сотрудник \"Томскнефть-ВНК\" Виктор Дергунов,</segment>
+		<segment id="27" parent="26" relname="elaboration">выступающий свидетелем обвинения на процесс по \"второму делу\" против экс-главы ЮКОСа Михаила Ходорковского и бывшего главы МФО МЕНАТЕП Платона Лебедева</segment>
+		<segment id="30" parent="34" relname="joint">по обвинению в хищении 350 миллионов тонн нефти,</segment>
+		<segment id="31" parent="32" relname="attribution">заявил на допросе,</segment>
+		<segment id="32" parent="33" relname="span">что вообще ничего не знает о хищении нефти, добытой \"Томскнефть-ВНК\" с 1998 по 2000 годы.</segment>
+		<segment id="36" parent="35" relname="attribution">Об этом сообщила во вторник РИА \"Новости\" адвокат Ходорковского Наталья Терехова.\n\</segment>
+		<segment id="38" parent="39" relname="attribution">nПо ее словам,</segment>
+		<segment id="39" parent="40" relname="span">во вторник завершился трехдневный допрос Дергунова.</segment>
+		<segment id="41" parent="45" relname="joint">\"Свидетель затруднился что-либо пояснить о хищении нефти, добытой компанией \"Томскнефть-ВНК\" с 1998 по 2000 годы,</segment>
+		<segment id="42" parent="43" relname="attribution">более того, он заявил,</segment>
+		<segment id="43" parent="44" relname="span">что ему сложно представить, что можно не заметить потери значительного количества нефти\",</segment>
+		<segment id="46" parent="45" relname="attribution">- рассказала адвокат.\n\nТаким образом, считает Терехова,</segment>
+		<segment id="48" parent="49" relname="attribution">Дергунов не подтвердил версию прокуратуры,</segment>
+		<segment id="49" parent="50" relname="span">обвиняющей Ходорковского и Лебедева в хищении всей добытой \"Томскнефтью\" нефти в период с 1998 по 2003 годы.\n\n- Суд над Ходорковским трижды заслушал одни и те же показания свидетеля обвинения\n- Ходорковский и Лебедев убеждены,</segment>
+		<segment id="51" parent="54" relname="attribution">что допрос свидетелей не подтвердит версию прокуратуры\n\nОна добавила,</segment>
+		<segment id="52" parent="54" relname="joint">что в настоящее время в процессе объявлен перерыв до 14 октября,</segment>
+		<segment id="53" parent="54" relname="joint">в среду суд продолжит допрос свидетелей обвинения.</segment>
+		<segment id="57" parent="59" relname="span">За две недели Хамовнический суд Москвы допросил четырех из 250 свидетелей обвинения по второму делу Ходорковского и Лебедева.\n\nХодорковский и Лебедев в 2005 году были осуждены на восемь лет лишения свободы</segment>
+		<segment id="58" parent="57" relname="cause-effect">за мошенничество и уклонение от уплаты налогов.</segment>
+		<segment id="60" parent="61" relname="joint">В 2006 году в отношении них было возбуждено второе уголовное дело по обвинению в легализации 450 миллиардов рублей и 7,5 миллиарда долларов с 1998 по 2004 годы.\n\nОбвинения связаны с хищением акций, принадлежащих государству, а также с присвоением нефти и легализацией средств, вырученных от ее продажи.</segment>
+		<segment id="62" parent="66" relname="span">Слушания по второму уголовному делу в настоящее время проходят в Хамовническом суде Москвы.</segment>
+		<segment id="63" parent="65" relname="span">Подсудимые не признают свою вину.</segment>
+		<segment id="64" parent="63" relname="evidence">Ранее Ходорковский уже предрек себе пожизненное заключение.\n\nИсточник: https://www.newsru.com/russia/13Oct2009/tomskneft.html\n</segment>
+		<group id="37" type="span" parent="71" relname="joint"/>
+		<group id="35" type="span" parent="37" relname="span"/>
+		<group id="29" type="span" parent="35" relname="span"/>
+		<group id="28" type="span" parent="29" relname="span"/>
+		<group id="34" type="multinuc" parent="29" relname="background"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="70" type="span" parent="71" relname="joint"/>
+		<group id="40" type="span" parent="69" relname="preparation"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="47" type="span" parent="69" relname="joint"/>
+		<group id="45" type="multinuc" parent="47" relname="span"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="68" type="multinuc" parent="69" relname="joint"/>
+		<group id="56" type="multinuc" parent="68" relname="joint"/>
+		<group id="50" type="span" parent="56" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="67" type="span" parent="68" relname="joint"/>
+		<group id="61" type="multinuc" parent="67" relname="span"/>
+		<group id="59" type="span" parent="61" relname="joint"/>
+		<group id="66" type="span" parent="61" relname="interpretation-evaluation"/>
+		<group id="65" type="span" parent="62" relname="elaboration"/>
+		<group id="71" type="multinuc"/>
+	</body>
+</rst>

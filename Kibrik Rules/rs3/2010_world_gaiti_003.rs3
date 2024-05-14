@@ -1,0 +1,77 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="35" relname="span">Два самолета МЧС России Ил-76 с гуманитарной помощью вылетели из Венесуэлы на Гаити\n\nДва самолета Ил-76 МЧС России в воскресенье в 23:10 по местному времени (06:40 по московскому понедельника) вылетели из международного аэропорта Майкетия венесуэльской столицы на Гаити.</segment>
+		<segment id="32" parent="34" relname="span">Они доставят в Порт-о-Пренс 60 тонн медикаментов, продовольствия и питьевой воды, направляемых правительством Венесуэлы Гаити,</segment>
+		<segment id="33" parent="32" relname="cause-effect">пострадавшей от разрушительного землетрясения.</segment>
+		<segment id="36" parent="42" relname="joint">На борту самолетов находятся также горючее и питьевая вода для оперативной группы МЧС, ведущей спасательные работы на острове</segment>
+		<segment id="37" parent="41" relname="span">.\n\nРоссийское правительство в рамках сотрудничества с Венесуэлой по линии МЧС предоставило два транспортных самолета Ил-76</segment>
+		<segment id="38" parent="39" relname="purpose">для осуществления совместных операций по наращиванию помощи Гаити,</segment>
+		<segment id="39" parent="40" relname="span">остро нуждающейся в медикаментах, питьевой воде, продовольствии, продуктах первой необходимости и горючем.</segment>
+		<segment id="44" parent="48" relname="joint">Воздушный мост между Каракасом и Гаити позволит существенно увеличить поток направляемых в эту страну гуманитарных грузов,</segment>
+		<segment id="45" parent="47" relname="sequence">передает ИТАР-ТАСС.\n\nПосле разгрузки самолеты МЧС вернутся в Каракас</segment>
+		<segment id="46" parent="47" relname="sequence">и в понедельник днем вновь вылетят в Гаити.</segment>
+		<segment id="50" parent="52" relname="joint">Планируется совершать два челночных рейса в сутки</segment>
+		<segment id="51" parent="52" relname="joint">и таким образом ежедневно доставлять в Гаити 120 тонн грузов.</segment>
+		<segment id="53" parent="55" relname="span">С учетом острой нехватки горючего в Гаити российские самолеты заправляются авиационным топливом Каракасе,</segment>
+		<segment id="54" parent="53" relname="purpose">позволяющим не производить дозаправку в Порт-о-Пренсе.</segment>
+		<segment id="56" parent="60" relname="joint">Полетное время от Каракаса до столицы Гаити составляет около полутора часов</segment>
+		<segment id="57" parent="59" relname="span">.\n\nПрезидент Венесуэлы Уго Чавес выразил благодарность России за предоставление самолетов Ил-76</segment>
+		<segment id="58" parent="57" relname="purpose">для доставки гуманитарных грузов из Венесуэлы на Гаити.</segment>
+		<segment id="63" parent="69" relname="span">\"Мы благодарны народу и правительству России за солидарность, которая позволит увеличить помощь Гаити\",</segment>
+		<segment id="64" parent="67" relname="attribution">- сказал он в воскресной телерадиопрограмме \"Алло, президент\",</segment>
+		<segment id="65" parent="66" relname="condition">связавшись в режиме телемоста с международным аэропортом Майкетия,</segment>
+		<segment id="66" parent="67" relname="span">куда из Доминиканской Республики прибыли самолеты МЧС РФ.\n\nВенесуэла стала первой страной, доставившей на Гаити гуманитарный груз после разрушительного землетрясения.</segment>
+		<segment id="70" parent="76" relname="joint">В воскресенье в Порт-о-Пренс вылетел третий самолет С-130 с 14 тоннами медикаментов, питьевой воды и продовольствия.</segment>
+		<segment id="71" parent="75" relname="span">Использование российских самолетов, способных перевозить до 40 тонн грузов,</segment>
+		<segment id="72" parent="74" relname="joint">позволит увеличить помощь Гаити</segment>
+		<segment id="73" parent="74" relname="joint">и \"начать венесуэльско-российскую гуманитарную миссию\",</segment>
+		<segment id="77" parent="76" relname="attribution">отметил Чавес.\n\nВ свою очередь, заместитель директора по организации летной работы авиации МЧС,</segment>
+		<segment id="79" parent="80" relname="attribution">командир одного из прибывших сюда самолетов Валерий Крузе в прямом телеэфире заверил президента Венесуэлы в том,</segment>
+		<segment id="80" parent="81" relname="span">что российская сторона выполнит возложенные на нее обязанности.</segment>
+		<segment id="82" parent="84" relname="span">\"Мы готовы к работе\",</segment>
+		<segment id="83" parent="82" relname="attribution">- сказал он.\n\nИсточник: https://www.newsru.com/world/18Jan2010/gaiti.html\n</segment>
+		<group id="49" type="multinuc" parent="89" relname="joint"/>
+		<group id="43" type="multinuc" parent="49" relname="joint"/>
+		<group id="35" type="span" parent="43" relname="joint"/>
+		<group id="34" type="span" parent="31" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="40" type="span" parent="37" relname="purpose"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="62" type="multinuc" parent="88" relname="joint"/>
+		<group id="52" type="multinuc" parent="62" relname="joint"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="55" type="span" parent="61" relname="joint"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="69" type="span" parent="87" relname="joint"/>
+		<group id="68" type="span" parent="63" relname="attribution"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="78" type="span" parent="86" relname="joint"/>
+		<group id="76" type="multinuc" parent="78" relname="span"/>
+		<group id="75" type="span" parent="76" relname="joint"/>
+		<group id="74" type="multinuc" parent="71" relname="purpose"/>
+		<group id="85" type="span" parent="86" relname="joint"/>
+		<group id="81" type="span" parent="85" relname="span"/>
+		<group id="84" type="span" parent="81" relname="elaboration"/>
+		<group id="89" type="multinuc"/>
+	</body>
+</rst>

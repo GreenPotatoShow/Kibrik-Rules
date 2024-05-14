@@ -1,0 +1,41 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="20" relname="joint">Илья Ковальчук дисквалифицирован за грубость\n\nЛидер \"Атланты\" и второй снайпер Национальной хоккейной лиги нынешнего сезона Илья Ковальчук наказан за грубый фол,</segment>
+		<segment id="15" parent="18" relname="cause-effect">приведший к травме соперника в матче регулярного чемпионата против \"Рейнджерс\".\n\nВ конце первого периода Ковальчук ударом в спину бросил на борт чешского защитника Михала Розиваля,</segment>
+		<segment id="16" parent="18" relname="joint">за что получил 15 минут штрафа</segment>
+		<segment id="17" parent="18" relname="joint">и был изгнан с площадки.</segment>
+		<segment id="21" parent="25" relname="sequence">Чех несколько минут пролежал на льду,</segment>
+		<segment id="22" parent="24" relname="contrast">после чего с помощью партнеров добрался до скамейки запасных,</segment>
+		<segment id="23" parent="24" relname="contrast">однако после наложения швов смог продолжить матч.\n\</segment>
+		<segment id="27" parent="29" relname="span">nВыходка российского форварда не осталась незамеченной дисциплинарным комитетом НХЛ,</segment>
+		<segment id="28" parent="27" relname="elaboration">который применил в отношении спортсмена довольно жесткие санкции</segment>
+		<segment id="30" parent="34" relname="joint">– он дисквалифицирован на один матч с удержанием зарплаты за него ($36 224) в фонд Ассоциации игроков.\n\nКовальчук,</segment>
+		<segment id="31" parent="33" relname="span">с 37 голами уступающий только Александру Овечкину (39) в споре лучших снайперов НХЛ,</segment>
+		<segment id="32" parent="31" relname="purpose">не сможет помочь своей команде в последнем поединке перед перерывом на матч \"Всех звезд\", который пройдет 27 января в Атланте.</segment>
+		<segment id="36" parent="35" relname="interpretation-evaluation">Это будет игра в Нью-Йорке против тех же \"Рейнджерс\".\n\nИсточник: https://www.newsru.com/sport/24Jan2008/kovi.html\n</segment>
+		<group id="26" type="multinuc" parent="38" relname="joint"/>
+		<group id="20" type="multinuc" parent="26" relname="sequence"/>
+		<group id="19" type="span" parent="20" relname="joint"/>
+		<group id="18" type="multinuc" parent="19" relname="span"/>
+		<group id="25" type="multinuc" parent="26" relname="sequence"/>
+		<group id="24" type="multinuc" parent="25" relname="sequence"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="35" type="span" parent="37" relname="span"/>
+		<group id="29" type="span" parent="35" relname="span"/>
+		<group id="34" type="multinuc" parent="29" relname="elaboration"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="38" type="multinuc"/>
+	</body>
+</rst>

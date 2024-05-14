@@ -1,0 +1,63 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="26" relname="span">Американские предложения по ПРО Польшу пока не устраивают\n\nАмериканские предложения в вопросе ПРО не устраивают\" Варшаву,</segment>
+		<segment id="25" parent="24" relname="attribution">заявил во вторник на пресс-конференции премьер-министр Польши Дональд Туск.</segment>
+		<segment id="27" parent="28" relname="condition">Если Вашингтон и Варшава не смогут договориться до середины июля,</segment>
+		<segment id="28" parent="29" relname="span">США придется искать другое место для базы своих ракет-перехватчиков.\n\n</segment>
+		<segment id="30" parent="31" relname="condition">\"Если будут условия, выгодные для Войска Польского,</segment>
+		<segment id="31" parent="32" relname="span">- в Польше будет ПРО\",</segment>
+		<segment id="34" parent="33" relname="attribution">- сказал Дональд Туск.</segment>
+		<segment id="36" parent="43" relname="attribution">Он добавил,</segment>
+		<segment id="37" parent="43" relname="joint">что в противном случае договоренности о размещении в Польше американских ракет-перехватчиков достичь не удастся.\n\nВлиятельная польская Gazeta Wyborcza пишет сегодня,</segment>
+		<segment id="38" parent="41" relname="condition">что если Вашингтон и Варшава не смогут договориться до середины июля этого года,</segment>
+		<segment id="39" parent="41" relname="span">США начнут искать другое место</segment>
+		<segment id="40" parent="39" relname="purpose">для размещения базы своих ракет-перехватчиков.\n\nС Варшавой у США уже возникали некоторые проблемы.</segment>
+		<segment id="45" parent="49" relname="span">Пришедшее не так давно к власти новое правительство во главе с Дональдом Туском потребовало модернизировать свои вооруженные силы</segment>
+		<segment id="46" parent="48" relname="span">в обмен на согласие позволить построить базу ПРО,</segment>
+		<segment id="47" parent="46" relname="condition">где бы были установлены к 2013 году 10 ракет в шахтах</segment>
+		<segment id="50" parent="51" relname="condition">.\n\nПольша не скрывает,</segment>
+		<segment id="51" parent="52" relname="span">что хотела бы получить, в частности, зенитно-ракетные комплексы Patriot.</segment>
+		<segment id="54" parent="57" relname="attribution">В начале марта Туск сказал журналистам,</segment>
+		<segment id="55" parent="57" relname="span">что США запросили примерно шесть месяцев,</segment>
+		<segment id="56" parent="55" relname="purpose">чтобы подготовить предложения по модернизации польской армии.\n\nВ минувший вторник премьер-министр вновь заявил журналистам:</segment>
+		<segment id="59" parent="63" relname="span">\"Мы ожидаем практических предложений.</segment>
+		<segment id="60" parent="61" relname="condition">Если их не будет,</segment>
+		<segment id="61" parent="62" relname="span">то не будет и нашего решения\".\n\nИсточник: https://www.newsru.com/world/13May2008/pro.html\n</segment>
+		<group id="26" type="span" parent="67" relname="preparation"/>
+		<group id="67" type="multinuc" parent="68" relname="span"/>
+		<group id="35" type="span" parent="67" relname="joint"/>
+		<group id="33" type="span" parent="35" relname="span"/>
+		<group id="29" type="span" parent="33" relname="span"/>
+		<group id="32" type="span" parent="29" relname="elaboration"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="44" type="span" parent="66" relname="joint"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="65" type="multinuc" parent="66" relname="joint"/>
+		<group id="53" type="span" parent="65" relname="joint"/>
+		<group id="49" type="span" parent="53" relname="span"/>
+		<group id="48" type="span" parent="45" relname="purpose"/>
+		<group id="52" type="span" parent="49" relname="interpretation-evaluation"/>
+		<group id="64" type="span" parent="65" relname="joint"/>
+		<group id="58" type="span" parent="64" relname="span"/>
+		<group id="57" type="span" parent="58" relname="span"/>
+		<group id="63" type="span" parent="58" relname="elaboration"/>
+		<group id="62" type="span" parent="59" relname="elaboration"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

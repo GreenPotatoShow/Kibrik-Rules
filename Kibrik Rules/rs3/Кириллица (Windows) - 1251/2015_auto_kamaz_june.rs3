@@ -1,0 +1,61 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="25" relname="cause-effect">\"КамАЗ\" планирует работать в июне 7 дней\n\nОАО \"КамАЗ\" внесло\nизменения в июньский график работы</segment>
+		<segment id="25" parent="26" relname="span">в связи с продолжающимся падением рынка грузовой техники,</segment>
+		<segment id="27" parent="28" relname="attribution">говорится в корпоративной газете предприятия.\n\nКак отмечают на \"КамАЗе\",</segment>
+		<segment id="28" parent="29" relname="span">возможности увеличить продажи автомобилей\nнет.</segment>
+		<segment id="31" parent="52" relname="preparation">\"Поэтому руководством компании принято решение о соответствующей\nкорректировке.</segment>
+		<segment id="34" parent="36" relname="span">График работы в июне, принятый ранее, предполагал в\nпервый месяц лета 12 рабочих дней.</segment>
+		<segment id="35" parent="34" relname="elaboration">Сегодня же он изменен в соответствии\nсо спросом на автомобили\",</segment>
+		<segment id="37" parent="40" relname="attribution">- говорится в сообщении,</segment>
+		<segment id="38" parent="40" relname="span">которое цитирует \"Интерфакс\".\n\n\"К сожалению, сегодня нам не удается долгосрочное планирование</segment>
+		<segment id="39" parent="38" relname="cause-effect">,\nпотому что ситуация на рынке меняется каждый день.</segment>
+		<segment id="43" parent="45" relname="span">В июне рынок ждет от\nнас определенного количества автомобилей,</segment>
+		<segment id="44" parent="43" relname="purpose">и для выполнения этого заказа\nпотребуется всего лишь семь рабочих дней\",</segment>
+		<segment id="46" parent="50" relname="span">- приводит газета слова\nзаместителя генерального директора ОАО \"КамАЗ\" по персоналу и\nорганизационному развитию Александра Ушенина.\n\</segment>
+		<segment id="47" parent="49" relname="span">nВ связи с этим подписан соответствующий документ, в котором\nадминистрация предприятия в определенные дни объявила вынужденный\nпростой без присутствия на рабочих местах с оплатой в размере 2/3\nсредней заработной платы в соответствии с трудовым законодательством.\nТаких дней в июне будет пять.</segment>
+		<segment id="48" parent="47" relname="elaboration">Они будут использованы для организации\nвременных работ и опережающего обучения.</segment>
+		<segment id="55" parent="58" relname="attribution">В компании отмечают,</segment>
+		<segment id="56" parent="58" relname="comparison">что на\n\"КамАЗе\" программа временной занятости распространяется и на рабочих, и\nна инженерно-технических работников.\n\nРанее сообщалось, что \"КамАЗ\" в январе-апреле 2015 году реализовал в\nРоссии 5 тыс. грузовых автомобилей,</segment>
+		<segment id="57" parent="58" relname="comparison">что на 49% меньше, чем за\nаналогичный период 2014 года.</segment>
+		<segment id="60" parent="63" relname="attribution">По данным компании,</segment>
+		<segment id="61" parent="63" relname="comparison">российский рынок грузовых\nавтомобилей полной массой 14-40 тонн по итогам четырех месяцев 2015 года\nсоставил 9,2 тыс. штук,</segment>
+		<segment id="62" parent="63" relname="comparison">что на 62% ниже, чем в аналогичном периоде\nпрошлого года.</segment>
+		<segment id="65" parent="66" relname="joint">Доля ОАО \"КамАЗ\" на российском рынке по итогам четырех\nмесяцев - 54% против 41% за аналогичный период прошлого года.\n\nИсточник: https://www.newsru.com/auto/28May2015/kamaz_june.html\n</segment>
+		<group id="54" type="span" parent="68" relname="span"/>
+		<group id="30" type="multinuc" parent="53" relname="preparation"/>
+		<group id="26" type="span" parent="30" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="42" type="span" parent="52" relname="joint"/>
+		<group id="36" type="span" parent="42" relname="span"/>
+		<group id="41" type="span" parent="36" relname="attribution"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="45" type="span" parent="51" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="49" type="span" parent="46" relname="purpose"/>
+		<group id="67" type="multinuc" parent="54" relname="elaboration"/>
+		<group id="59" type="span" parent="67" relname="comparison"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="66" type="multinuc" parent="67" relname="comparison"/>
+		<group id="64" type="span" parent="66" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

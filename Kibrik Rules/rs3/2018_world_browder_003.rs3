@@ -1,0 +1,114 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="51" parent="52" relname="attribution">Уильям Браудер задержан в Испании по запросу России\n\nОснователь британского фонда Hermitage Capital Уильям Браудер сообщил,</segment>
+		<segment id="52" parent="53" relname="span">что задержан в Испании.</segment>
+		<segment id="54" parent="58" relname="sequence">Арест был произведен в среду, 30 мая, в столице страны Мадриде по запросу России по линии Интерпола,</segment>
+		<segment id="55" parent="57" relname="span">уточнил он в Twitter.\n\nПозже стало известно, что Браудера отпустили на свободу после задержания,</segment>
+		<segment id="56" parent="55" relname="cause-effect">поскольку ордер на его арест не был действующим.</segment>
+		<segment id="60" parent="59" relname="attribution">Об этом ТАСС сообщили в среду в национальной полиции Испании.</segment>
+		<segment id="62" parent="63" relname="cause-effect">\"Было подтверждено, что он [ордер Интерпола] не имел силы,</segment>
+		<segment id="63" parent="64" relname="span">поэтому его [Браудера] отпустили\",</segment>
+		<segment id="65" parent="64" relname="attribution">- сказали в правоохранительных органах</segment>
+		<segment id="67" parent="146" relname="preparation">.\n\</segment>
+		<segment id="68" parent="70" relname="span">nКак передает Business FM,</segment>
+		<segment id="69" parent="68" relname="attribution">коллега Браудера Джемисон Файерстоун сообщил,</segment>
+		<segment id="71" parent="73" relname="span">что \"Билла пригласили в Испанию по запросу испанского суда,</segment>
+		<segment id="72" parent="71" relname="purpose">чтобы он дал показания против россиян, обвиняемых в отмывании денег,</segment>
+		<segment id="76" parent="73" relname="elaboration">которые получили часть суммы, украденной из российского бюджета\".\n\nВ конце 2017 года Тверской суд Москвы заочно приговорил Браудера к девяти годам колонии, признав его виновным в преднамеренном банкротстве и уклонении от уплаты налогов более чем на 3 млрд рублей.</segment>
+		<segment id="79" parent="87" relname="sequence">После этого Россия изъявила намерение вновь направить запрос об аресте британца,</segment>
+		<segment id="80" parent="85" relname="attribution">а Браудер на это возмущенно заявил,</segment>
+		<segment id="81" parent="85" relname="span">что пришла пора исключить Россию из Интерпола.\n\nБраудер - инициатор принятия в США \"закона Магнитского\",</segment>
+		<segment id="82" parent="84" relname="span">названного в память об умершем в московском СИЗО юристе фонда Hermitage Capital Сергее Магнитском,</segment>
+		<segment id="83" parent="82" relname="elaboration">который раскрыл схему крупных хищений из российского бюджета.</segment>
+		<segment id="88" parent="94" relname="span">Документ предусматривает визовые и экономические санкции в отношении россиян, причастных,</segment>
+		<segment id="89" parent="92" relname="attribution">по мнению Вашингтона,</segment>
+		<segment id="90" parent="92" relname="joint">к нарушениям прав человека</segment>
+		<segment id="91" parent="92" relname="joint">.\n\</segment>
+		<segment id="95" parent="101" relname="sequence">nВ своем Twitter Браудер ранее опубликовал фото ордера на его арест.\n\n11 июля 2013 года Тверской суд Москвы заочно приговорил Браудера к девяти годам заключения по делу о неуплате налогов на сумму более 522 млн рублей</segment>
+		<segment id="96" parent="100" relname="span">путем фальсификации налоговых деклараций и незаконного использования льгот, предназначенных для инвалидов.\n\nПо этому же делу проходил Сергей Магнитский,</segment>
+		<segment id="97" parent="99" relname="sequence">который был арестован в 2007 году</segment>
+		<segment id="98" parent="99" relname="sequence">и умер в московском СИЗО осенью 2009 года.</segment>
+		<segment id="102" parent="104" relname="joint">Его смерть вызвала мощный общественный резонанс в России и за рубежом,</segment>
+		<segment id="103" parent="104" relname="joint">а также стала поводом для принятия в разных странах \"закона Магнитского\",</segment>
+		<segment id="105" parent="107" relname="joint">вводящего санкции для коррупционеров и лиц, виновных,</segment>
+		<segment id="106" parent="107" relname="joint">по мнению Запада, в нарушениях прав человека</segment>
+		<segment id="108" parent="109" relname="attribution">.\n\nБраудер называл</segment>
+		<segment id="109" parent="110" relname="span">уголовное преследование в России против него политически мотивированным.</segment>
+		<segment id="114" parent="117" relname="attribution">Он заявлял,</segment>
+		<segment id="115" parent="117" relname="span">что Магнитский был арестован после того, как вскрыл многомиллиардную схему хищений из бюджета РФ,</segment>
+		<segment id="116" parent="115" relname="elaboration">к которой причастны чиновники и сотрудники МВД.\n\n29 декабря 2017 года Тверской суд Москвы на втором процессе заочно приговорил Браудера к девяти годам колонии и штрафу в размере 200 тыс. рублей.</segment>
+		<segment id="119" parent="120" relname="joint">Его признали виновным в преднамеренном банкротстве и уклонении от уплаты налогов более чем на 3 млрд рублей.</segment>
+		<segment id="121" parent="129" relname="joint">Проходивший по тому же делу Иван Черкасов получил девять лет в колонии общего режима со штрафом в размере 200 тыс. рублей.</segment>
+		<segment id="122" parent="124" relname="span">Также был удовлетворен гражданский иск,</segment>
+		<segment id="123" parent="122" relname="elaboration">по которому суд распорядился взыскать с Браудера и Черкасова 4,2 млрд рублей</segment>
+		<segment id="127" parent="128" relname="joint">.\n\nБраудер был признан виновным в организации преднамеренного банкротства компании \"Дальняя степь\", Черкасов - в осуществлении преступного плана.</segment>
+		<segment id="131" parent="135" relname="span">Речь идет о сделках, проведенных при помощи банка HSBC в 2004-2005 годах.</segment>
+		<segment id="132" parent="134" relname="joint">Тогда компанией \"Дальняя степь\" были выплачены дивиденды кипрской компании,</segment>
+		<segment id="133" parent="134" relname="joint">а также перечислены более 600 млн рублей в \"Объединенный банк малого бизнеса\" и \"Дальневосточный региональный банк\".</segment>
+		<segment id="136" parent="139" relname="attribution">По данным следствия,</segment>
+		<segment id="137" parent="139" relname="span">Браудер смог вывести активы из компании перед ее банкротством,</segment>
+		<segment id="138" parent="137" relname="cause-effect">причинив значительный ущерб государству.\n\nИсточник: https://www.newsru.com/world/30May2018/browder.html\n</segment>
+		<group id="61" type="span" parent="148" relname="preparation"/>
+		<group id="59" type="multinuc" parent="61" relname="span"/>
+		<group id="53" type="span" parent="59" relname="sequence"/>
+		<group id="58" type="multinuc" parent="59" relname="sequence"/>
+		<group id="57" type="span" parent="58" relname="sequence"/>
+		<group id="148" type="multinuc" parent="149" relname="span"/>
+		<group id="66" type="span" parent="148" relname="joint"/>
+		<group id="64" type="span" parent="66" relname="span"/>
+		<group id="147" type="span" parent="148" relname="joint"/>
+		<group id="146" type="multinuc" parent="147" relname="span"/>
+		<group id="78" type="span" parent="146" relname="joint"/>
+		<group id="70" type="span" parent="77" relname="attribution"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="73" type="span" parent="77" relname="span"/>
+		<group id="145" type="multinuc" parent="146" relname="joint"/>
+		<group id="87" type="multinuc" parent="145" relname="joint"/>
+		<group id="86" type="span" parent="87" relname="sequence"/>
+		<group id="85" type="span" parent="86" relname="span"/>
+		<group id="84" type="span" parent="81" relname="background"/>
+		<group id="144" type="span" parent="145" relname="joint"/>
+		<group id="94" type="span" parent="143" relname="preparation"/>
+		<group id="93" type="span" parent="88" relname="attribution"/>
+		<group id="92" type="multinuc" parent="93" relname="span"/>
+		<group id="143" type="multinuc" parent="144" relname="span"/>
+		<group id="113" type="multinuc" parent="143" relname="joint"/>
+		<group id="101" type="multinuc" parent="113" relname="joint"/>
+		<group id="100" type="span" parent="101" relname="sequence"/>
+		<group id="99" type="multinuc" parent="96" relname="background"/>
+		<group id="112" type="multinuc" parent="113" relname="joint"/>
+		<group id="104" type="multinuc" parent="112" relname="joint"/>
+		<group id="111" type="multinuc" parent="112" relname="joint"/>
+		<group id="107" type="multinuc" parent="111" relname="joint"/>
+		<group id="110" type="span" parent="111" relname="joint"/>
+		<group id="142" type="multinuc" parent="143" relname="joint"/>
+		<group id="130" type="multinuc" parent="142" relname="joint"/>
+		<group id="120" type="multinuc" parent="130" relname="joint"/>
+		<group id="118" type="span" parent="120" relname="joint"/>
+		<group id="117" type="span" parent="118" relname="span"/>
+		<group id="129" type="multinuc" parent="130" relname="joint"/>
+		<group id="128" type="multinuc" parent="129" relname="joint"/>
+		<group id="124" type="span" parent="128" relname="joint"/>
+		<group id="141" type="span" parent="142" relname="joint"/>
+		<group id="135" type="span" parent="141" relname="span"/>
+		<group id="134" type="multinuc" parent="131" relname="elaboration"/>
+		<group id="140" type="span" parent="135" relname="elaboration"/>
+		<group id="139" type="span" parent="140" relname="span"/>
+		<group id="149" type="span"/>
+	</body>
+</rst>

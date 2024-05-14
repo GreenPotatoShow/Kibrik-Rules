@@ -70,13 +70,17 @@
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>"F:\!Документы\CL\Kibrik Rules\Kibrik Rules\lib_PubInterfaces\src\PublicInterfaces";$(IncludePath)</IncludePath>
+    <LibraryPath>F:\!Документы\CL\Kibrik Rules\Kibrik Rules\lib_PubInterfaces\src;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\OneSmiLe\Documents\CL\Kibrik Rules\Kibrik Rules\lib_PubInterfaces\src\PublicInterfaces;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>F:\!Документы\CL\Kibrik Rules\Kibrik Rules\lib_PubInterfaces\src\PublicInterfaces;C:\Users\OneSmiLe\Documents\CL\Kibrik Rules\Kibrik Rules\lib_PubInterfaces\src\PublicInterfaces;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -136,15 +140,21 @@
     <ClCompile Include="App.cpp" />
     <ClCompile Include="Chain.cpp" />
     <ClCompile Include="Kibrik Rules.cpp" />
+    <ClCompile Include="Rs3Tree.cpp" />
+    <ClCompile Include="Rs3TreeSegment.cpp" />
     <ClCompile Include="TextLoader.cpp" />
     <ClCompile Include="TextProcessor.cpp" />
+    <ClCompile Include="TreeCreator.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="App.h" />
     <ClInclude Include="Chain.h" />
     <ClInclude Include="macros.h" />
+    <ClInclude Include="Rs3Tree.h" />
+    <ClInclude Include="Rs3TreeSegment.h" />
     <ClInclude Include="TextLoader.h" />
     <ClInclude Include="TextProcessor.h" />
+    <ClInclude Include="TreeCreator.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

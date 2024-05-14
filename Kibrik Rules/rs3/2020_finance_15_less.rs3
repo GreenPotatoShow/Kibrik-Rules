@@ -1,0 +1,93 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="39" parent="112" relname="preparation">Стоимость нефти WTI упала ниже 15 долларов за баррель впервые с 1999 года\n\</segment>
+		<segment id="40" parent="44" relname="span">nСтоимость американской нефти марки WTI на бирже ICE в Лондоне упала более чем на 20%,</segment>
+		<segment id="41" parent="43" relname="joint">пробив отметку в $15 за баррель</segment>
+		<segment id="42" parent="43" relname="joint">и достигнув самого низкого уровня впервые с 1999 года.</segment>
+		<segment id="45" parent="47" relname="span">Об этом свидетельствуют данные торгов,</segment>
+		<segment id="46" parent="45" relname="elaboration">на которые ссылается ТАСС.\n\nНа 10:20 мск стоимость фьючерса на нефть марки WTI с поставкой в мае 2020 года в ходе торгов на бирже ICE в Лондоне снизилась на 21,8% - до $15 за баррель.</segment>
+		<segment id="49" parent="51" relname="joint">Ранее в ходе торгов стоимость этого сорта нефти опускалась более чем на 23%</segment>
+		<segment id="50" parent="51" relname="joint">- ниже отметки в $15.\n\nВ Техасе некоторые покупатели платили по $2 за баррель,</segment>
+		<segment id="52" parent="56" relname="span">это может означать, что американским производителям нефти вскоре придется доплачивать покупателям,</segment>
+		<segment id="53" parent="55" relname="span">чтобы от нее избавиться,</segment>
+		<segment id="54" parent="53" relname="attribution">отмечается в сообщении агентства Bloomberg.\n\</segment>
+		<segment id="59" parent="64" relname="attribution">nПо мнению аналитиков,</segment>
+		<segment id="60" parent="62" relname="span">падение цены на нефть марки WTI связано с продолжающимся накоплением нефти</segment>
+		<segment id="61" parent="60" relname="cause-effect">на фоне снижения спроса</segment>
+		<segment id="63" parent="62" relname="cause-effect">из-за распространения коронавирусной инфекции.</segment>
+		<segment id="66" parent="68" relname="span">В частности, растут запасы сырья в нефтехранилище в Кушинге, штат Оклахома,</segment>
+		<segment id="67" parent="66" relname="elaboration">который является базой поставки сырой нефти WTI по фьючерсным контрактам.\n\</segment>
+		<segment id="69" parent="71" relname="span">nКак заявил главный рыночный стратег-аналитик CMC Markets Майкл Маккарти,</segment>
+		<segment id="70" parent="69" relname="attribution">слова которого приводит агентство Reuters,</segment>
+		<segment id="72" parent="73" relname="span">нефтехранилище в Кушинге пока не достигло своей предельной мощности,</segment>
+		<segment id="74" parent="75" relname="contrast">однако это может случиться в ближайшее время.</segment>
+		<segment id="78" parent="81" relname="attribution">Аналитик добавил,</segment>
+		<segment id="79" parent="80" relname="cause-effect">что, как только будет достигнута максимальная мощность,</segment>
+		<segment id="80" parent="81" relname="span">производителям придется сократить производство.</segment>
+		<segment id="83" parent="89" relname="joint">Объем нефти, который располагается в плавучих хранилищах в танкерах,</segment>
+		<segment id="84" parent="87" relname="attribution">оценивается в рекордные 160 млн баррелей.\n\nРанее генеральный секретарь ОПЕК Мохаммад Сануси Баркиндо отмечал,</segment>
+		<segment id="85" parent="87" relname="joint">что избыток на рынке нефти может составить около 14,7 млн баррелей в сутки,</segment>
+		<segment id="86" parent="87" relname="joint">и глобальные мощности по хранению сырой нефти будут исчерпаны до конца мая.</segment>
+		<segment id="91" parent="98" relname="attribution">Министр энергетики США Дэн Бруйетт сказал на заседании G20,</segment>
+		<segment id="94" parent="97" relname="attribution">что, по его прогнозам,</segment>
+		<segment id="95" parent="97" relname="comparison">к концу 2020 г. производство нефти в США по рыночным причинам снизится почти на 2 млн баррелей в день.\n\nВице-президент \"Лукойла\" Леонид Федун заявил,</segment>
+		<segment id="96" parent="97" relname="comparison">что в результате новой сделки цены на нефть поднимутся к $40 за баррель ко второй половине года,</segment>
+		<segment id="100" parent="101" relname="contrast">но окончательное выравнивание спроса и предложения произойдет не раньше конца 2022 года.</segment>
+		<segment id="102" parent="107" relname="attribution">Федун считает,</segment>
+		<segment id="103" parent="107" relname="joint">что апрель будет тяжелым для нефтяного рынка,</segment>
+		<segment id="104" parent="106" relname="span">и ситуация улучшится только в конце мая,</segment>
+		<segment id="105" parent="104" relname="condition">если все страны будут соблюдать недавнее соглашение о снижении добычи нефти на 9,7 млн баррелей в сутки в мае-июне 2020 года.\n\nИсточник: https://www.newsru.com/finance/20Apr2020/15_less.html\n</segment>
+		<group id="112" type="multinuc" parent="113" relname="span"/>
+		<group id="58" type="multinuc" parent="112" relname="joint"/>
+		<group id="48" type="multinuc" parent="58" relname="joint"/>
+		<group id="44" type="span" parent="48" relname="joint"/>
+		<group id="43" type="multinuc" parent="40" relname="condition"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="51" type="multinuc" parent="57" relname="joint"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="55" type="span" parent="52" relname="purpose"/>
+		<group id="111" type="multinuc" parent="112" relname="joint"/>
+		<group id="77" type="span" parent="111" relname="joint"/>
+		<group id="65" type="span" parent="77" relname="span"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="62" type="span" parent="64" relname="span"/>
+		<group id="76" type="span" parent="65" relname="elaboration"/>
+		<group id="68" type="span" parent="76" relname="span"/>
+		<group id="75" type="multinuc" parent="68" relname="elaboration"/>
+		<group id="73" type="span" parent="75" relname="contrast"/>
+		<group id="71" type="span" parent="72" relname="attribution"/>
+		<group id="110" type="multinuc" parent="111" relname="joint"/>
+		<group id="90" type="multinuc" parent="110" relname="joint"/>
+		<group id="82" type="span" parent="90" relname="joint"/>
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="span"/>
+		<group id="109" type="multinuc" parent="110" relname="joint"/>
+		<group id="101" type="multinuc" parent="109" relname="joint"/>
+		<group id="99" type="span" parent="101" relname="contrast"/>
+		<group id="98" type="span" parent="99" relname="span"/>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="108" type="span" parent="109" relname="joint"/>
+		<group id="107" type="multinuc" parent="108" relname="span"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="113" type="span"/>
+	</body>
+</rst>

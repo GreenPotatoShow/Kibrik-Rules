@@ -1,0 +1,40 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="16" relname="span">В Мосуле, где идут столкновения ополченцев с полицией,</segment>
+		<segment id="15" parent="14" relname="background">введен комендантский час\n\nВ иракском городе Мосул (400 километров к северу от Багдада),</segment>
+		<segment id="17" parent="21" relname="joint">где с утра идут ожесточенные столкновения вооруженных ополченцев с силами иракской полиции,</segment>
+		<segment id="18" parent="20" relname="span">введен комендантский час.\n\nКак сообщает электронная газета \"Элаф\",</segment>
+		<segment id="19" parent="18" relname="elaboration">начиная с полудня в среду и до следующего утра жителям города запрещено выходить на улицы.</segment>
+		<segment id="23" parent="25" relname="span">Власти информируют об этом население по телевидению и через громкоговорители.\n\nПолиция перекрыла движение по пяти мостам через реку Тигр,</segment>
+		<segment id="24" parent="23" relname="elaboration">делящую город с двухмиллионным населением на две части</segment>
+		<segment id="26" parent="28" relname="span">.\n\nСтолкновения в Мосуле начались в среду утром после того, как десятки вооруженных боевиков в масках захватили несколько районов города.</segment>
+		<segment id="27" parent="26" relname="elaboration">Бои ведутся с применением минометов и РПГ.</segment>
+		<segment id="31" parent="36" relname="preparation">В городе были слышны около 50 взрывов,</segment>
+		<segment id="32" parent="36" relname="joint">сообщает РИА \"Новости\".\n\nСообщается о том, что в ходе столкновений убиты 15 повстанцев,</segment>
+		<segment id="33" parent="35" relname="span">и более 20 получили ранения.\n\nПо свидетельству очевидцев, боевики раздают оружие населению</segment>
+		<segment id="34" parent="33" relname="purpose">для борьбы с американскими войсками.\n\nИсточник: https://www.newsru.com/world/04Aug2004/mosulhour.html\n</segment>
+		<group id="30" type="multinuc" parent="38" relname="joint"/>
+		<group id="22" type="multinuc" parent="30" relname="joint"/>
+		<group id="16" type="span" parent="22" relname="sequence"/>
+		<group id="21" type="multinuc" parent="22" relname="sequence"/>
+		<group id="20" type="span" parent="21" relname="joint"/>
+		<group id="29" type="multinuc" parent="30" relname="joint"/>
+		<group id="25" type="span" parent="29" relname="joint"/>
+		<group id="28" type="span" parent="29" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="38" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="88" relname="preparation">Samsung в очередной раз высмеяла iPhone в новом рекламном ролике\n\</segment>
+		<segment id="32" parent="36" relname="span">nКомпания Samsung выпустила ролик,</segment>
+		<segment id="33" parent="35" relname="span">в котором прорекламировала смартфоны Galaxy,</segment>
+		<segment id="34" parent="33" relname="elaboration">указав на их преимущества перед iPhone различных поколений.</segment>
+		<segment id="37" parent="39" relname="span">За два дня ролик набрал около семи миллионов просмотров и почти 100 тысяч лайков.\n\nГлавным героем небольшого видео выступает молодой человек,</segment>
+		<segment id="38" parent="37" relname="elaboration">являющийся верным поклонником продукции Apple:</segment>
+		<segment id="40" parent="44" relname="sequence">в начале видео он покупает первый iPhone в 2007 году.</segment>
+		<segment id="41" parent="42" relname="condition">Затем, используя iPhone других поколений,</segment>
+		<segment id="42" parent="43" relname="span">он регулярно сталкивается с недостатками устройств по сравнению со смартфонами Samsung Galaxy.</segment>
+		<segment id="47" parent="49" relname="contrast">Например, в 2010 году у его iPhone в неподходящий момент заканчивается доступная память,</segment>
+		<segment id="48" parent="49" relname="contrast">а в 2013-м смартфон Apple проигрывает Galaxy Note по удобству записывания номера телефона.</segment>
+		<segment id="50" parent="56" relname="comparison">В 2016 году iPhone молодого человека выходит из строя после падения в воду,</segment>
+		<segment id="51" parent="53" relname="span">в то время как смартфон Samsung,</segment>
+		<segment id="52" parent="51" relname="background">принадлежащий его подруге,</segment>
+		<segment id="54" parent="55" relname="span">легко переносит это купание.</segment>
+		<segment id="57" parent="61" relname="span">Также в рекламе высмеивается отказ Apple от разъема для наушников,</segment>
+		<segment id="58" parent="60" relname="joint">из-за которого владельцы iPhone вынуждены использовать специальные переходники,</segment>
+		<segment id="59" parent="60" relname="joint">и отсутствие возможности беспроводной зарядки смартфонов Apple.\n\</segment>
+		<segment id="65" parent="67" relname="joint">nВ итоге герой ролика не выдерживает</segment>
+		<segment id="66" parent="67" relname="joint">и отказывается от iPhone в пользу Samsung Galaxy Note 8.</segment>
+		<segment id="68" parent="72" relname="joint">В самом конце видео молодой человек проходит мимо очереди желающих приобрести iPhone X,</segment>
+		<segment id="69" parent="71" relname="span">и на экране крупным планом демонстрируется один из них</segment>
+		<segment id="70" parent="69" relname="elaboration">- его странная челка намекает на характерный вырез верхней части экрана iPhone X.\n\</segment>
+		<segment id="74" parent="86" relname="span">nСтоит отметить, что это далеко не первое видео, в котором Samsung критикует устройства Apple.</segment>
+		<segment id="75" parent="77" relname="sequence">Например, ранее компания уже выпускала ролики, посвященные недостаткам экрана и батареи смартфонов Apple.\n\</segment>
+		<segment id="76" parent="77" relname="sequence">nНапомним, iPhone X был официально представлен в начале сентября.</segment>
+		<segment id="78" parent="80" relname="span">Смартфон получил 5,8-дюймовый OLED-дисплей,</segment>
+		<segment id="79" parent="78" relname="elaboration">занимающий практически всю лицевую поверхность,</segment>
+		<segment id="81" parent="83" relname="span">поддержку технологии беспроводной зарядки, а также систему сканирования и распознавания лица владельца Face ID,</segment>
+		<segment id="82" parent="81" relname="elaboration">которая пришла на смену привычному датчику отпечатков пальцев.\n\nИсточник: https://www.newsru.com/hitech/07Nov2017/samsvideo.html\n</segment>
+		<group id="88" type="multinuc" parent="89" relname="span"/>
+		<group id="64" type="multinuc" parent="88" relname="joint"/>
+		<group id="46" type="span" parent="64" relname="comparison"/>
+		<group id="36" type="span" parent="46" relname="span"/>
+		<group id="35" type="span" parent="32" relname="elaboration"/>
+		<group id="45" type="multinuc" parent="36" relname="elaboration"/>
+		<group id="39" type="span" parent="45" relname="joint"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="43" type="span" parent="44" relname="sequence"/>
+		<group id="63" type="multinuc" parent="64" relname="comparison"/>
+		<group id="49" type="multinuc" parent="63" relname="comparison"/>
+		<group id="62" type="multinuc" parent="63" relname="comparison"/>
+		<group id="56" type="multinuc" parent="62" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="comparison"/>
+		<group id="53" type="span" parent="54" relname="cause-effect"/>
+		<group id="61" type="span" parent="62" relname="joint"/>
+		<group id="60" type="multinuc" parent="57" relname="cause-effect"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="73" type="span" parent="87" relname="comparison"/>
+		<group id="67" type="multinuc" parent="73" relname="span"/>
+		<group id="72" type="multinuc" parent="67" relname="elaboration"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="86" type="span" parent="87" relname="comparison"/>
+		<group id="85" type="multinuc" parent="74" relname="evidence"/>
+		<group id="77" type="multinuc" parent="85" relname="joint"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="80" type="span" parent="84" relname="span"/>
+		<group id="83" type="span" parent="80" relname="elaboration"/>
+		<group id="89" type="span"/>
+	</body>
+</rst>

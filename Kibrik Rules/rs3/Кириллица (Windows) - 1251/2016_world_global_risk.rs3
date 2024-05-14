@@ -1,0 +1,87 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="37" parent="41" relname="comparison">Эксперты Economist включили действия России на Украине и в Сирии в список глобальных рисков\n\nАналитики Economist Intelligence Unit составили список глобальных рисков на апрель 2016 года.</segment>
+		<segment id="38" parent="40" relname="span">На втором месте оказалось вмешательство России в ситуацию на Украине и в Сирии,</segment>
+		<segment id="39" parent="38" relname="elaboration">которое может привести к новой холодной войне.</segment>
+		<segment id="42" parent="52" relname="comparison">События с самыми серьезными последствиями и высокой вероятностью их наступления были оценены в баллах.\n\nБолее опасным по потенциальному воздействию на мировое сообщество,</segment>
+		<segment id="43" parent="47" relname="same-unit">чем действия России,</segment>
+		<segment id="44" parent="45" relname="attribution">эксперты посчитали</segment>
+		<segment id="45" parent="46" relname="span">лишь развитие экономического кризиса в Китае</segment>
+		<segment id="48" parent="50" relname="span">(сценарий получил 20 баллов),</segment>
+		<segment id="49" parent="48" relname="elaboration">которое может привести к дальнейшему падению сырьевых цен, в том числе на нефть.</segment>
+		<segment id="53" parent="59" relname="span">Замедление экономики КНР ударит и по США и Евросоюзу,</segment>
+		<segment id="54" parent="55" relname="cause-effect">так как их зависимость от продаж в Китае стремительно растет,</segment>
+		<segment id="55" parent="56" relname="span">прогнозируют специалисты</segment>
+		<segment id="57" parent="58" relname="span">.\n\</segment>
+		<segment id="62" parent="65" relname="attribution">nПо мнению составителей рейтинга,</segment>
+		<segment id="63" parent="65" relname="joint">операция Воздушно-космических сил РФ в Сирии, ухудшение отношений с Турцией,</segment>
+		<segment id="64" parent="65" relname="joint">сбившей в ноябре прошлого года российский военный самолет, и поддержка сепаратистов на Украине предельно обострили противостояние России с Западом с момента окончания холодной войны (16 баллов в рейтинге).</segment>
+		<segment id="67" parent="74" relname="attribution">В итоге, считают аналитики,</segment>
+		<segment id="68" parent="69" relname="condition">усложнение глобальной геополитики может если не остановить сотрудничество,</segment>
+		<segment id="69" parent="70" relname="span">то серьезно помешать реализации целого комплекса общих целей, таких как борьба с исламским экстремизмом и глобальным потеплением,</segment>
+		<segment id="71" parent="73" relname="span">а также всегда имеет потенциал для эскалации.\n\nУсиление сил НАТО в Восточной Европе, в том числе в Прибалтике, и провокационные полеты российских военных самолетов над Западной Европой увеличивают риск прямой конфронтации,</segment>
+		<segment id="72" parent="71" relname="attribution">отмечается в комментариях.</segment>
+		<segment id="76" parent="81" relname="preparation">Имея в виду такое развитие ситуации,</segment>
+		<segment id="77" parent="80" relname="cause-effect">западные страны начнут пересматривать свои сокращенные в последние годы затраты на оборону,</segment>
+		<segment id="78" parent="80" relname="span">что затруднит усилия по уменьшению высоких бюджетных дефицитов.\n\nВ списке рисков также оказался возможный кризис корпоративной задолженности на развивающихся рынках</segment>
+		<segment id="79" parent="78" relname="cause-effect">вследствие волатильности на валютных рынках (16 баллов).</segment>
+		<segment id="85" parent="87" relname="span">Углубление кризиса может привести к повторению произошедшего несколько лет назад банковского кризиса, предупреждают аналитики.\n\</segment>
+		<segment id="86" parent="85" relname="interpretation-evaluation">nК рискам средней степени вероятности</segment>
+		<segment id="89" parent="103" relname="span">эксперты отнесли вероятный развал Евросоюза и еврозоны (по 15 баллов),</segment>
+		<segment id="90" parent="94" relname="joint">возможную победу миллиардера Дональда Трампа на президентских выборах в США (12 баллов)</segment>
+		<segment id="91" parent="93" relname="span">и растущую угрозу терроризма со стороны джихадистов,</segment>
+		<segment id="92" parent="91" relname="elaboration">которая дестабилизирует мировую экономику (12 баллов).\n\nВ числе маловероятных рисков для международного сообщества аналитики называют выход Великобритании из Евросоюза (восемь баллов),</segment>
+		<segment id="97" parent="101" relname="joint">притязания Китая на острова в Южно-Китайском море (восемь баллов), провоцирующие столкновения,</segment>
+		<segment id="98" parent="100" relname="span">а также нефтяной ценовой шок</segment>
+		<segment id="99" parent="98" relname="cause-effect">из-за сокращения инвестиций в добычу (четыре балла).\n\nИсточник: https://www.newsru.com/world/17Mar2016/global_risk.html\n</segment>
+		<group id="61" type="span" parent="107" relname="joint"/>
+		<group id="41" type="multinuc" parent="60" relname="preparation"/>
+		<group id="40" type="span" parent="41" relname="comparison"/>
+		<group id="60" type="multinuc" parent="61" relname="span"/>
+		<group id="52" type="multinuc" parent="60" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="comparison"/>
+		<group id="47" type="multinuc" parent="51" relname="span"/>
+		<group id="46" type="span" parent="47" relname="same-unit"/>
+		<group id="50" type="span" parent="47" relname="elaboration"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="58" type="span" parent="53" relname="cause-effect"/>
+		<group id="56" type="span" parent="57" relname="cause-effect"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="66" type="span" parent="105" relname="preparation"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="105" type="span" parent="106" relname="span"/>
+		<group id="75" type="span" parent="105" relname="span"/>
+		<group id="74" type="multinuc" parent="75" relname="span"/>
+		<group id="70" type="span" parent="74" relname="joint"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="104" type="multinuc" parent="75" relname="elaboration"/>
+		<group id="88" type="multinuc" parent="104" relname="joint"/>
+		<group id="82" type="span" parent="88" relname="joint"/>
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="87" type="span" parent="88" relname="joint"/>
+		<group id="103" type="span" parent="104" relname="joint"/>
+		<group id="102" type="multinuc" parent="89" relname="cause-effect"/>
+		<group id="94" type="multinuc" parent="102" relname="comparison"/>
+		<group id="93" type="span" parent="94" relname="joint"/>
+		<group id="101" type="multinuc" parent="102" relname="comparison"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="107" type="multinuc"/>
+	</body>
+</rst>

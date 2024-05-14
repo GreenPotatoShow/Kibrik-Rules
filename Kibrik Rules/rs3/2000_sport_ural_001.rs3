@@ -1,0 +1,20 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="6" parent="14" relname="sequence">\"Урал-Грейт\" вышел в финал\n\</segment>
+		<segment id="7" parent="13" relname="span">nВ Санкт-Петербурге закончился групповой отборочный турнир розыгрыша Кубка России по баскетболу.</segment>
+		<segment id="8" parent="10" relname="span">Вице-чемпион страны пермский \"Урал-Грейт\" уверенно обыграл питерский \"Спартак\" 75:55,</segment>
+		<segment id="9" parent="8" relname="elaboration">уступивший, кстати, и подмосковному клубу \"Химки\".</segment>
+		<segment id="11" parent="12" relname="sequence">Теперь и \"Урал-Грейт\", и \"Химки\" встретятся в финале Кубка, который состоится в начале октября в Сочи.\n\nИсточник: https://www.newsru.com/sport/04Sep2000/ural.html\n</segment>
+		<group id="13" type="span" parent="14" relname="sequence"/>
+		<group id="12" type="multinuc" parent="7" relname="elaboration"/>
+		<group id="10" type="span" parent="12" relname="sequence"/>
+		<group id="14" type="multinuc"/>
+	</body>
+</rst>

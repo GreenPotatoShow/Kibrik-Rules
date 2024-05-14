@@ -1,0 +1,76 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="30" parent="32" relname="span">Китайский интернет-активист получил 10 лет за подрывную детельность\n\n57-летний китаец Чэнь Си получил 10 лет тюремного заключения за \"ведение подрывной деятельности\" в интернете,</segment>
+		<segment id="31" parent="30" relname="attribution">сообщает CyberSecurity.ru со ссылкой на Reuters.</segment>
+		<segment id="33" parent="39" relname="sequence">О вынесении приговора агентству рассказала жена диссидента,</segment>
+		<segment id="34" parent="37" relname="attribution">добавив,</segment>
+		<segment id="35" parent="37" relname="span">что Чэнь теперь будет отбывать срок с мотивировкой, похожей на ту, что ранее была вынесена другому известному китайскому интернет-диссиденту Лю Сяобо,</segment>
+		<segment id="36" parent="35" relname="background">который стал в прошлом году лауреатом Нобелевской премии мира,</segment>
+		<segment id="40" parent="46" relname="span">но по понятным причинам не смог присутствовать на вручении.\n\nПо данным Reuters,</segment>
+		<segment id="43" parent="45" relname="contrast">Чэнь Си в прошлом отслужил в китайской армии, был заводским рабочим,</segment>
+		<segment id="44" parent="45" relname="contrast">но ранее он уже отсидел три года за участие в акциях протеста в 1989 году.</segment>
+		<segment id="47" parent="49" relname="contrast">Вновь осужден он был в 1996 году,</segment>
+		<segment id="48" parent="49" relname="contrast">но выпущен в 2005.</segment>
+		<segment id="50" parent="53" relname="attribution">Тогда он получил срок за организацию гражданских протестов в городе Гуйян.\n\n\"Судья сказал,</segment>
+		<segment id="51" parent="53" relname="joint">что основные нарушения связаны с негативным влиянием на общество,</segment>
+		<segment id="52" parent="53" relname="joint">а также неоднократными попытками ведения пропаганды\",</segment>
+		<segment id="58" parent="57" relname="attribution">- заявила в интервью Reuters жена диссидента.</segment>
+		<segment id="60" parent="61" relname="attribution">Кроме того, она отметила,</segment>
+		<segment id="61" parent="62" relname="span">что суд по непонятным для нее причинам отказал в апелляции.\n\nВ КНР среди определенных групп пользователей Чэнь Си известен своими 36 эссе, критикующими Коммунистическую партию Китая.</segment>
+		<segment id="63" parent="69" relname="contrast">В Китае эти эссе были запрещены к публикации,</segment>
+		<segment id="64" parent="66" relname="joint">но многие западные сайты растиражировали их</segment>
+		<segment id="65" parent="66" relname="joint">и пользователи в КНР все равно получили к ним доступ</segment>
+		<segment id="67" parent="66" relname="cause-effect">.\n\nОфициальные власти КНР не комментируют 10-летний приговор интернет-диссиденту.</segment>
+		<segment id="71" parent="74" relname="attribution">Агентство Синьхуа также ничего не сообщает о необычном процессе.\n\nЗападные аналитики говорят,</segment>
+		<segment id="72" parent="74" relname="span">что в конце будущего года нынешняя политическая верхушка в стране сменится,</segment>
+		<segment id="73" parent="72" relname="concession">хотя само партийное устройство останется неизменным.</segment>
+		<segment id="76" parent="79" relname="attribution">В связи с этим эксперты предсказывают,</segment>
+		<segment id="77" parent="79" relname="span">что в 2012 году китайский сегмент интернета будут зачищать особенно активно,</segment>
+		<segment id="78" parent="77" relname="condition">удаляя любое инакомыслие.</segment>
+		<segment id="81" parent="80" relname="elaboration">Всего за прошедший год полиция КНР задержала более сотни сетевых активистов.\n\nИсточник: https://www.newsru.com/hitech/26Dec2011/cnneteprsn.html\n</segment>
+		<group id="32" type="span" parent="85" relname="preparation"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="59" type="span" parent="85" relname="joint"/>
+		<group id="57" type="multinuc" parent="59" relname="span"/>
+		<group id="39" type="multinuc" parent="57" relname="contrast"/>
+		<group id="38" type="span" parent="39" relname="sequence"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="56" type="multinuc" parent="57" relname="contrast"/>
+		<group id="46" type="span" parent="56" relname="joint"/>
+		<group id="45" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="49" type="multinuc" parent="54" relname="cause-effect"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="53" type="multinuc" parent="54" relname="span"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="70" type="span" parent="84" relname="joint"/>
+		<group id="62" type="span" parent="70" relname="span"/>
+		<group id="69" type="multinuc" parent="62" relname="elaboration"/>
+		<group id="68" type="span" parent="69" relname="contrast"/>
+		<group id="66" type="multinuc" parent="68" relname="span"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="75" type="span" parent="83" relname="span"/>
+		<group id="74" type="span" parent="75" relname="span"/>
+		<group id="82" type="span" parent="75" relname="cause-effect"/>
+		<group id="80" type="span" parent="82" relname="span"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="86" type="span"/>
+	</body>
+</rst>

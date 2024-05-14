@@ -1,0 +1,75 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="33" relname="span">Руководитель \"Опоры\" уходит в отставку</segment>
+		<segment id="30" parent="32" relname="span">из-за разногласий с бизнес-омбудсменом\n\nЛидер организации малого и среднего бизнеса \"Опора России\" Сергей Борисов,</segment>
+		<segment id="31" parent="30" relname="elaboration">который возглавляет организацию с 2002 года,</segment>
+		<segment id="34" parent="35" relname="same-unit">покинет свой пост на съезде 14-15 ноября.</segment>
+		<segment id="36" parent="44" relname="span">он объяснил причины своего решения \"Коммерсанту\" тем, что десяти лет работы на одном месте оказалось достаточно,</segment>
+		<segment id="37" parent="43" relname="comparison">чтобы \"выразить свои идеи\".\n\nВо-вторых,</segment>
+		<segment id="38" parent="41" relname="attribution">по словам Борисова,</segment>
+		<segment id="39" parent="41" relname="span">он не может взаимодействовать с недавно назначенным бизнес-омбудсменом Борисом Титовым,</segment>
+		<segment id="40" parent="39" relname="elaboration">с которым у него \"некое противоречие и разные взгляды на многие вопросы\".\n\</segment>
+		<segment id="45" parent="52" relname="attribution">nПри этом он подчеркнул:</segment>
+		<segment id="46" parent="50" relname="span">\"Противоречить президенту,</segment>
+		<segment id="47" parent="49" relname="joint">который назначил омбудсмена</segment>
+		<segment id="48" parent="49" relname="joint">и доверенным лицом которого я был на выборах,</segment>
+		<segment id="51" parent="52" relname="same-unit">не смогу\".</segment>
+		<segment id="56" parent="59" relname="interpretation-evaluation">Отметим, что</segment>
+		<segment id="57" parent="58" relname="condition">при назначении Бориса Титова</segment>
+		<segment id="58" parent="59" relname="span">в июне этого уполномоченным по защите прав предпринимателей Владимир Путин заявил,</segment>
+		<segment id="61" parent="63" relname="span">что его назначение поддержали бизнес-организации,</segment>
+		<segment id="62" parent="61" relname="elaboration">с которыми он \"советовался\".\n\nНа вопрос издания,</segment>
+		<segment id="64" parent="65" relname="span">связан ли его уход с предложением поста во властных структурах,</segment>
+		<segment id="66" parent="67" relname="attribution">Сергей Борисов ответил,</segment>
+		<segment id="67" parent="68" relname="span">что ему \"таких предложений не поступало\" и к власти он не стремится.</segment>
+		<segment id="71" parent="73" relname="joint">\"Я вице-президент \"Сбербанка\", мы ведем там программу по малому бизнесу,</segment>
+		<segment id="72" parent="73" relname="joint">и я хочу ее завершить,</segment>
+		<segment id="74" parent="75" relname="joint">кроме того, собираюсь вплотную заняться международной деятельностью - продвижением наших высокотехнологичных предприятий за рубежом и привлечением новых технологий в Россию\",</segment>
+		<segment id="76" parent="78" relname="span">- сообщил Борисов.\n\nНа пост руководителя \"Опоры\" претендуют семеро кандидатов:</segment>
+		<segment id="77" parent="76" relname="elaboration">три первых вице-президента организации Владислав Корочкин, Александр Бречалов и Павел Сигал, вице-президенты Михаил Мамута, Сергей Моисеев, Александр Калинин и не занимающий никаких постов в организации Владимир Гутенев, депутат Госдумы, первый вице-президент Союза машиностроителей России и давний соратник главы \"Ростехнологий\" Сергея Чемезова.</segment>
+		<segment id="79" parent="78" relname="purpose">Борисов обещал посоветоваться по этим кандидатурам с Кремлем.\n\nИсточник: https://www.newsru.com/finance/02Nov2012/opora.html\n</segment>
+		<group id="55" type="multinuc" parent="83" relname="joint"/>
+		<group id="35" type="multinuc" parent="55" relname="joint"/>
+		<group id="33" type="span" parent="35" relname="same-unit"/>
+		<group id="32" type="span" parent="29" relname="cause-effect"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="44" type="span" parent="54" relname="span"/>
+		<group id="43" type="multinuc" parent="36" relname="purpose"/>
+		<group id="42" type="span" parent="43" relname="comparison"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="53" type="span" parent="44" relname="elaboration"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="50" type="span" parent="52" relname="same-unit"/>
+		<group id="49" type="multinuc" parent="46" relname="elaboration"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="70" type="span" parent="82" relname="joint"/>
+		<group id="60" type="span" parent="69" relname="attribution"/>
+		<group id="59" type="span" parent="60" relname="span"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="65" type="span" parent="69" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="cause-effect"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="81" type="span" parent="82" relname="joint"/>
+		<group id="75" type="multinuc" parent="81" relname="span"/>
+		<group id="73" type="multinuc" parent="75" relname="joint"/>
+		<group id="80" type="span" parent="75" relname="attribution"/>
+		<group id="78" type="span" parent="80" relname="span"/>
+		<group id="83" type="multinuc"/>
+	</body>
+</rst>

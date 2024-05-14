@@ -1,0 +1,62 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="30" relname="preparation">Организатор ввоза в Финляндию родственников чеченских террористов получил условный срок\n\nНадворный суд Хельсинки приговорил в среду к четырем месяцам условного заключения организатора незаконного ввоза чеченских мигрантов Микаэля Сторшо.</segment>
+		<segment id="24" parent="27" relname="attribution">По данным местных СМИ,</segment>
+		<segment id="25" parent="27" relname="span">его осудили за три случая нелегальной миграции,</segment>
+		<segment id="26" parent="25" relname="background">когда были незаконно доставлены в Финляндию через Турцию 25 чеченцев,</segment>
+		<segment id="29" parent="28" relname="attribution">сообщает \"Интерфакс\".\n\</segment>
+		<segment id="32" parent="34" relname="span">nПо словам финского пророссийского активиста Йохана Бекмана,</segment>
+		<segment id="33" parent="32" relname="elaboration">среди них были и родственники террористов, в том числе Шамиля Басаева и Доку Умарова.</segment>
+		<segment id="35" parent="37" relname="span">\"В материалах следствия есть доказательства того, что с помощью Сторше в Финляндию перебрался некто Мациев, бывший радист террористов Беслана,</segment>
+		<segment id="36" parent="35" relname="elaboration">которого считали \"пропавшим\",</segment>
+		<segment id="38" parent="37" relname="attribution">- заявил Бекман агентству.</segment>
+		<segment id="41" parent="48" relname="attribution">По его словам,</segment>
+		<segment id="42" parent="44" relname="span">сейчас террорист работает администратором северокавказского сепаратистского сайта,</segment>
+		<segment id="43" parent="42" relname="background">офис которого находится в Хельсинки.\n\nБекман также добавил,</segment>
+		<segment id="45" parent="47" relname="span">что в материалах следствия есть указания на то, что Сторше совершал поездки</segment>
+		<segment id="46" parent="45" relname="purpose">для организации незаконной миграции на деньги МИД Финляндии и Государственного департамента США.</segment>
+		<segment id="50" parent="51" relname="attribution">Кроме того, по данным следствия,</segment>
+		<segment id="51" parent="52" relname="span">в этом ему помогала ранее депутат Европарламента, ныне министр национального развития Хейди Хаутала.\n\nСтоит отметить, что ранее суд первой инстанции города Вантаа оправдал Сторше,</segment>
+		<segment id="53" parent="56" relname="cause-effect">поскольку, по мнению суда,</segment>
+		<segment id="54" parent="56" relname="joint">он действовал из гуманных соображений</segment>
+		<segment id="55" parent="56" relname="joint">и помогал людям, которым угрожала опасность.</segment>
+		<segment id="59" parent="60" relname="attribution">Между тем, столичный суд счел,</segment>
+		<segment id="60" parent="61" relname="span">что незаконным мигрантам в стране проживания ничего не угрожало.\n\nИсточник: https://www.newsru.com/world/13Jun2012/storshe.html\n</segment>
+		<group id="31" type="span" parent="64" relname="preparation"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="28" type="span" parent="30" relname="span"/>
+		<group id="27" type="span" parent="28" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="40" type="multinuc" parent="64" relname="joint"/>
+		<group id="34" type="span" parent="40" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="37" type="span" parent="39" relname="span"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="49" type="span" parent="63" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="span"/>
+		<group id="44" type="span" parent="48" relname="comparison"/>
+		<group id="47" type="span" parent="48" relname="comparison"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="58" type="span" parent="62" relname="span"/>
+		<group id="52" type="span" parent="58" relname="span"/>
+		<group id="57" type="span" parent="52" relname="cause-effect"/>
+		<group id="56" type="multinuc" parent="57" relname="span"/>
+		<group id="61" type="span" parent="58" relname="elaboration"/>
+		<group id="65" type="span"/>
+	</body>
+</rst>

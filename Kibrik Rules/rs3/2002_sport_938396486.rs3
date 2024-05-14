@@ -1,0 +1,84 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="39" parent="43" relname="span">Президент РФС возмущен плохим судейством на мировом первенстве\n\nПрезидент Российского футбольного союза Вячеслав Колосков назвал чудовищной ситуацию с судейством на мировом первенстве по футболу.</segment>
+		<segment id="40" parent="41" relname="attribution">В интервью РИА \"Новости\" в понедельник он отметил,</segment>
+		<segment id="41" parent="42" relname="span">что на нынешнем турнире произошел целый ряд грубейших судейских ошибок, повлиявших на результаты матчей.</segment>
+		<segment id="44" parent="47" relname="attribution">По его словам,</segment>
+		<segment id="45" parent="47" relname="span">сборные Италии и Испании стали главными жертвами таких ошибок,</segment>
+		<segment id="46" parent="45" relname="cause-effect">досрочно прекратив борьбу за медали чемпионата.</segment>
+		<segment id="49" parent="57" relname="comparison">Может предъявить претензии к арбитрам и российская сборная, в частности, за не назначенный немецким арбитром очевидный пенальти в матче Россия-Япония.</segment>
+		<segment id="50" parent="55" relname="attribution">Как сказал Колосков,</segment>
+		<segment id="51" parent="53" relname="span">действия арбитров станут предметом обсуждения на заседании оргкомитета чемпионата мира,</segment>
+		<segment id="52" parent="51" relname="attribution">которое состоится в четверг, 28 июня.\n\nПрезидент Российского футбольного союза также заявил,</segment>
+		<segment id="54" parent="55" relname="span">что состав полуфинальных пар отражает непредсказуемость нынешнего чемпионата мира по футболу.</segment>
+		<segment id="59" parent="67" relname="span">Мало кто ожидал увидеть в полуфинале сборную Южной Кореи и Турции.</segment>
+		<segment id="62" parent="66" relname="span">В то же время, до этой стадии розыгрыша не дошли такие сильные сборные, как Аргентина, Франция, Италия, Испания и Англия.</segment>
+		<segment id="63" parent="65" relname="span">\"И все же мне хотелось бы,</segment>
+		<segment id="64" parent="63" relname="attribution">- сказал Колосков,</segment>
+		<segment id="68" parent="78" relname="span">- чтобы в финал чемпионата мира вышли сборные Германии и Бразилии.</segment>
+		<segment id="69" parent="77" relname="span">Это будет классический футбольный поединок\".\n\nКасаясь вопроса о претендентах на пост главного тренера сборной России,</segment>
+		<segment id="70" parent="75" relname="attribution">Колосков сообщил,</segment>
+		<segment id="71" parent="75" relname="span">что он уже провел консультацию с коллегами из ряда европейских стран по поводу возможных кандидатов.</segment>
+		<segment id="72" parent="74" relname="span">Он встречался с представителями футбольных ассоциаций Италии, Испании, Англии и Франции,</segment>
+		<segment id="73" parent="72" relname="elaboration">которые рассказали ему о ситуации на тренерском рынке.</segment>
+		<segment id="79" parent="80" relname="attribution">По словам Колоскова,</segment>
+		<segment id="80" parent="81" relname="span">сейчас трудно говорить о шансах какого-либо иностранного специалиста занять пост главного тренера сборной России.</segment>
+		<segment id="82" parent="81" relname="elaboration">\"Все зависит от фамилии\",</segment>
+		<segment id="84" parent="87" relname="attribution">- сказал президент РФС.\n\nПо его мнению,</segment>
+		<segment id="85" parent="87" relname="contrast">сейчас в мире насчитывается не более 10-ти великих тренеров, таких, как Хитцфельд, Липпи, Капелло, Фергюссон,</segment>
+		<segment id="86" parent="87" relname="contrast">но все они заняты.</segment>
+		<segment id="90" parent="94" relname="span">\"А брать какого-то среднего специалиста нет смысла.</segment>
+		<segment id="91" parent="93" relname="joint">Они ничем не превосходят российских коллег,</segment>
+		<segment id="92" parent="93" relname="joint">в числе которых на пост главного тренера сборной России чаще всего называют Валерия Газзаева и Юрия Семина\",</segment>
+		<segment id="95" parent="94" relname="attribution">- считает президент РФС</segment>
+		<segment id="97" parent="101" relname="span">.\n\nКадровый вопрос будет обсуждаться на исполкоме РФС в начале июля.</segment>
+		<segment id="98" parent="100" relname="joint">Пока же он изучает иностранные кандидатуры,</segment>
+		<segment id="99" parent="100" relname="joint">а генеральный директор РФС Александр Тукманов и генеральный секретарь Союза Владимир Родионов занимаются российскими специалистами.\n\nИсточник: https://www.newsru.com/sport/24Jun2002/938396486.html\n</segment>
+		<group id="43" type="span" parent="106" relname="preparation"/>
+		<group id="42" type="span" parent="39" relname="elaboration"/>
+		<group id="106" type="multinuc" parent="107" relname="span"/>
+		<group id="58" type="span" parent="106" relname="joint"/>
+		<group id="48" type="span" parent="58" relname="span"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="57" type="multinuc" parent="48" relname="elaboration"/>
+		<group id="56" type="span" parent="57" relname="comparison"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="53" type="span" parent="54" relname="attribution"/>
+		<group id="105" type="span" parent="106" relname="joint"/>
+		<group id="67" type="span" parent="104" relname="preparation"/>
+		<group id="66" type="span" parent="59" relname="elaboration"/>
+		<group id="65" type="span" parent="62" relname="elaboration"/>
+		<group id="104" type="multinuc" parent="105" relname="span"/>
+		<group id="78" type="span" parent="104" relname="joint"/>
+		<group id="77" type="span" parent="68" relname="elaboration"/>
+		<group id="76" type="span" parent="69" relname="elaboration"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="74" type="span" parent="71" relname="elaboration"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="89" type="multinuc" parent="103" relname="joint"/>
+		<group id="83" type="span" parent="89" relname="comparison"/>
+		<group id="81" type="span" parent="83" relname="span"/>
+		<group id="88" type="span" parent="89" relname="comparison"/>
+		<group id="87" type="multinuc" parent="88" relname="span"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="96" type="span" parent="102" relname="joint"/>
+		<group id="94" type="span" parent="96" relname="span"/>
+		<group id="93" type="multinuc" parent="90" relname="elaboration"/>
+		<group id="101" type="span" parent="102" relname="joint"/>
+		<group id="100" type="multinuc" parent="97" relname="elaboration"/>
+		<group id="107" type="span"/>
+	</body>
+</rst>

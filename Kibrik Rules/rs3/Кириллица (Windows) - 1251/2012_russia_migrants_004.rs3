@@ -1,0 +1,116 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="52" parent="56" relname="span">Россияне вошли в число народов-рекордсменов по нелюбви к гастарбайтерам\n\nРоссияне по-прежнему не любят мигрантов:</segment>
+		<segment id="55" parent="52" relname="evidence">в рейтинге, составленном экспертами Ассоциации Gallup International/WIN, Россия заняла лишь 44-е место по уровню терпимости к иммиграции.</segment>
+		<segment id="57" parent="63" relname="span">Всего в списке значатся 59 стран.</segment>
+		<segment id="58" parent="62" relname="span">Впрочем, некоторая динамика есть:</segment>
+		<segment id="59" parent="61" relname="span">за последнее время относиться к гастарбайтерам граждане РФ стали заметно лучше,</segment>
+		<segment id="60" parent="59" relname="concession">хотя в остальном мире, наоборот, приезжих не любят все сильнее.\n\</segment>
+		<segment id="67" parent="77" relname="span">nВ рамках глобального исследования жителям разных стран было предложено ответить на вопрос:</segment>
+		<segment id="70" parent="72" relname="span">\"С вашей точки зрения, иммиграция, включая привлечение рабочей силы из зарубежных стран, является положительным или отрицательным явлением для вашей страны</segment>
+		<segment id="71" parent="70" relname="elaboration">?\" Только в 21-й стране мира сторонников иммиграции оказалось больше ее противников,</segment>
+		<segment id="73" parent="74" relname="comparison">в остальных 38 государствах к этому явлению относятся по большей части отрицательно.\n\nВ России же индекс терпимости к мигрантам ушел глубоко в минус.</segment>
+		<segment id="75" parent="74" relname="interpretation-evaluation">Половина опрошенных россиян относятся к мигрантам негативно.</segment>
+		<segment id="78" parent="80" relname="comparison">Положительно оценили прибытие в страну людей из-за рубежа лишь 19% опрошенных,</segment>
+		<segment id="79" parent="80" relname="comparison">такому же проценту респондентов все равно.</segment>
+		<segment id="81" parent="82" relname="cause-effect">Еще 12% участников опроса затруднились с ответом.</segment>
+		<segment id="82" parent="83" relname="span">Тем самым уровень поддержки иммиграции в России социологи оценили в -31%.\n\</segment>
+		<segment id="85" parent="88" relname="attribution">nКак показал опрос,</segment>
+		<segment id="86" parent="88" relname="comparison">наибольшую нетерпимость к мигрантам продемонстрировали граждане старше 50 лет,</segment>
+		<segment id="87" parent="88" relname="comparison">а также с низким или средним семейных доходом и образованием не выше среднего.</segment>
+		<segment id="90" parent="92" relname="joint">Среди россиян в возрасте до 30 лет с высшим образованием, имеющим высокий семейный доход,</segment>
+		<segment id="91" parent="92" relname="joint">поддержка иммиграции, напротив, выше всего.\n\nПриезжих не любят православные и индуисты\n\nСвою лепту вносит и религиозный фактор.</segment>
+		<segment id="94" parent="96" relname="comparison">Самый низкий показатель поддержки иммиграции наблюдается у православных (-25%) и приверженцев индуизма (-21%).</segment>
+		<segment id="95" parent="96" relname="comparison">Наиболее толерантно относятся к иммигрантам буддисты (28%) и атеисты (16%).</segment>
+		<segment id="97" parent="101" relname="span">Близкое к нейтральному отношение к иммиграции у протестантов (3%), мусульман (-2%) и католиков (-4%).\n\nИменно большим количеством россиян православной веры,</segment>
+		<segment id="98" parent="99" relname="attribution">по мнению социологов,</segment>
+		<segment id="99" parent="100" relname="span">можно объяснить негативное отношение к иммиграции.</segment>
+		<segment id="102" parent="103" relname="contrast">Но это далеко не единственная причина.</segment>
+		<segment id="105" parent="108" relname="cause-effect">\"Россия до сих пор страдает вопросом самоопределения.</segment>
+		<segment id="106" parent="108" relname="joint">И именно поэтому нам зачастую так сложно понять</segment>
+		<segment id="107" parent="108" relname="joint">и принять что-то новое.</segment>
+		<segment id="110" parent="116" relname="span">Еще десять лет назад в России скорее была актуальна проблема эмиграции.</segment>
+		<segment id="111" parent="114" relname="condition">Когда же в нашу страну потянулись иммигранты, в том числе и трудовые,</segment>
+		<segment id="112" parent="114" relname="joint">то народ не понимал, как это принимать,</segment>
+		<segment id="113" parent="114" relname="joint">как с этим жить\",</segment>
+		<segment id="117" parent="118" relname="joint">- цитирует РБК директора-координатора Gallup International/WIN по странам СНГ и Восточной Европе и президента холдинга \"Ромир\" Андрея Милехина.\n\nЧасть россиян смирилась с мигрантами\n\nВпрочем, за последние семь лет россияне все же улучшили свое отношение к мигрантам.</segment>
+		<segment id="120" parent="122" relname="comparison">Еще в 2005 году индекс поддержки иммиграции составлял даже не -31%, а -45%.</segment>
+		<segment id="121" parent="122" relname="comparison">В то же время в среднем по миру к мигрантам за тот же период времени стали относиться заметно хуже.\n\nС 2005 года среднемировой индекс поддержки иммиграции опустился с 5% до -4%.</segment>
+		<segment id="123" parent="127" relname="span">В настоящее время сторонники иммиграции превосходят ее противников числом только в странах Латинской Америки, Азии и особенно Африки.\n\nБез них никуда\n\nСтоит отметить, что на негативном отношении россиян к мигрантам во время своей предвыборной кампании пытался сыграть нынешний российский президент Владимир Путин.</segment>
+		<segment id="124" parent="126" relname="span">В частности, в своей статье под названием \"Россия: национальный вопрос\" он выступил за введение уголовного наказания как для физических, так и для юридических лиц,</segment>
+		<segment id="125" parent="124" relname="elaboration">провоцирующих нелегальную миграцию.</segment>
+		<segment id="128" parent="134" relname="joint">Также он предложил запрещать въезд на территорию России иностранцам,</segment>
+		<segment id="129" parent="133" relname="joint">нарушившим правила пребывания в стране,</segment>
+		<segment id="130" parent="132" relname="span">а также обязать приезжих сдавать экзамен по русскому языку.\n\nВпрочем, без мигрантов России все равно не обойтись,</segment>
+		<segment id="131" parent="130" relname="background">предупреждали в прошлом году эксперты.</segment>
+		<segment id="136" parent="137" relname="attribution">По некоторым данным,</segment>
+		<segment id="137" parent="138" relname="span">в настоящее время иностранцы на 60% компенсируют демографические проблемы России.</segment>
+		<segment id="139" parent="142" relname="attribution">Ранее секретарь Совета безопасности РФ Николай Патрушев также заявлял,</segment>
+		<segment id="140" parent="142" relname="joint">что в будущем стране понадобятся новые решения</segment>
+		<segment id="141" parent="142" relname="joint">и меры по привлечению в Россию высококвалифицированной рабочей силы.\n\nИсточник: https://www.newsru.com/russia/30May2012/migrants.html\n</segment>
+		<group id="64" type="multinuc" parent="151" relname="preparation"/>
+		<group id="56" type="span" parent="64" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="62" type="span" parent="57" relname="interpretation-evaluation"/>
+		<group id="61" type="span" parent="58" relname="elaboration"/>
+		<group id="151" type="multinuc" parent="152" relname="span"/>
+		<group id="77" type="span" parent="151" relname="joint"/>
+		<group id="76" type="span" parent="67" relname="elaboration"/>
+		<group id="74" type="multinuc" parent="76" relname="span"/>
+		<group id="72" type="span" parent="74" relname="comparison"/>
+		<group id="150" type="span" parent="151" relname="joint"/>
+		<group id="84" type="multinuc" parent="149" relname="preparation"/>
+		<group id="80" type="multinuc" parent="84" relname="comparison"/>
+		<group id="83" type="span" parent="84" relname="comparison"/>
+		<group id="149" type="span" parent="150" relname="span"/>
+		<group id="93" type="multinuc" parent="148" relname="preparation"/>
+		<group id="89" type="span" parent="93" relname="comparison"/>
+		<group id="88" type="multinuc" parent="89" relname="span"/>
+		<group id="92" type="multinuc" parent="93" relname="comparison"/>
+		<group id="148" type="span" parent="149" relname="span"/>
+		<group id="104" type="multinuc" parent="147" relname="preparation"/>
+		<group id="96" type="multinuc" parent="104" relname="comparison"/>
+		<group id="103" type="multinuc" parent="104" relname="comparison"/>
+		<group id="101" type="span" parent="103" relname="contrast"/>
+		<group id="100" type="span" parent="97" relname="elaboration"/>
+		<group id="147" type="multinuc" parent="148" relname="span"/>
+		<group id="119" type="span" parent="147" relname="joint"/>
+		<group id="109" type="span" parent="118" relname="preparation"/>
+		<group id="108" type="multinuc" parent="109" relname="span"/>
+		<group id="118" type="multinuc" parent="119" relname="span"/>
+		<group id="116" type="span" parent="118" relname="joint"/>
+		<group id="115" type="span" parent="110" relname="elaboration"/>
+		<group id="114" type="multinuc" parent="115" relname="span"/>
+		<group id="146" type="span" parent="147" relname="joint"/>
+		<group id="122" type="multinuc" parent="145" relname="preparation"/>
+		<group id="145" type="span" parent="146" relname="span"/>
+		<group id="135" type="multinuc" parent="145" relname="span"/>
+		<group id="127" type="span" parent="135" relname="joint"/>
+		<group id="126" type="span" parent="123" relname="elaboration"/>
+		<group id="134" type="multinuc" parent="135" relname="joint"/>
+		<group id="133" type="multinuc" parent="134" relname="joint"/>
+		<group id="132" type="span" parent="133" relname="joint"/>
+		<group id="144" type="multinuc" parent="135" relname="background"/>
+		<group id="138" type="span" parent="144" relname="joint"/>
+		<group id="143" type="span" parent="144" relname="joint"/>
+		<group id="142" type="multinuc" parent="143" relname="span"/>
+		<group id="152" type="span"/>
+	</body>
+</rst>

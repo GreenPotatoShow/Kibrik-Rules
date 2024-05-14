@@ -1,0 +1,71 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="76" relname="preparation">Еще 9 иранских банков вернулись в систему SWIFT\n\nДевять банков Ирана возвращаются на мировую арену.</segment>
+		<segment id="28" parent="31" relname="attribution">Глава Центрального банка страны Валиулла Сейф заявил,</segment>
+		<segment id="29" parent="31" relname="comparison">что в понедельник они вновь будут подключены к системе международных расчетов SWIFT,</segment>
+		<segment id="30" parent="31" relname="comparison">сообщают \"Вести Экономика\".\n\nРечь идет о таких банках, как \"Банк промышленности и шахт\", \"Почтовый банк Ирана\", \"Банк экспортного развития\", а также банки Melli Iran, Tejarat, Mellat и Refah Kargaran.</segment>
+		<segment id="33" parent="38" relname="attribution">Доступ к SWIFT в понедельник получил и сам Центральный банк Исламской Республики.\n\nВалиулла Сейф отметил,</segment>
+		<segment id="34" parent="36" relname="joint">что иранские банки уже получили возможность открытия аккредитивов со дня начала реализации ядерного соглашения между Тегераном и \"шестеркой\", объявленного 16 января.\n\nРанее доступ к системе SWIFT получили четыре частных банка и два государственных: Dey, Saman, Pasargad и Parsian,</segment>
+		<segment id="35" parent="36" relname="joint">а также Maskan и Keshavarzi.\n\nОрганизация SWIFT (Society for Worldwide Interbank Financial Telecommunications, Сообщество всемирных межбанковских телекоммуникаций)</segment>
+		<segment id="37" parent="38" relname="same-unit">обеспечивает передачу 1,8 млрд сообщений в год;</segment>
+		<segment id="40" parent="42" relname="joint">за день через сеть SWIFT проходят платежные поручения более чем на 6 трлн долларов,</segment>
+		<segment id="41" parent="42" relname="joint">в ней участвуют более 10 тыс. финансовых организаций в 210 странах.\n\</segment>
+		<segment id="43" parent="45" relname="span">nПосредством SWIFT финансовые организации обмениваются платежными поручениями</segment>
+		<segment id="44" parent="43" relname="purpose">для совершения операций на денежном рынке, рынке ценных бумаг и документарных операций.\n\nSWIFT согласовывает свою деятельность с властями Евросоюза,</segment>
+		<segment id="46" parent="45" relname="background">так как организация зарегистрирована в Брюсселе</segment>
+		<segment id="48" parent="50" relname="span">и ее деятельность должна соответствовать законодательству Бельгии и ЕС.\n\nВ 2012 году</segment>
+		<segment id="49" parent="48" relname="cause-effect">из-за введенных в отношении Тегерана международных санкций доступа к SWIFT лишились примерно 30 иранских банков.\n\nВ апреле прошлого года SWIFT провела в Тегеране серию официальных и неофициальных встреч по возобновлению своих услуг в стране.</segment>
+		<segment id="54" parent="55" relname="attribution">Тогда в сообщениях СМИ отмечалось,</segment>
+		<segment id="55" parent="56" relname="span">что подобные контакты стали проявлением постепенного потепления отношений Ирана с Западом на фоне прогресса на переговорах по ядерной программе ИРИ.\n\</segment>
+		<segment id="59" parent="63" relname="span">nОжидается, что после длительного запрета инвесторы с огромным удовольствием будут вкладывать в экономику страны,</segment>
+		<segment id="60" parent="62" relname="comparison">поскольку точек роста здесь огромное количество</segment>
+		<segment id="61" parent="62" relname="comparison">.\n\nТак, например, Италия готова инвестировать в Иран 8 млрд евро.</segment>
+		<segment id="64" parent="68" relname="span">До санкций у Италии с Ираном были прочные торговые связи.</segment>
+		<segment id="65" parent="67" relname="comparison">В 2011 году товарооборот составил 7,2 млрд евро,</segment>
+		<segment id="66" parent="67" relname="comparison">а к 2014 году он упал в четыре с половиной раза - до 1,6 млрд евро.\n\nНесколько дней назад стало известно, что в ходе визита иранского президента Хасана Рухани в Рим Иран и Италия подписали соглашения по совместным проектам стоимостью 17 млрд евро.</segment>
+		<segment id="69" parent="71" relname="span">Речь идет о проектах в энергетике и строительстве инфраструктуры.\n\nПодписаны контракты и во Франции.</segment>
+		<segment id="70" parent="69" relname="elaboration">Например, Total готова закупать у Ирана 150-200 тыс. баррелей нефти в день.\n\nИспания и Иран обсуждают проект строительства нефтеперерабатывающего завода в районе Гибралтарского пролива,</segment>
+		<segment id="72" parent="71" relname="attribution">сообщил 19 января телеканал \"Аль-Джазира\" со ссылкой на заявление министра иностранных дел Испании Хосе Мануэля Гарсия-Маргальо.\n\nИсточник: https://www.newsru.com/finance/01Feb2016/swiftiranbnks.html\n</segment>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="58" type="multinuc" parent="76" relname="joint"/>
+		<group id="32" type="span" parent="58" relname="joint"/>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="53" type="multinuc" parent="56" relname="cause-effect"/>
+		<group id="39" type="span" parent="53" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="span"/>
+		<group id="36" type="multinuc" parent="38" relname="same-unit"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="42" type="multinuc" parent="52" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="47" type="span" parent="51" relname="joint"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="63" type="span" parent="75" relname="comparison"/>
+		<group id="62" type="multinuc" parent="59" relname="cause-effect"/>
+		<group id="74" type="multinuc" parent="75" relname="comparison"/>
+		<group id="68" type="span" parent="74" relname="comparison"/>
+		<group id="67" type="multinuc" parent="64" relname="elaboration"/>
+		<group id="73" type="span" parent="74" relname="comparison"/>
+		<group id="71" type="span" parent="73" relname="span"/>
+		<group id="77" type="span"/>
+	</body>
+</rst>

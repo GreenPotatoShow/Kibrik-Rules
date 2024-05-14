@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="27" relname="joint">Анри забил победный мяч спустя 10 минут после возвращения в \"Арсенал\"\n\nЗнаменитому французскому нападающему Тьерри Анри понадобилось всего 10 минут для того,</segment>
+		<segment id="20" parent="24" relname="span">чтобы отметить голом свое триумфальное возвращение в лондонский \"Арсенал\".\n\nОн забил единственный мяч в матче третьего раунда Кубка Англии против \"Лидса\",</segment>
+		<segment id="21" parent="23" relname="joint">в котором впервые за долгое время появился в футболке \"канониров\".\n\nВскоре после выхода на замену на 68-й минуте Анри получил передачу в штрафной гостей</segment>
+		<segment id="22" parent="23" relname="joint">и хладнокровно поразил дальний угол ворот соперника,</segment>
+		<segment id="25" parent="24" relname="elaboration">забив свой 227-й гол за \"Арсенал\".\n\n\"Это что-то невероятное.</segment>
+		<segment id="28" parent="30" relname="joint">Я даже не думал, что буду вновь играть за \"Арсенал\"</segment>
+		<segment id="29" parent="30" relname="joint">или смогу забить победный мяч.</segment>
+		<segment id="31" parent="30" relname="interpretation-evaluation">Я не знаю, что сказать.</segment>
+		<segment id="33" parent="37" relname="joint">Я люблю этот клуб</segment>
+		<segment id="34" parent="35" relname="attribution">и надеюсь,</segment>
+		<segment id="35" parent="36" relname="span">что смогу дать ему еще больше.</segment>
+		<segment id="38" parent="37" relname="interpretation-evaluation">Надеюсь, этот гол не станет последним\",</segment>
+		<segment id="41" parent="40" relname="attribution">- заявил герой матча</segment>
+		<segment id="44" parent="51" relname="preparation">.\n\</segment>
+		<segment id="45" parent="47" relname="joint">nНапомним, что 34-летний Анри выступал за \"Арсенал\" с 1999 по 2007 год</segment>
+		<segment id="46" parent="47" relname="joint">и является рекордсменом клуба из северного Лондона по числу забитых мячей.</segment>
+		<segment id="48" parent="50" relname="span">Сейчас француз играет за американский \"Нью-Йорк Ред Буллз\",</segment>
+		<segment id="49" parent="48" relname="elaboration">который отдал игрока в аренду его бывшей команде до конца февраля.\n\nИсточник: https://www.newsru.com/sport/10Jan2012/henry.html\n</segment>
+		<group id="43" type="span" parent="53" relname="span"/>
+		<group id="27" type="multinuc" parent="43" relname="span"/>
+		<group id="26" type="span" parent="27" relname="joint"/>
+		<group id="24" type="span" parent="26" relname="span"/>
+		<group id="23" type="multinuc" parent="20" relname="elaboration"/>
+		<group id="42" type="span" parent="27" relname="interpretation-evaluation"/>
+		<group id="40" type="span" parent="42" relname="span"/>
+		<group id="32" type="span" parent="40" relname="span"/>
+		<group id="30" type="multinuc" parent="32" relname="span"/>
+		<group id="39" type="span" parent="32" relname="interpretation-evaluation"/>
+		<group id="37" type="multinuc" parent="39" relname="span"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="52" type="span" parent="43" relname="background"/>
+		<group id="51" type="multinuc" parent="52" relname="span"/>
+		<group id="47" type="multinuc" parent="51" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

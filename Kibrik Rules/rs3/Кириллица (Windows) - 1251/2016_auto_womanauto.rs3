@@ -1,0 +1,35 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="14" relname="span">Названа марка \"самого женского автомобиля\" в России\n\nАналитическое агентство \"Автостат\" и автомобильный портал Drom.ru к 8 Марта опубликовали результаты онлайн-опроса среди 10 тысяч респондентов,</segment>
+		<segment id="13" parent="12" relname="elaboration">в ходе которого выяснялась марка \"самого женского автомобиля\".\n\</segment>
+		<segment id="15" parent="14" relname="elaboration">nВ предоставленной участникам опроса анкете предлагалось оценить, какие автомобильные бренды, по их мнению, соответствуют понятию \"марка для женщин\".</segment>
+		<segment id="17" parent="21" relname="sequence">В общей сложности автовладельцы оценивали 32 марки - самые популярные бренды в рейтинге российских продаж.\n\nСогласно полученным данным,</segment>
+		<segment id="18" parent="20" relname="span">самым женским автомобильным брендом стал французский Peugeot,</segment>
+		<segment id="19" parent="18" relname="elaboration">который отметили 62,2% респондентов.</segment>
+		<segment id="22" parent="24" relname="span">Второе место занял другой \"француз\" - Citroen (57,8%).</segment>
+		<segment id="23" parent="22" relname="elaboration">Замкнул тройку лидеров немецкий Opel (42,9%).</segment>
+		<segment id="25" parent="29" relname="span">Показатели остальных брендов находятся ниже 40%-ной отметки.</segment>
+		<segment id="26" parent="27" relname="interpretation-evaluation">Примечательно, что</segment>
+		<segment id="27" parent="28" relname="span">в топе нет автомобилей Mercedes, BMW и российской \"Лады\".\n\nТоп-20 \"женских\" марок:\n\nPeugeot (62,2%)\n\nCitroen (57,8%)\n\nOpel (42,9%)\n\nSuzuki (38,2%)\n\nChery (35,5%)\n\nKia (34,0%)\n\nHyundai (32,1%)\n\nDaewoo (32,0%)\n\nRenault (29,7%)\n\nMazda (27,9%)\n\nGeely (27,2%)\n\nLifan (25,7%)\n\nNissan (25,4%)\n\nDatsun (24,7%)\n\nSkoda (24,5%)\n\nToyota (23,8%)\n\nLexus (23,6%)\n\nVolvo (22,4%)\n\nVolkswagen (21,6%)\n\nChevrolet (20,2%)\n\nНапомним, в прошлом году выяснилось, что любимый цвет автомобиля у российских женщин-водителей - черный.\n\nИсточник: https://www.newsru.com/auto/04Mar2016/womanauto.html\n</segment>
+		<group id="16" type="span" parent="31" relname="preparation"/>
+		<group id="14" type="span" parent="16" relname="span"/>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="21" type="multinuc" parent="31" relname="joint"/>
+		<group id="20" type="span" parent="21" relname="sequence"/>
+		<group id="30" type="multinuc" parent="31" relname="joint"/>
+		<group id="24" type="span" parent="30" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="28" type="span" parent="25" relname="elaboration"/>
+		<group id="32" type="span"/>
+	</body>
+</rst>

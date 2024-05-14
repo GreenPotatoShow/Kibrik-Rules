@@ -1,0 +1,70 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="28" parent="30" relname="span">Горсовет Петрозаводска проголосовал за отмену прямых выборов</segment>
+		<segment id="29" parent="28" relname="cause-effect">вопреки вето мэра\n\</segment>
+		<segment id="31" parent="33" relname="span">nДепутаты Петрозаводского городского совета вновь проголосовали за внесение поправок в устав административного центра Карелии,</segment>
+		<segment id="32" parent="31" relname="elaboration">которые отменяют прямые выборы мэра,</segment>
+		<segment id="34" parent="33" relname="attribution">передает ТАСС.</segment>
+		<segment id="36" parent="40" relname="sequence">Ранее на это решение действующий мэр Галина Ширшина наложила вето.\n\nЗа внесение изменений в устав проголосовали 20 из 21 депутата.</segment>
+		<segment id="37" parent="38" relname="attribution">Как следует из текста решения,</segment>
+		<segment id="38" parent="39" relname="span">глава городского округа будет избираться депутатами в ходе тайного голосования из числа претендентов, которые прошли конкурсный отбор.\n\n</segment>
+		<segment id="42" parent="44" relname="joint">\"Принятые поправки приводят устав Петрозаводска в соответствие с региональным законодательством\",</segment>
+		<segment id="43" parent="44" relname="joint">- пояснили ТАСС в пресс-службе Петросовета.\n\n13 июля депутаты городского совета Петрозаводска уже голосовали за внесение поправок в устав,</segment>
+		<segment id="45" parent="46" relname="contrast">но мэр города наложила на это решение вето.</segment>
+		<segment id="47" parent="51" relname="joint">\"Мэр города должен быть подотчетен не только депутатам и не столько главе республике, сколько жителям.</segment>
+		<segment id="48" parent="50" relname="span">Та версия устава, которую предлагают депутаты, по сути, говорит о том, что жителям города мэр не подотчетен.</segment>
+		<segment id="49" parent="48" relname="interpretation-evaluation">Считают, что это неправильно\",</segment>
+		<segment id="52" parent="53" relname="attribution">- прокомментировала Ширшина свою инициативу.\n\nПредседатель городского совета Геннадий Боднарчук считает,</segment>
+		<segment id="53" parent="54" relname="span">что \"оснований для вето нет\".\n\</segment>
+		<segment id="58" parent="60" relname="sequence">nЗаконопроект, отменяющий прямые выборы мэров Петрозаводска и Костомукши, был внесен в республиканский парламент горсоветом Петрозаводска.</segment>
+		<segment id="59" parent="60" relname="sequence">18 июня его приняло сразу в трех чтениях Заксобрание Карелии.</segment>
+		<segment id="61" parent="63" relname="sequence">Позже, 30 июня, эту инициативу поддержали жители Петрозаводска на публичных слушаниях,</segment>
+		<segment id="62" parent="63" relname="sequence">а позднее и депутаты горсовета.</segment>
+		<segment id="64" parent="65" relname="sequence">15 июля два депутата карельского парламента обратились в Верховный суд республики с гражданским иском о возвращении прямых выборов глав Петрозаводска и Костомукши.</segment>
+		<segment id="66" parent="70" relname="span">Решение по делу пока не принято.\n\</segment>
+		<segment id="67" parent="69" relname="span">nНапомним, Галина Ширшина стала мэром Петрозаводска в сентябре 2013 года,</segment>
+		<segment id="68" parent="67" relname="elaboration">в качестве самовыдвиженца победив на выборах кандидата от \"Единой России\" Николая Левина.</segment>
+		<segment id="71" parent="73" relname="span">На этом посту у Ширшиной сразу же возникли трения с главой Карелии \"питерцем\" Александром Худилайненом,</segment>
+		<segment id="72" parent="71" relname="background">назначенным на этот пост в мае 2012 года с подачи президента Владимира Путина.\n\nИсточник: https://www.newsru.com/russia/05Aug2015/petrozavodsk.html\n</segment>
+		<group id="30" type="span" parent="79" relname="preparation"/>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="41" type="multinuc" parent="79" relname="joint"/>
+		<group id="35" type="span" parent="41" relname="sequence"/>
+		<group id="33" type="span" parent="35" relname="span"/>
+		<group id="40" type="multinuc" parent="41" relname="sequence"/>
+		<group id="39" type="span" parent="40" relname="sequence"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="46" type="multinuc" parent="78" relname="joint"/>
+		<group id="44" type="multinuc" parent="46" relname="contrast"/>
+		<group id="77" type="multinuc" parent="78" relname="joint"/>
+		<group id="55" type="span" parent="77" relname="joint"/>
+		<group id="51" type="multinuc" parent="55" relname="span"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="54" type="span" parent="51" relname="attribution"/>
+		<group id="76" type="multinuc" parent="77" relname="joint"/>
+		<group id="60" type="multinuc" parent="76" relname="sequence"/>
+		<group id="75" type="multinuc" parent="76" relname="sequence"/>
+		<group id="65" type="multinuc" parent="75" relname="sequence"/>
+		<group id="63" type="multinuc" parent="65" relname="sequence"/>
+		<group id="74" type="multinuc" parent="75" relname="sequence"/>
+		<group id="70" type="span" parent="74" relname="sequence"/>
+		<group id="69" type="span" parent="66" relname="elaboration"/>
+		<group id="73" type="span" parent="74" relname="sequence"/>
+		<group id="80" type="span"/>
+	</body>
+</rst>

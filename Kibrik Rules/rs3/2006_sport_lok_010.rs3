@@ -1,0 +1,41 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="16" relname="joint">\"Локомотив\" выбывает из чемпионской гонки\n\nВ 25-м туре футбольного первенства страны столичный \"Локомотив\" проиграл московскому \"Динамо\" на его поле со счетом 0:2</segment>
+		<segment id="15" parent="16" relname="joint">и распрощался с мечтой о \"золоте\" чемпионата России 2006 года.\n\nМатч команды начали активно,</segment>
+		<segment id="17" parent="16" relname="elaboration">дав понять зрителям, что никакой результат кроме победы ни одну из сторон не устроит.</segment>
+		<segment id="19" parent="23" relname="contrast">Такое настроение сторон обеспечило завидное количество опасных моментов у обеих ворот,</segment>
+		<segment id="20" parent="21" relname="cause-effect">однако в первом тайме лишь Максиму Ромащенко на 41-й минуте удалось пробить голкипера \"Локомотива\" Алексея Полякова со штрафного удара – 1:0.\n\nПосле отдыха \"Локомотив\", естественно, постарался ситуацию поправить,</segment>
+		<segment id="21" parent="22" relname="span">и неоднократно был близок к цели,</segment>
+		<segment id="24" parent="32" relname="contrast">но за \"Динамо\" вовремя на 70-й минуте забил головой Леандро Фернандес - 2:0.\n\nОстаток встречи железнодорожники провели в атаках,</segment>
+		<segment id="25" parent="27" relname="span">но им откровенно не везло,</segment>
+		<segment id="26" parent="25" relname="cause-effect">даже с 11-метровой отметки Динияр Билялетдинов не смог отправить мяч в сетку динамовских ворот.\n\</segment>
+		<segment id="28" parent="29" relname="cause-effect">nБлагодаря этому успеху клуб \"Динамо\" после 26 матчей имеет в своем багаже 24 очка,</segment>
+		<segment id="29" parent="30" relname="span">что позволяет ему надеяться на сохранение прописки в элите российского футбольного чемпионата.</segment>
+		<segment id="34" parent="36" relname="joint">А вот \"Локомотив\" теряет шансы на \"золото\"</segment>
+		<segment id="35" parent="36" relname="joint">и теперь может мечтать лишь о \"бронзе\".\n\nдругие результаты\n\n\"Ростов\" - ЦСКА\n\n1:2\n\"Шинник\" - \"Спартак\" 1:1\n\"Зенит\" - ФК \"Москва\" 1:1\n\"Томь\" - \"Спартак\" (Нл) 1:0\n\"Амкар\" - \"Крылья Советов\" 1:0\n\"Торпедо\" - \"Рубин\" 1:2\n\"Сатурн\" - \"Луч-Энергия\" 1:0\n\nИсточник: https://www.newsru.com/sport/29Oct2006/lok.html\n</segment>
+		<group id="18" type="span" parent="37" relname="preparation"/>
+		<group id="16" type="multinuc" parent="18" relname="span"/>
+		<group id="37" type="multinuc" parent="38" relname="span"/>
+		<group id="33" type="multinuc" parent="37" relname="comparison"/>
+		<group id="23" type="multinuc" parent="33" relname="contrast"/>
+		<group id="22" type="span" parent="23" relname="contrast"/>
+		<group id="32" type="multinuc" parent="33" relname="contrast"/>
+		<group id="31" type="span" parent="32" relname="contrast"/>
+		<group id="27" type="span" parent="31" relname="span"/>
+		<group id="30" type="span" parent="27" relname="cause-effect"/>
+		<group id="36" type="multinuc" parent="37" relname="comparison"/>
+		<group id="38" type="span"/>
+	</body>
+</rst>

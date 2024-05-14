@@ -1,0 +1,80 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="33" relname="attribution">Внук Ким Чен Ира через Facebook поделился своими демократическими взглядами\n\nВнук лидера КНДР 16-летний Ким Хан Сол написал в социальной сети Facebook,</segment>
+		<segment id="33" parent="34" relname="span">что он придерживается демократических взглядов,</segment>
+		<segment id="35" parent="36" relname="attribution">передает ИТАР-ТАСС.\n\nКим Хан Сол поинтересовался у своих друзей,</segment>
+		<segment id="36" parent="37" relname="span">какие взгляды они разделяют: коммунистические или демократические.</segment>
+		<segment id="39" parent="40" relname="attribution">Про себя он сказал,</segment>
+		<segment id="40" parent="41" relname="span">что является сторонником демократии.</segment>
+		<segment id="42" parent="41" relname="elaboration">В социальной сети он также опубликовал фотографии с молодой девушкой.</segment>
+		<segment id="44" parent="45" relname="attribution">На фотографиях Ким Хан Соль изображен с крашеными волосами и в очках в стильной оправе, с серьгами в ушах и подвеской в форме креста на шее.\n\nВ списке предпочтений хозяина страницы говорится,</segment>
+		<segment id="45" parent="46" relname="span">что его любимым фильмом является романтическая комедия \"Реальная любовь\" американского кинорежиссера Ричарда Кертиса.\n\</segment>
+		<segment id="47" parent="51" relname="span">nОднако недавно после того как некоторые южнокорейские СМИ обнаружили аккаунты,</segment>
+		<segment id="48" parent="49" relname="attribution">принадлежащие внуку лидера КНДР,</segment>
+		<segment id="49" parent="50" relname="span">молодой человек заблокировал к ним доступ,</segment>
+		<segment id="52" parent="53" relname="joint">сообщила местная печать.\n\nВ сентябре этого года Ким Хан Сол подал заявку на обучение в лучшем колледже Боснии и Герцеговины.</segment>
+		<segment id="55" parent="88" relname="preparation">Объединенный всемирный колледж (UWCiM) является одним из самых привилегированных учебных заведений в БиГ.</segment>
+		<segment id="56" parent="60" relname="joint">Он был открыт 22 мая 2007 года</segment>
+		<segment id="57" parent="59" relname="span">и на торжественной церемонии присутствовала королева Иордании Нур,</segment>
+		<segment id="58" parent="57" relname="purpose">которая является председателем всей сети Объединенных всемирных колледжей.</segment>
+		<segment id="61" parent="63" relname="span">В ОВК учатся студенты из более 30 стран мира,</segment>
+		<segment id="62" parent="61" relname="elaboration">в основном дети высокопоставленных чиновников и успешных бизнесменов.\n\nКим Хан Сол - сын Ким Чен Нама, старшего сына лидера КНДР.</segment>
+		<segment id="64" parent="68" relname="span">Сам Ким Чен Нам проживает в Китае.</segment>
+		<segment id="65" parent="67" relname="span">В 2001 году его задержали власти Японии</segment>
+		<segment id="66" parent="65" relname="cause-effect">за попытку проникновения в эту страну с поддельным доминиканским паспортом.</segment>
+		<segment id="69" parent="70" relname="cause-effect">После этого, предполагают наблюдатели,</segment>
+		<segment id="70" parent="71" relname="span">он утратил шансы на приход к власти</segment>
+		<segment id="72" parent="76" relname="span">.\n\nСредний сын Ким Чен Чхоль проживает в основном в Китае,</segment>
+		<segment id="73" parent="75" relname="joint">совершенно, как говорят, не интересуется политикой</segment>
+		<segment id="74" parent="75" relname="joint">и не претендует на власть.</segment>
+		<segment id="80" parent="82" relname="span">Республику возглавит, видимо, получивший высший генеральский чин младший сын Ким Чен Ун,</segment>
+		<segment id="81" parent="80" relname="background">который в свое время учился под вымышленным именем в элитном колледже в Швейцарии.</segment>
+		<segment id="83" parent="82" relname="background">У обоих в 2010 году родилось по ребенку.</segment>
+		<segment id="85" parent="86" relname="joint">Точных данных о других внуках Ким Чен Ира не имеется.\n\nИсточник: https://www.newsru.com/world/04Oct2011/vnukim.html\n</segment>
+		<group id="38" type="multinuc" parent="91" relname="preparation"/>
+		<group id="34" type="span" parent="38" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="43" type="span" parent="90" relname="preparation"/>
+		<group id="41" type="span" parent="43" relname="span"/>
+		<group id="90" type="multinuc" parent="91" relname="span"/>
+		<group id="54" type="multinuc" parent="90" relname="joint"/>
+		<group id="46" type="span" parent="54" relname="contrast"/>
+		<group id="53" type="multinuc" parent="54" relname="contrast"/>
+		<group id="51" type="span" parent="53" relname="joint"/>
+		<group id="50" type="span" parent="47" relname="elaboration"/>
+		<group id="89" type="span" parent="90" relname="joint"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="60" type="multinuc" parent="87" relname="preparation"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="span"/>
+		<group id="79" type="multinuc" parent="87" relname="joint"/>
+		<group id="63" type="span" parent="79" relname="joint"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="68" type="span" parent="78" relname="joint"/>
+		<group id="67" type="span" parent="64" relname="background"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="71" type="span" parent="77" relname="span"/>
+		<group id="76" type="span" parent="71" relname="cause-effect"/>
+		<group id="75" type="multinuc" parent="72" relname="interpretation-evaluation"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="84" type="span" parent="86" relname="joint"/>
+		<group id="82" type="span" parent="84" relname="span"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

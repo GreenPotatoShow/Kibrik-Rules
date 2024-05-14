@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="35" relname="joint">Во Флориде разбился самый дорогой истребитель в мире\n\nВ американском штате Флорида разбился истребитель пятого поколения F-22 Raptor ВВС США,</segment>
+		<segment id="34" parent="35" relname="joint">сообщила представитель авиабазы Тайндэлл сержант Рашель Элси.\n\nСамолет упал в лесополосе недалеко от шоссе Пэнхэндл,</segment>
+		<segment id="36" parent="35" relname="attribution">передает ИТАР-ТАСС.</segment>
+		<segment id="38" parent="40" relname="span">По другим данным, Raptor рухнул на автотрассу,</segment>
+		<segment id="39" parent="38" relname="attribution">сообщает РИА \"Новости\".\n\n</segment>
+		<segment id="41" parent="43" relname="span">\"Пилот смог катапультироваться,</segment>
+		<segment id="42" parent="41" relname="cause-effect">на земле в результате ЧП никто не пострадал\",</segment>
+		<segment id="44" parent="45" relname="attribution">- добавила представитель авиабазы ВВС США,</segment>
+		<segment id="45" parent="46" relname="span">где пилоты проходят подготовку к полетам на истребителях данного типа.\n\nВ мае 2012 года на полеты истребителей F-22 Raptor были наложены жесткие ограничения.</segment>
+		<segment id="48" parent="58" relname="span">В частности, пилотам было предписано находиться не далее, чем в получасе лета от авиабазы.</segment>
+		<segment id="49" parent="51" relname="span">Такие меры были приняты</segment>
+		<segment id="50" parent="49" relname="cause-effect">в связи с технической неисправностью этой модели самолетов,</segment>
+		<segment id="52" parent="54" relname="span">из-за которой у пилотов возникало удушье</segment>
+		<segment id="53" parent="52" relname="elaboration">при полете на большой высоте.\n\nОграничения были сняты министром обороны США Леоном Панеттой в июле 2012 года,</segment>
+		<segment id="55" parent="56" relname="joint">когда были выяснены точные причины возникновения гипоксии у пилотов.\n\nF-22 Raptor - многоцелевой истребитель пятого поколения.</segment>
+		<segment id="59" parent="62" relname="concession">Несмотря на то, что его сконструировали около 20 лет назад,</segment>
+		<segment id="60" parent="62" relname="span">а в ВВС он поступил в 2004 году,</segment>
+		<segment id="61" parent="60" relname="elaboration">до сего дня F-22 является единственным стоящим на вооружении истребителем пятого поколения и самым дорогим истребителем в мире.\n\</segment>
+		<segment id="64" parent="66" relname="span">nНапомним, Россия планировала стать второй после США страной, на вооружении которых стоят истребители нового поколения.</segment>
+		<segment id="65" parent="64" relname="background">Еще в 2010 году начались испытания российского истребителя пятого поколения Т-50 (ПАК ФА).</segment>
+		<segment id="67" parent="69" relname="span">Первый полет сверхсовременной российской боевой машины состоялся 29 января 2010 года на авиационном производственном объединении, входящем в холдинг \"Сухой\", в Комсомольске-на-Амуре.\n\nОднако 30 октября этого года Китай произвел первый полет новейшего истребителя пятого поколения J-31</segment>
+		<segment id="68" parent="67" relname="elaboration">(прозванного так журналистами за кодировку 31001),</segment>
+		<segment id="70" parent="74" relname="span">став де-факто второй страной после США,</segment>
+		<segment id="71" parent="73" relname="span">одновременно разрабатывающей сразу две модели самолетов этого типа.\n\nПо имеющимся данным, J-31 использует технологию \"стелс\",</segment>
+		<segment id="72" parent="71" relname="elaboration">которая делает его малозаметным для РЛС противника.</segment>
+		<segment id="76" parent="77" relname="attribution">Судя по фотографиям, отмечают в блогах эксперты,</segment>
+		<segment id="77" parent="78" relname="span">новый самолет относится к истребителям среднего типа.</segment>
+		<segment id="79" parent="78" relname="elaboration">Размах его крыльев составляет порядка 10 метров.</segment>
+		<segment id="83" parent="87" relname="span">Он одноместный, снабжен двумя двигателями.</segment>
+		<segment id="84" parent="85" relname="attribution">Причем, по сведениям Chinese Military Review,</segment>
+		<segment id="85" parent="86" relname="span">на J-31 установлены турбореактивные двигатели РД-93 разработки ОАО \"Климов\".\n\nИсточник: https://www.newsru.com/world/16Nov2012/fraptor.html\n</segment>
+		<group id="37" type="span" parent="94" relname="preparation"/>
+		<group id="35" type="multinuc" parent="37" relname="span"/>
+		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="40" type="span" parent="93" relname="preparation"/>
+		<group id="93" type="multinuc" parent="94" relname="span"/>
+		<group id="47" type="span" parent="93" relname="joint"/>
+		<group id="43" type="span" parent="46" relname="solutionhood"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="58" type="span" parent="92" relname="joint"/>
+		<group id="57" type="span" parent="48" relname="elaboration"/>
+		<group id="51" type="span" parent="57" relname="span"/>
+		<group id="56" type="multinuc" parent="51" relname="cause-effect"/>
+		<group id="54" type="span" parent="56" relname="joint"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="63" type="span" parent="91" relname="joint"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="66" type="span" parent="89" relname="preparation"/>
+		<group id="89" type="multinuc" parent="90" relname="span"/>
+		<group id="75" type="multinuc" parent="89" relname="joint"/>
+		<group id="69" type="span" parent="75" relname="joint"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="73" type="span" parent="70" relname="elaboration"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="80" type="span" parent="88" relname="joint"/>
+		<group id="78" type="span" parent="80" relname="span"/>
+		<group id="87" type="span" parent="88" relname="joint"/>
+		<group id="86" type="span" parent="83" relname="elaboration"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

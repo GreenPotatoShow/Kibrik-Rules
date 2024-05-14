@@ -1,0 +1,59 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="26" relname="joint">Минюст заинтересован в сокращении количества заключенных\n\nМинистерство юстиции выразило сегодня заинтересованность в сокращении численности заключенных в России.</segment>
+		<segment id="25" parent="26" relname="joint">Заинтересованность эту довел до сведения общественности замминистра юстиции Юрий Калинин.</segment>
+		<segment id="27" parent="29" relname="span">\"Сегодня избыточное количество людей содержится у нас как в следственных изоляторах, так и в местах лишения свободы\",</segment>
+		<segment id="28" parent="27" relname="attribution">- объявил Калинин журналистам.</segment>
+		<segment id="31" parent="67" relname="span">В 987 тысячах отделений пенитенциарной системы содержится почти 950 тысяч заключенных.</segment>
+		<segment id="32" parent="34" relname="span">При этом за год около 5 млн. человек проходят через эту систему.</segment>
+		<segment id="33" parent="32" relname="elaboration">Чрезмерная перегруженность учреждений Главного управления исполнения наказаний (ГУИН) требует немедленных действий.</segment>
+		<segment id="35" parent="41" relname="restatement">В качестве таковых министр указывает реформу законодательства или проведение еще одной амнистии.</segment>
+		<segment id="36" parent="40" relname="span">Об усилении работы по предупреждению преступлений в речи замминистра не упоминалось.\n\nКоррекция законодательства, в которой заинтересован Минюст,</segment>
+		<segment id="39" parent="36" relname="elaboration">это документ, содержащий около 59 поправок к действующим законам.</segment>
+		<segment id="42" parent="48" relname="joint">В том числе предусмотрено \"некоторое ограничение применения такой меры пресечения, как взятие под стражу,</segment>
+		<segment id="43" parent="47" relname="span">а также ограничение сроков рассмотрения уголовных дел в судах\".\n\</segment>
+		<segment id="44" parent="46" relname="joint">nЗаконопроект уже одобрен президентом,</segment>
+		<segment id="45" parent="46" relname="joint">а Госдума единогласно приняла его в первом чтении.</segment>
+		<segment id="49" parent="50" relname="attribution">Юрий Калинин добавляет,</segment>
+		<segment id="50" parent="51" relname="span">что в случае вступления закона в силу амнистия может и не понадобиться.</segment>
+		<segment id="52" parent="53" relname="joint">Ожидается, что население тюрем после внедрения нового законодательства уменьшится почти на четверть.\n\nРоссия удерживает первое место в мире по количественному отношению населения страны к населению тюрем.</segment>
+		<segment id="54" parent="62" relname="joint">В мире 8 миллионов заключенных.</segment>
+		<segment id="55" parent="57" relname="comparison">1 миллион приходится на Россию,</segment>
+		<segment id="56" parent="57" relname="comparison">это 735 заключенных на 100 тысяч граждан.</segment>
+		<segment id="58" parent="60" relname="span">Впрочем, США имеют все шансы догнать нас в случае принятия законопроекта.</segment>
+		<segment id="59" parent="58" relname="elaboration">У них на 100 тысяч населения приходится 710 арестантов.\n\nИсточник: https://www.newsru.com/russia/10Oct2000/minyust.html\n</segment>
+		<group id="30" type="span" parent="67" relname="preparation"/>
+		<group id="26" type="multinuc" parent="30" relname="span"/>
+		<group id="29" type="span" parent="26" relname="elaboration"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="66" type="span" parent="31" relname="elaboration"/>
+		<group id="34" type="span" parent="66" relname="span"/>
+		<group id="65" type="multinuc" parent="34" relname="elaboration"/>
+		<group id="41" type="multinuc" parent="65" relname="restatement"/>
+		<group id="40" type="span" parent="41" relname="restatement"/>
+		<group id="64" type="multinuc" parent="65" relname="restatement"/>
+		<group id="48" type="multinuc" parent="64" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="46" type="multinuc" parent="43" relname="elaboration"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="53" type="multinuc" parent="63" relname="comparison"/>
+		<group id="51" type="span" parent="53" relname="joint"/>
+		<group id="62" type="multinuc" parent="63" relname="comparison"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="57" type="multinuc" parent="61" relname="comparison"/>
+		<group id="60" type="span" parent="61" relname="comparison"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,64 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="67" relname="preparation">Лидер \"Дакара\" Сергей Карякин посетовал на лютый холод в аравийской пустыне\n\</segment>
+		<segment id="25" parent="28" relname="attribution">nРоссийский гонщик Сергей Карякин из команды Snag Racing пожаловался</segment>
+		<segment id="26" parent="28" relname="span">на очень холодную погоду,</segment>
+		<segment id="27" parent="26" relname="elaboration">которая создавала дискомфорт участникам ралли-марафона \"Дакар\" на пятом этапе гонки в Саудовской Аравии.\n\nЭтап общей протяженностью 564 км со спецучастком 353 км состоялся в четверг.</segment>
+		<segment id="30" parent="34" relname="joint">Лучшее время в категории багги показал француз француз Сириль Депре из команды Off Road Team USA,</segment>
+		<segment id="31" parent="33" relname="joint">вторым стал поляк Арон Домжала из Domzala,</segment>
+		<segment id="32" parent="33" relname="joint">третьим - представитель Зимбабве Конрад Раутенбах на PH-Sport.\n\nКарякин занял на этапе пятое место,</segment>
+		<segment id="35" parent="37" relname="span">но по суммарному времени вышел на первую позицию в генеральной классификации.\n\n\"Своим местом на этапе доволен,</segment>
+		<segment id="36" parent="35" relname="concession">хотя не устаю говорить</segment>
+		<segment id="38" parent="37" relname="cause-effect">- результат сейчас не важен.</segment>
+		<segment id="41" parent="45" relname="joint">На результаты нужно смотреть за два дня до финиша гонки</segment>
+		<segment id="42" parent="44" relname="span">и принимать какое-то тактическое решение,</segment>
+		<segment id="43" parent="42" relname="condition">пока мы едем так, как едем.</segment>
+		<segment id="46" parent="50" relname="joint">Сегодня было безумно холодно,</segment>
+		<segment id="47" parent="49" relname="joint">просто ужасно холодно,</segment>
+		<segment id="48" parent="49" relname="joint">дискомфортно,</segment>
+		<segment id="51" parent="55" relname="span">но что поделать, это \"Дакар\".</segment>
+		<segment id="52" parent="54" relname="contrast">Неожиданно, конечно, видеть здесь такой холод,</segment>
+		<segment id="53" parent="54" relname="contrast">но сегодня мы справились\",</segment>
+		<segment id="60" parent="65" relname="attribution">- сообщил Карякин ТАСС</segment>
+		<segment id="61" parent="63" relname="span">.\n\nНа прошлой гонке Карякин и его штурман Антон Власюк сошли с дистанции на седьмом этапе ралли</segment>
+		<segment id="62" parent="61" relname="background">из-за поломки мотовездехода.\n\nРалли-марафон \"Дакар\" проводится ежегодно с 1978 года.</segment>
+		<segment id="64" parent="63" relname="background">В этом году он впервые проходит по территории Саудовской Аравии.\n\nИсточник: https://www.newsru.com/sport/10Jan2020/cool.html\n</segment>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="59" type="span" parent="67" relname="span"/>
+		<group id="29" type="span" parent="58" relname="preparation"/>
+		<group id="28" type="span" parent="29" relname="span"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="40" type="multinuc" parent="57" relname="solutionhood"/>
+		<group id="34" type="multinuc" parent="40" relname="contrast"/>
+		<group id="33" type="multinuc" parent="34" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="contrast"/>
+		<group id="37" type="span" parent="39" relname="span"/>
+		<group id="57" type="span" parent="58" relname="span"/>
+		<group id="45" type="multinuc" parent="57" relname="span"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="56" type="multinuc" parent="45" relname="elaboration"/>
+		<group id="50" type="multinuc" parent="56" relname="contrast"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="contrast"/>
+		<group id="54" type="multinuc" parent="51" relname="elaboration"/>
+		<group id="66" type="span" parent="59" relname="background"/>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="63" type="span" parent="65" relname="span"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

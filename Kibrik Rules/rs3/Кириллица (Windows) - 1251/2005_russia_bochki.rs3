@@ -1,0 +1,37 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="13" parent="16" relname="preparation">20 столитровых бочек с ядовитым веществом найдены в Самарской области\n\nОколо 1,5 т ядовитого вещества найдено в Волжском районе Самарской области.</segment>
+		<segment id="14" parent="16" relname="joint">В среду вечером о находке 20 столитровых бочек, сделанной в Черноречье (пригород Самары),</segment>
+		<segment id="15" parent="16" relname="joint">сообщили местные жители.\n\n\"Бочки со знаками треугольника, обозначающего яд, были обнаружены плотно закрытыми в лесополосе района\",</segment>
+		<segment id="18" parent="17" relname="attribution">- сообщил \"Интерфаксу\" представитель областного ГО и ЧС.\n\n</segment>
+		<segment id="20" parent="22" relname="span">\"Пока никакой угрозы окружающей среде или населению нет.</segment>
+		<segment id="21" parent="20" relname="elaboration">Бочки остаются на месте.</segment>
+		<segment id="23" parent="25" relname="span">Территория ограждена.</segment>
+		<segment id="24" parent="23" relname="elaboration">На месте работают наши специалисты\",</segment>
+		<segment id="27" parent="26" relname="attribution">- сказал он.\n\</segment>
+		<segment id="29" parent="33" relname="sequence">nВ настоящее время устанавливается хозяин бочек,</segment>
+		<segment id="30" parent="32" relname="joint">выясняется, как они попали в лес</segment>
+		<segment id="31" parent="32" relname="joint">и представляют ли опасность.\n\nИсточник: https://www.newsru.com/russia/14Oct2005/bochki.html\n</segment>
+		<group id="19" type="span" parent="35" relname="joint"/>
+		<group id="17" type="span" parent="19" relname="span"/>
+		<group id="16" type="multinuc" parent="17" relname="span"/>
+		<group id="34" type="multinuc" parent="35" relname="joint"/>
+		<group id="28" type="span" parent="34" relname="joint"/>
+		<group id="26" type="span" parent="28" relname="span"/>
+		<group id="22" type="span" parent="26" relname="span"/>
+		<group id="25" type="span" parent="22" relname="elaboration"/>
+		<group id="33" type="multinuc" parent="34" relname="joint"/>
+		<group id="32" type="multinuc" parent="33" relname="sequence"/>
+		<group id="35" type="multinuc"/>
+	</body>
+</rst>

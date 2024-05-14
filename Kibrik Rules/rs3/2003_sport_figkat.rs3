@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="94" relname="preparation">Принести золото для России в США сможет только Елена Соколова\n\</segment>
+		<segment id="34" parent="41" relname="preparation">nВ ночь на воскресенье сборная России получит шанс завоевать вторую золотую медаль на чемпионате мира по фигурному катанию.</segment>
+		<segment id="35" parent="39" relname="span">Последний комплект наград чемпионата разыграют женщины-одиночницы.\n\nОтличный шанс принести медаль для России получила Елена Соколова,</segment>
+		<segment id="36" parent="38" relname="joint">которая уверенно исполнила короткую программу</segment>
+		<segment id="37" parent="38" relname="joint">и осталась на втором месте,</segment>
+		<segment id="40" parent="39" relname="elaboration">пропустив вперед лишь хозяйку льда Мишель Кван, считающуюся фавориткой турнира.</segment>
+		<segment id="43" parent="47" relname="same-unit">Более того, Соколова бросила американке вызов,</segment>
+		<segment id="44" parent="46" relname="span">показав более сложную программу,</segment>
+		<segment id="45" parent="44" relname="condition">включавшую комбинацию из двух прыжков в три оборота.</segment>
+		<segment id="48" parent="50" relname="span">Судя по всему, это не осталось незамеченным арбитрами,</segment>
+		<segment id="49" parent="48" relname="cause-effect">поскольку трое из них отдали предпочтение российской спортсменке.</segment>
+		<segment id="52" parent="54" relname="joint">В ходе выступления Елена получила небольшую травму,</segment>
+		<segment id="53" parent="54" relname="joint">порезав лезвием конька ладонь между большим и указательным пальцами.</segment>
+		<segment id="55" parent="58" relname="attribution">По словам фигуристки,</segment>
+		<segment id="56" parent="58" relname="contrast">вероятно, это произошло во время вращения,</segment>
+		<segment id="57" parent="58" relname="contrast">но, к счастью, не повлияло на ее катание,</segment>
+		<segment id="60" parent="64" relname="joint">сообщает ИТАР-ТАСС.\n\nЗрители в вашингтонском дворце спорта MCI Center,</segment>
+		<segment id="63" parent="64" relname="joint">вмещающем 18 тысяч человек, всеми силами поддерживали хозяек льда.</segment>
+		<segment id="66" parent="70" relname="sequence">Выступление Кван было встречено ревом трибун,</segment>
+		<segment id="67" parent="69" relname="sequence">а многие болельщики держали в руках плакаты,</segment>
+		<segment id="68" parent="69" relname="sequence">уже заранее объявлявшие ее золотой медалисткой.</segment>
+		<segment id="71" parent="72" relname="attribution">Даже сама американская спортсменка в шутку предположила,</segment>
+		<segment id="72" parent="73" relname="span">что именно публика уговорила одного из судей поставить ей оценку 6,0.\n\nНа третьей строчке турнирной таблицы оказалась японка Фуми Сугури.</segment>
+		<segment id="74" parent="76" relname="span">За медали с ней будут бороться россиянка Виктория Волчкова и американка Саша Коэн,</segment>
+		<segment id="75" parent="74" relname="elaboration">которые пока делят четвертое и пятое места.</segment>
+		<segment id="77" parent="76" relname="background">Еще одна российская фигуристка Людмила Нелидина - на 14 месте.</segment>
+		<segment id="80" parent="82" relname="span">А вот победительница Олимпиады в Солт-Лейк-Сити американка Сара Хьюз,</segment>
+		<segment id="81" parent="80" relname="background">которую наряду с Кван и Коэн называли главной претенденткой на медали,</segment>
+		<segment id="83" parent="84" relname="same-unit">после серии ошибок в квалификационном раунде соревнований и короткой программе скатилась на 9 место.</segment>
+		<segment id="85" parent="86" relname="attribution">Перед началом чемпионата его хозяева не скрывали,</segment>
+		<segment id="86" parent="87" relname="span">что рассчитывают увидеть на всех ступенях пьедестала почета только своих спортсменок.\n\nИсточник: https://www.newsru.com/sport/29Mar2003/figkat.html\n</segment>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="42" type="span" parent="94" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="39" type="span" parent="41" relname="span"/>
+		<group id="38" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="51" type="span" parent="93" relname="joint"/>
+		<group id="47" type="multinuc" parent="51" relname="span"/>
+		<group id="46" type="span" parent="47" relname="same-unit"/>
+		<group id="50" type="span" parent="47" relname="interpretation-evaluation"/>
+		<group id="92" type="span" parent="93" relname="joint"/>
+		<group id="54" type="multinuc" parent="91" relname="preparation"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="65" type="span" parent="90" relname="preparation"/>
+		<group id="59" type="span" parent="64" relname="preparation"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="90" type="span" parent="91" relname="span"/>
+		<group id="70" type="multinuc" parent="89" relname="preparation"/>
+		<group id="69" type="multinuc" parent="70" relname="sequence"/>
+		<group id="89" type="multinuc" parent="90" relname="span"/>
+		<group id="79" type="multinuc" parent="89" relname="comparison"/>
+		<group id="73" type="span" parent="79" relname="joint"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="76" type="span" parent="78" relname="span"/>
+		<group id="88" type="span" parent="89" relname="comparison"/>
+		<group id="84" type="multinuc" parent="88" relname="span"/>
+		<group id="82" type="span" parent="84" relname="same-unit"/>
+		<group id="87" type="span" parent="84" relname="elaboration"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,87 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="35" parent="37" relname="span">18-летнего \"лихача\" спас от наказания за превышение скорости GPS-навигатор\n\nСудебное разбирательство по делу калифорнийского подростка Шона Мелоуна, обвиняемого в нарушении скоростного режима</segment>
+		<segment id="36" parent="35" relname="condition">при езде на автомобиле,</segment>
+		<segment id="38" parent="39" relname="span">закончилось для молодого человека удачно.</segment>
+		<segment id="40" parent="50" relname="joint">18-летний юноша был признан невиновным,</segment>
+		<segment id="41" parent="43" relname="span">а помогла ему в этом система GPS-навигации,</segment>
+		<segment id="42" parent="41" relname="background">установленная в его машине,</segment>
+		<segment id="44" parent="43" relname="elaboration">передает Новый регион.\n\nДорожные полицейские зафиксировали на своих радарах,</segment>
+		<segment id="46" parent="48" relname="joint">что автомобиль Мелоуна двигался со скоростью 99,2 км/ч на участке,</segment>
+		<segment id="47" parent="48" relname="joint">где скоростное ограничение ?</segment>
+		<segment id="52" parent="53" relname="attribution">72 км/ч. Но данные GPS-навигатора показали,</segment>
+		<segment id="53" parent="54" relname="span">что водитель ехал с предельной - но допустимой ? скоростью 72 км/ч.\n\</segment>
+		<segment id="55" parent="58" relname="attribution">nКак выяснилось,</segment>
+		<segment id="56" parent="58" relname="span">об установке в автомобиле GPS позаботились родители Мелоуна,</segment>
+		<segment id="57" parent="56" relname="purpose">чтобы они могли отслеживать перемещения сына и быть уверенными, что он не слишком \"лихачит\".</segment>
+		<segment id="61" parent="67" relname="span">Сам же юноша до судебного разбирательства по делу о его нарушении не знал о существовании в его машине навигатора.\n\nСудебный эксперт составил рапорт,</segment>
+		<segment id="62" parent="66" relname="span">согласно которому данные, \"снятые\" GPS-навигатором, не являются достаточно точными,</segment>
+		<segment id="63" parent="65" relname="joint">чтобы оспорить показания полицейского радара,</segment>
+		<segment id="64" parent="65" relname="joint">и предоставил его судье.</segment>
+		<segment id="68" parent="67" relname="elaboration">Малоун в ожидании вердикта провел в суде целый день.</segment>
+		<segment id="70" parent="76" relname="joint">Но, к его счастью, эксперт пересмотрел свою точку зрения</segment>
+		<segment id="71" parent="74" relname="attribution">и отметил,</segment>
+		<segment id="72" parent="74" relname="contrast">что GPS показывал не усредненную скорость,</segment>
+		<segment id="73" parent="74" relname="contrast">но скорость, с которой двигался автомобиль в данный конкретный отрезок времени.</segment>
+		<segment id="77" parent="85" relname="joint">Таким образом, Мелоун был оправдан.\n\n\"Я всегда верил в честность правоохранительных органов.</segment>
+		<segment id="78" parent="80" relname="span">И хочу,</segment>
+		<segment id="79" parent="78" relname="purpose">чтобы справедливость восторжествовала,</segment>
+		<segment id="81" parent="83" relname="joint">а Шон увидел ? система GPS действительно работает</segment>
+		<segment id="82" parent="83" relname="joint">и помогает.</segment>
+		<segment id="86" parent="96" relname="span">Радар ? штука, конечно, хорошая, но не объективная.</segment>
+		<segment id="87" parent="89" relname="joint">То ли дело спутник ? в его работе полицейские участия не принимают,</segment>
+		<segment id="88" parent="89" relname="joint">и сомнений его данные вызвать не могут\",</segment>
+		<segment id="90" parent="89" relname="attribution">- прокомментировал ситуацию отчим Мелоуна,</segment>
+		<segment id="92" parent="94" relname="span">бывший полицейский Роджер Руд,</segment>
+		<segment id="93" parent="92" relname="purpose">помогавший юноше на суде.\n\nИсточник: https://www.newsru.com/auto/21Jul2008/gps.html\n</segment>
+		<group id="51" type="multinuc" parent="101" relname="joint"/>
+		<group id="39" type="span" parent="51" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="cause-effect"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="45" type="span" parent="49" relname="span"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="48" type="multinuc" parent="45" relname="elaboration"/>
+		<group id="100" type="multinuc" parent="101" relname="joint"/>
+		<group id="60" type="multinuc" parent="100" relname="joint"/>
+		<group id="54" type="span" parent="60" relname="joint"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="99" type="multinuc" parent="100" relname="joint"/>
+		<group id="69" type="span" parent="99" relname="contrast"/>
+		<group id="67" type="span" parent="69" relname="span"/>
+		<group id="66" type="span" parent="61" relname="elaboration"/>
+		<group id="65" type="multinuc" parent="62" relname="purpose"/>
+		<group id="98" type="span" parent="99" relname="contrast"/>
+		<group id="76" type="multinuc" parent="98" relname="span"/>
+		<group id="75" type="span" parent="76" relname="joint"/>
+		<group id="74" type="multinuc" parent="75" relname="span"/>
+		<group id="97" type="span" parent="76" relname="evidence"/>
+		<group id="85" type="multinuc" parent="97" relname="span"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="80" type="span" parent="84" relname="joint"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="96" type="span" parent="85" relname="elaboration"/>
+		<group id="95" type="span" parent="86" relname="elaboration"/>
+		<group id="91" type="span" parent="94" relname="solutionhood"/>
+		<group id="89" type="multinuc" parent="91" relname="span"/>
+		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="101" type="multinuc"/>
+	</body>
+</rst>

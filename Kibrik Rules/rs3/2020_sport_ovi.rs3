@@ -1,0 +1,48 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="20" relname="span">Овечкин вышел на восьмое место в списке снайперов НХЛ всех времен,</segment>
+		<segment id="19" parent="18" relname="elaboration">потеснив Мессье\n\nРоссийский нападающий \"Вашингтона\" Александр Овечкин в гостевом матче регулярного чемпионата НХЛ забросил две шайбы в ворота \"Оттавы\", которые помогли его клубу победить со счетом 5:3.\n\nВ активе россиянина теперь 695 голов</segment>
+		<segment id="21" parent="22" relname="joint">и он сейчас занимает восьмое место в списке лучших снайперов в истории лиги.</segment>
+		<segment id="23" parent="48" relname="preparation">Благодаря сегодняшнему дублю Александр обогнал легендарного канадца Марка Мессье (694).\n\n</segment>
+		<segment id="24" parent="25" relname="cause-effect">\"У меня было большое количество моментов,</segment>
+		<segment id="25" parent="26" relname="span">я мог забить и больше.</segment>
+		<segment id="27" parent="29" relname="joint">Наше звено действовало удачно,</segment>
+		<segment id="28" parent="29" relname="joint">мы создавали хорошие возможности в атаке.</segment>
+		<segment id="31" parent="35" relname="joint">Все парни пытались найти меня передачей.</segment>
+		<segment id="32" parent="34" relname="sequence">Я забил дважды</segment>
+		<segment id="33" parent="34" relname="sequence">и теперь буду двигаться вперед.</segment>
+		<segment id="36" parent="37" relname="solutionhood">Я вышел на восьмое место в списке лучших снайперов?</segment>
+		<segment id="37" parent="38" relname="span">Что ж, восьмерка - хорошая цифра\", - приводит официальный сайт \"Вашингтона\" слова россиянина, выступающего под восьмым номером.\n\nНаибольшее количество заброшенных шайб на счету канадца Уэйна Гретцки (894 шайбы в 1487 матчах).</segment>
+		<segment id="39" parent="43" relname="span">Всего в активе 34-летнего россиянина 1265 (695+570) очков в 1135 матчах.\n\nВ первой семерке нет хоккеистов,</segment>
+		<segment id="40" parent="42" relname="span">которые в настоящее время выступают в НХЛ,</segment>
+		<segment id="41" parent="40" relname="elaboration">после Гретцки идут Горди Хоу (801), Яромир Ягр (766), Бретт Халл (741), Марсель Дионн (731), Фил Эспозито (717) и Майк Гартнер (708).\n\nВ активе Овечкина сейчас 54 (37 шайб + 17 передач) очка в регулярном чемпионате,</segment>
+		<segment id="44" parent="43" relname="elaboration">он сравнялся с лидером сезона Давидом Пастрняком из \"Бостона\" по количеству точных бросков.\n\nИсточник: https://www.newsru.com/sport/01Feb2020/ovi.html\n</segment>
+		<group id="22" type="multinuc" parent="49" relname="preparation"/>
+		<group id="20" type="span" parent="22" relname="joint"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="30" type="span" parent="48" relname="span"/>
+		<group id="26" type="span" parent="30" relname="span"/>
+		<group id="29" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="47" type="span" parent="30" relname="elaboration"/>
+		<group id="35" type="multinuc" parent="46" relname="preparation"/>
+		<group id="34" type="multinuc" parent="35" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="38" type="span" parent="46" relname="span"/>
+		<group id="45" type="span" parent="38" relname="elaboration"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="42" type="span" parent="39" relname="elaboration"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

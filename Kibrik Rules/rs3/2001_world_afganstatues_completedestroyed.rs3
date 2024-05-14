@@ -1,0 +1,61 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="26" relname="span">Две статуи Будды в Афганистане полностью разрушены\n\nТалибы,</segment>
+		<segment id="25" parent="24" relname="background">по последним сообщениям из Афганистана,</segment>
+		<segment id="27" parent="30" relname="attribution">в среду объявили,</segment>
+		<segment id="28" parent="30" relname="joint">что две статуи Будды в провинции Бамиан полностью разрушены</segment>
+		<segment id="29" parent="30" relname="joint">и \"теперь от них не осталось и следа\".\n\n\"Разрушение статуй закончено вечером во вторник\",</segment>
+		<segment id="33" parent="38" relname="attribution">- заявил, по сообщениям одного из афганских агентств,</segment>
+		<segment id="34" parent="38" relname="span">министр информации движения \"Талибан\" Кудратулла Джамаль.\n\nТалибы, таким образом, впервые подтвердили сообщения о безвозвратной гибели статуй,</segment>
+		<segment id="35" parent="36" relname="attribution">передает Reuters.\n\nГенеральный секретарь UNESCO Коэтиро Мацуура между тем уже назвал</segment>
+		<segment id="36" parent="37" relname="span">последние новости из Афганистана \"очень печальными\"</segment>
+		<segment id="40" parent="45" relname="attribution">и заявил,</segment>
+		<segment id="41" parent="45" relname="same-unit">что \"мировое сообщество, и в том числе UNESCO, агентство ООН по делам культуры,</segment>
+		<segment id="42" parent="44" relname="contrast">сделали все возможное,</segment>
+		<segment id="43" parent="44" relname="contrast">но оказались бессильны\".</segment>
+		<segment id="49" parent="53" relname="span">\"В будущем непременно надо подумать о том, как ввести законы, по которым преступления против культуры были бы сурово наказаны\",</segment>
+		<segment id="50" parent="51" relname="attribution">- сказал Мацуура.\n\nГенеральный секретарь ООН Кофи Аннан ранее сказал,</segment>
+		<segment id="51" parent="52" relname="span">что наказывать талибов международное сообщество не будет.</segment>
+		<segment id="54" parent="61" relname="attribution">По словам Аннана,</segment>
+		<segment id="55" parent="58" relname="purpose">\"чтобы предотвратить подобные преступления,</segment>
+		<segment id="56" parent="58" relname="span">надо обучать людей уважению к тем вещами, который святы для других\".\n\nДве статуи Будды, разрушенные талибами,</segment>
+		<segment id="57" parent="56" relname="background">были высечены в скале в провинции Бамиан в центре Афганистана около полутора тысяч лет назад;</segment>
+		<segment id="60" parent="61" relname="joint">высота одной статуи 53 метра, второй - 38 метров.</segment>
+		<segment id="63" parent="65" relname="joint">Кроме них, талибы за последний месяц разрушили еще несколько статуй Будды</segment>
+		<segment id="64" parent="65" relname="joint">и полностью уничтожили буддийскую коллекцию Национального музея в Кабуле.\n\nИсточник: https://www.newsru.com/world/14Mar2001/afganstatues_completedestroyed.html\n</segment>
+		<group id="48" type="multinuc" parent="68" relname="joint"/>
+		<group id="32" type="multinuc" parent="48" relname="joint"/>
+		<group id="26" type="span" parent="32" relname="joint"/>
+		<group id="31" type="span" parent="32" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="span"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="39" type="span" parent="47" relname="joint"/>
+		<group id="38" type="span" parent="39" relname="span"/>
+		<group id="37" type="span" parent="34" relname="attribution"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="span"/>
+		<group id="44" type="multinuc" parent="45" relname="same-unit"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="53" type="span" parent="67" relname="joint"/>
+		<group id="52" type="span" parent="49" relname="attribution"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="62" type="span" parent="66" relname="joint"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="59" type="span" parent="61" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="65" type="multinuc" parent="66" relname="joint"/>
+		<group id="68" type="multinuc"/>
+	</body>
+</rst>

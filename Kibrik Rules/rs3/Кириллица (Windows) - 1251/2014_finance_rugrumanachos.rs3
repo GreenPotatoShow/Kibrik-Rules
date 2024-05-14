@@ -1,0 +1,37 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="13" parent="15" relname="span">Мексиканская компания построит в Подмосковье завод по производству чипсов\n\nКомпания ООО \"Солнце Мехико\",</segment>
+		<segment id="14" parent="13" relname="elaboration">входящая в состав корпорации GRUMA International Food со штаб-квартирой в Мексике, крупнейшего мирового производителя кукурузной муки, лепешек и чипсов \"начос\",</segment>
+		<segment id="16" parent="15" relname="purpose">планирует разместить предприятие в индустриальном парке \"Шматово\" в Ступинском районе,</segment>
+		<segment id="18" parent="17" relname="attribution">передает \"Интерфакс\".\n\</segment>
+		<segment id="20" parent="34" relname="joint">nВопрос о строительстве завода обсуждался в понедельник на встрече губернатора области Андрея Воробьева и посла Мексики в РФ Рубена Бельтрана.\n\</segment>
+		<segment id="21" parent="22" relname="attribution">nКак сообщил агентству зампред регионального правительства Денис Буцаев,</segment>
+		<segment id="22" parent="23" relname="span">предприятие разместится на земельном участке площадью 68 тыс. кв. метров.</segment>
+		<segment id="24" parent="26" relname="span">Площадь производственного помещения составит 13 тыс. кв. метров,</segment>
+		<segment id="25" parent="24" relname="elaboration">в котором будут размещаться четыре линии по изготовлению лепешек тортильи и две линии - чипсов.</segment>
+		<segment id="27" parent="28" relname="joint">Общая мощность завода - 15 тыс. тонн продукции в год.\n\nНа создание фабрики планируется привлечь 50 млн долл.</segment>
+		<segment id="29" parent="31" relname="joint">США инвестиций.\n\nСтроительство завода \"Солнце Мехико\" в Подмосковье займет до 11 месяцев.</segment>
+		<segment id="30" parent="31" relname="joint">GRUMA планирует стать одним из резидентов индустриального парка \"Шматово\", который входит в промышленный округ \"Ступино Квадрат\n\nИсточник: https://www.newsru.com/finance/15Dec2014/rugrumanachos.html\n</segment>
+		<group id="19" type="span" parent="35" relname="joint"/>
+		<group id="17" type="span" parent="19" relname="span"/>
+		<group id="15" type="span" parent="17" relname="span"/>
+		<group id="34" type="multinuc" parent="35" relname="joint"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="23" type="span" parent="33" relname="span"/>
+		<group id="32" type="multinuc" parent="23" relname="elaboration"/>
+		<group id="28" type="multinuc" parent="32" relname="joint"/>
+		<group id="26" type="span" parent="28" relname="joint"/>
+		<group id="31" type="multinuc" parent="32" relname="joint"/>
+		<group id="35" type="multinuc"/>
+	</body>
+</rst>

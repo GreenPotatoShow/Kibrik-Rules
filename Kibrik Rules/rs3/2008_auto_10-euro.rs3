@@ -1,0 +1,63 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="67" relname="preparation">10 самых популярных автомобилей в Европе за первую половину 2008 года\n\nМаркетинговая компания JATO Dynamics опубликовала традиционный рейтинг наиболее популярных автомобилей в странах Европы.</segment>
+		<segment id="25" parent="26" relname="condition">Газета \"РБК daily\" представляет список самых продаваемых моделей по итогам шести месяцев 2008 года.\n\nСравнивая нынешние показатели объемов продаж машин с прошлогодними,</segment>
+		<segment id="26" parent="27" relname="span">можно увидеть, что европейские автопродажи падают.</segment>
+		<segment id="28" parent="29" relname="attribution">Так, по данным JATO Dynamics,</segment>
+		<segment id="29" parent="30" relname="span">за первую половину текущего года в Европе было продано на 2,3% меньше автомобилей, чем за тот же период 2007 года.</segment>
+		<segment id="32" parent="38" relname="same-unit">В опубликованном топ-10 только модели,</segment>
+		<segment id="33" parent="37" relname="span">занявшие два первых места</segment>
+		<segment id="34" parent="36" relname="span">- Volkswagen Golf и Peugeot 207</segment>
+		<segment id="35" parent="34" relname="elaboration">- продемонстрировали рост продаж,</segment>
+		<segment id="39" parent="40" relname="comparison">в то время как спрос на остальные модели из десятки лучших упал.\n\</segment>
+		<segment id="41" parent="45" relname="same-unit">nИтак,</segment>
+		<segment id="42" parent="44" relname="span">лидером списка стал Volkswagen Golf,</segment>
+		<segment id="43" parent="42" relname="background">чья динамика продаж по сравнению с прошлым годом составила 17,6%.</segment>
+		<segment id="46" parent="45" relname="elaboration">Всего с января по май в Европе было продано 254 061 таких машин.</segment>
+		<segment id="50" parent="52" relname="span">Второе место достается Peugeot 207 с ростом 2,2%</segment>
+		<segment id="51" parent="50" relname="background">- до 244 022 проданных авто.</segment>
+		<segment id="53" parent="61" relname="span">Тройку лидеров замыкает Ford Focus с показателем 212 127 автомобилей,</segment>
+		<segment id="54" parent="60" relname="joint">при том что в первой половине 2007 года он составляет 229 737 машин ? спрос уменьшился на 7,7%.\n\nДесятка самых продаваемых на европейском рынке моделей за шесть месяцев текущего года выглядит слеследующим образом:\n\nVolkswagen Golf - 254 061 шт.\n\nPeugeot 207 - 244 022 шт.\n\nFord Focus - 212 127 шт.\n\nOpel/Vauxhall Corsa - 210 87 шт.\n\nRenault Clio - 200 453 шт.\n\nOpel/Vauxhall Astra - 194 081 шт.\n\nFord Fiesta - 180 464 шт.\n\nFiat Punto - 174 360 шт.\n\nVolkswagen Polo - 151 358 шт.\n\nBMW 3 серии - 141 097 шт</segment>
+		<segment id="55" parent="59" relname="joint">.\n\n\"Volkswagen Golf очень давно представлен на европейском рынке</segment>
+		<segment id="56" parent="58" relname="span">и имеет основательную целевую аудиторию,</segment>
+		<segment id="57" parent="56" relname="elaboration">которая зачастую просто со временем меняет старый Golf на новый.</segment>
+		<segment id="62" parent="63" relname="joint">Кроме того, компактный и экономичный однообъемник имеет широкий перечень различных модификаций и комплектаций\",</segment>
+		<segment id="65" parent="64" relname="attribution">- объясняет популярность модели директор по исследованиям консалтингового агентства \"Автокадр\" Константин Прохорцев.\n\nИсточник: https://www.newsru.com/auto/22Jul2008/10-euro.html\n</segment>
+		<group id="67" type="multinuc" parent="68" relname="span"/>
+		<group id="49" type="multinuc" parent="67" relname="joint"/>
+		<group id="31" type="multinuc" parent="49" relname="comparison"/>
+		<group id="27" type="span" parent="31" relname="comparison"/>
+		<group id="30" type="span" parent="31" relname="comparison"/>
+		<group id="48" type="multinuc" parent="49" relname="comparison"/>
+		<group id="40" type="multinuc" parent="48" relname="joint"/>
+		<group id="38" type="multinuc" parent="40" relname="comparison"/>
+		<group id="37" type="span" parent="38" relname="same-unit"/>
+		<group id="36" type="span" parent="33" relname="elaboration"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="45" type="multinuc" parent="47" relname="span"/>
+		<group id="44" type="span" parent="45" relname="same-unit"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="64" type="multinuc" parent="66" relname="span"/>
+		<group id="52" type="span" parent="64" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="61" type="span" parent="63" relname="joint"/>
+		<group id="60" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

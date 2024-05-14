@@ -1,0 +1,75 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="33" relname="span">Минимущества помогло бюджету-2002\n\nВчера состоялось расширенное совещание высших чиновников Министерства имущественных отношений,</segment>
+		<segment id="30" parent="31" relname="attribution">на котором они обсуждали,</segment>
+		<segment id="31" parent="32" relname="span">как им дать в бюджет-2002 71 млрд. рублей то есть почти на 7 млрд.</segment>
+		<segment id="34" parent="36" relname="span">больше, чем записано в документе,</segment>
+		<segment id="35" parent="34" relname="attribution">пишет \"Коммерсант\".\n\</segment>
+		<segment id="38" parent="40" relname="contrast">nЧиновники решили продавать побольше предприятий, не приносящих прибыли,</segment>
+		<segment id="39" parent="40" relname="contrast">а на оставшихся платить хорошие деньги государственным менеджерам.\n\</segment>
+		<segment id="41" parent="45" relname="same-unit">nВ будущем году,</segment>
+		<segment id="42" parent="43" relname="condition">когда вступит в силу новый закон о приватизации госимущества,</segment>
+		<segment id="43" parent="44" relname="span">уже одобренный Советом Федерации,</segment>
+		<segment id="46" parent="47" relname="same-unit">Минимущество рассчитывает на всплеск приватизации мелких и средних предприятий в регионах.</segment>
+		<segment id="48" parent="50" relname="span">Впрочем, помимо приватизации государство намерено скрупулезно подойти и к вопросу управления пакетами акций, и к порядку изъятия части прибыли госпредприятий в бюджет.</segment>
+		<segment id="49" parent="48" relname="elaboration">Проект постановления правительства о порядке перечисления прибыли будет готов до конца года.</segment>
+		<segment id="52" parent="60" relname="span">Правда, пока неясно, какую норму он будет содержать:</segment>
+		<segment id="53" parent="59" relname="comparison">либо процент прибыли будет высчитываться индивидуально для каждого предприятия,</segment>
+		<segment id="54" parent="58" relname="same-unit">как предлагает Минэкономразвития,</segment>
+		<segment id="55" parent="57" relname="span">либо будет установлен в 95% для всех предприятий,</segment>
+		<segment id="56" parent="55" relname="attribution">как предлагает Счетная палата.</segment>
+		<segment id="61" parent="63" relname="joint">Выбрать предстоит правительству оно должно решить,</segment>
+		<segment id="62" parent="63" relname="joint">хватит ли предприятию на жизнь 5% прибыли.\n\</segment>
+		<segment id="64" parent="67" relname="condition">nЧто касается государственного присутствия в управлении предприятиями,</segment>
+		<segment id="65" parent="66" relname="attribution">то, заметил глава Минимущества Браверман,</segment>
+		<segment id="66" parent="67" relname="span">\"нелишне вновь поставить перед правительством вопрос о достойном вознаграждении государственных представителей за их работу, сравнимом с вознаграждением \"негосударственных\" членов совета директоров того или иного предприятия\".\n\</segment>
+		<segment id="71" parent="73" relname="span">nВчера вечером бюджетный комитет Госдумы принял решение рекомендовать депутатам принять документ в четвертом чтении,</segment>
+		<segment id="72" parent="71" relname="background">которое намечено на 14 декабря.</segment>
+		<segment id="74" parent="77" relname="attribution">После заседания глава комитета Александр Жуков заявил,</segment>
+		<segment id="75" parent="77" relname="joint">что документ на сегодняшний день представляется абсолютно реальным</segment>
+		<segment id="76" parent="77" relname="joint">и выразил уверенность, что документ будет принят.\n\nПосле финального чтения в Думе бюджет-2002 поступит в Совет Федерации.\n\nИсточник: https://www.newsru.com/finance/11Dec2001/minim.html\n</segment>
+		<group id="37" type="multinuc" parent="83" relname="joint"/>
+		<group id="33" type="span" parent="37" relname="comparison"/>
+		<group id="32" type="span" parent="29" relname="elaboration"/>
+		<group id="36" type="span" parent="37" relname="comparison"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="40" type="multinuc" parent="82" relname="joint"/>
+		<group id="81" type="multinuc" parent="82" relname="joint"/>
+		<group id="51" type="multinuc" parent="81" relname="joint"/>
+		<group id="47" type="multinuc" parent="51" relname="joint"/>
+		<group id="45" type="multinuc" parent="47" relname="same-unit"/>
+		<group id="44" type="span" parent="45" relname="same-unit"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="80" type="span" parent="81" relname="joint"/>
+		<group id="70" type="multinuc" parent="79" relname="solutionhood"/>
+		<group id="60" type="span" parent="70" relname="joint"/>
+		<group id="59" type="multinuc" parent="52" relname="elaboration"/>
+		<group id="58" type="multinuc" parent="59" relname="comparison"/>
+		<group id="57" type="span" parent="58" relname="same-unit"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="63" type="multinuc" parent="69" relname="comparison"/>
+		<group id="68" type="span" parent="69" relname="comparison"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="73" type="span" parent="79" relname="sequence"/>
+		<group id="78" type="span" parent="79" relname="sequence"/>
+		<group id="77" type="multinuc" parent="78" relname="span"/>
+		<group id="83" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,141 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="62" parent="70" relname="joint">\"Финразведка\" может отозвать лицензии еще у десяти банков России\n\nФедеральная служба по финансовому мониторингу наметила себе новые жертвы среди российских банков.</segment>
+		<segment id="63" parent="64" relname="attribution">Вскоре после объявления об отзыве лицензии у \"Содбизнесбанка\" глава ФСФМ Виктор Зубков заявил,</segment>
+		<segment id="64" parent="65" relname="span">что на подозрении в отмывании доходов находятся еще 10 кредитных учреждений.\n\n\"Подозрительные\" банки Зубков не назвал,</segment>
+		<segment id="68" parent="69" relname="span">так что любой вкладчик не может быть уверен в том, что у банка, которому он доверил свои деньги, все в порядке с законом.</segment>
+		<segment id="71" parent="85" relname="span">При этом следует учесть:</segment>
+		<segment id="72" parent="73" relname="condition">если у банка отозвана лицензия,</segment>
+		<segment id="73" parent="74" relname="span">забрать средства из него невозможно,</segment>
+		<segment id="75" parent="77" relname="restatement">так как на все финансовые операции моментально накладывается запрет,</segment>
+		<segment id="76" parent="77" relname="restatement">напоминает \"ГаЗеТа\".\n\nНапример, многочисленные вкладчики \"Содбизнесбанка\",</segment>
+		<segment id="79" parent="82" relname="condition">узнав об отзыве лицензии,</segment>
+		<segment id="80" parent="82" relname="joint">весь четверг и пятницу простояли перед дверями банка</segment>
+		<segment id="81" parent="82" relname="joint">в надежде забрать свои вклады.</segment>
+		<segment id="88" parent="90" relname="span">Но, разумеется, деньги им не выдали.\n\n\"Выявленные 10 банков, через которые проходят нелегальные финансовые средства, скрывают информацию по обязательному контролю, которую обязаны давать,</segment>
+		<segment id="89" parent="88" relname="attribution">- говорит Зубков.</segment>
+		<segment id="92" parent="104" relname="contrast">- Некоторые банки начинают давать информацию уже после проверок Центробанком или Генпрокуратурой,</segment>
+		<segment id="93" parent="94" relname="attribution">но это нарушение закона\".\n\nИздание полагает,</segment>
+		<segment id="94" parent="95" relname="span">что в банках первой тридцатки обнаружение таких недобросовестных банков маловероятно,</segment>
+		<segment id="96" parent="102" relname="same-unit">\"поскольку,</segment>
+		<segment id="97" parent="99" relname="joint">работая только в качестве меняльной конторы</segment>
+		<segment id="98" parent="99" relname="joint">и занимаясь \"сомнительными делами\",</segment>
+		<segment id="100" parent="101" relname="span">сложно отстроить крупный бизнес\".</segment>
+		<segment id="105" parent="106" relname="contrast">Однако, столь же очевидно, что часть вкладчиков не преминет забрать деньги из банков \"на всякий случай\".</segment>
+		<segment id="107" parent="111" relname="span">Это может значительно повредить российской банковской системе,</segment>
+		<segment id="110" parent="107" relname="cause-effect">только-только получившей доверие вкладчиков.\n\nВпрочем, как рассказал \"ГаЗеТе\" президент Ассоциации российских банков (АРБ) Гарегин Тосунян, существует альтернатива отзыву банковской лицензии.</segment>
+		<segment id="112" parent="111" relname="interpretation-evaluation">\"Иногда бывает достаточно сменить руководство банка.</segment>
+		<segment id="114" parent="121" relname="interpretation-evaluation">Процедура достаточно проста:</segment>
+		<segment id="115" parent="120" relname="attribution">собственники кредитного учреждения ставятся в известность Центробанком или ФСФМ о том,</segment>
+		<segment id="116" parent="120" relname="same-unit">что у них есть выбор</segment>
+		<segment id="117" parent="119" relname="joint">- добровольно сменить руководство банка</segment>
+		<segment id="118" parent="119" relname="joint">или ждать отзыва лицензии.</segment>
+		<segment id="123" parent="126" relname="condition">Если акционеры вменяемы,</segment>
+		<segment id="124" parent="126" relname="span">то они соберут внеочередной совет директоров,</segment>
+		<segment id="125" parent="124" relname="elaboration">на котором вопрос и будет решен.</segment>
+		<segment id="128" parent="130" relname="span">Ведь, бесспорно, жизнь лучше смерти.</segment>
+		<segment id="129" parent="128" relname="purpose">А для банка лишение лицензии - это смерть\",</segment>
+		<segment id="132" parent="133" relname="attribution">- объясняет банкир</segment>
+		<segment id="133" parent="134" relname="span">.\n\</segment>
+		<segment id="137" parent="138" relname="condition">nПри смене руководства</segment>
+		<segment id="138" parent="139" relname="span">банк продолжает работать в обычном режиме.</segment>
+		<segment id="140" parent="141" relname="joint">Более того, вкладчики могут о происшедшем и не узнать.</segment>
+		<segment id="142" parent="143" relname="condition">Если же у кредитного учреждения отзывается лицензия,</segment>
+		<segment id="143" parent="144" relname="span">возможен один выход из ситуации - банкротство с последующей ликвидацией кредитного учреждения.\n\nОтзыв лицензии - крайняя мера</segment>
+		<segment id="145" parent="144" relname="cause-effect">не только потому, что банк прекращает свое существование.</segment>
+		<segment id="147" parent="153" relname="span">У кредитного учреждения есть обязательства, которые в случае банкротства могут быть не исполнены полностью.</segment>
+		<segment id="148" parent="152" relname="span">Ведь кроме кредиторов (юридических лиц) есть еще и вкладчики,</segment>
+		<segment id="149" parent="151" relname="comparison">которые в лучшем случае при банкротстве получат номинал вклада,</segment>
+		<segment id="150" parent="151" relname="comparison">а в худшем - потеряют 30-40% от накопленных сбережений.</segment>
+		<segment id="154" parent="162" relname="span">И это несмотря на то, что они являются кредиторами первой очереди.</segment>
+		<segment id="155" parent="160" relname="condition">Пока в России не работает система страхования вкладов,</segment>
+		<segment id="156" parent="160" relname="span">никаких более радужных перспектив не открывается.\n\nСейчас,</segment>
+		<segment id="157" parent="158" relname="attribution">по мнению экспертов,</segment>
+		<segment id="158" parent="159" relname="span">все будет зависеть от того, чем закончится процедура по проблемному банку.</segment>
+		<segment id="164" parent="173" relname="condition">Если ЦБ немного переждет,</segment>
+		<segment id="165" parent="167" relname="span">то, вполне возможно,</segment>
+		<segment id="166" parent="165" relname="condition">банки без лишней огласки приведут себя в соответствие с законом,</segment>
+		<segment id="168" parent="167" relname="condition">лишать их лицензии никто не будет,</segment>
+		<segment id="170" parent="172" relname="span">а о том, какие банки подозревает в нарушении закона Зубков,</segment>
+		<segment id="171" parent="170" relname="background">россияне никогда не узнают.\n\nИсточник: https://www.newsru.com/finance/17May2004/10.html\n</segment>
+		<group id="70" type="multinuc" parent="182" relname="joint"/>
+		<group id="69" type="span" parent="70" relname="joint"/>
+		<group id="65" type="span" parent="68" relname="cause-effect"/>
+		<group id="181" type="multinuc" parent="182" relname="joint"/>
+		<group id="91" type="multinuc" parent="181" relname="joint"/>
+		<group id="85" type="span" parent="91" relname="contrast"/>
+		<group id="84" type="multinuc" parent="71" relname="elaboration"/>
+		<group id="78" type="span" parent="84" relname="joint"/>
+		<group id="74" type="span" parent="78" relname="span"/>
+		<group id="77" type="multinuc" parent="74" relname="cause-effect"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="90" type="span" parent="91" relname="contrast"/>
+		<group id="180" type="multinuc" parent="181" relname="joint"/>
+		<group id="106" type="multinuc" parent="180" relname="joint"/>
+		<group id="104" type="multinuc" parent="106" relname="contrast"/>
+		<group id="103" type="span" parent="104" relname="contrast"/>
+		<group id="95" type="span" parent="103" relname="span"/>
+		<group id="102" type="multinuc" parent="95" relname="interpretation-evaluation"/>
+		<group id="101" type="span" parent="102" relname="same-unit"/>
+		<group id="99" type="multinuc" parent="100" relname="condition"/>
+		<group id="179" type="multinuc" parent="180" relname="joint"/>
+		<group id="113" type="span" parent="179" relname="joint"/>
+		<group id="111" type="span" parent="113" relname="span"/>
+		<group id="178" type="multinuc" parent="179" relname="joint"/>
+		<group id="136" type="span" parent="178" relname="joint"/>
+		<group id="122" type="span" parent="136" relname="span"/>
+		<group id="121" type="span" parent="122" relname="span"/>
+		<group id="120" type="multinuc" parent="121" relname="span"/>
+		<group id="119" type="multinuc" parent="120" relname="same-unit"/>
+		<group id="135" type="span" parent="122" relname="elaboration"/>
+		<group id="131" type="span" parent="135" relname="span"/>
+		<group id="127" type="span" parent="131" relname="span"/>
+		<group id="126" type="span" parent="127" relname="span"/>
+		<group id="130" type="span" parent="127" relname="cause-effect"/>
+		<group id="134" type="span" parent="131" relname="attribution"/>
+		<group id="177" type="multinuc" parent="178" relname="joint"/>
+		<group id="141" type="multinuc" parent="177" relname="joint"/>
+		<group id="139" type="span" parent="141" relname="joint"/>
+		<group id="176" type="multinuc" parent="177" relname="joint"/>
+		<group id="146" type="span" parent="176" relname="joint"/>
+		<group id="144" type="span" parent="146" relname="span"/>
+		<group id="175" type="multinuc" parent="176" relname="joint"/>
+		<group id="163" type="span" parent="175" relname="comparison"/>
+		<group id="153" type="span" parent="163" relname="span"/>
+		<group id="152" type="span" parent="147" relname="cause-effect"/>
+		<group id="151" type="multinuc" parent="148" relname="elaboration"/>
+		<group id="162" type="span" parent="153" relname="interpretation-evaluation"/>
+		<group id="161" type="span" parent="154" relname="evidence"/>
+		<group id="160" type="span" parent="161" relname="span"/>
+		<group id="159" type="span" parent="156" relname="interpretation-evaluation"/>
+		<group id="174" type="span" parent="175" relname="comparison"/>
+		<group id="173" type="multinuc" parent="174" relname="span"/>
+		<group id="169" type="span" parent="173" relname="comparison"/>
+		<group id="167" type="span" parent="169" relname="span"/>
+		<group id="172" type="span" parent="173" relname="comparison"/>
+		<group id="182" type="multinuc"/>
+	</body>
+</rst>

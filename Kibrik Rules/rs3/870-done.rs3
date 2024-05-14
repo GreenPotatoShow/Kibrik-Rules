@@ -1,0 +1,184 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="81" parent="85" relname="contrast">«У  одной женщины умер муж.</segment>
+		<segment id="82" parent="84" relname="contrast">А, думает, ерунда.</segment>
+		<segment id="83" parent="84" relname="contrast">А потом видит, нет, не ерунда».</segment>
+		<segment id="86" parent="85" relname="interpretation-evaluation">Это из Зощенко.\n У Кроммелинка примерно так же.</segment>
+		<segment id="88" parent="92" relname="span">У красавицы Леоны внезапно умирает муж.</segment>
+		<segment id="89" parent="91" relname="joint">На сцене он не появляется,</segment>
+		<segment id="90" parent="91" relname="joint">и зрителю известно лишь то, что он достойный человек, но совершеннейший тюфяк.</segment>
+		<segment id="93" parent="97" relname="joint">Во всяком случае, вокруг жены вечно крутятся трое любовников,</segment>
+		<segment id="94" parent="96" relname="span">двое бывших и один настоящий</segment>
+		<segment id="95" parent="94" relname="elaboration">.\n Среди прочих прощаться с покойным приходит молодая женщина.</segment>
+		<segment id="98" parent="100" relname="contrast">Вероятно, родственница.</segment>
+		<segment id="99" parent="100" relname="contrast">Но нет, как выясняется, не родственница.</segment>
+		<segment id="104" parent="106" relname="joint">Хуже.</segment>
+		<segment id="105" parent="106" relname="joint">Много хуже.</segment>
+		<segment id="107" parent="111" relname="span">Фели — любовница мужа, с которой тот, оказывается, был близок на протяжении десяти лет</segment>
+		<segment id="108" parent="109" relname="cause-effect">.\n Вначале Леона не может поверить,</segment>
+		<segment id="109" parent="110" relname="span">что он вообще был способен любить.</segment>
+		<segment id="112" parent="116" relname="same-unit">Потом тому, как его, скучного и, по-видимому, неопрятного немолодого человека,</segment>
+		<segment id="113" parent="115" relname="span">могла полюбить юная женщина.\n «Ты видела когда-нибудь,</segment>
+		<segment id="114" parent="113" relname="interpretation-evaluation">как он ест?»</segment>
+		<segment id="117" parent="116" relname="attribution">— множество раз вопрошает Леона соперницу.</segment>
+		<segment id="120" parent="126" relname="span">Но та не слышит,</segment>
+		<segment id="121" parent="125" relname="joint">видно замечала в нём нечто другое, для неё более важное.\n К тому же покойный всё имущество оставил в наследство жене,</segment>
+		<segment id="122" parent="124" relname="span">а Фели — лишь место в склепе,</segment>
+		<segment id="123" parent="122" relname="elaboration">завещав похоронить в назначенный час вместе с ним не жену, а её.\n Уж это Леона не в состоянии перенести.</segment>
+		<segment id="127" parent="134" relname="interpretation-evaluation">И неудивительно</segment>
+		<segment id="128" parent="134" relname="joint">— оскорбление глубже чувствует тот, кто сам оскорблял,</segment>
+		<segment id="129" parent="133" relname="joint">и не раз.\n Когда же оказывается, что Фели сейчас готова, подобно Джульетте,</segment>
+		<segment id="130" parent="132" relname="joint">разделить с любимым смертное ложе,</segment>
+		<segment id="131" parent="132" relname="joint">Леона противится этому как только может.\n …Думаю, не у одного меня во время спектакля возник вопрос:</segment>
+		<segment id="136" parent="144" relname="joint">а зачем, собственно, перед нами «ломают комедию»,</segment>
+		<segment id="137" parent="143" relname="joint">к тому же из какой-то далёкой прошлой жизни?</segment>
+		<segment id="138" parent="142" relname="span">Или это не комедия, а мелодрама,</segment>
+		<segment id="139" parent="141" relname="joint">не поймёшь.\n В буржуазном интерьере двухэтажного дома (художник Сергей Бархин) устраивают едва ли не цирк с клоунадой,</segment>
+		<segment id="140" parent="141" relname="joint">потом актёры, а точнее актрисы (Виктория Верберг, Татьяна Рыбинец, Екатерина Александрушкина и Наталья Мотева) уходят от эксцентрики к психологизму.</segment>
+		<segment id="147" parent="151" relname="joint">Мужчины как-то менее заметны в этом спектакле,</segment>
+		<segment id="148" parent="150" relname="joint">главного персонажа, повторяю,</segment>
+		<segment id="149" parent="150" relname="joint">мы вообще не увидим.</segment>
+		<segment id="152" parent="160" relname="span">А вот женщины азартно носятся по сцене,</segment>
+		<segment id="153" parent="155" relname="joint">дурачат мужчин</segment>
+		<segment id="154" parent="155" relname="joint">и дурачатся сами</segment>
+		<segment id="156" parent="158" relname="contrast">.\n Смотреть в общем интересно,</segment>
+		<segment id="157" parent="158" relname="contrast">а так — нет.</segment>
+		<segment id="161" parent="160" relname="elaboration">В смысле «Гиви, ты помидоры любишь?»</segment>
+		<segment id="164" parent="174" relname="joint">— «Кушать люблю,</segment>
+		<segment id="165" parent="167" relname="span">а так — нет».\n «Так — нет» продолжается до тех пор,</segment>
+		<segment id="166" parent="165" relname="condition">покуда не понимаешь,</segment>
+		<segment id="168" parent="172" relname="span">чего ради вспомнила Генриетта Яновская забытую пьесу Фернана Кроммелинка, известного русской сцене по мейерхольдовскому и позже фоменковскому «Великодушному рогоносцу».</segment>
+		<segment id="169" parent="170" relname="attribution">По её собственному признанию,</segment>
+		<segment id="170" parent="171" relname="span">спектакль адресован женщинам.</segment>
+		<segment id="175" parent="179" relname="contrast">Попытаюсь угадать, что же она имела в виду.\n Думаю, женщины,</segment>
+		<segment id="178" parent="179" relname="contrast">даже те, кто не обманывают мужей, вечно ведут себя с мужчинами как взрослые с детьми-недоумками.</segment>
+		<segment id="180" parent="179" relname="interpretation-evaluation">Так вот, не следует нас недооценивать.</segment>
+		<segment id="183" parent="185" relname="joint">Иначе может последовать «мне отмщение,</segment>
+		<segment id="184" parent="185" relname="joint">и аз воздам».\n Едва ли не любая мужская измена — месть жене.</segment>
+		<segment id="186" parent="192" relname="span">Не только за бл…во, бывает, за нелюбовь, пренебрежение, невнимание.</segment>
+		<segment id="187" parent="191" relname="span">Просто уйти способен не каждый,</segment>
+		<segment id="188" parent="190" relname="joint">мешает множество причин — от экономических до просто привычки,</segment>
+		<segment id="189" parent="190" relname="joint">слабость человеческая, наконец.\n Мужчину-мстителя охватывает сложное чувство.</segment>
+		<segment id="194" parent="214" relname="contrast">С одной стороны, жена не должна ни о чём догадываться.</segment>
+		<segment id="195" parent="205" relname="span">С другой — втайне мечтается,</segment>
+		<segment id="196" parent="204" relname="span">чтобы когда-нибудь, лучше на смертном одре,</segment>
+		<segment id="197" parent="202" relname="condition">когда терять уже нечего,</segment>
+		<segment id="198" parent="202" relname="joint">всё вышло наружу.</segment>
+		<segment id="199" parent="201" relname="joint">Пусть узнает,</segment>
+		<segment id="200" parent="201" relname="joint">а потом увидит.</segment>
+		<segment id="206" parent="208" relname="sequence">Или, наоборот, сначала увидит,</segment>
+		<segment id="207" parent="208" relname="sequence">а потом узнает.</segment>
+		<segment id="210" parent="212" relname="span">Узнает и что-то поймёт.\n С Леоной так оно и получается.</segment>
+		<segment id="211" parent="210" relname="elaboration">Узнала.</segment>
+		<segment id="222" parent="224" relname="joint">Увидела.</segment>
+		<segment id="223" parent="224" relname="joint">Поняла, что случившееся вовсе не ерунда.\n И что дальше?</segment>
+		<segment id="225" parent="231" relname="span">В жизни на том всё обычно заканчивается.</segment>
+		<segment id="226" parent="228" relname="joint">На сцене обманутая вдова замысливает интригу</segment>
+		<segment id="227" parent="228" relname="joint">и отправляет последнего оставшегося любовника, самого молодого и лучшего, в объятья разлучницы.</segment>
+		<segment id="229" parent="230" relname="joint">И та, представьте, вмиг забывает о своём недавнем намерении покончить с собой.</segment>
+		<segment id="233" parent="237" relname="span">Что в очередной раз подтверждает правоту широко известного исторического деятеля,</segment>
+		<segment id="234" parent="236" relname="joint">однажды заметившего:</segment>
+		<segment id="235" parent="236" relname="joint">«Любовь побеждает смерть».\n \n</segment>
+		<group id="221" type="multinuc" parent="238" relname="solutionhood"/>
+		<group id="103" type="span" parent="221" relname="joint"/>
+		<group id="87" type="span" parent="103" relname="span"/>
+		<group id="85" type="multinuc" parent="87" relname="span"/>
+		<group id="84" type="multinuc" parent="85" relname="contrast"/>
+		<group id="102" type="span" parent="87" relname="background"/>
+		<group id="92" type="span" parent="102" relname="span"/>
+		<group id="91" type="multinuc" parent="88" relname="elaboration"/>
+		<group id="101" type="span" parent="92" relname="elaboration"/>
+		<group id="97" type="multinuc" parent="101" relname="span"/>
+		<group id="96" type="span" parent="97" relname="joint"/>
+		<group id="100" type="multinuc" parent="97" relname="interpretation-evaluation"/>
+		<group id="220" type="span" parent="221" relname="joint"/>
+		<group id="106" type="multinuc" parent="219" relname="preparation"/>
+		<group id="219" type="multinuc" parent="220" relname="span"/>
+		<group id="119" type="multinuc" parent="219" relname="joint"/>
+		<group id="111" type="span" parent="119" relname="joint"/>
+		<group id="110" type="span" parent="107" relname="interpretation-evaluation"/>
+		<group id="118" type="span" parent="119" relname="joint"/>
+		<group id="116" type="multinuc" parent="118" relname="span"/>
+		<group id="115" type="span" parent="116" relname="same-unit"/>
+		<group id="218" type="multinuc" parent="219" relname="joint"/>
+		<group id="146" type="multinuc" parent="218" relname="joint"/>
+		<group id="126" type="span" parent="146" relname="joint"/>
+		<group id="125" type="multinuc" parent="120" relname="evidence"/>
+		<group id="124" type="span" parent="125" relname="joint"/>
+		<group id="145" type="multinuc" parent="146" relname="joint"/>
+		<group id="135" type="span" parent="145" relname="joint"/>
+		<group id="134" type="multinuc" parent="135" relname="span"/>
+		<group id="133" type="multinuc" parent="134" relname="joint"/>
+		<group id="132" type="multinuc" parent="133" relname="joint"/>
+		<group id="144" type="multinuc" parent="145" relname="joint"/>
+		<group id="143" type="multinuc" parent="144" relname="joint"/>
+		<group id="142" type="span" parent="143" relname="joint"/>
+		<group id="141" type="multinuc" parent="138" relname="elaboration"/>
+		<group id="217" type="multinuc" parent="218" relname="joint"/>
+		<group id="163" type="multinuc" parent="217" relname="joint"/>
+		<group id="151" type="multinuc" parent="163" relname="contrast"/>
+		<group id="150" type="multinuc" parent="151" relname="joint"/>
+		<group id="162" type="span" parent="163" relname="contrast"/>
+		<group id="160" type="span" parent="162" relname="span"/>
+		<group id="159" type="span" parent="152" relname="elaboration"/>
+		<group id="155" type="multinuc" parent="159" relname="span"/>
+		<group id="158" type="multinuc" parent="155" relname="interpretation-evaluation"/>
+		<group id="216" type="multinuc" parent="217" relname="joint"/>
+		<group id="182" type="span" parent="216" relname="joint"/>
+		<group id="174" type="multinuc" parent="182" relname="span"/>
+		<group id="173" type="multinuc" parent="174" relname="joint"/>
+		<group id="167" type="span" parent="173" relname="same-unit"/>
+		<group id="172" type="span" parent="173" relname="same-unit"/>
+		<group id="171" type="span" parent="168" relname="elaboration"/>
+		<group id="181" type="span" parent="174" relname="interpretation-evaluation"/>
+		<group id="179" type="multinuc" parent="181" relname="span"/>
+		<group id="215" type="span" parent="216" relname="joint"/>
+		<group id="193" type="multinuc" parent="214" relname="solutionhood"/>
+		<group id="185" type="multinuc" parent="193" relname="contrast"/>
+		<group id="192" type="span" parent="193" relname="contrast"/>
+		<group id="191" type="span" parent="186" relname="evidence"/>
+		<group id="190" type="multinuc" parent="187" relname="cause-effect"/>
+		<group id="214" type="multinuc" parent="215" relname="span"/>
+		<group id="213" type="multinuc" parent="214" relname="contrast"/>
+		<group id="209" type="multinuc" parent="213" relname="joint"/>
+		<group id="205" type="span" parent="209" relname="joint"/>
+		<group id="204" type="span" parent="195" relname="purpose"/>
+		<group id="203" type="span" parent="196" relname="condition"/>
+		<group id="202" type="multinuc" parent="203" relname="span"/>
+		<group id="201" type="multinuc" parent="202" relname="joint"/>
+		<group id="208" type="multinuc" parent="209" relname="joint"/>
+		<group id="212" type="span" parent="213" relname="joint"/>
+		<group id="238" type="span" parent="239" relname="span"/>
+		<group id="232" type="span" parent="238" relname="span"/>
+		<group id="224" type="multinuc" parent="231" relname="solutionhood"/>
+		<group id="231" type="span" parent="232" relname="span"/>
+		<group id="230" type="multinuc" parent="225" relname="elaboration"/>
+		<group id="228" type="multinuc" parent="230" relname="joint"/>
+		<group id="237" type="span" parent="232" relname="interpretation-evaluation"/>
+		<group id="236" type="multinuc" parent="233" relname="evidence"/>
+		<group id="239" type="span"/>
+	</body>
+</rst>

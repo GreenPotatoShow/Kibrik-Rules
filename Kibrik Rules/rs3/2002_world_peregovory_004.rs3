@@ -1,0 +1,76 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="30" parent="85" relname="preparation">Израиль и Палестина договорились о выводе израильских войск\n\</segment>
+		<segment id="31" parent="39" relname="joint">nВ Иерусалиме днем в понедельник прошла очередная встреча между представителями израильских и палестинских служб безопасности.</segment>
+		<segment id="32" parent="35" relname="attribution">Ее главным решением стала договоренность о том,</segment>
+		<segment id="33" parent="35" relname="span">что уже в ночь на вторник израильские армейские части должны покинуть все палестинские территории в так называемой \"зоне А\",</segment>
+		<segment id="34" parent="33" relname="elaboration">согласно Норвежским соглашениям находящиеся под полным контролем Палестинской национальной администрации,</segment>
+		<segment id="37" parent="36" relname="attribution">сообщает РИА \"Новости\".</segment>
+		<segment id="40" parent="56" relname="joint">В эту зону входят территории, которые согласно Норвежским соглашениям находятся под полным контролем Палестинской автономии.</segment>
+		<segment id="41" parent="55" relname="joint">Израильские войска должны покинуть Вифлеем, Бейт-Джаллу и шесть населенных пунктов в секторе Газа.\n\nДоговоренность об отводе войск была достигнута на состоявшейся ночью встрече представителей служб безопасности Израиля и палестинской автономии при посредничестве американского эмиссара в регионе Энтони Зинни.</segment>
+		<segment id="42" parent="43" relname="attribution">Как передает РИА \"Новости\",</segment>
+		<segment id="43" parent="44" relname="span">с обеих сторон в ней приняли участие по два генерала.</segment>
+		<segment id="45" parent="53" relname="span">Израиль представляли командующий дивизией \"Иудея и Самария\" Гаршон Ицхак и командующий дивизией \"Газа\" Исраэль Зив.</segment>
+		<segment id="46" parent="52" relname="span">С палестинской стороны на встрече присутствовали руководители вооруженных полицейских формирований на Западном берегу реки Иордан и в секторе Газа Хадж Исмаил и Эль-Маджейда.\n\nПалестинцы потребовали немедленного ухода израильтян из этих районов.</segment>
+		<segment id="47" parent="48" relname="attribution">Израильтяне, в свою очередь, указали,</segment>
+		<segment id="48" parent="49" relname="span">что готовы выполнить такое требование,</segment>
+		<segment id="50" parent="51" relname="contrast">однако поставили условие - обязательства со стороны палестинских служб безопасности по пресечению террористической деятельности против израильтян.</segment>
+		<segment id="58" parent="61" relname="attribution">Сейчас очень многие израильские политики, прежде всего из правого лагеря, подчеркивают,</segment>
+		<segment id="59" parent="61" relname="span">что как только армия оставит палестинские территории,</segment>
+		<segment id="60" parent="59" relname="elaboration">уже на деле являющиеся своеобразными \"буферными зонами\",</segment>
+		<segment id="63" parent="66" relname="solutionhood">это обеспечит практически свободный проход в Израиль для вооруженных палестинских террористов.\n\nТем не менее на встрече указывалось,</segment>
+		<segment id="64" parent="65" relname="condition">что если палестинская сторона берет на себя ответственность и полный контроль над всеми территориями,</segment>
+		<segment id="65" parent="66" relname="span">израильская армия уйдет оттуда \"уже сегодня\".</segment>
+		<segment id="69" parent="71" relname="span">Конкретно сейчас указывается, что соглашение о прекращении огня,</segment>
+		<segment id="70" parent="69" relname="elaboration">после которого начнется отвод израильских войск из \"зоны А\",</segment>
+		<segment id="72" parent="73" relname="same-unit">может быть подписано уже в ближайшие 48 часов.</segment>
+		<segment id="74" parent="75" relname="joint">Об этом, в частности, заявил министр обороны Израиля Беньямин Бен Элиэзер.\n\nМежду тем специальный представитель США на Ближнем Востоке Энтони Зинни продолжил свои встречи в Израиле и Палестинской автономии.</segment>
+		<segment id="76" parent="80" relname="sequence">В воскресенье он встретился с президентом Израиля Моше Кацавом,</segment>
+		<segment id="77" parent="79" relname="sequence">после чего отбыл в Рамаллах,</segment>
+		<segment id="78" parent="79" relname="sequence">где у него состоялись встречи с руководителем Палестинской национальной администрации Ясиром Арафатом, спикером палестинского парламента Ахмедом Куреи, руководителем департамента местного управления Саибом Арикатом и главой министерства информации Ясиром Абд Раббо.</segment>
+		<segment id="81" parent="80" relname="elaboration">На встречах, по некоторым данным, речь также шла о перспективах отвода израильских армейских подразделений из \"зоны А\".\n\nИсточник: https://www.newsru.com/world/18Mar2002/peregovory.html\n</segment>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="57" type="multinuc" parent="85" relname="joint"/>
+		<group id="39" type="multinuc" parent="57" relname="joint"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="36" type="span" parent="38" relname="span"/>
+		<group id="35" type="span" parent="36" relname="span"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="44" type="span" parent="54" relname="span"/>
+		<group id="53" type="span" parent="44" relname="elaboration"/>
+		<group id="52" type="span" parent="45" relname="elaboration"/>
+		<group id="51" type="multinuc" parent="46" relname="elaboration"/>
+		<group id="49" type="span" parent="51" relname="contrast"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="68" type="span" parent="84" relname="joint"/>
+		<group id="62" type="span" parent="68" relname="span"/>
+		<group id="61" type="span" parent="62" relname="span"/>
+		<group id="67" type="span" parent="62" relname="elaboration"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="75" type="multinuc" parent="83" relname="joint"/>
+		<group id="73" type="multinuc" parent="75" relname="joint"/>
+		<group id="71" type="span" parent="73" relname="same-unit"/>
+		<group id="82" type="span" parent="83" relname="joint"/>
+		<group id="80" type="multinuc" parent="82" relname="span"/>
+		<group id="79" type="multinuc" parent="80" relname="sequence"/>
+		<group id="86" type="span"/>
+	</body>
+</rst>

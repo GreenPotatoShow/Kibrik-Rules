@@ -1,0 +1,55 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="22" relname="span">Военная полиция РФ не пострадала</segment>
+		<segment id="21" parent="20" relname="condition">при взрыве рядом с погранпереходом на северо-западе Сирии\n\</segment>
+		<segment id="23" parent="25" relname="joint">nВ районе пункта перехода Дербисия на сирийско-турецкой границе произошел взрыв рядом с бронеавтомобилями российской военной полиции,</segment>
+		<segment id="24" parent="25" relname="joint">сообщил представитель российского Центра примирения враждующих сторон (ЦПВС) в Сирии.\n\n\"29 октября при подготовке к плановой встрече представителей российской военной полиции с турецкой стороной на пункте перехода Дербисия сирийско-турецкой границы рядом со стоящими российскими бронеавтомобилями раздался хлопок от подрыва неустановленного безоболочного взрывного устройства\",</segment>
+		<segment id="26" parent="29" relname="attribution">- сказал представитель Центра примирения.\n\n\"Пострадавших среди российских военнослужащих нет.</segment>
+		<segment id="27" parent="29" relname="joint">Техника исправна.</segment>
+		<segment id="28" parent="29" relname="joint">Встреча с представителями турецкой стороны прошла в плановом режиме\",</segment>
+		<segment id="32" parent="31" relname="attribution">- заявил он.</segment>
+		<segment id="34" parent="41" relname="attribution">Представитель центра подчеркнул,</segment>
+		<segment id="35" parent="37" relname="span">что попытки неустановленных лиц осуществить провокацию оказались безуспешны,</segment>
+		<segment id="36" parent="35" relname="attribution">сообщает \"Интерфакс\".\n\nОн отметил,</segment>
+		<segment id="38" parent="40" relname="span">что информация о якобы произошедшем обстреле подразделения российской военной полиции на пункте перехода Дербисия не соответствует действительности.\n\nРоссийская военная полиция не попадала под обстрел рядом с погранпереходом Дарбасийя на северо-западе Сирии,</segment>
+		<segment id="39" parent="38" relname="attribution">заявил российский Центр по примирению враждующих сторон.</segment>
+		<segment id="43" parent="44" relname="attribution">По их информации, рядом с автомобилем российских военных взорвалась бомба.\n\nРанее сирийское агентство SANA сообщило,</segment>
+		<segment id="44" parent="45" relname="span">что патруль российской военной полиции попал под артобстрел.</segment>
+		<segment id="46" parent="50" relname="span">В результате обстрела якобы пострадали шесть человек, в том числе гражданские</segment>
+		<segment id="47" parent="49" relname="span">.\n\n22 октября президент России Владимир Путин и президент Турции Реджеп Тайип Эрдоган провели переговоры в Сочи,</segment>
+		<segment id="48" parent="47" relname="background">на которых закрепили новые зоны влияния на северо-востоке Сирии.</segment>
+		<segment id="51" parent="52" relname="joint">Они договорились о совместном патрулировании освобожденной курдами территории, а также о возвращении сирийских пограничников на границу с Турцией.\n\nИсточник: https://www.newsru.com/world/30Oct2019/blastsyria.html\n</segment>
+		<group id="22" type="span" parent="55" relname="preparation"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="33" type="span" parent="55" relname="joint"/>
+		<group id="31" type="span" parent="33" relname="span"/>
+		<group id="25" type="multinuc" parent="31" relname="span"/>
+		<group id="30" type="span" parent="25" relname="attribution"/>
+		<group id="29" type="multinuc" parent="30" relname="span"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="42" type="span" parent="54" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="37" type="span" parent="41" relname="span"/>
+		<group id="40" type="span" parent="37" relname="evidence"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="45" type="span" parent="52" relname="cause-effect"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="50" type="span" parent="52" relname="joint"/>
+		<group id="49" type="span" parent="46" relname="cause-effect"/>
+		<group id="56" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,96 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="40" parent="44" relname="joint">Умер последний член экипажа бомбардировщика Enola Gay,</segment>
+		<segment id="41" parent="43" relname="span">сбросившего атомную бомбу на Хиросиму\n\nВ США умер последний член экипажа американского самолета Enola Gay,</segment>
+		<segment id="42" parent="41" relname="elaboration">сбросившего ядерную бомбу на японский город Хиросима.</segment>
+		<segment id="45" parent="49" relname="sequence">Теодор Ван Кирк по прозвищу Голландец скончался в минувший понедельник, 28 июля, в доме престарелых в штате Джорджия в возрасте 92 лет,</segment>
+		<segment id="46" parent="48" relname="span">пишет The Daily Telegraph со ссылкой на сына Ван Кирка.\n\nВ 1945 году Ван Кирку было 24 года.</segment>
+		<segment id="47" parent="46" relname="elaboration">Он был штурманом Enola Gay.</segment>
+		<segment id="50" parent="51" relname="cause-effect">6 августа 1945 года этот самолет сбросил атомную бомбу \"Малыш\" на японский город Хиросима.</segment>
+		<segment id="51" parent="52" relname="span">В результате бомбардировки погибли 140 тысяч человек.</segment>
+		<segment id="53" parent="55" relname="span">Часть из них умерли в момент взрыва,</segment>
+		<segment id="54" parent="53" relname="cause-effect">другие позднее от лучевой болезни.\n\nЭтот случай стал первым использованием атомной бомбы в военных целях.</segment>
+		<segment id="57" parent="59" relname="joint">9 августа бомбардировка повторилась</segment>
+		<segment id="58" parent="59" relname="joint">- вторая бомба, названная американцами \"Толстяк\", была сброшена на японский город Нагасаки.</segment>
+		<segment id="60" parent="62" relname="comparison">Жертвами этой бомбардировки стали 160 тысяч японцев.\n\</segment>
+		<segment id="61" parent="62" relname="comparison">nПри этом изначально целью ядерной бомбардировки был другой город - Кокура.</segment>
+		<segment id="63" parent="64" relname="contrast">Однако небо над ним в тот день было затянуто облаками.</segment>
+		<segment id="66" parent="69" relname="condition">Пока экипаж заходил на цель,</segment>
+		<segment id="67" parent="69" relname="sequence">самолет обнаружили японские зенитчики, которые обстреляли его,</segment>
+		<segment id="68" parent="69" relname="sequence">после чего он полетел к запасной цели - Нагасаки.\n\nВ Сети доступны видео с хроникой того дня.\n\nЭкипаж Enola Gay состоял из 12 человек.</segment>
+		<segment id="71" parent="70" relname="elaboration">Его командир Пол Тиббетс умер в ноябре 2007 года в возрасте 92 лет.</segment>
+		<segment id="73" parent="87" relname="joint">Летчик Моррис Джеппсон скончался в апреле 2010 года в возрасте 87 лет.</segment>
+		<segment id="74" parent="86" relname="sequence">Второй пилот Роберт Льюис умер в 1983 году,</segment>
+		<segment id="75" parent="85" relname="joint">бомбардир Томас Фереби - в 2000-м, специалист по атомной бомбе Уильям Стерлинг Парсонс - в 1953-м,</segment>
+		<segment id="76" parent="84" relname="sequence">оператор радара Джо Стиборик - в 1984-м,</segment>
+		<segment id="77" parent="83" relname="joint">хвостовой стрелок Роберт Карон - в 1995-м,</segment>
+		<segment id="78" parent="82" relname="joint">бортинженер Роберт Шумард - в 1967-м,</segment>
+		<segment id="79" parent="81" relname="sequence">радист Ричард Нельсон - в 2003-м,</segment>
+		<segment id="80" parent="81" relname="sequence">ассистент бортинженера Вэйн Дазенберрай - в 1992-м.</segment>
+		<segment id="88" parent="90" relname="span">Специалист по противорадарной борьбе Джекоб Безер скончался в 1992 году,</segment>
+		<segment id="89" parent="88" relname="elaboration">он был единственным членом экипажа, участвовавшим также в атомной бомбардировке Нагасаки.\n\nЭкипаж второго самолета - Bockscar, сбросившего бомбу на Нагасаки,</segment>
+		<segment id="91" parent="90" relname="elaboration">состоял из 13 человек.</segment>
+		<segment id="93" parent="94" relname="sequence">Командир экипажа Чак Суини скончался 15 июля 2004 года в возрасте 84 лет в Бостонской больнице.</segment>
+		<segment id="95" parent="97" relname="joint">Второй пилот Чарльз Олбери умер 23 мая 2009 года в возрасте 88 лет.</segment>
+		<segment id="96" parent="97" relname="joint">Еще один член экипажа - бомбардир Кермит Бэхан - скончался 10 марта 1989 года.</segment>
+		<segment id="98" parent="100" relname="sequence">В 2004 году в возрасте 82 лет умер второй пилот Фред Оливи,</segment>
+		<segment id="99" parent="100" relname="sequence">в 2005-м в возрасте 93 лет скончался специалист по атомной бомбе Фредерик Эшворт.\n\nПримечательно, что после войны летчики по-разному относились к тому, что они сделали.</segment>
+		<segment id="101" parent="104" relname="attribution">Так, Ван Кирк говорил,</segment>
+		<segment id="102" parent="104" relname="joint">что считает войны бесполезными</segment>
+		<segment id="103" parent="104" relname="joint">и желает, чтобы все оружие на Земле было уничтожено.</segment>
+		<segment id="106" parent="107" relname="joint">Суини же всю жизнь яростно отстаивал необходимость атомных бомбардировок Японии перед студентами американских колледжей и университетов.\n\nИсточник: https://www.newsru.com/world/30Jul2014/lastenola.html\n</segment>
+		<group id="44" type="multinuc" parent="115" relname="preparation"/>
+		<group id="43" type="span" parent="44" relname="joint"/>
+		<group id="115" type="multinuc" parent="116" relname="span"/>
+		<group id="49" type="multinuc" parent="115" relname="joint"/>
+		<group id="48" type="span" parent="49" relname="sequence"/>
+		<group id="114" type="multinuc" parent="115" relname="joint"/>
+		<group id="56" type="span" parent="114" relname="joint"/>
+		<group id="52" type="span" parent="56" relname="span"/>
+		<group id="55" type="span" parent="52" relname="cause-effect"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="65" type="multinuc" parent="113" relname="joint"/>
+		<group id="59" type="multinuc" parent="65" relname="joint"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="62" type="multinuc" parent="64" relname="contrast"/>
+		<group id="112" type="multinuc" parent="113" relname="joint"/>
+		<group id="72" type="span" parent="112" relname="joint"/>
+		<group id="70" type="span" parent="72" relname="span"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="111" type="multinuc" parent="112" relname="joint"/>
+		<group id="87" type="multinuc" parent="111" relname="joint"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="85" type="multinuc" parent="86" relname="sequence"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="83" type="multinuc" parent="84" relname="sequence"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="81" type="multinuc" parent="82" relname="joint"/>
+		<group id="110" type="multinuc" parent="111" relname="joint"/>
+		<group id="94" type="multinuc" parent="110" relname="joint"/>
+		<group id="92" type="span" parent="94" relname="sequence"/>
+		<group id="90" type="span" parent="92" relname="span"/>
+		<group id="109" type="multinuc" parent="110" relname="joint"/>
+		<group id="97" type="multinuc" parent="109" relname="joint"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="100" type="multinuc" parent="108" relname="joint"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="105" type="span" parent="107" relname="joint"/>
+		<group id="104" type="multinuc" parent="105" relname="span"/>
+		<group id="116" type="span"/>
+	</body>
+</rst>

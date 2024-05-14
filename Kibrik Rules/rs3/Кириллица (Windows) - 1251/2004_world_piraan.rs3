@@ -1,0 +1,68 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="28" parent="79" relname="preparation">В Бразилии обнаружено племя индейцев, умеющее считать только до трех\n\</segment>
+		<segment id="29" parent="31" relname="joint">nВ бразильской Амазонии обнаружено племя индейцев, живущее скрытно от цивилизованного мира</segment>
+		<segment id="30" parent="31" relname="joint">и умеющее считать только до трех.</segment>
+		<segment id="32" parent="36" relname="span">Это открытие сделал американский исследователь Питер Гордон,</segment>
+		<segment id="33" parent="35" relname="span">долгое время изучавший обычаи племени \"пираан\",</segment>
+		<segment id="34" parent="33" relname="elaboration">обитающего в дебрях амазонской сельвы.\n\</segment>
+		<segment id="38" parent="42" relname="span">nЧлены этого племени,</segment>
+		<segment id="41" parent="38" relname="elaboration">до сих пор живущего в каменном веке, используют при подсчете предметов всего три слова.</segment>
+		<segment id="43" parent="47" relname="span">\"Ой\" означает один, \"ои\" (с ударением на последний слог) означает два.</segment>
+		<segment id="44" parent="46" relname="restatement">Слова \"бааги\" и \"айбай\" используются для обозначения всех остальных цифр</segment>
+		<segment id="45" parent="46" relname="restatement">и означают \"множество\".</segment>
+		<segment id="49" parent="57" relname="span">\"Ой\" может также означать \"почти один\", \"около одного\" или \"кучка\".\n\</segment>
+		<segment id="50" parent="52" relname="span">nУченый,</segment>
+		<segment id="51" parent="50" relname="elaboration">проживший некоторое время среди племени,</segment>
+		<segment id="53" parent="55" relname="joint">показывал индейцам предметы, которые они обозначали своими знаками</segment>
+		<segment id="54" parent="55" relname="joint">или рисовали палочки на бумаге.</segment>
+		<segment id="58" parent="60" relname="joint">При виде одной рыбы они рисовали одну палочку,</segment>
+		<segment id="59" parent="60" relname="joint">две рыбины они обозначали двумя штрихами.</segment>
+		<segment id="61" parent="63" relname="span">А вот при показе более трех предметов число палочек оставалось неизменным</segment>
+		<segment id="62" parent="61" relname="elaboration">- три,</segment>
+		<segment id="64" parent="66" relname="span">сообщает РИА \"Новости\".\n\nИндейцы испытывали трудность</segment>
+		<segment id="65" parent="64" relname="condition">при передаче количества пойманной рыбы.</segment>
+		<segment id="69" parent="72" relname="condition">Если Гордон показывал им четыре или пять-шесть рыб,</segment>
+		<segment id="70" parent="72" relname="span">индейцы неизменно рисовали только три палочки,</segment>
+		<segment id="71" parent="70" relname="elaboration">называя их \"бааги\",</segment>
+		<segment id="74" parent="75" relname="restatement">то есть множество.\n\nИсточник: https://www.newsru.com/world/30Aug2004/piraan.html\n</segment>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="37" type="span" parent="79" relname="span"/>
+		<group id="31" type="multinuc" parent="37" relname="span"/>
+		<group id="36" type="span" parent="31" relname="elaboration"/>
+		<group id="35" type="span" parent="32" relname="elaboration"/>
+		<group id="78" type="multinuc" parent="37" relname="elaboration"/>
+		<group id="48" type="span" parent="78" relname="joint"/>
+		<group id="42" type="span" parent="48" relname="span"/>
+		<group id="47" type="span" parent="42" relname="elaboration"/>
+		<group id="46" type="multinuc" parent="43" relname="elaboration"/>
+		<group id="77" type="multinuc" parent="78" relname="joint"/>
+		<group id="57" type="span" parent="77" relname="joint"/>
+		<group id="56" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="52" type="span" parent="56" relname="same-unit"/>
+		<group id="55" type="multinuc" parent="56" relname="same-unit"/>
+		<group id="76" type="span" parent="77" relname="joint"/>
+		<group id="68" type="multinuc" parent="76" relname="span"/>
+		<group id="60" type="multinuc" parent="68" relname="comparison"/>
+		<group id="67" type="multinuc" parent="68" relname="comparison"/>
+		<group id="63" type="span" parent="67" relname="comparison"/>
+		<group id="66" type="span" parent="67" relname="comparison"/>
+		<group id="75" type="multinuc" parent="68" relname="elaboration"/>
+		<group id="73" type="span" parent="75" relname="restatement"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="80" type="span"/>
+	</body>
+</rst>

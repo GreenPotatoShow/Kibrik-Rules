@@ -1,0 +1,64 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="27" relname="joint">Бэнкси создал первую интерактивную работу</segment>
+		<segment id="26" parent="27" relname="joint">и посвятил ее отравленным слезоточивым газом мигрантам (ФОТО)\n\nОчередная работа анонимного художника-граффитиста Бэнкси в Лондоне сразу же после своего появления привлекла всеобщее внимание.</segment>
+		<segment id="28" parent="38" relname="joint">Мастер стрит-арта изобразил на стене напротив здания посольства Франции девочку со слезами на глазах, окутанную облаком, выходящим из баллона со слезоточивым газом.</segment>
+		<segment id="29" parent="37" relname="span">Рисунок стилизован под плакат мюзикла \"Отверженные\", поставленного по одноименному роману Виктора Гюго.\n\nРядом с композицией автор оставил QR-код,</segment>
+		<segment id="30" parent="36" relname="span">который ведет к видеозаписи,</segment>
+		<segment id="31" parent="33" relname="span">на которой французские полицейские используют слезоточивый газ и резиновые пули</segment>
+		<segment id="32" parent="31" relname="purpose">для разгона демонстрации в палаточном лагере,</segment>
+		<segment id="34" parent="33" relname="elaboration">который разбили беженцы из ближневосточных стран.</segment>
+		<segment id="40" parent="47" relname="attribution">Как отмечает Euronews,</segment>
+		<segment id="41" parent="43" relname="span">это уже четвертая работа,</segment>
+		<segment id="42" parent="41" relname="elaboration">в которой Бэнкси критикует европейские страны за отношение к миграционному кризису.\n\nВ стихийном лагере беженцев в Кале,</segment>
+		<segment id="44" parent="45" relname="condition">прозванном \"джунглями\",</segment>
+		<segment id="45" parent="46" relname="span">живут около шести тысяч мигрантов.</segment>
+		<segment id="49" parent="55" relname="span">Они не оставляют попыток попасть в Великобританию,</segment>
+		<segment id="50" parent="52" relname="joint">прячась в грузовиках, поездах</segment>
+		<segment id="51" parent="52" relname="joint">и следуя пешком через тоннели.\n\nКак отмечает \"МК-Лондон\",</segment>
+		<segment id="53" parent="54" relname="span">последнее столкновение между беженцами и полицейскими произошло в понедельник, 25 января.</segment>
+		<segment id="56" parent="58" relname="span">Стражи порядка пытались создать 100-метровую буферную зону между лагерем и шоссе,</segment>
+		<segment id="57" parent="56" relname="purpose">чтобы предотвратить попадание нелегалов на паромы и в тоннели.</segment>
+		<segment id="59" parent="63" relname="span">В Париже отвергают обвинения в излишней жестокости,</segment>
+		<segment id="60" parent="62" relname="span">отмечая, что спецсредства идут в ход только в крайних случаях.\n\nРанее британский художник изобразил основателя Apple в виде сирийского беженца,</segment>
+		<segment id="61" parent="60" relname="elaboration">который скитается с компьютером в руке и мешком на плече.</segment>
+		<segment id="64" parent="66" relname="joint">Мигранты тут же установили рядом с рисунком палатку</segment>
+		<segment id="65" parent="66" relname="joint">и начали брать пять евро с желающих посмотреть на него.\n\nИсточник: https://www.newsru.com/cinema/25Jan2016/banksy.html\n</segment>
+		<group id="39" type="multinuc" parent="71" relname="joint"/>
+		<group id="27" type="multinuc" parent="39" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="36" type="span" parent="29" relname="elaboration"/>
+		<group id="35" type="span" parent="30" relname="elaboration"/>
+		<group id="33" type="span" parent="35" relname="span"/>
+		<group id="70" type="span" parent="71" relname="joint"/>
+		<group id="48" type="span" parent="70" relname="span"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="43" type="span" parent="47" relname="span"/>
+		<group id="46" type="span" parent="43" relname="elaboration"/>
+		<group id="69" type="multinuc" parent="48" relname="evidence"/>
+		<group id="55" type="span" parent="69" relname="joint"/>
+		<group id="54" type="span" parent="49" relname="cause-effect"/>
+		<group id="52" type="multinuc" parent="53" relname="cause-effect"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="58" type="span" parent="68" relname="span"/>
+		<group id="67" type="multinuc" parent="58" relname="elaboration"/>
+		<group id="63" type="span" parent="67" relname="joint"/>
+		<group id="62" type="span" parent="59" relname="elaboration"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="71" type="multinuc"/>
+	</body>
+</rst>

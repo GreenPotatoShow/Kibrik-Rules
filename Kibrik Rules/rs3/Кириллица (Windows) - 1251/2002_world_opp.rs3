@@ -1,0 +1,36 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="13" parent="34" relname="preparation">В Азербайджане оппозиция на митинге потребовала отставки правительства\n\nВ Азербайджане оппозиционные силы потребовали отставки руководства страны.</segment>
+		<segment id="14" parent="20" relname="span">Эти требования прозвучали в субботу в ходе массового митинга- шествия,</segment>
+		<segment id="15" parent="19" relname="span">организованного в Баку ведущими оппозиционными партиями Азербайджана - \"Мусават\", Демократической партией, партией Национальной Независимости, Народного Фронта и других.\n\nКолонны оппозиции совершили двухчасовой марш по улицам Баку,</segment>
+		<segment id="16" parent="18" relname="span">завершив шествие митингом,</segment>
+		<segment id="17" parent="16" relname="elaboration">на котором выступили практически все основные оппозиционные лидеры страны.</segment>
+		<segment id="21" parent="23" relname="joint">Они обвинили власти в тоталитаризме, в нарушении прав человека и гражданских свобод, в неспособности добиться освобождения \"оккупированных территорий\" Нагорного Карабаха.\n\</segment>
+		<segment id="22" parent="23" relname="joint">nНа митинге также прозвучало требование аннулировать итоги референдума 24 августа по внесению изменений в Конституцию Азербайджана.\n\nЗа ходом митинга наблюдали многочисленные силы полиции.</segment>
+		<segment id="24" parent="25" relname="attribution">Между тем, по данным правоохранительных органов Баку, и шествие, и митинг оппозиции прошел без инцидентов.\n\nОрганизаторы акции утверждали,</segment>
+		<segment id="25" parent="26" relname="span">что им удалось собрать несколько десятков тысяч человек,</segment>
+		<segment id="29" parent="31" relname="same-unit">тогда как, согласно источникам в правохранительных органах,</segment>
+		<segment id="30" parent="31" relname="same-unit">по предварительным оценкам в митинге оппозиции приняли участие порядка трех тысяч человек.\n\nИсточник: https://www.newsru.com/world/05Oct2002/opp.html\n</segment>
+		<group id="34" type="multinuc" parent="35" relname="span"/>
+		<group id="20" type="span" parent="34" relname="joint"/>
+		<group id="19" type="span" parent="14" relname="elaboration"/>
+		<group id="18" type="span" parent="15" relname="elaboration"/>
+		<group id="33" type="multinuc" parent="34" relname="joint"/>
+		<group id="23" type="multinuc" parent="33" relname="joint"/>
+		<group id="32" type="multinuc" parent="33" relname="joint"/>
+		<group id="26" type="span" parent="32" relname="comparison"/>
+		<group id="31" type="multinuc" parent="32" relname="comparison"/>
+		<group id="35" type="span"/>
+	</body>
+</rst>

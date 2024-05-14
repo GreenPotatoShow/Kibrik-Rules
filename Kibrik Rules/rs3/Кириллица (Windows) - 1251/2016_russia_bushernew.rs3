@@ -1,0 +1,60 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="25" relname="span">\"Росатом\" до конца года начнет строительство новых реакторов в Иране\n\n\"Росатом\" до конца года начнет строительство новой АЭС в Иране</segment>
+		<segment id="24" parent="23" relname="attribution">- второго и третьего энергоблока в Бушере,</segment>
+		<segment id="26" parent="25" relname="attribution">сообщил глава компании Сергей Кириенко в интервью НТВ.</segment>
+		<segment id="28" parent="30" relname="sequence">Еще один зарубежный проект начнется в Индии.\n\n\"Мы запустили \"Бушер\" (блок N1 АЭС \"Бушер\")</segment>
+		<segment id="29" parent="30" relname="sequence">и уже подписали контракт.</segment>
+		<segment id="31" parent="33" relname="span">В этом году начинается стройка второго и третьего (энергоблоков АЭС).</segment>
+		<segment id="32" parent="31" relname="elaboration">Соглашение подписано на восемь (блоков)\", - цитирует Кириенко \"Интерфакс\".\n\nИранский проект - долгострой \"Росатома\".</segment>
+		<segment id="35" parent="37" relname="sequence">Контракт на строительство первого блока был подписан с немцами из Siemens еще в 1974 году,</segment>
+		<segment id="36" parent="37" relname="sequence">России он достался в 1995.</segment>
+		<segment id="38" parent="40" relname="joint">Строительство дополнительных энергоблоков было согласовано в ноябре 2014 года.\n\nСогласно документу,</segment>
+		<segment id="39" parent="40" relname="joint">стороны намерены сотрудничать в сооружении восемь энергоблоков с реакторами ВВЭР \"под ключ\" на территории Ирана (четыре энергоблока на площадке АЭС \"Бушер\" и четыре блока на другой площадке).</segment>
+		<segment id="42" parent="44" relname="joint">Тогда же был подписан контракт на строительство второй очереди АЭС \"Бушер\",</segment>
+		<segment id="43" parent="44" relname="joint">предусматривающий сооружение двух энергоблоков АЭС с возможностью расширения до четырех энергоблоков.\n\n23 сентября 2013 года Россия передала первый энергоблок АЭС \"Бушер\" мощностью 1000 МВт иранскому заказчику</segment>
+		<segment id="45" parent="46" relname="sequence">- был подписан акт предварительной приемки станции.</segment>
+		<segment id="47" parent="51" relname="comparison">В конце июня 2013 года АЭС \"Бушер\" была выведена на 100% мощности.\n\nВ Индии,</segment>
+		<segment id="48" parent="49" relname="attribution">как передает ТАСС,</segment>
+		<segment id="49" parent="50" relname="span">\"Росатом\" будет строить новые энергоблоки на АЭС \"Куданкулам\".</segment>
+		<segment id="53" parent="55" relname="span">\"В Индии сейчас идет пуск второго блока,</segment>
+		<segment id="54" parent="53" relname="background">два года назад запустили первый.</segment>
+		<segment id="56" parent="58" relname="span">Мы уже подписали контракты на третий и четвертый.</segment>
+		<segment id="57" parent="56" relname="elaboration">До конца этого года, скорее всего, подпишем на пятый и шестой\",</segment>
+		<segment id="60" parent="61" relname="comparison">- сообщил Кириенко.\n\nВесной 2014 года Россия и Индия подписали генеральное рамочное соглашение о строительстве второй очереди (третий и четвертый энергоблоки) АЭС \"Куданкулам\", а в декабре 2015 года - документы, позволяющие начать ее сооружение.\n\nИсточник: https://www.newsru.com/russia/12Jun2016/bushernew.html\n</segment>
+		<group id="27" type="span" parent="64" relname="preparation"/>
+		<group id="25" type="span" parent="27" relname="span"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="34" type="span" parent="63" relname="preparation"/>
+		<group id="30" type="multinuc" parent="34" relname="span"/>
+		<group id="33" type="span" parent="30" relname="elaboration"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="41" type="multinuc" parent="63" relname="joint"/>
+		<group id="37" type="multinuc" parent="41" relname="joint"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="52" type="multinuc" parent="62" relname="joint"/>
+		<group id="46" type="multinuc" parent="52" relname="joint"/>
+		<group id="44" type="multinuc" parent="46" relname="sequence"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="comparison"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="59" type="span" parent="61" relname="comparison"/>
+		<group id="55" type="span" parent="59" relname="span"/>
+		<group id="58" type="span" parent="55" relname="elaboration"/>
+		<group id="65" type="span"/>
+	</body>
+</rst>

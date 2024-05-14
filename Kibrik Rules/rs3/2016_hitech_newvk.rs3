@@ -1,0 +1,99 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="42" parent="48" relname="span">\"ВКонтакте\" представила новый дизайн\n\nСоциальная сеть \"ВКонтакте\" представила обновленный дизайн веб-версии.</segment>
+		<segment id="43" parent="47" relname="span">Изменение внешнего облика соцсети стало самым значительным за 10 лет.\n\n\"Работа над новым дизайном велась на протяжении последних полутора лет.</segment>
+		<segment id="44" parent="46" relname="joint">Мы тщательно изучали, продумывали</segment>
+		<segment id="45" parent="46" relname="joint">и создавали заново каждый элемент.</segment>
+		<segment id="49" parent="53" relname="joint">Сегодня мы делаем следующий шаг</segment>
+		<segment id="50" parent="52" relname="span">и переходим на новый уровень развития сайта,</segment>
+		<segment id="51" parent="50" relname="purpose">чтобы сделать его более современным\",</segment>
+		<segment id="54" parent="57" relname="attribution">– написал в блоге компании ее операционный директор Андрей Рогозов.\n\nРогозов также отметил,</segment>
+		<segment id="55" parent="57" relname="joint">что главный принцип нового дизайна \"ВКонтакте\" заключается в том, что на всех устройствах соцсеть выглядит похоже</segment>
+		<segment id="56" parent="57" relname="joint">и узнаваемо.</segment>
+		<segment id="61" parent="73" relname="joint">Так, пользователям веб-сайта \"ВКонтакте\" легко найти нужный раздел в мобильном приложении, и наоборот.\n\nКак отмечает Slon.ru,</segment>
+		<segment id="62" parent="64" relname="joint">основным изменением стало увеличение ширины экрана и шрифтов,</segment>
+		<segment id="63" parent="64" relname="joint">а также обновление основного меню</segment>
+		<segment id="65" parent="71" relname="joint">– в нем сократили названия пунктов</segment>
+		<segment id="66" parent="70" relname="comparison">и перенесли наверх наиболее популярные разделы – новости и сообщения.\n\nЛента новостей также претерпела изменения.</segment>
+		<segment id="67" parent="69" relname="joint">Записи в ней стали заметнее,</segment>
+		<segment id="68" parent="69" relname="joint">а списки новостей в новом дизайне находятся отдельном блоке справа вместе с поиском и комментариями.</segment>
+		<segment id="74" parent="80" relname="contrast">По умолчанию публикации в ленте отображаются в хронологическом порядке,</segment>
+		<segment id="75" parent="79" relname="span">однако включить умную ленту новостей стало проще.\n\nТакже в соцсети появилась общая иконка уведомлений,</segment>
+		<segment id="76" parent="78" relname="joint">которая размещается в верхней части страницы</segment>
+		<segment id="77" parent="78" relname="joint">и открывает доступ к соответствующему разделу.</segment>
+		<segment id="81" parent="80" relname="elaboration">В случае появления новых уведомлений возле иконки появляется красный индикатор.\n\n\"Раздел сообщений переписан с нуля.</segment>
+		<segment id="83" parent="89" relname="joint">В обновленном интерфейсе мы поместили на одном экране список последних бесед и текущий открытый чат.</segment>
+		<segment id="84" parent="86" relname="joint">Переключаться между беседами</segment>
+		<segment id="85" parent="86" relname="joint">и реагировать на новые сообщения стало проще.</segment>
+		<segment id="87" parent="86" relname="elaboration">Непрочитанные сообщения помечаются синей точкой, которая исчезает после прочтения, а статус онлайн – зеленой точкой\",</segment>
+		<segment id="90" parent="89" relname="elaboration">– написал Рогозов.\n\nИзменениям подвергся и раздел с фотографиями пользователей.</segment>
+		<segment id="95" parent="107" relname="joint">Теперь фотографии в альбомах и при обзоре всех фотографий отображаются крупнее и в журнальной верстке.</segment>
+		<segment id="96" parent="106" relname="span">Кроме того, просмотр фотографий ориентирован горизонтально,</segment>
+		<segment id="97" parent="104" relname="purpose">чтобы лучше задействовать пространство широкоформатных экранов.</segment>
+		<segment id="98" parent="104" relname="contrast">Комментарии к снимкам теперь отображаются не под ними, а в правой части экрана.\n\nПока что новая версия \"ВКонтакте\" работает в режиме тестирования,</segment>
+		<segment id="99" parent="103" relname="same-unit">а опробовать ее,</segment>
+		<segment id="100" parent="101" relname="attribution">по данным TJ,</segment>
+		<segment id="101" parent="102" relname="span">сможет один миллион пользователей соцсети.</segment>
+		<segment id="108" parent="109" relname="purpose">Чтобы попасть в число тестировщиков,</segment>
+		<segment id="109" parent="110" relname="span">достаточно перейти по ссылке, размещенной в конце публикации Рогозова.</segment>
+		<segment id="111" parent="115" relname="same-unit">При этом пользователи,</segment>
+		<segment id="112" parent="114" relname="joint">принимающие участие в тестировании,</segment>
+		<segment id="113" parent="114" relname="joint">смогут в любой момент переключиться на старую версию сайта.</segment>
+		<segment id="116" parent="117" relname="condition">Когда именно администрация соцсети намерена полностью перейти на обновленный дизайн,</segment>
+		<segment id="117" parent="118" relname="span">не сообщается.\n\nИсточник: https://www.newsru.com/hitech/01Apr2016/newvk.html\n</segment>
+		<group id="94" type="multinuc" parent="122" relname="comparison"/>
+		<group id="60" type="multinuc" parent="94" relname="comparison"/>
+		<group id="48" type="span" parent="60" relname="joint"/>
+		<group id="47" type="span" parent="42" relname="elaboration"/>
+		<group id="46" type="multinuc" parent="43" relname="elaboration"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="53" type="multinuc" parent="59" relname="span"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="58" type="span" parent="53" relname="elaboration"/>
+		<group id="57" type="multinuc" parent="58" relname="span"/>
+		<group id="93" type="multinuc" parent="94" relname="comparison"/>
+		<group id="73" type="multinuc" parent="93" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="64" type="multinuc" parent="72" relname="joint"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="69" type="multinuc" parent="70" relname="comparison"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="82" type="span" parent="92" relname="joint"/>
+		<group id="80" type="multinuc" parent="82" relname="span"/>
+		<group id="79" type="span" parent="80" relname="contrast"/>
+		<group id="78" type="multinuc" parent="75" relname="elaboration"/>
+		<group id="91" type="span" parent="92" relname="joint"/>
+		<group id="89" type="multinuc" parent="91" relname="span"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="86" type="multinuc" parent="88" relname="span"/>
+		<group id="121" type="span" parent="122" relname="comparison"/>
+		<group id="107" type="multinuc" parent="121" relname="span"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="105" type="span" parent="96" relname="purpose"/>
+		<group id="104" type="multinuc" parent="105" relname="span"/>
+		<group id="103" type="multinuc" parent="104" relname="contrast"/>
+		<group id="102" type="span" parent="103" relname="same-unit"/>
+		<group id="120" type="multinuc" parent="107" relname="elaboration"/>
+		<group id="110" type="span" parent="120" relname="joint"/>
+		<group id="119" type="span" parent="120" relname="joint"/>
+		<group id="115" type="multinuc" parent="119" relname="span"/>
+		<group id="114" type="multinuc" parent="115" relname="same-unit"/>
+		<group id="118" type="span" parent="115" relname="elaboration"/>
+		<group id="122" type="multinuc"/>
+	</body>
+</rst>

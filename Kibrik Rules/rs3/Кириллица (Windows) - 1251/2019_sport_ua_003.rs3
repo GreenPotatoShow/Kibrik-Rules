@@ -1,0 +1,55 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="22" relname="span">Сборной Украины по футболу грозит техническое поражение в квалификации Евро-2020\n\nСборной Украины могут присудить два технических поражения в отборочных матчах Евро-2020 с командами Португалии и Люксембурга</segment>
+		<segment id="21" parent="20" relname="cause-effect">из-за нарушения правил натурализации футболиста Жуниора Мораеса,</segment>
+		<segment id="23" parent="27" relname="sequence">сообщает РИА \"Новости\" со ссылкой на португальские СМИ.\n\nБразильский нападающий донецкого \"Шахтера\" Мораес получил гражданство Украины 18 марта,</segment>
+		<segment id="24" parent="26" relname="span">на следующий день 31-летний футболист был вызван в сборную</segment>
+		<segment id="25" parent="24" relname="purpose">для участия в отборочных матчах Евро-2020.\n\</segment>
+		<segment id="29" parent="30" relname="attribution">nПо данным португальского издания,</segment>
+		<segment id="30" parent="31" relname="span">украинская сборная может столкнуться с санкциями ФИФА вплоть до технических поражений в двух встречах,</segment>
+		<segment id="32" parent="35" relname="attribution">так как Мораес не прожил в стране пять лет без перерыва после достижения 18-летнего возраста.\n\nПозднее португальское издание Maisfutebol сообщило,</segment>
+		<segment id="33" parent="35" relname="span">что Федерация футбола Люксембурга направит протест в УЕФА по итогам отборочного матча Евро-2020 против сборной Украины</segment>
+		<segment id="34" parent="33" relname="cause-effect">из-за подозрения о нарушении правил натурализации Мораеса.\n\nУроженец Бразилии играет на Украине с 2012 года,</segment>
+		<segment id="37" parent="38" relname="span">гражданство этой страны он получил в марте 2019 года.</segment>
+		<segment id="40" parent="46" relname="span">Однако требование о пяти годах непрерывного проживания могло быть не соблюдено,</segment>
+		<segment id="41" parent="44" relname="cause-effect">так как он провел несколько месяцев в аренде в Китае в 2017 году.\n\nУкраинский портал Betnews365.com настаивает,</segment>
+		<segment id="42" parent="44" relname="span">что Мораес имел право выступать за сборную Украины,</segment>
+		<segment id="43" parent="42" relname="cause-effect">так как по законам этой страны беспрерывным годом проживания считается пребывание на территории 183 дня в году.</segment>
+		<segment id="47" parent="53" relname="span">А это требование было соблюдено.\n\</segment>
+		<segment id="48" parent="52" relname="sequence">nВ рамках отборочного турнира Евро-2020 сборная Украины 22 марта сыграла вничью с португальцами (0:0),</segment>
+		<segment id="49" parent="51" relname="span">а 25 марта обыграла команду Люксембурга (2:1).</segment>
+		<segment id="50" parent="49" relname="elaboration">Мораес принял участие в обоих встречах.\n\nПосле двух туров украинцы с четырьмя очками лидируют в группе B.\n\nИсточник: https://www.newsru.com/sport/26Mar2019/ua.html\n</segment>
+		<group id="28" type="span" parent="56" relname="joint"/>
+		<group id="22" type="span" parent="28" relname="span"/>
+		<group id="27" type="multinuc" parent="22" relname="attribution"/>
+		<group id="26" type="span" parent="27" relname="sequence"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="39" type="span" parent="55" relname="contrast"/>
+		<group id="31" type="span" parent="39" relname="span"/>
+		<group id="38" type="span" parent="31" relname="cause-effect"/>
+		<group id="36" type="span" parent="37" relname="cause-effect"/>
+		<group id="35" type="span" parent="36" relname="span"/>
+		<group id="54" type="multinuc" parent="55" relname="contrast"/>
+		<group id="46" type="span" parent="54" relname="joint"/>
+		<group id="45" type="span" parent="40" relname="cause-effect"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="52" type="multinuc" parent="47" relname="elaboration"/>
+		<group id="51" type="span" parent="52" relname="sequence"/>
+		<group id="56" type="multinuc"/>
+	</body>
+</rst>

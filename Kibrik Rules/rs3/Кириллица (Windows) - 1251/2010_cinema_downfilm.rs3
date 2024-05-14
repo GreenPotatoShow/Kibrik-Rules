@@ -1,0 +1,67 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="30" relname="joint">В российский прокат выходит фильм, в котором сыграл актер с синдромом Дауна\n\nРоссийская премьера испанского фильма \"Я тоже\",</segment>
+		<segment id="27" parent="29" relname="span">главную роль в котором сыграл актер с синдромом Дауна Пабло Пинеда,</segment>
+		<segment id="28" parent="27" relname="background">состоится в Москве в кинотеатре \"35 мм\" в среду,</segment>
+		<segment id="31" parent="33" relname="contrast">сообщает РИА \"Новости\" со ссылкой на заявление одного из режиссеров картины Альваро Пастора.\n\n\"Тридцать лет назад люди с синдромом Дауна могли находиться только дома или в специализированных клиниках,</segment>
+		<segment id="32" parent="33" relname="contrast">а сегодня могут учиться в университетах.</segment>
+		<segment id="35" parent="41" relname="sequence">Мы решили рассказать о парне, который первым окончил полный курс обычного университета.</segment>
+		<segment id="36" parent="40" relname="span">Тут Пинеда играет самого себя</segment>
+		<segment id="37" parent="38" relname="cause-effect">- он первым окончил университет</segment>
+		<segment id="38" parent="39" relname="span">и его герой тоже\",</segment>
+		<segment id="42" parent="41" relname="attribution">- рассказал Пастор на пресс-конференции</segment>
+		<segment id="44" parent="45" relname="attribution">.\n\nПри этом он отметил,</segment>
+		<segment id="45" parent="46" relname="span">что \"этот фильм - не просто история человека с синдромом Дауна, а история любви этого человека\".</segment>
+		<segment id="47" parent="50" relname="cause-effect">\"Он оканчивает университет,</segment>
+		<segment id="48" parent="50" relname="joint">начинает работать в офисе</segment>
+		<segment id="49" parent="50" relname="joint">и влюбляется в коллегу.</segment>
+		<segment id="52" parent="54" relname="joint">Мы рассказали об их любви,</segment>
+		<segment id="53" parent="54" relname="joint">при этом постарались сделать это легко и ненавязчиво\",</segment>
+		<segment id="56" parent="59" relname="attribution">- рассказал режиссер</segment>
+		<segment id="57" parent="59" relname="joint">.\n\nПастор снял картину</segment>
+		<segment id="58" parent="59" relname="joint">\"Я тоже\" совместно с режиссером Антонио Нахарро.</segment>
+		<segment id="62" parent="64" relname="joint">В главных ролях вместе с Пинедой играет известная актриса Лола Дуэньяс.\n\nИсполнитель главной роли Пинеда получил приз как лучший актер на фестивале в Сан-Себастьяне в прошлом году.</segment>
+		<segment id="63" parent="64" relname="joint">В России фильм уже был показан этим летом на фестивалях Voices в Вологде и Summer Times в Москве.\n\nНапомним, в России недавно дети с синдромом Дауна сняли о себе фильм с помощью студии \"Группа волшебников\".</segment>
+		<segment id="65" parent="69" relname="span">В съемках фильма приняли участие дети совершенно разного возраста.</segment>
+		<segment id="66" parent="68" relname="joint">Перед камерой они рассказали о своих мечтах, радостях и тревогах.</segment>
+		<segment id="67" parent="68" relname="joint">Также у них появилась возможность попробовать себя в разной роли, начиная с актерской работы, заканчивая работой режиссера и оператора.\n\nИсточник: https://www.newsru.com/cinema/15Sep2010/downfilm.html\n</segment>
+		<group id="34" type="multinuc" parent="73" relname="preparation"/>
+		<group id="30" type="multinuc" parent="34" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="33" type="multinuc" parent="34" relname="joint"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="43" type="span" parent="73" relname="sequence"/>
+		<group id="41" type="multinuc" parent="43" relname="span"/>
+		<group id="40" type="span" parent="41" relname="sequence"/>
+		<group id="39" type="span" parent="36" relname="background"/>
+		<group id="72" type="multinuc" parent="73" relname="sequence"/>
+		<group id="46" type="span" parent="72" relname="joint"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="61" type="span" parent="71" relname="joint"/>
+		<group id="55" type="span" parent="61" relname="span"/>
+		<group id="51" type="span" parent="55" relname="span"/>
+		<group id="50" type="multinuc" parent="51" relname="span"/>
+		<group id="54" type="multinuc" parent="51" relname="elaboration"/>
+		<group id="60" type="span" parent="55" relname="attribution"/>
+		<group id="59" type="multinuc" parent="60" relname="span"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="64" type="multinuc" parent="70" relname="joint"/>
+		<group id="69" type="span" parent="70" relname="joint"/>
+		<group id="68" type="multinuc" parent="65" relname="elaboration"/>
+		<group id="74" type="span"/>
+	</body>
+</rst>

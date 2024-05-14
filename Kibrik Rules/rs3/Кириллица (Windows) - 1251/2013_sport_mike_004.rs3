@@ -1,0 +1,59 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="24" relname="span">Тайсон собрался юридическим путем \"выбить\" пять млн долларов из бывших своих финансистов\n\nЗнаменитый в прошлом боксер-профессионал Майк Тайсон подал иск в суд против компании,</segment>
+		<segment id="23" parent="22" relname="background">которая ранее управляла финансами его семьи.</segment>
+		<segment id="25" parent="27" relname="contrast">Американец обвиняет фирму-консультанта в растрате более 300 тысяч долларов.\n\nКомпания получила от Майка и его жены Лакихи право распоряжаться их финансами,</segment>
+		<segment id="26" parent="27" relname="contrast">однако \"обманула доверие супругов\",</segment>
+		<segment id="28" parent="27" relname="attribution">говорится в исковом заявлении.\n\</segment>
+		<segment id="31" parent="33" relname="contrast">nПозднее фирма вернула часть растраченных средств,</segment>
+		<segment id="32" parent="33" relname="contrast">но потребовала от Тайсонов заключить соглашение о неразглашении сущности операций с финансами.</segment>
+		<segment id="35" parent="37" relname="joint">Клиенты отказались подписать данный документ</segment>
+		<segment id="36" parent="37" relname="joint">и обратились в суд.\n\nТеперь Майк требует возместить его семье 5 миллионов долларов.</segment>
+		<segment id="38" parent="37" relname="elaboration">В сумму включены не только непосредственные, но и косвенные убытки от \"невозможности завершить процедуру банкротства и необходимости найма новых консультантов\".</segment>
+		<segment id="40" parent="42" relname="span">Кроме того, действия фирмы повлекли за собой дальнейшее ухудшения финансового положения Тайсона,</segment>
+		<segment id="41" parent="40" relname="cause-effect">так как вынудили того \"отказаться от выгодных контрактов\",</segment>
+		<segment id="43" parent="42" relname="attribution">утверждают адвокаты боксера</segment>
+		<segment id="45" parent="49" relname="span">.\n\n\"Компании были доверены средства семьи Тайсонов,</segment>
+		<segment id="46" parent="48" relname="joint">чтобы она сохранила эти деньги</segment>
+		<segment id="47" parent="48" relname="joint">и использовала их в интересах истца,</segment>
+		<segment id="50" parent="52" relname="span">- передает суть судебной претензии vesti.ru,</segment>
+		<segment id="51" parent="50" relname="condition">ссылаясь на АР.</segment>
+		<segment id="54" parent="55" relname="contrast">- Однако сторона ответчика не приложила достаточно усилий к выполнению своих обязательств, предусмотренных контрактом.</segment>
+		<segment id="57" parent="59" relname="joint">Наоборот, указанные средства были незаконно присвоены сотрудниками фирмы</segment>
+		<segment id="58" parent="59" relname="joint">и направлены на улучшение материального положения самой фирмы\".\n\nИсточник: https://www.newsru.com/sport/22Feb2013/mike.html\n</segment>
+		<group id="34" type="multinuc" parent="62" relname="joint"/>
+		<group id="30" type="multinuc" parent="34" relname="sequence"/>
+		<group id="24" type="span" parent="30" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="27" type="multinuc" parent="29" relname="span"/>
+		<group id="33" type="multinuc" parent="34" relname="sequence"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="39" type="span" parent="61" relname="joint"/>
+		<group id="37" type="multinuc" parent="39" relname="span"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="56" type="multinuc" parent="60" relname="contrast"/>
+		<group id="44" type="span" parent="56" relname="joint"/>
+		<group id="42" type="span" parent="44" relname="span"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="53" type="span" parent="55" relname="contrast"/>
+		<group id="49" type="span" parent="53" relname="span"/>
+		<group id="48" type="multinuc" parent="45" relname="purpose"/>
+		<group id="52" type="span" parent="49" relname="attribution"/>
+		<group id="59" type="multinuc" parent="60" relname="contrast"/>
+		<group id="62" type="multinuc"/>
+	</body>
+</rst>

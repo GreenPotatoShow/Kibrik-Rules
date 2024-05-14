@@ -1,0 +1,147 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="concession" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="63" parent="65" relname="span">Правительство Аббаса потерпело поражение:</segment>
+		<segment id="64" parent="63" relname="elaboration">в Газе нет ни закона, ни порядка\n\n</segment>
+		<segment id="66" parent="68" relname="joint">\"Мы погрузились в хаос,</segment>
+		<segment id="67" parent="68" relname="joint">и мы больше не можем этого скрывать.</segment>
+		<segment id="69" parent="71" relname="joint">Особенно в секторе Газа правительство Абу Мазена (Махмуда Аббаса) потерпело поражение,</segment>
+		<segment id="70" parent="71" relname="joint">оно не в состоянии установить закон и порядок\".</segment>
+		<segment id="73" parent="75" relname="span">Таково мнение Ханан Ашрауи,</segment>
+		<segment id="74" parent="73" relname="background">известной палестинской политической деятельницы,</segment>
+		<segment id="76" parent="75" relname="attribution">пишет в пятницу Corriere della Sera.</segment>
+		<segment id="78" parent="80" relname="span">(Перевод на сайте Inopressa.ru)\n\nЗдесь, на своей небольшой вилле, расположенной напротив стены резиденции \"Муката\",</segment>
+		<segment id="79" parent="78" relname="background">где был вынужден находиться Арафат,</segment>
+		<segment id="81" parent="82" relname="contrast">а теперь располагается представительство его более чем слабого преемника,</segment>
+		<segment id="83" parent="85" relname="span">эта известная участница борьбы за палестинское дело накануне выборов,</segment>
+		<segment id="84" parent="83" relname="elaboration">назначенных на 25 января, организует свою партию \"Третий путь\".\n\n\"Мы назвали партию \"Третий путь\",</segment>
+		<segment id="86" parent="85" relname="cause-effect">потому что наша партия является альтернативой коррупции \"Фатх\" и исламскому интегрализму \"Хамас\",</segment>
+		<segment id="91" parent="90" relname="attribution">– сказала Ашрауи.\n\</segment>
+		<segment id="93" parent="182" relname="preparation">nОсновным пунктом ее политической программы является \"честность против коррупции\".</segment>
+		<segment id="94" parent="99" relname="attribution">Ашрауи считает</segment>
+		<segment id="95" parent="97" relname="span">что Палестинской автономии необходимо законное правительство,</segment>
+		<segment id="96" parent="95" relname="elaboration">которое не побоится реформировать полицию,</segment>
+		<segment id="98" parent="97" relname="purpose">чтобы установить наконец порядок и истинную демократию</segment>
+		<segment id="101" parent="102" relname="joint">.\n\nАшрауи с обеспокоенностью комментирует сообщения о последних актах насилия в секторе Газа.\n\n\"Это страшные события.</segment>
+		<segment id="103" parent="102" relname="interpretation-evaluation">Такое происходит не впервые.</segment>
+		<segment id="105" parent="111" relname="span">К сожалению, в последние месяцы мы стали свидетелями активного усиления насилия.</segment>
+		<segment id="106" parent="108" relname="span">Не исключено, что с приближением парламентских выборов,</segment>
+		<segment id="107" parent="106" relname="elaboration">которые должны состояться через месяц,</segment>
+		<segment id="109" parent="110" relname="span">ситуация может еще ухудшиться\",</segment>
+		<segment id="112" parent="113" relname="attribution">- считает палестинский политик</segment>
+		<segment id="113" parent="114" relname="span">.\n\</segment>
+		<segment id="116" parent="123" relname="attribution">nПо ее мнению,</segment>
+		<segment id="117" parent="120" relname="cause-effect">вина за последние события лежит на лидере Палестинской автономии Абу Мазене.\n\n\"Ему не хватило смелости,</segment>
+		<segment id="118" parent="120" relname="span">он не захотел применить силу,</segment>
+		<segment id="119" parent="118" relname="purpose">чтобы установить свою власть,</segment>
+		<segment id="122" parent="121" relname="concession">несмотря на то, что уже этим летом понимал, что ситуация ухудшается.</segment>
+		<segment id="125" parent="133" relname="span">Мы знаем его слабые места:</segment>
+		<segment id="126" parent="132" relname="span">год назад он приступил к работе,</segment>
+		<segment id="127" parent="130" relname="condition">когда администрация уже была развалена,</segment>
+		<segment id="128" parent="130" relname="joint">силы безопасности разделены,</segment>
+		<segment id="129" parent="130" relname="joint">в его полиции был недостаток людей и оружия.</segment>
+		<segment id="134" parent="136" relname="span">Однако он ничего не сделал,</segment>
+		<segment id="135" parent="134" relname="purpose">чтобы изменить ситуацию.</segment>
+		<segment id="137" parent="138" relname="cause-effect">Коррупционеры и мафиози старой администрации продолжали процветать,</segment>
+		<segment id="138" parent="139" relname="span">он даже не сумел реформировать полицию.</segment>
+		<segment id="140" parent="142" relname="joint">Теперь в Газе правят крупные кланы, частные милиционные формирования,</segment>
+		<segment id="141" parent="142" relname="joint">нет даже видимости присутствия центральной власти\",</segment>
+		<segment id="145" parent="144" relname="attribution">- пояснила Ашрауи.\n\</segment>
+		<segment id="148" parent="152" relname="span">nНо,</segment>
+		<segment id="149" parent="150" relname="concession">несмотря на это,</segment>
+		<segment id="150" parent="151" relname="span">выборы,</segment>
+		<segment id="153" parent="154" relname="attribution">по мнению Ашрауи,</segment>
+		<segment id="154" parent="155" relname="span">должны непременно состояться.</segment>
+		<segment id="157" parent="162" relname="attribution">Она считает,</segment>
+		<segment id="158" parent="162" relname="span">что другого выхода у палестинского народа нет.\n\nГоворя о росте популярности \"Хамас\",</segment>
+		<segment id="159" parent="160" relname="attribution">Ашрауи считает,</segment>
+		<segment id="160" parent="161" relname="span">что народ, скорее, голосовал не за эту партию, а против партии власти.\n\n\"Во многих случаях это протестное голосование.</segment>
+		<segment id="166" parent="170" relname="span">Народ, даже традиционно светский электорат, довольно многочисленный у нас, палестинцев,</segment>
+		<segment id="167" parent="169" relname="contrast">избрал \"Хамас\" не потому, что неожиданно приблизился к исламу,</segment>
+		<segment id="168" parent="169" relname="contrast">а скорее для того, чтобы осудить коррупцию, царствующую в \"Фатх\" и среди старых лидеров ООП, вернувшихся на оккупированные территории в 1994 году.</segment>
+		<segment id="171" parent="173" relname="span">Вот почему формирование нашей партии имеет смысл:</segment>
+		<segment id="172" parent="171" relname="elaboration">она попытается вернуть протестные голоса нерелигиозных избирателей\",</segment>
+		<segment id="175" parent="174" relname="attribution">- пояснила Ашрауи.\n\nИсточник: https://www.newsru.com/world/30Dec2005/abbas.html\n</segment>
+		<group id="65" type="span" parent="184" relname="preparation"/>
+		<group id="184" type="multinuc" parent="185" relname="span"/>
+		<group id="92" type="span" parent="184" relname="joint"/>
+		<group id="90" type="multinuc" parent="92" relname="span"/>
+		<group id="72" type="span" parent="90" relname="joint"/>
+		<group id="68" type="multinuc" parent="72" relname="span"/>
+		<group id="71" type="multinuc" parent="68" relname="cause-effect"/>
+		<group id="89" type="span" parent="90" relname="joint"/>
+		<group id="77" type="span" parent="89" relname="span"/>
+		<group id="75" type="span" parent="77" relname="span"/>
+		<group id="88" type="multinuc" parent="77" relname="elaboration"/>
+		<group id="82" type="multinuc" parent="88" relname="joint"/>
+		<group id="80" type="span" parent="82" relname="contrast"/>
+		<group id="87" type="span" parent="88" relname="joint"/>
+		<group id="85" type="span" parent="87" relname="span"/>
+		<group id="183" type="span" parent="184" relname="joint"/>
+		<group id="182" type="multinuc" parent="183" relname="span"/>
+		<group id="104" type="span" parent="182" relname="joint"/>
+		<group id="102" type="multinuc" parent="104" relname="span"/>
+		<group id="100" type="span" parent="102" relname="joint"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="97" type="span" parent="99" relname="span"/>
+		<group id="181" type="multinuc" parent="182" relname="joint"/>
+		<group id="115" type="span" parent="181" relname="joint"/>
+		<group id="111" type="span" parent="115" relname="span"/>
+		<group id="110" type="span" parent="105" relname="elaboration"/>
+		<group id="108" type="span" parent="109" relname="cause-effect"/>
+		<group id="114" type="span" parent="111" relname="attribution"/>
+		<group id="180" type="multinuc" parent="181" relname="joint"/>
+		<group id="124" type="span" parent="180" relname="joint"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="121" type="span" parent="123" relname="span"/>
+		<group id="120" type="span" parent="121" relname="span"/>
+		<group id="179" type="multinuc" parent="180" relname="joint"/>
+		<group id="147" type="multinuc" parent="179" relname="contrast"/>
+		<group id="133" type="span" parent="147" relname="contrast"/>
+		<group id="132" type="span" parent="125" relname="elaboration"/>
+		<group id="131" type="span" parent="126" relname="condition"/>
+		<group id="130" type="multinuc" parent="131" relname="span"/>
+		<group id="146" type="span" parent="147" relname="contrast"/>
+		<group id="144" type="span" parent="146" relname="span"/>
+		<group id="136" type="span" parent="144" relname="span"/>
+		<group id="143" type="multinuc" parent="136" relname="elaboration"/>
+		<group id="139" type="span" parent="143" relname="joint"/>
+		<group id="142" type="multinuc" parent="143" relname="joint"/>
+		<group id="178" type="span" parent="179" relname="contrast"/>
+		<group id="156" type="multinuc" parent="178" relname="span"/>
+		<group id="152" type="span" parent="156" relname="same-unit"/>
+		<group id="151" type="span" parent="148" relname="concession"/>
+		<group id="155" type="span" parent="156" relname="same-unit"/>
+		<group id="177" type="multinuc" parent="156" relname="evidence"/>
+		<group id="163" type="span" parent="177" relname="joint"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="161" type="span" parent="158" relname="elaboration"/>
+		<group id="176" type="span" parent="177" relname="joint"/>
+		<group id="174" type="span" parent="176" relname="span"/>
+		<group id="170" type="span" parent="173" relname="cause-effect"/>
+		<group id="169" type="multinuc" parent="166" relname="elaboration"/>
+		<group id="173" type="span" parent="174" relname="span"/>
+		<group id="185" type="span"/>
+	</body>
+</rst>

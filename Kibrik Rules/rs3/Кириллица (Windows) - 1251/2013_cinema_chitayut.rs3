@@ -1,0 +1,63 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="30" relname="comparison">Россияне читают больше,</segment>
+		<segment id="27" parent="29" relname="contrast">чем два года назад,</segment>
+		<segment id="28" parent="29" relname="contrast">но меньше, чем в 90-х\n\</segment>
+		<segment id="31" parent="33" relname="contrast">nРоссияне стали читать больше, чем два года назад,</segment>
+		<segment id="32" parent="33" relname="contrast">но по сравнению с 1990-ми годами нынешний показатель существенно ниже,</segment>
+		<segment id="34" parent="36" relname="span">свидетельствуют результаты опроса Всероссийского центра изучения общественного мнения (ВЦИОМ),</segment>
+		<segment id="35" parent="34" relname="elaboration">обнародованные во вторник.\n\nТак, за последние два года россияне стали читать в среднем 4,23 книги за три месяца.</segment>
+		<segment id="38" parent="44" relname="span">В 90-е такой показатель составлял 5,14,</segment>
+		<segment id="39" parent="43" relname="joint">передает РИА \"Новости\".\n\nБольше всего читают пожилые респонденты (4,48 книги) и активные пользователи интернета (4,56),</segment>
+		<segment id="40" parent="42" relname="comparison">меньше всего - россияне 25-34 лет (4,05).\n\nБольшинство россиян (77%) за последние три месяца не покупали книг</segment>
+		<segment id="41" parent="42" relname="comparison">(не считая учебной литературы).</segment>
+		<segment id="47" parent="59" relname="joint">Средняя сумма расходов на покупку книг среди тех, у кого были такие траты, составила 994 рубля.</segment>
+		<segment id="48" parent="54" relname="comparison">Несколько больше потратили респонденты с доходами выше среднего (1,2 тысячи рубля),</segment>
+		<segment id="49" parent="51" relname="joint">45-59 лет (1,1 тысячи рубля)</segment>
+		<segment id="50" parent="51" relname="joint">и те, кто за последнее время прочитал четыре и больше книг (1,4 тысячи рубля).\n\nБольшинство россиян имеют домашнюю библиотеку,</segment>
+		<segment id="52" parent="53" relname="contrast">однако у 46% она не превышает 100 книг.</segment>
+		<segment id="55" parent="57" relname="comparison">Почти четверть респондентов держат дома от 100 до 300 книг.</segment>
+		<segment id="56" parent="57" relname="comparison">В меньшинстве - владельцы обширных домашних собраний, включающих свыше 300 книг (14%).</segment>
+		<segment id="63" parent="64" relname="purpose">Для сравнения,</segment>
+		<segment id="64" parent="65" relname="span">в начале 1990-х годов такой библиотекой обладал каждый четвертый.</segment>
+		<segment id="66" parent="68" relname="span">За последние два года домашние библиотеки россиян несколько выросли</segment>
+		<segment id="67" parent="66" relname="elaboration">- увеличилась доля тех, кто имеет более 100 книг.</segment>
+		<segment id="69" parent="71" relname="comparison">Напротив, меньше стало тех, у кого совсем нет книг дома (с 18 до 15%).\n\nОпрос ВЦИОМ проведен 23-24 февраля среди 1,6 тысячи человек в 138 населенных пунктах в 46 регионах России.</segment>
+		<segment id="70" parent="71" relname="comparison">Статистическая погрешность не превышает 3,4%.\n\nИсточник: https://www.newsru.com/cinema/12Mar2013/chitayut.html\n</segment>
+		<group id="62" type="span" parent="74" relname="comparison"/>
+		<group id="30" type="multinuc" parent="61" relname="preparation"/>
+		<group id="29" type="multinuc" parent="30" relname="comparison"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="37" type="span" parent="61" relname="joint"/>
+		<group id="33" type="multinuc" parent="36" relname="evidence"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="44" type="span" parent="60" relname="comparison"/>
+		<group id="43" type="multinuc" parent="38" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="59" type="multinuc" parent="60" relname="comparison"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="54" type="multinuc" parent="58" relname="comparison"/>
+		<group id="53" type="multinuc" parent="54" relname="comparison"/>
+		<group id="51" type="multinuc" parent="53" relname="contrast"/>
+		<group id="57" type="multinuc" parent="58" relname="comparison"/>
+		<group id="73" type="span" parent="74" relname="comparison"/>
+		<group id="65" type="span" parent="72" relname="preparation"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="68" type="span" parent="72" relname="comparison"/>
+		<group id="71" type="multinuc" parent="72" relname="comparison"/>
+		<group id="74" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="27" relname="joint">ГМИИ открывает новое здание Музея личных коллекций\n\nВ конце января - начале февраля откроется вторая очередь зданий Музея личных коллекций, входящего в состав Государственного музея изобразительных искусств им. А.С. Пушкина (ГМИИ),</segment>
+		<segment id="26" parent="27" relname="joint">сообщает РИА \"Новости\" со ссылкой на директора музея Марину Лошак.\n\n\"Открываем мы его кураторским концептуальным проектом \"Музей-квартира художника\", где мы показываем инсталляции разного рода собраний.</segment>
+		<segment id="28" parent="27" relname="interpretation-evaluation">Это сложносочиненный, но очень, как мне кажется, впечатляющий проект\",</segment>
+		<segment id="30" parent="29" relname="attribution">- сказала директор музея</segment>
+		<segment id="32" parent="31" relname="interpretation-evaluation">.\n\</segment>
+		<segment id="34" parent="35" relname="attribution">nПо ее словам,</segment>
+		<segment id="35" parent="36" relname="span">в экспозиционном пространстве можно будет увидеть \"квартиры\" архитектора Чернихова, искусствоведа Пунина, художника Штеренберга и других известных деятелей искусства ХХ века.</segment>
+		<segment id="37" parent="41" relname="span">Кроме того, Леонид Тишков представит проект, рассказывающий, как одна старая коллекция может повлиять на создание новой.\n\nРанее,</segment>
+		<segment id="38" parent="39" relname="attribution">по словам прежнего директора Ирины Антоновой,</segment>
+		<segment id="39" parent="40" relname="span">планировалось открыть дополнительные площади Музея личных коллекций в конце 2013 года.\n\nПо данным Colta.ru,</segment>
+		<segment id="42" parent="46" relname="joint">новые площади Музея личных коллекций откроются в здании по адресу Волхонка, 8 - усадьбе Ренкевича,</segment>
+		<segment id="43" parent="45" relname="sequence">построенной в 1788 году</segment>
+		<segment id="44" parent="45" relname="sequence">и перестроенной в 1815.\n\nВведение здания в строй должно было стать одним из первых этапов реконструкции ГМИИ и преобразования его в Музейный городок по задумке бюро Нормана Фостера и \"Моспроекта-5\".</segment>
+		<segment id="48" parent="52" relname="sequence">Однако в начале осени стало известно, что Фостер вышел из проекта,</segment>
+		<segment id="49" parent="51" relname="joint">после чего стал обсуждаться вопрос с проведением нового конкурса на реконструкцию музейного комплекса в целом.\n\n\"Сейчас наш французский коллега помогает разработать архитектурную концепцию (реконструкции музея),</segment>
+		<segment id="50" parent="51" relname="joint">и в январе она будет закончена.</segment>
+		<segment id="53" parent="55" relname="span">Тогда мы будем устраивать внутренний конкурс среди российских архитекторов,</segment>
+		<segment id="54" parent="53" relname="elaboration">в основном на построение новых пространств\",</segment>
+		<segment id="56" parent="58" relname="span">- рассказала Лошак о дальнейших планах развития музея.\n\nПо словам директора ГМИИ,</segment>
+		<segment id="57" parent="56" relname="purpose">для исторических строений будет разработана концепция реставрации.\n\n\"И дальше архитекторы будут помогать приспосабливать эти исторические пространства\",</segment>
+		<segment id="60" parent="65" relname="attribution">- заключила собеседница агентства</segment>
+		<segment id="61" parent="65" relname="joint">.\n\nСейчас ГМИИ принимает посетителей в основном здании, Музее личных коллекций, Галерее искусств Европы и Америки, а также в детском центре \"Мусейон\"</segment>
+		<segment id="62" parent="64" relname="joint">- все они расположены на Волхонке.\n\nКроме того, на баланс музея передано несколько строений в прилегающих к Волхонке переулках, в частности, бывшие усадьбы Вяземских-Долгоруковых и Голицыных,</segment>
+		<segment id="63" parent="64" relname="joint">где располагался Институт философии РАН.\n\nСогласно концепции развития музея, размещенной на его сайте, на территории комплекса появятся новые выставочный центр, депозитарно-реставрационный центр и многофункциональная аудитория.\n\nИсточник: https://www.newsru.com/cinema/26Dec2013/gmiinew.html\n</segment>
+		<group id="33" type="span" parent="71" relname="joint"/>
+		<group id="31" type="span" parent="33" relname="span"/>
+		<group id="29" type="span" parent="31" relname="span"/>
+		<group id="27" type="multinuc" parent="29" relname="span"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="36" type="span" parent="70" relname="joint"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="47" type="multinuc" parent="69" relname="joint"/>
+		<group id="41" type="span" parent="47" relname="joint"/>
+		<group id="40" type="span" parent="37" relname="cause-effect"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="52" type="multinuc" parent="67" relname="preparation"/>
+		<group id="51" type="multinuc" parent="52" relname="sequence"/>
+		<group id="67" type="multinuc" parent="68" relname="span"/>
+		<group id="59" type="multinuc" parent="67" relname="joint"/>
+		<group id="55" type="span" parent="59" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="71" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,68 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="30" relname="span">Высший арбитраж объявляет экономическую амнистию\n\nВысший арбитражный суд решил,</segment>
+		<segment id="27" parent="28" relname="condition">что если правительство или отраслевое ведомство государства выпускает акт, отменяющий или смягчающий ответственность за то или иное правонарушение,</segment>
+		<segment id="28" parent="29" relname="span">то такому документу можно придать обратную силу.</segment>
+		<segment id="31" parent="33" relname="span">Такой вывод содержит прецедент, созданный на этой неделе ВАС,</segment>
+		<segment id="32" parent="31" relname="attribution">пишет РБК daily.</segment>
+		<segment id="35" parent="72" relname="preparation">Поводом послужило рассмотрение спора ООО \"Торговый дом \"Солар\" с Росфиннадзором.\n\nВ феврале 2010 года компания заключила с иностранным партнером договор об оказании консультаций на сумму 17 тысяч евро.</segment>
+		<segment id="36" parent="38" relname="joint">За несколько недель до поступления денег на валютный счет ЦБ внес изменения в инструкцию N117-И,</segment>
+		<segment id="37" parent="38" relname="joint">увеличив срок предоставления справки по валютным операциям в уполномоченный орган с 7 до 15 рабочих дней.</segment>
+		<segment id="39" parent="40" relname="span">Изменения должны были вступить в силу в конце февраля 2011 года.</segment>
+		<segment id="41" parent="42" relname="attribution">При этом ЦБ не указал,</segment>
+		<segment id="42" parent="43" relname="span">что изменения будут иметь обратную силу.\n\nКомпания предоставила справку о валютных операциях в свой банк в начале февраля 2011 года, через девять дней после окончания действовавшего тогда срока.</segment>
+		<segment id="44" parent="45" relname="span">Поэтому Росфиннадзор привлек предприятие к ответственности на сумму 40 тысяч рублей.</segment>
+		<segment id="46" parent="51" relname="attribution">Компания посчитала,</segment>
+		<segment id="47" parent="51" relname="joint">что это нарушает принцип обратной силы закона,</segment>
+		<segment id="48" parent="50" relname="joint">и обратилась в суд с требованием снять с нее ответственность.\n\nНижние инстанции отказали ей,</segment>
+		<segment id="49" parent="50" relname="joint">посчитав, что обратную силу могут иметь лишь законы, а не подзаконные акты.</segment>
+		<segment id="53" parent="56" relname="attribution">Однако ВАС посчитал,</segment>
+		<segment id="54" parent="56" relname="span">что и подзаконные акты могут иметь обратную силу,</segment>
+		<segment id="55" parent="54" relname="cause-effect">поскольку речь идет не об исполнении обязанности как таковой, а об ответственности.</segment>
+		<segment id="59" parent="67" relname="span">В итоге суд встал на сторону предприятия.\n\</segment>
+		<segment id="60" parent="65" relname="attribution">nКак отмечает партнер CMS Russia Станислав Турбанов,</segment>
+		<segment id="61" parent="63" relname="span">решение ВАС будет иметь значение не только для валютного регулирования, но и для всех административных правоотношений,</segment>
+		<segment id="62" parent="61" relname="elaboration">в которых бизнес вынужден иметь дело с государством и его ведомствами.\n\nВАС ссылается на общие положения Кодекса об административных правонарушениях,</segment>
+		<segment id="64" parent="63" relname="attribution">говорит юрисконсульт \"ФБК-Право\" Александра Герасимова.</segment>
+		<segment id="68" parent="69" relname="span">Поэтому можно использовать этот прецедент и при оспаривании актов о привлечении к ответственности в сферах таможенного, трудового, миграционного законодательства, а также за нарушение правил дорожного движения.\n\nИсточник: https://www.newsru.com/finance/02Aug2012/amnesty.html\n</segment>
+		<group id="34" type="multinuc" parent="73" relname="preparation"/>
+		<group id="30" type="span" parent="34" relname="joint"/>
+		<group id="29" type="span" parent="26" relname="cause-effect"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="40" type="span" parent="72" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="cause-effect"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="45" type="span" parent="71" relname="joint"/>
+		<group id="43" type="span" parent="44" relname="cause-effect"/>
+		<group id="70" type="span" parent="71" relname="joint"/>
+		<group id="58" type="multinuc" parent="69" relname="solutionhood"/>
+		<group id="52" type="span" parent="58" relname="contrast"/>
+		<group id="51" type="multinuc" parent="52" relname="span"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="57" type="span" parent="58" relname="contrast"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="69" type="span" parent="70" relname="span"/>
+		<group id="67" type="span" parent="68" relname="cause-effect"/>
+		<group id="66" type="span" parent="59" relname="elaboration"/>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="63" type="span" parent="65" relname="span"/>
+		<group id="74" type="span"/>
+	</body>
+</rst>

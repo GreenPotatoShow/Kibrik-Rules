@@ -1,0 +1,85 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="38" relname="joint">МИД РФ обвинил США и ЕС в потворствовании перевороту на Украине в нарушение Будапештского меморандума\n\nРоссийский МИД разразился очередным гневным заявлением в адрес США и Евросоюза,</segment>
+		<segment id="35" parent="37" relname="span">обвинив их в \"активном потворствовании государственному перевороту\" на Украине и \"нарушении обязательств по Будапештскому меморандуму 1994 года\",</segment>
+		<segment id="36" parent="35" relname="concession">хотя новые власти в Киеве и Запад аналогичные претензии предъявляют России.\n\n\"В Будапештском меморандуме Россия, США и Великобритания обязались быть гарантами прав, присущих суверенитету Украины\",</segment>
+		<segment id="39" parent="38" relname="attribution">- напоминают на Смоленской площади.</segment>
+		<segment id="41" parent="45" relname="span">Однако во время беспорядков в Киеве со стороны США и ЕС неоднократно звучали угрозы применения санкций к (прежнему) руководству Украины,</segment>
+		<segment id="42" parent="44" relname="span">говорится в заявлении на сайте ведомства.\n\n\"Что это, как не экономическое принуждение в отношении суверенного государства?</segment>
+		<segment id="43" parent="42" relname="interpretation-evaluation">Как относиться, например, к чуть ли не постоянному дежурству западных эмиссаров на \"майдане\"?</segment>
+		<segment id="46" parent="49" relname="attribution">Как квалифицировать заявления США и ЕС о том,</segment>
+		<segment id="47" parent="49" relname="span">что там уже не рассматривают в качестве легитимного партнера законно избранного главу государства,</segment>
+		<segment id="48" parent="47" relname="elaboration">в отличие от новых руководителей, назначенных на площади в нарушение всех конституционных процедур?\"</segment>
+		<segment id="51" parent="50" relname="attribution">- задает министерство риторические вопросы.\n\</segment>
+		<segment id="54" parent="61" relname="attribution">nПо мнению МИДа РФ,</segment>
+		<segment id="55" parent="57" relname="joint">все перечисленное - \"примеры того, как США и ЕС активно потворствовали государственному перевороту в Киеве,</segment>
+		<segment id="56" parent="57" relname="joint">действуя против политической независимости и суверенитета Украины в нарушение обязательств по Будапештскому меморандуму\".\n\nРанее в среду избранный Верховной Радой украинский премьер Арсений Яценюк заявил,</segment>
+		<segment id="58" parent="60" relname="joint">что \"крымский вопрос\" после присоединения полуострова к России фактически переходит из политической в военную стадию,</segment>
+		<segment id="59" parent="60" relname="joint">и возложил ответственность за военную эскалацию конфликта на политическое руководство России.</segment>
+		<segment id="63" parent="64" relname="attribution">При этом Яценюк высказался</segment>
+		<segment id="64" parent="65" relname="span">за срочное создание комиссии министерств обороны стран - гарантов Украины по Будапештскому меморандуму - России, Великобритании и США.\n\nНАТО тоже возлагает всю ответственность за украинский кризис на Россию.</segment>
+		<segment id="66" parent="68" relname="span">\"Мы считаем действия России нарушением фактически всех ключевых международных соглашений послевоенного времени - Устава ООН, Хельсинкского заключительного акта, Будапештского меморандума 1994 года\",</segment>
+		<segment id="67" parent="66" relname="attribution">- заявлял на днях замгенсека Альянса Александр Вершбоу.\n\nНесколькими днями ранее Верховная Рада обратилась к США и Великобритании - как к гарантам Будапештского меморандума - за политической, дипломатической и военной помощью для сохранения целостности Украины.</segment>
+		<segment id="70" parent="76" relname="same-unit">А от России,</segment>
+		<segment id="71" parent="75" relname="span">которая тоже является гарантом указанного соглашения,</segment>
+		<segment id="72" parent="74" relname="joint">украинские парламентарии тогда потребовали немедленно вывести войска из Крыма</segment>
+		<segment id="73" parent="74" relname="joint">и \"прекратить агрессию против украинского государства\".\n\nМеморандум о гарантиях безопасности в связи с присоединением Украины к Договору о нераспространении ядерного оружия,</segment>
+		<segment id="77" parent="79" relname="sequence">более известный под названием Будапештский меморандум,</segment>
+		<segment id="78" parent="79" relname="sequence">подписали в 1994 году США, Великобритания, Россия и Украина.</segment>
+		<segment id="81" parent="82" relname="attribution">Согласно этому документу,</segment>
+		<segment id="82" parent="83" relname="span">Украина отказывалась от ядерного оружия взамен на гарантии.</segment>
+		<segment id="84" parent="90" relname="joint">Подписавшие договор страны обязывались уважать независимость, суверенитет и существующие границы украинского государства,</segment>
+		<segment id="85" parent="89" relname="joint">воздерживаться от угроз применять силу,</segment>
+		<segment id="86" parent="88" relname="joint">давить экономическими мерами</segment>
+		<segment id="87" parent="88" relname="joint">и добиваться незамедлительных действий Совбеза ООН в случае акта агрессии против Украины.</segment>
+		<segment id="91" parent="92" relname="joint">Также подписанты обязывались не применять ядерное оружие против этой страны.\n\nИсточник: https://www.newsru.com/russia/19Mar2014/memo.html\n</segment>
+		<group id="40" type="span" parent="98" relname="joint"/>
+		<group id="38" type="multinuc" parent="40" relname="span"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="97" type="span" parent="98" relname="joint"/>
+		<group id="53" type="span" parent="96" relname="solutionhood"/>
+		<group id="45" type="span" parent="52" relname="solutionhood"/>
+		<group id="44" type="span" parent="41" relname="elaboration"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="50" type="span" parent="52" relname="span"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="96" type="multinuc" parent="97" relname="span"/>
+		<group id="62" type="span" parent="96" relname="joint"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="57" type="multinuc" parent="61" relname="comparison"/>
+		<group id="60" type="multinuc" parent="61" relname="comparison"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="69" type="multinuc" parent="95" relname="joint"/>
+		<group id="65" type="span" parent="69" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="80" type="span" parent="94" relname="joint"/>
+		<group id="76" type="multinuc" parent="80" relname="span"/>
+		<group id="75" type="span" parent="76" relname="same-unit"/>
+		<group id="74" type="multinuc" parent="71" relname="elaboration"/>
+		<group id="79" type="multinuc" parent="76" relname="background"/>
+		<group id="93" type="span" parent="94" relname="joint"/>
+		<group id="83" type="span" parent="93" relname="span"/>
+		<group id="92" type="multinuc" parent="83" relname="elaboration"/>
+		<group id="90" type="multinuc" parent="92" relname="joint"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="98" type="multinuc"/>
+	</body>
+</rst>

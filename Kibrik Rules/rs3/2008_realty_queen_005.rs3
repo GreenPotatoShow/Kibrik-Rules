@@ -1,0 +1,71 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="33" relname="joint">Королева Анлии построит в своей стране \"зеленый\" город\n\nКоролева Великобритании Елизавета II и принц Уэльский Чарльз примут участие в замысле правительства по постройке экологических городов</segment>
+		<segment id="30" parent="32" relname="span">- королева и принц выступят в качестве партнера в консорциуме,</segment>
+		<segment id="31" parent="30" relname="elaboration">который планирует построить около города Ноттингема экологически чистое поселение на 5 тысяч домов,</segment>
+		<segment id="34" parent="36" relname="joint">сообщает РИА Новости со ссылкой на британские СМИ.\n\nКонсорциум обратился к фонду принца Чарльза по защите окружающей среды с просьбой дать совет по плану экогорода</segment>
+		<segment id="35" parent="36" relname="joint">и попытаться обеспечить поддержку общества.\n\nПринц лично принимал участие в развитии экологических сообществ.</segment>
+		<segment id="38" parent="42" relname="joint">Десять лет назад он участвовал в развитии городка Пондбери в Дорсете,</segment>
+		<segment id="39" parent="41" relname="span">а сейчас следит за постройкой города на 12 тысяч человек в Шерфорде и экодеревни на 4 тысячи домов около Нита в Уэльсе.\n\nПроект предусматривает для жителей экогорода проездные со скидкой,</segment>
+		<segment id="40" parent="39" relname="elaboration">районы без автомобилей и места, где запрещена парковка, а также производство топлива из биомассы и постройку предприятий для местных выпускников.\n\n</segment>
+		<segment id="43" parent="45" relname="joint">\"Мы стремимся сотрудничать с жителями и политиками</segment>
+		<segment id="44" parent="45" relname="joint">и хотим услышать их идеи.</segment>
+		<segment id="46" parent="47" relname="joint">Мы надеемся обеспечить твердую базу, на которой будут строиться дальнейшие дискуссии\",</segment>
+		<segment id="48" parent="49" relname="attribution">- сказал глава управления активами короны Ник Харпер.\n\nУправляющий фондом принца Чарльза Хэнк Диттмар считает,</segment>
+		<segment id="49" parent="50" relname="span">что экогорода должны соответствовать принципам настоящей рациональности.</segment>
+		<segment id="53" parent="55" relname="span">\"Мы рассчитываем на особый тип инфраструктуры,</segment>
+		<segment id="54" parent="53" relname="purpose">чтобы жители могли удовлетворить свои каждодневные нужды в пяти минутах ходьбы от собственного дома.</segment>
+		<segment id="56" parent="60" relname="span">Мы заинтересованы в развитии национальных строительных традиций</segment>
+		<segment id="57" parent="59" relname="span">- под которыми мы понимаем методы постройки и использование материалов, которые соответствуют определенной области</segment>
+		<segment id="58" parent="57" relname="purpose">- чтобы встретить испытания 21 века - пик нефтедобычи, климатические изменения и рост популяции\",</segment>
+		<segment id="61" parent="60" relname="attribution">- сказал он</segment>
+		<segment id="63" parent="75" relname="joint">.\n\nЗа последние две недели три разработчика отказались от постройки экогородов.</segment>
+		<segment id="64" parent="66" relname="span">Компания Gallagher Estates,</segment>
+		<segment id="65" parent="64" relname="background">которая подавала заявку на постройку экологически чистого города к югу от Бедфорда,</segment>
+		<segment id="67" parent="68" relname="joint">стала одним из последних разработчиков, которые отказались от своих проектов.\n\nКонсорциум,</segment>
+		<segment id="69" parent="73" relname="joint">планировавший постройку экогорода в Карборо, Стаффордшир,</segment>
+		<segment id="70" parent="72" relname="joint">также отказался от своего плана,</segment>
+		<segment id="71" parent="72" relname="joint">а окружной совет East Lindsey в Линкольншире в прошлом месяце также вычеркнул себя из списка.</segment>
+		<segment id="78" parent="80" relname="span">На данный момент осталось всего 13 мест,</segment>
+		<segment id="79" parent="78" relname="elaboration">из которых правительство выберет 10 для постройки экогородов.\n\nИсточник: https://www.newsru.com/realty/11Jul2008/queen.html\n</segment>
+		<group id="37" type="multinuc" parent="82" relname="preparation"/>
+		<group id="33" type="multinuc" parent="37" relname="joint"/>
+		<group id="32" type="span" parent="33" relname="joint"/>
+		<group id="36" type="multinuc" parent="37" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="52" type="multinuc" parent="82" relname="joint"/>
+		<group id="42" type="multinuc" parent="52" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="47" type="multinuc" parent="51" relname="span"/>
+		<group id="45" type="multinuc" parent="47" relname="joint"/>
+		<group id="50" type="span" parent="47" relname="attribution"/>
+		<group id="81" type="span" parent="82" relname="joint"/>
+		<group id="77" type="multinuc" parent="81" relname="span"/>
+		<group id="55" type="span" parent="77" relname="joint"/>
+		<group id="76" type="multinuc" parent="77" relname="joint"/>
+		<group id="62" type="span" parent="76" relname="joint"/>
+		<group id="60" type="span" parent="62" relname="span"/>
+		<group id="59" type="span" parent="56" relname="elaboration"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="68" type="multinuc" parent="74" relname="joint"/>
+		<group id="66" type="span" parent="68" relname="joint"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="80" type="span" parent="77" relname="elaboration"/>
+		<group id="83" type="span"/>
+	</body>
+</rst>

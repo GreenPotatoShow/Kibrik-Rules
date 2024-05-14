@@ -1,0 +1,85 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="97" relname="preparation">Медведев выбрал нового губернатора для Мурманской области - женщину\n\</segment>
+		<segment id="35" parent="37" relname="span">nПрезидент Дмитрий Медведев предложил кандидатуру Марины Ковтун на пост губернатора Мурманской области</segment>
+		<segment id="36" parent="35" relname="elaboration">вместо уволенного им на днях Дмитрия Дмитриенко.</segment>
+		<segment id="38" parent="42" relname="joint">Мурманская областная дума решила не затягивать с утверждением Ковтун в должности главы региона</segment>
+		<segment id="39" parent="41" relname="span">и соберется в пятницу на внеочередное заседание,</segment>
+		<segment id="40" parent="39" relname="purpose">чтобы решить этот вопрос,</segment>
+		<segment id="43" parent="42" relname="attribution">сообщил \"Интерфакс\" вице-спикер облдумы Игорь Чернышенко</segment>
+		<segment id="46" parent="47" relname="span">.\n\</segment>
+		<segment id="48" parent="50" relname="contrast">nЕсли кандидатура Ковтун будет одобрена облдумой,</segment>
+		<segment id="49" parent="50" relname="contrast">а сомнений в этом у наблюдателей практически нет,</segment>
+		<segment id="51" parent="52" relname="span">то она станет второй женщиной-губернатором в России.</segment>
+		<segment id="53" parent="57" relname="span">Сейчас единственный регион, который возглавляет женщина, - это Ханты-Мансийский автономный округ,</segment>
+		<segment id="54" parent="55" relname="attribution">которым с первого марта 2010 года руководит Наталья Комарова.\n\nРанее в четверг председатель Высшего совета \"Единой России\" Борис Грызлов сообщил,</segment>
+		<segment id="55" parent="56" relname="span">что партия предложила на рассмотрение президенту на должность главы Мурманской области кандидатуры врио губернатора Ковтун, нынешнего заместителя губернатора Павла Богушевича и гендиректора ОАО \"Мурманский морской рыбный порт\" Владимира Соколова.\n\n4 апреля Медведев подписал указ о досрочном прекращении полномочий Дмитрия Дмитриенко.</segment>
+		<segment id="59" parent="60" relname="attribution">В тексте указа отмечалось,</segment>
+		<segment id="60" parent="61" relname="span">что отставка принята по собственному желанию главы региона в связи с его заявлением.</segment>
+		<segment id="62" parent="66" relname="sequence">Этим же указом президент назначил Марину Ковтун временно исполняющей обязанности губернатора Мурманской области.\n\nКовтун до этого назначения была первым заместителем председателя регионального парламента,</segment>
+		<segment id="63" parent="65" relname="sequence">куда она прошла в декабре 2011 года,</segment>
+		<segment id="64" parent="65" relname="sequence">а до этого занимала должность заместителя гендиректора Кольской ГМК.</segment>
+		<segment id="67" parent="69" relname="joint">Ковтун возглавляет фракцию \"Единой России\" в региональной думе</segment>
+		<segment id="68" parent="69" relname="joint">и является заместителем секретаря областного политсовета партии.\n\nЧто касается досрочной отставки Дмитриенко,</segment>
+		<segment id="70" parent="71" relname="span">она не стала неожиданностью для наблюдателей.</segment>
+		<segment id="74" parent="77" relname="attribution">Ранее СМИ писали,</segment>
+		<segment id="75" parent="77" relname="span">что он может покинуть свой пост еще до президентских выборов,</segment>
+		<segment id="76" parent="75" relname="background">которые прошли в марте.</segment>
+		<segment id="79" parent="83" relname="span">В итоге Дмитриенко был уволен ровно через месяц после них.\n\nРанее, 10 января премьер Владимир Путин на совещании по эффективности органов государственной власти назвал</segment>
+		<segment id="82" parent="79" relname="elaboration">Мурманскую область наряду с Архангельской и Волгоградской регионом, где жители оценивают работу руководства \"очень-очень низко\".</segment>
+		<segment id="84" parent="86" relname="span">После этого архангельский и волгоградский губернаторы добровольно оставили посты.\n\nЭксперты в последнем рейтинге выживаемости губернаторов поставили Дмитриенко \"двойку\",</segment>
+		<segment id="85" parent="84" relname="elaboration">аргументируя это беспорядочной ротацией команды, конфликтами с крупными финансово-промышленными группами и местными элитами.</segment>
+		<segment id="87" parent="91" relname="span">Единороссы не доверили ему возглавлять список партии ни на думских выборах, ни на выборах в областной парламент.</segment>
+		<segment id="88" parent="90" relname="span">На думских выборах в декабре 2011 года в Мурманской области \"Единая Россия\" получила 32%</segment>
+		<segment id="89" parent="88" relname="cause-effect">- этот результат стал одним из самых низких по стране.\n\nНо в качестве основных претендентов на пост новго мурманского губернатора назывались совсем другие люди - депутат Госдумы Валерий Язев и начальник Октябрьской железной дороги ОАО \"РЖД\" Виктор Степанов.\n\nИсточник: https://www.newsru.com/russia/12Apr2012/kovtun.html\n</segment>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="47" type="span" parent="97" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="solutionhood"/>
+		<group id="37" type="span" parent="45" relname="joint"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="42" type="multinuc" parent="44" relname="span"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="58" type="multinuc" parent="96" relname="joint"/>
+		<group id="52" type="span" parent="58" relname="joint"/>
+		<group id="50" type="multinuc" parent="51" relname="condition"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="56" type="span" parent="53" relname="elaboration"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="73" type="multinuc" parent="95" relname="joint"/>
+		<group id="61" type="span" parent="73" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="66" type="multinuc" parent="72" relname="joint"/>
+		<group id="65" type="multinuc" parent="66" relname="sequence"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="69" type="multinuc" parent="70" relname="cause-effect"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="78" type="span" parent="93" relname="preparation"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="93" type="multinuc" parent="94" relname="span"/>
+		<group id="83" type="span" parent="93" relname="sequence"/>
+		<group id="92" type="multinuc" parent="93" relname="sequence"/>
+		<group id="86" type="span" parent="92" relname="joint"/>
+		<group id="91" type="span" parent="92" relname="joint"/>
+		<group id="90" type="span" parent="87" relname="elaboration"/>
+		<group id="98" type="span"/>
+	</body>
+</rst>

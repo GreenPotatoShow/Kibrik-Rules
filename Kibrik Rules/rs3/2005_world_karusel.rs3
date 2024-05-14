@@ -1,0 +1,41 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="18" relname="joint">На украинском курорте в результате аварии на карусели пострадали двое детей из России\n\nНа Украине двое детей - мальчик 13 лет и его 4-летняя сестра, приехавшие с родителями из Владимира на отдых в Евпаторию,</segment>
+		<segment id="15" parent="17" relname="span">получили тяжелые травмы</segment>
+		<segment id="16" parent="15" relname="condition">при аварии оборудования на аттракционах \"Парк развлечений\" в парке имени Фрунзе на набережной.\n\nСпасатели и врачи, прибывшие по вызову,</segment>
+		<segment id="19" parent="18" relname="elaboration">установили, что из люльки карусели \"Лебедь\"</segment>
+		<segment id="21" parent="27" relname="sequence">при подъеме ее вверх выпал крепежный болт,</segment>
+		<segment id="22" parent="25" relname="cause-effect">из-за чего она перевернулась,</segment>
+		<segment id="23" parent="25" relname="span">и находившиеся в ней дети упали с высоты 2,5 метра,</segment>
+		<segment id="24" parent="23" relname="attribution">сообщили в пресс-службе главного управления МЧС Украины в Крыму.\n\nДети доставлены в городскую больницу.</segment>
+		<segment id="29" parent="33" relname="joint">У девочки зафиксирован перелом бедра,</segment>
+		<segment id="30" parent="32" relname="joint">а у ее брата - сотрясение головного мозга,</segment>
+		<segment id="31" parent="32" relname="joint">оба получили также многочисленные ушибы и ссадины,</segment>
+		<segment id="34" parent="35" relname="sequence">сообщает ИТАР-ТАСС.\n\nРабота городка аттракционов прекращена до выяснения причин чрезвычайного происшествия.</segment>
+		<segment id="37" parent="36" relname="elaboration">Этим занимается специальная комиссия, состоящая из представителей властей курорта, МЧС и МВД.\n\nКарусель \"Лебедь\" вращается вокруг своей оси с подъемом катающихся до высоты около 4 метров от земли.\n\nИсточник: https://www.newsru.com/world/17Aug2005/karusel.html\n</segment>
+		<group id="36" type="span" parent="38" relname="span"/>
+		<group id="28" type="multinuc" parent="35" relname="preparation"/>
+		<group id="20" type="span" parent="28" relname="sequence"/>
+		<group id="18" type="multinuc" parent="20" relname="span"/>
+		<group id="17" type="span" parent="18" relname="joint"/>
+		<group id="27" type="multinuc" parent="28" relname="sequence"/>
+		<group id="26" type="span" parent="27" relname="sequence"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="35" type="multinuc" parent="36" relname="span"/>
+		<group id="33" type="multinuc" parent="35" relname="sequence"/>
+		<group id="32" type="multinuc" parent="33" relname="joint"/>
+		<group id="38" type="span"/>
+	</body>
+</rst>

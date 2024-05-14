@@ -1,0 +1,202 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="90" parent="92" relname="span">Саудовский король рассказал Путину о расследовании убийства Хашогги\n\nПрезидент РФ Владимир Путин провел телефонный разговор с королём Саудовской Аравии Сальманом Бен Абдель Азизом Аль Саудом,</segment>
+		<segment id="91" parent="90" relname="attribution">в ходе которого король рассказал президенту о расследовании убийства журналиста Джамала Хашогги.</segment>
+		<segment id="93" parent="92" relname="attribution">Об этом сообщается на сайте Кремля.\n\nПомимо этого, они обсудили вопросы Сирии и проблемы в Ближневосточном регионе.</segment>
+		<segment id="95" parent="96" relname="attribution">Король подтвердил</segment>
+		<segment id="96" parent="97" relname="span">свое приглашение Путину посетить Саудовскую Аравию</segment>
+		<segment id="98" parent="101" relname="attribution">.\n\nАгентство SPA сообщает,</segment>
+		<segment id="99" parent="101" relname="span">что король рассказал Путину о мерах, принятых</segment>
+		<segment id="100" parent="99" relname="purpose">для расследования обстоятельств смерти журналиста.</segment>
+		<segment id="103" parent="104" relname="joint">В свою очередь, Владимир Путин выразил уверенность в прозрачности проводимых расследований.\n\nУверенность в непричастности к убийству глав Саудовской Аравии выразил и пресс-секретарь российского президента Дмитрий Песков.</segment>
+		<segment id="106" parent="110" relname="span">\"Я считаю этот вопрос неуместным:</segment>
+		<segment id="107" parent="109" relname="restatement">есть официальное заявление короля,</segment>
+		<segment id="108" parent="109" relname="restatement">есть официальное заявление наследного принца.</segment>
+		<segment id="111" parent="110" relname="elaboration">Каких-то оснований не верить в принципе ни у кого не должно быть\",</segment>
+		<segment id="113" parent="112" relname="attribution">- сказал Песков,</segment>
+		<segment id="116" parent="119" relname="attribution">отвечая на вопрос о том,</segment>
+		<segment id="117" parent="119" relname="span">можно ли говорить о том, что Кремль верит в непричастность королевской семьи к случившемуся,</segment>
+		<segment id="118" parent="117" relname="attribution">сообщает РИА \"Новости\".\n\nМежду тем глава ЦРУ Джина Хэспел ознакомила президента США Дональда Трампа с ходом расследования убийства журналиста после ее возвращения из Турции.</segment>
+		<segment id="121" parent="122" relname="attribution">Об этом сообщила пресс-секретарь Белого дома Сара Сандерс,</segment>
+		<segment id="122" parent="123" relname="span">слова которой приводит ТАСС.</segment>
+		<segment id="125" parent="131" relname="joint">\"Директор ЦРУ Джина Хэспел провела для президента брифинг этим утром после возвращения из Турции.</segment>
+		<segment id="126" parent="129" relname="attribution">Она рассказала президенту,</segment>
+		<segment id="127" parent="129" relname="joint">что удалось выяснить</segment>
+		<segment id="128" parent="129" relname="joint">и какие разговоры у нее были по этому поводу\",</segment>
+		<segment id="132" parent="131" relname="attribution">- проинформировала Сандерс.</segment>
+		<segment id="134" parent="143" relname="attribution">Никаких деталей разговора Трампа с Хэспел пресс-служба Белого дома не привела.\n\nТрамп неоднократно заявлял,</segment>
+		<segment id="135" parent="137" relname="span">что не будет принимать меры в отношении властей Саудовской Аравии до тех пор,</segment>
+		<segment id="136" parent="135" relname="condition">пока не получит необходимую информацию об убийстве Хашкаджи от сотрудников американских спецслужб,</segment>
+		<segment id="138" parent="142" relname="sequence">которые отправились с этой целью в Турцию</segment>
+		<segment id="139" parent="140" relname="attribution">.\n\nРанее агентство Reuters со ссылкой на источники сообщило о том,</segment>
+		<segment id="140" parent="141" relname="span">что Хэспел прослушала в Турции аудиозаписи, сделанные во время убийства Хашкаджи.</segment>
+		<segment id="145" parent="153" relname="span">Представители ЦРУ и Национальной разведорганизации Турции (МИТ) отказались прокомментировать эту информацию.\n\nХэспел прибыла в Турцию во вторник</segment>
+		<segment id="146" parent="152" relname="span">для контактов с турецким следствием по делу Хашогги.</segment>
+		<segment id="147" parent="150" relname="attribution">Для директора ЦРУ был организован специальный брифинг,</segment>
+		<segment id="148" parent="150" relname="joint">в ходе которого ей были продемонстрированы улики, собранные турецкими криминалистами на территории саудовских диппредставительств в Стамбуле,</segment>
+		<segment id="149" parent="150" relname="joint">а также некоторые видео- и аудиозаписи, имеющиеся у следствия.\n\nКроме того, в рамках расследования в воскресенье, 28 октября, в Турцию прибудет генеральный прокурор Саудовской Аравии шейх Сауд аль-Муаджиб.</segment>
+		<segment id="154" parent="159" relname="attribution">Как заявил президент Турции Тайип Реджеп Эрдоган,</segment>
+		<segment id="155" parent="158" relname="attribution">которого цитирует телеканал NTV,</segment>
+		<segment id="156" parent="158" relname="joint">генпрокурор проведет переговоры со своими турецкими коллегами и генеральным прокурором Стамбула.\n\nГлава государства также призвал</segment>
+		<segment id="157" parent="158" relname="joint">обнародовать всю без исключения информацию по делу Хашогги.</segment>
+		<segment id="161" parent="164" relname="attribution">\"Исполнитель известен,</segment>
+		<segment id="162" parent="164" relname="span">они [Эр-Рияд] арестовали 18 человек,</segment>
+		<segment id="163" parent="162" relname="interpretation-evaluation">я лично узнал об этом от саудовской стороны.</segment>
+		<segment id="166" parent="167" relname="contrast">Но тут есть важный аспект:</segment>
+		<segment id="168" parent="170" relname="span">эти 18 человек знают, кто убил Хашогги,</segment>
+		<segment id="169" parent="168" relname="cause-effect">потому что среди них есть исполнитель.</segment>
+		<segment id="171" parent="172" relname="contrast">В противном случае Саудовская Аравия должна сообщить, кто был их местным сообщником\",</segment>
+		<segment id="174" parent="173" relname="attribution">- сказал Эрдоган.\n\</segment>
+		<segment id="178" parent="181" relname="attribution">nОн добавил,</segment>
+		<segment id="179" parent="180" relname="condition">что пока Эр-Рияд не раскроет информацию о непосредственных исполнителях,</segment>
+		<segment id="180" parent="181" relname="span">саудовская позиция по этому делу будет подвергаться сомнению.</segment>
+		<segment id="183" parent="184" relname="condition">\"Если вы хотите снять подозрения на этот счет,</segment>
+		<segment id="184" parent="185" relname="span">сделайте соответствующее заявление.</segment>
+		<segment id="186" parent="185" relname="elaboration">Эти 18 арестованных - ключевые фигуры.</segment>
+		<segment id="188" parent="189" relname="condition">Если же вы не можете заставить их говорить,</segment>
+		<segment id="189" parent="190" relname="span">отдайте подозреваемых нашему правосудию,</segment>
+		<segment id="191" parent="190" relname="cause-effect">ведь все произошло в Стамбуле\",</segment>
+		<segment id="194" parent="195" relname="attribution">- подчеркнул президент</segment>
+		<segment id="195" parent="196" relname="span">.\n\</segment>
+		<segment id="199" parent="205" relname="span">nНапомним, журналист пропал после входа на территорию дипмиссии Саудовской Аравии в Стамбуле 2 октября,</segment>
+		<segment id="200" parent="202" relname="span">куда он пришел</segment>
+		<segment id="201" parent="200" relname="purpose">для получения документов,</segment>
+		<segment id="203" parent="202" relname="purpose">необходимых для оформления брака с гражданкой Турции.</segment>
+		<segment id="206" parent="212" relname="joint">Через несколько дней турецкая полиция приступила к расследованию дела о его исчезновении</segment>
+		<segment id="207" parent="208" relname="attribution">.\n\nТурецкая пресса писала,</segment>
+		<segment id="208" parent="209" relname="span">что Хашогги подвергли допросу и пыткам,</segment>
+		<segment id="210" parent="211" relname="sequence">после чего убили.</segment>
+		<segment id="213" parent="217" relname="span">Сообщалось, что последние часы его жизни записались на Apple Watch,</segment>
+		<segment id="214" parent="216" relname="joint">которые журналист заранее перевел в режим записи</segment>
+		<segment id="215" parent="216" relname="joint">и синхронизировал со своим iPhone, оставленным невесте.\n\nКроме того, сообщалось, что в ходе многочасовых обысков в генконсульстве 15-16 октября турецкие криминалисты нашли и другие свидетельства гибели журналиста.</segment>
+		<segment id="219" parent="224" relname="attribution">Турецкие власти считают,</segment>
+		<segment id="220" parent="224" relname="joint">что Хашогги был убит в здании дипмисии</segment>
+		<segment id="221" parent="223" relname="sequence">и расчленен,</segment>
+		<segment id="222" parent="223" relname="sequence">а его останки вывезли в темном фургоне.\n\n16 октября генконсул Саудовской Аравии в Стамбуле Мухаммед Ибрагим аль-Утейби вылетел в Эр-Рияд.</segment>
+		<segment id="228" parent="230" relname="span">Сообщалось, что после отбытия генконсула турецкие следователи осмотрели его резиденцию в Стамбуле в рамках расследования исчезновения Хашогги.\n\nСаудовские власти,</segment>
+		<segment id="229" parent="228" relname="elaboration">долгое время хранившие молчание по этому поводу,</segment>
+		<segment id="231" parent="232" relname="attribution">20 октября признали,</segment>
+		<segment id="232" parent="233" relname="span">что журналист \"случайно погиб\" в ходе драки в генконсульстве,</segment>
+		<segment id="234" parent="247" relname="attribution">а преднамеренность убийства признали еще почти неделю спустя.\n\nГенеральный прокурор Саудовской Аравии шейх Сауд аль-Муаджиб заявил,</segment>
+		<segment id="235" parent="245" relname="contrast">что под следствием находятся 18 подданных королевства,</segment>
+		<segment id="236" parent="244" relname="span">но их личности не раскрываются.</segment>
+		<segment id="237" parent="242" relname="attribution">Он также сообщил</segment>
+		<segment id="238" parent="242" relname="joint">об увольнении советника наследного принца Саудовской Аравии генерала Ахмеда Асири,</segment>
+		<segment id="239" parent="241" relname="span">занимавшего высокий пост в разведке королевства, и советника королевской канцелярии в ранге министра Сауда аль-Кахтани.\n\nТурецкое телевидение ранее демонстрировало записи камер видеонаблюдения,</segment>
+		<segment id="240" parent="239" relname="background">на которых видно, как Хашогги заходит в консульство,</segment>
+		<segment id="246" parent="247" relname="comparison">на фото и видео также попало прибытие в Турцию предполагаемого \"отряда убийц\" журналиста из 15 человек, которых в стране считают сотрудниками саудовской разведки.</segment>
+		<segment id="251" parent="250" relname="attribution">По данным СМИ,</segment>
+		<segment id="253" parent="257" relname="sequence">отряд прибыл в Стамбул за несколько часов до исчезновения Хашогги</segment>
+		<segment id="254" parent="256" relname="span">и отбыл вскоре после него,</segment>
+		<segment id="255" parent="254" relname="condition">при этом в команде был полковник саудовской разведки Махер Мутреб, а также патологоанатом.\n\nИсточник: https://www.newsru.com/world/26Oct2018/all_saudi.html\n</segment>
+		<group id="94" type="span" parent="265" relname="preparation"/>
+		<group id="92" type="span" parent="94" relname="span"/>
+		<group id="265" type="multinuc" parent="266" relname="span"/>
+		<group id="115" type="multinuc" parent="265" relname="joint"/>
+		<group id="105" type="span" parent="115" relname="joint"/>
+		<group id="97" type="span" parent="104" relname="attribution"/>
+		<group id="104" type="multinuc" parent="105" relname="span"/>
+		<group id="102" type="span" parent="104" relname="joint"/>
+		<group id="101" type="span" parent="102" relname="span"/>
+		<group id="114" type="span" parent="115" relname="joint"/>
+		<group id="112" type="span" parent="114" relname="span"/>
+		<group id="110" type="span" parent="112" relname="span"/>
+		<group id="109" type="multinuc" parent="106" relname="elaboration"/>
+		<group id="264" type="span" parent="265" relname="joint"/>
+		<group id="124" type="span" parent="263" relname="preparation"/>
+		<group id="120" type="span" parent="124" relname="span"/>
+		<group id="119" type="span" parent="120" relname="span"/>
+		<group id="123" type="span" parent="120" relname="attribution"/>
+		<group id="263" type="span" parent="264" relname="span"/>
+		<group id="133" type="span" parent="262" relname="preparation"/>
+		<group id="131" type="multinuc" parent="133" relname="span"/>
+		<group id="130" type="span" parent="131" relname="joint"/>
+		<group id="129" type="multinuc" parent="130" relname="span"/>
+		<group id="262" type="multinuc" parent="263" relname="span"/>
+		<group id="144" type="span" parent="262" relname="joint"/>
+		<group id="143" type="span" parent="144" relname="span"/>
+		<group id="137" type="span" parent="143" relname="span"/>
+		<group id="142" type="multinuc" parent="137" relname="elaboration"/>
+		<group id="141" type="span" parent="142" relname="sequence"/>
+		<group id="261" type="multinuc" parent="262" relname="joint"/>
+		<group id="177" type="multinuc" parent="261" relname="joint"/>
+		<group id="153" type="span" parent="177" relname="joint"/>
+		<group id="152" type="span" parent="145" relname="purpose"/>
+		<group id="151" type="span" parent="146" relname="elaboration"/>
+		<group id="150" type="multinuc" parent="151" relname="span"/>
+		<group id="176" type="multinuc" parent="177" relname="joint"/>
+		<group id="160" type="span" parent="176" relname="joint"/>
+		<group id="159" type="span" parent="160" relname="span"/>
+		<group id="158" type="multinuc" parent="159" relname="span"/>
+		<group id="175" type="span" parent="176" relname="joint"/>
+		<group id="173" type="span" parent="175" relname="span"/>
+		<group id="167" type="multinuc" parent="173" relname="span"/>
+		<group id="165" type="span" parent="167" relname="contrast"/>
+		<group id="164" type="span" parent="165" relname="span"/>
+		<group id="172" type="multinuc" parent="167" relname="elaboration"/>
+		<group id="170" type="span" parent="172" relname="contrast"/>
+		<group id="260" type="multinuc" parent="261" relname="joint"/>
+		<group id="198" type="span" parent="260" relname="joint"/>
+		<group id="182" type="span" parent="198" relname="span"/>
+		<group id="181" type="span" parent="182" relname="span"/>
+		<group id="197" type="span" parent="182" relname="elaboration"/>
+		<group id="193" type="multinuc" parent="197" relname="span"/>
+		<group id="187" type="span" parent="193" relname="joint"/>
+		<group id="185" type="span" parent="187" relname="span"/>
+		<group id="192" type="span" parent="193" relname="joint"/>
+		<group id="190" type="span" parent="192" relname="span"/>
+		<group id="196" type="span" parent="193" relname="attribution"/>
+		<group id="259" type="multinuc" parent="260" relname="joint"/>
+		<group id="227" type="multinuc" parent="259" relname="sequence"/>
+		<group id="205" type="span" parent="227" relname="sequence"/>
+		<group id="204" type="span" parent="199" relname="purpose"/>
+		<group id="202" type="span" parent="204" relname="span"/>
+		<group id="226" type="multinuc" parent="227" relname="sequence"/>
+		<group id="218" type="multinuc" parent="226" relname="sequence"/>
+		<group id="212" type="multinuc" parent="218" relname="joint"/>
+		<group id="211" type="multinuc" parent="212" relname="joint"/>
+		<group id="209" type="span" parent="211" relname="sequence"/>
+		<group id="217" type="span" parent="218" relname="joint"/>
+		<group id="216" type="multinuc" parent="213" relname="elaboration"/>
+		<group id="225" type="span" parent="226" relname="sequence"/>
+		<group id="224" type="multinuc" parent="225" relname="span"/>
+		<group id="223" type="multinuc" parent="224" relname="joint"/>
+		<group id="258" type="multinuc" parent="259" relname="sequence"/>
+		<group id="252" type="span" parent="258" relname="sequence"/>
+		<group id="250" type="multinuc" parent="252" relname="span"/>
+		<group id="230" type="span" parent="250" relname="joint"/>
+		<group id="249" type="multinuc" parent="250" relname="joint"/>
+		<group id="233" type="span" parent="249" relname="joint"/>
+		<group id="248" type="span" parent="249" relname="joint"/>
+		<group id="247" type="multinuc" parent="248" relname="span"/>
+		<group id="245" type="multinuc" parent="247" relname="comparison"/>
+		<group id="244" type="span" parent="245" relname="contrast"/>
+		<group id="243" type="span" parent="236" relname="evidence"/>
+		<group id="242" type="multinuc" parent="243" relname="span"/>
+		<group id="241" type="span" parent="242" relname="joint"/>
+		<group id="257" type="multinuc" parent="258" relname="sequence"/>
+		<group id="256" type="span" parent="257" relname="sequence"/>
+		<group id="266" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,84 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="34" relname="attribution">Главный  тренер мюнхенского футбольного клуба «Бавария» Хосеп Гвардиола сказал наставнику московского «Спартака» Валерию Карпину,</segment>
+		<segment id="34" parent="35" relname="span">что главное отличие между их командами заключается в уровне игроков.</segment>
+		<segment id="36" parent="37" relname="attribution">О своем разговоре с Гвардиолой Карпин рассказал в интервью интернет-изданию «Чемпионат.com».\n Карпин сообщил,</segment>
+		<segment id="37" parent="38" relname="span">что в конце 2013 года он в течение недели общался с Гвардиолой.</segment>
+		<segment id="40" parent="41" relname="attribution">Тренер «Спартака» подчеркнул,</segment>
+		<segment id="41" parent="42" relname="span">что главной задачей его встреч с наставником «Баварии» было самообразование.</segment>
+		<segment id="43" parent="46" relname="attribution">По словам Карпина,</segment>
+		<segment id="44" parent="45" relname="attribution">поездка в Мюнхен оказалась для него очень полезной.\n Карпин сказал,</segment>
+		<segment id="45" parent="46" relname="span">что в тактике «Спартака» и «Баварии» есть сходства,</segment>
+		<segment id="48" parent="49" relname="contrast">однако его подход не во всем совпадает с подходом Гвардиолы.</segment>
+		<segment id="50" parent="53" relname="attribution">Так, по словам наставника «Спартака»,</segment>
+		<segment id="51" parent="53" relname="span">тренер «Баварии» хочет добиться того,</segment>
+		<segment id="52" parent="51" relname="purpose">чтобы его игроки почти не использовали контратаки,</segment>
+		<segment id="55" parent="56" relname="contrast">а спартаковцы от контратак отказываться не собираются.</segment>
+		<segment id="58" parent="65" relname="attribution">Карпин также отметил,</segment>
+		<segment id="59" parent="63" relname="span">что у «Барселоны»,</segment>
+		<segment id="60" parent="61" relname="condition">когда ее тренировал Гвардиола,</segment>
+		<segment id="61" parent="62" relname="span">«практически не было» позиционной обороны,</segment>
+		<segment id="64" parent="65" relname="joint">и сейчас «Бавария» стремится к тому же.</segment>
+		<segment id="67" parent="73" relname="span">В игре «Спартака»,</segment>
+		<segment id="68" parent="71" relname="attribution">по словам Карпина,</segment>
+		<segment id="69" parent="70" relname="attribution">позиционная оборона присутствует.\n Также в интервью «Чемпионат.com» Карпин выразил уверенность,</segment>
+		<segment id="70" parent="71" relname="span">что «Спартак» под его руководством станет чемпионом России уже в сезоне-2013/14.</segment>
+		<segment id="74" parent="75" relname="attribution">По словам тренера,</segment>
+		<segment id="75" parent="76" relname="span">с нынешним составом «Спартака» приятно работать.</segment>
+		<segment id="77" parent="78" relname="attribution">Карпин выразил мнение,</segment>
+		<segment id="78" parent="79" relname="span">что сейчас в «Спартаке» собрана «лучшая профессиональная команда» в истории столичного клуба</segment>
+		<segment id="80" parent="82" relname="span">.\n Карпин, как и Гвардиола, в 1990-е годы выступал в чемпионате Испании в качестве игрока</segment>
+		<segment id="81" parent="80" relname="elaboration">(Гвардиола играл за «Барселону», а Карпин — за «Реал Сосьедад», «Валенсию» и «Сельту»).</segment>
+		<segment id="83" parent="87" relname="span">Пост главного тренера «Спартака» Карпин занимает с 2009 года</segment>
+		<segment id="84" parent="86" relname="span">(с перерывом на полгода в 2012 году,</segment>
+		<segment id="85" parent="84" relname="background">когда наставником команды был Унаи Эмери).\n \n</segment>
+		<group id="39" type="span" parent="94" relname="preparation"/>
+		<group id="35" type="span" parent="39" relname="span"/>
+		<group id="38" type="span" parent="35" relname="attribution"/>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="42" type="span" parent="94" relname="joint"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="57" type="multinuc" parent="93" relname="joint"/>
+		<group id="49" type="multinuc" parent="57" relname="contrast"/>
+		<group id="47" type="span" parent="49" relname="contrast"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="56" type="multinuc" parent="57" relname="contrast"/>
+		<group id="54" type="span" parent="56" relname="contrast"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="66" type="span" parent="92" relname="comparison"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="63" type="span" parent="65" relname="joint"/>
+		<group id="62" type="span" parent="59" relname="background"/>
+		<group id="91" type="multinuc" parent="92" relname="comparison"/>
+		<group id="73" type="span" parent="91" relname="joint"/>
+		<group id="72" type="span" parent="67" relname="elaboration"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="76" type="span" parent="90" relname="span"/>
+		<group id="89" type="span" parent="76" relname="evidence"/>
+		<group id="79" type="span" parent="89" relname="span"/>
+		<group id="88" type="multinuc" parent="79" relname="elaboration"/>
+		<group id="82" type="span" parent="88" relname="sequence"/>
+		<group id="87" type="span" parent="88" relname="sequence"/>
+		<group id="86" type="span" parent="83" relname="background"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

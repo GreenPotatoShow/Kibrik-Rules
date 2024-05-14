@@ -1,0 +1,43 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="concession" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="16" relname="span">Сергей Петренко пошел по стопам Алексея Ягудина\n\nОлимпийский чемпион-92 по фигурному катанию украинец Виктор Петренко записался на антиалкогольные курсы,</segment>
+		<segment id="15" parent="14" relname="purpose">которые позволят снять с него обвинения в вождении автомобилем в нетрезвом состоянии.</segment>
+		<segment id="17" parent="16" relname="elaboration">Антиалкогольные курсы займут в общей сложности 10 часов.</segment>
+		<segment id="19" parent="25" relname="sequence">Кроме того, Петренко оплатил взнос в 150 долларов и судебные издержки.\n\nОбвинения в вождении автомобилем в нетрезвом состоянии были выдвинуты украинцу после дорожно-транспортного происшествия 28 января.</segment>
+		<segment id="20" parent="22" relname="joint">Около полуночи блюстители порядка обнаружили его автомобиль повышенной проходимости,</segment>
+		<segment id="21" parent="22" relname="joint">протаранивший столб и ограду,</segment>
+		<segment id="23" parent="24" relname="comparison">напоминает ИТАР-ТАСС.\n\nВнутри был только водитель.</segment>
+		<segment id="26" parent="27" relname="attribution">Несмотря на уверения Петренко в том,</segment>
+		<segment id="27" parent="28" relname="span">что он выпил всего один бокал вина,</segment>
+		<segment id="29" parent="30" relname="span">он не смог пройти тесты на трезвость.</segment>
+		<segment id="31" parent="35" relname="joint">Известный фигурист был лишен на полгода прав на управлением транспортным средством.\n\</segment>
+		<segment id="32" parent="34" relname="span">nАналогичные обвинения были выдвинуты в адрес двух других олимпийских чемпионов в этом виде спорта россиянина Алексея Ягудина полгода назад и украинки Оксане Баюл,</segment>
+		<segment id="33" parent="32" relname="elaboration">которым пришлось пройти антиалкогольные курсы.\n\nИсточник: https://www.newsru.com/sport/10Feb2004/petrrecap.html\n</segment>
+		<group id="18" type="span" parent="38" relname="joint"/>
+		<group id="16" type="span" parent="18" relname="span"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="25" type="multinuc" parent="37" relname="span"/>
+		<group id="24" type="multinuc" parent="25" relname="sequence"/>
+		<group id="22" type="multinuc" parent="24" relname="comparison"/>
+		<group id="36" type="span" parent="25" relname="concession"/>
+		<group id="30" type="span" parent="36" relname="span"/>
+		<group id="28" type="span" parent="29" relname="concession"/>
+		<group id="35" type="multinuc" parent="30" relname="evidence"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="38" type="multinuc"/>
+	</body>
+</rst>

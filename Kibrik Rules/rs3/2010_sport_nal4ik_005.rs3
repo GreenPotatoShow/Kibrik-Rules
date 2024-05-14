@@ -1,0 +1,67 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="33" relname="span">\"Спартак\" из Нальчика возвращает себе лидерство в премьер-лиге\n\nВозмутитель спокойствия первых туров чемпионата России по футболу продолжает удивлять</segment>
+		<segment id="28" parent="32" relname="same-unit">- \"Спартак\" из Нальчика вернул себе единоличное лидерство в премьер лиге,</segment>
+		<segment id="31" parent="32" relname="same-unit">сыграв в безголевую ничью с одноклубниками из Москвы.\n\</segment>
+		<segment id="34" parent="38" relname="joint">nВ начале матча подопечные Красножана ничуть не выглядели гостями на поле \"Лужников\",</segment>
+		<segment id="35" parent="37" relname="contrast">и даже создали несколько опасных моментов у ворот Джанаева,</segment>
+		<segment id="36" parent="37" relname="contrast">однако забить не смогли.</segment>
+		<segment id="39" parent="45" relname="joint">А на 25-й минуте нальчане упустили Велиттона,</segment>
+		<segment id="40" parent="44" relname="span">и Концедалов был вынужден применить фол последней надежды,</segment>
+		<segment id="41" parent="42" relname="condition">за что был удален с поля.\n\nТем не менее,</segment>
+		<segment id="42" parent="43" relname="span">даже численное большинство не позволило москвичам \"распечатать\" ворота Фредриксона.</segment>
+		<segment id="46" parent="45" relname="interpretation-evaluation">Свои моменты не смогли реализовать Велиттон, Жано и Йиранек.</segment>
+		<segment id="48" parent="50" relname="span">Но и у южан были возможности свести матч к победе</segment>
+		<segment id="49" parent="48" relname="elaboration">- опасные удары Сирадзе парировали Джанаев и Сабитов.\n\</segment>
+		<segment id="51" parent="53" relname="contrast">nВ конце встречи арбитр добавил 4 минуты к основному времени,</segment>
+		<segment id="52" parent="53" relname="contrast">однако подопечные Карпина их не использовали.</segment>
+		<segment id="58" parent="66" relname="span">А уже после свистка бразилец Алекс не совладал с эмоциями,</segment>
+		<segment id="59" parent="64" relname="cause-effect">за что был награжден вторым \"горчичником\", преобразившемся тут же в красную карточку в руках арбитра</segment>
+		<segment id="60" parent="64" relname="span">- теперь плеймейкеру москвичей предстоит пропустить следующую игру.\n\nЗаработав очко в столь сложном матче,</segment>
+		<segment id="61" parent="63" relname="span">\"Спартак\" из Нальчика вернул себе единоличное лидерство в чемпионате,</segment>
+		<segment id="62" parent="61" relname="elaboration">опережая идущий вторым ЦСКА на один бал.</segment>
+		<segment id="67" parent="71" relname="span">Однако армейцы имеют один матч в запасе.\n\nВ двух других воскресных матчах также была зафиксирована нулевая ничья</segment>
+		<segment id="68" parent="70" relname="joint">- \"Зенит\" на \"Петровском\" разошелся миром с \"Тереком\",</segment>
+		<segment id="69" parent="70" relname="joint">а \"Рубин\" не смог взломать оборону \"Анжи\".</segment>
+		<segment id="72" parent="74" relname="span">Заключительный матч тура состоится в 20:45 в Ростове-на-Дону,</segment>
+		<segment id="73" parent="72" relname="elaboration">где \"Ростов\" примет \"Аланию\".\n\nИсточник: https://www.newsru.com/sport/25Apr2010/nal4ik.html\n</segment>
+		<group id="57" type="span" parent="77" relname="joint"/>
+		<group id="33" type="span" parent="56" relname="preparation"/>
+		<group id="32" type="multinuc" parent="27" relname="elaboration"/>
+		<group id="56" type="multinuc" parent="57" relname="span"/>
+		<group id="38" type="multinuc" parent="56" relname="contrast"/>
+		<group id="37" type="multinuc" parent="38" relname="joint"/>
+		<group id="55" type="multinuc" parent="56" relname="contrast"/>
+		<group id="47" type="span" parent="55" relname="contrast"/>
+		<group id="45" type="multinuc" parent="47" relname="span"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="43" type="span" parent="40" relname="cause-effect"/>
+		<group id="54" type="span" parent="55" relname="contrast"/>
+		<group id="50" type="span" parent="54" relname="span"/>
+		<group id="53" type="multinuc" parent="50" relname="elaboration"/>
+		<group id="76" type="multinuc" parent="77" relname="joint"/>
+		<group id="66" type="span" parent="76" relname="contrast"/>
+		<group id="65" type="span" parent="58" relname="cause-effect"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="63" type="span" parent="60" relname="elaboration"/>
+		<group id="75" type="span" parent="76" relname="contrast"/>
+		<group id="71" type="span" parent="75" relname="span"/>
+		<group id="70" type="multinuc" parent="67" relname="elaboration"/>
+		<group id="74" type="span" parent="71" relname="elaboration"/>
+		<group id="77" type="multinuc"/>
+	</body>
+</rst>

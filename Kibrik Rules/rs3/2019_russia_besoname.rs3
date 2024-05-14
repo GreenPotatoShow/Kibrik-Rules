@@ -1,0 +1,101 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="concession" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="44" parent="47" relname="preparation">Аэропорт Петрозаводска \"Бесовец\" избавили от ассоциации с нечистой силой\n\nРосреестр в соответствии с мартовским распоряжением правительства РФ переименовал аэропорты в Красноярске, Магасе и Петрозаводске.</segment>
+		<segment id="45" parent="46" relname="attribution">Как сообщается на сайте ведомства,</segment>
+		<segment id="46" parent="47" relname="span">аэропорты переименованы на основании проведенной экспертизы.\n\n\"Так, в Красноярском крае международный аэропорт Красноярск (Емельяново) переименован в международный аэропорт Красноярск.</segment>
+		<segment id="49" parent="51" relname="span">В Ингушетии аэропорт Магас (Слепцовская) переименован в аэропорт Магас,</segment>
+		<segment id="50" parent="49" relname="elaboration">в Карелии аэропорт Петрозаводск (Бесовец) - в аэропорт Петрозаводск\",</segment>
+		<segment id="52" parent="51" relname="attribution">- говорится в сообщении Росреестра</segment>
+		<segment id="55" parent="59" relname="joint">.\n\nВ 2016 году министр внутренних дел РФ Владимир Колокольцев и секретарь Совета безопасности Николай Патрушев выступали за переименование аэродрома Бесовец из-за ассоциаций с \"бесовщиной\".</segment>
+		<segment id="56" parent="58" relname="sequence">А бывший губернатор Карелии Андрей Нелидов после крушения пассажирского Ту-134 возле аэропорта в 2011 году предлагал переименовать деревню Бесовец.\n\nВпрочем, официально аэродром и так называется \"Аэропорт Петрозаводск\",</segment>
+		<segment id="57" parent="58" relname="sequence">он находится рядом с населенными пунктами Верхний Бесовец, Нижний Бесовец, а также военным гарнизоном Бесовец.\n\</segment>
+		<segment id="60" parent="64" relname="span">nВ июле 2018 года в Карелии прошло голосование по выбору названия для аэропорта.</segment>
+		<segment id="61" parent="63" relname="comparison">Большинство участников - 36,88% - выступили за сохранение названия \"Петрозаводск (Бесовец)\".</segment>
+		<segment id="62" parent="63" relname="comparison">На втором месте было название \"Петрозаводск\" (19,6%), на третьем - \"Карелия\".\n\nАэродром \"Бесовец\" создан в 1939 году.</segment>
+		<segment id="65" parent="69" relname="span">С момента основания до настоящего времени является базой для подразделений истребительной авиации.</segment>
+		<segment id="66" parent="68" relname="span">Сейчас там дислоцируется полк истребительной авиации ЗВО,</segment>
+		<segment id="67" parent="66" relname="elaboration">оснащенный истребителями типа Су-27.</segment>
+		<segment id="70" parent="74" relname="span">С 1995 года \"Бесовец\" является аэродромом совместного базирования Минобороны и Минтранса,</segment>
+		<segment id="71" parent="73" relname="span">там выполняются рейсы гражданской авиации.\n\nВ ночь на 21 июня 2011 года летевший из Москвы Ту-134 разбился</segment>
+		<segment id="72" parent="71" relname="elaboration">при заходе на посадку в 700 метрах от взлетной полосы аэропорта Петрозаводска.</segment>
+		<segment id="75" parent="77" relname="joint">На борту находились 52 человека,</segment>
+		<segment id="76" parent="77" relname="joint">44 из них погибли на месте.</segment>
+		<segment id="78" parent="82" relname="span">В течение недели в больницах скончались еще трое пострадавших</segment>
+		<segment id="79" parent="81" relname="joint">при крушении,</segment>
+		<segment id="80" parent="81" relname="joint">и число жертв авиакатастрофы достигло 47.\n\nПричинами крушения Следственный комитет счел ошибки, допущенные тремя членами экипажа и наземными службами.</segment>
+		<segment id="86" parent="88" relname="span">Трое подсудимых - начальник аэропорта Владимир Шкарупа, и.о. начальника авиационной метеорологической станции аэропорта Владимир Пронин и начальник управления радиотехнического обеспечения полетов и авиационной электросвязи Росавиации Эдуард Войтовский в 2017 году получили амнистию.\n\nВ ноябре прошлого года президент России Владимир Путин подписал указ,</segment>
+		<segment id="87" parent="86" relname="elaboration">согласно которому аэропортам, железнодорожным станциям, морским и речным портам можно будет присваивать имена выдающихся государственных, военных и общественных деятелей, представителей науки, искусства, культуры и спорта.</segment>
+		<segment id="89" parent="92" relname="attribution">Как следует из текста указа,</segment>
+		<segment id="90" parent="92" relname="joint">полностью аэропорты переименовываться не будут,</segment>
+		<segment id="91" parent="92" relname="joint">и присвоение географическому объекту имени выдающегося деятеля не влечет за собой изменения установленного наименования объекта</segment>
+		<segment id="94" parent="95" relname="joint">.\n\nПроект по отбору имен для российских аэропортов стартовал в стране 12 октября.</segment>
+		<segment id="99" parent="115" relname="joint">До 30 ноября на сайте \"Великиеимена.рф\" проходило общенациональное голосование по выбору одной из трех или четырех фамилий для каждого аэропорта, сопровождавшееся скандалами и спорами.</segment>
+		<segment id="100" parent="110" relname="joint">Наиболее обсуждаемой стала кампания по переименованию аэропорта в Омске,</segment>
+		<segment id="101" parent="109" relname="joint">где поклонники группы \"Гражданская оборона\" развернули масштабную кампанию в поддержку кандидатуры лидера этого музыкального коллектива Егора Летова, уроженца Омска,</segment>
+		<segment id="102" parent="108" relname="sequence">скончавшегося в 2008 году.</segment>
+		<segment id="103" parent="107" relname="span">В результате Летов не попал в итоговый шорт-лист:</segment>
+		<segment id="104" parent="106" relname="joint">в нем оказались герой Великой Отечественной войны генерал Дмитрий Карбышев, авиаконструктор Андрей Туполев и театральный актер и режиссер Михаил Ульянов.\n\nЕще одним яблоком раздора стал аэропорт Калининграда Храброво,</segment>
+		<segment id="105" parent="106" relname="joint">в списке которого значились немецкий философ Иммануил Кант, российская императрица Елизавета Петровна и участники Великой Отечественной войны, герои СССР Александр Василевский и Иван Черняховский.</segment>
+		<segment id="111" parent="113" relname="contrast">Поначалу в голосовании лидировал Кант,</segment>
+		<segment id="112" parent="113" relname="contrast">но затем его кандидатура начала вызывать вопросы у представителей власти.</segment>
+		<segment id="121" parent="126" relname="attribution">20 ноября против Канта выступил депутат Госдумы от Татарстана Марат Бариев,</segment>
+		<segment id="122" parent="125" relname="attribution">заявив,</segment>
+		<segment id="123" parent="125" relname="span">что само наличие немца в списке претендентов оскорбляет ветеранов,</segment>
+		<segment id="124" parent="123" relname="concession">хотя Кант умер за 137 лет до ее начала.\n\nИсточник: https://www.newsru.com/russia/16Apr2019/besoname.html\n</segment>
+		<group id="120" type="multinuc" parent="128" relname="joint"/>
+		<group id="54" type="multinuc" parent="120" relname="joint"/>
+		<group id="48" type="span" parent="54" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="51" type="span" parent="53" relname="span"/>
+		<group id="119" type="multinuc" parent="120" relname="joint"/>
+		<group id="59" type="multinuc" parent="119" relname="joint"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="118" type="multinuc" parent="119" relname="joint"/>
+		<group id="64" type="span" parent="118" relname="joint"/>
+		<group id="63" type="multinuc" parent="60" relname="elaboration"/>
+		<group id="117" type="multinuc" parent="118" relname="joint"/>
+		<group id="85" type="multinuc" parent="117" relname="joint"/>
+		<group id="69" type="span" parent="85" relname="joint"/>
+		<group id="68" type="span" parent="65" relname="elaboration"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="74" type="span" parent="84" relname="sequence"/>
+		<group id="73" type="span" parent="70" relname="elaboration"/>
+		<group id="83" type="multinuc" parent="84" relname="sequence"/>
+		<group id="77" type="multinuc" parent="83" relname="joint"/>
+		<group id="82" type="span" parent="83" relname="joint"/>
+		<group id="81" type="multinuc" parent="78" relname="elaboration"/>
+		<group id="116" type="multinuc" parent="117" relname="joint"/>
+		<group id="96" type="multinuc" parent="116" relname="joint"/>
+		<group id="88" type="span" parent="96" relname="joint"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="93" type="span" parent="95" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="span"/>
+		<group id="115" type="multinuc" parent="116" relname="joint"/>
+		<group id="114" type="span" parent="115" relname="joint"/>
+		<group id="110" type="multinuc" parent="114" relname="span"/>
+		<group id="109" type="multinuc" parent="110" relname="joint"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="107" type="span" parent="108" relname="sequence"/>
+		<group id="106" type="multinuc" parent="103" relname="elaboration"/>
+		<group id="113" type="multinuc" parent="110" relname="elaboration"/>
+		<group id="127" type="span" parent="128" relname="joint"/>
+		<group id="126" type="span" parent="127" relname="span"/>
+		<group id="125" type="span" parent="126" relname="span"/>
+		<group id="128" type="multinuc"/>
+	</body>
+</rst>

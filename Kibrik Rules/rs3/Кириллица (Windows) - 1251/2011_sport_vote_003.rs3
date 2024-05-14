@@ -1,0 +1,40 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="17" relname="span">Сергей Игнашевич претендует на попадание в команду года по версии УЕФА\n\nНа официальном сайте Союза европейских футбольных ассоциаций (УЕФА) началось голосование за команду года - 2011,</segment>
+		<segment id="16" parent="15" relname="purpose">на попадание в которую претендует защитник сборной России по футболу и московского ЦСКА Сергей Игнашевич.</segment>
+		<segment id="18" parent="22" relname="joint">Любой желающий может составить символическую сборную из футболистов, ярко сыгравших в уходящем году.\n\nВ прошлом году в голосовании приняли участие более пяти миллионов человек.</segment>
+		<segment id="19" parent="21" relname="span">Выразить свои предпочтения можно здесь.\n\nНа 12 позиций, включая тренерскую, претендуют 55 футболистов и пять наставников.</segment>
+		<segment id="20" parent="19" relname="elaboration">Номинанты были отобраны журналистами на основе выступлений игроков на протяжении года в турнирах УЕФА для клубов и сборных.</segment>
+		<segment id="23" parent="25" relname="joint">Голосование завершится 5 января,</segment>
+		<segment id="24" parent="25" relname="joint">а результаты будут объявлены 18 января.\n\nИгнашевич номинирован на позиции центрального защитника.</segment>
+		<segment id="26" parent="28" relname="span">Его конкурентами являются Жерар Пике (\"Барселона\"), Неманья Видич (\"Манчестер Юнайтед\"), Тьяго Силва (\"Милан\"), Матс Хуммельс (\"Боруссия\" Дортмунд), Бенедикт Хеведес (\"Шальке-04\"), Хавьер Маскерано (\"Барселона\"), Венсан Компани (\"Манчестер Сити\"), Роланду (\"Порту\") и Адиль Рами (\"Лилль\"/\"Валенсия\").\n\nСреди клубов наибольшее число номинантов делегировала \"Барселона\" - восемь человек,</segment>
+		<segment id="27" parent="26" relname="elaboration">в числе которых главный тренер каталонцев Хосеп Гвардиола.</segment>
+		<segment id="29" parent="37" relname="span">При этом Лионель Месси и Хави Эрнендес имеют шанс быть избранными в команду года четвертый раз кряду.</segment>
+		<segment id="30" parent="32" relname="span">В пятый раз подряд в ней могут получить места футболисты \"Реала\" Криштиану Роналду и Икер Касильяс.\n\nУЕФА вручит капитану сборной года благотворительный чек на 100 тысяч евро,</segment>
+		<segment id="31" parent="30" relname="elaboration">который будет передан Международному комитету Красного Креста.</segment>
+		<segment id="33" parent="35" relname="span">Все собранные средства будут использованы</segment>
+		<segment id="34" parent="33" relname="purpose">для поддержки жертв противопехотных мин в Афганистане.\n\nИсточник: https://www.newsru.com/sport/06Dec2011/vote.html\n</segment>
+		<group id="17" type="span" parent="40" relname="preparation"/>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="22" type="multinuc" parent="40" relname="joint"/>
+		<group id="21" type="span" parent="22" relname="joint"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="25" type="multinuc" parent="39" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="joint"/>
+		<group id="28" type="span" parent="38" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="36" type="multinuc" parent="29" relname="elaboration"/>
+		<group id="32" type="span" parent="36" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="41" type="span"/>
+	</body>
+</rst>

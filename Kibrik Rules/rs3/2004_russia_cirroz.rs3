@@ -1,0 +1,38 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="13" parent="15" relname="span">Адвокаты требуют освобождения Лебедева:</segment>
+		<segment id="14" parent="13" relname="elaboration">у главы МЕНАТЕПа подозрение на рак печени\n\</segment>
+		<segment id="16" parent="23" relname="preparation">nВ ходе судебных слушаний в Мещанском суде Москвы</segment>
+		<segment id="17" parent="23" relname="joint">адвокат главы МФО МЕНАТЕП Евгений Бару обратился в понедельник к суду с просьбой назначить его подзащитному Платону Лебедеву медицинское обследование в независимом медицинском учреждении</segment>
+		<segment id="18" parent="20" relname="span">.\n\nЗащитник попросил обеспечить надлежащие условия</segment>
+		<segment id="19" parent="18" relname="purpose">для обследования,</segment>
+		<segment id="21" parent="22" relname="contrast">а именно освободить Лебедева из-под стражи.</segment>
+		<segment id="25" parent="32" relname="attribution">Кроме того, Бару просил приостановить слушания до завершения обследования его подзащитного,</segment>
+		<segment id="26" parent="32" relname="span">сообщает РИА \"Новости\".\n\nАдвокат зачитал в суде заключение независимого эксперта из Великобритании,</segment>
+		<segment id="27" parent="30" relname="attribution">который на основе медицинской карты Лебедева установил,</segment>
+		<segment id="28" parent="30" relname="joint">что у того серьезное заболевание печени,</segment>
+		<segment id="29" parent="30" relname="joint">а также обнаружил признаки цирроза печени, или начальной стадии рака печени.\n\nИсточник: https://www.newsru.com/russia/12Jul2004/cirroz.html\n</segment>
+		<group id="15" type="span" parent="34" relname="preparation"/>
+		<group id="34" type="multinuc" parent="35" relname="span"/>
+		<group id="24" type="span" parent="34" relname="joint"/>
+		<group id="23" type="multinuc" parent="24" relname="span"/>
+		<group id="22" type="multinuc" parent="23" relname="joint"/>
+		<group id="20" type="span" parent="22" relname="contrast"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="31" type="span" parent="26" relname="elaboration"/>
+		<group id="30" type="multinuc" parent="31" relname="span"/>
+		<group id="35" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,77 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="30" parent="32" relname="span">Депутат Госдумы Оксана Пушкина заразилась коронавирусом\n\nДепутат Государственной думы от партии \"Единая Россия\" Оксана Пушкина заразилась новым типом коронавируса.</segment>
+		<segment id="31" parent="30" relname="attribution">Об этом она сообщила в своем телеграм-канале.\n\n</segment>
+		<segment id="33" parent="37" relname="span">\"Сегодня на пленарке Вячеслав Володин сообщил о двух новых заболевших коронавирусом депутатах.</segment>
+		<segment id="34" parent="36" relname="span">Раскрою половину интриги</segment>
+		<segment id="35" parent="34" relname="cause-effect">- я одна из этих депутатов\",</segment>
+		<segment id="38" parent="42" relname="sequence">- рассказала Пушкина.\n\nВ последний месяц депутат,</segment>
+		<segment id="39" parent="40" relname="attribution">по ее словам,</segment>
+		<segment id="40" parent="41" relname="span">активно \"волонтерила на передовой\":</segment>
+		<segment id="43" parent="45" relname="joint">посещала больницы</segment>
+		<segment id="44" parent="45" relname="joint">и развозила средства индивидуальной защиты для врачей в рамках проекта \"Мы вместе\", запущенного Общероссийским народным фронтом,</segment>
+		<segment id="46" parent="45" relname="attribution">созданным по инициативе Владимира Путина.</segment>
+		<segment id="50" parent="52" relname="contrast">\"Масочный режим прилежно соблюдала,</segment>
+		<segment id="51" parent="52" relname="contrast">но вирус все-таки подцепила\",</segment>
+		<segment id="53" parent="52" relname="attribution">- сказала Оксана Пушкина.\n\</segment>
+		<segment id="55" parent="60" relname="attribution">nПо словам депутата,</segment>
+		<segment id="56" parent="60" relname="joint">она переносит COVID-19 бессимптомно,</segment>
+		<segment id="57" parent="59" relname="joint">изменения в легких минимальны,</segment>
+		<segment id="58" parent="59" relname="joint">температуры нет.</segment>
+		<segment id="62" parent="63" relname="condition">\"Если бы не тест</segment>
+		<segment id="63" parent="64" relname="span">- никогда бы не подумала, что болею.</segment>
+		<segment id="65" parent="67" relname="span">Поэтому надеюсь уже совсем скоро вернуться в строй</segment>
+		<segment id="66" parent="65" relname="cause-effect">- закон о профилактике домашнего насилия сам себя не примет\",</segment>
+		<segment id="69" parent="70" relname="attribution">- добавила она.\n\nРанее в среду председатель Госдумы Вячеслав Володин рассказал</segment>
+		<segment id="70" parent="71" relname="span">о пяти депутатах с подтвержденным COVID-19.</segment>
+		<segment id="73" parent="81" relname="sequence">С диагнозом были госпитализированы парламентарии от КПРФ Леонид Калашников и Дмитрий Новиков, а также депутат \"Единой России\" Светлана Максимова.</segment>
+		<segment id="74" parent="80" relname="sequence">Еще два депутата проходят лечение на дому.</segment>
+		<segment id="75" parent="79" relname="span">Калашников позднее выписался из больницы</segment>
+		<segment id="76" parent="77" relname="condition">при условии дальнейшего соблюдения самоизоляции в течение двух недель,</segment>
+		<segment id="77" parent="78" relname="span">передает РИА \"Новости\".\n\nИсточник: https://www.newsru.com/russia/13May2020/pushkina.html\n</segment>
+		<group id="32" type="span" parent="85" relname="preparation"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="49" type="multinuc" parent="85" relname="joint"/>
+		<group id="37" type="span" parent="49" relname="joint"/>
+		<group id="36" type="span" parent="33" relname="elaboration"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="42" type="multinuc" parent="47" relname="attribution"/>
+		<group id="41" type="span" parent="42" relname="sequence"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="45" type="multinuc" parent="47" relname="span"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="54" type="span" parent="83" relname="preparation"/>
+		<group id="52" type="multinuc" parent="54" relname="span"/>
+		<group id="83" type="span" parent="84" relname="span"/>
+		<group id="61" type="span" parent="82" relname="preparation"/>
+		<group id="60" type="multinuc" parent="61" relname="span"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="72" type="span" parent="82" relname="joint"/>
+		<group id="68" type="span" parent="72" relname="span"/>
+		<group id="64" type="span" parent="67" relname="cause-effect"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="71" type="span" parent="68" relname="attribution"/>
+		<group id="81" type="multinuc" parent="82" relname="joint"/>
+		<group id="80" type="multinuc" parent="81" relname="sequence"/>
+		<group id="79" type="span" parent="80" relname="sequence"/>
+		<group id="78" type="span" parent="75" relname="condition"/>
+		<group id="86" type="span"/>
+	</body>
+</rst>

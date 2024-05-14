@@ -1,0 +1,37 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="31" relname="preparation">Вероника Кудерметова выбила с Кубка Кремля украинскую фаворитку\n\nРоссиянка Вероника Кудерметова пробилась в 1/4 финала теннисного турнира \"ВТБ Кубок Кремля\", который проходит в эти дни в Москве на арене крытого ледового дворца \"Крылатское\".\n\nВ 1/8 финала 42-я ракетка мира обыграла первую сеяную турнира, представительницу Украины Элину Свитолину, занимающую четвертое место в рейтинге WTA.</segment>
+		<segment id="13" parent="15" relname="sequence">Встреча продолжалась 2 часа 1 минуту</segment>
+		<segment id="14" parent="15" relname="sequence">и завершилась победой россиянки со счетом 6:2, 1:6, 7:5.\n\n\"На самом деле у меня сегодня получилось выстоять</segment>
+		<segment id="16" parent="15" relname="cause-effect">благодаря безумно крутой поддержке.</segment>
+		<segment id="18" parent="23" relname="cause-effect">Тактика игры - я старалась</segment>
+		<segment id="19" parent="21" relname="joint">при возможности идти к сетке</segment>
+		<segment id="20" parent="21" relname="joint">и давить,</segment>
+		<segment id="22" parent="21" relname="cause-effect">потому что удержать на задней линии было сложнее\",</segment>
+		<segment id="26" parent="30" relname="span">- цитирует Кудерметову портал Sport24.\n\nЗа выход в полуфинал турнира,</segment>
+		<segment id="27" parent="29" relname="joint">призовой фонд которого превышает 965 тысяч долларов,</segment>
+		<segment id="28" parent="29" relname="joint">Кудерметова поспорит с победительницей противостояния россиянок Анастасии Павлюченковой и Варвары Грачевой.\n\nВ прошлом году \"ВТБ Кубок Кремля\" в женском одиночном разряде выиграла Дарья Касаткина.\n\nИсточник: https://www.newsru.com/sport/17Oct2019/nika.html\n</segment>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="25" type="span" parent="31" relname="joint"/>
+		<group id="17" type="span" parent="25" relname="span"/>
+		<group id="15" type="multinuc" parent="17" relname="span"/>
+		<group id="24" type="span" parent="17" relname="interpretation-evaluation"/>
+		<group id="23" type="span" parent="24" relname="span"/>
+		<group id="21" type="multinuc" parent="23" relname="span"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="29" type="multinuc" parent="26" relname="purpose"/>
+		<group id="32" type="span"/>
+	</body>
+</rst>

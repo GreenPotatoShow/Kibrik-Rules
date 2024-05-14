@@ -1,0 +1,63 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="35" relname="span">Первый канал заподозрили в разжигании розни</segment>
+		<segment id="24" parent="25" relname="cause-effect">из-за исторического анонса матча Германия - Россия\n\nДепутат Госдумы из фракции \"Справедливая Россия\" Олег Нилов попросил проверить анонс товарищеского матча футбольных сборных России и Германии от Первого канала на предмет разжигания межнациональной розни, нарушения норм общественной безопасности и морально-этических норм.\n\nМатч Германия - Россия пройдет 15 ноября на стадионе \"Ред Булл Арена\" в Лейпциге</segment>
+		<segment id="25" parent="26" relname="span">и будет транслироваться Первым каналом.\n\nВ анонсе трансляции на сайте телеканала были использованы кадры из легендарного фильма Сергея Эйзенштейна \"Александр Невский\",</segment>
+		<segment id="27" parent="33" relname="span">который повествует о победе древнерусского князя в \"Ледовом побоище\" - битве с рыцарями Ливонского ордена на Чудском озере в 1242 году.\n\n\"Представляется, что анонс футбольного матча между сборной России и сборной Германии,</segment>
+		<segment id="28" parent="32" relname="span">который состоится 15 ноября,</segment>
+		<segment id="29" parent="31" relname="span">появившийся на сайте Первого канала,</segment>
+		<segment id="30" parent="29" relname="interpretation-evaluation">может восприниматься не совсем однозначно\",</segment>
+		<segment id="36" parent="47" relname="attribution">- пишет Нилов в депутатском запросе на имя заместителя председателя правительства РФ Константина Чуйченко,</segment>
+		<segment id="37" parent="46" relname="attribution">который попал в распоряжение РИА \"Новости\".\n\nПо его мнению,</segment>
+		<segment id="38" parent="46" relname="joint">матч между сборными двух стран - это, прежде всего, спортивное, товарищеское мероприятие,</segment>
+		<segment id="39" parent="45" relname="joint">и проведение аналогии с историческими событиями серьезно искажает спортивные цели и ценности,</segment>
+		<segment id="40" parent="44" relname="contrast">создает предпосылки для конфликтной ситуации вокруг матча.\n\nКроме того, важнейшее по исторической значимости событие и великое произведение отечественного кинематографа, \"не могут произвольно использоваться сугубо в рекламных целях\".\n\nНилов подчеркнул,</segment>
+		<segment id="41" parent="43" relname="joint">что в настоящее время одним из приоритетных направлений национальной политики является сохранение памяти о великих подвигах предков,</segment>
+		<segment id="42" parent="43" relname="joint">а также воспитание подрастающего поколения в духе уважительного отношения к гражданам всех стран независимо от их конфессиональной или национальной принадлежности.\n\nДобавим, что сборная России по футболу пока не может похвастаться победами над сборной Германии в новейшей истории.</segment>
+		<segment id="50" parent="52" relname="joint">Соперники ранее провели пять матчей</segment>
+		<segment id="51" parent="52" relname="joint">и бундестим выиграла четыре из них,</segment>
+		<segment id="53" parent="55" relname="span">а один, также товарищеский,</segment>
+		<segment id="54" parent="53" relname="elaboration">закончился вничью.\n\nСборная Германии крайне неудачно выступила на ЧМ-2018 в России,</segment>
+		<segment id="56" parent="57" relname="same-unit">не сумев защитить чемпионский титул.</segment>
+		<segment id="59" parent="60" relname="attribution">Липецкий губернатор Олег Королев тогда сгоряча назвал</segment>
+		<segment id="60" parent="61" relname="span">провал немцев карой за войны на русской земле,</segment>
+		<segment id="62" parent="63" relname="contrast">но после шквала критики в свой адрес отрекся от этого тезиса.\n\nИсточник: https://www.newsru.com/sport/15Nov2018/ice.html\n</segment>
+		<group id="49" type="multinuc" parent="65" relname="span"/>
+		<group id="35" type="span" parent="49" relname="joint"/>
+		<group id="34" type="span" parent="23" relname="cause-effect"/>
+		<group id="26" type="span" parent="34" relname="span"/>
+		<group id="33" type="span" parent="26" relname="elaboration"/>
+		<group id="32" type="span" parent="27" relname="elaboration"/>
+		<group id="31" type="span" parent="28" relname="elaboration"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="43" type="multinuc" parent="44" relname="contrast"/>
+		<group id="64" type="multinuc" parent="49" relname="background"/>
+		<group id="58" type="multinuc" parent="64" relname="sequence"/>
+		<group id="52" type="multinuc" parent="58" relname="comparison"/>
+		<group id="57" type="multinuc" parent="58" relname="comparison"/>
+		<group id="55" type="span" parent="57" relname="same-unit"/>
+		<group id="63" type="multinuc" parent="64" relname="sequence"/>
+		<group id="61" type="span" parent="63" relname="contrast"/>
+		<group id="65" type="span"/>
+	</body>
+</rst>

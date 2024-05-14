@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="24" relname="preparation">Во вторник в Москве и Подмосковье будет жарко\n\nВо вторник в Москве и Подмосковье будет жарко.</segment>
+		<segment id="20" parent="23" relname="attribution">Как сообщили РИА \"Новости\" в Гидрометеобюро Москвы и Московской области,</segment>
+		<segment id="21" parent="23" relname="contrast">с 13 до 19 часов температура воздуха в Москве поднимется до 30-32 градусов выше нуля,</segment>
+		<segment id="22" parent="23" relname="contrast">а по Подмосковью местами - до 33 градусов.\n\</segment>
+		<segment id="28" parent="30" relname="span">nПо данным синоптиков, на самочувствии большинства людей прежде всего скажется неспокойный геомагнитный фон.</segment>
+		<segment id="29" parent="28" relname="elaboration">Возможно недомогание и даже ухудшение самочувствия у метеозависимых людей, страдающих сердечно-сосудистыми заболеваниями, нервными и психо-эмоциональными расстройствами.</segment>
+		<segment id="31" parent="30" relname="interpretation-evaluation">Даже вполне здоровые люди могут жаловаться на слабость, раздражительность, нарушение сна, снижение работоспособности.\n\</segment>
+		<segment id="33" parent="36" relname="purpose">nЧтобы уменьшить негативное влияние геомагнитных факторов,</segment>
+		<segment id="34" parent="36" relname="joint">специалисты советуют не переутомляться,</segment>
+		<segment id="35" parent="36" relname="joint">избегать чрезмерных эмоциональных и физических нагрузок.\n\</segment>
+		<segment id="38" parent="39" relname="cause-effect">nСодержание кислорода в воздухе будет резко снижено,</segment>
+		<segment id="39" parent="40" relname="span">что отрицательно сказывается на людях с заболеваниями щитовидной железы, с хронической легочной и сердечной недостаточностью, ишемической болезнью сердца, нарушением сердечного ритма, ожирением и сахарным диабетом.</segment>
+		<segment id="42" parent="46" relname="span">Этим группам больных специалисты советуют восполнять суточную потребность в кислороде во время неспешных прогулок утром или вечером,</segment>
+		<segment id="43" parent="45" relname="joint">когда жара спадает,</segment>
+		<segment id="44" parent="45" relname="joint">а также попытаться приготовить в домашних условиях кислородные коктейли.</segment>
+		<segment id="47" parent="49" relname="span">Рекомендуется пить больше минеральной воды,</segment>
+		<segment id="48" parent="47" relname="condition">лучше без газа.\n\nИсточник: https://www.newsru.com/russia/30Jul2002/jara2.html\n</segment>
+		<group id="25" type="span" parent="52" relname="preparation"/>
+		<group id="24" type="span" parent="25" relname="span"/>
+		<group id="23" type="multinuc" parent="24" relname="span"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="32" type="span" parent="52" relname="joint"/>
+		<group id="30" type="span" parent="32" relname="span"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="41" type="multinuc" parent="51" relname="joint"/>
+		<group id="37" type="span" parent="41" relname="joint"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="46" type="span" parent="50" relname="joint"/>
+		<group id="45" type="multinuc" parent="42" relname="elaboration"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

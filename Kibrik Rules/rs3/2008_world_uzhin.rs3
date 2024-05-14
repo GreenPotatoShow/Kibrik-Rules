@@ -1,0 +1,37 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="14" relname="span">Ужин португальского премьера завершился стрельбой в ресторане\n\nПортугальская полиция расследует инцидент со стрельбой в ресторане,</segment>
+		<segment id="13" parent="12" relname="background">который произошел после того, как в заведении отужинал глава португальского правительства Жозе Сократиш.\n\</segment>
+		<segment id="15" parent="16" relname="attribution">nКак сообщает агентство Reuters со ссылкой на португальские СМИ,</segment>
+		<segment id="16" parent="17" relname="span">инцидент произошел в городе Портимау на юге страны.</segment>
+		<segment id="19" parent="21" relname="span">Премьер-министр прибыл на ужин, организованный местными лидерами правящей Социалистической партии.\n\nСпустя короткое время после отъезда Сократиша началась стрельба.</segment>
+		<segment id="20" parent="19" relname="elaboration">Выстрелы пробили крышу павильона, в котором обедал глава правительства.</segment>
+		<segment id="22" parent="24" relname="span">Однако пока непонятно, пострадал ли кто-нибудь в результате инцидента.\n\</segment>
+		<segment id="23" parent="22" relname="condition">nТакже полиция пока не дает никаких комментариев,</segment>
+		<segment id="25" parent="26" relname="span">шла ли речь о преступном умысле в отношении самого Сократиша.</segment>
+		<segment id="27" parent="28" relname="attribution">Представители правительства страны пока не прокомментировали сообщения об инциденте</segment>
+		<segment id="28" parent="29" relname="span">.\n\nЖозе Сократиш возглавляет правительство Португалии с марта 2005 года.\n\nИсточник: https://www.newsru.com/world/28Jun2008/uzhin.html\n</segment>
+		<group id="18" type="span" parent="31" relname="preparation"/>
+		<group id="14" type="span" parent="18" relname="span"/>
+		<group id="17" type="span" parent="14" relname="elaboration"/>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="21" type="span" parent="31" relname="contrast"/>
+		<group id="30" type="span" parent="31" relname="contrast"/>
+		<group id="26" type="span" parent="30" relname="span"/>
+		<group id="24" type="span" parent="25" relname="condition"/>
+		<group id="29" type="span" parent="26" relname="elaboration"/>
+		<group id="32" type="span"/>
+	</body>
+</rst>

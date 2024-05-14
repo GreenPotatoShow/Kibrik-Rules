@@ -1,0 +1,237 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="concession" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="107" parent="109" relname="contrast">Вайншток взял отпуск,</segment>
+		<segment id="108" parent="109" relname="contrast">но намерен вернуться:</segment>
+		<segment id="110" parent="112" relname="span">\"Я не хотел идти в \"Олимпстрой\" с самого начала\"\n\nСемен Вайншток,</segment>
+		<segment id="111" parent="110" relname="elaboration">покинувший накануне пост президента госкорпорации \"Олимпстрой\",</segment>
+		<segment id="113" parent="116" relname="attribution">говорит,</segment>
+		<segment id="114" parent="116" relname="joint">что намерен отдохнуть,</segment>
+		<segment id="115" parent="116" relname="joint">а потом уже рассматривать поступающие ему предложения о новой работе.</segment>
+		<segment id="120" parent="119" relname="attribution">Об этом он заявил в пятницу в интервью газете \"Коммерсант\".</segment>
+		<segment id="122" parent="130" relname="sequence">Вайншток утвердительно ответил на вопрос,</segment>
+		<segment id="123" parent="127" relname="joint">уходит ли он в отпуск,</segment>
+		<segment id="124" parent="125" relname="attribution">и признал,</segment>
+		<segment id="125" parent="126" relname="span">что ему уже поступают предложения о работе.\n\n\"Я буду выбирать.</segment>
+		<segment id="128" parent="129" relname="sequence">Последнее предложение о работе я получил пять минут назад\",</segment>
+		<segment id="131" parent="132" relname="attribution">- сказал он,</segment>
+		<segment id="132" parent="133" relname="span">отказавшись конкретизировать эти предложения.</segment>
+		<segment id="135" parent="141" relname="joint">Накануне сообщалось, что Вайншток покидает пост президента \"Олимпстроя\" в связи с выходом на пенсию.\n\n- Вайнштока \"ушли\".</segment>
+		<segment id="136" parent="139" relname="interpretation-evaluation">Возможные причины его отставки\n\nВайншток, возглавлявший до госкорпорации \"Транснефть\", отметил,</segment>
+		<segment id="137" parent="139" relname="contrast">что не хотел идти в \"Олимпстрой\",</segment>
+		<segment id="138" parent="139" relname="contrast">но \"не мог подвести\" президента РФ.</segment>
+		<segment id="142" parent="152" relname="span">\"Просто я должен был сделать определенную работу.</segment>
+		<segment id="143" parent="147" relname="joint">Это мои обязательства,</segment>
+		<segment id="144" parent="146" relname="joint">я глубоко уважаю</segment>
+		<segment id="145" parent="146" relname="joint">и ценю Владимира Владимировича,</segment>
+		<segment id="148" parent="150" relname="joint">ценю его отношение ко мне</segment>
+		<segment id="149" parent="150" relname="joint">и не мог его подвести.</segment>
+		<segment id="153" parent="154" relname="contrast">Но я не хотел идти в \"Олимпстрой\" с самого начала\",</segment>
+		<segment id="155" parent="154" relname="attribution">- сказал Вайншток.</segment>
+		<segment id="159" parent="162" relname="attribution">По поводу своего ухода он заявил,</segment>
+		<segment id="160" parent="161" relname="attribution">что сам принял это решение.\n\nОн вновь заявил,</segment>
+		<segment id="161" parent="162" relname="span">что решение об отставке принималось именно им.</segment>
+		<segment id="164" parent="166" relname="joint">\"Я в приподнятом настроении</segment>
+		<segment id="165" parent="166" relname="joint">и очень доволен этим решением\",</segment>
+		<segment id="167" parent="166" relname="attribution">- сказал Вайншток.</segment>
+		<segment id="170" parent="176" relname="span">Наиболее примечательные цитаты из статей на эту тему приводит сайт \"Заголовки.ru\".\n\</segment>
+		<segment id="171" parent="175" relname="span">nГоворя о своем преемнике на посту главы госкорпорации - экс-мэре Сочи Викторе Колодяжном,</segment>
+		<segment id="172" parent="174" relname="span">Вайншток назвал его \"удачным выбором\" для \"Олимпстроя\",</segment>
+		<segment id="173" parent="172" relname="elaboration">который отвечает за подготовку сочинской Олимпиады-2014.\n\n\"Мы взаимодействовали,</segment>
+		<segment id="177" parent="199" relname="span">и поэтому я могу сказать, что это профессионал, человек, знающий строительное дело.</segment>
+		<segment id="178" parent="195" relname="preparation">Я обратил внимание на его заслуги как кризисного менеджера,</segment>
+		<segment id="179" parent="181" relname="span">когда он в сложных условиях после наводнения и стихийного бедствия</segment>
+		<segment id="180" parent="179" relname="background">(в Армавире в июне 2002 года,</segment>
+		<segment id="182" parent="188" relname="same-unit">тогда Виктор Колодяжный был мэром этого города)</segment>
+		<segment id="183" parent="187" relname="span">приложил очень серьезные усилия</segment>
+		<segment id="184" parent="185" relname="purpose">для восстановления города,</segment>
+		<segment id="185" parent="186" relname="span">которые увенчались успехом.</segment>
+		<segment id="189" parent="192" relname="attribution">Это о многом говорит,</segment>
+		<segment id="190" parent="192" relname="joint">у него есть потенциал,</segment>
+		<segment id="191" parent="192" relname="joint">и я убежден, что это хорошая мне замена\",</segment>
+		<segment id="197" parent="196" relname="attribution">- сказал Вайншток.\n\</segment>
+		<segment id="201" parent="204" relname="condition">nОтвечая на вопрос о ходе выкупа земель под олимпийские объекты,</segment>
+		<segment id="202" parent="203" relname="attribution">экс-глава госкорпорации сказал,</segment>
+		<segment id="203" parent="204" relname="span">что сейчас идет выбор оценщиков.</segment>
+		<segment id="206" parent="209" relname="condition">\"Сегодня было только вскрытие конвертов,</segment>
+		<segment id="207" parent="209" relname="span">результаты объявим через десять дней,</segment>
+		<segment id="208" parent="207" relname="condition">сейчас пока только подписан протокол\",</segment>
+		<segment id="211" parent="218" relname="attribution">- сказал Вайншток,</segment>
+		<segment id="212" parent="218" relname="joint">отказавшись назвать этих оценщиков.\n\nНа вопрос, знает ли он,</segment>
+		<segment id="213" parent="217" relname="span">что Счетная палата начинала проверку деятельности \"Транснефти\" за тот период,</segment>
+		<segment id="214" parent="216" relname="joint">когда он возглавлял компанию</segment>
+		<segment id="215" parent="216" relname="joint">и не слышал ли он о каких-то нареканиях в свой адрес или о возбуждении каких-то уголовных дел,</segment>
+		<segment id="221" parent="224" relname="attribution">Вайншток ответил:</segment>
+		<segment id="222" parent="224" relname="joint">\"Во-первых, я об этом не слышал,</segment>
+		<segment id="223" parent="224" relname="joint">а во-вторых, не думаю, что это возможно\".\n\n\"По крайней мере, осознанно мы нарушений не делали точно.</segment>
+		<segment id="226" parent="228" relname="contrast">Я не исключаю, что мы могли допустить какую-то ошибку,</segment>
+		<segment id="227" parent="228" relname="contrast">но она не могла повлечь за собой серьезные претензии.</segment>
+		<segment id="229" parent="228" relname="interpretation-evaluation">В этом плане я совершенно спокоен\",</segment>
+		<segment id="232" parent="231" relname="attribution">- заявил Вайншток.\n\nВайнштока \"ушли\".</segment>
+		<segment id="236" parent="246" relname="span">Возможные причины его отставки\n\</segment>
+		<segment id="237" parent="239" relname="span">nНесмотря на то, что источники в окружении Вайнштока говорят о неожиданности его решения,</segment>
+		<segment id="238" parent="237" relname="cause-effect">причин для отставки Вайнштока было более чем достаточно,</segment>
+		<segment id="240" parent="239" relname="attribution">отмечает \"Коммерсант\".\n\</segment>
+		<segment id="242" parent="244" relname="contrast">nЗа восемь месяцев работы Вайнштока в \"Олимпстрое\" говорить об успехах в строительстве олимпийской инфраструктуры невозможно,</segment>
+		<segment id="243" parent="244" relname="contrast">но и здесь глава \"Олимпстроя\" нажил себе оппонентов.</segment>
+		<segment id="247" parent="258" relname="attribution">По данным издания,</segment>
+		<segment id="248" parent="251" relname="attribution">\"Олимпстрой\" конфликтовал с администрацией Краснодарского края по большинству ключевых вопросов строительства Сочи-2014, в том числе в вопросе выкупа земель под олимпийскую инфраструктуру.\n\nПосле последнего совещания в Сочи под руководством Владимира Путина Семен Вайншток заявил,</segment>
+		<segment id="249" parent="251" relname="span">что сумма средств, предназначенных на выкуп земли,</segment>
+		<segment id="250" parent="249" relname="condition">пока не определена,</segment>
+		<segment id="253" parent="255" relname="span">тем не менее финансирование Сочи-2014</segment>
+		<segment id="254" parent="253" relname="elaboration">(всего Белый дом выделил на него по федеральной целевой программе 314 млрд рублей)</segment>
+		<segment id="256" parent="257" relname="same-unit">изменяться не будет.</segment>
+		<segment id="260" parent="270" relname="joint">Тогда же он заявил о выявленных \"Олимпстроем\" завышении \"на треть\" расходов в сметах на строительство трех проверенных объектов олимпийской инфраструктуры.\n\nИсточники в администрации президента выдвигают еще одну версию отставки Вайнштока - конфликты с главой Минрегиона.</segment>
+		<segment id="261" parent="265" relname="span">Региональное министерство отвечает за реализацию региональных ФЦП,</segment>
+		<segment id="264" parent="261" relname="elaboration">в числе которых олимпийская, статус госкорпорации позволял \"Олимпстрою\" самостоятельно контролировать олимпийскую ФЦП.</segment>
+		<segment id="266" parent="267" relname="joint">Терять же контроль за бюджетными средствами в пользу господина Вайнштока Козак явно не был намерен.\n\nСредства, выделенные \"Олимпстрою\" на 2008 год,</segment>
+		<segment id="268" parent="269" relname="joint">также вызвали скандал:</segment>
+		<segment id="271" parent="274" relname="attribution">глава ВТБ Андрей Костин заявил</segment>
+		<segment id="272" parent="274" relname="joint">о непрозрачности депозитных аукционов госкорпорации,</segment>
+		<segment id="273" parent="274" relname="joint">банк отказался участвовать в тендерах на размещение средств госкорпорации.</segment>
+		<segment id="278" parent="281" relname="attribution">По данным издания,</segment>
+		<segment id="279" parent="281" relname="span">недовольство ВТБ вызвало отдельное соглашение \"Олимпстроя\" и Банка Москвы,</segment>
+		<segment id="280" parent="279" relname="elaboration">согласно которому госкорпорация готова была разместить крупный депозит в банке на три года</segment>
+		<segment id="283" parent="282" relname="attribution">- об этом говорила управляющий директор департамента по обеспечению участия в государственных программах Банка Москвы Ирина Талалаева.\n\nОтметим,</segment>
+		<segment id="285" parent="287" relname="span">накануне Вайншток заявил о других банках,</segment>
+		<segment id="286" parent="285" relname="elaboration">в которых размещены средства \"Олимпстроя\", Альфа-банке и МДМ.\n\nДостаточно непросто складывались отношения Семена Вайнштока с бизнесменами и чиновниками, причастными к проекту Сочи-2014,</segment>
+		<segment id="288" parent="287" relname="attribution">- вице-премьером Александром Жуковым,</segment>
+		<segment id="290" parent="296" relname="joint">курирующим Олимпиаду в правительстве наряду с прочими вопросами, Олегом Дерипаской и Владимиром Потаниным,</segment>
+		<segment id="291" parent="295" relname="joint">имеющими собственные проекты в Сочи.\n\nПо данным \"Коммерсанта\",</segment>
+		<segment id="292" parent="293" relname="attribution">по итогам совещания 7 апреля Владимир Путин указал</segment>
+		<segment id="293" parent="294" relname="span">его участникам ограничить полемику в СМИ по основным проблемным вопросам, связанным с Олимпиадой,</segment>
+		<segment id="297" parent="298" relname="joint">- 25 апреля в Сочи прилетает делегация Международного олимпийского комитета.\n\nОтставка Семена Вайнштока на время решит все проблемы:</segment>
+		<segment id="301" parent="304" relname="condition">как и в случае с \"Транснефтью\",</segment>
+		<segment id="302" parent="303" relname="cause-effect">отставание от графика олимпийского строительства</segment>
+		<segment id="303" parent="304" relname="span">теперь можно объяснить неизбежными трудностями</segment>
+		<segment id="306" parent="305" relname="cause-effect">в связи со сменой руководства \"Олимпстроя\".</segment>
+		<segment id="310" parent="311" relname="joint">К тому же теперь МОК не имеет возможности упрекнуть Владимира Путина в отсутствии динамики в подготовке к Олимпиаде.\n\nИсточник: https://www.newsru.com/russia/18Apr2008/vainshtok.html\n</segment>
+		<group id="121" type="span" parent="316" relname="preparation"/>
+		<group id="119" type="span" parent="121" relname="span"/>
+		<group id="109" type="multinuc" parent="119" relname="span"/>
+		<group id="118" type="multinuc" parent="109" relname="elaboration"/>
+		<group id="112" type="span" parent="118" relname="same-unit"/>
+		<group id="117" type="span" parent="118" relname="same-unit"/>
+		<group id="116" type="multinuc" parent="117" relname="span"/>
+		<group id="316" type="multinuc" parent="317" relname="span"/>
+		<group id="158" type="multinuc" parent="316" relname="joint"/>
+		<group id="134" type="span" parent="158" relname="joint"/>
+		<group id="130" type="multinuc" parent="134" relname="span"/>
+		<group id="129" type="multinuc" parent="130" relname="sequence"/>
+		<group id="127" type="multinuc" parent="129" relname="sequence"/>
+		<group id="126" type="span" parent="127" relname="joint"/>
+		<group id="133" type="span" parent="130" relname="attribution"/>
+		<group id="157" type="multinuc" parent="158" relname="joint"/>
+		<group id="141" type="multinuc" parent="157" relname="joint"/>
+		<group id="140" type="span" parent="141" relname="joint"/>
+		<group id="139" type="multinuc" parent="140" relname="span"/>
+		<group id="156" type="span" parent="157" relname="joint"/>
+		<group id="154" type="multinuc" parent="156" relname="span"/>
+		<group id="152" type="span" parent="154" relname="contrast"/>
+		<group id="151" type="multinuc" parent="142" relname="elaboration"/>
+		<group id="147" type="multinuc" parent="151" relname="joint"/>
+		<group id="146" type="multinuc" parent="147" relname="joint"/>
+		<group id="150" type="multinuc" parent="151" relname="joint"/>
+		<group id="315" type="span" parent="316" relname="joint"/>
+		<group id="169" type="span" parent="314" relname="preparation"/>
+		<group id="163" type="span" parent="169" relname="span"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="168" type="span" parent="163" relname="interpretation-evaluation"/>
+		<group id="166" type="multinuc" parent="168" relname="span"/>
+		<group id="314" type="multinuc" parent="315" relname="span"/>
+		<group id="200" type="span" parent="314" relname="joint"/>
+		<group id="176" type="span" parent="199" relname="cause-effect"/>
+		<group id="175" type="span" parent="170" relname="background"/>
+		<group id="174" type="span" parent="171" relname="elaboration"/>
+		<group id="199" type="span" parent="200" relname="span"/>
+		<group id="198" type="span" parent="177" relname="elaboration"/>
+		<group id="196" type="span" parent="198" relname="span"/>
+		<group id="195" type="span" parent="196" relname="span"/>
+		<group id="181" type="span" parent="194" relname="condition"/>
+		<group id="194" type="span" parent="195" relname="span"/>
+		<group id="188" type="multinuc" parent="194" relname="span"/>
+		<group id="187" type="span" parent="188" relname="same-unit"/>
+		<group id="186" type="span" parent="183" relname="purpose"/>
+		<group id="193" type="span" parent="188" relname="interpretation-evaluation"/>
+		<group id="192" type="multinuc" parent="193" relname="span"/>
+		<group id="313" type="span" parent="314" relname="joint"/>
+		<group id="235" type="span" parent="312" relname="solutionhood"/>
+		<group id="205" type="span" parent="234" relname="solutionhood"/>
+		<group id="204" type="span" parent="205" relname="span"/>
+		<group id="234" type="multinuc" parent="235" relname="span"/>
+		<group id="220" type="span" parent="234" relname="joint"/>
+		<group id="210" type="span" parent="220" relname="span"/>
+		<group id="209" type="span" parent="210" relname="span"/>
+		<group id="219" type="span" parent="210" relname="attribution"/>
+		<group id="218" type="multinuc" parent="219" relname="span"/>
+		<group id="217" type="span" parent="218" relname="joint"/>
+		<group id="216" type="multinuc" parent="213" relname="elaboration"/>
+		<group id="233" type="span" parent="234" relname="joint"/>
+		<group id="231" type="span" parent="233" relname="span"/>
+		<group id="225" type="span" parent="231" relname="span"/>
+		<group id="224" type="multinuc" parent="225" relname="span"/>
+		<group id="230" type="span" parent="225" relname="interpretation-evaluation"/>
+		<group id="228" type="multinuc" parent="230" relname="span"/>
+		<group id="312" type="multinuc" parent="313" relname="span"/>
+		<group id="246" type="span" parent="312" relname="joint"/>
+		<group id="245" type="span" parent="236" relname="concession"/>
+		<group id="241" type="span" parent="244" relname="solutionhood"/>
+		<group id="239" type="span" parent="241" relname="span"/>
+		<group id="244" type="multinuc" parent="245" relname="span"/>
+		<group id="311" type="multinuc" parent="312" relname="joint"/>
+		<group id="309" type="multinuc" parent="311" relname="joint"/>
+		<group id="277" type="multinuc" parent="309" relname="joint"/>
+		<group id="259" type="span" parent="277" relname="joint"/>
+		<group id="258" type="multinuc" parent="259" relname="span"/>
+		<group id="252" type="span" parent="258" relname="contrast"/>
+		<group id="251" type="span" parent="252" relname="span"/>
+		<group id="257" type="multinuc" parent="258" relname="contrast"/>
+		<group id="255" type="span" parent="257" relname="same-unit"/>
+		<group id="276" type="span" parent="277" relname="joint"/>
+		<group id="270" type="multinuc" parent="276" relname="span"/>
+		<group id="269" type="multinuc" parent="270" relname="joint"/>
+		<group id="267" type="multinuc" parent="269" relname="joint"/>
+		<group id="265" type="span" parent="267" relname="joint"/>
+		<group id="275" type="span" parent="270" relname="interpretation-evaluation"/>
+		<group id="274" type="multinuc" parent="275" relname="span"/>
+		<group id="308" type="multinuc" parent="309" relname="joint"/>
+		<group id="300" type="multinuc" parent="308" relname="joint"/>
+		<group id="284" type="span" parent="300" relname="joint"/>
+		<group id="282" type="span" parent="284" relname="span"/>
+		<group id="281" type="span" parent="282" relname="span"/>
+		<group id="299" type="multinuc" parent="300" relname="joint"/>
+		<group id="289" type="span" parent="299" relname="joint"/>
+		<group id="287" type="span" parent="289" relname="span"/>
+		<group id="298" type="multinuc" parent="299" relname="joint"/>
+		<group id="296" type="multinuc" parent="298" relname="joint"/>
+		<group id="295" type="multinuc" parent="296" relname="joint"/>
+		<group id="294" type="span" parent="295" relname="joint"/>
+		<group id="307" type="span" parent="308" relname="joint"/>
+		<group id="305" type="span" parent="307" relname="span"/>
+		<group id="304" type="span" parent="305" relname="span"/>
+		<group id="317" type="span"/>
+	</body>
+</rst>

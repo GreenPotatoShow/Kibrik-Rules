@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="19" relname="attribution">МПК объявил</segment>
+		<segment id="19" parent="20" relname="span">контрибуцию за восстановление в правах паралимпйицев РФ\n\nМеждународный паралимпийский комитет (МПК) в понедельник сообщил Паралимпийскому комитету России (ПКР) критерии по восстановлению членства в организации,</segment>
+		<segment id="21" parent="22" relname="joint">сообщается на официальном сайте IPC.\n\nВ частности, ПКР в качестве контрибуции должен будет выплачивать МПК 250 тысяч евро ежегодно в период отстранения,</segment>
+		<segment id="23" parent="24" relname="sequence">а затем еще 125 тысяч евро ежегодно в течение трех лет после возвращения в состав организации.\n\nЭти суммы объяснили дополнительными расходами, связанными с увеличенным тестированием российских спортсменов.</segment>
+		<segment id="25" parent="31" relname="joint">Выплаты должны поступать не позднее 31 декабря.\n\</segment>
+		<segment id="26" parent="30" relname="same-unit">nВ соответствии с требованиями,</segment>
+		<segment id="27" parent="29" relname="joint">ПКР обязан до 31 декабря этого года открыть счет в одном из немецких банков с балансом в 500 тысяч евро,</segment>
+		<segment id="28" parent="29" relname="joint">остаток на котором не должен опускаться ниже 250 тысяч.\n\</segment>
+		<segment id="32" parent="39" relname="attribution">nСреди критериев также указывается,</segment>
+		<segment id="33" parent="39" relname="joint">что правительственные чиновники не могут</segment>
+		<segment id="34" parent="38" relname="span">и не должны занимать какие-либо должности в ПКР,</segment>
+		<segment id="35" parent="36" relname="attribution">включая формальные.\n\nВ документе также говорится,</segment>
+		<segment id="36" parent="37" relname="span">что ПКР должен соответствовать всем требованиям мировой антидопинговой программы,</segment>
+		<segment id="41" parent="47" relname="joint">а участие российских спортсменов не должно ставить под угрозу целостность соревнований IPC.\n\nКритерии верификации также требуется выполнить в областях формирования антидопинговой культуры, антидопингового образования, тестирования и управления</segment>
+		<segment id="42" parent="44" relname="span">.\n\nМПК планирует в ближайшие недели пригласить на встречу представителей ПКР,</segment>
+		<segment id="43" parent="42" relname="purpose">чтобы разъяснить критерии в полном объеме</segment>
+		<segment id="45" parent="46" relname="joint">и обеспечить полное понимание того, что от них требуется.\n\nВ августе на основании доклада независимой комиссии Всемирного антидопингового агентства (WADA) под руководством Ричарда Макларена МПК не допустил российских атлетов до Паралимпиады в Рио-де-Жанейро.\n\nИсточник: https://www.newsru.com/sport/21Nov2016/contributio.html\n</segment>
+		<group id="24" type="multinuc" parent="50" relname="joint"/>
+		<group id="22" type="multinuc" parent="24" relname="sequence"/>
+		<group id="20" type="span" parent="22" relname="joint"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="31" type="multinuc" parent="49" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="joint"/>
+		<group id="29" type="multinuc" parent="30" relname="same-unit"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="40" type="span" parent="48" relname="comparison"/>
+		<group id="39" type="multinuc" parent="40" relname="span"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="37" type="span" parent="34" relname="elaboration"/>
+		<group id="47" type="multinuc" parent="48" relname="comparison"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="44" type="span" parent="46" relname="joint"/>
+		<group id="50" type="multinuc"/>
+	</body>
+</rst>

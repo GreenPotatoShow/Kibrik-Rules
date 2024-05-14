@@ -1,0 +1,74 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="35" relname="preparation">Уральский производитель помидоров отчитался об импортозамещении шмелей\n\nХозяйство \"Тепличное\", один из крупнейших в Свердловской области производителей овощей, объявило об отказе от израильских шмелей в рамках программы импортозамещения.</segment>
+		<segment id="35" parent="36" relname="span">В среду, 4 марта, в теплицы хозяйства запустили более двух тысяч насекомых из Подмосковья.\n\n\"Шмелей привезут с одного из предприятий по разведению пчел Московской области.</segment>
+		<segment id="37" parent="45" relname="span">Нам выгоднее и удобнее работать с отечественным производителем,</segment>
+		<segment id="38" parent="40" relname="joint">так как его специалисты в любой момент могут приехать к нам</segment>
+		<segment id="39" parent="40" relname="joint">и проконсультировать с научной точки зрения,</segment>
+		<segment id="41" parent="43" relname="span">как лучше расставить ульи в теплице</segment>
+		<segment id="42" parent="41" relname="purpose">для полноценного опыления растений и благоприятной жизни самих насекомых\",</segment>
+		<segment id="46" parent="50" relname="span">- приводит пресс-служба \"УМГК-Агро\"</segment>
+		<segment id="49" parent="46" relname="elaboration">(в которое входит \"Тепличное\") слова и.о. директора тепличного комплекса Романа Тягунова.\n\nВсего в теплицах, где выращивают помидоры, поселятся 42 шмелиные семьи по 50 особей в каждой.</segment>
+		<segment id="52" parent="54" relname="sequence">Они будут опылять растения, высаженные на площади в четыре гектара, в течение двух месяцев.</segment>
+		<segment id="53" parent="54" relname="sequence">Затем \"шмелиный десант\" заменят на новый.\n\n</segment>
+		<segment id="57" parent="65" relname="span">\"В отличие от томатов, которые опыляются шмелями, огурцы опыляют пчелы, выращенные на подсобном хозяйстве самого агрокомплекса.</segment>
+		<segment id="58" parent="64" relname="span">Сейчас \"на огурцах\" работает порядка 80 пчелиных семей.</segment>
+		<segment id="59" parent="62" relname="cause-effect">После трудовой вахты они периодически отдыхают на местной пасеке,</segment>
+		<segment id="60" parent="62" relname="joint">поэтому не погибают</segment>
+		<segment id="61" parent="62" relname="joint">и не требуют обновления.</segment>
+		<segment id="68" parent="70" relname="span">С появлением подмосковных шмелей ЗАО \"Тепличное\" полностью перешло на отечественных насекомых,</segment>
+		<segment id="69" parent="68" relname="interpretation-evaluation">воплотив тем самым идею импортозамещения\",</segment>
+		<segment id="71" parent="70" relname="attribution">- поясняет пресс-служба предприятия</segment>
+		<segment id="73" parent="75" relname="span">.\n\nВсего в нынешнем сезоне уральские аграрии планируют собрать более двух тонн огурцов и 4200 тонн помидоров.\n\nООО \"УГМК-Агро\" было создано в октябре 2001 года для управления активами Уральской горно-металлургической компании в области сельского хозяйства и пищевой промышленности в 2001 году,</segment>
+		<segment id="74" parent="73" relname="attribution">напоминает \"Интерфакс\".</segment>
+		<segment id="78" parent="80" relname="joint">В строительство тепличного комплекса было вложено более 1 млрд рублей.</segment>
+		<segment id="79" parent="80" relname="joint">Третья очередь была введена в эксплуатацию в январе 2014 года.</segment>
+		<segment id="81" parent="82" relname="attribution">В 2014 году \"Комсомольская правда\" сообщала,</segment>
+		<segment id="82" parent="83" relname="span">что \"УМГК-Агро\" снабжает продукцией большую часть Свердловской области.</segment>
+		<segment id="84" parent="87" relname="attribution">Тогда представители предприятий, входящих в холдинг, утверждали,</segment>
+		<segment id="85" parent="87" relname="span">что не почувствовали на себе влияния антироссийских санкций Запада, даже наоборот:</segment>
+		<segment id="86" parent="85" relname="cause-effect">получили заказы от торговых сетей на новую линейку продукции взамен попавших под ответные санкции.\n\nИсточник: https://www.newsru.com/russia/04Mar2015/shmel.html\n</segment>
+		<group id="36" type="span" parent="91" relname="preparation"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="77" type="span" parent="91" relname="joint"/>
+		<group id="67" type="multinuc" parent="77" relname="span"/>
+		<group id="51" type="multinuc" parent="67" relname="joint"/>
+		<group id="45" type="span" parent="51" relname="joint"/>
+		<group id="44" type="span" parent="37" relname="cause-effect"/>
+		<group id="40" type="multinuc" parent="44" relname="span"/>
+		<group id="43" type="span" parent="40" relname="purpose"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="54" type="multinuc" parent="66" relname="span"/>
+		<group id="65" type="span" parent="54" relname="elaboration"/>
+		<group id="64" type="span" parent="57" relname="elaboration"/>
+		<group id="63" type="span" parent="58" relname="elaboration"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="76" type="multinuc" parent="67" relname="elaboration"/>
+		<group id="72" type="span" parent="76" relname="joint"/>
+		<group id="70" type="span" parent="72" relname="span"/>
+		<group id="75" type="span" parent="76" relname="joint"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="80" type="multinuc" parent="90" relname="joint"/>
+		<group id="89" type="span" parent="90" relname="joint"/>
+		<group id="83" type="span" parent="88" relname="preparation"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

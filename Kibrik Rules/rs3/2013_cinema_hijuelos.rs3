@@ -1,0 +1,30 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="10" parent="12" relname="sequence">В США умер кубинско-американский писатель, лауреат Пулитцера Оскар Ихуелос\n\nАмериканский писатель кубинского происхождения, лауреат Пулитцеровской премии Оскар Ихуелос,</segment>
+		<segment id="11" parent="12" relname="sequence">скончался в Нью-Йорке на 63-м году жизни,</segment>
+		<segment id="13" parent="12" relname="attribution">сообщает РИА \"Новости\" со ссылкой на AP.\n\</segment>
+		<segment id="15" parent="16" relname="attribution">nПо словам представителя писателя Дженнифер Лайонс,</segment>
+		<segment id="16" parent="17" relname="span">смерть Ихуелоса наступила в минувшую субботу от сердечного приступа во время игры в теннис на Манхэттене.</segment>
+		<segment id="18" parent="24" relname="joint">О дате и месте похорон писателя пока не сообщается.\n\nОскар Ихуелос родился в Нью-Йорке в 1951 году в семье кубинских иммигрантов.</segment>
+		<segment id="19" parent="21" relname="joint">Первая книга писателя \"Наш дом в последнем мире\" (Our House in the Last World) увидела свет в 1983 году,</segment>
+		<segment id="20" parent="21" relname="joint">а уже второй его роман \"Короли мамбо играют песни любви\" (The Mambo Kings Play Songs of Love) в 1990 году получил Пулитцеровскую премию.</segment>
+		<segment id="22" parent="23" relname="joint">В 1992 году по книге был снят художественный фильм \"Короли мамбо\".\n\nИсточник: https://www.newsru.com/cinema/14Oct2013/hijuelos.html\n</segment>
+		<group id="14" type="span" parent="26" relname="joint"/>
+		<group id="12" type="multinuc" parent="14" relname="span"/>
+		<group id="25" type="multinuc" parent="26" relname="joint"/>
+		<group id="17" type="span" parent="25" relname="joint"/>
+		<group id="24" type="multinuc" parent="25" relname="joint"/>
+		<group id="23" type="multinuc" parent="24" relname="joint"/>
+		<group id="21" type="multinuc" parent="23" relname="joint"/>
+		<group id="26" type="multinuc"/>
+	</body>
+</rst>

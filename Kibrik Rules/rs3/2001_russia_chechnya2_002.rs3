@@ -1,0 +1,42 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="40" relname="preparation">В пригороде Грозного обнаружено массовое захоронение\n\nВ грозненском пригороде найдено захоронение человеческих останков.</segment>
+		<segment id="16" parent="17" relname="attribution">Как сообщает ИТАР-ТАСС,</segment>
+		<segment id="17" parent="18" relname="span">захоронение было обнаружено на окраине поселка совхоза \"Родина\" в районе старых прудов.</segment>
+		<segment id="19" parent="18" relname="elaboration">В настоящее время из братской могилы извлечено три тела.</segment>
+		<segment id="21" parent="24" relname="attribution">По предварительным данным,</segment>
+		<segment id="22" parent="24" relname="joint">жертвы были убиты из огнестрельного оружия,</segment>
+		<segment id="23" parent="24" relname="joint">все они гражданские лица.\n\nПрокурор Чечни Всеволод Чернов подтвердил факт обнаружения человеческих останков в пригороде чеченской столицы.</segment>
+		<segment id="26" parent="29" relname="attribution">Он сообщил,</segment>
+		<segment id="27" parent="29" relname="span">что сейчас \"прокуратура разбирается в причинах гибели,</segment>
+		<segment id="28" parent="27" relname="cause-effect">устанавливает время и причины смерти\".</segment>
+		<segment id="32" parent="34" relname="joint">\"С утра на месте захоронения работают несколько оперативно-следственных бригад,</segment>
+		<segment id="33" parent="34" relname="joint">опрашивается местное население.</segment>
+		<segment id="35" parent="36" relname="joint">Проводятся мероприятия по установлению лиц, ранее пропавших без вести\",</segment>
+		<segment id="37" parent="36" relname="attribution">- уточнил прокурор.\n\nВозбуждено уголовное дело.\n\nИсточник: https://www.newsru.com/russia/14Nov2001/chechnya2.html\n</segment>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="20" type="span" parent="40" relname="joint"/>
+		<group id="18" type="span" parent="20" relname="span"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="31" type="multinuc" parent="39" relname="joint"/>
+		<group id="25" type="span" parent="31" relname="joint"/>
+		<group id="24" type="multinuc" parent="25" relname="span"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="span"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="36" type="multinuc" parent="38" relname="span"/>
+		<group id="34" type="multinuc" parent="36" relname="joint"/>
+		<group id="41" type="span"/>
+	</body>
+</rst>

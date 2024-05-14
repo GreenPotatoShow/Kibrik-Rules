@@ -1,0 +1,48 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="46" relname="preparation">В Риме арестовали активистов экологического движения \"Гринпис\"\n\nВ Риме арестовали активистов экологического движения \"Гринпис\".</segment>
+		<segment id="18" parent="20" relname="span">Необычную акцию протеста против браконьерства гринписовцы провели,</segment>
+		<segment id="19" parent="18" relname="condition">забравшись в фонтан Треви.</segment>
+		<segment id="21" parent="23" relname="span">Тех, кто не хотел выходить из воды, несли до полицейских машин на руках.\n\nТысячи туристов в итальянской столице,</segment>
+		<segment id="22" parent="21" relname="background">которые пришли полюбоваться на одну из главных достопримечательностей города фонтан Треви,</segment>
+		<segment id="24" parent="25" relname="joint">увидели в воде огромные скелеты рыб.</segment>
+		<segment id="26" parent="28" relname="joint">Пластиковые муляжи изготовили</segment>
+		<segment id="27" parent="28" relname="joint">и поместили в воды фонтана активисты движения \"Гринпис\",</segment>
+		<segment id="29" parent="28" relname="cause-effect">протестуя таким образом против нелегальной добычи рыбы.\n\nЭта акция стала ответом на прошедшую недавно в Риме конференцию,</segment>
+		<segment id="31" parent="30" relname="elaboration">на которой чиновники выразили свое неодобрение резолюции о запрете браконьерства.</segment>
+		<segment id="35" parent="45" relname="span">Полиция прибыла на площадь через несколько минут после начала акции.</segment>
+		<segment id="36" parent="37" relname="purpose">Для того, чтобы арестовать протестантов,</segment>
+		<segment id="37" parent="38" relname="span">стражам порядка пришлось лезть в воду.</segment>
+		<segment id="39" parent="43" relname="span">К митингующим применили силу:</segment>
+		<segment id="40" parent="42" relname="span">тех, кто не хотел выходить из воды,</segment>
+		<segment id="41" parent="40" relname="condition">несли до полицейских машин на руках.\n\nИсточник: https://www.newsru.com/world/23Feb2001/ruba.html\n</segment>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="34" type="span" parent="46" relname="joint"/>
+		<group id="20" type="span" parent="33" relname="preparation"/>
+		<group id="33" type="multinuc" parent="34" relname="span"/>
+		<group id="25" type="multinuc" parent="33" relname="joint"/>
+		<group id="23" type="span" parent="25" relname="joint"/>
+		<group id="32" type="span" parent="33" relname="joint"/>
+		<group id="30" type="span" parent="32" relname="span"/>
+		<group id="28" type="multinuc" parent="30" relname="span"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="44" type="span" parent="35" relname="purpose"/>
+		<group id="38" type="span" parent="43" relname="purpose"/>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="42" type="span" parent="39" relname="elaboration"/>
+		<group id="47" type="span"/>
+	</body>
+</rst>

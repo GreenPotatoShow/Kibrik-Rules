@@ -1,0 +1,36 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="37" relname="preparation">Европейцы разрешили 14-летним управлять Renault Twizy\n\</segment>
+		<segment id="15" parent="17" relname="span">nНовая директива,</segment>
+		<segment id="16" parent="15" relname="elaboration">принятая властями Европейского Союза,</segment>
+		<segment id="18" parent="19" relname="same-unit">разрешает четырнадцатилетним управлять электрокаром Renault Twizy,</segment>
+		<segment id="20" parent="24" relname="joint">сообщает LiveCars.ru.\n\nПо новым правилам четырнадцатилетние европейцы,</segment>
+		<segment id="23" parent="24" relname="joint">получившие сертификат безопасности дорожного движения, могут управлять \"легкими моторизированными квадроциклами\".</segment>
+		<segment id="26" parent="30" relname="span">Ранее садиться за руль этого типа транспорта могли лишь граждане, достигшие 16 лет</segment>
+		<segment id="27" parent="28" relname="attribution">.\n\nФранцузский автопроизводитель подчеркивает,</segment>
+		<segment id="28" parent="29" relname="span">что особая версия Renault Twizy 45 служит \"альтернативой двухколесным скутерам с более высоким уровнем комфорта и безопасности\".</segment>
+		<segment id="33" parent="35" relname="joint">В базовое оснащение сити-кара включены подушка безопасности водителя, ремни безопасности, дисковые тормоза и защитная ячейка (каркас безопасности для защиты салона).\n\nМощность мотора понижена, по сравнению со стандартной моделью, с 17 до 4 лошадиных сил.</segment>
+		<segment id="34" parent="35" relname="joint">Максимальную скорость в 45 километров в час Renault Twizy 45 достигает за 9.9 секунд.\n\nСтоимость ситикара начинается от семи тысяч евро плюс аренда батареи 50 евро в месяц.\n\nИсточник: https://www.newsru.com/auto/24Mar2015/ren_14years.html\n</segment>
+		<group id="37" type="multinuc" parent="38" relname="span"/>
+		<group id="25" type="multinuc" parent="37" relname="joint"/>
+		<group id="19" type="multinuc" parent="25" relname="joint"/>
+		<group id="17" type="span" parent="19" relname="same-unit"/>
+		<group id="24" type="multinuc" parent="25" relname="joint"/>
+		<group id="36" type="multinuc" parent="37" relname="joint"/>
+		<group id="30" type="span" parent="36" relname="joint"/>
+		<group id="29" type="span" parent="26" relname="cause-effect"/>
+		<group id="35" type="multinuc" parent="36" relname="joint"/>
+		<group id="38" type="span"/>
+	</body>
+</rst>

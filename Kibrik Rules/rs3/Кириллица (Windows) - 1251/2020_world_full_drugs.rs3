@@ -1,0 +1,50 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="49" relname="preparation">Во Флориде поймали наркокурьеров, перевозивших товар в сумках с надписью \"Сумка, полная наркотиков\" (ФОТО)\n\nВо Флориде задержаны двое мужчин, провозивших наркотические вещества в пакетах с надписью \"Сумка, полная наркотиков\".</segment>
+		<segment id="19" parent="20" relname="attribution">Как сообщает канал \"7News Miami,</segment>
+		<segment id="20" parent="21" relname="span">34-летних Иана Симмонса и Джошуа Рейнхардта остановили в округе Санта-Роза в субботу за превышение скорости на межштатной автомагистрали,</segment>
+		<segment id="22" parent="23" relname="cause-effect">где они разогнались до 95 миль в час (153 км/ч).\n\nПолицейский выяснил,</segment>
+		<segment id="23" parent="24" relname="span">что на имя Рейнхардта выдан ордер за нарушение условного срока в округе Ориндж.</segment>
+		<segment id="26" parent="30" relname="sequence">Он вызвал подкрепление,</segment>
+		<segment id="27" parent="29" relname="sequence">и на место прибыл заместитель шерифа округа Санта-Роза,</segment>
+		<segment id="28" parent="29" relname="sequence">а служебная собака обнаружила в автомобиле запрещенные вещества.</segment>
+		<segment id="32" parent="38" relname="joint">Ими оказались около 75 граммов метамфетамина,</segment>
+		<segment id="33" parent="37" relname="span">1,36 килограмма препарата GHB, один грамм кокаина, 3,6 грамма фентанила, 15 таблеток МДМА и принадлежности для употребления наркотиков.\n\</segment>
+		<segment id="34" parent="36" relname="joint">nОба мужчины были взяты под стражу</segment>
+		<segment id="35" parent="36" relname="joint">и заключены в тюрьму.</segment>
+		<segment id="39" parent="45" relname="joint">Им предъявлены обвинения в незаконном обороте и хранении наркотиков.</segment>
+		<segment id="40" parent="44" relname="span">Полицейские также дали шуточный совет наркокурьерам в Facebook.</segment>
+		<segment id="41" parent="42" relname="condition">\"Не торгуйте нелегальными наркотиками в пакетах с надписью \"Сумка, полная наркотиков.</segment>
+		<segment id="42" parent="43" relname="span">Наши служебные собаки умеют читать\",</segment>
+		<segment id="48" parent="47" relname="attribution">- сказано в посте.\n\nИсточник: https://www.newsru.com/world/05Feb2020/full_drugs.html\n</segment>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="47" type="multinuc" parent="49" relname="span"/>
+		<group id="31" type="multinuc" parent="47" relname="joint"/>
+		<group id="25" type="multinuc" parent="31" relname="joint"/>
+		<group id="21" type="span" parent="25" relname="joint"/>
+		<group id="24" type="span" parent="25" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="joint"/>
+		<group id="29" type="multinuc" parent="30" relname="sequence"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="38" type="multinuc" parent="46" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="36" type="multinuc" parent="33" relname="elaboration"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="43" type="span" parent="40" relname="elaboration"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

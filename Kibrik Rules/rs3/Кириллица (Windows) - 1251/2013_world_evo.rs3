@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="21" relname="joint">У президента Боливии новые проблемы со здоровьем\n\nПрезидент Боливии Эво Моралес был вынужден срочно отменить все дела после проведенного медицинского обследования.\n\</segment>
+		<segment id="18" parent="19" relname="attribution">nКак сообщил вице-президент южноамериканской республики Альваро Гарсиа Линера,</segment>
+		<segment id="19" parent="20" relname="span">врачи выявили у президента \"сложную проблему со здоровьем, связанную с дыхательной системой\",</segment>
+		<segment id="22" parent="21" relname="attribution">передает ИТАР-ТАСС.\n\</segment>
+		<segment id="24" parent="25" relname="attribution">nПо словам Альваро,</segment>
+		<segment id="25" parent="26" relname="span">Моралес прошел обследование в минувшее воскресенье, 31 марта.</segment>
+		<segment id="27" parent="29" relname="joint">Доктора предписали боливийскому лидеру покой</segment>
+		<segment id="28" parent="29" relname="joint">и назначили лечение.</segment>
+		<segment id="31" parent="33" relname="span">Но он намерен вернуться к исполнению своих обязанностей уже сегодня или завтра.\n\nАльваро не уточнил диагноз,</segment>
+		<segment id="32" parent="31" relname="attribution">отмечает \"Интерфакс\".</segment>
+		<segment id="35" parent="36" relname="attribution">По данным этого издания,</segment>
+		<segment id="36" parent="37" relname="span">лечится Моралес в домашних условиях.\n\</segment>
+		<segment id="38" parent="43" relname="cause-effect">nВ прошлый раз 53-летнему Эво Моралесу пришлось обратиться за медицинской помощью в марте 2012 года с жалобами на головокружение.</segment>
+		<segment id="39" parent="43" relname="same-unit">Тогда,</segment>
+		<segment id="40" parent="41" relname="attribution">по его собственным словам,</segment>
+		<segment id="41" parent="42" relname="span">проблемы со здоровьем были вызваны переутомлением и неправильным питанием.\n\nИсточник: https://www.newsru.com/world/02Apr2013/evo.html\n</segment>
+		<group id="23" type="span" parent="46" relname="preparation"/>
+		<group id="21" type="multinuc" parent="23" relname="span"/>
+		<group id="20" type="span" parent="21" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="34" type="multinuc" parent="46" relname="sequence"/>
+		<group id="30" type="multinuc" parent="34" relname="contrast"/>
+		<group id="26" type="span" parent="30" relname="sequence"/>
+		<group id="29" type="multinuc" parent="30" relname="sequence"/>
+		<group id="33" type="span" parent="34" relname="contrast"/>
+		<group id="45" type="span" parent="46" relname="sequence"/>
+		<group id="37" type="span" parent="45" relname="span"/>
+		<group id="44" type="span" parent="37" relname="elaboration"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="42" type="span" parent="43" relname="same-unit"/>
+		<group id="47" type="span"/>
+	</body>
+</rst>

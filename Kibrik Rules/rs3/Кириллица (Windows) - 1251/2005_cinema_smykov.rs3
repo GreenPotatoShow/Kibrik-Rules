@@ -1,0 +1,103 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="42" parent="44" relname="joint">Противник \"Симпсонов\" будет добиваться запрета мультсериала через Европейский суд\n\nМосгорсуд в четверг</segment>
+		<segment id="43" parent="44" relname="joint">признал законным отказ запретить показ мультсериалов \"Симпсоны\" и \"Гриффины\" по телеканалу Ren-TV.\n\nКак передает \"Интерфакс\",</segment>
+		<segment id="45" parent="49" relname="span">таким образом суд отказал в удовлетворении кассационной жалобы заявителя Игоря Смыкова,</segment>
+		<segment id="46" parent="48" relname="joint">который просил отменить решение Хамовнического суда,</segment>
+		<segment id="47" parent="48" relname="joint">отказавшего в удовлетворении его иска.\n\</segment>
+		<segment id="51" parent="53" relname="contrast">nСуд решил решение Хамовнического суда оставить без изменений,</segment>
+		<segment id="52" parent="53" relname="contrast">а кассационную жалобу оставить без удовлетворения.\n\nВыступая в суде,</segment>
+		<segment id="54" parent="55" relname="attribution">представитель телеканала заявил,</segment>
+		<segment id="55" parent="56" relname="span">что истцом не было представлено доказательств того, что в данных сериалах содержатся сцены жестокости и насилия.</segment>
+		<segment id="57" parent="56" relname="interpretation-evaluation">Это является всего лишь голословными заявлениями истца,</segment>
+		<segment id="59" parent="60" relname="joint">считает представитель телеканала.\n\</segment>
+		<segment id="63" parent="66" relname="attribution">nПо словам представителя Ren-TV,</segment>
+		<segment id="64" parent="65" relname="attribution">представитель Госнаркоконтроля в суде заявил,</segment>
+		<segment id="65" parent="66" relname="span">что в сериалах отсутствует пропаганда наркотиков.</segment>
+		<segment id="68" parent="79" relname="attribution">По мнению ответчика,</segment>
+		<segment id="69" parent="70" relname="cause-effect">решение Хамовнического суда Москвы является законным и обоснованным,</segment>
+		<segment id="70" parent="71" relname="span">в связи с чем он просил оставить решение в силе.\n\nСо своей стороны истец заявил:</segment>
+		<segment id="72" parent="78" relname="joint">\"Мы будем обращаться в надзорную инстанцию и в Европейский суд по правам человека.</segment>
+		<segment id="73" parent="77" relname="span">Думаю, что там мы найдем поддержку\".\n\nХамовнический суд 1 апреля отказал в удовлетворении иска Смыкова,</segment>
+		<segment id="74" parent="76" relname="joint">который просил суд прекратить показ мультсериалов</segment>
+		<segment id="75" parent="76" relname="joint">или перенести трансляцию на более позднее время.</segment>
+		<segment id="81" parent="84" relname="attribution">Смыков утверждал,</segment>
+		<segment id="82" parent="84" relname="joint">что мультсериалы пропагандируют наркотики, культ жестокости, насилия и секса,</segment>
+		<segment id="83" parent="84" relname="joint">и ими может быть нанесен вред нравственности и психологии, в первую очередь, детей и молодежи.\n\n\"В исковых требованиях я прошу признать незаконным показ мультсериалов.</segment>
+		<segment id="86" parent="90" relname="span">В том же случае,</segment>
+		<segment id="87" parent="88" relname="condition">если их показ все же не будет запрещен,</segment>
+		<segment id="88" parent="89" relname="span">я прошу воздержаться от трансляции сериалов во время, предназначенное для детской аудитории\",</segment>
+		<segment id="91" parent="93" relname="span">- заявил истец.\n\nКроме того, Смыков требовал обязать канал использовать специальную маркировку</segment>
+		<segment id="92" parent="91" relname="condition">при их трансляции.</segment>
+		<segment id="94" parent="93" relname="elaboration">В качестве моральной компенсации истец просил взыскать 300 тыс. рублей.\n\</segment>
+		<segment id="97" parent="103" relname="same-unit">nМежду тем ранее представитель телеканала Виктор Зиновьев,</segment>
+		<segment id="98" parent="101" relname="attribution">выступая в суде, заявил,</segment>
+		<segment id="99" parent="101" relname="contrast">что мультсериалы не маркировались \"только для детей\",</segment>
+		<segment id="100" parent="101" relname="contrast">а являлись семейными сериалами.</segment>
+		<segment id="104" parent="105" relname="span">В связи с этим решение о просмотре сериалов ребенком должны были принимать родители,</segment>
+		<segment id="106" parent="105" relname="attribution">пояснил он</segment>
+		<segment id="108" parent="112" relname="joint">.\n\nДва с половиной месяца назад Мосгорсуд снял со слушаний кассационную жалобу Смыкова о запрете показа мультсериалов \"Симпсоны\" и \"Гриффины\"</segment>
+		<segment id="109" parent="111" relname="span">и вернул его в Хамовнический суд Москвы</segment>
+		<segment id="110" parent="109" relname="purpose">для устранения нарушений.</segment>
+		<segment id="113" parent="114" relname="condition">После устранения указанных нарушений</segment>
+		<segment id="114" parent="115" relname="span">дело было вновь передано в Мосгорсуд.\n\nИсточник: https://www.newsru.com/cinema/24Nov2005/smykov.html\n</segment>
+		<group id="62" type="multinuc" parent="122" relname="joint"/>
+		<group id="50" type="span" parent="62" relname="joint"/>
+		<group id="44" type="multinuc" parent="49" relname="cause-effect"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="48" type="multinuc" parent="45" relname="elaboration"/>
+		<group id="61" type="span" parent="62" relname="joint"/>
+		<group id="53" type="multinuc" parent="61" relname="span"/>
+		<group id="60" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="58" type="span" parent="60" relname="joint"/>
+		<group id="56" type="span" parent="58" relname="span"/>
+		<group id="121" type="multinuc" parent="122" relname="joint"/>
+		<group id="67" type="span" parent="121" relname="joint"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="120" type="multinuc" parent="121" relname="joint"/>
+		<group id="80" type="span" parent="120" relname="joint"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="71" type="span" parent="79" relname="span"/>
+		<group id="78" type="multinuc" parent="71" relname="elaboration"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="76" type="multinuc" parent="73" relname="elaboration"/>
+		<group id="119" type="multinuc" parent="120" relname="joint"/>
+		<group id="85" type="span" parent="119" relname="joint"/>
+		<group id="84" type="multinuc" parent="85" relname="span"/>
+		<group id="118" type="multinuc" parent="119" relname="joint"/>
+		<group id="96" type="span" parent="118" relname="joint"/>
+		<group id="90" type="span" parent="95" relname="solutionhood"/>
+		<group id="89" type="span" parent="86" relname="condition"/>
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="93" type="span" parent="95" relname="span"/>
+		<group id="117" type="multinuc" parent="118" relname="joint"/>
+		<group id="107" type="span" parent="117" relname="joint"/>
+		<group id="105" type="span" parent="107" relname="span"/>
+		<group id="103" type="multinuc" parent="104" relname="cause-effect"/>
+		<group id="102" type="span" parent="103" relname="same-unit"/>
+		<group id="101" type="multinuc" parent="102" relname="span"/>
+		<group id="116" type="multinuc" parent="117" relname="joint"/>
+		<group id="112" type="multinuc" parent="116" relname="sequence"/>
+		<group id="111" type="span" parent="112" relname="joint"/>
+		<group id="115" type="span" parent="116" relname="sequence"/>
+		<group id="122" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,55 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="25" relname="joint">\"Спартак\" и ЦСКА сыграли вничью,</segment>
+		<segment id="24" parent="25" relname="joint">армейцы потеряли Акинфеева\n\nВ центральном матче 22-го тура футбольного первенства страны на московском стадионе Лужники сошлись интересы столичных клубов \"Спартака\" и ЦСКА.\n\nВ первой половине встречи по игре лучше выглядел ЦСКА,</segment>
+		<segment id="26" parent="27" relname="contrast">но на перерыв армейцы уходили разочарованными.</segment>
+		<segment id="28" parent="34" relname="sequence">Во-первых, на 24-й минуте удар Зорана Тошича пришелся в спартаковскую штангу,</segment>
+		<segment id="29" parent="31" relname="span">во-вторых, в столкновении с Веллитоном получил травму Игорь Акинфеев,</segment>
+		<segment id="30" parent="29" relname="background">которого заменил Сергей Чемгунов,</segment>
+		<segment id="32" parent="33" relname="sequence">а в-третьих, незадолго до окончания первого тайма \"Спартак\" провел стремительную атаку, завершившуюся результативным касание Веллитона – 1:0.\n\nВпрочем, равновесие скоро было восстановлено:</segment>
+		<segment id="35" parent="36" relname="cause-effect">несогласованные действия спартаковских защитников привели к тому,</segment>
+		<segment id="36" parent="37" relname="span">что Думбия на 51-й минуте из безобидного эпизода выжал максимум – 1:1.\n\nА на 69-й минуте ЦСКА вышел вперед:</segment>
+		<segment id="38" parent="40" relname="sequence">очередной провал в обороне команды Валерия Карпина закончился тем,</segment>
+		<segment id="39" parent="40" relname="sequence">что Тошич издевательским ударом протолкнул мяч мимо голкипера Андрея Диканя – 1:2.\n\n\"Спартак\" ответил на 75-й минуте эффектным выстрелом:</segment>
+		<segment id="43" parent="40" relname="elaboration">Эммануэль Эменике из-за пределов штрафной отправил мяч в дальнюю девятку армейских ворот – 2:2.\n\</segment>
+		<segment id="47" parent="49" relname="contrast">nВ оставшееся время шансы склонить чашу весов в свою пользу были у обеих сторон,</segment>
+		<segment id="48" parent="49" relname="contrast">однако двойки на табло сохранились.\n\</segment>
+		<segment id="50" parent="54" relname="span">nПосле этого тура в чемпионате страны наступило двоевластие</segment>
+		<segment id="53" parent="50" relname="elaboration">- у ЦСКА и \"Зенита\", который в воскресенье разгромил \"Краснодар\" – 5:0, стало по 46 очков.</segment>
+		<segment id="57" parent="59" relname="joint">\"Спартак\" отстает от них на 10 баллов,</segment>
+		<segment id="58" parent="59" relname="joint">занимая шестую строчку в турнирной таблице.</segment>
+		<segment id="60" parent="62" relname="span">На третьем месте \"Динамо\" (41),</segment>
+		<segment id="61" parent="60" relname="elaboration">обыгравшее в Химках \"Спартак\" из Нальчика - 2:0\n\nИсточник: https://www.newsru.com/sport/28Aug2011/spacska.html\n</segment>
+		<group id="27" type="multinuc" parent="64" relname="preparation"/>
+		<group id="25" type="multinuc" parent="27" relname="contrast"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="56" type="multinuc" parent="64" relname="span"/>
+		<group id="46" type="multinuc" parent="56" relname="sequence"/>
+		<group id="34" type="multinuc" parent="46" relname="joint"/>
+		<group id="33" type="multinuc" parent="34" relname="sequence"/>
+		<group id="31" type="span" parent="33" relname="sequence"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="37" type="span" parent="45" relname="joint"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="40" type="multinuc" parent="44" relname="span"/>
+		<group id="55" type="multinuc" parent="56" relname="sequence"/>
+		<group id="49" type="multinuc" parent="55" relname="sequence"/>
+		<group id="54" type="span" parent="55" relname="sequence"/>
+		<group id="63" type="span" parent="56" relname="elaboration"/>
+		<group id="59" type="multinuc" parent="63" relname="span"/>
+		<group id="62" type="span" parent="59" relname="elaboration"/>
+		<group id="65" type="span"/>
+	</body>
+</rst>

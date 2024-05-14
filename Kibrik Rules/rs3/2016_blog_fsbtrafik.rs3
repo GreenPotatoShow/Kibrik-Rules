@@ -1,0 +1,179 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="79" parent="232" relname="preparation">Леонид Волков: \"ФСБ предлагает расшифровывать весь интернет-трафик россиян\"\n\n\"1.</segment>
+		<segment id="80" parent="88" relname="span">До ФСБ дошло, наконец, что \"пакет Яровой\" полностью бессмысленен.</segment>
+		<segment id="81" parent="83" relname="joint">Потому что сейчас доля шифрованного трафика в Рунете больше 50%</segment>
+		<segment id="82" parent="83" relname="joint">и стремительно растет.</segment>
+		<segment id="84" parent="86" relname="span">А \"пакет Яровой\" предполагает хранение миллионов тонн этого шифрованного трафика</segment>
+		<segment id="85" parent="84" relname="condition">без возможности его расшифровать\",</segment>
+		<segment id="89" parent="90" relname="attribution">- пишет политик в Facebook,</segment>
+		<segment id="90" parent="91" relname="span">комментируя предложение ФСБ по дешифровке всего интернет-трафика россиян.\n\n\"2.</segment>
+		<segment id="93" parent="107" relname="span">Путь, который они предлагают, называется \"государственный MiTM\".</segment>
+		<segment id="94" parent="96" relname="span">MiTM = man-in-the-middle = \"человек посередине\" - это вид хакерской атаки,</segment>
+		<segment id="95" parent="94" relname="elaboration">который заключается в том, что злоумышленник П встраивается в шифрованный канал между абонентами А и Б,</segment>
+		<segment id="97" parent="99" relname="restatement">и когда А и Б думают,</segment>
+		<segment id="98" parent="99" relname="restatement">что шифруют сообщения друг другу,</segment>
+		<segment id="100" parent="104" relname="sequence">на самом деле они шифруют их все в адрес П, который вскрывает их,</segment>
+		<segment id="101" parent="103" relname="joint">а потом перешифровывает</segment>
+		<segment id="102" parent="103" relname="joint">и отправляет дальше.\n\n3.</segment>
+		<segment id="108" parent="112" relname="span">Очень наглядно показывает ход их мысли и уровень представлений о жизни.</segment>
+		<segment id="109" parent="110" relname="solutionhood">Помните из детства книжки про Владимира Ильича и жандармов и суровую царскую цензуру с перлюстрацией и чернила из молока?</segment>
+		<segment id="110" parent="111" relname="span">Вот это в точности оно и есть.</segment>
+		<segment id="113" parent="115" relname="joint">Хотят все письма вскрывать</segment>
+		<segment id="114" parent="115" relname="joint">и читать,</segment>
+		<segment id="116" parent="118" relname="span">а потом конверты заклеивать так,</segment>
+		<segment id="117" parent="116" relname="purpose">чтобы нельзя было догадаться, что письмо читали.</segment>
+		<segment id="120" parent="119" relname="elaboration">Цифровая перлюстрация.</segment>
+		<segment id="122" parent="124" relname="contrast">Сейчас тотальная перлюстрация положена в отношении писем, которые идут с зоны и на зону.</segment>
+		<segment id="123" parent="124" relname="contrast">Но для ФСБ, детей вертухаев, - вся страна это зона.\n\n4.</segment>
+		<segment id="125" parent="124" relname="elaboration">Проблемка заключается в том, что (см. пункт 2) MiTM - это вид хакерской атаки.</segment>
+		<segment id="129" parent="139" relname="span">Для всего используемого в интернете ПО попытка подмена сертификата</segment>
+		<segment id="130" parent="138" relname="joint">для перешифровки контента выглядит именно</segment>
+		<segment id="131" parent="137" relname="span">и только так и реакция (автоматическая) будет соответствующей:</segment>
+		<segment id="132" parent="135" relname="condition">как только операционная система или браузер выявят,</segment>
+		<segment id="133" parent="134" relname="condition">что предъявлен поддельный сертификат,</segment>
+		<segment id="134" parent="135" relname="span">они его тут же забанят.</segment>
+		<segment id="140" parent="141" relname="interpretation-evaluation">(Это я конечно очень грубо,</segment>
+		<segment id="141" parent="142" relname="span">не вдаваясь в технические детали.</segment>
+		<segment id="143" parent="145" relname="span">Ну и нельзя исключать, что ФСБ пойдет договариваться,</segment>
+		<segment id="144" parent="143" relname="purpose">чтобы их сертификат предустанавливался в списки доверенных</segment>
+		<segment id="146" parent="145" relname="attribution">- это предмет для отдельного разговора).</segment>
+		<segment id="148" parent="149" relname="restatement">То есть работать все это не будет.\n\n5.</segment>
+		<segment id="152" parent="154" relname="span">Пример:</segment>
+		<segment id="153" parent="152" relname="elaboration">в декабре 2015 года в Казахстане пытались реализовать эту схему.</segment>
+		<segment id="155" parent="158" relname="attribution">\"КазТелеком\" бодро объявил абонентам,</segment>
+		<segment id="156" parent="158" relname="joint">что они все обязаны установить себе государственный сертификат</segment>
+		<segment id="157" parent="158" relname="joint">и с 1 января 2016 года весь трафик будет шифроваться на него.</segment>
+		<segment id="160" parent="162" relname="joint">Через пару дней, однако, это сообщение с сайта \"КазТелекома\" исчезло</segment>
+		<segment id="161" parent="162" relname="joint">и было объяснено \"технической ошибкой\".</segment>
+		<segment id="164" parent="170" relname="span">Очевидно, потому что нашелся умный человек,</segment>
+		<segment id="165" parent="168" relname="attribution">который объяснил,</segment>
+		<segment id="166" parent="167" relname="condition">что через неделю после того, как у всех абонентов появится \"государственный сертификат\",</segment>
+		<segment id="167" parent="168" relname="span">интернет в Казахстане просто перестанет работать.\n\n6.</segment>
+		<segment id="173" parent="196" relname="preparation">Прозвучали важные три буквы: DPI (deep packet inspection - глубокий анализ пакетов).</segment>
+		<segment id="174" parent="175" relname="attribution">ФСБ говорит:</segment>
+		<segment id="175" parent="176" relname="span">хотим не просто расшифровывать трафик \"на лету\",</segment>
+		<segment id="177" parent="181" relname="restatement">но и делать DPI,</segment>
+		<segment id="178" parent="180" relname="span">то есть в онлайн-режиме искать слова \"бомба\", \"Путин\", \"жулики и воры\", \"дача Медведева\", \"Крым\", \"Володин - гей\", \"покемоны\", \"Чайка\" и другие,</segment>
+		<segment id="179" parent="178" relname="elaboration">которые в данный момент времени признаны угрожающими основам конституционного строя и национальной безопасности Российской Федерации.</segment>
+		<segment id="183" parent="195" relname="span">Хорошо известно, чьи уши торчат за DPI:</segment>
+		<segment id="184" parent="186" relname="joint">это главный \"национал-патриот\" Рунета Игорь Ашманов (сопредседатель партии \"Великое Отечество\", политической структуры НОДа)</segment>
+		<segment id="185" parent="186" relname="joint">и супруга его Наталья Касперская.</segment>
+		<segment id="187" parent="189" relname="joint">У них есть софт для DPI</segment>
+		<segment id="188" parent="189" relname="joint">и для семантического анализа,</segment>
+		<segment id="190" parent="192" relname="joint">они очень давно с ним носятся</segment>
+		<segment id="191" parent="192" relname="joint">и мечтают продать государству и подороже.\n\n7.</segment>
+		<segment id="198" parent="225" relname="preparation">РЕЗЮМЕ.</segment>
+		<segment id="199" parent="203" relname="joint">У меня для вас только хорошие новости.\n\n- \"Пакет Яровой\" в нынешнем виде будет похоронен;</segment>
+		<segment id="200" parent="201" relname="attribution">ФСБ признает,</segment>
+		<segment id="201" parent="202" relname="span">что он абсолютно лишен смысла;\n\n- Предлагаемое вместо него решение звучит многократно более дешево и разумно,</segment>
+		<segment id="204" parent="206" relname="span">но при этом не будет работать все равно</segment>
+		<segment id="205" parent="204" relname="elaboration">(что хорошо для всех нас),</segment>
+		<segment id="208" parent="211" relname="condition">а если и будет работать,</segment>
+		<segment id="209" parent="211" relname="span">то будет легко обходиться</segment>
+		<segment id="210" parent="209" relname="elaboration">(защититься от MiTM нетрудно);\n\n- В битву за распил государственных денег, выделяемых на \"контроль за интернетом\", включаются новые силы:</segment>
+		<segment id="214" parent="215" relname="condition">если \"пакет Яровой\" в изначальном виде отвечал бизнес-интересам производителей СОРМа и группы Чемезова,</segment>
+		<segment id="215" parent="216" relname="span">то предложения ФСБ им резко противоречат,</segment>
+		<segment id="217" parent="223" relname="span">тут совсем другие бенефициары</segment>
+		<segment id="218" parent="220" relname="span">;\n\n- Пока они будут между собой драться</segment>
+		<segment id="219" parent="218" relname="elaboration">(возможно, с применением огнестрельного оружия),</segment>
+		<segment id="221" parent="222" relname="joint">с интернетом не будет происходить ничего плохого\".\n\nИсточник: https://www.newsru.com/blog/22Sep2016/fsbtrafik.html\n</segment>
+		<group id="232" type="multinuc" parent="233" relname="span"/>
+		<group id="92" type="span" parent="232" relname="joint"/>
+		<group id="88" type="span" parent="92" relname="span"/>
+		<group id="87" type="multinuc" parent="80" relname="cause-effect"/>
+		<group id="83" type="multinuc" parent="87" relname="joint"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="91" type="span" parent="88" relname="attribution"/>
+		<group id="231" type="span" parent="232" relname="joint"/>
+		<group id="107" type="span" parent="230" relname="preparation"/>
+		<group id="106" type="multinuc" parent="93" relname="elaboration"/>
+		<group id="96" type="span" parent="106" relname="joint"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="99" type="multinuc" parent="105" relname="joint"/>
+		<group id="104" type="multinuc" parent="105" relname="joint"/>
+		<group id="103" type="multinuc" parent="104" relname="sequence"/>
+		<group id="230" type="multinuc" parent="231" relname="span"/>
+		<group id="128" type="span" parent="230" relname="joint"/>
+		<group id="112" type="span" parent="128" relname="span"/>
+		<group id="111" type="span" parent="108" relname="elaboration"/>
+		<group id="127" type="span" parent="112" relname="elaboration"/>
+		<group id="121" type="span" parent="127" relname="span"/>
+		<group id="119" type="multinuc" parent="121" relname="span"/>
+		<group id="115" type="multinuc" parent="119" relname="sequence"/>
+		<group id="118" type="span" parent="119" relname="sequence"/>
+		<group id="126" type="span" parent="121" relname="elaboration"/>
+		<group id="124" type="multinuc" parent="126" relname="span"/>
+		<group id="229" type="multinuc" parent="230" relname="joint"/>
+		<group id="151" type="span" parent="229" relname="joint"/>
+		<group id="139" type="span" parent="151" relname="span"/>
+		<group id="138" type="multinuc" parent="129" relname="elaboration"/>
+		<group id="137" type="span" parent="138" relname="joint"/>
+		<group id="136" type="span" parent="131" relname="condition"/>
+		<group id="135" type="span" parent="136" relname="span"/>
+		<group id="150" type="span" parent="139" relname="interpretation-evaluation"/>
+		<group id="142" type="span" parent="150" relname="span"/>
+		<group id="149" type="multinuc" parent="142" relname="elaboration"/>
+		<group id="147" type="span" parent="149" relname="restatement"/>
+		<group id="145" type="span" parent="147" relname="span"/>
+		<group id="228" type="multinuc" parent="229" relname="joint"/>
+		<group id="172" type="span" parent="228" relname="joint"/>
+		<group id="154" type="span" parent="172" relname="span"/>
+		<group id="171" type="span" parent="154" relname="elaboration"/>
+		<group id="163" type="span" parent="171" relname="span"/>
+		<group id="159" type="span" parent="163" relname="span"/>
+		<group id="158" type="multinuc" parent="159" relname="span"/>
+		<group id="162" type="multinuc" parent="159" relname="interpretation-evaluation"/>
+		<group id="170" type="span" parent="163" relname="interpretation-evaluation"/>
+		<group id="169" type="span" parent="164" relname="elaboration"/>
+		<group id="168" type="span" parent="169" relname="span"/>
+		<group id="227" type="multinuc" parent="228" relname="joint"/>
+		<group id="197" type="span" parent="227" relname="joint"/>
+		<group id="196" type="multinuc" parent="197" relname="span"/>
+		<group id="182" type="multinuc" parent="196" relname="joint"/>
+		<group id="176" type="span" parent="182" relname="contrast"/>
+		<group id="181" type="multinuc" parent="182" relname="contrast"/>
+		<group id="180" type="span" parent="181" relname="restatement"/>
+		<group id="195" type="span" parent="196" relname="joint"/>
+		<group id="194" type="span" parent="183" relname="elaboration"/>
+		<group id="186" type="multinuc" parent="194" relname="span"/>
+		<group id="193" type="span" parent="186" relname="elaboration"/>
+		<group id="189" type="multinuc" parent="193" relname="span"/>
+		<group id="192" type="multinuc" parent="189" relname="elaboration"/>
+		<group id="226" type="span" parent="227" relname="joint"/>
+		<group id="225" type="multinuc" parent="226" relname="span"/>
+		<group id="213" type="multinuc" parent="225" relname="joint"/>
+		<group id="207" type="multinuc" parent="213" relname="contrast"/>
+		<group id="203" type="multinuc" parent="207" relname="contrast"/>
+		<group id="202" type="span" parent="203" relname="joint"/>
+		<group id="206" type="span" parent="207" relname="contrast"/>
+		<group id="212" type="span" parent="213" relname="contrast"/>
+		<group id="211" type="span" parent="212" relname="span"/>
+		<group id="224" type="span" parent="225" relname="joint"/>
+		<group id="216" type="span" parent="223" relname="condition"/>
+		<group id="223" type="span" parent="224" relname="span"/>
+		<group id="222" type="multinuc" parent="217" relname="elaboration"/>
+		<group id="220" type="span" parent="222" relname="joint"/>
+		<group id="233" type="span"/>
+	</body>
+</rst>

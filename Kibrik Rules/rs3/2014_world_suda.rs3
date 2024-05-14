@@ -1,0 +1,48 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="20" relname="joint">Суда \"Академик Шокальский\" и \"Сюэлун\" вышли из тяжелых льдов Антарктиды\n\nРоссийское научно-исследовательское судно \"Академик Шокальский\", застрявшее 24 декабря во льдах Антарктиды, и китайский ледокол \"Сюэлун\" (\"Снежный дракон\") освободились от тяжелых льдов</segment>
+		<segment id="19" parent="20" relname="joint">и самостоятельно продвигаются на север,</segment>
+		<segment id="21" parent="23" relname="joint">сообщает в среду Австралийское управление морской безопасности (AMSA).\n\n\"Академик Шокальский\" взял курс на порт Блав (Новая Зеландия),</segment>
+		<segment id="22" parent="23" relname="joint">сообщили \"Интерфаксу\" в среду в Дальневосточном НИИ гидрометеорологии.</segment>
+		<segment id="25" parent="29" relname="joint">Судно вышло из зоны тяжелых льдов</segment>
+		<segment id="26" parent="28" relname="sequence">и двигалось сначала через льды толщиной до 50 см,</segment>
+		<segment id="27" parent="28" relname="sequence">а потом вышло на чистую воду,</segment>
+		<segment id="30" parent="29" relname="attribution">сообщил РИА \"Новости\" представитель НИИ.\n\</segment>
+		<segment id="32" parent="33" relname="attribution">nПо словам источника,</segment>
+		<segment id="33" parent="34" relname="span">судно \"Сюэлун\" также выбралось к чистой воде.</segment>
+		<segment id="35" parent="39" relname="span">В этой связи координационный центр отпустил ледокол США \"Полярная звезда\", который шел на помощь обоим судам.\n\nКак сообщалось,</segment>
+		<segment id="38" parent="35" relname="elaboration">\"Академик Шокальский\", принадлежащий Дальневосточному НИИ гидрометеорологии, был заблокирован у берегов Антарктиды 24 декабря.</segment>
+		<segment id="40" parent="44" relname="contrast">На помощь ему были направлены три ледокола,</segment>
+		<segment id="41" parent="43" relname="restatement">но им не удалось пробиться через мощные заторы,</segment>
+		<segment id="42" parent="43" relname="restatement">а китайский \"Снежный дракон\" сам оказался в ледовом плену.\n\nВ минувший четверг с \"Академика Шокальского\" были эвакуированы 52 пассажира - члены австралийско-новозеландской антарктической экспедиции.</segment>
+		<segment id="45" parent="44" relname="elaboration">На борту судна остается российский экипаж из 22 человек.\n\nИсточник: https://www.newsru.com/world/08Jan2014/suda.html\n</segment>
+		<group id="24" type="span" parent="49" relname="preparation"/>
+		<group id="20" type="multinuc" parent="24" relname="span"/>
+		<group id="23" type="multinuc" parent="20" relname="attribution"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="31" type="span" parent="49" relname="sequence"/>
+		<group id="29" type="multinuc" parent="31" relname="span"/>
+		<group id="28" type="multinuc" parent="29" relname="joint"/>
+		<group id="48" type="span" parent="49" relname="sequence"/>
+		<group id="34" type="span" parent="47" relname="preparation"/>
+		<group id="47" type="multinuc" parent="48" relname="span"/>
+		<group id="39" type="span" parent="47" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="44" type="multinuc" parent="46" relname="span"/>
+		<group id="43" type="multinuc" parent="44" relname="contrast"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

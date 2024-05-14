@@ -1,0 +1,283 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="evidence" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="133" parent="394" relname="preparation">СМИ:</segment>
+		<segment id="134" parent="138" relname="joint">Власти России не спешат с публикацией данных о рекордном спаде промышленных цен в стране\n\nПока Росстат задерживает публикацию данных о состоянии промышленности в октябре,</segment>
+		<segment id="135" parent="137" relname="span">\"источник в одном из ведомств финансово-экономического блока\" привел данные Росстата о ценах производителей в октябре</segment>
+		<segment id="136" parent="135" relname="elaboration">- они, по предварительным данным, снизились на 6,6%.</segment>
+		<segment id="139" parent="140" relname="span">Таким образом, побит рекорд, зафиксированный в сентябре – падения оптовых промцен на 5%.</segment>
+		<segment id="141" parent="147" relname="span">Экономисты объясняют столь резкое падение не только снижением мировых цен, но и сокращением спроса внутри страны</segment>
+		<segment id="142" parent="146" relname="restatement">- потребители отказываются от уже заключенных контрактов.</segment>
+		<segment id="143" parent="145" relname="restatement">Одни именуют это стагфляцией,</segment>
+		<segment id="144" parent="145" relname="restatement">другие - дефляцией.</segment>
+		<segment id="148" parent="150" relname="span">Между тем на потребительских ценах падение цен в промышленности, скорее всего, в ближайшее время не скажется,</segment>
+		<segment id="149" parent="148" relname="attribution">пишут во вторник российские СМИ</segment>
+		<segment id="151" parent="159" relname="span">.\n\nКак отмечает \"Коммерсант\",</segment>
+		<segment id="152" parent="158" relname="span">традиционно Росстат публикует ежемесячные данные о состоянии промпроизводства в середине следующего месяца.</segment>
+		<segment id="153" parent="157" relname="span">Официальных данных о промышленности пока нет.</segment>
+		<segment id="154" parent="156" relname="span">Лишь вчера агентство \"Интерфакс\" со ссылкой на \"источник в одном из ведомств финансово-экономического блока\" привело данные Росстата о промышленных ценах в октябре 2008 года.</segment>
+		<segment id="155" parent="154" relname="elaboration">Они по сравнению с сентябрем 2008 года сократились на 6,6%.</segment>
+		<segment id="163" parent="173" relname="joint">Цифра указывает на максимальное месячное падение промышленных цен за всю историю наблюдений этого показателя.</segment>
+		<segment id="164" parent="165" relname="attribution">Аналитики же прогнозировали,</segment>
+		<segment id="165" parent="166" relname="span">что снижение цен производителей в октябре составит 2,4%</segment>
+		<segment id="167" parent="171" relname="comparison">.\n\n- Потребительский спрос упал\n- А розничные цены продолжают расти\n- Промышленная дефляция, но не у госмонополистов\n\nЦены в промышленности снижаются уже второй месяц подряд,</segment>
+		<segment id="168" parent="170" relname="comparison">в сентябре 2008 года снижение индекса цен производителей (PPI) по сравнению с августом на 5%</segment>
+		<segment id="169" parent="170" relname="comparison">(в августе рост составил 0,5%, в июле -5,4%, в июне -4,9%).</segment>
+		<segment id="174" parent="175" relname="cause-effect">Наибольшее снижение индекса цен производителей зафиксировано в добыче полезных ископаемых -на 20,8% после падения на 15,8% в сентябре.</segment>
+		<segment id="175" parent="176" relname="span">Заметно упали цены в металлургии.</segment>
+		<segment id="177" parent="179" relname="comparison">Снижение цен производителей чугуна и доменных ферросплавов в октябре достигло 21,7%</segment>
+		<segment id="178" parent="179" relname="comparison">после снижения на 8,9% в сентябре.</segment>
+		<segment id="180" parent="181" relname="comparison">В производстве удобрений и азотных соединений цены сократились на 0,6% после роста на 2,6% в сентябре.\n\nРост цен в производстве машин и оборудования замедлился до 0,4% после роста на 2,1% в сентябре, а в производстве транспортных средств -до 0,3% с 0,8%.</segment>
+		<segment id="183" parent="189" relname="joint">В производстве легковых автомобилей в октябре цены и вовсе снизились на 0,4% после роста на 0,1% в сентябре.</segment>
+		<segment id="184" parent="186" relname="comparison">Останавливается рост цен даже у производителей пищевых продуктов,</segment>
+		<segment id="185" parent="186" relname="comparison">в октябре их рост составил всего 0,2% после 0,3% в сентябре.\n\nНепосредственная причина снижения цен в России - падение мировых цен на сырье,</segment>
+		<segment id="187" parent="186" relname="attribution">считает экономист HSBC Александр Морозов.</segment>
+		<segment id="191" parent="195" relname="span">Цены на горячекатаную сталь,</segment>
+		<segment id="192" parent="194" relname="comparison">с января по август подскочившие на 84%,</segment>
+		<segment id="193" parent="194" relname="comparison">за два месяца упали на 37%, баррель нефти Urals - на 36,9%.</segment>
+		<segment id="196" parent="198" relname="span">Слабеющий спрос по цепочке приведет к снижению цен по всем отраслям,</segment>
+		<segment id="197" parent="196" relname="attribution">уверен Морозов,</segment>
+		<segment id="199" parent="200" relname="span">падать есть куда:</segment>
+		<segment id="201" parent="202" relname="cause-effect">за 12 месяцев по октябрь цены промышленников выросли на 17,3%,</segment>
+		<segment id="202" parent="203" relname="span">за тот же период годом ранее - на 14,2%.\n\nПотребительский спрос упал\n\nПричина октябрьского и сентябрьского падения цен производителей</segment>
+		<segment id="204" parent="210" relname="span">- резкое снижение спроса:</segment>
+		<segment id="205" parent="209" relname="restatement">потребители отказываются от уже заключенных контрактов,</segment>
+		<segment id="208" parent="209" relname="restatement">пишут \"Ведомости\".\n\nПо данным Института экономики переходного периода (ИЭПП), в октябре показатели спроса и выпуска в промышленности упали до уровня октября 1998 года</segment>
+		<segment id="212" parent="214" relname="joint">\"Но тогда промышленность выходила из кризиса,</segment>
+		<segment id="213" parent="214" relname="joint">а сейчас она, похоже, втягивается в него\",</segment>
+		<segment id="215" parent="214" relname="attribution">- тревожится заведующий лабораторией ИЭПП Сергей Цухло.</segment>
+		<segment id="222" parent="237" relname="preparation">Недостаток платежеспособного спроса назвали помехой 45% из 1100 опрошенных предприятий (в III квартале 2007 гола - 26%).</segment>
+		<segment id="223" parent="237" relname="joint">Упоминание неплатежей среди проблем промышленности выросло почти вдвое - до 21%.\n\nЗа октябрь спрос на продукцию снизился на 15-20%,</segment>
+		<segment id="224" parent="225" relname="attribution">жалуется президент Ассоциации производителей станкоинструментальной продукции Георгий Самодуров,</segment>
+		<segment id="225" parent="226" relname="span">потребители отказываются от уже заключенных контрактов.</segment>
+		<segment id="227" parent="235" relname="joint">Бизнес был построен на кредитах,</segment>
+		<segment id="228" parent="234" relname="joint">они подорожали,</segment>
+		<segment id="229" parent="233" relname="joint">вздыхает Максим Лезин из Союза производителей сельхозтехники.\n\nКатастрофически упал спрос на металл,</segment>
+		<segment id="230" parent="232" relname="span">сталь зачастую невозможно продать ни по какой цене,</segment>
+		<segment id="231" parent="230" relname="attribution">сетует совладелец крупной металлургической компании.</segment>
+		<segment id="239" parent="246" relname="attribution">По данным агентства \"Чермет\",</segment>
+		<segment id="240" parent="242" relname="span">в октябре в России выпуск стали был на 29% меньше, чем в сентябре.\n\nЦенами спрос стимулировать невозможно,</segment>
+		<segment id="241" parent="240" relname="cause-effect">согласен замгендиректора \"Камаза\" Ахат Урманов, причина в спаде активности потребителей - строителей и транспортников.\n\n\"Лесопильные заводы забиты продукцией,</segment>
+		<segment id="243" parent="245" relname="span">но нельзя сказать, падают цены или нет.</segment>
+		<segment id="244" parent="243" relname="interpretation-evaluation">Ценообразование на рынке нелогично\",</segment>
+		<segment id="248" parent="254" relname="contrast">- удивляется директор Конфедерации ЛПК Северо-Запада Денис Соколов.\n\nПадение цен могло бы говорить о снижении издержек,</segment>
+		<segment id="249" parent="253" relname="same-unit">но это не так,</segment>
+		<segment id="250" parent="251" relname="attribution">убежден экономист Центра развития Валерий Миронов:</segment>
+		<segment id="251" parent="252" relname="span">темпы роста затрат и удельных трудовых издержек к октябрю не изменились.</segment>
+		<segment id="256" parent="259" relname="cause-effect">За счет удешевления топлива,</segment>
+		<segment id="257" parent="258" relname="condition">если бы дело было только в нем,</segment>
+		<segment id="258" parent="259" relname="span">промышленные цены могли снизиться в октябре лишь на 1,5%.</segment>
+		<segment id="261" parent="279" relname="restatement">Реальный эффективный курс рубля за август - октябрь упал к бивалютной корзине на 4%,</segment>
+		<segment id="262" parent="270" relname="joint">то есть . импорт подорожал</segment>
+		<segment id="263" parent="269" relname="span">и предприятия могли бы не снижать цены,</segment>
+		<segment id="264" parent="268" relname="span">продолжает Миронов:</segment>
+		<segment id="265" parent="266" relname="cause-effect">\"Значит, поддержки в виде снижения нефтяных цен и подорожавшего импорта оказалось недостаточно\".\n\nПричина падения промышленных цен</segment>
+		<segment id="266" parent="267" relname="span">- снижение спроса,</segment>
+		<segment id="271" parent="276" relname="attribution">делает вывод Миронов,</segment>
+		<segment id="272" parent="276" relname="span">следом упадет и выпуск:</segment>
+		<segment id="273" parent="275" relname="comparison">в октябре промпроизводство снизится на 1-2%,</segment>
+		<segment id="274" parent="275" relname="comparison">если предприятия частично работали на склад.\n\nПотребительские цены пока продолжат расти\n\nНа розничных ценах падение цен в промышленности скорее всего пока не скажется.</segment>
+		<segment id="280" parent="282" relname="span">Поэтому в Россию может вернуться спад производства</segment>
+		<segment id="281" parent="280" relname="condition">на фоне роста цен</segment>
+		<segment id="283" parent="285" relname="span">– так называемая стагфляция,</segment>
+		<segment id="284" parent="283" relname="elaboration">в которой страна жила в середине 90-х,</segment>
+		<segment id="286" parent="287" relname="same-unit">пишет \"Независимая газета\".\n\n\"Эффект девальвации уже удешевляет наши товары по сравнению с импортом,</segment>
+		<segment id="288" parent="290" relname="span">поэтому производители будут иметь возможность даже несколько поднимать розничные цены,</segment>
+		<segment id="289" parent="288" relname="condition">следуя за ослабевающим рублем\",</segment>
+		<segment id="295" parent="306" relname="attribution">– отмечает замглавы аналитического департамента \"Арбат Капитал\" Алексей Павлов.\n\nВедущий эксперт Центра макроэкономического анализа и краткосрочного прогнозирования Владимир Сальников считает,</segment>
+		<segment id="296" parent="306" relname="span">что эффект сокращения внутреннего спроса пока не проявился.</segment>
+		<segment id="297" parent="299" relname="span">Кроме того, фиксируемые Росстатом цены отражают только объявленные отпускные цены заводов, но не фактические цены поставок,</segment>
+		<segment id="298" parent="297" relname="attribution">отмечает он:</segment>
+		<segment id="300" parent="304" relname="span">\"Оптовые цены в промышленности напрямую не связаны с потребительскими ценами,</segment>
+		<segment id="303" parent="300" relname="elaboration">которые, вероятно, продолжат свой рост\".\n\nВ том, что снижение цен производителей не влечет за собой автоматического снижения потребительских цен, убежден и Рори Макфаркуар из Goldman Sachs.</segment>
+		<segment id="308" parent="315" relname="attribution">Однако он оговаривается,</segment>
+		<segment id="309" parent="313" relname="joint">что это верно лишь в краткосрочной перспективе,</segment>
+		<segment id="310" parent="312" relname="joint">долгосрочно же цены в промышленности, \"по крайней мере теоретически,</segment>
+		<segment id="311" parent="312" relname="joint">должны подпирать\" потребительские.\n\n\"Падение цен в промышленности</segment>
+		<segment id="314" parent="313" relname="interpretation-evaluation">– это доказательство того, что кризис через финансовую систему дошел и до реального сектора\",</segment>
+		<segment id="318" parent="317" relname="attribution">– говорит директор Бюро экономического анализа Андрей Шаститко.</segment>
+		<segment id="322" parent="327" relname="attribution">По его словам,</segment>
+		<segment id="323" parent="327" relname="joint">скрытые проявления кризиса отмечались еще в начале года,</segment>
+		<segment id="324" parent="326" relname="span">а падение оптовых цен</segment>
+		<segment id="325" parent="324" relname="cause-effect">обозначило начало его открытой фазы.</segment>
+		<segment id="329" parent="340" relname="condition">При негативном сценарии,</segment>
+		<segment id="330" parent="331" relname="attribution">как считает экономист,</segment>
+		<segment id="331" parent="332" relname="span">Россия может оказаться в стагнации на фоне инфляции</segment>
+		<segment id="333" parent="332" relname="evidence">– так называемой стагфляции,</segment>
+		<segment id="335" parent="334" relname="evidence">которая имела место в западных экономиках в середине 70-х годов и в России – в середине 90-х.\n\nЗнакомьтесь, промышленная дефляция\n\nРоссия столкнулась с дефляцией</segment>
+		<segment id="337" parent="338" relname="cause-effect">- абсолютным снижением уровня цен,</segment>
+		<segment id="338" parent="339" relname="span">что является свидетельством сокращения спроса и снижения темпов роста индустрии.</segment>
+		<segment id="342" parent="341" relname="interpretation-evaluation">Она имеет и свою положительную сторону:</segment>
+		<segment id="346" parent="348" relname="restatement">расходы предприятий, включая те, которые имеют средства для новых проектов, могут сократиться,</segment>
+		<segment id="347" parent="348" relname="restatement">пишет газета \"Время новостей\".\n\nЭксперты считают резкое падение цен производителей признаком замедления темпов роста экономики.</segment>
+		<segment id="351" parent="363" relname="span">Дефляция в производственной сфере отражает снижение платежеспособного спроса со стороны покупателей.</segment>
+		<segment id="352" parent="354" relname="span">Абсолютного снижения спроса на продукцию промышленных предприятий,</segment>
+		<segment id="353" parent="352" relname="elaboration">по данным Института экономики переходного периода,</segment>
+		<segment id="355" parent="356" relname="same-unit">после кризиса 1998 года не было ни разу,</segment>
+		<segment id="357" parent="361" relname="joint">сегодня же происходит абсолютное сокращение продаж во всех отраслях,</segment>
+		<segment id="358" parent="359" relname="cause-effect">за исключением пищевой</segment>
+		<segment id="359" parent="360" relname="span">- цены на пищевые продукты продолжают расти, хотя и умеренно.\n\nОднако особая ситуация с ценами на товары и услуги в государственно-монопольной сфере.</segment>
+		<segment id="365" parent="367" relname="joint">Цены на газ, электроэнергию, коммунальные услуги, перевозки в основном выведены из сферы конкуренции</segment>
+		<segment id="366" parent="367" relname="joint">и зависят от федеральных, региональных и муниципальных тарифов.</segment>
+		<segment id="368" parent="374" relname="span">Никакой \"дефляции\" в этой области пока не ожидается</segment>
+		<segment id="369" parent="371" relname="joint">- тарифы растут</segment>
+		<segment id="370" parent="371" relname="joint">и будут продолжать расти высокими темпами (20-30%)</segment>
+		<segment id="372" parent="371" relname="attribution">согласно намеченным графикам.</segment>
+		<segment id="376" parent="375" relname="interpretation-evaluation">Что резко контрастирует с происходящим во всей остальной экономике.</segment>
+		<segment id="379" parent="381" relname="span">Не только розничным, но и промышленным потребителям предстоит вскоре столкнуться с этим монопольно высоким ростом тарифов</segment>
+		<segment id="380" parent="379" relname="condition">в условиях обостряющегося дефицита оборотных средств.\n\</segment>
+		<segment id="382" parent="386" relname="span">nВынужденное снижение цен с очень высокого уровня,</segment>
+		<segment id="383" parent="385" relname="span">которого они достигли в период \"перегрева\" - в чем-то полезный, но тяжелый экзамен для промышленности,</segment>
+		<segment id="384" parent="383" relname="elaboration">которая не знала до этого таких ограничений,</segment>
+		<segment id="387" parent="388" relname="span">заключает издание.\n\nИсточник: https://www.newsru.com/finance/18Nov2008/decline.html\n</segment>
+		<group id="394" type="multinuc" parent="395" relname="span"/>
+		<group id="162" type="multinuc" parent="394" relname="joint"/>
+		<group id="140" type="span" parent="162" relname="joint"/>
+		<group id="138" type="multinuc" parent="139" relname="evidence"/>
+		<group id="137" type="span" parent="138" relname="joint"/>
+		<group id="161" type="multinuc" parent="162" relname="joint"/>
+		<group id="147" type="span" parent="161" relname="joint"/>
+		<group id="146" type="multinuc" parent="141" relname="cause-effect"/>
+		<group id="145" type="multinuc" parent="146" relname="restatement"/>
+		<group id="160" type="multinuc" parent="161" relname="joint"/>
+		<group id="150" type="span" parent="160" relname="restatement"/>
+		<group id="159" type="span" parent="160" relname="restatement"/>
+		<group id="158" type="span" parent="151" relname="elaboration"/>
+		<group id="157" type="span" parent="152" relname="elaboration"/>
+		<group id="156" type="span" parent="153" relname="elaboration"/>
+		<group id="393" type="multinuc" parent="394" relname="joint"/>
+		<group id="221" type="multinuc" parent="393" relname="joint"/>
+		<group id="173" type="multinuc" parent="221" relname="joint"/>
+		<group id="172" type="multinuc" parent="173" relname="joint"/>
+		<group id="166" type="span" parent="172" relname="joint"/>
+		<group id="171" type="multinuc" parent="172" relname="joint"/>
+		<group id="170" type="multinuc" parent="171" relname="comparison"/>
+		<group id="220" type="multinuc" parent="221" relname="joint"/>
+		<group id="190" type="multinuc" parent="220" relname="joint"/>
+		<group id="182" type="multinuc" parent="190" relname="joint"/>
+		<group id="176" type="span" parent="182" relname="joint"/>
+		<group id="181" type="multinuc" parent="182" relname="joint"/>
+		<group id="179" type="multinuc" parent="181" relname="comparison"/>
+		<group id="189" type="multinuc" parent="190" relname="joint"/>
+		<group id="188" type="span" parent="189" relname="joint"/>
+		<group id="186" type="multinuc" parent="188" relname="span"/>
+		<group id="219" type="span" parent="220" relname="joint"/>
+		<group id="195" type="span" parent="219" relname="span"/>
+		<group id="194" type="multinuc" parent="191" relname="cause-effect"/>
+		<group id="218" type="span" parent="195" relname="interpretation-evaluation"/>
+		<group id="200" type="span" parent="218" relname="span"/>
+		<group id="198" type="span" parent="199" relname="cause-effect"/>
+		<group id="217" type="span" parent="200" relname="elaboration"/>
+		<group id="211" type="multinuc" parent="216" relname="cause-effect"/>
+		<group id="203" type="span" parent="211" relname="joint"/>
+		<group id="210" type="span" parent="211" relname="joint"/>
+		<group id="209" type="multinuc" parent="204" relname="cause-effect"/>
+		<group id="216" type="span" parent="217" relname="span"/>
+		<group id="214" type="multinuc" parent="216" relname="span"/>
+		<group id="392" type="multinuc" parent="393" relname="joint"/>
+		<group id="238" type="span" parent="392" relname="joint"/>
+		<group id="237" type="multinuc" parent="238" relname="span"/>
+		<group id="236" type="multinuc" parent="237" relname="joint"/>
+		<group id="226" type="span" parent="236" relname="joint"/>
+		<group id="235" type="multinuc" parent="236" relname="joint"/>
+		<group id="234" type="multinuc" parent="235" relname="joint"/>
+		<group id="233" type="multinuc" parent="234" relname="joint"/>
+		<group id="232" type="span" parent="233" relname="joint"/>
+		<group id="391" type="multinuc" parent="392" relname="joint"/>
+		<group id="321" type="multinuc" parent="391" relname="joint"/>
+		<group id="255" type="multinuc" parent="321" relname="joint"/>
+		<group id="247" type="span" parent="255" relname="joint"/>
+		<group id="246" type="multinuc" parent="247" relname="span"/>
+		<group id="242" type="span" parent="246" relname="contrast"/>
+		<group id="245" type="span" parent="246" relname="contrast"/>
+		<group id="254" type="multinuc" parent="255" relname="joint"/>
+		<group id="253" type="multinuc" parent="254" relname="contrast"/>
+		<group id="252" type="span" parent="253" relname="same-unit"/>
+		<group id="320" type="multinuc" parent="321" relname="joint"/>
+		<group id="294" type="multinuc" parent="320" relname="joint"/>
+		<group id="260" type="span" parent="294" relname="joint"/>
+		<group id="259" type="span" parent="260" relname="span"/>
+		<group id="293" type="span" parent="294" relname="joint"/>
+		<group id="279" type="multinuc" parent="292" relname="cause-effect"/>
+		<group id="278" type="multinuc" parent="279" relname="restatement"/>
+		<group id="270" type="multinuc" parent="278" relname="joint"/>
+		<group id="269" type="span" parent="270" relname="joint"/>
+		<group id="268" type="span" parent="263" relname="cause-effect"/>
+		<group id="267" type="span" parent="264" relname="elaboration"/>
+		<group id="277" type="span" parent="278" relname="joint"/>
+		<group id="276" type="span" parent="277" relname="span"/>
+		<group id="275" type="multinuc" parent="272" relname="elaboration"/>
+		<group id="292" type="span" parent="293" relname="span"/>
+		<group id="282" type="span" parent="292" relname="span"/>
+		<group id="291" type="span" parent="282" relname="elaboration"/>
+		<group id="287" type="multinuc" parent="290" relname="cause-effect"/>
+		<group id="285" type="span" parent="287" relname="same-unit"/>
+		<group id="290" type="span" parent="291" relname="span"/>
+		<group id="319" type="span" parent="320" relname="joint"/>
+		<group id="317" type="multinuc" parent="319" relname="span"/>
+		<group id="307" type="span" parent="317" relname="contrast"/>
+		<group id="306" type="span" parent="307" relname="span"/>
+		<group id="305" type="span" parent="296" relname="evidence"/>
+		<group id="299" type="span" parent="305" relname="span"/>
+		<group id="304" type="span" parent="299" relname="elaboration"/>
+		<group id="316" type="span" parent="317" relname="contrast"/>
+		<group id="315" type="span" parent="316" relname="span"/>
+		<group id="313" type="multinuc" parent="315" relname="span"/>
+		<group id="312" type="multinuc" parent="313" relname="joint"/>
+		<group id="390" type="span" parent="391" relname="joint"/>
+		<group id="378" type="multinuc" parent="389" relname="evidence"/>
+		<group id="364" type="multinuc" parent="378" relname="joint"/>
+		<group id="350" type="span" parent="364" relname="joint"/>
+		<group id="328" type="span" parent="349" relname="preparation"/>
+		<group id="327" type="multinuc" parent="328" relname="span"/>
+		<group id="326" type="span" parent="327" relname="joint"/>
+		<group id="349" type="multinuc" parent="350" relname="span"/>
+		<group id="343" type="span" parent="349" relname="joint"/>
+		<group id="341" type="span" parent="343" relname="span"/>
+		<group id="340" type="span" parent="341" relname="span"/>
+		<group id="336" type="span" parent="340" relname="span"/>
+		<group id="334" type="span" parent="336" relname="span"/>
+		<group id="332" type="span" parent="334" relname="span"/>
+		<group id="339" type="span" parent="336" relname="interpretation-evaluation"/>
+		<group id="348" type="multinuc" parent="349" relname="joint"/>
+		<group id="363" type="span" parent="364" relname="joint"/>
+		<group id="362" type="multinuc" parent="351" relname="elaboration"/>
+		<group id="356" type="multinuc" parent="362" relname="comparison"/>
+		<group id="354" type="span" parent="356" relname="same-unit"/>
+		<group id="361" type="multinuc" parent="362" relname="comparison"/>
+		<group id="360" type="span" parent="361" relname="joint"/>
+		<group id="377" type="span" parent="378" relname="joint"/>
+		<group id="375" type="multinuc" parent="377" relname="span"/>
+		<group id="367" type="multinuc" parent="375" relname="restatement"/>
+		<group id="374" type="span" parent="375" relname="restatement"/>
+		<group id="373" type="span" parent="368" relname="cause-effect"/>
+		<group id="371" type="multinuc" parent="373" relname="span"/>
+		<group id="389" type="span" parent="390" relname="span"/>
+		<group id="381" type="span" parent="389" relname="span"/>
+		<group id="388" type="span" parent="381" relname="elaboration"/>
+		<group id="386" type="span" parent="387" relname="solutionhood"/>
+		<group id="385" type="span" parent="382" relname="elaboration"/>
+		<group id="395" type="span"/>
+	</body>
+</rst>

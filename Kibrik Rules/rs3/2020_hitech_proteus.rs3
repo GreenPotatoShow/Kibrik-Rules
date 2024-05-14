@@ -1,0 +1,76 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="33" relname="span">Ученые создали первый неразрезаемый материал.</segment>
+		<segment id="32" parent="31" relname="elaboration">Его назвали \"Протей\" (ВИДЕО)\n\nГруппа исследователей из Даремского университета (Великобритания) и Института Фраунгофера (Германия) создали первый в мире материал, который невозможно разрезать.</segment>
+		<segment id="34" parent="38" relname="span">Статья, посвященная этой разработке, была опубликована в журнале Scientific Reports.\n\nКак сообщает New Atlas,</segment>
+		<segment id="37" parent="34" relname="elaboration">материал, который получил название \"Протей\" в честь древнегреческого божества, принимавшего разные формы, состоит из множества плотно уложенных небольших керамических сфер.</segment>
+		<segment id="39" parent="41" relname="span">Промежутки между ними заполняет относительно мягкий пенообразный наполнитель из алюминия,</segment>
+		<segment id="40" parent="39" relname="elaboration">который при воздействии на него распадается на множество мелких частиц.</segment>
+		<segment id="42" parent="44" relname="joint">Плотность этого материала составляет 15% от плотности стали,</segment>
+		<segment id="43" parent="44" relname="joint">а источником вдохновения для его создания послужили раковины моллюсков и кожура грейпфрута.\n\n</segment>
+		<segment id="47" parent="55" relname="span">\"По своей структуре наш материал похож на желе, которое заполнено множеством твердых кусочков.</segment>
+		<segment id="48" parent="50" relname="joint">Если попытаться разрезать его дисковой пилой</segment>
+		<segment id="49" parent="50" relname="joint">или просверлить дрелью,</segment>
+		<segment id="51" parent="53" relname="joint">то оба этих инструмента будут проходить через желе</segment>
+		<segment id="52" parent="53" relname="joint">и рано или поздно натолкнутся на кусочки.</segment>
+		<segment id="56" parent="59" relname="condition">Когда это произойдет,</segment>
+		<segment id="57" parent="59" relname="span">весь материал начнет вибрировать таким образом,</segment>
+		<segment id="58" parent="57" relname="cause-effect">что эти колебания разрушат сверло или диск пилы\",</segment>
+		<segment id="61" parent="66" relname="attribution">- рассказал один из авторов исследования, доцент Даремского университета Стефан Шинишевский (цитата по ТАСС).\n\nВидеоролик, демонстрирующий устойчивость нового материала к разрезанию,</segment>
+		<segment id="62" parent="65" relname="attribution">был опубликован на YouTube</segment>
+		<segment id="63" parent="65" relname="joint">- разрезать образец толщиной 4 сантиметра</segment>
+		<segment id="64" parent="65" relname="joint">при помощи болгарки ученым не удалось.</segment>
+		<segment id="70" parent="74" relname="span">\"Протей\" также показал устойчивость и к водяным резакам,</segment>
+		<segment id="71" parent="72" relname="cause-effect">поскольку керамические сферы успешно расширяют струю воды,</segment>
+		<segment id="72" parent="73" relname="span">снижая ее скорость.\n\</segment>
+		<segment id="75" parent="76" relname="attribution">nПо мнению ученых,</segment>
+		<segment id="76" parent="77" relname="span">разработка может найти довольно широкое применение.</segment>
+		<segment id="78" parent="80" relname="span">Так, \"Протей\" можно использовать</segment>
+		<segment id="79" parent="78" relname="purpose">для создания легкой брони, прочных велосипедных замков, сейфов и других предметов, устойчивых к разрезанию.</segment>
+		<segment id="81" parent="83" relname="span">В настоящее время создатели материала ищут партнеров</segment>
+		<segment id="82" parent="81" relname="purpose">для запуска коммерческого производства \"Протея\".\n\nИсточник: https://www.newsru.com/hitech/21Jul2020/proteus.html\n</segment>
+		<group id="33" type="span" parent="88" relname="preparation"/>
+		<group id="88" type="multinuc" parent="89" relname="span"/>
+		<group id="46" type="multinuc" parent="88" relname="joint"/>
+		<group id="38" type="span" parent="46" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="41" type="span" parent="45" relname="joint"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="69" type="multinuc" parent="87" relname="joint"/>
+		<group id="55" type="span" parent="69" relname="joint"/>
+		<group id="54" type="span" parent="47" relname="elaboration"/>
+		<group id="50" type="multinuc" parent="53" relname="condition"/>
+		<group id="53" type="multinuc" parent="54" relname="span"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="60" type="span" parent="68" relname="span"/>
+		<group id="59" type="span" parent="60" relname="span"/>
+		<group id="67" type="span" parent="60" relname="attribution"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="74" type="span" parent="86" relname="joint"/>
+		<group id="73" type="span" parent="70" relname="cause-effect"/>
+		<group id="85" type="span" parent="86" relname="joint"/>
+		<group id="77" type="span" parent="85" relname="span"/>
+		<group id="84" type="span" parent="77" relname="evidence"/>
+		<group id="80" type="span" parent="84" relname="span"/>
+		<group id="83" type="span" parent="80" relname="elaboration"/>
+		<group id="89" type="span"/>
+	</body>
+</rst>

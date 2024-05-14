@@ -1,0 +1,223 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="102" parent="104" relname="span">Мотылек  вздумал жениться.</segment>
+		<segment id="103" parent="102" relname="interpretation-evaluation">Естественно, ему хотелось взять за себя хорошенький цветочек.\n</segment>
+		<segment id="105" parent="109" relname="span">Он посмотрел вокруг:</segment>
+		<segment id="106" parent="108" relname="joint">цветки сидели на своих стебельках тихо,</segment>
+		<segment id="107" parent="108" relname="joint">как и подобает еще не просватанным барышням.</segment>
+		<segment id="110" parent="114" relname="span">Но выбрать было ужасно трудно,</segment>
+		<segment id="111" parent="113" relname="joint">так много их тут росло.\n Мотыльку надоело раздумывать,</segment>
+		<segment id="112" parent="113" relname="joint">и он порхнул к полевой ромашке.</segment>
+		<segment id="115" parent="121" relname="joint">Французы зовут ее Маргаритой</segment>
+		<segment id="116" parent="119" relname="attribution">и уверяют,</segment>
+		<segment id="117" parent="119" relname="joint">что она умеет ворожить,</segment>
+		<segment id="118" parent="119" relname="joint">и она вправду умеет ворожить.</segment>
+		<segment id="124" parent="128" relname="joint">Влюбленные берут ее</segment>
+		<segment id="125" parent="127" relname="sequence">и обрывают лепесток за лепестком,</segment>
+		<segment id="126" parent="127" relname="sequence">приговаривая:</segment>
+		<segment id="129" parent="131" relname="joint">\"Любит?</segment>
+		<segment id="130" parent="131" relname="joint">Не любит?\" -- или что-либо в этом духе.</segment>
+		<segment id="132" parent="131" relname="attribution">Каждый спрашивает на родном языке.</segment>
+		<segment id="135" parent="141" relname="contrast">Вот и мотылек тоже обратился к ромашке,</segment>
+		<segment id="136" parent="140" relname="contrast">но обрывать лепестков не стал,</segment>
+		<segment id="137" parent="139" relname="span">а перецеловал их,</segment>
+		<segment id="138" parent="137" relname="elaboration">считая, что всегда лучше брать лаской.\n -- Матушка Маргарита, полевая ромашка!</segment>
+		<segment id="143" parent="142" relname="attribution">-- сказал он.</segment>
+		<segment id="146" parent="152" relname="contrast">-- Вы умеете ворожить!</segment>
+		<segment id="147" parent="151" relname="span">Укажите же мне мою суженую.</segment>
+		<segment id="148" parent="150" relname="contrast">Тогда я хоть сразу могу посвататься!\n</segment>
+		<segment id="149" parent="150" relname="contrast">Но ромашка молчала -- она обиделась.</segment>
+		<segment id="153" parent="155" relname="joint">Она была девицей,</segment>
+		<segment id="154" parent="155" relname="joint">а ее вдруг назвали матушкой.</segment>
+		<segment id="156" parent="158" relname="sequence">Как вам это понравится?\n Мотылек спросил еще раз,</segment>
+		<segment id="157" parent="158" relname="sequence">потом еще -- ответа все нет.</segment>
+		<segment id="159" parent="160" relname="cause-effect">Ему это надоело,</segment>
+		<segment id="160" parent="161" relname="span">и он полетел прямо свататься.\n Дело было ранней весной.</segment>
+		<segment id="162" parent="164" relname="span">Всюду цвели подснежники и крокусы.\n -- Недурны,</segment>
+		<segment id="163" parent="162" relname="attribution">-- сказал мотылек, -- миленькие барышни.</segment>
+		<segment id="169" parent="298" relname="preparation">Только... зеленоваты больно!\n Мотылек, как и все юноши, искал девиц постарше.\n</segment>
+		<segment id="170" parent="190" relname="joint">Потом он оглядел других</segment>
+		<segment id="171" parent="173" relname="joint">и нашел, что анемоны горьковаты,</segment>
+		<segment id="172" parent="173" relname="joint">фиалки немножко сентиментальны,</segment>
+		<segment id="174" parent="178" relname="joint">тюльпаны-щеголихи, нарциссы -- простоваты,</segment>
+		<segment id="175" parent="177" relname="joint">цветы липы и малы</segment>
+		<segment id="176" parent="177" relname="joint">и родни у них пропасть,</segment>
+		<segment id="179" parent="181" relname="joint">яблоневые цветы хоть и почти как розы,</segment>
+		<segment id="180" parent="181" relname="joint">да недолговечны:</segment>
+		<segment id="182" parent="186" relname="joint">пахнуло ветром --</segment>
+		<segment id="183" parent="185" relname="joint">и нет их,</segment>
+		<segment id="184" parent="185" relname="joint">стоит ли и жениться?</segment>
+		<segment id="191" parent="195" relname="span">Горошек понравился ему больше всех:</segment>
+		<segment id="192" parent="194" relname="joint">бело-розовый, просто кровь с молоком, нежный, изящный,</segment>
+		<segment id="193" parent="194" relname="joint">да и на кухне лицом в грязь не ударит.</segment>
+		<segment id="196" parent="204" relname="joint">Мотылек совсем уж было собрался посвататься,</segment>
+		<segment id="197" parent="203" relname="sequence">да вдруг увидел рядом стручок с увядшим цветком.\n -- Это кто же? -- спросил он.\n -- Сестрица моя,</segment>
+		<segment id="198" parent="201" relname="attribution">-- отвечал горошек</segment>
+		<segment id="199" parent="201" relname="joint">.\n -- Стало быть, и вы такая будете?\n Испугался мотылек</segment>
+		<segment id="200" parent="201" relname="joint">и упорхнул прочь.\n Через изгородь перевешивалась целая толпа цветков жимолости.</segment>
+		<segment id="205" parent="206" relname="contrast">Но эти барышни с вытянутыми желтыми физиономиями были ему совсем не по вкусу.</segment>
+		<segment id="207" parent="206" relname="interpretation-evaluation">Ну, а что же было ему по вкусу?</segment>
+		<segment id="210" parent="220" relname="span">Поди узнай!\n Прошла весна,</segment>
+		<segment id="211" parent="215" relname="joint">прошло лето,</segment>
+		<segment id="212" parent="214" relname="joint">настала осень,</segment>
+		<segment id="213" parent="214" relname="joint">а мотылек не подвинулся со своим сватовством ни на шаг.</segment>
+		<segment id="216" parent="218" relname="span">Появились новые цветы в роскошных нарядах,</segment>
+		<segment id="217" parent="216" relname="interpretation-evaluation">да что толку?</segment>
+		<segment id="221" parent="231" relname="span">Стареющее сердце все больше и больше начинает тосковать по весенней свежести, по живительному аромату юности.</segment>
+		<segment id="222" parent="229" relname="solutionhood">Не искать же этого у осенних георгинов и штокроз?</segment>
+		<segment id="223" parent="229" relname="span">И мотылек полетел к кудрявой мяте.\n -- На ней нет особых цветов,</segment>
+		<segment id="224" parent="228" relname="joint">она вся сплошной благоухающий цвет,</segment>
+		<segment id="225" parent="227" relname="joint">ее-то я и возьму в жены!\n И он посватался.\n Но мята листочком не шелохнула</segment>
+		<segment id="226" parent="227" relname="joint">и сказала только:\n -- Дружба -- и больше ничего.</segment>
+		<segment id="232" parent="241" relname="preparation">Мы оба стары.</segment>
+		<segment id="233" parent="241" relname="contrast">Друзьями мы еще можем быть,</segment>
+		<segment id="234" parent="240" relname="span">но жениться?..</segment>
+		<segment id="235" parent="239" relname="span">Нет, что за дурачество на старости лет!\n Так и остался ни с чем мотылек.</segment>
+		<segment id="236" parent="238" relname="contrast">Уж больно много он перебирал,</segment>
+		<segment id="237" parent="238" relname="contrast">а это не дело.</segment>
+		<segment id="245" parent="269" relname="sequence">Вот и остался старым холостяком.\n</segment>
+		<segment id="246" parent="268" relname="sequence">Скоро налетела непогода с дождем и изморозью.</segment>
+		<segment id="247" parent="267" relname="sequence">Поднялся холодный ветер.</segment>
+		<segment id="248" parent="250" relname="joint">Дрожь пробирала старые, скрипучие ивы.</segment>
+		<segment id="249" parent="250" relname="joint">Несладко было разгуливать по ветру в летнем платье.</segment>
+		<segment id="251" parent="265" relname="span">Но мотылек и не разгуливал.</segment>
+		<segment id="252" parent="256" relname="sequence">Ему как-то удалось залететь в комнату,</segment>
+		<segment id="253" parent="255" relname="joint">там топилась печь</segment>
+		<segment id="254" parent="255" relname="joint">и было тепло, как летом.</segment>
+		<segment id="257" parent="263" relname="contrast">Жить бы да поживать здесь мотыльку.</segment>
+		<segment id="258" parent="262" relname="span">Но что это за жизнь!\n -- Мне нужны солнце, свобода и хоть самый маленький цветочек!</segment>
+		<segment id="259" parent="261" relname="joint">-- сказал мотылек, полетел</segment>
+		<segment id="260" parent="261" relname="joint">и ударился об оконное стекло.\n</segment>
+		<segment id="270" parent="276" relname="joint">Тут его увидали,</segment>
+		<segment id="271" parent="275" relname="joint">пришли от него в восторг,</segment>
+		<segment id="272" parent="274" relname="joint">проткнули булавкой</segment>
+		<segment id="273" parent="274" relname="joint">и посадили в ящичек с прочими редкостями.</segment>
+		<segment id="277" parent="276" relname="purpose">Большего для него и сделать было невозможно.\n -- Теперь я сижу на стебельке, как цветы!</segment>
+		<segment id="279" parent="278" relname="attribution">-- сказал мотылек.</segment>
+		<segment id="282" parent="294" relname="span">-- Не особенно-то это сладко.</segment>
+		<segment id="283" parent="285" relname="span">Ну да зато вроде как женился:</segment>
+		<segment id="284" parent="283" relname="elaboration">тоже сидишь крепко.\n Этим он и утешался.\n -- Плохое утешение!</segment>
+		<segment id="286" parent="288" relname="joint">-- сказали комнатные цветы</segment>
+		<segment id="287" parent="288" relname="joint">.\n \"Ну, комнатным цветам не очень-то верь!</segment>
+		<segment id="289" parent="291" relname="joint">-- думал мотылек.</segment>
+		<segment id="290" parent="291" relname="joint">-- Они уж чересчур близко знаются с людьми\".\n</segment>
+		<group id="104" type="span" parent="301" relname="preparation"/>
+		<group id="301" type="multinuc" parent="302" relname="span"/>
+		<group id="145" type="multinuc" parent="301" relname="sequence"/>
+		<group id="123" type="multinuc" parent="145" relname="sequence"/>
+		<group id="109" type="span" parent="123" relname="contrast"/>
+		<group id="108" type="multinuc" parent="105" relname="elaboration"/>
+		<group id="122" type="span" parent="123" relname="contrast"/>
+		<group id="114" type="span" parent="122" relname="span"/>
+		<group id="113" type="multinuc" parent="110" relname="cause-effect"/>
+		<group id="121" type="multinuc" parent="114" relname="elaboration"/>
+		<group id="120" type="span" parent="121" relname="joint"/>
+		<group id="119" type="multinuc" parent="120" relname="span"/>
+		<group id="144" type="span" parent="145" relname="sequence"/>
+		<group id="142" type="multinuc" parent="144" relname="span"/>
+		<group id="134" type="span" parent="142" relname="sequence"/>
+		<group id="128" type="multinuc" parent="134" relname="span"/>
+		<group id="127" type="multinuc" parent="128" relname="joint"/>
+		<group id="133" type="span" parent="128" relname="elaboration"/>
+		<group id="131" type="multinuc" parent="133" relname="span"/>
+		<group id="141" type="multinuc" parent="142" relname="sequence"/>
+		<group id="140" type="multinuc" parent="141" relname="contrast"/>
+		<group id="139" type="span" parent="140" relname="contrast"/>
+		<group id="300" type="multinuc" parent="301" relname="sequence"/>
+		<group id="168" type="multinuc" parent="300" relname="sequence"/>
+		<group id="152" type="multinuc" parent="168" relname="sequence"/>
+		<group id="151" type="span" parent="152" relname="contrast"/>
+		<group id="150" type="multinuc" parent="147" relname="interpretation-evaluation"/>
+		<group id="167" type="span" parent="168" relname="sequence"/>
+		<group id="155" type="multinuc" parent="167" relname="span"/>
+		<group id="166" type="span" parent="155" relname="elaboration"/>
+		<group id="158" type="multinuc" parent="166" relname="span"/>
+		<group id="165" type="span" parent="158" relname="elaboration"/>
+		<group id="161" type="span" parent="165" relname="span"/>
+		<group id="164" type="span" parent="161" relname="elaboration"/>
+		<group id="299" type="span" parent="300" relname="sequence"/>
+		<group id="298" type="multinuc" parent="299" relname="span"/>
+		<group id="190" type="multinuc" parent="298" relname="joint"/>
+		<group id="189" type="multinuc" parent="190" relname="joint"/>
+		<group id="173" type="multinuc" parent="189" relname="joint"/>
+		<group id="188" type="multinuc" parent="189" relname="joint"/>
+		<group id="178" type="multinuc" parent="188" relname="joint"/>
+		<group id="177" type="multinuc" parent="178" relname="joint"/>
+		<group id="187" type="span" parent="188" relname="joint"/>
+		<group id="181" type="multinuc" parent="187" relname="span"/>
+		<group id="186" type="multinuc" parent="181" relname="elaboration"/>
+		<group id="185" type="multinuc" parent="186" relname="joint"/>
+		<group id="297" type="multinuc" parent="298" relname="joint"/>
+		<group id="209" type="multinuc" parent="297" relname="joint"/>
+		<group id="195" type="span" parent="209" relname="joint"/>
+		<group id="194" type="multinuc" parent="191" relname="elaboration"/>
+		<group id="208" type="span" parent="209" relname="joint"/>
+		<group id="206" type="multinuc" parent="208" relname="span"/>
+		<group id="204" type="multinuc" parent="206" relname="contrast"/>
+		<group id="203" type="multinuc" parent="204" relname="joint"/>
+		<group id="202" type="span" parent="203" relname="sequence"/>
+		<group id="201" type="multinuc" parent="202" relname="span"/>
+		<group id="296" type="multinuc" parent="297" relname="joint"/>
+		<group id="244" type="span" parent="296" relname="joint"/>
+		<group id="220" type="span" parent="243" relname="preparation"/>
+		<group id="219" type="span" parent="210" relname="elaboration"/>
+		<group id="215" type="multinuc" parent="219" relname="span"/>
+		<group id="214" type="multinuc" parent="215" relname="joint"/>
+		<group id="218" type="span" parent="215" relname="elaboration"/>
+		<group id="243" type="span" parent="244" relname="span"/>
+		<group id="231" type="span" parent="243" relname="span"/>
+		<group id="230" type="span" parent="221" relname="elaboration"/>
+		<group id="229" type="span" parent="230" relname="span"/>
+		<group id="228" type="multinuc" parent="223" relname="elaboration"/>
+		<group id="227" type="multinuc" parent="228" relname="joint"/>
+		<group id="242" type="span" parent="231" relname="interpretation-evaluation"/>
+		<group id="241" type="multinuc" parent="242" relname="span"/>
+		<group id="240" type="span" parent="241" relname="contrast"/>
+		<group id="239" type="span" parent="234" relname="interpretation-evaluation"/>
+		<group id="238" type="multinuc" parent="235" relname="interpretation-evaluation"/>
+		<group id="295" type="multinuc" parent="296" relname="joint"/>
+		<group id="281" type="multinuc" parent="295" relname="joint"/>
+		<group id="269" type="multinuc" parent="281" relname="sequence"/>
+		<group id="268" type="multinuc" parent="269" relname="sequence"/>
+		<group id="267" type="multinuc" parent="268" relname="sequence"/>
+		<group id="266" type="multinuc" parent="267" relname="sequence"/>
+		<group id="250" type="multinuc" parent="266" relname="contrast"/>
+		<group id="265" type="span" parent="266" relname="contrast"/>
+		<group id="264" type="multinuc" parent="251" relname="evidence"/>
+		<group id="256" type="multinuc" parent="264" relname="sequence"/>
+		<group id="255" type="multinuc" parent="256" relname="sequence"/>
+		<group id="263" type="multinuc" parent="264" relname="sequence"/>
+		<group id="262" type="span" parent="263" relname="contrast"/>
+		<group id="261" type="multinuc" parent="258" relname="attribution"/>
+		<group id="280" type="span" parent="281" relname="sequence"/>
+		<group id="278" type="span" parent="280" relname="span"/>
+		<group id="276" type="multinuc" parent="278" relname="span"/>
+		<group id="275" type="multinuc" parent="276" relname="joint"/>
+		<group id="274" type="multinuc" parent="275" relname="joint"/>
+		<group id="294" type="span" parent="295" relname="joint"/>
+		<group id="293" type="span" parent="282" relname="evidence"/>
+		<group id="285" type="span" parent="293" relname="span"/>
+		<group id="292" type="multinuc" parent="285" relname="elaboration"/>
+		<group id="288" type="multinuc" parent="292" relname="sequence"/>
+		<group id="291" type="multinuc" parent="292" relname="sequence"/>
+		<group id="302" type="span"/>
+	</body>
+</rst>

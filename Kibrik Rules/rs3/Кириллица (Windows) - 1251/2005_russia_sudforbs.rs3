@@ -1,0 +1,112 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="47" parent="49" relname="span">Суд продлил срок ареста одному из обвиняемых в убийстве Пола Хлебникова\n\nБасманный суд Москвы в понедельник продлил до 9 декабря срок содержания под стражей одному из обвиняемых по делу об убийстве главного редактора русской версии журнала Forbes Пола Хлебникова - Казбеку Дуккузову.\n\nТаким образом суд удовлетворил ходатайство Генпрокуратуры,</segment>
+		<segment id="48" parent="47" relname="elaboration">которая просила продлить срок ареста до окончания сроков следствия,</segment>
+		<segment id="50" parent="49" relname="attribution">передает РИА \"Новости\".</segment>
+		<segment id="52" parent="56" relname="span">О решении по второму ходатайству Генпрокуратуры в отношении второго подозреваемого в убийстве,</segment>
+		<segment id="53" parent="55" relname="contrast">которое должно было также рассматриваться в понедельник,</segment>
+		<segment id="54" parent="55" relname="contrast">информации пока нет.\n\</segment>
+		<segment id="57" parent="59" relname="span">nВ качестве основания для продления срока предварительного заключения прокуратура указала то, что Дукузов обвиняется в преступлении,</segment>
+		<segment id="58" parent="57" relname="elaboration">которое относится к категории тяжких и особо тяжких.</segment>
+		<segment id="60" parent="62" relname="span">Кроме того, подсудимый выполнял организационную роль,</segment>
+		<segment id="61" parent="60" relname="elaboration">выступал в качестве исполнителя убийств,</segment>
+		<segment id="63" parent="62" relname="attribution">передает \"Интерфакс\".\n\nКак сообщал NEWSru.com,</segment>
+		<segment id="65" parent="64" relname="purpose">Басманный суд должен был рассмотреть ходатайство Генпрокуратуры РФ о продлении срока предварительного заключения двух обвиняемых в убийстве Хлебникова.</segment>
+		<segment id="69" parent="72" relname="attribution">По словам адвоката Руслана Хасанова,</segment>
+		<segment id="70" parent="71" relname="attribution">представляющего интересы обвиняемых Казбека Дукузова и Мусы Вахаева,</segment>
+		<segment id="71" parent="72" relname="span">\"прокуратура просит продлить срок содержания под стражей обоим еще на два месяца\".\n\nРанее Басманный суд Москвы продлил до 9 октября срок содержания под стражей Дукузову и Вахаева.</segment>
+		<segment id="74" parent="80" relname="span">\"Ни Вахаев, ни Дукузов не признают себя виновными.</segment>
+		<segment id="75" parent="78" relname="attribution">Они подчеркивают,</segment>
+		<segment id="76" parent="78" relname="joint">что у них не было мотивов на убийство,</segment>
+		<segment id="77" parent="78" relname="joint">кроме того, у них есть алиби\",</segment>
+		<segment id="81" parent="80" relname="attribution">- заявил адвокат Хасанов.\n\</segment>
+		<segment id="85" parent="87" relname="joint">nКак сами обвиняемые,</segment>
+		<segment id="86" parent="87" relname="joint">так и их защита полностью отрицают версию следствия о том, что убили Хлебникова по заказу полевого командира Хож-Ахмед Нухаева.</segment>
+		<segment id="88" parent="92" relname="span">\"Обвиняемые не были с ним даже знакомы\",</segment>
+		<segment id="89" parent="91" relname="span">- подчеркнул адвокат.\n\nРедактор русской версии журнала Forbes Пол Хлебников был застрелен в Москве 9 июля 2004 года у выхода из здания,</segment>
+		<segment id="90" parent="89" relname="background">где располагается офис редакции журнала.</segment>
+		<segment id="94" parent="103" relname="attribution">По данным следствия,</segment>
+		<segment id="95" parent="97" relname="span">убийство совершено участниками организованной преступной группы,</segment>
+		<segment id="96" parent="95" relname="elaboration">в состав которой входили жители Чеченской Республики Казбек Дукузов, его брат Магомед Дукузов, Муса Вахаев, Магомед Эдильсултанов и другие.\n\nДанное преступное сообщество,</segment>
+		<segment id="98" parent="97" relname="attribution">отметили в Генпрокуратуре,</segment>
+		<segment id="100" parent="102" relname="span">было создано в 2002 году в Москве</segment>
+		<segment id="101" parent="100" relname="purpose">в целях совершения вымогательств и убийств по найму.</segment>
+		<segment id="105" parent="109" relname="span">Заказчиком назван житель Чечни Хож-Ахмед Нухаев,</segment>
+		<segment id="106" parent="108" relname="sequence">один из известных деятелей так называемого \"ичкерийского правительства\".\n\nВахаев был задержан 18 ноября прошлого года</segment>
+		<segment id="107" parent="108" relname="sequence">и на следующий день суд санкционировал его арест.</segment>
+		<segment id="111" parent="115" relname="span">\"Нухаев предложил участникам преступной группы за вознаграждение убить Хлебникова,</segment>
+		<segment id="112" parent="113" relname="cause-effect">поскольку журналист в своей книге \"Разговор с Варваром\" негативно отзывался о Нухаеве</segment>
+		<segment id="113" parent="114" relname="span">и критиковал его высказывания\",</segment>
+		<segment id="116" parent="123" relname="attribution">- отмечается в сообщении Генпрокуратуры.\n\nКроме убийства Хлебникова,</segment>
+		<segment id="117" parent="123" relname="joint">членам этой преступной группы вменяются убийство бывшего заместителя председателя правительства Чеченской республики Яна Сергунина,</segment>
+		<segment id="118" parent="122" relname="same-unit">совершенное 25 июня 2004 года в Москве,</segment>
+		<segment id="119" parent="121" relname="joint">покушение на убийство предпринимателя Алексея Пичугина, разбой и вымогательство,</segment>
+		<segment id="120" parent="121" relname="joint">сообщили в Генпрокуратуре.\n\nВ рамках дела Нухаеву предъявлено обвинение в совершении убийства Хлебникова, Эдильсултанову и Дукузову - в совершении убийства Хлебникова и Сергунина.</segment>
+		<segment id="126" parent="130" relname="joint">Кроме того Дукузову предъявлено обвинение в совершении убийств Хлебникова и Сергунина и в покушении на убийство Пичугина, разбое и других преступлениях</segment>
+		<segment id="127" parent="129" relname="span">.\n\nВахаев обвиняется в убийстве Хлебникова, покушении на убийство Пичугина и вымогательстве,</segment>
+		<segment id="128" parent="127" relname="attribution">сообщили в Генпрокуратуре.</segment>
+		<segment id="131" parent="132" relname="joint">Нухаев, Эдильсултанов и Дукузов объявлены в розыск.\n\nИсточник: https://www.newsru.com/russia/26Sep2005/sudforbs.html\n</segment>
+		<group id="51" type="span" parent="136" relname="preparation"/>
+		<group id="49" type="span" parent="51" relname="span"/>
+		<group id="136" type="multinuc" parent="137" relname="span"/>
+		<group id="84" type="multinuc" parent="136" relname="joint"/>
+		<group id="68" type="multinuc" parent="84" relname="joint"/>
+		<group id="56" type="span" parent="68" relname="joint"/>
+		<group id="55" type="multinuc" parent="52" relname="elaboration"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="59" type="span" parent="67" relname="joint"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="64" type="span" parent="66" relname="span"/>
+		<group id="62" type="span" parent="64" relname="span"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="73" type="span" parent="83" relname="joint"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="82" type="span" parent="83" relname="joint"/>
+		<group id="80" type="span" parent="82" relname="span"/>
+		<group id="79" type="span" parent="74" relname="elaboration"/>
+		<group id="78" type="multinuc" parent="79" relname="span"/>
+		<group id="135" type="multinuc" parent="136" relname="joint"/>
+		<group id="93" type="span" parent="135" relname="joint"/>
+		<group id="87" type="multinuc" parent="93" relname="span"/>
+		<group id="92" type="span" parent="87" relname="elaboration"/>
+		<group id="91" type="span" parent="88" relname="attribution"/>
+		<group id="134" type="multinuc" parent="135" relname="joint"/>
+		<group id="110" type="multinuc" parent="134" relname="joint"/>
+		<group id="104" type="span" parent="110" relname="joint"/>
+		<group id="103" type="span" parent="104" relname="span"/>
+		<group id="99" type="span" parent="103" relname="span"/>
+		<group id="97" type="span" parent="99" relname="span"/>
+		<group id="102" type="span" parent="99" relname="background"/>
+		<group id="109" type="span" parent="110" relname="joint"/>
+		<group id="108" type="multinuc" parent="105" relname="elaboration"/>
+		<group id="133" type="multinuc" parent="134" relname="joint"/>
+		<group id="125" type="multinuc" parent="133" relname="joint"/>
+		<group id="115" type="span" parent="125" relname="joint"/>
+		<group id="114" type="span" parent="111" relname="cause-effect"/>
+		<group id="124" type="span" parent="125" relname="joint"/>
+		<group id="123" type="multinuc" parent="124" relname="span"/>
+		<group id="122" type="multinuc" parent="123" relname="joint"/>
+		<group id="121" type="multinuc" parent="122" relname="same-unit"/>
+		<group id="132" type="multinuc" parent="133" relname="joint"/>
+		<group id="130" type="multinuc" parent="132" relname="joint"/>
+		<group id="129" type="span" parent="130" relname="joint"/>
+		<group id="137" type="span"/>
+	</body>
+</rst>

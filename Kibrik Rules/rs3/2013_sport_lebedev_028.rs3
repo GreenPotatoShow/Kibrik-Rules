@@ -1,0 +1,60 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="25" relname="attribution">Минюст проверит финансовую деятельность РФС\n\nЗаместитель председателя Государственной Думы РФ Игорь Лебедев сообщил,</segment>
+		<segment id="23" parent="24" relname="attribution">что по его запросу</segment>
+		<segment id="24" parent="25" relname="span">Министерство юстиции планирует осуществить проверку финансовой деятельности Российского футбольного союза в 2015 году.</segment>
+		<segment id="27" parent="30" relname="preparation">Напомним, с соответствующей инициативой представитель ЛДПР выступил в начале декабря.\n\n\"Получил ответ из Минюста по моему запросу о проверке деятельности РФС.</segment>
+		<segment id="28" parent="29" relname="preparation">Мое обращение будет учтено при составлении плана проверок на 2015 год.</segment>
+		<segment id="29" parent="30" relname="span">Минюст все планирует заранее.</segment>
+		<segment id="32" parent="38" relname="span">Оснований для внеплановой проверки Минюст не находит.</segment>
+		<segment id="33" parent="34" relname="condition">Что касается несоблюдением РФС требований закона о ежегодном опубликовании отчетов о финансовой деятельности,</segment>
+		<segment id="34" parent="35" relname="span">то в адрес РФС будет направлен запрос, но уже от Минюста.</segment>
+		<segment id="36" parent="35" relname="interpretation-evaluation">Ждем ответа\",</segment>
+		<segment id="40" parent="39" relname="attribution">— написал Лебедев в своем Twitter</segment>
+		<segment id="43" parent="47" relname="joint">.\n\nРанее Лебедев выступил с просьбой принять комплекс антикризисных мер и</segment>
+		<segment id="44" parent="46" relname="span">при необходимости ввести внешнее управление экономической деятельности РФС,</segment>
+		<segment id="45" parent="44" relname="condition">отстранив от этого президента РФС Николая Толстых</segment>
+		<segment id="48" parent="50" relname="span">.\n\nФИФА запрещает вмешательство в деятельность футбольных федераций\n\nОтметим, что действия депутатов теоретически могут повлиять на перспективы выступления сборной России на чемпионате мира по футболу,</segment>
+		<segment id="49" parent="48" relname="background">куда наша команда пробилась впервые за 12 лет.</segment>
+		<segment id="52" parent="57" relname="attribution">ФИФА категорически запрещает вмешательство государства в деятельность национальных футбольных федераций.\n\nВ официальной книге правил ФИФА (статья 13.1.) говорится,</segment>
+		<segment id="53" parent="57" relname="joint">что национальные федерации обязаны вести свои дела самостоятельно</segment>
+		<segment id="54" parent="56" relname="span">и обеспечивать,</segment>
+		<segment id="55" parent="54" relname="purpose">чтобы в них не вмешивались третьи лица.\n\nНаказанием за подобное вмешательство является отстранение команд от участия в турнирах, проводимых под эгидой ФИФА.</segment>
+		<segment id="59" parent="58" relname="interpretation-evaluation">И подобных прецедентов существует довольно много.\n\nИсточник: https://www.newsru.com/sport/27Dec2013/lebedev.html\n</segment>
+		<group id="42" type="span" parent="62" relname="joint"/>
+		<group id="26" type="span" parent="41" relname="preparation"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="39" type="span" parent="41" relname="span"/>
+		<group id="31" type="span" parent="39" relname="span"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="38" type="span" parent="31" relname="purpose"/>
+		<group id="37" type="span" parent="32" relname="elaboration"/>
+		<group id="35" type="span" parent="37" relname="span"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="51" type="multinuc" parent="61" relname="joint"/>
+		<group id="47" type="multinuc" parent="51" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="58" type="span" parent="60" relname="span"/>
+		<group id="57" type="multinuc" parent="58" relname="span"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="62" type="multinuc"/>
+	</body>
+</rst>

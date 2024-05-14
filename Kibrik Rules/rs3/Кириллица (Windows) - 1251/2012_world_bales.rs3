@@ -1,0 +1,48 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="25" relname="span">Афганцы по спутнику свидетельствуют на суде против американского сержанта,</segment>
+		<segment id="20" parent="24" relname="joint">расстрелявшего 16 человек\n\nВ США на судебном процессе по делу бывшего сержанта Роберта Бейлса,</segment>
+		<segment id="21" parent="23" relname="joint">обвиняемого в убийстве 16 афганских мирных жителей,</segment>
+		<segment id="22" parent="23" relname="joint">показания дают свидетели стрельбы в двух селениях в провинции Кандагар.\n\nДопрос свидетелей-афганцев ведется посредством спутниковой связи.</segment>
+		<segment id="26" parent="28" relname="span">В субботу показания давали трое афганских детей,</segment>
+		<segment id="27" parent="26" relname="elaboration">родственники которых погибли от рук сержанта.</segment>
+		<segment id="29" parent="31" relname="joint">Они рассказали о том, как Бейлс врывался в их дома</segment>
+		<segment id="30" parent="31" relname="joint">и стрелял по людям</segment>
+		<segment id="34" parent="42" relname="same-unit">.\n\nКак отмечает радио \"Свобода\",</segment>
+		<segment id="35" parent="36" relname="attribution">вопреки версии афганской стороны о том,</segment>
+		<segment id="36" parent="37" relname="span">что убийца действовал не один,</segment>
+		<segment id="38" parent="39" relname="attribution">пока все свидетели показали,</segment>
+		<segment id="39" parent="40" relname="span">что сержант действовал в одиночку.</segment>
+		<segment id="43" parent="44" relname="attribution">Сам он ранее заявлял,</segment>
+		<segment id="44" parent="45" relname="span">что об учиненной им бойне ничего не помнит.\n\nТрагедия произошла в марте этого года.</segment>
+		<segment id="46" parent="50" relname="span">Американский военнослужащий Роберт Бэйлс устроил бойню в ночь на 11 марта.</segment>
+		<segment id="47" parent="49" relname="span">В двух афганских селениях он расстрелял 16 человек,</segment>
+		<segment id="48" parent="47" relname="elaboration">в том числе девятерых детей и трех женщин.\n\nИсточник: https://www.newsru.com/world/11Nov2012/bales.html\n</segment>
+		<group id="33" type="span" parent="53" relname="joint"/>
+		<group id="25" type="span" parent="33" relname="span"/>
+		<group id="24" type="multinuc" parent="19" relname="elaboration"/>
+		<group id="23" type="multinuc" parent="24" relname="joint"/>
+		<group id="32" type="multinuc" parent="25" relname="elaboration"/>
+		<group id="28" type="span" parent="32" relname="joint"/>
+		<group id="31" type="multinuc" parent="32" relname="joint"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="42" type="multinuc" parent="52" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="same-unit"/>
+		<group id="37" type="span" parent="41" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="45" type="span" parent="51" relname="span"/>
+		<group id="50" type="span" parent="45" relname="elaboration"/>
+		<group id="49" type="span" parent="46" relname="elaboration"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

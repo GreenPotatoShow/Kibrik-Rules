@@ -1,0 +1,68 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="30" relname="comparison">Правительство ФРГ не будет о официально принимать Ахмеда Закаева\n\nПосольство Германии в России официально подтвердило,</segment>
+		<segment id="27" parent="29" relname="span">что Ахмед Закаев находится на территории Германии.\n\n\"Господин Закаев находится в Германии не по приглашению федерального правительства.</segment>
+		<segment id="28" parent="27" relname="interpretation-evaluation">Оно не будет его также официально принимать\",</segment>
+		<segment id="31" parent="32" relname="attribution">- заявил в четверг представитель посольства.\n\nДипломат также отметил,</segment>
+		<segment id="32" parent="33" relname="span">что, \"по нашим сведениям, господина Закаева пригласили в Германию депутаты германского бундестага\",</segment>
+		<segment id="34" parent="35" relname="cause-effect">сообщает \"Интерфакс\".\n\n\"Закаев получил политическое убежище в Великобритании</segment>
+		<segment id="35" parent="36" relname="span">и поэтому имеет возможность свободно передвигаться в границах Европейского Союза\",</segment>
+		<segment id="38" parent="37" relname="attribution">- сказал дипломат</segment>
+		<segment id="41" parent="50" relname="attribution">.\n\nОн подчеркнул,</segment>
+		<segment id="42" parent="44" relname="span">что визит Закаева в Германию \"не затрагивает позицию федерального правительства по чеченскому вопросу,</segment>
+		<segment id="43" parent="42" relname="elaboration">она остается неизменной\".\n\n\"Мы всегда выступали за политическое решение конфликта;</segment>
+		<segment id="45" parent="49" relname="joint">территориальная целостность РФ не ставится под сомнение;</segment>
+		<segment id="46" parent="48" relname="joint">мы осуждаем терроризм в любой его форме;</segment>
+		<segment id="47" parent="48" relname="joint">центральное значение имеет обеспечение соблюдения прав человека и улучшении гуманитарной ситуации в Чечне\",</segment>
+		<segment id="52" parent="51" relname="attribution">- раскрыл суть отношения Берлина к \"чеченскому вопросу\" германский дипломат.\n\</segment>
+		<segment id="54" parent="58" relname="sequence">nНапомним, что Национальное центральное бюро (НЦБ) Интерпола при МВД России направило запрос в Германию по поводу приезда туда чеченского эмиссара Ахмеда Закаева.\n\nИсточник в НЦБ сообщил,</segment>
+		<segment id="55" parent="57" relname="span">что запрос был направлен сразу после того, как сообщение о прибытии Закаева в Германию появились в СМИ.\n\n\"Мы спросили у немецкой стороны,</segment>
+		<segment id="56" parent="55" relname="interpretation-evaluation">действительно ли Закаев находится в Германии.</segment>
+		<segment id="59" parent="60" relname="condition">Если - да,</segment>
+		<segment id="60" parent="61" relname="span">то извольте исполнять международные обязательства\",</segment>
+		<segment id="62" parent="61" relname="attribution">- отметил он.</segment>
+		<segment id="65" parent="67" relname="sequence">Речь идет о договоренностях между РФ и Германией о взаимной выдаче лиц, находящихся в международном розыске.\n\nВ Генпрокуратуре России напомнили,</segment>
+		<segment id="66" parent="67" relname="sequence">что Закаев в свое время был объявлен в международный розыск.</segment>
+		<segment id="68" parent="70" relname="span">\"Всеми остальными вопросами должен заниматься Интерпол по своим каналам\",</segment>
+		<segment id="69" parent="68" relname="attribution">- сказал представитель Генпрокуратуры РФ.\n\nИсточник: https://www.newsru.com/world/29Jan2004/confirm.html\n</segment>
+		<group id="40" type="span" parent="74" relname="joint"/>
+		<group id="30" type="multinuc" parent="40" relname="span"/>
+		<group id="29" type="span" parent="30" relname="comparison"/>
+		<group id="39" type="span" parent="30" relname="interpretation-evaluation"/>
+		<group id="37" type="multinuc" parent="39" relname="span"/>
+		<group id="33" type="span" parent="37" relname="joint"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="53" type="span" parent="73" relname="joint"/>
+		<group id="51" type="span" parent="53" relname="span"/>
+		<group id="50" type="multinuc" parent="51" relname="span"/>
+		<group id="44" type="span" parent="50" relname="joint"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="64" type="span" parent="72" relname="joint"/>
+		<group id="58" type="multinuc" parent="63" relname="solutionhood"/>
+		<group id="57" type="span" parent="58" relname="sequence"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="61" type="span" parent="63" relname="span"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="67" type="multinuc" parent="71" relname="joint"/>
+		<group id="70" type="span" parent="71" relname="joint"/>
+		<group id="74" type="multinuc"/>
+	</body>
+</rst>

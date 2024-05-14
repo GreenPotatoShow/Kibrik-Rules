@@ -1,0 +1,93 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="38" parent="109" relname="preparation">Военные моряки Евросоюза отбили у сомалийских пиратов германский контейнеровоз Taipan\n\nВоенные моряки Евросоюза отбили у сомалийских пиратов германский контейнеровоз Taipan.\n\</segment>
+		<segment id="39" parent="41" relname="span">nПо сообщению пресс-службы ВМС Европейского союза,</segment>
+		<segment id="40" parent="39" relname="elaboration">ведущих борьбу с пиратством в Индийском океане,</segment>
+		<segment id="42" parent="43" relname="same-unit">5 апреля пираты захватили Taipan в 500 милях от африканского побережья.</segment>
+		<segment id="44" parent="46" relname="span">В экипаж контейнеровоза входят 13 человек: два гражданина Германии, три - России, восемь - Шри Ланки,</segment>
+		<segment id="45" parent="44" relname="attribution">передает ИТАР-ТАСС</segment>
+		<segment id="47" parent="48" relname="cause-effect">.\n\n- Французы обезвредили пиратскую шайку\n- Южнокорейский Samho Dream приведен в Сомали\n\nСудно грузоподъемностью более 12 тысяч тонн следовало из Джибути в кенийский порт Момбаса.\n\nЭкипаж Taipan успел дать информацию об атаке бандитов</segment>
+		<segment id="48" parent="49" relname="span">и укрылся в недоступном для них помещении.\n\</segment>
+		<segment id="52" parent="56" relname="sequence">nНа помощь контейнеровозу был направлен вертолет с входящего в группировку ВМС Евросоюза голландского фрегата Tromp.\n\nНаходившихся на капитанском мостике захватчиков обстреляли с воздуха,</segment>
+		<segment id="53" parent="55" relname="sequence">затем с вертолета по канатам спустились голландские военные моряки</segment>
+		<segment id="54" parent="55" relname="sequence">и арестовали десять пиратов.\n\nСейчас преступники находятся на борту фрегата.</segment>
+		<segment id="57" parent="59" relname="span">Вопрос о том, что делать с ними дальше,</segment>
+		<segment id="58" parent="57" relname="condition">пока не решен,</segment>
+		<segment id="60" parent="62" relname="joint">сообщили представители голландского военного ведомства.\n\nНикто из членов экипажа германского судна не пострадал,</segment>
+		<segment id="61" parent="62" relname="joint">и контейнеровоз смог продолжить свой путь.</segment>
+		<segment id="65" parent="71" relname="joint">Один из голландских военных получил легкое ранение в ходе перестрелки с пиратами</segment>
+		<segment id="66" parent="70" relname="joint">.\n\nГолландский фрегат принимает участие в операции военно-морской миссии ЕС \"Аталанта\",</segment>
+		<segment id="67" parent="69" relname="joint">призванной обеспечивать безопасное морское сообщение</segment>
+		<segment id="68" parent="69" relname="joint">и патрулировать воды у берегов Сомали.\n\nФранцузы обезвредили пиратскую шайку\n\</segment>
+		<segment id="72" parent="106" relname="span">nНакануне французский сторожевик \"Нивоз\" обезвредил в Индийском океане шайку пиратов из семи человек.</segment>
+		<segment id="73" parent="79" relname="joint">В арсенале бандитов было \"легкое стрелковое оружие и штурмовые лестницы\".\n\nЧетвертого апреля шведский патрульный самолет обнаружил в 270 милях к востоку от Могадишо (порт в Сомали)</segment>
+		<segment id="74" parent="78" relname="span">два подозреваемых в пиратстве судна:</segment>
+		<segment id="75" parent="77" relname="span">одно из них было базой, второе - скоростной лодкой</segment>
+		<segment id="76" parent="75" relname="purpose">для атаки на проходящие транспорты.\n\nНа перехват был направлен французский корабль \"Нивоз\".</segment>
+		<segment id="80" parent="86" relname="span">С него поднялся вертолет с группой захвата,</segment>
+		<segment id="81" parent="85" relname="span">которая арестовала семерых корсаров.\n\nЭто уже четвертая успешная операция \"Нивоза\" по пресечению морского разбоя с тех пор,</segment>
+		<segment id="82" parent="84" relname="span">как французский корабль присоединился к Военно-морским силам Евросоюза,</segment>
+		<segment id="83" parent="82" relname="elaboration">ведущим в Индийском океане борьбу с пиратством.\n\nЮжнокорейский Samho Dream приведен в Сомали\n\nМежду тем корейский супертанкер Samho Dream, захваченный пиратами утром 4 апреля, приведен к побережью Сомали.\n\nЭкипаж судна - 24 человека (пять корейцев, 19 филиппинцев),</segment>
+		<segment id="87" parent="86" relname="attribution">сообщила пресс-служба Военно-морских сил Европейского союза,</segment>
+		<segment id="90" parent="96" relname="joint">ведущих борьбу с морскими бандитами в Индийском океане,</segment>
+		<segment id="91" parent="94" relname="attribution">и выразила надежду,</segment>
+		<segment id="92" parent="94" relname="joint">что все члены экипажа живы</segment>
+		<segment id="93" parent="94" relname="joint">и здоровы.\n\nДедвейт попавшего в плен к пиратам танкера Samho Dream - 319 тыс. 360 тонн.</segment>
+		<segment id="97" parent="101" relname="sequence">Судно, груженое нефтью, шло из Ирака в США.</segment>
+		<segment id="98" parent="100" relname="span">Пираты напали на Samho Dream в 600 милях от африканского побережья.\n\nОни не в первый раз атакуют принадлежащие Южной Корее суда.</segment>
+		<segment id="99" parent="98" relname="elaboration">В частности, в сентябре 2008 года был захвачен южнокорейский сухогруз с 22 членами экипажа.</segment>
+		<segment id="102" parent="103" relname="joint">Судно и моряки были освобождены пиратами после получения выкупа.\n\nИсточник: https://www.newsru.com/world/06Apr2010/otbili.html\n</segment>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="51" type="multinuc" parent="109" relname="joint"/>
+		<group id="43" type="multinuc" parent="51" relname="joint"/>
+		<group id="41" type="span" parent="43" relname="same-unit"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="46" type="span" parent="50" relname="joint"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="64" type="multinuc" parent="108" relname="joint"/>
+		<group id="56" type="multinuc" parent="64" relname="joint"/>
+		<group id="55" type="multinuc" parent="56" relname="sequence"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="59" type="span" parent="62" relname="solutionhood"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="71" type="multinuc" parent="107" relname="joint"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="105" type="multinuc" parent="72" relname="elaboration"/>
+		<group id="89" type="multinuc" parent="105" relname="joint"/>
+		<group id="79" type="multinuc" parent="89" relname="joint"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="77" type="span" parent="74" relname="elaboration"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="86" type="span" parent="88" relname="span"/>
+		<group id="85" type="span" parent="80" relname="elaboration"/>
+		<group id="84" type="span" parent="81" relname="elaboration"/>
+		<group id="104" type="multinuc" parent="105" relname="joint"/>
+		<group id="96" type="multinuc" parent="104" relname="joint"/>
+		<group id="95" type="span" parent="96" relname="joint"/>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="101" type="multinuc" parent="103" relname="joint"/>
+		<group id="100" type="span" parent="101" relname="sequence"/>
+		<group id="110" type="span"/>
+	</body>
+</rst>

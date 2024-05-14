@@ -1,0 +1,80 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="35" relname="span">Белоруссия высылает двух иностранцев, подозреваемых в шпионаже\n\nБелоруссия объявила персонами нон грата двух иностранных граждан, подозреваемых в шпионаже,</segment>
+		<segment id="34" parent="33" relname="attribution">заявил председатель Комитета государственной безопасности Валерий Вакульчик журналистам в Минске.</segment>
+		<segment id="36" parent="38" relname="span">Его слова приводит \"Интерфакс\".\n\n\"На этой неделе двоих человек, мы скажем так,</segment>
+		<segment id="37" parent="36" relname="background">объявили персонами нон грата\",</segment>
+		<segment id="40" parent="41" relname="attribution">- сказал Вакульчик,</segment>
+		<segment id="41" parent="42" relname="span">не уточнив, гражданами какой страны они являются.</segment>
+		<segment id="44" parent="51" relname="attribution">Он пояснил,</segment>
+		<segment id="45" parent="51" relname="joint">что вопросы, касающиеся шпионской деятельности, связаны \"и с внешней политикой, отношениями между государствами\",</segment>
+		<segment id="46" parent="47" relname="attribution">и проинформировал,</segment>
+		<segment id="47" parent="48" relname="span">что в прошлом месяце спецслужбы задержали некоего шпиона,</segment>
+		<segment id="49" parent="48" relname="attribution">передает ТАСС</segment>
+		<segment id="53" parent="56" relname="attribution">.\n\nГлава КГБ также сказал,</segment>
+		<segment id="54" parent="56" relname="span">что осужденный в республике за шпионаж гражданин Украины Павел Шаройко может быть помилован:</segment>
+		<segment id="55" parent="54" relname="cause-effect">его судьбу решит соответствующая комиссия.</segment>
+		<segment id="58" parent="59" relname="joint">Напомним, сотрудника главного управления разведки Минобороны Украины Павла Шаройко задержали в октябре прошлого года.</segment>
+		<segment id="60" parent="63" relname="attribution">По версии следствия,</segment>
+		<segment id="61" parent="63" relname="joint">он создал агентурную сеть из граждан Белоруссии</segment>
+		<segment id="62" parent="63" relname="joint">и платил им за сбор разведывательной информации в военно-политической сфере.\n\</segment>
+		<segment id="65" parent="66" relname="attribution">nУже после задержания Шаройко признался,</segment>
+		<segment id="66" parent="67" relname="span">что он является сотрудником кадрового аппарата военной разведки Украины в звании полковника, работающим под прикрытием.</segment>
+		<segment id="69" parent="74" relname="attribution">Он также подтвердил,</segment>
+		<segment id="70" parent="72" relname="span">что координацию его разведывательной деятельности осуществлял сотрудник главного управления разведки Минобороны Украины Игорь Скворцов,</segment>
+		<segment id="71" parent="70" relname="elaboration">действовавший под прикрытием должности советника посольства Украины в Белоруссии.\n\nПо решению белорусских властей</segment>
+		<segment id="73" parent="72" relname="cause-effect">за деятельность, несовместимую с дипломатическим статусом, Скворцов был объявлен персоной нон грата.</segment>
+		<segment id="76" parent="77" relname="joint">После задержания Шаройко КГБ направило в МИД Белоруссии материалы, подтверждающие противоправную деятельность спецслужб Украины.</segment>
+		<segment id="82" parent="85" relname="attribution">Коллеги Шаройко рассказали,</segment>
+		<segment id="83" parent="85" relname="span">что последние его материалы касались переговоров трехсторонней группы по Украине и пропавшего в Гомеле украинца Павла Гриба.\n\nПо делу о шпионаже в пользу Украины также был задержан один гражданин Белоруссии,</segment>
+		<segment id="84" parent="83" relname="background">который уже признал свою вину признал</segment>
+		<segment id="87" parent="90" relname="attribution">и сообщил,</segment>
+		<segment id="88" parent="89" relname="cause-effect">что по заданию украинской военной разведки</segment>
+		<segment id="89" parent="90" relname="span">за денежное вознаграждение занимался сбором и передачей информации об обороноспособности страны.</segment>
+		<segment id="93" parent="92" relname="elaboration">В отношении него возбуждено уголовное дело по ст. 356 УК Белоруссии (\"Измена государству\").\n\nИсточник: https://www.newsru.com/world/05Oct2018/two_spies.html\n</segment>
+		<group id="81" type="multinuc" parent="95" relname="joint"/>
+		<group id="43" type="span" parent="81" relname="joint"/>
+		<group id="39" type="span" parent="43" relname="span"/>
+		<group id="35" type="span" parent="39" relname="span"/>
+		<group id="38" type="span" parent="35" relname="interpretation-evaluation"/>
+		<group id="42" type="span" parent="39" relname="attribution"/>
+		<group id="80" type="multinuc" parent="81" relname="joint"/>
+		<group id="52" type="span" parent="80" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="span"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="48" type="span" parent="50" relname="span"/>
+		<group id="79" type="multinuc" parent="80" relname="joint"/>
+		<group id="59" type="multinuc" parent="79" relname="joint"/>
+		<group id="57" type="span" parent="59" relname="joint"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="68" type="multinuc" parent="78" relname="joint"/>
+		<group id="64" type="span" parent="68" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="67" type="span" parent="68" relname="joint"/>
+		<group id="77" type="multinuc" parent="78" relname="joint"/>
+		<group id="75" type="span" parent="77" relname="joint"/>
+		<group id="74" type="span" parent="75" relname="span"/>
+		<group id="72" type="span" parent="74" relname="span"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="92" type="multinuc" parent="94" relname="span"/>
+		<group id="86" type="span" parent="92" relname="joint"/>
+		<group id="85" type="span" parent="86" relname="span"/>
+		<group id="91" type="span" parent="92" relname="joint"/>
+		<group id="90" type="span" parent="91" relname="span"/>
+		<group id="95" type="multinuc"/>
+	</body>
+</rst>

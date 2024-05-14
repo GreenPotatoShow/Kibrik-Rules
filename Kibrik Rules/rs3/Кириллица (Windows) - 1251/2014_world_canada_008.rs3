@@ -1,0 +1,95 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="39" parent="45" relname="same-unit">Канада выдворяет российского дипломата:</segment>
+		<segment id="40" parent="42" relname="span">ему дали две недели,</segment>
+		<segment id="41" parent="40" relname="purpose">чтобы покинуть страну,</segment>
+		<segment id="43" parent="42" relname="attribution">утверждает пресса\n\</segment>
+		<segment id="46" parent="50" relname="span">nНа фоне ухудшения отношений между Россией и Канадой,</segment>
+		<segment id="47" parent="49" relname="joint">которая поддержала санкции США в отношении российских чиновников и компаний</segment>
+		<segment id="48" parent="49" relname="joint">и накануне обвинила РФ в потворстве беспорядкам на востоке Украины,</segment>
+		<segment id="51" parent="57" relname="joint">канадские власти решили выслать заместителя военного атташе Юрия Безлера.</segment>
+		<segment id="52" parent="56" relname="comparison">От дипломата потребовали покинуть страну в двухнедельный срок,</segment>
+		<segment id="53" parent="54" relname="attribution">сообщают канадские и американские СМИ.\n\nНапример, Ottawa Citizen передает со ссылкой на свои источники,</segment>
+		<segment id="54" parent="55" relname="span">что по крайней мере один российский дипломат - подполковник Безлер - должен уехать из страны по распоряжению властей.</segment>
+		<segment id="59" parent="60" relname="attribution">Издание отмечает,</segment>
+		<segment id="60" parent="61" relname="span">что Безлер является одним из трех сотрудников военного атташата при посольстве РФ в Канаде.</segment>
+		<segment id="62" parent="65" relname="attribution">По данным издания,</segment>
+		<segment id="63" parent="65" relname="joint">он работал в посольстве РФ в Канаде менее года.\n\nОтметим, что причины такого шага канадская сторона пока не объяснила,</segment>
+		<segment id="64" parent="65" relname="joint">также неизвестно, связано ли это с ситуацией вокруг Украины.</segment>
+		<segment id="67" parent="68" relname="joint">МИД РФ пока тоже не прокомментировал эту информацию.\n\nТо же сообщают и другие СМИ.</segment>
+		<segment id="70" parent="73" relname="attribution">Источники CBC News рассказали,</segment>
+		<segment id="71" parent="73" relname="span">что Безлеру дали две недели,</segment>
+		<segment id="72" parent="71" relname="purpose">чтобы он смог покинуть Канаду.</segment>
+		<segment id="75" parent="85" relname="span">В МИДе Канады отказались комментировать информацию о выдворении российского дипломата:</segment>
+		<segment id="76" parent="84" relname="joint">\"Мы не даем комментариев по поводу статуса дипломатического персонала\".</segment>
+		<segment id="77" parent="82" relname="attribution">Между тем источники не сообщают,</segment>
+		<segment id="78" parent="81" relname="solutionhood">были ли объявлены персонами нон грата</segment>
+		<segment id="79" parent="80" relname="attribution">другие представители дипведомства России.\n\nИсточники CTV News также подтвердили,</segment>
+		<segment id="80" parent="81" relname="span">что Безлера обязали покинуть Канаду в двухнедельный срок.</segment>
+		<segment id="86" parent="88" relname="span">Кроме того, отмечается, что это случилось на следующий день после того, как канадская сторона обвинила Россию в поощрении беспорядков в восточных областях Украины.\n\nЗаметим, что Канада является одним из ярых сторонников применения санкций в отношении России</segment>
+		<segment id="87" parent="86" relname="cause-effect">из-за присоединения Крыма.</segment>
+		<segment id="89" parent="88" relname="elaboration">Седьмого марта Оттава потребовала отъезда девяти российских военнослужащих, находившихся в Канаде по линии двустороннего военного сотрудничества.</segment>
+		<segment id="91" parent="95" relname="span">18 марта канадские власти ввели санкции в отношении семи российских и трех крымских должностных лиц,</segment>
+		<segment id="92" parent="93" relname="attribution">которые, по утверждению официальной Оттавы,</segment>
+		<segment id="93" parent="94" relname="span">\"несут политическую ответственность за кризис\" на Украине.\n\nОднако на этом санкции Канады не закончились.</segment>
+		<segment id="96" parent="102" relname="joint">Спустя четыре дня, 22 марта, страна добавила еще 14 фамилий в свой \"черный список\" российских официальных лиц.</segment>
+		<segment id="97" parent="101" relname="joint">Кроме того, Канада присоединилась к санкциям США в отношении банка \"Россия\".\n\nРоссия ответила на санкции Канады.</segment>
+		<segment id="98" parent="100" relname="span">\"В связи с введенными Правительством Канады санкциями в контексте ситуации на Украине и в Крыму против ряда российских официальных лиц и депутатов Федерального собрания</segment>
+		<segment id="99" parent="98" relname="elaboration">Министерство иностранных дел Российской Федерации объявляет о санкциях в отношении канадских граждан из числа высокопоставленных чиновников, парламентариев и общественных деятелей\",</segment>
+		<segment id="103" parent="104" relname="attribution">- заявили в МИДе России,</segment>
+		<segment id="104" parent="105" relname="span">предоставив ответный список из 13 канадских граждан.\n\nИсточник: https://www.newsru.com/world/08Apr2014/canada.html\n</segment>
+		<group id="45" type="multinuc" parent="112" relname="preparation"/>
+		<group id="44" type="span" parent="45" relname="same-unit"/>
+		<group id="42" type="span" parent="44" relname="span"/>
+		<group id="112" type="multinuc" parent="113" relname="span"/>
+		<group id="58" type="multinuc" parent="112" relname="joint"/>
+		<group id="50" type="span" parent="58" relname="joint"/>
+		<group id="49" type="multinuc" parent="46" relname="elaboration"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="comparison"/>
+		<group id="111" type="multinuc" parent="112" relname="joint"/>
+		<group id="69" type="span" parent="111" relname="joint"/>
+		<group id="61" type="span" parent="69" relname="span"/>
+		<group id="68" type="multinuc" parent="61" relname="elaboration"/>
+		<group id="66" type="span" parent="68" relname="joint"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="110" type="span" parent="111" relname="joint"/>
+		<group id="74" type="span" parent="109" relname="preparation"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="85" type="span" parent="109" relname="joint"/>
+		<group id="84" type="multinuc" parent="75" relname="interpretation-evaluation"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="90" type="span" parent="108" relname="joint"/>
+		<group id="88" type="span" parent="90" relname="span"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="95" type="span" parent="107" relname="joint"/>
+		<group id="94" type="span" parent="91" relname="elaboration"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="102" type="multinuc" parent="106" relname="span"/>
+		<group id="101" type="multinuc" parent="102" relname="joint"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="105" type="span" parent="102" relname="attribution"/>
+		<group id="113" type="span"/>
+	</body>
+</rst>

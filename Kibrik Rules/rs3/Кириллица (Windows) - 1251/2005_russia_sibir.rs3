@@ -1,0 +1,29 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="11" relname="span">В Алтайском крае госпитализированы два человека с \"сибирской язвой\"\n\nДва человека с подозрением на сибирскую язву госпитализированы в Чарышском районе Алтайского края.\n\nДвое жителей села Маралиха заболели после контакта с домашним скотом,</segment>
+		<segment id="10" parent="9" relname="attribution">уточняет ИТАР-ТАСС.</segment>
+		<segment id="12" parent="22" relname="span">На одном из частных подворий они забили больную корову.</segment>
+		<segment id="13" parent="16" relname="cause-effect">Мясо больной коровы мужчины продали в райцентре Усть-Калманка,</segment>
+		<segment id="14" parent="15" relname="condition">откуда покупатели увезли его на автомобиле с кемеровскими номерами,</segment>
+		<segment id="15" parent="16" relname="span">сообщили в региональном управлении Роспотребнадзора.\n\nВ Чарышском районе побывала специальная комиссия из специалистов Воспотребнадзора и санитарных врачей.</segment>
+		<segment id="18" parent="20" relname="span">Наличие сибирской язвы у госпитализированных людей подтверждено клинически.</segment>
+		<segment id="19" parent="18" relname="elaboration">Проводятся лабораторные исследования.\n\nИсточник: https://www.newsru.com/russia/15Aug2005/sibir.html\n</segment>
+		<group id="11" type="span" parent="23" relname="joint"/>
+		<group id="22" type="span" parent="23" relname="joint"/>
+		<group id="21" type="multinuc" parent="12" relname="elaboration"/>
+		<group id="17" type="span" parent="21" relname="joint"/>
+		<group id="16" type="span" parent="17" relname="span"/>
+		<group id="20" type="span" parent="21" relname="joint"/>
+		<group id="23" type="multinuc"/>
+	</body>
+</rst>

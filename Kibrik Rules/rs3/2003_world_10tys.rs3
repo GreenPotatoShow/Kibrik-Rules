@@ -1,0 +1,89 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="concession" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="36" parent="38" relname="span">В Кишиневе оппозиция вышла на улицу,</segment>
+		<segment id="37" parent="36" relname="elaboration">требуя отставки президента\n\nМолдавская оппозиция вывела сегодня на улицы Кишинева,</segment>
+		<segment id="39" parent="41" relname="span">по разным даным, от 10 до 50 человек,</segment>
+		<segment id="40" parent="39" relname="purpose">требуя отказаться от предложенного Россией плана приднестровского урегулирования.</segment>
+		<segment id="43" parent="45" relname="span">Собравшиеся выступили за отставку президента страны Владимира Воронина,</segment>
+		<segment id="44" parent="43" relname="purpose">немедленный вывод из Приднестровья российских войск и ввод туда воинского контингента Евросоюза,</segment>
+		<segment id="46" parent="48" relname="span">сообщает ИТАР-ТАСС.\n\nИнициаторы акции приурочили ее к открывающейся в понедельник в Маастрихте встрече министров иностранных дел стран-участниц Организации по безопасности и сотрудничеству в Европе,</segment>
+		<segment id="47" parent="46" relname="elaboration">на которой, как ожидается, будет рассматриваться проблема приднестровского урегулирования.\n\nВ ходе акции они скандировали \"Долой коммунистов!\", \"Нет федерации!\", \"Российская армия - вон!\", \"Отставка!\", \"Объединение!\".</segment>
+		<segment id="51" parent="65" relname="joint">Над площадью взвились флаги Республики Молдова, Румынии, НАТО, Европейского Союза, США и членов Европейского сообщество,</segment>
+		<segment id="52" parent="55" relname="attribution">а также лозунги \"Нет оккупации!\", \"Хотим в Европу, хотим в НАТО!\", \"Победа через объединение!\", \"Долой диктатуру!\", \"Молдова без коммунистов!\".\n\nПредседатель одной из основных оппозиционных партий - Христианско-демократической Народной партии - Юрий Рошка заявил,</segment>
+		<segment id="53" parent="55" relname="joint">что оппозиции удалось \"преодолеть разногласия</segment>
+		<segment id="54" parent="55" relname="joint">и объединиться\",</segment>
+		<segment id="57" parent="61" relname="span">и что \"это единение должно продолжаться как минимум до тех пор,</segment>
+		<segment id="58" parent="60" relname="joint">пока мы не свергнем коммунистический режим</segment>
+		<segment id="59" parent="60" relname="joint">и возьмем власть\".\n\n\"Пример Грузии для нас является вдохновляющим,</segment>
+		<segment id="62" parent="61" relname="interpretation-evaluation">он достоин подражания\",</segment>
+		<segment id="66" parent="65" relname="attribution">- заявил лидер ХДНП</segment>
+		<segment id="69" parent="102" relname="preparation">.\n\</segment>
+		<segment id="70" parent="75" relname="attribution">nВ принятом на митинге заявлении</segment>
+		<segment id="71" parent="75" relname="joint">оппозиция потребовала подключить к приднестровскому урегулированию,</segment>
+		<segment id="72" parent="74" relname="joint">наряду с ОБСЕ, Россией и Украиной,</segment>
+		<segment id="73" parent="74" relname="joint">также Евросоюз, США и Румынию.\n\nНа минувшей неделе президент Молдавии отказался подписывать уже согласованный с Приднестровьем план приднестровского урегулирования,</segment>
+		<segment id="77" parent="78" relname="attribution">заявив,</segment>
+		<segment id="78" parent="79" relname="span">что хочет дождаться итогов его обсуждения в Маастрихте.</segment>
+		<segment id="81" parent="84" relname="concession">Несмотря на это,</segment>
+		<segment id="82" parent="84" relname="span">оппозиция организовала в Кишиневе антироссийские и антиправительственные демонстрации студентов и школьников,</segment>
+		<segment id="83" parent="82" relname="background">на которых сжигались российские флаги</segment>
+		<segment id="86" parent="87" relname="attribution">.\n\nВ ответ Владимир Воронин заявил,</segment>
+		<segment id="87" parent="88" relname="span">что у правоохранительных органов \"есть решительность и настрой законными методами положить конец вакханалии\".</segment>
+		<segment id="90" parent="95" relname="attribution">Президент сообщил журналистам,</segment>
+		<segment id="91" parent="95" relname="joint">что \"переговоры в рамках российского плана привели к сближению позиций Кишинева и Тирасполя</segment>
+		<segment id="92" parent="94" relname="span">и будут продолжены,</segment>
+		<segment id="93" parent="92" relname="cause-effect">после экспертизы самого плана в европейских структурах\".</segment>
+		<segment id="97" parent="98" relname="attribution">Он также подчеркнул,</segment>
+		<segment id="98" parent="99" relname="span">что \"твердо намерен решать проблему Приднестровья путем создания федеративного государства\".\n\nИсточник: https://www.newsru.com/world/30Nov2003/10tys.html\n</segment>
+		<group id="68" type="multinuc" parent="104" relname="joint"/>
+		<group id="50" type="multinuc" parent="68" relname="joint"/>
+		<group id="42" type="span" parent="50" relname="joint"/>
+		<group id="38" type="span" parent="42" relname="span"/>
+		<group id="41" type="span" parent="38" relname="elaboration"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="45" type="span" parent="49" relname="joint"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="67" type="span" parent="68" relname="joint"/>
+		<group id="65" type="multinuc" parent="67" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="56" type="span" parent="64" relname="joint"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="61" type="span" parent="63" relname="span"/>
+		<group id="60" type="multinuc" parent="57" relname="condition"/>
+		<group id="103" type="span" parent="104" relname="joint"/>
+		<group id="102" type="multinuc" parent="103" relname="span"/>
+		<group id="80" type="span" parent="102" relname="joint"/>
+		<group id="76" type="span" parent="80" relname="span"/>
+		<group id="75" type="multinuc" parent="76" relname="span"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="79" type="span" parent="76" relname="attribution"/>
+		<group id="101" type="multinuc" parent="102" relname="joint"/>
+		<group id="89" type="span" parent="101" relname="joint"/>
+		<group id="85" type="span" parent="88" relname="concession"/>
+		<group id="84" type="span" parent="85" relname="span"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="100" type="multinuc" parent="101" relname="joint"/>
+		<group id="96" type="span" parent="100" relname="joint"/>
+		<group id="95" type="multinuc" parent="96" relname="span"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="104" type="multinuc"/>
+	</body>
+</rst>

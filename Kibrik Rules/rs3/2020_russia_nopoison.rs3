@@ -1,0 +1,351 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="167" parent="173" relname="joint">В омской больнице рассказали об отсутствии ядов в организме Навального, угрозах, \"невмешательстве\" силовиков и неблагодарности Юлии Навальной\n\nДва лабораторных исследования подтвердили отсутствие ядов в организме Алексея Навального,</segment>
+		<segment id="168" parent="172" relname="span">заявил на пресс-конференции Анатолий Калиниченко, заместитель главврача омской больницы скорой помощи N1 (БСМП-1),</segment>
+		<segment id="169" parent="171" relname="span">где впавший в кому оппозиционер находился перед перевозкой в барлинскую клинику \"Шарите\".\n\n\"Диагноз \"отравление\" был одним из первых,</segment>
+		<segment id="170" parent="169" relname="elaboration">он был и у скорой помощи.</segment>
+		<segment id="174" parent="175" relname="span">Поэтому пациента и доставили в токсикологическое отделение.</segment>
+		<segment id="176" parent="177" relname="condition">Если бы мы нашли отравление, чем-то подтвержденное,</segment>
+		<segment id="177" parent="178" relname="span">то для нас это было бы намного проще.</segment>
+		<segment id="181" parent="182" relname="contrast">Но мы получили окончательный ответ от двух лабораторий о том, что химико-токсикологических веществ, которые можно было бы расценить как яды или как продукты действия ядов, не выявлено\",</segment>
+		<segment id="183" parent="182" relname="attribution">- цитирует Калиниченко \"Коммерсант\".\n\</segment>
+		<segment id="186" parent="189" relname="attribution">nКомментируя информацию минздрава Омской области о том,</segment>
+		<segment id="187" parent="189" relname="joint">что в моче Навального были обнаружены алкоголь и кофеин,</segment>
+		<segment id="188" parent="189" relname="joint">Калиниченко сослался на ограничения в законах.</segment>
+		<segment id="191" parent="192" relname="solutionhood">\"Я даже сейчас не могу ни опровергнуть,</segment>
+		<segment id="192" parent="193" relname="span">ни подтвердить, что в моче нашли алкоголь и кофеин.</segment>
+		<segment id="194" parent="196" relname="contrast">Тот факт, что алкоголь есть в моче,</segment>
+		<segment id="195" parent="196" relname="contrast">а не в крови</segment>
+		<segment id="197" parent="199" relname="span">- это нормальная ситуация,</segment>
+		<segment id="198" parent="197" relname="condition">если человек, допустим, накануне употреблял алкоголь.</segment>
+		<segment id="201" parent="202" relname="contrast">Но никаких диагнозов типа отравления алкоголем или опьянения мы не ставили\",</segment>
+		<segment id="205" parent="206" relname="attribution">- отметил он.\n\n- Владимир Кара-Мурза:</segment>
+		<segment id="206" parent="207" relname="span">\"Яд легче отрицать\"\n\</segment>
+		<segment id="208" parent="213" relname="attribution">nПо его словам,</segment>
+		<segment id="209" parent="213" relname="joint">в течение полутора суток медики боролись за жизнь Навального,</segment>
+		<segment id="210" parent="212" relname="span">одновременно пытаясь поставить ему точный диагноз.</segment>
+		<segment id="211" parent="210" relname="attribution">Главный врач омской больницы Александр Мураховский сообщил,</segment>
+		<segment id="215" parent="217" relname="span">что медики БСМП-1 \"с большими усилиями\" спасли жизнь Навального,</segment>
+		<segment id="216" parent="215" relname="interpretation-evaluation">\"в этом сомневаться нельзя\".\n\</segment>
+		<segment id="220" parent="221" relname="attribution">nОтвечая на вопрос журналистов,</segment>
+		<segment id="221" parent="222" relname="span">почему в больнице было много силовиков,</segment>
+		<segment id="223" parent="224" relname="attribution">Мураховский заявил,</segment>
+		<segment id="224" parent="225" relname="span">что вмешательства извне в процесс лечения Навального не было.</segment>
+		<segment id="227" parent="229" relname="joint">\"Мы лечили пациента,</segment>
+		<segment id="228" parent="229" relname="joint">и мы его спасли.</segment>
+		<segment id="230" parent="232" relname="joint">Никакого влияния на лечение пациента не было</segment>
+		<segment id="231" parent="232" relname="joint">и быть не могло.</segment>
+		<segment id="233" parent="237" relname="sequence">У пациента был лечащий врач,</segment>
+		<segment id="234" parent="236" relname="joint">все решения принимали коллегиально,</segment>
+		<segment id="235" parent="236" relname="joint">в каждом консилиуме участвовало до 10 докторов разных учреждений\",</segment>
+		<segment id="240" parent="239" relname="attribution">- сказал он</segment>
+		<segment id="244" parent="248" relname="same-unit">.\n\</segment>
+		<segment id="245" parent="247" relname="span">nПри этом главврач не стал объяснить,</segment>
+		<segment id="246" parent="245" relname="cause-effect">почему в его кабинете находились неизвестные люди в штатском.</segment>
+		<segment id="249" parent="261" relname="span">\"Я не могу сказать вам, кто это был.</segment>
+		<segment id="250" parent="260" relname="span">У меня были люди многие в кабинете.</segment>
+		<segment id="251" parent="259" relname="span">Как уже сказали, человек, пациент, - политический.</segment>
+		<segment id="252" parent="254" relname="span">Я не могу сказать, что они там что-то делали.</segment>
+		<segment id="253" parent="252" relname="interpretation-evaluation">Просто поинтересовались и все\",</segment>
+		<segment id="255" parent="256" relname="attribution">- приводит слова Мураховского Znak.com.\n\n\"Тайга.инфо\" отмечает,</segment>
+		<segment id="256" parent="257" relname="span">что один из людей, присутствовавших в кабинете Мураховского, похож на начальника управления МВД Омской области Вячеслава Крючкова.</segment>
+		<segment id="262" parent="261" relname="background">Фотографию троих мужчин публиковала пресс-секретарь Навального Кира Ярмыш.</segment>
+		<segment id="264" parent="270" relname="span">\"Не представляются.</segment>
+		<segment id="265" parent="267" relname="span">Разговаривают с удовольствием на отвлеченные темы,</segment>
+		<segment id="266" parent="265" relname="interpretation-evaluation">на вопросы об Алексее не отвечают.</segment>
+		<segment id="268" parent="267" relname="elaboration">Врача в кабинете нет\",</segment>
+		<segment id="271" parent="270" relname="attribution">- писала она.\n\n</segment>
+		<segment id="278" parent="286" relname="contrast">\"Вы меня в чем-то подозреваете,</segment>
+		<segment id="279" parent="285" relname="span">но даже захотеть что-то сделать было невозможно.</segment>
+		<segment id="280" parent="282" relname="joint">Все решения по пациенту принимались коллегиально</segment>
+		<segment id="281" parent="282" relname="joint">и воплощались в жизнь,</segment>
+		<segment id="283" parent="284" relname="span">благодаря чему пациент был спасен\",</segment>
+		<segment id="287" parent="286" relname="attribution">- прокомментировал Мураховский.</segment>
+		<segment id="289" parent="293" relname="span">Объясняя, почему немецкие специалисты</segment>
+		<segment id="290" parent="291" relname="condition">при посещении омской больницы</segment>
+		<segment id="291" parent="292" relname="span">не вступили в контакт с родственниками и командой Навального,</segment>
+		<segment id="294" parent="307" relname="attribution">он заявил,</segment>
+		<segment id="295" parent="303" relname="joint">что они \"не желали ни с кем разговаривать,</segment>
+		<segment id="296" parent="298" relname="joint">они сели в транспорт</segment>
+		<segment id="297" parent="298" relname="joint">и уехали\".\n\nСотрудник ФБК Георгий Албуров публиковал в своем Twitter видео,</segment>
+		<segment id="299" parent="298" relname="elaboration">на котором видно, что Киру Ярмыш и директора ФБК Ивана Жданова оттесняли от машины с иностранными специалистами некие люди в штатском,</segment>
+		<segment id="301" parent="300" relname="elaboration">которых Албуров назвал \"гопниками\".\n\nНесовпадения в заявлениях омских и немецких врачей относительно перевозки Навального в Берлин,</segment>
+		<segment id="304" parent="305" relname="attribution">Калиниченко объяснил тем,</segment>
+		<segment id="305" parent="306" relname="span">что транспортабельность и показания к транспортировке - это разные вещи.</segment>
+		<segment id="310" parent="312" relname="span">\"Решение о транспортировке принимает лечащий врач,</segment>
+		<segment id="311" parent="310" relname="cause-effect">потому что он берет на себя ответственность,</segment>
+		<segment id="313" parent="314" relname="span">что пациент долетит.</segment>
+		<segment id="315" parent="318" relname="condition">Если кто-то решил,</segment>
+		<segment id="316" parent="318" relname="joint">что пациент нестабильный</segment>
+		<segment id="317" parent="318" relname="joint">и его перевозить нельзя,</segment>
+		<segment id="320" parent="321" relname="span">- никакие желания родственников и журналистов не могут на это повлиять.</segment>
+		<segment id="323" parent="326" relname="attribution">Как только лечащий врач принял решение,</segment>
+		<segment id="324" parent="325" relname="interpretation-evaluation">что это возможно,</segment>
+		<segment id="325" parent="326" relname="span">мы начали готовить пациента к перевозке\",</segment>
+		<segment id="328" parent="327" relname="attribution">- заявил Калиниченко</segment>
+		<segment id="332" parent="339" relname="attribution">.\n\nЗаместитель главного врача на пресс-конференции также заявил</segment>
+		<segment id="333" parent="339" relname="span">об отсутствии давления на врачей.</segment>
+		<segment id="334" parent="337" relname="attribution">По его словам,</segment>
+		<segment id="335" parent="337" relname="span">информация о состоянии Навального и результатах его анализов,</segment>
+		<segment id="336" parent="335" relname="elaboration">которую медики доводили до журналистов, ни с кем не согласовывалась.</segment>
+		<segment id="341" parent="353" relname="span">\"Ни один диагноз я ни с кем не согласовывал.</segment>
+		<segment id="342" parent="351" relname="solutionhood">Никакого давления не было\",</segment>
+		<segment id="343" parent="346" relname="attribution">- сказал Анатолий Калиниченко.\n\</segment>
+		<segment id="344" parent="345" relname="attribution">nПо его словам,</segment>
+		<segment id="345" parent="346" relname="span">ему лично как \"активному пользователю соцсетей\", а также его семье и детям поступали \"десятки угроз\".</segment>
+		<segment id="348" parent="350" relname="span">\"Это ни на что не повлияло</segment>
+		<segment id="349" parent="348" relname="cause-effect">- я имею в виду качество лечения пациента.</segment>
+		<segment id="354" parent="358" relname="span">Бог судья этим людям.</segment>
+		<segment id="355" parent="357" relname="span">Мы лечили человека.</segment>
+		<segment id="356" parent="355" relname="elaboration">Он (Навальный) в этом не виноват\",</segment>
+		<segment id="360" parent="359" relname="attribution">- сказал замглавврача (цитата по РИА \"Новости\").\n\</segment>
+		<segment id="363" parent="364" relname="attribution">nПо словам Калиниченко,</segment>
+		<segment id="364" parent="365" relname="span">негатив был \"шквальным\".</segment>
+		<segment id="366" parent="393" relname="attribution">\"Даже известные врачи,</segment>
+		<segment id="367" parent="393" relname="joint">не владея информацией, позволили себе комментарии о том, что неправильный диагноз,</segment>
+		<segment id="368" parent="370" relname="joint">неправильно лечили,</segment>
+		<segment id="369" parent="370" relname="joint">не показали результаты анализов</segment>
+		<segment id="371" parent="391" relname="contrast">(хотя они знают, что мы по закону не имеем права это делать).</segment>
+		<segment id="372" parent="380" relname="span">Но все-таки от медицинского сообщества мы получили гораздо больше поддержки, чем негатива\",</segment>
+		<segment id="373" parent="376" relname="attribution">- приводит его слова \"Медуза\".\n\nМураховский сообщил,</segment>
+		<segment id="374" parent="376" relname="contrast">что ему лично никто не угрожал \"ни в лицо, ни по телефону\",</segment>
+		<segment id="375" parent="376" relname="contrast">но в его приемную поступило \"множество\" звонков, \"может, 1000\".</segment>
+		<segment id="378" parent="379" relname="joint">При этом не ответил на вопрос, были ли это звонки с угрозами.</segment>
+		<segment id="381" parent="384" relname="attribution">По словам Мураховского,</segment>
+		<segment id="382" parent="384" relname="contrast">скопление людей у больницы временами затрудняло подъезд к ней машин скорой помощи,</segment>
+		<segment id="383" parent="384" relname="contrast">а некоторые журналисты снимали поступающих пациентов на видео,</segment>
+		<segment id="388" parent="385" relname="interpretation-evaluation">что, по мнению медика, недопустимо.</segment>
+		<segment id="395" parent="396" relname="condition">\"В реанимацию к врачам попасть невозможно,</segment>
+		<segment id="396" parent="397" relname="span">мы врачей не отрывали от работы.</segment>
+		<segment id="398" parent="397" relname="elaboration">Было много народу вокруг больницы, да\",</segment>
+		<segment id="400" parent="399" relname="attribution">- рассказал он.\n\</segment>
+		<segment id="406" parent="412" relname="joint">nСсылаясь на письмо из берлинской клиники \"Шарите\", где сейчас находится Навальный,</segment>
+		<segment id="407" parent="410" relname="attribution">Мураховский сообщил,</segment>
+		<segment id="408" parent="410" relname="joint">что политик по-прежнему находится в стабильно тяжелом состоянии.\n\n\"В субботу я направил письмо в клинику \"Шарите\" о том, что мы готовы сотрудничать с немецкими коллегами</segment>
+		<segment id="409" parent="410" relname="joint">и готовы предоставить все данные анализов.</segment>
+		<segment id="413" parent="419" relname="span">И уже буквально вчера после обеда мы получили ответ из клиники,</segment>
+		<segment id="414" parent="418" relname="joint">в котором нас поблагодарили</segment>
+		<segment id="415" parent="416" relname="attribution">и отметили,</segment>
+		<segment id="416" parent="417" relname="span">что Алексей Навальный находится в стабильном тяжелом состоянии.</segment>
+		<segment id="420" parent="422" relname="joint">Немецкие коллеги нам очень благодарны</segment>
+		<segment id="421" parent="422" relname="joint">и тоже не сомневаются, что жизнь пациенту удалось спасти\",</segment>
+		<segment id="423" parent="424" relname="attribution">- рассказал Мураховский.</segment>
+		<segment id="424" parent="425" relname="span">Немецкие врачи пока не выступали с официальными заявлениями по поводу состояния Навального.\n\nГлавврач БСМП-1 добавил,</segment>
+		<segment id="427" parent="426" relname="interpretation-evaluation">что супруга политика Юлия Навальная ни разу публично не поблагодарила омских и московских врачей.</segment>
+		<segment id="431" parent="432" relname="attribution">По словам Мураховского,</segment>
+		<segment id="432" parent="433" relname="span">он встречался с ней в своем кабинете \"ну, как минимум, раз пять\".</segment>
+		<segment id="434" parent="436" relname="span">\"Более того - с приглашением врачей, в том числе врачей, прибывших к нам из города Москва, очень толковых и высококлассных специалистов,</segment>
+		<segment id="435" parent="434" relname="background">где она задавала им вопросы</segment>
+		<segment id="437" parent="436" relname="attribution">- они отвечали.</segment>
+		<segment id="439" parent="438" relname="elaboration">Все это происходило у меня в кабинете и неоднократно.</segment>
+		<segment id="441" parent="440" relname="interpretation-evaluation">Сказала ли она спасибо?</segment>
+		<segment id="444" parent="446" relname="span">Мне - нет.</segment>
+		<segment id="445" parent="444" relname="interpretation-evaluation">Может быть, она кому-то другому сказала?</segment>
+		<segment id="448" parent="450" relname="span">Но у меня в кабинете, мне или при мне</segment>
+		<segment id="449" parent="448" relname="background">- я такого не услышал\",</segment>
+		<segment id="452" parent="451" relname="attribution">- отметил Мураховский</segment>
+		<segment id="454" parent="467" relname="attribution">.\n\nПресс-секретарь Навального Кира Ярмыш ранее сообщила,</segment>
+		<segment id="455" parent="467" relname="joint">что семья политика не уполномочивала кого-либо делать заявления в прессе о его здоровье от своего имени.</segment>
+		<segment id="456" parent="464" relname="span">\"На данный момент никаких новых подробностей о здоровье Алексея нет.</segment>
+		<segment id="457" parent="459" relname="joint">Мы просим всех сохранять терпение</segment>
+		<segment id="458" parent="459" relname="joint">и не реагировать на ложные сообщения.</segment>
+		<segment id="460" parent="461" relname="condition">Как только появится проверенная информация,</segment>
+		<segment id="461" parent="462" relname="span">мы сразу дадим знать\",</segment>
+		<segment id="465" parent="464" relname="attribution">- написала она в Twitter.</segment>
+		<segment id="471" parent="484" relname="attribution">Ярмыш отметила,</segment>
+		<segment id="472" parent="480" relname="joint">что доступа к медицинской информации ни у кого нет.</segment>
+		<segment id="473" parent="478" relname="attribution">Проверенные сведения о состоянии Навального,</segment>
+		<segment id="474" parent="477" relname="attribution">по ее словам,</segment>
+		<segment id="475" parent="476" relname="cause-effect">могут поступить только от врачей клиники или от самой Ярмыш.\n\nМежду тем издание \"Проект\" в ходе своего расследования о борьбе власти с Навальным, выяснило,</segment>
+		<segment id="476" parent="477" relname="span">что результаты анализов оппозиционера были известны высокопоставленным сотрудникам администрации президента РФ.</segment>
+		<segment id="481" parent="483" relname="span">\"Один из чиновников даже поделился данными обследований,</segment>
+		<segment id="482" parent="481" relname="elaboration">которых еще не было в СМИ, с корреспондентом \"Проекта\".</segment>
+		<segment id="486" parent="487" relname="attribution">И пояснил:</segment>
+		<segment id="487" parent="488" relname="span">они показывают, что у Навального \"точно нет отравления\"\",</segment>
+		<segment id="490" parent="489" relname="attribution">- говорится в материале.\n\nИсточник: https://www.newsru.com/russia/24Aug2020/nopoison.html\n</segment>
+		<group id="277" type="multinuc" parent="497" relname="sequence"/>
+		<group id="185" type="span" parent="277" relname="joint"/>
+		<group id="175" type="span" parent="184" relname="solutionhood"/>
+		<group id="173" type="multinuc" parent="174" relname="cause-effect"/>
+		<group id="172" type="span" parent="173" relname="joint"/>
+		<group id="171" type="span" parent="168" relname="elaboration"/>
+		<group id="184" type="span" parent="185" relname="span"/>
+		<group id="182" type="multinuc" parent="184" relname="span"/>
+		<group id="178" type="span" parent="182" relname="contrast"/>
+		<group id="276" type="multinuc" parent="277" relname="joint"/>
+		<group id="204" type="span" parent="276" relname="joint"/>
+		<group id="190" type="span" parent="204" relname="span"/>
+		<group id="189" type="multinuc" parent="190" relname="span"/>
+		<group id="203" type="span" parent="190" relname="elaboration"/>
+		<group id="193" type="span" parent="203" relname="span"/>
+		<group id="202" type="multinuc" parent="193" relname="background"/>
+		<group id="200" type="span" parent="202" relname="contrast"/>
+		<group id="196" type="multinuc" parent="200" relname="span"/>
+		<group id="199" type="span" parent="196" relname="interpretation-evaluation"/>
+		<group id="275" type="multinuc" parent="276" relname="joint"/>
+		<group id="243" type="span" parent="275" relname="joint"/>
+		<group id="219" type="span" parent="243" relname="span"/>
+		<group id="207" type="span" parent="219" relname="span"/>
+		<group id="218" type="span" parent="207" relname="elaboration"/>
+		<group id="214" type="span" parent="217" relname="attribution"/>
+		<group id="213" type="multinuc" parent="214" relname="span"/>
+		<group id="212" type="span" parent="213" relname="joint"/>
+		<group id="217" type="span" parent="218" relname="span"/>
+		<group id="242" type="span" parent="219" relname="elaboration"/>
+		<group id="226" type="span" parent="241" relname="solutionhood"/>
+		<group id="222" type="span" parent="225" relname="solutionhood"/>
+		<group id="225" type="span" parent="226" relname="span"/>
+		<group id="241" type="span" parent="242" relname="span"/>
+		<group id="239" type="span" parent="241" relname="span"/>
+		<group id="229" type="multinuc" parent="239" relname="span"/>
+		<group id="238" type="span" parent="229" relname="elaboration"/>
+		<group id="232" type="multinuc" parent="238" relname="span"/>
+		<group id="237" type="multinuc" parent="232" relname="elaboration"/>
+		<group id="236" type="multinuc" parent="237" relname="sequence"/>
+		<group id="274" type="multinuc" parent="275" relname="joint"/>
+		<group id="248" type="multinuc" parent="274" relname="joint"/>
+		<group id="247" type="span" parent="248" relname="same-unit"/>
+		<group id="273" type="span" parent="274" relname="joint"/>
+		<group id="263" type="span" parent="273" relname="span"/>
+		<group id="261" type="span" parent="263" relname="span"/>
+		<group id="260" type="span" parent="249" relname="elaboration"/>
+		<group id="259" type="span" parent="250" relname="elaboration"/>
+		<group id="258" type="span" parent="251" relname="elaboration"/>
+		<group id="254" type="span" parent="258" relname="span"/>
+		<group id="257" type="span" parent="254" relname="attribution"/>
+		<group id="272" type="span" parent="263" relname="elaboration"/>
+		<group id="270" type="span" parent="272" relname="span"/>
+		<group id="269" type="span" parent="264" relname="cause-effect"/>
+		<group id="267" type="span" parent="269" relname="span"/>
+		<group id="496" type="multinuc" parent="497" relname="sequence"/>
+		<group id="288" type="span" parent="496" relname="joint"/>
+		<group id="286" type="multinuc" parent="288" relname="span"/>
+		<group id="285" type="span" parent="286" relname="contrast"/>
+		<group id="284" type="span" parent="279" relname="elaboration"/>
+		<group id="282" type="multinuc" parent="283" relname="cause-effect"/>
+		<group id="495" type="multinuc" parent="496" relname="joint"/>
+		<group id="331" type="span" parent="495" relname="joint"/>
+		<group id="309" type="multinuc" parent="330" relname="solutionhood"/>
+		<group id="293" type="span" parent="309" relname="joint"/>
+		<group id="292" type="span" parent="289" relname="condition"/>
+		<group id="308" type="span" parent="309" relname="joint"/>
+		<group id="307" type="span" parent="308" relname="span"/>
+		<group id="303" type="multinuc" parent="306" relname="solutionhood"/>
+		<group id="302" type="span" parent="303" relname="joint"/>
+		<group id="300" type="span" parent="302" relname="span"/>
+		<group id="298" type="multinuc" parent="300" relname="span"/>
+		<group id="306" type="span" parent="307" relname="span"/>
+		<group id="330" type="multinuc" parent="331" relname="span"/>
+		<group id="322" type="span" parent="330" relname="comparison"/>
+		<group id="314" type="span" parent="322" relname="span"/>
+		<group id="312" type="span" parent="313" relname="cause-effect"/>
+		<group id="321" type="span" parent="314" relname="elaboration"/>
+		<group id="319" type="span" parent="320" relname="condition"/>
+		<group id="318" type="multinuc" parent="319" relname="span"/>
+		<group id="329" type="span" parent="330" relname="comparison"/>
+		<group id="327" type="span" parent="329" relname="span"/>
+		<group id="326" type="span" parent="327" relname="span"/>
+		<group id="494" type="multinuc" parent="495" relname="joint"/>
+		<group id="362" type="multinuc" parent="494" relname="joint"/>
+		<group id="340" type="span" parent="362" relname="joint"/>
+		<group id="339" type="span" parent="340" relname="span"/>
+		<group id="338" type="span" parent="333" relname="elaboration"/>
+		<group id="337" type="span" parent="338" relname="span"/>
+		<group id="361" type="span" parent="362" relname="joint"/>
+		<group id="359" type="span" parent="361" relname="span"/>
+		<group id="353" type="span" parent="359" relname="span"/>
+		<group id="352" type="span" parent="341" relname="elaboration"/>
+		<group id="351" type="span" parent="352" relname="span"/>
+		<group id="347" type="span" parent="351" relname="span"/>
+		<group id="346" type="span" parent="347" relname="span"/>
+		<group id="350" type="span" parent="347" relname="interpretation-evaluation"/>
+		<group id="358" type="span" parent="353" relname="interpretation-evaluation"/>
+		<group id="357" type="span" parent="354" relname="elaboration"/>
+		<group id="493" type="multinuc" parent="494" relname="joint"/>
+		<group id="403" type="span" parent="493" relname="joint"/>
+		<group id="365" type="span" parent="403" relname="span"/>
+		<group id="402" type="span" parent="365" relname="elaboration"/>
+		<group id="394" type="span" parent="402" relname="span"/>
+		<group id="393" type="multinuc" parent="394" relname="span"/>
+		<group id="392" type="span" parent="393" relname="joint"/>
+		<group id="370" type="multinuc" parent="392" relname="span"/>
+		<group id="391" type="multinuc" parent="370" relname="elaboration"/>
+		<group id="390" type="span" parent="391" relname="contrast"/>
+		<group id="380" type="span" parent="390" relname="span"/>
+		<group id="379" type="multinuc" parent="372" relname="elaboration"/>
+		<group id="377" type="span" parent="379" relname="joint"/>
+		<group id="376" type="multinuc" parent="377" relname="span"/>
+		<group id="389" type="span" parent="380" relname="interpretation-evaluation"/>
+		<group id="385" type="span" parent="389" relname="span"/>
+		<group id="384" type="multinuc" parent="385" relname="span"/>
+		<group id="401" type="span" parent="394" relname="interpretation-evaluation"/>
+		<group id="399" type="span" parent="401" relname="span"/>
+		<group id="397" type="span" parent="399" relname="span"/>
+		<group id="492" type="span" parent="493" relname="joint"/>
+		<group id="470" type="multinuc" parent="491" relname="solutionhood"/>
+		<group id="430" type="multinuc" parent="470" relname="joint"/>
+		<group id="412" type="multinuc" parent="430" relname="joint"/>
+		<group id="411" type="span" parent="412" relname="joint"/>
+		<group id="410" type="multinuc" parent="411" relname="span"/>
+		<group id="429" type="span" parent="430" relname="joint"/>
+		<group id="419" type="span" parent="429" relname="span"/>
+		<group id="418" type="multinuc" parent="413" relname="elaboration"/>
+		<group id="417" type="span" parent="418" relname="joint"/>
+		<group id="428" type="span" parent="419" relname="interpretation-evaluation"/>
+		<group id="426" type="span" parent="428" relname="span"/>
+		<group id="422" type="multinuc" parent="426" relname="span"/>
+		<group id="425" type="span" parent="422" relname="attribution"/>
+		<group id="469" type="multinuc" parent="470" relname="joint"/>
+		<group id="453" type="span" parent="469" relname="joint"/>
+		<group id="451" type="multinuc" parent="453" relname="span"/>
+		<group id="447" type="span" parent="451" relname="contrast"/>
+		<group id="443" type="span" parent="447" relname="span"/>
+		<group id="433" type="span" parent="442" relname="preparation"/>
+		<group id="442" type="span" parent="443" relname="span"/>
+		<group id="440" type="span" parent="442" relname="span"/>
+		<group id="438" type="span" parent="440" relname="span"/>
+		<group id="436" type="span" parent="438" relname="span"/>
+		<group id="446" type="span" parent="443" relname="interpretation-evaluation"/>
+		<group id="450" type="span" parent="451" relname="contrast"/>
+		<group id="468" type="span" parent="469" relname="joint"/>
+		<group id="467" type="multinuc" parent="468" relname="span"/>
+		<group id="466" type="span" parent="467" relname="joint"/>
+		<group id="464" type="span" parent="466" relname="span"/>
+		<group id="463" type="span" parent="456" relname="elaboration"/>
+		<group id="459" type="multinuc" parent="463" relname="span"/>
+		<group id="462" type="span" parent="459" relname="elaboration"/>
+		<group id="491" type="span" parent="492" relname="span"/>
+		<group id="489" type="multinuc" parent="491" relname="span"/>
+		<group id="485" type="span" parent="489" relname="joint"/>
+		<group id="484" type="multinuc" parent="485" relname="span"/>
+		<group id="480" type="multinuc" parent="484" relname="joint"/>
+		<group id="479" type="span" parent="480" relname="joint"/>
+		<group id="478" type="span" parent="479" relname="span"/>
+		<group id="477" type="span" parent="478" relname="span"/>
+		<group id="483" type="span" parent="484" relname="joint"/>
+		<group id="488" type="span" parent="489" relname="joint"/>
+		<group id="497" type="multinuc"/>
+	</body>
+</rst>

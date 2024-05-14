@@ -1,0 +1,40 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="13" parent="15" relname="joint">Спиваков призвал обучать нотной грамоте в российских школах\n\nИзвестный российский дирижер Владимир Спиваков призвал</segment>
+		<segment id="14" parent="15" relname="joint">включить изучение нотной грамоты в школьную программу,</segment>
+		<segment id="16" parent="19" relname="attribution">сообщает РИА \"Новости\".\n\n\"Когда-то Шостакович сказал,</segment>
+		<segment id="17" parent="19" relname="span">что у него есть мечта,</segment>
+		<segment id="18" parent="17" relname="purpose">чтобы в школах изучали не только цифру, но и ноту.</segment>
+		<segment id="22" parent="25" relname="attribution">Я считаю,</segment>
+		<segment id="23" parent="25" relname="span">что необходимо совершенно изучать хотя бы основы музыкальной грамоты,</segment>
+		<segment id="24" parent="23" relname="cause-effect">потому что в музыке колоссальная нравственная составляющая\",</segment>
+		<segment id="27" parent="26" relname="attribution">- сказал Спиваков в среду на первом заседании организационного комитета по проведению Года культуры в России.\n\nВ подтверждение своих слов он процитировал Канта.</segment>
+		<segment id="29" parent="31" relname="contrast">\"Нравственность не учит нас, как стать счастливыми,</segment>
+		<segment id="30" parent="31" relname="contrast">но учит нас, как стать достойными счастья\",</segment>
+		<segment id="32" parent="31" relname="attribution">- сказал маэстро.\n\nИсточник: https://www.newsru.com/cinema/09Oct2013/spivakov.html\n</segment>
+		<group id="21" type="multinuc" parent="34" relname="solutionhood"/>
+		<group id="15" type="multinuc" parent="21" relname="comparison"/>
+		<group id="20" type="span" parent="21" relname="comparison"/>
+		<group id="19" type="span" parent="20" relname="span"/>
+		<group id="34" type="multinuc" parent="35" relname="span"/>
+		<group id="28" type="span" parent="34" relname="joint"/>
+		<group id="26" type="span" parent="28" relname="span"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="31" type="multinuc" parent="33" relname="span"/>
+		<group id="35" type="span"/>
+	</body>
+</rst>

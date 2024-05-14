@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="27" relname="span">Иранская оппозиция уступила властям,</segment>
+		<segment id="26" parent="25" relname="cause-effect">отменив митинг в Тегеране\n\nИранская оппозиция отменила</segment>
+		<segment id="28" parent="30" relname="span">запланированный на сегодня митинг в центре Тегерана</segment>
+		<segment id="29" parent="28" relname="cause-effect">после угрозы властей разогнать демонстрантов,</segment>
+		<segment id="32" parent="31" relname="attribution">сообщает ИТАР-ТАСС</segment>
+		<segment id="34" parent="37" relname="attribution">.\n\nКак заявил официальный представитель МВД Исламской Республики,</segment>
+		<segment id="35" parent="36" relname="purpose">\"для проведения манифестации</segment>
+		<segment id="36" parent="37" relname="span">было необходимо заблаговременно получить разрешение в правоохранительных органах\".</segment>
+		<segment id="39" parent="54" relname="attribution">По его словам,</segment>
+		<segment id="40" parent="42" relname="span">участники любой несанкционированной акции будут рассматриваться властями как \"нарушители порядка\".\n\nМежду тем,</segment>
+		<segment id="41" parent="40" relname="attribution">как передает катарская спутниковая телестанция Al-Jazeera,</segment>
+		<segment id="43" parent="42" relname="attribution">не все из противников президента Махмуда Ахмади Нежада,</segment>
+		<segment id="45" parent="53" relname="joint">оспаривающих его победу на выборах,</segment>
+		<segment id="46" parent="50" relname="span">подчинились рекомендации верховного руководителя Исламской Республики аятоллы Али Хаменеи прекратить уличное противостояние.\n\nЕсли бывший премьер-реформатор Мир Хоссейн Мусави,</segment>
+		<segment id="47" parent="49" relname="span">набравший большинство голосов в Тегеране,</segment>
+		<segment id="48" parent="47" relname="elaboration">подчинился воле \"наставника нации\",</segment>
+		<segment id="51" parent="52" relname="span">то экс-спикер меджлиса Мехди Кяруби провел в ряде мест в столице собрания своих сторонников.</segment>
+		<segment id="57" parent="59" relname="span">О подавлении этих выступлений протеста сведений не поступало.\n\nКак передало иранское телевидение,</segment>
+		<segment id="58" parent="57" relname="attribution">члены Совета стражей исламской конституции приняли</segment>
+		<segment id="60" parent="59" relname="elaboration">сегодня решение провести повторный пересчет 10 проц голосов избирателей.</segment>
+		<segment id="62" parent="64" relname="joint">Этот символический жест со стороны высшей арбитражной инстанции страны предпринят во исполнение указания аятоллы Хаменеи.\n\nВерховный руководитель Ирана в пятницу категорически отверг требование оппонентов Ахмади Нежада аннулировать итоги голосования 12 июня</segment>
+		<segment id="63" parent="64" relname="joint">и назначить новые выборы главы государства.</segment>
+		<segment id="65" parent="67" relname="joint">Хаменеи посоветовал недовольным политикам \"прийти в себя</segment>
+		<segment id="66" parent="67" relname="joint">и задуматься над тем, что они своим поведением толкают страну к анархии и кровопролитию\".\n\nИсточник: https://www.newsru.com/world/20Jun2009/opooz.html\n</segment>
+		<group id="33" type="span" parent="70" relname="preparation"/>
+		<group id="31" type="span" parent="33" relname="span"/>
+		<group id="27" type="span" parent="31" relname="span"/>
+		<group id="30" type="span" parent="27" relname="elaboration"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="56" type="multinuc" parent="70" relname="joint"/>
+		<group id="38" type="span" parent="56" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="44" type="span" parent="54" relname="joint"/>
+		<group id="42" type="span" parent="44" relname="span"/>
+		<group id="53" type="multinuc" parent="54" relname="joint"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="cause-effect"/>
+		<group id="49" type="span" parent="46" relname="background"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="61" type="span" parent="69" relname="joint"/>
+		<group id="59" type="span" parent="61" relname="span"/>
+		<group id="68" type="multinuc" parent="69" relname="joint"/>
+		<group id="64" type="multinuc" parent="68" relname="joint"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="71" type="span"/>
+	</body>
+</rst>

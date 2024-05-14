@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="23" relname="joint">Росфинмониторинг: число дел об отмывании преступных денег за последние 4 года увеличилось в 24 раза\n\nКоличество переданных Росфинмониторингом в правоохранительные органы материалов об отмывании преступных денег за последние четыре года увеличилось в 24 раза,</segment>
+		<segment id="20" parent="22" relname="joint">число выявленных преступлений в этой области -в 13 раз,</segment>
+		<segment id="21" parent="22" relname="joint">а число осужденных лиц по соответствующим статьям Уголовного кодекса - в 38 раз (с 14 до 532),</segment>
+		<segment id="24" parent="23" relname="attribution">сообщил глава ведомства Виктор Зубков</segment>
+		<segment id="26" parent="28" relname="span">.\n\nЗубков привел эти данные,</segment>
+		<segment id="27" parent="26" relname="elaboration">выступая в Калининграде на совещании межведомственной комиссии по противодействию легализации (отмыванию) доходов, полученных преступным путем, и финансированию терроризма</segment>
+		<segment id="29" parent="30" relname="same-unit">.\n\</segment>
+		<segment id="31" parent="33" relname="span">nОсновные показатели работы Росфинмониторинга за последние четыре года</segment>
+		<segment id="32" parent="31" relname="elaboration">(а именно они будут рассматриваться миссией FATF в ходе предстоящего визита)</segment>
+		<segment id="34" parent="35" relname="same-unit">увеличились на порядок:</segment>
+		<segment id="36" parent="38" relname="span">с 374 тысяч до 6,3 млн выросло число сообщений от поднадзорных организаций, с 1415 до 7931 - количество проведенных службой финансовых расследований.\n\nПо графику третьего раунда взаимных оценок,</segment>
+		<segment id="37" parent="36" relname="elaboration">посещение Калининграда миссией FATF намечено на ноябрь текущего года.</segment>
+		<segment id="40" parent="46" relname="span">За оставшееся до проверки время Зубков предложил решить имеющиеся проблемы:</segment>
+		<segment id="41" parent="45" relname="joint">подготовить объекты показа,</segment>
+		<segment id="42" parent="44" relname="joint">согласовать статистические показатели.\n\nЗубков остался доволен Калининградской областью</segment>
+		<segment id="43" parent="44" relname="joint">и тем, какие здесь принимают меры по исполнению федерального закона о противодействии легализации (отмыванию) доходов, полученных преступным путем, и финансированию терроризма.</segment>
+		<segment id="47" parent="49" relname="comparison">В 2007 году 41 материал направлен в суды,</segment>
+		<segment id="48" parent="49" relname="comparison">тогда как в прошлом - всего 5.\n\nИсточник: https://www.newsru.com/finance/30Aug2007/rosfin.html\n</segment>
+		<group id="25" type="span" parent="53" relname="joint"/>
+		<group id="23" type="multinuc" parent="25" relname="span"/>
+		<group id="22" type="multinuc" parent="23" relname="joint"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="30" type="multinuc" parent="52" relname="joint"/>
+		<group id="28" type="span" parent="30" relname="same-unit"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="39" type="span" parent="51" relname="joint"/>
+		<group id="35" type="multinuc" parent="39" relname="span"/>
+		<group id="33" type="span" parent="35" relname="same-unit"/>
+		<group id="38" type="span" parent="35" relname="elaboration"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="46" type="span" parent="50" relname="span"/>
+		<group id="45" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="49" type="multinuc" parent="46" relname="elaboration"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

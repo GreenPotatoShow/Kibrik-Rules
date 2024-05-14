@@ -1,0 +1,116 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="48" parent="50" relname="span">Из всех европейцев самые ленивые - португальцы\n\nЖители Европейского союза чрезвычайно ленивы:</segment>
+		<segment id="49" parent="48" relname="cause-effect">вместо активного отдыха выбирают комфортный \"спорт\" с пультом дистанционного управления перед телевизором.</segment>
+		<segment id="51" parent="53" relname="span">Больше всех ненавидят двигаться португальцы,</segment>
+		<segment id="52" parent="51" relname="cause-effect">свыше 88% из них не занимаются спортом.</segment>
+		<segment id="54" parent="58" relname="span">На втором месте бельгийцы,</segment>
+		<segment id="55" parent="57" relname="span">за ними следуют испанцы, немцы и греки.\n\nИтальянцы оказались на шестом месте с 69% ленивцев,</segment>
+		<segment id="56" parent="55" relname="condition">опередив Францию, Нидерланды, Данию и Великобританию.\n\nШведы расположились на завидном последнем месте:</segment>
+		<segment id="59" parent="58" relname="elaboration">почти шесть из 10 регулярно занимаются спортом.</segment>
+		<segment id="63" parent="65" relname="span">Данные этого исследования, проведенного университетом Наварры,</segment>
+		<segment id="64" parent="63" relname="elaboration">были опубликованы в последнем номере International Journal of Epidemiology.\n\nИспанские эксперты опросили тысячу человек в каждой из стран Европейского союза.</segment>
+		<segment id="66" parent="65" relname="elaboration">В анкету вошли вопросы о занятиях спортом, весе и состоянии здоровья.</segment>
+		<segment id="68" parent="71" relname="attribution">К представителям сидячего образа жизни были отнесены люди, сообщавшие о том,</segment>
+		<segment id="69" parent="70" relname="cause-effect">что занятиям спортом они уделяют меньше 10% свободного времени,</segment>
+		<segment id="70" parent="71" relname="span">что пагубно влияет на здоровье.</segment>
+		<segment id="73" parent="75" relname="comparison">Таких людей больше в странах Средиземноморья,</segment>
+		<segment id="74" parent="75" relname="comparison">в то время как на севере Европы дела обстоят значительно лучше,</segment>
+		<segment id="76" parent="77" relname="attribution">сообщает Corriere della Sera</segment>
+		<segment id="77" parent="78" relname="span">(перевод на сайте Inopressa.ru).\n\n</segment>
+		<segment id="81" parent="83" relname="span">\"Европе предстоит решить сложную задачу,</segment>
+		<segment id="82" parent="81" relname="attribution">- заявил представитель департамента эпидемиологии и здравоохранения Мигель Мартинес Гонсалес.</segment>
+		<segment id="87" parent="89" relname="joint">- Необходимо срочно разрабатывать новые программы\", исходя из того, что большинство европейцев предпочитают сидячий образ жизни,</segment>
+		<segment id="88" parent="89" relname="joint">а это, прежде всего, \"люди с избыточным весом, курильщики, люди со средними и низкими доходами\".\n\nСпорт благотворно влияет на здоровье и эмоциональное состояние человека.</segment>
+		<segment id="90" parent="92" relname="span">\"Я сожалею о том, что у меня уже не так много времени</segment>
+		<segment id="91" parent="90" relname="purpose">для занятий спортом,</segment>
+		<segment id="93" parent="92" relname="attribution">- говорит депутат итальянского парламента, бывшая чемпионка по фигурному катанию Габриэла Карлуччи.</segment>
+		<segment id="95" parent="99" relname="joint">- Я стараюсь не пользоваться лифтом,</segment>
+		<segment id="96" parent="98" relname="span">больше гулять,</segment>
+		<segment id="97" parent="96" relname="condition">в выходные или на каникулах я занимаюсь своими любимыми видами спорта, например водными лыжами.</segment>
+		<segment id="100" parent="104" relname="span">Я учу своего сына тому, что спорт помогает в жизни,</segment>
+		<segment id="101" parent="103" relname="joint">потому что заставляет ставить перед собой цели</segment>
+		<segment id="102" parent="103" relname="joint">и достигать их.</segment>
+		<segment id="105" parent="106" relname="contrast">Но спортивные занятия должны быть увлекательными\".\n\nНа другой стороне баррикад - телеведущая Антонелла Клеричи.</segment>
+		<segment id="108" parent="136" relname="span">Она называет себя сознательной лентяйкой.</segment>
+		<segment id="109" parent="113" relname="contrast">\"Я постоянно работаю,</segment>
+		<segment id="110" parent="111" relname="condition">а когда у меня появляется свободное время,</segment>
+		<segment id="111" parent="112" relname="span">я пытаюсь отдохнуть - с приятной музыкой и хорошей книгой.</segment>
+		<segment id="114" parent="118" relname="span">Те, кто идет попотеть в свободное время в спортивный зал, по моему мнению, сумасшедшие.</segment>
+		<segment id="115" parent="117" relname="joint">Лень - это настоящая привилегия,</segment>
+		<segment id="116" parent="117" relname="joint">и к ней необходимо изменить отношение.</segment>
+		<segment id="120" parent="128" relname="contrast">Праздность не порок,</segment>
+		<segment id="121" parent="127" relname="joint">а достоинство тех, кто умеет жить\".\n\</segment>
+		<segment id="122" parent="124" relname="span">nВ действительности же Клеричи,</segment>
+		<segment id="123" parent="122" relname="elaboration">которая ненавидит потеть на велотренажере,</segment>
+		<segment id="125" parent="126" relname="same-unit">любит гулять со своей собакой на вилле Боргезе.</segment>
+		<segment id="129" parent="133" relname="same-unit">А прогулки,</segment>
+		<segment id="130" parent="131" relname="attribution">по словам врачей,</segment>
+		<segment id="131" parent="132" relname="span">уже можно считать хорошим началом.\n\nИсточник: https://www.newsru.com/world/18Apr2003/lazy.html\n</segment>
+		<group id="86" type="multinuc" parent="140" relname="joint"/>
+		<group id="62" type="multinuc" parent="86" relname="joint"/>
+		<group id="50" type="span" parent="62" relname="joint"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="53" type="span" parent="61" relname="joint"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="58" type="span" parent="60" relname="span"/>
+		<group id="57" type="span" parent="54" relname="elaboration"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="67" type="span" parent="85" relname="joint"/>
+		<group id="65" type="span" parent="67" relname="span"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="80" type="multinuc" parent="84" relname="span"/>
+		<group id="72" type="span" parent="80" relname="comparison"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="79" type="span" parent="80" relname="comparison"/>
+		<group id="75" type="multinuc" parent="79" relname="span"/>
+		<group id="78" type="span" parent="75" relname="attribution"/>
+		<group id="83" type="span" parent="80" relname="interpretation-evaluation"/>
+		<group id="139" type="span" parent="140" relname="joint"/>
+		<group id="89" type="multinuc" parent="138" relname="preparation"/>
+		<group id="138" type="span" parent="139" relname="span"/>
+		<group id="94" type="span" parent="137" relname="preparation"/>
+		<group id="92" type="span" parent="94" relname="span"/>
+		<group id="137" type="multinuc" parent="138" relname="span"/>
+		<group id="107" type="multinuc" parent="137" relname="joint"/>
+		<group id="99" type="multinuc" parent="107" relname="joint"/>
+		<group id="98" type="span" parent="99" relname="joint"/>
+		<group id="106" type="multinuc" parent="107" relname="joint"/>
+		<group id="104" type="span" parent="106" relname="contrast"/>
+		<group id="103" type="multinuc" parent="100" relname="cause-effect"/>
+		<group id="136" type="span" parent="137" relname="joint"/>
+		<group id="135" type="multinuc" parent="108" relname="elaboration"/>
+		<group id="119" type="span" parent="135" relname="joint"/>
+		<group id="113" type="multinuc" parent="119" relname="span"/>
+		<group id="112" type="span" parent="113" relname="contrast"/>
+		<group id="118" type="span" parent="113" relname="interpretation-evaluation"/>
+		<group id="117" type="multinuc" parent="114" relname="interpretation-evaluation"/>
+		<group id="134" type="multinuc" parent="135" relname="joint"/>
+		<group id="128" type="multinuc" parent="134" relname="joint"/>
+		<group id="127" type="multinuc" parent="128" relname="contrast"/>
+		<group id="126" type="multinuc" parent="127" relname="joint"/>
+		<group id="124" type="span" parent="126" relname="same-unit"/>
+		<group id="133" type="multinuc" parent="134" relname="joint"/>
+		<group id="132" type="span" parent="133" relname="same-unit"/>
+		<group id="140" type="multinuc"/>
+	</body>
+</rst>

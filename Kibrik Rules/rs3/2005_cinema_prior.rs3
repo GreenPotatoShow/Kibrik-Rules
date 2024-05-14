@@ -1,0 +1,34 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="14" relname="span">Скончался знаменитый американский комик Ричард Прайор\n\nВ субботу в США в возрасте 65 лет скончался от сердечного приступа знаменитый чернокожий американский комик Ричард Прайор.</segment>
+		<segment id="13" parent="12" relname="attribution">Об этом сообщила супруга актера Дженнифер Прайор.</segment>
+		<segment id="15" parent="27" relname="joint">Почти 20 лет Ричард Прайор страдал от рассеянного склероза.\n\nРичард Прайор родился 1 декабря 1940 года.</segment>
+		<segment id="16" parent="18" relname="span">Он был одним из первых чернокожих актеров,</segment>
+		<segment id="17" parent="16" relname="elaboration">кому удалось добиться в Голливуде контрактов на своих условиях.</segment>
+		<segment id="19" parent="21" relname="span">В 1983 году он подписал пятилетний контракт со студией Columbia Pictures на сумму в 40 млн долларов.\n\nВ 70-80-х годах Прайор снялся в нескольких популярных комедийных картинах,</segment>
+		<segment id="20" parent="19" relname="elaboration">в том числе в фильмах \"Миллионы Брюстера\" и \"Гарлемские ночи\"</segment>
+		<segment id="22" parent="23" relname="joint">и стал одним из самых высокооплачиваемых актеров в Голливуде.\n\nИскусство Прайора вдохновило творчество таких актеров, как Эдди Мерфи, Арсенио Холл, Дэймон Уайанс, а также Робби Уильямс и Дэвид Леттерман,</segment>
+		<segment id="24" parent="25" relname="joint">отмечает ВВС.\n\nВ 1995 году Прайор сыграл больного рассеянным склерозом в одном их эпизодов сериала \"Чикагская надежда\".</segment>
+		<segment id="28" parent="30" relname="joint">За эту роль Прайор получил престижную награду Emmy как лучший приглашенный актер в драматическом сериале.</segment>
+		<segment id="29" parent="30" relname="joint">Актер признавал, что более поздние киноработы уступают раннему этапу его творчества.\n\nИсточник: https://www.newsru.com/cinema/12Dec2005/prior.html\n</segment>
+		<group id="14" type="span" parent="31" relname="preparation"/>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="27" type="multinuc" parent="31" relname="joint"/>
+		<group id="26" type="multinuc" parent="27" relname="joint"/>
+		<group id="18" type="span" parent="26" relname="joint"/>
+		<group id="25" type="multinuc" parent="26" relname="joint"/>
+		<group id="23" type="multinuc" parent="25" relname="joint"/>
+		<group id="21" type="span" parent="23" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="joint"/>
+		<group id="32" type="span"/>
+	</body>
+</rst>

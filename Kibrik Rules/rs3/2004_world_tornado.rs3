@@ -1,0 +1,98 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="42" parent="44" relname="joint">В США ликвидируют последствия разрушительных торнадо</segment>
+		<segment id="43" parent="44" relname="joint">и готовятся к новым\n\</segment>
+		<segment id="45" parent="51" relname="joint">nПосле опустошительных смерчей, пронесшихся над США в минувшие выходные,</segment>
+		<segment id="46" parent="50" relname="span">несколько штатов продолжают страдать от стихии.</segment>
+		<segment id="47" parent="49" relname="joint">Торнадо продолжают бушевать в штатах Канзас, Оклахома, Небраска и Миссури</segment>
+		<segment id="48" parent="49" relname="joint">.\n\nМестное население продолжает подсчитывать убытки.\n\nЧетыре смерча бушуют неподалеку от города Чиликот, штат Миссури.</segment>
+		<segment id="52" parent="53" relname="attribution">Местная больница сообщает,</segment>
+		<segment id="53" parent="54" relname="span">что травмы различной степени тяжести получили 10 человек.</segment>
+		<segment id="55" parent="59" relname="span">Среди них 2 девочки, которые во время бури находились в трейлере.</segment>
+		<segment id="56" parent="58" relname="sequence">Порыв ветра поднял их дом на колесах</segment>
+		<segment id="57" parent="58" relname="sequence">и пронес несколько метров по воздуху.</segment>
+		<segment id="60" parent="64" relname="joint">Трейлер упал на припаркованный рядом автомобиль.</segment>
+		<segment id="61" parent="62" relname="cause-effect">Девочки получили незначительные ранения.\n\nВ разрушенном ветром городе Халлам, штат Небраска,</segment>
+		<segment id="62" parent="63" relname="span">полиция разрешила жителям вернуться к их разрушенным домам,</segment>
+		<segment id="65" parent="67" relname="span">однако спустя всего несколько часов все они были вновь эвакуированы</segment>
+		<segment id="66" parent="65" relname="cause-effect">из-за угрозы новых штормов,</segment>
+		<segment id="68" parent="69" relname="comparison">сообщает CNN.\n\nВ субботу торнадо буквально снес с лица земли крохотный городок Халлам.</segment>
+		<segment id="74" parent="78" relname="span">Погибла 73-летняя женщина, еще 37 человек были ранены.</segment>
+		<segment id="75" parent="77" relname="span">Смерч уничтожил 158 домов.</segment>
+		<segment id="76" parent="75" relname="elaboration">В городе осталось одно здание, пригодное для проживания.\n\n\"Уничтожено все\",</segment>
+		<segment id="79" parent="78" relname="attribution">- говорит жительница Халлама Милли Шустер.</segment>
+		<segment id="81" parent="87" relname="span">Из имущества после торнадо у нее остались антикварные часы, Библия и шкаф с одеждой.\n\nМенее сильные торнадо,</segment>
+		<segment id="82" parent="86" relname="joint">которые срывают крыши с домов</segment>
+		<segment id="85" parent="86" relname="joint">и валят линии электропередачи, продолжают двигаться по территории Небраски.</segment>
+		<segment id="88" parent="89" relname="sequence">Губернатор штата Майк Йоханс попросил президента объявить чрезвычайное положение в десяти округах Небраски.\n\</segment>
+		<segment id="90" parent="92" relname="span">nМежду тем для жителей Иллинойса основной проблемой остается вода.</segment>
+		<segment id="91" parent="90" relname="elaboration">Ряд городов штата находятся под угрозой полного затопления.</segment>
+		<segment id="93" parent="97" relname="span">В городе Гурне</segment>
+		<segment id="94" parent="95" relname="cause-effect">из-за наводнения</segment>
+		<segment id="95" parent="96" relname="span">отменены занятия в школах.</segment>
+		<segment id="98" parent="99" relname="sequence">Дома остались 2 000 детей.\n\nНаводнение грозит также ряду округов штата Айова.</segment>
+		<segment id="100" parent="106" relname="sequence">Штормы, которые начались в пятницу, сопровождались ураганным ветром, градом и грозами.</segment>
+		<segment id="101" parent="105" relname="joint">На штат обрушилось сразу 19 торнадо.\n\nГубернатор Айовы Том Вилсак попросил Вашингтон объявить</segment>
+		<segment id="102" parent="104" relname="span">23 округа штата зонами стихийного бедствия</segment>
+		<segment id="103" parent="102" relname="elaboration">.\n\nБез электричества остаются тысячи жителей штата Айова.</segment>
+		<segment id="107" parent="109" relname="joint">Линии электропередачи были повреждены ветром еще на выходных</segment>
+		<segment id="108" parent="109" relname="joint">и до сих пор не восстановлены.\n\nВ Мичигане в минувшие выходные шторм оставил без электроэнергии 540 000 домов.</segment>
+		<segment id="110" parent="111" relname="joint">38 600 домов до сих пор остаются без электричества.\n\nВ штате Нью-Йорк во время шторма молния ударила в газопровод.</segment>
+		<segment id="112" parent="114" relname="span">Столб огня достигал 10 метров.</segment>
+		<segment id="113" parent="112" relname="elaboration">В верхней части штата тысячи людей также до сих пор живут без электроэнергии.\n\nИсточник: https://www.newsru.com/world/25May2004/tornado.html\n</segment>
+		<group id="44" type="multinuc" parent="121" relname="preparation"/>
+		<group id="121" type="multinuc" parent="122" relname="span"/>
+		<group id="73" type="multinuc" parent="121" relname="joint"/>
+		<group id="51" type="multinuc" parent="73" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="49" type="multinuc" parent="46" relname="elaboration"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="54" type="span" parent="72" relname="span"/>
+		<group id="71" type="multinuc" parent="54" relname="elaboration"/>
+		<group id="59" type="span" parent="71" relname="sequence"/>
+		<group id="58" type="multinuc" parent="55" relname="elaboration"/>
+		<group id="70" type="multinuc" parent="71" relname="sequence"/>
+		<group id="64" type="multinuc" parent="70" relname="contrast"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="69" type="multinuc" parent="70" relname="contrast"/>
+		<group id="67" type="span" parent="69" relname="comparison"/>
+		<group id="120" type="multinuc" parent="121" relname="joint"/>
+		<group id="80" type="span" parent="120" relname="joint"/>
+		<group id="78" type="span" parent="80" relname="span"/>
+		<group id="77" type="span" parent="74" relname="elaboration"/>
+		<group id="119" type="multinuc" parent="120" relname="joint"/>
+		<group id="89" type="multinuc" parent="119" relname="joint"/>
+		<group id="87" type="span" parent="89" relname="sequence"/>
+		<group id="86" type="multinuc" parent="81" relname="elaboration"/>
+		<group id="118" type="span" parent="119" relname="joint"/>
+		<group id="92" type="span" parent="118" relname="span"/>
+		<group id="117" type="multinuc" parent="92" relname="elaboration"/>
+		<group id="99" type="multinuc" parent="117" relname="joint"/>
+		<group id="97" type="span" parent="99" relname="sequence"/>
+		<group id="96" type="span" parent="93" relname="cause-effect"/>
+		<group id="116" type="multinuc" parent="117" relname="joint"/>
+		<group id="106" type="multinuc" parent="116" relname="joint"/>
+		<group id="105" type="multinuc" parent="106" relname="sequence"/>
+		<group id="104" type="span" parent="105" relname="joint"/>
+		<group id="115" type="multinuc" parent="116" relname="joint"/>
+		<group id="111" type="multinuc" parent="115" relname="joint"/>
+		<group id="109" type="multinuc" parent="111" relname="joint"/>
+		<group id="114" type="span" parent="115" relname="joint"/>
+		<group id="122" type="span"/>
+	</body>
+</rst>

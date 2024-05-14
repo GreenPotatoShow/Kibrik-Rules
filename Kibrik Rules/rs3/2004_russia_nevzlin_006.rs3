@@ -1,0 +1,24 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="7" parent="9" relname="span">Адвокат совладельца ЮКОСа Леонида Невзлина опротестовал в суде решение о выдаче санкции на арест бизнесмена\n\nАдвокат одного из совладельцев НК ЮКОС Леонида Невзлина подал жалобу в Мосгорсуд на решение Басманного суда,</segment>
+		<segment id="8" parent="7" relname="elaboration">выдавшего санкцию на арест предпринимателя.</segment>
+		<segment id="10" parent="15" relname="attribution">Об этом \"Интерфаксу\" в понедельник сообщил адвокат Невзлина Дмитрий Харитонов</segment>
+		<segment id="11" parent="13" relname="sequence">.\n\nБасманный суд Москвы 26 июля выдал санкцию на арест одного из совладельцев НК ЮКОС Леонида Невзлина</segment>
+		<segment id="12" parent="13" relname="sequence">по обвинению в причастности к убийству и покушениям на убийство в конце 90-х годов.\n\nЛеонид Невзлин в январе этого года уже был объявлен в международный розыск,</segment>
+		<segment id="14" parent="15" relname="joint">и суд выдал санкцию на его арест по обвинению в уклонении от уплаты налогов в размере 27 млн рублей, а также хищении чужого имущества на сумму более 3 млрд рублей.\n\nИсточник: https://www.newsru.com/russia/23Aug2004/nevzlin.html\n</segment>
+		<group id="9" type="span" parent="17" relname="joint"/>
+		<group id="16" type="span" parent="17" relname="joint"/>
+		<group id="15" type="multinuc" parent="16" relname="span"/>
+		<group id="13" type="multinuc" parent="15" relname="joint"/>
+		<group id="17" type="multinuc"/>
+	</body>
+</rst>

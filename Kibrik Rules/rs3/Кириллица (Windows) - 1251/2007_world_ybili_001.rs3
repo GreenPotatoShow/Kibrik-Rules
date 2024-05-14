@@ -1,0 +1,37 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="13" parent="35" relname="span">В Багдаде убит секретарь министерства внутренних дел Ирака\n\nВ Багдаде убит секретарь министерства внутренних дел Ирака Хасан Идан аль-Малики.\n\</segment>
+		<segment id="14" parent="21" relname="attribution">nПо словам представителя полиции,</segment>
+		<segment id="15" parent="21" relname="joint">в среду вечером неизвестные блокировали тремя машинами конвой высокопоставленного чиновника на северо-востоке столицы</segment>
+		<segment id="16" parent="20" relname="same-unit">и открыли огонь из автоматического оружия.\n\nДвое сотрудников МВД, сопровождавших Хасана аль-Малики,</segment>
+		<segment id="17" parent="19" relname="joint">получили тяжелые ранения</segment>
+		<segment id="18" parent="19" relname="joint">и были доставлены в госпиталь,</segment>
+		<segment id="23" parent="25" relname="joint">передает ИТАР-ТАСС.\n\nВ этот же день как минимум один человек погиб</segment>
+		<segment id="24" parent="25" relname="joint">и трое получили ранения в результате теракта в иракском городе Мосуле.</segment>
+		<segment id="27" parent="28" relname="attribution">По данным полиции,</segment>
+		<segment id="28" parent="29" relname="span">террорист-смертник направил грузовик, начиненный взрывчаткой, на дом старейшины одного из местных племен.</segment>
+		<segment id="30" parent="32" relname="span">Старейшина входит в организацию,</segment>
+		<segment id="31" parent="30" relname="purpose">цель которой - борьба против террористических группировок на территории Ирака.\n\nИсточник: https://www.newsru.com/world/22Nov2007/ybili.html\n</segment>
+		<group id="34" type="multinuc" parent="13" relname="elaboration"/>
+		<group id="26" type="multinuc" parent="34" relname="joint"/>
+		<group id="22" type="span" parent="26" relname="joint"/>
+		<group id="21" type="multinuc" parent="22" relname="span"/>
+		<group id="20" type="multinuc" parent="21" relname="joint"/>
+		<group id="19" type="multinuc" parent="20" relname="same-unit"/>
+		<group id="25" type="multinuc" parent="26" relname="joint"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="29" type="span" parent="33" relname="span"/>
+		<group id="32" type="span" parent="29" relname="elaboration"/>
+		<group id="35" type="span"/>
+	</body>
+</rst>

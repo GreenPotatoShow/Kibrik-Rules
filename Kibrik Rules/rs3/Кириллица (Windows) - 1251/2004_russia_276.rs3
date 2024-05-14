@@ -1,0 +1,43 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="17" relname="span">Из больниц Северной Осетии выписаны 276 бывших заложников\n\nИз больниц Северной Осетии выписаны 276 человек, пострадавших в результате теракта в Беслане,</segment>
+		<segment id="16" parent="15" relname="attribution">сообщил в субботу министр здравоохранения республики Александр Соплевенко.</segment>
+		<segment id="18" parent="17" relname="elaboration">Все они переведены на амбулаторно-поликлиническое лечение.</segment>
+		<segment id="20" parent="22" relname="span">В больницах Северной Осетии остаются 186 человек, в том числе 115 детей,</segment>
+		<segment id="21" parent="20" relname="attribution">сообщает РИА \"Новости\".\n\nМинистр высказал озабоченность тем,</segment>
+		<segment id="23" parent="24" relname="comparison">что у 80% детей дают о себе знать полученные баротравмы, в том числе, тугоухость, и осколочные ранения с труднодоступными инородными предметами в теле.\n\</segment>
+		<segment id="26" parent="32" relname="same-unit">nКроме того,</segment>
+		<segment id="27" parent="30" relname="attribution">отметил министр,</segment>
+		<segment id="28" parent="30" relname="span">у 10 детей наблюдаются острые посттравматические психологические расстройства,</segment>
+		<segment id="29" parent="28" relname="elaboration">\"опыта лечения которых у врачей Северной Осетии нет\".</segment>
+		<segment id="33" parent="38" relname="attribution">По данным министра,</segment>
+		<segment id="34" parent="38" relname="span">в Республиканской клинической больнице остается также один крайне тяжелый больной,</segment>
+		<segment id="35" parent="37" relname="span">которого не отправили в первые дни в Московские клиники,</segment>
+		<segment id="36" parent="35" relname="cause-effect">так как он был нетранспортабельным.\n\nМинистр здравоохранения Северной Осетии считает необходимым направить этих детей на лечение в московские клиники.\n\nИсточник: https://www.newsru.com/russia/18Sep2004/276.html\n</segment>
+		<group id="25" type="multinuc" parent="41" relname="joint"/>
+		<group id="19" type="span" parent="25" relname="joint"/>
+		<group id="17" type="span" parent="19" relname="span"/>
+		<group id="24" type="multinuc" parent="25" relname="joint"/>
+		<group id="22" type="span" parent="24" relname="comparison"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="32" type="multinuc" parent="40" relname="span"/>
+		<group id="31" type="span" parent="32" relname="same-unit"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="39" type="span" parent="32" relname="elaboration"/>
+		<group id="38" type="span" parent="39" relname="span"/>
+		<group id="37" type="span" parent="34" relname="elaboration"/>
+		<group id="41" type="multinuc"/>
+	</body>
+</rst>

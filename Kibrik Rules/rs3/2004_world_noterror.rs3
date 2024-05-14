@@ -1,0 +1,44 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="30" relname="preparation">США официально исключили Ирак из списка стран, поддерживающих терроризм\n\nАдминистрация США официально исключила Ирак из списка стран, поддерживающих терроризм.</segment>
+		<segment id="16" parent="20" relname="joint">Сообщение об этом опубликовано в среду в официальном вестнике Federal Register.\n\nЭта мера является чисто символической,</segment>
+		<segment id="17" parent="19" relname="span">и не будет иметь практических последствий,</segment>
+		<segment id="18" parent="17" relname="condition">отмечается в сопроводительном пояснении государственного секретаря США Колина Пауэлла,</segment>
+		<segment id="21" parent="28" relname="attribution">сообщает РИА \"Новости\".\n\nСанкции против Ирака,</segment>
+		<segment id="22" parent="28" relname="joint">введенные в связи с обвинениями в пособничестве терроризму со стороны бывшего президента Саддама Хусейна,</segment>
+		<segment id="23" parent="27" relname="span">были сняты Вашингтоном после падения диктаторского режима.\n\n\"Это решение является новым шагом к усилению сотрудничества Соединенных Штатов с Ираком</segment>
+		<segment id="24" parent="26" relname="joint">для борьбы с терроризмом</segment>
+		<segment id="25" parent="26" relname="joint">и представляет собой меру символического значения для нового иракского правительства\",</segment>
+		<segment id="32" parent="33" relname="attribution">- пояснил Пауэлл</segment>
+		<segment id="33" parent="34" relname="span">.\n\</segment>
+		<segment id="36" parent="38" relname="sequence">nВ 1990 году Ирак был внесен в список государств, оказывающих поддержку терроризму.</segment>
+		<segment id="37" parent="38" relname="sequence">В 2003 году связанные с этим санкции против Багдада были сняты.</segment>
+		<segment id="39" parent="40" relname="joint">В сентябре нынешнего года президент США Джордж Буш потребовал от главы внешнеполитического ведомства исключить Ирак из этого \"черного списка\".\n\nИсточник: https://www.newsru.com/world/20Oct2004/noterror.html\n</segment>
+		<group id="35" type="span" parent="41" relname="span"/>
+		<group id="31" type="span" parent="35" relname="span"/>
+		<group id="30" type="multinuc" parent="31" relname="span"/>
+		<group id="20" type="multinuc" parent="30" relname="joint"/>
+		<group id="19" type="span" parent="20" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="28" type="multinuc" parent="29" relname="span"/>
+		<group id="27" type="span" parent="28" relname="joint"/>
+		<group id="26" type="multinuc" parent="23" relname="purpose"/>
+		<group id="34" type="span" parent="31" relname="attribution"/>
+		<group id="40" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="38" type="multinuc" parent="40" relname="joint"/>
+		<group id="41" type="span"/>
+	</body>
+</rst>

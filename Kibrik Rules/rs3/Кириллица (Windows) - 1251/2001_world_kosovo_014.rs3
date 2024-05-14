@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="20" relname="span">Число жертв теракта в Косово достигло 10 человек\n\nЧисло жертв террористического акта, совершенного в конце прошлой недели на севере Косово, достигло 10 человек.</segment>
+		<segment id="19" parent="18" relname="elaboration">Первоначально сообщалось о 7 погибших.</segment>
+		<segment id="21" parent="22" relname="attribution">Как заявил представитель миссии ООН в Косово,</segment>
+		<segment id="22" parent="23" relname="span">в больницах еще остаются 15 раненых.\n\nАвтобус, перевозивший несколько десятков сербов,</segment>
+		<segment id="24" parent="23" relname="elaboration">взорвался в пятницу, 16 февраля, на мине неподалеку от косовского города Подуево.</segment>
+		<segment id="26" parent="31" relname="concession">Хотя никто не взял на себя ответственности за это преступление,</segment>
+		<segment id="27" parent="31" relname="joint">в Белграде убеждены, что оно было совершено албанскими экстремистами.\n\nАвтобус был полностью уничтожен,</segment>
+		<segment id="28" parent="29" relname="attribution">и уже тогда Reuters передавало,</segment>
+		<segment id="29" parent="30" relname="span">что \"жертв будет не 7 человек, а гораздо больше\".</segment>
+		<segment id="34" parent="36" relname="joint">В результате взрыва было ранено 35 сербов,</segment>
+		<segment id="35" parent="36" relname="joint">из них 10 тяжело.</segment>
+		<segment id="37" parent="39" relname="span">AP назвало этот теракт \"одним из самых ужасных со времени окончания войны 1999 года\".\n\nДвумя днями позже на юге Сербии, недалеко от границы с Косово,</segment>
+		<segment id="38" parent="37" relname="elaboration">на мине подорвалась машина с тремя сербскими полицейскими.</segment>
+		<segment id="40" parent="42" relname="joint">Машина была полностью разрушена взрывной волной,</segment>
+		<segment id="41" parent="42" relname="joint">рядом с ней образовалась большая воронка.</segment>
+		<segment id="43" parent="42" relname="elaboration">Полицейские погибли.</segment>
+		<segment id="46" parent="45" relname="elaboration">Специалисты не смогли уточнить, было ли взрывное устройство радиоуправляемым.\n\nИсточник: https://www.newsru.com/world/20Feb2001/kosovo.html\n</segment>
+		<group id="20" type="span" parent="49" relname="preparation"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="33" type="span" parent="48" relname="cause-effect"/>
+		<group id="25" type="span" parent="33" relname="span"/>
+		<group id="23" type="span" parent="25" relname="span"/>
+		<group id="32" type="span" parent="25" relname="concession"/>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="span"/>
+		<group id="36" type="multinuc" parent="48" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="39" type="span" parent="45" relname="span"/>
+		<group id="44" type="span" parent="39" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="44" relname="span"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

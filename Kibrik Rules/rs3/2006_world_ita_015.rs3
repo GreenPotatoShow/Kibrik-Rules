@@ -1,0 +1,19 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="8" parent="10" relname="sequence">Близ Италии затонул паром с нелегальными иммигрантами\n\nНедалеко от итальянского острова Лампедуза прошедшей ночью затонул баркас с нелегальными иммигрантами на борту.\n\nКак сообщили в субботу журналистам местные власти, на судне находилось 100 нелегалов.</segment>
+		<segment id="9" parent="10" relname="sequence">На место крушения немедленно вышли катера итальянской береговой охраны, которым удалось спасти 70 человек.\n\nНа данный момент в море обнаружено 10 тел погибших.</segment>
+		<segment id="11" parent="13" relname="span">Причины, по которым баркас пошел на дно,</segment>
+		<segment id="12" parent="11" relname="condition">пока неизвестны.\n\nПоиски остальных нелегальных иммигрантов продолжаются.\n\nИсточник: https://www.newsru.com/world/19Aug2006/ita.html\n</segment>
+		<group id="10" type="multinuc" parent="14" relname="span"/>
+		<group id="13" type="span" parent="10" relname="cause-effect"/>
+		<group id="14" type="span"/>
+	</body>
+</rst>

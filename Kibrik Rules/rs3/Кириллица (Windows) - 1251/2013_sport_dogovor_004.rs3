@@ -1,0 +1,81 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="36" relname="attribution">Результаты расследования обстоятельств игры \"Амкар\" - \"Анжи\" отправлены в прокуратуру\n\nПрезидент Российского футбольного союза Николай Толстых сообщил,</segment>
+		<segment id="34" parent="36" relname="joint">что Союз поручил РФПЛ изучить обстоятельства матча 17-го тура Премьер-лиги \"Амкар\" - \"Анжи\" (1:2),</segment>
+		<segment id="35" parent="36" relname="joint">передает \"Интерфакс\".\n\n\"Также в РФС пришел запрос от прокуратуры Пермского края с просьбой отправить все материалы, которые имеются в распоряжении Союза по данному матчу.</segment>
+		<segment id="38" parent="40" relname="span">Мы выполнили эту просьбу,</segment>
+		<segment id="39" parent="38" relname="condition">отправив в том числе материалы комиссии РФПЛ\",</segment>
+		<segment id="41" parent="40" relname="attribution">- объявил Толстых журналистам после заседания исполкома РФС в среду.\n\nВстреча 17-го тура чемпионата России между \"Амкаром\" и \"Анжи\" состоялась 26 ноября в Перми.</segment>
+		<segment id="44" parent="48" relname="span">Игра завершилась со счетом 2:1 в пользу гостей,</segment>
+		<segment id="45" parent="46" relname="attribution">победный гол махачкалинцы забили на 92-й минуте.\n\nПосле СМИ писали о том,</segment>
+		<segment id="46" parent="47" relname="span">что игра могла носить договорной характер.</segment>
+		<segment id="49" parent="48" relname="interpretation-evaluation">Указывалось, что перед матчем букмекеры зафиксировали всплеск ставок на победу \"Анжи\".</segment>
+		<segment id="51" parent="53" relname="span">Однако распущенные ныне эксперты РФС не выявили договорного характера этой встречи.\n\nТем временем министр спорта РФ Виталий Мутко после заседания призвал не драматизировать ситуацию с договорными футбольными матчами в России.\n\n\"Не надо преувеличивать проблему.</segment>
+		<segment id="52" parent="51" relname="background">В 90-е годы я был президентом \"Зенита\".</segment>
+		<segment id="54" parent="62" relname="span">Вот уж когда были договорные матчи.</segment>
+		<segment id="55" parent="57" relname="joint">Я помню, как приезжали в какой-то город,</segment>
+		<segment id="56" parent="57" relname="joint">и тут же появлялись непонятные люди,</segment>
+		<segment id="58" parent="60" relname="joint">\"решалы\", судьи,</segment>
+		<segment id="59" parent="60" relname="joint">назначали по два пенальти в конце матча\",</segment>
+		<segment id="63" parent="65" relname="contrast">- сказал Мутко журналистам.\n\n\"Да, сейчас применяются более изощренные методы,</segment>
+		<segment id="64" parent="65" relname="contrast">но такого беспредела нет\",</segment>
+		<segment id="66" parent="65" relname="attribution">- отметил он.\n\</segment>
+		<segment id="72" parent="75" relname="attribution">nПо его мнению,</segment>
+		<segment id="73" parent="74" relname="purpose">чтобы проблема договорных матчей была решена,</segment>
+		<segment id="74" parent="75" relname="span">должно измениться футбольное сообщество.</segment>
+		<segment id="77" parent="79" relname="span">\"Мы всегда хотим,</segment>
+		<segment id="78" parent="77" relname="purpose">чтобы кто-то пришел со стороны</segment>
+		<segment id="80" parent="82" relname="joint">и все исправил,</segment>
+		<segment id="81" parent="82" relname="joint">все наладил.</segment>
+		<segment id="84" parent="83" relname="elaboration">Ждут появления каких-то специальных органов.</segment>
+		<segment id="88" parent="90" relname="span">Но так не бывает, общество само должно меняться.</segment>
+		<segment id="89" parent="88" relname="elaboration">В данном случае - футбольное\",</segment>
+		<segment id="91" parent="90" relname="attribution">- сказал глава Минспорта.\n\nИсточник: https://www.newsru.com/sport/27Feb2013/dogovor.html\n</segment>
+		<group id="71" type="multinuc" parent="95" relname="span"/>
+		<group id="43" type="multinuc" parent="71" relname="joint"/>
+		<group id="37" type="span" parent="43" relname="sequence"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="42" type="span" parent="43" relname="sequence"/>
+		<group id="40" type="span" parent="42" relname="span"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="50" type="span" parent="70" relname="contrast"/>
+		<group id="48" type="span" parent="50" relname="span"/>
+		<group id="47" type="span" parent="44" relname="elaboration"/>
+		<group id="69" type="span" parent="70" relname="contrast"/>
+		<group id="53" type="span" parent="69" relname="span"/>
+		<group id="68" type="span" parent="53" relname="elaboration"/>
+		<group id="62" type="span" parent="68" relname="span"/>
+		<group id="61" type="span" parent="54" relname="elaboration"/>
+		<group id="57" type="multinuc" parent="61" relname="span"/>
+		<group id="60" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="67" type="span" parent="62" relname="attribution"/>
+		<group id="65" type="multinuc" parent="67" relname="span"/>
+		<group id="94" type="span" parent="71" relname="interpretation-evaluation"/>
+		<group id="76" type="span" parent="94" relname="span"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="93" type="multinuc" parent="76" relname="elaboration"/>
+		<group id="85" type="span" parent="93" relname="contrast"/>
+		<group id="83" type="multinuc" parent="85" relname="span"/>
+		<group id="79" type="span" parent="83" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="92" type="span" parent="93" relname="contrast"/>
+		<group id="90" type="span" parent="92" relname="span"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

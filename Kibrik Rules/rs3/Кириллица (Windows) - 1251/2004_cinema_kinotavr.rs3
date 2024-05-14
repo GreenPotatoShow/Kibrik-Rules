@@ -1,0 +1,27 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="22" relname="preparation">В Сочи открывается фестиваль \"Кинотавр\"\n\nТоржественная церемония открытия XV Российского и XI Международного кинофестивалей \"Кинотавр\" пройдет в среду вечером в Зимнем театре Сочи.</segment>
+		<segment id="10" parent="16" relname="joint">Для участия в фестивале в Сочи прибыли более 70 деятелей отечественного киноискусства.</segment>
+		<segment id="11" parent="15" relname="joint">Церемонию будут вести президент кинокомпании \"Кинотавр\" Марк Рудинштейн и президент фестиваля Олег Янковский.\n\nВ конкурсах и спецпоказах XV Российского и XI Международного кинофестивалей \"Кинотавр\" участвуют 133 картины.</segment>
+		<segment id="12" parent="14" relname="joint">Среди них 17 лент - в конкурсной программе российского \"Кинотавра\", 16 фильмов - в конкурсе международного \"Кинотавра\" и 39 лент - в конкурсе \"Дебют-Кинотавр.</segment>
+		<segment id="13" parent="14" relname="joint">Короткий метр\".\n\n26 фильмов будут демонстрироваться во внеконкурсной программе российского \"Кинотавра\" и 16 лент - во внеконкурсной программе международного \"Кинотавра\".</segment>
+		<segment id="17" parent="21" relname="joint">Кроме того, 25 фильмов пройдут в ретроспективных программах.\n\nИз отечественных кинолент в конкурс отобраны фильмы \"О любви\" Сергея Соловьева, \"Игры мотыльков\" Андрея Прошкина, \"72 метра\" Владимира Хотиненко.\n\nПредседателя жюри российского конкурса объявят во время церемонии открытия.</segment>
+		<segment id="18" parent="20" relname="span">Жюри международного конкурса возглавит иранский режиссер Джафар Панахи, победитель Венецианского кинофестиваля (фильм \"Круг\").</segment>
+		<segment id="19" parent="18" relname="elaboration">\"Кинотавр\" продлится до 15 мая.\n\nИсточник: https://www.newsru.com/cinema/02Jun2004/kinotavr.html\n</segment>
+		<group id="22" type="multinuc" parent="23" relname="span"/>
+		<group id="16" type="multinuc" parent="22" relname="joint"/>
+		<group id="15" type="multinuc" parent="16" relname="joint"/>
+		<group id="14" type="multinuc" parent="15" relname="joint"/>
+		<group id="21" type="multinuc" parent="22" relname="joint"/>
+		<group id="20" type="span" parent="21" relname="joint"/>
+		<group id="23" type="span"/>
+	</body>
+</rst>

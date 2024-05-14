@@ -1,0 +1,84 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="37" parent="42" relname="attribution">Путин дал напутствие спецслужбам:</segment>
+		<segment id="38" parent="42" relname="joint">решительно действовать против терроризма</segment>
+		<segment id="39" parent="41" relname="joint">и охранять арктические рубежи\n\nВ День чекиста президент Владимир Путин поведал о достижениях работников российских спецслужб</segment>
+		<segment id="40" parent="41" relname="joint">и пожелал им продолжать \"столь же решительно\" вести контртеррористическую деятельность.</segment>
+		<segment id="44" parent="46" relname="span">Также на торжественном вечере, посвященном Дню работника органов безопасности,</segment>
+		<segment id="45" parent="44" relname="elaboration">глава РФ призвал к защите государственной границы на арктических рубежах и обустройству пограничной инфраструктуры на Кавказе и Дальнем Востоке.\n\nВ своем выступлении президент и бывший сотрудник КГБ привел подробную статистику деятельности работников ФСБ за 2013 год,</segment>
+		<segment id="47" parent="46" relname="attribution">передает \"Интерфакс\".</segment>
+		<segment id="50" parent="56" relname="span">\"В этом году сотрудники ФСБ предотвратили 77 преступлений террористической направленности.</segment>
+		<segment id="51" parent="55" relname="span">В том числе 12 терактов.</segment>
+		<segment id="52" parent="54" relname="joint">В ходе спецопераций нейтрализовано 255 боевиков, включая 40 главарей группировок.</segment>
+		<segment id="53" parent="54" relname="joint">Задержано более 500 бандитов и их пособников\",</segment>
+		<segment id="57" parent="56" relname="attribution">- рассказал Путин</segment>
+		<segment id="59" parent="60" relname="attribution">.\n\nГлава России также отметил,</segment>
+		<segment id="60" parent="61" relname="span">что спецслужбам необходимо и дальше действовать столь же решительно.</segment>
+		<segment id="62" parent="64" relname="span">\"В том числе при контртеррористическом обеспечении международных мероприятий,</segment>
+		<segment id="63" parent="62" relname="elaboration">которые в будущем году принимает наша страна\",</segment>
+		<segment id="65" parent="70" relname="attribution">- подчеркнул президент,</segment>
+		<segment id="66" parent="70" relname="span">очевидно, подразумевая саммит \"Большой восьмерки\" и Олимпиаду в Сочи,</segment>
+		<segment id="69" parent="66" relname="elaboration">которые пройдут в России в 2014 году.\n\nКроме того, Путин назвал основные направления, по которым спецслужбы должны проводить совершенствование системы охраны государственной границы.</segment>
+		<segment id="73" parent="75" relname="span">\"Серьезное внимание предстоит уделить совершенствованию системы охраны государственной границы.</segment>
+		<segment id="74" parent="73" relname="elaboration">Ключевые направления здесь - это наши арктические рубежи, обустройство пограничной инфраструктуры на Кавказе и Дальнем Востоке\",</segment>
+		<segment id="76" parent="75" relname="attribution">- пояснил глава государства.\n\nОтметим, что ранее Путин велел главе Минобороны обеспечить Россию \"всеми рычагами для защиты национальных интересов\" в Арктике.</segment>
+		<segment id="78" parent="80" relname="span">В настоящий момент Россия разворачивает инфраструктуру и воинские части на арктическом направлении,</segment>
+		<segment id="79" parent="78" relname="condition">возвращаясь к активному освоению этого региона</segment>
+		<segment id="81" parent="82" relname="joint">.\n\nПутин также обратился к сотрудникам спецслужб с призывом охранять конституционный строй государства.</segment>
+		<segment id="83" parent="84" relname="attribution">Он отметил,</segment>
+		<segment id="84" parent="85" relname="span">что задача спецслужб - и впредь твердо стоять на страже норм и принципов Конституции РФ.</segment>
+		<segment id="87" parent="93" relname="joint">\"Давать жесткий отпор тем, кто пытается расшатать основы конституционной системы страны, конституционного строя,</segment>
+		<segment id="88" parent="92" relname="joint">покушается на целостность страны</segment>
+		<segment id="89" parent="91" relname="joint">и стремится расколоть наше общество,</segment>
+		<segment id="90" parent="91" relname="joint">посеять национальную, религиозную нетерпимость\",</segment>
+		<segment id="94" parent="93" relname="attribution">- пояснил президент.</segment>
+		<segment id="96" parent="99" relname="attribution">Он добавил,</segment>
+		<segment id="97" parent="99" relname="span">что и сами сотрудники должны всегда действовать строго в соответствии с Конституцией,</segment>
+		<segment id="98" parent="97" relname="elaboration">\"уважать закон, права, свободы и достоинство граждан нашей страны\".\n\nИсточник: https://www.newsru.com/russia/20Dec2013/putin.html\n</segment>
+		<group id="49" type="multinuc" parent="107" relname="joint"/>
+		<group id="43" type="span" parent="49" relname="joint"/>
+		<group id="42" type="multinuc" parent="43" relname="span"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="46" type="span" parent="48" relname="span"/>
+		<group id="106" type="multinuc" parent="107" relname="joint"/>
+		<group id="58" type="span" parent="106" relname="joint"/>
+		<group id="56" type="span" parent="58" relname="span"/>
+		<group id="55" type="span" parent="50" relname="elaboration"/>
+		<group id="54" type="multinuc" parent="51" relname="elaboration"/>
+		<group id="105" type="span" parent="106" relname="joint"/>
+		<group id="61" type="span" parent="104" relname="preparation"/>
+		<group id="104" type="multinuc" parent="105" relname="span"/>
+		<group id="72" type="span" parent="104" relname="joint"/>
+		<group id="64" type="span" parent="72" relname="span"/>
+		<group id="71" type="span" parent="64" relname="attribution"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="77" type="span" parent="103" relname="joint"/>
+		<group id="75" type="span" parent="77" relname="span"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="86" type="multinuc" parent="102" relname="joint"/>
+		<group id="82" type="multinuc" parent="86" relname="joint"/>
+		<group id="80" type="span" parent="82" relname="joint"/>
+		<group id="85" type="span" parent="86" relname="joint"/>
+		<group id="101" type="multinuc" parent="102" relname="joint"/>
+		<group id="95" type="span" parent="101" relname="joint"/>
+		<group id="93" type="multinuc" parent="95" relname="span"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="107" type="multinuc"/>
+	</body>
+</rst>

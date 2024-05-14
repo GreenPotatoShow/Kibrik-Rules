@@ -1,0 +1,37 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="13" parent="15" relname="span">Шпионы Поуп и Бабкин нанесли флоту России ущерб в 700 миллионов рублей\n\nАмериканский шпион Эдмонд Поуп и его российский агент профессор МВТУ им. Баумана Анатолий Бабкин нанесли ВМФ России ущерб в 700 миллионов рублей.</segment>
+		<segment id="14" parent="13" relname="attribution">Об этом сообщил сегодня журналистам начальник Следственного управления ФСБ России Сергей Балашов,</segment>
+		<segment id="16" parent="17" relname="attribution">который также заявил,</segment>
+		<segment id="17" parent="18" relname="span">что на эту сумму им будет предъявлен судебный иск.\n\</segment>
+		<segment id="20" parent="25" relname="attribution">nПо словам Балашова,</segment>
+		<segment id="21" parent="23" relname="span">расследование уголовного дела в отношении профессора Бабкина,</segment>
+		<segment id="22" parent="21" relname="elaboration">который передавал американцу сведения о новейших разработках российской скоростной подводной ракеты \"Шквал\", продолжается</segment>
+		<segment id="24" parent="25" relname="joint">и скоро будет передано в суд.\n\nЭдмонд Поуп был приговорен за шпионаж 6 декабря прошлого года Мосгорсудом к 20 годам лишения свободы в колонии строгого режима,</segment>
+		<segment id="27" parent="33" relname="span">а 14 декабря Владимир Путин помиловал Поупа,</segment>
+		<segment id="28" parent="30" relname="joint">\"руководствуясь принципами гуманности,</segment>
+		<segment id="29" parent="30" relname="joint">учитывая состояние здоровья осужденного и его личное ходатайство,</segment>
+		<segment id="31" parent="32" relname="joint">а также исходя из высокого уровня отношений между Российской Федерацией и Соединенными Штатами Америки\".\n\nИсточник: https://www.newsru.com/russia/26Apr2001/damage.html\n</segment>
+		<group id="19" type="span" parent="35" relname="joint"/>
+		<group id="15" type="span" parent="19" relname="span"/>
+		<group id="18" type="span" parent="15" relname="elaboration"/>
+		<group id="34" type="multinuc" parent="35" relname="joint"/>
+		<group id="26" type="span" parent="34" relname="joint"/>
+		<group id="25" type="multinuc" parent="26" relname="span"/>
+		<group id="23" type="span" parent="25" relname="joint"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="32" type="multinuc" parent="27" relname="purpose"/>
+		<group id="30" type="multinuc" parent="32" relname="joint"/>
+		<group id="35" type="multinuc"/>
+	</body>
+</rst>

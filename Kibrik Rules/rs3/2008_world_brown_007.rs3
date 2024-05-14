@@ -1,0 +1,77 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="33" relname="span">Британский премьер \"внимательно рассмотрит возможность\" поездки на инаугурацию Медведева\n\nПремьер-министр Великобритании Гордон Браун пока не получал приглашения на инаугурацию избранного президента РФ Дмитрия Медведева,</segment>
+		<segment id="32" parent="31" relname="background">которая состоится 7 мая.</segment>
+		<segment id="34" parent="38" relname="span">\"Браун еще не получал приглашения.</segment>
+		<segment id="35" parent="36" relname="attribution">Насколько мы понимаем,</segment>
+		<segment id="36" parent="37" relname="span">инаугурация не будет предполагать посещения этого мероприятия лидерами стран, исключая, наверное, государства СНГ\",</segment>
+		<segment id="39" parent="40" relname="attribution">- сообщил в среду в Москве посол Великобритании в РФ Энтони Брентон.\n\n\"Но если мы получим такое приглашение,</segment>
+		<segment id="40" parent="41" relname="span">то Браун внимательно рассмотрит возможность поездки на инаугурацию в РФ\",</segment>
+		<segment id="43" parent="42" relname="attribution">- подчеркнул британский дипломат.</segment>
+		<segment id="46" parent="47" relname="attribution">По его словам,</segment>
+		<segment id="47" parent="48" relname="span">британо-российские отношения в последние годы \"не отличались особой гармонией\",</segment>
+		<segment id="49" parent="57" relname="joint">однако существуют, наряду с этим, позитивное развитие экономических двусторонних связей.\n\nГоворя о ситуации с компанией ТНК-ВР,</segment>
+		<segment id="50" parent="53" relname="attribution">он отметил,</segment>
+		<segment id="53" parent="54" relname="span">что \"британские и российские власти очень осторожно разделяют политические и экономические вопросы\".\n\n\"Что касается ТНК-ВР, мы пристально наблюдали за развитием событий\",</segment>
+		<segment id="55" parent="54" relname="attribution">- подчеркнул Брентон,</segment>
+		<segment id="59" parent="64" relname="attribution">отметив,</segment>
+		<segment id="60" parent="64" relname="same-unit">что,</segment>
+		<segment id="61" parent="62" relname="attribution">по мнению представителей самой компании,</segment>
+		<segment id="62" parent="63" relname="span">\"существующие проблемы стали следствием неких внутренних факторов, а не тем, что часть компании является британской\",</segment>
+		<segment id="66" parent="67" relname="attribution">передает ИТАР-ТАСС.\n\nКак сообщалось,</segment>
+		<segment id="67" parent="68" relname="span">в конце марта у 148 иностранных сотрудников \"ТНК-ВР\", командированных из ВР возникли сложности при продлении российских рабочих виз.</segment>
+		<segment id="70" parent="72" relname="joint">Ранее ТНК-ВР могла самостоятельно приглашать на работу сотрудников BP</segment>
+		<segment id="71" parent="72" relname="joint">и выступать инициатором оформления и продления виз для иностранных служащих.</segment>
+		<segment id="73" parent="85" relname="span">Однако с изменениями в российском миграционном законодательстве этим должно заниматься дочернее предприятие BP, зарегистрированное в РФ.</segment>
+		<segment id="74" parent="77" relname="attribution">Тогда в \"ТНК-ВР\" заявили,</segment>
+		<segment id="75" parent="77" relname="span">что на время отзовут сотрудников из компании,</segment>
+		<segment id="76" parent="75" relname="cause-effect">так как статус этих прикомандированных сотрудников не полностью урегулирован в соответствии с нормами российского миграционного законодательства\".</segment>
+		<segment id="79" parent="83" relname="span">Позднее конфликт удалось сгладить</segment>
+		<segment id="80" parent="82" relname="joint">- 29 иностранцам разрешили приехать</segment>
+		<segment id="81" parent="82" relname="joint">и работать на свою компанию.\n\nИсточник: https://www.newsru.com/world/16Apr2008/brown.html\n</segment>
+		<group id="45" type="span" parent="89" relname="joint"/>
+		<group id="33" type="span" parent="44" relname="preparation"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="42" type="span" parent="44" relname="span"/>
+		<group id="38" type="span" parent="42" relname="span"/>
+		<group id="37" type="span" parent="34" relname="elaboration"/>
+		<group id="41" type="span" parent="38" relname="attribution"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="58" type="multinuc" parent="88" relname="joint"/>
+		<group id="48" type="span" parent="58" relname="contrast"/>
+		<group id="57" type="multinuc" parent="58" relname="contrast"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="54" type="span" parent="56" relname="span"/>
+		<group id="87" type="span" parent="88" relname="joint"/>
+		<group id="69" type="span" parent="86" relname="solutionhood"/>
+		<group id="65" type="span" parent="69" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="63" type="span" parent="64" relname="same-unit"/>
+		<group id="68" type="span" parent="65" relname="attribution"/>
+		<group id="86" type="multinuc" parent="87" relname="span"/>
+		<group id="72" type="multinuc" parent="86" relname="contrast"/>
+		<group id="85" type="span" parent="86" relname="contrast"/>
+		<group id="84" type="multinuc" parent="73" relname="elaboration"/>
+		<group id="78" type="span" parent="84" relname="sequence"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="83" type="span" parent="84" relname="sequence"/>
+		<group id="82" type="multinuc" parent="79" relname="elaboration"/>
+		<group id="89" type="multinuc"/>
+	</body>
+</rst>

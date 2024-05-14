@@ -1,0 +1,34 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="11" parent="15" relname="span">Крупный пожар в центре Москвы:</segment>
+		<segment id="12" parent="14" relname="joint">горит здание на Солянке,</segment>
+		<segment id="13" parent="14" relname="joint">тушат три десятка пожарных машин\n\</segment>
+		<segment id="16" parent="20" relname="joint">nВ центре Москвы в зоне плотной застройки вспыхнуло закрытое на реконструкцию здание на улице Солянка:</segment>
+		<segment id="17" parent="19" relname="span">в тушении принимают участие почти три десятка пожарных расчетов,</segment>
+		<segment id="18" parent="17" relname="elaboration">сообщает LifeNews.\n\nВозгорание на крыше закрытого на реконструкцию здания на Солянке,1 началось около полудня.</segment>
+		<segment id="21" parent="20" relname="elaboration">Площадь возгорания составляет более 100 квадратных метров.</segment>
+		<segment id="23" parent="26" relname="cause-effect">Поскольку пожар разгорелся в зоне плотной застройки исторического центра,</segment>
+		<segment id="24" parent="26" relname="span">происшествию присвоен второй номер сложности.\n\nО пострадавших не сообщается.\n\nПо предварительным данным, речь идет об историческом здании на углу улиц Забелина и Солянки,</segment>
+		<segment id="25" parent="24" relname="background">построенном в начале XX века.\n\nИсточник: https://www.newsru.com/russia/26Oct2014/solyanka.html\n</segment>
+		<group id="15" type="span" parent="28" relname="preparation"/>
+		<group id="14" type="multinuc" parent="11" relname="elaboration"/>
+		<group id="28" type="span" parent="29" relname="span"/>
+		<group id="22" type="span" parent="28" relname="span"/>
+		<group id="20" type="multinuc" parent="22" relname="span"/>
+		<group id="19" type="span" parent="20" relname="joint"/>
+		<group id="27" type="span" parent="22" relname="cause-effect"/>
+		<group id="26" type="span" parent="27" relname="span"/>
+		<group id="29" type="span"/>
+	</body>
+</rst>

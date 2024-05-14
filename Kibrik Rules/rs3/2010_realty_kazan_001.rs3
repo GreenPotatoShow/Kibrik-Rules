@@ -1,0 +1,55 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="26" relname="span">Казань стала лидером по удорожанию жилья с начала года\n\nКазань стала лидером по удорожанию жилья по итогам 10 месяцев текущего года среди городов РФ</segment>
+		<segment id="23" parent="25" relname="joint">- стоимость квадратного метра здесь выросла на 7,2%</segment>
+		<segment id="24" parent="25" relname="joint">и составила 39,58 тысячи рублей,</segment>
+		<segment id="27" parent="31" relname="span">пишет РИА \"Новости\" со ссылкой на исследование Национальной ассоциации сметного ценообразования и стоимостного инжиниринга (НАСИ).\n\nНа втором месте по увеличению цены жилья за 10 месяцев,</segment>
+		<segment id="28" parent="29" relname="attribution">по данным ассоциации,</segment>
+		<segment id="29" parent="30" relname="span">оказался Красноярск - на 6,6%, до 41,39 тысячи рублей за квадратный метр.</segment>
+		<segment id="33" parent="41" relname="span">Третье место по этому показателю заняла Москва</segment>
+		<segment id="34" parent="40" relname="comparison">- в столице РФ стоимость жилья выросла на 5,2%</segment>
+		<segment id="35" parent="39" relname="comparison">- до 134,29 тысячи рублей за \"квадрат\".\n\nВместе с тем, отмечается в материалах НАСИ,</segment>
+		<segment id="36" parent="38" relname="span">лидером по удешевлению жилья стал Сочи,</segment>
+		<segment id="37" parent="36" relname="elaboration">где цена \"квадрата\" упала с начала года на 5,9% - до 83,4 тысячи рублей.</segment>
+		<segment id="42" parent="41" relname="interpretation-evaluation">Также довольно значительно подешевела недвижимость в Тольятти - на 5%, до 29,14 тысячи рублей за квадратный метр.</segment>
+		<segment id="44" parent="46" relname="span">На третьем месте по удешевлению жилья оказался Брянск</segment>
+		<segment id="45" parent="44" relname="elaboration">- здесь цена квадратного метра снизилась на 1,6%</segment>
+		<segment id="47" parent="51" relname="comparison">и составила 31,99 тысячи рублей.\n\nВ Санкт-Петербурге,</segment>
+		<segment id="48" parent="50" relname="span">по итогам 10 месяцев текущего года,</segment>
+		<segment id="49" parent="48" relname="elaboration">жилье подорожало на 1% - до 71,38 тысячи рублей за квадратный метр.</segment>
+		<segment id="53" parent="59" relname="comparison">Московская область продемонстрировала рост цен на недвижимость на 3% - до 68,78 тысячи рублей за \"квадрат\".</segment>
+		<segment id="54" parent="58" relname="comparison">В Новосибирске стоимость жилья увеличилась за год на 1,7%,</segment>
+		<segment id="55" parent="57" relname="comparison">составив 47,04 тысячи рублей за \"квадрат\".\n\</segment>
+		<segment id="56" parent="57" relname="comparison">nПри этом в Екатеринбурге и Нижнем Новгороде жилье подешевело на 0,1% и 0,8% - до 52,25 тысячи рублей и 44,65 тысячи рублей соответственно.\n\nИсточник: https://www.newsru.com/realty/08Nov2010/kazan.html\n</segment>
+		<group id="32" type="multinuc" parent="62" relname="joint"/>
+		<group id="26" type="span" parent="32" relname="comparison"/>
+		<group id="25" type="multinuc" parent="22" relname="elaboration"/>
+		<group id="31" type="span" parent="32" relname="comparison"/>
+		<group id="30" type="span" parent="27" relname="elaboration"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="43" type="span" parent="61" relname="comparison"/>
+		<group id="41" type="span" parent="43" relname="span"/>
+		<group id="40" type="multinuc" parent="33" relname="elaboration"/>
+		<group id="39" type="multinuc" parent="40" relname="comparison"/>
+		<group id="38" type="span" parent="39" relname="comparison"/>
+		<group id="60" type="multinuc" parent="61" relname="comparison"/>
+		<group id="52" type="multinuc" parent="60" relname="comparison"/>
+		<group id="46" type="span" parent="52" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="comparison"/>
+		<group id="59" type="multinuc" parent="60" relname="comparison"/>
+		<group id="58" type="multinuc" parent="59" relname="comparison"/>
+		<group id="57" type="multinuc" parent="58" relname="comparison"/>
+		<group id="62" type="multinuc"/>
+	</body>
+</rst>

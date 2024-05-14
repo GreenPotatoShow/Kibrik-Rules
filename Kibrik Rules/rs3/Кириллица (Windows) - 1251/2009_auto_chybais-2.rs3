@@ -1,0 +1,74 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="33" relname="span">Водителя Чубайса лишили прав за \"встречку\":</segment>
+		<segment id="30" parent="32" relname="contrast">с мигалками пересекать сплошную можно,</segment>
+		<segment id="31" parent="32" relname="contrast">но только убедившись в безопасности маневра\n\</segment>
+		<segment id="34" parent="36" relname="span">nПосле ДТП с участием главы \"Роснано\" Анатолия Чубайса шофер его служебной машины лишился водительского удостоверения за выезд на встречку.\n\nВчера сообщалось, что сотрудники московской ГИБДД не выезжали на VIP-аварию,</segment>
+		<segment id="35" parent="34" relname="cause-effect">так как не были о ней оповещены.</segment>
+		<segment id="37" parent="39" relname="span">Но, как выяснилось, ДТП все же зарегистрировали,</segment>
+		<segment id="38" parent="37" relname="elaboration">просто после шумихи, поднятой в СМИ,</segment>
+		<segment id="40" parent="41" relname="same-unit">документы о нем долго не могли найти,</segment>
+		<segment id="42" parent="41" relname="attribution">сообщил Life News источник в правоохранительных органах столицы.\n\nДействительно, спустя почти сутки после аварии ГАИ отыскала документы о происшествии.\n\</segment>
+		<segment id="45" parent="47" relname="joint">nПо словам представителя милиции,</segment>
+		<segment id="46" parent="47" relname="joint">помимо автомобиля Чубайса с номером серии АМР и внедорожника пострадали еще четыре машины.\n\</segment>
+		<segment id="48" parent="58" relname="sequence">nНапомним, что во вторник в 18:30 Чубайс выехал на служебном автомобиле с мигалками из офисного здания \"Роснано\" на улице Наметкина.</segment>
+		<segment id="49" parent="57" relname="span">Ехал он по резервной полосе улицы в сторону пересечения с улицей Профсоюзная.</segment>
+		<segment id="50" parent="56" relname="joint">Неожиданно машину подрезал ехавший впереди, в крайнем левом ряду, джип, который повернул влево через две сплошные линии.</segment>
+		<segment id="51" parent="55" relname="contrast">Столкновения избежать не удалось.\n\nС проблесковым маячком, каким был оборудован автомобиль главы \"Роснано\",</segment>
+		<segment id="52" parent="54" relname="contrast">на встречку выезжать можно,</segment>
+		<segment id="53" parent="54" relname="contrast">но только убедившись в безопасности маневра.</segment>
+		<segment id="59" parent="71" relname="joint">До выяснения всех обстоятельств водительское удостоверение у водителя машины отняли.</segment>
+		<segment id="60" parent="68" relname="joint">Лишился прав и водитель джипа.\n\n</segment>
+		<segment id="61" parent="63" relname="joint">\"Эта машина в нарушение правил дорожного движения двигалась по встречной полосе</segment>
+		<segment id="62" parent="63" relname="joint">и врезалась в джип,</segment>
+		<segment id="64" parent="66" relname="joint">водитель которого также нарушил ПДД</segment>
+		<segment id="65" parent="66" relname="joint">и пытался развернуться через двойную сплошную линию разметки\",</segment>
+		<segment id="69" parent="68" relname="attribution">- рассказали в милиции</segment>
+		<segment id="72" parent="73" relname="attribution">.\n\nКак сообщили в \"Роснано\",</segment>
+		<segment id="73" parent="74" relname="span">ни Анатолий Чубайс, ни водитель внедорожника не пострадали.\n\n\"Мы ни в коем случае не рассматриваем эту аварию как попытку покушения на жизнь Анатолия Чубайса.</segment>
+		<segment id="75" parent="77" relname="span">Это обычное ДТП.</segment>
+		<segment id="76" parent="75" relname="elaboration">Просто в этот раз жертвой стала машина Анатолия Чубайса\", - отмечают в \"Роснано\".\n\nИсточник: https://www.newsru.com/auto/26Nov2009/chybais-2.html\n</segment>
+		<group id="33" type="span" parent="82" relname="preparation"/>
+		<group id="32" type="multinuc" parent="29" relname="elaboration"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="44" type="multinuc" parent="82" relname="sequence"/>
+		<group id="36" type="span" parent="44" relname="contrast"/>
+		<group id="43" type="span" parent="44" relname="contrast"/>
+		<group id="41" type="multinuc" parent="43" relname="span"/>
+		<group id="39" type="span" parent="41" relname="same-unit"/>
+		<group id="81" type="span" parent="82" relname="sequence"/>
+		<group id="47" type="multinuc" parent="80" relname="preparation"/>
+		<group id="80" type="multinuc" parent="81" relname="span"/>
+		<group id="58" type="multinuc" parent="80" relname="joint"/>
+		<group id="57" type="span" parent="58" relname="sequence"/>
+		<group id="56" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="contrast"/>
+		<group id="79" type="multinuc" parent="80" relname="joint"/>
+		<group id="71" type="multinuc" parent="79" relname="comparison"/>
+		<group id="70" type="span" parent="71" relname="joint"/>
+		<group id="68" type="multinuc" parent="70" relname="span"/>
+		<group id="67" type="span" parent="68" relname="joint"/>
+		<group id="63" type="multinuc" parent="67" relname="span"/>
+		<group id="66" type="multinuc" parent="63" relname="elaboration"/>
+		<group id="78" type="multinuc" parent="79" relname="comparison"/>
+		<group id="74" type="span" parent="78" relname="joint"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="83" type="span"/>
+	</body>
+</rst>

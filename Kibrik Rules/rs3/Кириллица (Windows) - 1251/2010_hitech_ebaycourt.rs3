@@ -1,0 +1,50 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="58" relname="preparation">В Великобритании судят за махинации по повышению цен на свои товары на eBay\n\</segment>
+		<segment id="22" parent="26" relname="span">nВ Великобритании судом признан виновным продавец,</segment>
+		<segment id="23" parent="25" relname="span">выставлявший свои товары на самом популярном в мире электронном аукционе eBay,</segment>
+		<segment id="24" parent="23" relname="elaboration">который поднимал цены на собственные товары.</segment>
+		<segment id="27" parent="29" relname="restatement">Ему угрожает штраф в размере 75 тыс долларов</segment>
+		<segment id="28" parent="29" relname="restatement">.\n\</segment>
+		<segment id="31" parent="40" relname="attribution">nКак передает ИТАР-ТАСС со ссылкой на британский телеканал SkyNews,</segment>
+		<segment id="32" parent="39" relname="attribution">суд\nанглийского города Брэдфорд постановил,</segment>
+		<segment id="33" parent="35" relname="span">что Пол Барретт нарушал закон,</segment>
+		<segment id="34" parent="33" relname="elaboration">делая через второй компьютер ставки на выставленные им самим на eBay товары,</segment>
+		<segment id="36" parent="38" relname="span">повышая, тем самым, на них цены.\n\nСуд обнаружил по меньшей мере 10 аукционных торгов,</segment>
+		<segment id="37" parent="36" relname="elaboration">в которых Барретт использовал незаконные методы.</segment>
+		<segment id="43" parent="46" relname="attribution">Согласно действующему в Великобритании закону,</segment>
+		<segment id="46" parent="47" relname="span">за каждое такое действие нарушитель наказывается штрафом до 7,5 тыс долларов.\n\nДанная практика, известная как \"подставные торги\", широко применяется сейчас на eBay нечестными продавцами.</segment>
+		<segment id="50" parent="51" relname="contrast">Однако только сейчас, впервые за все время существования интернета, использовавший этот метод мошенник признан судом виновным в совершении преступления</segment>
+		<segment id="52" parent="53" relname="attribution">.\n\nПол Барретт уже признался,</segment>
+		<segment id="53" parent="54" relname="span">что не только сам через второй компьютер участвовал в махинациях по повышению цен на свои товары,</segment>
+		<segment id="55" parent="56" relname="contrast">но просил родственников и друзей делать подставные ставки.\n\nИсточник: https://www.newsru.com/hitech/21Apr2010/ebaycourt.html\n</segment>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="42" type="multinuc" parent="58" relname="joint"/>
+		<group id="30" type="span" parent="42" relname="joint"/>
+		<group id="26" type="span" parent="30" relname="span"/>
+		<group id="25" type="span" parent="22" relname="elaboration"/>
+		<group id="29" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="39" type="multinuc" parent="40" relname="span"/>
+		<group id="35" type="span" parent="39" relname="joint"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="51" type="multinuc" parent="57" relname="joint"/>
+		<group id="47" type="span" parent="51" relname="contrast"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="54" type="span" parent="56" relname="contrast"/>
+		<group id="59" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,47 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="concession" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="18" relname="contrast">Американцы недовольны политикой правящих демократов,</segment>
+		<segment id="17" parent="18" relname="contrast">но еще ниже они оценивают республиканцев\n\nАмериканцы недовольны политикой правящей Демократической партии и президента Барака Обамы,</segment>
+		<segment id="19" parent="21" relname="span">но еще ниже они оценивают деятельность находящихся в оппозиции республиканцев</segment>
+		<segment id="20" parent="19" relname="cause-effect">.\n\nОб этом свидетельствуют результаты опроса, проведенного газетой New York Times совместно с телекомпанией CBS.</segment>
+		<segment id="23" parent="25" relname="span">Исследование проводилось среди 990 американцев,</segment>
+		<segment id="24" parent="23" relname="elaboration">его статистическая погрешность не превышает 3%.\n\</segment>
+		<segment id="27" parent="28" relname="attribution">nСогласно результатам опроса,</segment>
+		<segment id="28" parent="29" relname="span">63% респондентов неодобрительно отозвались о политике демократов,</segment>
+		<segment id="30" parent="34" relname="span">но еще больше - 73% - недовольны деятельностью республиканцев.\n\</segment>
+		<segment id="31" parent="33" relname="joint">nХотя слабым местом правящей партии остаются неустойчивая экономическая ситуация в США и почти 15 млн безработных,</segment>
+		<segment id="32" parent="33" relname="joint">избиратели отдают предпочтение именно их предложениям по выводу страны из кризиса.\n\nПо-прежнему большинство американцев винит в экономических проблемах США бывшего президента-республиканца Джорджа Буша,</segment>
+		<segment id="36" parent="35" relname="attribution">отмечает ИТАР-ТАСС.\n\</segment>
+		<segment id="38" parent="42" relname="comparison">nУже 2 ноября американцам предстоит переизбрать всех 435 членов Палаты представителей, 37 из 100 сенаторов и 37 из 50 губернаторов штатов.\n\nВ нынешнем составе нижней палаты Конгресса США - 255 демократов и 178 республиканцев.</segment>
+		<segment id="39" parent="41" relname="span">В Сенате сейчас заседают 59 демократов</segment>
+		<segment id="40" parent="39" relname="elaboration">(с учетом двух независимых) и 41 республиканец.\n\nИсточник: https://www.newsru.com/world/17Sep2010/dem_rep.html\n</segment>
+		<group id="26" type="span" parent="44" relname="comparison"/>
+		<group id="22" type="multinuc" parent="26" relname="span"/>
+		<group id="18" type="multinuc" parent="22" relname="contrast"/>
+		<group id="21" type="span" parent="22" relname="contrast"/>
+		<group id="25" type="span" parent="22" relname="interpretation-evaluation"/>
+		<group id="43" type="multinuc" parent="44" relname="comparison"/>
+		<group id="37" type="span" parent="43" relname="comparison"/>
+		<group id="35" type="multinuc" parent="37" relname="span"/>
+		<group id="29" type="span" parent="35" relname="contrast"/>
+		<group id="34" type="span" parent="35" relname="contrast"/>
+		<group id="33" type="multinuc" parent="30" relname="concession"/>
+		<group id="42" type="multinuc" parent="43" relname="comparison"/>
+		<group id="41" type="span" parent="42" relname="comparison"/>
+		<group id="44" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,23 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="7" parent="9" relname="joint">Подготовлен проект резолюции митинга оппозиции на проспекте Сахарова\n\nОрганизаторы митинга на московском проспекте Академика Сахарова подготовили проект резолюции с требованием новых парламентских выборов и отставки председателя ЦИК Владимира Чурова.\n\nВ проекте резолюции митинга, который поступил в распоряжение журналистов, говорится,</segment>
+		<segment id="8" parent="9" relname="joint">что власти не выполнили требования митинга на Болотной площади 10 декабря.\n\nВ проекте документа содержится требования \"проведения новых открытых и честных выборов\".\n\nВ документе содержится призыв об отставке главы ЦИК Чурова и расследовании всех фактов нарушений на выборах,</segment>
+		<segment id="10" parent="9" relname="attribution">передает \"Интерфакс\".\n\</segment>
+		<segment id="12" parent="14" relname="joint">nУчастники митинга также намерены потребовать \"регистрации оппозиционных партий, принятия демократического законодательства о партиях и выборах - не позднее февраля 2012 года.\n\n\"Участники митинга решили создать \"Московское объединение избирателей\" для расследования нарушений и контроля над выборами,</segment>
+		<segment id="13" parent="14" relname="joint">скоординировать работу наблюдателей по всей стране\",</segment>
+		<segment id="16" parent="15" relname="attribution">- говорится в проекте резолюции.\n\nИсточник: https://www.newsru.com/russia/24Dec2011/rezo.html\n</segment>
+		<group id="15" type="span" parent="17" relname="span"/>
+		<group id="11" type="span" parent="15" relname="span"/>
+		<group id="9" type="multinuc" parent="11" relname="span"/>
+		<group id="14" type="multinuc" parent="11" relname="elaboration"/>
+		<group id="17" type="span"/>
+	</body>
+</rst>

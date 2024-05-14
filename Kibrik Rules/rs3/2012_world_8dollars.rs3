@@ -1,0 +1,115 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="48" parent="54" relname="span">Американские ученые с помощью восьми долларов раскрыли новый секрет счастья\n\</segment>
+		<segment id="49" parent="53" relname="span">nХотя современным детям принято прививать любовь к ближним и желание помогать окружающим,</segment>
+		<segment id="50" parent="52" relname="span">люди более счастливы,</segment>
+		<segment id="51" parent="50" relname="condition">если они эгоисты.</segment>
+		<segment id="55" parent="57" relname="span">К таким выводам пришли американские психологи,</segment>
+		<segment id="56" parent="55" relname="elaboration">проведя нехитрый эксперимент с деньгами.</segment>
+		<segment id="59" parent="62" relname="attribution">Ученые выяснили,</segment>
+		<segment id="60" parent="62" relname="span">что рецепт счастья - это возможность преследовать свои интересы,</segment>
+		<segment id="61" parent="60" relname="condition">не испытывая при этом чувства вины.\n\nК эксперименту в университете Пенсильвании привлекли 216 испытуемых,</segment>
+		<segment id="64" parent="63" relname="attribution">рассказывает Live Science.</segment>
+		<segment id="67" parent="73" relname="span">Каждому участнику опыта дали по три доллара.</segment>
+		<segment id="68" parent="71" relname="attribution">Одной группе сказали,</segment>
+		<segment id="69" parent="71" relname="comparison">что эти деньги нужно перечислить на благотворительность,</segment>
+		<segment id="70" parent="71" relname="comparison">другим - что эти деньги можно истратить на себя.</segment>
+		<segment id="74" parent="88" relname="span">Третьей группе предложили распорядиться суммой по своему усмотрению.\n\nВыяснилось, что выданные деньги осчастливили больше всех вторую группу испытуемых.</segment>
+		<segment id="75" parent="79" relname="span">Им сказали истратить деньги на себя,</segment>
+		<segment id="76" parent="78" relname="span">избавив их от тягостного выбора между своими и чужими интересами,</segment>
+		<segment id="77" parent="76" relname="attribution">поясняют психологи.</segment>
+		<segment id="80" parent="86" relname="span">Таким образом, они могли поступить, как эгоисты,</segment>
+		<segment id="81" parent="84" relname="condition">не испытывая при этом вины перед окружающими.\n\</segment>
+		<segment id="82" parent="83" relname="purpose">nДля чистоты эксперимента</segment>
+		<segment id="83" parent="84" relname="span">ученые решили провести еще один эксперимент.</segment>
+		<segment id="89" parent="95" relname="span">Участников снова разделили на три группы.</segment>
+		<segment id="90" parent="94" relname="span">Первой предложили на выбор</segment>
+		<segment id="91" parent="93" relname="joint">подарочный сертификат на пять долларов</segment>
+		<segment id="92" parent="93" relname="joint">или истратить ту же сумму на благотворительность.</segment>
+		<segment id="96" parent="97" relname="joint">Вторая группа выбирала между возможностью поесть на пять долларов в Starbucks или в другой кофейне.</segment>
+		<segment id="98" parent="110" relname="span">Остальным участникам пришлось решать, какой из двух благотворительных организаций пожертвовать пять долларов.\n\nЭтот опыт подтвердил выводы, которые были сделаны посоле первого эксперимента:</segment>
+		<segment id="99" parent="103" relname="span">человек чувствует себя счастливым,</segment>
+		<segment id="100" parent="102" relname="joint">если ему можно сделать что-то для себя</segment>
+		<segment id="101" parent="102" relname="joint">и он избавлен от необходимости решать, что ему дороже - свои интересы или общественные.</segment>
+		<segment id="104" parent="108" relname="span">То есть больше всех обрадовались те, кто выбирал между обедами в разных кофейнях.\n\nНапоследок испытуемых спросили,</segment>
+		<segment id="105" parent="107" relname="joint">оставят ли они себе выданные деньги</segment>
+		<segment id="106" parent="107" relname="joint">или подарят их.</segment>
+		<segment id="111" parent="115" relname="joint">Одним участникам сказали сделать выбор самим,</segment>
+		<segment id="112" parent="113" relname="attribution">другим сказали,</segment>
+		<segment id="113" parent="114" relname="span">что за них решит компьютер случайным образом.</segment>
+		<segment id="116" parent="120" relname="span">В итоге те испытуемые, которым компьютер оставил их доллары,</segment>
+		<segment id="117" parent="119" relname="joint">оказались счастливее тех, кто сам выбрал то же самое,</segment>
+		<segment id="118" parent="119" relname="joint">и тех, кто решил своими деньгами поделиться.\n\nХотя участников делало счастливыми отсутствие выбора между своими и чужими интересами,</segment>
+		<segment id="121" parent="122" relname="attribution">они все же подчеркнули,</segment>
+		<segment id="122" parent="123" relname="span">что для них выбор - важнейшая ценность,</segment>
+		<segment id="125" parent="124" relname="attribution">сообщил психолог Джонатан Берман в результатах исследования, опубликованных в журнале Psychological Science.</segment>
+		<segment id="128" parent="132" relname="contrast">\"Часто люди действительно хотят вести себя, как эгоисты.</segment>
+		<segment id="129" parent="131" relname="span">Но они так не поступают,</segment>
+		<segment id="130" parent="129" relname="cause-effect">потому что не хотят чувствовать себя эгоистами\",</segment>
+		<segment id="133" parent="132" relname="attribution">- рассказал об итогах исследования Берман.\n\nИсточник: https://www.newsru.com/world/16Oct2012/8dollars.html\n</segment>
+		<group id="66" type="multinuc" parent="139" relname="preparation"/>
+		<group id="58" type="span" parent="66" relname="joint"/>
+		<group id="54" type="span" parent="58" relname="span"/>
+		<group id="53" type="span" parent="48" relname="elaboration"/>
+		<group id="52" type="span" parent="49" relname="elaboration"/>
+		<group id="57" type="span" parent="54" relname="elaboration"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="63" type="span" parent="65" relname="span"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="139" type="span" parent="140" relname="span"/>
+		<group id="73" type="span" parent="138" relname="preparation"/>
+		<group id="72" type="span" parent="67" relname="elaboration"/>
+		<group id="71" type="multinuc" parent="72" relname="span"/>
+		<group id="138" type="multinuc" parent="139" relname="span"/>
+		<group id="88" type="span" parent="138" relname="joint"/>
+		<group id="87" type="span" parent="74" relname="elaboration"/>
+		<group id="79" type="span" parent="86" relname="cause-effect"/>
+		<group id="78" type="span" parent="75" relname="cause-effect"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="85" type="span" parent="80" relname="condition"/>
+		<group id="84" type="span" parent="85" relname="span"/>
+		<group id="137" type="multinuc" parent="138" relname="joint"/>
+		<group id="97" type="multinuc" parent="137" relname="joint"/>
+		<group id="95" type="span" parent="97" relname="joint"/>
+		<group id="94" type="span" parent="89" relname="elaboration"/>
+		<group id="93" type="multinuc" parent="90" relname="elaboration"/>
+		<group id="136" type="multinuc" parent="137" relname="joint"/>
+		<group id="110" type="span" parent="136" relname="joint"/>
+		<group id="109" type="multinuc" parent="98" relname="elaboration"/>
+		<group id="103" type="span" parent="109" relname="joint"/>
+		<group id="102" type="multinuc" parent="99" relname="condition"/>
+		<group id="108" type="span" parent="109" relname="joint"/>
+		<group id="107" type="multinuc" parent="104" relname="elaboration"/>
+		<group id="135" type="span" parent="136" relname="joint"/>
+		<group id="127" type="span" parent="135" relname="span"/>
+		<group id="115" type="multinuc" parent="126" relname="preparation"/>
+		<group id="114" type="span" parent="115" relname="joint"/>
+		<group id="126" type="span" parent="127" relname="span"/>
+		<group id="124" type="span" parent="126" relname="span"/>
+		<group id="120" type="span" parent="124" relname="span"/>
+		<group id="119" type="multinuc" parent="116" relname="elaboration"/>
+		<group id="123" type="span" parent="120" relname="interpretation-evaluation"/>
+		<group id="134" type="span" parent="127" relname="elaboration"/>
+		<group id="132" type="multinuc" parent="134" relname="span"/>
+		<group id="131" type="span" parent="132" relname="contrast"/>
+		<group id="140" type="span"/>
+	</body>
+</rst>

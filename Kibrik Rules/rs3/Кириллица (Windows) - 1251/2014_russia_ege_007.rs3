@@ -1,0 +1,109 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="45" parent="47" relname="span">Минобрнауки полностью уберет из ЕГЭ по всем предметам тестовую часть\n\nВыпускникам российских школ придется сдавать Единый государственный экзамен (ЕГЭ) по новым правилам.</segment>
+		<segment id="46" parent="45" relname="elaboration">Уже со следующего года из блока А уберут тестовые задания.</segment>
+		<segment id="48" parent="50" relname="span">Об этом изменении газете \"Известия\" рассказал министр образования и науки Дмитрий Ливанов.\n\n\"Обсуждается несколько принципиальных изменений, направленных на повышение прозрачности Единого государственного экзамена,</segment>
+		<segment id="49" parent="48" relname="elaboration">максимально выявляющих знания школьников и уровень усвоения ими образовательной программы.</segment>
+		<segment id="52" parent="54" relname="span">Мы планируем поэтапно исключить часть А из заданий Единого государственного экзамена из всех вариантов по всем предметам\",</segment>
+		<segment id="53" parent="52" relname="attribution">- пояснил глава министерства.\n\</segment>
+		<segment id="56" parent="59" relname="attribution">nПо словам Ливанова,</segment>
+		<segment id="57" parent="59" relname="joint">также планируется ввести устный экзамен по всем гуманитарным предметам</segment>
+		<segment id="58" parent="59" relname="joint">и перевести сдачу госэкзамена с письменной формы на полностью электронный формат.</segment>
+		<segment id="61" parent="64" relname="attribution">Как сообщил министр,</segment>
+		<segment id="62" parent="64" relname="sequence">вначале выпускники будут сдавать устно экзамен по иностранному языку,</segment>
+		<segment id="63" parent="64" relname="sequence">а затем такая технология будет опробована на всех гуманитарных предметах.\n\n\"Станут развиваться электронные технологии сдачи экзамена.</segment>
+		<segment id="66" parent="70" relname="contrast">Сперва на компьютере будут сдавать только единый экзамен по информатике,</segment>
+		<segment id="67" parent="69" relname="span">но я не исключаю,</segment>
+		<segment id="68" parent="67" relname="cause-effect">что после проведения апробации распространим данную практику и на остальные предметы\",</segment>
+		<segment id="72" parent="71" relname="attribution">- сказал Дмитрий Ливанов.</segment>
+		<segment id="75" parent="82" relname="attribution">По его данным,</segment>
+		<segment id="76" parent="78" relname="span">окончательные изменения будут подготовлены не позднее августа этого года,</segment>
+		<segment id="77" parent="76" relname="purpose">чтобы уже с 1 сентября были известны правила проведения ЕГЭ в 2015 году.\n\nИнициативу по изменению структуры ЕГЭ и исключению из него тестовой части</segment>
+		<segment id="79" parent="80" relname="attribution">прокомментировал ректор МГИМО Анатолий Торкунов</segment>
+		<segment id="80" parent="81" relname="span">- ему решение Минобрнауки понравилось.</segment>
+		<segment id="84" parent="90" relname="span">\"Чем больше творчества будет в ЕГЭ, тем лучше.</segment>
+		<segment id="85" parent="89" relname="joint">Мы работаем с поступающими по ЕГЭ ребятами много лет,</segment>
+		<segment id="86" parent="87" relname="interpretation-evaluation">и, к сожалению, как мне кажется,</segment>
+		<segment id="87" parent="88" relname="span">Единый экзамен сильно обедняет их представление о той или иной отрасли знаний\",</segment>
+		<segment id="91" parent="90" relname="attribution">- сказал Торкунов \"Интерфаксу\" в среду.\n\</segment>
+		<segment id="93" parent="98" relname="attribution">nПо мнению ректора,</segment>
+		<segment id="94" parent="96" relname="span">в настоящее время вместо того, чтобы развивать аналитическое и творческое мышление,</segment>
+		<segment id="95" parent="94" relname="background">выпускники школ начинают заучивать ответы,</segment>
+		<segment id="97" parent="98" relname="span">что негативно сказывается на качестве подготовки будущих абитуриентов.</segment>
+		<segment id="100" parent="103" relname="attribution">Вместе с тем, Торкунов не смог спрогнозировать,</segment>
+		<segment id="101" parent="103" relname="span">поможет ли исключение тестовой части из ЕГЭ улучшить качество подготовки школьников,</segment>
+		<segment id="102" parent="101" relname="condition">ограничившись замечанием:</segment>
+		<segment id="105" parent="107" relname="span">\"Поживем</segment>
+		<segment id="106" parent="105" relname="attribution">- увидим,</segment>
+		<segment id="108" parent="110" relname="span">трудно сказать\".\n\nМинобрнауки РФ утвердило расписание ЕГЭ\n\nЭкзамены у российских девятиклассников в этом году начнутся 28 мая,</segment>
+		<segment id="109" parent="108" relname="elaboration">у выпускников 11-х классов - 26 мая.</segment>
+		<segment id="113" parent="125" relname="joint">Соответствующий приказ Минобрнауки опубликовала \"Российская газета\".\n\n28 мая девятиклассники сдают обществознание, химию, литературу, информатику.</segment>
+		<segment id="114" parent="118" relname="joint">31 мая будет экзамен по математике, 3 июня - по географии, истории, биологии, иностранным языкам и физике.\n\nДля выпускников 11-х классов основная волна ЕГЭ начнется 26 мая</segment>
+		<segment id="115" parent="117" relname="joint">- в этот день в расписании экзаменов география и литература, 29 мая - русский язык, 2 июня - иностранные языки и физика, 5 июня - математика, 9 июня - информатика и ИКТ, биология, история, 11 июня - обществознание и химия.\n\nТем, кто имеет право повторно сдать ЕГЭ,</segment>
+		<segment id="116" parent="117" relname="joint">а также выпускникам прошлых лет разрешается 8 мая и 16 июля сдать ЕГЭ по любому учебному предмету.</segment>
+		<segment id="119" parent="120" relname="joint">16 июня предлагается сдавать иностранные языки, обществознание, биологию, информатику и ИКТ, 17 июня - географию, химию, литературу, историю, физику, 18 июня - русский язык, 19 июня - математику, 7 июля - русский язык, химию, информатику и ИКТ, 9 июля - математику, географию, иностранные языки, 11 июля - обществознание, литературу, физику, 14 июля - биологию, историю.\n\nВсе экзамены должны начаться ровно в 10 часов утра по местному времени.</segment>
+		<segment id="121" parent="123" relname="joint">Продолжительность выпускного экзамена по математике и русскому языку и в девятом, и в одиннадцатом классах составляет 3 часа 55 минут.\n\nВ девятых классах на экзамены с собой можно взять орфографический словарь, линейку, непрограммируемый калькулятор, периодическую систему Менделеева, таблицу растворимости солей, кислот и оснований, карандаш, географические атласы, полные тексты художественных произведений, а также сборники лирики.</segment>
+		<segment id="122" parent="123" relname="joint">В 11-х классах на экзамены разрешатся взять линейку, непрограммируемый калькулятор и транспортир.\n\nИсточник: https://www.newsru.com/russia/09Apr2014/ege.html\n</segment>
+		<group id="55" type="span" parent="131" relname="joint"/>
+		<group id="51" type="span" parent="55" relname="span"/>
+		<group id="47" type="span" parent="51" relname="span"/>
+		<group id="50" type="span" parent="47" relname="elaboration"/>
+		<group id="54" type="span" parent="51" relname="elaboration"/>
+		<group id="130" type="multinuc" parent="131" relname="joint"/>
+		<group id="74" type="span" parent="130" relname="joint"/>
+		<group id="60" type="span" parent="73" relname="preparation"/>
+		<group id="59" type="multinuc" parent="60" relname="span"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="71" type="multinuc" parent="73" relname="span"/>
+		<group id="65" type="span" parent="71" relname="joint"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="69" type="span" parent="70" relname="contrast"/>
+		<group id="129" type="span" parent="130" relname="joint"/>
+		<group id="83" type="span" parent="128" relname="preparation"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="78" type="span" parent="82" relname="span"/>
+		<group id="81" type="span" parent="78" relname="attribution"/>
+		<group id="128" type="multinuc" parent="129" relname="span"/>
+		<group id="92" type="span" parent="128" relname="joint"/>
+		<group id="90" type="span" parent="92" relname="span"/>
+		<group id="89" type="multinuc" parent="84" relname="elaboration"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="127" type="span" parent="128" relname="joint"/>
+		<group id="99" type="span" parent="127" relname="span"/>
+		<group id="98" type="span" parent="99" relname="span"/>
+		<group id="96" type="span" parent="97" relname="cause-effect"/>
+		<group id="126" type="multinuc" parent="99" relname="elaboration"/>
+		<group id="112" type="span" parent="126" relname="joint"/>
+		<group id="104" type="span" parent="112" relname="span"/>
+		<group id="103" type="span" parent="104" relname="span"/>
+		<group id="111" type="multinuc" parent="104" relname="elaboration"/>
+		<group id="107" type="span" parent="111" relname="joint"/>
+		<group id="110" type="span" parent="111" relname="joint"/>
+		<group id="125" type="multinuc" parent="126" relname="joint"/>
+		<group id="124" type="multinuc" parent="125" relname="joint"/>
+		<group id="120" type="multinuc" parent="124" relname="joint"/>
+		<group id="118" type="multinuc" parent="120" relname="joint"/>
+		<group id="117" type="multinuc" parent="118" relname="joint"/>
+		<group id="123" type="multinuc" parent="124" relname="joint"/>
+		<group id="131" type="multinuc"/>
+	</body>
+</rst>

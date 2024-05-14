@@ -1,0 +1,25 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="7" parent="16" relname="preparation">Суд отложил рассмотрение иска о ликвидации НТВ на 4 апреля\n\</segment>
+		<segment id="8" parent="16" relname="joint">nМосковский арбитражный суд отложил рассмотрение иска налоговой инспекции Центрального административного округа к телекомпании \"НТВ\" на 4 апреля в связи с ходатайством обеих сторон.\n\nПредставители НТВ заявили</segment>
+		<segment id="9" parent="15" relname="comparison">о необходимости представить в суд бухгалтерский баланс за 2000 год.\n\nВ свою очередь, представитель налоговой инспекции мотивировал ходатайство тем,</segment>
+		<segment id="10" parent="14" relname="span">что в налоговую инспекцию поступило письмо из АО \"Газпром\",</segment>
+		<segment id="11" parent="13" relname="span">где якобы изложены сведения, которые надо проверить</segment>
+		<segment id="12" parent="11" relname="purpose">для правильного рассмотрения данного дела.\n\nСуд обязал истца представить документальное подтверждение иска, а ответчика - годовой баланс.\n\nИсточник: https://www.newsru.com/russia/02Feb2001/sud_perenos.html\n</segment>
+		<group id="16" type="multinuc" parent="17" relname="span"/>
+		<group id="15" type="multinuc" parent="16" relname="joint"/>
+		<group id="14" type="span" parent="15" relname="comparison"/>
+		<group id="13" type="span" parent="10" relname="elaboration"/>
+		<group id="17" type="span"/>
+	</body>
+</rst>

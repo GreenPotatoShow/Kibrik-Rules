@@ -1,0 +1,48 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="20" relname="span">В Архангельской области обрушился мост:</segment>
+		<segment id="19" parent="18" relname="elaboration">4 человека пропали без вести\n\</segment>
+		<segment id="21" parent="42" relname="preparation">nЧрезвычайное происшествие произошло сегодня утром в поселке Верхняя Тойма Архангельской области.</segment>
+		<segment id="22" parent="24" relname="span">Подвесной мост через речку Тойма рухнул,</segment>
+		<segment id="23" parent="22" relname="elaboration">когда по нему переходили одновременно 10 человек.\n\nНа ветхий мост через речку Верхняя Тойма одновременно зашли 10 пассажиров подъехавшего к нему автобуса.</segment>
+		<segment id="25" parent="28" relname="attribution">Как сообщили ИА \"Двина-Информ\" в ГУ МЧС РФ по Архангельской области,</segment>
+		<segment id="26" parent="28" relname="joint">сломалась одна из опор моста,</segment>
+		<segment id="27" parent="28" relname="joint">он покосился,</segment>
+		<segment id="30" parent="31" relname="joint">и все люди оказались в ледяной воде.</segment>
+		<segment id="32" parent="31" relname="elaboration">Шестерым из них удалось практически сразу же выбраться на берег.</segment>
+		<segment id="34" parent="40" relname="span">Однако судьба четверых, среди которых есть ребенок до 14 лет, остается неизвестной.\n\</segment>
+		<segment id="35" parent="36" relname="attribution">nКак уточнили в управлении,</segment>
+		<segment id="36" parent="37" relname="span">официальной заявки на поиски людей от районной администрации не поступало,</segment>
+		<segment id="38" parent="39" relname="span">поэтому уже сформированная группа спасателей из Архангельска остается на месте.\n\</segment>
+		<segment id="44" parent="45" relname="attribution">nПо мнению спасателей,</segment>
+		<segment id="45" parent="46" relname="span">вероятность того, что упавшим в воду людям удалось спастись, крайне мала.</segment>
+		<segment id="47" parent="48" relname="joint">Сейчас устанавливаются их личности.\n\nИсточник: https://www.newsru.com/russia/11May2005/most.html\n</segment>
+		<group id="20" type="span" parent="49" relname="preparation"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="43" type="span" parent="49" relname="span"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="24" type="span" parent="41" relname="preparation"/>
+		<group id="41" type="multinuc" parent="42" relname="span"/>
+		<group id="33" type="span" parent="41" relname="contrast"/>
+		<group id="31" type="multinuc" parent="33" relname="span"/>
+		<group id="29" type="span" parent="31" relname="joint"/>
+		<group id="28" type="multinuc" parent="29" relname="span"/>
+		<group id="40" type="span" parent="41" relname="contrast"/>
+		<group id="39" type="span" parent="34" relname="elaboration"/>
+		<group id="37" type="span" parent="38" relname="cause-effect"/>
+		<group id="48" type="multinuc" parent="43" relname="elaboration"/>
+		<group id="46" type="span" parent="48" relname="joint"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

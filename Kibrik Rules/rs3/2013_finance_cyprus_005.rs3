@@ -1,0 +1,42 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="17" relname="span">Первый транш финансовой помощи Кипру поступит в середине мая\n\nПервый транш финансовой помощи Кипру от международных кредиторов поступит к середине мая.</segment>
+		<segment id="16" parent="15" relname="attribution">Об этом сообщил вице-президент Еврокомиссии Олли Рен в ходе выступления в Европарламенте.\n\n\"Программа помощи Кипру была одобрена.</segment>
+		<segment id="18" parent="20" relname="span">Ожидается, что первый транш поступит к середине мая.</segment>
+		<segment id="19" parent="18" relname="purpose">Это позволит стране избежать дефолта\",</segment>
+		<segment id="21" parent="23" relname="comparison">- сказал он.\n\nВВП Кипра составляет около 18 миллиардов евро,</segment>
+		<segment id="22" parent="23" relname="comparison">а госдолг по итогам 2012 года - более 80% ВВП.</segment>
+		<segment id="26" parent="28" relname="span">По обновленным данным, Кипру необходимо 23 миллиарда евро</segment>
+		<segment id="27" parent="26" relname="purpose">для поддержания стабильности банковской системы и бюджета.</segment>
+		<segment id="29" parent="31" relname="span">Однако еврозона и МВФ готовы дать кредитами не более 10 миллиардов евро,</segment>
+		<segment id="30" parent="29" relname="purpose">чтобы не дестабилизировать суверенную задолженность островного государства,</segment>
+		<segment id="32" parent="33" relname="attribution">сообщает РИА \"Новости\".\n\nОстальные средства Кипр должен найти самостоятельно,</segment>
+		<segment id="33" parent="34" relname="span">в том числе за счет увеличения доходов и сокращения расходов бюджета.</segment>
+		<segment id="36" parent="38" relname="joint">Так, банковскую систему острова к 2016 году планируется сократить примерно вдвое.\n\nРанее о том, что первый транш помощи Кипр получит в мае,</segment>
+		<segment id="37" parent="38" relname="joint">заявлял в середине апреля глава Европейского фонда финансовой стабильности (ЕФФС) и Механизма финансовой стабильности (МФС) Клаус Реглинг.\n\nИсточник: https://www.newsru.com/finance/08May2013/cyprus.html\n</segment>
+		<group id="25" type="multinuc" parent="41" relname="joint"/>
+		<group id="17" type="span" parent="25" relname="joint"/>
+		<group id="24" type="span" parent="25" relname="joint"/>
+		<group id="20" type="span" parent="24" relname="span"/>
+		<group id="23" type="multinuc" parent="20" relname="cause-effect"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="28" type="span" parent="40" relname="joint"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="35" type="span" parent="39" relname="joint"/>
+		<group id="31" type="span" parent="35" relname="span"/>
+		<group id="34" type="span" parent="31" relname="attribution"/>
+		<group id="38" type="multinuc" parent="39" relname="joint"/>
+		<group id="41" type="multinuc"/>
+	</body>
+</rst>

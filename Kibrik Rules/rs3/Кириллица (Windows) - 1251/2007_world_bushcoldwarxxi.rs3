@@ -1,0 +1,92 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="36" parent="41" relname="attribution">The Guardian:</segment>
+		<segment id="37" parent="41" relname="sequence">США раздувают холодную войну XXI века\n\nАмериканские авиаудары в Сомали, нанесенные в последние три дня,</segment>
+		<segment id="38" parent="40" relname="span">расширили \"зону антитеррористической операции\",</segment>
+		<segment id="39" parent="38" relname="elaboration">которую США ведет с сентября 2001 года.</segment>
+		<segment id="43" parent="45" relname="span">В последнем случае целью американских военных был один из главарей \"Аль-Каиды\",</segment>
+		<segment id="44" parent="43" relname="background">причастный к взрывам 1998 года в американских посольствах в Кении и Танзании.</segment>
+		<segment id="46" parent="58" relname="span">Бомбардировки, как это часто происходит в Афганистане и Пакистане,</segment>
+		<segment id="47" parent="51" relname="same-unit">поражают,</segment>
+		<segment id="48" parent="50" relname="span">по сообщениям очевидцев, не только террористов, но и мирных жителей,</segment>
+		<segment id="49" parent="48" relname="elaboration">в числе которых старики, женщины и дети.\n\nОпасаясь появления африканского \"Талибана\",</segment>
+		<segment id="52" parent="54" relname="span">США поддержали эфиопское вторжение в Сомали</segment>
+		<segment id="53" parent="52" relname="purpose">для свержения сил исламистов,</segment>
+		<segment id="55" parent="54" relname="elaboration">захвативших Могадишо.</segment>
+		<segment id="59" parent="61" relname="span">Но тем самым Америка вмешалась в запутанный этническо-религиозный конфликт,</segment>
+		<segment id="60" parent="59" relname="cause-effect">поскольку большинство населения Эфиопии в отличие от Сомали представляют христиане,</segment>
+		<segment id="62" parent="61" relname="attribution">пишет газета The Guardian (полный текст - на сайте InoPressa.ru).</segment>
+		<segment id="67" parent="72" relname="attribution">По словам Патрика Смита, редактора газеты Africa Confidential,</segment>
+		<segment id="68" parent="72" relname="span">война с террором быстро превращается в холодную войну XXI века</segment>
+		<segment id="69" parent="71" relname="joint">- в отдаленных уголках мира США ищут себе союзников, руками которых воюют с представителями своих врагов</segment>
+		<segment id="70" parent="71" relname="joint">.\n\nГазета обвиняет американского президента в полном игнорировании и вызывающем пренебрежении мнением граждан своей страны и Конгресса.</segment>
+		<segment id="74" parent="82" relname="joint">В ответ на требование общества вывести войска из Ирака</segment>
+		<segment id="75" parent="81" relname="span">и на рекомендации о том, как уйти из Ирака,</segment>
+		<segment id="76" parent="79" relname="condition">сохранив лицо,</segment>
+		<segment id="77" parent="79" relname="span">Джордж Буш намеревается перед уходом нанести удар усиленным контингентом,</segment>
+		<segment id="78" parent="77" relname="purpose">чтобы добиться того, что можно будет в итоге назвать победой,</segment>
+		<segment id="83" parent="82" relname="attribution">пишет газета.</segment>
+		<segment id="85" parent="101" relname="span">Все из его окружения, кто настаивал на неразумности такого решения, так или иначе, отстранены от дел.\n\</segment>
+		<segment id="86" parent="90" relname="span">nАвтор статьи напоминает опыт прошлого,</segment>
+		<segment id="87" parent="89" relname="joint">когда в 1968 году Ричард Никсон выиграл выборы,</segment>
+		<segment id="88" parent="89" relname="joint">пообещав закончить войну во Вьетнаме:</segment>
+		<segment id="91" parent="93" relname="span">вместо этого он углубил конфликт,</segment>
+		<segment id="92" parent="91" relname="condition">послав на смерть еще 55 тысяч американских солдат и, по оценкам, уничтожив 2 миллиона местных жителей</segment>
+		<segment id="94" parent="98" relname="joint">.\n\nБританское издание также обвиняет своего премьера Тони Блэра в потворствовании этой политике</segment>
+		<segment id="95" parent="97" relname="span">и высказывает надежды на иную позицию Гордона Брауна,</segment>
+		<segment id="96" parent="95" relname="elaboration">которого прочат в следующие премьер-министры страны.\n\nИсточник: https://www.newsru.com/world/10Jan2007/bushcoldwarxxi.html\n</segment>
+		<group id="66" type="span" parent="104" relname="joint"/>
+		<group id="42" type="span" parent="65" relname="preparation"/>
+		<group id="41" type="multinuc" parent="42" relname="span"/>
+		<group id="40" type="span" parent="41" relname="sequence"/>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="45" type="span" parent="65" relname="span"/>
+		<group id="64" type="multinuc" parent="45" relname="elaboration"/>
+		<group id="58" type="span" parent="64" relname="contrast"/>
+		<group id="57" type="span" parent="46" relname="elaboration"/>
+		<group id="51" type="multinuc" parent="57" relname="span"/>
+		<group id="50" type="span" parent="51" relname="same-unit"/>
+		<group id="56" type="span" parent="51" relname="elaboration"/>
+		<group id="54" type="span" parent="56" relname="span"/>
+		<group id="63" type="span" parent="64" relname="contrast"/>
+		<group id="61" type="span" parent="63" relname="span"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="73" type="span" parent="103" relname="joint"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="71" type="multinuc" parent="68" relname="cause-effect"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="84" type="span" parent="102" relname="joint"/>
+		<group id="82" type="multinuc" parent="84" relname="span"/>
+		<group id="81" type="span" parent="82" relname="joint"/>
+		<group id="80" type="span" parent="75" relname="elaboration"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="101" type="span" parent="102" relname="joint"/>
+		<group id="100" type="multinuc" parent="85" relname="elaboration"/>
+		<group id="90" type="span" parent="100" relname="joint"/>
+		<group id="89" type="multinuc" parent="86" relname="background"/>
+		<group id="99" type="multinuc" parent="100" relname="joint"/>
+		<group id="93" type="span" parent="99" relname="comparison"/>
+		<group id="98" type="multinuc" parent="99" relname="comparison"/>
+		<group id="97" type="span" parent="98" relname="joint"/>
+		<group id="104" type="multinuc"/>
+	</body>
+</rst>

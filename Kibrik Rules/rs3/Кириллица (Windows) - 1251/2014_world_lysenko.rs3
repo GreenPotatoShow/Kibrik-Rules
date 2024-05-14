@@ -1,0 +1,105 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="45" parent="46" relname="attribution">В СНБО Украины объявили</segment>
+		<segment id="46" parent="47" relname="span">о возможной амнистии для сепаратистов,</segment>
+		<segment id="48" parent="54" relname="span">которые не нападали на силы АТО\n\nКиевские власти собираются амнистировать жителей Донбасса,</segment>
+		<segment id="49" parent="53" relname="joint">которые \"вынужденно вступили в ряды\" самопровозглашенных Донецкой и Луганской народных республик</segment>
+		<segment id="50" parent="52" relname="contrast">и при этом не нападали на представителей украинской армии,</segment>
+		<segment id="51" parent="52" relname="contrast">а выполняли функции, не связанные с насилием.</segment>
+		<segment id="56" parent="64" relname="joint">Об этом в эфире телеканала \"112 Украина\" заявил глава информационного центра Службы национальной безопасности и обороны (СНБО) Украины Андрей Лысенко.\n\n\"Думаю, должны быть внедрены меры, которые помогут этих людей принять на нашу сторону с соответствующей проверкой,</segment>
+		<segment id="57" parent="63" relname="span">дать им возможность и гарантии того, что они не будут наказаны,</segment>
+		<segment id="58" parent="60" relname="span">если не принимали участия в нападениях на наши вооруженные формирования,</segment>
+		<segment id="59" parent="58" relname="condition">если просто выполняли патрульные функции,</segment>
+		<segment id="61" parent="62" relname="span">охраняли склады с боеприпасами\",</segment>
+		<segment id="66" parent="65" relname="attribution">- сказал спикер.</segment>
+		<segment id="68" parent="71" relname="attribution">Он заверил,</segment>
+		<segment id="69" parent="70" relname="condition">что если такие люди \"будут активно сотрудничать с органами правопорядка и нашими спецслужбами\",</segment>
+		<segment id="70" parent="71" relname="span">амнистия для них будет.</segment>
+		<segment id="73" parent="75" relname="span">\"Скорей всего, это будет сделано в ближайшее время\",</segment>
+		<segment id="74" parent="73" relname="attribution">- добавил Лысенко.\n\</segment>
+		<segment id="77" parent="84" relname="attribution">nПо словам спикера СНБО,</segment>
+		<segment id="78" parent="82" relname="joint">многие граждане Украины, которые случайно оказались на стороне сепаратистов</segment>
+		<segment id="79" parent="81" relname="span">и теперь пытаются \"покинуть свои позиции,</segment>
+		<segment id="80" parent="79" relname="elaboration">складывая автоматы\", не могут выехать с территории ЛНР.</segment>
+		<segment id="83" parent="82" relname="cause-effect">Причиной этого являются отметки в паспортах о том, что они \"бойцы ЛНР\",</segment>
+		<segment id="86" parent="85" relname="attribution">пояснил Андрей Лысенко.</segment>
+		<segment id="88" parent="90" relname="joint">\"С этими отметками их не впускают</segment>
+		<segment id="89" parent="90" relname="joint">и не выпускают с территории, даже на территорию РФ.</segment>
+		<segment id="91" parent="90" relname="cause-effect">Потому они сейчас в тупике\",</segment>
+		<segment id="93" parent="94" relname="attribution">- поведал он</segment>
+		<segment id="94" parent="95" relname="span">.\n\</segment>
+		<segment id="97" parent="101" relname="joint">nКак известно, в сентябре Верховная Рада поддержала внесенный президентом Петром Порошенко законопроект об амнистии участникам конфликта на Донбассе.</segment>
+		<segment id="98" parent="100" relname="span">Тогда же парламент установил особый статус для некоторых районов Донецкой и Луганской областей.</segment>
+		<segment id="99" parent="98" relname="elaboration">Закон \"Об особом порядке местного самоуправления в отдельных районах Донецкой и Луганской областей\" вступил в силу 18 октября.</segment>
+		<segment id="102" parent="104" relname="span">Однако украинский президент отозвал этот закон</segment>
+		<segment id="103" parent="102" relname="cause-effect">после того, как 2 ноября на Донбассе прошли выборы в местные органы власти.</segment>
+		<segment id="105" parent="107" relname="span">Результаты голосования ни в Киев, ни на Западе не признали.\n\nВ руководстве ДНР</segment>
+		<segment id="106" parent="105" relname="cause-effect">из-за отзыва закона не расстроились,</segment>
+		<segment id="108" parent="111" relname="attribution">поскольку сочли,</segment>
+		<segment id="109" parent="111" relname="joint">что в нем не было прописано конкретных шагов</segment>
+		<segment id="110" parent="111" relname="joint">и не даны гарантии реализации обещания властей придать особый статус региону.\n\</segment>
+		<segment id="115" parent="123" relname="span">nС тех пор сепаратисты добиваются от Киева официального обещания амнистии для участников боевых действий и придания Донбассу особого статуса.</segment>
+		<segment id="116" parent="117" relname="attribution">В частности, в преддверии очередного раунда переговоров в Минске Контактной группы по урегулирования ситуации на Украине представитель ЛНР Владислав Дейнего заявил,</segment>
+		<segment id="117" parent="118" relname="span">что сепаратисты потребуют включить эти два пункта - о статусе и амнистии - в повестку встречи.\n\nИтоги прошедших 24 декабря переговоров официально не комментировались,</segment>
+		<segment id="119" parent="120" relname="attribution">однако в руководстве ДНР сообщили,</segment>
+		<segment id="120" parent="121" relname="span">что на встрече в Минске удалось пока договориться только об обмене пленными по формуле \"150 на 225\".</segment>
+		<segment id="124" parent="125" relname="joint">Во встрече Контактной группы по Украине, как и в предыдущие раунды переговоров, принимали участие бывший президент Украины Леонид Кучма, представители сепаратистов Денис Пушилин и Владислав Дейнего, посол России в Киеве Михаил Зурабов и официальный представитель ОБСЕ на Украине Хайди Тальявини.\n\nИсточник: https://www.newsru.com/world/26Dec2014/lysenko.html\n</segment>
+		<group id="67" type="span" parent="131" relname="joint"/>
+		<group id="65" type="multinuc" parent="67" relname="span"/>
+		<group id="55" type="span" parent="65" relname="joint"/>
+		<group id="47" type="span" parent="55" relname="span"/>
+		<group id="54" type="span" parent="47" relname="elaboration"/>
+		<group id="53" type="multinuc" parent="48" relname="elaboration"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="62" type="span" parent="57" relname="condition"/>
+		<group id="60" type="span" parent="61" relname="condition"/>
+		<group id="130" type="multinuc" parent="131" relname="joint"/>
+		<group id="76" type="span" parent="130" relname="joint"/>
+		<group id="72" type="span" parent="76" relname="span"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="75" type="span" parent="72" relname="elaboration"/>
+		<group id="129" type="multinuc" parent="130" relname="joint"/>
+		<group id="87" type="span" parent="129" relname="joint"/>
+		<group id="85" type="span" parent="87" relname="span"/>
+		<group id="84" type="span" parent="85" relname="span"/>
+		<group id="82" type="multinuc" parent="84" relname="span"/>
+		<group id="81" type="span" parent="82" relname="joint"/>
+		<group id="128" type="span" parent="129" relname="joint"/>
+		<group id="96" type="span" parent="128" relname="span"/>
+		<group id="92" type="span" parent="96" relname="span"/>
+		<group id="90" type="multinuc" parent="92" relname="span"/>
+		<group id="95" type="span" parent="92" relname="attribution"/>
+		<group id="127" type="multinuc" parent="96" relname="evidence"/>
+		<group id="101" type="multinuc" parent="127" relname="contrast"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="126" type="multinuc" parent="127" relname="contrast"/>
+		<group id="114" type="multinuc" parent="126" relname="joint"/>
+		<group id="104" type="span" parent="114" relname="joint"/>
+		<group id="113" type="span" parent="114" relname="joint"/>
+		<group id="107" type="span" parent="113" relname="span"/>
+		<group id="112" type="span" parent="107" relname="cause-effect"/>
+		<group id="111" type="multinuc" parent="112" relname="span"/>
+		<group id="125" type="multinuc" parent="126" relname="joint"/>
+		<group id="123" type="span" parent="125" relname="joint"/>
+		<group id="122" type="multinuc" parent="115" relname="elaboration"/>
+		<group id="118" type="span" parent="122" relname="contrast"/>
+		<group id="121" type="span" parent="122" relname="contrast"/>
+		<group id="131" type="multinuc"/>
+	</body>
+</rst>

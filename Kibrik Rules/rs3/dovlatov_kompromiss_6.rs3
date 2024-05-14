@@ -1,0 +1,263 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="121" parent="123" relname="span">("Вечерний  Таллинн\".</segment>
+		<segment id="122" parent="121" relname="elaboration">Недельная радиопрограмма.</segment>
+		<segment id="124" parent="126" relname="joint">Март.</segment>
+		<segment id="125" parent="126" relname="joint">1976 г.)\n ...</segment>
+		<segment id="128" parent="137" relname="preparation">13.30. \"ВСТРЕЧА С ИНТЕРЕСНЫМ ЧЕЛОВЕКОМ.</segment>
+		<segment id="129" parent="136" relname="preparation">Владимир Меркин.</segment>
+		<segment id="130" parent="135" relname="preparation">Экономика - день грядущий\".\n В радиоочерке Л. Агаповой и С. Довлатова предстает кандидат экономических наук, Владимир Григорьевич Меркин.</segment>
+		<segment id="131" parent="135" relname="span">Вы услышите его живой и увлекательный рассказ об экономическом прогрессе в СССР и о необратимом финансовом кризисе современного Запада.</segment>
+		<segment id="132" parent="134" relname="joint">В перерыве - новости и \"Музыкальный антракт\".\n Четыре года спустя на лице журналистки Агаповой появится шрам от удара металлической рейсшиной.</segment>
+		<segment id="133" parent="134" relname="joint">На нее с безумным воплем кинется архитектор-самоучка Дегтяренко, герой публицистической радиопередачи \"Ясность\", так и не запущенной в эфир.</segment>
+		<segment id="139" parent="141" relname="joint">За шесть недель до этой безобразной сцены журналистке впервые расскажут о проекте \"Мобиле кооперато\" и его гениальном творце, чернорабочем одной из таллиннских фабрик.</segment>
+		<segment id="140" parent="141" relname="joint">Агапова напишет очерк под рубрикой \"Встреча с интересным человеком\".</segment>
+		<segment id="142" parent="150" relname="span">Технический отдел затребует чертежи.</segment>
+		<segment id="143" parent="145" relname="sequence">Эксперт Чубаров минуту подержит в холеных руках две грязные трепещущие кальки</segment>
+		<segment id="144" parent="145" relname="sequence">и выскажется следующим образом:\n - Оригинально!</segment>
+		<segment id="146" parent="148" relname="span">Весьма оригинально!\n Журналистка с облегчением и гордостью воскликнет:\n - У него четыре класса образования!\n - А у вас?</segment>
+		<segment id="147" parent="146" relname="attribution">- брезгливо поинтересуется эксперт.</segment>
+		<segment id="153" parent="159" relname="span">- Вы знаете, что это такое?\n - Мобиле кооперато.</segment>
+		<segment id="154" parent="156" relname="span">Подвижный дом.</segment>
+		<segment id="155" parent="154" relname="background">Жилище будущего...\n - Это вагон,</segment>
+		<segment id="157" parent="156" relname="elaboration">- прервет ее Чубаров, - обыкновенный вагон.</segment>
+		<segment id="160" parent="162" relname="span">А вашего Ле Корбюзье нужно срочно госпитализировать...\n Передачу тут же забракуют.</segment>
+		<segment id="161" parent="160" relname="elaboration">Обнадеженный было Дегтяренко ударит Лиду металлической рейсшиной по голове.</segment>
+		<segment id="164" parent="168" relname="span">Карьера внештатной сотрудницы Таллиннского радио надолго прервется...</segment>
+		<segment id="165" parent="167" relname="contrast">Все это произойдет четыре года спустя.</segment>
+		<segment id="166" parent="167" relname="contrast">А пока мы следуем за ней к трамвайной остановке.\n До этого было пасмурное утро, еще раньше - ночь.</segment>
+		<segment id="169" parent="177" relname="sequence">Сонный голубь бродил по карнизу, царапая жесть.</segment>
+		<segment id="170" parent="172" relname="sequence">Затем - будильник, остывшие шлепанцы, толчея возле уборной, чай, покоробившийся влажный сыр, гудение электробритвы</segment>
+		<segment id="171" parent="172" relname="sequence">– муж спешит на работу.</segment>
+		<segment id="173" parent="175" relname="span">Дочь: \"Я, кажется, просила не трогать мой халат!\"...</segment>
+		<segment id="174" parent="173" relname="interpretation-evaluation">И наконец - прохлада равнодушных улиц, ветер.</segment>
+		<segment id="179" parent="183" relname="span">Цинковые лужи, болонки в сквере, громыхание трамвая...\n Попробую ее изобразить.</segment>
+		<segment id="180" parent="181" relname="concession">Хотя внешность Агаповой существенного значения не имеет.\n Резиновые импортные боты.</segment>
+		<segment id="181" parent="182" relname="span">Тяжелая коричневая юбка не подчеркивает шага.</segment>
+		<segment id="184" parent="185" relname="cause-effect">Синтетическая курточка на молнии</segment>
+		<segment id="185" parent="186" relname="span">- шуршит.</segment>
+		<segment id="187" parent="186" relname="elaboration">Кепка с голубым верхом - форменная - таллиннского политехника.</segment>
+		<segment id="189" parent="188" relname="interpretation-evaluation">Лицо решительное, вечно озябшее.</segment>
+		<segment id="191" parent="190" relname="elaboration">Никаких следов косметики.</segment>
+		<segment id="194" parent="200" relname="span">Отсутствующий зуб на краю улыбки.</segment>
+		<segment id="195" parent="197" relname="joint">Удивляются только глаза,</segment>
+		<segment id="196" parent="197" relname="joint">брови неподвижны, как ленточка финиша...\n Следуем за нашей героиней.</segment>
+		<segment id="198" parent="199" relname="joint">Трамвайная остановка...\n \"...Вон как хорошо девчонки молодые одеваются.</segment>
+		<segment id="201" parent="200" relname="interpretation-evaluation">Пальтишко бросовое, а не наше.</segment>
+		<segment id="204" parent="210" relname="contrast">Вместо пуговиц какие-то еловые шишки...</segment>
+		<segment id="205" parent="209" relname="joint">А ведь смотрится...</segment>
+		<segment id="206" parent="208" relname="span">Или эта, в спецодежде...</segment>
+		<segment id="207" parent="206" relname="elaboration">Васильки на заднице...</segment>
+		<segment id="211" parent="219" relname="span">Походка гордая, как у Лоллобриджиды...</segment>
+		<segment id="212" parent="216" relname="span">А летом как-то раз босую видела...</segment>
+		<segment id="213" parent="215" relname="span">Не пьяную, сознательно босую...</segment>
+		<segment id="214" parent="213" relname="elaboration">В центре города...</segment>
+		<segment id="217" parent="216" relname="interpretation-evaluation">Идет, фигурирует...</segment>
+		<segment id="220" parent="224" relname="contrast">Так и у меня, казалось бы, все импортное, народной демократии.</segment>
+		<segment id="221" parent="223" relname="joint">А вида нету...</segment>
+		<segment id="222" parent="223" relname="joint">И где они берут?</segment>
+		<segment id="226" parent="227" relname="span">С иностранцами гуляют?</segment>
+		<segment id="229" parent="233" relname="joint">Позор!..</segment>
+		<segment id="230" parent="232" relname="span">А смотрится...\"\n С натугой разъехались двери трамвая.</segment>
+		<segment id="231" parent="230" relname="interpretation-evaluation">Короткий мучительный штурм.</segment>
+		<segment id="236" parent="240" relname="span">Дорогу ей загородила широкая армейская спина.</segment>
+		<segment id="237" parent="238" relname="cause-effect">Щекой - по ворсистой удушливой ткани...</segment>
+		<segment id="238" parent="239" relname="span">Ухватилась за поручень.</segment>
+		<segment id="241" parent="243" relname="joint">Мелькнула жизнь в никелированной трубе...\n</segment>
+		<segment id="242" parent="243" relname="joint">- Копеечку не опускайте...\n Лида балансирует над металлическим ящиком-кассой.\n</segment>
+		<segment id="244" parent="248" relname="same-unit">- Да проходите же,</segment>
+		<segment id="245" parent="247" relname="joint">стоит, как неродная...\n Главное, не раздражаться,</segment>
+		<segment id="246" parent="247" relname="joint">относиться с юмором.</segment>
+		<segment id="249" parent="251" relname="span">Час пик, обычное явление.</segment>
+		<segment id="250" parent="249" relname="interpretation-evaluation">Тут главное - найти источник положительных эмоций.</segment>
+		<segment id="253" parent="257" relname="span">Вон бабке место уступили.</segment>
+		<segment id="254" parent="256" relname="span">Студент конспекты перелистывает.</segment>
+		<segment id="255" parent="254" relname="elaboration">Даже у военного приличное лицо...\n И снова - улица, машины, люди, приятная волнующая безучастность людей и машин.</segment>
+		<segment id="258" parent="262" relname="sequence">Затем - вестибюль, широкая мраморная лестница, ковровые дорожки, потертые на сгибах...</segment>
+		<segment id="259" parent="261" relname="joint">Табличка - \"Отдел пропаганды\".\n Лида постучала</segment>
+		<segment id="260" parent="261" relname="joint">и вошла.</segment>
+		<segment id="263" parent="262" relname="interpretation-evaluation">Все ужасно ей обрадовались.</segment>
+		<segment id="267" parent="351" relname="sequence">Кулешов сказал очередную пошлость.</segment>
+		<segment id="268" parent="270" relname="span">Верочка Котова улыбнулась,</segment>
+		<segment id="269" parent="268" relname="condition">не поднимая глаз.</segment>
+		<segment id="271" parent="272" relname="joint">Женя Тюрин помог раздеться.</segment>
+		<segment id="273" parent="295" relname="joint">Моралевич спросил:\n - Ты слушала в четверг?</segment>
+		<segment id="274" parent="276" relname="joint">Сам Юрна тобой доволен.\n - Правда?\n Тут же курил</segment>
+		<segment id="275" parent="276" relname="joint">и Валя Чмутов, хронический неудачник.</segment>
+		<segment id="277" parent="276" relname="elaboration">Чмутов был актером.</segment>
+		<segment id="279" parent="283" relname="span">Имел природный дар - красивый низкий голос удивительного тембра.</segment>
+		<segment id="280" parent="282" relname="joint">Работал диктором.</segment>
+		<segment id="281" parent="282" relname="joint">Шесть месяцев назад с ним произошла трагическая история.</segment>
+		<segment id="284" parent="290" relname="span">Чмутов должен был рано утром открыть передачу, которая шла непосредственно в эфир.</segment>
+		<segment id="285" parent="289" relname="span">Произнести всего несколько слов: \"Дорогие радиослушатели!</segment>
+		<segment id="286" parent="288" relname="joint">В эфире еженедельная программа - \"Здравствуй, товарищ!\".</segment>
+		<segment id="287" parent="288" relname="joint">И все.</segment>
+		<segment id="292" parent="293" relname="sequence">Дальше - музыка и запись.</segment>
+		<segment id="297" parent="303" relname="sequence">Чмутов получает свои одиннадцать рублей.\n Чмутов зашел в рубку.</segment>
+		<segment id="298" parent="300" relname="sequence">Сел.</segment>
+		<segment id="299" parent="300" relname="sequence">Придвинул микрофон.</segment>
+		<segment id="301" parent="302" relname="joint">Мысленно повторил текст.</segment>
+		<segment id="304" parent="306" relname="span">Подвернул манжеты,</segment>
+		<segment id="305" parent="304" relname="purpose">чтобы запонки не брякали по столу.</segment>
+		<segment id="307" parent="306" relname="condition">Ждал, когда загорится лампочка - \"Эфир\".</segment>
+		<segment id="310" parent="312" relname="span">На душе после вчерашнего было тоскливо.</segment>
+		<segment id="311" parent="310" relname="elaboration">Лампочка не загоралась.</segment>
+		<segment id="313" parent="317" relname="joint">- Дорогие радиослушатели!</segment>
+		<segment id="314" parent="316" relname="span">- задумчиво произнес Чмутов.\n Тяжело ворочался обожженный портвейном язык.</segment>
+		<segment id="315" parent="314" relname="elaboration">Лампочка не загоралась.\n - Дорогие радиослушатели,</segment>
+		<segment id="318" parent="319" relname="sequence">- снова повторил Чмутов,</segment>
+		<segment id="320" parent="322" relname="span">- о, мерзость...</segment>
+		<segment id="321" parent="320" relname="elaboration">Дорогие радиослушатели...</segment>
+		<segment id="325" parent="335" relname="joint">Да, напрасно я вчера завелся...\n Лампочка не загоралась.</segment>
+		<segment id="326" parent="328" relname="span">Как выяснилось, она перегорела...</segment>
+		<segment id="327" parent="326" relname="interpretation-evaluation">Это бывает раз в сто лет...\n</segment>
+		<segment id="329" parent="331" relname="span">- В эфире еженедельная программа,</segment>
+		<segment id="330" parent="329" relname="attribution">- репетировал Чмутов,</segment>
+		<segment id="332" parent="333" relname="joint">- ну, бля, все, завязываю...\n За стеклом мелькнула перекошенная физиономия редактора.</segment>
+		<segment id="336" parent="338" relname="joint">Чмутов обмер.</segment>
+		<segment id="337" parent="338" relname="joint">Распахнулась дверь.</segment>
+		<segment id="339" parent="341" relname="span">Упирающегося диктора выбросили на лестницу.</segment>
+		<segment id="340" parent="339" relname="elaboration">Его похмельные заклинания разнеслись на весь мир.</segment>
+		<segment id="342" parent="344" relname="span">Актер был уволен...</segment>
+		<segment id="343" parent="342" relname="interpretation-evaluation">История не кончается.\n</segment>
+		<group id="127" type="span" parent="358" relname="preparation"/>
+		<group id="123" type="span" parent="127" relname="span"/>
+		<group id="126" type="multinuc" parent="123" relname="elaboration"/>
+		<group id="358" type="multinuc" parent="359" relname="span"/>
+		<group id="152" type="multinuc" parent="358" relname="sequence"/>
+		<group id="138" type="span" parent="152" relname="joint"/>
+		<group id="137" type="span" parent="138" relname="span"/>
+		<group id="136" type="span" parent="137" relname="span"/>
+		<group id="135" type="span" parent="136" relname="span"/>
+		<group id="134" type="multinuc" parent="131" relname="elaboration"/>
+		<group id="151" type="multinuc" parent="152" relname="joint"/>
+		<group id="141" type="multinuc" parent="151" relname="joint"/>
+		<group id="150" type="span" parent="151" relname="joint"/>
+		<group id="149" type="span" parent="142" relname="elaboration"/>
+		<group id="145" type="multinuc" parent="149" relname="span"/>
+		<group id="148" type="span" parent="145" relname="elaboration"/>
+		<group id="357" type="multinuc" parent="358" relname="sequence"/>
+		<group id="163" type="multinuc" parent="357" relname="joint"/>
+		<group id="159" type="span" parent="163" relname="joint"/>
+		<group id="158" type="span" parent="153" relname="elaboration"/>
+		<group id="156" type="span" parent="158" relname="span"/>
+		<group id="162" type="span" parent="163" relname="joint"/>
+		<group id="356" type="multinuc" parent="357" relname="joint"/>
+		<group id="178" type="multinuc" parent="356" relname="sequence"/>
+		<group id="168" type="span" parent="178" relname="sequence"/>
+		<group id="167" type="multinuc" parent="164" relname="elaboration"/>
+		<group id="177" type="multinuc" parent="178" relname="sequence"/>
+		<group id="176" type="span" parent="177" relname="sequence"/>
+		<group id="172" type="multinuc" parent="176" relname="span"/>
+		<group id="175" type="span" parent="172" relname="elaboration"/>
+		<group id="355" type="multinuc" parent="356" relname="sequence"/>
+		<group id="235" type="multinuc" parent="355" relname="joint"/>
+		<group id="203" type="multinuc" parent="235" relname="joint"/>
+		<group id="193" type="multinuc" parent="203" relname="joint"/>
+		<group id="183" type="span" parent="193" relname="joint"/>
+		<group id="182" type="span" parent="179" relname="concession"/>
+		<group id="192" type="span" parent="193" relname="joint"/>
+		<group id="190" type="span" parent="192" relname="span"/>
+		<group id="188" type="span" parent="190" relname="span"/>
+		<group id="186" type="span" parent="188" relname="span"/>
+		<group id="202" type="span" parent="203" relname="joint"/>
+		<group id="200" type="span" parent="202" relname="span"/>
+		<group id="199" type="multinuc" parent="194" relname="elaboration"/>
+		<group id="197" type="multinuc" parent="199" relname="joint"/>
+		<group id="234" type="span" parent="235" relname="joint"/>
+		<group id="228" type="multinuc" parent="233" relname="solutionhood"/>
+		<group id="210" type="multinuc" parent="228" relname="joint"/>
+		<group id="209" type="multinuc" parent="210" relname="contrast"/>
+		<group id="208" type="span" parent="209" relname="joint"/>
+		<group id="227" type="span" parent="228" relname="joint"/>
+		<group id="225" type="span" parent="226" relname="solutionhood"/>
+		<group id="219" type="span" parent="225" relname="span"/>
+		<group id="218" type="span" parent="211" relname="elaboration"/>
+		<group id="216" type="span" parent="218" relname="span"/>
+		<group id="215" type="span" parent="212" relname="elaboration"/>
+		<group id="224" type="multinuc" parent="219" relname="interpretation-evaluation"/>
+		<group id="223" type="multinuc" parent="224" relname="contrast"/>
+		<group id="233" type="multinuc" parent="234" relname="span"/>
+		<group id="232" type="span" parent="233" relname="joint"/>
+		<group id="354" type="multinuc" parent="355" relname="joint"/>
+		<group id="240" type="span" parent="354" relname="sequence"/>
+		<group id="239" type="span" parent="236" relname="elaboration"/>
+		<group id="353" type="multinuc" parent="354" relname="sequence"/>
+		<group id="243" type="multinuc" parent="353" relname="sequence"/>
+		<group id="352" type="multinuc" parent="353" relname="sequence"/>
+		<group id="266" type="multinuc" parent="352" relname="joint"/>
+		<group id="252" type="span" parent="266" relname="joint"/>
+		<group id="248" type="multinuc" parent="252" relname="span"/>
+		<group id="247" type="multinuc" parent="248" relname="same-unit"/>
+		<group id="251" type="span" parent="248" relname="elaboration"/>
+		<group id="265" type="multinuc" parent="266" relname="joint"/>
+		<group id="257" type="span" parent="265" relname="sequence"/>
+		<group id="256" type="span" parent="253" relname="elaboration"/>
+		<group id="264" type="span" parent="265" relname="sequence"/>
+		<group id="262" type="multinuc" parent="264" relname="span"/>
+		<group id="261" type="multinuc" parent="262" relname="sequence"/>
+		<group id="351" type="multinuc" parent="352" relname="joint"/>
+		<group id="350" type="multinuc" parent="351" relname="sequence"/>
+		<group id="296" type="multinuc" parent="350" relname="sequence"/>
+		<group id="272" type="multinuc" parent="296" relname="joint"/>
+		<group id="270" type="span" parent="272" relname="joint"/>
+		<group id="295" type="multinuc" parent="296" relname="joint"/>
+		<group id="294" type="multinuc" parent="295" relname="joint"/>
+		<group id="278" type="span" parent="294" relname="joint"/>
+		<group id="276" type="multinuc" parent="278" relname="span"/>
+		<group id="293" type="multinuc" parent="294" relname="joint"/>
+		<group id="291" type="span" parent="293" relname="sequence"/>
+		<group id="283" type="span" parent="291" relname="span"/>
+		<group id="282" type="multinuc" parent="279" relname="elaboration"/>
+		<group id="290" type="span" parent="283" relname="elaboration"/>
+		<group id="289" type="span" parent="284" relname="elaboration"/>
+		<group id="288" type="multinuc" parent="285" relname="elaboration"/>
+		<group id="349" type="multinuc" parent="350" relname="sequence"/>
+		<group id="309" type="multinuc" parent="349" relname="sequence"/>
+		<group id="303" type="multinuc" parent="309" relname="sequence"/>
+		<group id="302" type="multinuc" parent="303" relname="sequence"/>
+		<group id="300" type="multinuc" parent="302" relname="joint"/>
+		<group id="308" type="span" parent="309" relname="sequence"/>
+		<group id="306" type="span" parent="308" relname="span"/>
+		<group id="348" type="multinuc" parent="349" relname="sequence"/>
+		<group id="324" type="multinuc" parent="348" relname="joint"/>
+		<group id="312" type="span" parent="324" relname="joint"/>
+		<group id="323" type="span" parent="324" relname="joint"/>
+		<group id="319" type="multinuc" parent="323" relname="span"/>
+		<group id="317" type="multinuc" parent="319" relname="sequence"/>
+		<group id="316" type="span" parent="317" relname="joint"/>
+		<group id="322" type="span" parent="319" relname="attribution"/>
+		<group id="347" type="multinuc" parent="348" relname="joint"/>
+		<group id="335" type="multinuc" parent="347" relname="sequence"/>
+		<group id="334" type="span" parent="335" relname="joint"/>
+		<group id="328" type="span" parent="334" relname="span"/>
+		<group id="333" type="multinuc" parent="328" relname="elaboration"/>
+		<group id="331" type="span" parent="333" relname="joint"/>
+		<group id="346" type="span" parent="347" relname="sequence"/>
+		<group id="338" type="multinuc" parent="346" relname="span"/>
+		<group id="345" type="span" parent="338" relname="elaboration"/>
+		<group id="341" type="span" parent="345" relname="span"/>
+		<group id="344" type="span" parent="341" relname="interpretation-evaluation"/>
+		<group id="359" type="span"/>
+	</body>
+</rst>

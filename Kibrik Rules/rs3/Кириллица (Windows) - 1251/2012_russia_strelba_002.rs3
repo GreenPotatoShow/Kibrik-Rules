@@ -1,0 +1,93 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="40" parent="42" relname="joint">Очередная кавказская свадебная стрельба,</segment>
+		<segment id="41" parent="42" relname="joint">теперь в Сочи\n\nСотрудники УВД Сочи проверяют информацию о стрельбе из свадебного кортежа на улицах Центрального района города-курорта,</segment>
+		<segment id="43" parent="42" relname="attribution">пишет сайт \"Российской газеты\".\n\</segment>
+		<segment id="45" parent="46" relname="attribution">nКак сообщают очевидцы,</segment>
+		<segment id="46" parent="47" relname="span">инцидент произошел днем на Курортном проспекте.</segment>
+		<segment id="48" parent="52" relname="joint">Около двадцати машин во главе с белым Rolls-Royce промчались по главной улице города,</segment>
+		<segment id="49" parent="51" relname="joint">при этом из окон одного из автомобилей, видимо, в честь молодоженов стреляли в воздух.</segment>
+		<segment id="50" parent="51" relname="joint">Направлялась колонна автомобилей в сторону Адлера.\n\n\"Лимузин, из которого, предположительно стреляли свадебные гости найден.</segment>
+		<segment id="53" parent="55" relname="span">Идет опрос водителя\",</segment>
+		<segment id="54" parent="53" relname="attribution">- цитирует \"Интерфакс\" пресс - службу УВД Сочи.\n\nПроисшествие уже активно начали обсуждать в интернете.</segment>
+		<segment id="60" parent="66" relname="same-unit">Пользователи известного в городе сайта, где переписываются едва ли не все жители Сочи,</segment>
+		<segment id="61" parent="64" relname="attribution">сообщают,</segment>
+		<segment id="62" parent="64" relname="joint">что видели кортеж</segment>
+		<segment id="63" parent="64" relname="joint">и слышали выстрелы.</segment>
+		<segment id="67" parent="73" relname="span">Говорят, что номера на машинах, из которых стреляли, были абхазскими.</segment>
+		<segment id="68" parent="71" relname="attribution">Сочинцы недоумевают:</segment>
+		<segment id="69" parent="71" relname="joint">\"Неужели это теперь мода такая,</segment>
+		<segment id="70" parent="71" relname="joint">и московский пример заразителен\"?\n\</segment>
+		<segment id="75" parent="112" relname="preparation">nНапомним, это не первый в городах страны инцидент со стрельбой на свадьбе.</segment>
+		<segment id="76" parent="78" relname="sequence">Большой общественный резонанс получил инцидент со стрельбой в центре Москвы во время празднования дагестанской свадьбы 30 сентября.</segment>
+		<segment id="77" parent="78" relname="sequence">Свадебный кортеж из девяти автомобилей двигался по Ленинградскому проспекту в сторону Тверской улицы.</segment>
+		<segment id="79" parent="87" relname="sequence">Во время движения участники кортежа начали стрелять в воздух из травматического оружия.</segment>
+		<segment id="80" parent="84" relname="sequence">После этого полиция блокировала в районе Моховой улицы кортеж,</segment>
+		<segment id="83" parent="84" relname="sequence">участники которого вновь открыли стрельбу в воздух.\n\nБыли задержаны 15 человек, у стрелявшего гостя свадьбы был изъят травматический пистолет.</segment>
+		<segment id="85" parent="86" relname="span">Первоначально сообщалось, что владелец оружия был оштрафован по статье 20.8 КоАП на 2 тысячи рублей.</segment>
+		<segment id="88" parent="90" relname="span">При этом материалы были направлены по месту жительства стрелявшего</segment>
+		<segment id="89" parent="88" relname="purpose">для решения вопроса о лишении лицензии на ношения оружия.\n\n1 октября Мировой участок Тверского суда Москвы арестовал на 15 суток одного из задержанных гостей свадьбы.</segment>
+		<segment id="91" parent="90" relname="interpretation-evaluation">Его признали виновным в мелком хулиганстве (ст.20.1 КоАП).</segment>
+		<segment id="93" parent="97" relname="sequence">При этом, как отметили в суде,</segment>
+		<segment id="94" parent="96" relname="span">мужчина был арестован не за стрельбу, а за нецензурную брань в общественном месте,</segment>
+		<segment id="95" parent="94" relname="elaboration">которая является явным неуважением к обществу.</segment>
+		<segment id="98" parent="100" relname="span">3 октября суд арестовал другого участника \"свадьбы со стрельбой\" на 5 суток.\n\nКроме того, возбуждено уголовное дело по факту стрельбы из ружья в воздух во время свадьбы в Ленинском районе Ставрополя,</segment>
+		<segment id="99" parent="98" relname="background">где в ночь на 29 сентября неизвестные стали стрелять возле ресторана в непосредственной близости от многоквартирных жилых домов и Дворца культуры и спорта.</segment>
+		<segment id="101" parent="102" relname="attribution">Подозреваемый в хулиганстве задержан.\n\n\"РГ\" также отмечает,</segment>
+		<segment id="102" parent="103" relname="span">что МВД РФ выступило в среду с официальным предложением запретить продажу оружия и боеприпасов на период проведения Олимпиады в Сочи.</segment>
+		<segment id="105" parent="107" relname="span">Правоохранители подготовили проект соответствующего указа,</segment>
+		<segment id="106" parent="105" relname="elaboration">который разместили у себя на сайте.\n\nИсточник: https://www.newsru.com/russia/10Oct2012/strelba.html\n</segment>
+		<group id="44" type="span" parent="115" relname="preparation"/>
+		<group id="42" type="multinuc" parent="44" relname="span"/>
+		<group id="115" type="multinuc" parent="116" relname="span"/>
+		<group id="57" type="span" parent="115" relname="joint"/>
+		<group id="47" type="span" parent="56" relname="preparation"/>
+		<group id="56" type="multinuc" parent="57" relname="span"/>
+		<group id="52" type="multinuc" parent="56" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="114" type="multinuc" parent="115" relname="joint"/>
+		<group id="74" type="span" parent="114" relname="joint"/>
+		<group id="66" type="multinuc" parent="74" relname="span"/>
+		<group id="65" type="span" parent="66" relname="same-unit"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="73" type="span" parent="66" relname="background"/>
+		<group id="72" type="span" parent="67" relname="interpretation-evaluation"/>
+		<group id="71" type="multinuc" parent="72" relname="span"/>
+		<group id="113" type="span" parent="114" relname="joint"/>
+		<group id="112" type="span" parent="113" relname="span"/>
+		<group id="78" type="multinuc" parent="111" relname="preparation"/>
+		<group id="111" type="multinuc" parent="112" relname="span"/>
+		<group id="87" type="multinuc" parent="111" relname="joint"/>
+		<group id="86" type="span" parent="87" relname="sequence"/>
+		<group id="84" type="multinuc" parent="85" relname="cause-effect"/>
+		<group id="110" type="multinuc" parent="111" relname="joint"/>
+		<group id="92" type="span" parent="110" relname="joint"/>
+		<group id="90" type="span" parent="92" relname="span"/>
+		<group id="109" type="multinuc" parent="110" relname="joint"/>
+		<group id="97" type="multinuc" parent="109" relname="joint"/>
+		<group id="96" type="span" parent="97" relname="sequence"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="104" type="multinuc" parent="108" relname="joint"/>
+		<group id="100" type="span" parent="104" relname="joint"/>
+		<group id="103" type="span" parent="104" relname="joint"/>
+		<group id="107" type="span" parent="108" relname="joint"/>
+		<group id="116" type="span"/>
+	</body>
+</rst>

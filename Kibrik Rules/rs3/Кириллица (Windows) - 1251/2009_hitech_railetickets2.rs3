@@ -1,0 +1,71 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="33" relname="span">РЖД решит судьбу электронных билетов осенью\n\nРоссийские железные дороги подвели первые итоги пилотной эксплуатации новой услуги - электронной регистрации билетов на поезда дальнего следования.</segment>
+		<segment id="28" parent="30" relname="joint">С 1 июня по 31 июля ею воспользовались 8 тыс. 476 человек,</segment>
+		<segment id="29" parent="30" relname="joint">при этом они купили почти 15 тыс. билетов на 8 поездов, участвующих в проекте,</segment>
+		<segment id="31" parent="30" relname="attribution">сообщает CNews.ru.\n\</segment>
+		<segment id="34" parent="39" relname="attribution">nКак рассказали изданию в пресс-службе РЖД,</segment>
+		<segment id="35" parent="37" relname="span">выводы относительно целесообразности введения услуги электронной регистрации на других направлениях будут сделаны в сентябре,</segment>
+		<segment id="36" parent="35" relname="elaboration">когда будут более подробно проанализированы итоги пилотного проекта.\n\nНо уже сейчас можно сказать, что электронные билеты пользуются спросом:</segment>
+		<segment id="38" parent="37" relname="elaboration">они составляют 25% от всех билетов, проданных через интернет на задействованные в проекте поезда.</segment>
+		<segment id="41" parent="53" relname="span">Тем не менее, доля электронных билетов в общем объеме перевозок пока ничтожна:</segment>
+		<segment id="42" parent="51" relname="purpose">для сравнения,</segment>
+		<segment id="43" parent="50" relname="cause-effect">за июль этого года на все поезда дальнего следования было продано 15,3 млн билетов.\n\nАналитики, в свою очередь, не спешат предрекать скорое распространение электронных билетов.\n\nУслуга электронной регистрации билета подразумевает,</segment>
+		<segment id="44" parent="46" relname="joint">что пассажиру не нужно оформлять</segment>
+		<segment id="45" parent="46" relname="joint">и даже распечатывать бланк билета,</segment>
+		<segment id="47" parent="49" relname="span">а сесть в поезд он может,</segment>
+		<segment id="48" parent="47" relname="condition">предъявив проводнику одно лишь удостоверение личности.</segment>
+		<segment id="54" parent="58" relname="span">При этом проводник получает на руки список всех пассажиров за 1 час до начала посадки на поезд.\n\nОтметим, что электронный билет все-таки придется оформить как обычный бумажный в том случае,</segment>
+		<segment id="55" parent="57" relname="joint">если нужно сдать его</segment>
+		<segment id="56" parent="57" relname="joint">или изменить условия поездки.</segment>
+		<segment id="59" parent="61" relname="span">Кроме того, электронные билеты не выдаются на проезд детей в возрасте до 5 лет,</segment>
+		<segment id="60" parent="59" relname="elaboration">не занимающих места в поезде.\n\nВведение полноценных электронных билетов – покупаемых через интернет и не требующих оформления бланка</segment>
+		<segment id="62" parent="63" relname="span">– стало развитием проекта РЖД по продаже проездных документов через интернет.</segment>
+		<segment id="64" parent="66" relname="joint">В рамках этого проекта билеты, купленные в интернете, можно оформить в специальных кассах на вокзалах</segment>
+		<segment id="65" parent="66" relname="joint">либо самостоятельно распечатать там же через транзакционные терминалы самообслуживания (ТТС).</segment>
+		<segment id="67" parent="68" relname="joint">С помощью ТТС можно также прямо на месте купить билеты на поезда дальнего следования.\n\nПродажа билетов по технологии удаленной регистрации была открыта 25 мая текущего года.</segment>
+		<segment id="69" parent="71" relname="sequence">Первые пассажиры совершили поездку по электронному билету 1 июня этого года.</segment>
+		<segment id="70" parent="71" relname="sequence">В пилотном проекте задействованы пять поездов, курсирующих между Москвой и Санкт-Петербургом, а также по маршрутам Москва-Нижний Новгород-Москва и Москва–Казань–Москва.\n\nНа подготовку нормативно-технологической базы и программного обеспечения для запуска этого проекта РЖД потребовалось полгода.\n\nИсточник: https://www.newsru.com/hitech/11Aug2009/railetickets2.html\n</segment>
+		<group id="33" type="span" parent="76" relname="preparation"/>
+		<group id="32" type="span" parent="27" relname="elaboration"/>
+		<group id="30" type="multinuc" parent="32" relname="span"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="40" type="span" parent="76" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="37" type="span" parent="39" relname="span"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="53" type="span" parent="75" relname="joint"/>
+		<group id="52" type="span" parent="41" relname="purpose"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="50" type="multinuc" parent="51" relname="span"/>
+		<group id="46" type="multinuc" parent="50" relname="contrast"/>
+		<group id="49" type="span" parent="50" relname="contrast"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="58" type="span" parent="74" relname="joint"/>
+		<group id="57" type="multinuc" parent="54" relname="condition"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="63" type="span" parent="73" relname="span"/>
+		<group id="61" type="span" parent="62" relname="cause-effect"/>
+		<group id="72" type="multinuc" parent="63" relname="elaboration"/>
+		<group id="68" type="multinuc" parent="72" relname="joint"/>
+		<group id="66" type="multinuc" parent="68" relname="joint"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="77" type="span"/>
+	</body>
+</rst>

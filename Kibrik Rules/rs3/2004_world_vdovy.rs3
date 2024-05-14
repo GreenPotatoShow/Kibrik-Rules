@@ -1,0 +1,327 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="155" parent="159" relname="span">Los Angeles Times: \"черных вдов\" вербуют под носом у федералов\n\n\"Черных вдов\" боевики набирают из молодых чеченок,</segment>
+		<segment id="156" parent="157" relname="attribution">говоря родителям,</segment>
+		<segment id="157" parent="158" relname="span">что те решили выйти замуж за бандитов.</segment>
+		<segment id="160" parent="162" relname="joint">Затем их гипнотизирует неуловимая \"Черная Фатима\"</segment>
+		<segment id="161" parent="162" relname="joint">и они идут на дело.</segment>
+		<segment id="164" parent="166" relname="span">Использовать женщин-камикадзе</segment>
+		<segment id="165" parent="164" relname="purpose">для совершения терактов придумали чеченцы,</segment>
+		<segment id="167" parent="166" relname="attribution">утверждает Los Angeles Times,</segment>
+		<segment id="169" parent="171" relname="span">статью которой публикует InoPressa.\n\nСемь смертниц осуществили теракты против Израиля,</segment>
+		<segment id="170" parent="169" relname="background">первый из них - в январе 2002 года.</segment>
+		<segment id="174" parent="176" relname="joint">К этому моменту в России уже было зарегистрировано два таких теракта,</segment>
+		<segment id="175" parent="176" relname="joint">и с тех пор их количество выросло.</segment>
+		<segment id="177" parent="181" relname="span">После начала второй чеченской войны в 1999 году более трех десятков чеченок, примерно половина террористов-смертников, осуществили теракты или попытки терактов против России.\n\n\"Медна Байракова помнит день,</segment>
+		<segment id="178" parent="180" relname="joint">когда женщина средних лет появилась у ее дверей</segment>
+		<segment id="179" parent="180" relname="joint">и попросила разрешения поговорить с ее 26-летней дочерью.</segment>
+		<segment id="182" parent="188" relname="sequence">Они на полчаса закрылись в спальне,</segment>
+		<segment id="183" parent="187" relname="span">а потом дочь ушла,</segment>
+		<segment id="184" parent="185" relname="attribution">сказав,</segment>
+		<segment id="185" parent="186" relname="span">что проводит гостью до автобусной остановки.</segment>
+		<segment id="190" parent="192" relname="joint">Спустя час Зарета еще не вернулась,</segment>
+		<segment id="191" parent="192" relname="joint">а в дверь разоренной квартиры в Грозном постучались несколько мужчин в камуфляже.\n\n\"Мы забрали вашу дочь.</segment>
+		<segment id="193" parent="194" relname="sequence">Она согласилась выйти замуж за одного из наших людей\",</segment>
+		<segment id="195" parent="194" relname="attribution">- сказали они</segment>
+		<segment id="199" parent="203" relname="span">.\n\nБайракова запротестовала:</segment>
+		<segment id="200" parent="202" relname="span">\"Она больна.</segment>
+		<segment id="201" parent="200" relname="elaboration">Только сегодня утром она кашляла кровью\".\n\n\"Мы ее вылечим\",</segment>
+		<segment id="204" parent="206" relname="span">- спокойно ответили они.\"\n\nВ следующий раз Байракова и ее муж увидели лицо дочери через 24 дня,</segment>
+		<segment id="205" parent="204" relname="background">когда чеченские боевики в Москве захватили театральный центр на Дубровке и 800 заложников.</segment>
+		<segment id="208" parent="212" relname="joint">Черные глаза Зареты, которые они не могли перепутать с другими, были видны на телеэкране над черным покрывалом.</segment>
+		<segment id="209" parent="210" relname="cause-effect">Пальцы были засунуты под пояс со взрывчаткой.\n\nОна еще раз видела дочь, на посмертной фотографии, сделанной после того, как федеральные агенты штурмовали театр рано утром 26 октября 2002 года.</segment>
+		<segment id="210" parent="211" relname="span">В результате штурма погибли 41 захватчик и 129 заложников.</segment>
+		<segment id="214" parent="226" relname="span">Лицо Зареты едва можно было узнать:</segment>
+		<segment id="215" parent="225" relname="joint">оно распухло</segment>
+		<segment id="216" parent="224" relname="span">и было в синяках.\n\</segment>
+		<segment id="217" parent="223" relname="joint">nЗастегнув у себя на талии пояс с взрывчаткой осенним днем 2002 года,</segment>
+		<segment id="218" parent="222" relname="joint">Зарета Байракова вступила в секту \"черных вдов\", террористок-смертниц,</segment>
+		<segment id="219" parent="221" relname="span">заставивших многих в России искать таинственную черноглазую женщину в длинной шубе,</segment>
+		<segment id="220" parent="219" relname="background">которая, как считается, их вербует.</segment>
+		<segment id="227" parent="233" relname="joint">В народе эта женщина средних лет с крючковатым носом и черными волосами известна как \"Черная Фатима\".\n\</segment>
+		<segment id="228" parent="231" relname="attribution">nПо некоторым сообщениям,</segment>
+		<segment id="229" parent="231" relname="restatement">ее неоднократно видели прячущейся неподалеку от мест терактов на протяжении 10 лет напряженности между Россией и Чечней.\n\nСовсем недавно, 9 декабря 2003 года молодая женщина взорвала себя перед московской гостиницей \"Националь\",</segment>
+		<segment id="230" parent="231" relname="restatement">убив шесть человек.</segment>
+		<segment id="234" parent="238" relname="span">По некоторым сообщениям, женщину постарше в длинном пальто и меховой шапке видели убегающей с места события.\n\n5 декабря террористы-смертники взорвали электричку в Ставропольской области,</segment>
+		<segment id="235" parent="237" relname="joint">убив еще 44 человека</segment>
+		<segment id="236" parent="237" relname="joint">и ранив более 150.</segment>
+		<segment id="240" parent="245" relname="attribution">Власти утверждают,</segment>
+		<segment id="241" parent="245" relname="sequence">что в теракте участвовали три женщины и один мужчина.\n\nПолагают,</segment>
+		<segment id="244" parent="245" relname="sequence">что Абу Валид, саудовец, который вместе с многими арабами присоединился к чеченским боевикам, был командиром повстанцев на восточном фронте Чечни.</segment>
+		<segment id="247" parent="255" relname="span">Недавно он объяснил причины использования смертниц в интервью телеканалу Al Jazeera.</segment>
+		<segment id="248" parent="254" relname="joint">\"Этим женщинам, особенно женам моджахедов, ставших мучениками, дома угрожают.</segment>
+		<segment id="249" parent="251" relname="joint">Угрожают их чести,</segment>
+		<segment id="250" parent="251" relname="joint">всему,</segment>
+		<segment id="252" parent="251" relname="attribution">- заявил он.</segment>
+		<segment id="259" parent="407" relname="joint">- Они не приемлют унижений и жизни в оккупации.</segment>
+		<segment id="260" parent="263" relname="attribution">Они говорят,</segment>
+		<segment id="261" parent="263" relname="span">что хотят служить делу всемогущего Бога,</segment>
+		<segment id="262" parent="261" relname="elaboration">мстить за смерть мужей\".\n\nКак становятся \"черными вдовами\"\n\nВот еще один пример, который приводит Los Angeles Times.</segment>
+		<segment id="265" parent="271" relname="span">\"На тихой улице в бывшей казачьей станице Асиновская в западной Чечне можно увидеть развалины, которые остались от дома Сулумбека Ганиева.</segment>
+		<segment id="266" parent="268" relname="joint">В этом доме он вырастил шесть сыновей и четыре дочери.\n\nЖивы только четверо из его детей,</segment>
+		<segment id="267" parent="268" relname="joint">и двое из них находятся в плену.</segment>
+		<segment id="269" parent="268" relname="elaboration">Ислам погиб во время ракетного обстрела в 1999 году.</segment>
+		<segment id="272" parent="277" relname="cause-effect">Дочь Петимат исчезла в июле 2000 года,</segment>
+		<segment id="273" parent="276" relname="attribution">полагают,</segment>
+		<segment id="274" parent="276" relname="span">что она погибла</segment>
+		<segment id="275" parent="274" relname="condition">при бомбардировке Грозного.</segment>
+		<segment id="279" parent="291" relname="joint">Рустам, бывший боевик, сидит в тюрьме в Северной Осетии.</segment>
+		<segment id="280" parent="288" relname="joint">Хусейн сражался с боевиками</segment>
+		<segment id="281" parent="287" relname="span">и погиб в 2000 году.</segment>
+		<segment id="282" parent="286" relname="span">Раису,</segment>
+		<segment id="285" parent="282" relname="elaboration">которая не дала своему брату завербовать ее в черные вдовы, российские спецслужбы держат в неизвестном месте.</segment>
+		<segment id="289" parent="288" relname="background">Младший сын, Тархан, прошлой весной погиб в автомобильной катастрофе.</segment>
+		<segment id="293" parent="299" relname="sequence">Дочери Фатима и Хаджад погибли на Дубровке с поясами шахидов на себе\".\n\nЧерез несколько дней после событий на Дубровке,</segment>
+		<segment id="294" parent="297" relname="attribution">рассказывает семья,</segment>
+		<segment id="295" parent="297" relname="joint">появились российские солдаты</segment>
+		<segment id="296" parent="297" relname="joint">и взорвали дом.</segment>
+		<segment id="300" parent="316" relname="sequence">Ганиев, бывший строитель,</segment>
+		<segment id="301" parent="314" relname="attribution">говорит,</segment>
+		<segment id="302" parent="306" relname="span">что остался в живых</segment>
+		<segment id="303" parent="305" relname="span">лишь потому, что они с женой смотрели телевизор у соседей.\n\nОн рассказывает,</segment>
+		<segment id="304" parent="303" relname="background">что первое знакомство его семьи с российскими военными произошло в октябре 1999 года, вскоре после начала второй чеченской войны.</segment>
+		<segment id="307" parent="313" relname="joint">Солдаты пришли в их деревню,</segment>
+		<segment id="308" parent="312" relname="joint">убили пять принадлежащих Ганиеву коров,</segment>
+		<segment id="309" parent="311" relname="sequence">погрузили две туши в свою машину</segment>
+		<segment id="310" parent="311" relname="sequence">и уехали.\n\</segment>
+		<segment id="317" parent="321" relname="sequence">nВ июле 2000 года солдаты ворвались в его дом,</segment>
+		<segment id="318" parent="320" relname="joint">забрали видеомагнитофон, ягнят и кур</segment>
+		<segment id="319" parent="320" relname="joint">и бросили гранату в подвал, где хранились запасы на зиму.</segment>
+		<segment id="322" parent="324" relname="sequence">Вскоре Рустам и Хусейн начали сражаться на стороне боевиков.\n\nВ июне 2002 года российские солдаты появились снова</segment>
+		<segment id="323" parent="324" relname="sequence">и забрали 21-летнего Тархана, 23-летнюю Фатиму и 17-летнюю Раису.</segment>
+		<segment id="326" parent="325" relname="interpretation-evaluation">Три дня семья ничего о них не знала.</segment>
+		<segment id="330" parent="334" relname="sequence">Наконец, Ганиеву удалось договориться об освобождении своих детей за выкуп в тысячу долларов.\n\nДочери рассказали родителям,</segment>
+		<segment id="331" parent="333" relname="sequence">что их посадили в сарай,</segment>
+		<segment id="332" parent="333" relname="sequence">и спустя некоторое время бросили туда же их брата, связанного по рукам и ногам и избитого.</segment>
+		<segment id="335" parent="339" relname="span">Солдаты вылили на него ведро воды,</segment>
+		<segment id="336" parent="338" relname="joint">чтобы он очнулся,</segment>
+		<segment id="337" parent="338" relname="joint">и снова увели.</segment>
+		<segment id="341" parent="343" relname="joint">\"Они пытали девочек электричеством.</segment>
+		<segment id="342" parent="343" relname="joint">Они прикладывали к их пальцам металлическую спираль, которую присоединяли к аккумулятору,</segment>
+		<segment id="344" parent="343" relname="attribution">- сказал Ганиев.</segment>
+		<segment id="347" parent="386" relname="attribution">- Они хотели получить информацию о повстанцах\".\n\nЛюба, жена Ганиева, пытается объяснить,</segment>
+		<segment id="348" parent="360" relname="span">что заставило студентку юридического факультета Фатиму и Хаджад,</segment>
+		<segment id="349" parent="359" relname="sequence">которая хотела стать гинекологом,</segment>
+		<segment id="350" parent="358" relname="span">присоединиться к террористам в Москве.</segment>
+		<segment id="351" parent="352" relname="cause-effect">\"Их избивали три дня,</segment>
+		<segment id="352" parent="353" relname="span">этого хватило.</segment>
+		<segment id="354" parent="356" relname="joint">Они вернулись</segment>
+		<segment id="355" parent="356" relname="joint">и сказали:</segment>
+		<segment id="361" parent="363" relname="span">\"Мы опозорены.</segment>
+		<segment id="362" parent="361" relname="elaboration">Они три дня нас держали.</segment>
+		<segment id="364" parent="363" relname="interpretation-evaluation">Мы не можем с этим жить\".</segment>
+		<segment id="366" parent="368" relname="joint">Они не плакали,</segment>
+		<segment id="367" parent="368" relname="joint">мы никогда не видели их плачущими\".\n\n29 сентября 2002 года,</segment>
+		<segment id="369" parent="383" relname="same-unit">в тот же день,</segment>
+		<segment id="370" parent="372" relname="joint">когда исчезла Зарета Байракова,</segment>
+		<segment id="371" parent="372" relname="joint">Фатима и Хаджад покинули дом,</segment>
+		<segment id="373" parent="374" relname="same-unit">сказав,</segment>
+		<segment id="375" parent="381" relname="joint">что едут в Дагестан повидать племянника.</segment>
+		<segment id="376" parent="380" relname="joint">Они не вернулись.</segment>
+		<segment id="377" parent="379" relname="span">\"Они нам не сказали,</segment>
+		<segment id="378" parent="377" relname="attribution">- вспоминает Ганиев.</segment>
+		<segment id="388" parent="389" relname="condition">- Если бы мы знали,</segment>
+		<segment id="389" parent="390" relname="span">мы бы их не пустили.</segment>
+		<segment id="391" parent="393" relname="span">Я бы переломал им ноги,</segment>
+		<segment id="392" parent="391" relname="purpose">чтобы их остановить\".\n\n\"Чеченские террористы атакуют рок-концерты, станции метро и электрички, полные студентов.</segment>
+		<segment id="395" parent="397" relname="joint">Свидетели теракта у \"Националя\" в ужасе говорят об оторванных головах и конечностях.</segment>
+		<segment id="396" parent="397" relname="joint">Другие в оцепенении ждут новых взрывов\",</segment>
+		<segment id="398" parent="397" relname="attribution">- пишет американская газета.</segment>
+		<segment id="412" parent="415" relname="attribution">Как раз 6 февраля, в день публикации,</segment>
+		<segment id="413" parent="415" relname="joint">террористка-смертница взрывает вагон московского метро,</segment>
+		<segment id="414" parent="415" relname="joint">жертвами теракта стали около 40 человек.\n\nТеракты \"черных вдов\"\n\n7 июня 2000 года</segment>
+		<segment id="417" parent="419" relname="joint">Двое российских военнослужащих убиты</segment>
+		<segment id="418" parent="419" relname="joint">и пятеро ранены</segment>
+		<segment id="420" parent="421" relname="span">в результате взрыва машины смертницей в селе Алхан-юрт, к юго-западу от Грозного.</segment>
+		<segment id="423" parent="429" relname="span">22-летняя Хава Бараева взорвала грузовик, начиненный взрывчаткой, возле российского военного объекта.</segment>
+		<segment id="424" parent="428" relname="sequence">Ее родственник Мовсар Бараев позже возглавил операцию по захвату заложников в московском театре.\n\n29 ноября 2001 года</segment>
+		<segment id="425" parent="427" relname="joint">Один россиянин погиб</segment>
+		<segment id="426" parent="427" relname="joint">и трое ранены в Урус-Мартане.</segment>
+		<segment id="431" parent="433" relname="joint">Эльза Газуева, спрятавшая под одеждой ручные гранаты,</segment>
+		<segment id="432" parent="433" relname="joint">взорвала себя рядом с командиром российских войск.\n\n23-26 октября 2002 года 41 вооруженный чеченский боевик, в том числе смертницы,</segment>
+		<segment id="434" parent="435" relname="joint">захватили в заложники около 800 человек в театре на Дубровке в Москве.\n\n12 мая 2003 года Две террористки-смертницы взорвали грузовик, начиненный взрывчаткой у здания местной администрации в Знаменском.</segment>
+		<segment id="437" parent="438" relname="joint">Погибло 59 человек.\n\n14 мая 2003 года Как минимум 16 человек, включая двух смертниц, погибли во время религиозного праздника в Иласхан-юрте.</segment>
+		<segment id="439" parent="441" relname="joint">145 человек было ранено.\n\n5 июня 2003 года Террористка-смертница недалеко от границы Чечни дождалась в засаде автобуса, везущего российских летчиков,</segment>
+		<segment id="440" parent="441" relname="joint">и взорвала себя и еще 16 человек.\n\n5 июля 2003 года</segment>
+		<segment id="442" parent="443" relname="sequence">Две смертницы убили себя и еще 14 человек на рок-фестивале под открытым небом в Москве.</segment>
+		<segment id="445" parent="447" relname="span">60 человек были ранены.\n\n10 июля 2003 года Чеченка,</segment>
+		<segment id="446" parent="445" relname="purpose">намеревавшаяся взорвать себя в центре Москвы,</segment>
+		<segment id="448" parent="450" relname="joint">была арестована.\n\n27 июля 2003 года Смертница взорвала себя у входа на базу сил безопасности в Грозном.</segment>
+		<segment id="449" parent="450" relname="joint">Один из прохожих был легко ранен.\n\n5 декабря 2003 года Как минимум 44 человека погибло</segment>
+		<segment id="452" parent="451" relname="condition">при взрыве в электричке в Ставропольском крае.</segment>
+		<segment id="454" parent="455" relname="joint">Более 150 ранено.\n\n9 декабря 2003 года Смертница взрывает пояс со взрывчаткой у гостиницы \"Националь\" в центре Москвы.</segment>
+		<segment id="456" parent="458" relname="joint">Шесть человек погибло,</segment>
+		<segment id="457" parent="458" relname="joint">14 ранено.\n\nИсточник: https://www.newsru.com/world/06Feb2004/vdovy.html\n</segment>
+		<group id="411" type="span" parent="461" relname="span"/>
+		<group id="173" type="multinuc" parent="410" relname="preparation"/>
+		<group id="163" type="multinuc" parent="173" relname="joint"/>
+		<group id="159" type="span" parent="163" relname="sequence"/>
+		<group id="158" type="span" parent="155" relname="condition"/>
+		<group id="162" type="multinuc" parent="163" relname="sequence"/>
+		<group id="172" type="span" parent="173" relname="joint"/>
+		<group id="168" type="span" parent="172" relname="span"/>
+		<group id="166" type="span" parent="168" relname="span"/>
+		<group id="171" type="span" parent="168" relname="elaboration"/>
+		<group id="410" type="multinuc" parent="411" relname="span"/>
+		<group id="198" type="multinuc" parent="410" relname="joint"/>
+		<group id="176" type="multinuc" parent="198" relname="sequence"/>
+		<group id="197" type="multinuc" parent="198" relname="sequence"/>
+		<group id="189" type="multinuc" parent="197" relname="sequence"/>
+		<group id="181" type="span" parent="189" relname="sequence"/>
+		<group id="180" type="multinuc" parent="177" relname="background"/>
+		<group id="188" type="multinuc" parent="189" relname="sequence"/>
+		<group id="187" type="span" parent="188" relname="sequence"/>
+		<group id="186" type="span" parent="183" relname="interpretation-evaluation"/>
+		<group id="196" type="span" parent="197" relname="sequence"/>
+		<group id="194" type="multinuc" parent="196" relname="span"/>
+		<group id="192" type="multinuc" parent="194" relname="sequence"/>
+		<group id="409" type="multinuc" parent="410" relname="joint"/>
+		<group id="213" type="multinuc" parent="409" relname="joint"/>
+		<group id="207" type="multinuc" parent="213" relname="joint"/>
+		<group id="203" type="span" parent="207" relname="joint"/>
+		<group id="202" type="span" parent="199" relname="elaboration"/>
+		<group id="206" type="span" parent="207" relname="joint"/>
+		<group id="212" type="multinuc" parent="213" relname="joint"/>
+		<group id="211" type="span" parent="212" relname="joint"/>
+		<group id="408" type="multinuc" parent="409" relname="joint"/>
+		<group id="258" type="multinuc" parent="408" relname="joint"/>
+		<group id="226" type="span" parent="258" relname="joint"/>
+		<group id="225" type="multinuc" parent="214" relname="elaboration"/>
+		<group id="224" type="span" parent="225" relname="joint"/>
+		<group id="223" type="multinuc" parent="216" relname="elaboration"/>
+		<group id="222" type="multinuc" parent="223" relname="joint"/>
+		<group id="221" type="span" parent="222" relname="joint"/>
+		<group id="257" type="span" parent="258" relname="joint"/>
+		<group id="239" type="span" parent="257" relname="span"/>
+		<group id="233" type="multinuc" parent="239" relname="span"/>
+		<group id="232" type="span" parent="233" relname="joint"/>
+		<group id="231" type="multinuc" parent="232" relname="span"/>
+		<group id="238" type="span" parent="233" relname="elaboration"/>
+		<group id="237" type="multinuc" parent="234" relname="condition"/>
+		<group id="256" type="multinuc" parent="239" relname="elaboration"/>
+		<group id="246" type="span" parent="256" relname="joint"/>
+		<group id="245" type="multinuc" parent="246" relname="span"/>
+		<group id="255" type="span" parent="256" relname="joint"/>
+		<group id="254" type="multinuc" parent="247" relname="elaboration"/>
+		<group id="253" type="span" parent="254" relname="joint"/>
+		<group id="251" type="multinuc" parent="253" relname="span"/>
+		<group id="407" type="multinuc" parent="408" relname="joint"/>
+		<group id="406" type="span" parent="407" relname="joint"/>
+		<group id="264" type="span" parent="405" relname="preparation"/>
+		<group id="263" type="span" parent="264" relname="span"/>
+		<group id="405" type="multinuc" parent="406" relname="span"/>
+		<group id="271" type="span" parent="405" relname="sequence"/>
+		<group id="270" type="span" parent="265" relname="elaboration"/>
+		<group id="268" type="multinuc" parent="270" relname="span"/>
+		<group id="404" type="multinuc" parent="405" relname="sequence"/>
+		<group id="292" type="multinuc" parent="404" relname="sequence"/>
+		<group id="278" type="span" parent="292" relname="joint"/>
+		<group id="277" type="span" parent="278" relname="span"/>
+		<group id="276" type="span" parent="277" relname="span"/>
+		<group id="291" type="multinuc" parent="292" relname="joint"/>
+		<group id="290" type="span" parent="291" relname="joint"/>
+		<group id="288" type="multinuc" parent="290" relname="span"/>
+		<group id="287" type="span" parent="288" relname="joint"/>
+		<group id="286" type="span" parent="281" relname="elaboration"/>
+		<group id="403" type="multinuc" parent="404" relname="sequence"/>
+		<group id="329" type="multinuc" parent="403" relname="joint"/>
+		<group id="299" type="multinuc" parent="329" relname="joint"/>
+		<group id="298" type="span" parent="299" relname="sequence"/>
+		<group id="297" type="multinuc" parent="298" relname="span"/>
+		<group id="328" type="multinuc" parent="329" relname="joint"/>
+		<group id="316" type="multinuc" parent="328" relname="sequence"/>
+		<group id="315" type="span" parent="316" relname="sequence"/>
+		<group id="314" type="multinuc" parent="315" relname="span"/>
+		<group id="306" type="span" parent="314" relname="joint"/>
+		<group id="305" type="span" parent="302" relname="cause-effect"/>
+		<group id="313" type="multinuc" parent="314" relname="joint"/>
+		<group id="312" type="multinuc" parent="313" relname="joint"/>
+		<group id="311" type="multinuc" parent="312" relname="joint"/>
+		<group id="327" type="span" parent="328" relname="sequence"/>
+		<group id="325" type="multinuc" parent="327" relname="span"/>
+		<group id="321" type="multinuc" parent="325" relname="sequence"/>
+		<group id="320" type="multinuc" parent="321" relname="sequence"/>
+		<group id="324" type="multinuc" parent="325" relname="sequence"/>
+		<group id="402" type="multinuc" parent="403" relname="joint"/>
+		<group id="346" type="multinuc" parent="402" relname="joint"/>
+		<group id="340" type="multinuc" parent="346" relname="sequence"/>
+		<group id="334" type="multinuc" parent="340" relname="sequence"/>
+		<group id="333" type="multinuc" parent="334" relname="sequence"/>
+		<group id="339" type="span" parent="340" relname="sequence"/>
+		<group id="338" type="multinuc" parent="335" relname="purpose"/>
+		<group id="345" type="span" parent="346" relname="sequence"/>
+		<group id="343" type="multinuc" parent="345" relname="span"/>
+		<group id="401" type="multinuc" parent="402" relname="joint"/>
+		<group id="387" type="span" parent="401" relname="joint"/>
+		<group id="386" type="multinuc" parent="387" relname="span"/>
+		<group id="360" type="span" parent="386" relname="joint"/>
+		<group id="359" type="multinuc" parent="348" relname="interpretation-evaluation"/>
+		<group id="358" type="span" parent="359" relname="sequence"/>
+		<group id="357" type="span" parent="350" relname="elaboration"/>
+		<group id="353" type="span" parent="357" relname="span"/>
+		<group id="356" type="multinuc" parent="353" relname="interpretation-evaluation"/>
+		<group id="385" type="multinuc" parent="386" relname="joint"/>
+		<group id="365" type="span" parent="385" relname="joint"/>
+		<group id="363" type="span" parent="365" relname="span"/>
+		<group id="384" type="multinuc" parent="385" relname="joint"/>
+		<group id="368" type="multinuc" parent="384" relname="sequence"/>
+		<group id="383" type="multinuc" parent="384" relname="sequence"/>
+		<group id="382" type="span" parent="383" relname="same-unit"/>
+		<group id="374" type="multinuc" parent="381" relname="condition"/>
+		<group id="372" type="multinuc" parent="374" relname="same-unit"/>
+		<group id="381" type="multinuc" parent="382" relname="span"/>
+		<group id="380" type="multinuc" parent="381" relname="joint"/>
+		<group id="379" type="span" parent="380" relname="joint"/>
+		<group id="400" type="multinuc" parent="401" relname="joint"/>
+		<group id="394" type="multinuc" parent="400" relname="joint"/>
+		<group id="390" type="span" parent="394" relname="joint"/>
+		<group id="393" type="span" parent="394" relname="joint"/>
+		<group id="399" type="span" parent="400" relname="joint"/>
+		<group id="397" type="multinuc" parent="399" relname="span"/>
+		<group id="460" type="multinuc" parent="411" relname="background"/>
+		<group id="444" type="multinuc" parent="460" relname="joint"/>
+		<group id="438" type="multinuc" parent="444" relname="joint"/>
+		<group id="436" type="multinuc" parent="438" relname="joint"/>
+		<group id="430" type="multinuc" parent="436" relname="joint"/>
+		<group id="422" type="multinuc" parent="430" relname="joint"/>
+		<group id="416" type="span" parent="422" relname="joint"/>
+		<group id="415" type="multinuc" parent="416" relname="span"/>
+		<group id="421" type="span" parent="422" relname="joint"/>
+		<group id="419" type="multinuc" parent="420" relname="cause-effect"/>
+		<group id="429" type="span" parent="430" relname="joint"/>
+		<group id="428" type="multinuc" parent="423" relname="elaboration"/>
+		<group id="427" type="multinuc" parent="428" relname="sequence"/>
+		<group id="435" type="multinuc" parent="436" relname="joint"/>
+		<group id="433" type="multinuc" parent="435" relname="joint"/>
+		<group id="443" type="multinuc" parent="444" relname="joint"/>
+		<group id="441" type="multinuc" parent="443" relname="sequence"/>
+		<group id="459" type="multinuc" parent="460" relname="joint"/>
+		<group id="455" type="multinuc" parent="459" relname="joint"/>
+		<group id="453" type="span" parent="455" relname="joint"/>
+		<group id="451" type="multinuc" parent="453" relname="span"/>
+		<group id="447" type="span" parent="451" relname="joint"/>
+		<group id="450" type="multinuc" parent="451" relname="joint"/>
+		<group id="458" type="multinuc" parent="459" relname="joint"/>
+		<group id="461" type="span"/>
+	</body>
+</rst>

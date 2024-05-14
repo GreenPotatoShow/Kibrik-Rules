@@ -1,0 +1,80 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="94" relname="preparation">Кремль попросил не путать Ющенко со всеми украинцами\n\</segment>
+		<segment id="34" parent="36" relname="span">nПослание президента России Дмитрия Медведева,</segment>
+		<segment id="35" parent="34" relname="elaboration">содержащее заявление об ухудшении отношений между Киевом и Москвой,</segment>
+		<segment id="37" parent="36" relname="background">было направлено лично главе украинского государства Виктору Ющенко, а не народу Украины.</segment>
+		<segment id="39" parent="46" relname="attribution">Об этом заявил замглавы администрации Кремля Алексей Громов журналистам,</segment>
+		<segment id="40" parent="44" relname="span">комментируя заявление главы секретариата Ющенко Веры Ульянченко.\n\nУльянченко,</segment>
+		<segment id="43" parent="40" relname="elaboration">которая также возглавляет политсовет президентской партии \"Наша Украина\", назвала открытое послание Медведева об отношениях двух стран \"агрессивным\" и адресованным не президенту Ющенко, а всему украинскому народу,</segment>
+		<segment id="45" parent="46" relname="joint">передает РИА \"Новости\".\n\n\"Нет агрессии и не может быть.</segment>
+		<segment id="49" parent="50" relname="attribution">Есть спокойная, выверенная констатация факта,</segment>
+		<segment id="50" parent="51" relname="span">к каким результатам в российско-украинских отношениях привела политика нынешнего президента Украины.</segment>
+		<segment id="52" parent="53" relname="span">Таким образом, это послание направлено именно в его адрес\",</segment>
+		<segment id="54" parent="53" relname="attribution">- сказал Громов.\n\</segment>
+		<segment id="57" parent="59" relname="restatement">nЧто касается отношения президента Медведева и России к украинскому народу и украинскому государству,</segment>
+		<segment id="58" parent="59" relname="restatement">то оно \"исключительно уважительное, теплое, братское\",</segment>
+		<segment id="60" parent="59" relname="attribution">заявил замглавы администрации Кремля</segment>
+		<segment id="62" parent="91" relname="preparation">.\n\</segment>
+		<segment id="63" parent="66" relname="attribution">nНапомним,</segment>
+		<segment id="64" parent="65" relname="attribution">в послании Ющенко Медведев раскритиковал</segment>
+		<segment id="65" parent="66" relname="span">политику Киева в отношении Москвы</segment>
+		<segment id="68" parent="71" relname="attribution">и сообщил</segment>
+		<segment id="69" parent="71" relname="span">о решении отложить приезд нового российского посла</segment>
+		<segment id="70" parent="69" relname="cause-effect">из-за антироссийского курса нынешнего украинского руководства.</segment>
+		<segment id="74" parent="76" relname="span">При этом Россия не собирается принимать какие-либо меры, направленные против граждан Украины.\n\nПослание президента РФ президенту Украины не означает разрыва российско-украинских дипотношений,</segment>
+		<segment id="75" parent="74" relname="attribution">заявил позднее помощник российского президента Сергей Приходько.</segment>
+		<segment id="77" parent="78" relname="attribution">Он напомнил,</segment>
+		<segment id="78" parent="79" relname="span">что в прошлом году Медведев уже обращался к Ющенко с развернутым письмом по российско-украинским отношениям.</segment>
+		<segment id="80" parent="82" relname="span">\"Никакого позитивного отклика на это не последовало\",</segment>
+		<segment id="81" parent="80" relname="attribution">- отметил он</segment>
+		<segment id="84" parent="87" relname="attribution">.\n\nМИД Украины ранее сообщил,</segment>
+		<segment id="85" parent="87" relname="span">что Ющенко официально прокомментирует послание Медведева в ближайшее время.</segment>
+		<segment id="86" parent="85" relname="elaboration">На данный момент ответ украинского лидера все еще готовится.\n\nИсточник: https://www.newsru.com/russia/12Aug2009/kremluto4nil.html\n</segment>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="56" type="span" parent="94" relname="joint"/>
+		<group id="48" type="multinuc" parent="56" relname="span"/>
+		<group id="38" type="span" parent="48" relname="joint"/>
+		<group id="36" type="span" parent="38" relname="span"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="44" type="span" parent="46" relname="joint"/>
+		<group id="55" type="span" parent="48" relname="background"/>
+		<group id="53" type="span" parent="55" relname="span"/>
+		<group id="51" type="span" parent="52" relname="cause-effect"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="61" type="span" parent="93" relname="joint"/>
+		<group id="59" type="multinuc" parent="61" relname="span"/>
+		<group id="92" type="span" parent="93" relname="joint"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="73" type="multinuc" parent="91" relname="joint"/>
+		<group id="67" type="span" parent="73" relname="joint"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="76" type="span" parent="90" relname="joint"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="83" type="span" parent="89" relname="joint"/>
+		<group id="79" type="span" parent="83" relname="span"/>
+		<group id="82" type="span" parent="79" relname="interpretation-evaluation"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,75 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="33" relname="span">Блог cr2: \"День Космонавтики\"\n\n\"Несмотря на то, что правительство Москвы сегодня сделало всё,</segment>
+		<segment id="30" parent="32" relname="span">чтобы про 12 апреля никто не вспомнил,</segment>
+		<segment id="31" parent="30" relname="background">небольшая группа людей всё же отметила День Космонавтики.</segment>
+		<segment id="34" parent="42" relname="span">Шествие хоть и разрешили, но на безлюдной набережной Шевченко.</segment>
+		<segment id="35" parent="39" relname="same-unit">В прошлом году людей, пришедших отметить годовщину полёта Гагарина в космос,</segment>
+		<segment id="36" parent="38" relname="joint">тут же скрутили</segment>
+		<segment id="37" parent="38" relname="joint">и отвезли в УВД.</segment>
+		<segment id="40" parent="39" relname="interpretation-evaluation">Удивляет идиотская позиция властей \"как бы чего не вышло\".</segment>
+		<segment id="43" parent="47" relname="joint">Люди должны помнить свою историю!</segment>
+		<segment id="44" parent="46" relname="contrast">И надо способствовать этому,</segment>
+		<segment id="45" parent="46" relname="contrast">а не запрещать мирные шествия.</segment>
+		<segment id="48" parent="50" relname="span">Но у нас делают все,</segment>
+		<segment id="49" parent="48" relname="cause-effect">что б никто больше и не вспоминал про достижения, которые были в прошлом.</segment>
+		<segment id="51" parent="53" relname="joint">Видимо для того, что б никто не сопоставил</segment>
+		<segment id="52" parent="53" relname="joint">и не понял, что сейчас то никаких достижений, кроме увеличения численности российских спутников в океане нет.</segment>
+		<segment id="58" parent="60" relname="contrast">1. Активисты просили разрешения провести шествие в центре,</segment>
+		<segment id="59" parent="60" relname="contrast">но им отказали.</segment>
+		<segment id="61" parent="63" relname="span">Любые дискуссии сразу же отметались.</segment>
+		<segment id="62" parent="61" relname="cause-effect">Причина - будут дополнительные пробки.</segment>
+		<segment id="64" parent="65" relname="condition">Как вести за 500р на путинг со всей страны на Поклонку,</segment>
+		<segment id="65" parent="66" relname="span">пробок нет.</segment>
+		<segment id="67" parent="66" relname="interpretation-evaluation">Перекрыть Кутузовский - обычное дело.</segment>
+		<segment id="71" parent="75" relname="joint">А как провести мирное шествие в честь великой даты - пробки</segment>
+		<segment id="72" parent="74" relname="joint">.Люди специально откладывали свои дела</segment>
+		<segment id="73" parent="74" relname="joint">и приездали на набережную Шевченко.</segment>
+		<segment id="76" parent="78" relname="contrast">Многие в костюмах.</segment>
+		<segment id="77" parent="78" relname="contrast">Но на мой взгляд могли бы и немного позже организовать.</segment>
+		<segment id="79" parent="78" relname="elaboration">Думаю людей было бы больше.\"\n\nИсточник: https://www.newsru.com/blog/13Apr2012/denkosmo.html\n</segment>
+		<group id="57" type="span" parent="82" relname="solutionhood"/>
+		<group id="33" type="span" parent="56" relname="preparation"/>
+		<group id="32" type="span" parent="29" relname="purpose"/>
+		<group id="56" type="multinuc" parent="57" relname="span"/>
+		<group id="42" type="span" parent="56" relname="joint"/>
+		<group id="41" type="span" parent="34" relname="elaboration"/>
+		<group id="39" type="multinuc" parent="41" relname="span"/>
+		<group id="38" type="multinuc" parent="39" relname="same-unit"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="47" type="multinuc" parent="55" relname="contrast"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="contrast"/>
+		<group id="50" type="span" parent="54" relname="span"/>
+		<group id="53" type="multinuc" parent="50" relname="interpretation-evaluation"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="70" type="span" parent="82" relname="joint"/>
+		<group id="60" type="multinuc" parent="70" relname="span"/>
+		<group id="69" type="span" parent="60" relname="elaboration"/>
+		<group id="63" type="span" parent="69" relname="span"/>
+		<group id="68" type="span" parent="63" relname="elaboration"/>
+		<group id="66" type="span" parent="68" relname="span"/>
+		<group id="81" type="span" parent="82" relname="joint"/>
+		<group id="75" type="multinuc" parent="81" relname="span"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="80" type="span" parent="75" relname="elaboration"/>
+		<group id="78" type="multinuc" parent="80" relname="span"/>
+		<group id="83" type="span"/>
+	</body>
+</rst>

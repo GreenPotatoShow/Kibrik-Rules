@@ -1,0 +1,53 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="joint">Южнокорейские операторы запустят первую коммерческую сеть 5G в декабре\n\nПроизводители смартфонов и телекоммуникационного оборудования из разных стран ведут активную разработку устройств с поддержкой сетей пятого поколения,</segment>
+		<segment id="20" parent="21" relname="joint">а операторы связи обещают запустить коммерческие сети 5G в ближайшие годы.</segment>
+		<segment id="22" parent="24" relname="restatement">По всей видимости, первой страной, где пользователи смогут оценить все достоинства 5G,</segment>
+		<segment id="23" parent="24" relname="restatement">станет Южная Корея.\n\</segment>
+		<segment id="25" parent="32" relname="attribution">nКак сообщает ресурс Gizchina,</segment>
+		<segment id="26" parent="27" relname="attribution">три крупнейших оператора связи Южной Кореи (SKT, KT и LG U+) объявили</segment>
+		<segment id="27" parent="28" relname="span">о намерении запустить первую коммерческую 5G-сеть 1 декабря этого года.\n\nВ компаниях уточнили,</segment>
+		<segment id="29" parent="31" relname="joint">что на первом этапе реализации проекта сеть будет работать в окрестностях Сеула</segment>
+		<segment id="30" parent="31" relname="joint">и обеспечит скорость передачи данных до 1 Гбит/с.\n\</segment>
+		<segment id="35" parent="51" relname="span">nПри этом стоит отметить, что в настоящее время на рынке практически не представлены устройства с поддержкой 5G.</segment>
+		<segment id="36" parent="43" relname="attribution">Согласно прогнозам,</segment>
+		<segment id="37" parent="43" relname="joint">их массовые продажи начнутся только в 2021 году,</segment>
+		<segment id="38" parent="42" relname="span">а уже через год около 18% смартфонов будут поддерживать сети пятого поколения.\n\nНапомним, в начале августа компания Motorola представила флагманский смартфон Moto Z3,</segment>
+		<segment id="39" parent="41" relname="span">владельцы которого смогут проапгрейдить устройство</segment>
+		<segment id="40" parent="39" relname="purpose">для поддержки 5G.</segment>
+		<segment id="45" parent="49" relname="joint">Такую возможность им предоставит анонсированная вместе со смартфоном съемная задняя панель 5G Moto Mod,</segment>
+		<segment id="46" parent="48" relname="joint">при подключении которой смартфон сможет подключаться к сетям 5G,</segment>
+		<segment id="47" parent="48" relname="joint">а также получит дополнительную батарею емкостью 2000 мАч.\n\nИсточник: https://www.newsru.com/hitech/04Sep2018/5gsouthkorea.html\n</segment>
+		<group id="21" type="multinuc" parent="52" relname="preparation"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="34" type="multinuc" parent="52" relname="joint"/>
+		<group id="24" type="multinuc" parent="34" relname="comparison"/>
+		<group id="33" type="span" parent="34" relname="comparison"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="28" type="span" parent="31" relname="cause-effect"/>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="50" type="multinuc" parent="35" relname="evidence"/>
+		<group id="44" type="span" parent="50" relname="comparison"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="41" type="span" parent="38" relname="elaboration"/>
+		<group id="49" type="multinuc" parent="50" relname="comparison"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

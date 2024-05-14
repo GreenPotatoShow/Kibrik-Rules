@@ -1,0 +1,30 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="11" parent="13" relname="span">Стюардессы приняли роды во время полета самолета из Барнаула во Франкфурт\n\nСтюардессы самолета, следовавшего рейсом Барнаул-Франкфурт,</segment>
+		<segment id="12" parent="11" relname="elaboration">приняли во время полета роды у одной из пассажирок,</segment>
+		<segment id="14" parent="18" relname="same-unit">передает \"Интерфакс\".\n\nНа середине пути у женщины, летевшей вместе с мужем на постоянное место жительства в Германию,</segment>
+		<segment id="15" parent="17" relname="joint">начались схватки,</segment>
+		<segment id="16" parent="17" relname="joint">и экипаж был вынужден принимать роды прямо в полете.</segment>
+		<segment id="20" parent="26" relname="span">В итоге две стюардессы помогли появиться на свет мальчику.\n\nВо Франкфурте немецкие врачи отметили высокий уровень работы российских стюардесс:</segment>
+		<segment id="21" parent="25" relname="span">здоровье ребенка и матери вне опасности,</segment>
+		<segment id="24" parent="21" relname="elaboration">роды прошли успешно.\n\nВ авиакомпании \"Красноярские авиалинии\", которой принадлежит авиалайнер, это первый подобный случай.</segment>
+		<segment id="27" parent="28" relname="sequence">В настоящее время руководство компании решает вопрос о пожизненном льготном билете для родившегося в небе ребенка.\n\nИсточник: https://www.newsru.com/russia/09Sep2003/frankfurt.html\n</segment>
+		<group id="19" type="multinuc" parent="29" relname="sequence"/>
+		<group id="13" type="span" parent="19" relname="joint"/>
+		<group id="18" type="multinuc" parent="19" relname="joint"/>
+		<group id="17" type="multinuc" parent="18" relname="same-unit"/>
+		<group id="28" type="multinuc" parent="29" relname="sequence"/>
+		<group id="26" type="span" parent="28" relname="sequence"/>
+		<group id="25" type="span" parent="20" relname="elaboration"/>
+		<group id="29" type="multinuc"/>
+	</body>
+</rst>

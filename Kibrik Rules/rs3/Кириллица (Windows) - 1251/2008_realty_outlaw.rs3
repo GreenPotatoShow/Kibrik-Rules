@@ -1,0 +1,47 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="solutionhood" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="43" relname="preparation">Объявленный \"вне закона\" бизнесмен продал свой последний объект в России\n\</segment>
+		<segment id="17" parent="22" relname="attribution">nКак сообщает газета \"Коммерсантъ\",</segment>
+		<segment id="18" parent="22" relname="joint">находящийся в розыске основатель банка \"Нефтяной\" Игорь Линшиц продал свой последний девелоперский проект в России: владельцем бизнес-центра \"Серебряный город\" (60 тысяч кв. метров) на Серебрянической набережной стал британский фонд RP Capital Group, на треть принадлежащий международному инвестбанку Merrill Lynch.\n\nСумма сделки оценивается в 350 млн долларов;</segment>
+		<segment id="19" parent="21" relname="span">эти деньги подконтрольная бизнесмену \"Делин девелопмент\" вложит в украинскую недвижимость.\n\nПокупкой \"Серебряного города\",</segment>
+		<segment id="20" parent="19" relname="elaboration">где площади арендуют крупные сырьевые компании ?</segment>
+		<segment id="24" parent="26" relname="contrast">СУЭК и EniNeftegas, интересовались многие компании.\n\nТакую возможность рассматривала, например, \"Система-Галс\",</segment>
+		<segment id="25" parent="26" relname="contrast">но как публичная компания побоялась покупать актив у находящегося в розыске собственника,</segment>
+		<segment id="27" parent="26" relname="attribution">утверждает один из собеседников издания.</segment>
+		<segment id="30" parent="32" relname="span">Вчера, 10 апреля, пресс-секретарь \"Системы-Галс\" Анна Завьялова отказалась обсуждать несостоявшиеся сделки.\n\nНапомним, что в декабре 2005 года следователи Генеральной прокуратуры провели обыск в помещении банка \"Нефтяной\",</segment>
+		<segment id="31" parent="30" relname="background">который принадлежал тогда Игорю Линшицу,</segment>
+		<segment id="33" parent="36" relname="attribution">а в январе 2006 года Генеральная прокуратура сообщила,</segment>
+		<segment id="34" parent="36" relname="span">что Линшиц объявлен в розыск по обвинению по ст. 172 (незаконная банковская деятельность) и ст. 174</segment>
+		<segment id="35" parent="34" relname="elaboration">(легализация денежных средств, полученных преступным путем).</segment>
+		<segment id="39" parent="41" relname="span">В марте 2006 года Басманный суд заочно выдал санкцию на его арест.\n\n15 января 2007 года года расследование уголовного дела возглавил новый следователь Генпрокуратуры.\n\nБанк \"Нефтяной\" лишился лицензии в мае 2006 года.\n\nСвой бизнес Линшиц перевел на Украину,</segment>
+		<segment id="40" parent="39" relname="attribution">добавляет \"Коммерсантъ\".\n\nИсточник: https://www.newsru.com/realty/11Apr2008/outlaw.html\n</segment>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="29" type="span" parent="43" relname="joint"/>
+		<group id="23" type="span" parent="28" relname="solutionhood"/>
+		<group id="22" type="multinuc" parent="23" relname="span"/>
+		<group id="21" type="span" parent="22" relname="joint"/>
+		<group id="28" type="span" parent="29" relname="span"/>
+		<group id="26" type="multinuc" parent="28" relname="span"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="38" type="multinuc" parent="42" relname="sequence"/>
+		<group id="32" type="span" parent="38" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="41" type="span" parent="42" relname="sequence"/>
+		<group id="44" type="span"/>
+	</body>
+</rst>

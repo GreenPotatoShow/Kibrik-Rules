@@ -1,0 +1,138 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="60" parent="62" relname="span">Лидер  украинского оппозиционного движения «Спiльна справа» («Общее дело») Александр Данилюк покинул страну.</segment>
+		<segment id="61" parent="60" relname="attribution">Об этом он написал в Facebook.</segment>
+		<segment id="63" parent="71" relname="span">Свой отъезд он объяснил угрозой ареста, а также происками «контрреволюционеров».\n</segment>
+		<segment id="64" parent="69" relname="cause-effect">«Не предупредив даже охрану</segment>
+		<segment id="65" parent="69" relname="sequence">я переоделся,</segment>
+		<segment id="66" parent="68" relname="sequence">натянул балаклаву</segment>
+		<segment id="67" parent="68" relname="sequence">и оставил крещатик...</segment>
+		<segment id="72" parent="71" relname="attribution">— сообщил оппозиционер.</segment>
+		<segment id="74" parent="82" relname="sequence">— Ночью пешком перешел границу.</segment>
+		<segment id="75" parent="77" relname="span">Сегодня наконец добрался [до] лондона»</segment>
+		<segment id="76" parent="75" relname="elaboration">(орфография и пунктуация оригинала сохранены</segment>
+		<segment id="78" parent="77" relname="elaboration">— прим.</segment>
+		<segment id="80" parent="79" relname="elaboration">Ленты.Ру).</segment>
+		<segment id="83" parent="88" relname="attribution">Он добавил,</segment>
+		<segment id="84" parent="88" relname="sequence">что отныне намерен «координировать в изгнании».\n Представители «Общего дела»,</segment>
+		<segment id="85" parent="86" relname="attribution">напомним,</segment>
+		<segment id="86" parent="87" relname="span">недавно захватили несколько правительственных зданий в Киеве.</segment>
+		<segment id="90" parent="91" relname="attribution">Сам Данилюк при этом утверждал,</segment>
+		<segment id="91" parent="92" relname="span">что является «уполномоченным по созданию временного правительства».\n</segment>
+		<segment id="93" parent="94" relname="attribution">Ранее, в конце января, Данилюк сообщил,</segment>
+		<segment id="94" parent="95" relname="span">что его объявили во всеукраинский розыск.</segment>
+		<segment id="97" parent="110" relname="preparation">Эта информация подтвердилась.</segment>
+		<segment id="98" parent="102" relname="joint">Как выяснилось, активиста разыскивают по подозрению в причастности к беспорядкам</segment>
+		<segment id="99" parent="100" relname="attribution">.\n «Тимошенко доказала,</segment>
+		<segment id="100" parent="101" relname="span">что сидеть благородно,</segment>
+		<segment id="103" parent="107" relname="span">но неэффективно,</segment>
+		<segment id="104" parent="106" relname="joint">— написал активист,</segment>
+		<segment id="105" parent="106" relname="joint">комментируя свой отъезд.</segment>
+		<segment id="108" parent="109" relname="joint">— Мы не собираемся сдаваться в плен».\n В конце января активисты «Общего дела» заняли здание министерства аграрной политики Украины.</segment>
+		<segment id="113" parent="114" relname="attribution">Они утверждали,</segment>
+		<segment id="114" parent="115" relname="span">что здание будет использоваться «для обогрева людей».</segment>
+		<segment id="116" parent="119" relname="attribution">Данилюк при этом объявил</segment>
+		<segment id="117" parent="119" relname="span">конкурс «на замещение должности министра АПК»</segment>
+		<segment id="118" parent="117" relname="elaboration">(пояснив, что «предпочтение будет отдаваться фермерам, которые приедут в Киев на сельскохозяйственной технике»).\n Позднее сторонники Данилюка блокировали министерство энергетики,</segment>
+		<segment id="121" parent="125" relname="span">а вслед за этим захватили здание министерства юстиции</segment>
+		<segment id="122" parent="124" relname="joint">(впрочем, вскоре освободили его,</segment>
+		<segment id="123" parent="124" relname="joint">после того как глава ведомства Елена Лукаш пригрозила введением ЧП).</segment>
+		<segment id="128" parent="133" relname="attribution">Данилюк угрожал,</segment>
+		<segment id="129" parent="132" relname="condition">что если требования оппозиции не будут выполнены,</segment>
+		<segment id="130" parent="132" relname="joint">то активисты «займут все административные здания</segment>
+		<segment id="131" parent="132" relname="joint">и будут пускать на работу только лиц, которые непосредственно отвечают за жизнь и здоровье людей».\n</segment>
+		<segment id="135" parent="134" relname="elaboration">Некоторые представители оппозиции обвиняли лидера «Общего дела» и его единомышленников в провокациях.</segment>
+		<segment id="137" parent="138" relname="joint">С претензиями выступал, в частности, комендант Дома профсоюзов (захваченного противниками власти ранее) Степан Кубив.</segment>
+		<segment id="139" parent="143" relname="span">«Мы отмежевываемся от захвата стратегических министерств.</segment>
+		<segment id="140" parent="142" relname="joint">Сегодня этого нельзя делать.</segment>
+		<segment id="141" parent="142" relname="joint">Сегодня должны быть максимально сбалансированные действия»,</segment>
+		<segment id="144" parent="143" relname="attribution">— говорил он.</segment>
+		<segment id="147" parent="153" relname="span">Отношения между активистами «Общего дела» и другой частью оппозиции обострились 29 января,</segment>
+		<segment id="148" parent="152" relname="span">когда «евромайдановцы» вытеснили активистов «Общего дела» из здания министерства аграрной политики</segment>
+		<segment id="149" parent="150" relname="attribution">(по данным СМИ,</segment>
+		<segment id="150" parent="151" relname="span">оппозиционеры рассчитывали, что власть взамен освободит их задержанных сторонников).\n Комментируя критику в свой адрес,</segment>
+		<segment id="154" parent="159" relname="attribution">Данилюк отмечал,</segment>
+		<segment id="155" parent="159" relname="joint">что «когда мы бросали коктейли... мы были героями,</segment>
+		<segment id="156" parent="157" relname="cause-effect">а как только мы начали мирно захватывать здания министерств</segment>
+		<segment id="157" parent="158" relname="span">— мы превратились в провокаторов».</segment>
+		<segment id="162" parent="163" relname="attribution">Он также заявлял</segment>
+		<segment id="163" parent="164" relname="span">о существовании «контрреволюционной пятой колонны»</segment>
+		<segment id="165" parent="166" relname="attribution">и предупреждал,</segment>
+		<segment id="166" parent="167" relname="span">что «под прикрытием... отдельных оппозиционеров на майдан просочились представители режимоохранных органов».\n \n</segment>
+		<group id="62" type="span" parent="175" relname="preparation"/>
+		<group id="175" type="multinuc" parent="176" relname="span"/>
+		<group id="73" type="span" parent="175" relname="sequence"/>
+		<group id="71" type="span" parent="73" relname="span"/>
+		<group id="70" type="span" parent="63" relname="cause-effect"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="68" type="multinuc" parent="69" relname="sequence"/>
+		<group id="174" type="span" parent="175" relname="sequence"/>
+		<group id="82" type="multinuc" parent="173" relname="preparation"/>
+		<group id="81" type="span" parent="82" relname="sequence"/>
+		<group id="79" type="span" parent="81" relname="span"/>
+		<group id="77" type="span" parent="79" relname="span"/>
+		<group id="173" type="span" parent="174" relname="span"/>
+		<group id="89" type="span" parent="172" relname="preparation"/>
+		<group id="88" type="multinuc" parent="89" relname="span"/>
+		<group id="87" type="span" parent="88" relname="sequence"/>
+		<group id="172" type="multinuc" parent="173" relname="span"/>
+		<group id="112" type="multinuc" parent="172" relname="joint"/>
+		<group id="96" type="multinuc" parent="112" relname="joint"/>
+		<group id="92" type="span" parent="96" relname="sequence"/>
+		<group id="95" type="span" parent="96" relname="sequence"/>
+		<group id="111" type="span" parent="112" relname="joint"/>
+		<group id="110" type="multinuc" parent="111" relname="span"/>
+		<group id="102" type="multinuc" parent="110" relname="contrast"/>
+		<group id="101" type="span" parent="102" relname="joint"/>
+		<group id="109" type="multinuc" parent="110" relname="contrast"/>
+		<group id="107" type="span" parent="109" relname="joint"/>
+		<group id="106" type="multinuc" parent="103" relname="attribution"/>
+		<group id="171" type="multinuc" parent="172" relname="joint"/>
+		<group id="127" type="multinuc" parent="171" relname="joint"/>
+		<group id="115" type="span" parent="127" relname="joint"/>
+		<group id="126" type="multinuc" parent="127" relname="joint"/>
+		<group id="120" type="span" parent="126" relname="sequence"/>
+		<group id="119" type="span" parent="120" relname="span"/>
+		<group id="125" type="span" parent="126" relname="sequence"/>
+		<group id="124" type="multinuc" parent="121" relname="elaboration"/>
+		<group id="170" type="multinuc" parent="171" relname="joint"/>
+		<group id="146" type="span" parent="170" relname="joint"/>
+		<group id="138" type="multinuc" parent="146" relname="span"/>
+		<group id="136" type="span" parent="138" relname="joint"/>
+		<group id="134" type="span" parent="136" relname="span"/>
+		<group id="133" type="span" parent="134" relname="span"/>
+		<group id="132" type="multinuc" parent="133" relname="span"/>
+		<group id="145" type="span" parent="138" relname="interpretation-evaluation"/>
+		<group id="143" type="span" parent="145" relname="span"/>
+		<group id="142" type="multinuc" parent="139" relname="elaboration"/>
+		<group id="169" type="multinuc" parent="170" relname="joint"/>
+		<group id="161" type="span" parent="169" relname="joint"/>
+		<group id="153" type="span" parent="160" relname="solutionhood"/>
+		<group id="152" type="span" parent="147" relname="elaboration"/>
+		<group id="151" type="span" parent="148" relname="elaboration"/>
+		<group id="160" type="span" parent="161" relname="span"/>
+		<group id="159" type="multinuc" parent="160" relname="span"/>
+		<group id="158" type="span" parent="159" relname="joint"/>
+		<group id="168" type="multinuc" parent="169" relname="joint"/>
+		<group id="164" type="span" parent="168" relname="joint"/>
+		<group id="167" type="span" parent="168" relname="joint"/>
+		<group id="176" type="span"/>
+	</body>
+</rst>

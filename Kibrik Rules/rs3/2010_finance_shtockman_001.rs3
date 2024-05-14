@@ -1,0 +1,123 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="51" parent="56" relname="attribution">Президент Total призвал Путина \"надавить\" на участников проекта по освоению Штокмана\n\nГлава Total Кристоф Маржери считает,</segment>
+		<segment id="52" parent="56" relname="joint">что сроки освоения Штокманского месторождения газа не должны больше переноситься,</segment>
+		<segment id="53" parent="55" relname="span">и обратился к премьер-министру России Владимиру Путину,</segment>
+		<segment id="54" parent="53" relname="purpose">чтобы тот способствовал реализации этого проекта в утвержденное время,</segment>
+		<segment id="58" parent="57" relname="attribution">передает \"Интерфакс\".\n\n\"Необходимо, чтобы мы сохранили намеченные даты.</segment>
+		<segment id="60" parent="64" relname="span">Нельзя больше сдвигать сроки (освоения месторождения – прим. ред.).</segment>
+		<segment id="61" parent="63" relname="span">Возможно потребуется ваша помощь,</segment>
+		<segment id="62" parent="61" relname="purpose">чтобы надавить на всех участников проекта\",</segment>
+		<segment id="65" parent="64" relname="attribution">- сказал он в ходе двухсторонней встречи с российским премьером в пятницу в Париже</segment>
+		<segment id="68" parent="69" relname="attribution">.\n\nГенеральный директор Total также отметил,</segment>
+		<segment id="69" parent="70" relname="span">что проект с ОАО \"НОВАТЭК\" должен идти не меньшими темпами, чем по Штокманскому месторождению.</segment>
+		<segment id="71" parent="79" relname="span">\"Штокман и проект с \"НОВАТЭКом\" дополняют друг друга.</segment>
+		<segment id="72" parent="73" relname="attribution">Некоторые считают,</segment>
+		<segment id="73" parent="74" relname="span">что там и там участвовать нельзя.</segment>
+		<segment id="75" parent="77" relname="span">Поэтому мы решили участвовать в тендере \"НОВАТЭКа\" (по Ямальскому месторождению - прим. ред.).</segment>
+		<segment id="76" parent="75" relname="interpretation-evaluation">И это все происходит в согласии с \"Газпромом\",</segment>
+		<segment id="80" parent="81" relname="attribution">- сказал глава Total.\n\nВладимир Путин в свою очередь заявил,</segment>
+		<segment id="81" parent="82" relname="span">что Total всегда может рассчитывать на хорошее административное сопровождение в РФ.</segment>
+		<segment id="84" parent="85" relname="attribution">По его словам,</segment>
+		<segment id="85" parent="86" relname="span">у компании есть возможность расширять свою деятельность в РФ.</segment>
+		<segment id="87" parent="88" relname="attribution">В.Путин отметил,</segment>
+		<segment id="88" parent="89" relname="span">что компании, с которыми сотрудничает Total в России, и \"Газпром\", и \"НОВАТЭК\", и \"Роснефть\", и \"Зарубежнефть\", - \"надежные партнеры\".\n\n</segment>
+		<segment id="90" parent="92" relname="span">\"А что касается административной составляющей, хочу подчеркнуть, что мы поддерживаем ваши усилия по развитию деятельности на российском рынке\",</segment>
+		<segment id="91" parent="90" relname="attribution">- сказал он</segment>
+		<segment id="93" parent="94" relname="joint">.\n\nГлава Total поблагодарил российского премьера за поддержку.</segment>
+		<segment id="97" parent="102" relname="attribution">Он отметил,</segment>
+		<segment id="98" parent="102" relname="comparison">что Россия использует Total в качестве примера для иностранных инвесторов,</segment>
+		<segment id="99" parent="101" relname="joint">что \"с Россией можно сотрудничать</segment>
+		<segment id="100" parent="101" relname="joint">и можно затевать долгосрочные проекты\".</segment>
+		<segment id="104" parent="106" relname="joint">\"Вы попросили нас сыграть эту роль,</segment>
+		<segment id="105" parent="106" relname="joint">и мы готовы выполнять ее и в дальнейшем\",</segment>
+		<segment id="107" parent="113" relname="joint">- сказал Маржери.\n\nОтметим, что оператор проекта Shtokman Development AG несмотря на отсрочку с принятием финального инвестиционного решения,</segment>
+		<segment id="108" parent="112" relname="span">собирается в течение этого года провести все тендерные процедуры,</segment>
+		<segment id="109" parent="111" relname="span">что позволит уточнить стоимость проекта.\n\nГлавной причиной отсрочки официально названа ситуация на рынке сжиженного природного газа в США,</segment>
+		<segment id="110" parent="109" relname="elaboration">на который была ориентирована почти половина газа с первой фазы \"Штокмана\".</segment>
+		<segment id="115" parent="126" relname="attribution">По данным американской статистики,</segment>
+		<segment id="116" parent="126" relname="joint">средняя цена там упала с 350 долларов за тысячу кубометров в 2008 году до 160-ти в прошлом,</segment>
+		<segment id="117" parent="119" relname="span">а импорт,</segment>
+		<segment id="118" parent="117" relname="background">стабильно росший с 1996 года,</segment>
+		<segment id="120" parent="124" relname="joint">в 2007-м сократился вдвое</segment>
+		<segment id="121" parent="123" relname="span">и пока не обещает быстрой положительной динамики.\n\nЕще одна причина отсрочки состоит в том, что \"Газпром\" собирался покупать весь газ первой фазы (23,7 млрд кубометров в год)</segment>
+		<segment id="122" parent="121" relname="purpose">для поставок в Европу по новому газопроводу Териберка-Волхов в Ленинградскую область и далее по \"Северному потоку\" в Германию.\n\</segment>
+		<segment id="128" parent="131" relname="condition">nПри падении спроса на газ</segment>
+		<segment id="129" parent="130" relname="purpose">на европейских рынках</segment>
+		<segment id="130" parent="131" relname="span">дополнительный объем здесь может понадобиться не скоро.</segment>
+		<segment id="134" parent="135" relname="condition">А если гораздо более дорогой штокмановский газ вытеснит из \"Северного потока\" западносибирский,</segment>
+		<segment id="135" parent="136" relname="span">то это ударит по рентабельности экспорта самого \"Газпрома\".\n\</segment>
+		<segment id="137" parent="139" relname="span">nПоставки газа по трубе до Волхова планируется начать в 2016 году,</segment>
+		<segment id="138" parent="137" relname="purpose">на подготовительный этап оператор проекта потратил 650 млн долларов из отведенного акционерами бюджета в 800 млн.</segment>
+		<segment id="140" parent="139" relname="elaboration">Решение о выделении дополнительных ресурсов не принято.\n\nИсточник: https://www.newsru.com/finance/11Jun2010/shtockman.html\n</segment>
+		<group id="67" type="multinuc" parent="149" relname="joint"/>
+		<group id="59" type="span" parent="67" relname="joint"/>
+		<group id="57" type="span" parent="59" relname="span"/>
+		<group id="56" type="multinuc" parent="57" relname="span"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="64" type="span" parent="66" relname="span"/>
+		<group id="63" type="span" parent="60" relname="evidence"/>
+		<group id="148" type="span" parent="149" relname="joint"/>
+		<group id="70" type="span" parent="147" relname="preparation"/>
+		<group id="147" type="multinuc" parent="148" relname="span"/>
+		<group id="83" type="span" parent="147" relname="joint"/>
+		<group id="79" type="span" parent="83" relname="span"/>
+		<group id="78" type="span" parent="71" relname="elaboration"/>
+		<group id="74" type="span" parent="77" relname="cause-effect"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="82" type="span" parent="79" relname="attribution"/>
+		<group id="146" type="multinuc" parent="147" relname="joint"/>
+		<group id="96" type="multinuc" parent="146" relname="joint"/>
+		<group id="86" type="span" parent="96" relname="joint"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="89" type="span" parent="95" relname="joint"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="92" type="span" parent="94" relname="joint"/>
+		<group id="145" type="multinuc" parent="146" relname="joint"/>
+		<group id="103" type="span" parent="145" relname="joint"/>
+		<group id="102" type="multinuc" parent="103" relname="span"/>
+		<group id="101" type="multinuc" parent="102" relname="comparison"/>
+		<group id="144" type="multinuc" parent="145" relname="joint"/>
+		<group id="114" type="multinuc" parent="144" relname="joint"/>
+		<group id="106" type="multinuc" parent="114" relname="joint"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="112" type="span" parent="113" relname="joint"/>
+		<group id="111" type="span" parent="108" relname="purpose"/>
+		<group id="143" type="multinuc" parent="144" relname="joint"/>
+		<group id="133" type="multinuc" parent="143" relname="comparison"/>
+		<group id="127" type="span" parent="133" relname="comparison"/>
+		<group id="126" type="multinuc" parent="127" relname="span"/>
+		<group id="125" type="span" parent="126" relname="joint"/>
+		<group id="119" type="span" parent="125" relname="span"/>
+		<group id="124" type="multinuc" parent="119" relname="cause-effect"/>
+		<group id="123" type="span" parent="124" relname="joint"/>
+		<group id="132" type="span" parent="133" relname="comparison"/>
+		<group id="131" type="span" parent="132" relname="span"/>
+		<group id="142" type="span" parent="143" relname="comparison"/>
+		<group id="136" type="span" parent="141" relname="solutionhood"/>
+		<group id="141" type="span" parent="142" relname="span"/>
+		<group id="139" type="span" parent="141" relname="span"/>
+		<group id="149" type="multinuc"/>
+	</body>
+</rst>

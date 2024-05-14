@@ -1,0 +1,111 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="49" parent="51" relname="span">Генсек ОПЕК жалуется на трудность диалога мировых производителей нефти:</segment>
+		<segment id="50" parent="49" relname="cause-effect">их слишком много\n\</segment>
+		<segment id="52" parent="55" relname="attribution">nГенеральный секретарь ОПЕК Абдалла аль-Бадри на конференции Oil&Money в Лондоне посетовал</segment>
+		<segment id="53" parent="54" relname="attribution">на то,</segment>
+		<segment id="54" parent="55" relname="span">что диалог между мировыми производителями нефти относительно ценовой динамики затруднен большим количеством игроков на рынке</segment>
+		<segment id="57" parent="61" relname="same-unit">.\n\nВ частности,</segment>
+		<segment id="58" parent="59" relname="attribution">по словам главы организации,</segment>
+		<segment id="59" parent="60" relname="span">только в США работает около 200 компаний, занимающихся добычей нефти.</segment>
+		<segment id="62" parent="64" relname="contrast">\"Мы готовы говорить,</segment>
+		<segment id="63" parent="64" relname="contrast">но с кем?</segment>
+		<segment id="67" parent="69" relname="span">200 компаний!</segment>
+		<segment id="68" parent="67" relname="elaboration">Нам нужно определить, как мы сможем существовать вместе\",</segment>
+		<segment id="70" parent="71" relname="joint">- цитирует аль-Бадри РИА \"Новости\".\n\nКроме того, руководитель нефтяного картеля вновь призвал страны ОПЕК и страны, не входящие в картель, к сотрудничеству.</segment>
+		<segment id="73" parent="78" relname="attribution">При этом глава ОПЕК отметил,</segment>
+		<segment id="74" parent="78" relname="span">что тот \"избыток\" нефти на рынке,</segment>
+		<segment id="77" parent="74" relname="elaboration">который в настоящее время образовался, создан не членами ОПЕК.</segment>
+		<segment id="80" parent="82" relname="span">\"ОПЕК не стал причиной этого переизбытка\",</segment>
+		<segment id="81" parent="80" relname="attribution">- отметил аль-Бадри.\n\</segment>
+		<segment id="84" parent="85" relname="attribution">nОн также сообщил,</segment>
+		<segment id="85" parent="86" relname="span">что встреча представителей стран ОПЕК и стран, не входящих в ОПЕК, может пройти 21 октября.</segment>
+		<segment id="87" parent="88" relname="sequence">Вместе с тем картель проведет встречу с РФ в следующем году.\n\</segment>
+		<segment id="91" parent="95" relname="restatement">nПо оценкам главы нефтяного картеля, объем падения инвестиций в отрасль составит в этом году около 22% по сравнению с 2014 годом.</segment>
+		<segment id="92" parent="94" relname="span">\"Это означает сокращение инвестиций на 650 млрд.</segment>
+		<segment id="93" parent="92" relname="interpretation-evaluation">Меня это сильно беспокоит\",</segment>
+		<segment id="96" parent="95" relname="attribution">- сказал он</segment>
+		<segment id="98" parent="103" relname="attribution">.\n\nАль-Бадри подчеркнул,</segment>
+		<segment id="99" parent="103" relname="span">что инвестиции нужны для того, чтобы обеспечить потребности населения Земли в электроэнергии,</segment>
+		<segment id="100" parent="101" relname="attribution">которые, по его оценкам,</segment>
+		<segment id="101" parent="102" relname="span">вырастут к 2040 году на 40%.</segment>
+		<segment id="105" parent="109" relname="joint">Это потребует,</segment>
+		<segment id="108" parent="109" relname="joint">заметил он, финансовых вложений в размере 10 трлн долларов.\n\</segment>
+		<segment id="112" parent="113" relname="comparison">nРанее, отметим, глава Международного энергетического агентства (МЭА) Фатих Бирол оценил сокращение инвестиций в 2015 году в 20%.</segment>
+		<segment id="115" parent="118" relname="attribution">По его словам,</segment>
+		<segment id="116" parent="117" relname="cause-effect">это вызвано низкими ценами на нефть,</segment>
+		<segment id="117" parent="118" relname="span">что в конечном счете он назвал плохой новостью.\n\n</segment>
+		<segment id="120" parent="121" relname="condition">\"Сегодня существует клише,</segment>
+		<segment id="121" parent="122" relname="span">что низкие цены на нефть - это хорошо.</segment>
+		<segment id="123" parent="125" relname="contrast">Есть определенная выгода для экономики,</segment>
+		<segment id="124" parent="125" relname="contrast">но это плохо для инвестиций\",</segment>
+		<segment id="127" parent="126" relname="attribution">- сказал Бирол.\n\</segment>
+		<segment id="129" parent="135" relname="span">nНапомним, Организация стран - экспортеров нефти (ОПЕК) была основана в 1960 году.</segment>
+		<segment id="130" parent="134" relname="joint">В настоящее время в состав ОПЕК входят Иран, Ирак, Кувейт, Саудовская Аравия, Венесуэла, Катар, Ливия, Объединенные Арабские Эмираты, Алжир, Нигерия, Эквадор, Ангола.</segment>
+		<segment id="131" parent="133" relname="joint">Страны члены этого международного картеля контролируют около двух третей мировых запасов нефти.</segment>
+		<segment id="132" parent="133" relname="joint">При этом на их долю приходится порядка трети мировой добычи и половина мирового экспорта нефти.\n\nИсточник: https://www.newsru.com/finance/06Oct2015/oilhardtalks.html\n</segment>
+		<group id="51" type="span" parent="142" relname="preparation"/>
+		<group id="142" type="multinuc" parent="143" relname="span"/>
+		<group id="72" type="span" parent="142" relname="joint"/>
+		<group id="66" type="multinuc" parent="71" relname="solutionhood"/>
+		<group id="56" type="span" parent="66" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="61" type="multinuc" parent="65" relname="span"/>
+		<group id="60" type="span" parent="61" relname="same-unit"/>
+		<group id="64" type="multinuc" parent="61" relname="elaboration"/>
+		<group id="71" type="multinuc" parent="72" relname="span"/>
+		<group id="69" type="span" parent="71" relname="joint"/>
+		<group id="141" type="span" parent="142" relname="joint"/>
+		<group id="83" type="span" parent="140" relname="preparation"/>
+		<group id="79" type="span" parent="83" relname="span"/>
+		<group id="78" type="span" parent="79" relname="span"/>
+		<group id="82" type="span" parent="79" relname="interpretation-evaluation"/>
+		<group id="140" type="span" parent="141" relname="span"/>
+		<group id="88" type="multinuc" parent="139" relname="preparation"/>
+		<group id="86" type="span" parent="88" relname="sequence"/>
+		<group id="139" type="multinuc" parent="140" relname="span"/>
+		<group id="97" type="span" parent="139" relname="joint"/>
+		<group id="95" type="multinuc" parent="97" relname="span"/>
+		<group id="94" type="span" parent="95" relname="restatement"/>
+		<group id="138" type="multinuc" parent="139" relname="joint"/>
+		<group id="114" type="multinuc" parent="138" relname="joint"/>
+		<group id="104" type="span" parent="114" relname="joint"/>
+		<group id="103" type="span" parent="104" relname="span"/>
+		<group id="102" type="span" parent="99" relname="elaboration"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="109" type="multinuc" parent="113" relname="comparison"/>
+		<group id="137" type="span" parent="138" relname="joint"/>
+		<group id="119" type="span" parent="137" relname="span"/>
+		<group id="118" type="span" parent="119" relname="span"/>
+		<group id="136" type="multinuc" parent="119" relname="elaboration"/>
+		<group id="128" type="span" parent="136" relname="joint"/>
+		<group id="126" type="multinuc" parent="128" relname="span"/>
+		<group id="122" type="span" parent="126" relname="restatement"/>
+		<group id="125" type="multinuc" parent="126" relname="restatement"/>
+		<group id="135" type="span" parent="136" relname="joint"/>
+		<group id="134" type="multinuc" parent="129" relname="elaboration"/>
+		<group id="133" type="multinuc" parent="134" relname="joint"/>
+		<group id="143" type="span"/>
+	</body>
+</rst>

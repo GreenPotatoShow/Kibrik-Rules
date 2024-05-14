@@ -1,0 +1,66 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="30" relname="span">Миллиардер Брэнсон вырядился бородатой стюардессой:</segment>
+		<segment id="27" parent="29" relname="joint">побрил ноги</segment>
+		<segment id="28" parent="29" relname="joint">и накрасился\n\</segment>
+		<segment id="31" parent="47" relname="sequence">nЭкстравагантный британский миллиардер Ричард Брэнсон выполнил условия проигранного пари</segment>
+		<segment id="32" parent="38" relname="span">и нарядился стюардессой:</segment>
+		<segment id="33" parent="37" relname="sequence">побрил ноги, накрасился</segment>
+		<segment id="34" parent="36" relname="span">и отработал на рейсе компании Air Asia.\n\nТакими были условия спора, который глава Virgin проиграл еще в 2010 году,</segment>
+		<segment id="35" parent="34" relname="background">когда владел командой \"Формулы-1\" Virgin Racing.</segment>
+		<segment id="39" parent="41" relname="span">С владельцем Lotus Racing,</segment>
+		<segment id="40" parent="39" relname="elaboration">принадлежавшей Тони Фернандесу,</segment>
+		<segment id="42" parent="43" relname="attribution">они поспорили,</segment>
+		<segment id="43" parent="44" relname="span">чья команда окажется выше в Кубке конструкторов - командном зачете \"Формулы-1\".</segment>
+		<segment id="48" parent="50" relname="joint">По условиям пари проигравшему предстояло отработать в роли стюардессы на борту самолета авиакомпании победителя.\n\nВ 2010-м Virgin оказалась на последней строчке командного зачета,</segment>
+		<segment id="49" parent="50" relname="joint">и рано или поздно Брэнсон должен был \"отдать должок\".</segment>
+		<segment id="51" parent="61" relname="contrast">По разным причинам это не раз откладывалось,</segment>
+		<segment id="52" parent="58" relname="span">но 12 апреля срок настал.\n\nЗнаменитый британец, выряженный стюардессой авиакомпании Air Asia,</segment>
+		<segment id="53" parent="57" relname="sequence">поднялся на борт самолета, следующего из австралийского города Перт в Куала-Лумпур,</segment>
+		<segment id="54" parent="56" relname="sequence">а затем устроил шоу в аэропорту столицы Малайзии.\n\nПредварительно Брэнсон публично побрил ноги</segment>
+		<segment id="55" parent="56" relname="sequence">и нанес на губы красную помаду,</segment>
+		<segment id="59" parent="60" relname="span">что является обязательным для работниц авиарейсов компании Тони.</segment>
+		<segment id="62" parent="70" relname="span">Ну а затем предстал перед объективами фотокамер в алой униформе стюардесс Air Asia.\n\</segment>
+		<segment id="63" parent="69" relname="span">nНа рейсе же Брэнсону пришлось отработать контракт:</segment>
+		<segment id="64" parent="68" relname="joint">например, он старательно, хоть и не очень умело,</segment>
+		<segment id="65" parent="67" relname="joint">рассказывал пассажирам о том, как пользоваться ремнями безопасности и надувными спасательными жилетами,</segment>
+		<segment id="66" parent="67" relname="joint">а также разносил напитки.\n\nИсточник: https://www.newsru.com/world/12May2013/baransonredday.html\n</segment>
+		<group id="30" type="span" parent="73" relname="preparation"/>
+		<group id="29" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="47" type="multinuc" parent="73" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="sequence"/>
+		<group id="38" type="span" parent="46" relname="sequence"/>
+		<group id="37" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="36" type="span" parent="37" relname="sequence"/>
+		<group id="45" type="span" parent="46" relname="sequence"/>
+		<group id="41" type="span" parent="45" relname="span"/>
+		<group id="44" type="span" parent="41" relname="elaboration"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="50" type="multinuc" parent="72" relname="sequence"/>
+		<group id="71" type="multinuc" parent="72" relname="sequence"/>
+		<group id="61" type="multinuc" parent="71" relname="joint"/>
+		<group id="60" type="span" parent="61" relname="contrast"/>
+		<group id="58" type="span" parent="59" relname="cause-effect"/>
+		<group id="57" type="multinuc" parent="52" relname="elaboration"/>
+		<group id="56" type="multinuc" parent="57" relname="sequence"/>
+		<group id="70" type="span" parent="71" relname="joint"/>
+		<group id="69" type="span" parent="62" relname="elaboration"/>
+		<group id="68" type="multinuc" parent="63" relname="elaboration"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="74" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,77 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="37" relname="sequence">На рынок попали сведения о трех тысячах неблагонадежных заемщиках\n\nНа черном рынке за 900 рублей можно приобрести компьютерный диск с информацией о проблемных заемщиках, которые получали потребкредиты в 2002-2003 годах в банке \"Первое ОВК\".</segment>
+		<segment id="32" parent="34" relname="span">По всей видимости, информацией с пиратами поделились сами сотрудники ОВК,</segment>
+		<segment id="33" parent="32" relname="background">недовольные условиями происходившего в 2003 году слияния с Росбанком,</segment>
+		<segment id="35" parent="34" relname="attribution">пишет газета \"Коммерсант\".</segment>
+		<segment id="38" parent="40" relname="span">Для участников рынка потребкредитования сведения о неплательщиках очень полезны,</segment>
+		<segment id="39" parent="38" relname="purpose">для банка, \"потерявшего\" информацию, - удар по репутации.</segment>
+		<segment id="41" parent="42" relname="joint">Правоохранительные органы бороться с такими утечками информации не намерены.</segment>
+		<segment id="43" parent="47" relname="span">Тем временем, ожидается появление аналогичной базы данных на 3 млн записей.\n\nДиск \"Банковский черный список физлиц: Москва и Московская область\" можно приобрести недалеко от Митинского радиорынка за 900 рублей.</segment>
+		<segment id="46" parent="43" relname="elaboration">Это сравнительно небольшая база данных, содержащая информацию примерно о 3 тысячах неблагонадежных клиентах банка \"Первое ОВК\", получавших кредиты в течение 2002-2003 годов.</segment>
+		<segment id="48" parent="50" relname="joint">Указаны номера их домашних или мобильных телефонов,</segment>
+		<segment id="49" parent="50" relname="joint">в некоторых случаях - паспортные данные и домашние адреса.\n\nРядом с каждым именем указана причина и дата занесения в черный список.</segment>
+		<segment id="51" parent="50" relname="interpretation-evaluation">Приводятся примечания сотрудников службы безопасности ОВК.</segment>
+		<segment id="53" parent="62" relname="attribution">\"Коммерсант\" высказывает мнение,</segment>
+		<segment id="54" parent="56" relname="span">что именно служба безопасности,</segment>
+		<segment id="55" parent="54" relname="elaboration">неким образом ущемленная в результате того, что в 2003 году ОВК был поглощен холдинговой компанией \"Интеррос\",</segment>
+		<segment id="57" parent="61" relname="span">и стала источником утечки.\n\nБанкиры не скрывают того,</segment>
+		<segment id="58" parent="60" relname="span">что для многих организаций, рынка потребкредитования такая информация крайне интересна,</segment>
+		<segment id="59" parent="58" relname="concession">несмотря даже на ее небольшой объем.</segment>
+		<segment id="64" parent="84" relname="contrast">Представители ЦБ понимают серьезность ситуации,</segment>
+		<segment id="65" parent="70" relname="attribution">однако говорят,</segment>
+		<segment id="66" parent="70" relname="joint">что сами никаких действий предпринять не могут,</segment>
+		<segment id="67" parent="69" relname="joint">и советуют самим пострадавшим обращаться в правоохранительные органы</segment>
+		<segment id="68" parent="69" relname="joint">и доказывать, что утечка нанесла им ущерб.\n\nТак или иначе,</segment>
+		<segment id="72" parent="74" relname="span">но пока государственные силовики мало что делают</segment>
+		<segment id="73" parent="72" relname="purpose">для борьбы с прибыльным бизнесом торговли конфиденциальной информацией,</segment>
+		<segment id="75" parent="81" relname="span">а тем временем на черном рынке ожидают новой более объемной базы данных.</segment>
+		<segment id="76" parent="79" relname="attribution">Как пишет \"Коммерсант\",</segment>
+		<segment id="77" parent="78" relname="attribution">по словам продавцов,</segment>
+		<segment id="78" parent="79" relname="span">уже в сентябре поступит более полная и свежая база \"Антикредит\", занимающая 700 Мб и содержащая 3 млн записей.\n\nИсточник: https://www.newsru.com/finance/01Sep2006/baza.html\n</segment>
+		<group id="37" type="multinuc" parent="88" relname="preparation"/>
+		<group id="36" type="span" parent="37" relname="sequence"/>
+		<group id="34" type="span" parent="36" relname="span"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="42" type="multinuc" parent="87" relname="preparation"/>
+		<group id="40" type="span" parent="42" relname="joint"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="47" type="span" parent="87" relname="span"/>
+		<group id="86" type="span" parent="47" relname="elaboration"/>
+		<group id="52" type="span" parent="85" relname="preparation"/>
+		<group id="50" type="multinuc" parent="52" relname="span"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="63" type="span" parent="85" relname="joint"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="56" type="span" parent="62" relname="joint"/>
+		<group id="61" type="span" parent="62" relname="joint"/>
+		<group id="60" type="span" parent="57" relname="purpose"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="83" type="multinuc" parent="84" relname="contrast"/>
+		<group id="71" type="span" parent="83" relname="contrast"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="contrast"/>
+		<group id="74" type="span" parent="82" relname="contrast"/>
+		<group id="81" type="span" parent="82" relname="contrast"/>
+		<group id="80" type="span" parent="75" relname="elaboration"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="89" type="span"/>
+	</body>
+</rst>

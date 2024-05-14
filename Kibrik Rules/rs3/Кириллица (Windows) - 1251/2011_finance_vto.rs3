@@ -1,0 +1,78 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="37" relname="joint">ВТО заставит Россию снизить импортные пошлины на иномарки\n\nВступление России в ВТО спутало карты сторонникам высоких пошлин.</segment>
+		<segment id="34" parent="36" relname="span">После присоединения к ВТО в течение года страна имеет право не понижать тарифы,</segment>
+		<segment id="35" parent="34" relname="condition">за исключением случаев, когда пошлины повышались в качестве антикризисных мер и на временной основе.</segment>
+		<segment id="38" parent="42" relname="joint">Их придется вернуть на докризисный уровень,</segment>
+		<segment id="41" parent="42" relname="joint">пишут \"Новые известия\".\n\nСогласно договоренностям по тарифным вопросам, которые были достигнуты еще в 2006 году, импортные пошлины на легковые автомобили должны были постепенно в течение семи лет снизиться с 25 до 15%.</segment>
+		<segment id="44" parent="54" relname="comparison">То есть в первый год после вступления в ВТО пошлина на новые машины должна составлять 25%,</segment>
+		<segment id="45" parent="47" relname="comparison">во второй - 24%,</segment>
+		<segment id="46" parent="47" relname="comparison">в третий - 23%,</segment>
+		<segment id="48" parent="50" relname="comparison">а в течение последующих четырех лет равномерно снизиться до 15%.\n\nПошлины на ввоз в Россию новых и подержанных автомобилей были повышены в начале 2009 года,</segment>
+		<segment id="49" parent="50" relname="comparison">как антикризисная мера поддержки отечественного автопрома,</segment>
+		<segment id="51" parent="52" relname="span">просевшего из-за падения спроса на машины</segment>
+		<segment id="56" parent="93" relname="preparation">.\n\nСборы за легковые авто со сроком эксплуатации от 1 до 5 лет выросли в среднем с 25 до 30% от таможенной стоимости.</segment>
+		<segment id="57" parent="59" relname="comparison">Тогда же в январе 2009-го цены на иномарки выросли на 5-10%.</segment>
+		<segment id="58" parent="59" relname="comparison">Итогом такой политики стало резкое падение импорта.\n\nВ первый же год действия новых пошлин ввоз легковых автомобилей в Россию сократился в четыре раза (на 74%).</segment>
+		<segment id="60" parent="64" relname="comparison">При этом поток новых иномарок обмелел втрое (на 69%),</segment>
+		<segment id="61" parent="63" relname="comparison">подержанных старше пяти лет - впятеро (на 81,5%),</segment>
+		<segment id="62" parent="63" relname="comparison">а моложе пяти - почти в тридцать раз (на 96,6%)</segment>
+		<segment id="65" parent="66" relname="attribution">.\n\nВедущий эксперт крупной управляющей компании Дмитрий Баранов считает,</segment>
+		<segment id="66" parent="67" relname="span">что понижение ввозных пошлин почти не повлияет на российский авторынок и стоимость иномарок.</segment>
+		<segment id="69" parent="73" relname="span">\"У нас завозятся преимущественно те модели, которые здесь не производятся, в основном люксовые, дорогие марки.</segment>
+		<segment id="72" parent="69" relname="elaboration">У тех, кто их покупает, деньги есть всегда.</segment>
+		<segment id="74" parent="75" relname="span">Так что снижение если и будет, то незначительным\",</segment>
+		<segment id="76" parent="75" relname="attribution">- сообщил он</segment>
+		<segment id="78" parent="79" relname="attribution">.\n\nЗаместитель директора аналитического агентства Сергей Удалов также считает,</segment>
+		<segment id="79" parent="80" relname="span">что автопроизводители не пойдут на серьезное понижение цен:</segment>
+		<segment id="81" parent="85" relname="joint">\"Компании, которые построили здесь заводы,</segment>
+		<segment id="82" parent="84" relname="joint">вложили деньги,</segment>
+		<segment id="83" parent="84" relname="joint">и им надо будет эти производства окупать.</segment>
+		<segment id="86" parent="88" relname="span">Поэтому они не будут заинтересованы сильно снижать цены на автомобили:</segment>
+		<segment id="87" parent="86" relname="cause-effect">что ввозимые, что собранные здесь\".\n\nИсточник: https://www.newsru.com/finance/14Feb2011/vto.html\n</segment>
+		<group id="55" type="multinuc" parent="95" relname="joint"/>
+		<group id="43" type="multinuc" parent="55" relname="restatement"/>
+		<group id="37" type="multinuc" parent="43" relname="joint"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="restatement"/>
+		<group id="53" type="multinuc" parent="54" relname="comparison"/>
+		<group id="47" type="multinuc" parent="53" relname="comparison"/>
+		<group id="52" type="span" parent="53" relname="comparison"/>
+		<group id="50" type="multinuc" parent="51" relname="cause-effect"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="93" type="multinuc" parent="94" relname="span"/>
+		<group id="59" type="multinuc" parent="93" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="68" type="multinuc" parent="92" relname="joint"/>
+		<group id="64" type="multinuc" parent="68" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="comparison"/>
+		<group id="67" type="span" parent="68" relname="joint"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="77" type="span" parent="91" relname="joint"/>
+		<group id="75" type="span" parent="77" relname="span"/>
+		<group id="73" type="span" parent="74" relname="cause-effect"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="80" type="span" parent="90" relname="span"/>
+		<group id="89" type="span" parent="80" relname="elaboration"/>
+		<group id="85" type="multinuc" parent="88" relname="cause-effect"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="95" type="multinuc"/>
+	</body>
+</rst>

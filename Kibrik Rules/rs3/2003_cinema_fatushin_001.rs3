@@ -1,0 +1,39 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="18" relname="joint">Александра Фатюшина похоронили на Востряковском кладбище\n\nГражданская панихида по заслуженному артисту России Александру Фатюшину в среду прошла в театре имени В.Маяковского.</segment>
+		<segment id="15" parent="17" relname="span">На панихиду пришли друзья и коллеги Александра Фатюшина и практически вся труппа театра Маяковского,</segment>
+		<segment id="16" parent="15" relname="elaboration">в котором он проработал 30 лет.\n\nВ траурном карауле стояли художественный руководитель театра Сергей Арцибашев и председатель Госкомспорта РФ Вячеслав Фетисов, артисты Игорь Косталевский и Светлана Немоляева, Сергей Никоненко и Михаил Филиппов.\n\nВ своих речах они называли актера \"удивительно одаренным, образованным, тонким и остроумным человеком\".</segment>
+		<segment id="19" parent="20" relname="attribution">По словам Эммануила Виторгана,</segment>
+		<segment id="20" parent="21" relname="span">Фатюшин был \"олицетворением русского характера\".</segment>
+		<segment id="22" parent="24" relname="joint">\"Он жил на полную катушку,</segment>
+		<segment id="23" parent="24" relname="joint">очень любил свою профессию, семью, друзей\",</segment>
+		<segment id="25" parent="27" relname="sequence">- сказал актер.\n\nВ 13:30 состоялось отпевание актера в храме при Востряковском кладбище,</segment>
+		<segment id="26" parent="27" relname="sequence">а затем Александр Фатюшин был погребен на Востряковском кладбище столицы,</segment>
+		<segment id="30" parent="31" relname="joint">сообщает \"Интерфакс\".\n\nАктер скоропостижно скончался 6 апреля.</segment>
+		<segment id="32" parent="36" relname="joint">Александр Фатюшин родился 29 марта 1951 года в Рязани.</segment>
+		<segment id="33" parent="34" relname="preparation">В 1973 году закончил ГИТИС,</segment>
+		<segment id="34" parent="35" relname="span">с 74-го года снялся более чем в 50 кинокартинах, среди которых \"34-й скорый\", \"Москва слезам не верит\", \"Россия молодая\" и другие.\n\nАлександр Фатюшин был лауреатом Государственной премии, обладателем Серебряной медали имени Довженко, ведущим актером московского театра им. Маяковского.\n\nИсточник: https://www.newsru.com/cinema/09Apr2003/fatushin.html\n</segment>
+		<group id="18" type="multinuc" parent="38" relname="joint"/>
+		<group id="17" type="span" parent="18" relname="joint"/>
+		<group id="37" type="multinuc" parent="38" relname="joint"/>
+		<group id="31" type="multinuc" parent="37" relname="joint"/>
+		<group id="29" type="span" parent="31" relname="joint"/>
+		<group id="21" type="span" parent="28" relname="preparation"/>
+		<group id="28" type="multinuc" parent="29" relname="span"/>
+		<group id="24" type="multinuc" parent="28" relname="joint"/>
+		<group id="27" type="multinuc" parent="28" relname="joint"/>
+		<group id="36" type="multinuc" parent="37" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="38" type="multinuc"/>
+	</body>
+</rst>

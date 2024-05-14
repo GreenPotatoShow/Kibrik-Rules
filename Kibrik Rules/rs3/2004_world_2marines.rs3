@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="20" relname="joint">Двое морских пехотинцев США погибли,</segment>
+		<segment id="19" parent="20" relname="joint">шестеро ранены у Эль-Фаллуджи\n\</segment>
+		<segment id="21" parent="23" relname="span">nДвое морских пехотинцев США погибли в пятницу в результате атаки террориста-смертника неподалеку от военной базы американской армии у Эль-Фаллуджи.</segment>
+		<segment id="22" parent="21" relname="elaboration">Террорист использовал начиненный взрывчаткой автомобиль,</segment>
+		<segment id="24" parent="23" relname="attribution">сообщает Reuters.\n\n\"Неподалеку от базы армии у Эль-Фаллуджи взорвалась машина.</segment>
+		<segment id="27" parent="30" relname="attribution">По первоначальным данным,</segment>
+		<segment id="28" parent="30" relname="joint">в результате теракта двое морских пехотинцев погибли,</segment>
+		<segment id="29" parent="30" relname="joint">шесть получили ранения\",</segment>
+		<segment id="32" parent="34" relname="span">- сообщил бригадный генерал Марк Киммит.\n\nРанее американские войска передали контроль над Эль-Фаллуджей иракской полиции под командованием генерала,</segment>
+		<segment id="33" parent="32" relname="background">служившего еще в Республиканской Гвардии Саддама Хусейна.</segment>
+		<segment id="36" parent="40" relname="span">Но, как показали последние события,</segment>
+		<segment id="37" parent="39" relname="span">этот шаг не помог оккупационным силам умиротворить повстанцев</segment>
+		<segment id="38" parent="37" relname="elaboration">.\n\</segment>
+		<segment id="41" parent="47" relname="span">nВ четверг в результате такого же теракта с использованием начиненного взрывчаткой автомобиля поблизости от Багдада</segment>
+		<segment id="42" parent="46" relname="joint">восемь американских морских пехотинцев погибли</segment>
+		<segment id="43" parent="45" relname="span">и четверо получили ранения.\n\nРанее подобные террористические атаки в основном применялись для борьбы с иракцами,</segment>
+		<segment id="44" parent="43" relname="elaboration">которые пошли на службу в новую, сформированную американской администрацией полицию.\n\nИсточник: https://www.newsru.com/world/30Apr2004/2marines.html\n</segment>
+		<group id="26" type="span" parent="49" relname="preparation"/>
+		<group id="20" type="multinuc" parent="26" relname="span"/>
+		<group id="25" type="span" parent="20" relname="elaboration"/>
+		<group id="23" type="span" parent="25" relname="span"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="35" type="multinuc" parent="49" relname="contrast"/>
+		<group id="31" type="span" parent="35" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="span"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="48" type="span" parent="49" relname="contrast"/>
+		<group id="40" type="span" parent="48" relname="span"/>
+		<group id="39" type="span" parent="36" relname="cause-effect"/>
+		<group id="47" type="span" parent="40" relname="evidence"/>
+		<group id="46" type="multinuc" parent="41" relname="elaboration"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

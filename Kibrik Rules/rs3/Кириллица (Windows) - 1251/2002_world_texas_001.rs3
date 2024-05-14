@@ -1,0 +1,50 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="20" relname="span">Деньги для палестинских террористов-смертников и их семей собирали в Техасе\n\nПожертвования для палестинских террористов-смертников и их семей собирал Фонд поддержки и развития Святой земли,</segment>
+		<segment id="19" parent="18" relname="background">расположенный в городе Ричардсоне штата Техас.\n\</segment>
+		<segment id="21" parent="26" relname="attribution">nПо данным американских спецслужб,</segment>
+		<segment id="22" parent="26" relname="span">этот фонд,</segment>
+		<segment id="23" parent="25" relname="sequence">называющий себя крупнейшим мусульманским благотворительным обществом в Америке,</segment>
+		<segment id="24" parent="25" relname="sequence">собрал на эти цели только в прошлом году 13 млн. долларов.</segment>
+		<segment id="28" parent="30" relname="span">4 декабря счета этой организации,</segment>
+		<segment id="29" parent="28" relname="elaboration">которая, в частности, поддерживала экстремистов из палестинской организации \"Хамас\", были заморожены по распоряжению президента США Джорджа Буша.\n\nДеньги для палестинских террористов-смертников и их семей,</segment>
+		<segment id="31" parent="32" relname="attribution">указывают представители американских спецслужб,</segment>
+		<segment id="32" parent="33" relname="span">собирают также Ирак, Саудовская Аравия и Кувейт.</segment>
+		<segment id="36" parent="44" relname="span">Известно, например, что чеки от имени руководства Ирака раздает глава группировки Арабский фронт освобождения Махмуд Сафи.</segment>
+		<segment id="37" parent="43" relname="joint">\"Некоторые подходят ко мне прямо на улице</segment>
+		<segment id="38" parent="41" relname="attribution">и говорят,</segment>
+		<segment id="39" parent="40" relname="condition">что в случае увеличения суммы до 50 тыс. долларов</segment>
+		<segment id="40" parent="41" relname="span">они готовы немедленно совершить теракт\",</segment>
+		<segment id="45" parent="47" relname="span">- заявил репортерам Сафи.\n\nТолько за последние 18 месяцев 55 палестинцев взорвали себя в людных местах израильских городов,</segment>
+		<segment id="46" parent="45" relname="attribution">передает ИТАР-ТАСС.\n\nИсточник: https://www.newsru.com/world/05Apr2002/texas.html\n</segment>
+		<group id="20" type="span" parent="49" relname="preparation"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="35" type="multinuc" parent="49" relname="joint"/>
+		<group id="27" type="span" parent="35" relname="joint"/>
+		<group id="26" type="span" parent="27" relname="span"/>
+		<group id="25" type="multinuc" parent="22" relname="elaboration"/>
+		<group id="34" type="multinuc" parent="35" relname="joint"/>
+		<group id="30" type="span" parent="34" relname="joint"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="44" type="span" parent="48" relname="joint"/>
+		<group id="43" type="multinuc" parent="36" relname="elaboration"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

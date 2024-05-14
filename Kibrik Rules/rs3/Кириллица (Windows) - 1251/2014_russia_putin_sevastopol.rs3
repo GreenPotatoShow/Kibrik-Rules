@@ -1,0 +1,135 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="60" parent="62" relname="span">Путин может принять парад Победы в Севастополе,</segment>
+		<segment id="61" parent="60" relname="elaboration">который месяц назад вошел в состав России\n\nВ честь Дня Победы в Великой Отечественной войне президент России Владимир Путин после проведения парада на Красной площади в Москве может посетить Севастополь.</segment>
+		<segment id="63" parent="66" relname="attribution">По информации газеты \"Коммерсант\",</segment>
+		<segment id="64" parent="66" relname="span">глава государства намерен 9 мая принять участие в праздничных мероприятиях в крымском городе,</segment>
+		<segment id="65" parent="64" relname="elaboration">которые будут приурочены не только к годовщине Победы, но и к 70-летию освобождения города от немецких захватчиков.</segment>
+		<segment id="68" parent="69" relname="joint">Об этом изданию рассказал высокопоставленный источник в Минобороны.\n\n\"Вопрос предстоит согласовать с кремлевской администрацией\",</segment>
+		<segment id="70" parent="69" relname="attribution">- уточнил чиновник.</segment>
+		<segment id="73" parent="75" relname="span">По некоторым данным, вместе с президентом Путиным прибудет и премьер-министр Дмитрий Медведев.</segment>
+		<segment id="74" parent="73" relname="elaboration">Подобной информацией, в частности, располагает \"Газета.ru\".</segment>
+		<segment id="76" parent="77" relname="attribution">По данным издания,</segment>
+		<segment id="77" parent="78" relname="span">именно ради поездки в Севастополь изменен обычный распорядок дня президента:</segment>
+		<segment id="79" parent="81" relname="contrast">обычно сразу после парада глава государства проводит прием по случаю Дня Победы,</segment>
+		<segment id="80" parent="81" relname="contrast">но на сей раз прием перенесен на вечер 8 мая.\n\nЕще в начале апреля в администрации Севастополя прошло заседание оргкомитета по подготовке к мероприятиям.</segment>
+		<segment id="83" parent="86" relname="attribution">По данным телерадиокомпании \"Звезда\",</segment>
+		<segment id="84" parent="86" relname="joint">в городе будет проведен парад,</segment>
+		<segment id="85" parent="86" relname="joint">причем в составе механизированной колонны пройдут бронемашины \"Тигр\", противокорабельные зенитно-ракетные комплексы \"Бастион\" и зенитно-ракетные \"Оса\", а также артиллерийские орудия.</segment>
+		<segment id="88" parent="89" relname="joint">Кроме этого, будут привлекаться еще и береговые ракетно-локационные комплексы \"Минерал\".\n\nМежду тем в администрации Севастополя данных о прибытии Путина нет.</segment>
+		<segment id="91" parent="94" relname="attribution">Пресс-секретарь президента Дмитрий Песков заявил,</segment>
+		<segment id="92" parent="94" relname="span">что посещение Севастополя 9 мая в графике Путина не значится.\n\nДоговор о вступлении Республики Крым и города Севастополя в состав РФ на правах новых субъектов был подписан 18 марта,</segment>
+		<segment id="93" parent="92" relname="condition">после проведения в регионе местного референдума.</segment>
+		<segment id="96" parent="106" relname="contrast">Власти Украины считают референдум нелегитимным,</segment>
+		<segment id="97" parent="99" relname="span">а присоединение полуострова к России</segment>
+		<segment id="98" parent="97" relname="elaboration">называют оккупацией</segment>
+		<segment id="100" parent="104" relname="joint">.\n\nУкраина осуждает Россию за парады,</segment>
+		<segment id="101" parent="103" relname="span">а Россия Украину - за их отсутствие\n\nУкраинские исследователи между тем осудили традицию проведения военных парадов,</segment>
+		<segment id="102" parent="101" relname="cause-effect">назвав их пропагандой войны.</segment>
+		<segment id="108" parent="113" relname="attribution">Научные работники Украинского института национальной памяти заявили,</segment>
+		<segment id="109" parent="113" relname="span">что День Победы выполняет важную для режима российского президента Владимира Путина функцию инструмента реабилитации советского прошлого:</segment>
+		<segment id="110" parent="111" relname="attribution">по их мнению,</segment>
+		<segment id="111" parent="112" relname="span">победой над нацизмом оправдывают самые тяжкие преступления советской власти и лично Иосифа Сталина.</segment>
+		<segment id="115" parent="119" relname="span">Историки посоветовали изображать войну как трагедию и гуманитарную катастрофу,</segment>
+		<segment id="118" parent="115" relname="elaboration">которая стоила жизни миллионам людей, нанесла непоправимый ущерб человеческой цивилизации и культуре.</segment>
+		<segment id="120" parent="121" relname="attribution">Они заявили,</segment>
+		<segment id="121" parent="122" relname="span">что следует отказаться от советского формата празднования Дня Победы.</segment>
+		<segment id="123" parent="126" relname="purpose">Для этого следует акцентировать внимание не на военных парадах,</segment>
+		<segment id="124" parent="126" relname="joint">что является своеобразной формой пропаганды войны,</segment>
+		<segment id="125" parent="126" relname="joint">а на помощи живым ветеранам и чествовании погибших.\n\nМосква тем временем раскритиковала Киев за нежелание проводить военный парад на 9 мая.</segment>
+		<segment id="131" parent="138" relname="attribution">В Министерстве обороны Украины заверяют,</segment>
+		<segment id="132" parent="138" relname="joint">что в столице по традиции пройдет ряд других праздничных мероприятий,</segment>
+		<segment id="133" parent="137" relname="span">а парады в украинской столице не проводятся уже много лет,</segment>
+		<segment id="134" parent="136" relname="joint">не было их и при Януковиче</segment>
+		<segment id="135" parent="136" relname="joint">.\n\</segment>
+		<segment id="140" parent="141" relname="attribution">nПри этом вице-премьер правительства Ольга Голодец заявила,</segment>
+		<segment id="141" parent="142" relname="span">что действия именно новых киевских властей являются кощунством и надругательством над памятью жертв фашизма.</segment>
+		<segment id="144" parent="148" relname="span">Голодец также пообещала постараться сделать так,</segment>
+		<segment id="145" parent="146" relname="attribution">чтобы всем ветеранам ВОВ из Севастополя и Крыма, ставших недавно новыми регионами РФ, оформили российские паспорта до 9 мая - в качестве подарка ко Дню Победы.\n\nРанее власти Москвы заявили,</segment>
+		<segment id="146" parent="147" relname="span">что готовы \"приютить\" украинских ветеранов, которые решат отпраздновать День Победы в Москве.</segment>
+		<segment id="149" parent="158" relname="attribution">Глава городского комитета общественных связей Москвы Александр Чистяков, в частности, заявил:</segment>
+		<segment id="150" parent="158" relname="span">\"Мы им окажем должное внимание:</segment>
+		<segment id="151" parent="155" relname="joint">разместим,</segment>
+		<segment id="152" parent="154" relname="span">они примут участие в наших мероприятиях\".\n\</segment>
+		<segment id="153" parent="152" relname="attribution">nПо словам руководства города,</segment>
+		<segment id="156" parent="157" relname="joint">в столице состоится более полутора тысяч праздничных мероприятий, приуроченных ко Дню Победы.</segment>
+		<segment id="160" parent="168" relname="span">Например, на Поклонной горе планируется акция \"Бессмертный полк.</segment>
+		<segment id="161" parent="163" relname="span">Москва\", в рамках которой москвичи встанут вдоль главной аллеи Памяти с портретами своих дедов и прадедов.</segment>
+		<segment id="162" parent="161" relname="elaboration">Там же пройдет благотворительный концерт Валерия Гергиева.</segment>
+		<segment id="164" parent="166" relname="joint">В традиционном параде на Красной площади в этом году примут участие около 11 тысяч военнослужащих в составе пешей колонны и более 100 единиц современного вооружения и военной техники.</segment>
+		<segment id="165" parent="166" relname="joint">Кроме того, над площадью пролетят 69 самолетов и вертолетов - число, символизирующее годовщину окончания Великой Отечественной войны.\n\nИсточник: https://www.newsru.com/russia/30Apr2014/putin_sevastopol.html\n</segment>
+		<group id="72" type="span" parent="175" relname="preparation"/>
+		<group id="62" type="span" parent="71" relname="preparation"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="69" type="multinuc" parent="71" relname="span"/>
+		<group id="67" type="span" parent="69" relname="joint"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="175" type="span" parent="176" relname="span"/>
+		<group id="75" type="span" parent="174" relname="preparation"/>
+		<group id="174" type="multinuc" parent="175" relname="span"/>
+		<group id="90" type="multinuc" parent="174" relname="joint"/>
+		<group id="82" type="multinuc" parent="90" relname="joint"/>
+		<group id="78" type="span" parent="82" relname="sequence"/>
+		<group id="81" type="multinuc" parent="82" relname="sequence"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="87" type="span" parent="89" relname="joint"/>
+		<group id="86" type="multinuc" parent="87" relname="span"/>
+		<group id="173" type="multinuc" parent="174" relname="joint"/>
+		<group id="107" type="multinuc" parent="173" relname="joint"/>
+		<group id="95" type="span" parent="107" relname="joint"/>
+		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="106" type="multinuc" parent="107" relname="joint"/>
+		<group id="105" type="span" parent="106" relname="contrast"/>
+		<group id="99" type="span" parent="105" relname="span"/>
+		<group id="104" type="multinuc" parent="99" relname="cause-effect"/>
+		<group id="103" type="span" parent="104" relname="joint"/>
+		<group id="172" type="multinuc" parent="173" relname="joint"/>
+		<group id="130" type="multinuc" parent="172" relname="joint"/>
+		<group id="114" type="span" parent="130" relname="joint"/>
+		<group id="113" type="span" parent="114" relname="span"/>
+		<group id="112" type="span" parent="109" relname="elaboration"/>
+		<group id="129" type="multinuc" parent="130" relname="joint"/>
+		<group id="119" type="span" parent="129" relname="joint"/>
+		<group id="128" type="span" parent="129" relname="joint"/>
+		<group id="122" type="span" parent="128" relname="span"/>
+		<group id="127" type="span" parent="122" relname="purpose"/>
+		<group id="126" type="multinuc" parent="127" relname="span"/>
+		<group id="171" type="multinuc" parent="172" relname="joint"/>
+		<group id="143" type="multinuc" parent="171" relname="joint"/>
+		<group id="139" type="span" parent="143" relname="joint"/>
+		<group id="138" type="multinuc" parent="139" relname="span"/>
+		<group id="137" type="span" parent="138" relname="joint"/>
+		<group id="136" type="multinuc" parent="133" relname="elaboration"/>
+		<group id="142" type="span" parent="143" relname="joint"/>
+		<group id="170" type="multinuc" parent="171" relname="joint"/>
+		<group id="148" type="span" parent="170" relname="joint"/>
+		<group id="147" type="span" parent="144" relname="purpose"/>
+		<group id="169" type="multinuc" parent="170" relname="joint"/>
+		<group id="159" type="span" parent="169" relname="joint"/>
+		<group id="158" type="span" parent="159" relname="span"/>
+		<group id="157" type="multinuc" parent="150" relname="elaboration"/>
+		<group id="155" type="multinuc" parent="157" relname="joint"/>
+		<group id="154" type="span" parent="155" relname="joint"/>
+		<group id="168" type="span" parent="169" relname="joint"/>
+		<group id="167" type="multinuc" parent="160" relname="elaboration"/>
+		<group id="163" type="span" parent="167" relname="joint"/>
+		<group id="166" type="multinuc" parent="167" relname="joint"/>
+		<group id="176" type="span"/>
+	</body>
+</rst>

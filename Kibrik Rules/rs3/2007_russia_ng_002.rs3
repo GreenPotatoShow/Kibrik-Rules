@@ -1,0 +1,104 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="solutionhood" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="43" parent="47" relname="joint">Владелец \"Независимой газеты\" Ремчуков становится ее гендиректором и главредом\n\nВладелец \"Независимой газеты\" Константин Ремчуков со вторника займет в издании посты генерального директора и главного редактора.</segment>
+		<segment id="44" parent="46" relname="span">Об этом говорится в распространенном в понедельник совместном заявлении Ремчукова, а также Рустема Нарзикулова и Татьяны Кошкаревой,</segment>
+		<segment id="45" parent="44" relname="elaboration">которые в настоящий момент еще занимают соответственно посты гендиректора и главного редактора.</segment>
+		<segment id="48" parent="52" relname="same-unit">В документе кадровая перестановка обозначена как \"плавная замена\".\n\nВ документе отмечается,</segment>
+		<segment id="51" parent="52" relname="same-unit">что \"задачи, поставленные перед руководством газеты полтора года назад после смены собственника, успешно выполнены\".</segment>
+		<segment id="53" parent="55" relname="span">\"Владелец и бывший менеджмент газеты (Нарзикулов и Кошкарева) констатируют высокую эффективность сотрудничества и отсутствие каких-либо претензий правового характера друг к другу\",</segment>
+		<segment id="54" parent="53" relname="attribution">- цитирует \"Интерфакс\" выдержку из документа.\n\n- История НГ до и после Березовского\n\nСам Ремчуков,</segment>
+		<segment id="56" parent="57" relname="attribution">отвечая на вопрос ИТАР-ТАСС,</segment>
+		<segment id="57" parent="58" relname="span">останутся ли в НГ Нарзикулов и Кошкарева,</segment>
+		<segment id="60" parent="63" relname="attribution">сказал,</segment>
+		<segment id="61" parent="63" relname="joint">что \"они отправятся в свободное плавание</segment>
+		<segment id="62" parent="63" relname="joint">и в газете не останутся\".</segment>
+		<segment id="67" parent="68" relname="attribution">По словам Ремчукова,</segment>
+		<segment id="68" parent="69" relname="span">новое кадровое решение продиктовано \"желанием сделать НГ лучшей политической газеты страны\".</segment>
+		<segment id="70" parent="69" relname="elaboration">Один из мотивов такого шага - \"объединить в одних руках качество продукции и издательский бизнес\",</segment>
+		<segment id="72" parent="71" relname="attribution">сказал он</segment>
+		<segment id="74" parent="75" relname="attribution">.\n\nРемчуков признался,</segment>
+		<segment id="75" parent="76" relname="span">что до покупки НГ он не имел опыта работы в СМИ,</segment>
+		<segment id="77" parent="83" relname="contrast">но отметил, что более чем за полтора года со дня покупки у него появилось немало идей по совершенствованию издания.</segment>
+		<segment id="78" parent="82" relname="same-unit">Однако, в соответствии с законом о печати,</segment>
+		<segment id="79" parent="80" relname="condition">являясь владельцем,</segment>
+		<segment id="80" parent="81" relname="span">он не мог вмешиваться в редакционную политику.\n\</segment>
+		<segment id="85" parent="88" relname="attribution">nНапомним, в ноябре прошлого года Ремчуков сообщил,</segment>
+		<segment id="86" parent="88" relname="span">что планирует изменить макет газеты и ее формат,</segment>
+		<segment id="87" parent="86" relname="condition">сделав его таблоидным по форме, но не по содержанию - типа The Washington Post.</segment>
+		<segment id="90" parent="93" relname="attribution">При этом он отметил тогда,</segment>
+		<segment id="91" parent="93" relname="joint">что удовлетворен работой руководства газеты</segment>
+		<segment id="92" parent="93" relname="joint">и менять его не намерен.\n\nТакже напомним, что в 2003 году во времена пертурбаций с телеканалом ТВС Константин Ремчуков,</segment>
+		<segment id="95" parent="98" relname="attribution">занимавший тогда пост председатель высшего научно-консультативного совета \"Базового элемента\", заявил,</segment>
+		<segment id="96" parent="98" relname="span">что корпорация способна сделать канал ТВС высокодоходным бизнесом за три года,</segment>
+		<segment id="97" parent="96" relname="condition">предложив более эффективную модель управления медиабизнесом.</segment>
+		<segment id="102" parent="108" relname="span">Однако через две недели после этого громкого заявления телеканал ТВС прекратил вещание,</segment>
+		<segment id="103" parent="105" relname="span">уступив \"шестую кнопку\" российского телевидения телеканалу \"Спорт\".\n\n\"Независимая газета\",</segment>
+		<segment id="104" parent="103" relname="background">владельцем которой с 1995 года был проживающий теперь за рубежом предприниматель Борис Березовский,</segment>
+		<segment id="106" parent="107" relname="sequence">в августе 2005 года перешла в собственность помощника главы Минэкономразвития России Константина Ремчукова и его супруги Елены Ремчуковой.</segment>
+		<segment id="109" parent="113" relname="span">При этом все 100% акций НГ тогда планировалось оформить на Елену Ремчукову,</segment>
+		<segment id="110" parent="111" relname="cause-effect">поскольку ее муж, будучи госслужащим,</segment>
+		<segment id="111" parent="112" relname="span">не имеет права владеть такой собственностью.\n\nКонстантин Ремчуков в 1999 году был депутатом Госдумы РФ от блока СПС.</segment>
+		<segment id="114" parent="115" relname="sequence">С 2000 года - председатель высшего научно-консультационного совета \"Сибирского алюминия\", с 2002 года - компании \"Базовый элемент\".</segment>
+		<segment id="116" parent="118" relname="sequence">В 2001 году возглавил общественный совет при президенте по вопросам присоединения России к ВТО.</segment>
+		<segment id="117" parent="118" relname="sequence">С июня 2004 года - помощник главы Минэкономразвития РФ Германа Грефа.\n\nИсточник: https://www.newsru.com/russia/12Feb2007/ng.html\n</segment>
+		<group id="47" type="multinuc" parent="124" relname="preparation"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="124" type="multinuc" parent="125" relname="span"/>
+		<group id="66" type="multinuc" parent="124" relname="joint"/>
+		<group id="52" type="multinuc" parent="66" relname="joint"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="59" type="span" parent="64" relname="solutionhood"/>
+		<group id="55" type="span" parent="58" relname="solutionhood"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="123" type="multinuc" parent="124" relname="joint"/>
+		<group id="73" type="span" parent="123" relname="joint"/>
+		<group id="71" type="span" parent="73" relname="span"/>
+		<group id="69" type="span" parent="71" relname="span"/>
+		<group id="122" type="multinuc" parent="123" relname="joint"/>
+		<group id="84" type="multinuc" parent="122" relname="joint"/>
+		<group id="76" type="span" parent="84" relname="contrast"/>
+		<group id="83" type="multinuc" parent="84" relname="contrast"/>
+		<group id="82" type="multinuc" parent="83" relname="contrast"/>
+		<group id="81" type="span" parent="82" relname="same-unit"/>
+		<group id="121" type="multinuc" parent="122" relname="joint"/>
+		<group id="101" type="multinuc" parent="121" relname="joint"/>
+		<group id="89" type="span" parent="101" relname="joint"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="100" type="multinuc" parent="101" relname="joint"/>
+		<group id="94" type="span" parent="100" relname="joint"/>
+		<group id="93" type="multinuc" parent="94" relname="span"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="98" type="span" parent="99" relname="span"/>
+		<group id="120" type="multinuc" parent="121" relname="joint"/>
+		<group id="108" type="span" parent="120" relname="joint"/>
+		<group id="107" type="multinuc" parent="102" relname="elaboration"/>
+		<group id="105" type="span" parent="107" relname="sequence"/>
+		<group id="119" type="multinuc" parent="120" relname="joint"/>
+		<group id="115" type="multinuc" parent="119" relname="joint"/>
+		<group id="113" type="span" parent="115" relname="sequence"/>
+		<group id="112" type="span" parent="109" relname="cause-effect"/>
+		<group id="118" type="multinuc" parent="119" relname="joint"/>
+		<group id="125" type="span"/>
+	</body>
+</rst>

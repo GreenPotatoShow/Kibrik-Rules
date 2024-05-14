@@ -1,0 +1,56 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="29" relname="joint">На МКС испытали японского дрона-фотографа\n\nЯпонское агентство аэрокосмических исследований (JAXA) испытало на МКС робота-помощника для космонавтов под названием Int-Ball,</segment>
+		<segment id="22" parent="24" relname="joint">оснащенного камерой</segment>
+		<segment id="23" parent="24" relname="joint">и способного самостоятельно перемещаться по космической станции.\n\nКак пишет N+1,</segment>
+		<segment id="25" parent="27" relname="span">японский дрон, который был доставлен на МКС 4 июня,</segment>
+		<segment id="26" parent="25" relname="elaboration">представляет собой сферу диаметром около 15 сантиметров.</segment>
+		<segment id="30" parent="36" relname="joint">Для того, чтобы космонавты понимали, куда направлен взгляд робота,</segment>
+		<segment id="31" parent="35" relname="span">на роботе изображены \"глаза\", между которыми расположена камера,</segment>
+		<segment id="32" parent="33" relname="purpose">а для ориентации в пространстве и перемещения по станции</segment>
+		<segment id="33" parent="34" relname="span">робот использует три маховика, расположенные на разных осях, и 12 встроенных пропеллеров.\n\</segment>
+		<segment id="37" parent="38" relname="purpose">nЧтобы дрон мог ориентироваться в японском модуле Кибо,</segment>
+		<segment id="38" parent="39" relname="span">космонавты наклеили на стенки модуля специальные розовые метки.</segment>
+		<segment id="41" parent="43" relname="span">Камера дрона управляется из японского центра управления полетами,</segment>
+		<segment id="42" parent="41" relname="purpose">что позволяет специалистам помогать космонавтам в проведении экспериментов и устранении неполадок.</segment>
+		<segment id="44" parent="46" relname="span">Небольшой видеоролик, демонстрирующий работу Int-Ball,</segment>
+		<segment id="45" parent="44" relname="elaboration">был опубликован на YouTube.\n\</segment>
+		<segment id="48" parent="51" relname="attribution">nПо словам представителей JAXA,</segment>
+		<segment id="49" parent="51" relname="span">космонавты тратят на работы с камерой около 10% своего рабочего времени на МКС,</segment>
+		<segment id="50" parent="49" relname="condition">снимая оборудование и эксперименты.</segment>
+		<segment id="53" parent="54" relname="condition">Если дрон Int-Ball будет признан эффективным,</segment>
+		<segment id="54" parent="55" relname="span">то его дальнейшее применение поможет членам экипажей МКС экономить время.\n\nИсточник: https://www.newsru.com/hitech/18Jul2017/intball.html\n</segment>
+		<group id="29" type="multinuc" parent="59" relname="joint"/>
+		<group id="28" type="multinuc" parent="29" relname="joint"/>
+		<group id="24" type="multinuc" parent="28" relname="sequence"/>
+		<group id="27" type="span" parent="28" relname="sequence"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="40" type="multinuc" parent="58" relname="joint"/>
+		<group id="36" type="multinuc" parent="40" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="34" type="span" parent="31" relname="purpose"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="47" type="span" parent="57" relname="joint"/>
+		<group id="43" type="span" parent="47" relname="span"/>
+		<group id="46" type="span" parent="43" relname="elaboration"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="52" type="span" parent="56" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="59" type="multinuc"/>
+	</body>
+</rst>

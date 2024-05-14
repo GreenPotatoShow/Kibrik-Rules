@@ -1,0 +1,19 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="5" parent="11" relname="span">В Чечне задержан один из подозреваемых в убийстве русских жителей Грозного\n\nВ Чечне задержан один из участников преступной группы, подозреваемой в совершении убийств трех русскоязычных жителей Грозного.</segment>
+		<segment id="6" parent="9" relname="preparation">Об этом сообщает ИТАР-ТАСС.\n\nЭто некий Рустан Хайдаров уроженец Надтеречного района республики.</segment>
+		<segment id="7" parent="9" relname="joint">Уже установлена его причастность к совершению убийств трех человек 10 марта нынешнего года.</segment>
+		<segment id="8" parent="9" relname="joint">Задержание провели сотрудники временных отделов внутренних дел Ленинского и Старопромысловского районов Грозного.\n\nИсточник: https://www.newsru.com/russia/09Apr2001/chech.html\n</segment>
+		<group id="10" type="span" parent="5" relname="background"/>
+		<group id="9" type="multinuc" parent="10" relname="span"/>
+		<group id="11" type="span"/>
+	</body>
+</rst>

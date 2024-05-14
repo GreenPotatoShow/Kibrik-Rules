@@ -1,0 +1,57 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="25" relname="attribution">Медведев попросил не указывать России,</segment>
+		<segment id="23" parent="25" relname="joint">что ей делать с ЧФ\n\nРоссия готова договариваться по Черноморскому флоту РФ на основе международных соглашений</segment>
+		<segment id="24" parent="25" relname="joint">и просит не указывать ей, как себя вести,</segment>
+		<segment id="27" parent="28" relname="attribution">заявил президент РФ Дмитрий Медведев,</segment>
+		<segment id="28" parent="29" relname="span">передает РИА \"Новости\".\n\nЧФ РФ находится на территории Украины до 2017 года,</segment>
+		<segment id="31" parent="33" relname="joint">при этом российская сторона не исключает продления срока аренды,</segment>
+		<segment id="32" parent="33" relname="joint">а украинская настаивает на выводе флота в оговоренный срок</segment>
+		<segment id="34" parent="39" relname="cause-effect">.\n\n- В России и Украине ожидают, как пройдет возвращение ЧФ РФ в Севастополь\n\nВо время грузино-осетинского конфликта МИД Украины заявил,</segment>
+		<segment id="35" parent="39" relname="span">что Киев оставляет за собой право не пустить обратно на украинскую территорию корабли ЧФ,</segment>
+		<segment id="36" parent="38" relname="joint">которые находились у берегов Грузии,</segment>
+		<segment id="37" parent="38" relname="joint">где принимали участие в операции по принуждению к миру.\n\</segment>
+		<segment id="43" parent="47" relname="span">nЗатем украинский президент подписал указ,</segment>
+		<segment id="44" parent="46" relname="joint">согласно которому командование Черноморского флота обязано информировать украинскую власть о намерении покинуть территорию страны за трое суток,</segment>
+		<segment id="45" parent="46" relname="joint">а также о целях пересечения госграницы Украины</segment>
+		<segment id="48" parent="50" relname="joint">.\n\n\"Черноморский флот РФ будет в зоне специального, особого внимания,</segment>
+		<segment id="49" parent="50" relname="joint">и пусть нам не указывают, как себя вести.</segment>
+		<segment id="51" parent="50" relname="elaboration">Мы будем действовать в соответствии с международными соглашениями и директивами, выданными мною как главнокомандующим\",</segment>
+		<segment id="53" parent="57" relname="span">- заявил Медведев во Владикавказе.\n\n\"Неквалифицированное вмешательство ни к чему хорошему не приведет.</segment>
+		<segment id="54" parent="56" relname="contrast">Мы готовы договариваться,</segment>
+		<segment id="55" parent="56" relname="contrast">но строго на основе международных соглашений\",</segment>
+		<segment id="61" parent="60" relname="attribution">- сказал он.\n\nИсточник: https://www.newsru.com/russia/18Aug2008/med_flot.html\n</segment>
+		<group id="60" type="multinuc" parent="62" relname="span"/>
+		<group id="42" type="multinuc" parent="60" relname="joint"/>
+		<group id="30" type="span" parent="42" relname="joint"/>
+		<group id="26" type="span" parent="30" relname="span"/>
+		<group id="25" type="multinuc" parent="26" relname="span"/>
+		<group id="29" type="span" parent="26" relname="attribution"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="33" type="multinuc" parent="41" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="38" type="multinuc" parent="35" relname="background"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="47" type="span" parent="59" relname="joint"/>
+		<group id="46" type="multinuc" parent="43" relname="elaboration"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="52" type="span" parent="58" relname="span"/>
+		<group id="50" type="multinuc" parent="52" relname="span"/>
+		<group id="57" type="span" parent="52" relname="attribution"/>
+		<group id="56" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="62" type="span"/>
+	</body>
+</rst>

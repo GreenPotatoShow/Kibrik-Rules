@@ -1,0 +1,26 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="8" parent="19" relname="preparation">Верховный суд Чили прекратил производство по делу Пиночета\n\</segment>
+		<segment id="9" parent="11" relname="span">nСегодня Верховный суд Чили принял решение о прекращении производства дела бывшего чилийского диктатора Аугусто Пиночета,</segment>
+		<segment id="10" parent="9" relname="attribution">передает НТВ со ссылкой на \"Интерфакс\".</segment>
+		<segment id="12" parent="14" relname="span">Четырьмя голосами против одного суд подтвердил решение апелляционного суда Перу,</segment>
+		<segment id="13" parent="12" relname="elaboration">который на прошлой неделе удовлетворил соответствующее прошение адвокатов Пиночета.\n\nДело экс-диктатора было принято к рассмотрению 1 декабря судьей Хуаном Гусманом Тапиа.</segment>
+		<segment id="15" parent="17" relname="joint">Пиночет обвинялся в причастности к преступлениям, совершенным \"Караваном смерти\".</segment>
+		<segment id="16" parent="17" relname="joint">Боевики этого подразделения после военного переворота 1973 года казнили в разных городах страны без суда и следствия более 70 политических заключенных.\n\nИсточник: https://www.newsru.com/world/20Dec2000/pinochet.html\n</segment>
+		<group id="19" type="multinuc" parent="20" relname="span"/>
+		<group id="11" type="span" parent="19" relname="joint"/>
+		<group id="18" type="multinuc" parent="19" relname="joint"/>
+		<group id="14" type="span" parent="18" relname="joint"/>
+		<group id="17" type="multinuc" parent="18" relname="joint"/>
+		<group id="20" type="span"/>
+	</body>
+</rst>

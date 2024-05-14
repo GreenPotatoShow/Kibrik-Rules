@@ -1,0 +1,39 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="13" parent="15" relname="sequence">В Москве девушка, выбежавшая на Кутузовский проспект,</segment>
+		<segment id="14" parent="15" relname="sequence">на 10 минут остановила кортеж\n\nНа Кутузовском проспекте в Москве девушка, выбежавшая на дорогу, на 10 минут остановила кортеж.</segment>
+		<segment id="16" parent="19" relname="attribution">По словам очевидца,</segment>
+		<segment id="17" parent="19" relname="span">машины успели остановиться в последний момент,</segment>
+		<segment id="18" parent="17" relname="attribution">пишет \"Газета.ru\".\n\nВсего кортеж состоял из 7-8 автомобилей.</segment>
+		<segment id="21" parent="20" relname="elaboration">Первая машина сопровождения дала команду \"не начинать\" движение.</segment>
+		<segment id="23" parent="29" relname="contrast">В течение последующих 10 минут девушку уговаривали освободить дорогу,</segment>
+		<segment id="24" parent="28" relname="sequence">но она упорно отказывалась это делать.\n\nВскоре к месту событий подъехал полицейский автомобиль и стражи порядка насильно утащили девушку с пути кортежа.\n\</segment>
+		<segment id="25" parent="26" relname="condition">nПосле того как движение возобновилось,</segment>
+		<segment id="26" parent="27" relname="span">полицейские продолжили разговор с девушкой.</segment>
+		<segment id="30" parent="32" relname="sequence">К месту инцидента подъехала машина Ford Focus с номерами е531кх 177 региона и с удостоверением с российским флагом на лобовом стекле.\n\nПолицейские передали девушку мужчине из этого автомобиля,</segment>
+		<segment id="31" parent="32" relname="sequence">после чего он увез ее в неизвестном направлении.\n\nИсточник: https://www.newsru.com/russia/08Jun2012/kutuzovsk.html\n</segment>
+		<group id="15" type="multinuc" parent="34" relname="preparation"/>
+		<group id="34" type="multinuc" parent="35" relname="span"/>
+		<group id="22" type="span" parent="34" relname="sequence"/>
+		<group id="20" type="span" parent="22" relname="span"/>
+		<group id="19" type="span" parent="20" relname="span"/>
+		<group id="33" type="multinuc" parent="34" relname="sequence"/>
+		<group id="29" type="multinuc" parent="33" relname="sequence"/>
+		<group id="28" type="multinuc" parent="29" relname="contrast"/>
+		<group id="27" type="span" parent="28" relname="sequence"/>
+		<group id="32" type="multinuc" parent="33" relname="sequence"/>
+		<group id="35" type="span"/>
+	</body>
+</rst>

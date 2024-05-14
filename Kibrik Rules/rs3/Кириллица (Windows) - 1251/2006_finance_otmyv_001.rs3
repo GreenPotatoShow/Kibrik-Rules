@@ -1,0 +1,122 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="52" parent="60" relname="joint">Депутаты готовятся раскрыть финансовые тайны чиновников\n\nВ Госдуме готовят законопроект,</segment>
+		<segment id="53" parent="59" relname="span">реализующий ключевую меру конвенции ООН по борьбе с коррупцией:</segment>
+		<segment id="54" parent="57" relname="condition">после его принятия</segment>
+		<segment id="55" parent="57" relname="joint">министры, депутаты и президент лишатся банковской тайны</segment>
+		<segment id="56" parent="57" relname="joint">и будут предоставлять данные о своих вкладах и движении средств на счетах.</segment>
+		<segment id="61" parent="63" relname="span">Информация об этом будет стекаться в Федеральную службу финансового мониторинга.\n\nКонвенция ООН по борьбе с коррупцией,</segment>
+		<segment id="62" parent="61" relname="background">ратифицированная Россией еще в 2003 году,</segment>
+		<segment id="64" parent="65" relname="attribution">предполагает, что \"любое назначаемое или избираемое лицо на какую-либо должность в законодательном, исполнительном, административном или судебном органе государства-участника\" должно раскрывать информацию о своих финансовых счетах.\n\n\"Независимая газета\" указывает,</segment>
+		<segment id="65" parent="66" relname="span">что у депутатов есть смысл поторопиться:</segment>
+		<segment id="68" parent="72" relname="span">в апреле следующего года в страну нагрянет комиссия FATF</segment>
+		<segment id="69" parent="71" relname="span">- международной организации,</segment>
+		<segment id="70" parent="69" relname="elaboration">занимающейся борьбой с финансированием терроризма и отмыванием капиталов.</segment>
+		<segment id="75" parent="77" relname="joint">Комиссары будут проверять, как выполняются все 49 требований, предъявляемых этой организацией к участникам конвенции.</segment>
+		<segment id="76" parent="77" relname="joint">И хорошо бы уже иметь первые результаты от действия нового закона.\n\</segment>
+		<segment id="78" parent="82" relname="span">nПо словам заместителя председателя комитета Госдумы по экономическому развитию, предпринимательству и туризму Анатолия Аксакова,</segment>
+		<segment id="79" parent="80" relname="condition">если его законопроект будет принят,</segment>
+		<segment id="80" parent="81" relname="span">банки обяжут запрашивать у вкладчиков сведения на предмет выяснения степени их высокопоставленности.</segment>
+		<segment id="83" parent="82" relname="elaboration">\"Счет чиновников групп \"А\" и \"Б\",</segment>
+		<segment id="85" parent="90" relname="attribution">- поясняет Аксаков,</segment>
+		<segment id="86" parent="90" relname="joint">- подпадает под особый контроль,</segment>
+		<segment id="87" parent="89" relname="span">и движение по этому счету передается в соответствующую службу финансового мониторинга,</segment>
+		<segment id="88" parent="87" relname="elaboration">которая отслеживает подозрительные сделки.</segment>
+		<segment id="95" parent="97" relname="joint">Этого сейчас нет,</segment>
+		<segment id="96" parent="97" relname="joint">и это суть моего предложения\".\n\</segment>
+		<segment id="98" parent="104" relname="span">nВ соответствии с законопроектом,</segment>
+		<segment id="99" parent="103" relname="joint">проработка которого сегодня идет на уровне уточнения концепции,</segment>
+		<segment id="100" parent="102" relname="joint">при поступлении на работу этот чиновник тоже обязан предоставить сведения о своих счетах</segment>
+		<segment id="101" parent="102" relname="joint">и предупредить кредитную организацию о своем новом статусе.</segment>
+		<segment id="105" parent="109" relname="same-unit">Это требование,</segment>
+		<segment id="106" parent="107" relname="attribution">поясняет Аксаков,</segment>
+		<segment id="107" parent="108" relname="span">необходимо для того, чтобы отследить движение средств по счетам чиновников, депутатов, министров и банкиров.</segment>
+		<segment id="110" parent="114" relname="span">В списке чиновников \"высшей пробы\", напомним, фигурируют также и председатели главных судов страны - Конституционного, Высшего арбитражного и Верховного судов.\n\nАналогичное требование уже узаконено в США, в Великобритании и во Франции.</segment>
+		<segment id="111" parent="113" relname="contrast">\"У нас этого пока нет,</segment>
+		<segment id="112" parent="113" relname="contrast">но мы к этому движемся\",</segment>
+		<segment id="115" parent="114" relname="attribution">- обнадежил НГ Аксаков.</segment>
+		<segment id="121" parent="130" relname="attribution">По словам депутата,</segment>
+		<segment id="122" parent="130" relname="span">его уже фактически поддержал заместитель председателя Центрального банка Виктор Мельников:</segment>
+		<segment id="123" parent="128" relname="attribution">\"Он сказал:</segment>
+		<segment id="124" parent="128" relname="span">есть вопрос,</segment>
+		<segment id="125" parent="127" relname="joint">поскольку есть требование FATF,</segment>
+		<segment id="126" parent="127" relname="joint">а мы - члены FATF\".</segment>
+		<segment id="132" parent="140" relname="span">Препятствий на пути продвижения документа он не видит,</segment>
+		<segment id="133" parent="139" relname="joint">\"поскольку президент в своем Послании озвучил проблему борьбы с коррупцией как одну из первостепенных\".\n\nМежду тем не все коллеги Аксакова одобрительно отнеслись к его законотворческим попыткам в этой области.</segment>
+		<segment id="134" parent="137" relname="attribution">Председатель думского комитета по экономической политике Валерий Драганов отметил,</segment>
+		<segment id="135" parent="137" relname="joint">что и нынешнего законодательства вполне хватает для того, чтобы служба финансового контроля \"отслеживала счета чиновников</segment>
+		<segment id="136" parent="137" relname="joint">и в случае необходимости возбуждала уголовные дела\".</segment>
+		<segment id="141" parent="149" relname="span">Глава комитета обратил внимание еще на один аспект - сохранение конфиденциальности тех сведений, которые не предназначены для обнародования.</segment>
+		<segment id="142" parent="143" relname="attribution">По его мнению,</segment>
+		<segment id="143" parent="144" relname="span">проблема сохранения тайны должна быть решена обязательно,</segment>
+		<segment id="145" parent="146" relname="cause-effect">потому что \"наши люди до сих пор воспринимают учет как попытку государства их контролировать</segment>
+		<segment id="146" parent="147" relname="span">и поэтому-то стараются от государства спрятаться\".\n\nИсточник: https://www.newsru.com/finance/24May2006/otmyv.html\n</segment>
+		<group id="120" type="multinuc" parent="152" relname="joint"/>
+		<group id="94" type="multinuc" parent="120" relname="joint"/>
+		<group id="74" type="multinuc" parent="94" relname="joint"/>
+		<group id="60" type="multinuc" parent="74" relname="joint"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="58" type="span" parent="53" relname="elaboration"/>
+		<group id="57" type="multinuc" parent="58" relname="span"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="67" type="multinuc" parent="73" relname="span"/>
+		<group id="63" type="span" parent="67" relname="joint"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="72" type="span" parent="67" relname="elaboration"/>
+		<group id="71" type="span" parent="68" relname="cause-effect"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="77" type="multinuc" parent="93" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="84" type="span" parent="92" relname="joint"/>
+		<group id="82" type="span" parent="84" relname="span"/>
+		<group id="81" type="span" parent="78" relname="purpose"/>
+		<group id="91" type="span" parent="92" relname="joint"/>
+		<group id="90" type="multinuc" parent="91" relname="span"/>
+		<group id="89" type="span" parent="90" relname="joint"/>
+		<group id="119" type="span" parent="120" relname="joint"/>
+		<group id="97" type="multinuc" parent="119" relname="span"/>
+		<group id="118" type="span" parent="97" relname="elaboration"/>
+		<group id="104" type="span" parent="118" relname="span"/>
+		<group id="103" type="multinuc" parent="98" relname="elaboration"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="117" type="multinuc" parent="104" relname="elaboration"/>
+		<group id="109" type="multinuc" parent="117" relname="joint"/>
+		<group id="108" type="span" parent="109" relname="same-unit"/>
+		<group id="116" type="span" parent="117" relname="joint"/>
+		<group id="114" type="span" parent="116" relname="span"/>
+		<group id="113" type="multinuc" parent="110" relname="elaboration"/>
+		<group id="151" type="span" parent="152" relname="joint"/>
+		<group id="131" type="span" parent="150" relname="preparation"/>
+		<group id="130" type="span" parent="131" relname="span"/>
+		<group id="129" type="span" parent="122" relname="elaboration"/>
+		<group id="128" type="span" parent="129" relname="span"/>
+		<group id="127" type="multinuc" parent="124" relname="cause-effect"/>
+		<group id="150" type="multinuc" parent="151" relname="span"/>
+		<group id="140" type="span" parent="150" relname="joint"/>
+		<group id="139" type="multinuc" parent="132" relname="elaboration"/>
+		<group id="138" type="span" parent="139" relname="joint"/>
+		<group id="137" type="multinuc" parent="138" relname="span"/>
+		<group id="149" type="span" parent="150" relname="joint"/>
+		<group id="148" type="span" parent="141" relname="elaboration"/>
+		<group id="144" type="span" parent="148" relname="span"/>
+		<group id="147" type="span" parent="144" relname="cause-effect"/>
+		<group id="152" type="multinuc"/>
+	</body>
+</rst>

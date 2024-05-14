@@ -1,0 +1,59 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="67" relname="preparation">Российские баскетболистки стали чемпионками Европы\n\nЖенская сборная России по баскетболу выиграла чемпионат Европы.</segment>
+		<segment id="25" parent="27" relname="sequence">В финале турнира россиянки буквально разгромили команду Турции со счетом 59:42</segment>
+		<segment id="26" parent="27" relname="sequence">и забрали путевку на Олимпиаду 2012 года в Лондон.</segment>
+		<segment id="28" parent="30" relname="span">И это при том, что многие поставили крест на российской команде еще на первом групповом этапе,</segment>
+		<segment id="29" parent="28" relname="elaboration">отмечает \"Советский спорт\".\n\nРоссиянки начали игру очень уверенно.</segment>
+		<segment id="32" parent="36" relname="contrast">К началу второй четверти счет составлял 24:8.</segment>
+		<segment id="33" parent="35" relname="sequence">Но затем команда успокоилась,</segment>
+		<segment id="34" parent="35" relname="sequence">и турчанки перешли в наступление.</segment>
+		<segment id="37" parent="39" relname="span">Вскоре от преимущества сборной РФ осталось очень мало</segment>
+		<segment id="38" parent="37" relname="elaboration">- 28:23.\n\</segment>
+		<segment id="40" parent="42" relname="joint">nИменно в этот момент</segment>
+		<segment id="41" parent="42" relname="joint">и случился решающий эпизод.</segment>
+		<segment id="43" parent="45" relname="joint">Ольга Артешина выстрелила из-за дуги,</segment>
+		<segment id="44" parent="45" relname="joint">а Мария Степанова в следующей атаке поддержала ее точным броском из трехсекундной зоны.</segment>
+		<segment id="46" parent="48" relname="contrast">На большой перерыв россиянки ушли с отрывом в 10 очков,</segment>
+		<segment id="47" parent="48" relname="contrast">а в начале третьей четверти счет и вовсе составил 42:25.\n\nЗа пять минут до финальной сирены Степанова сделала разницу в счете по-настоящему разгромной - \"плюс 21\" (55:34).</segment>
+		<segment id="49" parent="51" relname="span">Именно Степанова в итоге и стала самым результативным игроком матча,</segment>
+		<segment id="50" parent="49" relname="elaboration">набрав 18 очков.</segment>
+		<segment id="52" parent="60" relname="span">Также в активе российской центровой 12 подборов, 4 блокшота и 2 передачи.\n\nЗолото чемпионатов Европы стало для отечественных баскетболисток 24-м в истории.</segment>
+		<segment id="53" parent="59" relname="span">Последний раз россиянки завоевывали его четыре года назад.</segment>
+		<segment id="54" parent="58" relname="span">Бронзовые медали в этот раз достались француженкам,</segment>
+		<segment id="55" parent="57" relname="span">которые обыграли сборную Чехии со счетом 63:56.\n\nФинал чемпионата Европы-2011.</segment>
+		<segment id="56" parent="55" relname="elaboration">Россия - Турция.\n\nОбщий счет: 59:42 (19:8, 14:15, 13:11, 13:8)\n\nРоссия: Степанова (18 очков+12 подборов), Данилочкина (12), Кузина (6), Осипова (6+9 подборов), Артешина (5+8 подборов), Сапова (4), Корстин (3+7 подборов), Видмер (3), Попова (2), Абросимова, Белякова, Мясоедова\n\nТурция: Вардарли (10), Албен (8), С.Ивегин (7), Йилмаз (6+5 подборов), Невлин (5), Чаглар (3), Эрдоган (2), Аккайя (1), Хорасан, Палазоглу, Н.Ивегин\n\nИсточник: https://www.newsru.com/sport/04Jul2011/champions.html\n</segment>
+		<group id="67" type="multinuc" parent="68" relname="span"/>
+		<group id="31" type="multinuc" parent="67" relname="joint"/>
+		<group id="27" type="multinuc" parent="31" relname="joint"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="36" type="multinuc" parent="65" relname="preparation"/>
+		<group id="35" type="multinuc" parent="36" relname="contrast"/>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="39" type="span" parent="65" relname="span"/>
+		<group id="64" type="span" parent="39" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="63" relname="preparation"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="45" type="multinuc" parent="62" relname="preparation"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="48" type="multinuc" parent="62" relname="joint"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="51" type="span" parent="61" relname="joint"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="59" type="span" parent="52" relname="elaboration"/>
+		<group id="58" type="span" parent="53" relname="elaboration"/>
+		<group id="57" type="span" parent="54" relname="elaboration"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

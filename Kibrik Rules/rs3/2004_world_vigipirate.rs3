@@ -1,0 +1,107 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="concession" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="44" parent="45" relname="cause-effect">Из-за угроз террористов</segment>
+		<segment id="45" parent="46" relname="span">на железных дорогах Франции</segment>
+		<segment id="47" parent="49" relname="span">введены повышенные меры безопасности\n\nФранцузское Национальное общество железных дорог (НОЖД) объявило</segment>
+		<segment id="48" parent="47" relname="cause-effect">о проведении ряда профилактических мер после получения в среду угроз о подготовке серии взрывов на железнодорожных магистралях.</segment>
+		<segment id="51" parent="55" relname="span">Это связано с угрозами неизвестной ранее группировки AZF произвести серию взрывов,</segment>
+		<segment id="52" parent="53" relname="attribution">если она не получит 4 млн долларов и 1 млн евро.\n\nГенеральный директор НОЖД Луи Галлуа сообщил,</segment>
+		<segment id="53" parent="54" relname="span">что 10 тысяч сотрудников приступили к проверке 32 тысяч километров железнодорожных путей Франции.</segment>
+		<segment id="56" parent="58" relname="joint">Они обходят их пешком,</segment>
+		<segment id="57" parent="58" relname="joint">и эта работа завершится в течение четверга,</segment>
+		<segment id="59" parent="60" relname="span">сообщает \"Интерфакс\".\n\nКроме того, на железных дорогах Франции общенациональный план Vigipirate, призванный противодействовать террористам, будет осуществляться в более строгой, \"оранжевой\" версии, а не \"желтой\", как до сих пор.</segment>
+		<segment id="63" parent="65" relname="span">Всего этот план имеет во Франции 4 версии, обозначенных разными цветами: желтая, оранжевая, красная и алая.\n\nКроме того, отныне усиливается охрана в ключевых точках железнодорожной сети,</segment>
+		<segment id="64" parent="63" relname="elaboration">от персонала требуется повышенная бдительность на рабочих местах.</segment>
+		<segment id="66" parent="72" relname="span">Это касается прежде всего машинистов и контролеров.</segment>
+		<segment id="67" parent="71" relname="span">Особое внимание должно уделяться пассажирским составам и поездам, перевозящим опасные грузы</segment>
+		<segment id="68" parent="69" relname="attribution">.\n\nГаллуа заверил,</segment>
+		<segment id="69" parent="70" relname="span">что нет опасности для поездок на французских поездах.</segment>
+		<segment id="74" parent="77" relname="condition">\"Если бы я не считал,</segment>
+		<segment id="75" parent="76" relname="cause-effect">что безопасность обеспечена,</segment>
+		<segment id="76" parent="77" relname="span">то мы не пускали бы составы в путь,</segment>
+		<segment id="79" parent="78" relname="attribution">- сказал он.</segment>
+		<segment id="81" parent="83" relname="joint">- Но вся эта история серьезная,</segment>
+		<segment id="82" parent="83" relname="joint">и мы к ней подходим серьезно\".\n\</segment>
+		<segment id="84" parent="85" relname="attribution">nНапомним, что террористы из группировки АZF утверждают,</segment>
+		<segment id="85" parent="86" relname="span">что заложили на французских железных дорогах 10 бомб с часовым механизмом,</segment>
+		<segment id="87" parent="86" relname="attribution">сообщает AFP со ссылкой на представителей французских спецслужб.</segment>
+		<segment id="90" parent="97" relname="attribution">В своем последнем письме, отправленном президенту Франции Жаку Шираку и министру внутренних дел Франции Николя Саркози,</segment>
+		<segment id="91" parent="96" relname="attribution">террористы сообщают,</segment>
+		<segment id="92" parent="96" relname="span">что в случае,</segment>
+		<segment id="93" parent="94" relname="condition">если им не будет выплачен выкуп,</segment>
+		<segment id="94" parent="95" relname="span">бомбы будут взорваны.\n\nВзрывные устройства \"были заложены по всей сети железных дорог\",</segment>
+		<segment id="99" parent="98" relname="attribution">говорится в письме.</segment>
+		<segment id="101" parent="106" relname="attribution">При этом террористы уточняют,</segment>
+		<segment id="102" parent="104" relname="span">что бомбы запрограммированы на взрывы в разное время,</segment>
+		<segment id="103" parent="102" relname="elaboration">которое будет сообщено только в случае выплаты денег.</segment>
+		<segment id="105" parent="104" relname="interpretation-evaluation">Власти расценили данные угрозы как \"серьезные\".</segment>
+		<segment id="108" parent="112" relname="joint">Намерение преступной группировки провести серию терактов на железных дорогах Франции является \"террористическим шантажом\",</segment>
+		<segment id="109" parent="111" relname="span">заявило министерство внутренних дел страны.\n\nГруппа террористов АZF,</segment>
+		<segment id="110" parent="109" relname="elaboration">именующая себя \"группой давления террористического характера\",</segment>
+		<segment id="113" parent="115" relname="span">направила в Елисейский дворец и МВД</segment>
+		<segment id="114" parent="113" relname="elaboration">три послания с угрозами взрывов в адрес властей и требованиями выкупа в размере 4 млн долларов и 1 млн евро,</segment>
+		<segment id="117" parent="116" relname="attribution">сообщает телекомпания TF1.</segment>
+		<segment id="119" parent="121" relname="contrast">Первое письмо было датировано еще 10 декабря 2003 года,</segment>
+		<segment id="120" parent="121" relname="contrast">но вся информация об этом шантаже тщательно скрывалась вплоть до среды 3 марта.\n\nИсточник: https://www.newsru.com/world/04Mar2004/vigipirate.html\n</segment>
+		<group id="62" type="span" parent="128" relname="joint"/>
+		<group id="50" type="span" parent="61" relname="preparation"/>
+		<group id="46" type="span" parent="50" relname="span"/>
+		<group id="49" type="span" parent="46" relname="cause-effect"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="55" type="span" parent="61" relname="joint"/>
+		<group id="54" type="span" parent="51" relname="elaboration"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="58" type="multinuc" parent="59" relname="concession"/>
+		<group id="127" type="multinuc" parent="128" relname="joint"/>
+		<group id="73" type="span" parent="127" relname="joint"/>
+		<group id="65" type="span" parent="73" relname="span"/>
+		<group id="72" type="span" parent="65" relname="elaboration"/>
+		<group id="71" type="span" parent="66" relname="elaboration"/>
+		<group id="70" type="span" parent="67" relname="cause-effect"/>
+		<group id="126" type="multinuc" parent="127" relname="joint"/>
+		<group id="80" type="span" parent="126" relname="joint"/>
+		<group id="78" type="span" parent="80" relname="span"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="125" type="span" parent="126" relname="joint"/>
+		<group id="89" type="span" parent="124" relname="preparation"/>
+		<group id="83" type="multinuc" parent="89" relname="span"/>
+		<group id="88" type="span" parent="83" relname="elaboration"/>
+		<group id="86" type="span" parent="88" relname="span"/>
+		<group id="124" type="multinuc" parent="125" relname="span"/>
+		<group id="100" type="span" parent="124" relname="joint"/>
+		<group id="98" type="span" parent="100" relname="span"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="96" type="span" parent="97" relname="span"/>
+		<group id="95" type="span" parent="92" relname="condition"/>
+		<group id="123" type="span" parent="124" relname="joint"/>
+		<group id="107" type="span" parent="123" relname="span"/>
+		<group id="106" type="span" parent="107" relname="span"/>
+		<group id="104" type="span" parent="106" relname="span"/>
+		<group id="122" type="span" parent="107" relname="elaboration"/>
+		<group id="118" type="span" parent="122" relname="span"/>
+		<group id="116" type="multinuc" parent="118" relname="span"/>
+		<group id="112" type="multinuc" parent="116" relname="joint"/>
+		<group id="111" type="span" parent="112" relname="joint"/>
+		<group id="115" type="span" parent="116" relname="joint"/>
+		<group id="121" type="multinuc" parent="118" relname="background"/>
+		<group id="128" type="multinuc"/>
+	</body>
+</rst>

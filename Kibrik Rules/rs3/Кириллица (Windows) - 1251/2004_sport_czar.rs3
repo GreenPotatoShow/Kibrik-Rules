@@ -1,0 +1,25 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="8" parent="10" relname="span">Мостовой сыграет в хоккей со спортивными чиновниками\n\nБывший игрок национальной сборной России по футболу Александр Мостовой примет участие в хоккейном матче российских журналистов с функционерами Федерации хоккея России и Профессиональной хоккейной лиги.\n\nМатч состоится 11 декабря перед встречей \"Звезды мирового хоккея\" - \"Звезды России\",</segment>
+		<segment id="9" parent="8" relname="elaboration">проведение которой намечено на этот день на Малой спортивной арене \"Лужников\".\n\nОдин из самых известных российских футболистов, которого в Европе величают \"Царем\",</segment>
+		<segment id="11" parent="13" relname="joint">усиленно готовится к предстоящему поединку</segment>
+		<segment id="12" parent="13" relname="joint">и планирует выйти на лед под своим традиционным \"футбольным\" номером 10.\n\</segment>
+		<segment id="15" parent="19" relname="joint">nИграющий тренер сборной прессы Олимпийский чемпион Виталий Прохоров высоко отозвался о потенциале и техническом мастерстве Мостового-хоккеиста</segment>
+		<segment id="16" parent="18" relname="joint">.\n\nКак сообщает РИА \"Новости\" со ссылкой на оргкомитет матча,</segment>
+		<segment id="17" parent="18" relname="joint">продажа билетов на праздник большого хоккея началась 1 декабря в кассах спорткомплекса \"Лужники\" и московских городских театральных кассах.\n\nИсточник: https://www.newsru.com/sport/01Dec2004/czar.html\n</segment>
+		<group id="14" type="multinuc" parent="20" relname="joint"/>
+		<group id="10" type="span" parent="14" relname="sequence"/>
+		<group id="13" type="multinuc" parent="14" relname="sequence"/>
+		<group id="19" type="multinuc" parent="20" relname="joint"/>
+		<group id="18" type="multinuc" parent="19" relname="joint"/>
+		<group id="20" type="multinuc"/>
+	</body>
+</rst>

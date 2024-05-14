@@ -1,0 +1,78 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="30" parent="34" relname="span">Антон Носик: \"Итальянский референдум: чего не стоит ждать\"\n\n\"11 месяцев назад премьер-министр Италии Маттео Ренци произнес слова,</segment>
+		<segment id="31" parent="33" relname="contrast">о которых минувшей ночью, вероятно, пожалел в сто первый,</segment>
+		<segment id="32" parent="33" relname="contrast">но не в последний раз:</segment>
+		<segment id="35" parent="38" relname="condition">\"Если проиграю [конституционный] референдум</segment>
+		<segment id="36" parent="38" relname="contrast">- я не просто отправляюсь домой,</segment>
+		<segment id="37" parent="38" relname="contrast">а вообще перестаю заниматься политикой\",</segment>
+		<segment id="40" parent="39" relname="attribution">- пишет блогер Антон Носик в \"Живом журнале\",</segment>
+		<segment id="42" parent="43" relname="attribution">комментируя итоги референдума,</segment>
+		<segment id="43" parent="44" relname="span">прошедшего в Италии накануне.\n\n\"Этим январским обещанием он подписал приговор не только своему правительству - одному из самых долгоживущих в новейшей политической истории Италии</segment>
+		<segment id="45" parent="46" relname="contrast">- но и той самой конституционной реформе, которой пытался таким экстравагантным способом помочь.\n\nДо 12 января 2016 года референдум касался исключительно изменений в политической системе Италии.</segment>
+		<segment id="47" parent="51" relname="span">Перемен, которые назрели уже очень давно,</segment>
+		<segment id="48" parent="50" relname="joint">о необходимости которых много лет твердят</segment>
+		<segment id="49" parent="50" relname="joint">и левые, и правые итальянские политики\".\n\n\"Но как только глава правительства пригрозил отставкой,</segment>
+		<segment id="52" parent="53" relname="span">центральная тема референдума тотчас же изменилась.</segment>
+		<segment id="54" parent="56" relname="joint">Первыми это осознали те самые политики, которые еще накануне очень убедительно рассказывали избирателям о своей приверженности долгожданной конституционной реформе,</segment>
+		<segment id="55" parent="56" relname="joint">и с обещаниями ее поддержки шли на выборы.</segment>
+		<segment id="61" parent="84" relname="preparation">После исторического заявления премьера они тотчас же призвали своих сторонников голосовать против перемен\".\n\n\"А повод для переосмысления сути предстоящего референдума подкинул своим врагам сам премьер-министр.</segment>
+		<segment id="62" parent="63" relname="attribution">Он первым предложил</segment>
+		<segment id="63" parent="64" relname="span">рассматривать голосование по конституционной реформе как вотум доверия лично ему, его партии и кабинету.</segment>
+		<segment id="65" parent="69" relname="span">То есть призвал избирателей 4 декабря высказаться не о Конституции, а о наболевшем:</segment>
+		<segment id="66" parent="68" relname="joint">о том, например, нравятся ли им нелегальная иммиграция, экономический кризис, рост цен, ставки налогов</segment>
+		<segment id="67" parent="68" relname="joint">и то, как они расходуются...</segment>
+		<segment id="70" parent="71" relname="cause-effect">За что боролся</segment>
+		<segment id="71" parent="72" relname="span">- на то и напоролся\".\n\n\"Сегодня утром, с началом рабочего дня, правительство Италии в полном составе подаст в отставку.</segment>
+		<segment id="73" parent="77" relname="span">Что случится дальше</segment>
+		<segment id="74" parent="76" relname="joint">- не знает примерно никто.\nВариантов, в сущности, масса,</segment>
+		<segment id="75" parent="76" relname="joint">и все они довольно плохо просчитываемы на перспективу хотя бы в полгода\".\n\n\"Стоит сказать и о том, чего по результатам прошедшего референдума совершенно точно не стоит ожидать ни сегодня, ни в 2017 году:\n\n- решения о выходе Италии из Евросоюза\n\n- решения об отказе Италии от единой европейской валюты\n\n- решения о выходе из состава Италии отдельных ее частей,</segment>
+		<segment id="78" parent="80" relname="span">будь то Ломбардия, Венето, Тоскана, Лигурия или любая другая область\n\n- прихода к власти Маттео Сальвини</segment>
+		<segment id="79" parent="78" relname="elaboration">(это такой миланский аналог австрийца Хофера) и его \"Северной Лиги\"\n\n- самостоятельного выхода Италии из режима евросоюзных санкций\n\n- официального признания Крыма российским со стороны уполномоченных на такие заявления должностных лиц и структур Итальянской Республики.\n\nИ это - не прогноз, а констатация фактов, очевидных любому, кто следит за происходящим в Италии не по советским газетам\".\n\nИсточник: https://www.newsru.com/blog/05Dec2016/referendum.html\n</segment>
+		<group id="60" type="span" parent="86" relname="joint"/>
+		<group id="34" type="span" parent="59" relname="preparation"/>
+		<group id="33" type="multinuc" parent="30" relname="elaboration"/>
+		<group id="59" type="span" parent="60" relname="span"/>
+		<group id="41" type="span" parent="58" relname="solutionhood"/>
+		<group id="39" type="span" parent="41" relname="span"/>
+		<group id="38" type="multinuc" parent="39" relname="span"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="46" type="multinuc" parent="58" relname="joint"/>
+		<group id="44" type="span" parent="46" relname="contrast"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="53" type="span" parent="57" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="cause-effect"/>
+		<group id="50" type="multinuc" parent="47" relname="elaboration"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="85" type="span" parent="86" relname="joint"/>
+		<group id="84" type="multinuc" parent="85" relname="span"/>
+		<group id="64" type="span" parent="84" relname="restatement"/>
+		<group id="83" type="span" parent="84" relname="restatement"/>
+		<group id="69" type="span" parent="83" relname="span"/>
+		<group id="68" type="multinuc" parent="65" relname="elaboration"/>
+		<group id="82" type="span" parent="69" relname="elaboration"/>
+		<group id="72" type="span" parent="81" relname="preparation"/>
+		<group id="81" type="multinuc" parent="82" relname="span"/>
+		<group id="77" type="span" parent="81" relname="comparison"/>
+		<group id="76" type="multinuc" parent="73" relname="cause-effect"/>
+		<group id="80" type="span" parent="81" relname="comparison"/>
+		<group id="86" type="multinuc"/>
+	</body>
+</rst>

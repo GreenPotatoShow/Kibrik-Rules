@@ -1,0 +1,47 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="49" relname="preparation">The Cure и Franz Ferdinand запишут саундтрек для \"Алисы\" Тима Бертона\n\</segment>
+		<segment id="19" parent="49" relname="span">nРежиссер Тим Бертон активно привлекает рок-музыкантов к записи саундтрека для своей версии знаменитой сказки \"Алиса в Стране чудес\".</segment>
+		<segment id="20" parent="21" relname="attribution">Как передает NME,</segment>
+		<segment id="21" parent="22" relname="span">cвою лепту в музыкальное оформление фильма внесут The Cure и Franz Ferdinand.\n\nШотландские рокеры Franz Ferdinand положат на музыку \"The Lobster Quadrille\" (\"Раковую кадриль\") Льюиса Кэрролла,</segment>
+		<segment id="23" parent="24" relname="joint">в то время как Роберт Смит из \"готических\" The Cure напишет кавер-версию песни \"Very Good Advice\" из диснеевского мультфильма \"Алиса\" 1951 года.</segment>
+		<segment id="25" parent="26" relname="joint">Кроме них в записи саундтрека уже приняли участие Марк Хоппус из Blink 182, басист Fall Out Boy Пит Вентц и Аврил Лавинь.\n\nНапомним, что бертоновская адаптация \"Алисы\", в которой снялись Миа Васиковска, Джонни Депп, Хелена Бонем Картер и Энн Хэтэуэй, выйдет на широкий экран уже 5 марта.</segment>
+		<segment id="27" parent="47" relname="span">А вот релиз саундтрека под названием \"Almost Alice\" состоится буквально за несколько дней до кинопремьеры – 2 марта.\n\nТреклист сборника \"\"Almost Alice\"\n\n1.</segment>
+		<segment id="28" parent="30" relname="span">\"Alice (Underground)\" - Аврил Лавинь\n2.\"The Poison\" - The All-American Rejects\n3.\"The Technicolor Phase\" - Owl City\n4.\"Her Name Is Alice\" - Shinedown\n5.\"Painting Flowers\" - All Time Low\n6.\"Where's My Angel\" - Metro Station\n7.\"Strange\" - Tokio Hotel и Kerli\n8.</segment>
+		<segment id="29" parent="28" relname="elaboration">\"Follow Me Down\" - 3OH!3 при участии Neon Hitch\n9.</segment>
+		<segment id="31" parent="33" relname="joint">\"Very Good Advice\" - Роберт Смит\n10.</segment>
+		<segment id="32" parent="33" relname="joint">\"In Transit\" - Марк Хоппус и Пит Вентц\n11.</segment>
+		<segment id="34" parent="36" relname="restatement">\"Welcome to Mystery\"- Plain White T's\n12.</segment>
+		<segment id="35" parent="36" relname="restatement">\"Tea Party\" - Kerli\n13.</segment>
+		<segment id="37" parent="43" relname="joint">\"The Lobster Quadrille\" - Franz Ferdinand\n14.</segment>
+		<segment id="38" parent="42" relname="joint">\"Running Out of Time\" - Motion City Soundtrack\n15.</segment>
+		<segment id="39" parent="41" relname="joint">\"Fell Down a Hole\"- Wolfmother\n16.</segment>
+		<segment id="40" parent="41" relname="joint">\"White Rabbit\" - Grace Potter and the Nocturnals\n\nИсточник: https://www.newsru.com/cinema/13Jan2010/ff_alice.html\n</segment>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="48" type="multinuc" parent="19" relname="elaboration"/>
+		<group id="26" type="multinuc" parent="48" relname="joint"/>
+		<group id="24" type="multinuc" parent="26" relname="joint"/>
+		<group id="22" type="span" parent="24" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="46" type="multinuc" parent="27" relname="elaboration"/>
+		<group id="30" type="span" parent="46" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="33" type="multinuc" parent="45" relname="joint"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="36" type="multinuc" parent="44" relname="joint"/>
+		<group id="43" type="multinuc" parent="44" relname="joint"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

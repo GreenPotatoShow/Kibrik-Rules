@@ -1,0 +1,47 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="46" relname="preparation">Очередь на Керченской переправе за сутки выросла в 2,5 раза\n\nНа Керченской переправе почти в два с половиной раза выросла очередь из легковых автомобилей.</segment>
+		<segment id="18" parent="20" relname="joint">За сутки число машин, ожидающих погрузки на пассажирской линии, увеличилось со 180 до 465 единиц транспорта,</segment>
+		<segment id="19" parent="20" relname="joint">сообщает ТАСС со ссылкой на Единую транспортную дирекцию.\n\nНа грузовой линии количество автотранспорта, напротив, уменьшилось до 995 машин.</segment>
+		<segment id="21" parent="25" relname="comparison">В Новороссийске своей очереди на погрузку ожидают 309 грузовиков,</segment>
+		<segment id="22" parent="24" relname="comparison">в Славянске-на-Кубани - 390 автомобилей,</segment>
+		<segment id="23" parent="24" relname="comparison">в Керченском морском торговом порту - 296 большегрузов.\n\</segment>
+		<segment id="26" parent="29" relname="attribution">nПо данным ЕТД,</segment>
+		<segment id="27" parent="29" relname="comparison">в порту \"Кавказ\" своей очереди на паром ожидают 417 автомобилей,</segment>
+		<segment id="28" parent="29" relname="comparison">в порту \"Крым\" - 50 машин.</segment>
+		<segment id="33" parent="39" relname="joint">\"За прошлые сутки было перевезено 1284 автомобилей и 4105 пассажиров.</segment>
+		<segment id="34" parent="36" relname="span">На пассажирской линии курсируют два парома,</segment>
+		<segment id="35" parent="34" relname="elaboration">погода штатная\",</segment>
+		<segment id="37" parent="38" relname="joint">- отметили в дирекции.\n\nКерченская переправа - главная транспортная артерия, связывающая Россию с Крымом в обход территории Украины.</segment>
+		<segment id="40" parent="44" relname="comparison">В настоящее время переправа через пролив в одну сторону стоит 162 рубля для пассажиров,</segment>
+		<segment id="41" parent="43" relname="span">стоимость же перевозки легковой машины колеблется от 1190 до 2486 рублей</segment>
+		<segment id="42" parent="41" relname="condition">в зависимости от размеров автомобиля.\n\nИсточник: https://www.newsru.com/russia/29Nov2014/kerch.html\n</segment>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="32" type="multinuc" parent="46" relname="joint"/>
+		<group id="20" type="multinuc" parent="32" relname="comparison"/>
+		<group id="31" type="multinuc" parent="32" relname="comparison"/>
+		<group id="25" type="multinuc" parent="31" relname="comparison"/>
+		<group id="24" type="multinuc" parent="25" relname="comparison"/>
+		<group id="30" type="span" parent="31" relname="comparison"/>
+		<group id="29" type="multinuc" parent="30" relname="span"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="39" type="multinuc" parent="45" relname="sequence"/>
+		<group id="38" type="multinuc" parent="39" relname="joint"/>
+		<group id="36" type="span" parent="38" relname="joint"/>
+		<group id="44" type="multinuc" parent="45" relname="sequence"/>
+		<group id="43" type="span" parent="44" relname="comparison"/>
+		<group id="47" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,63 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="28" relname="joint">В 2002 году при исполнении профессиональных обязанностей погибли 19 журналистов\n\nВ прошлом, 2002 году при исполнении профессиональных обязанностей</segment>
+		<segment id="27" parent="28" relname="joint">в мире погибли 19 журналистов.</segment>
+		<segment id="29" parent="28" relname="attribution">Об этом сообщил в четверг базирующийся в Нью-Йорке Комитет защиты журналистов (КЗЖ) в ежегодном докладе.</segment>
+		<segment id="31" parent="34" relname="attribution">Как говорится в заявлении КЗЖ,</segment>
+		<segment id="32" parent="34" relname="span">этот показатель свидетельствует о резком снижении числа случаев гибели сотрудников СМИ на работе по сравнению с прошлым годом,</segment>
+		<segment id="33" parent="32" relname="elaboration">когда погибли 37 журналистов.\n\</segment>
+		<segment id="36" parent="37" relname="attribution">nПо мнению специалистов Комитета,</segment>
+		<segment id="37" parent="38" relname="span">уменьшению этой скорбной цифры способствовало несколько факторов.</segment>
+		<segment id="39" parent="41" relname="span">Прежде всего, свою роль сыграло то, что сейчас на планете ведется сравнительно небольшое число вооруженных конфликтов,</segment>
+		<segment id="40" parent="39" relname="condition">при освещении которых журналисты подвергают себя опасности.</segment>
+		<segment id="44" parent="41" relname="evidence">В 1994 году, например, когда шли гражданские войны в Алжире, Боснии и Руанде, погибли 66 работников СМИ.</segment>
+		<segment id="48" parent="56" relname="span">Кроме того, репортеры, отправляющиеся в зону боевых действий, сейчас лучше подготовлены к условиям войны, чем раньше.</segment>
+		<segment id="49" parent="53" relname="same-unit">В частности, весной прошлого года как минимум двое журналистов, освещавших палестино-израильский конфликт на Западном берегу реки Иордан,</segment>
+		<segment id="50" parent="52" relname="joint">остались в живых благодаря курткам с надписью \"Пресса\",</segment>
+		<segment id="51" parent="52" relname="joint">жизнь еще двоих репортеров в Венесуэле спасли пуленепробиваемые жилеты.\n\n\"Тем не менее, в 2002 году риск для жизни журналистов оставался значительным\",</segment>
+		<segment id="54" parent="53" relname="attribution">- отмечает КЗЖ.</segment>
+		<segment id="60" parent="64" relname="span">Кроме вооруженных конфликтов,</segment>
+		<segment id="61" parent="63" relname="joint">от пуль часто погибают сотрудники местных СМИ, занимающиеся такими темами, как преступность и коррупция,</segment>
+		<segment id="62" parent="63" relname="joint">передает ИТАР-ТАСС.\n\nСреди стран, в которых в прошлом году журналисты гибли при исполнении профессиональных обязанностей,</segment>
+		<segment id="65" parent="66" relname="joint">названы Бангладеш, Бразилия, Венесуэла, Индия, Колумбия, Непал, контролируемые Палестинской национальной администрацией территории, Пакистан, Уганда и Филиппины.</segment>
+		<segment id="67" parent="71" relname="span">В России в 2002 году были убиты три сотрудника СМИ - журналистка областной газеты \"Наше время\" Наталья Скрыль (Ростов-на-Дону), главный редактор газеты \"Тольяттинское обозрение\" Валерий Иванов и британец Родди Скотт</segment>
+		<segment id="68" parent="70" relname="span">- выполнявший задания различных компаний телеоператор,</segment>
+		<segment id="69" parent="68" relname="elaboration">погибший в Ингушетии.\n\nИсточник: https://www.newsru.com/world/03Jan2003/journalist.html\n</segment>
+		<group id="30" type="span" parent="73" relname="preparation"/>
+		<group id="28" type="multinuc" parent="30" relname="span"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="59" type="multinuc" parent="73" relname="joint"/>
+		<group id="35" type="span" parent="59" relname="joint"/>
+		<group id="34" type="span" parent="35" relname="span"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="38" type="span" parent="58" relname="span"/>
+		<group id="57" type="multinuc" parent="38" relname="elaboration"/>
+		<group id="45" type="span" parent="57" relname="joint"/>
+		<group id="41" type="span" parent="45" relname="span"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="55" type="span" parent="48" relname="elaboration"/>
+		<group id="53" type="multinuc" parent="55" relname="span"/>
+		<group id="52" type="multinuc" parent="53" relname="same-unit"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="66" type="multinuc" parent="72" relname="joint"/>
+		<group id="64" type="span" parent="66" relname="joint"/>
+		<group id="63" type="multinuc" parent="60" relname="elaboration"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="70" type="span" parent="67" relname="purpose"/>
+		<group id="74" type="span"/>
+	</body>
+</rst>

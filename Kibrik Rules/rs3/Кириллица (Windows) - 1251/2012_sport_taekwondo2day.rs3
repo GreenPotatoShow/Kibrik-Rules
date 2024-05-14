@@ -1,0 +1,25 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="8" parent="19" relname="preparation">Олимпийскими чемпионами по тхэквондо стали турок и британка\n\</segment>
+		<segment id="9" parent="11" relname="joint">nВ соревнованиях по тхэквондо в весовой категории до 68 кг у мужчин золотую медаль завоевал турок Сервет Тазегюль.</segment>
+		<segment id="10" parent="11" relname="joint">Его медаль стала первым золотом для сборной Турции на Играх-2012 в Лондоне.\n\n- Дневник Игр-2012.</segment>
+		<segment id="12" parent="16" relname="sequence">Расписание и результаты соревнований\n\nВ финале бронзовый призер Олимпиады-2008 превзошел представителя Ирана Мохаммада Багери Мотамеда,</segment>
+		<segment id="13" parent="15" relname="sequence">выиграв схватку со счетом 6:5,</segment>
+		<segment id="14" parent="15" relname="sequence">передает РИА Новости.\n\nБронзовые награды в этой весовой категории завоевали представитель Афганистана Рохулла Никпах и американец Терренс Дженнингс.\n\nУ женщин в весовой категории до 57 кг олимпийской чемпионкой стала британка Джэйд Джонс.</segment>
+		<segment id="17" parent="18" relname="sequence">В финале она выиграла у китаянки Хоу Юйчжо - 6:4.\n\nОбладательницами бронзовых наград стали француженка Марлен Арнуа и Тсэн Ли-Чэн из Тайваня.\n\nРоссиянки в этой весовой категории не выступали.\n\nИсточник: https://www.newsru.com/sport/10Aug2012/taekwondo2day.html\n</segment>
+		<group id="19" type="multinuc" parent="20" relname="span"/>
+		<group id="11" type="multinuc" parent="19" relname="sequence"/>
+		<group id="18" type="multinuc" parent="19" relname="sequence"/>
+		<group id="16" type="multinuc" parent="18" relname="sequence"/>
+		<group id="15" type="multinuc" parent="16" relname="sequence"/>
+		<group id="20" type="span"/>
+	</body>
+</rst>

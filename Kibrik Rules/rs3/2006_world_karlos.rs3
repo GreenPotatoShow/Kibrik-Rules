@@ -1,0 +1,62 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="27" relname="span">Суд в Страсбурге отклонил апелляцию международного террориста Карлоса \"Шакала\"\n\nЕвропейский суд по правам человека (ЕСПЧ) в Страсбурге отклонил во вторник апелляционную жалобу известного международного террориста Карлоса \"Шакала\",</segment>
+		<segment id="26" parent="25" relname="elaboration">который обвиняет Францию в \"несоответствующем и бесчеловечном обращении\",</segment>
+		<segment id="30" parent="27" relname="cause-effect">поскольку его держат в отдельной камере.\n\nУроженец Венесуэлы Ильич Рамирес Санчес, он же - Карлос по кличке \"Шакал\", приговорен во Франции к пожизненному заключению.</segment>
+		<segment id="32" parent="31" relname="elaboration">Он уже обращался в Страсбургский суд с жалобой на условия содержания в заключении.</segment>
+		<segment id="34" parent="36" relname="contrast">В своем решении от 27 января 2005 года ЕСПЧ не констатировал нарушения статьи о запрещении пыток Европейской конвенции о правах человека,</segment>
+		<segment id="35" parent="36" relname="contrast">но зафиксировал нарушение статьи о праве на эффективные средства правовой защиты.\n\n\"Изоляция опасного террориста не может быть рассмотрена как \"негуманное обращение,</segment>
+		<segment id="37" parent="36" relname="attribution">- констатировал ЕСПЧ.</segment>
+		<segment id="40" parent="42" relname="span">- Суд понимает позицию французских властей,</segment>
+		<segment id="41" parent="40" relname="elaboration">которые сочли необходимым принять чрезвычайные меры безопасности в отношении того, кого считали в 70-е годы прошлого века самым опасным террористом в мире\".</segment>
+		<segment id="43" parent="45" relname="joint">В итоге Большая Палата ЕСПЧ не выявила нарушений в условиях содержания Карлоса</segment>
+		<segment id="44" parent="45" relname="joint">и во вторник подтвердила судебное решение от 27 января прошлого года,</segment>
+		<segment id="46" parent="50" relname="span">сообщает ИТАР-ТАСС.\n\nКарлос \"Шакал\" оставил мрачный след в современной истории,</segment>
+		<segment id="47" parent="49" relname="span">организовав в 70-е годы серию терактов,</segment>
+		<segment id="48" parent="47" relname="elaboration">жертвами которых стали как минимум 80 человек.</segment>
+		<segment id="52" parent="68" relname="span">Он тесно сотрудничал с радикальным арабскими, в том числе палестинскими, группировками.</segment>
+		<segment id="53" parent="55" relname="joint">\"Шакал\" долгое время считался международным террористом N1</segment>
+		<segment id="54" parent="55" relname="joint">и разыскивался правоохранительными органами многих стран.\n\nВ августе 1994 года он был задержан французскими спецслужбами в Судане</segment>
+		<segment id="56" parent="58" relname="span">и приговорен в декабре 1994 года к пожизненному заключению</segment>
+		<segment id="57" parent="56" relname="cause-effect">за убийство трех полицейских,</segment>
+		<segment id="59" parent="58" relname="background">совершенное в Париже 27 июня 1975 года.</segment>
+		<segment id="62" parent="66" relname="span">Карлос отбывает наказание в тюрьме города Клерво на северо-востоке Франции.</segment>
+		<segment id="63" parent="65" relname="span">Во французском судопроизводстве и в судах других стран находятся еще несколько дел, связанных с терактами,</segment>
+		<segment id="64" parent="63" relname="elaboration">организатором либо исполнителем которых считают \"Шакала\".\n\nИсточник: https://www.newsru.com/world/04Jul2006/karlos.html\n</segment>
+		<group id="39" type="multinuc" parent="71" relname="joint"/>
+		<group id="33" type="span" parent="39" relname="joint"/>
+		<group id="31" type="span" parent="33" relname="span"/>
+		<group id="27" type="span" parent="31" relname="span"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="36" type="multinuc" parent="38" relname="span"/>
+		<group id="70" type="span" parent="71" relname="joint"/>
+		<group id="42" type="span" parent="69" relname="preparation"/>
+		<group id="69" type="span" parent="70" relname="span"/>
+		<group id="51" type="multinuc" parent="69" relname="span"/>
+		<group id="45" type="multinuc" parent="51" relname="sequence"/>
+		<group id="50" type="span" parent="51" relname="sequence"/>
+		<group id="49" type="span" parent="46" relname="elaboration"/>
+		<group id="68" type="span" parent="51" relname="elaboration"/>
+		<group id="67" type="multinuc" parent="52" relname="elaboration"/>
+		<group id="61" type="multinuc" parent="67" relname="joint"/>
+		<group id="55" type="multinuc" parent="61" relname="joint"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="58" type="span" parent="60" relname="span"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="65" type="span" parent="62" relname="elaboration"/>
+		<group id="71" type="multinuc"/>
+	</body>
+</rst>

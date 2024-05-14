@@ -1,0 +1,165 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="73" parent="75" relname="span">Прокуратура занялась делом о невозврате денег за неиспользованные авиабилеты AiRUnion\n\nТранспортная прокуратура возбудила административное дело в отношении компании \"Транспортная клиринговая палата\",</segment>
+		<segment id="74" parent="73" relname="elaboration">которая является посредником в продаже билетов на рейсы авиакомпаний, входящих в близкий к банкротству альянс AiRUnion,</segment>
+		<segment id="76" parent="78" relname="joint">в связи с ее отказом возвращать деньги пассажирам за неиспользованные авиабилеты</segment>
+		<segment id="77" parent="78" relname="joint">и добилась снятия запрета на возврат денег,</segment>
+		<segment id="80" parent="79" relname="attribution">передает \"Интерфакс\".\n\</segment>
+		<segment id="82" parent="93" relname="attribution">nКак сообщила в среду официальный представитель Генеральной прокуратуры России Марина Гриднева,</segment>
+		<segment id="83" parent="89" relname="span">в ходе проверки по фактам невозврата денег пассажирам авиарейсов в аэропорту \"Домодедово\" установлено, что ЗАО \"Транспортная клиринговая палата\",</segment>
+		<segment id="84" parent="88" relname="joint">которая является посредником между агентствами по продаже билетов и авиакомпаниями,</segment>
+		<segment id="85" parent="87" relname="span">наложила запрет на возврат денег пассажирам</segment>
+		<segment id="86" parent="85" relname="condition">при вынужденном и добровольном отказе от полетов рейсами ряда авиакомпаний.\n\n- \"Ростехнологии\" уже смирились с банкротством AiRUnion</segment>
+		<segment id="90" parent="92" relname="span">и создают новый авиахолдинг</segment>
+		<segment id="91" parent="90" relname="elaboration">- Авиаальянс AiRUnion получит топливо из госрезерва\n\n\"Этот запрет является грубым нарушением прав пассажиров на полное возмещение убытков, причиненных в связи с нарушением сроков оказания услуг\",</segment>
+		<segment id="95" parent="94" relname="attribution">- отметила Гриднева.\n\</segment>
+		<segment id="97" parent="100" relname="attribution">nПо ее словам,</segment>
+		<segment id="98" parent="100" relname="span">дело возбуждено по ч.2 ст.14.8 КоАП РФ</segment>
+		<segment id="99" parent="98" relname="elaboration">(включение в договор перевозки условий, ущемляющих установленные законом права потребителей).</segment>
+		<segment id="102" parent="108" relname="span">Кроме того, прокуратура потребовала от компании незамедлительно устранить это нарушение.\n\</segment>
+		<segment id="103" parent="105" relname="joint">nВ результате решение о запрете возврата денежных средств пассажирам</segment>
+		<segment id="104" parent="105" relname="joint">при вынужденном и добровольном отказе от полетов рейсами авиакомпаний</segment>
+		<segment id="106" parent="107" relname="same-unit">было отменено</segment>
+		<segment id="109" parent="114" relname="attribution">.\n\nПредставитель Генпрокуратуры сообщила,</segment>
+		<segment id="110" parent="114" relname="span">что речь идет о билетах на рейсы самолетов авиакомпаний \"Самара\", \"Домодедовские авиалинии\", \"Омскавиа\", \"Красноярские авиалинии\" и \"Сибавитранс\".\n\nПассажиры смогут получить компенсацию не только от AiRUnion, но и от турфирм\n\nПассажиры, пострадавшие</segment>
+		<segment id="111" parent="112" relname="cause-effect">из-за задержек рейсов авиакомпаний альянса AIRUnion,</segment>
+		<segment id="112" parent="113" relname="span">могут рассчитывать на материальную компенсацию,</segment>
+		<segment id="116" parent="115" relname="attribution">сообщила в среду Юлия Багрышева, пресс-секретарь альянса.\n\</segment>
+		<segment id="120" parent="125" relname="attribution">nПо ее словам,</segment>
+		<segment id="121" parent="125" relname="sequence">для этого пассажиру необходимо получить штамп и отметку о задержке своего рейса в представительстве авиакомпании или у представителя в аэропорте,</segment>
+		<segment id="122" parent="124" relname="joint">затем обратиться в претензионную комиссию, которые существуют в аэропортах \"Домодедово\" и Красноярска,</segment>
+		<segment id="123" parent="124" relname="joint">и написать соответствующее заявление.\n\n\"Обратиться в комиссию можно как до полета, так и после него.</segment>
+		<segment id="127" parent="129" relname="sequence">После соответствующего решения будет определен размер материальной компенсации,</segment>
+		<segment id="128" parent="129" relname="sequence">а позже она будет выдана\",</segment>
+		<segment id="130" parent="133" relname="attribution">- подтвердила ее слова пресс-секретарь входящей в альянс авиакомпании \"Красноярские авиалинии\" Людмила Ганжурова.\n\nКак сообщалось ранее,</segment>
+		<segment id="131" parent="133" relname="span">всего только в московском аэропорту \"Домодедово\" в среду 27 августа задержано более 30 авиарейсов,</segment>
+		<segment id="132" parent="131" relname="elaboration">из которых 5 - чартерные на различные зарубежные курорты.</segment>
+		<segment id="137" parent="138" relname="attribution">Эксперты отмечают,</segment>
+		<segment id="138" parent="139" relname="span">что компенсировать туристам все понесенные неудобства от массовой задержки рейсов можно будет только после их возвращения с отдыха.</segment>
+		<segment id="140" parent="144" relname="same-unit">Причем,</segment>
+		<segment id="141" parent="142" relname="attribution">как считают туроператоры,</segment>
+		<segment id="142" parent="143" relname="span">многие будут обращаться с претензиями также в турагентства, отправившие их на отдых.</segment>
+		<segment id="145" parent="147" relname="span">У туристов есть основания для этого,</segment>
+		<segment id="146" parent="145" relname="cause-effect">так как в итоге они недополучат оплаченные услуги.\n\</segment>
+		<segment id="148" parent="154" relname="joint">nНапомним, что руководство \"Транспортной клиринговой палаты\" разослало на прошлой неделе телеграмму</segment>
+		<segment id="149" parent="153" relname="joint">и запретило своим агентам возвращать тысячам пассажиров авиаальянса AiRUnion деньги за проданные билеты независимо от того,</segment>
+		<segment id="150" parent="152" relname="span">добровольно или вынужденно человек отказался от полета</segment>
+		<segment id="151" parent="150" relname="cause-effect">.\n\nНакануне кризис в AiRUnion достиг пика.</segment>
+		<segment id="158" parent="160" relname="span">К середине дня в аэропортах Москвы, Самары, Барнаула, Южно-Сахалинска и Владивостока застряло сразу 16 рейсов.</segment>
+		<segment id="159" parent="158" relname="elaboration">Из московского \"Домодедово\" в небо не поднялся ни один лайнер альянса.</segment>
+		<segment id="161" parent="165" relname="joint">К часу ночи там должно было оказаться 3416 пассажиров с 22 бортов.</segment>
+		<segment id="162" parent="164" relname="joint">Ночующих в \"Домодедово\" пассажиров должно было скопиться еще больше - 3800.</segment>
+		<segment id="163" parent="164" relname="joint">Это рекорд для России.\n\nАэропорт \"Домодедово отказался\" заправлять самолеты AiRUnion в ночь с понедельника на вторник через несколько часов после совещания в Минтрансе.</segment>
+		<segment id="167" parent="172" relname="attribution">Глава управляющей аэропортом группы \"Ист Лайн\" Дмитрий Каменщик потребовал</segment>
+		<segment id="168" parent="170" relname="span">оплатить ему 1,4 млрд рублей из долга AiRUnion</segment>
+		<segment id="169" parent="168" relname="elaboration">(всего он оценивается более чем в 2 млрд рублей) деньгами</segment>
+		<segment id="171" parent="172" relname="joint">и только после этого был готов продолжить заправлять самолеты альянса под гарантии \"Ростехнологий\".</segment>
+		<segment id="174" parent="176" relname="span">Но госкорпорация платить отказалась.\n\</segment>
+		<segment id="175" parent="174" relname="purpose">nНапомним, помощь альянсу поспешило оказать правительство.</segment>
+		<segment id="179" parent="183" relname="joint">Премьер-министр Владимир Путин поручил Росрезерву выделить альянсу 24 тысячи тонн авиакеросина до 14 сентября под гарантии \"Ростехнологий\".</segment>
+		<segment id="180" parent="181" relname="attribution">В понедельник Росрезерв начал отгрузку топлива в два базовых аэропорта альянса - \"Домодедово\" и красноярский \"Емельяново\".\n\nВице-премьер Сергей Иванов во вторник даже сообщил,</segment>
+		<segment id="181" parent="182" relname="span">что кризис в AiRUnion будет преодолен \"в ближайшие дни\".</segment>
+		<segment id="184" parent="188" relname="span">\"Мы сделаем все,</segment>
+		<segment id="185" parent="187" relname="joint">чтобы не допустить банкротства альянса</segment>
+		<segment id="186" parent="187" relname="joint">и наладить эффективную работу,</segment>
+		<segment id="189" parent="188" relname="attribution">- заявил вице-премьер.</segment>
+		<segment id="192" parent="208" relname="contrast">- Ситуация тяжелая, но не безысходная\".</segment>
+		<segment id="193" parent="195" relname="span">Однако к 21:00 по Москве самолеты AiRUnion так и не полетели.\n\</segment>
+		<segment id="194" parent="193" relname="elaboration">nВ среду на заседании правительственной комиссии по транспорту и связи выступил министр транспорта РФ Игорь Левитин,</segment>
+		<segment id="196" parent="199" relname="attribution">пообещавший,</segment>
+		<segment id="197" parent="199" relname="joint">что все запланированные накануне,</segment>
+		<segment id="198" parent="199" relname="joint">а также часть намеченных на 27 августа рейсов альянса AiRUnion по всем направлениям будут выполнены к 23:00 по московскому времени.\n\nГлавная задача на сегодняшней день - доставить всех пассажиров, особенно с детьми, до 1 сентября,</segment>
+		<segment id="202" parent="205" relname="attribution">подчеркнул глава Минтранса.\n\nВ свою очередь вице-премьер Сергей Иванов отметил,</segment>
+		<segment id="203" parent="205" relname="span">что приоритетная задача в настоящее время - \"вывоз всех пассажиров в срок,</segment>
+		<segment id="204" parent="203" relname="purpose">чтобы люди не страдали, остальное - вторично\".\n\nИсточник: https://www.newsru.com/russia/27Aug2008/airunion_prok.html\n</segment>
+		<group id="81" type="span" parent="214" relname="preparation"/>
+		<group id="79" type="span" parent="81" relname="span"/>
+		<group id="75" type="span" parent="78" relname="cause-effect"/>
+		<group id="78" type="multinuc" parent="79" relname="span"/>
+		<group id="214" type="multinuc" parent="215" relname="span"/>
+		<group id="96" type="span" parent="214" relname="joint"/>
+		<group id="94" type="span" parent="96" relname="span"/>
+		<group id="93" type="multinuc" parent="94" relname="span"/>
+		<group id="89" type="span" parent="93" relname="joint"/>
+		<group id="88" type="multinuc" parent="83" relname="elaboration"/>
+		<group id="87" type="span" parent="88" relname="joint"/>
+		<group id="92" type="span" parent="93" relname="joint"/>
+		<group id="213" type="multinuc" parent="214" relname="joint"/>
+		<group id="119" type="multinuc" parent="213" relname="joint"/>
+		<group id="101" type="span" parent="119" relname="joint"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="118" type="multinuc" parent="119" relname="joint"/>
+		<group id="108" type="span" parent="118" relname="joint"/>
+		<group id="107" type="multinuc" parent="102" relname="purpose"/>
+		<group id="105" type="multinuc" parent="107" relname="same-unit"/>
+		<group id="117" type="span" parent="118" relname="joint"/>
+		<group id="115" type="span" parent="117" relname="span"/>
+		<group id="114" type="span" parent="115" relname="span"/>
+		<group id="113" type="span" parent="110" relname="cause-effect"/>
+		<group id="212" type="multinuc" parent="213" relname="joint"/>
+		<group id="136" type="multinuc" parent="212" relname="joint"/>
+		<group id="126" type="span" parent="136" relname="sequence"/>
+		<group id="125" type="multinuc" parent="126" relname="span"/>
+		<group id="124" type="multinuc" parent="125" relname="sequence"/>
+		<group id="135" type="multinuc" parent="136" relname="sequence"/>
+		<group id="129" type="multinuc" parent="135" relname="joint"/>
+		<group id="134" type="span" parent="135" relname="joint"/>
+		<group id="133" type="span" parent="134" relname="span"/>
+		<group id="211" type="multinuc" parent="212" relname="joint"/>
+		<group id="157" type="span" parent="211" relname="joint"/>
+		<group id="139" type="span" parent="157" relname="span"/>
+		<group id="156" type="span" parent="139" relname="elaboration"/>
+		<group id="144" type="multinuc" parent="156" relname="span"/>
+		<group id="143" type="span" parent="144" relname="same-unit"/>
+		<group id="155" type="multinuc" parent="144" relname="evidence"/>
+		<group id="147" type="span" parent="155" relname="joint"/>
+		<group id="154" type="multinuc" parent="155" relname="joint"/>
+		<group id="153" type="multinuc" parent="154" relname="joint"/>
+		<group id="152" type="span" parent="153" relname="joint"/>
+		<group id="210" type="multinuc" parent="211" relname="joint"/>
+		<group id="178" type="multinuc" parent="210" relname="joint"/>
+		<group id="166" type="multinuc" parent="178" relname="joint"/>
+		<group id="160" type="span" parent="166" relname="joint"/>
+		<group id="165" type="multinuc" parent="166" relname="joint"/>
+		<group id="164" type="multinuc" parent="165" relname="joint"/>
+		<group id="177" type="multinuc" parent="178" relname="joint"/>
+		<group id="173" type="span" parent="177" relname="contrast"/>
+		<group id="172" type="multinuc" parent="173" relname="span"/>
+		<group id="170" type="span" parent="172" relname="joint"/>
+		<group id="176" type="span" parent="177" relname="contrast"/>
+		<group id="209" type="multinuc" parent="210" relname="joint"/>
+		<group id="191" type="multinuc" parent="209" relname="joint"/>
+		<group id="183" type="multinuc" parent="191" relname="joint"/>
+		<group id="182" type="span" parent="183" relname="joint"/>
+		<group id="190" type="span" parent="191" relname="joint"/>
+		<group id="188" type="span" parent="190" relname="span"/>
+		<group id="187" type="multinuc" parent="184" relname="purpose"/>
+		<group id="208" type="multinuc" parent="209" relname="joint"/>
+		<group id="207" type="multinuc" parent="208" relname="contrast"/>
+		<group id="201" type="multinuc" parent="207" relname="joint"/>
+		<group id="195" type="span" parent="201" relname="joint"/>
+		<group id="200" type="span" parent="201" relname="joint"/>
+		<group id="199" type="multinuc" parent="200" relname="span"/>
+		<group id="206" type="span" parent="207" relname="joint"/>
+		<group id="205" type="span" parent="206" relname="span"/>
+		<group id="215" type="span"/>
+	</body>
+</rst>

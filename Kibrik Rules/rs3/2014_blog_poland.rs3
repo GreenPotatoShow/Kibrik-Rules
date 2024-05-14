@@ -1,0 +1,44 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="19" relname="sequence">Блог skif-tag: \"Старые счеты\"\n\n\"Во времена Великой смуты поляки пытались овладеть московским троном,</segment>
+		<segment id="16" parent="18" relname="span">а спустя почти два века Россия оккупировала Польшу,</segment>
+		<segment id="17" parent="16" relname="elaboration">поделив ее на части вместе с Пруссией и Австрией.</segment>
+		<segment id="20" parent="22" relname="span">Как же это перекликается с сегодняшним днем!\n\nНе надо каяться.</segment>
+		<segment id="21" parent="20" relname="interpretation-evaluation">Не надо посыпать голову пеплом.</segment>
+		<segment id="23" parent="24" relname="solutionhood">Просто нужно знать...</segment>
+		<segment id="24" parent="25" relname="span">Давайте перенесемся в те далекие годы...\n\nПредыстория восстания (1791—1794).</segment>
+		<segment id="28" parent="30" relname="span">Конституция Третьего мая 1791 года заложила основы</segment>
+		<segment id="29" parent="28" relname="purpose">для преобразования Речи Посполитой в жизнеспособное государство с сильной центральной властью.</segment>
+		<segment id="31" parent="34" relname="cause-effect">Ограничение сословных привилегий</segment>
+		<segment id="32" parent="34" relname="span">вызвало неудовольствие у части магнатов и шляхты,</segment>
+		<segment id="33" parent="32" relname="background">которые в мае 1792 организовали против конституции Тарговицкую конфедерацию.</segment>
+		<segment id="36" parent="38" relname="joint">Король Станислав Август Понятовский объявил тарговичан бунтовщиками</segment>
+		<segment id="37" parent="38" relname="joint">и приказал силой разогнать отряды конфедерации\".\n\nИсточник: https://www.newsru.com/blog/06Nov2014/poland.html\n</segment>
+		<group id="27" type="span" parent="41" relname="joint"/>
+		<group id="19" type="multinuc" parent="27" relname="span"/>
+		<group id="18" type="span" parent="19" relname="sequence"/>
+		<group id="26" type="multinuc" parent="19" relname="elaboration"/>
+		<group id="22" type="span" parent="26" relname="joint"/>
+		<group id="25" type="span" parent="26" relname="joint"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="30" type="span" parent="40" relname="joint"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="35" type="span" parent="39" relname="joint"/>
+		<group id="34" type="span" parent="35" relname="span"/>
+		<group id="38" type="multinuc" parent="39" relname="joint"/>
+		<group id="41" type="multinuc"/>
+	</body>
+</rst>

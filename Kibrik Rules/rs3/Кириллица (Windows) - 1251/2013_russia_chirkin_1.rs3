@@ -1,0 +1,85 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="37" parent="39" relname="span">Путин уволил главкома Сухопутных войск,</segment>
+		<segment id="38" parent="37" relname="background">обвиненного во взяточничестве\n\</segment>
+		<segment id="40" parent="42" relname="span">nПрезидент Владимир Путин освободил от занимаемой должности главнокомандующего Сухопутными войсками генерал-полковника Владимира Чиркина,</segment>
+		<segment id="41" parent="40" relname="attribution">выяснила газета \"Коммерсант\".</segment>
+		<segment id="43" parent="46" relname="attribution">По ее данным,</segment>
+		<segment id="44" parent="46" relname="sequence">заявление с просьбой об отставке было написано им еще в октябре</segment>
+		<segment id="45" parent="46" relname="sequence">и удовлетворено сразу после того, как главком вышел из отпуска.</segment>
+		<segment id="48" parent="49" relname="attribution">По данным издания,</segment>
+		<segment id="49" parent="50" relname="span">основной причиной увольнения стало предъявленное главкому Следственным комитетом РФ обвинение в получении взятки.\n\nСам Чиркин вскоре после публикации статьи подтвердил журналистам сообщение о своей отставке.</segment>
+		<segment id="51" parent="54" relname="attribution">В беседе с РИА \"Новости\" он при этом добавил:</segment>
+		<segment id="52" parent="54" relname="joint">\"У следственных органов по моей службе в ЦВО вопросов нет</segment>
+		<segment id="53" parent="54" relname="joint">и не было.</segment>
+		<segment id="57" parent="58" relname="attribution">Я действительно написал рапорт об освобождении от занимаемой должности и выходе в распоряжение на период проведения следствия в целях его объективности\".\n\nИсточник \"Коммерсанта\", близкий к администрации президента, заявил,</segment>
+		<segment id="58" parent="59" relname="span">что Путин подписал указ об освобождении генерала Чиркина от должности главкома еще 2 декабря,</segment>
+		<segment id="60" parent="64" relname="span">но на официальном сайте Кремля он так и не был опубликован.\n\nПо данным следствия,</segment>
+		<segment id="61" parent="63" relname="span">инкриминируемое Чиркину преступление относится к периоду с декабря 2010 по апрель 2012 года,</segment>
+		<segment id="62" parent="61" relname="background">когда он занимал пост командующего Центральным военным округом.</segment>
+		<segment id="66" parent="70" relname="span">Расследование началось с проверки военной прокуратуры,</segment>
+		<segment id="67" parent="69" relname="span">которая выявила махинации с землей и зданиями Минобороны,</segment>
+		<segment id="68" parent="67" relname="elaboration">которые продавали по ценам ниже рыночных.</segment>
+		<segment id="71" parent="73" relname="sequence">Следователи пришли к выводу, что генерал мог разрешать сомнительные сделки за откаты.\n\</segment>
+		<segment id="72" parent="73" relname="sequence">nПосле начала активных следственных действий следователи обратились с ходатайством к министру обороны Сергею Шойгу об отстранении Чиркина от должности на время расследования.</segment>
+		<segment id="75" parent="79" relname="sequence">Глава Минобороны поговорил с Чиркиным</segment>
+		<segment id="76" parent="77" relname="cause-effect">и попросил его написать заявление об отставке по собственному желанию,</segment>
+		<segment id="77" parent="78" relname="span">что тот и сделал еще в октябре.</segment>
+		<segment id="82" parent="83" relname="sequence">Временно исполняющим обязанности главкома назначен начальник главного штаба Сухопутных войск генерал Сергей Истраков, утверждают источники.</segment>
+		<segment id="84" parent="86" relname="joint">Уголовное дело Чиркина находится в завершающей стадии,</segment>
+		<segment id="85" parent="86" relname="joint">своей вины он не признает.\n\nГенерал Чиркин был назначен на пост главкома в апреле 2012 года.</segment>
+		<segment id="87" parent="93" relname="sequence">Должность командующего войсками Центрального военного округа он занимал с декабря 2010 года.</segment>
+		<segment id="88" parent="92" relname="sequence">В 2011 году генерал оказался в центре скандала вокруг пожара и взрывов на 102-м арсенале артиллерийских боеприпасов в Удмуртии</segment>
+		<segment id="89" parent="90" relname="attribution">- тогдашний министр обороны Анатолий Сердюков объявил</segment>
+		<segment id="90" parent="91" relname="span">ему выговор в связи с инцидентом.\n\nЛетом 2012 года Чиркин возмутил власти Таджикистана словами о грядущей войне.</segment>
+		<segment id="94" parent="97" relname="attribution">На заседании Комитета Совета Федерации по обороне и безопасности генерал не исключил,</segment>
+		<segment id="97" parent="98" relname="span">что \"в связи с прогнозируемым обострением межгосударственных противоречий в сфере энергетики, водо- и землепользования в странах Центральной Азии могут возникнуть локальные вооруженные конфликты с участием Узбекистана, Таджикистана и Киргизии\".\n\nДо назначения на пост главкома ЦВО Чиркин занимал должности заместителя командующего войсками Московского военного округа, первого заместителя командующего войсками Приволжско-Уральского военного округа, командующего войсками Сибирского военного округа.\n\nИсточник: https://www.newsru.com/russia/19Dec2013/chirkin_1.html\n</segment>
+		<group id="39" type="span" parent="106" relname="preparation"/>
+		<group id="106" type="span" parent="107" relname="span"/>
+		<group id="42" type="span" parent="105" relname="preparation"/>
+		<group id="105" type="span" parent="106" relname="span"/>
+		<group id="47" type="span" parent="104" relname="preparation"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="56" type="multinuc" parent="103" relname="preparation"/>
+		<group id="50" type="span" parent="56" relname="sequence"/>
+		<group id="55" type="span" parent="56" relname="sequence"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="103" type="multinuc" parent="104" relname="span"/>
+		<group id="65" type="multinuc" parent="103" relname="joint"/>
+		<group id="59" type="span" parent="65" relname="contrast"/>
+		<group id="64" type="span" parent="65" relname="contrast"/>
+		<group id="63" type="span" parent="60" relname="background"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="74" type="multinuc" parent="102" relname="joint"/>
+		<group id="70" type="span" parent="74" relname="sequence"/>
+		<group id="69" type="span" parent="66" relname="elaboration"/>
+		<group id="73" type="multinuc" parent="74" relname="sequence"/>
+		<group id="101" type="multinuc" parent="102" relname="joint"/>
+		<group id="83" type="multinuc" parent="101" relname="joint"/>
+		<group id="79" type="multinuc" parent="83" relname="sequence"/>
+		<group id="78" type="span" parent="79" relname="sequence"/>
+		<group id="100" type="multinuc" parent="101" relname="joint"/>
+		<group id="86" type="multinuc" parent="100" relname="joint"/>
+		<group id="99" type="multinuc" parent="100" relname="joint"/>
+		<group id="93" type="multinuc" parent="99" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="sequence"/>
+		<group id="91" type="span" parent="92" relname="sequence"/>
+		<group id="98" type="span" parent="99" relname="joint"/>
+		<group id="107" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,31 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="11" parent="13" relname="span">Россия запустила секретный военный спутник\n\nРакета-носитель \"Молния-М\" с военным спутником серии \"Космос\" в 2:07 по московскому времени стартовала с космодрома Плесецк в Архангельской области.\n\nКак сообщает \"Интерфакс\" со ссылкой на пресс-службу Космических войск России,</segment>
+		<segment id="12" parent="11" relname="background">все технологические операции на космодроме по запуску космической транспортной системы прошли штатно.</segment>
+		<segment id="14" parent="20" relname="sequence">Через 10 минут после старта космический аппарат \"Космос\" успешно вышел на промежуточную орбиту.</segment>
+		<segment id="15" parent="17" relname="sequence">Затем спутник отделился от ракеты-носителя,</segment>
+		<segment id="16" parent="17" relname="sequence">а в 3:50 по московскому времени взят на управление Космическими войсками РФ.</segment>
+		<segment id="18" parent="19" relname="joint">Ему присвоен порядковый номер 2388.\n\nПредназначение выводимого в космос военного спутника в Космических войсках не раскрывают.\n\nЭто третий пуск ракеты-носителя с космодрома Плесецк в нынешнем году.</segment>
+		<segment id="22" parent="24" relname="joint">Первый состоялся 25 февраля.</segment>
+		<segment id="23" parent="24" relname="joint">Тогда ракета-носитель \"Союз-У\" вывела на орбиту военный спутник \"Космос-2387\".</segment>
+		<segment id="25" parent="27" relname="joint">17 марта с помощью российской ракеты-носителя \"Рокот\", созданной в космическом центре им. Хруничева,</segment>
+		<segment id="26" parent="27" relname="joint">были выведены на орбиту два коммерческих научно-исследовательских спутника Grace по совместному проекту NASA и немецкого авиационно-космического агентства DLR.\n\nИсточник: https://www.newsru.com/russia/02Apr2002/kosmos.html\n</segment>
+		<group id="21" type="multinuc" parent="29" relname="joint"/>
+		<group id="13" type="span" parent="21" relname="sequence"/>
+		<group id="20" type="multinuc" parent="21" relname="sequence"/>
+		<group id="19" type="multinuc" parent="20" relname="sequence"/>
+		<group id="17" type="multinuc" parent="19" relname="joint"/>
+		<group id="28" type="multinuc" parent="29" relname="joint"/>
+		<group id="24" type="multinuc" parent="28" relname="sequence"/>
+		<group id="27" type="multinuc" parent="28" relname="sequence"/>
+		<group id="29" type="multinuc"/>
+	</body>
+</rst>

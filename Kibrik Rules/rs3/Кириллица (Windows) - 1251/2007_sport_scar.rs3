@@ -1,0 +1,77 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="35" relname="span">Тренер баскетбольной \"Уникахи\" пожелал удачи ЦСКА\n\nГлавный тренер испанской \"Уникахи\" Серджио Скариоло пожелал удачи московскому ЦСКА в финале мужской баскетбольной Евролиги.\n\n\"Я хочу поздравить ЦСКА,</segment>
+		<segment id="32" parent="33" relname="attribution">который доказал,</segment>
+		<segment id="33" parent="34" relname="span">что является великой командой - чемпионом Европы.</segment>
+		<segment id="36" parent="35" relname="interpretation-evaluation">И хочу пожелать им удачи в финале.</segment>
+		<segment id="38" parent="40" relname="span">В то же время я не могу не поздравить моих игроков,</segment>
+		<segment id="39" parent="38" relname="elaboration">которые продемонстрировали великолепную игру.</segment>
+		<segment id="41" parent="45" relname="joint">К сожалению, концы второй и четвертой четвертей мы \"провалили\".</segment>
+		<segment id="42" parent="44" relname="joint">Нам не хватило физической силы</segment>
+		<segment id="43" parent="44" relname="joint">и это предопределило исход матча\",</segment>
+		<segment id="47" parent="48" relname="attribution">- сказал тренер на послематчевой пресс-конференции</segment>
+		<segment id="48" parent="49" relname="span">после того, как его команда уступила армейцам со счетом 50:62</segment>
+		<segment id="52" parent="56" relname="joint">.\n\nСкариоло не жалел для соперника лестных эпитетов,</segment>
+		<segment id="53" parent="55" relname="span">назвав ЦСКА \"очень сильной командой с великими игроками,</segment>
+		<segment id="54" parent="53" relname="elaboration">которые хорошо выполняют тренерскую установку\".\n\n</segment>
+		<segment id="57" parent="59" relname="joint">\"Мы сражались с ними на протяжении всей игры,</segment>
+		<segment id="58" parent="59" relname="joint">и гордимся, что смогли сыграть с ними на равных\",</segment>
+		<segment id="61" parent="60" relname="attribution">- сказал Скариоло.</segment>
+		<segment id="63" parent="64" relname="attribution">Одним из ключевых моментов матча тренер \"Уникахи\" назвал травму основного игрока своей команды Карлоса Кабесаса.\n\nФорвард \"Уникахи\" Флоран Пьетрус признался,</segment>
+		<segment id="64" parent="65" relname="span">что команда до последних минут верила в победу.</segment>
+		<segment id="66" parent="68" relname="span">\"Мы можем гордиться сегодняшней игрой,</segment>
+		<segment id="67" parent="66" relname="cause-effect">ведь мы проиграли действительно очень сильной команде.</segment>
+		<segment id="69" parent="72" relname="attribution">Я думаю,</segment>
+		<segment id="70" parent="72" relname="joint">что мы извлечем правильные уроки из этого матча</segment>
+		<segment id="71" parent="72" relname="joint">и сможем использовать этот опыт в играх нашего национального чемпионата\",</segment>
+		<segment id="75" parent="77" relname="span">- отметил Пьетрус.\n\nДобавим, что вторым финалистом стал греческий \"Панатинаикос\",</segment>
+		<segment id="76" parent="75" relname="elaboration">добившийся победы над испанской \"Тау Керамикой\" - 67:53 (18:9, 17:12, 12:14, 20:18).</segment>
+		<segment id="79" parent="83" relname="span">Самыми результативными игроками матча стали Сани Бечирович и Майк Батист (оба - \"Панатинаикос\"),</segment>
+		<segment id="80" parent="82" relname="sequence">набравшие по 15 очков.\n\nВ воскресенье, 6 мая, \"Тау Керамика\" и \"Уникаха\" сыграют за третье место,</segment>
+		<segment id="81" parent="82" relname="sequence">а затем состоится финал \"Панатинаикос\" - ЦСКА (начало в 22.30 мск),</segment>
+		<segment id="84" parent="83" relname="attribution">сообщает rian.ru.\n\nИсточник: https://www.newsru.com/sport/05May2007/scar.html\n</segment>
+		<group id="51" type="multinuc" parent="89" relname="joint"/>
+		<group id="37" type="span" parent="51" relname="comparison"/>
+		<group id="35" type="span" parent="37" relname="span"/>
+		<group id="34" type="span" parent="31" relname="elaboration"/>
+		<group id="50" type="span" parent="51" relname="comparison"/>
+		<group id="46" type="span" parent="50" relname="span"/>
+		<group id="40" type="span" parent="46" relname="span"/>
+		<group id="45" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="49" type="span" parent="46" relname="attribution"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="62" type="span" parent="88" relname="joint"/>
+		<group id="60" type="span" parent="62" relname="span"/>
+		<group id="56" type="multinuc" parent="60" relname="span"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="59" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="87" type="span" parent="88" relname="joint"/>
+		<group id="65" type="span" parent="86" relname="preparation"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="78" type="span" parent="85" relname="preparation"/>
+		<group id="74" type="multinuc" parent="78" relname="span"/>
+		<group id="68" type="span" parent="74" relname="joint"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="77" type="span" parent="74" relname="attribution"/>
+		<group id="85" type="span" parent="86" relname="span"/>
+		<group id="83" type="span" parent="85" relname="span"/>
+		<group id="82" type="multinuc" parent="79" relname="elaboration"/>
+		<group id="89" type="multinuc"/>
+	</body>
+</rst>

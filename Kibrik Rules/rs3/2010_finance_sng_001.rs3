@@ -1,0 +1,150 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="66" parent="72" relname="span">Место России в торговле со странами СНГ занимает Китай\n\nКризис в России мало сказался на ее ближайших соседях,</segment>
+		<segment id="67" parent="71" relname="span">говорится в обзоре Центра макроэкономических исследований,</segment>
+		<segment id="68" parent="70" relname="span">который приводят \"Ведомости\".\n\nАзербайджан, Узбекистан и Туркмения в 2009 году сохранили высокие темпы роста</segment>
+		<segment id="69" parent="68" relname="elaboration">(9,3%, 8,1% и 6,1% соответственно)</segment>
+		<segment id="73" parent="74" relname="same-unit">не только из-за слабой вовлеченности в мировой финансовый рынок,</segment>
+		<segment id="75" parent="79" relname="span">но и из-за начавшегося во второй половине года роста спроса со стороны Китая,</segment>
+		<segment id="76" parent="78" relname="contrast">пишет ЦМИ.\n\nСырьевые экспортеры Казахстан (нефть), Киргизия (золото) и Таджикистан (алюминий) всего лишь снизили темпы роста,</segment>
+		<segment id="77" parent="78" relname="contrast">но он все же остался положительным</segment>
+		<segment id="80" parent="81" relname="span">- во многом из-за восстановления цен на сырье.</segment>
+		<segment id="83" parent="91" relname="span">Молдавия и Армения пострадали от спада инвестиций,</segment>
+		<segment id="84" parent="90" relname="span">от которых зависели строительный сектор</segment>
+		<segment id="87" parent="89" relname="contrast">(сократился на 50% в Армении) и промышленность (-22% в Молдавии и -9,9% в Армении).\n\nБелоруссия, перерабатывающая российскую нефть, полгода работала на склад,</segment>
+		<segment id="88" parent="89" relname="contrast">но к январю 2010-го запасы готовой продукции все еще были в 1,5 раза выше докризисных - 75% от среднемесячного оборота (против 85% в январе-2009).</segment>
+		<segment id="92" parent="94" relname="span">Украина, как и Казахстан, пережила банковский кризис,</segment>
+		<segment id="93" parent="92" relname="elaboration">усугубленный падением спроса и цен на металлы.\n\nТрадиционно считалось, что существует очень сильная связь между Россией и СНГ, прежде всего по торговым потокам,</segment>
+		<segment id="95" parent="94" relname="attribution">говорит главный экономист \"Сбербанка\" Ксения Юдаева,</segment>
+		<segment id="97" parent="98" relname="cause-effect">но за последние 10 лет доля России в экспорте четырех из семи стран СНГ заметно сократилась.\n\nБольше других от этой торговли зависит Белоруссия,</segment>
+		<segment id="98" parent="99" relname="span">треть экспорта которой сейчас идет в Россию,</segment>
+		<segment id="101" parent="102" relname="contrast">но 10 лет назад эта доля составляла 50%.</segment>
+		<segment id="104" parent="113" relname="attribution">По данным ООН,</segment>
+		<segment id="105" parent="107" relname="comparison">Молдавия в 2000 году отправляла в Россию 45% экспорта,</segment>
+		<segment id="106" parent="107" relname="comparison">в 2008-м - 20%,</segment>
+		<segment id="108" parent="112" relname="comparison">Казахстан - 20% и 9% соответственно;</segment>
+		<segment id="109" parent="111" relname="joint">доля Армении и Украины не снизилась,</segment>
+		<segment id="110" parent="111" relname="joint">но и не выросла (около 15% и 23% соответственно)</segment>
+		<segment id="115" parent="116" relname="comparison">.\n\nРоссия остается крупнейшим работодателем:</segment>
+		<segment id="117" parent="120" relname="attribution">по данным Международной организации труда,</segment>
+		<segment id="118" parent="120" relname="comparison">до 60% всех мигрантов Белоруссии, Армении, Украины направляются в Россию,</segment>
+		<segment id="119" parent="120" relname="comparison">85% всех мигрирующих из Киргизии, из Молдавии - 40%.</segment>
+		<segment id="122" parent="128" relname="contrast">\"Конечно, кроме торговых есть еще финансовые связи, трудовая миграция,</segment>
+		<segment id="123" parent="127" relname="span">но из-за существенного снижения в торговле</segment>
+		<segment id="124" parent="126" relname="span">очевидно, что Россия утрачивает роль ведущего партнера,</segment>
+		<segment id="125" parent="124" relname="concession">хотя еще и остается таковым\",</segment>
+		<segment id="129" parent="128" relname="attribution">- говорит Юдаева</segment>
+		<segment id="132" parent="136" relname="joint">.\n\nКлючевым игроком и для СНГ,</segment>
+		<segment id="133" parent="135" relname="joint">и для России,</segment>
+		<segment id="134" parent="135" relname="joint">и для всего мира становится Китай</segment>
+		<segment id="137" parent="138" relname="attribution">- кризис показал,</segment>
+		<segment id="138" parent="139" relname="span">насколько кардинально спрос со стороны Китая меняет ситуацию на рынках.\n\</segment>
+		<segment id="141" parent="143" relname="span">nВлияние России на выход из кризиса большинства стран СНГ тоже будет носить вторичный характер.</segment>
+		<segment id="142" parent="141" relname="elaboration">Восстановление Молдавии и Белоруссии определит ситуация в ЕС.</segment>
+		<segment id="144" parent="148" relname="span">Для азиатской части СНГ залог высоких темпов роста</segment>
+		<segment id="145" parent="147" relname="comparison">- их близость к рынкам Азии и особенно к Китаю,</segment>
+		<segment id="146" parent="147" relname="comparison">а Украина, как и Россия, - заложница китайской сырьевой политики.\n\</segment>
+		<segment id="150" parent="162" relname="span">nНо Россия оказалась для СНГ главным источником финансовой помощи в кризис:</segment>
+		<segment id="151" parent="159" relname="span">она выделила 10 млрд долларов</segment>
+		<segment id="152" parent="158" relname="comparison">- вдвое больше, чем МВФ, ЕБРР и Всемирный банк, вместе взятые</segment>
+		<segment id="153" parent="157" relname="same-unit">.\n\</segment>
+		<segment id="154" parent="155" relname="condition">nЕсли Россия претендует на статус регионального лидера,</segment>
+		<segment id="155" parent="156" relname="span">финансовая помощь - это неизбежная обязанность,</segment>
+		<segment id="160" parent="159" relname="attribution">считает начальник аналитического отдела BNP Paribas Юлия Цепляева.</segment>
+		<segment id="163" parent="187" relname="span">С независимостью экономик СНГ от России она не согласна:</segment>
+		<segment id="164" parent="174" relname="span">\"Роль России снижается</segment>
+		<segment id="165" parent="173" relname="span">хотя бы</segment>
+		<segment id="166" parent="172" relname="contrast">потому, что раньше она безальтернативно доминировала,</segment>
+		<segment id="167" parent="171" relname="span">но это не значит, что крупнейшая экономика региона становится проходной\".\n\</segment>
+		<segment id="168" parent="169" relname="attribution">nПример Грузии показывает,</segment>
+		<segment id="169" parent="170" relname="span">что резкий разрыв с прежним партнером ни к чему хорошему не приводит,</segment>
+		<segment id="175" parent="180" relname="attribution">считает Цепляева:</segment>
+		<segment id="176" parent="179" relname="concession">несмотря на помощь Запада,</segment>
+		<segment id="177" parent="178" relname="cause-effect">ВВП Грузии сократился на 4%,</segment>
+		<segment id="178" parent="179" relname="span">лари продолжает слабеть</segment>
+		<segment id="183" parent="185" relname="span">- сальдо текущего счета не удержалось в плюсе</segment>
+		<segment id="184" parent="183" relname="cause-effect">из-за четырехкратного падения трансфертов от трудовых мигрантов.\n\nИсточник: https://www.newsru.com/finance/11Mar2010/sng.html\n</segment>
+		<group id="82" type="multinuc" parent="193" relname="preparation"/>
+		<group id="74" type="multinuc" parent="82" relname="contrast"/>
+		<group id="72" type="span" parent="74" relname="same-unit"/>
+		<group id="71" type="span" parent="66" relname="attribution"/>
+		<group id="70" type="span" parent="67" relname="elaboration"/>
+		<group id="81" type="span" parent="82" relname="contrast"/>
+		<group id="79" type="span" parent="80" relname="cause-effect"/>
+		<group id="78" type="multinuc" parent="75" relname="elaboration"/>
+		<group id="193" type="multinuc" parent="194" relname="span"/>
+		<group id="103" type="multinuc" parent="193" relname="comparison"/>
+		<group id="91" type="span" parent="103" relname="comparison"/>
+		<group id="90" type="span" parent="83" relname="elaboration"/>
+		<group id="89" type="multinuc" parent="84" relname="elaboration"/>
+		<group id="102" type="multinuc" parent="103" relname="comparison"/>
+		<group id="100" type="multinuc" parent="102" relname="contrast"/>
+		<group id="96" type="span" parent="100" relname="contrast"/>
+		<group id="94" type="span" parent="96" relname="span"/>
+		<group id="99" type="span" parent="100" relname="contrast"/>
+		<group id="192" type="multinuc" parent="193" relname="comparison"/>
+		<group id="116" type="multinuc" parent="192" relname="joint"/>
+		<group id="114" type="span" parent="116" relname="comparison"/>
+		<group id="113" type="multinuc" parent="114" relname="span"/>
+		<group id="107" type="multinuc" parent="113" relname="comparison"/>
+		<group id="112" type="multinuc" parent="113" relname="comparison"/>
+		<group id="111" type="multinuc" parent="112" relname="comparison"/>
+		<group id="191" type="multinuc" parent="192" relname="joint"/>
+		<group id="131" type="span" parent="191" relname="joint"/>
+		<group id="121" type="span" parent="130" relname="preparation"/>
+		<group id="120" type="multinuc" parent="121" relname="span"/>
+		<group id="130" type="span" parent="131" relname="span"/>
+		<group id="128" type="multinuc" parent="130" relname="span"/>
+		<group id="127" type="span" parent="128" relname="contrast"/>
+		<group id="126" type="span" parent="123" relname="evidence"/>
+		<group id="190" type="span" parent="191" relname="joint"/>
+		<group id="140" type="span" parent="189" relname="preparation"/>
+		<group id="136" type="multinuc" parent="140" relname="span"/>
+		<group id="135" type="multinuc" parent="136" relname="joint"/>
+		<group id="139" type="span" parent="136" relname="elaboration"/>
+		<group id="189" type="multinuc" parent="190" relname="span"/>
+		<group id="149" type="multinuc" parent="189" relname="comparison"/>
+		<group id="143" type="span" parent="149" relname="comparison"/>
+		<group id="148" type="span" parent="149" relname="comparison"/>
+		<group id="147" type="multinuc" parent="144" relname="elaboration"/>
+		<group id="188" type="multinuc" parent="189" relname="comparison"/>
+		<group id="162" type="span" parent="188" relname="joint"/>
+		<group id="161" type="span" parent="150" relname="elaboration"/>
+		<group id="159" type="span" parent="161" relname="span"/>
+		<group id="158" type="multinuc" parent="151" relname="elaboration"/>
+		<group id="157" type="multinuc" parent="158" relname="comparison"/>
+		<group id="156" type="span" parent="157" relname="same-unit"/>
+		<group id="187" type="span" parent="188" relname="joint"/>
+		<group id="186" type="multinuc" parent="163" relname="elaboration"/>
+		<group id="182" type="span" parent="186" relname="comparison"/>
+		<group id="174" type="span" parent="181" relname="cause-effect"/>
+		<group id="173" type="span" parent="164" relname="concession"/>
+		<group id="172" type="multinuc" parent="165" relname="cause-effect"/>
+		<group id="171" type="span" parent="172" relname="contrast"/>
+		<group id="170" type="span" parent="167" relname="evidence"/>
+		<group id="181" type="span" parent="182" relname="span"/>
+		<group id="180" type="span" parent="181" relname="span"/>
+		<group id="179" type="span" parent="180" relname="span"/>
+		<group id="185" type="span" parent="186" relname="comparison"/>
+		<group id="194" type="span"/>
+	</body>
+</rst>

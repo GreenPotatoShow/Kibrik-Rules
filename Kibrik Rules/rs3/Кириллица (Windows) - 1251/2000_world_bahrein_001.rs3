@@ -1,0 +1,42 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="17" relname="span">Начато расследование причин катастрофы аэробуса, упавшего в Персидский залив\n\nАвиакомпания \"Галф Эр\" начала расследование причин катастрофы аэробуса А-320,</segment>
+		<segment id="16" parent="15" relname="background">унесшей жизни 143 человек.</segment>
+		<segment id="18" parent="28" relname="span">На данный момент, у экспертов нет никаких данных, по которым они могли бы восстановить достоверную картину катастрофы.</segment>
+		<segment id="19" parent="27" relname="contrast">Найдены два \"черных ящика\" самолета,</segment>
+		<segment id="20" parent="22" relname="span">однако данные самописцев пока не расшифрованы.\n\nАэробус,</segment>
+		<segment id="21" parent="20" relname="elaboration">совершавший рейс из Каира в Манаму,</segment>
+		<segment id="23" parent="25" relname="span">упал в море,</segment>
+		<segment id="24" parent="23" relname="condition">заходя на посадку в Международном аэропорту Бахрейна.</segment>
+		<segment id="29" parent="39" relname="joint">Эксперты отмечают, что пилот не подавал сигналов бедствия.\n\nТела всех 143 человек, находившихся на борту самолета, уже извлечены из под обломков.</segment>
+		<segment id="32" parent="38" relname="joint">Родственники пассажиров, доставленные спецрейсом из Каира, уже приступили к опознанию погибших.\n\nВ Бахрейн прибыли эксперты фирмы Air Bus Industry, производителя этого самолета.</segment>
+		<segment id="33" parent="37" relname="span">Они примут участие в расследовании вместе с представителями Национального совета США по безопасности на транспорте.\n\nПо одной из неофициальных версий,</segment>
+		<segment id="34" parent="36" relname="span">катастрофа была вызвана ошибкой пилота,</segment>
+		<segment id="35" parent="34" relname="elaboration">который при заходе на посадку задел крылом поверхность воды.\n\nИсточник: https://www.newsru.com/world/25Aug2000/bahrein.html\n</segment>
+		<group id="17" type="span" parent="40" relname="preparation"/>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="28" type="span" parent="40" relname="joint"/>
+		<group id="27" type="multinuc" parent="18" relname="elaboration"/>
+		<group id="26" type="span" parent="27" relname="contrast"/>
+		<group id="22" type="span" parent="25" relname="cause-effect"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="36" type="span" parent="33" relname="cause-effect"/>
+		<group id="41" type="span"/>
+	</body>
+</rst>

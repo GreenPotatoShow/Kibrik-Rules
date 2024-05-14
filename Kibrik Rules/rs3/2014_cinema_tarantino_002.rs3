@@ -1,0 +1,113 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="47" parent="51" relname="span">Тарантино не будет снимать вестерн \"Ненавистная восьмерка\"</segment>
+		<segment id="48" parent="50" relname="span">из-за утечки сценария\n\nЗнаменитый голливудский режиссер Квентин Тарантино отказался снимать фильм \"Ненавистная восьмерка\" (The Hateful Eight)</segment>
+		<segment id="49" parent="48" relname="cause-effect">из-за утечки сценария,</segment>
+		<segment id="52" parent="51" relname="attribution">сообщает Deadline.</segment>
+		<segment id="54" parent="60" relname="same-unit">Режиссер,</segment>
+		<segment id="55" parent="58" relname="condition">не стесняясь в выражениях,</segment>
+		<segment id="56" parent="57" relname="attribution">рассказал,</segment>
+		<segment id="57" parent="58" relname="span">кого подозревает в \"предательстве\".\n\n</segment>
+		<segment id="61" parent="63" relname="span">\"Я очень, очень расстроен,</segment>
+		<segment id="62" parent="61" relname="attribution">- сказал Тарантино.</segment>
+		<segment id="65" parent="67" relname="sequence">- Я закончил первый черновик сценария,</segment>
+		<segment id="66" parent="67" relname="sequence">и я не собирался обнародовать его до следующей зимы.</segment>
+		<segment id="68" parent="72" relname="joint">Я дал его почитать шести людям,</segment>
+		<segment id="69" parent="71" relname="sequence">и вот что мы имеем на сегодня\".\n\n\"Я дал копию продюсеру \"Джанго освобожденного\" Регги Хадлину,</segment>
+		<segment id="70" parent="71" relname="sequence">и он дал его почитать агенту.</segment>
+		<segment id="73" parent="75" relname="span">Это предательство, но не слишком страшное</segment>
+		<segment id="74" parent="73" relname="cause-effect">- копию с собой агент не забрал.</segment>
+		<segment id="76" parent="77" relname="contrast">А дальше началось какое-то злодейство.</segment>
+		<segment id="79" parent="85" relname="joint">Я дал по копии трем актерам: Майклу Мэдсену, Брюсу Дерну и Тиму Роту.</segment>
+		<segment id="80" parent="84" relname="span">Я уверен лишь в одном - в Тиме Роте.</segment>
+		<segment id="81" parent="83" relname="span">Кто-то из двух других дал сценарий своему агенту,</segment>
+		<segment id="82" parent="81" relname="background">а тот раздал его каждому в Голливуде\",</segment>
+		<segment id="86" parent="85" relname="attribution">- сказал режиссер.\n\n</segment>
+		<segment id="88" parent="90" relname="contrast">\"Я не знаю, как эти ****** агенты работают,</segment>
+		<segment id="89" parent="90" relname="contrast">но я не буду снимать эту вещь следующей.</segment>
+		<segment id="91" parent="93" relname="joint">Я собираюсь ее опубликовать,</segment>
+		<segment id="92" parent="93" relname="joint">и на этом все.</segment>
+		<segment id="94" parent="98" relname="joint">Я даю почитать сценарий шести людям,</segment>
+		<segment id="95" parent="96" relname="condition">и если не могу никому из них доверять,</segment>
+		<segment id="96" parent="97" relname="span">то у меня нет никакого желания снимать фильм.</segment>
+		<segment id="99" parent="100" relname="joint">Я двинусь дальше.</segment>
+		<segment id="101" parent="103" relname="span">У меня еще десять фильмов в запасе\",</segment>
+		<segment id="102" parent="101" relname="attribution">- эмоционально заявил Тарантино.\n\</segment>
+		<segment id="107" parent="108" relname="attribution">nОн отметил,</segment>
+		<segment id="108" parent="109" relname="span">что на ближайшее время у него было запланировано два сценария.</segment>
+		<segment id="110" parent="112" relname="span">Теперь он перейдет ко второму,</segment>
+		<segment id="111" parent="110" relname="elaboration">в котором у него также запланирована большая роль для 77-летнего Брюса Дерна.</segment>
+		<segment id="113" parent="114" relname="sequence">Ранее планировалось, что Дерн сыграет главного героя в \"Ненавистной восьмерке\".\n\nРанее сообщалось, что дважды выигрывавший \"Оскар\" режиссер и сценарист начнет работу над новым фильмом в конце 2014 года.</segment>
+		<segment id="115" parent="119" relname="contrast">Планировалось, что он будет снят в жанре вестерн,</segment>
+		<segment id="116" parent="118" relname="joint">однако при этом не станет продолжением последней ленты Тарантино \"Джанго освобожденный\".\n\nКвентин Тарантино за свою почти четвертьвековую карьеру в Голливуде снял 10 фильмов</segment>
+		<segment id="117" parent="118" relname="joint">и написал более 20 сценариев, легших в основу картин в том числе и других режиссеров.</segment>
+		<segment id="120" parent="121" relname="joint">Сценарии Тарантино отличаются обилием диалогов с щедрым использованием ненормативной лексики.</segment>
+		<segment id="122" parent="125" relname="concession">Несмотря на это,</segment>
+		<segment id="123" parent="125" relname="joint">высказывания тарантиновских персонажей расходятся на цитаты с самой первой картины (\"Бешеные псы\", 1991) и по сей день.\n\nПоследний фильм Тарантино - \"Джанго освобожденный\" - вышел на экраны в 2012 году</segment>
+		<segment id="124" parent="125" relname="joint">и снискал одобрение как зрителей, так и критиков.</segment>
+		<segment id="127" parent="128" relname="joint">В начале 2013 году лента получила два \"Золотых глобуса\", а также два \"Оскара\": за лучшую мужскую роль (австрийский актер Кристоф Вальц) и за лучший сценарий.\n\nИсточник: https://www.newsru.com/cinema/22Jan2014/tarantino.html\n</segment>
+		<group id="53" type="span" parent="137" relname="joint"/>
+		<group id="51" type="span" parent="53" relname="span"/>
+		<group id="50" type="span" parent="47" relname="cause-effect"/>
+		<group id="136" type="multinuc" parent="137" relname="joint"/>
+		<group id="64" type="span" parent="136" relname="joint"/>
+		<group id="60" type="multinuc" parent="64" relname="span"/>
+		<group id="59" type="span" parent="60" relname="same-unit"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="63" type="span" parent="60" relname="interpretation-evaluation"/>
+		<group id="135" type="span" parent="136" relname="joint"/>
+		<group id="67" type="multinuc" parent="134" relname="preparation"/>
+		<group id="134" type="multinuc" parent="135" relname="span"/>
+		<group id="78" type="span" parent="134" relname="joint"/>
+		<group id="72" type="multinuc" parent="78" relname="span"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="77" type="multinuc" parent="72" relname="interpretation-evaluation"/>
+		<group id="75" type="span" parent="77" relname="contrast"/>
+		<group id="133" type="multinuc" parent="134" relname="joint"/>
+		<group id="87" type="span" parent="133" relname="joint"/>
+		<group id="85" type="multinuc" parent="87" relname="span"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="83" type="span" parent="80" relname="elaboration"/>
+		<group id="132" type="multinuc" parent="133" relname="joint"/>
+		<group id="106" type="span" parent="132" relname="joint"/>
+		<group id="90" type="multinuc" parent="106" relname="span"/>
+		<group id="105" type="span" parent="90" relname="elaboration"/>
+		<group id="93" type="multinuc" parent="105" relname="span"/>
+		<group id="104" type="multinuc" parent="93" relname="elaboration"/>
+		<group id="100" type="multinuc" parent="104" relname="joint"/>
+		<group id="98" type="multinuc" parent="100" relname="joint"/>
+		<group id="97" type="span" parent="98" relname="joint"/>
+		<group id="103" type="span" parent="104" relname="joint"/>
+		<group id="131" type="span" parent="132" relname="joint"/>
+		<group id="109" type="span" parent="130" relname="preparation"/>
+		<group id="130" type="multinuc" parent="131" relname="span"/>
+		<group id="114" type="multinuc" parent="130" relname="joint"/>
+		<group id="112" type="span" parent="114" relname="sequence"/>
+		<group id="129" type="multinuc" parent="130" relname="joint"/>
+		<group id="121" type="multinuc" parent="129" relname="joint"/>
+		<group id="119" type="multinuc" parent="121" relname="joint"/>
+		<group id="118" type="multinuc" parent="119" relname="contrast"/>
+		<group id="128" type="multinuc" parent="129" relname="joint"/>
+		<group id="126" type="span" parent="128" relname="joint"/>
+		<group id="125" type="multinuc" parent="126" relname="span"/>
+		<group id="137" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,186 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="82" parent="241" relname="preparation">El Pais: Кремль может разбавить компанию преемников главой РЖД\n\nСМИ вновь заговорили о главе \"Российских железных дорог\" Владимире Якунине как о возможном преемнике Путина.</segment>
+		<segment id="83" parent="85" relname="joint">Список утвержденных претендентов не обязательно ограничится кандидатурами Дмитрия Медведева и Сергея Иванова,</segment>
+		<segment id="84" parent="85" relname="joint">и личность Якунина одна из самых достойных внимания,</segment>
+		<segment id="86" parent="85" relname="attribution">пишет в четверг испанская El Pais.\n\</segment>
+		<segment id="88" parent="96" relname="comparison">nВ то время как два преемника решают повседневные вопросы в правительстве,</segment>
+		<segment id="89" parent="91" relname="joint">другие доверенные лица президента занимают</segment>
+		<segment id="90" parent="91" relname="joint">и укрепляют свои позиции во главе экономических и социальных структур,</segment>
+		<segment id="92" parent="94" relname="span">которые в случае необходимости могут стать трамплином</segment>
+		<segment id="93" parent="92" relname="purpose">для прыжка в большую политику.</segment>
+		<segment id="97" parent="99" relname="span">Выйти на этот трамплин вполне может 58-летний Якунин.\n\nБиография главного железнодорожника страны корнями уходит в Санкт-Петербург,</segment>
+		<segment id="98" parent="97" relname="elaboration">откуда пришел в большую политику сам президент Путин и два нынешних первых вице-премьера.</segment>
+		<segment id="102" parent="104" relname="span">Получив образование в северной столице,</segment>
+		<segment id="103" parent="102" relname="elaboration">Якунин по официальным данным работал в дипломатическом представительстве СССР при ООН (1985-1991 годы).</segment>
+		<segment id="105" parent="108" relname="cause-effect">После распада СССР занялся бизнесом.\n\nПо утверждению еженедельника \"Коммерсант-Власть\",</segment>
+		<segment id="106" parent="108" relname="span">на самом деле Якунин был сотрудником советской разведки под дипломатическим прикрытием</segment>
+		<segment id="107" parent="106" relname="elaboration">(имеется ввиду КГБ - прим.</segment>
+		<segment id="110" parent="109" relname="elaboration">NEWSru.com).</segment>
+		<segment id="113" parent="116" relname="condition">Если это действительно так,</segment>
+		<segment id="114" parent="116" relname="span">это обстоятельство еще больше сближает его с Путиным,</segment>
+		<segment id="115" parent="114" relname="elaboration">который в то же самое время был шпионом в ГДР,</segment>
+		<segment id="118" parent="117" relname="attribution">отмечает газета (полный текст на сайте Inopressa.ru)</segment>
+		<segment id="121" parent="125" relname="span">Сейчас глава железных дорог часто сопровождает президента Путина в поездках</segment>
+		<segment id="122" parent="124" relname="joint">(в частности, во время недавнего турне Путина по странам Персидского залива)</segment>
+		<segment id="123" parent="124" relname="joint">и активно участвует в руководстве средствами сообщения в России.\n\nРанее эксперты уже обращали внимание на кандидатуру Якунина как на возможного преемника.</segment>
+		<segment id="126" parent="125" relname="background">Еще летом 2005 года в аналитическом отчете \"Альфа-банк\" назвал предпочтительным сценарий,</segment>
+		<segment id="128" parent="132" relname="span">когда Путина заменит \"выходец из существующей властной структуры\"</segment>
+		<segment id="129" parent="131" relname="span">- в их числе банк</segment>
+		<segment id="130" parent="129" relname="attribution">назвал Владимира Якунина.</segment>
+		<segment id="133" parent="139" relname="span">В этом случае \"отклонение от курса будет минимальным\"</segment>
+		<segment id="134" parent="136" relname="span">(а идеальным выходом банк счел,</segment>
+		<segment id="135" parent="134" relname="condition">если бы Путин остался на третий срок).\n\nА летом 2006 года глава РЖД выступил в несколько несвойственной ему до тех пор роли,</segment>
+		<segment id="137" parent="138" relname="span">возглавив конференцию \"Проблемы формирования государственных политик в России: состояние и перспективы\".</segment>
+		<segment id="142" parent="164" relname="sequence">Его доклад назывался \"Ценностные и правовые основания государственной политики государственно-частного партнерства\"</segment>
+		<segment id="143" parent="146" relname="cause-effect">- то есть охватывал область, лежащую за пределами интересов и нужд руководимого докладчиком ведомства.\n\nРоссийские СМИ тогда предположили,</segment>
+		<segment id="144" parent="146" relname="span">что Якунин презентовался в новом качестве</segment>
+		<segment id="145" parent="144" relname="elaboration">- как человек, активно готовящийся к выборам 2008 года.</segment>
+		<segment id="148" parent="150" relname="span">У него есть центр подготовки программ, сотрудничающий с РАН</segment>
+		<segment id="149" parent="148" relname="elaboration">(который можно сравнить, например, с Центром стратегических разработок при тогда еще премьере Владимире Путине),</segment>
+		<segment id="151" parent="155" relname="span">и он активно выступал по сугубо политическим темам,</segment>
+		<segment id="152" parent="153" relname="cause-effect">далеко выходящим за рамки его сегодняшних служебных обязанностей.\n\nСам Якунин тогда опроверг сведения о том,</segment>
+		<segment id="153" parent="154" relname="span">что он намеревается побороться за пост президента России.</segment>
+		<segment id="157" parent="159" relname="span">\"Вопрос задавался неоднократно.</segment>
+		<segment id="158" parent="157" relname="elaboration">Ответ - естественно негативный\",</segment>
+		<segment id="160" parent="159" relname="attribution">- заявил Якунин.</segment>
+		<segment id="166" parent="169" relname="attribution">По его словам,</segment>
+		<segment id="167" parent="169" relname="contrast">\"эта тема раздувается, возможно, из желания запустить слухи,</segment>
+		<segment id="168" parent="169" relname="contrast">а возможно, и по каким-то иным соображениям\".\n\nСвидетельств о близости Якунина к Путину хватает.</segment>
+		<segment id="171" parent="170" relname="background">В 2005 году на пасхальной службе в храме Христа Спасителя Владимир Якунин стоял за спиной президента Путина в узком кругу приближенных\".</segment>
+		<segment id="173" parent="188" relname="preparation">Якунин и Путин дружили семьями и даже дачи в Ленинградской области построили рядом.</segment>
+		<segment id="174" parent="178" relname="sequence">В команде будущего президента Якунин работает с начала 1990-х годов.\n\nВ 1990-е годы Якунин входил в совет директоров гостиницы \"Европа\" в Санкт-Петербурге и Балтийского морского пароходства,</segment>
+		<segment id="175" parent="177" relname="span">руководил банком и работал вместе с Путиным,</segment>
+		<segment id="176" parent="175" relname="background">когда тот возглавлял комитет по внешним связям мэрии второго города России.</segment>
+		<segment id="179" parent="183" relname="joint">В 1996 году он вместе с Путиным стал одним из основателей дачного кооператива \"Озеро\" под Санкт-Петербургом.</segment>
+		<segment id="180" parent="182" relname="sequence">В Москву он приехал в 2000 году в качестве заместителя министра транспорта</segment>
+		<segment id="181" parent="182" relname="sequence">и постепенно вырос до руководителя компании \"РЖД\", занявшей место министерства, отвечавшего за данный сектор.\n\nНаиболее ярко характеризует личность Якунина его тесная связь с Русской православной церковью, а также руководство культурными организациями и форумами (\"Центр национальной славы России\" и \"Фонд Святого Андрея Первозванного\"), созданными после 2001 года с целью пропаганды и поддержки российской культуры и традиций, понимаемых с консервативных позиций.</segment>
+		<segment id="184" parent="186" relname="contrast">Якунин отстаивает образ России, сосредоточенной на себе самой, спокойной и толерантной,</segment>
+		<segment id="185" parent="186" relname="contrast">но не поддающейся вовлечению в глобализацию западного толка.</segment>
+		<segment id="191" parent="205" relname="span">Речь идет о неагрессивной, по крайней мере явно, России, претендующей на \"евроазиатскую идентичность\".\n\n</segment>
+		<segment id="192" parent="204" relname="span">\"Среди возможных кандидатов на президентский пост Якунин мог бы стать альтернативой либерализму и национализму и компромиссом с Западом\",</segment>
+		<segment id="193" parent="202" relname="attribution">- отмечает работающий на него аналитик.\n\nОсновная международная платформа Якунина - мировой общественный форум \"Диалог цивилизаций\",</segment>
+		<segment id="194" parent="201" relname="preparation">основанный в 2002 году по инициативе России, Греции и Индии.</segment>
+		<segment id="195" parent="201" relname="span">Заседание этого форума проходило 13 и 14 марта в штаб-квартире ЮНЕСКО в Париже,</segment>
+		<segment id="196" parent="200" relname="joint">где перед большой аудиторией религиозных лидеров и международных аналитиков Якунин поставил вопрос об \"абсолютных и универсальных формах\" человеческих ценностей</segment>
+		<segment id="197" parent="198" relname="attribution">и противопоставил плюрализм гуманистических концепций \"европейскому гуманизму\" Возрождения и Просвещения.\n\nЯкунин высказал мнение,</segment>
+		<segment id="198" parent="199" relname="span">что демократия не должна быть непременно похожа не американскую.</segment>
+		<segment id="206" parent="207" relname="attribution">По его мнению,</segment>
+		<segment id="207" parent="208" relname="span">формальная система прав и гражданских свобод должна способствовать реализации представлений о человеческом достоинстве, \"присущих\" различным цивилизациям.</segment>
+		<segment id="209" parent="210" relname="purpose">Чтобы удержать мир от сползания в область серьезных военно-политических конфронтаций,</segment>
+		<segment id="210" parent="211" relname="span">необходим диалог.</segment>
+		<segment id="212" parent="213" relname="span">Он не испытывает недостатка в экономических ресурсах, необходимых для стимулирования этого диалога.</segment>
+		<segment id="215" parent="227" relname="joint">С 2003 года мировой общественный форум проводит ежегодные сессии на греческом острове Родос, а также на Кубе под патронажем Фиделя Кастро.</segment>
+		<segment id="216" parent="226" relname="joint">Якунин также наградил бывшего президента Ирана Мохаммеда Хатами орденом Святого Андрея Первозванного.\n\nРЖД - третья по величине монополия в РФ\n\nОАО \"Российские железные дороги\" - третья по величине государственная монополия после \"Газпрома\" и РАО ЕЭС.</segment>
+		<segment id="217" parent="225" relname="span">В 2006 году чистая прибыль российских железных дорог составила 25000 миллионов рублей (724 миллиона евро).</segment>
+		<segment id="218" parent="220" relname="span">Железные дороги,</segment>
+		<segment id="219" parent="218" relname="elaboration">протяженность которых составляет 85,5 тыс. км,</segment>
+		<segment id="221" parent="223" relname="joint">играют ключевую роль в разработке природных ресурсов Сибири</segment>
+		<segment id="222" parent="223" relname="joint">и конкурируют в этой сфере с такими монополистами, как нефтепроводная компания \"Транснефть\".\n\nВ недавнем исследовании, оплаченном ОАО \"РЖД\", защищается идея транспортировки нефти в Китай по железной дороге.</segment>
+		<segment id="228" parent="234" relname="joint">Поезда, в отличие от нефтепроводов,</segment>
+		<segment id="229" parent="232" relname="attribution">утверждают авторы исследования,</segment>
+		<segment id="230" parent="232" relname="joint">позволяют создать сеть поставок населению,</segment>
+		<segment id="231" parent="232" relname="joint">а также обеспечивают России большую, чем нефтепроводы, независимость в сфере регулирования энергетических поставок громадному и грозному восточному соседу.\n\nИсточник: https://www.newsru.com/russia/22Mar2007/yakunin.html\n</segment>
+		<group id="241" type="multinuc" parent="242" relname="span"/>
+		<group id="101" type="multinuc" parent="241" relname="joint"/>
+		<group id="87" type="span" parent="101" relname="comparison"/>
+		<group id="85" type="multinuc" parent="87" relname="span"/>
+		<group id="100" type="multinuc" parent="101" relname="comparison"/>
+		<group id="96" type="multinuc" parent="100" relname="joint"/>
+		<group id="95" type="span" parent="96" relname="comparison"/>
+		<group id="91" type="multinuc" parent="95" relname="span"/>
+		<group id="94" type="span" parent="91" relname="elaboration"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="240" type="span" parent="241" relname="joint"/>
+		<group id="120" type="span" parent="239" relname="preparation"/>
+		<group id="112" type="multinuc" parent="120" relname="span"/>
+		<group id="104" type="span" parent="112" relname="sequence"/>
+		<group id="111" type="span" parent="112" relname="sequence"/>
+		<group id="109" type="span" parent="111" relname="span"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="119" type="span" parent="112" relname="elaboration"/>
+		<group id="117" type="span" parent="119" relname="span"/>
+		<group id="116" type="span" parent="117" relname="span"/>
+		<group id="239" type="multinuc" parent="240" relname="span"/>
+		<group id="165" type="multinuc" parent="239" relname="joint"/>
+		<group id="141" type="span" parent="165" relname="joint"/>
+		<group id="127" type="span" parent="141" relname="span"/>
+		<group id="125" type="span" parent="127" relname="span"/>
+		<group id="124" type="multinuc" parent="121" relname="elaboration"/>
+		<group id="140" type="multinuc" parent="127" relname="background"/>
+		<group id="132" type="span" parent="140" relname="joint"/>
+		<group id="131" type="span" parent="128" relname="attribution"/>
+		<group id="139" type="span" parent="140" relname="joint"/>
+		<group id="138" type="span" parent="133" relname="elaboration"/>
+		<group id="136" type="span" parent="137" relname="cause-effect"/>
+		<group id="164" type="multinuc" parent="165" relname="joint"/>
+		<group id="163" type="multinuc" parent="164" relname="sequence"/>
+		<group id="147" type="span" parent="163" relname="joint"/>
+		<group id="146" type="span" parent="147" relname="span"/>
+		<group id="162" type="span" parent="163" relname="joint"/>
+		<group id="156" type="multinuc" parent="162" relname="span"/>
+		<group id="150" type="span" parent="156" relname="joint"/>
+		<group id="155" type="span" parent="156" relname="joint"/>
+		<group id="154" type="span" parent="151" relname="cause-effect"/>
+		<group id="161" type="span" parent="156" relname="interpretation-evaluation"/>
+		<group id="159" type="span" parent="161" relname="span"/>
+		<group id="238" type="multinuc" parent="239" relname="joint"/>
+		<group id="190" type="multinuc" parent="238" relname="joint"/>
+		<group id="172" type="span" parent="190" relname="joint"/>
+		<group id="170" type="span" parent="172" relname="span"/>
+		<group id="169" type="multinuc" parent="170" relname="span"/>
+		<group id="189" type="span" parent="190" relname="joint"/>
+		<group id="188" type="multinuc" parent="189" relname="span"/>
+		<group id="178" type="multinuc" parent="188" relname="joint"/>
+		<group id="177" type="span" parent="178" relname="sequence"/>
+		<group id="187" type="span" parent="188" relname="joint"/>
+		<group id="183" type="multinuc" parent="187" relname="span"/>
+		<group id="182" type="multinuc" parent="183" relname="joint"/>
+		<group id="186" type="multinuc" parent="183" relname="interpretation-evaluation"/>
+		<group id="237" type="multinuc" parent="238" relname="joint"/>
+		<group id="205" type="span" parent="237" relname="joint"/>
+		<group id="204" type="span" parent="191" relname="elaboration"/>
+		<group id="203" type="span" parent="192" relname="attribution"/>
+		<group id="202" type="span" parent="203" relname="span"/>
+		<group id="201" type="span" parent="202" relname="span"/>
+		<group id="200" type="multinuc" parent="195" relname="elaboration"/>
+		<group id="199" type="span" parent="200" relname="joint"/>
+		<group id="236" type="multinuc" parent="237" relname="joint"/>
+		<group id="214" type="span" parent="236" relname="joint"/>
+		<group id="208" type="span" parent="214" relname="span"/>
+		<group id="213" type="span" parent="208" relname="purpose"/>
+		<group id="211" type="span" parent="212" relname="purpose"/>
+		<group id="235" type="multinuc" parent="236" relname="joint"/>
+		<group id="227" type="multinuc" parent="235" relname="joint"/>
+		<group id="226" type="multinuc" parent="227" relname="joint"/>
+		<group id="225" type="span" parent="226" relname="joint"/>
+		<group id="224" type="multinuc" parent="217" relname="elaboration"/>
+		<group id="220" type="span" parent="224" relname="joint"/>
+		<group id="223" type="multinuc" parent="224" relname="joint"/>
+		<group id="234" type="multinuc" parent="235" relname="joint"/>
+		<group id="233" type="span" parent="234" relname="joint"/>
+		<group id="232" type="multinuc" parent="233" relname="span"/>
+		<group id="242" type="span"/>
+	</body>
+</rst>

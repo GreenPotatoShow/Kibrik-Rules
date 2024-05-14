@@ -1,0 +1,21 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="6" parent="8" relname="span">Алексей Мельников: \"Дружеские объятия любимого закона\"\n\n\"Глава 34-я Уголовного Кодекса России была для меня подобием заброшенного крыла в большом старом доме.</segment>
+		<segment id="7" parent="6" relname="elaboration">С закрытыми дверьми, провалившимися полами, покрытой пылью ветхой мебелью и шорохом мышей в тёмных углах.\n\nГлава эта называется \"Преступления против мира и безопасности человечества\".</segment>
+		<segment id="9" parent="13" relname="span">Представлялось, что статьи этой главы совершенно бесполезны в нашем российском государстве</segment>
+		<segment id="10" parent="12" relname="span">– никогда они не будут применены,</segment>
+		<segment id="11" parent="10" relname="cause-effect">потому что никогда не будет людей, пожелавших в России такие преступления совершать\".\n\nИсточник: https://www.newsru.com/blog/20May2014/zakon.html\n</segment>
+		<group id="8" type="span" parent="14" relname="span"/>
+		<group id="13" type="span" parent="8" relname="interpretation-evaluation"/>
+		<group id="12" type="span" parent="9" relname="elaboration"/>
+		<group id="14" type="span"/>
+	</body>
+</rst>

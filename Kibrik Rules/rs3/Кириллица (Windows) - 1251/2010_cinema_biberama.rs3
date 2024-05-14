@@ -1,0 +1,74 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="30" parent="32" relname="span">Джастин Бибер стал \"артистом года\" и \"открытием года\" на American Music Awards\n\nШестнадцатилетний канадский школьник Джастин Бибер получил награду \"Артист года\" на 38-й церемонии American Music Awards,</segment>
+		<segment id="31" parent="30" relname="background">которая прошла в воскресенье в Лос-Анджелесе,</segment>
+		<segment id="33" parent="32" relname="attribution">сообщает РИА \"Новости\" со ссылкой на телеканал ABC.</segment>
+		<segment id="35" parent="34" relname="elaboration">Он стал самым молодым из тех, кому присуждалась эта награда.</segment>
+		<segment id="37" parent="39" relname="span">Всего Бибер завоевал четыре приза</segment>
+		<segment id="38" parent="37" relname="elaboration">- во всех номинациях, в которых упоминался.\n\nВ номинации \"Артист года\" состязались такие звезды шоу-бизнеса, как Lady Gaga, Кэти Перри, Эминем, Кеша.</segment>
+		<segment id="40" parent="48" relname="span">В прошлом году награда досталась триумфатору церемонии Тейлор Свифт,</segment>
+		<segment id="41" parent="47" relname="span">которой на этот раз не оказалось в пятерке фаворитов зрителей музыкального телеканала.\n\nБибер поднимался на сцену за призом в виде хрустальной пирамиды трижды</segment>
+		<segment id="42" parent="46" relname="span">- помимо титула \"Артист года\" он получил титул \"Открытие года\" и победу в категории поп- и рок-жанра,</segment>
+		<segment id="43" parent="45" relname="joint">обойдя рэперов Эминема и Ашера,</segment>
+		<segment id="44" parent="45" relname="joint">также номинированных в этой категории.\n\n\"Я не знаю, как это стало возможно.</segment>
+		<segment id="50" parent="52" relname="joint">Творчество Эминема я помню с трехлетнего возраста,</segment>
+		<segment id="51" parent="52" relname="joint">а Ашера считаю своим учителем\",</segment>
+		<segment id="53" parent="56" relname="attribution">- сказал Бибер,</segment>
+		<segment id="54" parent="56" relname="joint">получая приз.\n\nГолосование по мобильным телефонам велось буквально до последних минут,</segment>
+		<segment id="55" parent="56" relname="joint">предшествовавших объявлению победителя.</segment>
+		<segment id="59" parent="83" relname="joint">Три раза Бибер посылал со сцены слова благодарности своим родителям.\n\nОн обрел известность внезапно.</segment>
+		<segment id="60" parent="64" relname="span">В 2009 году вышел его первый сингл в \"One Time\".</segment>
+		<segment id="61" parent="63" relname="joint">Песня сразу же стала хитом,</segment>
+		<segment id="62" parent="63" relname="joint">а Бибер \"оброс\" толпой поклонниц.</segment>
+		<segment id="65" parent="67" relname="sequence">В июле, через неделю после выхода,</segment>
+		<segment id="66" parent="67" relname="sequence">его песня заняла 12-е место в рейтинге \"Canadian Hot 100\".</segment>
+		<segment id="68" parent="70" relname="joint">У Джастина сняты 8 клипов на его песни,</segment>
+		<segment id="69" parent="70" relname="joint">он выпустил два альбома - \"My World\", который вышел 17 ноября 2009 года, и \"My World 2.0\" , выпущенный в марте нынешнего года.\n\nЭминем получил две награды - за лучший альбом в жанре рэп/хип-хоп и как лучший исполнитель в том же жанре.</segment>
+		<segment id="71" parent="79" relname="joint">Всего Эминем был представлен в пяти номинациях.\n\nИсполнитель Ашер был отмечен как лучший R&B-певец и за лучший соул/R&B-альбом.</segment>
+		<segment id="72" parent="74" relname="comparison">Рианна стала лучшей R&B-певицей,</segment>
+		<segment id="73" parent="74" relname="comparison">а Lady Gaga - лучшей исполнительницей в жанре поп/рок.</segment>
+		<segment id="75" parent="77" relname="joint">Кантри-группа Lady Antebellum завоевала награду в своей жанровой номинации.\n\nНаграда в стиле кантри присуждена 20-летней певице Тейлор Свифт.</segment>
+		<segment id="76" parent="77" relname="joint">В прошлом году она получила главную награду как артистка года.\n\nПобедитель American Music Awards определяется народным голосованием.\n\nПремия, вручаемая в восьми номинациях, была задумана как единственный в середине 70-х годов конкурент премии Grammy, вручаемой профессиональным сообществом.\n\nИсточник: https://www.newsru.com/cinema/22Nov2010/biberama.html\n</segment>
+		<group id="36" type="span" parent="85" relname="preparation"/>
+		<group id="34" type="span" parent="36" relname="span"/>
+		<group id="32" type="span" parent="34" relname="span"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="49" type="multinuc" parent="85" relname="joint"/>
+		<group id="39" type="span" parent="49" relname="joint"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="47" type="span" parent="40" relname="elaboration"/>
+		<group id="46" type="span" parent="41" relname="elaboration"/>
+		<group id="45" type="multinuc" parent="42" relname="elaboration"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="58" type="span" parent="84" relname="joint"/>
+		<group id="52" type="multinuc" parent="58" relname="span"/>
+		<group id="57" type="span" parent="52" relname="attribution"/>
+		<group id="56" type="multinuc" parent="57" relname="span"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="64" type="span" parent="82" relname="joint"/>
+		<group id="63" type="multinuc" parent="60" relname="elaboration"/>
+		<group id="81" type="span" parent="82" relname="joint"/>
+		<group id="67" type="multinuc" parent="80" relname="preparation"/>
+		<group id="80" type="multinuc" parent="81" relname="span"/>
+		<group id="70" type="multinuc" parent="80" relname="joint"/>
+		<group id="79" type="multinuc" parent="80" relname="joint"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="74" type="multinuc" parent="78" relname="joint"/>
+		<group id="77" type="multinuc" parent="78" relname="joint"/>
+		<group id="86" type="span"/>
+	</body>
+</rst>

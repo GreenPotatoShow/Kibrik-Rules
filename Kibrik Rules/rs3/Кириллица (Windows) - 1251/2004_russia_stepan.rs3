@@ -1,0 +1,42 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="44" relname="sequence">Кот Степан попал за решетку за нападение на девушку в Новосибирске\n\</segment>
+		<segment id="17" parent="19" relname="span">nВ Новосибирске 22-летняя девушка подверглась нападению кота.</segment>
+		<segment id="18" parent="17" relname="background">Инцидент произошел в минувшую субботу вечером в одном из домов по улице Владимировской,</segment>
+		<segment id="20" parent="22" relname="joint">сообщает Regions.Ru.\n\nШестилетний кот Степан,</segment>
+		<segment id="21" parent="22" relname="joint">по рассказам очевидцев, буквально \"взбесился\".</segment>
+		<segment id="24" parent="26" relname="joint">Он набросился на девушку, исцарапал</segment>
+		<segment id="25" parent="26" relname="joint">и искусал ей руки и ноги.</segment>
+		<segment id="27" parent="41" relname="sequence">Хозяйки животного в этот момент не было дома.\n\</segment>
+		<segment id="28" parent="30" relname="span">nИзраненная,</segment>
+		<segment id="29" parent="28" relname="elaboration">вся в крови,</segment>
+		<segment id="31" parent="33" relname="joint">девушка спряталась от агрессивного животного в ванной</segment>
+		<segment id="32" parent="33" relname="joint">и подняла крик.</segment>
+		<segment id="35" parent="39" relname="joint">Соседи услышали мольбу о помощи</segment>
+		<segment id="36" parent="38" relname="sequence">и позвонили по телефону спасателям.\n\nКинолог службы спасения с коллегами поймали кота специальной сетью</segment>
+		<segment id="37" parent="38" relname="sequence">и отвезли его в ветлечебницу.\n\nИсточник: https://www.newsru.com/russia/20Apr2004/stepan.html\n</segment>
+		<group id="43" type="multinuc" parent="44" relname="sequence"/>
+		<group id="23" type="multinuc" parent="43" relname="sequence"/>
+		<group id="19" type="span" parent="23" relname="joint"/>
+		<group id="22" type="multinuc" parent="23" relname="joint"/>
+		<group id="42" type="multinuc" parent="43" relname="sequence"/>
+		<group id="26" type="multinuc" parent="42" relname="sequence"/>
+		<group id="41" type="multinuc" parent="42" relname="sequence"/>
+		<group id="40" type="multinuc" parent="41" relname="sequence"/>
+		<group id="34" type="multinuc" parent="40" relname="sequence"/>
+		<group id="30" type="span" parent="34" relname="joint"/>
+		<group id="33" type="multinuc" parent="34" relname="joint"/>
+		<group id="39" type="multinuc" parent="40" relname="sequence"/>
+		<group id="38" type="multinuc" parent="39" relname="joint"/>
+		<group id="44" type="multinuc"/>
+	</body>
+</rst>

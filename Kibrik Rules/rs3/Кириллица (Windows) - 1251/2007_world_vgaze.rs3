@@ -1,0 +1,89 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="37" parent="41" relname="joint">В секторе Газа у штаб-квартиры морской полиции взорвался автомобиль,</segment>
+		<segment id="38" parent="40" relname="joint">есть погибшие и раненые\n\nЧетыре офицера палестинской морской полиции погибли</segment>
+		<segment id="39" parent="40" relname="joint">и два получили ранения</segment>
+		<segment id="42" parent="44" relname="span">в результате взрыва автомобиля,</segment>
+		<segment id="43" parent="42" relname="elaboration">который произошел вечером во вторник у здания штаб-квартиры служб безопасности \"Хамас\" в городе Газа на побережье Средиземного моря,</segment>
+		<segment id="46" parent="45" relname="attribution">сообщает NEWSru Israel.</segment>
+		<segment id="48" parent="105" relname="preparation">О причинах взрыва ясности пока нет.</segment>
+		<segment id="49" parent="53" relname="same-unit">Сообщения о личности погибших тоже противоречат друг другу.\n\nМВД правительства сектора Газа, контролируемого движением \"Хамас\",</segment>
+		<segment id="50" parent="52" relname="span">обвинило во взрыве израильский военный корабль,</segment>
+		<segment id="51" parent="50" relname="elaboration">который якобы выпустил по машине ракету.</segment>
+		<segment id="54" parent="58" relname="joint">В свою очередь, израильские власти отрицают это</segment>
+		<segment id="55" parent="56" relname="attribution">и утверждают,</segment>
+		<segment id="56" parent="57" relname="span">что автомобиль был подожжен противотанковой ракетой, выпущенной по нему палестинскими боевиками.</segment>
+		<segment id="60" parent="64" relname="joint">Позже появилась информация, что погибли не четыре, а три человека,</segment>
+		<segment id="61" parent="63" relname="span">и все они находились внутри автомобиля,</segment>
+		<segment id="62" parent="61" relname="elaboration">который взорвался в результате срабатывания заранее заложенной в него бомбы.</segment>
+		<segment id="65" parent="68" relname="attribution">Те же источники утверждают,</segment>
+		<segment id="66" parent="68" relname="span">что погибшие были не офицерами морской полиции, принадлежащими к движению \"Хамас\", но боевиками движения \"Фатх\".\n\nСвидетели сообщают о перестрелке,</segment>
+		<segment id="67" parent="66" relname="background">вспыхнувшей в этом районе сразу после взрыва.</segment>
+		<segment id="70" parent="71" relname="attribution">Палестинцы сообщили,</segment>
+		<segment id="71" parent="72" relname="span">что в машине мог находиться Махмуд Убейд, один из высокопоставленных боевиков \"Бригад мучеников Аль-Аксы\" и один из организаторов теракта в аэропорту Ашдода четыре года назад.</segment>
+		<segment id="75" parent="81" relname="span">Но эта информация не подтвердилась,</segment>
+		<segment id="76" parent="80" relname="span">хотя среди погибших оказался один из соратников Убейда.\n\</segment>
+		<segment id="79" parent="76" relname="elaboration">nПо словам свидетелей инцидента, машина разрушена полностью.</segment>
+		<segment id="82" parent="83" relname="attribution">По сведениям арабского телеканала Al Jazeera,</segment>
+		<segment id="83" parent="84" relname="span">автомобиль принадлежал морской полиции Палестинской автономии.</segment>
+		<segment id="86" parent="98" relname="span">После первоначальных заявлений, в которых звучали обвинения в адрес израильских военно-морских сил,</segment>
+		<segment id="87" parent="89" relname="span">\"Хамас\" выступил с сообщением,</segment>
+		<segment id="88" parent="87" relname="elaboration">в котором сказано,</segment>
+		<segment id="90" parent="92" relname="span">что ведется расследование,</segment>
+		<segment id="91" parent="90" relname="purpose">чтобы установить, как произошел взрыв,</segment>
+		<segment id="93" parent="95" relname="joint">кто погиб</segment>
+		<segment id="94" parent="95" relname="joint">и кто стоит за этим происшествием.</segment>
+		<segment id="99" parent="100" relname="attribution">Источник в местных спецслужбах сообщил,</segment>
+		<segment id="100" parent="101" relname="span">что погибшие - боевики движения \"Фатх\", которые пытались установить бомбу у здания служб безопасности \"Хамас\".\n\nИсточник: https://www.newsru.com/world/03Oct2007/vgaze.html\n</segment>
+		<group id="47" type="span" parent="106" relname="preparation"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="41" type="multinuc" parent="44" relname="cause-effect"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="106" type="span" parent="107" relname="span"/>
+		<group id="105" type="multinuc" parent="106" relname="span"/>
+		<group id="59" type="span" parent="105" relname="joint"/>
+		<group id="53" type="multinuc" parent="59" relname="span"/>
+		<group id="52" type="span" parent="53" relname="same-unit"/>
+		<group id="58" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="104" type="multinuc" parent="105" relname="joint"/>
+		<group id="74" type="multinuc" parent="104" relname="contrast"/>
+		<group id="64" type="multinuc" parent="74" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="69" type="span" parent="73" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="103" type="span" parent="104" relname="contrast"/>
+		<group id="85" type="span" parent="103" relname="span"/>
+		<group id="81" type="span" parent="85" relname="span"/>
+		<group id="80" type="span" parent="75" relname="concession"/>
+		<group id="84" type="span" parent="81" relname="attribution"/>
+		<group id="102" type="span" parent="85" relname="elaboration"/>
+		<group id="98" type="span" parent="102" relname="span"/>
+		<group id="97" type="span" parent="86" relname="elaboration"/>
+		<group id="89" type="span" parent="96" relname="attribution"/>
+		<group id="96" type="multinuc" parent="97" relname="span"/>
+		<group id="92" type="span" parent="96" relname="joint"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="101" type="span" parent="98" relname="elaboration"/>
+		<group id="107" type="span"/>
+	</body>
+</rst>

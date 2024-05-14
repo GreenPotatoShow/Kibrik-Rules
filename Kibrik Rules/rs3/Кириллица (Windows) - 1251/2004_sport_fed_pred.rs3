@@ -1,0 +1,36 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="14" relname="span">Алексей Федорычев возглавил совет директоров \"Динамо\"\n\nВо вторник в офисе московского футбольного клуба \"Динамо\" состоялось очередное заседание совета директоров.</segment>
+		<segment id="13" parent="12" relname="elaboration">Главным вопросом были выборы нового председателя.</segment>
+		<segment id="15" parent="17" relname="span">В результате им стал президент компании \"Федкоминвест\" и генеральный спонсор ФК \"Динамо\" Алексей Федорычев,</segment>
+		<segment id="16" parent="15" relname="background">сменивший на этом посту заслуженного мастера спорта Виктора Царева,</segment>
+		<segment id="18" parent="20" relname="span">сообщает пресс-служба столичной команды.\n\nНапомним, что в сентябре этого года на заседании Президиума Центрального Совета общества \"Динамо\" было принято решение о передаче 51% акций футбольного клуба \"Динамо-Москва\" компании \"Федкоминвест\",</segment>
+		<segment id="19" parent="18" relname="elaboration">президентом которой является Алексей Федорычев</segment>
+		<segment id="22" parent="30" relname="joint">.\n\nБело-голубые пошли этот шаг сделан, прежде всего, для того, чтобы с помощью инвестиций одной из ведущих компаний мира улучшить материально-техническую базу клуба,</segment>
+		<segment id="23" parent="25" relname="joint">в значительной степени изменив инфраструктуру</segment>
+		<segment id="24" parent="25" relname="joint">и выведя ее на европейский уровень.\n\nФедорычев в свое время выступал за динамовский дубль,</segment>
+		<segment id="26" parent="27" relname="condition">а затем, став уже успешным предпринимателем,</segment>
+		<segment id="27" parent="28" relname="span">сумел вывести из кризиса финалиста прошлой Лиги чемпионов клуб \"Монако\", генеральным спонсором которого, как и \"Динамо\", он в настоящее время является.\n\nИсточник: https://www.newsru.com/sport/14Dec2004/fed_pred.html\n</segment>
+		<group id="14" type="span" parent="31" relname="preparation"/>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="21" type="multinuc" parent="31" relname="joint"/>
+		<group id="17" type="span" parent="21" relname="sequence"/>
+		<group id="20" type="span" parent="21" relname="sequence"/>
+		<group id="30" type="multinuc" parent="31" relname="joint"/>
+		<group id="29" type="multinuc" parent="30" relname="joint"/>
+		<group id="25" type="multinuc" parent="29" relname="sequence"/>
+		<group id="28" type="span" parent="29" relname="sequence"/>
+		<group id="32" type="span"/>
+	</body>
+</rst>

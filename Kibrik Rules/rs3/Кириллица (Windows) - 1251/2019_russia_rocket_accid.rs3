@@ -1,0 +1,52 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="span">Двое военных чуть не устроили взрыв в Крыму,</segment>
+		<segment id="20" parent="19" relname="condition">случайно запустив в ангаре авиационную ракету\n\nКрымский гарнизонный военный суд рассматривает иск Минобороны РФ о взыскании более 45 млн рублей с двух военнослужащих морской авиации Черноморского флота,</segment>
+		<segment id="22" parent="21" relname="elaboration">случайно запустивших в ангаре на аэродроме авиационную управляемую ракету Х-29ТД класса \"воздух-поверхность\" в 2017 году.</segment>
+		<segment id="24" parent="32" relname="contrast">Ее боевая часть примерно со 100 кг взрывчатого вещества не сработала,</segment>
+		<segment id="25" parent="29" relname="joint">но ракета снесла ворота</segment>
+		<segment id="26" parent="28" relname="joint">и часть стены ангара,</segment>
+		<segment id="27" parent="28" relname="joint">уничтожив аппаратуру и еще один такой же боеприпас,</segment>
+		<segment id="30" parent="31" relname="same-unit">пишет \"Коммерсант\".\n\nИнцидент произошел 1 октября 2017 года в воинской части 59882 на аэродроме у крымского города Саки.</segment>
+		<segment id="33" parent="39" relname="span">Военнослужащие Алексей Чебанов и Николай Зверев контролировали на аппаратуре комплекса \"Ока\" техническое состояние ракет, с которыми ранее выполнял вылет истребитель Су-30СМ.</segment>
+		<segment id="34" parent="37" relname="cause-effect">Военные в нарушение регламентов не проверили исправность чековых механизмов Х-29ТД (она же \"изделие 63М\"),</segment>
+		<segment id="35" parent="37" relname="span">в результате на изделии сработали пиропатроны.\n\nЧебанову и Звереву вменялось нарушение правил обращения с оружием,</segment>
+		<segment id="36" parent="35" relname="elaboration">представляющим повышенную опасность для окружающих (ч. 1 ст. 349 УК РФ).</segment>
+		<segment id="42" parent="46" relname="joint">Суд признал смягчающими обстоятельствами наличие у Зверева четырех маленьких детей и добровольное возмещение подсудимыми части ущерба - по 3 тысячи рублей каждым.\n\</segment>
+		<segment id="43" parent="45" relname="comparison">nВ итоге Чебанову назначили наказание в виде ограничения по военной службе на один год и три месяца с удержанием 15% из его денежного довольствия в доход государства,</segment>
+		<segment id="44" parent="45" relname="comparison">а Звереву - год ограничения с выплатой 10%.</segment>
+		<segment id="47" parent="49" relname="joint">В период ограничения осужденные не могут быть повышены в должности и воинском звании,</segment>
+		<segment id="48" parent="49" relname="joint">а срок наказания не засчитывается в выслугу лет.</segment>
+		<segment id="50" parent="49" relname="elaboration">Материальный ущерб Минобороны в результате ЧП оценивается в 46 571 866 рублей как \"иные тяжкие последствия\".\n\nРакета малого радиуса действия Х-29 предназначена для уничтожения укрепленных целей: железобетонных сооружений, мостов, бетонные взлетно-посадочых полосы, кораблей водоизмещением до 10 тысяч тонн и подводных лодок в надводном положении.\n\nИсточник: https://www.newsru.com/russia/17Aug2019/rocket_accid.html\n</segment>
+		<group id="41" type="span" parent="53" relname="joint"/>
+		<group id="23" type="span" parent="40" relname="preparation"/>
+		<group id="21" type="span" parent="23" relname="span"/>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="32" type="multinuc" parent="40" relname="joint"/>
+		<group id="31" type="multinuc" parent="32" relname="contrast"/>
+		<group id="29" type="multinuc" parent="31" relname="same-unit"/>
+		<group id="28" type="multinuc" parent="29" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="38" type="span" parent="33" relname="elaboration"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="46" type="multinuc" parent="52" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="49" type="multinuc" parent="51" relname="span"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

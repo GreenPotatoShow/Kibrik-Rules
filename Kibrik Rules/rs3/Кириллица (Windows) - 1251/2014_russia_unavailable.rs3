@@ -1,0 +1,45 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="17" relname="attribution">Минобороны РФ опровергло заявление Пентагона,</segment>
+		<segment id="17" parent="18" relname="span">что Шойгу не хочет говорить с Хейгелом\n\nВ Минобороны РФ не поступало заявлений о желании Хейгела провести телефонные переговоры с Шойгу,</segment>
+		<segment id="19" parent="18" relname="attribution">передает \"Интерфакс\".</segment>
+		<segment id="21" parent="25" relname="sequence">Так ведомство отреагировало на жалобы американского министра Чака Хейгела,</segment>
+		<segment id="22" parent="23" relname="attribution">который говорит,</segment>
+		<segment id="23" parent="24" relname="span">что не может связаться с российским коллегой.\n\n\"Никаких уведомлений в последнее время от американской стороны о желании провести телефонные переговоры Чака Хейгела с Сергеем Шойгу в адрес Минобороны России не поступало\",</segment>
+		<segment id="26" parent="25" relname="attribution">- заявил журналистам официальный представитель МО РФ генерал-майор Игорь Конашенков</segment>
+		<segment id="28" parent="33" relname="attribution">.\n\nРанее в СМИ появились сообщения со ссылкой на новостные агентства,</segment>
+		<segment id="29" parent="32" relname="attribution">что в четверг на пресс-конференции в Мексике глава Пентагона Чак Хейгел заявил</segment>
+		<segment id="30" parent="32" relname="span">о своих попытках связаться с российским министром обороны Сергеем Шойгу,</segment>
+		<segment id="31" parent="30" relname="purpose">чтобы обсудить ситуацию на границе с Украиной.\n\nОднако Конашенков выразил готовность Минобороны России со своей стороны к \"объективному и конструктивному разговору с американскими партнерами в интересах нормализации ситуации на Украине\".\n\nГенерал подчеркнул:</segment>
+		<segment id="35" parent="40" relname="attribution">прямой диалог между главами оборонных ведомств России и США всегда лучше обмена заявлениями через СМИ.\n\nПри этом Конашенков отметил,</segment>
+		<segment id="36" parent="39" relname="attribution">что \"процедура организации переговоров глав военных ведомств двух стран действует уже в течение многих лет\".\n\nНапомним, что в четверг глава Минобороны России Сергей Шойгу заявил,</segment>
+		<segment id="37" parent="39" relname="span">что в приграничных с Украиной районах начались учения батальонных групп,</segment>
+		<segment id="38" parent="37" relname="cause-effect">поскольку Россия вынуждена реагировать на развитие ситуации в Славянске.\n\nИсточник: https://www.newsru.com/russia/25Apr2014/unavailable.html\n</segment>
+		<group id="20" type="span" parent="43" relname="preparation"/>
+		<group id="18" type="span" parent="20" relname="span"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="27" type="span" parent="43" relname="joint"/>
+		<group id="25" type="multinuc" parent="27" relname="span"/>
+		<group id="24" type="span" parent="25" relname="sequence"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="34" type="span" parent="42" relname="joint"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="44" type="span"/>
+	</body>
+</rst>

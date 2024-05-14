@@ -1,0 +1,80 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="33" relname="span">В Лас-Вегасе представили самый быстрый гиперкар в мире - Venom F5 (ВИДЕО)\n\nАмериканское тюнинговое ателье Hennessey представило в рамках ежегодного шоу SEMA в Лас-Вегасе свой новейший гиперкар Venom F5,</segment>
+		<segment id="32" parent="31" relname="elaboration">который может считаться самым быстрым автомобилем в мире.\n\</segment>
+		<segment id="34" parent="41" relname="attribution">nПо данным производителя,</segment>
+		<segment id="35" parent="37" relname="joint">новинка, оснащенная двигателем V8 объемом 7,4 литра с двойным турбонаддувом мощностью 1 600 лошадиных сил и 1 762 Нм крутящего момента,</segment>
+		<segment id="36" parent="37" relname="joint">способна развивать скорость до 300 миль в час (482 км/ч).\n\nРазгон со старта до 186 миль в час (300 км/ч) занимает менее 10 секунд,</segment>
+		<segment id="38" parent="40" relname="span">что делает Venom F5 резвее нынешних болидов гонок Formula 1, а разгон с 0 до 249 миль в час (400 км/ч) с последующей полной остановкой - менее 30 секунд,</segment>
+		<segment id="39" parent="38" relname="attribution">сообщается на сайте Hennessey.\n\</segment>
+		<segment id="43" parent="44" relname="purpose">nДля сравнения,</segment>
+		<segment id="44" parent="45" relname="span">у Bugatti Chiron 2017 года с электронной \"уздечкой\" на двигателе скорость ограничена на отметке 420 км/ч,</segment>
+		<segment id="46" parent="50" relname="same-unit">а без нее этот суперкар,</segment>
+		<segment id="47" parent="48" relname="attribution">по словам производителя,</segment>
+		<segment id="48" parent="49" relname="span">потенциально способен разогнаться до 463 км/ч.</segment>
+		<segment id="53" parent="62" relname="preparation">В сентябре бывший пилот Formula 1 Хуан Пабло Монтойя разогнал Chiron с места до 400 км/час с последующей полной остановкой за 41,96 секунды.\n\nVenom F5 - полностью собственная разработка Hennessey.</segment>
+		<segment id="54" parent="58" relname="joint">Если в случае с его предшественником Venom GT американцы брали за основу шасси от Lotus</segment>
+		<segment id="55" parent="57" relname="restatement">и глубоко его перерабатывали,</segment>
+		<segment id="56" parent="57" relname="restatement">то Venom F5 получила собственный карбоновый каркас с углепластиковыми кузовными панелями,</segment>
+		<segment id="59" parent="61" relname="span">отмечают \"Автовести\".\n\nКоэффициент аэродинамического сопротивления F5 составляет всего 0,33 против 0,44 у предшественника и 0,38 у Chiron.</segment>
+		<segment id="60" parent="59" relname="background">Вся лавина тяги передается на задние колеса через покрышки Michelin Pilot Cup 2.</segment>
+		<segment id="64" parent="66" relname="span">Из-за такого избытка мощности</segment>
+		<segment id="65" parent="64" relname="elaboration">Venom F5 по умолчанию оснащается 7-ступенчатым \"роботом\" с одним сцеплением.\n\nМеханическая коробка передач будет доступна лишь в качестве опции.</segment>
+		<segment id="67" parent="71" relname="same-unit">В этом случае,</segment>
+		<segment id="68" parent="69" relname="attribution">как поясняют в Hennessey,</segment>
+		<segment id="69" parent="70" relname="span">водителю придется самому бороться с пробуксовкой и специальным трекшн-контролем,</segment>
+		<segment id="72" parent="71" relname="elaboration">работающим на основе GPS-данных вплоть до 225 километров в час,</segment>
+		<segment id="74" parent="73" relname="attribution">пишет Motor.\n\</segment>
+		<segment id="77" parent="81" relname="joint">nВсего Henessey планирует выпустить 24 экземпляра F5,</segment>
+		<segment id="78" parent="80" relname="span">стартовая цена составит 1,6 миллиона долларов в базовой комплектации,</segment>
+		<segment id="79" parent="78" relname="elaboration">которую можно оснастить дополнительными опциями еще на 600 тысяч долларов.</segment>
+		<segment id="82" parent="84" relname="joint">При этом потенциальным покупателям нужно будет получить одобрение на приобретение этого суперкара от основателя компании Джона Хеннесси.\n\nСобирать Venom F5 будут на заводе в Техасе,</segment>
+		<segment id="83" parent="84" relname="joint">первые заказчики получат автомобили в начале 2019 года.\n\nИсточник: https://www.newsru.com/auto/02Nov2017/venom.html\n</segment>
+		<group id="33" type="span" parent="88" relname="preparation"/>
+		<group id="88" type="multinuc" parent="89" relname="span"/>
+		<group id="52" type="span" parent="88" relname="joint"/>
+		<group id="42" type="span" parent="52" relname="span"/>
+		<group id="41" type="multinuc" parent="42" relname="span"/>
+		<group id="37" type="multinuc" parent="41" relname="comparison"/>
+		<group id="40" type="span" parent="41" relname="comparison"/>
+		<group id="51" type="multinuc" parent="42" relname="elaboration"/>
+		<group id="45" type="span" parent="51" relname="contrast"/>
+		<group id="50" type="multinuc" parent="51" relname="contrast"/>
+		<group id="49" type="span" parent="50" relname="same-unit"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="63" type="span" parent="87" relname="joint"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="58" type="multinuc" parent="62" relname="comparison"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="61" type="span" parent="62" relname="comparison"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="76" type="span" parent="86" relname="joint"/>
+		<group id="66" type="span" parent="76" relname="span"/>
+		<group id="75" type="span" parent="66" relname="interpretation-evaluation"/>
+		<group id="73" type="span" parent="75" relname="span"/>
+		<group id="71" type="multinuc" parent="73" relname="span"/>
+		<group id="70" type="span" parent="71" relname="same-unit"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="81" type="multinuc" parent="85" relname="joint"/>
+		<group id="80" type="span" parent="81" relname="joint"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="89" type="span"/>
+	</body>
+</rst>

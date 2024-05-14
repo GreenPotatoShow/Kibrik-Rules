@@ -1,0 +1,89 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="37" parent="39" relname="span">Знаменитая создательница \"Пианино\" снимет фильм о матери Николая II\n\nФильм о датской принцессе Дагмар,</segment>
+		<segment id="38" parent="37" relname="background">в замужестве русской императрице Марии Федоровне,</segment>
+		<segment id="42" parent="39" relname="elaboration">ставшей матерью последнего русского императора Николая II, намереваются снять датские продюсеры.</segment>
+		<segment id="44" parent="43" relname="attribution">Об этом сценаристы и продюсер картины сообщили на пресс-конференции в пятницу в Москве,</segment>
+		<segment id="46" parent="47" relname="attribution">передает \"Интерфакс\".\n\nОни отметили,</segment>
+		<segment id="47" parent="48" relname="span">что фильм станет экранизацией \"Коронованной Валькирии\" - неоконченного романа писателя Юрия Давыдова, автора широко известных книг на исторические темы.</segment>
+		<segment id="49" parent="53" relname="span">Над киноверсией романа работают российские сценаристы Александр Миндадзе</segment>
+		<segment id="50" parent="51" relname="attribution">(автор сценариев таких известных картин, как \"Парад планет\", \"Плюмбум, или Опасная игра\", \"Пьеса для пассажира\", \"Время танцора\" и др.) и Наталья Чепик (\"Простые истины\", \"Женская собственность\" и др.).\n\nМиндадзе признался,</segment>
+		<segment id="51" parent="52" relname="span">что никогда не работал над историческими сценариями:</segment>
+		<segment id="54" parent="58" relname="contrast">\"Я всегда пытался писать о сегодняшнем дне,</segment>
+		<segment id="55" parent="57" relname="span">но работать очень интересно</segment>
+		<segment id="56" parent="55" relname="cause-effect">- интересен и роман, и персона\".</segment>
+		<segment id="60" parent="64" relname="span">\"Есть особая важность в экранизации фильма именно сейчас,</segment>
+		<segment id="61" parent="63" relname="sequence">поскольку в 2003 году в Россию, скорее всего, будет перевезен прах императрицы ,</segment>
+		<segment id="62" parent="63" relname="sequence">вот уже 75 лет покоящийся в Копенгагене\",</segment>
+		<segment id="65" parent="76" relname="attribution">- подчеркнула Чепик.\n\nНаталья Чепик сказала,</segment>
+		<segment id="66" parent="68" relname="span">что сведения об императрице Марии Федоровне сохранились только отрывочные,</segment>
+		<segment id="67" parent="66" relname="interpretation-evaluation">\"а меж тем, персона эта была весьма интересная</segment>
+		<segment id="69" parent="75" relname="span">- такой серый кардинал;</segment>
+		<segment id="70" parent="74" relname="contrast">она никогда не была героиней,</segment>
+		<segment id="71" parent="72" relname="condition">а всегда только поддерживала главных героев исторической сцены\".\n\n\"Открывая строжайший секрет,</segment>
+		<segment id="72" parent="73" relname="span">скажу, что сценарий будет о трагедии человека не на своем месте.</segment>
+		<segment id="79" parent="85" relname="span">С одной стороны, внутренний конфликт императрицы возник</segment>
+		<segment id="80" parent="84" relname="span">из-за столкновения мягкого воспитания в маленькой Дании,</segment>
+		<segment id="81" parent="83" relname="joint">где все друг друга знают,</segment>
+		<segment id="82" parent="83" relname="joint">и реальности кровавой, жесткой России.</segment>
+		<segment id="86" parent="87" relname="joint">С другой - из-за того, что Мария Федоровна была более мать и жена, чем государыня\",</segment>
+		<segment id="88" parent="91" relname="attribution">- рассказала Чепик.\n\nПродюсер картины с датской стороны Лия Красновиц также раскрыла тайну</segment>
+		<segment id="89" parent="91" relname="span">- одним из тех, кого датские продюсеры рассматривают как режиссера картины,</segment>
+		<segment id="90" parent="89" relname="elaboration">является Джейн Кэмпион - создательница нашумевшего фильма \"Пианино\", победителя Канн 1993 года.\n\nИмператрица Мария Федоровна, урожденная принцесса датская Дагмара, дочь датского короля Кристиана IX и королевы Луизы, родилась в 1847 году в Копенгагене.</segment>
+		<segment id="93" parent="95" relname="joint">Став супругой русского царя Александра III,</segment>
+		<segment id="94" parent="95" relname="joint">родила ему шестерых детей, в том числе последнего императора России Николая II.</segment>
+		<segment id="96" parent="100" relname="sequence">52 года прожила в России.</segment>
+		<segment id="97" parent="99" relname="sequence">Скончалась в Копенгагене в 1928 году,</segment>
+		<segment id="98" parent="99" relname="sequence">похоронена в усыпальнице датских королей - Роскилльском соборе.\n\nИсточник: https://www.newsru.com/cinema/05Jul2002/pianino.html\n</segment>
+		<group id="45" type="span" parent="106" relname="preparation"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="39" type="span" parent="43" relname="span"/>
+		<group id="106" type="multinuc" parent="107" relname="span"/>
+		<group id="48" type="span" parent="106" relname="joint"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="59" type="span" parent="105" relname="joint"/>
+		<group id="53" type="span" parent="59" relname="span"/>
+		<group id="52" type="span" parent="49" relname="elaboration"/>
+		<group id="58" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="57" type="span" parent="58" relname="contrast"/>
+		<group id="104" type="multinuc" parent="105" relname="joint"/>
+		<group id="78" type="multinuc" parent="104" relname="joint"/>
+		<group id="64" type="span" parent="78" relname="joint"/>
+		<group id="63" type="multinuc" parent="60" relname="cause-effect"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="68" type="span" parent="76" relname="span"/>
+		<group id="75" type="span" parent="68" relname="elaboration"/>
+		<group id="74" type="multinuc" parent="69" relname="elaboration"/>
+		<group id="73" type="span" parent="74" relname="contrast"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="87" type="multinuc" parent="103" relname="joint"/>
+		<group id="85" type="span" parent="87" relname="joint"/>
+		<group id="84" type="span" parent="79" relname="cause-effect"/>
+		<group id="83" type="multinuc" parent="80" relname="elaboration"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="92" type="span" parent="102" relname="joint"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="101" type="span" parent="102" relname="joint"/>
+		<group id="95" type="multinuc" parent="101" relname="span"/>
+		<group id="100" type="multinuc" parent="95" relname="background"/>
+		<group id="99" type="multinuc" parent="100" relname="sequence"/>
+		<group id="107" type="span"/>
+	</body>
+</rst>

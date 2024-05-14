@@ -1,0 +1,56 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="span">У Сухарто есть шанс полностью выздороветь,</segment>
+		<segment id="20" parent="19" relname="attribution">полагают врачи\n\</segment>
+		<segment id="22" parent="24" relname="span">nСостояние бывшего президента Индонезии Мухамеда Сухарто,</segment>
+		<segment id="23" parent="22" relname="background">который почти две недели находится в больнице</segment>
+		<segment id="25" parent="27" relname="span">и уже несколько раз был на грани смерти</segment>
+		<segment id="26" parent="25" relname="cause-effect">из-за отказа многих жизненно важных органов,</segment>
+		<segment id="28" parent="30" relname="joint">улучшилось,</segment>
+		<segment id="29" parent="30" relname="joint">и у него есть все шансы полностью выздороветь,</segment>
+		<segment id="32" parent="31" relname="attribution">сообщает агентство AP со ссылкой на личного доктора президента.\n\n\"Мы настроены оптимистично\",</segment>
+		<segment id="35" parent="36" relname="attribution">- сказал в субботу репортерам глава бригады президентских врачей,</segment>
+		<segment id="36" parent="37" relname="span">которые лечат отставного главу государства, Марджо Субиандоно.\n\nЭкс-президент Индонезии 4 января был госпитализирован с анемией, низким кровяным давлением и почечной недостаточностью.</segment>
+		<segment id="39" parent="51" relname="sequence">Спустя некоторое время у него произошел множественный отказ внутренних органов, включая сердце, легкие, почки и мозг.</segment>
+		<segment id="40" parent="50" relname="joint">Жизнь пациента с тех пор поддерживают специальные аппараты.\n\nРодственники 86-летнего Сухарто уже известили врачей,</segment>
+		<segment id="41" parent="49" relname="span">что не будут препятствовать,</segment>
+		<segment id="42" parent="43" relname="condition">если те сочтут,</segment>
+		<segment id="43" parent="44" relname="span">что надежды на выздоровление пациента нет</segment>
+		<segment id="45" parent="47" relname="span">и решат отключить поддерживающие жизнь аппараты.\n\nСухарто находился у власти в Индонезии 32 года вплоть до мая 1998 года,</segment>
+		<segment id="46" parent="45" relname="condition">когда ему пришлось покинуть свой пост после массовых волнений.\n\nИсточник: https://www.newsru.com/world/19Jan2008/suh.html\n</segment>
+		<group id="21" type="span" parent="52" relname="preparation"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="38" type="span" parent="52" relname="span"/>
+		<group id="34" type="multinuc" parent="37" relname="solutionhood"/>
+		<group id="24" type="span" parent="34" relname="joint"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="31" type="span" parent="33" relname="span"/>
+		<group id="27" type="span" parent="30" relname="cause-effect"/>
+		<group id="30" type="multinuc" parent="31" relname="span"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="51" type="multinuc" parent="38" relname="elaboration"/>
+		<group id="50" type="multinuc" parent="51" relname="sequence"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="48" type="multinuc" parent="41" relname="condition"/>
+		<group id="44" type="span" parent="48" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

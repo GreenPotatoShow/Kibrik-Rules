@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="23" relname="attribution">Прокуратура заявляет,</segment>
+		<segment id="19" parent="23" relname="span">что не нарушала закон,</segment>
+		<segment id="20" parent="21" relname="attribution">обыскивая \"Имидж-банк\"\n\nПредставители Генеральной прокуратуры России сегодня утром заявили,</segment>
+		<segment id="21" parent="22" relname="span">что все обыски, которые были проведены вчера в центральном офисе \"Имидж-банка\", \"осуществлялись в строгом соответствии с законом\".</segment>
+		<segment id="25" parent="30" relname="attribution">Согласно словам представителей прокуратуры,</segment>
+		<segment id="26" parent="29" relname="cause-effect">которые приводит НТВ со ссылкой на \"Интерфакс\",</segment>
+		<segment id="27" parent="28" relname="attribution">следствие \"опровергает все сообщения о том,</segment>
+		<segment id="28" parent="29" relname="span">что обыски проводились с нарушениями\".\n\n\"Все действия проводятся в строгом соответствии с уголовно-процессуальным законодательством\",</segment>
+		<segment id="32" parent="34" relname="span">- говорится в официальном сообщении прокуратуры.\n\nРанее Генеральную прокуратуру обвиняли в нарушениях руководители самого \"Имидж-Банка\" и холдинга \"Медиа-Мост\",</segment>
+		<segment id="33" parent="32" relname="elaboration">счета которого обслуживаются в банке:</segment>
+		<segment id="35" parent="38" relname="attribution">по этим заявлениям,</segment>
+		<segment id="36" parent="38" relname="span">следователи нарушили закон,</segment>
+		<segment id="37" parent="36" relname="condition">обыскивая банк до 2 часов ночи.</segment>
+		<segment id="42" parent="45" relname="attribution">При этом, согласно официальной версии прокуратуры,</segment>
+		<segment id="43" parent="45" relname="span">обыск был связан со счетами Московского метрополитена,</segment>
+		<segment id="44" parent="43" relname="elaboration">которые обслуживает \"Имидж-банк\",</segment>
+		<segment id="47" parent="48" relname="contrast">но во время допроса запрашивались также и документы по операциям \"Медиа-Моста\".\n\nКроме того, из компьютерной сети \"Имидж-Банка\" следователи скопировали базу данных, в которой содержится информация по всем операциям физических и юридических лиц, обслуживающихся в банке, и все записи по их счетам.\n\nИсточник: https://www.newsru.com/russia/08Feb2001/image2.html\n</segment>
+		<group id="24" type="span" parent="49" relname="preparation"/>
+		<group id="23" type="span" parent="24" relname="span"/>
+		<group id="22" type="span" parent="19" relname="condition"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="41" type="multinuc" parent="49" relname="joint"/>
+		<group id="31" type="span" parent="41" relname="joint"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="29" type="span" parent="30" relname="span"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="34" type="span" parent="40" relname="span"/>
+		<group id="39" type="span" parent="34" relname="elaboration"/>
+		<group id="38" type="span" parent="39" relname="span"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="46" type="span" parent="48" relname="contrast"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

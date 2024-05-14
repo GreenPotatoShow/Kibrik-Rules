@@ -1,0 +1,99 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="41" parent="43" relname="span">Новые адвокаты Виктора Бута настаивают на снятии с него всех обвинений\n\nСнятия всех обвинений с Виктора Бута</segment>
+		<segment id="42" parent="41" relname="cause-effect">по причине отсутствия юрисдикции у американского суда потребовала его новая команда адвокатов.</segment>
+		<segment id="44" parent="48" relname="same-unit">В ходатайстве, направленном в понедельник на имя федеральной судьи Ширы Шейндлин,</segment>
+		<segment id="45" parent="46" relname="attribution">возглавляющий ее юрист Альберт Даян настаивает на том,</segment>
+		<segment id="46" parent="47" relname="span">что дело против его подзащитного должно быть прекращено,</segment>
+		<segment id="49" parent="51" relname="joint">поскольку нарушено его право на законное рассмотрение его дела,</segment>
+		<segment id="50" parent="51" relname="joint">а также потому, что \"правительство США не обладает экстратерриторальной юрисдикцией\",</segment>
+		<segment id="52" parent="54" relname="span">т.е. неправомочно рассматривать \"уголовные деяния, имеющие место за пределами США\".\n\n3 марта свои полномочия сложила с себя первый адвокат Бута Сабрина Шрофф,</segment>
+		<segment id="53" parent="52" relname="background">которая была предоставлена ему по закону федеральным судом сразу после того, как бизнесмена привезли в США.</segment>
+		<segment id="58" parent="60" relname="span">Шрофф проводила линию на признание вины и сотрудничество со следствием</segment>
+		<segment id="59" parent="58" relname="purpose">ради смягчения приговора.</segment>
+		<segment id="61" parent="63" relname="contrast">Новая команда нацелена на то, чтобы доказать невиновность Бута.\n\n\"Независимость правосудия в США дает надежду Виктору Буту,</segment>
+		<segment id="62" parent="63" relname="contrast">а мне уверенность в том, что наступило время для того, чтобы узнать правду о \"деле Бута\".</segment>
+		<segment id="64" parent="65" relname="contrast">Правда рано или поздно восторжествует\",</segment>
+		<segment id="67" parent="66" relname="attribution">- сказал Даян.\n\nДаяну 42 года,</segment>
+		<segment id="71" parent="80" relname="preparation">он выходец из СССР, на его счету защита в десятках уголовных дел.</segment>
+		<segment id="72" parent="80" relname="joint">В прошлом году ему удалось добиться оправдательного приговора по, казалось, абсолютно безнадежному делу Джона Микали из клана Гамбино.\n\n\"Я горд тем, что господин Бут выбрал мою кандидатуру в качестве ведущего адвоката.</segment>
+		<segment id="73" parent="77" relname="span">Я также намерен привлечь к работе адвоката Кеннета Каплана,</segment>
+		<segment id="74" parent="76" relname="span">с которым мы вместе работали</segment>
+		<segment id="75" parent="74" relname="elaboration">и которого я знаю как высокого профессионала, человека дела и чести\",</segment>
+		<segment id="78" parent="77" relname="attribution">- сказал ранее Даян.\n\</segment>
+		<segment id="82" parent="83" relname="attribution">nЧастный адвокат российского предпринимателя Виктора Бута Альберт Даян верит,</segment>
+		<segment id="83" parent="84" relname="span">что судебный процесс над россиянином будет открытым и непредвзятым.</segment>
+		<segment id="85" parent="87" relname="span">\"Мне удалось убедить господина Бута в том, что в моей стране правосудие свободно от политического давления, домыслов прессы и голливудских небылиц\",</segment>
+		<segment id="86" parent="85" relname="attribution">- сказал Даян</segment>
+		<segment id="88" parent="90" relname="joint">.\n\nБут был арестован в Бангкоке в марте 2008 года по запросу США</segment>
+		<segment id="89" parent="90" relname="joint">и экстрадирован в Америку в ноябре прошлого года.</segment>
+		<segment id="92" parent="94" relname="span">Ему предъявлены обвинения из четырех пунктов: преступный сговор с целью убийства граждан США,</segment>
+		<segment id="93" parent="92" relname="elaboration">преступный сговор с целью убийства должностных лиц, находящихся на государственной службе, преступный сговор с целью приобретения и продажи зенитных ракет и преступной сговор с целью поставок оружия террористическим группировкам.</segment>
+		<segment id="95" parent="97" relname="span">Обвинения основываются на результатах \"подставной операции\" агентов Управления США по борьбе с наркотиками,</segment>
+		<segment id="96" parent="95" relname="elaboration">в ходе которой они,</segment>
+		<segment id="98" parent="101" relname="condition">выдавая себя за колумбийских повстанцев,</segment>
+		<segment id="99" parent="101" relname="restatement">предложили Буту поставить оружие</segment>
+		<segment id="100" parent="101" relname="restatement">.\n\nРоссиянин не признал себя виновным ни по одному из предъявленных ему обвинений.</segment>
+		<segment id="105" parent="107" relname="sequence">В случае обвинительного приговора 44-летнему бизнесмену грозит от 25 лет тюрьмы до пожизненного заключения.\n\nЗа два с половиной года нахождения в таиландских тюрьмах Бут, который полностью отрицает обвинения в свой адрес,</segment>
+		<segment id="106" parent="107" relname="sequence">был сначала оправдан таиландскими судебными властями по статье \"терроризм\",</segment>
+		<segment id="108" parent="109" relname="contrast">а потом выиграл два дела об экстрадиции в судах первой инстанции.</segment>
+		<segment id="110" parent="109" relname="elaboration">Во всех случаях суд не нашел достаточных доказательств виновности россиянина.</segment>
+		<segment id="112" parent="113" relname="contrast">Однако апелляционный суд Таиланда отменил одно из двух решений об отказе США в его экстрадиции.\n\nРоссиянин был доставлен в США из Таиланда в ноябре 2010 года.\n\nИсточник: https://www.newsru.com/world/19Apr2011/boot.html\n</segment>
+		<group id="57" type="span" parent="119" relname="joint"/>
+		<group id="43" type="span" parent="56" relname="preparation"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="48" type="multinuc" parent="56" relname="span"/>
+		<group id="47" type="span" parent="48" relname="same-unit"/>
+		<group id="55" type="multinuc" parent="48" relname="cause-effect"/>
+		<group id="51" type="multinuc" parent="55" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="118" type="span" parent="119" relname="joint"/>
+		<group id="68" type="span" parent="117" relname="preparation"/>
+		<group id="66" type="span" parent="68" relname="span"/>
+		<group id="60" type="span" parent="66" relname="span"/>
+		<group id="65" type="multinuc" parent="60" relname="elaboration"/>
+		<group id="63" type="multinuc" parent="65" relname="contrast"/>
+		<group id="117" type="multinuc" parent="118" relname="span"/>
+		<group id="81" type="span" parent="117" relname="joint"/>
+		<group id="80" type="multinuc" parent="81" relname="span"/>
+		<group id="79" type="span" parent="80" relname="joint"/>
+		<group id="77" type="span" parent="79" relname="span"/>
+		<group id="76" type="span" parent="73" relname="elaboration"/>
+		<group id="116" type="multinuc" parent="117" relname="joint"/>
+		<group id="84" type="span" parent="116" relname="joint"/>
+		<group id="115" type="span" parent="116" relname="joint"/>
+		<group id="91" type="multinuc" parent="114" relname="preparation"/>
+		<group id="87" type="span" parent="91" relname="joint"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="114" type="multinuc" parent="115" relname="span"/>
+		<group id="104" type="multinuc" parent="114" relname="joint"/>
+		<group id="94" type="span" parent="104" relname="joint"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="97" type="span" parent="103" relname="joint"/>
+		<group id="102" type="span" parent="103" relname="joint"/>
+		<group id="101" type="multinuc" parent="102" relname="span"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="111" type="span" parent="113" relname="contrast"/>
+		<group id="109" type="multinuc" parent="111" relname="span"/>
+		<group id="107" type="multinuc" parent="109" relname="contrast"/>
+		<group id="119" type="multinuc"/>
+	</body>
+</rst>

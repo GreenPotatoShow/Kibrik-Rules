@@ -1,0 +1,71 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="31" relname="span">Следующим соперником \"Спартака\" может стать чешский \"Слован\"\n\nВ швейцарском Ньоне состоялась процедура жеребьевки третьего отборочного раунда Лиги чемпионов сезона 2006/2007.</segment>
+		<segment id="30" parent="29" relname="elaboration">Напомним, что на этой стадии турнира нашу страну будут представлять ЦСКА и московский \"Спартак\".</segment>
+		<segment id="32" parent="34" relname="span">Правда, красно-белым для преодоления барьера второго раунда соревнований</segment>
+		<segment id="33" parent="32" relname="elaboration">еще надо по сумме двух встреч одолеть молдавский \"Шериф\".\n\nСледующим соперником \"Спартака\" может стать чешский \"Слован\".</segment>
+		<segment id="35" parent="36" relname="condition">Если россияне преодолеют барьер в виде молдавского \"Шерифа\",</segment>
+		<segment id="36" parent="37" relname="span">то первые матчи с клубом из Либереца пройдут 8 или 9 августа в Москве.</segment>
+		<segment id="38" parent="39" relname="joint">Ответный поединок состоится спустя две недели – 22 или 23 августа.\n\nМосковский ЦСКА в третьем раунде Лиги чемпионов сыграет против победителя пары \"Юргорден\" (Швеция) - \"Ружомберок\" (Словакия).</segment>
+		<segment id="42" parent="44" relname="span">В первой встрече на своем поле шведы победили со счетом 1-0.</segment>
+		<segment id="43" parent="42" relname="elaboration">Первые матчи третьего раунда состоятся 8 и 9 августа, ответные – 22 и 23 августа.</segment>
+		<segment id="45" parent="80" relname="preparation">ЦСКА первый матч проведет на своем поле.\n\nКиевское \"Динамо\" сыграет с победителем пары \"Фенербахче\" (Турция) - Б-36 (Фарерские острова).\n\nВсего в жеребьевке принимали участие 46 клубов.</segment>
+		<segment id="46" parent="48" relname="span">Двадцать восемь из них пока продолжают борьбу во втором отборочном раунде,</segment>
+		<segment id="47" parent="46" relname="elaboration">который завершится в ближайшую среду.</segment>
+		<segment id="49" parent="51" relname="span">Еще 18 вступят в игру с третьего раунда.</segment>
+		<segment id="50" parent="49" relname="elaboration">Ряд команд получили статус сеяных.</segment>
+		<segment id="52" parent="53" relname="condition">Если во втором раунде какой-либо клуб победит соперника,</segment>
+		<segment id="53" parent="54" relname="span">имеющего достаточно высокий рейтинг для того, чтобы быть сеяным,</segment>
+		<segment id="55" parent="57" relname="span">то в третьем раунде он сам будет посеян</segment>
+		<segment id="56" parent="55" relname="condition">вне зависимости от величины собственного рейтинга.\n\nИтак, 16 первых матчей третьего отборочного раунда состоятся 8/9 августа,</segment>
+		<segment id="58" parent="59" relname="joint">а ответные поединки пройдут 22/23 числа.</segment>
+		<segment id="61" parent="65" relname="span">Победители пар попадут в групповой этап Лиги чемпионов,</segment>
+		<segment id="62" parent="64" relname="joint">где к ним присоединятся еще 16 клубов,</segment>
+		<segment id="63" parent="64" relname="joint">получивших право выступать на этой стадии автоматически.</segment>
+		<segment id="66" parent="70" relname="span">Финал Лиги чемпионов состоится 23 мая 2007 года в Афинах.\n\n\"Рубин\" сыграет с БАТЭ\n\nКазанский \"Рубин\" во втором отборочном раунде Кубка УЕФА сыграет с белорусским БАТЭ.</segment>
+		<segment id="67" parent="69" relname="span">Это стало известно по результатам жеребьевки,</segment>
+		<segment id="68" parent="67" relname="elaboration">состоявшейся в швейцарском Ньоне.</segment>
+		<segment id="72" parent="76" relname="span">Первые матчи состоятся 10 августа, ответные - 24 августа.</segment>
+		<segment id="73" parent="75" relname="span">Победители встреч будут участвовать в первом круге Кубка УЕФА,</segment>
+		<segment id="74" parent="73" relname="elaboration">после чего состоится групповой этап турнира.\n\nИсточник: https://www.newsru.com/sport/28Jul2006/liga.html\n</segment>
+		<group id="41" type="span" parent="82" relname="preparation"/>
+		<group id="31" type="span" parent="41" relname="span"/>
+		<group id="40" type="span" parent="31" relname="elaboration"/>
+		<group id="34" type="span" parent="40" relname="span"/>
+		<group id="39" type="multinuc" parent="34" relname="elaboration"/>
+		<group id="37" type="span" parent="39" relname="joint"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="44" type="span" parent="81" relname="preparation"/>
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="48" type="span" parent="79" relname="preparation"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="51" type="span" parent="78" relname="preparation"/>
+		<group id="78" type="multinuc" parent="79" relname="span"/>
+		<group id="60" type="span" parent="78" relname="joint"/>
+		<group id="54" type="span" parent="59" relname="condition"/>
+		<group id="59" type="multinuc" parent="60" relname="span"/>
+		<group id="57" type="span" parent="59" relname="joint"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="71" type="multinuc" parent="77" relname="span"/>
+		<group id="65" type="span" parent="71" relname="sequence"/>
+		<group id="64" type="multinuc" parent="61" relname="elaboration"/>
+		<group id="70" type="span" parent="71" relname="sequence"/>
+		<group id="69" type="span" parent="66" relname="interpretation-evaluation"/>
+		<group id="76" type="span" parent="71" relname="elaboration"/>
+		<group id="75" type="span" parent="72" relname="elaboration"/>
+		<group id="83" type="span"/>
+	</body>
+</rst>

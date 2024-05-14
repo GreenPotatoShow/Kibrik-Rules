@@ -1,0 +1,136 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="59" parent="63" relname="joint">Последнее поколение автомобилей может оставить водителей без работы\n\nТехнологии становятся дешевле,</segment>
+		<segment id="60" parent="62" relname="joint">и все больше машин оснащается приспособлениями, предупреждающими об опасности</segment>
+		<segment id="61" parent="62" relname="joint">и позволяющими ее избежать.</segment>
+		<segment id="66" parent="70" relname="span">Новое поколение высокотехнологичных устройств, обеспечивающих безопасность, охватывает все большее количество хорошо известных автомобилей,</segment>
+		<segment id="67" parent="68" relname="attribution">пишет The Wall Street Journal в материале,</segment>
+		<segment id="68" parent="69" relname="span">перевод которого публикует Inopressa.ru.\n\nТакие приспособления, как чувствующие дождь \"дворники\" или парковочные датчики, ранее предлагались лишь в самых дорогих автомобилях.</segment>
+		<segment id="72" parent="84" relname="joint">Но в нынешнем году стоимость хитроумных устройств упала</segment>
+		<segment id="73" parent="75" relname="span">и они становятся все более доступными.\n\nУ нового Cadillac STS V8 от General Motors Corp. фары автоматически делаются ярче или темнее</segment>
+		<segment id="74" parent="73" relname="condition">в зависимости от потока транспорта,</segment>
+		<segment id="76" parent="75" relname="elaboration">делая ненужным переключение мощности фар.\n\nУ модели Infiniti FX 2005 года производства Nissan Motor Corp. включается зуммер,</segment>
+		<segment id="78" parent="82" relname="span">если водитель не придерживается полосы движения.\n\nВ этом году DaimlerChrysler устанавливает на три свои новые модели ParkSense</segment>
+		<segment id="79" parent="81" relname="joint">- технологию, которая обнаруживает предметы позади машины</segment>
+		<segment id="80" parent="81" relname="joint">и предупреждает о них.</segment>
+		<segment id="85" parent="87" relname="span">Появляются и другие приспособления, например, ключи, способные завести машину,</segment>
+		<segment id="86" parent="85" relname="condition">когда водителя в ней нет.\n\nНачиная с модели 2004 года, стандартным оборудованием всех автомобилей BMW являются чувствующие дождь \"дворники\".</segment>
+		<segment id="88" parent="94" relname="span">Ранее в большинстве автомобилей BMW они предлагались только как возможный элемент комплектации.\n\nПроизводители рекламируют новые устройства как средства безопасности, а не дополнительные удобства.</segment>
+		<segment id="89" parent="92" relname="attribution">Например, Infiniti утверждает,</segment>
+		<segment id="90" parent="91" relname="condition">что система предупреждения о несоблюдении полосы на FX</segment>
+		<segment id="91" parent="92" relname="span">увеличивает не только безопасность водителя, но и безопасность движения в целом.</segment>
+		<segment id="96" parent="98" relname="span">Около 20% аварий,</segment>
+		<segment id="97" parent="96" relname="attribution">по данным Национального управления безопасности дорожного движения,</segment>
+		<segment id="99" parent="98" relname="cause-effect">происходит из-за несоблюдения рядности.\n\</segment>
+		<segment id="101" parent="109" relname="comparison">nХотя такие устройства, как автоматическое приглушение света фар могут показаться, скорее, роскошью,</segment>
+		<segment id="102" parent="107" relname="condition">чем средством безопасности,</segment>
+		<segment id="103" parent="106" relname="attribution">производители уверяют,</segment>
+		<segment id="104" parent="106" relname="span">что автоматизация снижает риск ослепления встречных водителей,</segment>
+		<segment id="105" parent="104" relname="condition">если фары забыли переключить.\n\nПарадоксально,</segment>
+		<segment id="110" parent="113" relname="attribution">но регулирующие органы обеспокоены тем,</segment>
+		<segment id="111" parent="113" relname="joint">что технологически оснащенные машины будут отвлекать водителей</segment>
+		<segment id="112" parent="113" relname="joint">и делать их менее внимательными.</segment>
+		<segment id="117" parent="119" relname="comparison">Нынешние испытания направлены отчасти на то, чтобы убедиться, что новые приборы не будут отвлекать водителей больше,</segment>
+		<segment id="118" parent="119" relname="comparison">чем это делают мобильные телефоны и DVD плееры.\n\nВысокотехнологичные удобства\n\nАктивный контроль скорости.</segment>
+		<segment id="120" parent="122" relname="joint">Автоматически замедляет</segment>
+		<segment id="121" parent="122" relname="joint">или ускоряет движение,</segment>
+		<segment id="123" parent="122" relname="condition">поддерживая дистанцию.</segment>
+		<segment id="126" parent="130" relname="contrast">Полезен на шоссе,</segment>
+		<segment id="127" parent="129" relname="span">но не нужен в городе,</segment>
+		<segment id="128" parent="127" relname="condition">где постоянно приходится останавливаться.</segment>
+		<segment id="131" parent="139" relname="span">Устанавливается главным образом на роскошные автомобили, включая 13 моделей Mercedes-Benz.\n\nСистема предупреждения о несоблюдении ряда.</segment>
+		<segment id="132" parent="133" relname="condition">Когда машина съезжает с полосы,</segment>
+		<segment id="133" parent="134" relname="span">водителя предупреждают об этом огоньки и зуммер.</segment>
+		<segment id="135" parent="137" relname="joint">Эта система устанавливается на Infiniti FX</segment>
+		<segment id="136" parent="137" relname="joint">и может заинтересовать рассеянных водителей.\n\nПарковочные устройства.</segment>
+		<segment id="142" parent="150" relname="span">Предупреждает водителя,</segment>
+		<segment id="143" parent="149" relname="joint">когда автомобиль приближается к другим машинам или предметам, обычно звуком.</segment>
+		<segment id="144" parent="148" relname="span">Предлагается на многих моделях.</segment>
+		<segment id="145" parent="147" relname="joint">Часто продается отдельно</segment>
+		<segment id="146" parent="147" relname="joint">и стоит 200-400 долларов.\n\n\"Дворники\", чувствующие дождь.</segment>
+		<segment id="151" parent="150" relname="elaboration">Технология основана на автоматической реакции на количество жидкости на лобовом стекле.</segment>
+		<segment id="153" parent="152" relname="interpretation-evaluation">Отменяет необходимость регулировать скорость работы щеток.</segment>
+		<segment id="155" parent="163" relname="joint">Предлагается на ряде моделей, включая все легковые машины BMW.\n\nСистема климатического контроля.</segment>
+		<segment id="156" parent="158" relname="joint">Чувствует температуру в машине</segment>
+		<segment id="157" parent="158" relname="joint">и автоматически регулирует кондиционер.</segment>
+		<segment id="159" parent="158" relname="elaboration">Входит в стандартный набор оборудования Lexus LS 430.</segment>
+		<segment id="161" parent="162" relname="joint">Использует датчики, установленные на пряжках ремней безопасности.\n\nУмные фары.</segment>
+		<segment id="164" parent="166" relname="joint">Автоматический регулятор яркости на основе плотности встречного движения.</segment>
+		<segment id="165" parent="166" relname="joint">Стандарт для новых джипов Grand Cherokee и Cadillac STS V8.\n\nИсточник: https://www.newsru.com/world/08Oct2004/cars.html\n</segment>
+		<group id="71" type="span" parent="172" relname="preparation"/>
+		<group id="63" type="multinuc" parent="71" relname="span"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="70" type="span" parent="63" relname="elaboration"/>
+		<group id="69" type="span" parent="66" relname="attribution"/>
+		<group id="172" type="multinuc" parent="173" relname="span"/>
+		<group id="84" type="multinuc" parent="172" relname="joint"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="77" type="span" parent="83" relname="joint"/>
+		<group id="75" type="span" parent="77" relname="span"/>
+		<group id="82" type="span" parent="83" relname="joint"/>
+		<group id="81" type="multinuc" parent="78" relname="elaboration"/>
+		<group id="171" type="multinuc" parent="172" relname="joint"/>
+		<group id="95" type="span" parent="171" relname="joint"/>
+		<group id="87" type="span" parent="95" relname="span"/>
+		<group id="94" type="span" parent="87" relname="elaboration"/>
+		<group id="93" type="span" parent="88" relname="evidence"/>
+		<group id="92" type="span" parent="93" relname="span"/>
+		<group id="170" type="multinuc" parent="171" relname="joint"/>
+		<group id="116" type="span" parent="170" relname="joint"/>
+		<group id="100" type="span" parent="116" relname="span"/>
+		<group id="98" type="span" parent="100" relname="span"/>
+		<group id="115" type="multinuc" parent="100" relname="concession"/>
+		<group id="109" type="multinuc" parent="115" relname="contrast"/>
+		<group id="108" type="span" parent="109" relname="comparison"/>
+		<group id="107" type="span" parent="108" relname="span"/>
+		<group id="106" type="span" parent="107" relname="span"/>
+		<group id="114" type="span" parent="115" relname="contrast"/>
+		<group id="113" type="multinuc" parent="114" relname="span"/>
+		<group id="169" type="multinuc" parent="170" relname="joint"/>
+		<group id="141" type="multinuc" parent="169" relname="joint"/>
+		<group id="125" type="span" parent="141" relname="joint"/>
+		<group id="119" type="multinuc" parent="125" relname="span"/>
+		<group id="124" type="span" parent="119" relname="elaboration"/>
+		<group id="122" type="multinuc" parent="124" relname="span"/>
+		<group id="140" type="span" parent="141" relname="joint"/>
+		<group id="130" type="multinuc" parent="140" relname="span"/>
+		<group id="129" type="span" parent="130" relname="contrast"/>
+		<group id="139" type="span" parent="130" relname="elaboration"/>
+		<group id="138" type="multinuc" parent="131" relname="elaboration"/>
+		<group id="134" type="span" parent="138" relname="joint"/>
+		<group id="137" type="multinuc" parent="138" relname="joint"/>
+		<group id="168" type="multinuc" parent="169" relname="joint"/>
+		<group id="154" type="span" parent="168" relname="joint"/>
+		<group id="152" type="span" parent="154" relname="span"/>
+		<group id="150" type="span" parent="152" relname="span"/>
+		<group id="149" type="multinuc" parent="142" relname="purpose"/>
+		<group id="148" type="span" parent="149" relname="joint"/>
+		<group id="147" type="multinuc" parent="144" relname="elaboration"/>
+		<group id="167" type="span" parent="168" relname="joint"/>
+		<group id="163" type="multinuc" parent="167" relname="span"/>
+		<group id="162" type="multinuc" parent="163" relname="joint"/>
+		<group id="160" type="span" parent="162" relname="joint"/>
+		<group id="158" type="multinuc" parent="160" relname="span"/>
+		<group id="166" type="multinuc" parent="163" relname="elaboration"/>
+		<group id="173" type="span"/>
+	</body>
+</rst>

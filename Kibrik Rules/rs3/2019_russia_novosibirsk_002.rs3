@@ -1,0 +1,137 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="58" parent="64" relname="span">Пиар на всю Россию за 1200 рублей:</segment>
+		<segment id="59" parent="61" relname="span">бизнесмен из Барнаула прославился,</segment>
+		<segment id="60" parent="59" relname="cause-effect">оплатив в маршрутке проезд всех пассажиров (ФОТО)\n\nВ Новосибирске утром 1 декабря неизвестный мужчина сел в маршрутку, следовавшую по маршруту N11,</segment>
+		<segment id="62" parent="63" relname="sequence">и оплатил проезд всем пассажирам, которые заходили в транспортное средство на последующих остановках.\n\</segment>
+		<segment id="65" parent="70" relname="attribution">nПо словам очевидцев,</segment>
+		<segment id="66" parent="69" relname="cause-effect">так продолжалось на протяжении всего маршрута движения микроавтобуса, начиная от поселка Северного и до остановки ТРЦ \"Аура\".\n\n\"Многие вошедшие, в основном, не верили в это</segment>
+		<segment id="67" parent="69" relname="sequence">и пытались передать за проезд,</segment>
+		<segment id="68" parent="69" relname="sequence">а он отвечал:</segment>
+		<segment id="72" parent="74" relname="span">\"Сегодня бесплатно\",</segment>
+		<segment id="73" parent="72" relname="attribution">- рассказывают очевидцы в паблике \"АСТ-54\" в \"ВКонтакте\".\n\nМолодой человек свой поступок никак не объяснил.</segment>
+		<segment id="76" parent="84" relname="same-unit">В комментах к новости в \"ВКонтакте\" многие удивлялись поступком мужчины,</segment>
+		<segment id="77" parent="78" relname="attribution">предполагали,</segment>
+		<segment id="78" parent="79" relname="span">что он просто был пьян,</segment>
+		<segment id="80" parent="82" relname="joint">или делал это на спор,</segment>
+		<segment id="81" parent="82" relname="joint">или просто из-за хорошего настроения.</segment>
+		<segment id="85" parent="91" relname="span">Кто-то предположил, что это просто хайп.\n\</segment>
+		<segment id="86" parent="90" relname="same-unit">nКак бы то ни было,</segment>
+		<segment id="87" parent="89" relname="sequence">новость разошлась по многим местным СМИ,</segment>
+		<segment id="88" parent="89" relname="sequence">а потом попала и на страницы госинформагентства РИА \"Новости\".</segment>
+		<segment id="93" parent="105" relname="joint">Журналисты нашли щедрого пассажира</segment>
+		<segment id="94" parent="104" relname="span">и выяснили, сколько он заплатил и зачем.\n\</segment>
+		<segment id="95" parent="99" relname="span">nКак рассказал предприниматель из Барнаула Денис Сагайдак,</segment>
+		<segment id="96" parent="98" relname="sequence">приехавший в Новосибирск к знакомым,</segment>
+		<segment id="97" parent="98" relname="sequence">заплатить за пассажиров маршрутки он решил,</segment>
+		<segment id="100" parent="102" relname="joint">потому что \"просто так захотелось\",</segment>
+		<segment id="101" parent="102" relname="joint">и вовсе не рассчитывал на такую реакцию в Сети.</segment>
+		<segment id="106" parent="114" relname="span">\"Это не какая-то акция,</segment>
+		<segment id="107" parent="109" relname="joint">это не праздник никакой, не день рождения,</segment>
+		<segment id="108" parent="109" relname="joint">не наркоман я.</segment>
+		<segment id="110" parent="112" relname="joint">Это внутреннее намерение какое-то сработало,</segment>
+		<segment id="111" parent="112" relname="joint">желание просто сделать вот такое\",</segment>
+		<segment id="115" parent="114" relname="attribution">- сказал Сагайдак.\n\n</segment>
+		<segment id="118" parent="122" relname="joint">\"Особенно благодарили меня пожилые люди.</segment>
+		<segment id="119" parent="121" relname="span">Да и по лицам других можно было видеть, что настроение у них сегодня явно улучшилось,</segment>
+		<segment id="120" parent="119" relname="attribution">- вспоминает Денис.</segment>
+		<segment id="123" parent="125" relname="span">- Кажется, только один молодой человек сначала хотел отказаться,</segment>
+		<segment id="124" parent="123" relname="purpose">чтобы за него заплатили.</segment>
+		<segment id="126" parent="127" relname="attribution">Сказал,</segment>
+		<segment id="127" parent="128" relname="span">что сам в состоянии оплатить себе проезд.</segment>
+		<segment id="130" parent="135" relname="attribution">Но я ответил ему,</segment>
+		<segment id="131" parent="135" relname="span">что оплатить себе проезд здесь в состоянии абсолютно все</segment>
+		<segment id="132" parent="133" relname="condition">- ведь, когда они садились в маршрутку,</segment>
+		<segment id="133" parent="134" relname="span">то не знали, что это за них может сделать кто-то другой.</segment>
+		<segment id="137" parent="139" relname="contrast">И моя цель - не показать людям их несостоятельность,</segment>
+		<segment id="138" parent="139" relname="contrast">а просто совершить доброе дело.</segment>
+		<segment id="140" parent="139" relname="elaboration">Сделать этот день для людей чуть лучше - и все.</segment>
+		<segment id="143" parent="145" relname="span">После этого парень спокойно согласился,</segment>
+		<segment id="144" parent="143" relname="purpose">чтобы за него заплатили\",</segment>
+		<segment id="146" parent="145" relname="attribution">- рассказал Сагайдак в интервью \"КП-Новосибирск\".\n\nВсего он потратил около 1200 рублей:</segment>
+		<segment id="148" parent="150" relname="comparison">проезд стоит 30 рублей,</segment>
+		<segment id="149" parent="150" relname="comparison">а в маршрутке проехал 41 человек.</segment>
+		<segment id="152" parent="156" relname="span">Таким образом, известность на всю страну Сагайдаку обошлась всего в 1200 рублей.\n\</segment>
+		<segment id="153" parent="154" relname="attribution">nКак говорится,</segment>
+		<segment id="154" parent="155" relname="span">добрые дела не остаются незамеченными.\n\n</segment>
+		<segment id="157" parent="159" relname="joint">\"Теперь только остается надеяться, что кто-то, возможно, решит взять с меня пример</segment>
+		<segment id="158" parent="159" relname="joint">и тоже захочет совершить какое-нибудь доброе дело\",</segment>
+		<segment id="161" parent="160" relname="attribution">- говорит Денис.\n\nИсточник: https://www.newsru.com/russia/03Dec2019/novosibirsk.html\n</segment>
+		<group id="64" type="span" parent="169" relname="preparation"/>
+		<group id="63" type="multinuc" parent="58" relname="elaboration"/>
+		<group id="61" type="span" parent="63" relname="sequence"/>
+		<group id="169" type="span" parent="170" relname="span"/>
+		<group id="75" type="span" parent="168" relname="preparation"/>
+		<group id="71" type="span" parent="75" relname="span"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="74" type="span" parent="71" relname="elaboration"/>
+		<group id="168" type="span" parent="169" relname="span"/>
+		<group id="92" type="span" parent="167" relname="preparation"/>
+		<group id="84" type="multinuc" parent="92" relname="span"/>
+		<group id="83" type="multinuc" parent="84" relname="same-unit"/>
+		<group id="79" type="span" parent="83" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="91" type="span" parent="84" relname="interpretation-evaluation"/>
+		<group id="90" type="multinuc" parent="85" relname="elaboration"/>
+		<group id="89" type="multinuc" parent="90" relname="same-unit"/>
+		<group id="167" type="multinuc" parent="168" relname="span"/>
+		<group id="117" type="span" parent="167" relname="joint"/>
+		<group id="105" type="multinuc" parent="117" relname="span"/>
+		<group id="104" type="span" parent="105" relname="joint"/>
+		<group id="103" type="span" parent="94" relname="elaboration"/>
+		<group id="99" type="span" parent="103" relname="span"/>
+		<group id="98" type="multinuc" parent="95" relname="background"/>
+		<group id="102" type="multinuc" parent="99" relname="cause-effect"/>
+		<group id="116" type="span" parent="105" relname="interpretation-evaluation"/>
+		<group id="114" type="span" parent="116" relname="span"/>
+		<group id="113" type="span" parent="106" relname="elaboration"/>
+		<group id="109" type="multinuc" parent="113" relname="span"/>
+		<group id="112" type="multinuc" parent="109" relname="interpretation-evaluation"/>
+		<group id="166" type="multinuc" parent="167" relname="joint"/>
+		<group id="122" type="multinuc" parent="166" relname="joint"/>
+		<group id="121" type="span" parent="122" relname="joint"/>
+		<group id="165" type="multinuc" parent="166" relname="joint"/>
+		<group id="129" type="span" parent="165" relname="contrast"/>
+		<group id="125" type="span" parent="129" relname="span"/>
+		<group id="128" type="span" parent="125" relname="interpretation-evaluation"/>
+		<group id="164" type="multinuc" parent="165" relname="contrast"/>
+		<group id="142" type="span" parent="164" relname="sequence"/>
+		<group id="136" type="span" parent="142" relname="span"/>
+		<group id="135" type="span" parent="136" relname="span"/>
+		<group id="134" type="span" parent="131" relname="cause-effect"/>
+		<group id="141" type="span" parent="136" relname="interpretation-evaluation"/>
+		<group id="139" type="multinuc" parent="141" relname="span"/>
+		<group id="163" type="span" parent="164" relname="sequence"/>
+		<group id="151" type="multinuc" parent="163" relname="span"/>
+		<group id="147" type="span" parent="151" relname="sequence"/>
+		<group id="145" type="span" parent="147" relname="span"/>
+		<group id="150" type="multinuc" parent="151" relname="sequence"/>
+		<group id="162" type="span" parent="151" relname="interpretation-evaluation"/>
+		<group id="160" type="span" parent="162" relname="span"/>
+		<group id="156" type="span" parent="160" relname="span"/>
+		<group id="155" type="span" parent="152" relname="interpretation-evaluation"/>
+		<group id="159" type="multinuc" parent="156" relname="elaboration"/>
+		<group id="170" type="span"/>
+	</body>
+</rst>

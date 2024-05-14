@@ -1,0 +1,113 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="48" parent="139" relname="preparation">\"Неправильные\" унитазы застопорили реконструкцию резиденции губернатора Петербурга\n\</segment>
+		<segment id="49" parent="53" relname="span">nПри реконструкции комплекса \"Каменноостровский дворец\",</segment>
+		<segment id="50" parent="51" relname="cause-effect">который должен стать резиденцией петербургского губернатора,</segment>
+		<segment id="51" parent="52" relname="span">разгорелся скандал.</segment>
+		<segment id="54" parent="60" relname="span">Один из подрядчиков добился отмены тендера на 60 миллионов</segment>
+		<segment id="55" parent="58" relname="cause-effect">из-за того, что заказчик запросил нестандартные унитазы.\n\nКак рассказывает \"Фонтанка.ru\",</segment>
+		<segment id="56" parent="58" relname="span">тендер, объявленный петербургским казенным учреждением \"Каменноостровский дворец\",</segment>
+		<segment id="57" parent="56" relname="elaboration">который принадлежит городскому правительству, касался внутренней отделки помещений памятника.</segment>
+		<segment id="64" parent="66" relname="joint">Отель для представителей официальных делегаций, навещающих Петербург по приглашению губернатора, планируют разместить в историческом здании на Каменном острове.\n\nВ 2010 году в здании были полностью обновлены инженерные сети,</segment>
+		<segment id="65" parent="66" relname="joint">появились новая вентиляция, современное отопление, водопровод и канализация.</segment>
+		<segment id="67" parent="79" relname="span">Сейчас же должны были завершить \"благоустройство\"</segment>
+		<segment id="68" parent="74" relname="joint">- закупить светильники, сантехнику, водонагреватели,</segment>
+		<segment id="69" parent="73" relname="joint">положить плитку,</segment>
+		<segment id="70" parent="72" relname="joint">отделать потолки, полы,</segment>
+		<segment id="71" parent="72" relname="joint">поставить двери, новые окна.\n\nЗаказчик был уверен,</segment>
+		<segment id="75" parent="76" relname="cause-effect">что, потратив 60 миллионов рублей,</segment>
+		<segment id="76" parent="77" relname="span">он завершит многолетнюю реконструкцию.</segment>
+		<segment id="81" parent="91" relname="span">В обновленном виде для высоких гостей комплекс на берегу Малой Невки должен был предстать к концу 2013 года.\nНо теперь окончание реконструкции может быть отложено на неопределенный срок.</segment>
+		<segment id="82" parent="90" relname="span">Жалобу на \"Каменноостровский дворец\" подала компания ЗАО \"УНР-1 АП \"ЭСПА\".</segment>
+		<segment id="85" parent="89" relname="span">Структура, которую отстранили от участия в борьбе за 60 миллионов, нашла в конкурсной документации ошибку.\n\</segment>
+		<segment id="86" parent="87" relname="attribution">nПо мнению компании,</segment>
+		<segment id="87" parent="88" relname="span">именно эта ошибка не позволила ей стать победителем конкурса.</segment>
+		<segment id="92" parent="94" relname="span">Речь идет о такой важной вещи, как высота унитаза.</segment>
+		<segment id="93" parent="92" relname="evidence">По какой-то причине заказчик захотел, чтобы сантехнические изделия в каменноостровской резиденции были не выше и не ниже 74 см.\n\nПоставщик предложил установить в туалетных комнатах дворца унитазы марки \"Тор\".</segment>
+		<segment id="95" parent="96" relname="attribution">Однако заказчик объявил,</segment>
+		<segment id="96" parent="97" relname="span">что таких туалетов нет в природе.</segment>
+		<segment id="98" parent="102" relname="span">В результате заявка ЭСПА была признана не отвечающей требованиям.\n\nКонкурс выиграла компания ООО \"КомСтрой\",</segment>
+		<segment id="99" parent="101" relname="span">которая консультировала заказчика</segment>
+		<segment id="100" parent="99" relname="condition">при формировании предложения по данному тендеру.</segment>
+		<segment id="103" parent="107" relname="contrast">Фирма снизила начальную цену всего на 300 тысяч,</segment>
+		<segment id="104" parent="106" relname="span">но этого было достаточно,</segment>
+		<segment id="105" parent="104" relname="purpose">чтобы получить контракт.</segment>
+		<segment id="110" parent="111" relname="attribution">Другие поставщики говорят,</segment>
+		<segment id="111" parent="112" relname="span">что предлагали более значительный дисконт.</segment>
+		<segment id="113" parent="122" relname="attribution">Но, судя по всему, заказчик решил,</segment>
+		<segment id="114" parent="115" relname="condition">что если речь идет о высоте унитазов,</segment>
+		<segment id="115" parent="116" relname="span">то риск здесь не уместен</segment>
+		<segment id="117" parent="118" relname="span">.\n\nАнтимонопольное ведомство, которое разбирало жалобу ЭСПА,</segment>
+		<segment id="119" parent="120" relname="attribution">решило,</segment>
+		<segment id="120" parent="121" relname="span">что предложение компании соответствовало требованиям заказчика.</segment>
+		<segment id="124" parent="130" relname="same-unit">Теперь,</segment>
+		<segment id="125" parent="128" relname="attribution">согласно постановлению УФАС,</segment>
+		<segment id="126" parent="128" relname="joint">заказчик обязан отменить итоги конкурса</segment>
+		<segment id="127" parent="128" relname="joint">и рассмотреть заявку второго претендента.</segment>
+		<segment id="131" parent="130" relname="elaboration">Даже если его унитазы другой торговой марки.\n\nИсточник: https://www.newsru.com/realty/28May2013/kamennoost.html\n</segment>
+		<group id="139" type="multinuc" parent="140" relname="span"/>
+		<group id="61" type="multinuc" parent="139" relname="joint"/>
+		<group id="53" type="span" parent="61" relname="joint"/>
+		<group id="52" type="span" parent="49" relname="elaboration"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="59" type="span" parent="54" relname="cause-effect"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="138" type="multinuc" parent="139" relname="joint"/>
+		<group id="80" type="span" parent="138" relname="joint"/>
+		<group id="66" type="multinuc" parent="80" relname="span"/>
+		<group id="79" type="span" parent="66" relname="elaboration"/>
+		<group id="78" type="span" parent="67" relname="purpose"/>
+		<group id="74" type="multinuc" parent="77" relname="cause-effect"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="137" type="multinuc" parent="138" relname="joint"/>
+		<group id="91" type="span" parent="137" relname="joint"/>
+		<group id="90" type="span" parent="81" relname="elaboration"/>
+		<group id="89" type="span" parent="82" relname="interpretation-evaluation"/>
+		<group id="88" type="span" parent="85" relname="interpretation-evaluation"/>
+		<group id="136" type="multinuc" parent="137" relname="joint"/>
+		<group id="94" type="span" parent="136" relname="contrast"/>
+		<group id="135" type="multinuc" parent="136" relname="contrast"/>
+		<group id="109" type="span" parent="135" relname="restatement"/>
+		<group id="97" type="span" parent="109" relname="span"/>
+		<group id="108" type="span" parent="97" relname="evidence"/>
+		<group id="102" type="span" parent="108" relname="span"/>
+		<group id="101" type="span" parent="98" relname="elaboration"/>
+		<group id="107" type="multinuc" parent="102" relname="elaboration"/>
+		<group id="106" type="span" parent="107" relname="contrast"/>
+		<group id="134" type="multinuc" parent="135" relname="restatement"/>
+		<group id="112" type="span" parent="134" relname="contrast"/>
+		<group id="133" type="span" parent="134" relname="contrast"/>
+		<group id="123" type="span" parent="133" relname="span"/>
+		<group id="122" type="span" parent="123" relname="span"/>
+		<group id="118" type="span" parent="121" relname="condition"/>
+		<group id="116" type="span" parent="117" relname="solutionhood"/>
+		<group id="121" type="span" parent="122" relname="span"/>
+		<group id="132" type="span" parent="123" relname="elaboration"/>
+		<group id="130" type="multinuc" parent="132" relname="span"/>
+		<group id="129" type="span" parent="130" relname="same-unit"/>
+		<group id="128" type="multinuc" parent="129" relname="span"/>
+		<group id="140" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,64 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="64" relname="preparation">Блаттера и Платини могут освободить от футбольной деятельности на шесть лет\n\</segment>
+		<segment id="24" parent="26" relname="joint">nПрезидент ФИФА Йозеф Блаттер и глава УЕФА Мишель Платини могут быть отстранены от любой связанной с футболом деятельности на шесть лет,</segment>
+		<segment id="25" parent="26" relname="joint">утверждает Daily Mail.\n\nШвейцарское федеральное бюро юстиции 25 сентября открыло дело против Блаттера,</segment>
+		<segment id="27" parent="28" relname="attribution">который подозревается в том,</segment>
+		<segment id="28" parent="29" relname="span">что незаконно перевел два миллиона швейцарских франков Платини в 2011 году.\n\nДеньги якобы были переведены Платини за выполнение работ в период с января 1999 года по июнь 2002 года.</segment>
+		<segment id="31" parent="32" relname="attribution">Француз же заявил,</segment>
+		<segment id="32" parent="33" relname="span">что данная выплата была произведена по контракту в полном соответствии с законом.</segment>
+		<segment id="34" parent="36" relname="span">В начале октября комитет ФИФА по этике отстранил Блаттера, генсека организации Жерома Вальке</segment>
+		<segment id="35" parent="34" relname="elaboration">(ранее освобожденного от должности) и Платини на 90 дней от любой деятельности, связанной с футболом.\n\n\"Отстранение на 90 дней было просто условной мерой, коротким, резким шоком.</segment>
+		<segment id="37" parent="39" relname="span">Мы пытаемся все выяснить к Рождеству,</segment>
+		<segment id="38" parent="37" relname="purpose">чтобы иметь четкую картину перед президентскими выборами.</segment>
+		<segment id="40" parent="39" relname="interpretation-evaluation">Это должно дать представление о том, каким долгим может быть отстранение\",</segment>
+		<segment id="42" parent="41" relname="attribution">- заявил глава арбитражной палаты комитета по этике ФИФА Ханс-Йоахим Эккерт</segment>
+		<segment id="44" parent="46" relname="span">.\n\nБлаттер,</segment>
+		<segment id="45" parent="44" relname="background">возглавляющий ФИФА с 1998 года,</segment>
+		<segment id="47" parent="48" relname="same-unit">29 мая был переизбран на пятый срок,</segment>
+		<segment id="49" parent="50" relname="attribution">а уже 2 июня на волне коррупционного скандала объявил</segment>
+		<segment id="50" parent="51" relname="span">об уходе со своего поста.</segment>
+		<segment id="53" parent="59" relname="contrast">Выборы нового главы организации должны пройти в феврале 2016 года.\n\nПлатини является кандидатом в президенты ФИФА,</segment>
+		<segment id="54" parent="56" relname="span">но вопрос о его допуске на выборы будет решен только,</segment>
+		<segment id="55" parent="54" relname="condition">когда с него будет снято отстранение,</segment>
+		<segment id="57" parent="56" relname="interpretation-evaluation">напоминает \"Р-Спорт\".\n\nИсточник: https://www.newsru.com/sport/15Nov2015/fifa.html\n</segment>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="30" type="span" parent="64" relname="joint"/>
+		<group id="26" type="multinuc" parent="30" relname="span"/>
+		<group id="29" type="span" parent="26" relname="elaboration"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="33" type="span" parent="62" relname="preparation"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="36" type="span" parent="62" relname="sequence"/>
+		<group id="61" type="multinuc" parent="62" relname="sequence"/>
+		<group id="43" type="span" parent="61" relname="joint"/>
+		<group id="41" type="span" parent="43" relname="span"/>
+		<group id="39" type="span" parent="41" relname="span"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="52" type="multinuc" parent="60" relname="joint"/>
+		<group id="48" type="multinuc" parent="52" relname="joint"/>
+		<group id="46" type="span" parent="48" relname="same-unit"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="contrast"/>
+		<group id="56" type="span" parent="58" relname="span"/>
+		<group id="65" type="span"/>
+	</body>
+</rst>

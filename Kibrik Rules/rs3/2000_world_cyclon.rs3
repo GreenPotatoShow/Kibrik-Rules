@@ -1,0 +1,44 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="43" relname="preparation">Бушевавший над Ирландией циклон унес жизни двух человек\n\</segment>
+		<segment id="17" parent="19" relname="span">nБушевавший над Ирландией в понедельник и вторник циклон с Атлантического океана,</segment>
+		<segment id="18" parent="17" relname="elaboration">аналогов которому не было на протяжении последних 15 лет,</segment>
+		<segment id="20" parent="24" relname="span">унес жизни двух человек.</segment>
+		<segment id="21" parent="23" relname="joint">Один из них был буквально смыт вышедшей из берегов горной речкой,</segment>
+		<segment id="22" parent="23" relname="joint">а второй погиб под упавшими на него массивными воротами фермерского дома.</segment>
+		<segment id="26" parent="28" relname="span">Они рухнули под напором ураганного ветра,</segment>
+		<segment id="27" parent="26" relname="elaboration">скорость которого на западном побережье страны достигала 100 км в час.\n\</segment>
+		<segment id="29" parent="30" relname="comparison">nСейчас погода над Ирландией нормализуется.</segment>
+		<segment id="31" parent="33" relname="span">Спасательные службы страны и армейские подразделения продолжают оказывать помощь жителям ряда затопленных населенных пунктов страны, в частности города Арклоу в графстве Уиклоу,</segment>
+		<segment id="32" parent="31" relname="elaboration">несколько тысяч жителей которого были эвакуированы.</segment>
+		<segment id="34" parent="35" relname="cause-effect">Восстановлено движение на автомобильных и железных дорогах страны,</segment>
+		<segment id="35" parent="36" relname="span">многие участки которых оказались затопленными</segment>
+		<segment id="37" parent="38" relname="span">в результате проливных дождей.\n\</segment>
+		<segment id="40" parent="41" relname="joint">nПравительство Ирландии приняло решение оказать материальную помощь жителям страны, пострадавшим в результате стихийного бедствия.\n\nИсточник: https://www.newsru.com/world/08Nov2000/cyclon.html\n</segment>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="25" type="multinuc" parent="43" relname="joint"/>
+		<group id="19" type="span" parent="25" relname="sequence"/>
+		<group id="24" type="span" parent="25" relname="sequence"/>
+		<group id="23" type="multinuc" parent="20" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="30" type="multinuc" parent="42" relname="joint"/>
+		<group id="28" type="span" parent="30" relname="comparison"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="39" type="multinuc" parent="41" relname="joint"/>
+		<group id="33" type="span" parent="39" relname="joint"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="36" type="span" parent="37" relname="cause-effect"/>
+		<group id="44" type="span"/>
+	</body>
+</rst>

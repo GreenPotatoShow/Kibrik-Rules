@@ -1,0 +1,78 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="30" parent="39" relname="attribution">Sotheby's выставляет на февральские торги работы Дэмиена Херста\n\nТорговый дом Sotheby's объявил,</segment>
+		<segment id="31" parent="33" relname="span">что в феврале выставит в Нью-Йорке на торги две работы скандально известного британского художника, мастера эпатажа Дэмиена Херста,</segment>
+		<segment id="32" parent="31" relname="elaboration">сумевшего в прошлом году продать одну из своих работ за 100 млн долларов причем самому себе,</segment>
+		<segment id="34" parent="38" relname="span">передает РИА \"Новости\".\n\nОдин из предлагаемых покупателям лотов - панель из стекла и нержавейки</segment>
+		<segment id="35" parent="37" relname="joint">- лишен всякого изображения</segment>
+		<segment id="36" parent="37" relname="joint">и называется \"Где хочешь, там и путь\".</segment>
+		<segment id="41" parent="62" relname="preparation">Работа предварительно оценивается в 5-7 млн долларов.</segment>
+		<segment id="42" parent="46" relname="span">Другая инсталляция этого модного художника-сюрреалиста не перегружена интеллектуальным подтекстом</segment>
+		<segment id="43" parent="45" relname="span">- это просто сердце в виде пряника с подписью</segment>
+		<segment id="44" parent="43" relname="elaboration">\"Все, что вам надо -это любовь\".</segment>
+		<segment id="47" parent="48" relname="joint">Она оценивается в полтора млн долларов.\n\nАннотации к работам Херста писали не маститые искусствоведы, а известный музыкант, солист группы U2 - Боно.</segment>
+		<segment id="49" parent="51" relname="contrast">\"Дэмиен Херст вызовет улыбку даже у Бога,</segment>
+		<segment id="50" parent="51" relname="contrast">а меня просто заставляет хохотать\",</segment>
+		<segment id="52" parent="51" relname="attribution">- отрекомендовал Боно работы художника,</segment>
+		<segment id="54" parent="60" relname="span">ранее продавшего платиновый череп,</segment>
+		<segment id="55" parent="59" relname="comparison">усыпанный бриллиантами за 100 миллионов долларов под названием \"Ради любви к Богу\".\n\nВпрочем, СМИ утверждали,</segment>
+		<segment id="56" parent="58" relname="joint">что сам же мастер эпатажа</segment>
+		<segment id="57" parent="58" relname="joint">и был одним из участников \"группы инвесторов\", купивших это спорное произведение искусства.</segment>
+		<segment id="64" parent="66" relname="span">Демонстрация еще одного его творения - \"Разделенные мать и дитя\",</segment>
+		<segment id="65" parent="64" relname="elaboration">представляющего собой расчлененных корову и теленка в формалине,</segment>
+		<segment id="67" parent="71" relname="span">была запрещена в Нью-Йорке</segment>
+		<segment id="68" parent="69" relname="cause-effect">из-за опасений за психическое здоровье посетителей.\n\nЗаполненный формалином аквариум с акулой</segment>
+		<segment id="69" parent="70" relname="span">- в 2004 году был куплен миллиардером Стивеном Коэном за 12 миллионов долларов.</segment>
+		<segment id="73" parent="74" relname="sequence">Впоследствии акула была передана Коэном нью-йоркскому Музею современного искусства.</segment>
+		<segment id="75" parent="77" relname="span">Художника сделал знаменитым галерист Чарльз Саатчи,</segment>
+		<segment id="76" parent="75" relname="elaboration">впервые представивший его в рамках группы Young British Artists (\"Молодые британские художники\") в середине 1990-х.</segment>
+		<segment id="78" parent="80" relname="joint">Херст также делал видеоклипы для группы Blur,</segment>
+		<segment id="79" parent="80" relname="joint">он известен и совместными проектами в области освоения космоса с Британским национальным аэрокосмическим центром.</segment>
+		<segment id="81" parent="82" relname="sequence">В 1995 году Херст получил престижную премию Тернера.\n\nИсточник: https://www.newsru.com/cinema/22Jan2008/hirst.html\n</segment>
+		<group id="40" type="span" parent="86" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="33" type="span" parent="39" relname="span"/>
+		<group id="38" type="span" parent="33" relname="attribution"/>
+		<group id="37" type="multinuc" parent="34" relname="purpose"/>
+		<group id="85" type="span" parent="86" relname="joint"/>
+		<group id="63" type="span" parent="85" relname="span"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="48" type="multinuc" parent="62" relname="joint"/>
+		<group id="46" type="span" parent="48" relname="joint"/>
+		<group id="45" type="span" parent="42" relname="elaboration"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="53" type="span" parent="61" relname="joint"/>
+		<group id="51" type="multinuc" parent="53" relname="span"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="59" type="multinuc" parent="54" relname="elaboration"/>
+		<group id="58" type="multinuc" parent="59" relname="comparison"/>
+		<group id="84" type="multinuc" parent="63" relname="background"/>
+		<group id="74" type="multinuc" parent="84" relname="joint"/>
+		<group id="72" type="span" parent="74" relname="sequence"/>
+		<group id="66" type="span" parent="72" relname="span"/>
+		<group id="71" type="span" parent="66" relname="elaboration"/>
+		<group id="70" type="span" parent="67" relname="cause-effect"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="77" type="span" parent="83" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="80" type="multinuc" parent="82" relname="sequence"/>
+		<group id="86" type="multinuc"/>
+	</body>
+</rst>

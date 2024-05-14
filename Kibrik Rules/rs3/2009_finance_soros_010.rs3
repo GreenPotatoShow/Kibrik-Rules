@@ -1,0 +1,86 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="35" parent="39" relname="span">Сорос: США потребуется не менее 10 лет,</segment>
+		<segment id="36" parent="38" relname="joint">чтобы выйти из кризиса\n\nСША потребуется не менее 10 лет,</segment>
+		<segment id="37" parent="38" relname="joint">чтобы вернуться к докризисным темпам экономического роста,</segment>
+		<segment id="40" parent="41" relname="attribution">прогнозирует американский финансист Джордж Сорос,</segment>
+		<segment id="41" parent="42" relname="span">принимающий участие в Давосском экономическом форуме.</segment>
+		<segment id="44" parent="48" relname="span">\"США будет очень сложно демонстрировать рост на уровне 3% в год в течение следующего десятилетия\",</segment>
+		<segment id="45" parent="46" relname="attribution">— считает Сорос,</segment>
+		<segment id="46" parent="47" relname="span">которого цитирует агентство Associated Press.\n\</segment>
+		<segment id="50" parent="55" relname="attribution">nПо мнению финансиста,</segment>
+		<segment id="51" parent="53" relname="span">сложившаяся ситуация на самом деле даже хуже, чем во времена Великой депрессии,</segment>
+		<segment id="52" parent="51" relname="elaboration">с которой многие эксперты сравнивают</segment>
+		<segment id="54" parent="55" relname="same-unit">нынешний мировой экономический кризис.\n\</segment>
+		<segment id="57" parent="63" relname="same-unit">nКроме того,</segment>
+		<segment id="58" parent="61" relname="attribution">как считает Сорос,</segment>
+		<segment id="59" parent="61" relname="span">американским банкам потребуется около 1,5 трлн долларов</segment>
+		<segment id="60" parent="59" relname="purpose">для рекапитализации,</segment>
+		<segment id="64" parent="68" relname="same-unit">однако,</segment>
+		<segment id="65" parent="66" relname="attribution">по признанию самого аналитика,</segment>
+		<segment id="66" parent="67" relname="span">подобная помощь маловероятна:</segment>
+		<segment id="69" parent="79" relname="span">\"Это означает, что государство обладало бы большей долей в банковской системе.</segment>
+		<segment id="70" parent="78" relname="joint">Это называется национализация,</segment>
+		<segment id="71" parent="77" relname="span">и политически неприемлемо\".\n\</segment>
+		<segment id="72" parent="76" relname="same-unit">nВ результате,</segment>
+		<segment id="73" parent="74" relname="attribution">по прогнозам финансиста,</segment>
+		<segment id="74" parent="75" relname="span">тяжелое положение в банковской системе сохранится и в текущем году.</segment>
+		<segment id="80" parent="86" relname="joint">Те банки, которые смогли выжить в период кризиса в 2008 году,</segment>
+		<segment id="81" parent="85" relname="comparison">окажутся самыми проблемными в 2009 году.\n\nВ среду Международный валютный фонд также ухудшил свой прогноз состояния экономики США.</segment>
+		<segment id="82" parent="84" relname="comparison">Ранее эксперты ожидали снижения ВВП США по итогам 2009 года на 0,7%,</segment>
+		<segment id="83" parent="84" relname="comparison">теперь они прогнозируют экономический спад на уровне 1,6%.</segment>
+		<segment id="90" parent="94" relname="same-unit">При этом в 2010 году,</segment>
+		<segment id="91" parent="92" relname="attribution">по их мнению,</segment>
+		<segment id="92" parent="93" relname="span">американская экономика продемонстрирует рост в 1,6%.\n\nДжордж Сорос — известный американский финансист, миллиардер и меценат.</segment>
+		<segment id="95" parent="96" relname="attribution">По данным журнала Forbes,</segment>
+		<segment id="96" parent="97" relname="span">его состояние в 2008 году составляло 9 млрд долларов.\n\nИсточник: https://www.newsru.com/finance/29Jan2009/soros.html\n</segment>
+		<group id="49" type="multinuc" parent="100" relname="preparation"/>
+		<group id="43" type="span" parent="49" relname="joint"/>
+		<group id="39" type="span" parent="43" relname="span"/>
+		<group id="38" type="multinuc" parent="35" relname="purpose"/>
+		<group id="42" type="span" parent="39" relname="attribution"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="47" type="span" parent="44" relname="attribution"/>
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="56" type="span" parent="100" relname="joint"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="53" type="span" parent="55" relname="same-unit"/>
+		<group id="99" type="multinuc" parent="100" relname="joint"/>
+		<group id="89" type="multinuc" parent="99" relname="comparison"/>
+		<group id="63" type="multinuc" parent="89" relname="contrast"/>
+		<group id="62" type="span" parent="63" relname="same-unit"/>
+		<group id="61" type="span" parent="62" relname="span"/>
+		<group id="88" type="span" parent="89" relname="contrast"/>
+		<group id="68" type="multinuc" parent="88" relname="span"/>
+		<group id="67" type="span" parent="68" relname="same-unit"/>
+		<group id="87" type="multinuc" parent="68" relname="elaboration"/>
+		<group id="79" type="span" parent="87" relname="joint"/>
+		<group id="78" type="multinuc" parent="69" relname="elaboration"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="76" type="multinuc" parent="71" relname="cause-effect"/>
+		<group id="75" type="span" parent="76" relname="same-unit"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="84" type="multinuc" parent="85" relname="comparison"/>
+		<group id="98" type="multinuc" parent="99" relname="comparison"/>
+		<group id="94" type="multinuc" parent="98" relname="comparison"/>
+		<group id="93" type="span" parent="94" relname="same-unit"/>
+		<group id="97" type="span" parent="98" relname="comparison"/>
+		<group id="101" type="span"/>
+	</body>
+</rst>

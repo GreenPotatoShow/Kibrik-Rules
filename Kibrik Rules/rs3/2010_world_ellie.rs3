@@ -1,0 +1,37 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="13" parent="15" relname="span">Самая уродливая собака в мире скончалась в США незадолго до нового конкурса\n\nКитайская хохлатая собака по кличке Мисс Элли,</segment>
+		<segment id="14" parent="13" relname="elaboration">признанная самой уродливой собакой в мире,</segment>
+		<segment id="16" parent="17" relname="sequence">умерла в США в возрасте 17 лет.</segment>
+		<segment id="18" parent="17" relname="attribution">Об этом в пятницу сообщает издание The Daily Telegraph.\n\nСвой титул Мисс Элли получила в 2009 году.</segment>
+		<segment id="20" parent="22" relname="span">Животное с прыщавой мордой, торчащим наружу языком, страдающее катарактой глаз и облысением победило в ежегодном конкурсе \"Самых уродливых собак в мире\",</segment>
+		<segment id="21" parent="20" relname="background">который проводит телеканал Animal Planet.</segment>
+		<segment id="23" parent="25" relname="joint">В следующем месяце Мисс Элли должна была снова участвовать в конкурсе в Калифорнии.\n\nСобака снималась в телевизионных шоу, рекламе</segment>
+		<segment id="24" parent="25" relname="joint">и даже исполнила главную роль в комедии.</segment>
+		<segment id="26" parent="28" relname="span">Она помогла собрать более 100 тысяч долларов для местного гуманитарного общества.\n\nВласти города Пиджн Форж,</segment>
+		<segment id="27" parent="26" relname="background">где она проживала,</segment>
+		<segment id="29" parent="30" relname="sequence">даже провозгласили один из дней в году - 12 ноября - Днем Мисс Элли.</segment>
+		<segment id="31" parent="32" relname="joint">Тело Мисс Элли будет кремировано.\n\nИсточник: https://www.newsru.com/world/04Jun2010/ellie.html\n</segment>
+		<group id="19" type="span" parent="35" relname="joint"/>
+		<group id="17" type="multinuc" parent="19" relname="span"/>
+		<group id="15" type="span" parent="17" relname="sequence"/>
+		<group id="34" type="multinuc" parent="35" relname="joint"/>
+		<group id="22" type="span" parent="34" relname="joint"/>
+		<group id="33" type="multinuc" parent="34" relname="joint"/>
+		<group id="25" type="multinuc" parent="33" relname="joint"/>
+		<group id="32" type="multinuc" parent="33" relname="joint"/>
+		<group id="30" type="multinuc" parent="32" relname="joint"/>
+		<group id="28" type="span" parent="30" relname="sequence"/>
+		<group id="35" type="multinuc"/>
+	</body>
+</rst>

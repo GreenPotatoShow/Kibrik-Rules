@@ -1,0 +1,34 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="11" parent="13" relname="span">Самолет авиакомпании British Airways,</segment>
+		<segment id="12" parent="11" relname="elaboration">летевший в Тель-Авив,</segment>
+		<segment id="14" parent="16" relname="span">изменил маршрут\n\nСамолет British Airways,</segment>
+		<segment id="15" parent="14" relname="elaboration">летевший в Тель-Авив,</segment>
+		<segment id="17" parent="18" relname="sequence">изменил маршрут,</segment>
+		<segment id="20" parent="19" relname="attribution">сообщает \"Интерфакс\".</segment>
+		<segment id="22" parent="24" relname="span">Руководство британской авиакомпании приняло дополнительные меры безопасности после катастрофы российского Ту-154 над Черным морем.\n\nBoeing-777,</segment>
+		<segment id="23" parent="22" relname="background">летевший из Лондона в Тель-Авив,</segment>
+		<segment id="25" parent="26" relname="same-unit">совершил незапланированную посадку на Кипре.</segment>
+		<segment id="27" parent="26" relname="elaboration">Это один из 17 еженедельных рейсов между Лондоном и Тель-Авивом.\n\nИсточник: https://www.newsru.com/world/04Oct2001/landing.html\n</segment>
+		<group id="21" type="span" parent="29" relname="joint"/>
+		<group id="19" type="multinuc" parent="21" relname="span"/>
+		<group id="13" type="span" parent="19" relname="sequence"/>
+		<group id="18" type="multinuc" parent="19" relname="sequence"/>
+		<group id="16" type="span" parent="18" relname="sequence"/>
+		<group id="28" type="span" parent="29" relname="joint"/>
+		<group id="26" type="multinuc" parent="28" relname="span"/>
+		<group id="24" type="span" parent="26" relname="same-unit"/>
+		<group id="29" type="multinuc"/>
+	</body>
+</rst>

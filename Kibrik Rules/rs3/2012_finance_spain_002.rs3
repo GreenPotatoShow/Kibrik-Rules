@@ -1,0 +1,84 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="37" relname="attribution">Испания объявила,</segment>
+		<segment id="35" parent="36" relname="cause-effect">что готова создать банк \"мусорных\" активов\n\nИспания готова создать единый банк «плохих» активов,</segment>
+		<segment id="36" parent="37" relname="span">что может быть условием получения помощи Евросоюза,</segment>
+		<segment id="39" parent="43" relname="span">пишет The Financial Times.\n\nМинистры финансов еврозоны проведут очередную встречу в Брюсселе в понедельник,</segment>
+		<segment id="40" parent="42" relname="joint">чтобы согласовать основные условия, на которых Испания сможет получить 100 млрд евро на рекапитализацию банковского сектора,</segment>
+		<segment id="41" parent="42" relname="joint">а также обсудить вопрос распределения связанных с этим рисков в долгосрочной перспективе.\n\</segment>
+		<segment id="45" parent="48" relname="attribution">nПо словам источников в испанском правительстве,</segment>
+		<segment id="46" parent="48" relname="span">Мадрид готов создать такую организацию,</segment>
+		<segment id="47" parent="46" relname="condition">если этого потребует ЕС.\n\nЭтот шаг приведет к появлению центрально-управляемой организации,</segment>
+		<segment id="50" parent="54" relname="joint">показатели которой будет легко отслеживать,</segment>
+		<segment id="51" parent="53" relname="joint">что, вероятно, ослабит опасения европейских лидеров относительно того, каким образом будет осуществляться надзор за проблемными банками страны.\n\nПока неясно, кто будет управлять такой организацией,</segment>
+		<segment id="52" parent="53" relname="joint">а также каким образом будут оцениваться «плохие» активы, передаваемые в банк,</segment>
+		<segment id="55" parent="56" relname="contrast">однако обещание испанского правительства создать такой орган поможет стране получить доступ к кредитам уже в ближайшие месяцы.\n\</segment>
+		<segment id="59" parent="71" relname="contrast">nПравительство Испании уже несколько раз обсуждало идею создания банка «плохих» активов за семь месяцев своей работы,</segment>
+		<segment id="60" parent="70" relname="span">однако отказывалось от нее</segment>
+		<segment id="61" parent="66" relname="cause-effect">из-за высоких расходов на финансирование такой структуры.\n\nМинистр финансов Испании Луис де Гиндос заявил,</segment>
+		<segment id="62" parent="64" relname="span">что выделение Евросоюзом помощи банковскому сектору страны сделало возможность создания единого банка проблемных активов более реальной.\n\nИспания может объявить о новом, уже третьем по счету пакете мер бюджетной экономии в ближайшие дни,</segment>
+		<segment id="63" parent="62" relname="purpose">чтобы избежать ситуации,</segment>
+		<segment id="65" parent="64" relname="elaboration">при которой стране придется снова просить финансовую помощь у фондов ЕС,</segment>
+		<segment id="68" parent="67" relname="attribution">передает сайт Banki.ru</segment>
+		<segment id="72" parent="77" relname="attribution">со ссылкой на агентство Bloomberg.\n\nПремьер-министр Испании ранее уже говорил</segment>
+		<segment id="73" parent="77" relname="span">о срочной необходимости введения жестких мер,</segment>
+		<segment id="74" parent="76" relname="joint">чтобы снизить заимствования страны</segment>
+		<segment id="75" parent="76" relname="joint">путем повышения налога на добавленную стоимость бензина, общественного транспорта, гостиниц, ресторанов и воды.</segment>
+		<segment id="79" parent="83" relname="span">В настоящее время ставка НДС по ним сильно занижена.\n\</segment>
+		<segment id="80" parent="81" relname="cause-effect">nВведенные правительством ранее меры по повышению налога на доходы, платы за электроэнергию и табачных акцизов</segment>
+		<segment id="81" parent="82" relname="span">не смогли компенсировать 10-процентное падение поступлений от взимания НДС.\n\</segment>
+		<segment id="84" parent="86" relname="comparison">nИз-за оказания финансовой поддержки региональным властям расходы бюджета за последние пять месяцев увеличились на 12%,</segment>
+		<segment id="85" parent="86" relname="comparison">а стоимость обслуживания долга возросла на 32%.</segment>
+		<segment id="87" parent="93" relname="span">Доходность по 10-летним облигациям Испании все еще превышает 7%,</segment>
+		<segment id="88" parent="91" relname="cause-effect">а из-за резкого падения доходов</segment>
+		<segment id="89" parent="91" relname="span">страна не может сократить свой дефицит бюджета,</segment>
+		<segment id="90" parent="89" relname="elaboration">который является третьим по величине в еврозоне.\n\nИсточник: https://www.newsru.com/finance/09Jul2012/spain.html\n</segment>
+		<group id="58" type="multinuc" parent="98" relname="joint"/>
+		<group id="44" type="span" parent="58" relname="joint"/>
+		<group id="38" type="span" parent="44" relname="span"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="43" type="span" parent="38" relname="cause-effect"/>
+		<group id="42" type="multinuc" parent="39" relname="purpose"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="49" type="span" parent="57" relname="span"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="56" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="54" type="multinuc" parent="56" relname="contrast"/>
+		<group id="53" type="multinuc" parent="54" relname="joint"/>
+		<group id="97" type="multinuc" parent="98" relname="joint"/>
+		<group id="71" type="multinuc" parent="97" relname="joint"/>
+		<group id="70" type="span" parent="71" relname="contrast"/>
+		<group id="69" type="span" parent="60" relname="cause-effect"/>
+		<group id="67" type="span" parent="69" relname="span"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="64" type="span" parent="66" relname="span"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="78" type="span" parent="96" relname="joint"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="76" type="multinuc" parent="73" relname="purpose"/>
+		<group id="95" type="span" parent="96" relname="joint"/>
+		<group id="83" type="span" parent="95" relname="span"/>
+		<group id="82" type="span" parent="79" relname="cause-effect"/>
+		<group id="94" type="multinuc" parent="83" relname="cause-effect"/>
+		<group id="86" type="multinuc" parent="94" relname="joint"/>
+		<group id="93" type="span" parent="94" relname="joint"/>
+		<group id="92" type="span" parent="87" relname="cause-effect"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="98" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,48 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="20" relname="span">На \"Меридианах Тихого\" победил японский фильм о взрослении подростков\n\nЯпонская картина \"Тихие воды\" режиссера Наоми Кавасе получила главный приз XII Международного кинофестиваля стран Азиатско-Тихоокеанского региона \"Меридианы Тихого\",</segment>
+		<segment id="19" parent="18" relname="background">который завершился сегодня во Владивостоке,</segment>
+		<segment id="21" parent="20" relname="attribution">передает ИТАР-ТАСС.</segment>
+		<segment id="23" parent="25" relname="span">Это история взросления двух подростков,</segment>
+		<segment id="24" parent="23" relname="elaboration">декорациями для которой стали яркие картины субтропического острова.\n\</segment>
+		<segment id="26" parent="30" relname="span">nВ пятницу состоялась церемония закрытия фестиваля,</segment>
+		<segment id="27" parent="29" relname="joint">на которой были подведены итоги</segment>
+		<segment id="28" parent="29" relname="joint">и вручены награды.\n\nВ этом году призы фестиваля достались кинематографистам Канады, Республики Корея, России.</segment>
+		<segment id="31" parent="35" relname="span">Больше всего наград получили российские работы.</segment>
+		<segment id="32" parent="34" relname="joint">Приз за лучшую режиссуру достался Ивану Твердовскому за ленту \"Класс коррекции\",</segment>
+		<segment id="33" parent="34" relname="joint">а актриса Мария Поезжаева, сыгравшая в этом фильме, получила приз \"За лучшую женскую роль\".</segment>
+		<segment id="39" parent="43" relname="joint">Еще один российский участник конкурсной программы - документальная лента \"Кровь\" Алины Рудницкой - получил специальный приз жюри.\n\nРоссийские участники фестиваля увезли также несколько специальных призов.</segment>
+		<segment id="40" parent="42" relname="joint">Награда им. Юла Бриннера досталась актрисе Анне Левановой за роль в фильме Веры Глаголевой \"Две женщины\",</segment>
+		<segment id="41" parent="42" relname="joint">а приз зрительских симпатий увезли создатели фильма \"Звезда\".\n\nЛучшей короткометражной лентой фестиваля признана канадская картина режиссера Реми Сан-Мишеля \"Младший брат\".</segment>
+		<segment id="44" parent="48" relname="joint">Жюри международной организации по продвижению азиатского кино (NetPac) свою награду вручило создателям южнокорейской картины - \"черной\" детективной комедии \"Тяжелый день\".\n\nXII Международный кинофестиваль стран АТР \"Меридианы Тихого\" проходил во Владивостоке с 13 по 19 сентября.</segment>
+		<segment id="45" parent="47" relname="joint">Всего же за неделю фестиваля было продемонстрировано 165 фильмов из 34 стран в 15 конкурсных и внеконкурсных программах.</segment>
+		<segment id="46" parent="47" relname="joint">В конкурсную программу было включено 10 полно- и 10 короткометражных фильмов из Индии, Индонезии, Канады, Китая, Колумбии, Мексики, Нидерландов, Сингапура, США, Франции, Чили, Шри-Ланки и Японии.\n\nГостями фестиваля в этом году стали американские актеры Стивен Болдуин, Эдриен Броуди и Майкл Мэдсен, испанский режиссер Альберт Серра, южнокорейский актер Ли Сун Кюн, российский режиссер Владимир Меньшов и другие.\n\nИсточник: https://www.newsru.com/cinema/19Sep2014/meriditih.html\n</segment>
+		<group id="38" type="span" parent="50" relname="joint"/>
+		<group id="22" type="span" parent="37" relname="preparation"/>
+		<group id="20" type="span" parent="22" relname="span"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="25" type="span" parent="37" relname="span"/>
+		<group id="36" type="multinuc" parent="25" relname="elaboration"/>
+		<group id="30" type="span" parent="36" relname="joint"/>
+		<group id="29" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="34" type="multinuc" parent="31" relname="evidence"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="43" type="multinuc" parent="49" relname="joint"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="50" type="multinuc"/>
+	</body>
+</rst>

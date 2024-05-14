@@ -1,0 +1,41 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="16" relname="span">Старейший футболист мира продлил контракт со своим клубом еще на один сезон\n\n47-летний нападающий \"Иокогамы\" Казуеси Миура,</segment>
+		<segment id="15" parent="14" relname="elaboration">официально признанный самым старым среди действующих профессиональных футболистов планеты,</segment>
+		<segment id="17" parent="16" relname="condition">пока не думает вешать бутсы на гвоздь</segment>
+		<segment id="19" parent="20" relname="comparison">.\n\nМиура продолжит выступление за клуб второго японского дивизиона.</segment>
+		<segment id="21" parent="25" relname="joint">По истечении нового контракта футболисту будет 48 лет,</segment>
+		<segment id="22" parent="24" relname="span">передает телеканал Eurosport.\n\nВ минувшем сезоне Миура четырежды выходил на поле в национальном чемпионате.\n\nВетеран подписал первый профессиональный контракт в 1986 году,</segment>
+		<segment id="23" parent="22" relname="elaboration">начав выступления за \"Сантос\".</segment>
+		<segment id="26" parent="28" relname="joint">Сменив несколько бразильских клубов,</segment>
+		<segment id="27" parent="28" relname="joint">нападающий перешел в \"Дженоа\",</segment>
+		<segment id="29" parent="28" relname="background">став в 1994 году первым японцем в Серии А.</segment>
+		<segment id="31" parent="35" relname="joint">После неудачной попытки закрепиться в \"Сиднее\" в 2005 году Миура вернулся на родину,</segment>
+		<segment id="32" parent="34" relname="span">поиграв, таким образом, на четырех континентах.\n\nРекордсменом среди футбольных долгожителей-профессионалов является шотландец Нил МакБэйн,</segment>
+		<segment id="33" parent="32" relname="elaboration">который сыграл за команду \"Нью-Брайтон\" в 1947 году в возрасте 51 года.\n\nИсточник: https://www.newsru.com/sport/23Dec2014/miura.html\n</segment>
+		<group id="20" type="multinuc" parent="37" relname="preparation"/>
+		<group id="18" type="span" parent="20" relname="comparison"/>
+		<group id="16" type="span" parent="18" relname="span"/>
+		<group id="37" type="multinuc" parent="38" relname="span"/>
+		<group id="25" type="multinuc" parent="37" relname="sequence"/>
+		<group id="24" type="span" parent="25" relname="joint"/>
+		<group id="36" type="multinuc" parent="37" relname="sequence"/>
+		<group id="30" type="span" parent="36" relname="sequence"/>
+		<group id="28" type="multinuc" parent="30" relname="span"/>
+		<group id="35" type="multinuc" parent="36" relname="sequence"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="38" type="span"/>
+	</body>
+</rst>

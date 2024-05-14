@@ -1,0 +1,143 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="concession" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="63" parent="69" relname="joint">Президент Ливана принял отставку правительства\n\nПрезидент Ливана Эмиль Лахуд принял отставку правительства во главе с премьер-министром Омаром Караме в канцелярии главы ливанской республики.</segment>
+		<segment id="64" parent="68" relname="joint">Эта процедура проводится в соответствии с пунктом первым статьи 69 ливанской конституции.\n\nЛахуд поблагодарил Караме и его кабинет за их работу</segment>
+		<segment id="65" parent="67" relname="span">и попросил продолжать выполнять свои обязанности до тех пор,</segment>
+		<segment id="66" parent="65" relname="condition">пока не будет сформирован новый кабинет министров.\n\</segment>
+		<segment id="70" parent="76" relname="span">nОжидается, что консультации парламентских фракций с президентом страны по кандидатуре нового премьер-министра начнутся во вторник.</segment>
+		<segment id="71" parent="75" relname="span">Среди наиболее вероятных кандидатов на этот пост многие аналитики в Ливане называют министра экономики и торговли в правительстве Караме, известного предпринимателя, главу \"Франсабанка\" Аднана Кассара,</segment>
+		<segment id="72" parent="74" relname="sequence">сообщает РИА \"Новости\".\n\nРанее в понедельник на специальном совместном заседании кабинета министров и парламента об отставке правительства</segment>
+		<segment id="73" parent="74" relname="sequence">объявил премьер-министр Ливана Омар Караме.</segment>
+		<segment id="78" parent="81" relname="attribution">Он объяснил</segment>
+		<segment id="79" parent="81" relname="span">свое решение подать в отставку вместе со всем кабинетом министров желанием поступать в интересах страны и ответом на требование семьи покойного экс-премьера,</segment>
+		<segment id="80" parent="79" relname="elaboration">которое озвучила на утреннем заседании в понедельник его сестра - депутат парламента Багия Харири.</segment>
+		<segment id="83" parent="85" relname="span">Заседание было посвящено выяснению обстоятельств гибели в результате теракта 14 февраля бывшего премьер-министра страны Рафика Харири.\n\nДепутаты от оппозиции подвергли резкой критике руководство страны, в частности руководителей силовых министерств,</segment>
+		<segment id="84" parent="83" relname="cause-effect">обвинив их в попытке контролировать все сферы жизни в Ливане.</segment>
+		<segment id="86" parent="92" relname="span">Они также обвинили сирийские спецслужбы в подрывной деятельности,</segment>
+		<segment id="87" parent="90" relname="attribution">подчеркнув,</segment>
+		<segment id="88" parent="90" relname="span">что на территории Ливана должна находиться только ливанская армия.\n\nОдновременно тысячи ливанцев вышли на улицы Бейрута,</segment>
+		<segment id="89" parent="88" relname="elaboration">размахивая флагами и лозунгами с призывами к отставке правительства и выводу из страны сирийских войск,</segment>
+		<segment id="94" parent="95" relname="joint">сообщает РИА \"Новости\".\n\nВслед за сообщением об отставке правительства Ливана беспорядки вспыхнули в городе Триполи на севере страны.</segment>
+		<segment id="97" parent="108" relname="attribution">Как сообщает ливанский телеканал LBC,</segment>
+		<segment id="98" parent="108" relname="joint">демонстранты перекрыли дороги,</segment>
+		<segment id="99" parent="107" relname="joint">жгут автопокрышки,</segment>
+		<segment id="100" parent="106" relname="span">протестуя против отставки правительства Омара Караме.</segment>
+		<segment id="101" parent="105" relname="span">Триполи является родным городом Караме.</segment>
+		<segment id="102" parent="104" relname="joint">В нем проживают многие его сторонники</segment>
+		<segment id="103" parent="104" relname="joint">.\n\nПолитический кризис в Ливане начался после того, как в теракте погиб один из лидеров оппозиции бывший премьер Ливана Рафик Харири.</segment>
+		<segment id="110" parent="118" relname="span">Убийство Харири вызвало массовые протесты против политики ливанского руководства и присутствия в стране сирийского военного контингента.\n\nСформированное в конце октября прошлого года после продления срока действующего президента страны Эмиля Лахуда</segment>
+		<segment id="111" parent="117" relname="span">правительство просуществовало чуть более четырех месяцев,</segment>
+		<segment id="112" parent="115" relname="concession">несмотря на то, что изначально ему итак был отведен весьма небольшой срок</segment>
+		<segment id="113" parent="115" relname="span">- до выборов в парламент,</segment>
+		<segment id="114" parent="113" relname="elaboration">назначенных на май.</segment>
+		<segment id="119" parent="125" relname="joint">Впервые в истории Ливана правительство подало в отставку в стенах парламента,</segment>
+		<segment id="120" parent="124" relname="span">отмечает РИА \"Новости\".\n\nОппозиция страны,</segment>
+		<segment id="121" parent="123" relname="joint">возглавляемая лидером Прогрессивной социалистической партии Ливана Валидом Джумблатом</segment>
+		<segment id="122" parent="123" relname="joint">и проводившая с выходных демонстрации с требованием отставки правительства и вывода сирийских войск,</segment>
+		<segment id="126" parent="134" relname="joint">считает уход действующего правительства своим достижением</segment>
+		<segment id="127" parent="132" relname="attribution">и заявляет</segment>
+		<segment id="128" parent="130" relname="span">о продолжении акций протеста до тех пор,</segment>
+		<segment id="129" parent="128" relname="condition">пока сирийские военные не покинут страну.\n\nВалид Джумблат и возглавляемый им широкий оппозиционный фронт призывают к формированию временного нейтрального правительства,</segment>
+		<segment id="131" parent="130" relname="elaboration">которое проведет в мае всеобщие выборы</segment>
+		<segment id="136" parent="144" relname="span">.\n\</segment>
+		<segment id="137" parent="143" relname="joint">nНекоторые наблюдатели в Ливане опасаются возникновения конституционного вакуума</segment>
+		<segment id="138" parent="140" relname="span">и даже говорят о возможном назначении президентом страны,</segment>
+		<segment id="139" parent="138" relname="elaboration">который одновременно является главнокомандующим армией, временного военного правительства</segment>
+		<segment id="141" parent="142" relname="same-unit">.\n\</segment>
+		<segment id="145" parent="152" relname="attribution">nКак сообщает ИТАР-ТАСС,</segment>
+		<segment id="146" parent="150" relname="span">проживающий в Париже в эмиграции бывший командующий ливанской армией генерал Мишель Аун,</segment>
+		<segment id="147" parent="148" relname="attribution">поднявший в 1989 году мятеж против Сирии, заявил,</segment>
+		<segment id="148" parent="149" relname="span">что в ближайшие дни возвратится в Ливан</segment>
+		<segment id="151" parent="152" relname="joint">и, возможно, примет участие в будущих выборах.</segment>
+		<segment id="154" parent="158" relname="joint">Аун возглавляет Свободное патриотическое движение,</segment>
+		<segment id="155" parent="157" relname="joint">у него немало сторонников в Стране</segment>
+		<segment id="156" parent="157" relname="joint">.\n\nВашингтон приветствовал отставку премьер-министра Ливана\n\</segment>
+		<segment id="166" parent="169" relname="attribution">nАдминистрация США высказала</segment>
+		<segment id="167" parent="169" relname="span">в понедельник одобрение</segment>
+		<segment id="168" parent="167" relname="cause-effect">в связи с отставкой премьер-министра Ливана Омара Караме,</segment>
+		<segment id="171" parent="174" relname="attribution">отметив,</segment>
+		<segment id="172" parent="174" relname="span">что это открывает путь для нового правительства,</segment>
+		<segment id="173" parent="172" relname="elaboration">которое будет \"подлинно представительным\",</segment>
+		<segment id="176" parent="177" relname="joint">сообщает \"Интерфакс\".\n\n\"Мы с большой заинтересованностью следим за развитием ситуации\",</segment>
+		<segment id="179" parent="178" relname="attribution">- сказал в понедельник пресс-секретарь Белого дома Скот Маклеллан.\n\n\"Отставка правительства Караме открывает возможность ливанскому народу избрать новое правительство, которое будет подлинно представительным\", - официальный представитель американской администрации.</segment>
+		<segment id="181" parent="182" relname="attribution">По словам Маклеллана,</segment>
+		<segment id="182" parent="183" relname="span">\"новое правительство возьмет на себя ответственность за проведение свободных и честных выборов\".\n\nИсточник: https://www.newsru.com/world/28Feb2005/lahud.html\n</segment>
+		<group id="165" type="multinuc" parent="185" relname="joint"/>
+		<group id="77" type="multinuc" parent="165" relname="joint"/>
+		<group id="69" type="multinuc" parent="77" relname="joint"/>
+		<group id="68" type="multinuc" parent="69" relname="joint"/>
+		<group id="67" type="span" parent="68" relname="joint"/>
+		<group id="76" type="span" parent="77" relname="joint"/>
+		<group id="75" type="span" parent="70" relname="elaboration"/>
+		<group id="74" type="multinuc" parent="71" relname="attribution"/>
+		<group id="164" type="multinuc" parent="165" relname="joint"/>
+		<group id="96" type="multinuc" parent="164" relname="joint"/>
+		<group id="82" type="span" parent="96" relname="joint"/>
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="93" type="multinuc" parent="95" relname="joint"/>
+		<group id="85" type="span" parent="93" relname="joint"/>
+		<group id="92" type="span" parent="93" relname="joint"/>
+		<group id="91" type="span" parent="86" relname="elaboration"/>
+		<group id="90" type="span" parent="91" relname="span"/>
+		<group id="163" type="multinuc" parent="164" relname="joint"/>
+		<group id="109" type="span" parent="163" relname="joint"/>
+		<group id="108" type="multinuc" parent="109" relname="span"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="105" type="span" parent="100" relname="elaboration"/>
+		<group id="104" type="multinuc" parent="101" relname="elaboration"/>
+		<group id="162" type="multinuc" parent="163" relname="joint"/>
+		<group id="118" type="span" parent="162" relname="joint"/>
+		<group id="117" type="span" parent="110" relname="elaboration"/>
+		<group id="116" type="span" parent="111" relname="concession"/>
+		<group id="115" type="span" parent="116" relname="span"/>
+		<group id="161" type="multinuc" parent="162" relname="joint"/>
+		<group id="135" type="multinuc" parent="161" relname="joint"/>
+		<group id="125" type="multinuc" parent="135" relname="joint"/>
+		<group id="124" type="span" parent="125" relname="joint"/>
+		<group id="123" type="multinuc" parent="120" relname="elaboration"/>
+		<group id="134" type="multinuc" parent="135" relname="joint"/>
+		<group id="133" type="span" parent="134" relname="joint"/>
+		<group id="132" type="span" parent="133" relname="span"/>
+		<group id="130" type="span" parent="132" relname="span"/>
+		<group id="160" type="multinuc" parent="161" relname="joint"/>
+		<group id="144" type="span" parent="160" relname="joint"/>
+		<group id="143" type="multinuc" parent="136" relname="elaboration"/>
+		<group id="142" type="multinuc" parent="143" relname="joint"/>
+		<group id="140" type="span" parent="142" relname="same-unit"/>
+		<group id="159" type="multinuc" parent="160" relname="joint"/>
+		<group id="153" type="span" parent="159" relname="joint"/>
+		<group id="152" type="multinuc" parent="153" relname="span"/>
+		<group id="150" type="span" parent="152" relname="joint"/>
+		<group id="149" type="span" parent="146" relname="elaboration"/>
+		<group id="158" type="multinuc" parent="159" relname="joint"/>
+		<group id="157" type="multinuc" parent="158" relname="joint"/>
+		<group id="184" type="span" parent="185" relname="joint"/>
+		<group id="180" type="span" parent="184" relname="span"/>
+		<group id="178" type="span" parent="180" relname="span"/>
+		<group id="170" type="span" parent="178" relname="span"/>
+		<group id="169" type="span" parent="170" relname="span"/>
+		<group id="177" type="multinuc" parent="170" relname="interpretation-evaluation"/>
+		<group id="175" type="span" parent="177" relname="joint"/>
+		<group id="174" type="span" parent="175" relname="span"/>
+		<group id="183" type="span" parent="180" relname="interpretation-evaluation"/>
+		<group id="185" type="multinuc"/>
+	</body>
+</rst>

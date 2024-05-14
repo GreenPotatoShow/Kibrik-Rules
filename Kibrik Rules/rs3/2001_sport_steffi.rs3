@@ -1,0 +1,40 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="38" relname="span">Штеффи Граф больше нет\n\</segment>
+		<segment id="15" parent="17" relname="joint">nОна оставила теннис,</segment>
+		<segment id="16" parent="17" relname="joint">рассталась со своим давним другом,</segment>
+		<segment id="18" parent="20" relname="joint">переехала в другую страну</segment>
+		<segment id="19" parent="20" relname="joint">и теперь хочет поменять имя.</segment>
+		<segment id="22" parent="26" relname="joint">Величайшая немецкая теннисистка, обладательница 22 титулов \"Большого шлема\", продержавшаяся на женском теннисном Олимпе рекордные 378 недель не чувствует себя больше Штеффи</segment>
+		<segment id="23" parent="25" relname="span">и предпочитает,</segment>
+		<segment id="24" parent="23" relname="purpose">чтобы ее называли не иначе, как Стефани.\n\n</segment>
+		<segment id="28" parent="27" relname="interpretation-evaluation">\"Мне больше нравится это имя\",</segment>
+		<segment id="30" parent="29" relname="attribution">- заявила Граф в интервью немецкой газете Handelsblatt.</segment>
+		<segment id="32" parent="34" relname="joint">\"Королева тенниса\" не собирается останавливаться на этом,</segment>
+		<segment id="33" parent="34" relname="joint">и приняла решение переименовать свою кампанию Steffi Graf Sport GmbH в Stefanie Graf Marketing GmbH & Co KG.</segment>
+		<segment id="35" parent="36" relname="joint">Подобные изменения также коснулись и ее интернет-сайта.\n\nИсточник: https://www.newsru.com/sport/12Apr2001/steffi.html\n</segment>
+		<group id="37" type="multinuc" parent="14" relname="elaboration"/>
+		<group id="31" type="span" parent="37" relname="joint"/>
+		<group id="29" type="span" parent="31" relname="span"/>
+		<group id="27" type="multinuc" parent="29" relname="span"/>
+		<group id="21" type="multinuc" parent="27" relname="joint"/>
+		<group id="17" type="multinuc" parent="21" relname="sequence"/>
+		<group id="20" type="multinuc" parent="21" relname="sequence"/>
+		<group id="26" type="multinuc" parent="27" relname="joint"/>
+		<group id="25" type="span" parent="26" relname="joint"/>
+		<group id="36" type="multinuc" parent="37" relname="joint"/>
+		<group id="34" type="multinuc" parent="36" relname="joint"/>
+		<group id="38" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,70 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="28" relname="attribution">Буш намерен отчитаться перед Конгрессом,</segment>
+		<segment id="28" parent="29" relname="span">на что в Ираке будут потрачены 87 миллиардов долларов\n\nПрезидент США Джордж Буш направит в четверг на рассмотрение Конгресса детальный план, в котором будет рассказано, на что именно пойдут запрошенные на реконструкцию Ирака 87 миллиардов долларов,</segment>
+		<segment id="30" parent="29" relname="attribution">передает Reuters.\n\</segment>
+		<segment id="32" parent="35" relname="attribution">nПо мнению аналитиков,</segment>
+		<segment id="33" parent="35" relname="joint">Конгресс удовлетворит просьбу президента,</segment>
+		<segment id="34" parent="35" relname="joint">и необходимые средства буду выделены.</segment>
+		<segment id="37" parent="39" relname="span">Это произойдет,</segment>
+		<segment id="38" parent="37" relname="concession">несмотря на то, что против столь крупных трат выступают как демократы, так и некоторые члены Республиканской партии.\n\nПротив \"расточительства\", Буша выступают также и простые американцы.</segment>
+		<segment id="41" parent="42" relname="attribution">Согласно опросу, проведенному телекомпанией ABC News и газетой The Washington Post,</segment>
+		<segment id="42" parent="43" relname="span">60% американцев выступают против выделения столь крупной суммы.\n\nБюджетный дефицит в США в следующем году достигнет почти 500 млрд долларов.</segment>
+		<segment id="44" parent="46" relname="restatement">Таковы последние расчеты бюджетного управления конгресса США.</segment>
+		<segment id="45" parent="46" relname="restatement">Это означает, что по сравнению с нынешним годом дефицит увеличится на 80 млрд.</segment>
+		<segment id="48" parent="52" relname="span">с выделением дополнительных средств на восстановление Ирака,</segment>
+		<segment id="49" parent="50" relname="attribution">которые запросил Буш,</segment>
+		<segment id="50" parent="51" relname="span">эта сумма увеличится еще на 87 миллиардов.\n\</segment>
+		<segment id="53" parent="56" relname="attribution">nСогласно данным, которые будут представлены Конгрессу,</segment>
+		<segment id="54" parent="56" relname="span">66 миллиардов достанутся военным и спецслужбам,</segment>
+		<segment id="55" parent="54" relname="elaboration">из них 51 миллиард пойдут непосредственно на поддержание частей, находящихся в Ираке.\n\n20 миллиардов, согласно плану Буша, пойдут на восстановление Ирака.</segment>
+		<segment id="59" parent="60" relname="attribution">Однако, эксперты утверждают,</segment>
+		<segment id="60" parent="61" relname="span">что это лишь малая часть необходимой суммы.</segment>
+		<segment id="62" parent="61" relname="purpose">Для \"настоящего\" восстановления страны потребуется от 50 до 75 миллиардов долларов.</segment>
+		<segment id="64" parent="65" relname="attribution">Вашингтон надеется,</segment>
+		<segment id="65" parent="66" relname="span">что большую часть необходимых средств предоставят союзники США по коалиции,</segment>
+		<segment id="67" parent="71" relname="same-unit">однако,</segment>
+		<segment id="68" parent="69" relname="attribution">по мнению аналитиков,</segment>
+		<segment id="69" parent="70" relname="span">это маловероятно.\n\nЕще 11 миллиардов планируется выделить на военные действия в Афганистане.\n\nИсточник: https://www.newsru.com/world/17Sep2003/despite.html\n</segment>
+		<group id="31" type="span" parent="77" relname="joint"/>
+		<group id="29" type="span" parent="31" relname="span"/>
+		<group id="76" type="multinuc" parent="77" relname="joint"/>
+		<group id="40" type="span" parent="76" relname="joint"/>
+		<group id="36" type="span" parent="40" relname="span"/>
+		<group id="35" type="multinuc" parent="36" relname="span"/>
+		<group id="39" type="span" parent="36" relname="interpretation-evaluation"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="47" type="multinuc" parent="75" relname="joint"/>
+		<group id="43" type="span" parent="47" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="58" type="multinuc" parent="74" relname="contrast"/>
+		<group id="52" type="span" parent="58" relname="joint"/>
+		<group id="51" type="span" parent="48" relname="elaboration"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="73" type="multinuc" parent="74" relname="contrast"/>
+		<group id="63" type="span" parent="73" relname="joint"/>
+		<group id="61" type="span" parent="63" relname="span"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="66" type="span" parent="72" relname="contrast"/>
+		<group id="71" type="multinuc" parent="72" relname="contrast"/>
+		<group id="70" type="span" parent="71" relname="same-unit"/>
+		<group id="77" type="multinuc"/>
+	</body>
+</rst>

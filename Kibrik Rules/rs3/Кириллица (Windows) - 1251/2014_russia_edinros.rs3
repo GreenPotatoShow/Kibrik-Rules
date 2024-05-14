@@ -1,0 +1,54 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="span">Единороссы предложили вместо Лукина две кандидатуры\n\nФракция \"Единая Россия\" в Госдуме решила выдвинуть на пост уполномоченного по правам человека в РФ кандидатуры депутатов Павла Крашенинникова и Николая Булаева.</segment>
+		<segment id="20" parent="19" relname="attribution">Об этом сообщил в понедельник журналистам вице-спикер Госдума Сергей Железняк.</segment>
+		<segment id="22" parent="24" relname="sequence">\"Решением фракции поддержано выдвижение двух кандидатур: Николая Булаева и Павла Крашенинникова\", - цитирует Железняка РИА \"Новости\".\n\nКрашенинников возглавляет в Госдуме комитет по гражданскому, уголовному, арбитражному и процессуальному законодательству,</segment>
+		<segment id="23" parent="24" relname="sequence">Булаев занимает пост первого заместителя главы фракции.\n\nПолномочия действующего омбудсмена Владимира Лукина истекают 18 февраля.</segment>
+		<segment id="25" parent="26" relname="joint">К этому сроку в Госдуму должны быть представлены кандидатуры его возможных преемников.\n\nПервым официальным кандидатом стала депутат Госдумы от ЛДПР Елена Афанасьева.</segment>
+		<segment id="27" parent="29" relname="span">Кроме того, сообщалось, что в список кандидатов будет включена председатель движения \"Гражданское достоинство\", экс-глава Совета по правам человека Элла Памфилова.\n\nВ \"Единой России\" выбирали из десятка кандидатур.</segment>
+		<segment id="28" parent="27" relname="elaboration">Причем изначально наряду с Крашенинниковым называлась фамилия вице-спикера Госдумы Людмилы Швецовой.\n\</segment>
+		<segment id="30" parent="31" relname="condition">nЧто касается самого главы комитета Госдумы по гражданскому, уголовному, арбитражному и процессуальному законодательству,</segment>
+		<segment id="31" parent="32" relname="span">то он поначалу информацию о планах по выдвижению его кандидатуры на пост уполномоченного в РФ опровергал.</segment>
+		<segment id="34" parent="36" relname="span">\"Никуда я из Думы не пойду,</segment>
+		<segment id="35" parent="34" relname="cause-effect">поскольку стоит масштабная задача по подготовке нового Гражданского кодекса РФ\",</segment>
+		<segment id="37" parent="36" relname="attribution">- цитировало Крашенинникова агентство ИТАР-ТАСС.\n\nВ свою очередь правозащитники обращались к президенту с просьбой оставить Владимира Лукина на посту уполномоченного по правам человека на третий срок.</segment>
+		<segment id="41" parent="43" relname="span">Однако для этого требуется изменить действующее законодательство,</segment>
+		<segment id="42" parent="41" relname="elaboration">согласно которому один и тот же человек не может находиться на этой должности более двух сроков.</segment>
+		<segment id="44" parent="50" relname="contrast">Сам Лукин ранее не исключал возможности своего переназначения,</segment>
+		<segment id="45" parent="48" relname="attribution">однако заявлял,</segment>
+		<segment id="46" parent="48" relname="span">что не будет инициировать поправки в закон,</segment>
+		<segment id="47" parent="46" relname="purpose">позволяющие ему сохранить эту должность.\n\nИсточник: https://www.newsru.com/russia/20Jan2014/edinros.html\n</segment>
+		<group id="21" type="span" parent="52" relname="preparation"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="40" type="multinuc" parent="52" relname="contrast"/>
+		<group id="26" type="multinuc" parent="40" relname="joint"/>
+		<group id="24" type="multinuc" parent="26" relname="joint"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="33" type="multinuc" parent="39" relname="joint"/>
+		<group id="29" type="span" parent="33" relname="sequence"/>
+		<group id="32" type="span" parent="33" relname="sequence"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="36" type="span" parent="38" relname="span"/>
+		<group id="51" type="multinuc" parent="52" relname="contrast"/>
+		<group id="43" type="span" parent="51" relname="joint"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="49" type="span" parent="50" relname="contrast"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

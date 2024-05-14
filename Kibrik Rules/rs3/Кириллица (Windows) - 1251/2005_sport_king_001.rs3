@@ -1,0 +1,83 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="34" relname="comparison">Рахману, возможно, придется драться с Кличко почти бесплатно\n\nПромоутер Дон Кинг подал в суд на своего бойца Хасима Рахмана всего лишь за шесть недель до того,</segment>
+		<segment id="33" parent="34" relname="comparison">как он должен выйти на бой против Виталия Кличко за титул WBC среди супертяжеловесов.</segment>
+		<segment id="35" parent="36" relname="condition">И если Кинг выиграет суд,</segment>
+		<segment id="36" parent="37" relname="span">Рахман может не получить за этот бой практически ничего,</segment>
+		<segment id="38" parent="39" relname="attribution">отмечает AllВoxing.\n\nКинг хочет,</segment>
+		<segment id="39" parent="40" relname="span">чтобы суд заставил Рахмана отдать ему половину гонорара за бой против Виталия.</segment>
+		<segment id="43" parent="50" relname="attribution">Промоутер утверждает,</segment>
+		<segment id="44" parent="46" relname="span">что в соответствии с контрактом,</segment>
+		<segment id="45" parent="44" relname="elaboration">который он подписал с Рахманом,</segment>
+		<segment id="47" parent="49" relname="span">ему причитается 50% от гонорара Хасима</segment>
+		<segment id="48" parent="47" relname="condition">в случае проигрыша конкурса заявок на бой своего подопечного.</segment>
+		<segment id="52" parent="58" relname="same-unit">Именно это случилось,</segment>
+		<segment id="53" parent="57" relname="span">когда Боб Арум выиграл право на проведение боя Виталий Кличко - Хасим Рахман,</segment>
+		<segment id="54" parent="56" relname="comparison">предложив на аукционе сумму в 12 млн 100 тысяч долларов.\n\nВ соответствии с решением WBC,</segment>
+		<segment id="55" parent="56" relname="comparison">Рахману причитается 30% от этой суммы, или примерно 4 млн 235 тысяч.</segment>
+		<segment id="60" parent="63" relname="attribution">Кинг утверждает,</segment>
+		<segment id="61" parent="63" relname="joint">что у Рахмана проблемы с налогами</segment>
+		<segment id="62" parent="63" relname="joint">и налоговая инспекция собирается удержать из его гонорара 2 миллиона.</segment>
+		<segment id="65" parent="66" relname="condition">Если еще учесть трехпроцентную долю самого WBC,</segment>
+		<segment id="66" parent="67" relname="span">гонорар Рахмана уменьшается еще на 127 тысяч.\n\</segment>
+		<segment id="68" parent="72" relname="span">nВ своем иске Кинг требует,</segment>
+		<segment id="69" parent="70" relname="purpose">чтобы Рахман обратился с письмом к Бобу Аруму,</segment>
+		<segment id="70" parent="71" relname="span">призвав его выплатить 2 млн 50 тысяч долларов прямиком Дону Кингу.</segment>
+		<segment id="74" parent="88" relname="span">Однако Рахман отказывается это делать.</segment>
+		<segment id="75" parent="77" relname="span">Кинг просит суд наложить арест на 2 млн 250 тысяч из гонорара Рахмана</segment>
+		<segment id="76" parent="75" relname="background">(сумма превышает исходные 2 млн 50 тысяч,</segment>
+		<segment id="78" parent="77" relname="cause-effect">поскольку включает в себя плату за услуги адвоката Кинга Джадда Берстайна)</segment>
+		<segment id="80" parent="82" relname="joint">.\n\nЕсли суд встанет на сторону Кинга</segment>
+		<segment id="81" parent="82" relname="joint">и налоговая инспекция заберет свои 2 миллиона,</segment>
+		<segment id="83" parent="85" relname="span">получится, что гонорар Рахмана за титульный бой против Виталия Кличко составит лишь 10 тысяч долларов,</segment>
+		<segment id="84" parent="83" relname="elaboration">из которых он должен будет оплатить все расходы по подготовке и работу членов своей команды.\n\nИсточник: https://www.newsru.com/sport/01Oct2005/king.html\n</segment>
+		<group id="42" type="multinuc" parent="91" relname="preparation"/>
+		<group id="34" type="multinuc" parent="42" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="37" type="span" parent="40" relname="condition"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="59" type="span" parent="91" relname="joint"/>
+		<group id="51" type="span" parent="59" relname="span"/>
+		<group id="50" type="multinuc" parent="51" relname="span"/>
+		<group id="46" type="span" parent="50" relname="same-unit"/>
+		<group id="49" type="span" parent="50" relname="same-unit"/>
+		<group id="58" type="multinuc" parent="51" relname="elaboration"/>
+		<group id="57" type="span" parent="58" relname="same-unit"/>
+		<group id="56" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="64" type="span" parent="89" relname="preparation"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="89" type="multinuc" parent="90" relname="span"/>
+		<group id="73" type="span" parent="89" relname="joint"/>
+		<group id="67" type="span" parent="72" relname="solutionhood"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="71" type="span" parent="68" relname="purpose"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="87" type="multinuc" parent="74" relname="elaboration"/>
+		<group id="79" type="span" parent="87" relname="joint"/>
+		<group id="77" type="span" parent="79" relname="span"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="82" type="multinuc" parent="86" relname="joint"/>
+		<group id="85" type="span" parent="86" relname="joint"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

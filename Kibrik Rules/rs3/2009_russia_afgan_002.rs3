@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="35" relname="span">Россия готова поставлять оружие Афганистану по первому запросу\n\nРоссия была бы готова поставлять вооружения правительству Афганистана в случае,</segment>
+		<segment id="34" parent="33" relname="condition">если поступит соответствующий запрос,</segment>
+		<segment id="36" parent="35" relname="attribution">заявил замглавы МИД России Алексей Бородавкин.\n\n\"Мы, в принципе, готовы рассмотреть соответствующие запросы от афганского правительства\",</segment>
+		<segment id="38" parent="37" relname="attribution">- сказал он в среду российским журналистам в Москве.</segment>
+		<segment id="40" parent="47" relname="attribution">При этом Бородавкин подчеркнул,</segment>
+		<segment id="41" parent="45" relname="span">что Россию удивляет ситуация,</segment>
+		<segment id="42" parent="44" relname="joint">когда Афганистан закупает</segment>
+		<segment id="43" parent="44" relname="joint">и применяет вооружения, сделанные по российским технологиям,</segment>
+		<segment id="46" parent="47" relname="contrast">но произведенные не в России и даже не имеющие соответствующей лицензии,</segment>
+		<segment id="49" parent="48" relname="attribution">сообщает \"Интерфакс\".\n\n</segment>
+		<segment id="51" parent="55" relname="joint">\"Было бы правильно</segment>
+		<segment id="52" parent="54" relname="span">и справедливо,</segment>
+		<segment id="53" parent="52" relname="condition">если бы такого рода вооружения поставлялись из Российской Федерации, а не из третьих стран\",</segment>
+		<segment id="56" parent="57" relname="attribution">- подчеркнул замглавы МИД РФ.\n\nОн также сообщил,</segment>
+		<segment id="57" parent="58" relname="span">что в первой половине 2009 года в Москве пройдет международная конференция по Афганистану.</segment>
+		<segment id="60" parent="66" relname="span">\"Это должно быть одним из ключевых мероприятий во время председательствования России в Шанхайской организации сотрудничества\",</segment>
+		<segment id="61" parent="64" relname="attribution">- подчеркнул дипломат</segment>
+		<segment id="62" parent="63" relname="attribution">.\n\nБородавкин напомнил,</segment>
+		<segment id="63" parent="64" relname="span">что председательство России в ШОС заканчивается в июне проведением саммита Организации в Екатеринбурге.</segment>
+		<segment id="67" parent="69" relname="span">\"Мы постараемся подойти к саммиту ШОС с серьезными достижениями по афганской проблематике\",</segment>
+		<segment id="68" parent="67" relname="attribution">- сказал он.\n\n</segment>
+		<segment id="70" parent="72" relname="span">\"Конференция будет посвящена трем основным вопросам: борьбе с терроризмом, наркотрафиком и трансграничной оргпреступностью,</segment>
+		<segment id="71" parent="70" relname="attribution">- пояснил дипломат.</segment>
+		<segment id="74" parent="76" relname="joint">- Смысл проведения этой встречи в том, что приоритетным направлением деятельности ШОС является обеспечение безопасности стран Организации,</segment>
+		<segment id="75" parent="76" relname="joint">а ситуация в регионе развивается таким образом,</segment>
+		<segment id="77" parent="78" relname="cause-effect">что очень серьезные угрозы исходят с территории Афганистана\".\n\n\"Несмотря на определенные успехи, которых афганскому правительству при международной поддержке удалось добиться в плане нормализации обстановки,</segment>
+		<segment id="78" parent="79" relname="span">в целом ситуация в Афганистане оставляет желать лучшего\",</segment>
+		<segment id="81" parent="80" relname="attribution">- сказал Бородавкин.</segment>
+		<segment id="83" parent="87" relname="span">Поэтому \"ШОС не может не думать о том,</segment>
+		<segment id="84" parent="86" relname="joint">чтобы не объединить усилия</segment>
+		<segment id="85" parent="86" relname="joint">для противодействия этим угрозам на региональном уровне\",</segment>
+		<segment id="88" parent="87" relname="attribution">отметил он.\n\nИсточник: https://www.newsru.com/russia/14Jan2009/afgan.html\n</segment>
+		<group id="39" type="span" parent="95" relname="joint"/>
+		<group id="37" type="span" parent="39" relname="span"/>
+		<group id="35" type="span" parent="37" relname="span"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="50" type="span" parent="94" relname="joint"/>
+		<group id="48" type="span" parent="50" relname="span"/>
+		<group id="47" type="multinuc" parent="48" relname="span"/>
+		<group id="45" type="span" parent="47" relname="contrast"/>
+		<group id="44" type="multinuc" parent="41" relname="condition"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="59" type="span" parent="93" relname="joint"/>
+		<group id="55" type="multinuc" parent="59" relname="span"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="58" type="span" parent="55" relname="attribution"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="66" type="span" parent="92" relname="joint"/>
+		<group id="65" type="span" parent="60" relname="attribution"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="73" type="multinuc" parent="91" relname="joint"/>
+		<group id="69" type="span" parent="73" relname="joint"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="82" type="span" parent="89" relname="cause-effect"/>
+		<group id="80" type="multinuc" parent="82" relname="span"/>
+		<group id="76" type="multinuc" parent="80" relname="joint"/>
+		<group id="79" type="span" parent="80" relname="joint"/>
+		<group id="89" type="span" parent="90" relname="span"/>
+		<group id="87" type="span" parent="89" relname="span"/>
+		<group id="86" type="multinuc" parent="83" relname="purpose"/>
+		<group id="95" type="multinuc"/>
+	</body>
+</rst>

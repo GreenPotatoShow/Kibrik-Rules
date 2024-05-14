@@ -1,0 +1,69 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="88" relname="preparation">Группа финансистов-нелегалов отдала государству 30 млн рублей в обмен на условный срок\n\</segment>
+		<segment id="32" parent="34" relname="span">nВ Новосибирске вынесен приговор группе финансистов-нелегалов.</segment>
+		<segment id="33" parent="32" relname="elaboration">Они обвинялись в незаконном обналичивании и выводе капиталов за рубеж.</segment>
+		<segment id="35" parent="40" relname="attribution">По данным ФСБ,</segment>
+		<segment id="36" parent="40" relname="span">группа вывела в теневую экономику около 4,9 млрд рублей,</segment>
+		<segment id="37" parent="39" relname="joint">из них почти 3,9 млрд были переведены за границу.\n\nГруппу, занимавшуюся незаконными банковскими операциями,</segment>
+		<segment id="38" parent="39" relname="joint">сотрудники новосибирских управлений ФСБ и Росфинмониторинга выявили весной 2006 года.</segment>
+		<segment id="43" parent="47" relname="joint">Предполагаемыми организаторами схем по обналичиванию и выводу капиталов за рубеж контрразведчики считают топ-менеджеров филиалов банков Владимира Усова и Вячеслава Бреусова, техническими исполнителями - Игоря Пряхина и Александра Колесника,</segment>
+		<segment id="46" parent="47" relname="joint">рассказывает \"Коммерсант\".\n\nПоследние, по версии обвинения, из офиса, специально арендованного для них банкирами, через систему электронных платежей \"клиент-банк\" управляли счетами подконтрольных группе фирм.</segment>
+		<segment id="48" parent="54" relname="joint">За \"транзит\" денег по счетам своих фирм банкиры-нелегалы получали 0,5% от суммы перечисляемых средств,</segment>
+		<segment id="49" parent="53" relname="joint">комиссия за обналичивание составляла 0,6% от выдаваемой суммы,</segment>
+		<segment id="50" parent="52" relname="span">за конвертацию валют клиенты платили от 8 до 10 копеек с каждого доллара или евро.\n\nВалюта переводилась на счета офшорной компании Carbonard Group Ltd.,</segment>
+		<segment id="51" parent="50" relname="elaboration">которую финансисты между собой называли \"колбасой\".</segment>
+		<segment id="56" parent="57" relname="attribution">По подсчетам следствия,</segment>
+		<segment id="57" parent="58" relname="span">незаконные финансовые операции позволили получить участникам группы доход 13 млн рублей.</segment>
+		<segment id="59" parent="60" relname="joint">Игорь Пряхин и Александр Колесник получали только зарплату - до 20 тысяч рублей.\n\nВладимиру Усову, Игорю Пряхину и Александру Колеснику следователи предъявили обвинение в нелегальной банковской деятельности (ч. 2 ст. 172 УК РФ).</segment>
+		<segment id="61" parent="65" relname="joint">Владимиру Усову также добавили статью о легализации денежных средств (ст. 174.1 УК РФ) - около 180 тысяч рублей.</segment>
+		<segment id="62" parent="64" relname="span">Расследование дела в отношении Вячеслава Бреусова приостановлено</segment>
+		<segment id="63" parent="62" relname="background">(в суде прозвучало, что он находится в США).</segment>
+		<segment id="66" parent="68" relname="span">Судебное разбирательство по делу началось в январе 2010 года.\n\nСуд с учетом недавних изменений в УК РФ снял с Владимира Усова обвинение в отмывании денежных средств:</segment>
+		<segment id="67" parent="66" relname="elaboration">законодатель декриминализовал легализацию денежных средств в размере менее 6 млн рублей.</segment>
+		<segment id="69" parent="70" relname="joint">Обвинение в нелегальной банковской деятельности было переквалифицировано на \"незаконное предпринимательство\".</segment>
+		<segment id="71" parent="75" relname="span">Усова,</segment>
+		<segment id="72" parent="74" relname="joint">который во время следствия и на суде вину не признал,</segment>
+		<segment id="73" parent="74" relname="joint">приговорили к двум с половиной годам условно и штрафу 70 тысяч руб.\n\</segment>
+		<segment id="78" parent="79" relname="joint">nОтметив активное содействие Игоря Пряхина и Александра Колесника в раскрытии дела, суд назначил им по полтора года условно.</segment>
+		<segment id="80" parent="82" relname="span">В доход государства судья Алла Веселых обратила около 30 млн рублей,</segment>
+		<segment id="81" parent="80" relname="elaboration">которые остались на заблокированных счетах подконтрольных группе фирм.\n\nИсточник: https://www.newsru.com/finance/29Nov2011/nelegal.html\n</segment>
+		<group id="88" type="multinuc" parent="89" relname="span"/>
+		<group id="42" type="multinuc" parent="88" relname="joint"/>
+		<group id="34" type="span" parent="42" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="39" type="multinuc" parent="36" relname="elaboration"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="55" type="multinuc" parent="87" relname="joint"/>
+		<group id="47" type="multinuc" parent="55" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="53" type="multinuc" parent="54" relname="joint"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="60" type="multinuc" parent="86" relname="joint"/>
+		<group id="58" type="span" parent="60" relname="joint"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="65" type="multinuc" parent="85" relname="joint"/>
+		<group id="64" type="span" parent="65" relname="joint"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="70" type="multinuc" parent="84" relname="joint"/>
+		<group id="68" type="span" parent="70" relname="joint"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="79" type="multinuc" parent="83" relname="joint"/>
+		<group id="75" type="span" parent="79" relname="joint"/>
+		<group id="74" type="multinuc" parent="71" relname="elaboration"/>
+		<group id="82" type="span" parent="83" relname="joint"/>
+		<group id="89" type="span"/>
+	</body>
+</rst>

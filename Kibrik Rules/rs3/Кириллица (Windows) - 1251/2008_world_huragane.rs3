@@ -1,0 +1,80 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="37" relname="same-unit">Число жертв урагана \"Айк\" в США растет.</segment>
+		<segment id="34" parent="35" relname="attribution">Буш предупреждает:</segment>
+		<segment id="35" parent="36" relname="span">будут \"кусаться\" цены на топливо\n\</segment>
+		<segment id="38" parent="40" relname="span">nВ результате удара урагана \"Айк\" в районе от побережья Мексиканского залива до Великих Озер (северо-восток США) погибли 27 человек,</segment>
+		<segment id="39" parent="38" relname="attribution">сообщает \"Интерфакс\" со ссылкой на CNN.</segment>
+		<segment id="41" parent="40" relname="elaboration">Сообщения о погибших приходили из штатов Луизиана, Арканзас, Индиана, Миссури, Огайо и Техас.</segment>
+		<segment id="44" parent="45" relname="attribution">Министр национальной безопасности США Майкл Чертофф предупредил,</segment>
+		<segment id="45" parent="46" relname="span">что число жертв урагана в ближайшие часы может увеличиться.\n\</segment>
+		<segment id="47" parent="51" relname="same-unit">nПо данным мэрии города Галвестон (штат Техас),</segment>
+		<segment id="48" parent="49" relname="concession">несмотря на призывы эвакуироваться,</segment>
+		<segment id="49" parent="50" relname="span">более 20 тысяч жителей города остались дома.</segment>
+		<segment id="53" parent="55" relname="span">Не возвращаться в ближайшее время в свои дома</segment>
+		<segment id="54" parent="53" relname="cause-effect">из-за угрозы стихийного бедствия власти попросили и эвакуированных жителе Хьюстона (штат Техас), четвертого по величине города США</segment>
+		<segment id="56" parent="57" relname="attribution">.\n\nПрезидент США Джордж Буш заявил,</segment>
+		<segment id="57" parent="58" relname="span">что последствия урагана \"Айк\" могут стать одним из факторов роста цен на топливо в США.</segment>
+		<segment id="61" parent="64" relname="attribution">Президент предупредил соотечественников:</segment>
+		<segment id="62" parent="64" relname="joint">ситуация на энергетических рынках вызывает опасения,</segment>
+		<segment id="63" parent="64" relname="joint">цены будут \"кусаться\".\n\</segment>
+		<segment id="66" parent="70" relname="span">nПрезидент призвал американцев сообщать о возможных ценовых сговорах,</segment>
+		<segment id="67" parent="68" relname="attribution">хотя и подчеркнул,</segment>
+		<segment id="68" parent="69" relname="span">что таких ситуаций возникнуть не должно.</segment>
+		<segment id="71" parent="72" relname="attribution">По его словам,</segment>
+		<segment id="72" parent="73" relname="span">федеральное правительство вместе с местными властями следит за развитием событий,</segment>
+		<segment id="74" parent="73" relname="attribution">передает ИТАР-ТАСС</segment>
+		<segment id="76" parent="78" relname="span">.\n\nВо вторник Буш намерен посетить штат Техас,</segment>
+		<segment id="77" parent="76" relname="cause-effect">пострадавший от ударов стихии.</segment>
+		<segment id="79" parent="87" relname="joint">\"Нам бы хотелось поговорить с местным населением.</segment>
+		<segment id="80" parent="83" relname="attribution">Я уверен,</segment>
+		<segment id="81" parent="83" relname="span">что люди там расстроены,</segment>
+		<segment id="82" parent="81" relname="cause-effect">поскольку ураган нанес им серьезный урон.</segment>
+		<segment id="85" parent="84" relname="cause-effect">Мне бы хотелось дать им сигнал о том, что мы слышим их\",</segment>
+		<segment id="88" parent="87" relname="attribution">- сказал президент.\n\nИсточник: https://www.newsru.com/world/15Sep2008/huragane.html\n</segment>
+		<group id="43" type="span" parent="95" relname="joint"/>
+		<group id="37" type="multinuc" parent="43" relname="span"/>
+		<group id="36" type="span" parent="37" relname="same-unit"/>
+		<group id="42" type="span" parent="37" relname="elaboration"/>
+		<group id="40" type="span" parent="42" relname="span"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="60" type="multinuc" parent="94" relname="joint"/>
+		<group id="52" type="span" parent="60" relname="joint"/>
+		<group id="46" type="span" parent="52" relname="span"/>
+		<group id="51" type="multinuc" parent="46" relname="elaboration"/>
+		<group id="50" type="span" parent="51" relname="same-unit"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="55" type="span" parent="59" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="65" type="span" parent="93" relname="joint"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="70" type="span" parent="92" relname="joint"/>
+		<group id="69" type="span" parent="66" relname="concession"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="75" type="span" parent="91" relname="joint"/>
+		<group id="73" type="span" parent="75" relname="span"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="78" type="span" parent="90" relname="joint"/>
+		<group id="89" type="span" parent="90" relname="joint"/>
+		<group id="87" type="multinuc" parent="89" relname="span"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="84" type="span" parent="86" relname="span"/>
+		<group id="83" type="span" parent="84" relname="span"/>
+		<group id="95" type="multinuc"/>
+	</body>
+</rst>

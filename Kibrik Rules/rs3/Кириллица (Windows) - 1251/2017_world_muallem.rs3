@@ -1,0 +1,98 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="40" parent="42" relname="span">Дамаск пообещал соблюдать условия меморандума о зонах деэскалации в Сирии\n\nПравительство Сирии намерено соблюдать условия меморандума о создании зон деэскалации в стране,</segment>
+		<segment id="41" parent="40" relname="elaboration">подписанного в Астане 4 мая.</segment>
+		<segment id="43" parent="47" relname="sequence">Об этом заявил в понедельник на пресс-конференции министр иностранных дел САР Валид аль-Муаллем,</segment>
+		<segment id="44" parent="45" relname="attribution">передает местное информагентство SANA</segment>
+		<segment id="45" parent="46" relname="span">.\n\</segment>
+		<segment id="49" parent="54" relname="attribution">nПо его данным,</segment>
+		<segment id="50" parent="54" relname="span">аль-Муаллем выразил надежду на то, что таким образом удастся размежевать оппозиционные группировки,</segment>
+		<segment id="51" parent="52" relname="cause-effect">которые подписали соглашение о прекращении огня, от террористов \"Исламского государства\"*, \"Джебхат Ан-Нусры\"* и других связанных с ними группировок.\n\</segment>
+		<segment id="52" parent="53" relname="span">nПри этом глава МИД исключил участие международных сил под эгидой ООН в выполнении меморандума о зонах деэскалации в стране.</segment>
+		<segment id="56" parent="60" relname="span">\"Присутствия международных сил под эгидой ООН не будет.</segment>
+		<segment id="57" parent="58" relname="attribution">Россия как страна-гарант пояснила,</segment>
+		<segment id="58" parent="59" relname="span">что в этих зонах будут размещены силы военной полиции и центры мониторинга\",</segment>
+		<segment id="62" parent="61" relname="attribution">- сказал министр.</segment>
+		<segment id="64" parent="69" relname="condition">Коснувшись роли Иордании в сирийском кризисе,</segment>
+		<segment id="65" parent="68" relname="attribution">аль-Муаллем отметил,</segment>
+		<segment id="66" parent="67" relname="condition">что если какие-либо иорданские силы войдут на территорию Сирии без согласования с ней,</segment>
+		<segment id="67" parent="68" relname="span">то они будут считаться враждебными.</segment>
+		<segment id="71" parent="76" relname="attribution">По его словам,</segment>
+		<segment id="72" parent="74" relname="span">Сирия не исключает возможности того, что Турция,</segment>
+		<segment id="73" parent="72" relname="elaboration">которая является одной из стран-гарантов,</segment>
+		<segment id="75" parent="76" relname="span">может нарушить этот меморандум.</segment>
+		<segment id="78" parent="79" relname="attribution">Как отметил минитр,</segment>
+		<segment id="79" parent="80" relname="span">Дамаск готов к продолжению женевского переговорного процесса.</segment>
+		<segment id="81" parent="83" relname="span">Вместе с тем, он не уверен в том, что сирийская оппозиция настроена на реальное политическое урегулирование,</segment>
+		<segment id="82" parent="81" relname="cause-effect">поскольку следует в русле политики тех стран, которые ее поддерживают.</segment>
+		<segment id="84" parent="86" relname="span">\"Мы не видим в представителях оппозиции партнеров по диалогу,</segment>
+		<segment id="85" parent="84" relname="elaboration">которые хотели бы учитывать интересы сирийского народа\",</segment>
+		<segment id="87" parent="94" relname="attribution">- сказал аль-Муаллем (цитата по \"Интерфаксу\").\n\nМинистр также отметил,</segment>
+		<segment id="88" parent="94" relname="same-unit">что,</segment>
+		<segment id="89" parent="92" relname="attribution">по мнению Дамаска,</segment>
+		<segment id="90" parent="91" relname="attribution">в Вашингтоне пришли к выводу,</segment>
+		<segment id="91" parent="92" relname="span">что для урегулирования сирийского конфликта необходимо сотрудничество с Россией.\n\nСоглашение о создании зон деэскалации в Сирии было подписано на прошлой неделе Россией, Ираном и Турцией в Астане (Казахстан).</segment>
+		<segment id="97" parent="99" relname="joint">В эти зоны входят провинция Идлиб и некоторые части соседних провинций Алеппо, Латакия и Хама,</segment>
+		<segment id="98" parent="99" relname="joint">район к северу от города Хомс, а также Восточная Гута и южные провинции Дераа и Эль-Кунейтра</segment>
+		<segment id="100" parent="101" relname="attribution">.\n\nСоглашение предполагает,</segment>
+		<segment id="101" parent="102" relname="span">что с 6 мая в этих зонах вводится запрет на военную активность, включая полеты авиации.</segment>
+		<segment id="104" parent="106" relname="joint">Действие документа рассчитано на полгода</segment>
+		<segment id="105" parent="106" relname="joint">и может автоматически продлеваться на такой же период.</segment>
+		<segment id="107" parent="108" relname="joint">Россия также внесла проект резолюции в поддержку создания безопасных зон в Сирии на рассмотрение Совета Безопасности ООН.\n\n*\"Джебхат ан-Нусра\", \"Исламское государство\" (ИГ, ИГИЛ, ДАИШ) - террористические группировки, запрещенные в РФ.\n\nИсточник: https://www.newsru.com/world/08May2017/muallem.html\n</segment>
+		<group id="48" type="span" parent="115" relname="preparation"/>
+		<group id="42" type="span" parent="48" relname="span"/>
+		<group id="47" type="multinuc" parent="42" relname="attribution"/>
+		<group id="46" type="span" parent="47" relname="sequence"/>
+		<group id="115" type="multinuc" parent="116" relname="span"/>
+		<group id="63" type="span" parent="115" relname="joint"/>
+		<group id="61" type="span" parent="63" relname="span"/>
+		<group id="55" type="span" parent="61" relname="span"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="53" type="span" parent="50" relname="elaboration"/>
+		<group id="60" type="span" parent="55" relname="elaboration"/>
+		<group id="59" type="span" parent="56" relname="elaboration"/>
+		<group id="114" type="span" parent="115" relname="joint"/>
+		<group id="70" type="span" parent="114" relname="span"/>
+		<group id="69" type="span" parent="70" relname="span"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="113" type="span" parent="70" relname="evidence"/>
+		<group id="77" type="span" parent="113" relname="span"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="74" type="span" parent="75" relname="cause-effect"/>
+		<group id="112" type="span" parent="77" relname="evidence"/>
+		<group id="80" type="span" parent="112" relname="span"/>
+		<group id="111" type="span" parent="80" relname="elaboration"/>
+		<group id="83" type="span" parent="110" relname="preparation"/>
+		<group id="110" type="multinuc" parent="111" relname="span"/>
+		<group id="96" type="multinuc" parent="110" relname="joint"/>
+		<group id="86" type="span" parent="96" relname="comparison"/>
+		<group id="95" type="span" parent="96" relname="comparison"/>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="93" type="span" parent="94" relname="same-unit"/>
+		<group id="92" type="span" parent="93" relname="span"/>
+		<group id="109" type="span" parent="110" relname="joint"/>
+		<group id="103" type="multinuc" parent="109" relname="span"/>
+		<group id="99" type="multinuc" parent="103" relname="joint"/>
+		<group id="102" type="span" parent="103" relname="joint"/>
+		<group id="108" type="multinuc" parent="103" relname="elaboration"/>
+		<group id="106" type="multinuc" parent="108" relname="joint"/>
+		<group id="116" type="span"/>
+	</body>
+</rst>

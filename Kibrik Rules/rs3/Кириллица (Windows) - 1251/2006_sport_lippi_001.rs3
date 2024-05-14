@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="solutionhood" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="37" relname="span">Марчелло Липпи: Было бы несправедливо,</segment>
+		<segment id="32" parent="36" relname="span">если бы мы не одержали победу\n\nВо вторник сборная Италии со счетом 2:0 в дополнительное время переиграла хозяев финального турнира чемпионата мира по футболу,</segment>
+		<segment id="33" parent="35" relname="sequence">который проходит в Германии,</segment>
+		<segment id="34" parent="35" relname="sequence">и вышла в финал.</segment>
+		<segment id="38" parent="40" relname="span">После матча наставник итальянцев Марчелло Липпи назвал</segment>
+		<segment id="39" parent="38" relname="elaboration">такой исход встречи закономерным,</segment>
+		<segment id="41" parent="40" relname="attribution">сообщает РИА Новости.\n\n</segment>
+		<segment id="44" parent="48" relname="span">\"Было бы несправедливо,</segment>
+		<segment id="45" parent="47" relname="joint">если бы мы не одержали победу в этой игре</segment>
+		<segment id="46" parent="47" relname="joint">или если бы она закончилась серией пенальти,</segment>
+		<segment id="49" parent="48" relname="attribution">- приводит слова, сказанные Липпи на послематчевой пресс-конференции, официальный сайт чемпионата мира.</segment>
+		<segment id="51" parent="86" relname="preparation">– Мы показывали футбол на уровень выше, чем Германия.</segment>
+		<segment id="52" parent="56" relname="span">Мы невероятно счастливы после того, как в присутствии 60 тысяч болельщиков, настроенных против нас,</segment>
+		<segment id="53" parent="55" relname="span">сумели переиграть хозяев чемпионата мира\".\n\n\"Мы играли уверенно,</segment>
+		<segment id="54" parent="53" relname="interpretation-evaluation">хорошо владели мячом.</segment>
+		<segment id="57" parent="61" relname="joint">Я очень доволен работой игроков на поле</segment>
+		<segment id="58" parent="60" relname="span">и думаю, что итальянским фанатам понравился такой футбол,</segment>
+		<segment id="59" parent="58" relname="elaboration">- прокомментировал наставник итальянцев события матча.</segment>
+		<segment id="62" parent="67" relname="cause-effect">- Было ясно, что концовка дополнительного времени станет определяющей в матче,</segment>
+		<segment id="63" parent="67" relname="span">поэтому я и бросил в бой еще одного игрока атаки</segment>
+		<segment id="64" parent="66" relname="sequence">(Адессандро Дель Пьеро на 104-й минуте заменил Симоне Перротту,</segment>
+		<segment id="65" parent="66" relname="sequence">а затем стал автором второго гола итальянцев).</segment>
+		<segment id="70" parent="76" relname="contrast">Мастерство наших игроков позволяло надеяться на положительный исход встречи,</segment>
+		<segment id="71" parent="75" relname="span">но мы были готовы и к серии послематчевых пенальти\".\n\nВторой полуфинальный матч чемпионата мира, в котором встретятся команды Франции и Португалии,</segment>
+		<segment id="72" parent="74" relname="sequence">состоится в среду</segment>
+		<segment id="73" parent="74" relname="sequence">и начнется в 23.00 по московскому времени.\n\n\"Мы в среду посмотрим, кто достанется нам в соперники по финальному матчу,</segment>
+		<segment id="77" parent="76" relname="attribution">- сказал Липпи.</segment>
+		<segment id="79" parent="81" relname="span">- В принципе, у нас нет никаких предпочтений,</segment>
+		<segment id="80" parent="79" relname="elaboration">будет ли это Франция или Португалия:</segment>
+		<segment id="82" parent="81" relname="elaboration">мы готовы ко встрече с любой из этих команд\".\n\nИсточник: https://www.newsru.com/sport/05Jul2006/lippi.html\n</segment>
+		<group id="43" type="multinuc" parent="88" relname="preparation"/>
+		<group id="37" type="span" parent="43" relname="sequence"/>
+		<group id="36" type="span" parent="31" relname="elaboration"/>
+		<group id="35" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="42" type="span" parent="43" relname="sequence"/>
+		<group id="40" type="span" parent="42" relname="span"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="50" type="span" parent="87" relname="solutionhood"/>
+		<group id="48" type="span" parent="50" relname="span"/>
+		<group id="47" type="multinuc" parent="44" relname="condition"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="56" type="span" parent="86" relname="span"/>
+		<group id="55" type="span" parent="52" relname="cause-effect"/>
+		<group id="85" type="span" parent="56" relname="elaboration"/>
+		<group id="69" type="multinuc" parent="85" relname="span"/>
+		<group id="61" type="multinuc" parent="69" relname="joint"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="66" type="multinuc" parent="63" relname="elaboration"/>
+		<group id="84" type="span" parent="69" relname="elaboration"/>
+		<group id="78" type="span" parent="84" relname="span"/>
+		<group id="76" type="multinuc" parent="78" relname="span"/>
+		<group id="75" type="span" parent="76" relname="contrast"/>
+		<group id="74" type="multinuc" parent="71" relname="elaboration"/>
+		<group id="83" type="span" parent="78" relname="elaboration"/>
+		<group id="81" type="span" parent="83" relname="span"/>
+		<group id="89" type="span"/>
+	</body>
+</rst>

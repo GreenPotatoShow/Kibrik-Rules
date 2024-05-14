@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="27" relname="span">Суд в Москве арестовал экс-министра образования Дагестана, обвиняемого в крупном мошенничестве\n\nБасманный суд Москвы избрал меру пресечения бывшему министру образования и науки Дагестана Шахабасу Шахову - одному из высокопоставленных дагестанских чиновников,</segment>
+		<segment id="26" parent="25" relname="background">задержанных накануне по обвинению в хищении бюджетных средств республики.</segment>
+		<segment id="28" parent="30" relname="span">Он арестован на два месяца,</segment>
+		<segment id="29" parent="28" relname="attribution">передает \"Интерфакс\".\n\n</segment>
+		<segment id="32" parent="42" relname="joint">\"Ходатайство органов предварительного следствия подлежит удовлетворению.</segment>
+		<segment id="33" parent="34" relname="attribution"><...> Суд постановил:</segment>
+		<segment id="34" parent="35" relname="span">избрать в отношении обвиняемого Шахова меру пресечения в виде заключения под стражу на срок до 5 апреля 2018 года\",</segment>
+		<segment id="36" parent="40" relname="span">- приводит агентство текст постановления, вынесенного судьей Наталией Дударь.\n\nХодатайство самого Шахова и его адвоката об избрании ему меры пресечения,</segment>
+		<segment id="37" parent="39" relname="contrast">не связанной с содержанием под стражей,</segment>
+		<segment id="38" parent="39" relname="contrast">суд удовлетворить отказался.</segment>
+		<segment id="44" parent="47" relname="attribution">Как сообщалось,</segment>
+		<segment id="45" parent="47" relname="joint">чиновник просил освободить его под залог в 500 тысяч рублей</segment>
+		<segment id="46" parent="47" relname="joint">или отправить под домашний арест.\n\</segment>
+		<segment id="50" parent="53" relname="attribution">nМежду тем следствие и прокуратура отмечали,</segment>
+		<segment id="51" parent="53" relname="span">что \"с учетом данных о личности обвиняемого не представляется возможным избрать ему иную меру пресечения,</segment>
+		<segment id="52" parent="51" relname="cause-effect">не связанную с содержанием под стражей\".</segment>
+		<segment id="55" parent="62" relname="attribution">По мнению полиции,</segment>
+		<segment id="56" parent="57" relname="condition">оставшись на свободе,</segment>
+		<segment id="57" parent="58" relname="span">чиновник мог воспрепятствовать расследованию.\n\nСам он это отрицал, как и свою вину</segment>
+		<segment id="59" parent="61" relname="span">.\n\nШахов является одним из четырех дагестанских чиновников,</segment>
+		<segment id="60" parent="59" relname="background">которым ранее СК предъявил обвинения в совершении мошенничества в особо крупном размере (ч. 4 ст. 159 УК РФ).</segment>
+		<segment id="64" parent="66" relname="joint">Ему грозит наказание на срок свыше трех лет лишения свободы.\n\nДругими фигурантами являются бывший глава правительства республики Абдусамад Гамидов,</segment>
+		<segment id="65" parent="66" relname="joint">а также два его заместителя Шамиль Исаев и Раюдин Юсуфов.</segment>
+		<segment id="67" parent="68" relname="joint">Как ожидается, арест остальных фигурантов \"дагестанского дела\" Басманный суд санкционирует позднее в этот же день.\n\nИсточник: https://www.newsru.com/russia/06Feb2018/shahov.html\n</segment>
+		<group id="49" type="span" parent="71" relname="joint"/>
+		<group id="43" type="multinuc" parent="49" relname="span"/>
+		<group id="31" type="multinuc" parent="43" relname="joint"/>
+		<group id="27" type="span" parent="31" relname="sequence"/>
+		<group id="30" type="span" parent="31" relname="sequence"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="35" type="span" parent="41" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="39" type="multinuc" parent="36" relname="cause-effect"/>
+		<group id="48" type="span" parent="43" relname="elaboration"/>
+		<group id="47" type="multinuc" parent="48" relname="span"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="54" type="span" parent="70" relname="joint"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="63" type="span" parent="69" relname="joint"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="58" type="span" parent="62" relname="joint"/>
+		<group id="61" type="span" parent="62" relname="joint"/>
+		<group id="68" type="multinuc" parent="69" relname="joint"/>
+		<group id="66" type="multinuc" parent="68" relname="joint"/>
+		<group id="71" type="multinuc"/>
+	</body>
+</rst>

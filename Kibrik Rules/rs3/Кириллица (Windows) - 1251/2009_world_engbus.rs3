@@ -1,0 +1,34 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="16" relname="joint">На западе Англии перевернулся автобус,</segment>
+		<segment id="13" parent="14" relname="cause-effect">травмированы 48 человек\n\nНа западе Англии, в графстве Корнуолл,</segment>
+		<segment id="14" parent="15" relname="span">сегодня ночью перевернулся автобус.\n\</segment>
+		<segment id="17" parent="19" relname="span">nВ результате ДТП получили травмы 48 человек,</segment>
+		<segment id="18" parent="17" relname="elaboration">один из них в тяжелом состоянии.</segment>
+		<segment id="21" parent="23" relname="span">Об этом сообщила местная полиция.\n\nДТП произошло</segment>
+		<segment id="22" parent="21" relname="cause-effect">из-за образовавшейся гололедицы на дороге,</segment>
+		<segment id="24" parent="23" relname="elaboration">передает ИТАР-ТАСС.\n\nНа месте происшествия работают полиция, пожарные, машины скорой помощи.</segment>
+		<segment id="27" parent="31" relname="joint">Эвакуировать раненых помогает вертолет,</segment>
+		<segment id="28" parent="30" relname="span">отмечает Sky News.\n\nПо предварительным данным, в автобусе находились жители западной части графства,</segment>
+		<segment id="29" parent="28" relname="elaboration">совершавшие однодневную поездку на фестиваль рождественских огней в Маусхоул.\n\nИсточник: https://www.newsru.com/world/23Dec2009/engbus.html\n</segment>
+		<group id="26" type="multinuc" parent="32" relname="joint"/>
+		<group id="20" type="span" parent="26" relname="joint"/>
+		<group id="16" type="multinuc" parent="20" relname="span"/>
+		<group id="15" type="span" parent="16" relname="joint"/>
+		<group id="19" type="span" parent="16" relname="elaboration"/>
+		<group id="25" type="span" parent="26" relname="joint"/>
+		<group id="23" type="span" parent="25" relname="span"/>
+		<group id="31" type="multinuc" parent="32" relname="joint"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="32" type="multinuc"/>
+	</body>
+</rst>

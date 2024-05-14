@@ -1,0 +1,50 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="22" relname="joint">Установлены причины массовой госпитализации курсантов Красноярской академии после оздоровительного забега\n\nЗападно-Сибирская транспортная прокуратура завершила проверку, проводившуюся по факту вспышки ОРВИ и госпитализации 63 курсантов Красноярского филиала Новосибирской государственной академии водного транспорта (НГАВТ) в сентябре текущего года.\n\nСтарший помощник Западно-Сибирского транспортного прокурора Оксана Горбунова сообщила \"Интерфаксу\" в пятницу,</segment>
+		<segment id="19" parent="20" relname="attribution">что, согласно материалам проверки,</segment>
+		<segment id="20" parent="21" relname="span">25 сентября преподаватели филиала послали 215 курсантов участвовать в городском конкурсе \"Стартуют все\".</segment>
+		<segment id="23" parent="25" relname="span">\"Курсанты участвовали в оздоровительном забеге\",</segment>
+		<segment id="24" parent="23" relname="elaboration">- уточнила Горбунова.\n\nПосле забега, с 28 по 30 сентября 2010 года 50 человек, участвовавших в спортивном мероприятии, были госпитализированы с диагнозом \"острая респираторная вирусная инфекция\".\n\n</segment>
+		<segment id="26" parent="28" relname="joint">\"Установлено, что в оздоровительном забеге участвовало около шести больных курсантов, обращавшихся в предыдущие дни в медсанчасть</segment>
+		<segment id="27" parent="28" relname="joint">и имеющих освобождение от физических нагрузок,</segment>
+		<segment id="29" parent="30" relname="span">что повлекло за собой не только их последующую госпитализацию, но и распространение инфекционного заболевания\",</segment>
+		<segment id="31" parent="30" relname="attribution">- рассказала Горбунова</segment>
+		<segment id="33" parent="46" relname="preparation">.\n\</segment>
+		<segment id="34" parent="38" relname="same-unit">nПри этом,</segment>
+		<segment id="35" parent="36" relname="attribution">отметила она,</segment>
+		<segment id="36" parent="37" relname="span">заболевшие курсанты не были своевременно выявлены работающим в филиале вуза врачом ФГУЗ \"Сибирский клинический центр Федерального медико-биологического агентства\"</segment>
+		<segment id="39" parent="40" relname="cause-effect">и изолированы от остальных студентов,</segment>
+		<segment id="40" parent="41" relname="span">что также способствовало распространению инфекции.</segment>
+		<segment id="43" parent="45" relname="span">В настоящее время госпитализированные после спортивного мероприятия курсанты из лечебных заведений выписаны.\n\</segment>
+		<segment id="44" parent="43" relname="elaboration">nПо результатам проверки ректору НГАВТ и генеральному директору ФГУЗ \"Сибирский клинический центр Федерального медико-биологического агентства\" внесены представления об устранении выявленных нарушений закона с требованием привлечь к дисциплинарной ответственности виновных лиц.\n\nИсточник: https://www.newsru.com/russia/29Oct2010/4p.html\n</segment>
+		<group id="22" type="multinuc" parent="50" relname="joint"/>
+		<group id="21" type="span" parent="22" relname="joint"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="25" type="span" parent="49" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="32" type="span" parent="48" relname="joint"/>
+		<group id="30" type="span" parent="32" relname="span"/>
+		<group id="28" type="multinuc" parent="29" relname="cause-effect"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="42" type="multinuc" parent="46" relname="sequence"/>
+		<group id="38" type="multinuc" parent="42" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="same-unit"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="45" type="span" parent="46" relname="sequence"/>
+		<group id="50" type="multinuc"/>
+	</body>
+</rst>

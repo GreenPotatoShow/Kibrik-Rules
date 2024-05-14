@@ -1,0 +1,77 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="33" relname="span">В Калининграде не хватает места</segment>
+		<segment id="32" parent="31" relname="purpose">для возведения стадиона к ЧМ-2018\n\nСтадион \"Балтика\" в Калининграде не может быть реконструирован под арену проведения игр чемпионата мира по футболу 2018 года</segment>
+		<segment id="34" parent="33" relname="cause-effect">из-за ограниченности существующей территории и действующих норм градостроительства.</segment>
+		<segment id="36" parent="43" relname="attribution">Об этом в понедельник сообщил ИТАР-ТАСС губернатор Калининградской области Николай Цуканов</segment>
+		<segment id="37" parent="39" relname="span">.\n\nРеконструировать действующий стадион \"Балтика\",</segment>
+		<segment id="38" parent="37" relname="background">расположенный в центре города,</segment>
+		<segment id="40" parent="41" relname="attribution">предложил министр спорта РФ Виталий Мутко,</segment>
+		<segment id="41" parent="42" relname="span">выступая 30 августа в прямом эфире телеканала \"Россия-2\".\n\</segment>
+		<segment id="46" parent="47" relname="attribution">nПо мнению министра,</segment>
+		<segment id="47" parent="48" relname="span">место для строительства главного стадиона к ЧМ-2018 в Калининграде выбрано неудачно.</segment>
+		<segment id="49" parent="51" relname="span">\"Инвестиции, которые нужно вложить в обустройство этого острова (площадки будущей \"Арены Балтика\") и строительство стадиона на болоте, запредельные\",</segment>
+		<segment id="50" parent="49" relname="attribution">- отметил чиновник.\n\n\"Стадион \"Балтика\" нами исключается как объект реконструкции под футбольную арену чемпионата мира,</segment>
+		<segment id="52" parent="51" relname="attribution">- подчеркнул Цуканов.</segment>
+		<segment id="55" parent="59" relname="contrast">- Невозможно по градостроительным нормам разместить объект на его площадке,</segment>
+		<segment id="56" parent="58" relname="span">пусть даже меньшей вместимости</segment>
+		<segment id="57" parent="56" relname="elaboration">- не на 45 тысяч, а 35 тысяч болельщиков.</segment>
+		<segment id="60" parent="70" relname="span">Все равно места там недостаточно.</segment>
+		<segment id="61" parent="63" relname="span">Как невозможно обеспечить безопасные и комфортные условия</segment>
+		<segment id="62" parent="61" relname="purpose">для входа и выхода людей\".\n\</segment>
+		<segment id="64" parent="68" relname="same-unit">nК тому же,</segment>
+		<segment id="65" parent="66" relname="attribution">по словам губернатора,</segment>
+		<segment id="66" parent="67" relname="span">невозможно строить стадион вблизи жилых домов.</segment>
+		<segment id="72" parent="76" relname="joint">\"Четыре года мучений, люди просто не выдержат их\",</segment>
+		<segment id="73" parent="74" relname="attribution">- отметил Цуканов.\n\nОн добавил,</segment>
+		<segment id="74" parent="75" relname="span">что власти области не закрывают дискуссию по вопросам возможности переноса строительства стадиона в другое место, удешевления работ,</segment>
+		<segment id="77" parent="83" relname="span">но есть дорожная карта по уже утвержденному месту.\n\nКомпания \"ГлобалЭлектроСервис\" 27 августа отчиталась о завершении работы в рамках первого этапа строительства футбольного стадиона в Калининграде для чемпионата мира по футболу 2018 года.\n\</segment>
+		<segment id="78" parent="82" relname="span">nДля строительства стадиона</segment>
+		<segment id="79" parent="81" relname="joint">на острове Октябрьский произведена отсыпка 1,609 млн кубометров песка,</segment>
+		<segment id="80" parent="81" relname="joint">выполнен монтаж 1,779 млн погонных метров вертикальных ленточных дрен (свай).</segment>
+		<segment id="84" parent="85" relname="joint">Кроме того, на остров была установлена понтонная переправа с привлечением ледокола в зимнее время.\n\nИсточник: https://www.newsru.com/sport/01Sep2014/grad.html\n</segment>
+		<group id="45" type="span" parent="89" relname="joint"/>
+		<group id="35" type="span" parent="45" relname="span"/>
+		<group id="33" type="span" parent="35" relname="span"/>
+		<group id="44" type="span" parent="35" relname="attribution"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="39" type="span" parent="43" relname="joint"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="54" type="span" parent="88" relname="joint"/>
+		<group id="48" type="span" parent="54" relname="span"/>
+		<group id="53" type="span" parent="48" relname="elaboration"/>
+		<group id="51" type="span" parent="53" relname="span"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="71" type="multinuc" parent="87" relname="joint"/>
+		<group id="59" type="multinuc" parent="71" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="contrast"/>
+		<group id="70" type="span" parent="71" relname="joint"/>
+		<group id="69" type="multinuc" parent="60" relname="purpose"/>
+		<group id="63" type="span" parent="69" relname="joint"/>
+		<group id="68" type="multinuc" parent="69" relname="joint"/>
+		<group id="67" type="span" parent="68" relname="same-unit"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="76" type="multinuc" parent="86" relname="contrast"/>
+		<group id="75" type="span" parent="76" relname="joint"/>
+		<group id="85" type="multinuc" parent="86" relname="contrast"/>
+		<group id="83" type="span" parent="85" relname="joint"/>
+		<group id="82" type="span" parent="77" relname="elaboration"/>
+		<group id="81" type="multinuc" parent="78" relname="elaboration"/>
+		<group id="89" type="multinuc"/>
+	</body>
+</rst>

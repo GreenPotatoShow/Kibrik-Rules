@@ -1,0 +1,201 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="92" parent="105" relname="preparation">Козлов перед смертью хотел сменить работу,</segment>
+		<segment id="93" parent="94" relname="attribution">сообщил суду зампред Центробанка Мельников\n\nУбитый заместитель председателя Центробанка России Андрей Козлов знал,</segment>
+		<segment id="94" parent="95" relname="span">что его жизни угрожает опасность,</segment>
+		<segment id="96" parent="98" relname="span">и хотел поменять место работы,</segment>
+		<segment id="97" parent="96" relname="attribution">сообщил в четверг</segment>
+		<segment id="100" parent="104" relname="span">в ходе заседания Мосгорсуда зампред ЦБ РФ Виктор Мельников,</segment>
+		<segment id="103" parent="100" relname="background">которого ранее главный обвиняемый по этому делу банкир Алексей Френкель заподозрил в организации этого преступления.\n\n\"В последние дни Козлов выглядел угнетенным, был весь желтым.</segment>
+		<segment id="107" parent="116" relname="attribution">Когда я его спросил:</segment>
+		<segment id="108" parent="110" relname="span">\"Что с тобой?\",</segment>
+		<segment id="109" parent="108" relname="attribution">он в сердцах сказал:</segment>
+		<segment id="111" parent="113" relname="joint">\"Надоело мне эту грязь разгребать,</segment>
+		<segment id="112" parent="113" relname="joint">хорошо бы поменять участок банковского надзора\",</segment>
+		<segment id="114" parent="113" relname="attribution">- рассказал Мельников,</segment>
+		<segment id="118" parent="125" relname="attribution">выступая в четверг в Мосгорсуде в качестве свидетеля в рамках дела об убийстве Козлова.\n\nОн сообщил также,</segment>
+		<segment id="119" parent="125" relname="joint">что Козлов неоднократно получал письма с угрозами,</segment>
+		<segment id="120" parent="123" relname="attribution">а также рассказывал о том,</segment>
+		<segment id="121" parent="123" relname="span">что ему угрожают по телефону,</segment>
+		<segment id="122" parent="121" relname="attribution">передает РИА \"Новости\".</segment>
+		<segment id="127" parent="135" relname="joint">\"Андрей Андреевич (Козлов) был человеком принципиальным.</segment>
+		<segment id="128" parent="133" relname="attribution">Он говорил,</segment>
+		<segment id="129" parent="131" relname="span">что предпринимались попытки убрать его из Центробанка</segment>
+		<segment id="130" parent="129" relname="purpose">и чтобы его физически ликвидировать\".\n\nМельников отметил также,</segment>
+		<segment id="132" parent="131" relname="interpretation-evaluation">что Козлов \"постоянно был под сильным прессом, давлением\".</segment>
+		<segment id="136" parent="138" relname="span">\"Были многочисленные публикации заказные о том, что Козлов - \"американский шпион\".</segment>
+		<segment id="137" parent="136" relname="elaboration">Я знаю, что были письма депутатов Госдумы в Генпрокуратуру с тем, чтобы проверить эту информацию\",</segment>
+		<segment id="139" parent="138" relname="attribution">- сказал свидетель.\n\n</segment>
+		<segment id="145" parent="150" relname="attribution">\"Я считаю,</segment>
+		<segment id="146" parent="150" relname="joint">что этим убийством был причинен очень большой ущерб интересам РФ,</segment>
+		<segment id="147" parent="149" relname="joint">был очень ослаблен Центробанк</segment>
+		<segment id="148" parent="149" relname="joint">и вся надзорная работа\",</segment>
+		<segment id="152" parent="151" relname="attribution">- указал зампред Мельников.</segment>
+		<segment id="154" parent="159" relname="attribution">По его словам,</segment>
+		<segment id="155" parent="159" relname="comparison">любой человек из банковской сферы скажет,</segment>
+		<segment id="156" parent="158" relname="joint">что \"один надзор был до Козлова</segment>
+		<segment id="157" parent="158" relname="joint">и совсем другой, который он нам оставил\".</segment>
+		<segment id="161" parent="164" relname="attribution">Свидетель добавил,</segment>
+		<segment id="162" parent="164" relname="joint">что надзор осуществлялся за тем, \"куда население деньги носит,</segment>
+		<segment id="163" parent="164" relname="joint">и желающих разворовать их очень много\",</segment>
+		<segment id="166" parent="165" relname="attribution">сообщает \"Интерфакс\".\n\</segment>
+		<segment id="169" parent="174" relname="condition">nГоворя о ситуации с отзывом лицензий у банков,</segment>
+		<segment id="170" parent="173" relname="attribution">он рассказал,</segment>
+		<segment id="171" parent="173" relname="span">что лицензии у ВИП-Банка, Европроминвест Банка и Орион-Банка были отозваны,</segment>
+		<segment id="172" parent="171" relname="cause-effect">так как у них \"были характерные схемы\".</segment>
+		<segment id="176" parent="182" relname="span">\"В основном деньги теневого, нелегального сектора используются по двум схемам.</segment>
+		<segment id="177" parent="179" relname="joint">Первая - перевод безналичных денег в наличные с тем, чтобы уходить от налогообложения,</segment>
+		<segment id="178" parent="179" relname="joint">вторая - вывод денег за пределы страны, прежде всего для оплаты серого импорта.</segment>
+		<segment id="180" parent="179" relname="interpretation-evaluation">Эти банки специализировались на этих схемах\",</segment>
+		<segment id="183" parent="182" relname="attribution">- подчеркнул Мельников.\n\</segment>
+		<segment id="186" parent="189" relname="attribution">nПри этом он уточнил,</segment>
+		<segment id="187" parent="188" relname="cause-effect">что решение об отзыве лицензий у банков принималось коллегиально.</segment>
+		<segment id="188" parent="189" relname="span">В связи с этим ему был задан вопрос о возможных причинах убийства Козлова.</segment>
+		<segment id="191" parent="195" relname="contrast">\"Я этого не понимаю,</segment>
+		<segment id="192" parent="194" relname="span">но я встречался с мнением отдельных банкиров,</segment>
+		<segment id="193" parent="192" relname="elaboration">которые стараются персонифицировать зло\",</segment>
+		<segment id="196" parent="195" relname="attribution">- сказал свидетель.</segment>
+		<segment id="199" parent="202" relname="attribution">Он подчеркнул,</segment>
+		<segment id="200" parent="202" relname="comparison">что в последний год деятельности к ВИП-Банку у Центробанка было несколько претензий.\n\nМельников сообщил также,</segment>
+		<segment id="201" parent="202" relname="comparison">что встречался с главным обвиняемым по делу банкиром Алексеем Френкелем однажды в 2005 в Санкт-Петербурге на банковском конгрессе.</segment>
+		<segment id="204" parent="205" relname="attribution">В свою очередь Френкель заявил,</segment>
+		<segment id="205" parent="206" relname="span">что беседовал с Мельниковым дважды, в том числе по телефону.</segment>
+		<segment id="208" parent="215" relname="attribution">Свидетель Мельников также сообщил,</segment>
+		<segment id="209" parent="211" relname="comparison">что Козлов рассказывал ему,</segment>
+		<segment id="210" parent="211" relname="comparison">как встречался с Френкелем,</segment>
+		<segment id="212" parent="213" relname="attribution">и говорил,</segment>
+		<segment id="213" parent="214" relname="span">что убедился после встречи в том, что нечестные операции - \"это сознательные действия руководства банков\".\n\</segment>
+		<segment id="217" parent="223" relname="span">nРанее в ходе первой части заседания в Мосгорсуде в четверг Алексей Френкель,</segment>
+		<segment id="218" parent="221" relname="attribution">обвиняемый в организации убийства Андрея Козлова, заявил,</segment>
+		<segment id="219" parent="221" relname="span">что \"одним из наиболее вероятных заказчиков убийства Козлова\" может быть другой зампредседателя Центробанка</segment>
+		<segment id="220" parent="219" relname="attribution">- Виктор Мельников.\n\</segment>
+		<segment id="224" parent="227" relname="attribution">nКак сообщил журналистам адвокат Френкеля Руслан Коблев,</segment>
+		<segment id="225" parent="226" relname="condition">после ознакомления его подзащитного с материалами дела</segment>
+		<segment id="226" parent="227" relname="span">ему стало ясно, что версия о наличии у самого Френкеля мотива убийства является самой неубедительной,</segment>
+		<segment id="229" parent="235" relname="span">но удобной для следствия.\n\nПо мнению Френкеля,</segment>
+		<segment id="230" parent="234" relname="joint">\"деятельностью Козлова были не довольны, прежде всего, высокопоставленные сотрудники,</segment>
+		<segment id="231" parent="233" relname="span">а также чиновники Центробанка различного уровня,</segment>
+		<segment id="232" parent="231" relname="elaboration">которые контролировали финансовые группы, занимавшиеся, в том числе отмыванием\",</segment>
+		<segment id="236" parent="235" relname="attribution">- сказал Коблев</segment>
+		<segment id="242" parent="253" relname="attribution">.\n\nАдвокат указал,</segment>
+		<segment id="243" parent="253" relname="joint">что под руководством Козлова в 2005-2006 годах были отозваны лицензии у порядка 300 кредитных учреждений, \"в том числе очень крупных банков, деятельность которых была невозможна без поддержки\".</segment>
+		<segment id="244" parent="246" relname="contrast">\"По мнению Френкеля, Мельников не только контролировал один из таких банков,</segment>
+		<segment id="245" parent="246" relname="contrast">но также видел в Козлове конкурента при соискании на должность\",</segment>
+		<segment id="247" parent="251" relname="span">- подчеркнул Коблев.\n\nНа прошлой неделе суд уже допросил по этому делу председателя Центробанка России Сергея Игнатьева,</segment>
+		<segment id="248" parent="249" relname="attribution">который рассказал,</segment>
+		<segment id="249" parent="250" relname="span">что Козлов получил анонимное письмо с угрозами в июле 2006 года.</segment>
+		<segment id="255" parent="256" relname="attribution">По его словам,</segment>
+		<segment id="256" parent="257" relname="span">в письме упоминался ряд банков, в том числе ВИП-банк, банк \"Орион\", а также банкир Алексей Френкель.</segment>
+		<segment id="258" parent="261" relname="attribution">Анонимный автор сообщал о том,</segment>
+		<segment id="259" parent="261" relname="joint">что лица, контролирующие эти банки,</segment>
+		<segment id="260" parent="261" relname="joint">крайне недовольны действиями ЦБ и Козлова и \"готовы на активные действия\",</segment>
+		<segment id="264" parent="263" relname="attribution">рассказал Игнатьев.\n\nИсточник: https://www.newsru.com/russia/20Mar2008/melnikoff.html\n</segment>
+		<group id="144" type="span" parent="272" relname="joint"/>
+		<group id="106" type="span" parent="143" relname="preparation"/>
+		<group id="105" type="span" parent="106" relname="span"/>
+		<group id="99" type="span" parent="105" relname="span"/>
+		<group id="95" type="span" parent="99" relname="span"/>
+		<group id="98" type="span" parent="95" relname="background"/>
+		<group id="104" type="span" parent="99" relname="elaboration"/>
+		<group id="143" type="multinuc" parent="144" relname="span"/>
+		<group id="117" type="span" parent="143" relname="joint"/>
+		<group id="116" type="span" parent="117" relname="span"/>
+		<group id="110" type="span" parent="116" relname="span"/>
+		<group id="115" type="span" parent="110" relname="elaboration"/>
+		<group id="113" type="multinuc" parent="115" relname="span"/>
+		<group id="142" type="multinuc" parent="143" relname="joint"/>
+		<group id="126" type="span" parent="142" relname="joint"/>
+		<group id="125" type="multinuc" parent="126" relname="span"/>
+		<group id="124" type="span" parent="125" relname="joint"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="141" type="multinuc" parent="142" relname="joint"/>
+		<group id="135" type="multinuc" parent="141" relname="joint"/>
+		<group id="134" type="span" parent="135" relname="joint"/>
+		<group id="133" type="span" parent="134" relname="span"/>
+		<group id="131" type="span" parent="133" relname="span"/>
+		<group id="140" type="span" parent="141" relname="joint"/>
+		<group id="138" type="span" parent="140" relname="span"/>
+		<group id="271" type="span" parent="272" relname="joint"/>
+		<group id="153" type="span" parent="270" relname="preparation"/>
+		<group id="151" type="span" parent="153" relname="span"/>
+		<group id="150" type="multinuc" parent="151" relname="span"/>
+		<group id="149" type="multinuc" parent="150" relname="joint"/>
+		<group id="270" type="multinuc" parent="271" relname="span"/>
+		<group id="168" type="multinuc" parent="270" relname="joint"/>
+		<group id="160" type="span" parent="168" relname="joint"/>
+		<group id="159" type="multinuc" parent="160" relname="span"/>
+		<group id="158" type="multinuc" parent="159" relname="comparison"/>
+		<group id="167" type="span" parent="168" relname="joint"/>
+		<group id="165" type="span" parent="167" relname="span"/>
+		<group id="164" type="multinuc" parent="165" relname="span"/>
+		<group id="269" type="multinuc" parent="270" relname="joint"/>
+		<group id="185" type="span" parent="269" relname="joint"/>
+		<group id="175" type="span" parent="185" relname="span"/>
+		<group id="174" type="span" parent="175" relname="span"/>
+		<group id="173" type="span" parent="174" relname="span"/>
+		<group id="184" type="span" parent="175" relname="elaboration"/>
+		<group id="182" type="span" parent="184" relname="span"/>
+		<group id="181" type="span" parent="176" relname="elaboration"/>
+		<group id="179" type="multinuc" parent="181" relname="span"/>
+		<group id="268" type="multinuc" parent="269" relname="joint"/>
+		<group id="198" type="multinuc" parent="268" relname="joint"/>
+		<group id="190" type="span" parent="198" relname="joint"/>
+		<group id="189" type="span" parent="190" relname="span"/>
+		<group id="197" type="span" parent="198" relname="joint"/>
+		<group id="195" type="multinuc" parent="197" relname="span"/>
+		<group id="194" type="span" parent="195" relname="contrast"/>
+		<group id="267" type="span" parent="268" relname="joint"/>
+		<group id="241" type="multinuc" parent="267" relname="span"/>
+		<group id="207" type="span" parent="241" relname="joint"/>
+		<group id="203" type="span" parent="207" relname="span"/>
+		<group id="202" type="multinuc" parent="203" relname="span"/>
+		<group id="206" type="span" parent="203" relname="background"/>
+		<group id="240" type="multinuc" parent="241" relname="joint"/>
+		<group id="216" type="span" parent="240" relname="joint"/>
+		<group id="215" type="multinuc" parent="216" relname="span"/>
+		<group id="211" type="multinuc" parent="215" relname="joint"/>
+		<group id="214" type="span" parent="215" relname="joint"/>
+		<group id="239" type="span" parent="240" relname="joint"/>
+		<group id="223" type="span" parent="239" relname="span"/>
+		<group id="222" type="span" parent="217" relname="elaboration"/>
+		<group id="221" type="span" parent="222" relname="span"/>
+		<group id="238" type="multinuc" parent="223" relname="interpretation-evaluation"/>
+		<group id="228" type="span" parent="238" relname="contrast"/>
+		<group id="227" type="span" parent="228" relname="span"/>
+		<group id="237" type="span" parent="238" relname="contrast"/>
+		<group id="235" type="span" parent="237" relname="span"/>
+		<group id="234" type="multinuc" parent="229" relname="elaboration"/>
+		<group id="233" type="span" parent="234" relname="joint"/>
+		<group id="266" type="multinuc" parent="241" relname="background"/>
+		<group id="254" type="span" parent="266" relname="joint"/>
+		<group id="253" type="multinuc" parent="254" relname="span"/>
+		<group id="252" type="span" parent="253" relname="joint"/>
+		<group id="246" type="multinuc" parent="252" relname="span"/>
+		<group id="251" type="span" parent="246" relname="attribution"/>
+		<group id="250" type="span" parent="247" relname="background"/>
+		<group id="265" type="span" parent="266" relname="joint"/>
+		<group id="263" type="multinuc" parent="265" relname="span"/>
+		<group id="257" type="span" parent="263" relname="joint"/>
+		<group id="262" type="span" parent="263" relname="joint"/>
+		<group id="261" type="multinuc" parent="262" relname="span"/>
+		<group id="272" type="multinuc"/>
+	</body>
+</rst>

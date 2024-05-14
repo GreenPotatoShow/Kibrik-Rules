@@ -1,0 +1,75 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="31" relname="span">Верховный суд США запретил казнить педофилов\n\nВерховный суд США запретил казнить преступников,</segment>
+		<segment id="30" parent="29" relname="elaboration">признанных виновными в изнасиловании детей.</segment>
+		<segment id="32" parent="33" relname="attribution">Пятью голосами против четырех присяжные признали</segment>
+		<segment id="33" parent="34" relname="span">антиконституционной смертную казнь, предусмотренную для педофилов в штате Луизиана.</segment>
+		<segment id="36" parent="38" relname="span">Решение Верховного суда будет распространяться на всю судебную практику,</segment>
+		<segment id="37" parent="36" relname="elaboration">передает CrimeZone со ссылкой на АР.\n\n\"Смертная казнь - непропорциональное наказание для преступников, совершивших сексуальное насилие над детьми\",</segment>
+		<segment id="39" parent="38" relname="attribution">- указал судья Энтони Кеннеди в итоговом решении.</segment>
+		<segment id="42" parent="44" relname="joint">Четверо коллег присоединились к его мнению,</segment>
+		<segment id="43" parent="44" relname="joint">еще четыре человека выступили за сохранения существующих норм.</segment>
+		<segment id="45" parent="47" relname="span">Отметим, что смертный приговор за преступления, не связанные со смертью людей, не приводился в исполнение в США последние 44 года.\n\nВерховный суд рассматривал жалобу 43-летнего Патрика Кеннеди,</segment>
+		<segment id="46" parent="45" relname="background">который в 2003 году был приговорен к высшей мере наказания за изнасилование 8-летней падчерицы в Луизиане.</segment>
+		<segment id="48" parent="50" relname="span">Кеннеди является одним из двух жителей США, приговоренных к смертной казни за изнасилование,</segment>
+		<segment id="49" parent="48" relname="elaboration">не повлекшее смерти жертвы.</segment>
+		<segment id="51" parent="50" relname="elaboration">Оба приговоренных являются жителями Луизианы.</segment>
+		<segment id="53" parent="65" relname="contrast">Верховный суд уже накладывал запрет на высшую меру наказания за изнасилование в 1977 году,</segment>
+		<segment id="54" parent="56" relname="contrast">однако тогда жертвой была взрослая женщина.\n\n45 штатов запретили смертную казнь за все виды преступлений сексуального характера ,</segment>
+		<segment id="55" parent="56" relname="contrast">однако в пяти штатах - Монтане, Оклахоме, Южной Каролине и Техасе</segment>
+		<segment id="57" parent="63" relname="contrast">- высшая мера допускается за изнасилование детей,</segment>
+		<segment id="58" parent="60" relname="span">но лишь в том случае,</segment>
+		<segment id="59" parent="58" relname="condition">если злоумышленник является рецидивистом</segment>
+		<segment id="61" parent="62" relname="span">и был раньше осужден за аналогичное преступление</segment>
+		<segment id="66" parent="68" relname="span">.\n\nКеннеди был приговорен к смертной казни</segment>
+		<segment id="67" parent="66" relname="cause-effect">за сексуальное надругательство над своей падчерицей в ее постели.</segment>
+		<segment id="69" parent="71" relname="span">Изнасилование спровоцировало внутренние травмы и кровотечение,</segment>
+		<segment id="70" parent="69" relname="cause-effect">из-за которых ребенку пришлось перенести операцию.</segment>
+		<segment id="72" parent="75" relname="interpretation-evaluation">Девочка была настолько напугана,</segment>
+		<segment id="73" parent="75" relname="contrast">что сначала обвинила в надругательстве над ней соседнего мальчика,</segment>
+		<segment id="74" parent="75" relname="contrast">однако через месяц изменила показания.\n\nИсточник: https://www.newsru.com/world/25Jun2008/sud.html\n</segment>
+		<group id="41" type="multinuc" parent="83" relname="joint"/>
+		<group id="35" type="multinuc" parent="41" relname="joint"/>
+		<group id="31" type="span" parent="35" relname="joint"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="38" type="span" parent="40" relname="span"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="44" type="multinuc" parent="82" relname="joint"/>
+		<group id="81" type="multinuc" parent="82" relname="joint"/>
+		<group id="47" type="span" parent="81" relname="joint"/>
+		<group id="80" type="multinuc" parent="81" relname="joint"/>
+		<group id="52" type="span" parent="80" relname="joint"/>
+		<group id="50" type="span" parent="52" relname="span"/>
+		<group id="79" type="multinuc" parent="80" relname="joint"/>
+		<group id="65" type="multinuc" parent="79" relname="joint"/>
+		<group id="64" type="span" parent="65" relname="contrast"/>
+		<group id="56" type="multinuc" parent="64" relname="span"/>
+		<group id="63" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="62" type="span" parent="63" relname="contrast"/>
+		<group id="60" type="span" parent="61" relname="cause-effect"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="68" type="span" parent="78" relname="joint"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="71" type="span" parent="76" relname="preparation"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="75" type="multinuc" parent="76" relname="span"/>
+		<group id="83" type="multinuc"/>
+	</body>
+</rst>

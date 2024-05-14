@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="20" relname="span">В мурманской тюремной больнице для больных туберкулезом открыли новое отделение\n\nЕдинственная в Мурманской области тюремная больница, где лечатся осужденные, больные туберкулезом,</segment>
+		<segment id="19" parent="18" relname="elaboration">в последние годы переполнена до отказа.</segment>
+		<segment id="21" parent="25" relname="span">В нескольких ее палатах врачам порой приходилось размещать до 500 человек.</segment>
+		<segment id="22" parent="24" relname="span">В таких условиях борьба с туберкулезом теряла какой-либо смысл,</segment>
+		<segment id="23" parent="22" relname="cause-effect">ведь для его лечения, кроме лекарств, необходимы свежий воздух, просторные помещения и элементарная чистота.\n\</segment>
+		<segment id="26" parent="28" relname="span">nОчень многое изменилось с вводом нового отделения больницы,</segment>
+		<segment id="27" parent="26" relname="elaboration">которое открыто в здании, где раньше располагался штрафной изолятор.</segment>
+		<segment id="29" parent="30" relname="joint">Часть денег на его ремонт поступили из Норвегии в рамках программы международного сотрудничества \"Тюрьмы-побратимы\".</segment>
+		<segment id="31" parent="35" relname="same-unit">Кроме 8 тысяч долларов,</segment>
+		<segment id="32" parent="34" relname="joint">норвежцы передали российским заключенным железные кровати, одеяла и подушки.\n\nВсе остальное осужденные сделали своими руками в столярных мастерских колонии: двери, окна, полы, мебель, тумбочки, столы.\n\nРемонт в бывшем штрафном изоляторе длился несколько месяцев,</segment>
+		<segment id="33" parent="34" relname="joint">и теперь вместо мрачных камер здесь палаты на 6-8 человек.</segment>
+		<segment id="36" parent="40" relname="span">В них содержатся только те заключенные, которые уже пошли на поправку.\n\nНорвежцы,</segment>
+		<segment id="37" parent="38" relname="condition">пока шла реконструкция здания,</segment>
+		<segment id="38" parent="39" relname="span">строго следили за ходом выполнения работ.</segment>
+		<segment id="42" parent="46" relname="span">Теперь вместе с администрацией колонии и к радости врачей они думают над дальнейшим расширением тюремной больницы.</segment>
+		<segment id="43" parent="45" relname="span">Ведь пока согласно статистке каждый 10-й осужденный выходит на свободу с диагнозом \"туберкулез\".\n\nДалеким от идеального остается питание больных:</segment>
+		<segment id="44" parent="43" relname="elaboration">в день на каждого из них государство отпускает всего лишь 14 рублей.\n\nИсточник: https://www.newsru.com/russia/12Jan2001/prisoners.html\n</segment>
+		<group id="20" type="span" parent="49" relname="preparation"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="25" type="span" parent="49" relname="joint"/>
+		<group id="24" type="span" parent="21" relname="elaboration"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="30" type="multinuc" parent="48" relname="joint"/>
+		<group id="28" type="span" parent="30" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="41" type="multinuc" parent="47" relname="joint"/>
+		<group id="35" type="multinuc" parent="41" relname="joint"/>
+		<group id="34" type="multinuc" parent="35" relname="same-unit"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="39" type="span" parent="36" relname="condition"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="45" type="span" parent="42" relname="cause-effect"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

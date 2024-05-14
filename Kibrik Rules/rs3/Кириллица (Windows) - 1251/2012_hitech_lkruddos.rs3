@@ -1,0 +1,83 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="35" relname="span">\"Лаборатория Касперского\": за полгода Россия стала главным источником DDoS-атак в мире\n\nВо втором полугодии 2011 года Россия стала источником 16% DDoS-трафика,</segment>
+		<segment id="34" parent="33" relname="elaboration">зафиксированного системой Kaspersky DDoS Prevention.</segment>
+		<segment id="36" parent="38" relname="span">Чуть меньшую угрозу в этот период представляли Украина (12%), Таиланд (7%) и Малайзия (6%).</segment>
+		<segment id="37" parent="36" relname="elaboration">В общей сложности 90% зарегистрированных атак велись с компьютеров, расположенных в 23 странах мира.</segment>
+		<segment id="39" parent="41" relname="span">Такие данные приводятся в отчете о DDoS-атаках во втором квартале 2011 года российской антивирусной компании \"Лаборатория Касперского\".\n\nВ конце первого полугодия на вершине рейтинга, где сейчас прочно обосновалась Россия,</segment>
+		<segment id="40" parent="39" relname="elaboration">располагались совсем иные территории – США, Индонезия и Польша.</segment>
+		<segment id="42" parent="44" relname="span">Изменение в тройке лидеров и попадание России на верхнюю строчку отчасти связано с усилением мер по защите от DDoS-угроз.\n\nРечь идет о системах фильтрации,</segment>
+		<segment id="43" parent="42" relname="elaboration">которые во время атаки блокируют трафик из всех стран кроме той, где живет большинство пользователей сайта.</segment>
+		<segment id="45" parent="47" relname="span">Такие действия вынуждают злоумышленников создавать зомби-сети там же,</segment>
+		<segment id="46" parent="45" relname="elaboration">где находятся их жертвы.</segment>
+		<segment id="48" parent="50" relname="span">Поэтому для атак в Рунете,</segment>
+		<segment id="49" parent="48" relname="background">заказов на которые традиционно много,</segment>
+		<segment id="51" parent="52" relname="span">все больше ботнетов создается на территории России.\n\nКоличество компьютеров в ботсетях также увеличивается.</segment>
+		<segment id="57" parent="69" relname="span">Это отражается и на средней мощности DDoS-атак,</segment>
+		<segment id="58" parent="68" relname="joint">которая за полгода выросла на 57%</segment>
+		<segment id="59" parent="62" relname="attribution">.\n\nСпециалисты ЛК обратили внимание на то,</segment>
+		<segment id="60" parent="62" relname="span">что активизация зараженных машин, как правило, совпадает с началом рабочего дня – 9-10 часов по местному времени,</segment>
+		<segment id="61" parent="60" relname="elaboration">пик активности приходится на его середину – около 16.00,</segment>
+		<segment id="64" parent="66" relname="span">а вот заканчиваются трудовые будни ботов только под утро – в районе 4 часов.\n\nГлавной мишенью преступников по-прежнему остаются сайты интернет-торговли</segment>
+		<segment id="65" parent="64" relname="elaboration">– на них приходится четверть всех зафиксированных атак.</segment>
+		<segment id="70" parent="72" relname="span">Следом по популярности идут электронные торговые площадки и игровые сайты – 20% и 15% случаев.\n\nПостепенно растет и количество атак на государственные ресурсы (2%),</segment>
+		<segment id="71" parent="70" relname="elaboration">мотивами которых, как правило, являются политические протесты:</segment>
+		<segment id="73" parent="74" relname="joint">россиянам достаточно вспомнить атаки на сайты партий и политических движений во время декабрьских выборов в Госдуму РФ.\n\nХарактерно, что больше всего атак во второй половине прошлого года (384) было нацелено на один из киберкриминальных порталов.</segment>
+		<segment id="75" parent="74" relname="interpretation-evaluation">Это говорит о том, что DDoS-атаки все чаще становятся средством недобросовестной конкуренции не только на рынке реальных товаров и услуг, но и в теневом бизнесе.\n\</segment>
+		<segment id="77" parent="79" relname="span">nВ будущем можно ожидать роста количества протестных DDoS-атак,</segment>
+		<segment id="78" parent="77" relname="background">наиболее громкие из которых вновь прошли под знаменем Anonymous.</segment>
+		<segment id="80" parent="81" relname="concession">Несмотря на усиление мощности атак,</segment>
+		<segment id="81" parent="82" relname="span">сверхбольших ботнетов в 2012-м скорее всего использоваться не будет.</segment>
+		<segment id="83" parent="87" relname="contrast">Они легко попадают в поле зрения правоохранительных органов,</segment>
+		<segment id="84" parent="86" relname="span">а значит, теряют свою привлекательность среди злоумышленников,</segment>
+		<segment id="85" parent="84" relname="elaboration">которые скорее будут прибегать к одновременному использованию нескольких бот-сетей, нацеленных на один ресурс.</segment>
+		<segment id="89" parent="90" relname="joint">Учитывая востребованность DDoS-атак, технологии и механизмы их осуществления также продолжат совершенствоваться\n\nИсточник: https://www.newsru.com/hitech/22Feb2012/lkruddos.html\n</segment>
+		<group id="35" type="span" parent="94" relname="preparation"/>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="56" type="span" parent="94" relname="joint"/>
+		<group id="38" type="span" parent="56" relname="span"/>
+		<group id="55" type="multinuc" parent="38" relname="elaboration"/>
+		<group id="41" type="span" parent="55" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="44" type="span" parent="54" relname="span"/>
+		<group id="53" type="span" parent="44" relname="elaboration"/>
+		<group id="47" type="span" parent="52" relname="cause-effect"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="50" type="span" parent="51" relname="purpose"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="69" type="span" parent="93" relname="joint"/>
+		<group id="68" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="63" type="span" parent="67" relname="contrast"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="66" type="span" parent="67" relname="contrast"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="76" type="span" parent="92" relname="joint"/>
+		<group id="74" type="multinuc" parent="76" relname="span"/>
+		<group id="72" type="span" parent="74" relname="joint"/>
+		<group id="91" type="span" parent="92" relname="joint"/>
+		<group id="79" type="span" parent="91" relname="span"/>
+		<group id="90" type="multinuc" parent="79" relname="concession"/>
+		<group id="88" type="span" parent="90" relname="joint"/>
+		<group id="82" type="span" parent="87" relname="concession"/>
+		<group id="87" type="multinuc" parent="88" relname="span"/>
+		<group id="86" type="span" parent="87" relname="contrast"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

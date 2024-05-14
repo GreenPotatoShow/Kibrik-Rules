@@ -1,0 +1,38 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="14" relname="span">Дисквалификация Егора Титова может быть увеличена\n\nДисквалификация капитана московского \"Спартака\" Егора Титова может быть увеличена.</segment>
+		<segment id="13" parent="12" relname="attribution">Об этом сказал прессе во вторник дисциплинарный инспектор Европейского союза футбольных ассоциаций Герхард Капл,</segment>
+		<segment id="15" parent="16" relname="attribution">после рассмотрения материалов по апелляции Титова.\n\nВ частности, он заявил,</segment>
+		<segment id="16" parent="17" relname="span">что не видит смягчающих обстоятельств в деле российского футболиста.</segment>
+		<segment id="19" parent="22" relname="attribution">Как сообщили РИА \"Новости\" в московском клубе,</segment>
+		<segment id="20" parent="21" relname="attribution">Капл, напротив, рекомендовал</segment>
+		<segment id="21" parent="22" relname="span">увеличить срок дисквалификации игрока.\n\nАпелляция по дисквалификации Титова будет рассмотрена в пятницу, 20 февраля, апелляционной инстанцией Контрольно-дисциплинарного комитета УЕФА в Ньоне в присутствие футболиста.\n\nИнтересы игрока будут отстаивать швейцарская юридическая фирма \"Зейманн\" и российский юрист Николай Грамматиков.</segment>
+		<segment id="24" parent="30" relname="span">ФК \"Спартак Москва\" будет представлять вице-президент клуба Анна Завершинская.</segment>
+		<segment id="25" parent="27" relname="sequence">Егор Титов был дисквалифицирован на 12 месяцев</segment>
+		<segment id="26" parent="27" relname="sequence">и наказан денежным штрафом</segment>
+		<segment id="28" parent="27" relname="cause-effect">в связи с обнаружением в его крови элементов распада запрещенного препарата бромантан, в допинг-пробе, взятой у игрока после первого стыкового матча ЕВРО-2004 со сборной Уэльса.\n\nИсточник: https://www.newsru.com/sport/17Feb2004/titrecap.html\n</segment>
+		<group id="18" type="multinuc" parent="31" relname="preparation"/>
+		<group id="14" type="span" parent="18" relname="joint"/>
+		<group id="17" type="span" parent="18" relname="joint"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="23" type="span" parent="31" relname="span"/>
+		<group id="22" type="span" parent="23" relname="span"/>
+		<group id="30" type="span" parent="23" relname="background"/>
+		<group id="29" type="span" parent="24" relname="elaboration"/>
+		<group id="27" type="multinuc" parent="29" relname="span"/>
+		<group id="32" type="span"/>
+	</body>
+</rst>

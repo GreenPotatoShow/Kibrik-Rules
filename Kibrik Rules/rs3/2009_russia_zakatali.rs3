@@ -1,0 +1,58 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="61" relname="preparation">К приезду Медведева железнодорожный переезд в Кирове закатали асфальтом\n\</segment>
+		<segment id="23" parent="25" relname="span">nИз Кирова продолжают поступать курьезные новости о спешной подготовке региона к приезду президента Дмитрия Медведева на совещание, посвященное социально-экономическому развитию Приволжского федерального округа, в четверг.\n\nТак, блогосфера обсуждает фотографию, которую местный житель разместил у себя в блоге:</segment>
+		<segment id="24" parent="23" relname="elaboration">действующий железнодорожный переезд возле ООО \"Алтай Сервис\" на улице Производственной закатали в асфальт.</segment>
+		<segment id="26" parent="27" relname="attribution">Как утверждается,</segment>
+		<segment id="27" parent="28" relname="span">фирма по этому переезду возит к себе на базу металл.</segment>
+		<segment id="30" parent="32" relname="contrast">Однако переезд оказался по маршруту следования президента,</segment>
+		<segment id="31" parent="32" relname="contrast">а все дороги, напомним, местные власти решили ремонтировать в срочном порядке.\n\</segment>
+		<segment id="33" parent="34" relname="attribution">nНапомним, ранее пресса писала,</segment>
+		<segment id="34" parent="35" relname="span">что кроме лихорадочного благоустройства отдельных улиц и территорий, прилегающих к местам посещений президента, - от аэропорта до Нововятского комбината -</segment>
+		<segment id="36" parent="40" relname="joint">власти провели профилактическую беседу с правозащитниками</segment>
+		<segment id="37" parent="39" relname="joint">и попросили жителей центральных улиц не выходить 14 мая на улицу</segment>
+		<segment id="38" parent="39" relname="joint">и не вывешивать в окна плакаты.\n\nСам президент, по всей видимости, узнал об этом из прессы</segment>
+		<segment id="42" parent="54" relname="span">и даже позволил себе поиронизировать:</segment>
+		<segment id="43" parent="44" relname="condition">\"Чем чаще приезжает начальник,</segment>
+		<segment id="44" parent="45" relname="span">тем чуть-чуть лучше становится.</segment>
+		<segment id="46" parent="52" relname="sequence">Я где-то прочитал</segment>
+		<segment id="47" parent="51" relname="joint">- неизвестно, приедет</segment>
+		<segment id="48" parent="50" relname="joint">или нет,</segment>
+		<segment id="49" parent="50" relname="joint">а дороги уже отремонтировали\",</segment>
+		<segment id="56" parent="57" relname="attribution">- заметил Медведев,</segment>
+		<segment id="57" parent="58" relname="span">который находился в Кирове в четверг.\n\nИсточник: https://www.newsru.com/russia/15May2009/zakatali.html\n</segment>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="29" type="span" parent="61" relname="contrast"/>
+		<group id="25" type="span" parent="29" relname="span"/>
+		<group id="28" type="span" parent="25" relname="elaboration"/>
+		<group id="60" type="multinuc" parent="61" relname="contrast"/>
+		<group id="32" type="multinuc" parent="60" relname="joint"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="55" type="multinuc" parent="59" relname="span"/>
+		<group id="41" type="multinuc" parent="55" relname="joint"/>
+		<group id="35" type="span" parent="41" relname="joint"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="53" type="span" parent="42" relname="elaboration"/>
+		<group id="45" type="span" parent="53" relname="span"/>
+		<group id="52" type="multinuc" parent="45" relname="elaboration"/>
+		<group id="51" type="multinuc" parent="52" relname="sequence"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="58" type="span" parent="55" relname="attribution"/>
+		<group id="62" type="span"/>
+	</body>
+</rst>

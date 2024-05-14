@@ -1,0 +1,77 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="33" relname="span">Маттеус: Тимощук - лучшее приобретение \"Баварии\" в этом межсезонье\n\nПолузащитник сборной Украины Анатолий Тимощук с юных лет мечтал быть похожим на звезду немецкого футбола 80-90-х Лоттара Маттеуса.</segment>
+		<segment id="32" parent="31" relname="elaboration">И вот экс-капитан \"Зенита\", а ныне новичок мюнхенской \"Баварии\" познакомился со своим кумиром своего детства.\n\</segment>
+		<segment id="34" parent="42" relname="span">nВстреча состоялась благодаря журналу Sportbild,</segment>
+		<segment id="35" parent="41" relname="span">организовавшего интервью двух знаменитых футболистов,</segment>
+		<segment id="36" parent="40" relname="sequence">которые пришли в ресторан вместе с женами</segment>
+		<segment id="37" parent="39" relname="sequence">и приняли участие в небольшой фотосессии.\n\n\"В прошлом сезоне игра обороны \"Баварии\" вызывала серьезные нарекания,</segment>
+		<segment id="38" parent="39" relname="sequence">порой она напоминала проходной двор,</segment>
+		<segment id="44" parent="43" relname="attribution">- считает Маттеус.</segment>
+		<segment id="46" parent="48" relname="span">- Именно поэтому Тимо станет для \"Баварии\" ключевым игроком.</segment>
+		<segment id="47" parent="46" relname="interpretation-evaluation">Вообще-то это должно было произойти гораздо раньше.</segment>
+		<segment id="49" parent="54" relname="attribution">Помню, года четыре назад я сказал генменеджеру баварцев Хенессу:</segment>
+		<segment id="50" parent="54" relname="joint">\"Ули, этого парня вы просто обязаны заполучить</segment>
+		<segment id="51" parent="53" relname="comparison">!\" Ну что ж, лучше поздно,</segment>
+		<segment id="52" parent="53" relname="comparison">чем никогда.</segment>
+		<segment id="56" parent="58" relname="span">На мой взгляд, Тимо - лучшее приобретение \"Баварии\" в этом межсезонье,</segment>
+		<segment id="57" parent="56" relname="elaboration">на своей позиции он один из лучших в мире\".\n\n\"У нас в команде много новичков,</segment>
+		<segment id="59" parent="60" relname="same-unit">строится совершенно новая команда,</segment>
+		<segment id="61" parent="60" relname="attribution">- отметил Тимощук.</segment>
+		<segment id="65" parent="66" relname="interpretation-evaluation">- Мне в Германии постоянно намекают,</segment>
+		<segment id="66" parent="67" relname="span">что скоро получу капитанскую повязку.</segment>
+		<segment id="68" parent="78" relname="contrast">Конечно, для меня было бы огромной честью стать капитаном такого великого клуба.</segment>
+		<segment id="69" parent="77" relname="span">Но на данный момент эту роль исполняет Марко ван Боммель.</segment>
+		<segment id="72" parent="74" relname="span">Как оно будет дальше - решать не мне, а тренеру и партнерам по команде\".\n\n</segment>
+		<segment id="73" parent="72" relname="elaboration">\"Приход Тимощука вовсе не означает, что ван Боммель сядет на лавку,</segment>
+		<segment id="75" parent="74" relname="attribution">- полагает Маттеус.</segment>
+		<segment id="80" parent="86" relname="contrast">- Думаю, Луи ван Галь придумает, как совместить их на поле.</segment>
+		<segment id="81" parent="83" relname="span">Но лично для меня очевидно, что шестого номера</segment>
+		<segment id="82" parent="81" relname="elaboration">(так в Германии называют позицию опорника)</segment>
+		<segment id="84" parent="83" relname="elaboration">должен играть Тимо и только он\".\n\nИсточник: https://www.newsru.com/sport/18Jul2009/tima.html\n</segment>
+		<group id="45" type="span" parent="89" relname="joint"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="33" type="span" parent="42" relname="preparation"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="41" type="span" parent="34" relname="elaboration"/>
+		<group id="40" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="39" type="multinuc" parent="40" relname="sequence"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="64" type="span" parent="88" relname="joint"/>
+		<group id="48" type="span" parent="64" relname="span"/>
+		<group id="63" type="span" parent="48" relname="elaboration"/>
+		<group id="55" type="span" parent="63" relname="span"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="53" type="multinuc" parent="54" relname="joint"/>
+		<group id="62" type="span" parent="55" relname="interpretation-evaluation"/>
+		<group id="60" type="multinuc" parent="62" relname="span"/>
+		<group id="58" type="span" parent="60" relname="same-unit"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="79" type="span" parent="87" relname="joint"/>
+		<group id="67" type="span" parent="79" relname="span"/>
+		<group id="78" type="multinuc" parent="67" relname="elaboration"/>
+		<group id="77" type="span" parent="78" relname="contrast"/>
+		<group id="76" type="span" parent="69" relname="elaboration"/>
+		<group id="74" type="span" parent="76" relname="span"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="85" type="span" parent="86" relname="contrast"/>
+		<group id="83" type="span" parent="85" relname="span"/>
+		<group id="89" type="multinuc"/>
+	</body>
+</rst>

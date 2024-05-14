@@ -1,0 +1,58 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="23" relname="span">Камеры Google Street View обнаружили призрака на улицах Кардиффа\n\nВ объективы камер Google Street View на прошлой неделе попался колоритный персонаж,</segment>
+		<segment id="22" parent="21" relname="elaboration">разгуливающий по улицам британского города Кардифф (Южный Уэльс, Великобритания),</segment>
+		<segment id="24" parent="23" relname="attribution">сообщает Вебпланета со ссылкой на британскую газету The Daily Telegraph.</segment>
+		<segment id="26" parent="28" relname="span">Журналисты уже успели назвать женщину на снимке призраком.\n\nДама высокого роста облачена в одежду викторианской эпохи</segment>
+		<segment id="27" parent="26" relname="attribution">(так считают эксперты)</segment>
+		<segment id="29" parent="30" relname="same-unit">? это длинная юбка, блузка с бабочкой, шляпка и длинный шарфик.</segment>
+		<segment id="31" parent="33" relname="span">При этом женщина была заснята в Тигровой бухте ? районе Кардиффа,</segment>
+		<segment id="32" parent="31" relname="background">где двести лет назад находились корабельные доки,</segment>
+		<segment id="34" parent="38" relname="span">место темное и зловещее</segment>
+		<segment id="35" parent="37" relname="joint">(там постоянно кого-то грабили</segment>
+		<segment id="36" parent="37" relname="joint">и убивали).</segment>
+		<segment id="40" parent="41" relname="attribution">Теперь же вместо них стоят красивые жилые дома, рестораны и театр.\n\nТем временем местный медиум, 39-летняя Джейн Коэн, заявила,</segment>
+		<segment id="41" parent="42" relname="span">что призраки на снимках часто остаются невидимыми для невооруженного глаза.\n\nПохожий случай произошел три месяца назад в Англии в одной из местных больниц.</segment>
+		<segment id="43" parent="45" relname="span">Руководство больницы города Дерби обратилось к экзорцисту,</segment>
+		<segment id="44" parent="43" relname="purpose">чтобы изгнать духа, бродящего по госпиталю уже 31 год.\n\nВ течение пяти дней сотрудники и посетители больницы несколько раз видели привидение в старинном костюме черного цвета.</segment>
+		<segment id="47" parent="49" relname="span">Он бродил по коридорам и помещениям больницы,</segment>
+		<segment id="48" parent="47" relname="condition">проходя сквозь стены.</segment>
+		<segment id="50" parent="51" relname="attribution">Впервые этот призрак был замечен в госпитале в 1978 году.\n\nНекоторые местные жители считают,</segment>
+		<segment id="51" parent="52" relname="span">что призрак - погибший римский солдат.</segment>
+		<segment id="53" parent="54" relname="joint">Здание больницы находится на месте, где во времена правления римлян проходила оживленная дорога.\n\nРанее The Daily Telegraph также публиковала размытую фотографию из Street View с якобы изображением известного инопланетянина из фильма \"Инопланетянин\" (E.T.), снятого в 1982 году\n\nИсточник: https://www.newsru.com/hitech/30Mar2009/googlesvghost.html\n</segment>
+		<group id="25" type="span" parent="58" relname="preparation"/>
+		<group id="23" type="span" parent="25" relname="span"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="30" type="multinuc" parent="58" relname="joint"/>
+		<group id="28" type="span" parent="30" relname="same-unit"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="39" type="span" parent="57" relname="sequence"/>
+		<group id="33" type="span" parent="39" relname="span"/>
+		<group id="38" type="span" parent="33" relname="background"/>
+		<group id="37" type="multinuc" parent="34" relname="elaboration"/>
+		<group id="56" type="multinuc" parent="57" relname="sequence"/>
+		<group id="46" type="multinuc" parent="56" relname="joint"/>
+		<group id="42" type="span" parent="46" relname="joint"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="49" type="span" parent="55" relname="span"/>
+		<group id="54" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="52" type="span" parent="54" relname="joint"/>
+		<group id="59" type="span"/>
+	</body>
+</rst>

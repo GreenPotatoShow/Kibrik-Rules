@@ -1,0 +1,52 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="52" relname="preparation">В Новгородской области ищут 2 дезертиров, сбежавших из одной части\n\nВ Новгородской области ведутся поиски двух военнослужащих, самовольно покинувших воинскую часть.\n\</segment>
+		<segment id="20" parent="24" relname="span">nКак сообщили в среду в Новгородском управлении внутренних дел,</segment>
+		<segment id="21" parent="23" relname="span">в понедельник вечером воинскую часть,</segment>
+		<segment id="22" parent="21" relname="elaboration">дислоцированную в поселке Кречевицы в пригороде Великого Новгорода,</segment>
+		<segment id="25" parent="27" relname="span">самовольно покинул 21-летний рядовой,</segment>
+		<segment id="26" parent="25" relname="purpose">призванный на действительную военную службу из Татарстана,</segment>
+		<segment id="29" parent="31" relname="span">сообщает \"Интерфакс\".\n\nВо вторник днем из той же части исчез еще один военнослужащий - 18-летний солдат, прибывший</segment>
+		<segment id="30" parent="29" relname="purpose">для прохождения службы из Пермской области.\n\</segment>
+		<segment id="33" parent="34" relname="attribution">nПо данным УВД,</segment>
+		<segment id="34" parent="35" relname="span">самовольно покинувшие часть военнослужащие не имели при себе оружия.</segment>
+		<segment id="36" parent="50" relname="span">Причины самовольной отлучки солдат выясняются.</segment>
+		<segment id="37" parent="47" relname="span">На розыск сбежавших солдат ориентированы все правоохранительные органы области.\n\nНачальник пресс-службы Военно-воздушных сил полковник Александр Дробышевский в среду подтвердил исчезновение двоих военнослужащих отдельного батальона аэродромно-технического обеспечения (ОБАТО) в авиационном гарнизоне Кречевицы.\n\n\"Двое военнослужащих ОБАТО самовольно оставили воинскую часть.</segment>
+		<segment id="38" parent="40" relname="span">Один из них призван из Татарстана, второй из Пермской области.</segment>
+		<segment id="39" parent="38" relname="elaboration">Оружия при них нет.</segment>
+		<segment id="41" parent="45" relname="span">В гарнизоне организованы поиски беглецов.</segment>
+		<segment id="42" parent="43" relname="condition">Если они будут отсутствовать в части более трех суток,</segment>
+		<segment id="43" parent="44" relname="span">будет возбуждено уголовное дело\",</segment>
+		<segment id="48" parent="47" relname="attribution">- сказал Дробышевский.\n\nИсточник: https://www.newsru.com/russia/06Aug2003/deza.html\n</segment>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="32" type="multinuc" parent="52" relname="joint"/>
+		<group id="28" type="multinuc" parent="32" relname="joint"/>
+		<group id="24" type="span" parent="28" relname="sequence"/>
+		<group id="23" type="span" parent="20" relname="elaboration"/>
+		<group id="27" type="span" parent="28" relname="sequence"/>
+		<group id="31" type="span" parent="32" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="35" type="span" parent="51" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="49" type="span" parent="36" relname="elaboration"/>
+		<group id="47" type="span" parent="49" relname="span"/>
+		<group id="46" type="span" parent="37" relname="elaboration"/>
+		<group id="40" type="span" parent="46" relname="span"/>
+		<group id="45" type="span" parent="40" relname="elaboration"/>
+		<group id="44" type="span" parent="41" relname="elaboration"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

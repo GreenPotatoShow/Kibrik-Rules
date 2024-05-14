@@ -1,0 +1,24 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="7" parent="9" relname="span">японский ледокол привез 160 тонн арктического мусора\n\nќколо 160 тонн мусора привез в японию ледокол ¬ћ— японии \"—ирасэ\",</segment>
+		<segment id="8" parent="7" relname="attribution">передает »“ј–-“ј——.</segment>
+		<segment id="10" parent="11" relname="comparison">Ќа его борту - сломанные снегоходы и друга€ техника, оставленна€ предыдущими экспедици€ми.\n\nЁкспедици€ €понский ученых в јнтарктику продолжалась 5 мес€цев.</segment>
+		<segment id="12" parent="14" relname="sequence">—удно водоизмещением 11 600 т стартовало в но€бре прошлого года из “окио</segment>
+		<segment id="13" parent="14" relname="sequence">и прибыло на €понскую антарктическую базу —иова перед самым Ќовым годом.\n\nѕомимо благородной миссии добровольных дворников ледового континента €понские пол€рники провели в јнтарктиду метеорологические, биологические и физические опыты.\n\nѕерва€ €понска€ экспедици€ в јнтарктиду была направлена в 1956 году.</segment>
+		<segment id="15" parent="16" relname="sequence">— тех пор €понские исследователи отправл€ютс€ туда практически ежегодно.\n\n»сточник: https://www.newsru.com/world/13Apr2002/arktica3.html\n</segment>
+		<group id="11" type="multinuc" parent="17" relname="joint"/>
+		<group id="9" type="span" parent="11" relname="comparison"/>
+		<group id="16" type="multinuc" parent="17" relname="joint"/>
+		<group id="14" type="multinuc" parent="16" relname="sequence"/>
+		<group id="17" type="multinuc"/>
+	</body>
+</rst>

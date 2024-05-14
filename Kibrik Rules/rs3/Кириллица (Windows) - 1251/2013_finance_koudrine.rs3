@@ -1,0 +1,68 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="33" relname="span">Экс-министр финансов Кудрин встревожен состоянием резервного фонда:</segment>
+		<segment id="28" parent="30" relname="span">сбережений может не хватить\n\nЭкс-министр финанасов Алексей Кудрин опубликовал статью в журнале \"Вопросы экономики\"</segment>
+		<segment id="29" parent="28" relname="attribution">(полная версия опубликована на сайте www.akudrin.ru),</segment>
+		<segment id="31" parent="32" relname="same-unit">где оценил денежную политику правительства и ЦБ в условиях значительного притока валютных доходов от экспорта сырьевых ресурсов</segment>
+		<segment id="34" parent="38" relname="joint">.\n\nЦентральный банк РФ избрал политику частичного сдерживания укрепления национальной валюты,</segment>
+		<segment id="35" parent="37" relname="joint">увеличивая золотовалютные резервы путем интервенций на валютном рынке</segment>
+		<segment id="36" parent="37" relname="joint">и смягчая денежно-кредитную политику.</segment>
+		<segment id="40" parent="42" relname="joint">Главным следствием данной политики стали опережающее нарастание импорта и снижение конкурентоспособности российской экономики,</segment>
+		<segment id="41" parent="42" relname="joint">пишет он.\n\nОсновным инструментом сдерживания негативного влияния сильного платежного баланса выступает политика правительства по сбережению части нефтегазовых доходов в резервном фонде и фонде национального благосостояния, сохраняемой в иностранных активах.</segment>
+		<segment id="44" parent="48" relname="span">Уровень сбережений за прошедший период был недостаточным</segment>
+		<segment id="45" parent="46" relname="cause-effect">из-за постоянного пересмотра и смягчения критериев формирования резервных фондов,</segment>
+		<segment id="46" parent="47" relname="span">предупреждает Кудрин</segment>
+		<segment id="51" parent="52" relname="condition">.\n\nПравительство в условиях сильного платежного баланса</segment>
+		<segment id="52" parent="53" relname="span">должно обеспечивать необходимый объем сбережений нефтегазовых доходов.</segment>
+		<segment id="55" parent="56" relname="purpose">Для этого Кудрин предлагает</segment>
+		<segment id="56" parent="57" relname="span">базовую цену на нефть</segment>
+		<segment id="58" parent="59" relname="span">при формировании бюджетного правила установить на уровне 80 долларов за баррель в постоянных ценах.\n\</segment>
+		<segment id="60" parent="61" relname="condition">nПри сильном платежном балансе</segment>
+		<segment id="61" parent="62" relname="span">Центральный банк должен смириться либо с укреплением рубля, либо с инфляцией,</segment>
+		<segment id="63" parent="62" relname="attribution">считает экс-министр финансов.</segment>
+		<segment id="68" parent="72" relname="joint">Только правительство имеет мощный инструмент, позволяющий не допустить укрепления национальной валюты</segment>
+		<segment id="69" parent="71" relname="span">и одновременно сдержать инфляцию.\n\nЭта двойная задача решается за счет сбережения</segment>
+		<segment id="70" parent="69" relname="condition">в условиях благоприятной внешней конъюнктуры части нефтегазовых доходов в резервных фондах.</segment>
+		<segment id="73" parent="75" relname="joint">Такая политика закладывает основу макроэкономической стабильности</segment>
+		<segment id="74" parent="75" relname="joint">и обеспечивает инвестиционную привлекательность российской экономики.\n\nИсточник: https://www.newsru.com/finance/04Mar2013/koudrine.html\n</segment>
+		<group id="67" type="multinuc" parent="77" relname="comparison"/>
+		<group id="43" type="span" parent="67" relname="joint"/>
+		<group id="39" type="multinuc" parent="42" relname="cause-effect"/>
+		<group id="33" type="span" parent="39" relname="joint"/>
+		<group id="32" type="multinuc" parent="27" relname="elaboration"/>
+		<group id="30" type="span" parent="32" relname="same-unit"/>
+		<group id="38" type="multinuc" parent="39" relname="joint"/>
+		<group id="37" type="multinuc" parent="38" relname="joint"/>
+		<group id="42" type="multinuc" parent="43" relname="span"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="54" type="multinuc" parent="66" relname="joint"/>
+		<group id="48" type="span" parent="54" relname="joint"/>
+		<group id="47" type="span" parent="44" relname="cause-effect"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="65" type="multinuc" parent="66" relname="joint"/>
+		<group id="59" type="span" parent="65" relname="joint"/>
+		<group id="57" type="span" parent="58" relname="purpose"/>
+		<group id="64" type="span" parent="65" relname="joint"/>
+		<group id="62" type="span" parent="64" relname="span"/>
+		<group id="76" type="multinuc" parent="77" relname="comparison"/>
+		<group id="72" type="multinuc" parent="76" relname="comparison"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="75" type="multinuc" parent="76" relname="comparison"/>
+		<group id="77" type="multinuc"/>
+	</body>
+</rst>

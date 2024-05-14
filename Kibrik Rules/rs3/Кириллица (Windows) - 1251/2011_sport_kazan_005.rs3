@@ -1,0 +1,80 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="36" relname="span">Судьи не позволили проиграть действующему чемпиону России по волейболу в 1/4 финала\n\nВолейболисты казанского \"Зенита\" со скандалом победили в пятом матче 1/4 финала чемпионата России ярославский \"Ярославич\" - 22:25, 28:26, 16:25, 25:17, 17:15.</segment>
+		<segment id="33" parent="35" relname="contrast">На тай-брейке действующий чемпион страны уступал 11:14,</segment>
+		<segment id="34" parent="35" relname="contrast">но в итоге выиграл встречу.\n\n\"Когда судьи берут на себя ответственность за результат,</segment>
+		<segment id="37" parent="36" relname="attribution">о чем тут можно говорить?</segment>
+		<segment id="39" parent="38" relname="attribution">- передает слова возмущенного тренера гостей Сергея Шляпникова \"Спорт-Экспресс\".</segment>
+		<segment id="41" parent="49" relname="joint">- Если арбитр некомпетентен</segment>
+		<segment id="42" parent="44" relname="span">или он предвзято судит,</segment>
+		<segment id="43" parent="42" relname="condition">если даже люди с другой стороны площадки подходят</segment>
+		<segment id="45" parent="46" relname="attribution">и говорят,</segment>
+		<segment id="46" parent="47" relname="span">что аута не было.</segment>
+		<segment id="50" parent="53" relname="solutionhood">Почему так происходит?</segment>
+		<segment id="51" parent="53" relname="joint">Потому что мы - Ярославль,</segment>
+		<segment id="52" parent="53" relname="joint">а по другую сторону сетки Казань?\n\nМы записали свое мнение в протокол.</segment>
+		<segment id="56" parent="62" relname="span">Но у нас ведь как обычно бывает:</segment>
+		<segment id="57" parent="61" relname="joint">результат оставят в силе,</segment>
+		<segment id="58" parent="60" relname="joint">а судей пожурят</segment>
+		<segment id="59" parent="60" relname="joint">или, может, даже накажут.</segment>
+		<segment id="63" parent="65" relname="span">Но господин Уваров просто оторвал нам голову.</segment>
+		<segment id="64" parent="63" relname="interpretation-evaluation">Так не должно быть.</segment>
+		<segment id="67" parent="70" relname="condition">Если мы играем в профессиональной лиге,</segment>
+		<segment id="70" parent="71" relname="span">нам нужны профессиональные судьи, чьи решения не влияли бы на результат.</segment>
+		<segment id="72" parent="71" relname="cause-effect">Ведь матч переигрывать не будут.</segment>
+		<segment id="74" parent="76" relname="contrast">Сделают какие-то выводы, вынесут наказания,</segment>
+		<segment id="75" parent="76" relname="contrast">но все это разговоры в пользу бедных.</segment>
+		<segment id="77" parent="79" relname="span">У нас по регламенту матч не переигрывается.</segment>
+		<segment id="78" parent="77" relname="elaboration">Люди, которые сидят на вышке, должны нести серьезную ответственность за свои решения.</segment>
+		<segment id="80" parent="86" relname="span">В пятой партии ведь был не один спорный эпизод, а три!\n\nМне уже пол-России позвонило поздравить с победой.</segment>
+		<segment id="81" parent="85" relname="contrast">Да парни, вы победили,</segment>
+		<segment id="82" parent="84" relname="span">но у вас забрали эту победу,</segment>
+		<segment id="83" parent="82" relname="cause-effect">мы с вами - вот что большинство моих коллег пишут мне по смс\".\n\nИсточник: https://www.newsru.com/sport/09Apr2011/kazan.html\n</segment>
+		<group id="40" type="span" parent="91" relname="preparation"/>
+		<group id="38" type="span" parent="40" relname="span"/>
+		<group id="36" type="span" parent="38" relname="span"/>
+		<group id="35" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="55" type="span" parent="91" relname="contrast"/>
+		<group id="49" type="multinuc" parent="55" relname="span"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="44" type="span" parent="48" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="54" type="span" parent="49" relname="evidence"/>
+		<group id="53" type="multinuc" parent="54" relname="span"/>
+		<group id="90" type="span" parent="91" relname="contrast"/>
+		<group id="66" type="multinuc" parent="90" relname="span"/>
+		<group id="62" type="span" parent="66" relname="contrast"/>
+		<group id="61" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="65" type="span" parent="66" relname="contrast"/>
+		<group id="89" type="multinuc" parent="66" relname="elaboration"/>
+		<group id="73" type="span" parent="89" relname="joint"/>
+		<group id="71" type="span" parent="73" relname="span"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="76" type="multinuc" parent="88" relname="span"/>
+		<group id="87" type="span" parent="76" relname="elaboration"/>
+		<group id="79" type="span" parent="87" relname="span"/>
+		<group id="86" type="span" parent="79" relname="elaboration"/>
+		<group id="85" type="multinuc" parent="80" relname="elaboration"/>
+		<group id="84" type="span" parent="85" relname="contrast"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

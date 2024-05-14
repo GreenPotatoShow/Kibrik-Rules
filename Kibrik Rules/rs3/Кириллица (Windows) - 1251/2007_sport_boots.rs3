@@ -1,0 +1,46 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="27" relname="sequence">Компании Adidas запретили продавать бутсы из кожи кенгуру\n\nПроизводитель спортивной обуви Adidas проиграл судебное разбирательство в Калифорнии.</segment>
+		<segment id="18" parent="26" relname="sequence">Верховный суд штата запретил немецкой фирме продажу футбольных бутс из кожи кенгуру,</segment>
+		<segment id="19" parent="22" relname="attribution">сообщает Deutsche Welle.\n\nПриговор, оглашенный 23 июля,</segment>
+		<segment id="20" parent="22" relname="span">отменяет более раннее решение суда низшей инстанции,</segment>
+		<segment id="21" parent="20" relname="elaboration">признавшего за Adidas право продажи бутс,</segment>
+		<segment id="24" parent="23" relname="attribution">сообщает информационное агентство АР.</segment>
+		<segment id="28" parent="32" relname="span">Судебный иск подала организация по защите животных Viva International Voice of Animals,</segment>
+		<segment id="29" parent="30" relname="attribution">мотивируя это тем,</segment>
+		<segment id="30" parent="31" relname="span">что очень часто в ходе отстрела кенгуру убивались и находящиеся под защитой виды сумчатых.\n\</segment>
+		<segment id="33" parent="34" relname="contrast">nОднако не исключено, что в ближайшее время запрет приговор суда утратит силу.</segment>
+		<segment id="35" parent="37" relname="span">В этом году Сенат Калифорнии принял закон,</segment>
+		<segment id="36" parent="35" relname="elaboration">разрешающий обработку кожи кенгуру.</segment>
+		<segment id="38" parent="44" relname="span">Ожидается, что уже в сентябре текущего года соответствующий законопроект поступит на рассмотрение в Конгресс.\n\nКожа кенгуру считается особенно легким, мягким и прочным материалом.</segment>
+		<segment id="39" parent="43" relname="span">Одним из поклонников футбольной обуви Adidas из кожи кенгуру долгие годы был Дэвид Бекхэм.</segment>
+		<segment id="40" parent="41" relname="attribution">В прошлом году британский игрок заявил о том,</segment>
+		<segment id="41" parent="42" relname="span">что собирается от них отказаться.\n\nИсточник: https://www.newsru.com/sport/25Jul2007/boots.html\n</segment>
+		<group id="27" type="multinuc" parent="47" relname="joint"/>
+		<group id="26" type="multinuc" parent="27" relname="sequence"/>
+		<group id="25" type="span" parent="26" relname="sequence"/>
+		<group id="23" type="span" parent="25" relname="span"/>
+		<group id="22" type="span" parent="23" relname="span"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="34" type="multinuc" parent="46" relname="joint"/>
+		<group id="32" type="span" parent="34" relname="contrast"/>
+		<group id="31" type="span" parent="28" relname="elaboration"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="37" type="span" parent="45" relname="joint"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="43" type="span" parent="38" relname="elaboration"/>
+		<group id="42" type="span" parent="39" relname="elaboration"/>
+		<group id="47" type="multinuc"/>
+	</body>
+</rst>

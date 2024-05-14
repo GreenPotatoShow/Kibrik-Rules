@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="purpose" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="29" relname="span">Беспорядки в центре Брюсселя:</segment>
+		<segment id="26" parent="28" relname="span">пьяные футбольные ультрас пришли \"почтить память\" жертв терактов\n\nВ центре Брюсселя полиция закрыла площадь Биржи,</segment>
+		<segment id="27" parent="26" relname="elaboration">где должен был пройти отмененный марш в память жертв терактов 22 марта.</segment>
+		<segment id="30" parent="31" relname="sequence">Туда, однако, пришли сотни людей с цветами и свечками.</segment>
+		<segment id="32" parent="38" relname="span">Однако затем туда переместилась несанкционированная акция футбольных болельщиков:</segment>
+		<segment id="33" parent="35" relname="span">около пяти сотен \"ультрас\" решили пройти маршем по центру бельгийской столицы,</segment>
+		<segment id="34" parent="33" relname="elaboration">выкрикивая угрозы в адрес исламистов.\n\n\"Интерфакс\" сообщает,</segment>
+		<segment id="36" parent="37" relname="span">что после закрытия площади Биржи полицейские стали эвакуировать с места людей.</segment>
+		<segment id="40" parent="43" relname="cause-effect">Тем временем подразделение по борьбе с массовыми беспорядками стало вытеснять из квартала одетых в черное футбольных фанатов.\n\nВВС сообщает,</segment>
+		<segment id="41" parent="43" relname="span">что полиция использовала водометы,</segment>
+		<segment id="42" parent="41" relname="purpose">чтобы разогнать буйных фанатов.\n\nБлижайшая к площади станция метро \"Брукер\" была закрыта.\n\</segment>
+		<segment id="45" parent="51" relname="span">nРанее около 450 футбольных болельщиков, одетых в черное,</segment>
+		<segment id="46" parent="50" relname="same-unit">некоторые с закрытыми лицами и в состоянии алкогольного опьянения,</segment>
+		<segment id="47" parent="48" relname="cause-effect">приехали в воскресенье на Северный вокзал Брюсселя,</segment>
+		<segment id="48" parent="49" relname="span">откуда переместились к бирже.</segment>
+		<segment id="53" parent="64" relname="attribution">Фанаты скандировали:</segment>
+		<segment id="54" parent="58" relname="joint">\"Бельгийские хулиганы,</segment>
+		<segment id="55" parent="57" relname="span">мы у себя дома!\"\n\nВ первой половине дня,</segment>
+		<segment id="56" parent="55" relname="concession">несмотря на отмену \"марша солидарности\",</segment>
+		<segment id="59" parent="63" relname="span">сотни людей направились в центр города,</segment>
+		<segment id="60" parent="61" relname="purpose">чтобы возложить цветы</segment>
+		<segment id="61" parent="62" relname="span">и зажечь свечи в память о жертвах взрывов в брюссельском аэропорту \"Завентем\" и станции \"Мальбек\".\n\nОфициально \"марш против страха\" был отменен после призывов МВД Бельгии не распылять ресурсы полиции во время расследования терактов.\n\nТеракты 22 марта стали самыми гибельными в Бельгии с 1945 года.</segment>
+		<segment id="66" parent="68" relname="span">Жертвами брюссельских терактов стали 28 человек,</segment>
+		<segment id="67" parent="66" relname="elaboration">ранены около 340 человек.\n\nИсточник: https://www.newsru.com/world/27Mar2016/brussels.html\n</segment>
+		<group id="39" type="multinuc" parent="71" relname="joint"/>
+		<group id="31" type="multinuc" parent="39" relname="sequence"/>
+		<group id="29" type="span" parent="31" relname="sequence"/>
+		<group id="28" type="span" parent="25" relname="elaboration"/>
+		<group id="38" type="span" parent="39" relname="sequence"/>
+		<group id="37" type="span" parent="32" relname="elaboration"/>
+		<group id="35" type="span" parent="36" relname="cause-effect"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="52" type="multinuc" parent="70" relname="joint"/>
+		<group id="44" type="span" parent="52" relname="sequence"/>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="51" type="span" parent="52" relname="sequence"/>
+		<group id="50" type="multinuc" parent="45" relname="elaboration"/>
+		<group id="49" type="span" parent="50" relname="same-unit"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="65" type="span" parent="69" relname="joint"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="58" type="multinuc" parent="64" relname="joint"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="62" type="span" parent="59" relname="purpose"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="71" type="multinuc"/>
+	</body>
+</rst>

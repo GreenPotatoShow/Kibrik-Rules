@@ -1,0 +1,35 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="14" relname="span">На Камчатке аннулирована регистрация \"Справедливой России\" на выборах в местное Заксобрание\n\nНа Камчатке региональной избирательной комиссией принято решение об аннулировании регистрации списка регионального отделения партии \"Справедливая Россия\"</segment>
+		<segment id="13" parent="12" relname="purpose">для участия в выборах в Законодательное собрание Камчатского края первого созыва.</segment>
+		<segment id="15" parent="17" relname="span">Об этом ИТАР-ТАСС сообщил зампредседателя избиркома Анатолий Гафиатулин.\n\nПричиной стал отказ более 50% внесенных в список партии кандидатов от участия в избирательной кампании,</segment>
+		<segment id="16" parent="15" relname="attribution">отметил он.</segment>
+		<segment id="19" parent="20" relname="condition">Если на первом этапе в партийный список были внесены 42 кандидата,</segment>
+		<segment id="20" parent="21" relname="span">то к сегодняшнему дню 23 из них официально отказались от регистрации.</segment>
+		<segment id="22" parent="23" relname="span">Таким образом, за места в законодательном собрании Камчатского края будут бороться кандидаты от трех партий - \"Единая Россия\", КПРФ и ЛДПР.\n\nВыборы в региональный парламент на Камчатке пройдут одновременно с выборами в Государственную Думу в декабре.</segment>
+		<segment id="24" parent="30" relname="joint">В состав местного законодательного органа войдут 50 депутатов.</segment>
+		<segment id="25" parent="29" relname="joint">27 из них будут избираться по единому краевому округу по пропорциональной системе, 13 - по одномандатным округам.</segment>
+		<segment id="26" parent="28" relname="joint">Еще 10 депутатских мандатов гарантируются представителям Корякского автономного округа - административно-территориальной единицы с особым статусом.\n\nРеферендум с вопросом об объединении Корякского автономного округа и Камчатской области в Камчатский край прошел 23 октября 2005 года.</segment>
+		<segment id="27" parent="28" relname="joint">За слияние высказалось абсолютное большинство жителей области и автономии.\n\nИсточник: https://www.newsru.com/russia/13Nov2007/spravv.html\n</segment>
+		<group id="18" type="span" parent="32" relname="joint"/>
+		<group id="14" type="span" parent="17" relname="cause-effect"/>
+		<group id="17" type="span" parent="18" relname="span"/>
+		<group id="31" type="multinuc" parent="32" relname="joint"/>
+		<group id="23" type="span" parent="31" relname="joint"/>
+		<group id="21" type="span" parent="22" relname="cause-effect"/>
+		<group id="30" type="multinuc" parent="31" relname="joint"/>
+		<group id="29" type="multinuc" parent="30" relname="joint"/>
+		<group id="28" type="multinuc" parent="29" relname="joint"/>
+		<group id="32" type="multinuc"/>
+	</body>
+</rst>

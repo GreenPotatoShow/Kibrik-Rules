@@ -1,0 +1,28 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="11" relname="span">Лужков по распоряжению Путина стал самым мудрым россиянином\n\nМэр Москвы Юрий Лужков распоряжением президента России назначен председателем российской части \"Совета мудрецов\".\n\n\"В целях реализации проекта содействия развитию отношений между Российской Федерацией и Японией \"Совет мудрецов\" назначить мэра Москвы Юрия Лужкова председателем российской части Совета\",</segment>
+		<segment id="10" parent="9" relname="attribution">- говорится в тексте распоряжения главы российского государства.</segment>
+		<segment id="12" parent="20" relname="joint">С японской стороны Совет возглавит бывший премьер Иосиро Мори.\n\nРанее Путин, объясняя свой выбор,</segment>
+		<segment id="13" parent="18" relname="attribution">отметил,</segment>
+		<segment id="14" parent="18" relname="span">что у Юрия Лужкова хорошие отношения с японской стороной, хорошие личные контакты и \"он подходит к решению всех сложных вопросов,</segment>
+		<segment id="15" parent="17" relname="joint">учитывая государственные интересы\".\n\nРаспоряжением также поручается Юрию Лужкову \"по согласованию с Администрацией президента и МИД России сформировать состав российской части Совета</segment>
+		<segment id="16" parent="17" relname="joint">и подготовить предложения по организации деятельности Совета\",</segment>
+		<segment id="21" parent="22" relname="joint">сообщает РИА \"Новости\".\n\nРешение о создание \"Совета мудрецов\" было озвучено на встрече президента России Владимира Путина и премьер-министра Японии Дзюнъитиро Коидзуми в Бангкоке в октябре этого года в ходе саммита АТЭС.\n\nИсточник: https://www.newsru.com/russia/17Dec2003/nazn.html\n</segment>
+		<group id="11" type="span" parent="23" relname="joint"/>
+		<group id="22" type="multinuc" parent="23" relname="joint"/>
+		<group id="20" type="multinuc" parent="22" relname="joint"/>
+		<group id="19" type="span" parent="20" relname="joint"/>
+		<group id="18" type="span" parent="19" relname="span"/>
+		<group id="17" type="multinuc" parent="14" relname="cause-effect"/>
+		<group id="23" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,25 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="7" parent="11" relname="sequence">В пригороде Архангельска в результате аварии произошел выброс хлора\n\nВ поселке пригороде Архангельска Зеленый Бор в результате аварии на водоочистных сооружений произошла утечка паров хлора.\n\nОтравление средней тяжести получил работавший на смене оператор.</segment>
+		<segment id="8" parent="10" relname="span">В настоящее время он доставлен в городскую больницу Новодвинска (Архангельская область),</segment>
+		<segment id="9" parent="8" relname="background">сообщил \"Интерфаксу\" оперативный дежурный Главного управления ГО и ЧС Архангельской области.\n\</segment>
+		<segment id="12" parent="15" relname="attribution">nПо его словам,</segment>
+		<segment id="13" parent="15" relname="span">спасателям уже удалось ликвидировать аварию,</segment>
+		<segment id="14" parent="13" relname="elaboration">которая произошла по причине износа оборудования.\n\nПо предварительным данным в атмосферу попало свыше 100 кг хлора.\n\nИсточник: https://www.newsru.com/russia/10Nov2003/hlor.html\n</segment>
+		<group id="11" type="multinuc" parent="17" relname="joint"/>
+		<group id="10" type="span" parent="11" relname="sequence"/>
+		<group id="16" type="span" parent="17" relname="joint"/>
+		<group id="15" type="span" parent="16" relname="span"/>
+		<group id="17" type="multinuc"/>
+	</body>
+</rst>

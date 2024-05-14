@@ -1,0 +1,73 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="30" relname="condition">Алексей Рощин: \"Очень странные дела творятся в Европе\"\n\n\"А в Испании, я смотрю,</segment>
+		<segment id="30" parent="31" relname="span">решили попросту пересажать всех своих \"сепаратистов\".</segment>
+		<segment id="32" parent="50" relname="span">Причем сроки-то какие все - недетские: 10 лет, 12 лет...</segment>
+		<segment id="33" parent="37" relname="span">То есть, то были реально ИЗБРАННЫЕ политики,</segment>
+		<segment id="34" parent="36" relname="span">даже не аналог тех же Волкова с Навальным</segment>
+		<segment id="35" parent="34" relname="elaboration">(которым просто не дают никуда избираться);</segment>
+		<segment id="38" parent="42" relname="span">нет, эти в Каталонии были избраны,</segment>
+		<segment id="39" parent="41" relname="span">занимали серьезные посты,</segment>
+		<segment id="40" parent="39" relname="cause-effect">именно в качестве представителей региональной власти готовили все эти референдумы о независимости...</segment>
+		<segment id="44" parent="46" relname="joint">И именно за это их сейчас судит</segment>
+		<segment id="45" parent="46" relname="joint">и сажает испанский суд</segment>
+		<segment id="47" parent="46" relname="elaboration">!\" - пишет социальный психолог в \"Живом журнале\".\n\n</segment>
+		<segment id="51" parent="57" relname="span">\"Тут ведь один крайне любопытный нюанс:</segment>
+		<segment id="52" parent="54" relname="span">данные политики ведь не скрывали своих намерений</segment>
+		<segment id="53" parent="52" relname="cause-effect">- они именно с такой программой - \"бороться за независимость!\" - шли на выборы.</segment>
+		<segment id="55" parent="56" relname="joint">И - за них проголосовали.</segment>
+		<segment id="58" parent="80" relname="span">А теперь суд объявляет это преступлением.</segment>
+		<segment id="61" parent="63" relname="span">Но ведь тогда, строго говоря, суд объявляет преступниками и всех избирателей в Каталонии - чисто по логике?\n\nПучдемон и вся его веселая братия могут ведь сказать - \"мы просто выполняли волю своих избирателей\".</segment>
+		<segment id="62" parent="61" relname="interpretation-evaluation">И будут правы!\n\nОчень странные дела творятся в Европе.</segment>
+		<segment id="64" parent="66" relname="span">Хотя стоит отметить, что такие конфузы случаются практически всегда,</segment>
+		<segment id="65" parent="64" relname="condition">когда заходит речь о пресловутом \"праве наций на самоопределение\".</segment>
+		<segment id="67" parent="69" relname="contrast">Уж очень тут скользкие формулировки,</segment>
+		<segment id="68" parent="69" relname="contrast">а на самом деле - изначально встроенное и неустранимое противоречие.</segment>
+		<segment id="70" parent="76" relname="joint">С одной стороны - \"государственная целостность\" и \"борьба с сепаратизмом\", с другой - то самое \"право наций\".</segment>
+		<segment id="71" parent="75" relname="contrast">И общих правил, как это согласовывать между собой - нет.\n\</segment>
+		<segment id="72" parent="74" relname="span">nА впереди ведь еще и попытки Шотландии отделиться от Британии!</segment>
+		<segment id="73" parent="72" relname="elaboration">Будет интересно\".\n\nИсточник: https://www.newsru.com/blog/17Oct2019/spain.html\n</segment>
+		<group id="31" type="span" parent="82" relname="preparation"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="50" type="span" parent="82" relname="joint"/>
+		<group id="49" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="43" type="multinuc" parent="49" relname="joint"/>
+		<group id="37" type="span" parent="43" relname="same-unit"/>
+		<group id="36" type="span" parent="33" relname="elaboration"/>
+		<group id="42" type="span" parent="43" relname="same-unit"/>
+		<group id="41" type="span" parent="38" relname="cause-effect"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="46" type="multinuc" parent="48" relname="span"/>
+		<group id="81" type="multinuc" parent="82" relname="joint"/>
+		<group id="57" type="span" parent="81" relname="contrast"/>
+		<group id="56" type="multinuc" parent="51" relname="elaboration"/>
+		<group id="54" type="span" parent="56" relname="joint"/>
+		<group id="80" type="span" parent="81" relname="contrast"/>
+		<group id="79" type="span" parent="58" relname="cause-effect"/>
+		<group id="63" type="span" parent="79" relname="span"/>
+		<group id="78" type="span" parent="63" relname="concession"/>
+		<group id="66" type="span" parent="78" relname="span"/>
+		<group id="77" type="span" parent="66" relname="evidence"/>
+		<group id="69" type="multinuc" parent="77" relname="span"/>
+		<group id="76" type="multinuc" parent="69" relname="elaboration"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="74" type="span" parent="75" relname="contrast"/>
+		<group id="83" type="span"/>
+	</body>
+</rst>

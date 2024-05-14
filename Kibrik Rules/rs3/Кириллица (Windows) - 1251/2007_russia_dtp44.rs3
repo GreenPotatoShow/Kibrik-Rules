@@ -1,0 +1,89 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="37" parent="39" relname="joint">В центре Москвы Mazda сбила двух детей,</segment>
+		<segment id="38" parent="39" relname="joint">женщина-водитель задержана\n\nВ центре Москвы машина сбила двух детей.</segment>
+		<segment id="40" parent="46" relname="span">Милиция установила личность женщины,</segment>
+		<segment id="41" parent="45" relname="same-unit">которая днем,</segment>
+		<segment id="42" parent="43" relname="cause-effect">находясь за рулем автомобиля Mazda бежевого цвета,</segment>
+		<segment id="43" parent="44" relname="span">совершила наезд на мальчиков.</segment>
+		<segment id="48" parent="50" relname="span">Женщина задержана,</segment>
+		<segment id="49" parent="48" relname="attribution">сообщили \"Интерфаксу\" в пресс-службе ГИБДД столицы.\n\nВ 15:00 у дома 14 в 3-м Самотечном переулке автомобиль Mazda сбил двух мальчиков.</segment>
+		<segment id="51" parent="52" relname="span">В результате один из них 8 лет был госпитализирован с черепно-мозговой травмой.</segment>
+		<segment id="53" parent="57" relname="span">Второй ребенок отделался легким испугом,</segment>
+		<segment id="54" parent="55" relname="attribution">медицинская помощь ему оказана на месте.\n\nВ ГИБДД рассказали,</segment>
+		<segment id="55" parent="56" relname="span">что очевидцы происшествия запомнили номер автомобиля, который скрылся с места происшествия.</segment>
+		<segment id="60" parent="76" relname="sequence">Вскоре было установлено, что машина принадлежит женщине 1972 года рождения.</segment>
+		<segment id="61" parent="64" relname="condition">Позвонив ей по мобильному телефону,</segment>
+		<segment id="62" parent="63" relname="attribution">сотрудники правоохранительных органов убедили</segment>
+		<segment id="63" parent="64" relname="span">женщину вернуться на место ДТП,</segment>
+		<segment id="66" parent="69" relname="attribution">что она и сделала.\n\nСобеседник агентства сказал,</segment>
+		<segment id="67" parent="69" relname="joint">что в данный момент выясняются обстоятельства происшествия,</segment>
+		<segment id="68" parent="69" relname="joint">опрашиваются свидетели, в том числе и дети.</segment>
+		<segment id="71" parent="73" relname="sequence">Неподалеку располагается школа,</segment>
+		<segment id="72" parent="73" relname="sequence">видимо пострадавшие мальчики возвращались из нее домой.\n\nАналогичный случай произошел во вторник.</segment>
+		<segment id="78" parent="80" relname="joint">В центре Москвы на Мытной улице женщина сбила коляску с пятимесячным ребенком</segment>
+		<segment id="79" parent="80" relname="joint">и также скрылась с места происшествия,</segment>
+		<segment id="81" parent="82" relname="contrast">но позже ее удалось задержать.\n\nВодителем машины KIA оказалась 27-летняя жительница Липецкой области.</segment>
+		<segment id="83" parent="85" relname="sequence">Она временно зарегистрирована на территории Южного административного округа столицы,</segment>
+		<segment id="84" parent="85" relname="sequence">приехала в Москву на заработки.\n\nВ марте этого года во дворе дома номер один на улице Теплый Стан автомашина ВАЗ-21099 сбила коляску, в которой находился ребенок.</segment>
+		<segment id="87" parent="93" relname="same-unit">Водитель,</segment>
+		<segment id="88" parent="92" relname="joint">не останавливаясь,</segment>
+		<segment id="89" parent="91" relname="joint">скрылся с места происшествия,</segment>
+		<segment id="90" parent="91" relname="joint">при этом коляска зацепилась за автомобиль.</segment>
+		<segment id="94" parent="96" relname="span">Коляску протащило больше двух километров.</segment>
+		<segment id="95" parent="94" relname="elaboration">От полученных травм ребенок, которому был год и три месяца, скончался.\n\</segment>
+		<segment id="97" parent="103" relname="joint">nВ июле Черемушкинский суд Москвы приговорил к трем годам заключения водителя \"Жигулей\" Дениса Толстикова.</segment>
+		<segment id="98" parent="102" relname="joint">Ему инкриминировалась часть 2 статьи 264 УК РФ (нарушение лицом, управляющим автомобилем, правил дорожного движения,</segment>
+		<segment id="99" parent="101" relname="joint">повлекшее по неосторожности смерть человека).</segment>
+		<segment id="100" parent="101" relname="joint">Суд также взыскал с Толстикова в пользу потерпевших 250 тысяч рублей в качестве компенсации морального вреда.\n\nИсточник: https://www.newsru.com/russia/26Sep2007/dtp44.html\n</segment>
+		<group id="77" type="multinuc" parent="107" relname="sequence"/>
+		<group id="59" type="multinuc" parent="77" relname="sequence"/>
+		<group id="47" type="multinuc" parent="59" relname="sequence"/>
+		<group id="39" type="multinuc" parent="47" relname="sequence"/>
+		<group id="46" type="span" parent="47" relname="sequence"/>
+		<group id="45" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="44" type="span" parent="45" relname="same-unit"/>
+		<group id="58" type="multinuc" parent="59" relname="sequence"/>
+		<group id="52" type="span" parent="58" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="cause-effect"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="56" type="span" parent="53" relname="elaboration"/>
+		<group id="76" type="multinuc" parent="77" relname="sequence"/>
+		<group id="75" type="span" parent="76" relname="sequence"/>
+		<group id="65" type="span" parent="74" relname="condition"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="74" type="multinuc" parent="75" relname="span"/>
+		<group id="70" type="span" parent="74" relname="joint"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="106" type="multinuc" parent="107" relname="sequence"/>
+		<group id="86" type="multinuc" parent="106" relname="joint"/>
+		<group id="82" type="multinuc" parent="86" relname="sequence"/>
+		<group id="80" type="multinuc" parent="82" relname="contrast"/>
+		<group id="85" type="multinuc" parent="86" relname="sequence"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="93" type="multinuc" parent="105" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="same-unit"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="104" type="multinuc" parent="105" relname="joint"/>
+		<group id="96" type="span" parent="104" relname="joint"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="101" type="multinuc" parent="102" relname="joint"/>
+		<group id="107" type="multinuc"/>
+	</body>
+</rst>

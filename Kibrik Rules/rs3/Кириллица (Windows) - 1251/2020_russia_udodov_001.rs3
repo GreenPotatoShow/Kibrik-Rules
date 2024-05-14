@@ -1,0 +1,244 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="112" parent="118" relname="sequence">Сестра премьер-министра Мишустина оформила развод с бизнесменом Удодовым, причастным к крупнейшей махинации с НДС\n\nОрганы ЗАГС Москвы расторгли брак между бизнесменом Александром Удодовым и Натальей Стениной, сестрой премьер-министра РФ Михаила Мишустина.</segment>
+		<segment id="113" parent="117" relname="span">Удодов имеет отношение к делу об отмывании миллиардов рублей,</segment>
+		<segment id="114" parent="116" relname="joint">похищенных из бюджета путем махинаций с возвратом НДС.\n\n\"18 декабря органы ЗАГС Москвы рассмотрели поданное месяц назад заявление</segment>
+		<segment id="115" parent="116" relname="joint">и зарегистрировали расторжение брака между бизнесменом Удодовым и Стениной, сестрой премьера Мишустина\",</segment>
+		<segment id="119" parent="123" relname="joint">- сообщил \"Интерфаксу\" источник в Москве.\n\nУдодов подтвердил агентству факт развода</segment>
+		<segment id="120" parent="121" relname="attribution">и пояснил,</segment>
+		<segment id="121" parent="122" relname="span">что развод произошел по взаимному согласию.</segment>
+		<segment id="125" parent="126" relname="attribution">По его словам,</segment>
+		<segment id="126" parent="127" relname="span">все имущественные вопросы были урегулированы по соглашению сторон.\n\nСовместных детей у Стениной и Удодова не было.\n\nРасторжение брака произошло на фоне скандала, в центре которого оказался уже бывший зять главы правительства.</segment>
+		<segment id="128" parent="132" relname="span">Александр Удодов подозревается в причастности к крупнейшей махинации с НДС в российской истории на сумму в 5,2 млрд рублей,</segment>
+		<segment id="129" parent="131" relname="span">известной как дело Сергея Данилочкина,</segment>
+		<segment id="130" parent="129" relname="background">сообщали \"Открытые медиа\" .</segment>
+		<segment id="134" parent="138" relname="joint">Реального наказания по этому делу не понес почти никто,</segment>
+		<segment id="135" parent="137" relname="sequence">а деньги были через офшоры вложены в проекты, принадлежащие Удодову.\n\nМахинации на 5,2 млрд рублей продолжались в 2009-2010 годах,</segment>
+		<segment id="136" parent="137" relname="sequence">к ним была причастна небольшая аудиторская фирма \"Волтер Волс\", принадлежащая Сергею Данилочкину.</segment>
+		<segment id="139" parent="149" relname="sequence">Бухгалтеры фирмы заполняли первичную документацию,</segment>
+		<segment id="140" parent="148" relname="sequence">вели учет в системе 1С,</segment>
+		<segment id="141" parent="143" relname="joint">юристы создавали</segment>
+		<segment id="142" parent="143" relname="joint">или покупали фирмы с номинальным учредителями</segment>
+		<segment id="144" parent="146" relname="joint">и готовили договоры,</segment>
+		<segment id="145" parent="146" relname="joint">а экономисты выводили похищенные деньги через счета подставных фирм в системе \"Банк-клиент\".</segment>
+		<segment id="151" parent="155" relname="span">Склады компаний, участвующих в махинациях, проверялись коррумпированными сотрудниками МВД,</segment>
+		<segment id="152" parent="154" relname="span">которые составляли акт осмотра товара,</segment>
+		<segment id="153" parent="152" relname="condition">не выходя из своего кабинета.\n\</segment>
+		<segment id="156" parent="155" relname="elaboration">nУчастники аферы брали реквизиты реальных импортеров и описание товара,</segment>
+		<segment id="158" parent="160" relname="span">а затем готовили подложные бумаги,</segment>
+		<segment id="159" parent="158" relname="elaboration">согласно которым этот импортный товар был продан неким фирмам, являвшимся \"однодневками\".</segment>
+		<segment id="162" parent="166" relname="span">Товар якобы находился у них на складе,</segment>
+		<segment id="163" parent="164" relname="cause-effect">и поскольку он не был реализован в текущем налоговом периоде,</segment>
+		<segment id="164" parent="165" relname="span">\"однодневки\" получали право на возмещение многомиллионных сумм НДС из бюджета.</segment>
+		<segment id="168" parent="170" relname="span">При этом другие компании могли добиться такого возмещения лишь через суд.\n\</segment>
+		<segment id="169" parent="168" relname="elaboration">nПри этом в работе фирмы имелся ряд странностей.</segment>
+		<segment id="171" parent="170" relname="elaboration">Так, коллективу каждый месяц выдавались новые \"чистые\" сим-карты.</segment>
+		<segment id="174" parent="176" relname="span">По утрам отдельный сотрудник выносил бухгалтерам нужные</segment>
+		<segment id="175" parent="174" relname="purpose">для работы в течение дня печати компаний,</segment>
+		<segment id="177" parent="185" relname="span">а вечером прятал их в специальном помещении.</segment>
+		<segment id="178" parent="184" relname="joint">Часть работников сидела не в офисе, а на съемных квартирах.</segment>
+		<segment id="179" parent="183" relname="contrast">В разговорах сотрудники зачастую использовали систему кодировок,</segment>
+		<segment id="180" parent="182" relname="span">а в офисе стоял большой шредер,</segment>
+		<segment id="181" parent="180" relname="purpose">способный уничтожить не только бумагу, но даже оргтехнику.</segment>
+		<segment id="187" parent="203" relname="span">Наконец, в одном из офисных шкафов был оборудован потайной ход, ведущий в заводской цех.\n\nВыводом похищенных денег из России занимался \"Кредитимпэксбанк\":</segment>
+		<segment id="188" parent="190" relname="joint">из 5,2 млрд рублей за границу ушло 2 млрд,</segment>
+		<segment id="189" parent="190" relname="joint">и половина из них - в адрес турецких компаний.</segment>
+		<segment id="191" parent="193" relname="span">Фактическим владельцем \"Кредитимпэксбанка\" был Алексей Куликов,</segment>
+		<segment id="192" parent="191" relname="elaboration">которого \"крышевал\" полковник ФСБ Дмитрий Фролов,</segment>
+		<segment id="194" parent="193" relname="background">курировавший всю банковскую сферу.</segment>
+		<segment id="196" parent="200" relname="joint">После того, как Фролов был уволен из органов</segment>
+		<segment id="199" parent="200" relname="joint">и арестован, \"Кредитимпэксбанк\" потерял лицензию.</segment>
+		<segment id="205" parent="206" relname="attribution">В 2017 году Алексей Куликов также был осужден</segment>
+		<segment id="206" parent="207" relname="span">за выдачу фиктивных кредитов подконтрольным компаниям через принадлежавший ему Промсбербанк.\n\nДело Данилочкина было возбуждено 8 декабря 2010 года,</segment>
+		<segment id="208" parent="209" relname="sequence">а в марте 2011 года в офисе фирмы был проведен обыск.</segment>
+		<segment id="210" parent="215" relname="attribution">По версии следствия,</segment>
+		<segment id="211" parent="215" relname="joint">за 2009?2010 годы аферисты подали декларации от имени 11 подставных фирм,</segment>
+		<segment id="212" parent="214" relname="joint">похитив из бюджета 5,2 млрд рублей.\n\nПервыми по делу \"Волтер Волс\" были осуждены налоговые инспекторы и сотрудники милиции,</segment>
+		<segment id="213" parent="214" relname="joint">фиктивно осмотревшие склады.</segment>
+		<segment id="217" parent="216" relname="elaboration">Их обвинили в превышении должностных полномочий,</segment>
+		<segment id="219" parent="220" relname="contrast">однако некоторые из них отделались довольно легкими наказаниями благодаря амнистиям и УДО.</segment>
+		<segment id="222" parent="233" relname="preparation">Трое осужденных по основному делу работников \"Волтер Волс\" получили сроки от 2,5 до 5,5 лет.</segment>
+		<segment id="223" parent="225" relname="span">Самый суровый приговор - 10 лет колонии - был вынесен в отношении Сергея Данилочкина,</segment>
+		<segment id="224" parent="223" relname="background">покинувшего Россию еще осенью 2010 года.</segment>
+		<segment id="226" parent="232" relname="joint">Дело было завершено в 2016 году,</segment>
+		<segment id="227" parent="230" relname="cause-effect">и реального наказания за крупнейшее в истории России хищение НДС не понесли ни банкиры, ни инспекторы ИФНС, ни вышестоящие налоговики или правоохранители.\n\nСам Данилочкин утверждает,</segment>
+		<segment id="228" parent="230" relname="span">что уехал из страны после того, как на него были дважды совершены покушения</segment>
+		<segment id="229" parent="228" relname="cause-effect">из-за конфликта с бизнесменом Андреем Бруевичем.</segment>
+		<segment id="235" parent="237" relname="span">\"Бруевич требовал,</segment>
+		<segment id="236" parent="235" relname="purpose">чтобы я взял на аудиторское обслуживание две его фирмы,</segment>
+		<segment id="238" parent="240" relname="span">а я отказался,</segment>
+		<segment id="239" parent="238" relname="condition">когда увидел, что там незаконное возмещение НДС\",</segment>
+		<segment id="242" parent="241" relname="attribution">- заявил Данилочкин.</segment>
+		<segment id="246" parent="249" relname="attribution">Он также заявил,</segment>
+		<segment id="247" parent="249" relname="joint">что Удодов \"играл в деле важную роль\"</segment>
+		<segment id="248" parent="249" relname="joint">и \"держит монополию на близость к Мишустину\",</segment>
+		<segment id="251" parent="252" relname="contrast">однако был допрошен только как свидетель.</segment>
+		<segment id="253" parent="261" relname="same-unit">Кроме того,</segment>
+		<segment id="254" parent="259" relname="attribution">по словам Данилочкина,</segment>
+		<segment id="255" parent="259" relname="span">ранее по этой же схеме были украдены сотни миллиардов рублей.\n\</segment>
+		<segment id="256" parent="258" relname="comparison">nВ 2012 году Удодов перевел 3 млн евро с личного счёта в Швейцарии офшору с Британских Виргинских островов,</segment>
+		<segment id="257" parent="258" relname="comparison">а офшор, в свою очередь, пополнил на 3 млн евро счет VG Cargo.</segment>
+		<segment id="262" parent="263" relname="attribution">В Германии сочли,</segment>
+		<segment id="263" parent="264" relname="span">что операции сильно похожи на отмывание денег,</segment>
+		<segment id="265" parent="266" relname="joint">и возбудили в 2013 году уголовное дело против Удодова и одного из управляющих директоров VG Cargo.</segment>
+		<segment id="268" parent="279" relname="attribution">Получив ответы из России о деле,</segment>
+		<segment id="269" parent="278" relname="attribution">по которому Удодов проходит свидетелем немецкие следователи сочли,</segment>
+		<segment id="270" parent="278" relname="comparison">что всплеск по счетам VG Cargo может быть попыткой отмыть криминальные деньги.\n\</segment>
+		<segment id="271" parent="273" relname="joint">nМежду тем выяснилось, что в период аферы с НДС и сразу после нее немецкая фирма VG Cargo и кипрская Dervinia Limited,</segment>
+		<segment id="272" parent="273" relname="joint">также ранее принадлежавшая Удодову, вложили в российские и иностранные проекты более $70 млн или более 5 млрд рублей по курсу на декабрь 2020 года.</segment>
+		<segment id="274" parent="276" relname="joint">Dervinia \"занималась\" тем, что брала займы у других кипрских и офшорных фирм</segment>
+		<segment id="275" parent="276" relname="joint">и выдавала их российским компаниям Удодова, занимавшимся недвижимостью.\n\nВ 2009-2011 годах, во время и сразу после аферы с НДС,</segment>
+		<segment id="281" parent="285" relname="span">Dervinia была особенно активна:</segment>
+		<segment id="282" parent="283" relname="condition">если на конец 2008 года сумма полученных ей займов и иных вложений составляла 436 000 евро,</segment>
+		<segment id="283" parent="284" relname="span">то на конец 2011-го - уже 4,6 млн евро.</segment>
+		<segment id="286" parent="292" relname="span">Dervinia получала займы от другой кипрской компании - Newent Finance Limited,</segment>
+		<segment id="287" parent="291" relname="joint">бенефициаром которой также был Удодов</segment>
+		<segment id="288" parent="290" relname="span">и которая также инвестировала в российские проекты.\n\nСамый примечательный из них - один из крупнейших и мощнейших в России дата-центров GreenBushDC под Зеленоградом,</segment>
+		<segment id="289" parent="288" relname="elaboration">который наполовину принадлежит Удодову через подставную компанию.</segment>
+		<segment id="295" parent="299" relname="span">Еще 600 млн рублей в дата-центр инвестировала другая кипрская компания Dekvont Assosiates Limited,</segment>
+		<segment id="296" parent="298" relname="joint">которая также получала деньги от офшоров</segment>
+		<segment id="297" parent="298" relname="joint">и вкладывала их в российские компании Удодова.\n\nЕще одна компания, интересовавшая немецких следователей - Modern Time Finance Corp. (BVI).</segment>
+		<segment id="300" parent="299" relname="elaboration">В России этот офшор владел фирмой \"Гарантия\",</segment>
+		<segment id="302" parent="304" relname="span">она в 2007 году купила особняк на Тверском бульваре,</segment>
+		<segment id="303" parent="302" relname="background">где располагался ресторан \"Недальний Восток\",</segment>
+		<segment id="305" parent="306" relname="sequence">принадлежавший Аркадию Новикову, Александру Удодову и сестре Мишустина Наталии Стениной.</segment>
+		<segment id="308" parent="312" relname="sequence">Удодову также некоторое время принадлежало ООО \"Комплектинвестстрой\", впоследствии \"поделенное\" между Modern Time и офшором Motion Finance Ltd.</segment>
+		<segment id="309" parent="311" relname="sequence">В 2011 году Motion Finance приобрел две квартиры на Пречистенской набережной, по соседству с которыми находилась квартира отца коррумпированного полковника МВД Дмитрия Захарченко:</segment>
+		<segment id="310" parent="311" relname="sequence">с ним был хорошо знаком и Удодов.\n\nЕще одним бизнес-партнером Modern Time стал офшор Kopre Ltd с Британских Виргинских островов.</segment>
+		<segment id="314" parent="313" relname="elaboration">Эти два офшора вместе купили в 2009 году \"Ивановское предприятие промышленного железнодорожного транспорта N 1\".</segment>
+		<segment id="316" parent="322" relname="sequence">Кроме того, Kopre некоторое время владел дата-центром под Зеленоградом,</segment>
+		<segment id="317" parent="321" relname="span">а осенью 2010 года приобрел две квартиры в Хамовниках,</segment>
+		<segment id="318" parent="320" relname="sequence">которые впоследствии выкупил ресторатор Аркадий Новиков,</segment>
+		<segment id="319" parent="320" relname="sequence">а затем - сыновья Михаила Мишустина Алексей и Александр.\n\nИсточник: https://www.newsru.com/russia/18Dec2020/udodov.html\n</segment>
+		<group id="124" type="span" parent="331" relname="preparation"/>
+		<group id="118" type="multinuc" parent="124" relname="span"/>
+		<group id="117" type="span" parent="118" relname="sequence"/>
+		<group id="116" type="multinuc" parent="113" relname="elaboration"/>
+		<group id="123" type="multinuc" parent="118" relname="attribution"/>
+		<group id="122" type="span" parent="123" relname="joint"/>
+		<group id="331" type="span" parent="332" relname="span"/>
+		<group id="133" type="multinuc" parent="330" relname="preparation"/>
+		<group id="127" type="span" parent="133" relname="joint"/>
+		<group id="132" type="span" parent="133" relname="joint"/>
+		<group id="131" type="span" parent="128" relname="attribution"/>
+		<group id="330" type="multinuc" parent="331" relname="span"/>
+		<group id="150" type="multinuc" parent="330" relname="joint"/>
+		<group id="138" type="multinuc" parent="150" relname="joint"/>
+		<group id="137" type="multinuc" parent="138" relname="joint"/>
+		<group id="149" type="multinuc" parent="150" relname="joint"/>
+		<group id="148" type="multinuc" parent="149" relname="sequence"/>
+		<group id="147" type="multinuc" parent="148" relname="sequence"/>
+		<group id="143" type="multinuc" parent="147" relname="joint"/>
+		<group id="146" type="multinuc" parent="147" relname="joint"/>
+		<group id="329" type="multinuc" parent="330" relname="joint"/>
+		<group id="173" type="multinuc" parent="329" relname="joint"/>
+		<group id="167" type="multinuc" parent="173" relname="joint"/>
+		<group id="161" type="multinuc" parent="167" relname="joint"/>
+		<group id="157" type="span" parent="161" relname="sequence"/>
+		<group id="155" type="span" parent="157" relname="span"/>
+		<group id="154" type="span" parent="151" relname="elaboration"/>
+		<group id="160" type="span" parent="161" relname="sequence"/>
+		<group id="166" type="span" parent="167" relname="joint"/>
+		<group id="165" type="span" parent="162" relname="cause-effect"/>
+		<group id="172" type="span" parent="173" relname="joint"/>
+		<group id="170" type="span" parent="172" relname="span"/>
+		<group id="328" type="multinuc" parent="329" relname="joint"/>
+		<group id="204" type="multinuc" parent="328" relname="joint"/>
+		<group id="186" type="multinuc" parent="204" relname="joint"/>
+		<group id="176" type="span" parent="186" relname="sequence"/>
+		<group id="185" type="span" parent="186" relname="sequence"/>
+		<group id="184" type="multinuc" parent="177" relname="elaboration"/>
+		<group id="183" type="multinuc" parent="184" relname="joint"/>
+		<group id="182" type="span" parent="183" relname="contrast"/>
+		<group id="203" type="span" parent="204" relname="joint"/>
+		<group id="202" type="span" parent="187" relname="elaboration"/>
+		<group id="190" type="multinuc" parent="202" relname="span"/>
+		<group id="201" type="multinuc" parent="190" relname="elaboration"/>
+		<group id="195" type="span" parent="201" relname="sequence"/>
+		<group id="193" type="span" parent="195" relname="span"/>
+		<group id="200" type="multinuc" parent="201" relname="sequence"/>
+		<group id="327" type="multinuc" parent="328" relname="joint"/>
+		<group id="245" type="multinuc" parent="327" relname="joint"/>
+		<group id="221" type="multinuc" parent="245" relname="joint"/>
+		<group id="209" type="multinuc" parent="221" relname="joint"/>
+		<group id="207" type="span" parent="209" relname="sequence"/>
+		<group id="220" type="multinuc" parent="221" relname="joint"/>
+		<group id="218" type="span" parent="220" relname="contrast"/>
+		<group id="216" type="span" parent="218" relname="span"/>
+		<group id="215" type="multinuc" parent="216" relname="span"/>
+		<group id="214" type="multinuc" parent="215" relname="joint"/>
+		<group id="244" type="span" parent="245" relname="joint"/>
+		<group id="234" type="span" parent="244" relname="span"/>
+		<group id="233" type="multinuc" parent="234" relname="span"/>
+		<group id="225" type="span" parent="233" relname="joint"/>
+		<group id="232" type="multinuc" parent="233" relname="joint"/>
+		<group id="231" type="span" parent="232" relname="joint"/>
+		<group id="230" type="span" parent="231" relname="span"/>
+		<group id="243" type="span" parent="234" relname="interpretation-evaluation"/>
+		<group id="241" type="multinuc" parent="243" relname="span"/>
+		<group id="237" type="span" parent="241" relname="contrast"/>
+		<group id="240" type="span" parent="241" relname="contrast"/>
+		<group id="326" type="multinuc" parent="327" relname="joint"/>
+		<group id="252" type="multinuc" parent="326" relname="joint"/>
+		<group id="250" type="span" parent="252" relname="contrast"/>
+		<group id="249" type="multinuc" parent="250" relname="span"/>
+		<group id="325" type="multinuc" parent="326" relname="joint"/>
+		<group id="267" type="multinuc" parent="325" relname="joint"/>
+		<group id="261" type="multinuc" parent="267" relname="comparison"/>
+		<group id="260" type="span" parent="261" relname="same-unit"/>
+		<group id="259" type="span" parent="260" relname="span"/>
+		<group id="258" type="multinuc" parent="255" relname="elaboration"/>
+		<group id="266" type="multinuc" parent="267" relname="comparison"/>
+		<group id="264" type="span" parent="266" relname="joint"/>
+		<group id="324" type="multinuc" parent="325" relname="joint"/>
+		<group id="294" type="multinuc" parent="324" relname="joint"/>
+		<group id="280" type="span" parent="294" relname="comparison"/>
+		<group id="279" type="span" parent="280" relname="span"/>
+		<group id="278" type="multinuc" parent="279" relname="span"/>
+		<group id="277" type="multinuc" parent="278" relname="comparison"/>
+		<group id="273" type="multinuc" parent="277" relname="comparison"/>
+		<group id="276" type="multinuc" parent="277" relname="comparison"/>
+		<group id="293" type="multinuc" parent="294" relname="comparison"/>
+		<group id="285" type="span" parent="293" relname="comparison"/>
+		<group id="284" type="span" parent="281" relname="elaboration"/>
+		<group id="292" type="span" parent="293" relname="comparison"/>
+		<group id="291" type="multinuc" parent="286" relname="elaboration"/>
+		<group id="290" type="span" parent="291" relname="joint"/>
+		<group id="323" type="multinuc" parent="324" relname="joint"/>
+		<group id="315" type="span" parent="323" relname="sequence"/>
+		<group id="313" type="multinuc" parent="315" relname="span"/>
+		<group id="307" type="multinuc" parent="313" relname="joint"/>
+		<group id="301" type="span" parent="307" relname="sequence"/>
+		<group id="299" type="span" parent="301" relname="span"/>
+		<group id="298" type="multinuc" parent="295" relname="elaboration"/>
+		<group id="306" type="multinuc" parent="307" relname="sequence"/>
+		<group id="304" type="span" parent="306" relname="sequence"/>
+		<group id="312" type="multinuc" parent="313" relname="joint"/>
+		<group id="311" type="multinuc" parent="312" relname="sequence"/>
+		<group id="322" type="multinuc" parent="323" relname="sequence"/>
+		<group id="321" type="span" parent="322" relname="sequence"/>
+		<group id="320" type="multinuc" parent="317" relname="elaboration"/>
+		<group id="332" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,121 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="52" parent="53" relname="cause-effect">Хакеры  из России попытались «подставить» специалиста по информационной безопасности Брайана Кребса (Brian Krebs),</segment>
+		<segment id="53" parent="54" relname="span">заказав на его адрес доставку героина.</segment>
+		<segment id="55" parent="54" relname="attribution">Об этом в своем блоге рассказал сам Кребс.\n</segment>
+		<segment id="57" parent="60" relname="attribution">По словам Кребса,</segment>
+		<segment id="58" parent="60" relname="span">идея с героином исходила от администратора русскоязычного форума thecc.bz,</segment>
+		<segment id="59" parent="58" relname="elaboration">который скрывается под псевдонимами Flycracker, Fly и MUXACC1 (от русского «муха»).</segment>
+		<segment id="62" parent="64" relname="joint">Сам форум предназначен для лиц, занимающихся мошенничеством и кражей данных граждан.</segment>
+		<segment id="63" parent="64" relname="joint">Flycracker 14 июля предложил пользователям пожертвовать деньги в фонд «Кребсу на наркотики».</segment>
+		<segment id="66" parent="70" relname="span">Сбор средств осуществлялся через «биткоины» — криптовалюту,</segment>
+		<segment id="67" parent="69" relname="joint">позволяющую анонимно хранить</segment>
+		<segment id="68" parent="69" relname="joint">и передавать деньги.\n Пользователи форума собрали два «биткоина» (около двухсот долларов).</segment>
+		<segment id="71" parent="73" relname="span">На эти деньги в анонимном магазине Silk Road было заказано 12 пакетиков с героином</segment>
+		<segment id="72" parent="71" relname="elaboration">(продавец бесплатно прилагал два дополнительных пакетика при покупке десяти).</segment>
+		<segment id="75" parent="76" relname="attribution">После этого администратор форума написал остальным пользователям,</segment>
+		<segment id="76" parent="77" relname="span">что «во вторник в 3 дня будет доставлено по назначению».</segment>
+		<segment id="78" parent="84" relname="joint">Он попросил кого-нибудь из пользователей позвонить в полицию от лица соседей</segment>
+		<segment id="79" parent="82" relname="attribution">и предупредить,</segment>
+		<segment id="80" parent="82" relname="joint">что Кребс получит посылку с наркотиками.\n Сам Кребс, однако, присутствовал на форуме</segment>
+		<segment id="81" parent="82" relname="joint">и следил за тем, как пользователи пытаются «подставить» его.</segment>
+		<segment id="86" parent="88" relname="joint">Он сам обратился в правоохранительные органы</segment>
+		<segment id="87" parent="88" relname="joint">и рассказал об этой схеме.</segment>
+		<segment id="89" parent="93" relname="span">Сама посылка,</segment>
+		<segment id="90" parent="91" relname="attribution">по его словам,</segment>
+		<segment id="91" parent="92" relname="span">пришла 29 июля, на день раньше заявленного Flycracker.</segment>
+		<segment id="96" parent="103" relname="preparation">В ней оказался майский номер журнала Chicago Confidential, к задней обложке которого были прикреплены пакетики с белым веществом.</segment>
+		<segment id="97" parent="98" relname="attribution">Кребс пишет,</segment>
+		<segment id="98" parent="99" relname="span">что продавец расфасовал купленный героин в 13 пакетиков вместо 12.</segment>
+		<segment id="100" parent="102" relname="contrast">Специалист решил изучить содержимое одного из них,</segment>
+		<segment id="101" parent="102" relname="contrast">но у него не было инструментов, позволяющих точно сказать, что там был героин.\n</segment>
+		<segment id="106" parent="108" relname="span">Вызванный им полицейский также не смог установить содержимое пакетиков,</segment>
+		<segment id="107" parent="106" relname="cause-effect">так как в его наборе тестов на наркотики не оказалось теста на героин.</segment>
+		<segment id="109" parent="115" relname="sequence">Кребс пообещал</segment>
+		<segment id="110" parent="113" relname="attribution">позднее уточнить,</segment>
+		<segment id="111" parent="113" relname="span">что именно ему прислали.\n Брайан Кребс — популярный эксперт,</segment>
+		<segment id="112" parent="111" relname="elaboration">рассказывающий в своем блоге о сетевых угрозах и действиях хакеров.</segment>
+		<segment id="117" parent="119" relname="span">Он посвятил несколько постов владельцу платежной системы Chronopay Павлу Врублевскому,</segment>
+		<segment id="118" parent="117" relname="background">которого обвиняли в организации атаки на сайт конкурента, компании Assist</segment>
+		<segment id="120" parent="119" relname="elaboration">(из-за этой атаки пострадал «Аэрофлот»).</segment>
+		<segment id="122" parent="128" relname="span">Кребс, в частности, анализировал утекшую переписку Врублевского с партнерами,</segment>
+		<segment id="123" parent="127" relname="span">в которой, предположительно, обсуждались хакерские атаки</segment>
+		<segment id="124" parent="126" relname="span">.\n «Биткоины»,</segment>
+		<segment id="125" parent="124" relname="cause-effect">благодаря независимости и анонимности использования,</segment>
+		<segment id="129" parent="131" relname="span">зачастую применяются</segment>
+		<segment id="130" parent="129" relname="condition">при купле-продаже наркотиков и других запрещенных товаров.</segment>
+		<segment id="133" parent="135" relname="contrast">Долгое время за один «биткоин» давали не больше доллара,</segment>
+		<segment id="134" parent="135" relname="contrast">но затем курс валюты стал резко расти.</segment>
+		<segment id="138" parent="140" relname="comparison">В марте 2013 года одна денежная единица стоила уже 40 долларов,</segment>
+		<segment id="139" parent="140" relname="comparison">а в апреле достигла отметки в 266 долларов.</segment>
+		<segment id="141" parent="143" relname="span">Впоследствии последовал обвал курса.</segment>
+		<segment id="142" parent="141" relname="elaboration">Сейчас один «биткоин» стоит около 100 долларов.\n \n</segment>
+		<group id="56" type="span" parent="151" relname="preparation"/>
+		<group id="54" type="span" parent="56" relname="span"/>
+		<group id="151" type="span" parent="152" relname="span"/>
+		<group id="65" type="multinuc" parent="150" relname="preparation"/>
+		<group id="61" type="span" parent="65" relname="joint"/>
+		<group id="60" type="span" parent="61" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="150" type="multinuc" parent="151" relname="span"/>
+		<group id="74" type="span" parent="150" relname="joint"/>
+		<group id="70" type="span" parent="74" relname="span"/>
+		<group id="69" type="multinuc" parent="66" relname="purpose"/>
+		<group id="73" type="span" parent="70" relname="elaboration"/>
+		<group id="149" type="multinuc" parent="150" relname="joint"/>
+		<group id="85" type="multinuc" parent="149" relname="sequence"/>
+		<group id="77" type="span" parent="85" relname="sequence"/>
+		<group id="84" type="multinuc" parent="85" relname="sequence"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="148" type="span" parent="149" relname="sequence"/>
+		<group id="88" type="multinuc" parent="147" relname="preparation"/>
+		<group id="147" type="multinuc" parent="148" relname="span"/>
+		<group id="105" type="span" parent="147" relname="joint"/>
+		<group id="93" type="span" parent="104" relname="preparation"/>
+		<group id="92" type="span" parent="89" relname="background"/>
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="103" type="multinuc" parent="104" relname="span"/>
+		<group id="99" type="span" parent="103" relname="joint"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="146" type="multinuc" parent="147" relname="joint"/>
+		<group id="116" type="multinuc" parent="146" relname="sequence"/>
+		<group id="108" type="span" parent="116" relname="sequence"/>
+		<group id="115" type="multinuc" parent="116" relname="sequence"/>
+		<group id="114" type="span" parent="115" relname="sequence"/>
+		<group id="113" type="span" parent="114" relname="span"/>
+		<group id="145" type="span" parent="146" relname="sequence"/>
+		<group id="137" type="multinuc" parent="145" relname="span"/>
+		<group id="121" type="span" parent="137" relname="joint"/>
+		<group id="119" type="span" parent="121" relname="span"/>
+		<group id="136" type="span" parent="137" relname="joint"/>
+		<group id="132" type="multinuc" parent="136" relname="span"/>
+		<group id="128" type="span" parent="132" relname="joint"/>
+		<group id="127" type="span" parent="122" relname="elaboration"/>
+		<group id="126" type="span" parent="123" relname="cause-effect"/>
+		<group id="131" type="span" parent="132" relname="joint"/>
+		<group id="135" type="multinuc" parent="132" relname="elaboration"/>
+		<group id="144" type="multinuc" parent="137" relname="background"/>
+		<group id="140" type="multinuc" parent="144" relname="sequence"/>
+		<group id="143" type="span" parent="144" relname="sequence"/>
+		<group id="152" type="span"/>
+	</body>
+</rst>

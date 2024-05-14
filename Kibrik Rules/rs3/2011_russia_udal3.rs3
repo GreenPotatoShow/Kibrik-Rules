@@ -1,0 +1,133 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="57" parent="59" relname="sequence">Приговор Удальцову оглашен,</segment>
+		<segment id="58" parent="59" relname="sequence">он встретит новый год в камере\n\nВ суде Тверского района Москвы оглашен очередной приговор активисту \"Левого фронта\" Сергею Удальцову:</segment>
+		<segment id="60" parent="62" relname="joint">самый известный участник уличных акций протестов отсидит еще 10 суток</segment>
+		<segment id="61" parent="62" relname="joint">и встретит новый год в камере.</segment>
+		<segment id="64" parent="67" relname="attribution">Как сообщил в своем Twitter адвокат Удальцова Николай Полозов,</segment>
+		<segment id="65" parent="67" relname="span">даже присутствовавшим в зале не удалось услышать вердикта судьи Боровковой,</segment>
+		<segment id="66" parent="65" relname="cause-effect">настолько тихо она говорила.</segment>
+		<segment id="69" parent="68" relname="background">Пришлось ждать копии постановления.\n\n\"На оглашение никого не пустили в зал.</segment>
+		<segment id="72" parent="74" relname="joint">Люди ломали дверь</segment>
+		<segment id="73" parent="74" relname="joint">и кричали</segment>
+		<segment id="75" parent="77" relname="joint">\"Пустите нас в зал</segment>
+		<segment id="76" parent="77" relname="joint">!\" Из-за стука постановление Боровковой мы не слышали.</segment>
+		<segment id="79" parent="80" relname="attribution">Боровкова специально говорила тихо,</segment>
+		<segment id="80" parent="81" relname="span">звук выламываемой двери зала суда, крики с улицы и из коридора заглушал ее\",</segment>
+		<segment id="82" parent="81" relname="attribution">- написал Полозов</segment>
+		<segment id="85" parent="98" relname="attribution">.\n\nПрисутствующий на суде депутат Илья Пономарев назвал происходящее \"бунтом журналистов\".\n\nТакже сообщается,</segment>
+		<segment id="86" parent="88" relname="joint">что во время оглашения приговора Удальцову стало плохо,</segment>
+		<segment id="87" parent="88" relname="joint">и к суду вызвали \"скорую\",</segment>
+		<segment id="89" parent="97" relname="joint">врачам удалось пройти в зал суда вскоре после оглашения приговора.\n\</segment>
+		<segment id="90" parent="96" relname="same-unit">nПеред оглашением приговора Удальцов вновь обещал</segment>
+		<segment id="91" parent="93" relname="span">объявить сухую голодовку,</segment>
+		<segment id="92" parent="91" relname="condition">если суд приговорит его к заключению,</segment>
+		<segment id="94" parent="93" relname="cause-effect">заявила \"Интерфаксу\" другой адвокат активиста Виолетта Волкова.</segment>
+		<segment id="100" parent="103" relname="attribution">По ее словам,</segment>
+		<segment id="101" parent="103" relname="contrast">\"Сергей находится в сознании,</segment>
+		<segment id="102" parent="103" relname="contrast">однако в очень плохом состоянии\".\n\nАктивист \"Синих ведерок\" Петр Шкуматов организовал видеотрансляцию от здания суда.</segment>
+		<segment id="105" parent="109" relname="span">Слышно, как после оглашения приговора толпа,</segment>
+		<segment id="106" parent="108" relname="joint">собравшаяся у входа,</segment>
+		<segment id="107" parent="108" relname="joint">скандирует \"Сереге - свободу\",</segment>
+		<segment id="110" parent="112" relname="joint">\"Серега - живи\",</segment>
+		<segment id="111" parent="112" relname="joint">\"Боровкова служит сатане\" и \"Позор продажному суду\".</segment>
+		<segment id="115" parent="119" relname="span">В толпе замечен Алексей Навальный,</segment>
+		<segment id="116" parent="117" relname="attribution">в своем Twitter он написал</segment>
+		<segment id="117" parent="118" relname="span">\"Повторюсь: эта преступница судья Боровкова спровоцирует беспорядки\".\n\</segment>
+		<segment id="120" parent="121" relname="attribution">nКак сообщалось,</segment>
+		<segment id="121" parent="122" relname="span">столичные полицейские доставили в Удальцова в воскресенье в мировой суд,</segment>
+		<segment id="123" parent="125" relname="joint">забрав его из московской 64-й больницы,</segment>
+		<segment id="124" parent="125" relname="joint">где он проходил реабилитационный курс после многодневной голодовки в период отбывания административного ареста сроком на 15 суток.</segment>
+		<segment id="128" parent="138" relname="sequence">В воскресенье этот срок истек,</segment>
+		<segment id="129" parent="131" relname="span">и он должен был выйти на свободу.\n\nПолиция доставила оппозиционера в мировой суд Тверского района Москвы на Новой площади,</segment>
+		<segment id="130" parent="129" relname="elaboration">который приступил к рассмотрению дела о нарушении Удальцовым ст. 19.3 КоАП РФ (неповиновение полиции),</segment>
+		<segment id="132" parent="136" relname="joint">предусматривающей наказание в виде административного ареста сроком до 15 суток.\n\nРанее адвокат Удальцова Виолетта Волкова сообщила \"Интерфаксу\",</segment>
+		<segment id="133" parent="135" relname="span">что на Удальцова составлен материал об административном нарушении по ст. 19.3 КоАП РФ,</segment>
+		<segment id="134" parent="133" relname="background">датированный двумя месяцами ранее.</segment>
+		<segment id="140" parent="144" relname="joint">\"Тогда в октябре, Удальцов был задержан возле здания Центризбиркома</segment>
+		<segment id="141" parent="143" relname="joint">при попытке участвовать в несанкционированной акции</segment>
+		<segment id="142" parent="143" relname="joint">и доставлен в ОВД \"Китай город\".</segment>
+		<segment id="145" parent="147" relname="span">Ночью он был госпитализирован</segment>
+		<segment id="146" parent="145" relname="cause-effect">из-за ухудшения самочувствия,</segment>
+		<segment id="148" parent="149" relname="condition">а после оказания врачами помощи,</segment>
+		<segment id="149" parent="150" relname="span">уехал домой.</segment>
+		<segment id="152" parent="153" relname="span">В результате протокол о задержании так и не был составлен\",</segment>
+		<segment id="154" parent="153" relname="attribution">- сказала Волкова.</segment>
+		<segment id="162" parent="165" relname="attribution">По ее словам,</segment>
+		<segment id="163" parent="165" relname="span">административный материал \"составлен с грубейшими нарушениями:</segment>
+		<segment id="164" parent="163" relname="elaboration">отсутствуют протокол задержания, данные о понятых и свидетелях\".\n\nИсточник: https://www.newsru.com/russia/25Dec2011/udal3.html\n</segment>
+		<group id="161" type="multinuc" parent="167" relname="span"/>
+		<group id="71" type="span" parent="161" relname="sequence"/>
+		<group id="63" type="span" parent="70" relname="preparation"/>
+		<group id="59" type="multinuc" parent="63" relname="span"/>
+		<group id="62" type="multinuc" parent="59" relname="elaboration"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="68" type="span" parent="70" relname="span"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="160" type="multinuc" parent="161" relname="sequence"/>
+		<group id="84" type="multinuc" parent="160" relname="joint"/>
+		<group id="78" type="span" parent="84" relname="joint"/>
+		<group id="74" type="multinuc" parent="78" relname="span"/>
+		<group id="77" type="multinuc" parent="74" relname="cause-effect"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="81" type="span" parent="83" relname="span"/>
+		<group id="159" type="multinuc" parent="160" relname="joint"/>
+		<group id="99" type="span" parent="159" relname="joint"/>
+		<group id="98" type="multinuc" parent="99" relname="span"/>
+		<group id="88" type="multinuc" parent="98" relname="sequence"/>
+		<group id="97" type="multinuc" parent="98" relname="sequence"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="95" type="span" parent="96" relname="same-unit"/>
+		<group id="93" type="span" parent="95" relname="span"/>
+		<group id="158" type="multinuc" parent="159" relname="joint"/>
+		<group id="114" type="multinuc" parent="158" relname="sequence"/>
+		<group id="104" type="span" parent="114" relname="joint"/>
+		<group id="103" type="multinuc" parent="104" relname="span"/>
+		<group id="113" type="span" parent="114" relname="joint"/>
+		<group id="109" type="span" parent="113" relname="span"/>
+		<group id="108" type="multinuc" parent="105" relname="elaboration"/>
+		<group id="112" type="multinuc" parent="109" relname="elaboration"/>
+		<group id="157" type="multinuc" parent="158" relname="sequence"/>
+		<group id="139" type="multinuc" parent="157" relname="joint"/>
+		<group id="127" type="span" parent="139" relname="sequence"/>
+		<group id="119" type="span" parent="127" relname="span"/>
+		<group id="118" type="span" parent="115" relname="background"/>
+		<group id="126" type="multinuc" parent="119" relname="background"/>
+		<group id="122" type="span" parent="126" relname="sequence"/>
+		<group id="125" type="multinuc" parent="126" relname="sequence"/>
+		<group id="138" type="multinuc" parent="139" relname="sequence"/>
+		<group id="137" type="multinuc" parent="138" relname="sequence"/>
+		<group id="131" type="span" parent="137" relname="sequence"/>
+		<group id="136" type="multinuc" parent="137" relname="sequence"/>
+		<group id="135" type="span" parent="136" relname="joint"/>
+		<group id="156" type="multinuc" parent="157" relname="joint"/>
+		<group id="144" type="multinuc" parent="156" relname="joint"/>
+		<group id="143" type="multinuc" parent="144" relname="joint"/>
+		<group id="155" type="span" parent="156" relname="joint"/>
+		<group id="153" type="span" parent="155" relname="span"/>
+		<group id="151" type="multinuc" parent="152" relname="cause-effect"/>
+		<group id="147" type="span" parent="151" relname="sequence"/>
+		<group id="150" type="span" parent="151" relname="sequence"/>
+		<group id="166" type="span" parent="161" relname="background"/>
+		<group id="165" type="span" parent="166" relname="span"/>
+		<group id="167" type="span"/>
+	</body>
+</rst>

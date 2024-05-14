@@ -1,0 +1,138 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="57" parent="59" relname="span">Петербургские ювелиры \"озолотили\" Путина:</segment>
+		<segment id="58" parent="57" relname="elaboration">отлили пудовый драгоценный бюст\n\</segment>
+		<segment id="60" parent="64" relname="span">nВ Санкт-Петербурге в скором времени появится золотой бюст премьер-министра и кандидата в президенты РФ Владимира Путина.</segment>
+		<segment id="61" parent="63" relname="span">Он будет установлен в одном из магазинов ювелирной сети \"585\" на Московском проспекте,</segment>
+		<segment id="62" parent="61" relname="attribution">передает портал Online812.</segment>
+		<segment id="65" parent="66" relname="attribution">В фирме подтвердили,</segment>
+		<segment id="66" parent="67" relname="span">что изделие весом 16,38 кг и стоимостью полтора миллиона рублей простоит там в течение месяца.</segment>
+		<segment id="68" parent="74" relname="joint">Затем \"золотого Путина\" переплавят,</segment>
+		<segment id="69" parent="73" relname="joint">превратив в кулоны в форме сердец,</segment>
+		<segment id="70" parent="72" relname="restatement">уточнила пресс-секретарь сети Анна Толстых</segment>
+		<segment id="71" parent="72" relname="restatement">.\n\nОтметим,</segment>
+		<segment id="75" parent="76" relname="condition">исходя из нынешней цены на золото по курсу Центробанка РФ,</segment>
+		<segment id="76" parent="77" relname="span">16,38 кг этого драгметалла должны стоить более 26 млн рублей.</segment>
+		<segment id="79" parent="80" relname="cause-effect">Получается, золота в \"золотом\" Путине - порядка 5,5%.\n\nТаким образом, каждый желающий сможет купить \"кусочек Путина\",</segment>
+		<segment id="80" parent="81" relname="span">тем самым приняв участие в благотворительной акции \"Золотой человек\", направленной на помощь детям с онкологическими заболеваниями.</segment>
+		<segment id="83" parent="82" relname="interpretation-evaluation">Вся прибыль от продажи кулонов будет перечислена в благотворительные фонды по борьбе с онкологией.</segment>
+		<segment id="85" parent="87" relname="span">Образ Путина для акции был выбран,</segment>
+		<segment id="86" parent="85" relname="cause-effect">так как именно его пример вдохновил на проведение акции:</segment>
+		<segment id="88" parent="90" relname="joint">в 2005 году Путин инициировал строительство Научно-клинического центра детской гематологии, онкологии и иммунологии имени Димы Рогачева,</segment>
+		<segment id="89" parent="90" relname="joint">поясняют ювелиры.\n\nПредоставить фотографию бюста в фирме отказались,</segment>
+		<segment id="91" parent="93" relname="joint">сославшись на то, что ее никто не должен увидеть до премьеры</segment>
+		<segment id="92" parent="93" relname="joint">и для горожан это станет сюрпризом.</segment>
+		<segment id="96" parent="101" relname="purpose">Разрешения на использование образа Путина, по данным Online812,</segment>
+		<segment id="97" parent="101" relname="joint">у ювелирной сети пока не имеется.\n\nНичего смешного в \"золотом Путине\" в пресс-службе ювелирной сети не видят</segment>
+		<segment id="98" parent="99" relname="attribution">и уверяют,</segment>
+		<segment id="99" parent="100" relname="span">что преследуют \"только благие цели\".</segment>
+		<segment id="103" parent="104" relname="contrast">Однако инициатива ювелиров уже вызвала неодобрительную реакцию.</segment>
+		<segment id="105" parent="107" relname="span">В блоге zel-lenka.livejournal.com,</segment>
+		<segment id="106" parent="105" relname="background">где был размещен релиз,</segment>
+		<segment id="108" parent="109" relname="joint">сразу же появились насмешливые комментарии.\n\nБлоггеры пишут:</segment>
+		<segment id="110" parent="112" relname="span">\"Интересно, а почему нельзя сразу сердечки выплавить,</segment>
+		<segment id="111" parent="110" relname="condition">без Путина?</segment>
+		<segment id="113" parent="115" relname="contrast">Я бы, может, и купила,</segment>
+		<segment id="114" parent="115" relname="contrast">но из его бюста как-то не хочется\".</segment>
+		<segment id="116" parent="120" relname="joint">\"Логичнее было бы тогда из бюста сделать много кулончиков в виде Путина. :)</segment>
+		<segment id="117" parent="119" relname="span">Интересно, много бы людей стали ходить с Путиным на шее?\"\n\nЭто уже не первый скандал вокруг имени нынешнего премьера и кандидата в президенты,</segment>
+		<segment id="118" parent="117" relname="background">произошедший за последнее время.</segment>
+		<segment id="124" parent="126" relname="span">Ранее на этой неделе внимание общественности привлек агитационный видеоролик в поддержку кандидата в президенты Владимира Путина,</segment>
+		<segment id="125" parent="124" relname="background">в котором снялась актриса и основатель детского благотворительного фонда \"Подари жизнь\" Чулпан Хаматова.</segment>
+		<segment id="127" parent="134" relname="attribution">В СМИ появились догадки,</segment>
+		<segment id="128" parent="134" relname="span">что ее заставили сняться в ролике,</segment>
+		<segment id="129" parent="133" relname="sequence">угрожая перекрыть финансирование фонда и Центра детской гематологии.\n\nЕще раньше скандал разразился вокруг благотворительного фонда \"Федерация\", устроившего концерт,</segment>
+		<segment id="130" parent="132" relname="joint">во время которого Путин пел</segment>
+		<segment id="131" parent="132" relname="joint">и играл на рояле.</segment>
+		<segment id="136" parent="138" relname="span">Тогда появились слухи, что деньги, собранные во время мероприятия</segment>
+		<segment id="137" parent="136" relname="purpose">для помощи больным детям,</segment>
+		<segment id="139" parent="147" relname="joint">пошли на неопределенные нужды</segment>
+		<segment id="140" parent="146" relname="joint">.\n\nЮвелирная сеть \"585\" была основана в 2000 году в Санкт-Петербурге</segment>
+		<segment id="141" parent="145" relname="same-unit">и,</segment>
+		<segment id="142" parent="143" relname="attribution">как говорится на сайте фирмы,</segment>
+		<segment id="143" parent="144" relname="span">является крупнейшей в городе сетью ювелирных магазинов.</segment>
+		<segment id="149" parent="151" relname="span">Всего в России на сегодня насчитывается 340 магазинов сети.\n\nВ прошлом году собственники сети разделили бизнес,</segment>
+		<segment id="150" parent="149" relname="background">одна часть которого отошла Александру Смирнову,</segment>
+		<segment id="152" parent="156" relname="span">вторая - молодым бизнесменам Алексею Феликсову и Антону Петрову – сыну авторитетного петербургского бизнесмена Геннадия Петрова,</segment>
+		<segment id="153" parent="155" relname="sequence">который недавно вернулся из Испании,</segment>
+		<segment id="154" parent="155" relname="sequence">где вместе с Александром Малышевым находился под следствием по подозрению в отмывании денег.\n\nИсточник: https://www.newsru.com/russia/17Feb2012/goldputin.html\n</segment>
+		<group id="59" type="span" parent="166" relname="preparation"/>
+		<group id="166" type="span" parent="167" relname="span"/>
+		<group id="64" type="span" parent="165" relname="preparation"/>
+		<group id="63" type="span" parent="60" relname="elaboration"/>
+		<group id="165" type="span" parent="166" relname="span"/>
+		<group id="67" type="span" parent="164" relname="preparation"/>
+		<group id="164" type="multinuc" parent="165" relname="span"/>
+		<group id="84" type="span" parent="164" relname="joint"/>
+		<group id="82" type="multinuc" parent="84" relname="span"/>
+		<group id="78" type="span" parent="82" relname="joint"/>
+		<group id="74" type="multinuc" parent="78" relname="span"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="77" type="span" parent="74" relname="elaboration"/>
+		<group id="81" type="span" parent="82" relname="joint"/>
+		<group id="163" type="multinuc" parent="164" relname="joint"/>
+		<group id="95" type="span" parent="163" relname="joint"/>
+		<group id="87" type="span" parent="95" relname="span"/>
+		<group id="94" type="span" parent="87" relname="elaboration"/>
+		<group id="90" type="multinuc" parent="94" relname="span"/>
+		<group id="93" type="multinuc" parent="90" relname="interpretation-evaluation"/>
+		<group id="162" type="multinuc" parent="163" relname="joint"/>
+		<group id="104" type="multinuc" parent="162" relname="joint"/>
+		<group id="102" type="span" parent="104" relname="contrast"/>
+		<group id="101" type="multinuc" parent="102" relname="span"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="161" type="multinuc" parent="162" relname="joint"/>
+		<group id="123" type="span" parent="161" relname="joint"/>
+		<group id="109" type="multinuc" parent="123" relname="span"/>
+		<group id="107" type="span" parent="109" relname="joint"/>
+		<group id="122" type="span" parent="109" relname="elaboration"/>
+		<group id="112" type="span" parent="121" relname="solutionhood"/>
+		<group id="121" type="multinuc" parent="122" relname="span"/>
+		<group id="115" type="multinuc" parent="121" relname="joint"/>
+		<group id="120" type="multinuc" parent="121" relname="joint"/>
+		<group id="119" type="span" parent="120" relname="joint"/>
+		<group id="160" type="multinuc" parent="161" relname="joint"/>
+		<group id="126" type="span" parent="160" relname="sequence"/>
+		<group id="159" type="multinuc" parent="160" relname="sequence"/>
+		<group id="135" type="span" parent="159" relname="joint"/>
+		<group id="134" type="span" parent="135" relname="span"/>
+		<group id="133" type="multinuc" parent="128" relname="purpose"/>
+		<group id="132" type="multinuc" parent="133" relname="sequence"/>
+		<group id="158" type="multinuc" parent="159" relname="joint"/>
+		<group id="148" type="multinuc" parent="158" relname="joint"/>
+		<group id="138" type="span" parent="148" relname="sequence"/>
+		<group id="147" type="multinuc" parent="148" relname="sequence"/>
+		<group id="146" type="multinuc" parent="147" relname="joint"/>
+		<group id="145" type="multinuc" parent="146" relname="joint"/>
+		<group id="144" type="span" parent="145" relname="same-unit"/>
+		<group id="157" type="multinuc" parent="158" relname="joint"/>
+		<group id="151" type="span" parent="157" relname="joint"/>
+		<group id="156" type="span" parent="157" relname="joint"/>
+		<group id="155" type="multinuc" parent="152" relname="background"/>
+		<group id="167" type="span"/>
+	</body>
+</rst>

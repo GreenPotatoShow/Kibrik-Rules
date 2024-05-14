@@ -1,0 +1,62 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="29" relname="joint">Из ущелья в Чечне поднят разбившийся вертолет\n\nИз ущелья в горах Чечни у селения Тусхарой поднят потерпевший во вторник катастрофу вертолет Ми-8 Северо-Кавказского регионального управления Федеральной пограничной службы России.</segment>
+		<segment id="26" parent="28" relname="span">Проведение спасательных работ осложняла большая глубина ущелья.\n\nНа борту вертолета находились восемь пограничников, включая членов экипажа и военнослужащих, возвращавшихся в Тусхарой.</segment>
+		<segment id="27" parent="26" relname="elaboration">Там расположен штаб охраняющего чеченское направление российско-грузинской государственной границы Итум-Калинского пограничного отряда.</segment>
+		<segment id="30" parent="32" relname="sequence">По завершении спасательных работ подтвердилось, что два члена экипажа и военнослужащий погибли,</segment>
+		<segment id="31" parent="32" relname="sequence">еще пять пограничников были ранены.</segment>
+		<segment id="33" parent="39" relname="span">Все трое погибших - офицеры.\n\nРаненым оказана медицинская помощь,</segment>
+		<segment id="34" parent="36" relname="joint">состояние их здоровья,</segment>
+		<segment id="35" parent="36" relname="joint">по оценкам врачей, удовлетворительное,</segment>
+		<segment id="37" parent="36" relname="attribution">передает ИТАР-ТАСС.</segment>
+		<segment id="42" parent="69" relname="preparation">Поднятый из ущелья вертолет обследуется специальной комиссией ФПС России.</segment>
+		<segment id="43" parent="51" relname="span">Ей предстоит выяснить, произошла ли катастрофа</segment>
+		<segment id="44" parent="48" relname="joint">из-за какой-либо технической неисправности</segment>
+		<segment id="45" parent="47" relname="joint">или вертолет был обстрелян боевиками</segment>
+		<segment id="46" parent="47" relname="joint">и получил повреждения.\n\nВертолет начал терять управление,</segment>
+		<segment id="49" parent="48" relname="elaboration">когда находился на высоте около 2 тысяч метров над уровнем моря.</segment>
+		<segment id="52" parent="54" relname="joint">Он должен был произвести десантирование пограничного наряда</segment>
+		<segment id="53" parent="54" relname="joint">и зайти на посадку в расположении штаба Итум-Калинского пограничного отряда,</segment>
+		<segment id="55" parent="61" relname="sequence">но неожиданно начал терять высоту</segment>
+		<segment id="58" parent="60" relname="sequence">и, завалившись на бок,</segment>
+		<segment id="59" parent="60" relname="sequence">круто пошел вниз.</segment>
+		<segment id="63" parent="65" relname="span">Установлено, что командир экипажа майор Андрей Кириенко принял все необходимые меры</segment>
+		<segment id="64" parent="63" relname="purpose">для выравнивания машины,</segment>
+		<segment id="66" parent="67" relname="contrast">но трагедии избежать не удалось.\n\nИсточник: https://www.newsru.com/russia/15Aug2001/helicopter.html\n</segment>
+		<group id="41" type="multinuc" parent="71" relname="joint"/>
+		<group id="29" type="multinuc" parent="41" relname="joint"/>
+		<group id="28" type="span" parent="29" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="32" type="multinuc" parent="40" relname="span"/>
+		<group id="39" type="span" parent="32" relname="elaboration"/>
+		<group id="38" type="span" parent="33" relname="elaboration"/>
+		<group id="36" type="multinuc" parent="38" relname="span"/>
+		<group id="70" type="span" parent="71" relname="joint"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="51" type="span" parent="69" relname="sequence"/>
+		<group id="50" type="span" parent="43" relname="cause-effect"/>
+		<group id="48" type="multinuc" parent="50" relname="span"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="68" type="multinuc" parent="69" relname="sequence"/>
+		<group id="62" type="multinuc" parent="68" relname="joint"/>
+		<group id="54" type="multinuc" parent="62" relname="contrast"/>
+		<group id="61" type="multinuc" parent="62" relname="contrast"/>
+		<group id="60" type="multinuc" parent="61" relname="sequence"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="65" type="span" parent="67" relname="contrast"/>
+		<group id="71" type="multinuc"/>
+	</body>
+</rst>

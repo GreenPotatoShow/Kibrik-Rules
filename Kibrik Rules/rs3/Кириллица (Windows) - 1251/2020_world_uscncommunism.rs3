@@ -1,0 +1,53 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="23" relname="span">США ввели визовые ограничения для функционеров Компартии Китая\n\nСША вводят визовые ограничения в отношении ряда должностных лиц КНР, в том числе членов Коммунистической партии Китая (КПК),</segment>
+		<segment id="22" parent="21" relname="cause-effect">в связи с приписываемой им \"деятельностью по принуждению\".</segment>
+		<segment id="24" parent="32" relname="span">Об этом, как передает ТАСС,</segment>
+		<segment id="25" parent="26" relname="attribution">говорится в распространенном в пятницу письменном заявлении американского госсекретаря Майкла Помпео.\n\n\"Сегодня я,</segment>
+		<segment id="26" parent="27" relname="span">пользуясь своими полномочиями в рамках Закона об иммиграции и гражданстве,</segment>
+		<segment id="28" parent="30" relname="span">накладываю визовые ограничения на должностных лиц КНР и КПК и лиц, активно участвующих в деятельности отдела Единого фронта [ЦК КПК],</segment>
+		<segment id="29" parent="28" relname="elaboration">которые прибегали либо угрожали физическим насилием, похищением и разглашением конфиденциальной информации, шпионажем, саботажем или злонамеренным вмешательством во внутренние политические дела, академическую свободу, личную жизнь или предпринимательскую деятельность.</segment>
+		<segment id="34" parent="40" relname="span">Эти злонамеренные действия были направлены на то,</segment>
+		<segment id="35" parent="37" relname="joint">чтобы склонить к сотрудничеству</segment>
+		<segment id="36" parent="37" relname="joint">и вынудить руководителей на местах, зарубежные китайские сообщества, академические круги,</segment>
+		<segment id="38" parent="39" relname="joint">а также другие группы гражданского общества как в Соединенных Штатах, так и в других странах поддерживать авторитарный нарратив и политические предпочтения КПК\",</segment>
+		<segment id="41" parent="40" relname="attribution">- заявил шеф американской дипломатии.\n\n</segment>
+		<segment id="44" parent="46" relname="span">\"Я продолжу применять такие визовые ограничения,</segment>
+		<segment id="45" parent="44" relname="purpose">чтобы дать понять, что тем, кто ответственен за действия, противоречащие международному порядку,</segment>
+		<segment id="47" parent="48" relname="span">в США не рады\",</segment>
+		<segment id="51" parent="48" relname="attribution">- отметил госсекретарь.\n\nПатриотический единый фронт китайского народа, или сокращенно Единый фронт - политическое объединение КНР, номинально являющееся народным фронтом и возглавляемое Коммунистической партией Китая.</segment>
+		<segment id="53" parent="55" relname="span">Помимо КПК,</segment>
+		<segment id="54" parent="53" relname="elaboration">он включает восемь малых политических партий и Всекитайскую федерацию промышленности и торговли.</segment>
+		<segment id="56" parent="55" relname="elaboration">Единым фронтом управляет Рабочий отдел Единого фронта ЦК КПК.\n\nЕдиный фронт, вместе с другими общественными организациями (профсоюзами, женскими и молодёжными организациями и т. п.), представлен в Народном политическом консультативном совете Китая.\n\nИсточник: https://www.newsru.com/world/04Dec2020/uscncommunism.html\n</segment>
+		<group id="43" type="multinuc" parent="59" relname="joint"/>
+		<group id="33" type="multinuc" parent="43" relname="joint"/>
+		<group id="23" type="span" parent="33" relname="joint"/>
+		<group id="32" type="span" parent="33" relname="joint"/>
+		<group id="31" type="multinuc" parent="24" relname="elaboration"/>
+		<group id="27" type="span" parent="31" relname="joint"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="40" type="span" parent="42" relname="span"/>
+		<group id="39" type="multinuc" parent="34" relname="purpose"/>
+		<group id="37" type="multinuc" parent="39" relname="joint"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="52" type="span" parent="58" relname="joint"/>
+		<group id="48" type="span" parent="52" relname="span"/>
+		<group id="46" type="span" parent="47" relname="condition"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="55" type="span" parent="57" relname="span"/>
+		<group id="59" type="multinuc"/>
+	</body>
+</rst>

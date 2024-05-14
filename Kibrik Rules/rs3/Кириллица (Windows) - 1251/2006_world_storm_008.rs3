@@ -1,0 +1,64 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="29" relname="span">На северо-восточные районы США надвигается тропический шторм \"Берил\"\n\nТропический шторм \"Берил\",</segment>
+		<segment id="28" parent="25" relname="background">зародившийся еще в минувший вторник в Атлантическом океане, надвигается на северо-восток США.</segment>
+		<segment id="30" parent="32" relname="joint">В связи с этим во всех прибрежных районах в американских штатах Массачусетс, Коннектикут и Род-Айленд,</segment>
+		<segment id="31" parent="32" relname="joint">а также на Лонг-Айленде в штате Нью-Йорк уже объявлено штормовое предупреждение,</segment>
+		<segment id="33" parent="34" relname="joint">сообщает в четверг телекомпания CNN.\n\nКак отмечают специалисты из Национального центра по наблюдению за ураганами в Майами (штат Флорида),</segment>
+		<segment id="35" parent="37" relname="joint">в настоящее время шторм находится уже примерно в 200 км к юго-востоку от города Нью-Йорк</segment>
+		<segment id="36" parent="37" relname="joint">и движется на север со скоростью 17,5 км/ч.\n\</segment>
+		<segment id="40" parent="41" relname="comparison">nСила ветра в его эпицентре достигает 97 км/ч.</segment>
+		<segment id="42" parent="43" relname="condition">Если она достигнет 118,5 км/ч,</segment>
+		<segment id="43" parent="44" relname="span">шторм перейдет в разряд ураганов.</segment>
+		<segment id="45" parent="47" relname="span">\"Берил\" может подойти к побережью США уже в ночь с четверга на пятницу по местному времени,</segment>
+		<segment id="46" parent="45" relname="attribution">указывают метеорологи,</segment>
+		<segment id="48" parent="54" relname="span">передает ИТАР-ТАСС.\n\nФедеральное агентство США по чрезвычайным ситуациям (ФЕМА),</segment>
+		<segment id="49" parent="51" relname="span">которое в минувшем году подвергалось резкой критике</segment>
+		<segment id="50" parent="49" relname="cause-effect">за свое бездействие во время сезона ураганов,</segment>
+		<segment id="52" parent="53" relname="same-unit">теперь стремится держать ситуацию под контролем.</segment>
+		<segment id="57" parent="69" relname="span">Так, в штаты Новой Англии на всякий случай уже направлены 15 грузовиков с упаковками питьевой воды.\n\</segment>
+		<segment id="58" parent="62" relname="same-unit">nКроме того,</segment>
+		<segment id="59" parent="60" relname="attribution">по словам главы ФЕМА Дэвида Полисона,</segment>
+		<segment id="60" parent="61" relname="span">возглавляемое им ведомство будет в полной готовности реагировать на любые чрезвычайные ситуации в районах, по которым пройдет тропический шторм.\n\n\"Берил\" стал уже вторым тропическим штормом, сформировавшимся в Атлантике в ходе нынешнего сезона ураганов,</segment>
+		<segment id="63" parent="65" relname="span">который традиционно продолжается с 1 июня по 30 ноября,</segment>
+		<segment id="64" parent="63" relname="attribution">отмечают специалисты.</segment>
+		<segment id="67" parent="66" relname="elaboration">Первым в середине июня этого года стал тропический шторм \"Альберто\", прошедший по территории штата Флорида.\n\nИсточник: https://www.newsru.com/world/21Jul2006/storm.html\n</segment>
+		<group id="41" type="multinuc" parent="71" relname="joint"/>
+		<group id="39" type="span" parent="41" relname="comparison"/>
+		<group id="29" type="span" parent="38" relname="preparation"/>
+		<group id="38" type="span" parent="39" relname="span"/>
+		<group id="34" type="multinuc" parent="38" relname="span"/>
+		<group id="32" type="multinuc" parent="34" relname="joint"/>
+		<group id="37" type="multinuc" parent="34" relname="elaboration"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="56" type="multinuc" parent="70" relname="joint"/>
+		<group id="44" type="span" parent="56" relname="joint"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="47" type="span" parent="55" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="53" type="multinuc" parent="48" relname="elaboration"/>
+		<group id="51" type="span" parent="53" relname="same-unit"/>
+		<group id="69" type="span" parent="70" relname="joint"/>
+		<group id="68" type="span" parent="57" relname="elaboration"/>
+		<group id="66" type="span" parent="68" relname="span"/>
+		<group id="62" type="multinuc" parent="66" relname="span"/>
+		<group id="61" type="span" parent="62" relname="same-unit"/>
+		<group id="65" type="span" parent="62" relname="elaboration"/>
+		<group id="71" type="multinuc"/>
+	</body>
+</rst>

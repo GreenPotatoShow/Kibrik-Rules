@@ -1,0 +1,70 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="28" parent="30" relname="span">Медведев наградил участников операции в Южной Осетии,</segment>
+		<segment id="29" parent="28" relname="elaboration">в том числе посмертно\n\nПрезидент России Дмитрий Медведев подписал указ \"О награждении государственными наградами Российской Федерации военнослужащих Вооруженных Сил РФ\", передает \"Интерфакс\".\n\nКак сообщает пресс-служба Кремля,</segment>
+		<segment id="31" parent="35" relname="joint">\"за мужество и героизм, проявленные при исполнении воинского долга в Северо-Кавказском регионе\", звание Героя Российской Федерации присвоено майору Денису Ветчинову (посмертно) и подполковнику Константину Тимерману.\n\nПо данным \"Комсомольской правды\",</segment>
+		<segment id="32" parent="34" relname="span">награжденный Ветчинов спас раненого корреспондента издания Александра Коца и других журналистов,</segment>
+		<segment id="33" parent="32" relname="elaboration">которые вместе со штурмовым отрядом 58-й армии попали в засаду в Цхинвали 9 августа.</segment>
+		<segment id="37" parent="39" relname="sequence">Церемония прощания с Ветчиновым состоится 15 августа в гарнизонном Доме офицеров в Волгограде.</segment>
+		<segment id="38" parent="39" relname="sequence">Затем российский офицер будет похоронен на Центральном кладбище города со всеми воинскими почестями, подобающими защитнику Отечества.\n\n\"За мужество, отвагу и самоотверженность, проявленные при исполнении воинского долга в Северо-Кавказском регионе\", Орденом Мужества награждены восемь военных.</segment>
+		<segment id="40" parent="42" relname="span">Знаком Отличия - Георгиевским Крестом IV Степени награждены 11 военных, Медалью Ордена \"За заслуги перед Отечеством\" II Степени (с изображением мечей) - один военный, Медалью Жукова - один военный.\n\nНапомним, в среду глава государства изменил положения об ордене Святого Георгия и Георгиевском кресте,</segment>
+		<segment id="41" parent="40" relname="purpose">чтобы этими наградами могли быть отмечены миротворцы.\n\nНакануне президент Дмитрий Медведев принимал в Кремле руководителей Минобороны и участников миротворческой операции \"по принуждению Грузии к миру\".</segment>
+		<segment id="43" parent="45" relname="span">Глава государства призвал военных сохранять боевую готовность на случай новых угроз,</segment>
+		<segment id="44" parent="43" relname="attribution">пишет \"Коммерсант\".\n\</segment>
+		<segment id="46" parent="45" relname="elaboration">nНа встречу в Кремле пришли руководители операции - главнокомандующий военно-воздушными силами генерал Александр Зелин, главнокомандующий военно-морским флотом адмирал Владимир Высоцкий, начальник Генштаба Николай Макаров.</segment>
+		<segment id="49" parent="51" relname="span">И ее непосредственные участники - начальник воинского контингента миротворческих сил РФ в Южной Осетии Марат Кулахметов, летчик бомбардировочной и разведывательной авиации полковник Олег Сторожук, командир танковой роты капитан Юрий Яковлев и командир малого ракетного корабля капитан 3-го ранга Иван Дубик.\n\nПоявились в зале и президенты Южной Осетии и Абхазии Эдуард Кокойты и Сергей Багапш,</segment>
+		<segment id="50" parent="49" relname="elaboration">подписавшие до этого шесть пунктов урегулирования конфликтов на территории Грузии.\n\nПервым речь произнес командующий российскими миротворцами в Южной Осетии Марат Кулахметов.</segment>
+		<segment id="52" parent="55" relname="attribution">Он сообщил,</segment>
+		<segment id="53" parent="55" relname="span">что у миротворцев в Южной Осетии ни на секунду не возникло сомнение в том, что \"великая страна своей мощью поставит агрессора на место\".\n\nСледующим выступил Иван Дубик,</segment>
+		<segment id="54" parent="53" relname="elaboration">участвовавший в операции cо стороны моря.</segment>
+		<segment id="57" parent="61" relname="contrast">\"Грузинские катера пытались атаковать наши корабли,</segment>
+		<segment id="58" parent="60" relname="joint">но мои бойцы проявили хладнокровие</segment>
+		<segment id="59" parent="60" relname="joint">и показали высокие нравственные качества\",</segment>
+		<segment id="62" parent="67" relname="attribution">- отрапортовал морской офицер главнокомандующему</segment>
+		<segment id="63" parent="65" relname="contrast">.\n\nВ завершение Дмитрий Медведев поблагодарил военных за службу,</segment>
+		<segment id="64" parent="65" relname="contrast">а тех, кто непосредственно в военных действиях не участвовал,</segment>
+		<segment id="66" parent="67" relname="joint">– за грамотные \"управленческие решения в Москве и других местах\".</segment>
+		<segment id="70" parent="74" relname="same-unit">На случай новых угроз для России</segment>
+		<segment id="71" parent="73" relname="joint">президент призвал военных</segment>
+		<segment id="72" parent="73" relname="joint">и впредь сохранять постоянную боевую готовность.\n\nИсточник: https://www.newsru.com/russia/15Aug2008/nagradil.html\n</segment>
+		<group id="36" type="multinuc" parent="80" relname="joint"/>
+		<group id="30" type="span" parent="36" relname="joint"/>
+		<group id="35" type="multinuc" parent="36" relname="joint"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="79" type="multinuc" parent="80" relname="joint"/>
+		<group id="39" type="multinuc" parent="79" relname="joint"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="48" type="multinuc" parent="78" relname="joint"/>
+		<group id="42" type="span" parent="48" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="77" type="multinuc" parent="78" relname="joint"/>
+		<group id="51" type="span" parent="77" relname="joint"/>
+		<group id="76" type="span" parent="77" relname="joint"/>
+		<group id="56" type="span" parent="76" relname="span"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="75" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="69" type="multinuc" parent="75" relname="joint"/>
+		<group id="61" type="multinuc" parent="69" relname="joint"/>
+		<group id="60" type="multinuc" parent="61" relname="contrast"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="67" type="multinuc" parent="68" relname="span"/>
+		<group id="65" type="multinuc" parent="67" relname="joint"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="73" type="multinuc" parent="74" relname="same-unit"/>
+		<group id="80" type="multinuc"/>
+	</body>
+</rst>

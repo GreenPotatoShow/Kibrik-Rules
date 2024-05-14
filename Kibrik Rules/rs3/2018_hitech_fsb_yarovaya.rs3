@@ -1,0 +1,109 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="46" parent="133" relname="preparation">В ФСБ прогнозируют</segment>
+		<segment id="47" parent="53" relname="comparison">10%-ный рост тарифов на связь из-за \"закона Яровой\"\n\nФинансовые затраты российских операторов связи на выполнение требований так называемого \"закона Яровой\" в части хранения трафика и записей разговоров абонентов могут повлечь за собой рост тарифов на услуги связи до 10% по всей стране.</segment>
+		<segment id="48" parent="52" relname="span">Такой прогноз, подготовленный в Федеральной службе безопасности РФ (ФСБ), приводится в ответе Минкомсвязи РФ на июньское обращение Уральской ассоциации операторов связи (УралАОС),</segment>
+		<segment id="49" parent="51" relname="span">авторы которого предупреждали о возможном крахе отрасли</segment>
+		<segment id="50" parent="49" relname="condition">в случае вступления закона в силу.\n\</segment>
+		<segment id="54" parent="55" relname="attribution">nКак сообщает Reuters,</segment>
+		<segment id="55" parent="56" relname="span">в Минкомсвязи подтвердили существование таких расчетов ФСБ.</segment>
+		<segment id="60" parent="62" relname="contrast">При этом директор департамента регулирования радиочастот и сетей связи призвал не спекулировать относительно влияния нормативно-правового акта на тарифы операторов до реализации мер по внедрению закона.\n\n\"Да, мы получили такой ответ от Министерства цифрового развития.</segment>
+		<segment id="61" parent="62" relname="contrast">Но даже 10%-ный рост тарифов не покроет всех расходов на хранение данных и обеспечение их защиты от утечек\",</segment>
+		<segment id="63" parent="62" relname="attribution">– заявил президент УралАОС Леонид Блинов,</segment>
+		<segment id="65" parent="68" relname="attribution">отметив,</segment>
+		<segment id="66" parent="68" relname="span">что операторам в регионах придется повысить тарифы вдвое,</segment>
+		<segment id="67" parent="66" relname="purpose">чтобы компенсировать затраты на этот закон.\n\n\"В итоге, все повысят тарифы на 10%, потом еще на 10% и так далее.</segment>
+		<segment id="70" parent="71" relname="condition">Если крупные операторы еще могут открыть выгодную кредитную линию в банке,</segment>
+		<segment id="71" parent="72" relname="span">то остальным на это рассчитывать не приходится\",</segment>
+		<segment id="73" parent="72" relname="attribution">– сказал Блинов</segment>
+		<segment id="75" parent="128" relname="preparation">.\n\</segment>
+		<segment id="76" parent="79" relname="condition">nКомментируя ответ на обращение уральских операторов,</segment>
+		<segment id="77" parent="78" relname="attribution">генеральный директор ТМТ Consulting Константин Анкилов назвал</segment>
+		<segment id="78" parent="79" relname="span">неожиданным тот факт, что в ФСБ признали необходимость роста тарифов.</segment>
+		<segment id="81" parent="86" relname="attribution">Как напомнил Анкилов,</segment>
+		<segment id="82" parent="85" relname="attribution">официальные лица очень долго утверждали,</segment>
+		<segment id="83" parent="85" relname="span">что \"закон Яровой\" не повлияет на цены на связь,</segment>
+		<segment id="84" parent="83" relname="concession">хотя \"все было очевидно с самого начала\".</segment>
+		<segment id="89" parent="92" relname="attribution">В то же время он отметил,</segment>
+		<segment id="90" parent="92" relname="joint">что в условиях низких российских цен на связь,</segment>
+		<segment id="91" parent="92" relname="joint">10%-ный рост тарифов не будет слишком заметен для абонентов.\n\</segment>
+		<segment id="94" parent="95" relname="attribution">nСогласно данным ТМТ Consulting,</segment>
+		<segment id="95" parent="96" relname="span">средний счет за связь для абонентов широкополосного доступа в интернет в 1 квартале 2018 года составил 345 рублей.</segment>
+		<segment id="97" parent="98" relname="comparison">\"В мобильной связи цифры примерно такие же.</segment>
+		<segment id="99" parent="102" relname="condition">С учетом НДС,</segment>
+		<segment id="100" parent="102" relname="span">абонентам придется платить примерно на 40 рублей больше за домашний интернет и столько же – за мобильную связь,</segment>
+		<segment id="101" parent="100" relname="interpretation-evaluation">это не будет слишком критично для большинства населения\",</segment>
+		<segment id="104" parent="103" relname="attribution">– полагает Анкилов.\n\</segment>
+		<segment id="108" parent="112" relname="joint">nНапомним, положения закона Яровой о хранении данных вступили в силу 1 июля.</segment>
+		<segment id="109" parent="111" relname="joint">Закон обязывает операторов хранить аудиозаписи разговоров и SMS-сообщений пользователей в течение шести месяцев,</segment>
+		<segment id="110" parent="111" relname="joint">а с 1 октября компании должны будут хранить весь интернет-трафик пользователей за последние 30 суток.</segment>
+		<segment id="113" parent="117" relname="joint">В течение следующих пяти лет операторы должны ежегодно наращивать объем хранилищ данных на 15%.</segment>
+		<segment id="114" parent="116" relname="span">При этом в начале июля сообщалось, что провайдеры не могут исполнять закон</segment>
+		<segment id="115" parent="114" relname="cause-effect">из-за отсутствия сертифицированного оборудования.\n\</segment>
+		<segment id="119" parent="125" relname="span">nВ марте этого года Николай Никифоров,</segment>
+		<segment id="120" parent="121" relname="attribution">занимавший тогда пост главы Минкомсвязи, заявил,</segment>
+		<segment id="121" parent="122" relname="span">что затраты крупных операторов на реализацию \"закона Яровой\" составят десятки миллиардов рублей для каждой компании,</segment>
+		<segment id="123" parent="124" relname="contrast">однако это не приведет к значительному росту цен на связь.\n\nВ конце мая стало известно, что в преддверии вступления закона в силу операторы связи начали повышать цены для абонентов.\n\nИсточник: https://www.newsru.com/hitech/23Jul2018/fsb_yarovaya.html\n</segment>
+		<group id="133" type="multinuc" parent="134" relname="span"/>
+		<group id="57" type="span" parent="133" relname="joint"/>
+		<group id="53" type="multinuc" parent="57" relname="span"/>
+		<group id="52" type="span" parent="53" relname="comparison"/>
+		<group id="51" type="span" parent="48" relname="elaboration"/>
+		<group id="56" type="span" parent="53" relname="attribution"/>
+		<group id="132" type="multinuc" parent="133" relname="joint"/>
+		<group id="64" type="span" parent="132" relname="joint"/>
+		<group id="62" type="multinuc" parent="64" relname="span"/>
+		<group id="131" type="multinuc" parent="132" relname="joint"/>
+		<group id="69" type="span" parent="131" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="130" type="multinuc" parent="131" relname="joint"/>
+		<group id="74" type="span" parent="130" relname="joint"/>
+		<group id="72" type="span" parent="74" relname="span"/>
+		<group id="129" type="span" parent="130" relname="joint"/>
+		<group id="128" type="multinuc" parent="129" relname="span"/>
+		<group id="88" type="span" parent="128" relname="joint"/>
+		<group id="80" type="span" parent="88" relname="span"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="87" type="span" parent="80" relname="interpretation-evaluation"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="85" type="span" parent="86" relname="span"/>
+		<group id="127" type="multinuc" parent="128" relname="joint"/>
+		<group id="107" type="multinuc" parent="127" relname="joint"/>
+		<group id="93" type="span" parent="107" relname="comparison"/>
+		<group id="92" type="multinuc" parent="93" relname="span"/>
+		<group id="106" type="multinuc" parent="107" relname="comparison"/>
+		<group id="98" type="multinuc" parent="106" relname="joint"/>
+		<group id="96" type="span" parent="98" relname="comparison"/>
+		<group id="105" type="span" parent="106" relname="joint"/>
+		<group id="103" type="span" parent="105" relname="span"/>
+		<group id="102" type="span" parent="103" relname="span"/>
+		<group id="126" type="multinuc" parent="127" relname="joint"/>
+		<group id="118" type="multinuc" parent="126" relname="joint"/>
+		<group id="112" type="multinuc" parent="118" relname="joint"/>
+		<group id="111" type="multinuc" parent="112" relname="joint"/>
+		<group id="117" type="multinuc" parent="118" relname="joint"/>
+		<group id="116" type="span" parent="117" relname="joint"/>
+		<group id="125" type="span" parent="126" relname="joint"/>
+		<group id="124" type="multinuc" parent="119" relname="elaboration"/>
+		<group id="122" type="span" parent="124" relname="contrast"/>
+		<group id="134" type="span"/>
+	</body>
+</rst>

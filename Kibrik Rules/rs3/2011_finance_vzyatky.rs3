@@ -1,0 +1,38 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="13" parent="34" relname="preparation">Новые законопроекты вводят за взяточничество штрафы до 300 млн рублей\n\</segment>
+		<segment id="14" parent="16" relname="joint">nАдминистрация президента подготовила новый антикоррупционный пакет законов,</segment>
+		<segment id="15" parent="16" relname="joint">где устанавливается новый тип наказания за коррупцию - штрафы, кратные взяткам;</segment>
+		<segment id="17" parent="25" relname="joint">новый тип взяткополучателя - должностное лицо публичной международной организации;</segment>
+		<segment id="18" parent="24" relname="joint">новый состав преступления - посредничество при получении взяток;</segment>
+		<segment id="19" parent="22" relname="cause-effect">наконец, новый способ борьбы с коррупцией - ее расследование российскими органами за рубежом.\n\nКак напоминают \"Ведомости\",</segment>
+		<segment id="20" parent="22" relname="joint">увеличить штрафы за взятки</segment>
+		<segment id="21" parent="22" relname="joint">и наказание для посредников</segment>
+		<segment id="27" parent="29" relname="span">Дмитрий Медведев предписал в послании.\n\nБороться с коррупционерами не только внутри, но и за пределами страны требует конвенция ООН,</segment>
+		<segment id="28" parent="27" relname="attribution">говорит зампред комитета по безопасности Госдумы Михаил Гришанков:</segment>
+		<segment id="30" parent="32" relname="contrast">Россия формально исполняет свои обязательства,</segment>
+		<segment id="31" parent="32" relname="contrast">но пока ничего не известно о том, что в России какое-то юрлицо пытались привлечь к административной ответственности за коррупцию.\n\nИсточник: https://www.newsru.com/finance/13Jan2011/vzyatky.html\n</segment>
+		<group id="34" type="multinuc" parent="35" relname="span"/>
+		<group id="26" type="multinuc" parent="34" relname="joint"/>
+		<group id="16" type="multinuc" parent="26" relname="joint"/>
+		<group id="25" type="multinuc" parent="26" relname="joint"/>
+		<group id="24" type="multinuc" parent="25" relname="joint"/>
+		<group id="23" type="span" parent="24" relname="joint"/>
+		<group id="22" type="multinuc" parent="23" relname="span"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="29" type="span" parent="33" relname="span"/>
+		<group id="32" type="multinuc" parent="29" relname="interpretation-evaluation"/>
+		<group id="35" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,75 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="32" relname="attribution">UBS назвал</segment>
+		<segment id="32" parent="33" relname="span">самые дорогие для проживания города:</segment>
+		<segment id="34" parent="38" relname="span">лидируют Цюрих и Женева\n\nЦюрих и Женева признаны самыми дорогими городами в мире</segment>
+		<segment id="35" parent="36" relname="purpose">для проживания,</segment>
+		<segment id="36" parent="37" relname="span">они опережают Нью-Йорк и Лондон.</segment>
+		<segment id="40" parent="47" relname="attribution">Об этом, как передает \"Интерфакс\",</segment>
+		<segment id="41" parent="43" relname="span">свидетельствуют результаты опубликованного на этой неделе исследовании банка UBS AG.\n\nСемье из трех человек необходимо зарабатывать 3600 долларов в месяц в Цюрихе,</segment>
+		<segment id="42" parent="41" relname="purpose">чтобы обеспечить минимальный набор товаров и услуг,</segment>
+		<segment id="44" parent="46" relname="joint">состоящий из 122 позиций</segment>
+		<segment id="45" parent="46" relname="joint">и не включающий арендную плату.</segment>
+		<segment id="50" parent="56" relname="comparison">В Женеве для жизни достаточно зарабатывать 3500 долларов в месяц,</segment>
+		<segment id="51" parent="55" relname="comparison">в Нью-Йорке - 3340 долларов,</segment>
+		<segment id="52" parent="54" relname="comparison">в Лондоне - порядка 2800 долларов,</segment>
+		<segment id="53" parent="54" relname="comparison">отмечается в отчете UBS.\n\nМосква оказалась на 57-м месте.</segment>
+		<segment id="58" parent="60" relname="contrast">Стоимость базового набора продуктов и услуг в столице РФ в два раза ниже, чем у лидеров,</segment>
+		<segment id="59" parent="60" relname="contrast">но заметно выше, чем, например, в Варшаве, Риге, Праге, Бухаресте, Софии и Киеве.</segment>
+		<segment id="61" parent="63" relname="comparison">В Киеве и Софии семья сможет прожить на 1300 долларов в месяц.</segment>
+		<segment id="62" parent="63" relname="comparison">Даже в Нью-Дели и Мумбае минимальный месячный заработок должен составлять примерно 1500 долларов.\n\</segment>
+		<segment id="64" parent="67" relname="condition">nОднако если учитывать арендную плату,</segment>
+		<segment id="65" parent="67" relname="span">то на первое место выходит Нью-Йорк,</segment>
+		<segment id="66" parent="65" relname="background">где средняя стоимость аренды квартиры без мебели с двумя спальнями составляет 4320 долларов в месяц против 2390 долларов в Цюрихе</segment>
+		<segment id="69" parent="73" relname="joint">.\n\nВысокие цены также означают существенные затраты для туристов, желающих посетить данные города.</segment>
+		<segment id="70" parent="72" relname="joint">Однодневный визит в Женеву или Цюрих,</segment>
+		<segment id="71" parent="72" relname="joint">а также в Токио и Нью-Йорк обойдется паре туристов минимум в 1000 долларов.\n\nВпрочем, жители швейцарских городов зарабатывают намного больше, чем обитатели других стран.</segment>
+		<segment id="75" parent="79" relname="span">Средняя оплата труда в Цюрихе составляет свыше 41 доллара в час.</segment>
+		<segment id="78" parent="75" relname="elaboration">Это, например, в 21 раз больше зарплаты среднего киевлянина.\n\nВ индексе зарплат, в котором за 100 пунктов взята оплата труда жителя Нью-Йорка, Цюрих набрал 141,7 пункта, Женева - 135,1 пункта.</segment>
+		<segment id="80" parent="84" relname="span">Последнее место с Киевом делит столица Кении Найроби с 6,3 пункта.</segment>
+		<segment id="81" parent="83" relname="span">Москва тут также находится в нижней половине списка с показателем в 21,4 пункта,</segment>
+		<segment id="82" parent="81" relname="elaboration">уступая Варшаве, Таллину, Братиславе и Афинам.\n\nИсточник: https://www.newsru.com/finance/18Sep2015/ubscities.html\n</segment>
+		<group id="57" type="span" parent="89" relname="joint"/>
+		<group id="49" type="multinuc" parent="57" relname="span"/>
+		<group id="39" type="span" parent="49" relname="joint"/>
+		<group id="33" type="span" parent="39" relname="span"/>
+		<group id="38" type="span" parent="33" relname="elaboration"/>
+		<group id="37" type="span" parent="34" relname="purpose"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="43" type="span" parent="47" relname="span"/>
+		<group id="46" type="multinuc" parent="43" relname="elaboration"/>
+		<group id="56" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="55" type="multinuc" parent="56" relname="comparison"/>
+		<group id="54" type="multinuc" parent="55" relname="comparison"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="60" type="multinuc" parent="88" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="63" type="multinuc" parent="87" relname="contrast"/>
+		<group id="86" type="multinuc" parent="87" relname="contrast"/>
+		<group id="74" type="multinuc" parent="86" relname="joint"/>
+		<group id="68" type="span" parent="74" relname="joint"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="79" type="span" parent="85" relname="joint"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="83" type="span" parent="80" relname="elaboration"/>
+		<group id="89" type="multinuc"/>
+	</body>
+</rst>

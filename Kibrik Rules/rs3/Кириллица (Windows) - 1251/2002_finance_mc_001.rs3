@@ -1,0 +1,34 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="16" relname="comparison">McDonald`s закрывает 175 ресторанов в трех странах Ближнего Востока и Латинской Америки\n\nГигант индустрии быстрого питания McDonald`s объявил,</segment>
+		<segment id="13" parent="15" relname="joint">что в ближайшее время будет закрыто около 175 ресторанов</segment>
+		<segment id="14" parent="15" relname="joint">и сокращено около 600 рабочих мест.</segment>
+		<segment id="17" parent="19" relname="joint">В трех странах Ближнего Востока и Латинской Америки предприятия сети ресторанов будут закрыты.</segment>
+		<segment id="18" parent="19" relname="joint">Еще в четырех странах McDonald`s попытается избавиться от принадлежавшей ему недвижимости.\n\nНеприятные перемены связаны с убытками, которые терпит американская сеть быстрого питания в последние 4 года.</segment>
+		<segment id="21" parent="30" relname="attribution">Как заявил Джек Гринберг,</segment>
+		<segment id="22" parent="30" relname="span">руководивший компанией на протяжении последних 4 лет,</segment>
+		<segment id="23" parent="29" relname="span">McDonald`s стойко пытался противостоять неблагоприятным обстоятельствам:</segment>
+		<segment id="24" parent="26" relname="span">экономическому кризису,</segment>
+		<segment id="25" parent="24" relname="elaboration">который поразил США, коровьему бешенству в Европе и Японии, и всплеску антиамериканских настроений на Востоке.\n\nНо низкие показатели прибыльности последних месяцев и резкое падение в цене акций компании,</segment>
+		<segment id="27" parent="28" relname="joint">заставили руководство McDonald`s прибегнуть к жестким мерам.\n\nИсточник: https://www.newsru.com/finance/09Nov2002/mc.html\n</segment>
+		<group id="20" type="multinuc" parent="32" relname="joint"/>
+		<group id="16" type="multinuc" parent="20" relname="joint"/>
+		<group id="15" type="multinuc" parent="16" relname="comparison"/>
+		<group id="19" type="multinuc" parent="20" relname="joint"/>
+		<group id="31" type="span" parent="32" relname="joint"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="29" type="span" parent="22" relname="elaboration"/>
+		<group id="28" type="multinuc" parent="23" relname="elaboration"/>
+		<group id="26" type="span" parent="28" relname="joint"/>
+		<group id="32" type="multinuc"/>
+	</body>
+</rst>

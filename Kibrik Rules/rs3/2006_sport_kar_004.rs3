@@ -1,0 +1,45 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="20" relname="preparation">Карелин:</segment>
+		<segment id="18" parent="20" relname="joint">обыграли тренеров,</segment>
+		<segment id="19" parent="20" relname="joint">да еще ничего им не сломали\n\nСборная Новосибирской области под руководством легендарного российского борца, трехкратного олимпийского чемпиона, героя России Александра Карелина обыграла в регбол команду гостей во главе с главным тренером сборной России по греко-римской борьбе Гоги Когуашвили с общим счетом 2:1.\n\nТаковы итоги товарищеского матча, проведенного в рамках XV Международного юношеского турнира по греко-римской борьбе \"Приз Карелина\", по игре в регбол – смесь регби и баскетбола,</segment>
+		<segment id="22" parent="24" relname="span">сообщает Агентство \"Весь спорт\".\n\nПервую партию выиграли сибиряки – 3:2,</segment>
+		<segment id="23" parent="22" relname="elaboration">причем решающий мяч в красивом стиле забросил сам Александр Карелин.</segment>
+		<segment id="26" parent="36" relname="sequence">Во второй они же подтвердили свой класс – 4:1.</segment>
+		<segment id="27" parent="31" relname="joint">И только в третьей партии сборной гостей, в которую входили главный тренер сборной России по греко-римской борьбе, пятикратный чемпион мира Гоги Когуашвили,</segment>
+		<segment id="30" parent="31" relname="joint">старший тренер юниорской сборной России, олимпийский чемпион Мнацакан Искандарян и чемпион Европы белорус Сергей Артюхин, сумели взять реванш – 6:2.\n\n\"Главное в этой игре было</segment>
+		<segment id="32" parent="34" relname="span">– чтобы все остались живы-здоровы,</segment>
+		<segment id="33" parent="32" relname="attribution">- резюмировал итог товарищеской игры Александр Карелин.</segment>
+		<segment id="38" parent="39" relname="attribution">– Беглый осмотр участников встречи показал,</segment>
+		<segment id="39" parent="40" relname="span">что травм и тяжелых повреждений избежать удалось.</segment>
+		<segment id="41" parent="45" relname="span">Рад вдвойне:</segment>
+		<segment id="42" parent="44" relname="joint">обыграли тренеров,</segment>
+		<segment id="43" parent="44" relname="joint">да еще ничего им не сломали\".\n\nИсточник: https://www.newsru.com/sport/14Oct2006/kar.html\n</segment>
+		<group id="37" type="multinuc" parent="47" relname="joint"/>
+		<group id="25" type="span" parent="37" relname="joint"/>
+		<group id="21" type="span" parent="24" relname="preparation"/>
+		<group id="20" type="multinuc" parent="21" relname="span"/>
+		<group id="24" type="span" parent="25" relname="span"/>
+		<group id="36" type="multinuc" parent="37" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="sequence"/>
+		<group id="31" type="multinuc" parent="35" relname="span"/>
+		<group id="34" type="span" parent="31" relname="purpose"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="40" type="span" parent="46" relname="joint"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="44" type="multinuc" parent="41" relname="elaboration"/>
+		<group id="47" type="multinuc"/>
+	</body>
+</rst>

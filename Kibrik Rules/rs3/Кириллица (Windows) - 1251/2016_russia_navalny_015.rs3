@@ -1,0 +1,153 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="67" parent="73" relname="span">Суд отказался принять иск Навального к Путину\n\nТверской суд Москвы ответил отказом основателю Фонда борьбы с коррупцией Алексею Навальному относительно его административного иска к президенту России Владимиру Путину.</segment>
+		<segment id="68" parent="71" relname="attribution">Об этом сообщает \"Интерфакс\".\n\nСам Навальный написал в Twitter,</segment>
+		<segment id="69" parent="71" relname="joint">что он \"ошеломлен</segment>
+		<segment id="70" parent="71" relname="joint">и шокирован\".</segment>
+		<segment id="74" parent="76" relname="span">\"Суд отказался рассматривать иск Навального к Путину.</segment>
+		<segment id="75" parent="74" relname="elaboration">Сослались на ст. 128 КАС\",</segment>
+		<segment id="77" parent="76" relname="attribution">- написал в Twitter юрист ФБК Иван Жданов.</segment>
+		<segment id="80" parent="87" relname="attribution">Он уточнил в Facebook,</segment>
+		<segment id="81" parent="87" relname="span">что речь идет о пункте 1 данной статьи.\n\nВ Кодексе административного судопроизводства говорится,</segment>
+		<segment id="82" parent="86" relname="span">что административный иск не подлежит рассмотрению,</segment>
+		<segment id="83" parent="84" relname="condition">если \"рассматривается</segment>
+		<segment id="84" parent="85" relname="span">и разрешается в ином судебном порядке\", в том числе \"порядке гражданского или уголовного судопроизводства либо арбитражным судом\".\n\n</segment>
+		<segment id="89" parent="93" relname="span">\"Интересно, нам отказали в иске к Путину</segment>
+		<segment id="90" parent="92" relname="span">не потому, что наши интересы не затронуты,</segment>
+		<segment id="91" parent="90" relname="cause-effect">а потому что (якобы) надо в другом порядке рассматривать\",</segment>
+		<segment id="94" parent="96" relname="joint">- говорится в микроблоге Навального.\n\n\"Такое определение суда незаконное</segment>
+		<segment id="95" parent="96" relname="joint">и подлежит отмене.</segment>
+		<segment id="97" parent="101" relname="span">Будем его обжаловать.</segment>
+		<segment id="98" parent="99" relname="attribution">Судья, вынесший его,</segment>
+		<segment id="99" parent="100" relname="span">точно будет внесен в \"Черный блокнот\" за вынесение заведомо незаконного решения\",</segment>
+		<segment id="102" parent="105" relname="attribution">- написал Иван Жданов.\n\nИз документа оппозиционера следовало,</segment>
+		<segment id="103" parent="105" relname="span">что глава государства должен был взять самоотвод,</segment>
+		<segment id="104" parent="103" relname="elaboration">когда компании \"Сибур\" предполагалось выдать 1,75 млрд долларов государственных денег.</segment>
+		<segment id="110" parent="115" relname="attribution">По словам Навального,</segment>
+		<segment id="111" parent="115" relname="span">одним из акционеров этой компании является Кирилл Шамалов,</segment>
+		<segment id="114" parent="111" relname="background">который, по данным СМИ, приходится мужем Катерине Тихоновой - младшей дочери президента.</segment>
+		<segment id="117" parent="133" relname="span">Навальный усмотрел в этой истории конфликт интересов.\n\n</segment>
+		<segment id="118" parent="119" relname="attribution">\"Грубо говоря,</segment>
+		<segment id="119" parent="120" relname="span">в этой ситуации Путин обязан сказать:</segment>
+		<segment id="121" parent="129" relname="contrast">хочу дать денег \"Сибуру\",</segment>
+		<segment id="122" parent="127" relname="cause-effect">но там мой зять в акционерах сидит,</segment>
+		<segment id="123" parent="127" relname="joint">поэтому сообщаю вам, граждане России, о конфликте интересов,</segment>
+		<segment id="124" parent="126" relname="span">решать вопрос этот не буду</segment>
+		<segment id="125" parent="124" relname="cause-effect">- пусть Медведев подписывает\",</segment>
+		<segment id="131" parent="130" relname="attribution">- объяснил Алексей Навальный.</segment>
+		<segment id="135" parent="136" relname="condition">Если этого не сделано,</segment>
+		<segment id="136" parent="137" relname="span">то налицо первый признак коррупции,</segment>
+		<segment id="138" parent="139" relname="span">считает Навальный.</segment>
+		<segment id="140" parent="141" relname="condition">\"Даже если вы поклонник Путина,</segment>
+		<segment id="141" parent="142" relname="span">вряд ли вы будете настаивать на том, что ему стоит лично раздавать наши миллиарды своей родне\",</segment>
+		<segment id="143" parent="148" relname="attribution">- указал он</segment>
+		<segment id="144" parent="147" relname="attribution">.\n\nЖурналисты указали,</segment>
+		<segment id="145" parent="147" relname="joint">что нет достоверных данных, доказывающих, что Шамалов - зять Путина,</segment>
+		<segment id="146" parent="147" relname="joint">а истцу надо доказывать предъявленные обвинения.</segment>
+		<segment id="152" parent="154" relname="span">\"Есть заявление в администрацию президента и прокуратуру,</segment>
+		<segment id="153" parent="152" relname="elaboration">где порядок другой,</segment>
+		<segment id="155" parent="156" relname="joint">и они должны \"проверить изложенные факты\",</segment>
+		<segment id="157" parent="161" relname="span">- ответил Навальный.\n\nМежду тем депутат Госдумы от \"Единой России\" Ирина Яровая раскритиковала иск Алексея Навального.</segment>
+		<segment id="158" parent="160" relname="span">\"Выпады против президента - это заведомо антиконституционные провокации против России\",</segment>
+		<segment id="159" parent="158" relname="attribution">- заявила она.</segment>
+		<segment id="163" parent="174" relname="interpretation-evaluation">Отметим, что</segment>
+		<segment id="164" parent="173" relname="attribution">согласно Конституции РФ</segment>
+		<segment id="165" parent="173" relname="joint">президент обладает неприкосновенностью.\n\n\"Его нельзя ни задержать,</segment>
+		<segment id="166" parent="168" relname="joint">ни обыскать,</segment>
+		<segment id="167" parent="168" relname="joint">ни арестовать,</segment>
+		<segment id="169" parent="171" relname="span">ни привлечь к любому виду правовой ответственности,</segment>
+		<segment id="170" parent="169" relname="condition">пока он состоит в должности Президента\",</segment>
+		<segment id="176" parent="185" relname="attribution">- объясняется статья 91 Конституции РФ комментариях Бархатовой Е.Ю.\n\nОднако, как указано в комментариях,</segment>
+		<segment id="177" parent="185" relname="joint">это не является индульгенцией,</segment>
+		<segment id="178" parent="184" relname="joint">и \"если деятельность Президента РФ прямо противоречит действующему законодательству</segment>
+		<segment id="179" parent="181" relname="span">и Президент РФ сознательно не предпринимает усилий</segment>
+		<segment id="180" parent="179" relname="purpose">для устранения возникшего нарушения\",</segment>
+		<segment id="182" parent="181" relname="cause-effect">то он теряет свой статус.\n\</segment>
+		<segment id="188" parent="190" relname="contrast">nПримечательно, что попытки подать в суд на президента РФ ранее уже были,</segment>
+		<segment id="189" parent="190" relname="contrast">однако они ни к чему не привели.\n\nИсточник: https://www.newsru.com/russia/12Feb2016/navalny.html\n</segment>
+		<group id="79" type="multinuc" parent="197" relname="joint"/>
+		<group id="73" type="span" parent="79" relname="sequence"/>
+		<group id="72" type="span" parent="67" relname="attribution"/>
+		<group id="71" type="multinuc" parent="72" relname="span"/>
+		<group id="78" type="span" parent="79" relname="sequence"/>
+		<group id="76" type="span" parent="78" relname="span"/>
+		<group id="196" type="multinuc" parent="197" relname="joint"/>
+		<group id="88" type="span" parent="196" relname="joint"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="86" type="span" parent="81" relname="elaboration"/>
+		<group id="85" type="span" parent="82" relname="condition"/>
+		<group id="195" type="multinuc" parent="196" relname="joint"/>
+		<group id="109" type="span" parent="195" relname="joint"/>
+		<group id="93" type="span" parent="109" relname="span"/>
+		<group id="92" type="span" parent="89" relname="cause-effect"/>
+		<group id="108" type="span" parent="93" relname="attribution"/>
+		<group id="96" type="multinuc" parent="108" relname="span"/>
+		<group id="107" type="span" parent="96" relname="elaboration"/>
+		<group id="101" type="span" parent="107" relname="span"/>
+		<group id="100" type="span" parent="97" relname="elaboration"/>
+		<group id="106" type="span" parent="101" relname="attribution"/>
+		<group id="105" type="span" parent="106" relname="span"/>
+		<group id="194" type="multinuc" parent="195" relname="joint"/>
+		<group id="134" type="span" parent="194" relname="joint"/>
+		<group id="116" type="span" parent="133" relname="preparation"/>
+		<group id="115" type="span" parent="116" relname="span"/>
+		<group id="133" type="span" parent="134" relname="span"/>
+		<group id="132" type="span" parent="117" relname="elaboration"/>
+		<group id="130" type="span" parent="132" relname="span"/>
+		<group id="120" type="span" parent="130" relname="span"/>
+		<group id="129" type="multinuc" parent="120" relname="elaboration"/>
+		<group id="128" type="span" parent="129" relname="contrast"/>
+		<group id="127" type="multinuc" parent="128" relname="span"/>
+		<group id="126" type="span" parent="127" relname="joint"/>
+		<group id="193" type="multinuc" parent="194" relname="joint"/>
+		<group id="151" type="multinuc" parent="193" relname="joint"/>
+		<group id="139" type="span" parent="151" relname="joint"/>
+		<group id="137" type="span" parent="138" relname="condition"/>
+		<group id="150" type="span" parent="151" relname="joint"/>
+		<group id="142" type="span" parent="150" relname="span"/>
+		<group id="149" type="span" parent="142" relname="attribution"/>
+		<group id="148" type="span" parent="149" relname="span"/>
+		<group id="147" type="multinuc" parent="148" relname="span"/>
+		<group id="192" type="multinuc" parent="193" relname="joint"/>
+		<group id="162" type="multinuc" parent="192" relname="joint"/>
+		<group id="156" type="multinuc" parent="162" relname="joint"/>
+		<group id="154" type="span" parent="156" relname="joint"/>
+		<group id="161" type="span" parent="162" relname="joint"/>
+		<group id="160" type="span" parent="157" relname="elaboration"/>
+		<group id="191" type="multinuc" parent="192" relname="joint"/>
+		<group id="187" type="span" parent="191" relname="comparison"/>
+		<group id="175" type="span" parent="187" relname="span"/>
+		<group id="174" type="span" parent="175" relname="span"/>
+		<group id="173" type="multinuc" parent="174" relname="span"/>
+		<group id="172" type="multinuc" parent="173" relname="joint"/>
+		<group id="168" type="multinuc" parent="172" relname="joint"/>
+		<group id="171" type="span" parent="172" relname="joint"/>
+		<group id="186" type="span" parent="175" relname="attribution"/>
+		<group id="185" type="multinuc" parent="186" relname="span"/>
+		<group id="184" type="multinuc" parent="185" relname="joint"/>
+		<group id="183" type="span" parent="184" relname="joint"/>
+		<group id="181" type="span" parent="183" relname="span"/>
+		<group id="190" type="multinuc" parent="191" relname="comparison"/>
+		<group id="197" type="multinuc"/>
+	</body>
+</rst>

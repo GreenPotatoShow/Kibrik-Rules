@@ -1,0 +1,56 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="27" relname="span">Прах Девотченко захоронили в поселке Комарово под Петербургом\n\nПрах актера Алексея Девотченко,</segment>
+		<segment id="24" parent="26" relname="joint">скончавшегося в Москве,</segment>
+		<segment id="25" parent="26" relname="joint">захоронили в среду на кладбище под Петербургом,</segment>
+		<segment id="28" parent="29" relname="attribution">сообщает \"Интерфакс\".\n\nДепутат Законодательного собрания Северной столицы Борис Вишневский сообщил агентству,</segment>
+		<segment id="29" parent="30" relname="span">что церемония началась в 11:00 в поселке Комарово.</segment>
+		<segment id="32" parent="33" relname="attribution">\"Насколько я знаю,</segment>
+		<segment id="33" parent="34" relname="span">пришли близкие и друзья Алексея\",</segment>
+		<segment id="35" parent="34" relname="attribution">- сказал Вишневский.\n\nТело Девотченко было обнаружено 5 ноября в московской квартире на Алтуфьевском шоссе.</segment>
+		<segment id="38" parent="42" relname="span">Следственный комитет проводит доследственную проверку по факту гибели актера.\n\</segment>
+		<segment id="41" parent="38" relname="elaboration">nПо данным источника агентства в правоохранительных органах, артист мог скончаться от сердечного приступа.</segment>
+		<segment id="43" parent="45" relname="joint">По другой версии, он мог в состоянии алкогольного опьянения упасть</segment>
+		<segment id="44" parent="45" relname="joint">и удариться головой.</segment>
+		<segment id="46" parent="48" relname="sequence">В съемной квартире, где проживал актер,</segment>
+		<segment id="47" parent="48" relname="sequence">обнаружены пустые бутылки из-под алкоголя.\n\nТочная причина гибели петербургского актера будет установлена по результатам судебно-медицинской экспертизы.\n\nАлексей Девотченко родился 14 октября 1965 года в Ленинграде.</segment>
+		<segment id="49" parent="48" relname="background">Еще в школе начал играть в ТЮЗе имени Брянцева.</segment>
+		<segment id="52" parent="62" relname="sequence">В 1990 году окончил Ленинградский государственный институт театра, музыки и кинематографии имени Н. К. Черкасова, мастерская Аркадия Кацмана и Льва Додина.</segment>
+		<segment id="53" parent="61" relname="sequence">В 2011-2012 годах работал в Московском театре юного зрителя.</segment>
+		<segment id="54" parent="60" relname="sequence">С 2012 года был в труппе Московского художественного театра имени Чехова.</segment>
+		<segment id="55" parent="59" relname="span">Последние годы работал в \"Гоголь-центре\".</segment>
+		<segment id="56" parent="58" relname="joint">Знаком зрителям по многим телесериалам и кинофильмам.\n\nАктер был известен своей активной гражданской позицией,</segment>
+		<segment id="57" parent="58" relname="joint">участвовал в акциях оппозиции.\n\nИсточник: https://www.newsru.com/cinema/19Nov2014/devotchenko.html\n</segment>
+		<group id="37" type="multinuc" parent="65" relname="joint"/>
+		<group id="31" type="multinuc" parent="37" relname="sequence"/>
+		<group id="27" type="span" parent="31" relname="sequence"/>
+		<group id="26" type="multinuc" parent="23" relname="background"/>
+		<group id="30" type="span" parent="31" relname="sequence"/>
+		<group id="36" type="span" parent="37" relname="sequence"/>
+		<group id="34" type="span" parent="36" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="42" type="span" parent="64" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="51" type="span" parent="63" relname="joint"/>
+		<group id="45" type="multinuc" parent="51" relname="span"/>
+		<group id="50" type="span" parent="45" relname="elaboration"/>
+		<group id="48" type="multinuc" parent="50" relname="span"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="61" type="multinuc" parent="62" relname="sequence"/>
+		<group id="60" type="multinuc" parent="61" relname="sequence"/>
+		<group id="59" type="span" parent="60" relname="sequence"/>
+		<group id="58" type="multinuc" parent="55" relname="elaboration"/>
+		<group id="65" type="multinuc"/>
+	</body>
+</rst>

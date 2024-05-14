@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="35" parent="37" relname="span">Джоан Роулинг ввела моду на роскошные дачи в Шотландии.</segment>
+		<segment id="36" parent="35" relname="elaboration">Среди последователей - один из самых богатых россиян Владимир Лисин\n\</segment>
+		<segment id="40" parent="42" relname="sequence">nКогда 21 июля этого года часы пробили полночь, писательница Джоан Роулинг начала читать первые страницы финальной книги о приключения Гарри Поттера.</segment>
+		<segment id="41" parent="42" relname="sequence">Слушателями были английские дети, набившиеся в главный зал лондонского Музея Естественной Истории.</segment>
+		<segment id="43" parent="45" relname="sequence">Седьмой бестселлер о мальчике-волшебнике стал окончанием изматывающего пути, который прошла Роулинг.</segment>
+		<segment id="44" parent="45" relname="sequence">Отдыхать писательница поехала в свое поместье 19 века на берегах реки Тэй в шотландском Пертшире.</segment>
+		<segment id="46" parent="54" relname="joint">Об этом пишет Financial Times.\n\nВ последние годы Пертшир привлек немало супербогачей, искавших традиционную сельскую недвижимость,</segment>
+		<segment id="47" parent="49" relname="span">а также менее состоятельных жителей Лондона и Эдинбурга, которые любят живописные виды шотландских деревень.\n\nВ доме Роулинг,</segment>
+		<segment id="48" parent="47" relname="background">который писательница приобрела в 2001 году,</segment>
+		<segment id="50" parent="52" relname="sequence">7 спален,</segment>
+		<segment id="51" parent="52" relname="sequence">а построен он был шотландским генералом в 1865 году.</segment>
+		<segment id="57" parent="59" relname="span">Стоимость сделки не разглашалась</segment>
+		<segment id="58" parent="57" relname="elaboration">(эксперты называли суммы от 600 тысяч фунтов до 2 млн),</segment>
+		<segment id="60" parent="61" relname="contrast">но вряд ли ошибется тот, кто скажет, что сейчас этот дом стоит не один миллион.</segment>
+		<segment id="62" parent="70" relname="joint">Спустя три года основательница туристической империи Stagecoach Энн Глог купила замок Кинфаунс рядом с городком Перт за 4 млн фунтов,</segment>
+		<segment id="63" parent="65" relname="span">а в 2005 году металлургический магнат Владимир Лисин</segment>
+		<segment id="64" parent="63" relname="elaboration">(занимает 7 позицию в списки самых богатых россиян)</segment>
+		<segment id="66" parent="68" relname="contrast">потратил на замок в той же местности 6,8 млн фунтов.\n\nПодобные приобретения вошли в моду у нового поколения британских богачей, которые сколотили свое состояние сами,</segment>
+		<segment id="67" parent="68" relname="contrast">а не получили многомиллионные наследства.</segment>
+		<segment id="71" parent="75" relname="comparison">Поместья в Шотландии они рассматривают скорее как дачу,</segment>
+		<segment id="72" parent="74" relname="joint">чем в качестве места постоянного проживания</segment>
+		<segment id="73" parent="74" relname="joint">.\n\nЦентральную Шотландию нельзя назвать местом густо заселенным.</segment>
+		<segment id="76" parent="78" relname="span">На 5000 кв.</segment>
+		<segment id="77" parent="76" relname="elaboration">Км, которые занимают Перт и Кинрос, приходится менее 150 тысяч обитателей.</segment>
+		<segment id="80" parent="82" relname="span">Это приводит к тому, что рынком там движут весьма специфичные факторы, как например близость полей для гольфа или наличие хороших винокуренных заводов,</segment>
+		<segment id="81" parent="80" relname="elaboration">где делают виски.\n\</segment>
+		<segment id="83" parent="82" relname="elaboration">nПереезд знаменитостей вроде Джоан Роулинг в Шотландию рассматривается покупателями недвижимости как благоприятный фактор.</segment>
+		<segment id="85" parent="87" relname="comparison">Средняя цена за резиденцию составляет сейчас 174 тысячи фунтов,</segment>
+		<segment id="86" parent="87" relname="comparison">тот же показатель в 2005 году составлял \"всего\" 138 тысяч фунтов.\n\</segment>
+		<segment id="88" parent="90" relname="span">nСтоит отметить, что помимо прелестей спокойной сельской жизни богатые семьи едут в Шотландию,</segment>
+		<segment id="89" parent="88" relname="purpose">чтобы дать хорошее образование своим потомкам.</segment>
+		<segment id="91" parent="93" relname="span">Престижные школы региона,</segment>
+		<segment id="92" parent="91" relname="elaboration">основанные еще в 19 столетии, прославились плеядой знаменитых выпускников.\n\nИсточник: https://www.newsru.com/realty/22Oct2007/rowling.html\n</segment>
+		<group id="37" type="span" parent="100" relname="preparation"/>
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="56" type="multinuc" parent="100" relname="joint"/>
+		<group id="42" type="multinuc" parent="56" relname="sequence"/>
+		<group id="55" type="span" parent="56" relname="sequence"/>
+		<group id="45" type="multinuc" parent="55" relname="span"/>
+		<group id="54" type="multinuc" parent="45" relname="elaboration"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="49" type="span" parent="53" relname="span"/>
+		<group id="52" type="multinuc" parent="49" relname="background"/>
+		<group id="99" type="multinuc" parent="100" relname="joint"/>
+		<group id="61" type="multinuc" parent="99" relname="joint"/>
+		<group id="59" type="span" parent="61" relname="contrast"/>
+		<group id="98" type="multinuc" parent="99" relname="joint"/>
+		<group id="70" type="multinuc" parent="98" relname="joint"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="65" type="span" parent="69" relname="sequence"/>
+		<group id="68" type="multinuc" parent="69" relname="sequence"/>
+		<group id="97" type="multinuc" parent="98" relname="joint"/>
+		<group id="79" type="span" parent="97" relname="joint"/>
+		<group id="75" type="multinuc" parent="79" relname="span"/>
+		<group id="74" type="multinuc" parent="75" relname="comparison"/>
+		<group id="78" type="span" parent="75" relname="elaboration"/>
+		<group id="96" type="span" parent="97" relname="joint"/>
+		<group id="84" type="span" parent="96" relname="span"/>
+		<group id="82" type="span" parent="84" relname="span"/>
+		<group id="95" type="multinuc" parent="84" relname="elaboration"/>
+		<group id="87" type="multinuc" parent="95" relname="comparison"/>
+		<group id="94" type="span" parent="95" relname="comparison"/>
+		<group id="90" type="span" parent="94" relname="span"/>
+		<group id="93" type="span" parent="90" relname="background"/>
+		<group id="101" type="span"/>
+	</body>
+</rst>

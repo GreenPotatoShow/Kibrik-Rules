@@ -1,0 +1,40 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="16" relname="span">В Чечне похищен солдат,</segment>
+		<segment id="15" parent="14" relname="background">прибывший домой в отпуск из Ленинградской области\n\</segment>
+		<segment id="17" parent="25" relname="joint">nВ Чечне похищен военнослужащий срочной службы,</segment>
+		<segment id="18" parent="20" relname="joint">проходящий службу в Ленинградской области</segment>
+		<segment id="19" parent="20" relname="joint">и прибывший домой в отпуск.\n\nВ Гудермесском городском отделе внутренних дел \"Интерфаксу\" сообщили,</segment>
+		<segment id="21" parent="23" relname="span">что в ночь с четверга на пятницу группа неизвестных бандитов проникла в дом на улице Тепловозная,</segment>
+		<segment id="22" parent="21" relname="background">в котором находился прибывший в краткосрочный отпуск домой к родным солдат срочной службы Мурат Бисултанов.\n\</segment>
+		<segment id="26" parent="30" relname="same-unit">nУгрожая оружием,</segment>
+		<segment id="27" parent="29" relname="joint">бандиты забрали Бисултанова с собой</segment>
+		<segment id="28" parent="29" relname="joint">и увезли в неизвестном направлении</segment>
+		<segment id="32" parent="36" relname="joint">.Установить местонахождение похищенного пока не удалось.\n\nС декабря 2002 года Бисултанов проходит службу в рядах Вооруженных сил Российской Федерации в поселке Ледашова Выборгского района Ленинградской области.\n\nВ городе организованы интенсивные поиски Бисултанова,</segment>
+		<segment id="33" parent="35" relname="span">проводятся оперативно-следственные мероприятия с целью установления и задержания лиц, причастных к этому инциденту,</segment>
+		<segment id="34" parent="33" relname="attribution">отметили в милиции.\n\nИсточник: https://www.newsru.com/russia/12Dec2003/kidnap.html\n</segment>
+		<group id="16" type="span" parent="37" relname="preparation"/>
+		<group id="37" type="multinuc" parent="38" relname="span"/>
+		<group id="31" type="multinuc" parent="37" relname="joint"/>
+		<group id="25" type="multinuc" parent="31" relname="same-unit"/>
+		<group id="24" type="multinuc" parent="25" relname="joint"/>
+		<group id="20" type="multinuc" parent="24" relname="sequence"/>
+		<group id="23" type="span" parent="24" relname="sequence"/>
+		<group id="30" type="multinuc" parent="31" relname="same-unit"/>
+		<group id="29" type="multinuc" parent="30" relname="same-unit"/>
+		<group id="36" type="multinuc" parent="37" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="38" type="span"/>
+	</body>
+</rst>

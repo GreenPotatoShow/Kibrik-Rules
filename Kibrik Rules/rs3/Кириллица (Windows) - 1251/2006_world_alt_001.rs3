@@ -1,0 +1,47 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="18" relname="span">Полиция выявила в гамбургской квартире Дмитрия Ковтуна следы радиации\n\nПредставители немецкой полиции заявляют,</segment>
+		<segment id="17" parent="16" relname="background">что обнаружили радиоактивный след в гамбургской квартире Дмитрия Ковтуна - одного из свидетелей по делу о гибели Александра Литвиненко,</segment>
+		<segment id="19" parent="18" relname="attribution">сообщает ВВС</segment>
+		<segment id="21" parent="22" relname="attribution">.\n\nПри этом стражи порядка сообщили,</segment>
+		<segment id="22" parent="23" relname="span">что не нашли в здании источника радиоактивного излучения.</segment>
+		<segment id="24" parent="26" relname="span">Однако он мог в определенный момент находиться в квартире,</segment>
+		<segment id="25" parent="24" relname="elaboration">о чем свидетельствует наличие радиоактивных следов.\n\</segment>
+		<segment id="27" parent="28" relname="attribution">nПо словам представительницы полиции Гамбурга,</segment>
+		<segment id="28" parent="29" relname="span">источником излучения мог быть как предмет, так и человек.</segment>
+		<segment id="30" parent="36" relname="sequence">Сейчас квартира опечатана.\n\nПолиция Гамбурга выразила намерение изучить квартиру Дмитрия Ковтуна на предмет следов полония-210,</segment>
+		<segment id="31" parent="34" relname="attribution">которым был отравлен Литвиненко.\n\nОбыск в гамбургской квартире последовал за сообщениями о том,</segment>
+		<segment id="32" parent="33" relname="attribution">что Ковтун прилетел на встречу с Литвиненко в Лондон из Гамбурга.\n\nРанее сообщалось,</segment>
+		<segment id="33" parent="34" relname="span">что Дмитрий Ковтун находится в одной из московских больниц с симптомами отравления радиоактивным полонием-210.</segment>
+		<segment id="40" parent="41" relname="attribution">По данным медиков,</segment>
+		<segment id="41" parent="42" relname="span">это же послужило причиной смерти Литвиненко в Лондоне.\n\nИсточник: https://www.newsru.com/world/09Dec2006/alt.html\n</segment>
+		<group id="20" type="span" parent="44" relname="joint"/>
+		<group id="18" type="span" parent="20" relname="span"/>
+		<group id="43" type="span" parent="44" relname="joint"/>
+		<group id="39" type="multinuc" parent="43" relname="span"/>
+		<group id="23" type="span" parent="39" relname="contrast"/>
+		<group id="38" type="span" parent="39" relname="contrast"/>
+		<group id="26" type="span" parent="38" relname="span"/>
+		<group id="37" type="multinuc" parent="26" relname="evidence"/>
+		<group id="29" type="span" parent="37" relname="joint"/>
+		<group id="36" type="multinuc" parent="37" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="sequence"/>
+		<group id="34" type="span" parent="35" relname="span"/>
+		<group id="42" type="span" parent="39" relname="interpretation-evaluation"/>
+		<group id="44" type="multinuc"/>
+	</body>
+</rst>

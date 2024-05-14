@@ -1,0 +1,90 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="43" parent="118" relname="preparation">Убийство семи мордовских милиционеров в Чечне оказалось экзаменом для юных террористов\n\nМордовских омоновцев, попавших накануне в засаду на границе Шатойского и Шаройского районов Чечни, атаковала группировка террористов-новобранцев.</segment>
+		<segment id="44" parent="48" relname="span">Как выяснилось, нападение на милиционеров стало чем-то вроде экзамена для юных диверсантов,</segment>
+		<segment id="45" parent="47" relname="joint">которых более опытные бандиты обучили за лето</segment>
+		<segment id="46" parent="47" relname="joint">и вывели на одно из первых заданий.</segment>
+		<segment id="49" parent="53" relname="joint">Расстреляв семерых российских милиционеров,</segment>
+		<segment id="50" parent="51" relname="cause-effect">молодые боевики успешно сдали экзамен.\n\nОни обстреляли две машины Сводного отряда милиции (СОМ) Мордовии,</segment>
+		<segment id="51" parent="52" relname="span">в результате чего обе машины загорелись.</segment>
+		<segment id="55" parent="57" relname="span">В перестрелке семеро сотрудников милиции погибли,</segment>
+		<segment id="56" parent="55" relname="elaboration">среди которых - четыре офицера.</segment>
+		<segment id="58" parent="68" relname="joint">Ранения получил один майор милиции</segment>
+		<segment id="61" parent="67" relname="joint">.\n\nКак сообщает сегодня \"Российская газета\" со ссылкой на источники в республике, территория на границе Шатойского и Шаройского районов,</segment>
+		<segment id="62" parent="66" relname="joint">где произошел теракт,</segment>
+		<segment id="63" parent="65" relname="span">подконтрольна нынешнему главарю боевиков Доке Умарову,</segment>
+		<segment id="64" parent="63" relname="elaboration">который объявил себя новым президентом Ичкерии.\n\</segment>
+		<segment id="70" parent="73" relname="attribution">nОднако ранее прокурор Чеченской Республики Валерий Кузнецов заявил,</segment>
+		<segment id="73" parent="74" relname="span">что главарем группы, совершившей обстрел милиционеров, является некий Сайдамин Дадаев.</segment>
+		<segment id="75" parent="76" relname="joint">Он может быть полевым командиром или инструктором \"новобранцев\" в составе банд Умарова.\n\n9 ноября руководитель пресс-службы Объединенной группировки войск (ОГВ) на Северном Кавказе подполковник Николай Варавин сообщил:</segment>
+		<segment id="77" parent="79" relname="span">\"Участок дороги, на котором произошел инцидент, по своему рельефу, окруженности горами и лесным массивом</segment>
+		<segment id="78" parent="77" relname="elaboration">является одним из опасных не только для передвижения воинских колонн, должностных лиц, но и гражданского населения.</segment>
+		<segment id="80" parent="84" relname="span">В настоящее время принимаются меры,</segment>
+		<segment id="81" parent="83" relname="joint">чтобы взять этот участок под полный контроль</segment>
+		<segment id="82" parent="83" relname="joint">и исключить впредь подобные события\".\n\nВаравин не объявил последних данных по поводу количества жертв теракта,</segment>
+		<segment id="85" parent="93" relname="span">однако по информации, распространенной на территории Грозного и в Гудермесе,</segment>
+		<segment id="86" parent="92" relname="joint">пострадавших было больше, чем семь человек,</segment>
+		<segment id="87" parent="91" relname="joint">и бой был не скоротечным,</segment>
+		<segment id="88" parent="90" relname="joint">как сообщалось раньше,</segment>
+		<segment id="89" parent="90" relname="joint">а довольно продолжительным и ожесточенным.\n\</segment>
+		<segment id="96" parent="101" relname="attribution">nСогласно этим данным,</segment>
+		<segment id="97" parent="101" relname="joint">боевики были хорошо вооружены,</segment>
+		<segment id="98" parent="100" relname="joint">действовали слаженно, молниеносно</segment>
+		<segment id="99" parent="100" relname="joint">и не понесли никаких потерь.</segment>
+		<segment id="103" parent="107" relname="joint">После проведения атаки им удалось быстро скрыться.\n\nМинистр внутренних дел Мордовии Николай Ларьков срочно вылетел в Чечню.</segment>
+		<segment id="104" parent="106" relname="span">Он будет контролировать проведение расследования теракта.</segment>
+		<segment id="105" parent="104" relname="elaboration">Это не первое нападение на мордовского милиционера в Чечне.</segment>
+		<segment id="109" parent="113" relname="span">5 ноября на фугасе подорвался омоновец Илья Чекайкин.</segment>
+		<segment id="110" parent="112" relname="span">Этот инцидент посчитали случайностью.</segment>
+		<segment id="111" parent="110" relname="evidence">Сейчас же после гибели целого отряда милиционеров, оперативники подозревают, что банда некоего Сайдамина Дадаева объявила охоту на омоновцев из Мордовии.\n\nИсточник: https://www.newsru.com/russia/10Nov2006/omon.html\n</segment>
+		<group id="118" type="span" parent="119" relname="span"/>
+		<group id="54" type="span" parent="117" relname="preparation"/>
+		<group id="48" type="span" parent="54" relname="span"/>
+		<group id="47" type="multinuc" parent="44" relname="elaboration"/>
+		<group id="53" type="multinuc" parent="48" relname="elaboration"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="117" type="multinuc" parent="118" relname="span"/>
+		<group id="69" type="span" parent="117" relname="joint"/>
+		<group id="57" type="span" parent="69" relname="span"/>
+		<group id="68" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="116" type="multinuc" parent="117" relname="joint"/>
+		<group id="76" type="multinuc" parent="116" relname="joint"/>
+		<group id="74" type="span" parent="76" relname="joint"/>
+		<group id="115" type="multinuc" parent="116" relname="joint"/>
+		<group id="95" type="span" parent="115" relname="joint"/>
+		<group id="79" type="span" parent="95" relname="span"/>
+		<group id="94" type="multinuc" parent="79" relname="elaboration"/>
+		<group id="84" type="span" parent="94" relname="contrast"/>
+		<group id="83" type="multinuc" parent="80" relname="purpose"/>
+		<group id="93" type="span" parent="94" relname="contrast"/>
+		<group id="92" type="multinuc" parent="85" relname="elaboration"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="114" type="multinuc" parent="115" relname="joint"/>
+		<group id="108" type="span" parent="114" relname="joint"/>
+		<group id="102" type="span" parent="107" relname="cause-effect"/>
+		<group id="101" type="multinuc" parent="102" relname="span"/>
+		<group id="100" type="multinuc" parent="101" relname="joint"/>
+		<group id="107" type="multinuc" parent="108" relname="span"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="113" type="span" parent="114" relname="joint"/>
+		<group id="112" type="span" parent="109" relname="elaboration"/>
+		<group id="119" type="span"/>
+	</body>
+</rst>

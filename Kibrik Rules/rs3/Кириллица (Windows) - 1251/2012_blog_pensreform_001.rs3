@@ -1,0 +1,37 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="13" parent="17" relname="span">ћихаил ѕрохоров: \"ќ новом варианте пенсионной реформы\"\n\n\"”равниловки в пенсионном вопросе быть не должно,</segment>
+		<segment id="14" parent="16" relname="span">это наследие советской эпохи,</segment>
+		<segment id="15" parent="14" relname="elaboration">от которого рано или поздно всем нам придетс€ отказатьс€.</segment>
+		<segment id="18" parent="17" relname="interpretation-evaluation">¬ этой св€зи предлагаю решение, которое должно стать компромиссом дл€ рыночников и сторонников консервативных подходов к пенсионной реформе...</segment>
+		<segment id="20" parent="23" relname="attribution">я считаю,</segment>
+		<segment id="23" parent="24" relname="span">что дл€ всех тех, кто получает до полумиллиона рублей в год, всю сумму страховых взносов нужно перечисл€ть на формирование страховой части пенсии, а не накопительной.</segment>
+		<segment id="25" parent="24" relname="interpretation-evaluation">¬ыигрыш их очевиден.</segment>
+		<segment id="27" parent="33" relname="contrast">—ерьезную накопительную пенсию при маленькой заработной плате не накопишь.</segment>
+		<segment id="28" parent="31" relname="attribution">Ќо при этом расчеты показывают,</segment>
+		<segment id="29" parent="30" relname="condition">что если все пенсионные платежи за такого работника будут направл€тьс€ в страховую часть,</segment>
+		<segment id="30" parent="31" relname="span">то его пенси€ в самом плохом варианте будет расти процентов на 20% быстрее, чем при существующей системе.\"\n\n»сточник: https://www.newsru.com/blog/27Sep2012/pensreform.html\n</segment>
+		<group id="19" type="span" parent="35" relname="joint"/>
+		<group id="17" type="span" parent="19" relname="span"/>
+		<group id="16" type="span" parent="13" relname="interpretation-evaluation"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="26" type="span" parent="33" relname="preparation"/>
+		<group id="24" type="span" parent="26" relname="span"/>
+		<group id="33" type="multinuc" parent="34" relname="span"/>
+		<group id="32" type="span" parent="33" relname="contrast"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="35" type="multinuc"/>
+	</body>
+</rst>

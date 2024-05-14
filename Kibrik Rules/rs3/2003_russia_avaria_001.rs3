@@ -1,0 +1,26 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="8" parent="10" relname="span">Крупная авария на Каширском шоссе в Москве:</segment>
+		<segment id="9" parent="8" relname="elaboration">столкнулись 9 машин\n\nКрупная авария произошла утром 3 марта на Каширском шоссе,</segment>
+		<segment id="11" parent="12" relname="comparison">сообщает \"Эхо Москвы\".\n\nВ районе поворота на Братеево столкнулись сразу семь легковых автомобилей, грузовик ЗИЛ и автобус \"Икарус\".</segment>
+		<segment id="13" parent="14" relname="cause-effect">Все автомобили двигались в сторону центра.\n\nДвижение в районе аварии полностью перекрыто,</segment>
+		<segment id="14" parent="15" relname="span">сейчас там образовалась огромная пробка.\n\</segment>
+		<segment id="16" parent="18" relname="joint">nВ результате аварии пострадало несколько человек,</segment>
+		<segment id="17" parent="18" relname="joint">погибших нет.\n\nИсточник: https://www.newsru.com/russia/03Mar2003/avaria.html\n</segment>
+		<group id="12" type="multinuc" parent="20" relname="joint"/>
+		<group id="10" type="span" parent="12" relname="comparison"/>
+		<group id="19" type="multinuc" parent="20" relname="joint"/>
+		<group id="15" type="span" parent="19" relname="joint"/>
+		<group id="18" type="multinuc" parent="19" relname="joint"/>
+		<group id="20" type="multinuc"/>
+	</body>
+</rst>

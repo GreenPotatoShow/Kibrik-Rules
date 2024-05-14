@@ -1,0 +1,89 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="restatement" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="36" parent="40" relname="span">В Сочи идет подготовка роботов к подъему \"черных ящиков\" рухнувшего армянского аэробуса А-320\n\nНа судно \"Навигатор\",</segment>
+		<segment id="37" parent="38" relname="cause-effect">которое будет работать на месте катастрофы близ Сочи аэробуса А-320 компании \"Армянские авиалинии\",</segment>
+		<segment id="38" parent="39" relname="span">идет установка глубоководного робота,</segment>
+		<segment id="41" parent="40" relname="attribution">сообщил в понедельник агентству \"Интерфакс\" источник в штабе по техническому обеспечению поисковой операции.\n\nРобот был доставлен в минувшее воскресенье вечером.</segment>
+		<segment id="43" parent="45" relname="span">С его помощью спасатели постараются достать \"черные ящики\" потерпевшего крушение аэробуса,</segment>
+		<segment id="44" parent="43" relname="elaboration">местонахождение которых определено с точностью до полутора метров.\n\n</segment>
+		<segment id="47" parent="51" relname="span">\"Пока невозможно сказать,</segment>
+		<segment id="48" parent="49" relname="condition">когда начнется непосредственный процесс точного обнаружения и поднятия бортовых самописцев,</segment>
+		<segment id="49" parent="50" relname="span">так как это зависит не только от времени, которое должно уйти на монтаж робота, но и от погоды\",</segment>
+		<segment id="52" parent="51" relname="attribution">- пояснил он</segment>
+		<segment id="54" parent="55" relname="restatement">.\n\</segment>
+		<segment id="56" parent="57" relname="attribution">nМинистр транспорта РФ Игорь Левитин подтвердил,</segment>
+		<segment id="57" parent="58" relname="span">что судно \"Навигатор\" с установленным оборудованием во вторник начнет работы на месте катастрофы.</segment>
+		<segment id="59" parent="61" relname="span">\"Сегодня на судне \"Беклемишев\" из Новороссийска было доставлено необходимое оборудование,</segment>
+		<segment id="60" parent="59" relname="attribution">о котором мы говорили в субботу на правительственной комиссии.</segment>
+		<segment id="62" parent="63" relname="joint">Сегодня оно должно быть переставлено на судно \"Навигатор\", которое с завтрашнего дня должно начать работу\",</segment>
+		<segment id="64" parent="63" relname="attribution">- заявил он журналистам.</segment>
+		<segment id="66" parent="68" relname="span">Операция по подъему \"черных ящиков\" может занять двое-трое суток,</segment>
+		<segment id="67" parent="66" relname="attribution">отметил министр.</segment>
+		<segment id="69" parent="71" relname="span">\"А дальше все будет зависеть от погодных условий\",</segment>
+		<segment id="70" parent="69" relname="attribution">- добавил он</segment>
+		<segment id="72" parent="77" relname="attribution">.\n\nКак ранее сообщал Левитин,</segment>
+		<segment id="73" parent="77" relname="comparison">\"черные ящики\" находятся на глубине 496 метров,</segment>
+		<segment id="74" parent="76" relname="span">видимость в данном районе достаточная</segment>
+		<segment id="75" parent="74" relname="purpose">для проведения операции по подъему.\n\nВо вторник в район поиска должны прибыть глубоководные аппараты \"Тайгер\" Черноморского флота РФ и робот РТ-1000 разработки \"Южморгеологии\".</segment>
+		<segment id="79" parent="83" relname="span">Он оборудован специальными захватами-манипуляторами,</segment>
+		<segment id="80" parent="82" relname="span">сообщил РИА \"Новости\" представитель \"Южморгеологии\".\n\nВ ночь на 3 мая</segment>
+		<segment id="81" parent="80" relname="background">при заходе на посадку в аэропорт Адлер</segment>
+		<segment id="84" parent="88" relname="span">в сложных погодных условиях в 6 км от берега потерпел катастрофу самолет А-320,</segment>
+		<segment id="85" parent="87" relname="joint">принадлежавший авиакомпании \"Армянские авиалинии\" (Армения)</segment>
+		<segment id="86" parent="87" relname="joint">и совершавший рейс по маршруту Ереван-Сочи.</segment>
+		<segment id="89" parent="90" relname="cause-effect">На борту находились 105 пассажиров и 8 членов экипажа,</segment>
+		<segment id="90" parent="91" relname="span">все они погибли.</segment>
+		<segment id="92" parent="94" relname="joint">В ходе поисковых работ было обнаружено 51 тело,</segment>
+		<segment id="93" parent="94" relname="joint">опознано 47.\n\nИсточник: https://www.newsru.com/russia/15May2006/planes.html\n</segment>
+		<group id="46" type="multinuc" parent="104" relname="joint"/>
+		<group id="42" type="span" parent="46" relname="joint"/>
+		<group id="40" type="span" parent="42" relname="span"/>
+		<group id="39" type="span" parent="36" relname="elaboration"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="55" type="multinuc" parent="103" relname="joint"/>
+		<group id="53" type="span" parent="55" relname="restatement"/>
+		<group id="51" type="span" parent="53" relname="span"/>
+		<group id="50" type="span" parent="47" relname="condition"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="58" type="span" parent="102" relname="joint"/>
+		<group id="101" type="multinuc" parent="102" relname="joint"/>
+		<group id="65" type="span" parent="101" relname="joint"/>
+		<group id="63" type="multinuc" parent="65" relname="span"/>
+		<group id="61" type="span" parent="63" relname="joint"/>
+		<group id="100" type="multinuc" parent="101" relname="joint"/>
+		<group id="68" type="span" parent="100" relname="joint"/>
+		<group id="99" type="multinuc" parent="100" relname="joint"/>
+		<group id="71" type="span" parent="99" relname="joint"/>
+		<group id="98" type="multinuc" parent="99" relname="joint"/>
+		<group id="78" type="span" parent="98" relname="joint"/>
+		<group id="77" type="multinuc" parent="78" relname="span"/>
+		<group id="76" type="span" parent="77" relname="comparison"/>
+		<group id="97" type="span" parent="98" relname="joint"/>
+		<group id="83" type="span" parent="97" relname="span"/>
+		<group id="82" type="span" parent="79" relname="attribution"/>
+		<group id="96" type="span" parent="83" relname="purpose"/>
+		<group id="88" type="span" parent="96" relname="span"/>
+		<group id="87" type="multinuc" parent="84" relname="elaboration"/>
+		<group id="95" type="span" parent="88" relname="elaboration"/>
+		<group id="91" type="span" parent="95" relname="span"/>
+		<group id="94" type="multinuc" parent="91" relname="elaboration"/>
+		<group id="104" type="multinuc"/>
+	</body>
+</rst>

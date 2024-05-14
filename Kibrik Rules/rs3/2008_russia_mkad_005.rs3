@@ -1,0 +1,40 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="18" relname="span">Крупное ДТП на МКАД:</segment>
+		<segment id="15" parent="17" relname="joint">столкнулись три автомобиля,</segment>
+		<segment id="16" parent="17" relname="joint">загорелся бензин\n\</segment>
+		<segment id="19" parent="21" relname="span">nНа внутренней стороне Московской кольцевой автодороги столкнулись три автомобиля,</segment>
+		<segment id="20" parent="19" relname="elaboration">в том числе грузовой ЗИЛ,</segment>
+		<segment id="22" parent="21" relname="attribution">сообщает РИА \"Новости\" со ссылкой на представителя правоохранительных органов.\n\</segment>
+		<segment id="24" parent="28" relname="span">nВ результате ДТП,</segment>
+		<segment id="25" parent="27" relname="joint">которое произошло на 90-м километре МКАД, в районе Осташковского шоссе, разлился</segment>
+		<segment id="26" parent="27" relname="joint">и воспламенился бензин.</segment>
+		<segment id="30" parent="32" relname="span">Никто не пострадал,</segment>
+		<segment id="31" parent="30" relname="elaboration">на месте работают пожарные расчеты и сотрудники ГАИ,</segment>
+		<segment id="33" parent="32" relname="attribution">сказал собеседник агентства.</segment>
+		<segment id="35" parent="34" relname="cause-effect">Из-за аварии на этом участке МКАД затруднено движение автотранспорта.\n\nИсточник: https://www.newsru.com/russia/19Jun2008/mkad.html\n</segment>
+		<group id="18" type="span" parent="38" relname="span"/>
+		<group id="17" type="multinuc" parent="14" relname="elaboration"/>
+		<group id="37" type="multinuc" parent="18" relname="elaboration"/>
+		<group id="29" type="multinuc" parent="37" relname="sequence"/>
+		<group id="23" type="span" parent="29" relname="sequence"/>
+		<group id="21" type="span" parent="23" relname="span"/>
+		<group id="28" type="span" parent="29" relname="sequence"/>
+		<group id="27" type="multinuc" parent="24" relname="background"/>
+		<group id="36" type="span" parent="37" relname="sequence"/>
+		<group id="34" type="span" parent="36" relname="span"/>
+		<group id="32" type="span" parent="34" relname="span"/>
+		<group id="38" type="span"/>
+	</body>
+</rst>

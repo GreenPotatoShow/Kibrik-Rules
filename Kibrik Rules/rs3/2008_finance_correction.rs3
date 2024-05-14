@@ -1,0 +1,319 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="evidence" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="150" parent="445" relname="preparation">Рынок акций РФ пережил \"черный вторник\"</segment>
+		<segment id="151" parent="153" relname="span">- торги на ММВБ и РТС пришлось остановить</segment>
+		<segment id="152" parent="151" relname="cause-effect">из-за панического обвала\n\</segment>
+		<segment id="154" parent="158" relname="span">nМасштабный обвал российского рынка,</segment>
+		<segment id="157" parent="154" relname="background">подобного которому не наблюдалось со времен событий, связанных с дефолтом 1998 года, произошел во вторник.</segment>
+		<segment id="159" parent="160" relname="sequence">РТС и ММВБ сегодня целый день приостанавливали торги отдельными акциями.</segment>
+		<segment id="162" parent="163" relname="condition">Наконец, когда технические индексы основных фондовых площадок России упали более чем на 8 проц,</segment>
+		<segment id="163" parent="164" relname="span">торги были приостановлены на час.</segment>
+		<segment id="165" parent="166" relname="contrast">Однако на ММВБ это произошло в 17.42 мск,</segment>
+		<segment id="167" parent="168" relname="comparison">а в РТС - в 17.00 мск.</segment>
+		<segment id="169" parent="173" relname="joint">Таким образом, ММВБ открылась сегодня еще на 3 минуты,</segment>
+		<segment id="170" parent="172" relname="span">а РТС вообще больше не торговала,</segment>
+		<segment id="171" parent="170" relname="elaboration">передает ИТАР-ТАСС.\n\nВсе больше и больше бумаг попадало в группу с темпами снижения курсовой стоимости, исчисляемой двузначными числами.</segment>
+		<segment id="174" parent="173" relname="elaboration">В частности, падение акций \"РусГидро\" на ФБ ММВБ составило 20,4%, ФСК ЕЭС - 28,6%, \"Транснефти\" (РТС: TRNF) - 16,5%, ВТБ (РТС: VTBR) - 15,7%, обыкновенных акций Сбербанка РФ (РТС: SBER) - 14,3% (\"префы\" Сбербанка теряют 15,9%), обыкновенных акций \"Ростелекома\" (РТС: RTKM) - 16,3%, \"Роснефти\" (РТС: ROSN) - 10,3%, \"НОВАТЭКа\" (РТС: NVTK) - 10,8%, \"Уралкалия\" (РТС: URKA) - 12,9%, \"Уралсвязьинформа\" (РТС: URSI) - 15%, \"префов\" \"Ростелекома\" - 15,5%.\n\nВ правительстве вечером прошло экстренное совещание под председательством первого вице-премьера Игоря Шувалова.</segment>
+		<segment id="177" parent="178" relname="attribution">Ни повестки дня, ни итогов прессе не объявили,</segment>
+		<segment id="178" parent="179" relname="span">известно лишь, что на совещание пришли вице-премьер - министр финансов Алексей Кудрин, глава министерства экономического развития Эльвира Набиуллина, глава ЦБР Сергей Игнатьев, первый зампред ЦБР Алексей Улюкаев, глава Федеральной службы по финансовым рынкам Владимир Миловидов, а также ряд банкиров.\n\n- Медведев:</segment>
+		<segment id="180" parent="184" relname="joint">Россия готова к экономическому подъему в условиях мировых кризисных</segment>
+		<segment id="181" parent="183" relname="joint">явлений\n- Путин от имени государства пообещал справиться с ситуацией</segment>
+		<segment id="182" parent="183" relname="joint">\n- Нефтегазовый сектор может остаться под давлением</segment>
+		<segment id="185" parent="184" relname="cause-effect">из-за снижения цены на нефть\n- Вложения Банка России в облигации ипотечных агентств США сократились до менее 30 млрд долларов</segment>
+		<segment id="187" parent="188" relname="comparison">\n- Большинство россиян не играют на биржах</segment>
+		<segment id="189" parent="191" relname="span">– обвала они не почувствуют\n- Капитализация рынка российских акций снизилась на 84 миллиарда долларов\n\nВзлеты и падения\n\nКотировки российских акций после резкого снижения утром и пробития уровней поддержки по основным фондовым индексам днем стали плавно корректироваться вверх</segment>
+		<segment id="190" parent="189" relname="condition">в ожидании дальнейших сигналов с внешних рынков,</segment>
+		<segment id="193" parent="192" relname="attribution">передает \"Интерфакс\".</segment>
+		<segment id="197" parent="205" relname="joint">К 12:30 по московскому времени на биржах РТС и ФБ ММВБ снижение цен большинства \"голубых фишек\" составило 6-10%.</segment>
+		<segment id="198" parent="200" relname="span">К 14:00 индекс РТС начал корректироваться вверх,</segment>
+		<segment id="199" parent="198" relname="elaboration">превысив к 14:00 отметку 1200 пунктов.\n\</segment>
+		<segment id="201" parent="203" relname="span">nОднако к 15:10 по московскому времени российские фондовые индексы вновь обвалились.</segment>
+		<segment id="202" parent="201" relname="elaboration">По состоянию на 15:22 снижение индекса ММВБ превысило 12% - до 960,14 пункта.</segment>
+		<segment id="206" parent="210" relname="span">На рынке в полной мере ощущались панические настроения,</segment>
+		<segment id="207" parent="209" relname="joint">поддержка рынка практически полностью отсутствует,</segment>
+		<segment id="208" parent="209" relname="joint">покупателей не было.\n\nПадение индекса ММВБ к 16:20 превысило 15% - до 905,6 пункта.</segment>
+		<segment id="211" parent="215" relname="span">Наиболее сильно страдают акции банков,</segment>
+		<segment id="212" parent="214" relname="joint">в частности обыкновенные акции ВТБ (РТС: VTBR) упали в цене по отношению к закрытию понедельника более чем на 30%, Сбербанка РФ (РТС: SBER) - более чем на 20%,</segment>
+		<segment id="213" parent="214" relname="joint">\"префы\" Сбербанка потеряли 24%.\n\nФБ ММВБ приостановила торги акциями всех эмитентов с 16:42 мск на час</segment>
+		<segment id="216" parent="217" relname="span">в связи с падением текущего значения технического индекса акций по сравнению со значением открытия более чем на 8%.</segment>
+		<segment id="219" parent="231" relname="sequence">Через несколько минут - в 17:00 - аналогичное действие совершила фондовая биржа РТС.\n\nКак сообщает РИА \"Новости\" со ссылкой на пресс-службу биржи,</segment>
+		<segment id="220" parent="230" relname="span">торг приостановлен до среды</segment>
+		<segment id="221" parent="229" relname="joint">из-за падения технического индекса более чем на 8% к открытию.</segment>
+		<segment id="222" parent="227" relname="preparation">На 17:00 мск падение технического индекса биржи составило 9,06%.</segment>
+		<segment id="223" parent="226" relname="attribution">Согласно приказу Федеральной службы по финансовым рынкам (ФСФР) РФ,</segment>
+		<segment id="224" parent="226" relname="contrast">изменение этого индекса более чем на 8% к открытию влечет за собой остановку торгов.\n\nВ 17:42 по Москве торги на ММВБ возобновились,</segment>
+		<segment id="225" parent="226" relname="contrast">но ситуация не стабилизировалась.</segment>
+		<segment id="232" parent="233" relname="comparison">Снижение индекса превысило 18% по сравнению с уровнем закрытия 15 сентября - до 867,58 пункта.</segment>
+		<segment id="236" parent="246" relname="span">Спустя 3 минуты (в 17:45 мск) основные торги на ФБ ММВБ завершились окончательно.</segment>
+		<segment id="237" parent="245" relname="span">На момент закрытия основных торгов снижение индекса составило 17,45% - до 881,17 пункта.</segment>
+		<segment id="238" parent="242" relname="span">Это новый минимум с ноября 2005 года.\n\nТаким образом, повышение котировок,</segment>
+		<segment id="241" parent="238" relname="elaboration">наметившееся около 13:00, продолжалось не больше полутора часов.</segment>
+		<segment id="243" parent="242" relname="elaboration">В конце дня на рынке по-прежнему не было покупателей.\n\</segment>
+		<segment id="247" parent="264" relname="attribution">nПо мнению аналитиков,</segment>
+		<segment id="248" parent="250" relname="span">негативные настроения на российском рынке акций являются следствием как внешних, так и внутренних факторов,</segment>
+		<segment id="249" parent="248" relname="elaboration">среди которых наиболее важными являются резкое ухудшение конъюнктуры мировых фондовых рынков</segment>
+		<segment id="251" parent="263" relname="joint">на фоне объявления о банкротстве Lehman Brothers Holdings Inc,</segment>
+		<segment id="252" parent="262" relname="joint">снижение агентствами Standard & Poor's и Moody's рейтингов страховой компании AIG,</segment>
+		<segment id="253" parent="261" relname="span">падение мировых цен на нефть и металлы</segment>
+		<segment id="254" parent="255" relname="cause-effect">из-за опасений резкого снижения спроса на фоне прогнозируемого замедления экономического роста,</segment>
+		<segment id="255" parent="256" relname="span">сохраняющийся дефицит свободных рублевых средств в банковском секторе и рост процентных ставок на рынке МБК.\n\n\"Падающие нефтяные котировки определяют снижение нефтяных бумаг,</segment>
+		<segment id="257" parent="258" relname="span">переделы на американском рынке</segment>
+		<segment id="259" parent="258" relname="elaboration">(банкротство Lehman, покупка Merrill Lynch) определяют проблемы в банковском секторе.</segment>
+		<segment id="266" parent="272" relname="span">Также негативное влияние оказывают огромные проблемы на российском денежном рынке,</segment>
+		<segment id="267" parent="271" relname="span">где ставки overnight вырастают до максимумов</segment>
+		<segment id="268" parent="269" relname="cause-effect">- во вторник они достигли 11% годовых,</segment>
+		<segment id="269" parent="270" relname="span">что является самым высоким уровнем как минимум за год.</segment>
+		<segment id="273" parent="275" relname="span">Пробиты уровни поддержек по индексам ММВБ и РТС,</segment>
+		<segment id="274" parent="273" relname="elaboration">теперь, на наш взгляд, рынок смотрит на уровень 850 пунктов по индексу ММВБ\",</segment>
+		<segment id="276" parent="281" relname="attribution">- сказал агентству аналитик ИК \"Атон\" Андрей Труфанов.\n\nКроме того, он отметил,</segment>
+		<segment id="277" parent="281" relname="joint">что в 16:30 по московскому времени Best Buy Co., Goldman Sachs опубликуют финансовые показатели за прошедший квартал,</segment>
+		<segment id="278" parent="280" relname="span">что также может повлиять на акции банковского сектора.\n\nНефтегазовый сектор может остаться под давлением</segment>
+		<segment id="279" parent="278" relname="cause-effect">из-за снижения цены на нефть\n\</segment>
+		<segment id="286" parent="303" relname="attribution">nПо словам Алексея Логвина,</segment>
+		<segment id="287" parent="291" relname="same-unit">основа рынка - нефтегазовый сектор</segment>
+		<segment id="288" parent="290" relname="span">– рискует остаться под давлением</segment>
+		<segment id="289" parent="288" relname="cause-effect">из-за снижающихся цен на нефть.</segment>
+		<segment id="292" parent="291" relname="concession">Хотя сами по себе уровни, близкие к 100 долларам за баррель,</segment>
+		<segment id="294" parent="298" relname="joint">достаточно высоки</segment>
+		<segment id="295" parent="297" relname="joint">и позволяют ведущим компаниям оставаться весьма прибыльными,</segment>
+		<segment id="296" parent="297" relname="joint">велики шансы на пересмотр инвесторами долгосрочных прогнозов цен на сырье и, соответственно, справедливых цен бумаг.\n\</segment>
+		<segment id="299" parent="301" relname="joint">nПодобный цикл пересмотра справедливых цен еще, собственно, не начинался,</segment>
+		<segment id="300" parent="301" relname="joint">и пока можно только гадать, насколько восприимчивыми окажутся спекулянты к потоку негативных рекомендаций.</segment>
+		<segment id="305" parent="308" relname="attribution">Также, по его мнению,</segment>
+		<segment id="306" parent="308" relname="span">весьма показательно сейчас поведение бумаг, относимых ко второму эшелону.\n\nПотеря ликвидности</segment>
+		<segment id="307" parent="306" relname="cause-effect">привела здесь к снижению оценки многих бумаг до уровней, которые могли бы быть справедливыми только при катастрофическом падении производства или иных катастрофических событиях.</segment>
+		<segment id="310" parent="312" relname="span">\"Мы, однако, не ожидаем быстрого улучшения</segment>
+		<segment id="311" parent="310" relname="cause-effect">- общая ситуация на рынке едва ли допускает агрессивную спекулятивную игру против тренда.</segment>
+		<segment id="313" parent="314" relname="joint">Мы рекомендуем использовать каждое движение котировок наверх в качестве возможности для сокращения длинных позиций\",</segment>
+		<segment id="315" parent="327" relname="joint">- заключает специалист.\n\nКроме того, в 16:30 по московскому времени будут обнародованы данные о динамике потребительских цен США в августе,</segment>
+		<segment id="316" parent="325" relname="attribution">а также данные об объеме покупок нерезидентами американских активов в июле в 17:00,</segment>
+		<segment id="317" parent="325" relname="comparison">что может вызвать некоторые движения на рынке.\n\nКроме того,</segment>
+		<segment id="318" parent="319" relname="attribution">как отмечает аналитик ИК \"Церих Кэпитал Менеджмент\" Олег Душин,</segment>
+		<segment id="319" parent="320" relname="span">слухи о банкротстве \"КИТ-Финанса\" на фоне острого американского негатива и значительные продажи акции \"Ростелекома\" (держателем крупного пакета являлся \"КИТ-Финанс\")</segment>
+		<segment id="321" parent="323" relname="span">вызвали волну распродаж по всему рынку,</segment>
+		<segment id="322" parent="321" relname="elaboration">который был и без того в подвешенном состоянии.\n\</segment>
+		<segment id="329" parent="331" relname="span">nСуммарный объем сделок с акциями на ФБ ММВБ во вторник к 12:30 составил 20,806 млрд рублей</segment>
+		<segment id="330" parent="329" relname="elaboration">(в лидерах \"Газпром\" – 5,888 млрд рублей),</segment>
+		<segment id="332" parent="333" relname="joint">на классическом рынке акций РТС к этому же времени объем торгов составил 6,164 млн долларов.\n\nВложения Банка России в облигации ипотечных агентств США сократились до менее 30 млрд долларов\n\nВложения Банка России в облигации ипотечных агентств США сократились до менее 30 млрд долларов.</segment>
+		<segment id="334" parent="333" relname="attribution">Об этом сообщил в Госдуме РФ председатель Счетной палаты России Сергей Степашин.</segment>
+		<segment id="339" parent="346" relname="attribution">При этом он сослался на \"официальную позицию Минфина России\",</segment>
+		<segment id="340" parent="345" relname="attribution">передает во вторник ИТАР-ТАСС.\n\nРанее первый зампред Банка России Алексей Улюкаев сообщил в интервью агентству,</segment>
+		<segment id="341" parent="345" relname="joint">что Центробанк намерен сокращать вложения средств золотовалютных резервов в облигации ипотечных агентств США</segment>
+		<segment id="342" parent="343" relname="attribution">.\n\nУлюкаев при этом отметил,</segment>
+		<segment id="343" parent="344" relname="span">что \"в течение 1-го полугодия Банк России сократил объем вложений в эти бумаги примерно на 40%\".</segment>
+		<segment id="348" parent="364" relname="span">Добавив при этом, что снижение объемов связано с тем, что это политически чувствительная зона.</segment>
+		<segment id="349" parent="350" relname="condition">\"Исходя из экономического анализа,</segment>
+		<segment id="350" parent="351" relname="span">мы не считаем вложения в данные бумаги рискованными:</segment>
+		<segment id="352" parent="354" relname="span">здесь риск небольшой,</segment>
+		<segment id="353" parent="352" relname="condition">при приличной доходности.</segment>
+		<segment id="355" parent="356" relname="contrast">Но мы вынуждены считаться с теми настроениями и опасениями, которые существуют в обществе.</segment>
+		<segment id="357" parent="359" relname="joint">Поэтому мы проводили практику постепенного сокращения операций, включения в свой портфель лишь коротких бумаг и установления более жестких лимитов по вложению в эти бумаги.</segment>
+		<segment id="358" parent="359" relname="joint">И, как правило, мы в ряде случаев при погашении очередной бумаги не входили в следующую\",</segment>
+		<segment id="362" parent="361" relname="attribution">подчеркнул глава ЦБ РФ.\n\</segment>
+		<segment id="365" parent="384" relname="attribution">nСогласно отчету ЦБР,</segment>
+		<segment id="366" parent="367" relname="attribution">отмечает агентство,</segment>
+		<segment id="367" parent="368" relname="span">на начало нынешнего года вложения ЦБР в облигации ипотечных агентств США - Fannie Mae (Federal National Mortgage Association), Freddie Mac (Federal Home Loan Mortgage) и FHLB (Federal Home Loan Banks) составили порядка 100 млрд долларов.</segment>
+		<segment id="371" parent="381" relname="joint">Таким образом, с учетом снижения в 40%, на данный момент вложения составляют порядка 60 млрд долларов.</segment>
+		<segment id="372" parent="379" relname="attribution">В конце июля 2008 Улюкаев сообщил,</segment>
+		<segment id="373" parent="379" relname="span">что вложения в облигации двух агентств - Fannie Mae и Freddie Mac - составили не более 50 млрд долларов</segment>
+		<segment id="374" parent="378" relname="joint">.\n\nБольшинство росиян не играют на биржах</segment>
+		<segment id="375" parent="377" relname="restatement">– обвала</segment>
+		<segment id="376" parent="377" relname="restatement">они не почувствуют\n\nБольшинство россиян не почувствуют на себе влияние обвала на российском фондовом рынке,</segment>
+		<segment id="382" parent="381" relname="attribution">считает глава Международной конфедерации обществ потребителей Дмитрий Янин.\n\n</segment>
+		<segment id="388" parent="400" relname="joint">\"Напрямую на потребителей это не повлияет,</segment>
+		<segment id="389" parent="399" relname="contrast">косвенное влияние может быть через какое-то время,</segment>
+		<segment id="390" parent="398" relname="span">но оно будет не очень значительным\",</segment>
+		<segment id="391" parent="396" relname="attribution">- сказал Янин \"Интерфаксу\" во вторник.\n\nОн пояснил,</segment>
+		<segment id="392" parent="395" relname="cause-effect">что \"население России не очень активно подключено к операциям, связанным с куплей-продажей акций,</segment>
+		<segment id="393" parent="395" relname="joint">поэтому потрясения на фондовых рынках напрямую затрагивают интересы не многих россиян\".\n\n\"Последствия для потребителей могут быть только косвенными,</segment>
+		<segment id="394" parent="395" relname="joint">они могут быть связаны с банкротством некоторых финансовых институтов.</segment>
+		<segment id="401" parent="402" relname="condition">Если банкротства затронули крупнейшие международные финансовые институты,</segment>
+		<segment id="402" parent="403" relname="span">нет гарантии, что в России не произойдет ничего подобного\",</segment>
+		<segment id="404" parent="403" relname="attribution">- сказал эксперт</segment>
+		<segment id="406" parent="407" relname="same-unit">.\n\</segment>
+		<segment id="409" parent="420" relname="attribution">nПри этом, Янин считает,</segment>
+		<segment id="410" parent="414" relname="span">что \"для владельцев акций сейчас худшие времена за последние пять лет\".</segment>
+		<segment id="411" parent="412" relname="attribution">По мнению эксперта,</segment>
+		<segment id="412" parent="413" relname="span">\"сегодняшнее падение на рынке акций связано со вчерашним обвалом в США\".</segment>
+		<segment id="415" parent="419" relname="span">\"Падение достаточно серьезное,</segment>
+		<segment id="416" parent="418" relname="comparison">акции в нашей стране падают быстрее,</segment>
+		<segment id="417" parent="418" relname="comparison">чем в Америке\",</segment>
+		<segment id="422" parent="423" relname="comparison">- добавил он.\n\n\"То, что у нас акции падают быстрее,</segment>
+		<segment id="424" parent="423" relname="cause-effect">связано с недоверием участников рынка к экономической и политической ситуации в стране\",</segment>
+		<segment id="426" parent="427" relname="comparison">- полагает Дмитрий Янин.\n\nКапитализация рынка российских акций снизилась на 84 миллиарда долларов\n\nКапитализация рынка российских акций снизилась на 84 миллиарда долларов\n\nКапитализация российского рынка акций,</segment>
+		<segment id="428" parent="429" relname="condition">вычисленная на основе торгующихся в РТС бумаг,</segment>
+		<segment id="429" parent="430" relname="span">по итогам торгов во вторник составила $682,594 млрд.</segment>
+		<segment id="433" parent="435" relname="span">Таким образом, по сравнению с закрытием предыдущего торгового дня</segment>
+		<segment id="434" parent="433" relname="elaboration">капитализация снизилась на $83,914 млрд, или на 10,95%.\n\nидерами рыночной стоимости являются OAO \"Газпром\" ($153,878 млрд), НК \"Роснефть\" ($58,29 млрд) и OAO \"ЛУКОЙЛ\" ($46,781 млрд).\n\nНа 28 декабря 2007 года капитализация составляла $1 трлн 328,809 млрд,</segment>
+		<segment id="436" parent="437" relname="restatement">то есть с начала года показатель снизился на 48,63%.\n\nИсточник: https://www.newsru.com/finance/16Sep2008/correction.html\n</segment>
+		<group id="445" type="span" parent="446" relname="span"/>
+		<group id="161" type="multinuc" parent="444" relname="preparation"/>
+		<group id="153" type="span" parent="161" relname="sequence"/>
+		<group id="160" type="multinuc" parent="161" relname="sequence"/>
+		<group id="158" type="span" parent="160" relname="sequence"/>
+		<group id="444" type="multinuc" parent="445" relname="span"/>
+		<group id="196" type="multinuc" parent="444" relname="joint"/>
+		<group id="176" type="span" parent="196" relname="joint"/>
+		<group id="168" type="multinuc" parent="175" relname="preparation"/>
+		<group id="166" type="multinuc" parent="168" relname="comparison"/>
+		<group id="164" type="span" parent="166" relname="contrast"/>
+		<group id="175" type="span" parent="176" relname="span"/>
+		<group id="173" type="multinuc" parent="175" relname="span"/>
+		<group id="172" type="span" parent="173" relname="joint"/>
+		<group id="195" type="multinuc" parent="196" relname="joint"/>
+		<group id="179" type="span" parent="195" relname="joint"/>
+		<group id="194" type="span" parent="195" relname="joint"/>
+		<group id="192" type="multinuc" parent="194" relname="span"/>
+		<group id="188" type="multinuc" parent="192" relname="joint"/>
+		<group id="186" type="span" parent="188" relname="comparison"/>
+		<group id="184" type="multinuc" parent="186" relname="span"/>
+		<group id="183" type="multinuc" parent="184" relname="joint"/>
+		<group id="191" type="span" parent="192" relname="joint"/>
+		<group id="443" type="multinuc" parent="444" relname="joint"/>
+		<group id="235" type="multinuc" parent="443" relname="joint"/>
+		<group id="205" type="multinuc" parent="235" relname="joint"/>
+		<group id="204" type="multinuc" parent="205" relname="joint"/>
+		<group id="200" type="span" parent="204" relname="contrast"/>
+		<group id="203" type="span" parent="204" relname="contrast"/>
+		<group id="234" type="multinuc" parent="235" relname="joint"/>
+		<group id="218" type="multinuc" parent="234" relname="joint"/>
+		<group id="210" type="span" parent="218" relname="comparison"/>
+		<group id="209" type="multinuc" parent="206" relname="elaboration"/>
+		<group id="217" type="span" parent="218" relname="comparison"/>
+		<group id="215" type="span" parent="216" relname="cause-effect"/>
+		<group id="214" type="multinuc" parent="211" relname="elaboration"/>
+		<group id="233" type="multinuc" parent="234" relname="joint"/>
+		<group id="231" type="multinuc" parent="233" relname="comparison"/>
+		<group id="230" type="span" parent="231" relname="sequence"/>
+		<group id="229" type="multinuc" parent="220" relname="cause-effect"/>
+		<group id="228" type="span" parent="229" relname="joint"/>
+		<group id="227" type="span" parent="228" relname="span"/>
+		<group id="226" type="multinuc" parent="227" relname="span"/>
+		<group id="442" type="span" parent="443" relname="joint"/>
+		<group id="246" type="span" parent="441" relname="preparation"/>
+		<group id="245" type="span" parent="236" relname="elaboration"/>
+		<group id="244" type="span" parent="237" relname="elaboration"/>
+		<group id="242" type="span" parent="244" relname="span"/>
+		<group id="441" type="multinuc" parent="442" relname="span"/>
+		<group id="285" type="multinuc" parent="441" relname="joint"/>
+		<group id="265" type="span" parent="285" relname="joint"/>
+		<group id="264" type="span" parent="265" relname="span"/>
+		<group id="250" type="span" parent="264" relname="span"/>
+		<group id="263" type="multinuc" parent="250" relname="elaboration"/>
+		<group id="262" type="multinuc" parent="263" relname="joint"/>
+		<group id="261" type="span" parent="262" relname="joint"/>
+		<group id="260" type="span" parent="253" relname="cause-effect"/>
+		<group id="258" type="span" parent="260" relname="span"/>
+		<group id="256" type="span" parent="257" relname="cause-effect"/>
+		<group id="284" type="multinuc" parent="285" relname="joint"/>
+		<group id="272" type="span" parent="284" relname="joint"/>
+		<group id="271" type="span" parent="266" relname="elaboration"/>
+		<group id="270" type="span" parent="267" relname="elaboration"/>
+		<group id="283" type="span" parent="284" relname="joint"/>
+		<group id="275" type="span" parent="283" relname="span"/>
+		<group id="282" type="span" parent="275" relname="attribution"/>
+		<group id="281" type="multinuc" parent="282" relname="span"/>
+		<group id="280" type="span" parent="281" relname="joint"/>
+		<group id="440" type="multinuc" parent="441" relname="joint"/>
+		<group id="338" type="multinuc" parent="440" relname="joint"/>
+		<group id="304" type="span" parent="338" relname="joint"/>
+		<group id="303" type="multinuc" parent="304" relname="span"/>
+		<group id="293" type="span" parent="303" relname="joint"/>
+		<group id="291" type="multinuc" parent="293" relname="span"/>
+		<group id="290" type="span" parent="291" relname="same-unit"/>
+		<group id="302" type="multinuc" parent="303" relname="joint"/>
+		<group id="298" type="multinuc" parent="302" relname="joint"/>
+		<group id="297" type="multinuc" parent="298" relname="joint"/>
+		<group id="301" type="multinuc" parent="302" relname="joint"/>
+		<group id="337" type="span" parent="338" relname="joint"/>
+		<group id="309" type="span" parent="336" relname="preparation"/>
+		<group id="308" type="span" parent="309" relname="span"/>
+		<group id="336" type="multinuc" parent="337" relname="span"/>
+		<group id="328" type="multinuc" parent="336" relname="comparison"/>
+		<group id="314" type="multinuc" parent="328" relname="joint"/>
+		<group id="312" type="span" parent="314" relname="joint"/>
+		<group id="327" type="multinuc" parent="328" relname="joint"/>
+		<group id="326" type="span" parent="327" relname="joint"/>
+		<group id="325" type="multinuc" parent="326" relname="span"/>
+		<group id="324" type="span" parent="325" relname="comparison"/>
+		<group id="320" type="span" parent="324" relname="span"/>
+		<group id="323" type="span" parent="320" relname="elaboration"/>
+		<group id="335" type="span" parent="336" relname="comparison"/>
+		<group id="333" type="multinuc" parent="335" relname="span"/>
+		<group id="331" type="span" parent="333" relname="joint"/>
+		<group id="439" type="multinuc" parent="440" relname="joint"/>
+		<group id="387" type="multinuc" parent="439" relname="joint"/>
+		<group id="347" type="span" parent="387" relname="joint"/>
+		<group id="346" type="span" parent="347" relname="span"/>
+		<group id="345" type="multinuc" parent="346" relname="span"/>
+		<group id="344" type="span" parent="345" relname="joint"/>
+		<group id="386" type="span" parent="387" relname="joint"/>
+		<group id="364" type="span" parent="386" relname="span"/>
+		<group id="363" type="span" parent="348" relname="elaboration"/>
+		<group id="361" type="span" parent="363" relname="span"/>
+		<group id="351" type="span" parent="361" relname="span"/>
+		<group id="360" type="span" parent="351" relname="elaboration"/>
+		<group id="356" type="multinuc" parent="359" relname="cause-effect"/>
+		<group id="354" type="span" parent="356" relname="contrast"/>
+		<group id="359" type="multinuc" parent="360" relname="span"/>
+		<group id="385" type="span" parent="364" relname="evidence"/>
+		<group id="384" type="span" parent="385" relname="span"/>
+		<group id="368" type="span" parent="384" relname="span"/>
+		<group id="383" type="span" parent="368" relname="elaboration"/>
+		<group id="381" type="multinuc" parent="383" relname="span"/>
+		<group id="380" type="span" parent="381" relname="joint"/>
+		<group id="379" type="span" parent="380" relname="span"/>
+		<group id="378" type="multinuc" parent="373" relname="cause-effect"/>
+		<group id="377" type="multinuc" parent="378" relname="joint"/>
+		<group id="438" type="span" parent="439" relname="joint"/>
+		<group id="432" type="multinuc" parent="437" relname="evidence"/>
+		<group id="408" type="span" parent="432" relname="joint"/>
+		<group id="400" type="multinuc" parent="408" relname="span"/>
+		<group id="399" type="multinuc" parent="400" relname="joint"/>
+		<group id="398" type="span" parent="399" relname="contrast"/>
+		<group id="397" type="span" parent="390" relname="cause-effect"/>
+		<group id="396" type="span" parent="397" relname="span"/>
+		<group id="395" type="multinuc" parent="396" relname="span"/>
+		<group id="407" type="multinuc" parent="400" relname="interpretation-evaluation"/>
+		<group id="405" type="span" parent="407" relname="same-unit"/>
+		<group id="403" type="span" parent="405" relname="span"/>
+		<group id="431" type="span" parent="432" relname="joint"/>
+		<group id="427" type="multinuc" parent="431" relname="span"/>
+		<group id="425" type="span" parent="427" relname="comparison"/>
+		<group id="423" type="multinuc" parent="425" relname="span"/>
+		<group id="421" type="span" parent="423" relname="comparison"/>
+		<group id="420" type="span" parent="421" relname="span"/>
+		<group id="414" type="span" parent="420" relname="span"/>
+		<group id="413" type="span" parent="410" relname="elaboration"/>
+		<group id="419" type="span" parent="414" relname="elaboration"/>
+		<group id="418" type="multinuc" parent="415" relname="cause-effect"/>
+		<group id="430" type="span" parent="427" relname="condition"/>
+		<group id="437" type="multinuc" parent="438" relname="span"/>
+		<group id="435" type="span" parent="437" relname="restatement"/>
+		<group id="446" type="span"/>
+	</body>
+</rst>

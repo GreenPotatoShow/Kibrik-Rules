@@ -1,0 +1,54 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="span">Дрон Facebook на солнечных батареях совершил второй полет\n\nКомпания Facebook провела второй испытательный полет дрона Aquila, работающего на солнечных батареях</segment>
+		<segment id="20" parent="19" relname="purpose">и предназначенного для обеспечения интернетом труднодоступных регионов</segment>
+		<segment id="22" parent="21" relname="elaboration">.\n\</segment>
+		<segment id="24" parent="27" relname="attribution">nКак написал на своей странице основатель соцсети Марк Цукерберг,</segment>
+		<segment id="25" parent="27" relname="sequence">полет беспилотника продолжался 1 час и 46 минут</segment>
+		<segment id="26" parent="27" relname="sequence">после чего дрон совершил посадку неподалеку от города Юма (штат Аризона).</segment>
+		<segment id="29" parent="31" relname="joint">За время полета аппарат собрал много данных, которые позволят инженерам оптимизировать его эффективность.\n\</segment>
+		<segment id="30" parent="31" relname="joint">nНапомним, что впервые дрон Aquila поднялся в воздух в конце июня 2016 года.</segment>
+		<segment id="32" parent="36" relname="contrast">Изначально компания отчиталась об успешном испытании дрона,</segment>
+		<segment id="33" parent="35" relname="span">однако в ноябре выяснилось, что беспилотник получил серьезные повреждения</segment>
+		<segment id="34" parent="33" relname="condition">при посадке.</segment>
+		<segment id="39" parent="40" relname="span">Проведенное расследование показало, что причиной крушения стал сильный ветер.\n\</segment>
+		<segment id="41" parent="46" relname="attribution">nСогласно планам Facebook,</segment>
+		<segment id="42" parent="46" relname="span">в будущем усовершенствованные дроны Aquila будут летать на высоте от 18 до 27 км,</segment>
+		<segment id="43" parent="45" relname="joint">находясь в воздухе месяцами</segment>
+		<segment id="44" parent="45" relname="joint">и обеспечивая интернетом зону диаметром около 100 км.</segment>
+		<segment id="48" parent="49" relname="purpose">Для трансляции данных</segment>
+		<segment id="49" parent="50" relname="span">разработчики планируют использовать лазеры, которые смогут передавать данные со скоростью, в 10 раз превышающей возможности существующих технологий.\n\nИсточник: https://www.newsru.com/hitech/30Jun2017/aquila2.html\n</segment>
+		<group id="23" type="span" parent="52" relname="preparation"/>
+		<group id="21" type="span" parent="23" relname="span"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="40" type="span" parent="52" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="cause-effect"/>
+		<group id="28" type="span" parent="38" relname="sequence"/>
+		<group id="27" type="multinuc" parent="28" relname="span"/>
+		<group id="37" type="span" parent="38" relname="sequence"/>
+		<group id="31" type="multinuc" parent="37" relname="span"/>
+		<group id="36" type="multinuc" parent="31" relname="elaboration"/>
+		<group id="35" type="span" parent="36" relname="contrast"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="47" type="span" parent="51" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="45" type="multinuc" parent="42" relname="condition"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

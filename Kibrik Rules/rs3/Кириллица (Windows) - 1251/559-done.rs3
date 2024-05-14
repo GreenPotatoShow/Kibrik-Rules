@@ -1,0 +1,86 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="37" relname="attribution">Президент  России Владимир Путин пообещал</segment>
+		<segment id="35" parent="37" relname="span">Канцлеру Германии Ангеле Меркель обеспечить полное расследование убийства Анны Политковской.\n Это убийство — символ поражения свободы слова в России,</segment>
+		<segment id="36" parent="35" relname="attribution">сказала Меркель во вторник после встречи с Владимиром Путиным в Дрездене.</segment>
+		<segment id="39" parent="44" relname="attribution">Она надеется,</segment>
+		<segment id="40" parent="43" relname="attribution">что обещание Путина будет выполнено.\n Русский Президент России говорил</segment>
+		<segment id="41" parent="43" relname="span">об отвратительном действии,</segment>
+		<segment id="42" parent="41" relname="elaboration">которое не должно остаться безнаказанным.</segment>
+		<segment id="46" parent="45" relname="interpretation-evaluation">Это преступление нанесло ущерб России.</segment>
+		<segment id="48" parent="50" relname="joint">«Преступники должны быть найдены</segment>
+		<segment id="49" parent="50" relname="joint">и наказаны»,</segment>
+		<segment id="51" parent="50" relname="attribution">подчеркнул Путин</segment>
+		<segment id="53" parent="54" relname="cause-effect">.\n Путин и Меркель также осудили проведённое испытание ядерного оружия в Северной Корее.\n «Убийца — Убийца»\n По прибытии в Дрезден,</segment>
+		<segment id="54" parent="55" relname="span">Путин был встречен протестующими демонстрантами.</segment>
+		<segment id="56" parent="62" relname="joint">Когда кортеж Президента России прибыл в центр старого города</segment>
+		<segment id="57" parent="61" relname="sequence">и Путин вышел из автомобиля,</segment>
+		<segment id="58" parent="60" relname="span">демонстранты начали скандировать</segment>
+		<segment id="59" parent="58" relname="attribution">— «Убийца — Убийца».</segment>
+		<segment id="63" parent="69" relname="sequence">Один из демонстрантов держал плакат с надписью:</segment>
+		<segment id="64" parent="68" relname="same-unit">«Убийца</segment>
+		<segment id="65" parent="67" relname="span">— мы больше не говорим тебе здесь:</segment>
+		<segment id="66" parent="65" relname="cause-effect">Добро пожаловать».\n Убийство Политковской негативно отразилось на визите Путина в Германию.</segment>
+		<segment id="70" parent="72" relname="joint">В Германии вновь раздаётся критика в адрес Кремля в подавлении свободы слова.\n Перед центром Конгрессов в Дрездене,</segment>
+		<segment id="71" parent="72" relname="joint">где Путин и Меркель должны были принять участие во встрече в рамках «Петербургского диалога»,</segment>
+		<segment id="73" parent="74" relname="same-unit">собралась группа правозащитников.</segment>
+		<segment id="75" parent="78" relname="condition">Если не будет сделано быстрое и полное расследование убийства Политковской,</segment>
+		<segment id="76" parent="78" relname="span">то усилятся подозрения, что тайные службы России являются участниками событий,</segment>
+		<segment id="77" parent="76" relname="elaboration">которые заинтересованы в устранении острого критика правительства,</segment>
+		<segment id="80" parent="82" relname="span">сказал представитель правозащитников Тильман Цюльх (Tilman Zulch)\n На плакатах демонстрантов были также протесты против чеченской политики России и против государственного концерна «Газпром»,</segment>
+		<segment id="81" parent="80" relname="background">который становится главным спонсором футбольного клуба бундеслиги «Шальке 04» (Schalke 04).</segment>
+		<segment id="84" parent="88" relname="span">Это позорно, что главным спонсором футбольного клуба становится «Газпром»,</segment>
+		<segment id="85" parent="86" relname="attribution">так как по заданию Путина,</segment>
+		<segment id="86" parent="87" relname="span">«Газпром» скупает также средства массовой информации в России,</segment>
+		<segment id="89" parent="88" relname="attribution">сказал Цюльх.\n \n</segment>
+		<group id="38" type="span" parent="97" relname="preparation"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="47" type="span" parent="97" relname="joint"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="52" type="span" parent="96" relname="joint"/>
+		<group id="50" type="multinuc" parent="52" relname="span"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="55" type="span" parent="95" relname="joint"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="62" type="multinuc" parent="93" relname="preparation"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="60" type="span" parent="61" relname="sequence"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="69" type="multinuc" parent="92" relname="preparation"/>
+		<group id="68" type="multinuc" parent="69" relname="sequence"/>
+		<group id="67" type="span" parent="68" relname="same-unit"/>
+		<group id="92" type="multinuc" parent="93" relname="span"/>
+		<group id="74" type="multinuc" parent="92" relname="joint"/>
+		<group id="72" type="multinuc" parent="74" relname="same-unit"/>
+		<group id="91" type="span" parent="92" relname="joint"/>
+		<group id="83" type="multinuc" parent="91" relname="span"/>
+		<group id="79" type="span" parent="83" relname="joint"/>
+		<group id="78" type="span" parent="79" relname="span"/>
+		<group id="82" type="span" parent="83" relname="joint"/>
+		<group id="90" type="span" parent="83" relname="interpretation-evaluation"/>
+		<group id="88" type="span" parent="90" relname="span"/>
+		<group id="87" type="span" parent="84" relname="cause-effect"/>
+		<group id="98" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,81 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="36" relname="attribution">Сотрудника аэропорта Норильска наказали</segment>
+		<segment id="34" parent="36" relname="joint">за столкновение вертолета с куропаткой\n\nНорильская транспортная прокуратура объявила</segment>
+		<segment id="35" parent="36" relname="joint">о завершении четырехмесячного расследования по факту столкновения вертолета с куропаткой на посадочной площадке Валек.</segment>
+		<segment id="38" parent="39" relname="attribution">Как было установлено,</segment>
+		<segment id="39" parent="40" relname="span">в аэропорту не было должным образом налажено предотвращение столкновений летательных аппаратов с птицами.\n\</segment>
+		<segment id="42" parent="43" relname="attribution">nКак отмечается в сообщении надзорного ведомства,</segment>
+		<segment id="43" parent="44" relname="span">инцидент произошел в аэропорту Норильска после посадки и установки вертолета \"НорильскАвиа\" на стоянку 26 января.</segment>
+		<segment id="45" parent="48" relname="cause-effect">Куропатка столкнулась с лопастью несущего винта, который продолжал вращаться.</segment>
+		<segment id="46" parent="48" relname="joint">В результате съемная часть законцовки винта была вырвана,</segment>
+		<segment id="47" parent="48" relname="joint">несъемная часть - повреждена.</segment>
+		<segment id="50" parent="51" relname="joint">Прокуратура установила ряд нарушений требований законодательства в сфере орнитологического обеспечения полетов.\n\n\"В аэронавигационном паспорте посадочной площадки Валек не были отмечены сезонные особенности орнитологической обстановки в зимний период, в том числе присутствие по многолетним наблюдениям в ноябре-марте куропаток в районе аэродрома.</segment>
+		<segment id="53" parent="55" relname="joint">Также в паспорте не было разработано мероприятий по предотвращению столкновения с птицами,</segment>
+		<segment id="54" parent="55" relname="joint">не соответствовала требованиям форма ведения Журнала учета по орнитологическому обеспечению п/п Валек.</segment>
+		<segment id="56" parent="60" relname="span">Не был разработан годовой план по орнитологическому обеспечению полетов</segment>
+		<segment id="57" parent="58" relname="condition">с учетом специфики работы посадочной площадки и местной орнитологической обстановки,</segment>
+		<segment id="58" parent="59" relname="span">имели место иные нарушения\",</segment>
+		<segment id="63" parent="62" relname="attribution">- говорится в сообщении.\n\</segment>
+		<segment id="65" parent="69" relname="joint">nПо итогам проверки гендиректору ООО \"Аэропорт Норильск\" внесено представление,</segment>
+		<segment id="66" parent="68" relname="joint">по итогам его рассмотрения выявленные нарушения устранены,</segment>
+		<segment id="67" parent="68" relname="joint">а виновное должностное лицо привлечено к ответственности.\n\</segment>
+		<segment id="70" parent="75" relname="attribution">nКак ранее сообщала интернет-газета NewsLab,</segment>
+		<segment id="71" parent="75" relname="span">вертолет Ми-8,</segment>
+		<segment id="72" parent="74" relname="joint">столкнувшийся с куропаткой,</segment>
+		<segment id="73" parent="74" relname="joint">выполнял рейс по маршруту Валек - ГРС - Ю.Соленое - Факел - ГРС - Валек.</segment>
+		<segment id="77" parent="76" relname="elaboration">На борту находились три члена экипажа и восемь пассажиров-вахтовиков.</segment>
+		<segment id="79" parent="85" relname="span">Куропатка влетела в лопасть,</segment>
+		<segment id="80" parent="82" relname="joint">когда вертолет поставили на стоянку,</segment>
+		<segment id="81" parent="82" relname="joint">а винт продолжал работать</segment>
+		<segment id="83" parent="82" relname="purpose">для охлаждения двигателей.</segment>
+		<segment id="86" parent="90" relname="span">Никто из людей, находившихся на борту, не пострадал.</segment>
+		<segment id="87" parent="88" relname="attribution">По данным сайта \"Блокнот-Красноярск\",</segment>
+		<segment id="88" parent="89" relname="span">незадачливую птицу разрубило на куски.\n\nИсточник: https://www.newsru.com/russia/12May2015/kur.html\n</segment>
+		<group id="41" type="span" parent="95" relname="joint"/>
+		<group id="37" type="span" parent="41" relname="span"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="40" type="span" parent="37" relname="elaboration"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="64" type="span" parent="94" relname="joint"/>
+		<group id="62" type="multinuc" parent="64" relname="span"/>
+		<group id="52" type="multinuc" parent="62" relname="joint"/>
+		<group id="44" type="span" parent="52" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="49" type="span" parent="51" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="span"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="55" type="multinuc" parent="61" relname="joint"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="59" type="span" parent="56" relname="condition"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="69" type="multinuc" parent="93" relname="joint"/>
+		<group id="68" type="multinuc" parent="69" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="78" type="span" parent="92" relname="joint"/>
+		<group id="76" type="span" parent="78" relname="span"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="74" type="multinuc" parent="71" relname="elaboration"/>
+		<group id="91" type="span" parent="92" relname="joint"/>
+		<group id="85" type="span" parent="91" relname="span"/>
+		<group id="84" type="span" parent="79" relname="condition"/>
+		<group id="82" type="multinuc" parent="84" relname="span"/>
+		<group id="90" type="span" parent="85" relname="elaboration"/>
+		<group id="89" type="span" parent="86" relname="evidence"/>
+		<group id="95" type="multinuc"/>
+	</body>
+</rst>

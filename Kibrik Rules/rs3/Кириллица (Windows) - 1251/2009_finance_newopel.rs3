@@ -1,0 +1,101 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="41" parent="43" relname="span">Magna нацелилась на все активы GM в России и СНГ\n\nАвстро-канадская Magna объяснила,</segment>
+		<segment id="42" parent="41" relname="cause-effect">за счет чего консорциум покупателей немецкого Opel надеется продавать в России 1 миллион автомобилей.</segment>
+		<segment id="44" parent="46" relname="span">В новый концерн на базе Opel войдет не только завод General Motors (GM) в Санкт-Петербурге, но и пакеты GM в тольяттинском \"GM-АвтоВАЗе\"</segment>
+		<segment id="45" parent="44" relname="elaboration">(GM владеет 41,6%) и совместном предприятии GM-Uzbekistan,</segment>
+		<segment id="47" parent="46" relname="attribution">пишет газета \"Ведомости\" со ссылкой на заявления соуправляющего Magna Зигфрида Вольфа.\n\</segment>
+		<segment id="50" parent="52" relname="span">nКроме того, консорциум планирует использовать</segment>
+		<segment id="51" parent="50" relname="purpose">для сборки</segment>
+		<segment id="53" parent="52" relname="elaboration">производственные мощности калининградского \"Автотора\",</segment>
+		<segment id="55" parent="56" relname="attribution">а также взять на себя все продажи Opel и Chevrolet в стране.\n\nПредставитель GM утверждает,</segment>
+		<segment id="56" parent="57" relname="span">что стороны еще не решили, какие именно активы войдут в обновленный Opel.</segment>
+		<segment id="59" parent="63" relname="span">На прошлой неделе Magna, \"Сбербанк\" и GM подписали рамочное соглашение,</segment>
+		<segment id="60" parent="62" relname="comparison">по которому GM и \"Сбербанк\" получат по 35% акций Opel, Magna - 20%,</segment>
+		<segment id="61" parent="62" relname="comparison">а 10% останется у работников Opel.\n\</segment>
+		<segment id="64" parent="66" relname="span">nОбщая проектная мощность заводов,</segment>
+		<segment id="65" parent="64" relname="elaboration">совладельцем которых хочет стать Magna,</segment>
+		<segment id="67" parent="68" relname="same-unit">составляет 370 000 автомобилей в год</segment>
+		<segment id="69" parent="71" relname="span">.\n\nВ тольяттинском ЗАО \"GM-АвтоВАЗ\"</segment>
+		<segment id="70" parent="69" relname="elaboration">(в 2008 году продало 47 500 Chevrolet Niva) европейский GM владеет 41,61%,</segment>
+		<segment id="72" parent="73" relname="comparison">столько же - у самого \"АвтоВАЗа\", 16,78% - у Европейского банка реконструкции и развития (ЕБРР).</segment>
+		<segment id="75" parent="79" relname="joint">Никаких решений в отношении доли GM в \"GM-АвтоВАЗе\" не принято,</segment>
+		<segment id="76" parent="78" relname="span">заявил газете представитель \"АвтоВАЗа\".\n\nВ GM-Uzbekistan</segment>
+		<segment id="77" parent="76" relname="elaboration">(в 2008 году продал в Россию 95 510 Daewoo) GM принадлежит блокпакет, остальное - у госкомпании \"Узавтопром\".</segment>
+		<segment id="82" parent="87" relname="attribution">Ее представитель говорит,</segment>
+		<segment id="83" parent="85" relname="span">что вопрос о смене владельца компании не обсуждался.\n\n\"Автотор\" выпускает автомобили Chevrolet по контрактам с GM,</segment>
+		<segment id="84" parent="83" relname="elaboration">заказчики - сбытовые подразделения концерна: \"GM-СНГ\" и \"GM ДАТ\" (по корейским Chevrolet),</segment>
+		<segment id="86" parent="85" relname="attribution">говорит гендиректор \"Автотора\" Валерий Горбунов.</segment>
+		<segment id="89" parent="93" relname="restatement">Смена владельцев заказчиков на сути контрактов сказаться не должна,</segment>
+		<segment id="90" parent="91" relname="attribution">утверждает он.\n\nСудя по планам Magna,</segment>
+		<segment id="91" parent="92" relname="span">торговые \"дочки\" GM в России и СНГ тоже войдут в новый Opel.</segment>
+		<segment id="94" parent="95" relname="condition">Если их объемы продаж</segment>
+		<segment id="95" parent="96" relname="span">(420 000 Opel и Chevrolet)</segment>
+		<segment id="97" parent="98" relname="cause-effect">добавить к продажам группы ГАЗ,</segment>
+		<segment id="98" parent="99" relname="span">получается почти 600 000 автомобилей,</segment>
+		<segment id="101" parent="104" relname="attribution">говорит Вольф,</segment>
+		<segment id="102" parent="104" relname="span">а продать дополнительно 400 000 автомобилей - это цель, которую консорциум хочет достичь на быстро растущем российском рынке.\n\nУвеличить продажи поможет новый автомобиль, который планирует выпускать группа ГАЗ на конвейере</segment>
+		<segment id="103" parent="102" relname="purpose">для сборки Siber.</segment>
+		<segment id="107" parent="109" relname="span">Magna хочет продолжить проект производства доступного автомобиля,</segment>
+		<segment id="108" parent="107" relname="elaboration">который GM, Magna и группа ГАЗ начали прорабатывать два года назад.\n\nНа конвейере Siber планируется выпускать автомобиль стоимостью от 10 000 долларов на платформе Corsa.</segment>
+		<segment id="110" parent="111" relname="attribution">Но источник, близкий к группе ГАЗ, уверяет,</segment>
+		<segment id="111" parent="112" relname="span">что завод подходит для моделей на платформах Opel Astra и Insigna.\n\nИсточник: https://www.newsru.com/finance/04Jun2009/newopel.html\n</segment>
+		<group id="49" type="multinuc" parent="118" relname="preparation"/>
+		<group id="43" type="span" parent="49" relname="comparison"/>
+		<group id="48" type="span" parent="49" relname="comparison"/>
+		<group id="46" type="span" parent="48" relname="span"/>
+		<group id="118" type="multinuc" parent="119" relname="span"/>
+		<group id="58" type="multinuc" parent="118" relname="joint"/>
+		<group id="54" type="span" parent="58" relname="joint"/>
+		<group id="52" type="span" parent="54" relname="span"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="117" type="multinuc" parent="118" relname="joint"/>
+		<group id="81" type="multinuc" parent="117" relname="joint"/>
+		<group id="63" type="span" parent="81" relname="comparison"/>
+		<group id="62" type="multinuc" parent="59" relname="elaboration"/>
+		<group id="80" type="multinuc" parent="81" relname="comparison"/>
+		<group id="74" type="multinuc" parent="80" relname="comparison"/>
+		<group id="68" type="multinuc" parent="74" relname="joint"/>
+		<group id="66" type="span" parent="68" relname="same-unit"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="71" type="span" parent="73" relname="comparison"/>
+		<group id="79" type="multinuc" parent="80" relname="comparison"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="116" type="multinuc" parent="117" relname="joint"/>
+		<group id="88" type="span" parent="116" relname="joint"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="85" type="span" parent="87" relname="span"/>
+		<group id="115" type="multinuc" parent="116" relname="joint"/>
+		<group id="93" type="multinuc" parent="115" relname="joint"/>
+		<group id="92" type="span" parent="93" relname="restatement"/>
+		<group id="114" type="multinuc" parent="115" relname="joint"/>
+		<group id="106" type="multinuc" parent="114" relname="joint"/>
+		<group id="100" type="span" parent="106" relname="joint"/>
+		<group id="96" type="span" parent="99" relname="condition"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="105" type="span" parent="106" relname="joint"/>
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="109" type="span" parent="113" relname="contrast"/>
+		<group id="112" type="span" parent="113" relname="contrast"/>
+		<group id="119" type="span"/>
+	</body>
+</rst>

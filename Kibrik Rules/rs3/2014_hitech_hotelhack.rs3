@@ -1,0 +1,75 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="31" relname="span">Хакеры в течение нескольких лет похищали данные с компьютеров постояльцев роскошных отелей\n\nСпециалисты \"Лаборатории Касперского\" обнаружили группу хакеров, занимающуюся похищением данных с компьютеров бизнесменов и топ-менеджеров через Wi-Fi сети отелей,</segment>
+		<segment id="30" parent="29" relname="background">в которых останавливались жертвы,</segment>
+		<segment id="32" parent="31" relname="attribution">сообщает газета The Guardian.</segment>
+		<segment id="34" parent="33" relname="attribution">Обзор этой публикации приводит портал InoPressa.\n\</segment>
+		<segment id="36" parent="39" relname="attribution">nПо данным экспертов,</segment>
+		<segment id="37" parent="39" relname="span">речь идет о ряде отелей,</segment>
+		<segment id="38" parent="37" relname="elaboration">расположенных в Японии, на Тайване, в Китае, России, Южной Корее и Гонконге.</segment>
+		<segment id="41" parent="43" relname="span">При этом отмечается, что свою деятельность хакеры начали в 2009 году или даже раньше.\n\n\"Хакеры из так называемой сети Darkhotel сумели настроить свои программы так,</segment>
+		<segment id="42" parent="41" relname="interpretation-evaluation">что заражались компьютеры не всех постояльцев, а только конкретные устройства.</segment>
+		<segment id="44" parent="43" relname="interpretation-evaluation">Возможно, имели место хакерские атаки, спонсируемые некими государствами\",</segment>
+		<segment id="47" parent="48" relname="joint">- говорится в статье.\n\nВ список пострадавших от действий хакеров вошли главные управляющие и старшие вице-президенты неких компаний, директора по продажам и маркетингу, руководители исследовательско-конструкторских отделов и т.д.\n\nЗаражение компьютеров происходило следующим образом.</segment>
+		<segment id="49" parent="50" relname="condition">Как только жертвы подключались к Wi-Fi в отеле,</segment>
+		<segment id="50" parent="51" relname="span">то на экране их устройства всплывало окно с приглашением обновить какую-нибудь из установленных программ (например, GoogleToolbar, Adobe Flash или Windows Messenger).</segment>
+		<segment id="52" parent="55" relname="condition">Если пользователь скачивал это \"обновление\",</segment>
+		<segment id="53" parent="55" relname="sequence">то его компьютер заражался,</segment>
+		<segment id="54" parent="55" relname="sequence">а позднее с него похищалась информация.\n\nТакая атака сама по себе выглядит вполне обыденно,</segment>
+		<segment id="57" parent="58" relname="contrast">однако эксперты обращают внимание на тот факт, что действия злоумышленников носили избирательный характер.</segment>
+		<segment id="59" parent="66" relname="attribution">Так, представитель компании ESET Марк Джеймс подчеркнул,</segment>
+		<segment id="60" parent="64" relname="joint">что точечный характер атак весьма необычен</segment>
+		<segment id="61" parent="63" relname="joint">и позволяет предположить, что хакеры действовали по строгому плану.\n\nКак отметил сотрудник \"Лаборатории Касперского\" Костин Рэйу,</segment>
+		<segment id="62" parent="63" relname="joint">хакеров интересовали логины и пароли американских и азиатских топ-менеджеров в почте и социальных сетях.\n\n\"На данный момент все жертвы, которых нам удалось найти, - весьма солидные люди,</segment>
+		<segment id="65" parent="66" relname="joint">и в данном контексте атаки на них имеют смысл.</segment>
+		<segment id="68" parent="70" relname="span">Не исключено, что один и тот же механизм использовался двумя разными группами:</segment>
+		<segment id="69" parent="68" relname="elaboration">одна фокусировалась на других государствах, другая - на бизнес-интересах...</segment>
+		<segment id="71" parent="70" relname="interpretation-evaluation">Это не было бы чем-то аномальным\",</segment>
+		<segment id="73" parent="72" relname="attribution">- заявил Рэйу.\n\</segment>
+		<segment id="76" parent="77" relname="attribution">nЭксперт также не исключил,</segment>
+		<segment id="77" parent="78" relname="span">что деятельность хакеров могла спонсироваться на государственном уровне.\n\nИсточник: https://www.newsru.com/hitech/11Nov2014/hotelhack.html\n</segment>
+		<group id="35" type="span" parent="82" relname="preparation"/>
+		<group id="33" type="span" parent="35" relname="span"/>
+		<group id="31" type="span" parent="33" relname="span"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="48" type="multinuc" parent="82" relname="comparison"/>
+		<group id="46" type="multinuc" parent="48" relname="joint"/>
+		<group id="40" type="span" parent="46" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="81" type="span" parent="82" relname="comparison"/>
+		<group id="51" type="span" parent="80" relname="preparation"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="58" type="multinuc" parent="80" relname="span"/>
+		<group id="56" type="span" parent="58" relname="contrast"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="79" type="span" parent="58" relname="elaboration"/>
+		<group id="75" type="span" parent="79" relname="span"/>
+		<group id="67" type="span" parent="75" relname="span"/>
+		<group id="66" type="multinuc" parent="67" relname="span"/>
+		<group id="64" type="multinuc" parent="66" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="74" type="span" parent="67" relname="interpretation-evaluation"/>
+		<group id="72" type="span" parent="74" relname="span"/>
+		<group id="70" type="span" parent="72" relname="span"/>
+		<group id="78" type="span" parent="75" relname="background"/>
+		<group id="83" type="span"/>
+	</body>
+</rst>

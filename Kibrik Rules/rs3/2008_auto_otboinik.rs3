@@ -1,0 +1,46 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="49" relname="preparation">Mercedes в результате ДТП оказался нанизанным на отбойник\n\nНа Украине на трассе Львов ?</segment>
+		<segment id="19" parent="21" relname="span">Стрый во Львовской области произошло страшное ДТП,</segment>
+		<segment id="20" parent="19" relname="elaboration">в котором водитель пострадавшего автомобиля чудом остался жив.</segment>
+		<segment id="22" parent="26" relname="span">42-летний автомобилист, ехавший за рулем Mercedes-Benz,</segment>
+		<segment id="23" parent="25" relname="joint">не справился с управлением</segment>
+		<segment id="24" parent="25" relname="joint">и на большой скорости столкнулся с дорожным отбойником,</segment>
+		<segment id="27" parent="28" relname="cause-effect">причем так сильно,</segment>
+		<segment id="28" parent="29" relname="span">что в итоге оказался буквально нанизанным на ограждение.</segment>
+		<segment id="31" parent="37" relname="joint">Жизнь водителю спасла подушка безопасности,</segment>
+		<segment id="32" parent="36" relname="span">встроенная в его иномарку,</segment>
+		<segment id="33" parent="35" relname="joint">которая при ударе сработала</segment>
+		<segment id="34" parent="35" relname="joint">и отбросила мужчину к краю салона.</segment>
+		<segment id="41" parent="45" relname="same-unit">Таким образом, отбойник, протаранивший салон насквозь,</segment>
+		<segment id="44" parent="45" relname="same-unit">\"пришелся\" не прям ему в голову.\n\nС закрытой черепно-мозговой травмой, рваными ранами головы и артериальным кровотечением пострадавшего отправили в районную больницу,</segment>
+		<segment id="46" parent="45" relname="elaboration">пишет газета \"Сегодня\".\n\nПодробный фоторепортаж аварии представляет сайт magnolia-tv.com.\n\nИсточник: https://www.newsru.com/auto/25Apr2008/otboinik.html\n</segment>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="21" type="span" parent="49" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="38" type="multinuc" parent="48" relname="joint"/>
+		<group id="30" type="span" parent="38" relname="sequence"/>
+		<group id="26" type="span" parent="30" relname="span"/>
+		<group id="25" type="multinuc" parent="22" relname="condition"/>
+		<group id="29" type="span" parent="26" relname="interpretation-evaluation"/>
+		<group id="37" type="multinuc" parent="38" relname="sequence"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="35" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="45" type="multinuc" parent="47" relname="span"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

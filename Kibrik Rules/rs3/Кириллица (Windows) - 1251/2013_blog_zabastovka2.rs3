@@ -1,0 +1,30 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="11" relname="span">Андрей Коновал: \"Итальянскую забастовку\" начали сегодня 11 участковых детских врачей Ижевска\"\n\n\"Надо сказать, что пока особого ажиотажа с очередями нет,</segment>
+		<segment id="10" parent="9" relname="cause-effect">поскольку педиатры вели информационную работу с родителями на своем участке</segment>
+		<segment id="12" parent="13" relname="attribution">,объясняя,</segment>
+		<segment id="13" parent="14" relname="span">что попасть на прием в эту неделю будет сложнее.</segment>
+		<segment id="16" parent="20" relname="span">Кроме того, сегодня в 8-й поликлинике так называемый \"здоровый день\",</segment>
+		<segment id="17" parent="19" relname="sequence">в который принимают на осмотр преимущественно здоровых детей</segment>
+		<segment id="18" parent="19" relname="sequence">и делается это по предварительной записи.\n\nВ 9-й поликлинике в кабинете Ирины Яшиной появились зав.поликлиникой, зам. главврача Елена Калабина и сотрудница бухгалтерии, которые ведут хронометраж приема.</segment>
+		<segment id="22" parent="23" relname="restatement">То есть выполняют как раз требование профсоюза, ранее игнорировавшееся.\"\n\nИсточник: https://www.newsru.com/blog/02Apr2013/zabastovka2.html\n</segment>
+		<group id="21" type="multinuc" parent="23" relname="restatement"/>
+		<group id="15" type="span" parent="21" relname="joint"/>
+		<group id="11" type="span" parent="15" relname="span"/>
+		<group id="14" type="span" parent="11" relname="cause-effect"/>
+		<group id="20" type="span" parent="21" relname="joint"/>
+		<group id="19" type="multinuc" parent="16" relname="elaboration"/>
+		<group id="23" type="multinuc"/>
+	</body>
+</rst>

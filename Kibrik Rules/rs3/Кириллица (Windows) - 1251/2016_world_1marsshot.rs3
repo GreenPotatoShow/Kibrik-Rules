@@ -1,0 +1,80 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="36" parent="40" relname="span">Миссия ExoMars получила первый снимок Марса\n\nКосмический аппарат \"ЭкзоМарс (ExoMars), направляющийся к Марсу, сделал первый снимок Красной планеты.</segment>
+		<segment id="37" parent="39" relname="span">Об этом сообщает сайт Европейского космического агентства (ЕКА).\n\n\"Орбитальный аппарат и Марс находились в 41 млн км друг от друга 13 июня,</segment>
+		<segment id="38" parent="37" relname="elaboration">когда был сделано новое изображение\",</segment>
+		<segment id="41" parent="40" relname="attribution">- говорится в сообщении.</segment>
+		<segment id="43" parent="46" relname="attribution">В нем также отмечается,</segment>
+		<segment id="44" parent="46" relname="joint">что \"этот снимок нельзя сравнивать с теми фотографиями высокого разрешения,</segment>
+		<segment id="45" parent="46" relname="joint">какие будут сделаны после того, как корабль наконец прибудет к Марсу,</segment>
+		<segment id="48" parent="52" relname="span">но все же он является важным моментом для команды\".\n\nСвою первую фотографию ExoMars сделал 7 апреля</segment>
+		<segment id="49" parent="51" relname="joint">- это было изображение случайно выбранного участка неба.\n\n\"Изображения подтвердили чувствительность камеры</segment>
+		<segment id="50" parent="51" relname="joint">и были достаточно резкими.</segment>
+		<segment id="53" parent="55" relname="joint">Кажется, она (камера) хорошо сфокусирована,</segment>
+		<segment id="54" parent="55" relname="joint">и уровень сигнала близок к предсказанному\",</segment>
+		<segment id="56" parent="57" relname="attribution">- заявил один из ученых из Бернского университета,</segment>
+		<segment id="57" parent="58" relname="span">помогавший проектировать камеру для ExoMars.</segment>
+		<segment id="62" parent="66" relname="joint">Другой исследователь,</segment>
+		<segment id="63" parent="65" relname="joint">руководивший разработками,</segment>
+		<segment id="64" parent="65" relname="joint">добавил,</segment>
+		<segment id="67" parent="68" relname="span">что первые снимки, полученные аппаратом, помогут ученым лучше откалибровать камеру.\n\nРоссийско-европейская миссия \"ЭкзоМарс-2016\" была запущена с космодрома Байконур с помощью ракеты-носителя \"Протон-М\" 14 марта.</segment>
+		<segment id="69" parent="70" relname="joint">В состав ExoMars входят аппарат Trace Gas Orbiter (TGO) и демонстрационный десантный модуль \"Скиапарелли\" (Schiaparelli).\n\nОни прибудут к Марсу в октябре.</segment>
+		<segment id="71" parent="75" relname="joint">Планируется, что 16 октября аппараты разделятся,</segment>
+		<segment id="72" parent="74" relname="span">а 19-го TGO выйдет на орбиту Марса,</segment>
+		<segment id="73" parent="72" relname="elaboration">где займется подробным анализом газового состава атмосферы Красной планеты.</segment>
+		<segment id="76" parent="78" relname="span">Особое внимание при этом будет уделяться поискам следов метана, газа,</segment>
+		<segment id="77" parent="76" relname="background">который ранее уже обнаруживался в марсианской атмосфере</segment>
+		<segment id="79" parent="80" relname="joint">и который является указателем на возможную активность геологических или биологических процессов на планете.\n\nВ свою очередь, \"Скиапарелли\" отработает вход в атмосферу, спуск и посадку.</segment>
+		<segment id="81" parent="83" relname="span">Он проработает на Марсе всего несколько дней,</segment>
+		<segment id="82" parent="81" relname="condition">пока не закончится заряд аккумуляторных батарей.\n\nВторой этап миссии ExoMars предусматривает отправку на Марс российской посадочной платформы и европейского ровера.</segment>
+		<segment id="85" parent="87" relname="span">Ключевыми задачами на этой стадии станут бурение и анализ марсианского грунта.</segment>
+		<segment id="86" parent="85" relname="elaboration">По одной из гипотез, на глубине нескольких метров могли сохраниться следы органической жизни.</segment>
+		<segment id="88" parent="92" relname="contrast">Планировалось, что второй этап пройдет в 2018 году,</segment>
+		<segment id="89" parent="90" relname="attribution">однако ранее глава \"Роскосмоса\" Игорь Комаров сообщил,</segment>
+		<segment id="90" parent="91" relname="span">что обсуждается перенос миссии на 2020 год.\n\nИсточник: https://www.newsru.com/world/16Jun2016/1marsshot.html\n</segment>
+		<group id="42" type="span" parent="97" relname="preparation"/>
+		<group id="40" type="span" parent="42" relname="span"/>
+		<group id="39" type="span" parent="36" relname="background"/>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="61" type="multinuc" parent="97" relname="joint"/>
+		<group id="47" type="span" parent="61" relname="contrast"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="60" type="span" parent="61" relname="contrast"/>
+		<group id="52" type="span" parent="60" relname="span"/>
+		<group id="51" type="multinuc" parent="48" relname="elaboration"/>
+		<group id="59" type="span" parent="52" relname="elaboration"/>
+		<group id="55" type="multinuc" parent="59" relname="span"/>
+		<group id="58" type="span" parent="55" relname="attribution"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="70" type="multinuc" parent="96" relname="joint"/>
+		<group id="68" type="span" parent="70" relname="joint"/>
+		<group id="66" type="multinuc" parent="67" relname="attribution"/>
+		<group id="65" type="multinuc" parent="66" relname="joint"/>
+		<group id="95" type="span" parent="96" relname="joint"/>
+		<group id="75" type="multinuc" parent="94" relname="preparation"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="84" type="span" parent="94" relname="joint"/>
+		<group id="80" type="multinuc" parent="84" relname="span"/>
+		<group id="78" type="span" parent="80" relname="joint"/>
+		<group id="83" type="span" parent="80" relname="elaboration"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="87" type="span" parent="93" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="91" type="span" parent="92" relname="contrast"/>
+		<group id="98" type="span"/>
+	</body>
+</rst>

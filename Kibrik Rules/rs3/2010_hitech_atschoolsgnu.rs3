@@ -1,0 +1,110 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="47" parent="49" relname="joint">В австрийских школах неправильно поняли чиновников</segment>
+		<segment id="48" parent="49" relname="joint">и установили свободное ПО</segment>
+		<segment id="50" parent="49" relname="purpose">в надежде получить за это деньги от министерства образования\n\nАктивный переход на свободное программное обеспечение (СПО) в школах Австрии начался с недоразумения.</segment>
+		<segment id="52" parent="57" relname="attribution">Министерство образования весной 2009 года заявило,</segment>
+		<segment id="53" parent="57" relname="joint">что с каждого компьютера, на котором будет установлен пакет OpenOffice.org взамен Microsoft Office,</segment>
+		<segment id="54" parent="56" relname="comparison">учебные заведения получат по 10 евро.\n\nВ школах истолковали данное заявление так,</segment>
+		<segment id="55" parent="56" relname="comparison">что власти будут выплачивать по 10 евро за каждый компьютер, переведенный на открытое ПО.</segment>
+		<segment id="60" parent="62" relname="contrast">Однако затем выяснилось, что имелась в виду не поощрительная выплата,</segment>
+		<segment id="61" parent="62" relname="contrast">а то, что школы и гимназии смогут сэкономить направить сэкономленные средства на свои нужды,</segment>
+		<segment id="63" parent="62" relname="attribution">сообщает CNews.ru.\n\n</segment>
+		<segment id="66" parent="70" relname="contrast">\"Мы не платили школам по 10 евро за использование свободного ПО,</segment>
+		<segment id="67" parent="69" relname="span">но школы и не потратили эти 10 евро на покупку лицензии,</segment>
+		<segment id="68" parent="67" relname="condition">когда перешли на OpenOffice,</segment>
+		<segment id="71" parent="70" relname="attribution">- заявил Роберт Криштофль, глава департамента информационных технологий министерства образования.</segment>
+		<segment id="73" parent="77" relname="span">- Мы оплатили только разработку пакета открытых программ, а также видеотренинги, созданные профессиональным партнером\".\n\nВ Microsoft,</segment>
+		<segment id="74" parent="75" relname="attribution">по словам чиновника,</segment>
+		<segment id="75" parent="76" relname="span">были очень недовольны,</segment>
+		<segment id="78" parent="86" relname="span">когда началось широкое общественное обсуждение неправильно истолкованной инициативы:</segment>
+		<segment id="79" parent="80" relname="interpretation-evaluation">“это выглядело так,</segment>
+		<segment id="80" parent="81" relname="span">будто министерство доплачивает учебным учреждениям за переход на свободное ПО,</segment>
+		<segment id="82" parent="84" relname="span">что, разумеется, не соответствует действительности”.\n\nТем не менее,</segment>
+		<segment id="83" parent="82" relname="cause-effect">во многих школах Альпийской республики до сих пор пребывают в неведении по поводу истинного смысла инициативы ведомства.</segment>
+		<segment id="88" parent="92" relname="joint">Так, Рене Шварцингер, преподаватель информатики и математики,</segment>
+		<segment id="89" parent="90" relname="attribution">а также ИТ-менеджер и эксперт по открытому ПО одной из австрийских школ в разговоре с журналистами CNews сообщил,</segment>
+		<segment id="90" parent="91" relname="span">что их учреждение все еще ждет денег за внедрение OpenOffice.</segment>
+		<segment id="94" parent="99" relname="attribution">По его словам,</segment>
+		<segment id="95" parent="99" relname="joint">школа в общей сложности должна получить 1 тыс. евро,</segment>
+		<segment id="98" parent="99" relname="joint">т.к. заменила MS Office на бесплатный аналог на 100 ПК.\n\nПравда педагог поддерживает внедрение ПО с открытым кодом независимо от того, платят за него или нет.</segment>
+		<segment id="101" parent="105" relname="span">\"По моему мнению, следует отдавать предпочтение свободному ПО,</segment>
+		<segment id="102" parent="104" relname="span">даже если расходы, связанные с ним, равны или даже немного выше внедрения коммерческого ПО,</segment>
+		<segment id="103" parent="102" relname="cause-effect">ведь это означает независимость от отдельных компаний\",</segment>
+		<segment id="106" parent="108" relname="joint">- уверен он.\n\nДвойная стратегия по-австрийски\n\nПо данным Министерства образования Австрии, на конец 2009-2010 учебного года около 15% школ и гимназий страны отказались от использования Microsoft Office</segment>
+		<segment id="107" parent="108" relname="joint">и перешли на его свободный аналог - OpenOffice.\n\</segment>
+		<segment id="110" parent="112" relname="span">nБлагодаря этому учебные заведения сэкономили от 172 тыс. до 300 тыс. евро,</segment>
+		<segment id="111" parent="110" relname="attribution">заявил журналистам Роберт Криштофль.</segment>
+		<segment id="115" parent="120" relname="attribution">В новом учебном году в ведомстве ожидают,</segment>
+		<segment id="116" parent="120" relname="comparison">что число школ и гимназий, отказавшихся от MS Office, может достигнуть 25%.\n\nКриштофль также рассказал,</segment>
+		<segment id="117" parent="119" relname="span">что активный переход на свободное программное обеспечение в австрийских школах вынудил Microsoft предложить министерству новый, более выгодный контракт на 50 тыс. лицензий MS Office,</segment>
+		<segment id="118" parent="117" relname="elaboration">рассчитанный на 3 года.\n\</segment>
+		<segment id="122" parent="129" relname="attribution">nПо его словам,</segment>
+		<segment id="123" parent="129" relname="span">австрийское образование традиционно придерживается двойной стратегии в отношении программного обеспечения,</segment>
+		<segment id="124" parent="128" relname="joint">оказывая ту или иную поддержку как пользователям продуктов Microsoft, так и свободного ПО.</segment>
+		<segment id="125" parent="126" relname="attribution">Как отметил Криштофль,</segment>
+		<segment id="126" parent="127" relname="span">делается это для того, чтобы ученики могли изучить обе среды.\n\nИнициативы по поддержке СПО развернуты и в других европейских странах.</segment>
+		<segment id="131" parent="132" relname="joint">Так, весной 2010 года швейцарское государственное агентство по внедрению информационных технологий в учебных заведениях рекомендовало местным школам отказаться от платного проприетарного программного обеспечения в пользу Open Source аналогов.\n\nА совсем недавно парижский \"полюс компетенции\" System@tic получил правительственную дотацию в размере 20 млн евро на три исследовательских проекта по разработке ПО с открытым кодом.\n\nИсточник: https://www.newsru.com/hitech/17Aug2010/atschoolsgnu.html\n</segment>
+		<group id="65" type="multinuc" parent="136" relname="preparation"/>
+		<group id="59" type="span" parent="65" relname="contrast"/>
+		<group id="51" type="span" parent="58" relname="preparation"/>
+		<group id="49" type="multinuc" parent="51" relname="span"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="57" type="multinuc" parent="58" relname="span"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="64" type="span" parent="65" relname="contrast"/>
+		<group id="62" type="multinuc" parent="64" relname="span"/>
+		<group id="136" type="multinuc" parent="137" relname="span"/>
+		<group id="72" type="span" parent="136" relname="joint"/>
+		<group id="70" type="multinuc" parent="72" relname="span"/>
+		<group id="69" type="span" parent="70" relname="contrast"/>
+		<group id="135" type="multinuc" parent="136" relname="joint"/>
+		<group id="93" type="multinuc" parent="135" relname="joint"/>
+		<group id="87" type="span" parent="93" relname="joint"/>
+		<group id="77" type="span" parent="87" relname="span"/>
+		<group id="76" type="span" parent="73" relname="interpretation-evaluation"/>
+		<group id="86" type="span" parent="77" relname="elaboration"/>
+		<group id="85" type="multinuc" parent="78" relname="elaboration"/>
+		<group id="81" type="span" parent="85" relname="contrast"/>
+		<group id="84" type="span" parent="85" relname="contrast"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="91" type="span" parent="92" relname="joint"/>
+		<group id="134" type="multinuc" parent="135" relname="joint"/>
+		<group id="114" type="multinuc" parent="134" relname="comparison"/>
+		<group id="100" type="span" parent="114" relname="joint"/>
+		<group id="99" type="multinuc" parent="100" relname="span"/>
+		<group id="113" type="span" parent="114" relname="joint"/>
+		<group id="109" type="span" parent="113" relname="span"/>
+		<group id="105" type="span" parent="109" relname="span"/>
+		<group id="104" type="span" parent="101" relname="condition"/>
+		<group id="108" type="multinuc" parent="105" relname="attribution"/>
+		<group id="112" type="span" parent="109" relname="attribution"/>
+		<group id="133" type="multinuc" parent="134" relname="comparison"/>
+		<group id="121" type="span" parent="133" relname="comparison"/>
+		<group id="120" type="multinuc" parent="121" relname="span"/>
+		<group id="119" type="span" parent="120" relname="comparison"/>
+		<group id="132" type="multinuc" parent="133" relname="comparison"/>
+		<group id="130" type="span" parent="132" relname="joint"/>
+		<group id="129" type="span" parent="130" relname="span"/>
+		<group id="128" type="multinuc" parent="123" relname="elaboration"/>
+		<group id="127" type="span" parent="128" relname="joint"/>
+		<group id="137" type="span"/>
+	</body>
+</rst>

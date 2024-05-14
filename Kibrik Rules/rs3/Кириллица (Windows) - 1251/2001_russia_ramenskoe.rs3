@@ -1,0 +1,53 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="sequence">Один человек погиб при катастрофе самолета в Подмосковье\n\nВо время проведения испытательного полета вблизи аэродрома \"Раменское\" в Московской области вечером 12 сентября упал</segment>
+		<segment id="20" parent="21" relname="sequence">и разбился самолет М-101 \"Гжель\".</segment>
+		<segment id="22" parent="21" relname="attribution">Об этом сообщили в пресс-службе МЧС.</segment>
+		<segment id="24" parent="26" relname="joint">Инструктор школы летчиков-испытателей погиб,</segment>
+		<segment id="25" parent="26" relname="joint">второй пилот после катапультирования доставлен в центральную районную больницу города Жуковский</segment>
+		<segment id="27" parent="26" relname="background">.Машина принадлежала летно-испытательному институту имени Громова.</segment>
+		<segment id="29" parent="31" relname="joint">Причины происшествия расследуются.\n\nМежду тем вчера в России были временно запрещены учебные полеты и полеты легких и сверхлегких воздушных судов,</segment>
+		<segment id="30" parent="31" relname="joint">а также приняты другие меры по исключению возможности совершения терактов с использованием авиации.\n\</segment>
+		<segment id="33" parent="35" relname="span">nВ распоряжении Государственной службы гражданской авиации Минтранса России говорится и о принятии дополнительных мер по усилению охраны аэропортов и других объектов, связанных с производством и ремонтом авиатехники, а также служб, обеспечивающих полеты в воздушном пространстве России.</segment>
+		<segment id="34" parent="33" relname="elaboration">В частности, отменены все пропуска, выданные сторонними организациями, которые разрешают въезд транспорта на территорию этих объектов.\n\</segment>
+		<segment id="36" parent="37" relname="attribution">nКак сообщается,</segment>
+		<segment id="37" parent="38" relname="span">особое внимание уделено охране воздушных судов, качеству их подготовки и контролю за соблюдением требований предполетных и полетных предписаний.</segment>
+		<segment id="39" parent="40" relname="condition">В частности, при регистрации пассажиров</segment>
+		<segment id="40" parent="41" relname="span">рекомендовано помимо электронного проводить ручной контроль всего багажа.</segment>
+		<segment id="42" parent="48" relname="span">Запрещено допускать в залы ВИП и делегаций лиц, не имеющих на то право.</segment>
+		<segment id="43" parent="45" relname="span">Во время полетов запрещено держать двери кабин пилотов открытыми.\n\nЛетный состав предупрежден о мерах пресечения,</segment>
+		<segment id="44" parent="43" relname="condition">если самолет появится над запретной территорией или над объектами особого режима.</segment>
+		<segment id="46" parent="47" relname="joint">Все эти мероприятия осуществляются во взаимодействии с ФСБ, МВД и Минобороны России.\n\nИсточник: https://www.newsru.com/russia/13Sep2001/ramenskoe.html\n</segment>
+		<group id="23" type="span" parent="52" relname="preparation"/>
+		<group id="21" type="multinuc" parent="23" relname="span"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="32" type="multinuc" parent="52" relname="joint"/>
+		<group id="28" type="span" parent="32" relname="joint"/>
+		<group id="26" type="multinuc" parent="28" relname="span"/>
+		<group id="31" type="multinuc" parent="32" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="35" type="span" parent="51" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="38" type="span" parent="50" relname="span"/>
+		<group id="49" type="span" parent="38" relname="elaboration"/>
+		<group id="41" type="span" parent="49" relname="span"/>
+		<group id="48" type="span" parent="41" relname="elaboration"/>
+		<group id="47" type="multinuc" parent="42" relname="elaboration"/>
+		<group id="45" type="span" parent="47" relname="joint"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

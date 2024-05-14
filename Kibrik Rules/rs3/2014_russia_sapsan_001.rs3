@@ -1,0 +1,68 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="82" relname="preparation">Петербургского студента, доказавшего уязвимость охраны \"Сапсанов\", оштрафовали на 500 рублей\n\</segment>
+		<segment id="32" parent="34" relname="joint">nПолицейские Санкт-Петербурга вычислили одного из молодых людей, проникших на территорию депо со скоростными поездами \"Сапсан\"</segment>
+		<segment id="33" parent="34" relname="joint">и тем самым доказавших серьезные недостатки в охране этого объекта.\n\nИм оказался 20-летний студент одного из местных вузов.</segment>
+		<segment id="37" parent="34" relname="elaboration">В отношении него составлен протокол об административном правонарушении по статье 20.17 КоАП РФ (\"Нарушение пропускного режима охраняемого объекта\"), сообщает окружное управление на транспорте МВД РФ.</segment>
+		<segment id="39" parent="38" relname="elaboration">Максимальное наказание по данной статье - штраф в 500 рублей.\n\</segment>
+		<segment id="41" parent="46" relname="attribution">nПри этом силовики выяснили,</segment>
+		<segment id="42" parent="46" relname="joint">что этот молодой человек ранее неоднократно привлекался за аналогичные правонарушения, а также по статье 11.1 КоАП (\"Действия, угрожающие безопасности движения на железнодорожном транспорте\"),</segment>
+		<segment id="43" parent="45" relname="span">отмечается в полицейском пресс-релизе.\n\nПо сведениям сайта \"Фонтанка.ру\", в депо с \"Сапсанами\" пробралась группа петербургских руферов,</segment>
+		<segment id="44" parent="43" relname="background">которая ранее проникала на территорию международного аэропорта Пулково и Ленинградскую атомную электростанцию.</segment>
+		<segment id="48" parent="49" relname="attribution">Сами они уверяют,</segment>
+		<segment id="49" parent="50" relname="span">что таким образом решили показать недостатки охраны на стратегических объектах.\n\nДепо в поселке Металлострой считается одним из самых охраняемых в стране.</segment>
+		<segment id="52" parent="58" relname="joint">Однако судя по фотографиям, размещенным экстремалами в соцсетях,</segment>
+		<segment id="53" parent="57" relname="contrast">им удалось не только беспрепятственно прогуляться по депо,</segment>
+		<segment id="54" parent="56" relname="joint">но и пробраться внутрь поездов</segment>
+		<segment id="55" parent="56" relname="joint">и даже посидеть в кабине машиниста.\n\n\"Поезд \"Сапсан\" является одним из главных символов железных дорог России, ее флагманом.</segment>
+		<segment id="59" parent="60" relname="condition">Перед проходом на посадку</segment>
+		<segment id="60" parent="61" relname="span">именно на нем осуществляется полный предрейсовый досмотр,</segment>
+		<segment id="62" parent="63" relname="span">порой не хуже, чем на самолете.</segment>
+		<segment id="64" parent="70" relname="same-unit">Но какой в этом смысл,</segment>
+		<segment id="65" parent="68" relname="condition">если абсолютно любой желающий может проникнуть в \"Сапсан\" прямо на территории депо,</segment>
+		<segment id="66" parent="68" relname="joint">спокойно пройтись по нему</segment>
+		<segment id="67" parent="68" relname="joint">и заложить туда что угодно, вплоть до взрывного устройства?\"</segment>
+		<segment id="72" parent="76" relname="joint">- задал риторический вопрос один из участников команды.\n\n26 ноября в Петербурге несколько молодых людей проникли на режимную территорию аэропорта Пулково,</segment>
+		<segment id="75" parent="76" relname="joint">а в начале декабря незаметно пробрались на один из самых охраняемых объектов Ленинградской области - строящийся реактор ЛАЭС-2.\n\nПохожую \"проверку безопасности\" устроили недавно в Москве двое диггеров, ухитрившись залезть в тоннель Замоскворецкой линии метрополитена.</segment>
+		<segment id="77" parent="78" relname="sequence">После этого случая в метро обещали провести внеплановую проверку систем безопасности всех технологических объектов на возможность проникновения посторонних лиц.\n\nИсточник: https://www.newsru.com/russia/24Dec2014/sapsan.html\n</segment>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="40" type="span" parent="82" relname="joint"/>
+		<group id="38" type="span" parent="40" relname="span"/>
+		<group id="34" type="multinuc" parent="38" relname="span"/>
+		<group id="81" type="multinuc" parent="82" relname="joint"/>
+		<group id="51" type="multinuc" parent="81" relname="joint"/>
+		<group id="47" type="span" parent="51" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="80" type="multinuc" parent="81" relname="joint"/>
+		<group id="58" type="multinuc" parent="80" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="56" type="multinuc" parent="57" relname="contrast"/>
+		<group id="79" type="span" parent="80" relname="joint"/>
+		<group id="71" type="multinuc" parent="78" relname="solutionhood"/>
+		<group id="63" type="span" parent="71" relname="contrast"/>
+		<group id="61" type="span" parent="62" relname="condition"/>
+		<group id="70" type="multinuc" parent="71" relname="contrast"/>
+		<group id="69" type="span" parent="70" relname="same-unit"/>
+		<group id="68" type="multinuc" parent="69" relname="span"/>
+		<group id="78" type="multinuc" parent="79" relname="span"/>
+		<group id="76" type="multinuc" parent="78" relname="sequence"/>
+		<group id="83" type="span"/>
+	</body>
+</rst>

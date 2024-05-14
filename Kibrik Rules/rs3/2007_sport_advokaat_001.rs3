@@ -1,0 +1,75 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="30" parent="32" relname="span">Федерации футбола Австралии намерена судиться с \"Зенитом\"</segment>
+		<segment id="31" parent="30" relname="cause-effect">из-за Дика Адвоката\n\</segment>
+		<segment id="33" parent="32" relname="elaboration">nРешение остаться в петербургском \"Зените\" может стоить его главному тренеру Дику Адвокату судебного разбирательства.</segment>
+		<segment id="35" parent="36" relname="attribution">Накануне представитель Федерации футбола Австралии (ФФА) подтвердил,</segment>
+		<segment id="36" parent="37" relname="span">что в настоящее время обсуждается возможность обращения в суд с жалобой на голландского специалиста.</segment>
+		<segment id="38" parent="40" relname="span">Отказ от работы с \"Соккеруз\" может обойтись Адвокату в круглую сумму.\n\nПо данным из разных источников,</segment>
+		<segment id="39" parent="38" relname="elaboration">она составляет или $ 2 500 000</segment>
+		<segment id="41" parent="43" relname="span">(компенсация, равная годовой зарплате на посту главного тренера австралийской сборной,</segment>
+		<segment id="42" parent="41" relname="elaboration">согласно подписанному летом предварительному соглашению),</segment>
+		<segment id="44" parent="48" relname="span">или $ 5 000 000, или еще больше.\n\nТем не менее,</segment>
+		<segment id="45" parent="46" relname="attribution">по данным газеты \"Спорт-экспресс\",</segment>
+		<segment id="46" parent="47" relname="span">завтра Адвокат должен вернуться в Санкт-Петербург</segment>
+		<segment id="49" parent="50" relname="joint">и встретиться с руководством \"Зенита\".</segment>
+		<segment id="56" parent="83" relname="preparation">Вопрос о том, остается ли он главным тренером чемпионов России, окончательно прояснится до конца недели.</segment>
+		<segment id="57" parent="73" relname="joint">Вероятность того, что голландец подпишет с \"Зенитом\" новый контракт, весьма велика.\n\</segment>
+		<segment id="58" parent="72" relname="joint">nНапомним, что Адвокат подписал с Федерацией футбола Австралии предварительный контракт на подготовку сборной Зеленого континента к ЧМ-2010</segment>
+		<segment id="59" parent="71" relname="span">и одновременно дал руководству \"Зенита\" обещание продлить соглашение,</segment>
+		<segment id="60" parent="69" relname="condition">если клуб займет в чемпионате России первое или второе место.\n\nОднако, по данным газеты \"Известия\",</segment>
+		<segment id="61" parent="69" relname="span">ФФА собирается подать жалобу не на тренера, а на российский клуб,</segment>
+		<segment id="62" parent="68" relname="same-unit">который,</segment>
+		<segment id="63" parent="66" relname="attribution">по мнению представителей Зеленого континента,</segment>
+		<segment id="64" parent="66" relname="comparison">подталкивал Адвоката к нарушению условий предварительного договора.\n\nВедь \"Зенит\" предложил голландцу вдвое большую годовую зарплату,</segment>
+		<segment id="65" parent="66" relname="comparison">чем он получал бы в Австралии (4 миллиона долларов против двух).</segment>
+		<segment id="74" parent="76" relname="span">В итоге \"Соккеруз\" потеряли три месяца</segment>
+		<segment id="75" parent="74" relname="purpose">для возможного поиска нового наставника</segment>
+		<segment id="77" parent="78" relname="joint">и проводили в субботу все в том же Лондоне товарищеский матч против Нигерии вовсе без главного тренера.\n\nТем временем австралийцы, которым уже в начале следующего года предстоит стартовать в отборочном цикле к чемпионату мира-2010,</segment>
+		<segment id="79" parent="81" relname="span">склоняются к тому,</segment>
+		<segment id="80" parent="79" relname="purpose">чтобы пригласить на вакантный пост Юргена Клинсманна или Жозе Моуринью.\n\nИсточник: https://www.newsru.com/sport/20Nov2007/advokaat.html\n</segment>
+		<group id="34" type="span" parent="85" relname="preparation"/>
+		<group id="32" type="span" parent="34" relname="span"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="53" type="span" parent="85" relname="joint"/>
+		<group id="37" type="span" parent="53" relname="span"/>
+		<group id="52" type="span" parent="37" relname="elaboration"/>
+		<group id="40" type="span" parent="52" relname="span"/>
+		<group id="51" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="43" type="span" parent="51" relname="joint"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="48" type="span" parent="50" relname="joint"/>
+		<group id="47" type="span" parent="44" relname="attribution"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="83" type="span" parent="84" relname="span"/>
+		<group id="73" type="multinuc" parent="82" relname="solutionhood"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="70" type="span" parent="59" relname="elaboration"/>
+		<group id="69" type="span" parent="70" relname="span"/>
+		<group id="68" type="multinuc" parent="61" relname="elaboration"/>
+		<group id="67" type="span" parent="68" relname="same-unit"/>
+		<group id="66" type="multinuc" parent="67" relname="span"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="78" type="multinuc" parent="82" relname="span"/>
+		<group id="76" type="span" parent="78" relname="joint"/>
+		<group id="81" type="span" parent="78" relname="elaboration"/>
+		<group id="86" type="span"/>
+	</body>
+</rst>

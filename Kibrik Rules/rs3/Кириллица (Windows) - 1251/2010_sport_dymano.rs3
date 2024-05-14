@@ -1,0 +1,29 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="11" relname="joint">Чемпионат страны по хоккею с мячом пятый раз подряд выиграло московское \"Динамо\"\n\nМосковское \"Динамо\" в пятый раз подряд завоевало золотые медали чемпионата России по хоккею с мячом.</segment>
+		<segment id="10" parent="11" relname="joint">Во вторник в московском Дворце спорта \"Крылатское\" динамовцы повторно переиграли красногорский \"Зоркий\" – 12:5.\n\</segment>
+		<segment id="12" parent="18" relname="span">nУчастники этой встречи выступали с траурными повязками на руках в память о жертвах терактов в московском метро,</segment>
+		<segment id="13" parent="15" relname="span">которые произошли утром 29 марта.\n\nПервая встреча команд в Красногорске завершилась со счетом 9:5 в пользу москвичей.\n\nЧемпионство стало для столичного \"Динамо\" пятым подряд и 20-м в общей сложности,</segment>
+		<segment id="14" parent="13" relname="elaboration">если считать победы и в чемпионатах СССР.\n\nКак и в предыдущие годы,</segment>
+		<segment id="16" parent="15" relname="interpretation-evaluation">преимущество столичного клуба оказалось безоговорочным.</segment>
+		<segment id="19" parent="21" relname="sequence">Забив в двух финальных матчах 21 мяч,</segment>
+		<segment id="20" parent="21" relname="sequence">бело-голубые преодолели фантастический рубеж в 400 мячей за один чемпионат - это рекорд.\n\nБронзовые медали первенства страны в нынешнем сезоне завоевал красноярский \"Енисей\".\n\nИсточник: https://www.newsru.com/sport/31Mar2010/dymano.html\n</segment>
+		<group id="11" type="multinuc" parent="22" relname="preparation"/>
+		<group id="22" type="span" parent="23" relname="span"/>
+		<group id="18" type="span" parent="22" relname="span"/>
+		<group id="17" type="span" parent="12" relname="elaboration"/>
+		<group id="15" type="span" parent="17" relname="span"/>
+		<group id="21" type="multinuc" parent="18" relname="elaboration"/>
+		<group id="23" type="span"/>
+	</body>
+</rst>

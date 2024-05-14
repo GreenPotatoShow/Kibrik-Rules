@@ -1,0 +1,138 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="60" parent="62" relname="joint">Навальный написал статью в \"Ведомости\",</segment>
+		<segment id="61" parent="62" relname="joint">изложив свою \"экономическую программу\" из пяти слов\n\nБлоггер и оппозиционер Алексей Навальный изложил свою \"экономическую программу\" в статье для газеты \"Ведомости\".</segment>
+		<segment id="63" parent="64" relname="cause-effect">Объявив, что он считает корнем зла в России коррупцию чиновников,</segment>
+		<segment id="64" parent="65" relname="span">Навальный призвал активно бороться с ней.</segment>
+		<segment id="66" parent="72" relname="same-unit">Таким образом, суть программы вместилась в пять слов</segment>
+		<segment id="67" parent="71" relname="joint">- \"не врать</segment>
+		<segment id="68" parent="70" relname="joint">и не воровать\".\n\n\"Борьба с коррупцией</segment>
+		<segment id="69" parent="70" relname="joint">и есть моя экономическая программа.</segment>
+		<segment id="73" parent="77" relname="span">Содержательная и реалистичная.</segment>
+		<segment id="74" parent="76" relname="joint">Лозунг \"Не врать</segment>
+		<segment id="75" parent="76" relname="joint">и не воровать\" не риторическое восклицание, а суть политических преобразований.</segment>
+		<segment id="80" parent="82" relname="joint">Борьба с коррупцией - главная и фактически единственная структурная реформа, которую можно начинать хоть завтра</segment>
+		<segment id="81" parent="82" relname="joint">и которая является ключевым условием для старта других реформ\",</segment>
+		<segment id="83" parent="82" relname="attribution">- считает оппозиционер</segment>
+		<segment id="85" parent="86" relname="same-unit">.\n\</segment>
+		<segment id="88" parent="89" relname="attribution">nПо словам Навального,</segment>
+		<segment id="89" parent="90" relname="span">для этой реформы \"не нужно ничего, кроме политической воли\".</segment>
+		<segment id="91" parent="95" relname="span">\"Она не требует больших денег.</segment>
+		<segment id="92" parent="94" relname="span">Она популярна у населения.</segment>
+		<segment id="93" parent="92" relname="elaboration">Это та сфера, где 20% усилий принесут 80% результата\",</segment>
+		<segment id="96" parent="95" relname="attribution">- отметил он</segment>
+		<segment id="98" parent="100" relname="span">.\n\nЧестное государство будет тем первым и главным достижением, которое проложит дорогу \"для решения остальных основных проблем России - и социальных, и экономических, и проблем безопасности\",</segment>
+		<segment id="99" parent="98" relname="attribution">считает Алексей Навальный.\n\</segment>
+		<segment id="103" parent="104" relname="attribution">nАвтор статьи напомнил,</segment>
+		<segment id="104" parent="105" relname="span">что коррупция в России охватила все сферы жизни:</segment>
+		<segment id="106" parent="108" relname="comparison">\"Она неприемлемо высока для такой богатой и образованной страны</segment>
+		<segment id="107" parent="108" relname="comparison">- в странах, сравнимых с нами по уровню развития,</segment>
+		<segment id="109" parent="113" relname="span">коррупция гораздо ниже.</segment>
+		<segment id="110" parent="111" relname="attribution">Она ниже во многих странах, которые беднее нас\".\n\nНавальный подчеркнул,</segment>
+		<segment id="111" parent="112" relname="span">что в рейтингах коррупции Россия соседствует с Нигерией и Угандой.</segment>
+		<segment id="115" parent="119" relname="span">\"Примечательно, что коррупция не снижалась все те годы,</segment>
+		<segment id="116" parent="118" relname="joint">когда российская экономика росла,</segment>
+		<segment id="117" parent="118" relname="joint">и в те периоды, когда она становилась главным объектом политического воздействия со стороны власти\",</segment>
+		<segment id="120" parent="119" relname="attribution">- отметил он.\n\</segment>
+		<segment id="124" parent="129" relname="attribution">nПо мнению блоггера,</segment>
+		<segment id="125" parent="129" relname="span">именно коррупция является причиной политической нестабильности,</segment>
+		<segment id="126" parent="128" relname="joint">так как \"порождает оскорбительное поведение политиков и чиновников</segment>
+		<segment id="127" parent="128" relname="joint">и создает ощущение несправедливости в обществе\".\n\n\"Демонстративная коррупция в республиках Кавказа лучше любых исламистов рекрутирует боевиков для идущей там гражданской войны.</segment>
+		<segment id="131" parent="132" relname="attribution">Я считаю,</segment>
+		<segment id="132" parent="133" relname="span">что лозунги о возможности стабильного развития коррумпированного государства - это самый опасный политический обман\",</segment>
+		<segment id="134" parent="133" relname="attribution">- пишет автор статьи</segment>
+		<segment id="137" parent="138" relname="attribution">.\n\nОппозиционер также высказал мнение,</segment>
+		<segment id="138" parent="139" relname="span">что в \"путинской России миллиардерами людей делает не талант и трудолюбие, а членство в правильном дачном кооперативе\".</segment>
+		<segment id="140" parent="145" relname="attribution">Как считает Навальный,</segment>
+		<segment id="141" parent="145" relname="joint">сколько бы Кремль ни предлагал \"стостраничных программ структурных реформ,</segment>
+		<segment id="142" parent="144" relname="span">ни одна из них не будет реализована</segment>
+		<segment id="143" parent="142" relname="cause-effect">по причине того, что вся система власти искривлена беззаконием и коррупцией\".\n\</segment>
+		<segment id="147" parent="149" relname="joint">nВ итоге в нынешней власти нет,</segment>
+		<segment id="148" parent="149" relname="joint">и не может быть группы единомышленников, \"объединенных идеей реформы институтов, а не немедленной закупки арбидола на 100 лет вперед или строительства самого дорогого стадиона в мире\",</segment>
+		<segment id="150" parent="149" relname="attribution">отметил Навальный.</segment>
+		<segment id="153" parent="154" relname="attribution">По его словам,</segment>
+		<segment id="154" parent="155" relname="span">борьба с коррупцией - хотя и не единственное, но \"совершенно необходимое условие любых структурных реформ в России\".\n\</segment>
+		<segment id="156" parent="159" relname="attribution">nВ то же время автор статьи уверен,</segment>
+		<segment id="157" parent="159" relname="joint">что коррупцию в России победить можно,</segment>
+		<segment id="158" parent="159" relname="joint">и в стране есть все предпосылки для этого.</segment>
+		<segment id="161" parent="163" relname="span">Призывая отбросить наивные идеи о немедленном экономическом чуде</segment>
+		<segment id="162" parent="161" relname="condition">в случае успехов на этом поприще,</segment>
+		<segment id="164" parent="165" relname="attribution">Навальный пишет,</segment>
+		<segment id="165" parent="166" relname="span">что, тем не менее, \"даже простейший антикоррупционный анализ инвестпрограмм госкомпаний выявит огромные ресурсы\".\n\nИсточник: https://www.newsru.com/russia/01Mar2012/navprogramma.html\n</segment>
+		<group id="62" type="multinuc" parent="175" relname="preparation"/>
+		<group id="175" type="multinuc" parent="176" relname="span"/>
+		<group id="87" type="span" parent="175" relname="joint"/>
+		<group id="79" type="span" parent="86" relname="cause-effect"/>
+		<group id="65" type="span" parent="78" relname="cause-effect"/>
+		<group id="78" type="multinuc" parent="79" relname="span"/>
+		<group id="72" type="multinuc" parent="78" relname="joint"/>
+		<group id="71" type="multinuc" parent="72" relname="same-unit"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="76" type="multinuc" parent="73" relname="elaboration"/>
+		<group id="86" type="multinuc" parent="87" relname="span"/>
+		<group id="84" type="span" parent="86" relname="same-unit"/>
+		<group id="82" type="multinuc" parent="84" relname="span"/>
+		<group id="174" type="multinuc" parent="175" relname="joint"/>
+		<group id="102" type="span" parent="174" relname="joint"/>
+		<group id="90" type="span" parent="102" relname="span"/>
+		<group id="101" type="multinuc" parent="90" relname="elaboration"/>
+		<group id="97" type="span" parent="101" relname="joint"/>
+		<group id="95" type="span" parent="97" relname="span"/>
+		<group id="94" type="span" parent="91" relname="elaboration"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="173" type="multinuc" parent="174" relname="joint"/>
+		<group id="123" type="span" parent="173" relname="joint"/>
+		<group id="105" type="span" parent="123" relname="span"/>
+		<group id="122" type="multinuc" parent="105" relname="elaboration"/>
+		<group id="114" type="multinuc" parent="122" relname="comparison"/>
+		<group id="108" type="multinuc" parent="114" relname="comparison"/>
+		<group id="113" type="span" parent="114" relname="comparison"/>
+		<group id="112" type="span" parent="109" relname="elaboration"/>
+		<group id="121" type="span" parent="122" relname="comparison"/>
+		<group id="119" type="span" parent="121" relname="span"/>
+		<group id="118" type="multinuc" parent="115" relname="background"/>
+		<group id="172" type="multinuc" parent="173" relname="joint"/>
+		<group id="136" type="span" parent="172" relname="joint"/>
+		<group id="130" type="span" parent="136" relname="span"/>
+		<group id="129" type="span" parent="130" relname="span"/>
+		<group id="128" type="multinuc" parent="125" relname="cause-effect"/>
+		<group id="135" type="span" parent="130" relname="interpretation-evaluation"/>
+		<group id="133" type="span" parent="135" relname="span"/>
+		<group id="171" type="multinuc" parent="172" relname="joint"/>
+		<group id="139" type="span" parent="171" relname="comparison"/>
+		<group id="170" type="multinuc" parent="171" relname="comparison"/>
+		<group id="152" type="multinuc" parent="170" relname="joint"/>
+		<group id="146" type="span" parent="152" relname="joint"/>
+		<group id="145" type="multinuc" parent="146" relname="span"/>
+		<group id="144" type="span" parent="145" relname="joint"/>
+		<group id="151" type="span" parent="152" relname="joint"/>
+		<group id="149" type="multinuc" parent="151" relname="span"/>
+		<group id="169" type="multinuc" parent="170" relname="joint"/>
+		<group id="155" type="span" parent="169" relname="comparison"/>
+		<group id="168" type="multinuc" parent="169" relname="comparison"/>
+		<group id="160" type="span" parent="168" relname="joint"/>
+		<group id="159" type="multinuc" parent="160" relname="span"/>
+		<group id="167" type="span" parent="168" relname="joint"/>
+		<group id="163" type="span" parent="167" relname="span"/>
+		<group id="166" type="span" parent="163" relname="elaboration"/>
+		<group id="176" type="span"/>
+	</body>
+</rst>

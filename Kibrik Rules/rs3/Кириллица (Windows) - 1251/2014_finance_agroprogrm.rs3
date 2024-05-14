@@ -1,0 +1,118 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="50" parent="54" relname="contrast">Российские производители продуктов рады эмбарго,</segment>
+		<segment id="51" parent="53" relname="span">но требуют еще и финансирования\n\nЗа первый месяц действия санкций поставки попавших под эмбарго молока, свинины, птицы, овощей рухнули на 40-60%,</segment>
+		<segment id="52" parent="51" relname="attribution">показала таможенная статистика.</segment>
+		<segment id="55" parent="61" relname="contrast">Пока падение импорта компенсируется \"проеданием\" запасов,</segment>
+		<segment id="56" parent="60" relname="span">но растущий дефицит ощущается уже и в рознице, и в переработке.\n\nНа этом фоне Минсельхоз намерен представить вице-премьеру Аркадию Дворковичу,</segment>
+		<segment id="57" parent="59" relname="joint">курирующему в правительстве сельское хозяйство,</segment>
+		<segment id="58" parent="59" relname="joint">обновленную госпрограмму развития АПК до 2020 года,</segment>
+		<segment id="62" parent="61" relname="attribution">сообщил \"Коммерсант\".</segment>
+		<segment id="65" parent="69" relname="joint">Ранее премьер Дмитрий Медведев поручил правительству переработать госпрограмму, в том числе с учетом продовольственного эмбарго.</segment>
+		<segment id="66" parent="67" relname="attribution">Премьер заявлял,</segment>
+		<segment id="67" parent="68" relname="span">что приоритетом программы должно стать развитие мясного скотоводства и тепличных хозяйств.\n\nПо обновленной программе общий объем финансирования отрасли в 2015 году увеличивается на 87 млрд, до 252,7 млрд рублей.</segment>
+		<segment id="70" parent="74" relname="joint">До 2020 года АПК обещают выделить совокупно 1,797 трлн рублей</segment>
+		<segment id="71" parent="73" relname="span">.\n\nБольше всего дополнительных средств в 2015 году</segment>
+		<segment id="72" parent="71" relname="elaboration">(28,8 млрд) Минсельхоз предлагает направить на растениеводство.</segment>
+		<segment id="75" parent="76" relname="condition">Если эта сумма будет утверждена,</segment>
+		<segment id="76" parent="77" relname="span">то финансирование сектора в 2015 году достигнет совокупно 70,5 млрд рублей.\n\nНынешний объем производства овощей в России составляет 14,6 млн тонн,</segment>
+		<segment id="78" parent="79" relname="joint">уровень самообеспечения составляет 87,5%.</segment>
+		<segment id="80" parent="81" relname="comparison">В 2013 году Россия импортировала 8,4 млн тонн овощей, в основном из ЕС.</segment>
+		<segment id="83" parent="85" relname="comparison">В 2013 году в России собрано 30,2 млн тонн картофеля,</segment>
+		<segment id="84" parent="85" relname="comparison">что на 2,3% больше, чем годом ранее.</segment>
+		<segment id="86" parent="90" relname="span">Картофелем Россия обеспечивает себя полностью, но</segment>
+		<segment id="87" parent="88" relname="cause-effect">из-за санкций</segment>
+		<segment id="88" parent="89" relname="span">осложнилась ситуация с семенными сортами.\n\</segment>
+		<segment id="91" parent="95" relname="same-unit">nНа развитие животноводства, наиболее капиталоемкого сектора,</segment>
+		<segment id="92" parent="93" relname="attribution">Минсельхоз предлагает</segment>
+		<segment id="93" parent="94" relname="span">выделить в 2015 году дополнительно всего 8,5 млрд рублей и 75,3 млрд до 2020 года.</segment>
+		<segment id="98" parent="108" relname="joint">Минсельхоз увидел необходимость субсидирования овцеводства и козоводства,</segment>
+		<segment id="99" parent="107" relname="joint">на что предлагает выделить дополнительно 500 млн рублей,</segment>
+		<segment id="100" parent="106" relname="span">еще 40 млн - на развитие северного оленеводства и коневодства.\n\nМясное скотоводство,</segment>
+		<segment id="101" parent="105" relname="same-unit">которое премьер назвал приоритетным сектором,</segment>
+		<segment id="102" parent="104" relname="span">получит в 2015 году дополнительно 2,2 млрд рублей,</segment>
+		<segment id="103" parent="102" relname="elaboration">из которых 1,6 млрд планируется направить на субсидирование строительства животноводческих комплексов.</segment>
+		<segment id="109" parent="111" relname="comparison">Всего на будущий год производители мяса получат от государства 9,5 млрд рублей,</segment>
+		<segment id="110" parent="111" relname="comparison">а до 2020 года - 72,3 млрд рублей.\n\nЕще один крупный сектор АПК - молочное скотоводство - получит в 2015-м дополнительно 12 млрд рублей:</segment>
+		<segment id="112" parent="116" relname="span">в этом случае общий объем субсидирования отрасли в 2015 году составит 34,5 млрд, а до 2020 года - 281,4 млрд рублей.</segment>
+		<segment id="113" parent="115" relname="contrast">Это позволит нарастить объем производства товарного молока до 33,5 млн тонн против нынешних 30,5 млн.\n\nПараметры обновленной программы еще не утверждены,</segment>
+		<segment id="114" parent="115" relname="contrast">но бизнес не согласен с таким распоряжением средств.</segment>
+		<segment id="119" parent="132" relname="attribution">Исполнительный директор ассоциации \"Союзмолоко\" Артем Белов считает,</segment>
+		<segment id="120" parent="127" relname="condition">что при заявленном финансировании</segment>
+		<segment id="121" parent="126" relname="condition">в лучшем случае удастся</segment>
+		<segment id="122" parent="124" relname="contrast">сохранить объем производства на текущем уровне,</segment>
+		<segment id="123" parent="124" relname="contrast">но вероятно даже падение объемов,</segment>
+		<segment id="125" parent="124" relname="cause-effect">так как сокращается число личных подсобных хозяйств, обеспечивающих до 50% всего производства.\n\nМясо,</segment>
+		<segment id="129" parent="130" relname="attribution">по данным ФАС,</segment>
+		<segment id="130" parent="131" relname="span">подорожало с момента введения эмбарго на 20-40%.</segment>
+		<segment id="134" parent="136" relname="comparison">Свинина выросла в цене на 30%,</segment>
+		<segment id="135" parent="136" relname="comparison">мясо крупного рогатого скота - примерно на 40%.</segment>
+		<segment id="137" parent="138" relname="comparison">На втором месте по росту цен - овощи и фрукты.</segment>
+		<segment id="139" parent="140" relname="comparison">Третью строчку занимают молоко и молочная продукция, сыры и сливочное масло.\n\nИсточник: https://www.newsru.com/finance/11Sep2014/agroprogrm.html\n</segment>
+		<group id="64" type="multinuc" parent="146" relname="joint"/>
+		<group id="54" type="multinuc" parent="64" relname="comparison"/>
+		<group id="53" type="span" parent="54" relname="contrast"/>
+		<group id="63" type="span" parent="64" relname="comparison"/>
+		<group id="61" type="multinuc" parent="63" relname="span"/>
+		<group id="60" type="span" parent="61" relname="contrast"/>
+		<group id="59" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="145" type="span" parent="146" relname="joint"/>
+		<group id="69" type="multinuc" parent="144" relname="preparation"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="144" type="multinuc" parent="145" relname="span"/>
+		<group id="82" type="multinuc" parent="144" relname="comparison"/>
+		<group id="74" type="multinuc" parent="82" relname="joint"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="81" type="multinuc" parent="82" relname="joint"/>
+		<group id="79" type="multinuc" parent="81" relname="comparison"/>
+		<group id="77" type="span" parent="79" relname="joint"/>
+		<group id="143" type="multinuc" parent="144" relname="comparison"/>
+		<group id="97" type="multinuc" parent="143" relname="joint"/>
+		<group id="85" type="multinuc" parent="97" relname="comparison"/>
+		<group id="96" type="span" parent="97" relname="comparison"/>
+		<group id="90" type="span" parent="96" relname="span"/>
+		<group id="89" type="span" parent="86" relname="cause-effect"/>
+		<group id="95" type="multinuc" parent="90" relname="elaboration"/>
+		<group id="94" type="span" parent="95" relname="same-unit"/>
+		<group id="142" type="multinuc" parent="143" relname="joint"/>
+		<group id="118" type="multinuc" parent="142" relname="joint"/>
+		<group id="108" type="multinuc" parent="118" relname="joint"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="105" type="multinuc" parent="100" relname="elaboration"/>
+		<group id="104" type="span" parent="105" relname="same-unit"/>
+		<group id="117" type="multinuc" parent="118" relname="joint"/>
+		<group id="111" type="multinuc" parent="117" relname="joint"/>
+		<group id="116" type="span" parent="117" relname="joint"/>
+		<group id="115" type="multinuc" parent="112" relname="purpose"/>
+		<group id="141" type="multinuc" parent="142" relname="joint"/>
+		<group id="133" type="span" parent="141" relname="comparison"/>
+		<group id="132" type="multinuc" parent="133" relname="span"/>
+		<group id="128" type="span" parent="132" relname="comparison"/>
+		<group id="127" type="span" parent="128" relname="span"/>
+		<group id="126" type="span" parent="127" relname="span"/>
+		<group id="124" type="multinuc" parent="126" relname="span"/>
+		<group id="131" type="span" parent="132" relname="comparison"/>
+		<group id="140" type="multinuc" parent="141" relname="comparison"/>
+		<group id="138" type="multinuc" parent="140" relname="comparison"/>
+		<group id="136" type="multinuc" parent="138" relname="comparison"/>
+		<group id="146" type="multinuc"/>
+	</body>
+</rst>

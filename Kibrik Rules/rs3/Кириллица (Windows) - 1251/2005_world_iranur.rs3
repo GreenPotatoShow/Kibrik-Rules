@@ -1,0 +1,62 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="26" relname="span">Обогащение иранского урана в России неприемлемо,</segment>
+		<segment id="25" parent="24" relname="attribution">дал понять официальный Тегеран\n\nИранские власти заявили в воскресенье,</segment>
+		<segment id="27" parent="29" relname="span">что компромисс, предложенный Россией относительно ядерной программы,</segment>
+		<segment id="28" parent="27" relname="purpose">для Тегерана неприемлем.</segment>
+		<segment id="31" parent="37" relname="joint">\"Обогащение урана должно происходить на территории Ирана,</segment>
+		<segment id="32" parent="33" relname="attribution">— приводит слова официальных лиц агентство AFP.\n\nИнициатива Москвы предполагала,</segment>
+		<segment id="33" parent="34" relname="span">что в Иране могут осуществляться некоторые процедуры переработки урана,</segment>
+		<segment id="35" parent="36" relname="contrast">однако его обогащение будет происходить в России.\n\nМежду тем в ходе визита секретаря Совета безопасности России Игоря Иванова в Тегеран вопрос о приостановке работы Исфаганского ядерного центра вообще не поднимался.</segment>
+		<segment id="38" parent="40" relname="span">Об этом в воскресенье журналистам сообщил официальный представитель министерства иностранных дел Ирана Хамид Реза Асефи.\n\n\"Подобная тема во время переговоров с российской стороной не обсуждалась\",</segment>
+		<segment id="39" parent="38" relname="attribution">- сказал Асефи,</segment>
+		<segment id="42" parent="47" relname="attribution">отвечая на вопрос журналистов,</segment>
+		<segment id="43" parent="45" relname="span">выдвигал ли Игорь Иванов в ходе консультаций с иранцами предложение о приостановке деятельности ядерного центра в Исфагане</segment>
+		<segment id="44" parent="43" relname="purpose">для предотвращения передачи иранского \"ядерного досье\" в СБ ООН.\n\nАсефи также отметил,</segment>
+		<segment id="46" parent="47" relname="span">что во время визита главы Совбеза России в Иран с российской стороной \"были проведены весьма конструктивные консультации\".</segment>
+		<segment id="49" parent="51" relname="joint">\"Иран и Россия являются соседями в регионе</segment>
+		<segment id="50" parent="51" relname="joint">и имеют общие точки зрения на многие международные проблемы\"</segment>
+		<segment id="52" parent="51" relname="attribution">,- подчеркнул иранский дипломат</segment>
+		<segment id="54" parent="56" relname="span">.\n\nНакануне вечером,</segment>
+		<segment id="55" parent="54" relname="background">комментируя итоги своих встреч с иранскими представителями,</segment>
+		<segment id="57" parent="58" relname="attribution">Игорь Иванов в интервью РИА \"Новости\" сообщил,</segment>
+		<segment id="58" parent="59" relname="span">что \"никаких альтернативных форматов и предложений мы не выдвигали\".\n\n\"Был проведен обмен мнениями с тем, чтобы выявить те возможности, которые Россия могла бы использовать в интересах снижения напряженности (вокруг проблемы иранской ядерной программы) и оказания содействия продолжению диалога\"</segment>
+		<segment id="61" parent="63" relname="joint">,- сказал секретарь Совбеза России.\n\nИгорь Иванов находился в Тегеране с двухдневным визитом по приглашению секретаря Высшего совета национальной безопасности (ВСНБ) Ирана Али Лариджани.\n\</segment>
+		<segment id="62" parent="63" relname="joint">nВ ходе поездки в Иран Игорь Иванов встретился с президентом Исламской Республики Махмудом Ахмадинежадом, главой МИД Манучером Моттаки, а также руководителем Организации по атомной энергии Ирана Голям Резой Агазаде.\n\nГлава российского Совбеза провел с иранскими представителями власти консультации по широкому кругу актуальных международных проблем и вопросов двустороннего сотрудничества.\n\nИсточник: https://www.newsru.com/world/13Nov2005/iranur.html\n</segment>
+		<group id="30" type="multinuc" parent="67" relname="preparation"/>
+		<group id="26" type="span" parent="30" relname="comparison"/>
+		<group id="29" type="span" parent="30" relname="comparison"/>
+		<group id="67" type="multinuc" parent="68" relname="span"/>
+		<group id="41" type="span" parent="67" relname="joint"/>
+		<group id="37" type="multinuc" parent="41" relname="span"/>
+		<group id="36" type="multinuc" parent="37" relname="joint"/>
+		<group id="34" type="span" parent="36" relname="contrast"/>
+		<group id="40" type="span" parent="37" relname="attribution"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="48" type="span" parent="66" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="45" type="span" parent="46" relname="attribution"/>
+		<group id="65" type="multinuc" parent="66" relname="joint"/>
+		<group id="53" type="span" parent="65" relname="joint"/>
+		<group id="51" type="multinuc" parent="53" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="60" type="multinuc" parent="64" relname="comparison"/>
+		<group id="56" type="span" parent="60" relname="joint"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="comparison"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

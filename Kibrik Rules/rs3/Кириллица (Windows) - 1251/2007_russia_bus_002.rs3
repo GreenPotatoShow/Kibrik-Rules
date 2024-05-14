@@ -1,0 +1,56 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="32" relname="span">В Ростовской области перевернулся автобус:</segment>
+		<segment id="23" parent="25" relname="joint">один человек погиб,</segment>
+		<segment id="24" parent="25" relname="joint">21 ранен\n\nВ Ростовской области перевернулся рейсовый автобус,</segment>
+		<segment id="26" parent="28" relname="joint">один человек погиб,</segment>
+		<segment id="27" parent="28" relname="joint">21 ранен,</segment>
+		<segment id="29" parent="28" relname="attribution">сообщил сотрудник пресс-службы областного управления МЧС.</segment>
+		<segment id="33" parent="35" relname="span">\"Авария произошла в ночь на вторник в 25 километрах севернее города Каменска\",</segment>
+		<segment id="34" parent="33" relname="attribution">- сказал представитель МЧС.\n\</segment>
+		<segment id="37" parent="42" relname="attribution">nПо его словам,</segment>
+		<segment id="38" parent="42" relname="span">в автобусе находилось 50 человек, в том числе два водителя.</segment>
+		<segment id="39" parent="41" relname="span">Одна пассажирка погибла,</segment>
+		<segment id="40" parent="39" relname="attribution">сказал представитель МЧС.</segment>
+		<segment id="44" parent="56" relname="sequence">\"11 человек доставлены в центральную районную больницу в поселок Глубокий и десять человек - в больницу города Каменск-Шахтинский\",</segment>
+		<segment id="45" parent="48" relname="attribution">- добавил представитель пресс-службы.\n\nПо предварительным данным,</segment>
+		<segment id="46" parent="48" relname="joint">водитель превысил скорость,</segment>
+		<segment id="47" parent="48" relname="joint">не справился с управлением,</segment>
+		<segment id="50" parent="52" relname="span">в результате чего в 1:15 по московскому времени автобус опрокинулся,</segment>
+		<segment id="51" parent="50" relname="attribution">сказал сотрудник пресс-службы,</segment>
+		<segment id="53" parent="52" relname="attribution">передает РИА \"Новости\".\n\nАвтобус следовал по маршруту Ростов-на-Дону - Вешенская.</segment>
+		<segment id="57" parent="59" relname="joint">Тех пассажиров, которые не пострадали при аварии,</segment>
+		<segment id="58" parent="59" relname="joint">пересадили на другой автобус.\n\nИсточник: https://www.newsru.com/russia/04Sep2007/bus.html\n</segment>
+		<group id="36" type="multinuc" parent="62" relname="sequence"/>
+		<group id="32" type="span" parent="36" relname="sequence"/>
+		<group id="31" type="multinuc" parent="22" relname="elaboration"/>
+		<group id="25" type="multinuc" parent="31" relname="sequence"/>
+		<group id="30" type="span" parent="31" relname="sequence"/>
+		<group id="28" type="multinuc" parent="30" relname="span"/>
+		<group id="35" type="span" parent="36" relname="sequence"/>
+		<group id="61" type="multinuc" parent="62" relname="sequence"/>
+		<group id="43" type="span" parent="61" relname="sequence"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="41" type="span" parent="38" relname="elaboration"/>
+		<group id="60" type="span" parent="61" relname="sequence"/>
+		<group id="56" type="multinuc" parent="60" relname="span"/>
+		<group id="55" type="span" parent="56" relname="sequence"/>
+		<group id="49" type="span" parent="54" relname="cause-effect"/>
+		<group id="48" type="multinuc" parent="49" relname="span"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="52" type="span" parent="54" relname="span"/>
+		<group id="59" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="62" type="multinuc"/>
+	</body>
+</rst>

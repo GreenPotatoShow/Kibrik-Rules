@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="91" relname="preparation">\"Миннесота\" не справилась с натиском Олега Петрова\n\n\"Калгари\" - \"Детройт\" - 2:0\n.</segment>
+		<segment id="33" parent="39" relname="sequence">После заработанных рекордных 190 минут штрафного времени в третьем периоде воскресной игры против \"могучих утят\" \"Калгари\" ограничился лишь 6 минутами.</segment>
+		<segment id="34" parent="36" relname="span">Кстати, под массовую дисквалификацию после ледового побоища попал и наставник канадской команды Гилберт.\n\nПротивостояние вратарей Вернон Гашек чешский голкипер проиграл,</segment>
+		<segment id="35" parent="34" relname="background">пропустив шайбу, заброшенную в начале третьего периода Джеромом Игинлой.</segment>
+		<segment id="37" parent="38" relname="sequence">Вторая шайба влетела уже в пустую сетку \"Детройта\" на последних секундах.</segment>
+		<segment id="40" parent="42" relname="span">Майк Вернон, обладатель Кубка Стэнли 1997 года в составе \"Детройта\", лидирующего в этом году по количеству забитых шайб (99),</segment>
+		<segment id="41" parent="40" relname="elaboration">исполнил первый шатаут в этом сезоне и 27 за карьеру.\n\n\"Рейнджерс\" - \"Каролина\" - 3:4 ОТ\n.</segment>
+		<segment id="43" parent="45" relname="span">Рон Фрэнсис сумел добыть победу \"Каролине\" в овертайме,</segment>
+		<segment id="44" parent="43" relname="condition">реализовав численное преимущество.</segment>
+		<segment id="47" parent="49" relname="joint">38-летний Фрэнсис проводит уже 21-й сезон в лиге</segment>
+		<segment id="48" parent="49" relname="joint">и является на данный момент лучшим диспетчером в этом сезоне.\n\n\"Анахайм\" - \"Колорадо\" - 1:1\n.</segment>
+		<segment id="50" parent="52" relname="span">Джо Сакик,</segment>
+		<segment id="51" parent="50" relname="background">признанный накануне лучшим игроком недели,</segment>
+		<segment id="53" parent="55" relname="span">сделал все возможное,</segment>
+		<segment id="54" parent="53" relname="purpose">чтобы его команда хотя бы не проиграла.</segment>
+		<segment id="57" parent="61" relname="span">Его гол на последних секундах второго периода и отличная игра Патрика Руа,</segment>
+		<segment id="58" parent="60" relname="joint">пропустившего лишь одну шайбу,</segment>
+		<segment id="59" parent="60" relname="joint">продлили беспроигрышную серию \"Колорадо\" до 9 матчей.</segment>
+		<segment id="63" parent="65" relname="span">Хорошо отработал и голкипер \"утят\" Жан-Себастьян Жигер,</segment>
+		<segment id="64" parent="63" relname="elaboration">сделавший 34 сейва.</segment>
+		<segment id="66" parent="70" relname="span">Кстати, за воскресное \"ледовое побоище\" понес наказание боец \"Анахайма\" Кевин Сойер,</segment>
+		<segment id="67" parent="69" relname="joint">который пропустит теперь 5 матчей</segment>
+		<segment id="68" parent="69" relname="joint">и заплатит за потасовку около 11 тысяч долларов.\n\n\"Монреаль\" - \"Миннесота\" - 4:0\n.</segment>
+		<segment id="72" parent="74" relname="span">Главным героем этого матча стал Олег Петров,</segment>
+		<segment id="73" parent="72" relname="elaboration">поучаствовавший в трех результативных атаках канадской команды.</segment>
+		<segment id="75" parent="77" relname="sequence">В первом периоде он открыл счет,</segment>
+		<segment id="76" parent="77" relname="sequence">а затем ассистировал Дэкему и Эшелу.</segment>
+		<segment id="79" parent="81" relname="span">Хосе Теодор отстоял на \"ноль\" второй раз в сезоне и 10-й за карьеру,</segment>
+		<segment id="80" parent="79" relname="concession">несмотря на 24 попытки \"Миннесоты\" поразить его ворота.</segment>
+		<segment id="82" parent="84" relname="span">Проигрывая, \"Миннесота\" решила применить кулаки:</segment>
+		<segment id="83" parent="82" relname="elaboration">Энди Саттон и Рейд Симпсон порадовали зрителей рукопашной схваткой.\n\nРезультаты остальных матчей игрового дня регулярного первенства НХЛ:\n\n\"Тампа Бэй\" - \"Ванкувер\" - 1:1 ОТ\n, \"Филадельфия\" - \"Атланта\" - 3:1\n, \"Коламбус\" - \"Нью-Джерси\" - 3:1\n.\n\nИсточник: https://www.newsru.com/sport/11Dec2001/minikalgary.html\n</segment>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="39" type="multinuc" parent="91" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="sequence"/>
+		<group id="36" type="span" parent="38" relname="sequence"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="46" type="span" parent="90" relname="joint"/>
+		<group id="42" type="span" parent="46" relname="span"/>
+		<group id="45" type="span" parent="42" relname="elaboration"/>
+		<group id="89" type="span" parent="90" relname="joint"/>
+		<group id="49" type="multinuc" parent="88" relname="preparation"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="62" type="multinuc" parent="87" relname="preparation"/>
+		<group id="56" type="span" parent="62" relname="comparison"/>
+		<group id="52" type="span" parent="56" relname="span"/>
+		<group id="55" type="span" parent="52" relname="purpose"/>
+		<group id="61" type="span" parent="62" relname="comparison"/>
+		<group id="60" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="87" type="multinuc" parent="88" relname="span"/>
+		<group id="71" type="span" parent="87" relname="joint"/>
+		<group id="65" type="span" parent="71" relname="span"/>
+		<group id="70" type="span" parent="65" relname="elaboration"/>
+		<group id="69" type="multinuc" parent="66" relname="elaboration"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="78" type="span" parent="86" relname="joint"/>
+		<group id="74" type="span" parent="78" relname="span"/>
+		<group id="77" type="multinuc" parent="74" relname="elaboration"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="81" type="span" parent="85" relname="joint"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

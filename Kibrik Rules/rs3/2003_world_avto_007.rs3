@@ -1,0 +1,31 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="15" relname="span">В Перу пассажирский автобус упал в пропасть\n\</segment>
+		<segment id="10" parent="12" relname="joint">nПо меньшей мере 30 человек погибли</segment>
+		<segment id="11" parent="12" relname="joint">и около 20 получили ранения</segment>
+		<segment id="13" parent="14" relname="span">в результате крупной автокатастрофы на горной дороге в Перу.</segment>
+		<segment id="16" parent="17" relname="attribution">Как сообщила в субботу перуанская полиция,</segment>
+		<segment id="17" parent="18" relname="span">автобус с пассажирами упал в пропасть глубиной около 30 метров,</segment>
+		<segment id="19" parent="20" relname="comparison">сообщает ИТАР-ТАСС.\n\nАвтокатастрофа произошла в департаменте Уануко, примерно в 450 км к северо-востоку от перуанской столицы Лимы.\n\nОтсутствие дорог и развитой инфраструктуры в этом малонаселенном горном районе затрудняет проведение спасательных работ.</segment>
+		<segment id="22" parent="21" relname="interpretation-evaluation">Полиция начала расследование причин аварии.\n\nИсточник: https://www.newsru.com/world/12Oct2003/avto.html\n</segment>
+		<group id="21" type="span" parent="23" relname="span"/>
+		<group id="15" type="span" parent="20" relname="preparation"/>
+		<group id="14" type="span" parent="9" relname="elaboration"/>
+		<group id="12" type="multinuc" parent="13" relname="cause-effect"/>
+		<group id="20" type="multinuc" parent="21" relname="span"/>
+		<group id="18" type="span" parent="20" relname="comparison"/>
+		<group id="23" type="span"/>
+	</body>
+</rst>

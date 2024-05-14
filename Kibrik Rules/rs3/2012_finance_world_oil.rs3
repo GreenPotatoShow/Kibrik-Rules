@@ -1,0 +1,157 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="68" parent="70" relname="span">США отказались от санкций к странам,</segment>
+		<segment id="69" parent="68" relname="cause-effect">сократившим покупки иранской нефти\n\nСША не будут применять санкции против стран, значительно сокративших закупки иранской нефти.</segment>
+		<segment id="71" parent="73" relname="span">В список таких стран попали Бельгия, Великобритания, Чехия, Франция, Германия, Греция, Италия, Нидерланды, Польша, Испания и Япония,</segment>
+		<segment id="72" parent="71" relname="attribution">передает РБК daily со ссылкой на Associated Press</segment>
+		<segment id="75" parent="76" relname="attribution">.\n\nГосударственный секретарь США Хиллари Клинтон отметила,</segment>
+		<segment id="76" parent="77" relname="span">что этим странам пришлось переосмыслить энергетические потребности в критический для мировой экономики момент</segment>
+		<segment id="78" parent="80" relname="span">и быстро искать альтернативу иранской нефти,</segment>
+		<segment id="79" parent="78" relname="cause-effect">от которой многие из них зависели.\n\</segment>
+		<segment id="82" parent="90" relname="joint">nПрезидент США Барак Обама должен до 30 марта решить,</segment>
+		<segment id="83" parent="89" relname="span">вводить ли санкции против государств, которые продолжают покупать иранскую нефть.</segment>
+		<segment id="84" parent="86" relname="span">От этого решения зависит судьба Китая, Индии и Южной Кореи,</segment>
+		<segment id="85" parent="84" relname="elaboration">которые являются ведущими импортерами иранской нефти.\n\nАзиатские государства должны сократить закупку нефти у Тегерана до 28 июня,</segment>
+		<segment id="87" parent="88" relname="contrast">в противном случае они столкнутся с санкциями.\n\</segment>
+		<segment id="91" parent="93" relname="span">nНапомним, США и ЕС в январе текущего года ввели санкции против Ирана,</segment>
+		<segment id="92" parent="91" relname="elaboration">согласно которым прекращаются все сделки с финансовыми институтами и компаниями, которые так или иначе сотрудничают с Центробанком Ирана.</segment>
+		<segment id="94" parent="96" relname="span">Одновременно Совет ЕС ввел запрет на импорт, приобретение и транспортировку иранской нефти и нефтепродуктов</segment>
+		<segment id="95" parent="94" relname="cause-effect">.\n\nCаудовская Аравия пытается сбить цены на нефть\n\</segment>
+		<segment id="97" parent="96" relname="cause-effect">nНа этом фоне Саудовская Аравия решила добиваться снижения стоимости энергоресурсов.</segment>
+		<segment id="100" parent="103" relname="purpose">Чтобы охладить глобальный энергетический рынок,</segment>
+		<segment id="101" parent="103" relname="joint">главный геополитический союзник Вашингтона на Ближнем Востоке возобновляет разработку старых месторождений,</segment>
+		<segment id="102" parent="103" relname="joint">а также увеличивает объемы экспорта нефти в США</segment>
+		<segment id="105" parent="108" relname="attribution">.\n\nСаудовская Аравия объявила</segment>
+		<segment id="106" parent="108" relname="span">войну высоким ценам на нефть,</segment>
+		<segment id="107" parent="106" relname="elaboration">которые держатся на уровне выше 120 долларов за баррель.</segment>
+		<segment id="111" parent="112" relname="attribution">По заявлению местного кабинета министров,</segment>
+		<segment id="112" parent="113" relname="span">королевство будет предпринимать как самостоятельные, так и согласованные с партнерами шаги для \"возвращения цены на обоснованный уровень\".</segment>
+		<segment id="114" parent="121" relname="attribution">Ранее Эр-Рияд заявлял,</segment>
+		<segment id="115" parent="121" relname="joint">что справедливая цена за бочку нефти должна составлять около 100 долларов.\n\</segment>
+		<segment id="116" parent="120" relname="span">nВ попытке успокоить инвесторов,</segment>
+		<segment id="117" parent="118" relname="condition">опасающихся скорого введения эмбарго на покупку нефти из Ирана,</segment>
+		<segment id="118" parent="119" relname="span">Саудовская Аравия решилась на возобновление добычи из старых месторождений.</segment>
+		<segment id="123" parent="125" relname="span">В частности, речь идет о самом первом крупном месторождении страны Dammam,</segment>
+		<segment id="124" parent="123" relname="background">добыча нефти на котором началась еще в 1938 году.</segment>
+		<segment id="126" parent="128" relname="span">В 1980 году оно было законсервировано до \"лучших времен\",</segment>
+		<segment id="127" parent="126" relname="elaboration">которые, судя по всему, уже настали.</segment>
+		<segment id="129" parent="131" relname="joint">Дополнительные объемы нефти также должна обеспечить ускоренная разработка крупного месторождения Manifa на северо-западе страны</segment>
+		<segment id="130" parent="131" relname="joint">.\n\nЭр-Рияд продолжает наращивать объемы поставки для своего крупнейшего клиента - США.</segment>
+		<segment id="132" parent="134" relname="comparison">Объем импорта саудовской нефти в США достиг за первые десять недель этого года 1,5 млн баррелей,</segment>
+		<segment id="133" parent="134" relname="comparison">увеличившись по сравнению с аналогичным периодом 2011 года на 300 тысяч баррелей,</segment>
+		<segment id="135" parent="136" relname="comparison">- это наивысший показатель за последние четыре года.\n\nНа прошлой неделе Саудовская Аравия зафрахтовала сразу 12 супертанкеров, способных перевозить до 2 млн баррелей нефти.</segment>
+		<segment id="137" parent="141" relname="span">Все они будут направлены в США</segment>
+		<segment id="138" parent="139" relname="condition">.\n\nТем не менее большинство экспертов уверены,</segment>
+		<segment id="139" parent="140" relname="span">что попытка существенно повлиять на уровень цен на энергоресурсы окажется тщетной.</segment>
+		<segment id="146" parent="150" relname="span">\"Сейчас все участники рынка очень обеспокоены ситуацией вокруг Ирана.</segment>
+		<segment id="147" parent="148" relname="attribution">Я не думаю,</segment>
+		<segment id="148" parent="149" relname="span">что за счет наращивания объемов добычи Эр-Рияду удастся сбить цену.</segment>
+		<segment id="151" parent="153" relname="joint">Ему вполне под силу остановить ее дальнейший рост</segment>
+		<segment id="152" parent="153" relname="joint">или даже снизить стоимость барреля на несколько долларов,</segment>
+		<segment id="154" parent="155" relname="contrast">однако на этом эффект закончится\",</segment>
+		<segment id="157" parent="156" relname="attribution">- пояснил РБК daily аналитик IHS Energy Саймон Уордел.\n\nЛагард:</segment>
+		<segment id="159" parent="161" relname="joint">Высокие цены на нефть могут вызвать новый кризис\n\</segment>
+		<segment id="160" parent="161" relname="joint">nНа высокую стоимость нефти уже обратили внимание в МВФ.</segment>
+		<segment id="162" parent="167" relname="attribution">Глава фонда Кристин Лагард выступила с заявлением о том,</segment>
+		<segment id="163" parent="167" relname="joint">что нынешние цены могут стать очередной угрозой для глобального экономического роста.\n\n</segment>
+		<segment id="164" parent="166" relname="span">\"Очередной угрозой мировой экономике могут стать высокие цены на нефть,</segment>
+		<segment id="165" parent="164" relname="condition">спровоцированные опасениями нестабильности поставок сырья и геополитической напряженностью\",</segment>
+		<segment id="169" parent="171" relname="span">- заявила глава Международного валютного Фонда,</segment>
+		<segment id="170" parent="169" relname="elaboration">слова которой передает \"Финмаркет\".\n\</segment>
+		<segment id="174" parent="176" relname="span">nОбсуждая потенциальные причины следующего кризиса,</segment>
+		<segment id="175" parent="174" relname="elaboration">такие как коллапс евро, цены на нефть или война с Ираном,</segment>
+		<segment id="177" parent="178" relname="attribution">Лагард отметила,</segment>
+		<segment id="178" parent="179" relname="span">что в Европе накал ситуации спал.</segment>
+		<segment id="181" parent="182" relname="comparison">Теперь в фокусе находятся цены на нефть.\n\</segment>
+		<segment id="183" parent="184" relname="comparison">nНапомним, что сегодня нефть дешевеет на фоне роста поставок из Саудовской Аравии и восстановления экспорта из Ливии до довоенного уровня.</segment>
+		<segment id="185" parent="189" relname="joint">Так, нефть Brent потеряла в цене 1,57 доллара</segment>
+		<segment id="186" parent="188" relname="comparison">и составила 124,14 доллара за баррель,</segment>
+		<segment id="187" parent="188" relname="comparison">а стоимость нефти WTI снизилась на 0,91 доллар до 107,18 долларов за баррель.\n\nИсточник: https://www.newsru.com/finance/21Mar2012/world_oil.html\n</segment>
+		<group id="74" type="span" parent="199" relname="preparation"/>
+		<group id="70" type="span" parent="73" relname="solutionhood"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="199" type="span" parent="200" relname="span"/>
+		<group id="81" type="multinuc" parent="198" relname="preparation"/>
+		<group id="77" type="span" parent="81" relname="joint"/>
+		<group id="80" type="span" parent="81" relname="joint"/>
+		<group id="198" type="multinuc" parent="199" relname="span"/>
+		<group id="90" type="multinuc" parent="198" relname="joint"/>
+		<group id="89" type="span" parent="90" relname="joint"/>
+		<group id="88" type="multinuc" parent="83" relname="cause-effect"/>
+		<group id="86" type="span" parent="88" relname="contrast"/>
+		<group id="197" type="span" parent="198" relname="joint"/>
+		<group id="99" type="multinuc" parent="196" relname="preparation"/>
+		<group id="93" type="span" parent="99" relname="joint"/>
+		<group id="98" type="span" parent="99" relname="joint"/>
+		<group id="96" type="span" parent="98" relname="span"/>
+		<group id="196" type="span" parent="197" relname="span"/>
+		<group id="110" type="multinuc" parent="195" relname="preparation"/>
+		<group id="104" type="span" parent="110" relname="joint"/>
+		<group id="103" type="multinuc" parent="104" relname="span"/>
+		<group id="109" type="span" parent="110" relname="joint"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="195" type="span" parent="196" relname="span"/>
+		<group id="113" type="span" parent="194" relname="preparation"/>
+		<group id="194" type="span" parent="195" relname="span"/>
+		<group id="122" type="span" parent="193" relname="preparation"/>
+		<group id="121" type="multinuc" parent="122" relname="span"/>
+		<group id="120" type="span" parent="121" relname="joint"/>
+		<group id="119" type="span" parent="116" relname="condition"/>
+		<group id="193" type="multinuc" parent="194" relname="span"/>
+		<group id="145" type="span" parent="193" relname="joint"/>
+		<group id="125" type="span" parent="144" relname="preparation"/>
+		<group id="144" type="span" parent="145" relname="span"/>
+		<group id="128" type="span" parent="143" relname="preparation"/>
+		<group id="143" type="multinuc" parent="144" relname="span"/>
+		<group id="131" type="multinuc" parent="143" relname="joint"/>
+		<group id="142" type="multinuc" parent="143" relname="joint"/>
+		<group id="136" type="multinuc" parent="142" relname="joint"/>
+		<group id="134" type="multinuc" parent="136" relname="comparison"/>
+		<group id="141" type="span" parent="142" relname="joint"/>
+		<group id="140" type="span" parent="137" relname="cause-effect"/>
+		<group id="192" type="multinuc" parent="193" relname="joint"/>
+		<group id="158" type="span" parent="192" relname="joint"/>
+		<group id="156" type="span" parent="158" relname="span"/>
+		<group id="150" type="span" parent="156" relname="span"/>
+		<group id="149" type="span" parent="146" relname="interpretation-evaluation"/>
+		<group id="155" type="multinuc" parent="150" relname="evidence"/>
+		<group id="153" type="multinuc" parent="155" relname="contrast"/>
+		<group id="191" type="multinuc" parent="192" relname="joint"/>
+		<group id="173" type="multinuc" parent="191" relname="joint"/>
+		<group id="161" type="multinuc" parent="173" relname="joint"/>
+		<group id="172" type="span" parent="173" relname="joint"/>
+		<group id="168" type="span" parent="172" relname="span"/>
+		<group id="167" type="multinuc" parent="168" relname="span"/>
+		<group id="166" type="span" parent="167" relname="joint"/>
+		<group id="171" type="span" parent="168" relname="attribution"/>
+		<group id="190" type="span" parent="191" relname="joint"/>
+		<group id="184" type="multinuc" parent="190" relname="span"/>
+		<group id="182" type="multinuc" parent="184" relname="comparison"/>
+		<group id="180" type="span" parent="182" relname="comparison"/>
+		<group id="176" type="span" parent="179" relname="condition"/>
+		<group id="179" type="span" parent="180" relname="span"/>
+		<group id="189" type="multinuc" parent="184" relname="elaboration"/>
+		<group id="188" type="multinuc" parent="189" relname="joint"/>
+		<group id="200" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,18 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="5" parent="9" relname="span">\"Выделенки\" для общественного транспорта появятся на 20 магистралях Москвы\n\nВласти Москвы продолжают эксперимент по введению в столице выделенных полос для общественного транспорта.</segment>
+		<segment id="6" parent="8" relname="span">К 2010 году они появятся еще на 20 магистралях города,</segment>
+		<segment id="7" parent="6" relname="attribution">сообщил первый заммэра Москвы Петр Бирюков в ходе онлайн-конференции на сайте \"Антикризисный щит Москвы\" в среду,</segment>
+		<segment id="10" parent="9" relname="attribution">передает\n\nИсточник: https://www.newsru.com/auto/08Oct2009/videlennaya.html\n</segment>
+		<group id="9" type="span" parent="11" relname="span"/>
+		<group id="8" type="span" parent="5" relname="elaboration"/>
+		<group id="11" type="span"/>
+	</body>
+</rst>

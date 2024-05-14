@@ -1,0 +1,77 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="91" relname="preparation">Александр Починок прогнозирует увеличение пенсий на 30%\n\</segment>
+		<segment id="33" parent="35" relname="joint">nСегодня на заседании кабинета министров обсуждается программа пенсионной реформы.</segment>
+		<segment id="34" parent="35" relname="joint">Реформа предусматривает переход на выплату так называемой двухуровневой пенсии.</segment>
+		<segment id="36" parent="38" relname="joint">Первая часть будет выплачиваться человеку по выработке определенного трудового стажа,</segment>
+		<segment id="37" parent="38" relname="joint">а вторая должна формироваться из так называемых \"сборовых источников\" - например из страховки или накопительных вкладов.</segment>
+		<segment id="40" parent="44" relname="contrast">Именно вторая часть должна стать основной для пенсионеров.</segment>
+		<segment id="41" parent="43" relname="joint">Однако ее механизм пока не отработан,</segment>
+		<segment id="42" parent="43" relname="joint">и именно этому посвящено сегодняшнее заседание правительства.</segment>
+		<segment id="46" parent="48" relname="span">Один из основных докладчик на заседании министр труда и социальной защиты Александр Починок.</segment>
+		<segment id="47" parent="46" relname="elaboration">Сегодня он дал интервью НТВ.</segment>
+		<segment id="49" parent="50" relname="attribution">По его словам,</segment>
+		<segment id="50" parent="51" relname="span">основное замечание, которые предъявлено к программе реформ, заключалось в том, что от перехода на накопительную систему выигрывают только те, кто начинают зарабатывать сейчас.</segment>
+		<segment id="52" parent="53" relname="attribution">В ответ пенсионный фонд предложил</segment>
+		<segment id="53" parent="54" relname="span">капитализировать доходы то есть превратить стаж работы человека и его прежний заработок в деньги.</segment>
+		<segment id="56" parent="57" relname="attribution">По словам министра,</segment>
+		<segment id="57" parent="58" relname="span">это вполне реально.</segment>
+		<segment id="59" parent="63" relname="joint">\"У каждого человека открывается счет,</segment>
+		<segment id="60" parent="62" relname="joint">и на этот счет зачисляются те деньги, которые он будет зарабатывать,</segment>
+		<segment id="61" parent="62" relname="joint">и те деньги, которые получаются из перерасчета заработка и стажа, который у него был раньше.</segment>
+		<segment id="64" parent="63" relname="interpretation-evaluation">Это очень решительный шаг\",</segment>
+		<segment id="66" parent="65" relname="attribution">- заявил Александр Починок.</segment>
+		<segment id="71" parent="72" relname="attribution">Министр отметил,</segment>
+		<segment id="72" parent="73" relname="span">что пока сказать точно, на какую сумму увеличится пенсия у людей, невозможно.</segment>
+		<segment id="74" parent="78" relname="comparison">Его ведомство может прогнозировать только то, что в первый год после введения реформы пенсия повысится на 600 рублей.</segment>
+		<segment id="75" parent="76" relname="cause-effect">В целом же пенсия может повыситься приблизительно на 30%.\n\n\"Понимаете, в чем смысл реформы:</segment>
+		<segment id="76" parent="77" relname="span">все поступившие деньги идут именно на увеличение пенсий,</segment>
+		<segment id="79" parent="78" relname="attribution">- говорит Александр Починок.</segment>
+		<segment id="84" parent="88" relname="joint">- Сохраняется зависимость, человек заинтересован показывать свою реальную зарплату.</segment>
+		<segment id="85" parent="87" relname="joint">Больше денег поступает в пенсионный фонд</segment>
+		<segment id="86" parent="87" relname="joint">и больше денег идет на выплаты пенсий\".\n\nИсточник: https://www.newsru.com/russia/06Feb2001/pochinok.html\n</segment>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="45" type="multinuc" parent="91" relname="joint"/>
+		<group id="39" type="span" parent="45" relname="joint"/>
+		<group id="35" type="multinuc" parent="39" relname="span"/>
+		<group id="38" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="43" type="multinuc" parent="44" relname="contrast"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="70" type="span" parent="90" relname="joint"/>
+		<group id="48" type="span" parent="69" relname="preparation"/>
+		<group id="69" type="span" parent="70" relname="span"/>
+		<group id="55" type="span" parent="69" relname="span"/>
+		<group id="51" type="span" parent="54" relname="cause-effect"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="68" type="span" parent="55" relname="interpretation-evaluation"/>
+		<group id="58" type="span" parent="68" relname="span"/>
+		<group id="67" type="span" parent="58" relname="elaboration"/>
+		<group id="65" type="span" parent="67" relname="span"/>
+		<group id="63" type="multinuc" parent="65" relname="span"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="81" type="multinuc" parent="89" relname="joint"/>
+		<group id="73" type="span" parent="81" relname="comparison"/>
+		<group id="80" type="span" parent="81" relname="comparison"/>
+		<group id="78" type="multinuc" parent="80" relname="span"/>
+		<group id="77" type="span" parent="78" relname="comparison"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

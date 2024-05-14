@@ -1,0 +1,67 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="31" relname="preparation">РСТ:</segment>
+		<segment id="27" parent="28" relname="cause-effect">из-за закрытия Турции и Египта</segment>
+		<segment id="28" parent="29" relname="span">у туристов из РФ сменились приоритеты\n\nЧисло россиян, выезжавших за границу в первом полугодии 2016 года,</segment>
+		<segment id="30" parent="31" relname="span">снизилось на 28% по сравнению с прошлым годом.</segment>
+		<segment id="33" parent="46" relname="attribution">Об этом, как сообщает \"Интерфакс\",</segment>
+		<segment id="34" parent="36" relname="span">заявила в понедельник пресс-секретарь Российского союза туриндустрии (РСТ) Ирина Тюрина со ссылкой на данные погранслужбы РФ.\n\n\"В первую очередь снижение в этом году связано с закрытием самых массовых направлений - Турции и Египта,</segment>
+		<segment id="35" parent="34" relname="elaboration">которые за первое полугодие 2015 года приняли более чем по миллиону россиян каждая.</segment>
+		<segment id="37" parent="39" relname="contrast">Другие страны не смогли полностью их заменить,</segment>
+		<segment id="38" parent="39" relname="contrast">но некоторые все же серьезно нарастили поток российских туристов\",</segment>
+		<segment id="41" parent="45" relname="comparison">- рассказала она.\n\nВ первую десятку самых популярных у российских туристов стран по итогам первых шести месяцев года вошли: Таиланд (370,8 тыс., прирост 45%), Испания (267,5 тыс., плюс 14,5%), Китай (254,1 тыс., плюс 62%),</segment>
+		<segment id="42" parent="44" relname="span">Кипр (246 тыс., плюс 64%),</segment>
+		<segment id="43" parent="42" relname="elaboration">Германия (228 тыс., минус 18%), Италия (226 тыс., минус 3,2%), Греция (216 тыс., плюс 23,6%), ОАЭ (185 тыс.), Тунис (173 тыс., плюс 671%), Болгария (162 тыс., плюс 30%).\n\nТаиланд переместился с четвертого места на первое, Испания - с шестого на второе.</segment>
+		<segment id="49" parent="51" relname="contrast">Занявший третье место Китай и раньше неоднократно бывал в тройке лидеров,</segment>
+		<segment id="50" parent="51" relname="contrast">но в первом полугодии 2015 года оказался девятым.\n\</segment>
+		<segment id="52" parent="55" relname="attribution">nПо словам представителя РСТ,</segment>
+		<segment id="53" parent="55" relname="comparison">лидирует по росту турпотока из РФ Тунис,</segment>
+		<segment id="54" parent="55" relname="comparison">где отмечена положительная динамика в 671% по сравнению с 2015 годом.</segment>
+		<segment id="57" parent="59" relname="span">На втором месте - Иордания,</segment>
+		<segment id="58" parent="57" relname="elaboration">которая показала рост 544%.</segment>
+		<segment id="61" parent="67" relname="joint">Правда, абсолютные цифры по этим странам невелики</segment>
+		<segment id="62" parent="66" relname="same-unit">и,</segment>
+		<segment id="63" parent="64" relname="attribution">по мнению Тюриной,</segment>
+		<segment id="64" parent="65" relname="span">\"вряд ли новички первой десятки удержатся в этом списке после открытия Турции\".\n\nРанее другая отраслевая организация - Ассоциация туроператоров России - сообщала,</segment>
+		<segment id="68" parent="70" relname="comparison">что по итогам первой половины 2016 года россияне совершили 13,2 млн зарубежных поездок,</segment>
+		<segment id="69" parent="70" relname="comparison">что на 13,1% меньше, чем за аналогичный период прошлого года (15,2 млн поездок).\n\nИсточник: https://www.newsru.com/finance/12Sep2016/rststats.html\n</segment>
+		<group id="48" type="span" parent="74" relname="comparison"/>
+		<group id="32" type="span" parent="47" relname="preparation"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="29" type="span" parent="30" relname="cause-effect"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="40" type="span" parent="46" relname="comparison"/>
+		<group id="36" type="span" parent="40" relname="span"/>
+		<group id="39" type="multinuc" parent="36" relname="interpretation-evaluation"/>
+		<group id="45" type="multinuc" parent="46" relname="comparison"/>
+		<group id="44" type="span" parent="45" relname="comparison"/>
+		<group id="73" type="span" parent="74" relname="comparison"/>
+		<group id="51" type="multinuc" parent="73" relname="span"/>
+		<group id="72" type="span" parent="51" relname="elaboration"/>
+		<group id="60" type="multinuc" parent="72" relname="span"/>
+		<group id="56" type="span" parent="60" relname="comparison"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="59" type="span" parent="60" relname="comparison"/>
+		<group id="71" type="multinuc" parent="60" relname="elaboration"/>
+		<group id="67" type="multinuc" parent="71" relname="comparison"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="65" type="span" parent="66" relname="same-unit"/>
+		<group id="70" type="multinuc" parent="71" relname="comparison"/>
+		<group id="74" type="multinuc"/>
+	</body>
+</rst>

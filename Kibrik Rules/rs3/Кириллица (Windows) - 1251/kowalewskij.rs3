@@ -1,0 +1,114 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="51" parent="53" relname="sequence">Я  проснулся оттого, что упала</segment>
+		<segment id="52" parent="53" relname="sequence">и начала гулять по кухне пустая банка из-под кофе.</segment>
+		<segment id="54" parent="55" relname="attribution">Я еще тогда подумал:</segment>
+		<segment id="55" parent="56" relname="span">\"Вот так начинается полтергейст...\"\n 	И тут на меня недружелюбно двинулся шкаф.</segment>
+		<segment id="57" parent="61" relname="joint">Не поехал,</segment>
+		<segment id="58" parent="60" relname="contrast">не заскользил по полу,</segment>
+		<segment id="59" parent="60" relname="contrast">- а пошел.</segment>
+		<segment id="62" parent="63" relname="joint">Топая и раскачиваясь.</segment>
+		<segment id="65" parent="67" relname="joint">Как-то жалобно задрожала кровать</segment>
+		<segment id="66" parent="67" relname="joint">- и в ее дрожании я уловил боязливую интонацию:</segment>
+		<segment id="68" parent="74" relname="joint">\"А может, не надо?..\"\n 	Я тряхнул головой</segment>
+		<segment id="69" parent="73" relname="same-unit">и,</segment>
+		<segment id="70" parent="72" relname="joint">отмахиваясь от собственной одежды, летающей по квартире,</segment>
+		<segment id="71" parent="72" relname="joint">выскочил из комнаты.\n 	В зале стоял тарарам!</segment>
+		<segment id="75" parent="74" relname="elaboration">В воздухе с лязгом и грюканьем летала посуда.</segment>
+		<segment id="79" parent="81" relname="joint">Из угла в угол, перебирая кривыми ножками, семенили стулья.</segment>
+		<segment id="80" parent="81" relname="joint">Методично и тупо об стену бился стол.</segment>
+		<segment id="84" parent="86" relname="span">В углу возле окна, подобно лимонному пудингу, колыхался телевизор.</segment>
+		<segment id="85" parent="84" relname="elaboration">Люстра остервенело стряхивала с себя взъерошеного, орущего и цепляющегося за нее черного кота.</segment>
+		<segment id="87" parent="92" relname="condition">Когда к нему заинтересовано подлетали тарелки с голубой каемочкойи непочатой порцией консервированых в масле сардин,</segment>
+		<segment id="88" parent="92" relname="joint">кот еще более выгибался дугой,</segment>
+		<segment id="89" parent="91" relname="joint">отчаянно шипел</segment>
+		<segment id="90" parent="91" relname="joint">и плевался.</segment>
+		<segment id="94" parent="96" relname="span">Тарелки давали задний ход,</segment>
+		<segment id="95" parent="94" relname="condition">инлгда врезаясь в другую посуду,</segment>
+		<segment id="97" parent="105" relname="sequence">- и тогда из ходиков высовывалась кукушка,</segment>
+		<segment id="98" parent="104" relname="sequence">соловело оглядывала происходящее,</segment>
+		<segment id="99" parent="103" relname="sequence">быстро-быстро чесала деревянной лапкой в затылке</segment>
+		<segment id="100" parent="102" relname="span">и засовывалась обратно,</segment>
+		<segment id="101" parent="100" relname="condition">хлопая дервянной же дверцей.</segment>
+		<segment id="107" parent="109" relname="span">Ни черного кота, ни ходиков с придурковатой кукушкой у меня никогда не было...\n 	Зато когда-то была литровая банка малинового варенья,</segment>
+		<segment id="108" parent="107" relname="background">содержимое которой теперь носилось за мной в виде бесфоррменной массы,</segment>
+		<segment id="110" parent="111" relname="span">норовя вымазать меня с ног до головы.\n 	Я бросился в ванную.\n</segment>
+		<segment id="112" parent="113" relname="contrast">Но и там все происходило так, как должно было происходить в Пятницу, 13-го числа</segment>
+		<segment id="114" parent="116" relname="contrast">.\n 	Ванна пыталась удержаться на шести выросших у нее куриных ногах,</segment>
+		<segment id="115" parent="116" relname="contrast">но на кафельном полу они раз'езжались,</segment>
+		<segment id="117" parent="118" relname="joint">- и ванна с глубинным \"Бумм!</segment>
+		<segment id="119" parent="127" relname="sequence">\" опускалась снова.</segment>
+		<segment id="120" parent="122" relname="sequence">Затем включалась</segment>
+		<segment id="121" parent="122" relname="sequence">и выключалась стиральная машина;</segment>
+		<segment id="123" parent="125" relname="joint">на зеркале перламутрово-красной губной помадой было написано \"Домовой\",</segment>
+		<segment id="124" parent="125" relname="joint">а в унитазном бачке, видимо, нерестились русалки.</segment>
+		<segment id="128" parent="138" relname="sequence">Раздался звонок в дверь,</segment>
+		<segment id="129" parent="133" relname="sequence">и все немедленно стихло.\n 	Я осторожно высунулся из своего ненадежного укрытия</segment>
+		<segment id="132" parent="133" relname="sequence">и, озираясь, пошлепал к двери.\n 	Поглядев в глазок,</segment>
+		<segment id="134" parent="136" relname="span">я увидел, что пришли мои однокласники.</segment>
+		<segment id="135" parent="134" relname="elaboration">Они были с цветами и подарками.</segment>
+		<segment id="139" parent="140" relname="sequence">Я вспомнил, что у меня сегодня День рождения.\n 	Среди подарков были ходики с кукушкой и черный кот.\n \n</segment>
+		<group id="53" type="multinuc" parent="149" relname="sequence"/>
+		<group id="148" type="multinuc" parent="149" relname="sequence"/>
+		<group id="64" type="multinuc" parent="148" relname="sequence"/>
+		<group id="56" type="span" parent="64" relname="sequence"/>
+		<group id="63" type="multinuc" parent="64" relname="sequence"/>
+		<group id="61" type="multinuc" parent="63" relname="joint"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="147" type="multinuc" parent="148" relname="sequence"/>
+		<group id="83" type="span" parent="147" relname="sequence"/>
+		<group id="67" type="multinuc" parent="83" relname="span"/>
+		<group id="82" type="multinuc" parent="67" relname="elaboration"/>
+		<group id="76" type="span" parent="82" relname="joint"/>
+		<group id="74" type="multinuc" parent="76" relname="span"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="same-unit"/>
+		<group id="81" type="multinuc" parent="82" relname="joint"/>
+		<group id="146" type="multinuc" parent="147" relname="sequence"/>
+		<group id="86" type="span" parent="146" relname="sequence"/>
+		<group id="145" type="multinuc" parent="146" relname="sequence"/>
+		<group id="93" type="span" parent="145" relname="sequence"/>
+		<group id="92" type="multinuc" parent="93" relname="span"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="144" type="multinuc" parent="145" relname="sequence"/>
+		<group id="106" type="multinuc" parent="144" relname="sequence"/>
+		<group id="96" type="span" parent="106" relname="sequence"/>
+		<group id="105" type="multinuc" parent="106" relname="sequence"/>
+		<group id="104" type="multinuc" parent="105" relname="sequence"/>
+		<group id="103" type="multinuc" parent="104" relname="sequence"/>
+		<group id="102" type="span" parent="103" relname="sequence"/>
+		<group id="143" type="multinuc" parent="144" relname="sequence"/>
+		<group id="113" type="multinuc" parent="143" relname="sequence"/>
+		<group id="111" type="span" parent="113" relname="contrast"/>
+		<group id="109" type="span" parent="110" relname="cause-effect"/>
+		<group id="142" type="multinuc" parent="143" relname="sequence"/>
+		<group id="118" type="multinuc" parent="142" relname="joint"/>
+		<group id="116" type="multinuc" parent="118" relname="joint"/>
+		<group id="141" type="multinuc" parent="142" relname="joint"/>
+		<group id="127" type="multinuc" parent="141" relname="sequence"/>
+		<group id="126" type="multinuc" parent="127" relname="sequence"/>
+		<group id="122" type="multinuc" parent="126" relname="sequence"/>
+		<group id="125" type="multinuc" parent="126" relname="sequence"/>
+		<group id="140" type="multinuc" parent="141" relname="sequence"/>
+		<group id="138" type="multinuc" parent="140" relname="sequence"/>
+		<group id="137" type="multinuc" parent="138" relname="sequence"/>
+		<group id="133" type="multinuc" parent="137" relname="sequence"/>
+		<group id="136" type="span" parent="137" relname="sequence"/>
+		<group id="149" type="multinuc"/>
+	</body>
+</rst>

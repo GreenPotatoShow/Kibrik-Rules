@@ -1,0 +1,117 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="51" parent="53" relname="span">Из Чечни отбыл второй эшелон с 800 российскими военными\n\nИз Чечни в рамках сокращения Объединенной группировки войск (ОГВ) на Северном Кавказе в пятницу утром ушел второй эшелон.</segment>
+		<segment id="52" parent="51" relname="elaboration">К месту постоянной дислокации убыли 800 военнослужащих 21-й Софринской бригады внутренних войск МВД РФ.</segment>
+		<segment id="54" parent="53" relname="attribution">Об этом сообщил заместитель командующего группировкой ВВ на Северном Кавказе генерал-майор Виктор Скрябин</segment>
+		<segment id="58" parent="74" relname="joint">.\n\nСофринская бригада ВВ участвовала в контртеррористической операции с осени 1999 года, ее бойцы освобождали от бандитов Грозный.</segment>
+		<segment id="59" parent="64" relname="attribution">По словам Скрябина,</segment>
+		<segment id="60" parent="64" relname="span">отправка бригады домой - в поселок Софрино Московской области</segment>
+		<segment id="61" parent="63" relname="joint">- это наглядное подтверждение того, что обстановка в республике стабилизируется</segment>
+		<segment id="62" parent="63" relname="joint">и ее столицу может покинуть крупная войсковая часть.</segment>
+		<segment id="66" parent="72" relname="span">Главная база дислокации Софринской бригады находилась в Старопромысловском районе Грозного.\n\</segment>
+		<segment id="67" parent="70" relname="attribution">nКак сообщил в пятницу командующий ОГВ Сергей Макаров,</segment>
+		<segment id="68" parent="70" relname="span">сокращение численности Объединенной группировки войск на Северном Кавказе проводится \"в плановом порядке,</segment>
+		<segment id="69" parent="68" relname="cause-effect">поскольку многие войска уже завершили выполнение поставленных задач\".</segment>
+		<segment id="75" parent="77" relname="sequence">Так, 5 марта первый эшелон направился в пункт постоянной дислокации,</segment>
+		<segment id="76" parent="77" relname="sequence">Чечню покинули 370 солдат и офицеров и 56 единиц техники.</segment>
+		<segment id="78" parent="79" relname="joint">\"Таким образом и будет дальше проходить сокращение объединенной группировки в соответствии с графиком, утвержденным руководством\",</segment>
+		<segment id="80" parent="86" relname="span">- отметил командующий.\n\nВывод из Чечни военных частей из состава группировки на Северном Кавказе - это плановое мероприятие,</segment>
+		<segment id="81" parent="85" relname="span">обусловленное тем, что в республике сейчас стабильная,</segment>
+		<segment id="82" parent="84" relname="span">контролируемая обстановка,</segment>
+		<segment id="83" parent="82" relname="attribution">отмечал ранее заместитель министра обороны РФ генерал-полковник Игорь Пузанов.</segment>
+		<segment id="88" parent="89" relname="attribution">По данным заместителя командующего ОГВ Юрия Костровца,</segment>
+		<segment id="89" parent="90" relname="span">группировка силовых структур в Чечне насчитывает сейчас до 80 тыс. человек.</segment>
+		<segment id="91" parent="99" relname="span">Сокращение ОГВ и вывод ее частей будет производиться в течение года.\n\</segment>
+		<segment id="92" parent="97" relname="attribution">nКак доложил президенту РФ Владимиру Путину министр обороны РФ Сергей Иванов накануне отправки первого эшелона из Чечни,</segment>
+		<segment id="93" parent="97" relname="joint">в ближайшие несколько дней из республики будут выведены 1270 военнослужащих и порядка 200 единиц боевой техники.</segment>
+		<segment id="94" parent="95" relname="attribution">Он уточнил,</segment>
+		<segment id="95" parent="96" relname="span">что это подразделения инженерно-саперного батальона, реактивно-артиллерийского дивизиона и внутренних войск МВД.</segment>
+		<segment id="101" parent="104" relname="attribution">Сергей Иванов подчеркнул,</segment>
+		<segment id="102" parent="104" relname="joint">что после вывода избыточных сил Минобороны и внутренних войск в Чечне на постоянной основе останется 30-35 тыс.</segment>
+		<segment id="103" parent="104" relname="joint">Среди соединений, частей и подразделений, остающихся в Чечне на постоянной основе, - 42-й дивизия Минобороны, 46-я бригада внутренних войск МВД, комендатуры и комиссариаты.\n\n\"На ситуацию с безопасностью вывод избыточных сил не окажет никакого влияния\",</segment>
+		<segment id="106" parent="105" relname="attribution">- подчеркнул глава военного ведомства РФ в докладе президенту,</segment>
+		<segment id="108" parent="111" relname="attribution">уточнив,</segment>
+		<segment id="109" parent="110" relname="attribution">что \"данный план просчитан очень внимательно Генштабом и Минобороны\".\n\nЗаместитель министра обороны РФ генерал-полковник Игорь Пузанов подчеркивает,</segment>
+		<segment id="110" parent="111" relname="span">что вывод войск не связан с проведением в республике референдума,</segment>
+		<segment id="113" parent="112" relname="attribution">сообщает ИТАР-ТАСС.</segment>
+		<segment id="116" parent="119" relname="attribution">По его словам,</segment>
+		<segment id="119" parent="120" relname="span">вывод войск, которые полностью выполнили свою задачу в рамках контртеррористической операции, будет идти как до, так и после референдума.</segment>
+		<segment id="121" parent="123" relname="contrast">\"И сам референдум, и отправка по домам задействованных в Чечне против бандформирований военных частей - это отражение сложившейся на данный момент ситуации,</segment>
+		<segment id="122" parent="123" relname="contrast">а она - стабильная, контролируемая\",</segment>
+		<segment id="124" parent="125" relname="attribution">- заявил генерал</segment>
+		<segment id="125" parent="126" relname="span">.\n\</segment>
+		<segment id="128" parent="131" relname="attribution">nКак считает Пузанов,</segment>
+		<segment id="129" parent="131" relname="span">сил и средств 42-й дивизии Минобороны РФ и 46-й бригады внутренних войск МВД РФ,</segment>
+		<segment id="130" parent="129" relname="background">которые дислоцированы в Чечне на постоянной основе,</segment>
+		<segment id="133" parent="135" relname="span">вполне достаточно,</segment>
+		<segment id="134" parent="133" relname="purpose">чтобы обеспечивать в республике безопасность и во время референдума, и после него,</segment>
+		<segment id="136" parent="135" relname="condition">когда будут создаваться легитимные органы власти.</segment>
+		<segment id="139" parent="140" relname="attribution">В этом смысле, отметил генерал,</segment>
+		<segment id="140" parent="141" relname="span">Чечня постепенно становится похожей на другие субъекты РФ.\n\nИсточник: https://www.newsru.com/russia/07Mar2003/troop_train.html\n</segment>
+		<group id="55" type="span" parent="148" relname="preparation"/>
+		<group id="53" type="span" parent="55" relname="span"/>
+		<group id="148" type="multinuc" parent="149" relname="span"/>
+		<group id="74" type="multinuc" parent="148" relname="joint"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="65" type="span" parent="73" relname="joint"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="63" type="multinuc" parent="60" relname="interpretation-evaluation"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="71" type="span" parent="66" relname="elaboration"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="147" type="multinuc" parent="148" relname="joint"/>
+		<group id="87" type="span" parent="147" relname="joint"/>
+		<group id="79" type="multinuc" parent="87" relname="span"/>
+		<group id="77" type="multinuc" parent="79" relname="joint"/>
+		<group id="86" type="span" parent="79" relname="attribution"/>
+		<group id="85" type="span" parent="80" relname="elaboration"/>
+		<group id="84" type="span" parent="81" relname="elaboration"/>
+		<group id="146" type="multinuc" parent="147" relname="joint"/>
+		<group id="100" type="multinuc" parent="146" relname="joint"/>
+		<group id="90" type="span" parent="100" relname="joint"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="98" type="span" parent="91" relname="elaboration"/>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="96" type="span" parent="97" relname="joint"/>
+		<group id="145" type="multinuc" parent="146" relname="joint"/>
+		<group id="115" type="multinuc" parent="145" relname="comparison"/>
+		<group id="107" type="span" parent="115" relname="joint"/>
+		<group id="105" type="span" parent="107" relname="span"/>
+		<group id="104" type="multinuc" parent="105" relname="span"/>
+		<group id="114" type="span" parent="115" relname="joint"/>
+		<group id="112" type="span" parent="114" relname="span"/>
+		<group id="111" type="span" parent="112" relname="span"/>
+		<group id="144" type="multinuc" parent="145" relname="comparison"/>
+		<group id="120" type="span" parent="144" relname="joint"/>
+		<group id="143" type="multinuc" parent="144" relname="joint"/>
+		<group id="127" type="span" parent="143" relname="comparison"/>
+		<group id="123" type="multinuc" parent="127" relname="span"/>
+		<group id="126" type="span" parent="123" relname="attribution"/>
+		<group id="142" type="multinuc" parent="143" relname="comparison"/>
+		<group id="138" type="multinuc" parent="142" relname="comparison"/>
+		<group id="132" type="span" parent="138" relname="comparison"/>
+		<group id="131" type="span" parent="132" relname="span"/>
+		<group id="137" type="span" parent="138" relname="comparison"/>
+		<group id="135" type="span" parent="137" relname="span"/>
+		<group id="141" type="span" parent="142" relname="comparison"/>
+		<group id="149" type="span"/>
+	</body>
+</rst>

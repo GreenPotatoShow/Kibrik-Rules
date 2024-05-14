@@ -1,0 +1,68 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="27" relname="condition">России при оценке объемов ввода жилья</segment>
+		<segment id="27" parent="28" relname="span">нужно перенять пример Израиля,</segment>
+		<segment id="29" parent="30" relname="comparison">заявили в Минстрое\n\nМинстрою РФ пора переходить на оценку объемов ввода жилья по числу сданных квартир, а не квадратных метров.</segment>
+		<segment id="31" parent="30" relname="attribution">Об этом заявил в понедельник замглавы ведомства Никита Стасишин на заседании рабочей группы строительных министерств России и Израиля.\n\n\"У нас объемы ввода жилья за несколько прошлых лет составили более 80 млн кв. метров в год.</segment>
+		<segment id="33" parent="37" relname="span">Это тоже разница с вами</segment>
+		<segment id="34" parent="36" relname="contrast">- вы считаете в единицах,</segment>
+		<segment id="35" parent="36" relname="contrast">а мы считаем миллионами метров.</segment>
+		<segment id="38" parent="39" relname="contrast">Но, конечно, пора нам переходить на счет в единицах\",</segment>
+		<segment id="40" parent="39" relname="attribution">- отметил Стасишин в ходе обсуждения отличий в ведении строительной политики в двух странах.</segment>
+		<segment id="42" parent="49" relname="attribution">Его цитирует РИА \"Новости\".\n\nРанее в сентябре Стасишин заявил,</segment>
+		<segment id="43" parent="45" relname="joint">что объем ввода жилья в России по итогам 2017 года останется на уровне прошлого года</segment>
+		<segment id="44" parent="45" relname="joint">и составит около 80 млн кв. метров,</segment>
+		<segment id="46" parent="48" relname="comparison">хотя еще в июне Минстрой снижал прогноз до 75 млн.\n\</segment>
+		<segment id="47" parent="48" relname="comparison">nВ прошлом году в России было введено в эксплуатацию 79,8 млн кв. м жилья, или 93,5% к объему предыдущего года.</segment>
+		<segment id="51" parent="57" relname="span">При этом прошлые годы были рекордными по объему ввода жилья:</segment>
+		<segment id="52" parent="56" relname="joint">в 2014 году было построено 84 млн кв. м,</segment>
+		<segment id="53" parent="54" relname="attribution">в 2015 году - 85 млн кв. м.\n\nКогда-то в Минстрое заявляли,</segment>
+		<segment id="54" parent="55" relname="span">что для обеспечения всех нуждающихся россиян квартирами ежегодно необходимо строить 140 млн кв. м жилой недвижимости.</segment>
+		<segment id="58" parent="59" relname="attribution">Еще раньше Владимир Путин говорил,</segment>
+		<segment id="59" parent="60" relname="span">что до 140 млн \"квадратов\" ввод жилья в РФ должен вырасти к 2020 году.</segment>
+		<segment id="61" parent="62" relname="attribution">Согласно же последним расчетам Минстроя,</segment>
+		<segment id="62" parent="63" relname="span">к 2025 году планируется выйти на показатель 120 млн кв. метров жилья в год.</segment>
+		<segment id="64" parent="68" relname="joint">Очевидно, этот показатель снова пересмотрят</segment>
+		<segment id="65" parent="67" relname="span">или вообще перестанут брать в расчет,</segment>
+		<segment id="66" parent="65" relname="condition">если будет решено перейти на оценку количества сданных квартир.\n\nИсточник: https://www.newsru.com/realty/11Sep2017/vvod.html\n</segment>
+		<group id="32" type="span" parent="73" relname="preparation"/>
+		<group id="30" type="multinuc" parent="32" relname="span"/>
+		<group id="28" type="span" parent="30" relname="comparison"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="41" type="span" parent="72" relname="preparation"/>
+		<group id="39" type="multinuc" parent="41" relname="span"/>
+		<group id="37" type="span" parent="39" relname="contrast"/>
+		<group id="36" type="multinuc" parent="33" relname="elaboration"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="50" type="span" parent="72" relname="joint"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="45" type="multinuc" parent="49" relname="span"/>
+		<group id="48" type="multinuc" parent="45" relname="concession"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="57" type="span" parent="71" relname="joint"/>
+		<group id="56" type="multinuc" parent="51" relname="elaboration"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="60" type="span" parent="70" relname="comparison"/>
+		<group id="69" type="multinuc" parent="70" relname="comparison"/>
+		<group id="63" type="span" parent="69" relname="comparison"/>
+		<group id="68" type="multinuc" parent="69" relname="comparison"/>
+		<group id="67" type="span" parent="68" relname="joint"/>
+		<group id="74" type="span"/>
+	</body>
+</rst>

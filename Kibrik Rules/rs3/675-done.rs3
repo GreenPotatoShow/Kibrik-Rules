@@ -1,0 +1,188 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="82" parent="241" relname="preparation">Я  тут крепко увяз в дискуссии на тему того, какие обязанности должны быть у владельца оружия.</segment>
+		<segment id="83" parent="84" relname="purpose">Чтобы не рубить хвост кошке по частям,</segment>
+		<segment id="84" parent="85" relname="span">я решил свести свои соображения на этот счет в один пост.</segment>
+		<segment id="86" parent="88" relname="span">Насколько я понимаю</segment>
+		<segment id="87" parent="86" relname="interpretation-evaluation">(и насколько понимает ряд моих оппонентов),</segment>
+		<segment id="89" parent="91" relname="span">знаменитая Вторая поправка не предусматривает вообще никаких обязанностей,</segment>
+		<segment id="90" parent="89" relname="condition">оговаривая только права.</segment>
+		<segment id="93" parent="97" relname="span">А между тем человек, заведший оружие,</segment>
+		<segment id="94" parent="96" relname="span">должен позаботиться о том,</segment>
+		<segment id="95" parent="94" relname="purpose">чтобы от него не пострадали невинные люди.</segment>
+		<segment id="100" parent="108" relname="span">На мой взгляд, для этого он должен выполнять несколько требований:\n 1.</segment>
+		<segment id="101" parent="107" relname="span">Отлично этим оружием владеть.</segment>
+		<segment id="102" parent="103" relname="interpretation-evaluation">Ну, пускай не отлично,</segment>
+		<segment id="103" parent="104" relname="span">не каждый из нас Бьерндален.</segment>
+		<segment id="105" parent="104" relname="interpretation-evaluation">Пускай хорошо.</segment>
+		<segment id="109" parent="115" relname="span">Владеть так,</segment>
+		<segment id="110" parent="112" relname="comparison">чтобы в случае необходимости он мог быстро</segment>
+		<segment id="111" parent="112" relname="comparison">(а лучше мгновенно, на уровне рефлексов)</segment>
+		<segment id="113" parent="114" relname="span">открыть огонь на поражение,</segment>
+		<segment id="116" parent="117" relname="contrast">но так, чтобы поразить именно нападающего, а не людей, стоящих в двух метрах в стороне.</segment>
+		<segment id="118" parent="120" relname="span">А для этого нужны, в свою очередь еще две вещи:</segment>
+		<segment id="119" parent="118" relname="elaboration">1а) он должен регулярно тренироваться.</segment>
+		<segment id="122" parent="123" relname="attribution">Я не верю в искренность людей, утверждающих,</segment>
+		<segment id="123" parent="124" relname="span">что требование к владельцам оружия ходить в тир - это глупые придирки и ущемление гражданских прав.</segment>
+		<segment id="125" parent="133" relname="span">Известно, чего хуже услужливый дурак,</segment>
+		<segment id="126" parent="128" relname="span">в частности - услужливый дурак с пистолетом,</segment>
+		<segment id="127" parent="126" relname="background">из которого он в последний раз стрелял 15 лет назад, в день покупки;</segment>
+		<segment id="129" parent="131" relname="span">1б) он должен содержать оружие в образцовом порядке,</segment>
+		<segment id="130" parent="129" relname="purpose">чтобы не было перекоса патрона после первого выстрела, а то и до него.</segment>
+		<segment id="134" parent="136" relname="contrast">Содержание в порядке подразумевает регулярную чистку,</segment>
+		<segment id="135" parent="136" relname="contrast">но не только ее, а и внимательное отношение к обойме.</segment>
+		<segment id="137" parent="136" relname="elaboration">В этом смысле, хранить снаряженную обойму в пистолете - не лучший способ.\n 2.</segment>
+		<segment id="141" parent="145" relname="span">Хранить оружие так,</segment>
+		<segment id="142" parent="144" relname="contrast">чтобы, с одной стороны, им можно было быстро воспользоваться хозяину,</segment>
+		<segment id="143" parent="144" relname="contrast">а с другой - чтобы им не смог воспользоваться кто-то еще.</segment>
+		<segment id="146" parent="153" relname="condition">Пока \"умные\" пистолеты, узнающие руку хозяина,</segment>
+		<segment id="147" parent="153" relname="joint">существуют только в фантастике,</segment>
+		<segment id="148" parent="152" relname="span">это, к сожалению, означает хранение в запертом контейнере</segment>
+		<segment id="149" parent="151" relname="joint">(лучше в сейфе)</segment>
+		<segment id="150" parent="151" relname="joint">и, опять же, отдельно от патронов.</segment>
+		<segment id="155" parent="157" relname="contrast">Не знаю, как себя чувствуют другие родители,</segment>
+		<segment id="156" parent="157" relname="contrast">но меня бы постоянно мучил вопрос:</segment>
+		<segment id="158" parent="160" relname="joint">а не забыл ли я запереть сейф,</segment>
+		<segment id="159" parent="160" relname="joint">и не доберется ли до пистолета моя четырехлетняя дочь?</segment>
+		<segment id="164" parent="165" relname="attribution">Поэтому я считаю,</segment>
+		<segment id="165" parent="166" relname="span">что лишняя предосторожность</segment>
+		<segment id="167" parent="169" relname="span">- извлеченная обойма</segment>
+		<segment id="168" parent="167" relname="elaboration">(а в случае охотничьего ружья, отсутствие патронов в стволах)</segment>
+		<segment id="171" parent="174" relname="attribution">- на самом деле не лишняя.\n Мне говорят:</segment>
+		<segment id="172" parent="174" relname="joint">а что ты к оружию прицепился,</segment>
+		<segment id="173" parent="174" relname="joint">почему ты не борешься за защиту невинных людей от бассейнов, ядовитых моющих средств, ножей и утюгов?</segment>
+		<segment id="176" parent="180" relname="joint">Отвечу: во-первых, есть утюг включенный,</segment>
+		<segment id="177" parent="179" relname="joint">а есть выключенный,</segment>
+		<segment id="178" parent="179" relname="joint">как есть пистолет заряженный и незаряженный.</segment>
+		<segment id="183" parent="185" relname="joint">Во втором случае гладить</segment>
+		<segment id="184" parent="185" relname="joint">и стрелять нельзя,</segment>
+		<segment id="186" parent="187" relname="cause-effect">но и опасность случайного ожога/пулевого ранения сведена к нулю,</segment>
+		<segment id="187" parent="188" relname="span">можно разве что получить тяжелым металлическим предметом по темечку.</segment>
+		<segment id="190" parent="191" relname="joint">Во-вторых, за защиту невинных людей от бытовых ядов и наркотиков нехило борются их же производители.</segment>
+		<segment id="193" parent="195" relname="span">Крышку многих лекарств или хлорки</segment>
+		<segment id="194" parent="193" relname="purpose">для мытья ванны сегодня и взрослому человеку открыть нелегко,</segment>
+		<segment id="196" parent="198" relname="span">а ребенку просто невозможно.</segment>
+		<segment id="197" parent="196" relname="elaboration">В бассейнах или есть спасатели,</segment>
+		<segment id="200" parent="201" relname="joint">или нет воды</segment>
+		<segment id="202" parent="204" relname="span">- их просто спускают на ночь</segment>
+		<segment id="203" parent="202" relname="condition">(если это публичные бассейны).</segment>
+		<segment id="206" parent="210" relname="same-unit">С частным бассейном ситуация та же, что и с пистолетом:</segment>
+		<segment id="207" parent="209" relname="span">хозяин обязан защитить людей,</segment>
+		<segment id="208" parent="207" relname="condition">даже если это создает неудобства лично для него.</segment>
+		<segment id="211" parent="215" relname="joint">Простейший способ сделать это</segment>
+		<segment id="212" parent="214" relname="joint">- спускать воду на ночь</segment>
+		<segment id="213" parent="214" relname="joint">И накрывать бассейн.</segment>
+		<segment id="217" parent="223" relname="span">Не ИЛИ, а И,</segment>
+		<segment id="218" parent="222" relname="span">потому что ногу сломать,</segment>
+		<segment id="219" parent="220" relname="condition">упав в бассейн,</segment>
+		<segment id="220" parent="221" relname="span">можно запросто.</segment>
+		<segment id="224" parent="223" relname="interpretation-evaluation">Ну и, наконец, ножи.</segment>
+		<segment id="228" parent="230" relname="joint">Здесь, увы, не предусмотрено никакой дополнительной ступени защиты,</segment>
+		<segment id="229" parent="230" relname="joint">кроме возможности спрятать подальше.</segment>
+		<segment id="231" parent="230" relname="interpretation-evaluation">Может, изобретут со временем.</segment>
+		<segment id="233" parent="234" relname="contrast">Но это не повод отказываться от этой дополнительной ступени защиты в случае с электроприборами, ядами и, естественно, пистолетами.\n \n</segment>
+		<group id="241" type="multinuc" parent="242" relname="span"/>
+		<group id="99" type="span" parent="241" relname="joint"/>
+		<group id="85" type="span" parent="99" relname="span"/>
+		<group id="98" type="multinuc" parent="85" relname="evidence"/>
+		<group id="92" type="span" parent="98" relname="contrast"/>
+		<group id="88" type="span" parent="91" relname="interpretation-evaluation"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="97" type="span" parent="98" relname="contrast"/>
+		<group id="96" type="span" parent="93" relname="purpose"/>
+		<group id="240" type="multinuc" parent="241" relname="joint"/>
+		<group id="108" type="span" parent="240" relname="joint"/>
+		<group id="107" type="span" parent="100" relname="elaboration"/>
+		<group id="106" type="span" parent="101" relname="interpretation-evaluation"/>
+		<group id="104" type="span" parent="106" relname="span"/>
+		<group id="239" type="multinuc" parent="240" relname="joint"/>
+		<group id="121" type="multinuc" parent="239" relname="joint"/>
+		<group id="117" type="multinuc" parent="121" relname="contrast"/>
+		<group id="115" type="span" parent="117" relname="contrast"/>
+		<group id="114" type="span" parent="109" relname="purpose"/>
+		<group id="112" type="multinuc" parent="113" relname="purpose"/>
+		<group id="120" type="span" parent="121" relname="contrast"/>
+		<group id="238" type="multinuc" parent="239" relname="joint"/>
+		<group id="140" type="span" parent="238" relname="joint"/>
+		<group id="124" type="span" parent="140" relname="span"/>
+		<group id="139" type="multinuc" parent="124" relname="evidence"/>
+		<group id="133" type="span" parent="139" relname="joint"/>
+		<group id="132" type="multinuc" parent="125" relname="elaboration"/>
+		<group id="128" type="span" parent="132" relname="joint"/>
+		<group id="131" type="span" parent="132" relname="joint"/>
+		<group id="138" type="span" parent="139" relname="joint"/>
+		<group id="136" type="multinuc" parent="138" relname="span"/>
+		<group id="237" type="span" parent="238" relname="joint"/>
+		<group id="163" type="multinuc" parent="236" relname="solutionhood"/>
+		<group id="145" type="span" parent="163" relname="joint"/>
+		<group id="144" type="multinuc" parent="141" relname="purpose"/>
+		<group id="162" type="multinuc" parent="163" relname="joint"/>
+		<group id="154" type="span" parent="162" relname="joint"/>
+		<group id="153" type="multinuc" parent="154" relname="span"/>
+		<group id="152" type="span" parent="153" relname="joint"/>
+		<group id="151" type="multinuc" parent="148" relname="elaboration"/>
+		<group id="161" type="multinuc" parent="162" relname="joint"/>
+		<group id="157" type="multinuc" parent="161" relname="contrast"/>
+		<group id="160" type="multinuc" parent="161" relname="contrast"/>
+		<group id="236" type="multinuc" parent="237" relname="span"/>
+		<group id="192" type="multinuc" parent="236" relname="joint"/>
+		<group id="182" type="span" parent="192" relname="joint"/>
+		<group id="170" type="span" parent="182" relname="span"/>
+		<group id="166" type="span" parent="170" relname="span"/>
+		<group id="169" type="span" parent="166" relname="condition"/>
+		<group id="181" type="span" parent="170" relname="cause-effect"/>
+		<group id="175" type="span" parent="180" relname="solutionhood"/>
+		<group id="174" type="multinuc" parent="175" relname="span"/>
+		<group id="180" type="multinuc" parent="181" relname="span"/>
+		<group id="179" type="multinuc" parent="180" relname="joint"/>
+		<group id="191" type="multinuc" parent="192" relname="joint"/>
+		<group id="189" type="multinuc" parent="191" relname="joint"/>
+		<group id="185" type="multinuc" parent="189" relname="joint"/>
+		<group id="188" type="span" parent="189" relname="joint"/>
+		<group id="235" type="span" parent="236" relname="joint"/>
+		<group id="227" type="multinuc" parent="235" relname="span"/>
+		<group id="205" type="span" parent="227" relname="joint"/>
+		<group id="201" type="multinuc" parent="205" relname="span"/>
+		<group id="199" type="multinuc" parent="201" relname="joint"/>
+		<group id="195" type="span" parent="199" relname="contrast"/>
+		<group id="198" type="span" parent="199" relname="contrast"/>
+		<group id="204" type="span" parent="201" relname="cause-effect"/>
+		<group id="226" type="multinuc" parent="227" relname="joint"/>
+		<group id="216" type="span" parent="226" relname="contrast"/>
+		<group id="210" type="multinuc" parent="216" relname="span"/>
+		<group id="209" type="span" parent="210" relname="same-unit"/>
+		<group id="215" type="multinuc" parent="210" relname="elaboration"/>
+		<group id="214" type="multinuc" parent="215" relname="joint"/>
+		<group id="225" type="span" parent="226" relname="contrast"/>
+		<group id="223" type="span" parent="225" relname="span"/>
+		<group id="222" type="span" parent="217" relname="cause-effect"/>
+		<group id="221" type="span" parent="218" relname="condition"/>
+		<group id="234" type="multinuc" parent="227" relname="elaboration"/>
+		<group id="232" type="span" parent="234" relname="contrast"/>
+		<group id="230" type="multinuc" parent="232" relname="span"/>
+		<group id="242" type="span"/>
+	</body>
+</rst>

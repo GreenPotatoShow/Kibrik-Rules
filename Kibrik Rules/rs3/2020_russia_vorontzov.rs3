@@ -1,0 +1,88 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="36" parent="40" relname="joint">Создателю \"Омбудсмена полиции\" предъявлено обвинение в вымогательстве\n\nОснователю правозащитного проекта \"Омбудсмен полиции\" Владимиру Воронцову предъявлено обвинение в вымогательстве у бывшего полицейского,</segment>
+		<segment id="37" parent="39" relname="span">сообщил \"Интерфаксу\" начальник управления информации и общественных связей столичного главка МВД Владимир Васенин.\n\n\"Следователи ГСУ ГУ МВД России по Москве предъявили обвинение администратору паблика в социальных сетях,</segment>
+		<segment id="38" parent="37" relname="elaboration">который задержан сотрудниками московской полиции по подозрению в вымогательстве денежных средств в крупном размере\",</segment>
+		<segment id="41" parent="40" relname="attribution">- сказал Васенин.\n\</segment>
+		<segment id="43" parent="48" relname="attribution">nПо версии следствия,</segment>
+		<segment id="44" parent="46" relname="span">блогер Воронцов требовал у стража порядка 300 тысяч рублей за нераспространение личных фотографий,</segment>
+		<segment id="45" parent="44" relname="elaboration">которые в итоге были опубликованы.\n\nВозбуждено уголовное дело по признакам преступления, предусмотренного пунктами \"а, г\" части 2 статьи 163 УК РФ (вымогательство, совершенное группой лиц, в крупном размере).\n\n\"В настоящее время задержанному предъявлено обвинение в инкриминируемом деянии.</segment>
+		<segment id="47" parent="48" relname="span">Следствие планирует обратиться в суд с ходатайством об избрании меры пресечения в виде заключения под стражу\",</segment>
+		<segment id="50" parent="49" relname="attribution">- добавил Васенин.</segment>
+		<segment id="52" parent="54" relname="sequence">Вопрос о заключении под стражу обвиняемого будет решать 8 мая Тверской районный суд Москвы.\n\nРанее сообщалось,</segment>
+		<segment id="53" parent="54" relname="sequence">что сотрудники правоохранительных органов задержали в Москве мужчину, подозреваемого в вымогательстве 300 тыс. рублей у бывшего полицейского.\n\</segment>
+		<segment id="55" parent="56" relname="attribution">nПо данным МВД,</segment>
+		<segment id="56" parent="57" relname="span">потерпевший с 2012 по 2017 год проходил службу в одном из подразделений столичного управления полиции.</segment>
+		<segment id="58" parent="60" relname="span">В октябре 2017 года ему позвонил подозреваемый,</segment>
+		<segment id="59" parent="58" relname="background">с которым он был знаком ранее,</segment>
+		<segment id="61" parent="63" relname="span">и потребовал 300 тысяч рублей,</segment>
+		<segment id="62" parent="61" relname="condition">угрожая выложить личные фотографии полицейского в общий доступ в интернете.</segment>
+		<segment id="65" parent="69" relname="span">\"После того как заявитель отказался выплатить обозначенную сумму,</segment>
+		<segment id="66" parent="68" relname="joint">дискредитирующие его фотографии были опубликованы в группе</segment>
+		<segment id="67" parent="68" relname="joint">и стали доступны широкому кругу лиц\",</segment>
+		<segment id="70" parent="69" relname="attribution">- сказал Васенин</segment>
+		<segment id="72" parent="81" relname="attribution">.\n\nРанее \"Правозащита Открытки\" сообщила,</segment>
+		<segment id="75" parent="81" relname="contrast">что в квартире Воронцова, с которым в апреле проводились следственные действия в рамках уголовного дела о недостоверной информации про коронавирус, снова проходит обыск,</segment>
+		<segment id="76" parent="78" relname="span">а его самого доставили в отделение полиции</segment>
+		<segment id="77" parent="76" relname="purpose">для допроса</segment>
+		<segment id="79" parent="80" relname="same-unit">.\n\n\"Пока неизвестно, в рамках какого дела проводятся следственные действия.</segment>
+		<segment id="83" parent="88" relname="preparation">Дверь в квартиру Воронцова выпилили.</segment>
+		<segment id="84" parent="85" relname="attribution">Как рассказала его жена,</segment>
+		<segment id="85" parent="86" relname="span">перед началом обыска к нему в окна с крыши по веревкам спускался спецназ\",</segment>
+		<segment id="87" parent="88" relname="joint">- отмечали в \"Правозащите Открытки\".\n\nВ апреле у Воронцова и родителей его жены прошли обыски по уголовному делу о распространении заведомо ложной информации об обстоятельствах, представляющих угрозу жизни и безопасности граждан (ст. 207.1 УК).</segment>
+		<segment id="90" parent="96" relname="joint">Ему вменили в в вину распространение слухов о заражении коронавирусом до 70% курсантов и офицеров в одном из вузов силовых структур в Петербурге.</segment>
+		<segment id="91" parent="92" relname="attribution">В СК РФ заявили,</segment>
+		<segment id="92" parent="93" relname="span">что на тот момент случаев заражения в этом вузе не было.</segment>
+		<segment id="94" parent="95" relname="joint">После обысков Воронцова допросили как свидетеля.\n\nИсточник: https://www.newsru.com/russia/07May2020/vorontzov.html\n</segment>
+		<group id="42" type="span" parent="103" relname="preparation"/>
+		<group id="40" type="multinuc" parent="42" relname="span"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="103" type="multinuc" parent="104" relname="span"/>
+		<group id="51" type="span" parent="103" relname="joint"/>
+		<group id="49" type="span" parent="51" relname="span"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="46" type="span" parent="47" relname="cause-effect"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="54" type="multinuc" parent="102" relname="joint"/>
+		<group id="101" type="span" parent="102" relname="joint"/>
+		<group id="57" type="span" parent="100" relname="preparation"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="64" type="multinuc" parent="99" relname="preparation"/>
+		<group id="60" type="span" parent="64" relname="sequence"/>
+		<group id="63" type="span" parent="64" relname="sequence"/>
+		<group id="99" type="multinuc" parent="100" relname="span"/>
+		<group id="71" type="span" parent="99" relname="joint"/>
+		<group id="69" type="span" parent="71" relname="span"/>
+		<group id="68" type="multinuc" parent="65" relname="elaboration"/>
+		<group id="98" type="multinuc" parent="99" relname="joint"/>
+		<group id="82" type="span" parent="98" relname="joint"/>
+		<group id="81" type="multinuc" parent="82" relname="span"/>
+		<group id="80" type="multinuc" parent="81" relname="contrast"/>
+		<group id="78" type="span" parent="80" relname="same-unit"/>
+		<group id="97" type="multinuc" parent="98" relname="joint"/>
+		<group id="89" type="span" parent="97" relname="joint"/>
+		<group id="88" type="multinuc" parent="89" relname="span"/>
+		<group id="86" type="span" parent="88" relname="joint"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="93" type="span" parent="95" relname="joint"/>
+		<group id="104" type="span"/>
+	</body>
+</rst>

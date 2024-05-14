@@ -1,0 +1,134 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="60" parent="64" relname="span">В ЕС грозят ужесточить санкции,</segment>
+		<segment id="61" parent="63" relname="joint">если РФ признает выборы на Донбассе\n\nЕвросоюз может ужесточить санкции в отношении России,</segment>
+		<segment id="62" parent="63" relname="joint">если Москва признает итоги намеченных на 2 ноября выборов в самопровозглашенных Донецкой и Луганской народных республиках.</segment>
+		<segment id="65" parent="64" relname="attribution">Об этом пишет газета \"Коммерсант\" со ссылкой на информированный источник в структурах ЕС.\n\</segment>
+		<segment id="67" parent="70" relname="attribution">nПо его словам,</segment>
+		<segment id="68" parent="69" relname="attribution">в ЕС считают,</segment>
+		<segment id="69" parent="70" relname="span">что \"проведение выборов 2 ноября не соответствует минским соглашениям и украинскому законодательству\".</segment>
+		<segment id="72" parent="77" relname="cause-effect">В связи с этим признание выборов Россией \"может иметь негативные последствия\".\n\n</segment>
+		<segment id="73" parent="74" relname="cause-effect">\"Признавая эти выборы легитимными,</segment>
+		<segment id="74" parent="75" relname="span">Россия способствует не урегулированию кризиса, а наоборот - трансформации его в замороженный конфликт\",</segment>
+		<segment id="76" parent="75" relname="attribution">- цитирует газета слова источника в структурах ЕС.</segment>
+		<segment id="80" parent="89" relname="attribution">Он также добавил,</segment>
+		<segment id="81" parent="83" relname="joint">что \"в арсенале ЕС есть еще не исчерпанные возможности по наращиванию санкций\".\n\n- В ЕС не подтверждают,</segment>
+		<segment id="82" parent="83" relname="joint">что ужесточат санкции в случае признания Москвой выборов в \"Новороссии\"\n\nИздание напоминает,</segment>
+		<segment id="84" parent="87" relname="attribution">что, согласно указу,</segment>
+		<segment id="85" parent="87" relname="span">подписанному президентом Украины Петром Порошенко,</segment>
+		<segment id="86" parent="85" relname="elaboration">выборы в ДНР и ЛНР должны пройти 7 декабря.</segment>
+		<segment id="91" parent="92" relname="attribution">Однако лидеры \"народных республик\" заявили</segment>
+		<segment id="92" parent="93" relname="span">о планах провести голосование 2 ноября.</segment>
+		<segment id="94" parent="95" relname="joint">Также обсуждалась возможность переноса выборов на 9 ноября.</segment>
+		<segment id="96" parent="100" relname="span">В ходе голосования должны быть избраны главы \"народных республик\" и депутаты местных парламентов.\n\nВ России утверждают,</segment>
+		<segment id="97" parent="99" relname="joint">что предстоящие выборы легитимны</segment>
+		<segment id="98" parent="99" relname="joint">и в Москве намерены их признать.</segment>
+		<segment id="101" parent="105" relname="span">При этом в РФ ссылаются на некое неопубликованное приложение к минским соглашениям,</segment>
+		<segment id="102" parent="104" relname="span">в котором якобы был письменно зафиксирован временной промежуток,</segment>
+		<segment id="103" parent="102" relname="elaboration">в котором должны пройти выборы на Донбассе.</segment>
+		<segment id="106" parent="105" relname="attribution">Об этом ранее заявил источник \"Коммерсанта\" в госструктурах РФ.</segment>
+		<segment id="110" parent="115" relname="attribution">Причем он утверждает,</segment>
+		<segment id="111" parent="113" relname="contrast">что 2 ноября в этот интервал попадает,</segment>
+		<segment id="112" parent="113" relname="contrast">а 7 декабря - уже нет.\n\</segment>
+		<segment id="114" parent="113" relname="background">nНа наличие подобных непубличных договоренностей намекал и президент РФ Владимир Путин в своем выступлении на Валдайском форуме.</segment>
+		<segment id="117" parent="125" relname="contrast">В окружении президента Украины Петра Порошенко ранее тоже подтвердили наличие подобных договоренностей,</segment>
+		<segment id="118" parent="124" relname="span">но лишь в устной форме.\n\nОднако,</segment>
+		<segment id="119" parent="122" relname="attribution">по словам источника в структурах ЕС,</segment>
+		<segment id="120" parent="122" relname="span">\"в общении с европейскими дипломатами ни российская, ни украинская сторона не подтверждали наличие каких-либо секретных или непубличных приложений к минским соглашениям,</segment>
+		<segment id="121" parent="120" relname="elaboration">в которых оговаривались бы сроки проведения выборов в самопровозглашенных ДНР и ЛНР\".</segment>
+		<segment id="128" parent="136" relname="restatement">Таким образом, в своей политике Брюссель будет исходить из того, что дополнительных договоренностей не существует</segment>
+		<segment id="129" parent="132" relname="attribution">.\n\nВ ЕС не подтверждают,</segment>
+		<segment id="130" parent="131" relname="cause-effect">что ужесточат санкции в случае признания Москвой выборов в \"Новороссии\"\n\nМежду тем представитель внешнеполитической службы Евросоюза Майя Косьянчич не подтверждает сообщения о возможном ужесточении санкций против России в случае признания Москвой выборов в самопровозглашенных Донецкой и Луганской \"народных республиках\".\n\n\"Что касается ограничительных мер,</segment>
+		<segment id="131" parent="132" relname="span">то они находятся под постоянным контролем.</segment>
+		<segment id="134" parent="133" relname="elaboration">Они могут быть изменены в любой момент в свете развития событий\",</segment>
+		<segment id="137" parent="136" relname="attribution">- добавила представитель ЕС,</segment>
+		<segment id="139" parent="141" relname="span">которую цитирует ТАСС.\n\nМИД РФ:</segment>
+		<segment id="140" parent="139" relname="elaboration">минские договоренности предусматривали проведение выборов на Донбассе до 3 ноября\n\</segment>
+		<segment id="144" parent="152" relname="joint">nНакануне МИД РФ опубликовал на своем сайте заявление в ответ на \"ультимативные\" требования Киева и западных стран не проводить выборы на Донбассе 2 ноября.</segment>
+		<segment id="147" parent="151" relname="span">В нем отмечается, что \"в соответствии с Минскими договоренностями <...> проведение упомянутых выборов согласовано в период с 19 октября по 3 ноября\".\n\n\"Ссылки на то, что подписанный 16 октября Порошенко закон об особом порядке самоуправления на указанных территориях установил в качестве даты выборов 7 декабря, противоречат минским договоренностям.</segment>
+		<segment id="148" parent="150" relname="span">Дата 7 декабря была включена в закон произвольно, в одностороннем порядке,</segment>
+		<segment id="149" parent="148" relname="condition">без какого-либо обсуждения с ополченцами\",</segment>
+		<segment id="153" parent="152" relname="attribution">- отмечается в заявлении.\n\n</segment>
+		<segment id="155" parent="158" relname="cause-effect">\"Создается впечатление, что все аргументы партнеров против выборов 2 ноября преследуют цель максимально отсрочить их проведение</segment>
+		<segment id="156" parent="157" relname="cause-effect">- видимо, в расчете на то, что с наступлением холодов проблемы у населения этого региона усугубятся,</segment>
+		<segment id="157" parent="158" relname="span">что скажется на настроениях и явке избирателей\",</segment>
+		<segment id="160" parent="162" relname="joint">- констатировали в МИД РФ.\n\n\"В этой ситуации позиция ополченцев относительно проведения выборов именно 2 ноября правомерна</segment>
+		<segment id="161" parent="162" relname="joint">и полностью соответствует согласованным в рамках минских договоренностей временным параметрам,</segment>
+		<segment id="164" parent="163" relname="attribution">- говорится в документе.</segment>
+		<segment id="166" parent="168" relname="span">- На юго-востоке Украины необходимо как можно скорее создать полноценные органы управления с тем,</segment>
+		<segment id="167" parent="166" relname="purpose">чтобы приступить к решению практических вопросов обеспечения жизнедеятельности и правопорядка\".\n\nИсточник: https://www.newsru.com/world/30Oct2014/eusanc.html\n</segment>
+		<group id="66" type="span" parent="175" relname="preparation"/>
+		<group id="64" type="span" parent="66" relname="span"/>
+		<group id="63" type="multinuc" parent="60" relname="elaboration"/>
+		<group id="175" type="multinuc" parent="176" relname="span"/>
+		<group id="79" type="span" parent="175" relname="joint"/>
+		<group id="71" type="span" parent="78" relname="cause-effect"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="78" type="span" parent="79" relname="span"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="75" type="span" parent="77" relname="span"/>
+		<group id="174" type="multinuc" parent="175" relname="joint"/>
+		<group id="90" type="span" parent="174" relname="joint"/>
+		<group id="89" type="span" parent="90" relname="span"/>
+		<group id="83" type="multinuc" parent="88" relname="cause-effect"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="173" type="multinuc" parent="174" relname="joint"/>
+		<group id="109" type="span" parent="173" relname="joint"/>
+		<group id="95" type="multinuc" parent="108" relname="preparation"/>
+		<group id="93" type="span" parent="95" relname="joint"/>
+		<group id="108" type="multinuc" parent="109" relname="span"/>
+		<group id="100" type="span" parent="108" relname="joint"/>
+		<group id="99" type="multinuc" parent="96" relname="interpretation-evaluation"/>
+		<group id="107" type="span" parent="108" relname="joint"/>
+		<group id="105" type="span" parent="107" relname="span"/>
+		<group id="104" type="span" parent="101" relname="elaboration"/>
+		<group id="172" type="span" parent="173" relname="joint"/>
+		<group id="116" type="span" parent="171" relname="preparation"/>
+		<group id="115" type="span" parent="116" relname="span"/>
+		<group id="113" type="multinuc" parent="115" relname="span"/>
+		<group id="171" type="multinuc" parent="172" relname="span"/>
+		<group id="143" type="span" parent="171" relname="joint"/>
+		<group id="125" type="multinuc" parent="143" relname="span"/>
+		<group id="124" type="span" parent="125" relname="contrast"/>
+		<group id="123" type="span" parent="118" relname="elaboration"/>
+		<group id="122" type="span" parent="123" relname="span"/>
+		<group id="142" type="span" parent="125" relname="elaboration"/>
+		<group id="138" type="span" parent="142" relname="span"/>
+		<group id="136" type="multinuc" parent="138" relname="span"/>
+		<group id="135" type="span" parent="136" relname="restatement"/>
+		<group id="133" type="span" parent="135" relname="span"/>
+		<group id="132" type="span" parent="133" relname="span"/>
+		<group id="141" type="span" parent="138" relname="background"/>
+		<group id="170" type="multinuc" parent="171" relname="joint"/>
+		<group id="154" type="span" parent="170" relname="joint"/>
+		<group id="152" type="multinuc" parent="154" relname="span"/>
+		<group id="151" type="span" parent="152" relname="joint"/>
+		<group id="150" type="span" parent="147" relname="elaboration"/>
+		<group id="169" type="multinuc" parent="170" relname="joint"/>
+		<group id="165" type="span" parent="169" relname="joint"/>
+		<group id="163" type="multinuc" parent="165" relname="span"/>
+		<group id="159" type="span" parent="163" relname="joint"/>
+		<group id="158" type="span" parent="159" relname="span"/>
+		<group id="162" type="multinuc" parent="163" relname="joint"/>
+		<group id="168" type="span" parent="169" relname="joint"/>
+		<group id="176" type="span"/>
+	</body>
+</rst>

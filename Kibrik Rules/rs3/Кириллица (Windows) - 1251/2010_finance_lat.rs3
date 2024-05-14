@@ -1,0 +1,103 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="concession" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="41" parent="43" relname="joint">Экономисты: еще один такой кризис,</segment>
+		<segment id="42" parent="43" relname="joint">и Латвия перестанет существовать\n\nЛатвия выбрала неправильные методы преодоления кризиса,</segment>
+		<segment id="44" parent="45" relname="span">что привело к углублению демографических и социальных проблем.\n\n\"Нынешний кризис - худшее, что с нами могло случиться за последние 20 лет.</segment>
+		<segment id="46" parent="50" relname="comparison">Столь глубокий кризис, с такой большой безработицей - огромное зло для Латвии.</segment>
+		<segment id="47" parent="49" relname="joint">Еще один такой кризис,</segment>
+		<segment id="48" parent="49" relname="joint">и Латвия перестанет существовать\",</segment>
+		<segment id="51" parent="50" relname="attribution">- заявил в интервью Telegraf экономист Янис Ошлейс</segment>
+		<segment id="54" parent="58" relname="span">.\n\nЛатвия пыталась выйти из кризиса тем же способом,</segment>
+		<segment id="55" parent="57" relname="contrast">каким сейчас это пытается сделать Ирландия,</segment>
+		<segment id="56" parent="57" relname="contrast">но он неудачен.</segment>
+		<segment id="59" parent="63" relname="span">Надо было провести девальвацию</segment>
+		<segment id="60" parent="61" relname="concession">- хотя это и крайне болезненная мера,</segment>
+		<segment id="61" parent="62" relname="span">но безработица в стране сегодня была бы намного меньше,</segment>
+		<segment id="65" parent="64" relname="attribution">заявил эксперт газете</segment>
+		<segment id="67" parent="72" relname="attribution">.\n\nОшлейс считает,</segment>
+		<segment id="68" parent="70" relname="span">что курс на медленный рост экономики - по 2-3% в год,</segment>
+		<segment id="69" parent="68" relname="elaboration">при котором страна достигнет уровня 2007 года в 2017-м,</segment>
+		<segment id="71" parent="72" relname="same-unit">- абсолютно неверен.</segment>
+		<segment id="74" parent="76" relname="span">\"Латвия должна расти со скоростью 7-9% в год,</segment>
+		<segment id="75" parent="74" relname="condition">если мы вообще надеемся догнать Европу в разумные сроки\",</segment>
+		<segment id="77" parent="78" relname="attribution">- уверен экономист.\n\nЕго коллега, экономист Дайнис Стикутс считает,</segment>
+		<segment id="78" parent="79" relname="span">что в нынешней ситуации в Латвии имеется большой риск формирования \"общества двух скоростей\", где разницу между слоями населения будет определять наличие или отсутствие работы.\n\</segment>
+		<segment id="80" parent="84" relname="same-unit">nТе, у кого работа имеется,</segment>
+		<segment id="81" parent="83" relname="restatement">будут постепенно улучшать свои жизненные условия,</segment>
+		<segment id="82" parent="83" relname="restatement">тогда как для безработных ситуация не улучшится и на этапе восстановления экономики.</segment>
+		<segment id="85" parent="87" relname="joint">Таким образом, в обществе будет расти социальное неравенство,</segment>
+		<segment id="86" parent="87" relname="joint">прогнозирует экономист тенденции развития экономики в 2012 году.\n\</segment>
+		<segment id="88" parent="95" relname="attribution">nПо мнению экономиста,</segment>
+		<segment id="89" parent="95" relname="joint">печально, что на сей раз правительство не использовало возможности принять,</segment>
+		<segment id="90" parent="94" relname="span">как выражается Международный валютный фонд, \"высококачественные структурные меры\",</segment>
+		<segment id="91" parent="93" relname="span">которые содействовали бы занятости и сокращению серого сектора,</segment>
+		<segment id="92" parent="91" relname="attribution">передает его слова портал Mixnews.lv.</segment>
+		<segment id="104" parent="106" relname="span">\"Будем надеяться, что в будущем году правительство использует улучшение экономической ситуации,</segment>
+		<segment id="105" parent="104" relname="purpose">чтобы завершить начатые структурные реформы,</segment>
+		<segment id="107" parent="108" relname="contrast">а не пытаться тянуть время\",</segment>
+		<segment id="109" parent="108" relname="attribution">- сказал Стикутс.\n\</segment>
+		<segment id="111" parent="112" relname="attribution">nПо его мнению,</segment>
+		<segment id="112" parent="113" relname="span">безработица останется сравнительно высокой - в среднем 17%.</segment>
+		<segment id="114" parent="116" relname="span">Не исключен и рост нелегальной занятости,</segment>
+		<segment id="115" parent="114" relname="cause-effect">так как предпринятое правительством повышение минимальной зарплаты и налогов на рабочую силу не способствует сокращению \"серой\" экономики.\n\nИсточник: https://www.newsru.com/finance/28Dec2010/lat.html\n</segment>
+		<group id="103" type="multinuc" parent="119" relname="joint"/>
+		<group id="53" type="multinuc" parent="103" relname="joint"/>
+		<group id="45" type="span" parent="53" relname="joint"/>
+		<group id="43" type="multinuc" parent="44" relname="cause-effect"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="50" type="multinuc" parent="52" relname="span"/>
+		<group id="49" type="multinuc" parent="50" relname="comparison"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="66" type="span" parent="102" relname="joint"/>
+		<group id="64" type="span" parent="66" relname="span"/>
+		<group id="58" type="span" parent="64" relname="span"/>
+		<group id="57" type="multinuc" parent="54" relname="cause-effect"/>
+		<group id="63" type="span" parent="58" relname="purpose"/>
+		<group id="62" type="span" parent="59" relname="concession"/>
+		<group id="101" type="multinuc" parent="102" relname="joint"/>
+		<group id="73" type="span" parent="101" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="70" type="span" parent="72" relname="same-unit"/>
+		<group id="100" type="multinuc" parent="101" relname="joint"/>
+		<group id="76" type="span" parent="100" relname="joint"/>
+		<group id="99" type="multinuc" parent="100" relname="joint"/>
+		<group id="79" type="span" parent="99" relname="joint"/>
+		<group id="98" type="span" parent="99" relname="joint"/>
+		<group id="84" type="multinuc" parent="98" relname="span"/>
+		<group id="83" type="multinuc" parent="84" relname="same-unit"/>
+		<group id="97" type="span" parent="84" relname="interpretation-evaluation"/>
+		<group id="87" type="multinuc" parent="97" relname="span"/>
+		<group id="96" type="span" parent="87" relname="elaboration"/>
+		<group id="95" type="multinuc" parent="96" relname="span"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="93" type="span" parent="90" relname="elaboration"/>
+		<group id="118" type="multinuc" parent="119" relname="joint"/>
+		<group id="110" type="span" parent="118" relname="comparison"/>
+		<group id="108" type="multinuc" parent="110" relname="span"/>
+		<group id="106" type="span" parent="108" relname="contrast"/>
+		<group id="117" type="multinuc" parent="118" relname="comparison"/>
+		<group id="113" type="span" parent="117" relname="comparison"/>
+		<group id="116" type="span" parent="117" relname="comparison"/>
+		<group id="119" type="multinuc"/>
+	</body>
+</rst>

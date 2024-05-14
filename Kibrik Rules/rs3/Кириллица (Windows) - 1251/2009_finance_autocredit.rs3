@@ -1,0 +1,87 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="38" parent="109" relname="preparation">Путин почти вдвое увеличил лимит стоимости автомобилей, которые можно приобрести по льготному автокредиту\n\</segment>
+		<segment id="39" parent="45" relname="joint">nПремьер-министр Владимир Путин увеличил максимальную стоимость автомобилей, которые могут приобретаться по субсидированной процентной ставке автокредитов, с 350 тысяч рублей до 600 тысяч рублей.</segment>
+		<segment id="42" parent="44" relname="span">При этом требования по первоначальному взносу снижены в два раза, передает РИА \"Новости\".\n\n\"Сегодня я подписал постановление об увеличении лимита до 600 тысяч рублей.</segment>
+		<segment id="43" parent="42" relname="elaboration">В рамках этой цены главным образом продаются отечественные товары\",</segment>
+		<segment id="46" parent="45" relname="attribution">- сказал Путин на президиуме правительства в понедельник.\n\</segment>
+		<segment id="48" parent="49" relname="attribution">nПо его словам,</segment>
+		<segment id="49" parent="50" relname="span">минимальный размер первоначального взноса по таким кредитам снижен вдвое.</segment>
+		<segment id="51" parent="53" relname="comparison">\"Раньше предоплата требовалась 30%,</segment>
+		<segment id="52" parent="53" relname="comparison">а теперь мы ее снижаем до 15%\",</segment>
+		<segment id="54" parent="55" relname="attribution">- сказал Путин</segment>
+		<segment id="55" parent="56" relname="span">.\n\</segment>
+		<segment id="58" parent="63" relname="attribution">nОн добавил,</segment>
+		<segment id="59" parent="63" relname="joint">что в результате реализации новых мер модельный ряд автомобилей, кредит на которые будет выдаваться с льготными условиями,</segment>
+		<segment id="60" parent="62" relname="span">расширяется не только за счет легковых автомобилей, но и за счет малых грузовиков.\n\n\"По сути дела, представители малого и среднего бизнеса могут воспользоваться этой мерой,</segment>
+		<segment id="61" parent="60" relname="purpose">чтобы приобрести транспорт на себя лично, как на физическое лицо\",</segment>
+		<segment id="65" parent="64" relname="attribution">- сказал Путин</segment>
+		<segment id="67" parent="68" relname="attribution">.\n\nВместе с тем, министр промышленности и торговли РФ Виктор Христенко выразил надежду,</segment>
+		<segment id="68" parent="69" relname="span">что к концу 2009 года порядка 120 тысяч автомобилей самых разных модификаций смогут быть предметом льготного кредитования.\n\</segment>
+		<segment id="70" parent="81" relname="attribution">nПо его словам,</segment>
+		<segment id="71" parent="73" relname="span">субсидирование граждан при покупке автомобилей,</segment>
+		<segment id="72" parent="71" relname="elaboration">стоимость которых составляет до 600 тысяч рублей,</segment>
+		<segment id="74" parent="80" relname="span">а не как ранее, до 350 тысяч рублей,</segment>
+		<segment id="75" parent="79" relname="joint">позволит вовлечь целый спектр автомобилей, производящихся в России.\n\nПо данным Минпромторга,</segment>
+		<segment id="76" parent="78" relname="span">постановление также отменяет ограничения по срокам выплаты кредитов до 31 декабря 2011 года</segment>
+		<segment id="77" parent="76" relname="elaboration">- теперь время выплаты кредита не должно превышать 36 месяцев.</segment>
+		<segment id="85" parent="103" relname="joint">Кроме того, предоставляется возможность выдачи кредитов физическим лицам на приобретение автомобилей в рамках реализации постановления российскими кредитными организациями, собственный капитал которых по состоянию на 1 апреля 2009 года составлял не менее 70 миллиардов рублей.\n\</segment>
+		<segment id="86" parent="95" relname="attribution">nКак отмечается в сообщении Минпромторга,</segment>
+		<segment id="87" parent="94" relname="cause-effect">принятые меры позволят увеличить количество реализуемых автомобилей отечественного производства,</segment>
+		<segment id="88" parent="94" relname="joint">что позволит загрузить производственные мощности</segment>
+		<segment id="89" parent="93" relname="joint">и уменьшит риск сокращения рабочих мест в автомобильной промышленности, а также в смежных отраслях промышленности</segment>
+		<segment id="92" parent="93" relname="joint">и снизит социальную напряженность в стране в условиях финансового кризиса.\n\nС апреля 2009 года,</segment>
+		<segment id="97" parent="100" relname="condition">когда была запущена эта программа,</segment>
+		<segment id="98" parent="100" relname="sequence">по 2 июля от физических лиц в банки поступило 29 тысяч 878 заявок на получение кредитов на приобретение легковых автомобилей,</segment>
+		<segment id="99" parent="100" relname="sequence">после рассмотрения которых было выдано 16 тысяч 217 автокредитов.\n\nИсточник: https://www.newsru.com/finance/06Jul2009/autocredit.html\n</segment>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="47" type="span" parent="109" relname="joint"/>
+		<group id="45" type="multinuc" parent="47" relname="span"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="50" type="span" parent="108" relname="joint"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="57" type="span" parent="107" relname="joint"/>
+		<group id="53" type="multinuc" parent="57" relname="span"/>
+		<group id="56" type="span" parent="53" relname="attribution"/>
+		<group id="106" type="multinuc" parent="107" relname="joint"/>
+		<group id="66" type="span" parent="106" relname="joint"/>
+		<group id="64" type="span" parent="66" relname="span"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="69" type="span" parent="105" relname="joint"/>
+		<group id="104" type="multinuc" parent="105" relname="joint"/>
+		<group id="82" type="span" parent="104" relname="joint"/>
+		<group id="81" type="multinuc" parent="82" relname="span"/>
+		<group id="73" type="span" parent="81" relname="contrast"/>
+		<group id="80" type="span" parent="81" relname="contrast"/>
+		<group id="79" type="multinuc" parent="74" relname="purpose"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="102" type="span" parent="103" relname="joint"/>
+		<group id="96" type="span" parent="102" relname="span"/>
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="101" type="span" parent="96" relname="elaboration"/>
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="110" type="span"/>
+	</body>
+</rst>

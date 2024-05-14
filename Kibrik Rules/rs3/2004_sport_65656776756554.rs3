@@ -1,0 +1,119 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="52" parent="56" relname="joint">Российские прыгуньи в длину заняли весь пьедестал почета,</segment>
+		<segment id="53" parent="55" relname="span">а бегуньи завоевали \"серебро\" в эстафете\n\nРоссийские прыгуньи в длину заняли весь пьедестал почета на Олимпийских играх в Афинах.\n\nТатьяна Лебедева завоевала \"золото\",</segment>
+		<segment id="54" parent="53" relname="condition">улетев на 7,07 метра.</segment>
+		<segment id="57" parent="59" relname="span">Второй стала Ирина Симагина,</segment>
+		<segment id="58" parent="57" relname="background">показавшая результат 7,05 метра.</segment>
+		<segment id="60" parent="64" relname="contrast">На такую же длину прыгнула Татьяна Котова,</segment>
+		<segment id="61" parent="63" relname="joint">однако по другим попыткам она уступила Симагиной</segment>
+		<segment id="62" parent="63" relname="joint">и завоевала \"бронзу\".\n\</segment>
+		<segment id="67" parent="71" relname="span">nСтоит отметить, что прыжок в длину не является для новоиспеченной олимпийской чемпионки основной дисциплиной.</segment>
+		<segment id="68" parent="70" relname="contrast">Лебедева специализируется на тройном прыжке.</segment>
+		<segment id="69" parent="70" relname="contrast">Однако на соревнованиях в тройном прыжке в Афинах Лебедева завоевала только \"бронзу\".\n\</segment>
+		<segment id="72" parent="76" relname="same-unit">nОднако,</segment>
+		<segment id="73" parent="74" relname="attribution">как отмечает РИА \"Новости\",</segment>
+		<segment id="74" parent="75" relname="span">благодаря успеху в \"некоронной\" для нее дисциплине,</segment>
+		<segment id="77" parent="79" relname="span">Лебедевой,</segment>
+		<segment id="78" parent="77" relname="background">согласно распоряжению правительства РФ,</segment>
+		<segment id="80" parent="81" relname="span">будет выплачено денежное вознаграждение в размере $50 тысяч,</segment>
+		<segment id="82" parent="84" relname="span">а также $60 тысяч из средств для поощрения россиян,</segment>
+		<segment id="83" parent="82" relname="elaboration">завоевавших \"золото\" афинской Олимпиады, выделенных ГНК \"Нафта-Москва\".\n\nРоссийские бегуньи завоевали \"серебро\" в эстафете\n\nРоссийские бегуньи Ольга Федорова, Ирина Хабарова, Лариса Круглова и Юлия Табакова завоевали \"серебро\" в эстафете 4х100 метров.</segment>
+		<segment id="87" parent="91" relname="sequence">Первое место заняли спортсменки с Ямайки,</segment>
+		<segment id="88" parent="90" relname="joint">показав время 41,73 секунды,</segment>
+		<segment id="89" parent="90" relname="joint">а третьими стали француженки</segment>
+		<segment id="92" parent="101" relname="preparation">.\n\nСборная США,</segment>
+		<segment id="95" parent="101" relname="span">считавшаяся фаворитом забега, не смогла финишировать</segment>
+		<segment id="96" parent="99" relname="cause-effect">из-за того, что на одном из промежуточных финишей одна из бегуний не смогла с первой попытки передать эстафетную палочку своей партнерше,</segment>
+		<segment id="97" parent="99" relname="span">и у американок было зафиксировано нарушение правил.\n\nКитайцы завоевали еще два \"золота\" в легкой атлетике\n\nОлимпийским чемпионом в беге на 110 метров с барьерами стал китаец Сянь Лю,</segment>
+		<segment id="98" parent="97" relname="elaboration">показавший результат 12,91 секунды.</segment>
+		<segment id="104" parent="106" relname="span">Новоявленный олимпионик повторил мировой рекорд англичанина Колина Джексона,</segment>
+		<segment id="105" parent="104" relname="background">установленный в 1993 году.</segment>
+		<segment id="107" parent="108" relname="joint">Одновременно Сянь Ли на пять сотых секунды улучшил предыдущее олимпийское достижение.</segment>
+		<segment id="109" parent="111" relname="joint">Второе место занял американец Терренс Трэммелл,</segment>
+		<segment id="110" parent="111" relname="joint">а третье - Аньер Гарсиа (Куба).\n\nКубинка Ослейдис Менендес завоевала \"золото\" Игр в Афинах в метании копья с олимпийским рекордом.</segment>
+		<segment id="112" parent="113" relname="cause-effect">В своей лучшей попытке представительница Кубы метнула снаряд на 71,53 метра,</segment>
+		<segment id="113" parent="114" relname="span">что является новым рекордом Олимпиад.</segment>
+		<segment id="115" parent="114" relname="elaboration">\"Серебро\" в последней попытке вырвала немка Штеффи Нериус - 65,72 метра.</segment>
+		<segment id="118" parent="120" relname="span">Третье место к радости местных болельщиков заняла гречанка Мирела Маньяни - 64,29 метра.</segment>
+		<segment id="119" parent="118" relname="elaboration">Россиянки в финале метания копья участия не принимали.\n\nКитаянка Хуэйна Син сенсационно завоевала \"золото\" в беге на 10 тысяч метров на Играх в Афинах.</segment>
+		<segment id="121" parent="123" relname="joint">На финишной прямой она обогнала фаворитку на этой дистанции эфиопку Эджегайеху Дибабу</segment>
+		<segment id="122" parent="123" relname="joint">и стала победительницей забега.</segment>
+		<segment id="124" parent="123" relname="elaboration">Ее время - 30.24,36 минуты.</segment>
+		<segment id="127" parent="129" relname="joint">Дибаба довольствовалась \"серебром\" - 30.24,98 минуты,</segment>
+		<segment id="128" parent="129" relname="joint">а третье место заняла еще одна представительница Эфиопии Дерарту Тулу (30.26,42).\n\nРоссиянин Игорь Павлов остался за пределами тройки призеров в прыжках с шестом.</segment>
+		<segment id="130" parent="134" relname="contrast">У Павлова был шанс побороться за медали,</segment>
+		<segment id="131" parent="133" relname="sequence">но в своей последней попытке он не взял высоту 5,90 метра</segment>
+		<segment id="132" parent="133" relname="sequence">и занял четвертое место в финале.</segment>
+		<segment id="135" parent="136" relname="sequence">Другой россиянин - Павел Герасимов - показал 13-й результат (5,55 метра).</segment>
+		<segment id="140" parent="142" relname="comparison">В итоге \"золото\" в этой дисциплине завоевал американец Тимоти Мак, взявший высоту 5,95 метра.</segment>
+		<segment id="141" parent="142" relname="comparison">Еще один американец Тоби Стивенсон стал вторым (5,90).</segment>
+		<segment id="143" parent="142" relname="elaboration">\"Бронзу\" завоевал итальянец Джузеппе Джибилиско (5,85 метра).\n\nИсточник: https://www.newsru.com/sport/27Aug2004/65656776756554.html\n</segment>
+		<group id="66" type="multinuc" parent="151" relname="preparation"/>
+		<group id="56" type="multinuc" parent="66" relname="comparison"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="65" type="multinuc" parent="66" relname="comparison"/>
+		<group id="59" type="span" parent="65" relname="joint"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="contrast"/>
+		<group id="151" type="multinuc" parent="152" relname="span"/>
+		<group id="71" type="span" parent="151" relname="joint"/>
+		<group id="70" type="multinuc" parent="67" relname="elaboration"/>
+		<group id="150" type="multinuc" parent="151" relname="joint"/>
+		<group id="86" type="span" parent="150" relname="joint"/>
+		<group id="76" type="multinuc" parent="85" relname="solutionhood"/>
+		<group id="75" type="span" parent="76" relname="same-unit"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="81" type="span" parent="85" relname="joint"/>
+		<group id="79" type="span" parent="80" relname="attribution"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="149" type="multinuc" parent="150" relname="joint"/>
+		<group id="103" type="span" parent="149" relname="joint"/>
+		<group id="91" type="multinuc" parent="103" relname="span"/>
+		<group id="90" type="multinuc" parent="91" relname="sequence"/>
+		<group id="102" type="span" parent="91" relname="cause-effect"/>
+		<group id="101" type="span" parent="102" relname="span"/>
+		<group id="100" type="span" parent="95" relname="cause-effect"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="148" type="multinuc" parent="149" relname="joint"/>
+		<group id="108" type="multinuc" parent="148" relname="joint"/>
+		<group id="106" type="span" parent="108" relname="joint"/>
+		<group id="147" type="multinuc" parent="148" relname="joint"/>
+		<group id="117" type="multinuc" parent="147" relname="joint"/>
+		<group id="111" type="multinuc" parent="117" relname="joint"/>
+		<group id="116" type="span" parent="117" relname="joint"/>
+		<group id="114" type="span" parent="116" relname="span"/>
+		<group id="146" type="multinuc" parent="147" relname="joint"/>
+		<group id="126" type="multinuc" parent="146" relname="joint"/>
+		<group id="120" type="span" parent="126" relname="sequence"/>
+		<group id="125" type="span" parent="126" relname="sequence"/>
+		<group id="123" type="multinuc" parent="125" relname="span"/>
+		<group id="145" type="multinuc" parent="146" relname="joint"/>
+		<group id="137" type="multinuc" parent="145" relname="sequence"/>
+		<group id="129" type="multinuc" parent="137" relname="sequence"/>
+		<group id="136" type="multinuc" parent="137" relname="sequence"/>
+		<group id="134" type="multinuc" parent="136" relname="sequence"/>
+		<group id="133" type="multinuc" parent="134" relname="contrast"/>
+		<group id="144" type="span" parent="145" relname="sequence"/>
+		<group id="142" type="multinuc" parent="144" relname="span"/>
+		<group id="152" type="span"/>
+	</body>
+</rst>

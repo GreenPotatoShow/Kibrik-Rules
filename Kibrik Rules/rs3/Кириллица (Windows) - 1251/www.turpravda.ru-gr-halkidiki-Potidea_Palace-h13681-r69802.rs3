@@ -1,0 +1,102 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="43" parent="45" relname="span">Отдыхал  с женой и ребенком 10 лет в конце мая начало июня.</segment>
+		<segment id="44" parent="43" relname="interpretation-evaluation">Что хочу сказать ,очень хороший отель.</segment>
+		<segment id="46" parent="50" relname="contrast">Территория не очень большая</segment>
+		<segment id="47" parent="49" relname="joint">но вся зеленая</segment>
+		<segment id="48" parent="49" relname="joint">и хорошо спланированная</segment>
+		<segment id="51" parent="53" relname="span">.Номера все хорошие,</segment>
+		<segment id="52" parent="51" relname="condition">за исключением номеров которые выходят на другую сторону осн. здания.</segment>
+		<segment id="54" parent="55" relname="joint">Да и то из за их расположения.</segment>
+		<segment id="58" parent="57" relname="purpose">Отель для очень размеренного отдыха или для отдыха с детьми.</segment>
+		<segment id="60" parent="62" relname="span">Детей очень много возраст примерно от 2до12лет в основном.</segment>
+		<segment id="61" parent="60" relname="elaboration">Очень хороший мини клуб работает практически весь день.</segment>
+		<segment id="63" parent="62" relname="purpose">для взрослых анимация очень слабая.</segment>
+		<segment id="65" parent="67" relname="span">Единственное развлечение вечером это 1 раз в неделю живая музыка 1 раз греческий вечер один раз караоке,</segment>
+		<segment id="66" parent="65" relname="elaboration">в остальные дни шоу аниматоров похожие на деревенский квн,</segment>
+		<segment id="68" parent="74" relname="joint">но их винить не надо,</segment>
+		<segment id="69" parent="71" relname="span">им пишет тексты танцор молдаванин,</segment>
+		<segment id="70" parent="69" relname="interpretation-evaluation">который ничего в этом не смыслит.</segment>
+		<segment id="72" parent="71" relname="elaboration">Питание разнообразное.</segment>
+		<segment id="76" parent="82" relname="span">Очень удобно сделан ресторан в котором проходит обед,</segment>
+		<segment id="77" parent="79" relname="joint">он открытый в виде веранды</segment>
+		<segment id="78" parent="79" relname="joint">.Расположен около бассейна</segment>
+		<segment id="80" parent="81" relname="joint">.Все движение происходит около бассейна и этой веранды.</segment>
+		<segment id="83" parent="82" relname="interpretation-evaluation">Очень хороший сервис.</segment>
+		<segment id="85" parent="87" relname="span">Обслуживание на высоте при очень большом количестве людей,</segment>
+		<segment id="86" parent="85" relname="condition">причем практически весь персонал наши с вами соотечественники.</segment>
+		<segment id="88" parent="92" relname="contrast">Пляж большой,</segment>
+		<segment id="89" parent="91" relname="joint">но, мне кажется, не очень удобный из за того, что он очень растянут</segment>
+		<segment id="90" parent="91" relname="joint">и зонты стоят близко друг к другу.</segment>
+		<segment id="93" parent="95" relname="joint">Не очень удобный заход в правой части скользко,</segment>
+		<segment id="94" parent="95" relname="joint">и были ежи.</segment>
+		<segment id="96" parent="97" relname="contrast">Но это все компенсируется кристальной чистоты водой.</segment>
+		<segment id="100" parent="102" relname="joint">Единственное, хочу сказать, что если вы не будете выезжать из отеля на машине на прокат,</segment>
+		<segment id="101" parent="102" relname="joint">рекомендую или на экскурсии очень далеко и муторно.</segment>
+		<segment id="103" parent="102" relname="interpretation-evaluation">То вы не почувствуете того, что вы были в Греции.</segment>
+		<segment id="105" parent="107" relname="span">Фотки размещаю снятые без людей в 6 утра</segment>
+		<segment id="106" parent="105" relname="cause-effect">.Фото номера -Сюит, для сюит ресторан на втором этаже спец меню.</segment>
+		<segment id="108" parent="112" relname="joint">Пляжные полотенца приносят в номер</segment>
+		<segment id="109" parent="111" relname="span">и убирают два раза в день</segment>
+		<segment id="110" parent="109" relname="elaboration">.P.S.</segment>
+		<segment id="113" parent="115" relname="joint">В бассейн нырять</segment>
+		<segment id="114" parent="115" relname="joint">и прыгать нельзя.</segment>
+		<segment id="116" parent="117" relname="joint">Возьмите спец.обувь на всяк.случай.\n</segment>
+		<group id="59" type="span" parent="124" relname="preparation"/>
+		<group id="57" type="span" parent="59" relname="span"/>
+		<group id="45" type="span" parent="56" relname="preparation"/>
+		<group id="56" type="multinuc" parent="57" relname="span"/>
+		<group id="50" type="multinuc" parent="56" relname="joint"/>
+		<group id="49" type="multinuc" parent="50" relname="contrast"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="53" type="span" parent="55" relname="joint"/>
+		<group id="124" type="span" parent="125" relname="span"/>
+		<group id="64" type="span" parent="123" relname="preparation"/>
+		<group id="62" type="span" parent="64" relname="span"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="75" type="multinuc" parent="122" relname="preparation"/>
+		<group id="67" type="span" parent="75" relname="contrast"/>
+		<group id="74" type="multinuc" parent="75" relname="contrast"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="71" type="span" parent="73" relname="span"/>
+		<group id="122" type="span" parent="123" relname="span"/>
+		<group id="84" type="span" parent="121" relname="preparation"/>
+		<group id="82" type="span" parent="84" relname="span"/>
+		<group id="81" type="multinuc" parent="76" relname="elaboration"/>
+		<group id="79" type="multinuc" parent="81" relname="joint"/>
+		<group id="121" type="multinuc" parent="122" relname="span"/>
+		<group id="99" type="span" parent="121" relname="joint"/>
+		<group id="87" type="span" parent="99" relname="span"/>
+		<group id="98" type="span" parent="87" relname="elaboration"/>
+		<group id="92" type="multinuc" parent="98" relname="span"/>
+		<group id="91" type="multinuc" parent="92" relname="contrast"/>
+		<group id="97" type="multinuc" parent="92" relname="interpretation-evaluation"/>
+		<group id="95" type="multinuc" parent="97" relname="contrast"/>
+		<group id="120" type="span" parent="121" relname="joint"/>
+		<group id="104" type="span" parent="119" relname="solutionhood"/>
+		<group id="102" type="multinuc" parent="104" relname="span"/>
+		<group id="119" type="multinuc" parent="120" relname="span"/>
+		<group id="107" type="span" parent="119" relname="sequence"/>
+		<group id="118" type="multinuc" parent="119" relname="sequence"/>
+		<group id="112" type="multinuc" parent="118" relname="sequence"/>
+		<group id="111" type="span" parent="112" relname="joint"/>
+		<group id="117" type="multinuc" parent="118" relname="sequence"/>
+		<group id="115" type="multinuc" parent="117" relname="joint"/>
+		<group id="125" type="span"/>
+	</body>
+</rst>

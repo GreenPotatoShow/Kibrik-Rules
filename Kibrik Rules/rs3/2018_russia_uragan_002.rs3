@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="94" relname="preparation">МЧС отчиталось о ликвидации последствий двухдневного урагана почти во всех пострадавших регионах\n\</segment>
+		<segment id="34" parent="36" relname="span">nСотрудники МЧС России продолжают ликвидировать последствия сильного урагана,</segment>
+		<segment id="35" parent="34" relname="elaboration">обрушившегося на ряд регионов Приволжской, Центральной и Северо-Западной частей страны.</segment>
+		<segment id="37" parent="39" relname="joint">По данным на утро понедельника, 23 апреля, электроснабжение восстановлено в большинстве из них,</segment>
+		<segment id="38" parent="39" relname="joint">передает сайт ведомства.\n\n\"Восстановлено энергоснабжение на территории 14 субъектов в 71 муниципальном образовании, в 1239 населенных пунктах, более 39380 жилых домов, 4 социально-значимых объектов.</segment>
+		<segment id="40" parent="42" relname="joint">Распилено и убрано 1248 деревьев,</segment>
+		<segment id="41" parent="42" relname="joint">восстановлены кровли 38 жилых домов.</segment>
+		<segment id="43" parent="42" relname="interpretation-evaluation">По состоянию на 06:00 23.04.2018 без энергоснабжения остаются в 5 муниципальных образованиях Тверской области более 80 населенных пунктов, 690 жилых домов\",</segment>
+		<segment id="47" parent="46" relname="attribution">- говорится в сообщении</segment>
+		<segment id="49" parent="52" relname="attribution">.\n\nТАСС передает,</segment>
+		<segment id="50" parent="52" relname="comparison">что по состоянию на 06:00 23 апреля без электроснабжения остаются бытовые потребители 301 населенного пункта,</segment>
+		<segment id="51" parent="52" relname="comparison">это около 5,9 тыс. человек.</segment>
+		<segment id="54" parent="55" relname="attribution">Об этом агентству сообщили в ситуационно-аналитическом центре Минэнерго РФ.\n\nМежду тем \"Интерфакс\" со ссылкой на МЧС передает,</segment>
+		<segment id="55" parent="56" relname="span">что без энергоснабжения остаются всего 290 жителей одного населенного пункта в Тверской области.\n\n</segment>
+		<segment id="58" parent="66" relname="joint">\"В результате проведения аварийно-восстановительных работ после прохождения циклона по состоянию на 6 часов 23 апреля энергоснабжение полностью восстановлено в шести субъектах ЦФО: Владимирская, Ивановская, Смоленская, Московская, Рязанская, Тульская.</segment>
+		<segment id="59" parent="60" relname="condition">Без энергоснабжения</segment>
+		<segment id="60" parent="61" relname="span">остаются 290 жителей одного населенного пункта в Тверской области\",</segment>
+		<segment id="62" parent="64" relname="span">- говорится в сообщении пресс-службы Центрального регионального центра МЧС,</segment>
+		<segment id="63" parent="62" relname="elaboration">которое цитирует агентство.</segment>
+		<segment id="67" parent="70" relname="attribution">По его данным,</segment>
+		<segment id="68" parent="70" relname="joint">подачу электричества в этот поселок спасатели планируют возобновить к полудню 23 апреля.\n\nСайт МЧС сообщает,</segment>
+		<segment id="69" parent="70" relname="joint">что к ликвидации последствий урагана привлекались более 7100 человек и 2200 единиц техники, в том числе от МЧС России - более 1200 человек и 250 единиц техники.\n\nВ понедельник, 23 апреля, аварийно-восстановительные работы будут продолжены.</segment>
+		<segment id="72" parent="73" relname="attribution">При этом синоптики прогнозируют продолжение циклона.\n\nВ частности, отмечается,</segment>
+		<segment id="73" parent="74" relname="span">что ухудшение погоды ожидается в Республике Башкортостан и Татарстане.</segment>
+		<segment id="75" parent="77" relname="span">23 апреля здесь ожидаются порывы ветра до 25 м/с, умеренные и сильные осадки,</segment>
+		<segment id="76" parent="75" relname="attribution">сообщает МЧС со ссылкой на данные Росгидромета и ВЦМП \"Антистихия\".</segment>
+		<segment id="78" parent="88" relname="span">МЧС не исключает возникновения ЧС на системах и объектах ЖКХ в этих регионах.\n\</segment>
+		<segment id="79" parent="81" relname="sequence">nНапомним, ураган обрушился на Центральную часть России в минувшую субботу, 21 апреля.</segment>
+		<segment id="80" parent="81" relname="sequence">Стихия бушевала два дня.</segment>
+		<segment id="82" parent="86" relname="sequence">Порывы ветра местами достигали 25 метров в секунду,</segment>
+		<segment id="83" parent="85" relname="span">кое-где прошел дождь и снег.</segment>
+		<segment id="84" parent="83" relname="background">В Москве стихия привела к человеческим жертвам.\n\nИсточник: https://www.newsru.com/russia/23Apr2018/uragan.html\n</segment>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="48" type="span" parent="94" relname="joint"/>
+		<group id="46" type="span" parent="48" relname="span"/>
+		<group id="36" type="span" parent="46" relname="span"/>
+		<group id="45" type="multinuc" parent="36" relname="elaboration"/>
+		<group id="39" type="multinuc" parent="45" relname="joint"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="42" type="multinuc" parent="44" relname="span"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="57" type="multinuc" parent="93" relname="joint"/>
+		<group id="53" type="span" parent="57" relname="joint"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="66" type="multinuc" parent="92" relname="joint"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="61" type="span" parent="65" relname="span"/>
+		<group id="64" type="span" parent="61" relname="attribution"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="71" type="span" parent="91" relname="joint"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="74" type="span" parent="90" relname="joint"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="77" type="span" parent="89" relname="joint"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="87" type="multinuc" parent="78" relname="elaboration"/>
+		<group id="81" type="multinuc" parent="87" relname="joint"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="85" type="span" parent="86" relname="sequence"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

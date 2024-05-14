@@ -1,0 +1,63 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="28" relname="span">Криштиану Роналду обошел валлийского пожарника в споре за \"Золотую бутсу\"\n\nВряд ли что-то сможет помешать Криштиану Роналду завоевать \"Золотую бутсу\" по итогам текущего сезона,</segment>
+		<segment id="25" parent="27" relname="joint">хотя на данный момент лучшим бомбардиром европейских чемпионатов является нападающий валлийского клуба \"Ланелли\" Рис Гриффитс.\n\nРоналду и Гриффитс отличились на выходных</segment>
+		<segment id="26" parent="27" relname="joint">и продлили свои результативные серии.</segment>
+		<segment id="29" parent="28" relname="elaboration">Португальскому вингеру пришлось перебить пенальти в ворота \"Арсенала\" после того, как его партнеры вбежали в штрафную площадку до удара.</segment>
+		<segment id="31" parent="33" relname="span">Тем не менее, Роналду и во второй раз переиграл Йенса Леманна с \"точки\",</segment>
+		<segment id="32" parent="31" relname="condition">забив свой 28-й мяч в нынешней премьер-лиге.</segment>
+		<segment id="34" parent="40" relname="joint">Этот гол помог \"Манчестер Юнайтед\" одержать победу со счетом 2:1</segment>
+		<segment id="35" parent="39" relname="span">и увеличить собственные шансы на \"золото\".\n\nВ свою очередь, Гриффитс,</segment>
+		<segment id="36" parent="37" relname="condition">который работает пожарным,</segment>
+		<segment id="37" parent="38" relname="span">забил 38-й гол в первенстве Уэльса.</segment>
+		<segment id="41" parent="43" relname="span">Его мяч так и остался единственным в поединке с \"Коннас-Кей\",</segment>
+		<segment id="42" parent="41" relname="elaboration">минимальная победа в котором позволила \"Ланелли\" впервые в истории стать чемпионом страны.</segment>
+		<segment id="44" parent="46" relname="span">К сожалению для Гриффитса,</segment>
+		<segment id="45" parent="44" relname="elaboration">каждый гол приносит ему лишь одно очко в споре за \"Золотую бутсу\",</segment>
+		<segment id="47" parent="46" relname="cause-effect">поскольку первенство Уэльса уступает по уровню ведущим европейским лигам.</segment>
+		<segment id="53" parent="55" relname="joint">Тем не менее, сам форвард пребывает в отличном настроении</segment>
+		<segment id="54" parent="55" relname="joint">и с нетерпением ждет дебюта в Лиге чемпионов,</segment>
+		<segment id="56" parent="58" relname="span">отмечает uefa.com.\n\nВторое место в таблице занимает Ян Хунтелаар,</segment>
+		<segment id="57" parent="56" relname="elaboration">который не смог увеличить свой бомбардирский счет из-за того, что игра \"Аякса\" с \"Гронингеном\" была перенесена.</segment>
+		<segment id="60" parent="66" relname="span">Чуть ниже находится форвард \"Баварии\" Лука Тони, оформивший дубль в воскресном поединке с дортмундской \"Боруссией\" (5:0).</segment>
+		<segment id="61" parent="63" relname="joint">Обладатель \"Золотой бутсы\" прошлого сезона Франческо Тотти с 28 очками занимает лишь 26-е место,</segment>
+		<segment id="62" parent="63" relname="joint">забив 14 голов в серии А.\n\n№\n\nГ О\n1 Криштиану Роналду \"МЮ\" 28 56\n2 Ян Хунтелаар \"Аякс\" 32 48\n3 Луис Фабиано \"Севилья\" 23 46\n4 Фернандо Торрес \"Ливерпуль\" 22 44\n5 Эммануэль Адебайор \"Арсенал\" 20 40\n6 Рис Гриффитс \"Ланелли\" 38 38\n6 Марко Борриелло \"Дженоа\" 19 38\n8 Даниэль Гуиса \"Мальорка\" 18 36\n8 Лука Тони \"Бавария\" 18 36\n10 Давид Трезеге \"Ювентус\" 17 34\n10 Карим Бензема \"Лион\" 17 34\n\nГол в пяти ведущих европейских чемпионатах (Испания, Италия, Германия, Франция и Англия) считается за два.</segment>
+		<segment id="64" parent="63" relname="elaboration">Это сделано в связи с разницей в классе между национальными первенствами разных стран.\n\nИсточник: https://www.newsru.com/sport/15Apr2008/golden.html\n</segment>
+		<group id="52" type="multinuc" parent="68" relname="joint"/>
+		<group id="30" type="span" parent="52" relname="contrast"/>
+		<group id="28" type="span" parent="30" relname="span"/>
+		<group id="27" type="multinuc" parent="24" relname="concession"/>
+		<group id="51" type="span" parent="52" relname="contrast"/>
+		<group id="33" type="span" parent="50" relname="preparation"/>
+		<group id="50" type="multinuc" parent="51" relname="span"/>
+		<group id="40" type="multinuc" parent="50" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="38" type="span" parent="35" relname="elaboration"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="43" type="span" parent="49" relname="span"/>
+		<group id="48" type="span" parent="43" relname="interpretation-evaluation"/>
+		<group id="46" type="span" parent="48" relname="span"/>
+		<group id="67" type="span" parent="68" relname="joint"/>
+		<group id="59" type="span" parent="67" relname="span"/>
+		<group id="55" type="multinuc" parent="59" relname="span"/>
+		<group id="58" type="span" parent="55" relname="elaboration"/>
+		<group id="66" type="span" parent="59" relname="elaboration"/>
+		<group id="65" type="span" parent="60" relname="elaboration"/>
+		<group id="63" type="multinuc" parent="65" relname="span"/>
+		<group id="68" type="multinuc"/>
+	</body>
+</rst>

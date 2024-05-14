@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="94" relname="preparation">ООН подготовила правовую базу для борьбы с терроризмом\n\nСовет Безопасности ООН принял в пятницу вечером резолюцию по борьбе с терроризмом.</segment>
+		<segment id="34" parent="36" relname="span">Единогласно одобренный членами Совета документ призван стать еще одним важным шагом на пути к созданию серьезной правовой базы</segment>
+		<segment id="35" parent="34" relname="purpose">для длительной и всеобъемлющей борьбы с международным терроризмом.</segment>
+		<segment id="37" parent="36" relname="elaboration">Основной упор в нем сделан на ужесточение мер по контролю за финансированием террористов и отмыванием ими денег.</segment>
+		<segment id="39" parent="43" relname="span">В резолюции, в частности, оговорена необходимость для всех государств \"ввести уголовную ответственность за умышленное предоставление или сбор средств, любыми методами, прямо или косвенно, их гражданами или на их территории с намерением\" использовать эти средства</segment>
+		<segment id="40" parent="42" relname="joint">для совершения террористических актов.\n\nГосударства-члены ООН должны также \"безотлагательно заблокировать средства и другие финансовые активы или экономические ресурсы лиц, которые совершают</segment>
+		<segment id="41" parent="42" relname="joint">или пытаются совершить террористические акты\",</segment>
+		<segment id="44" parent="43" relname="attribution">указывается в документе передает ИТАР-ТАСС</segment>
+		<segment id="46" parent="50" relname="joint">.\n\nВместе с этим в нем содержится требование \"отказывать в убежище тем, кто финансирует,</segment>
+		<segment id="47" parent="49" relname="joint">планирует, поддерживает</segment>
+		<segment id="48" parent="49" relname="joint">или совершает террористические акты\".</segment>
+		<segment id="53" parent="54" relname="attribution">Согласно резолюции,</segment>
+		<segment id="54" parent="55" relname="span">все государства должны \"найти возможности активизации и ускорения обмена оперативной информацией, особенно о действиях или передвижении террористов или террористических сетей\".</segment>
+		<segment id="56" parent="63" relname="attribution">Члены Совета считают</segment>
+		<segment id="57" parent="63" relname="joint">также необходимым ужесточить пограничный контроль</segment>
+		<segment id="58" parent="62" relname="span">и более тщательно осуществлять \"фильтрацию\" потоков беженцев и эмигрантов,</segment>
+		<segment id="59" parent="60" relname="purpose">чтобы удостовериться в том, что лица, ищущие убежище,</segment>
+		<segment id="60" parent="61" relname="span">не имеют отношения к террористической деятельности.</segment>
+		<segment id="65" parent="66" relname="purpose">Для установления контроля за выполнением этих и других положений данной резолюции</segment>
+		<segment id="66" parent="67" relname="span">Совет Безопасности постановил учредить комитет, в состав которого войдут представители всех пятнадцати государств-членов СБ ООН.\n\nОдобренная сегодня Советом Безопасности ООН резолюция по борьбе с терроризмом является \"исторической\".</segment>
+		<segment id="70" parent="72" relname="sequence">Такое мнение выразил здесь в беседе с журналистами по окончании официального заседания Совета</segment>
+		<segment id="71" parent="72" relname="sequence">его председатель в этом месяце - постоянный представитель Франции при Объединенных Нациях Жан-Давид Левитт.</segment>
+		<segment id="73" parent="75" relname="span">\"Мы приняли сегодня очень важный и амбициозный документ,</segment>
+		<segment id="74" parent="73" relname="elaboration">который содержит всеобъемлющую стратегию по искоренению всех форм терроризма во всем мире\",</segment>
+		<segment id="76" parent="75" relname="attribution">- подчеркнул он.</segment>
+		<segment id="79" parent="82" relname="attribution">В свою очередь, постоянный представитель США при ООН Джон Негропонте,</segment>
+		<segment id="80" parent="81" relname="attribution">представивший накануне на рассмотрение членов Совета проект данного документа, указал,</segment>
+		<segment id="81" parent="82" relname="span">что \"одобренная сегодня резолюция является беспрецедентной в истории Объединенных Наций\".</segment>
+		<segment id="84" parent="88" relname="span">\"Мы очень признательны членам Совета Безопасности за твердую поддержку данной инициативы,</segment>
+		<segment id="85" parent="87" relname="joint">благодаря которой документ удалось принять единогласно</segment>
+		<segment id="86" parent="87" relname="joint">и без промедлений\",</segment>
+		<segment id="89" parent="88" relname="attribution">- добавил он.\n\nИсточник: https://www.newsru.com/world/29Sep2001/rezoluciaoon.html\n</segment>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="52" type="span" parent="94" relname="joint"/>
+		<group id="38" type="span" parent="52" relname="span"/>
+		<group id="36" type="span" parent="38" relname="span"/>
+		<group id="51" type="multinuc" parent="38" relname="elaboration"/>
+		<group id="45" type="span" parent="51" relname="restatement"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="42" type="multinuc" parent="39" relname="purpose"/>
+		<group id="50" type="multinuc" parent="51" relname="restatement"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="69" type="multinuc" parent="93" relname="joint"/>
+		<group id="55" type="span" parent="69" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="64" type="span" parent="68" relname="span"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="61" type="span" parent="58" relname="purpose"/>
+		<group id="67" type="span" parent="64" relname="purpose"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="78" type="span" parent="92" relname="joint"/>
+		<group id="72" type="multinuc" parent="78" relname="span"/>
+		<group id="77" type="span" parent="72" relname="elaboration"/>
+		<group id="75" type="span" parent="77" relname="span"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="83" type="span" parent="91" relname="joint"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="88" type="span" parent="90" relname="span"/>
+		<group id="87" type="multinuc" parent="84" relname="cause-effect"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

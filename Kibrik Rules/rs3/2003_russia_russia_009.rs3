@@ -1,0 +1,77 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="88" relname="preparation">Из послания Путина:</segment>
+		<segment id="32" parent="34" relname="span">Россия, наконец, стала единой страной,</segment>
+		<segment id="33" parent="32" relname="elaboration">госвласть укрепилась\n\</segment>
+		<segment id="35" parent="37" relname="span">nВ России юридически и фактически восстановлено единство страны,</segment>
+		<segment id="36" parent="35" relname="attribution">заявил в пятницу президент России Владимир Путин в своем ежегодном послании Федеральному Собранию</segment>
+		<segment id="39" parent="40" relname="attribution">.\n\nРезультаты последних трех лет свидетельствуют,</segment>
+		<segment id="40" parent="41" relname="span">что России \"удалось справиться с очень многими проблемами, включая те, которые еще совсем недавно казались просто неразрешимыми\",</segment>
+		<segment id="42" parent="41" relname="attribution">- сказал Путин.\n\n\"Мы, наконец, юридически и фактически восстановили единство страны\",</segment>
+		<segment id="44" parent="43" relname="attribution">- подчеркнул президент.\n\</segment>
+		<segment id="46" parent="51" relname="attribution">nОн пояснил,</segment>
+		<segment id="47" parent="49" relname="joint">что в результате проделанной работы удалось укрепить государственную власть,</segment>
+		<segment id="48" parent="49" relname="joint">приблизить федеральную власть к регионам,</segment>
+		<segment id="50" parent="51" relname="joint">приступить к построению дееспособной, финансово обеспеченной власти на местах,</segment>
+		<segment id="53" parent="52" relname="attribution">передает \"Интерфакс\".\n\</segment>
+		<segment id="55" parent="58" relname="attribution">nПо словам Путина,</segment>
+		<segment id="56" parent="57" relname="condition">\"приняв третью часть Гражданского кодекса,</segment>
+		<segment id="57" parent="58" relname="span">Россия завершила важнейший этап работы по кодификации законодательства\".\n\nРоссия \"серьезно продвинулась в создании реально независимого суда\",</segment>
+		<segment id="60" parent="59" relname="attribution">отметил Путин.</segment>
+		<segment id="62" parent="82" relname="span">Он указал при этом на принятие нового Уголовно-процессуального, Гражданско-процессуального и Арбитражно-процессуального кодексов,</segment>
+		<segment id="63" parent="66" relname="attribution">\"обеспечив дополнительные гарантии прав человека\".\n\nПутин заявил,</segment>
+		<segment id="64" parent="66" relname="span">что \"в стране созданы условия</segment>
+		<segment id="65" parent="64" relname="purpose">для развития полноценного гражданского общества,</segment>
+		<segment id="68" parent="80" relname="joint">в том числе для становления по-настоящему сильных политических партий\".\n\nГлава государства отметил</segment>
+		<segment id="69" parent="71" relname="joint">также существенные продвижения в налоговой, земельной реформах,</segment>
+		<segment id="70" parent="71" relname="joint">первые шаги в военной, пенсионной реформах и реформе жилищно-коммунального хозяйства.\n\nКроме того,</segment>
+		<segment id="72" parent="75" relname="attribution">по словам Путина,</segment>
+		<segment id="73" parent="75" relname="span">за прошедшие годы удалось \"преодолеть абсолютно неприемлемую ситуацию,</segment>
+		<segment id="74" parent="73" relname="elaboration">при которой отдельные российские регионы по сути дела находились вне пределов федеральной юрисдикции\".\n\n\"Верховенство российской Конституции и федеральных законов, как и обязанность платить налоги в общефедеральную казну,</segment>
+		<segment id="77" parent="78" relname="span">стали сегодня нормой жизни для всех регионов Российской Федерации\",</segment>
+		<segment id="83" parent="82" relname="attribution">- подчеркнул президент.\n\nИсточник: https://www.newsru.com/russia/16May2003/russia.html\n</segment>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="38" type="span" parent="87" relname="preparation"/>
+		<group id="34" type="span" parent="38" relname="span"/>
+		<group id="37" type="span" parent="34" relname="background"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="45" type="span" parent="86" relname="preparation"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="41" type="span" parent="43" relname="span"/>
+		<group id="86" type="multinuc" parent="87" relname="span"/>
+		<group id="54" type="span" parent="86" relname="joint"/>
+		<group id="52" type="span" parent="54" relname="span"/>
+		<group id="51" type="multinuc" parent="52" relname="span"/>
+		<group id="49" type="multinuc" parent="51" relname="joint"/>
+		<group id="85" type="span" parent="86" relname="joint"/>
+		<group id="61" type="span" parent="85" relname="span"/>
+		<group id="59" type="span" parent="61" relname="span"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="84" type="span" parent="61" relname="elaboration"/>
+		<group id="82" type="span" parent="84" relname="span"/>
+		<group id="81" type="multinuc" parent="62" relname="purpose"/>
+		<group id="67" type="span" parent="81" relname="joint"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="80" type="multinuc" parent="81" relname="joint"/>
+		<group id="79" type="multinuc" parent="80" relname="joint"/>
+		<group id="71" type="multinuc" parent="79" relname="joint"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="76" type="span" parent="77" relname="cause-effect"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="89" type="span"/>
+	</body>
+</rst>

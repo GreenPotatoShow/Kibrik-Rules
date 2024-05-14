@@ -1,0 +1,61 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="26" relname="span">Путин в Красноярске получает детальную информацию о взрывах в московском метро\n\nПремьер-министр РФ Владимир Путин,</segment>
+		<segment id="25" parent="24" relname="elaboration">который в настоящее время находится в рабочей поездке в Красноярске,</segment>
+		<segment id="27" parent="26" relname="background">проинформирован о взрывах в московском метрополитене.\n\</segment>
+		<segment id="29" parent="34" relname="attribution">nКак сообщил в понедельник пресс-секретарь главы правительства Дмитрий Песков,</segment>
+		<segment id="30" parent="34" relname="joint">премьер получает детальную информацию от правоохранительных органов и социальных служб о ходе работ по оказанию помощи пострадавшим,</segment>
+		<segment id="31" parent="32" relname="attribution">передает ИТАР-ТАСС</segment>
+		<segment id="32" parent="33" relname="span">.\n\n- Медведеву доложили о спасательной операции в метро\n\nВзрывы произошли утром в московском метро на станциях \"Лубянка\" и \"Парк культуры\".</segment>
+		<segment id="37" parent="39" relname="joint">По последним данным, взрывы унесли жизни 35 человек,</segment>
+		<segment id="38" parent="39" relname="joint">еще 37 получили ранения различной степени тяжести.</segment>
+		<segment id="40" parent="43" relname="attribution">По данным МЧС,</segment>
+		<segment id="41" parent="42" relname="cause-effect">в результате взрыва на станции метро \"Лубянка\" погибли 23 человека,</segment>
+		<segment id="42" parent="43" relname="span">20 получили ранения.</segment>
+		<segment id="45" parent="48" relname="cause-effect">Взрыв произошел в 7:56.</segment>
+		<segment id="46" parent="48" relname="joint">В результате взрыва на станции метро \"Парк культуры\" (радиальная) погибли 12 человек,</segment>
+		<segment id="47" parent="48" relname="joint">15 получили ранения.</segment>
+		<segment id="50" parent="51" relname="joint">Взрыв прогремел в 8:40.\n\</segment>
+		<segment id="52" parent="53" relname="attribution">nКак отметил прокурор Москвы Юрий Семин,</segment>
+		<segment id="53" parent="54" relname="span">говорить об окончательном числе пострадавших пока преждевременно.</segment>
+		<segment id="55" parent="56" relname="joint">Раненые эвакуированы в различные медицинские учреждения столицы.\n\nВозбуждено уголовное дело по статье 205 УК РФ \"Терроризм\".</segment>
+		<segment id="57" parent="61" relname="sequence">Генпрокурор Юрий Чайка взял под личный контроль расследование уголовного дела.</segment>
+		<segment id="58" parent="60" relname="span">Директор ФСБ Александр Бортников доложил президенту РФ Дмитрию Медведеву о</segment>
+		<segment id="59" parent="58" relname="background">случившемся в понедельник утром в московском метро,</segment>
+		<segment id="62" parent="61" relname="attribution">сообщила пресс-служба Кремля.\n\nИсточник: https://www.newsru.com/russia/29Mar2010/putin.html\n</segment>
+		<group id="36" type="multinuc" parent="68" relname="joint"/>
+		<group id="28" type="span" parent="36" relname="joint"/>
+		<group id="26" type="span" parent="28" relname="span"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="34" type="multinuc" parent="35" relname="span"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="39" type="multinuc" parent="67" relname="joint"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="44" type="span" parent="66" relname="sequence"/>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="65" type="multinuc" parent="66" relname="sequence"/>
+		<group id="51" type="multinuc" parent="65" relname="joint"/>
+		<group id="49" type="span" parent="51" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="56" type="multinuc" parent="64" relname="sequence"/>
+		<group id="54" type="span" parent="56" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="sequence"/>
+		<group id="61" type="multinuc" parent="63" relname="span"/>
+		<group id="60" type="span" parent="61" relname="sequence"/>
+		<group id="68" type="multinuc"/>
+	</body>
+</rst>

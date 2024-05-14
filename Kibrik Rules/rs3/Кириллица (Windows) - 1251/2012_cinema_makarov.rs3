@@ -1,0 +1,50 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="22" relname="joint">Актер Алексей Макаров пострадал на съемках \"Трех мушкетеров\" от взорвавшейся бутылки\n\nАктер Алексей Макаров,</segment>
+		<segment id="21" parent="22" relname="joint">снимающийся в роли Портоса в новом восьмисерийном фильме режиссера и продюсера Сергея Жигунова \"Три мушкетера\",</segment>
+		<segment id="23" parent="24" relname="span">получил травму на съемочной площадке,</segment>
+		<segment id="25" parent="29" relname="span">сообщает \"Фонтанка\".\n\nПо сценарию, мушкетеры</segment>
+		<segment id="28" parent="25" relname="elaboration">(Д'Артаньян - 22-летний актер \"Седьмой студии\" Кирилла Серебренникова Риналь Мухаметов, Арамис - Павел Баршак, Атос - Юрий Чурсин и Портос - Алексей Макаров) завтракали во время осады бастиона Сен-Жерве, \"выстроенного\" под Петергофом.</segment>
+		<segment id="31" parent="37" relname="span">Бутылки, из которых мушкетеры прихлебывали вино, должны были разлетаться в их руках от вражеских пуль.\n\nИзвестный эффектный каскадерский трюк,</segment>
+		<segment id="32" parent="36" relname="span">когда в винную бутылку кладут пулевые \"подсадки\",</segment>
+		<segment id="33" parent="34" relname="cause-effect">из-за которых потом емкость разлетается на осколки,</segment>
+		<segment id="34" parent="35" relname="span">обычно проходит без накладок.</segment>
+		<segment id="38" parent="42" relname="span">Но на этот раз произошла досадная ошибка</segment>
+		<segment id="39" parent="40" relname="cause-effect">- актер Алексей Макаров слишком близко поднес бутылку к лицу,</segment>
+		<segment id="40" parent="41" relname="span">в результате чего осколки его повредили.</segment>
+		<segment id="43" parent="45" relname="span">К счастью, глаза артиста были защищены широкополой шляпой.\n\nВрачи,</segment>
+		<segment id="44" parent="43" relname="background">дежурившие на площадке, оказали артисту первую помощь,</segment>
+		<segment id="46" parent="47" relname="contrast">однако на лице Макарова остались царапины и шрамы.\n\</segment>
+		<segment id="48" parent="52" relname="joint">nУзнав о происшествии, супруга Алексея Макарова, актриса Мария Миронова, снимающаяся в \"Трех мушкетерах\" в роли королевы Анны, срочно вылетела в Санкт-Петербург.\n\nВ \"Трех мушкетерах\" Жигунова снимается настоящий звездный десант:</segment>
+		<segment id="49" parent="51" relname="span">короля играет Филипп Янковский,</segment>
+		<segment id="50" parent="49" relname="elaboration">Миледи - Екатерина Вилкова, а герцога Бекингема - Константин Лавроненко.\n\nИсточник: https://www.newsru.com/cinema/22Aug2012/makarov.html\n</segment>
+		<group id="30" type="multinuc" parent="56" relname="joint"/>
+		<group id="24" type="span" parent="30" relname="joint"/>
+		<group id="22" type="multinuc" parent="23" relname="cause-effect"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="37" type="span" parent="55" relname="contrast"/>
+		<group id="36" type="span" parent="31" relname="elaboration"/>
+		<group id="35" type="span" parent="32" relname="elaboration"/>
+		<group id="54" type="multinuc" parent="55" relname="contrast"/>
+		<group id="42" type="span" parent="54" relname="joint"/>
+		<group id="41" type="span" parent="38" relname="cause-effect"/>
+		<group id="53" type="multinuc" parent="54" relname="joint"/>
+		<group id="47" type="multinuc" parent="53" relname="joint"/>
+		<group id="45" type="span" parent="47" relname="contrast"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="56" type="multinuc"/>
+	</body>
+</rst>

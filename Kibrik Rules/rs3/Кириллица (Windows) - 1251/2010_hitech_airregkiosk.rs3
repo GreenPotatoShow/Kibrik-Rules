@@ -1,0 +1,86 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="36" relname="joint">В российских аэропортах скоро можно будет зарегистрироваться на рейс</segment>
+		<segment id="35" parent="36" relname="joint">и получить посадочный талон</segment>
+		<segment id="37" parent="36" relname="condition">с помощью мобильника\n\</segment>
+		<segment id="39" parent="43" relname="span">nАвиакомпания Sky Express первой в России планирует оснастить аэропорты киосками,</segment>
+		<segment id="40" parent="42" relname="joint">с помощью которых можно будет зарегистрироваться на рейс</segment>
+		<segment id="41" parent="42" relname="joint">и получить посадочный талон по штрих-коду с мобильного телефона.</segment>
+		<segment id="44" parent="46" relname="span">До сих пор эта технология использовалась только за рубежом,</segment>
+		<segment id="45" parent="44" relname="attribution">сообщает CNews.ru.\n\</segment>
+		<segment id="48" parent="49" relname="purpose">nДля регистрации</segment>
+		<segment id="49" parent="50" relname="span">нужно будет поднести телефон с отображенным на экране штрих-кодом к вмонтированному в киоск сканеру.</segment>
+		<segment id="51" parent="50" relname="elaboration">Посадочный талон будет распечатан автоматически.\n\</segment>
+		<segment id="53" parent="57" relname="span">nПосле покупки билета на сайте авиакомпании штрих-код на телефон можно будет получить в MMS-сообщении или SMS, содержащем ссылку на веб-страницу со штрих-кодом.</segment>
+		<segment id="54" parent="56" relname="span">В качестве дополнительной опции, которую прорабатывала компания - возможность получить штрих-код,</segment>
+		<segment id="55" parent="54" relname="condition">сфотографировав его со стороннего носителя.\n\</segment>
+		<segment id="58" parent="62" relname="joint">nНапример, спецпредложение авиакомпании может быть напечатано на концертной афише</segment>
+		<segment id="59" parent="61" relname="comparison">и предлагать со скидкой билет в город,</segment>
+		<segment id="60" parent="61" relname="comparison">где будет проходить концерт.</segment>
+		<segment id="63" parent="69" relname="sequence">Пассажир фотографирует штрих-код с афиши на свой мобильный телефон,</segment>
+		<segment id="64" parent="66" relname="span">а потом подносит получившееся изображение к сканеру</segment>
+		<segment id="65" parent="64" relname="condition">при покупке билета</segment>
+		<segment id="67" parent="68" relname="sequence">и получает скидку.\n\nПервый \"пилотный\" киоск будет установлен в аэропорту \"Внуково\" в конце лета.</segment>
+		<segment id="71" parent="77" relname="span">После установки аппарата с его помощью можно будет зарегистрироваться на все рейсы авиакомпании из этого аэропорта.\n\nПосле завершения тестирования планируется установить еще 3-4 таких киоска в Москве.</segment>
+		<segment id="72" parent="76" relname="joint">Один из них будет находиться в городе, вне аэропорта, и 10-12 в базовых региональных аэропортах компании.</segment>
+		<segment id="73" parent="75" relname="span">Дальнейшее оснащение аэропортов терминалами будет зависеть от спроса.\n\nКонкуренты компании движутся в том же направлении,</segment>
+		<segment id="74" parent="73" relname="attribution">отмечает издание.</segment>
+		<segment id="78" parent="82" relname="span">S7 Airlines предложит своим пассажирам такую же услугу осенью 2010 года.</segment>
+		<segment id="79" parent="81" relname="joint">Сканерами, считывающими мобильный штрих-код,</segment>
+		<segment id="80" parent="81" relname="joint">бывшая \"Сибирь\" планирует оснастить не только киоски, но и стойки регистрации компании.</segment>
+		<segment id="83" parent="88" relname="attribution">Начать S7 собирается с аэропорта \"Домодедово\".\n\nПредставители авиакомпаний, однако, признают,</segment>
+		<segment id="84" parent="88" relname="span">что для перехода к \"безбумажному\" авиаперелету потребуются годы,</segment>
+		<segment id="85" parent="87" relname="joint">поскольку российские пассажиры пока неохотно пользуются подобными нововведениями,</segment>
+		<segment id="86" parent="87" relname="joint">а многие аэропорты технологически не готовы к переходу на безбумажный режим.</segment>
+		<segment id="90" parent="91" relname="joint">Кроме того, посадочный талон все еще является документом строгой отчетности.\n\nИсточник: https://www.newsru.com/hitech/22Jul2010/airregkiosk.html\n</segment>
+		<group id="38" type="span" parent="97" relname="preparation"/>
+		<group id="36" type="multinuc" parent="38" relname="span"/>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="47" type="span" parent="97" relname="joint"/>
+		<group id="43" type="span" parent="47" relname="span"/>
+		<group id="42" type="multinuc" parent="39" relname="purpose"/>
+		<group id="46" type="span" parent="43" relname="background"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="52" type="span" parent="96" relname="joint"/>
+		<group id="50" type="span" parent="52" relname="span"/>
+		<group id="95" type="span" parent="96" relname="joint"/>
+		<group id="57" type="span" parent="95" relname="span"/>
+		<group id="56" type="span" parent="53" relname="elaboration"/>
+		<group id="94" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="70" type="multinuc" parent="94" relname="joint"/>
+		<group id="62" type="multinuc" parent="70" relname="joint"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="68" type="multinuc" parent="69" relname="sequence"/>
+		<group id="66" type="span" parent="68" relname="sequence"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="77" type="span" parent="93" relname="joint"/>
+		<group id="76" type="multinuc" parent="71" relname="elaboration"/>
+		<group id="75" type="span" parent="76" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="82" type="span" parent="92" relname="joint"/>
+		<group id="81" type="multinuc" parent="78" relname="elaboration"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="89" type="span" parent="91" relname="joint"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="87" type="multinuc" parent="84" relname="cause-effect"/>
+		<group id="98" type="span"/>
+	</body>
+</rst>

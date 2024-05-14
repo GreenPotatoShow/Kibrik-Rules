@@ -1,0 +1,59 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="23" relname="span">Владелец \"Из руки в руки\" и job.ru решил закрыть бизнес в России\n\nИздательский дом \"Пронто Медиа\",</segment>
+		<segment id="22" parent="21" relname="elaboration">главными активами которого были газета бесплатных объявлений \"Из рук в руки\" и интернет-ресурсы IRR.ru и JOB.ru,</segment>
+		<segment id="24" parent="26" relname="span">закрывает свои диджитал-проекты</segment>
+		<segment id="25" parent="24" relname="cause-effect">из-за чрезмерных убытков.</segment>
+		<segment id="28" parent="34" relname="span">Об этом объявила голландская компания Trader Media East,</segment>
+		<segment id="29" parent="33" relname="same-unit">которой принадлежит \"Пронто Медиа\".\n\nКак пояснили в компании,</segment>
+		<segment id="30" parent="32" relname="comparison">к концу сентября чистый убыток Trader Media East составил 19,6 млн долларов</segment>
+		<segment id="31" parent="32" relname="comparison">при выручке в 5,8 млн долларов.</segment>
+		<segment id="36" parent="38" relname="span">При этом большая часть убытка была обусловлена именно деятельностью \"Пронто Медиа\",</segment>
+		<segment id="37" parent="36" relname="background">основанного в 1992 году.</segment>
+		<segment id="40" parent="54" relname="joint">Спустя 13 лет газета \"Из рук в руки\" перестала выходить в Москве,</segment>
+		<segment id="41" parent="43" relname="span">а в других российских регионах ее издавать стали партнеры издательского дома.\n\nБывший директор \"Пронто Медиа\" Николас Дадиани,</segment>
+		<segment id="42" parent="41" relname="background">возглавлявший холдинг с 2014-го по 2016 год,</segment>
+		<segment id="44" parent="49" relname="attribution">в разговоре с РБК заявил,</segment>
+		<segment id="45" parent="49" relname="joint">что владелец издательского дома после запуска двух интернет-проектов не поверил в их потенциал</segment>
+		<segment id="46" parent="48" relname="joint">и попытался продвигать их малой кровью,</segment>
+		<segment id="47" parent="48" relname="joint">оптимизируя бизнес.\n\n\"В последнее время бизнес интернет-ресурсов \"Пронто Медиа\" сжимался - и с точки зрения аудитории, и по числу размещенных там объявлений.</segment>
+		<segment id="51" parent="50" relname="interpretation-evaluation">Видимо, это и привело к решению закрыть бизнес\",</segment>
+		<segment id="55" parent="57" relname="contrast">- объяснил он.\n\nВ октябре 2015 года всероссийская ежедневная аудитория сайта IRR.ru на десктопах равнялась 284 тысячам человек в возрасте от 12 до 64 лет, а JOB.ru - 151 тысяче.</segment>
+		<segment id="56" parent="57" relname="contrast">Однако спустя два года эти показатели равнялись 86 тысячам и 42 тысячам человек соответственно.\n\nИсточник: https://www.newsru.com/russia/23Nov2017/jobru.html\n</segment>
+		<group id="39" type="span" parent="58" relname="preparation"/>
+		<group id="35" type="span" parent="39" relname="span"/>
+		<group id="27" type="multinuc" parent="35" relname="span"/>
+		<group id="23" type="span" parent="27" relname="same-unit"/>
+		<group id="26" type="span" parent="27" relname="same-unit"/>
+		<group id="34" type="span" parent="27" relname="attribution"/>
+		<group id="33" type="multinuc" parent="28" relname="elaboration"/>
+		<group id="32" type="multinuc" parent="33" relname="same-unit"/>
+		<group id="38" type="span" parent="35" relname="background"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="54" type="multinuc" parent="58" relname="comparison"/>
+		<group id="53" type="multinuc" parent="54" relname="joint"/>
+		<group id="43" type="span" parent="53" relname="joint"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="50" type="span" parent="52" relname="span"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="comparison"/>
+		<group id="59" type="span"/>
+	</body>
+</rst>

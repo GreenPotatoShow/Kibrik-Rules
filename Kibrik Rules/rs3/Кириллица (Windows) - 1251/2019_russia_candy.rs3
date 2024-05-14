@@ -1,0 +1,115 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="47" parent="53" relname="span">Пожар на одном из танкеров в Черном море,</segment>
+		<segment id="48" parent="52" relname="joint">горевших более месяца,</segment>
+		<segment id="49" parent="50" relname="cause-effect">ликвидирован\n\nПожар на иностранном танкере \"Канди\", горевшем в Черном море у берегов Крыма больше месяца,</segment>
+		<segment id="50" parent="51" relname="span">полностью ликвидирован.</segment>
+		<segment id="54" parent="53" relname="elaboration">Горение второго судна \"Маэстро\" пока продолжается.\n\n</segment>
+		<segment id="56" parent="64" relname="span">\"Судовладелец прислал четырех сотрудников.</segment>
+		<segment id="57" parent="63" relname="joint">Они на катере были доставлены на горящий пароход.</segment>
+		<segment id="58" parent="62" relname="joint">Осмотрели его</segment>
+		<segment id="59" parent="61" relname="sequence">и убедились, что есть возможность перекрыть доступ газа,</segment>
+		<segment id="60" parent="61" relname="sequence">после чего перекрыли вентиль.</segment>
+		<segment id="65" parent="67" relname="span">Так что на танкере-газовозе \"Канди\" сейчас пожар не продолжается.</segment>
+		<segment id="66" parent="65" relname="elaboration">На танкере \"Маэстро\" еще есть один небольшой очаг\",</segment>
+		<segment id="68" parent="67" relname="attribution">- рассказали РИА \"Новости\" в пресс-службе Росморречфлота.</segment>
+		<segment id="71" parent="73" relname="span">Обследованием судна займутся представители судовладельца.\n\nВладелец сгоревших в Черном море танкеров намерен утилизировать их за границей,</segment>
+		<segment id="72" parent="71" relname="attribution">сообщает ТАСС.</segment>
+		<segment id="76" parent="78" relname="span">Он отбуксирует судна за пределы России</segment>
+		<segment id="77" parent="76" relname="purpose">для утилизации</segment>
+		<segment id="79" parent="80" relname="same-unit">после окончательного прекращения пожара на последнем из них.\n\n\"Там [на танкере \"Маэстро\"] еще сохраняется остаточное горение</segment>
+		<segment id="81" parent="85" relname="span">- один очаг в районе мачты низкого давления,</segment>
+		<segment id="82" parent="84" relname="span">это явно остаточная ситуация,</segment>
+		<segment id="83" parent="82" relname="elaboration">которая большой проблемы не представляет\",</segment>
+		<segment id="87" parent="90" relname="attribution">- уточнил представитель Росморречфлота.\n\nОн отметил,</segment>
+		<segment id="88" parent="90" relname="joint">что в районе танкеров находится спасательное судно \"Демидов\" которое наблюдает за судами</segment>
+		<segment id="89" parent="90" relname="joint">и не участвует в других действиях, связанных с танкерами.\n\nТанкеры \"Канди\" и \"Маэстро\" под флагом Танзании загорелись 21 января в районе Керченского пролива за пределами территориальных вод РФ.</segment>
+		<segment id="93" parent="94" relname="attribution">По предварительным данным,</segment>
+		<segment id="94" parent="95" relname="span">пожар начался во время перегрузки топлива с одного судна на другое.</segment>
+		<segment id="96" parent="106" relname="span">В этот момент оба танкера встали на нелегальную якорную стоянку в нейтральных водах.</segment>
+		<segment id="97" parent="99" relname="joint">Предположительно, танкеры работали с топливом по \"серому\"</segment>
+		<segment id="98" parent="99" relname="joint">и, возможно, нарушили технику безопасности.\n\nЭкипаж двух судов состоял из 32 моряков - граждан Индии и Турции.</segment>
+		<segment id="100" parent="104" relname="joint">Удалось спасти у 12 человек,</segment>
+		<segment id="101" parent="103" relname="joint">около десяти моряков погибли</segment>
+		<segment id="102" parent="103" relname="joint">- их тела найдены.</segment>
+		<segment id="107" parent="109" relname="span">Еще десять человек числятся пропавшими без вести,</segment>
+		<segment id="108" parent="107" relname="concession">хотя некоторые из них могли сгореть в огне,</segment>
+		<segment id="110" parent="114" relname="span">а другие утонули,</segment>
+		<segment id="111" parent="112" relname="cause-effect">так как не имели спасательных жилетов.\n\nВ Росморречфлоте ранее сообщали агентству,</segment>
+		<segment id="112" parent="113" relname="span">что транспортировка танкеров будет возможна после полного выгорания топлива и обследования судов.\n\</segment>
+		<segment id="116" parent="121" relname="attribution">nПо некоторым данным,</segment>
+		<segment id="117" parent="121" relname="contrast">оба загоревшихся танкера занимались незаконной перевозкой газа из Крыма в Сирию и Ливан,</segment>
+		<segment id="118" parent="120" relname="span">а принадлежат эти суда турецкой компании Milenyum Denizcilik Gemi,</segment>
+		<segment id="119" parent="118" relname="background">которая также находится в санкционном перечне США.</segment>
+		<segment id="123" parent="124" relname="joint">Танкеры попали в американский черный список.\n\nРоссийские следователи возбудили по факту пожара уголовное дело по статье 109 (\"Причинение смерти по неосторожности двум и более лицам\") УК РФ.</segment>
+		<segment id="125" parent="131" relname="joint">Пострадавших и тела погибших моряков вечером 22 января доставили в Керчь.</segment>
+		<segment id="126" parent="130" relname="span">Спасенные госпитализированы,</segment>
+		<segment id="127" parent="129" relname="span">угрозы для их жизни нет.</segment>
+		<segment id="128" parent="127" relname="elaboration">Все погибшие опознаны.\n\nИсточник: https://www.newsru.com/russia/01Mar2019/candy.html\n</segment>
+		<group id="75" type="multinuc" parent="137" relname="joint"/>
+		<group id="55" type="span" parent="75" relname="joint"/>
+		<group id="53" type="span" parent="55" relname="span"/>
+		<group id="52" type="multinuc" parent="47" relname="elaboration"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="70" type="span" parent="74" relname="joint"/>
+		<group id="64" type="span" parent="70" relname="span"/>
+		<group id="63" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="69" type="span" parent="64" relname="evidence"/>
+		<group id="67" type="span" parent="69" relname="span"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="136" type="multinuc" parent="137" relname="joint"/>
+		<group id="92" type="multinuc" parent="136" relname="joint"/>
+		<group id="86" type="span" parent="92" relname="joint"/>
+		<group id="80" type="multinuc" parent="86" relname="span"/>
+		<group id="78" type="span" parent="80" relname="same-unit"/>
+		<group id="85" type="span" parent="80" relname="cause-effect"/>
+		<group id="84" type="span" parent="81" relname="interpretation-evaluation"/>
+		<group id="91" type="span" parent="92" relname="joint"/>
+		<group id="90" type="multinuc" parent="91" relname="span"/>
+		<group id="135" type="span" parent="136" relname="joint"/>
+		<group id="95" type="span" parent="134" relname="preparation"/>
+		<group id="134" type="multinuc" parent="135" relname="span"/>
+		<group id="106" type="span" parent="134" relname="joint"/>
+		<group id="105" type="span" parent="96" relname="elaboration"/>
+		<group id="99" type="multinuc" parent="105" relname="span"/>
+		<group id="104" type="multinuc" parent="99" relname="elaboration"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="133" type="multinuc" parent="134" relname="joint"/>
+		<group id="115" type="multinuc" parent="133" relname="joint"/>
+		<group id="109" type="span" parent="115" relname="joint"/>
+		<group id="114" type="span" parent="115" relname="joint"/>
+		<group id="113" type="span" parent="110" relname="cause-effect"/>
+		<group id="132" type="multinuc" parent="133" relname="joint"/>
+		<group id="124" type="multinuc" parent="132" relname="joint"/>
+		<group id="122" type="span" parent="124" relname="joint"/>
+		<group id="121" type="multinuc" parent="122" relname="span"/>
+		<group id="120" type="span" parent="121" relname="contrast"/>
+		<group id="131" type="multinuc" parent="132" relname="joint"/>
+		<group id="130" type="span" parent="131" relname="joint"/>
+		<group id="129" type="span" parent="126" relname="elaboration"/>
+		<group id="137" type="multinuc"/>
+	</body>
+</rst>

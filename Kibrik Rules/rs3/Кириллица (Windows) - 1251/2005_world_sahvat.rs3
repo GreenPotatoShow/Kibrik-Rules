@@ -1,0 +1,53 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="22" relname="span">У острова Корсика французский спецназ захватил угнанный профсоюзными активистами сухогруз\n\nСухогруз Pascal Paoli (\"Паскаль Паоли\"),</segment>
+		<segment id="21" parent="20" relname="background">находившийся на рейде порта Бастия на французском острове Корсика,</segment>
+		<segment id="23" parent="25" relname="joint">в среду утром взят под контроль французскими десантниками</segment>
+		<segment id="24" parent="25" relname="joint">и направляется обратно в Марсель,</segment>
+		<segment id="27" parent="33" relname="joint">откуда накануне судно было угнано захватившими его забастовщиками из числа профсоюзных активистов.\n\nОб этом передают с места событий корреспонденты французских СМИ,</segment>
+		<segment id="28" parent="32" relname="span">сообщает РИА \"Новости\".\n\nВ Париже в средства массовой информации поступило заявление министра внутренних дел Франции Никола Саркози,</segment>
+		<segment id="31" parent="28" relname="elaboration">который поблагодарил спецназ национальной жандармерии за \"быструю и эффективную операцию\", позволившую \"безо всякого насилия взять под контроль незаконно захваченное судно\".\n\nПо сообщениям из Бастии, в высадке десанта участвовало около 50 спецназовцев и морских командос.</segment>
+		<segment id="35" parent="37" relname="contrast">Около половины девятого утра находившийся на рейде сухогруз сделал попытку войти в акваторию порта,</segment>
+		<segment id="36" parent="37" relname="contrast">однако путь ему перегородил военный катер.</segment>
+		<segment id="39" parent="43" relname="span">В это самое время к сухогрузу на низкой высоте подошли пять вертолетов,</segment>
+		<segment id="40" parent="42" relname="sequence">с которых на палубу при помощи специальных тросов высадились десантники.\n\nНесколько минут спустя Pascal Paoli был остановлен примерно в километре от берега,</segment>
+		<segment id="41" parent="42" relname="sequence">а еще через полчаса взял курс на континент.\n\nСудно, принадлежащее компании Societe Nationale Corse-Mediterranee (SNCM),</segment>
+		<segment id="44" parent="45" relname="span">было захвачено во вторник группой забастовщиков из числа активистов Профсоюза корсиканских трудящихся (STC).</segment>
+		<segment id="46" parent="48" relname="contrast">Около 30 человек в масках,</segment>
+		<segment id="47" parent="48" relname="contrast">но без оружия проникли на борт сухогруза и угрозами заставили его экипаж взять курс на Корсику.\n\</segment>
+		<segment id="49" parent="52" relname="attribution">nПо словам представителя профсоюза,</segment>
+		<segment id="50" parent="52" relname="span">эта акция была устроена</segment>
+		<segment id="51" parent="50" relname="cause-effect">в знак протеста против намерения французских властей приватизировать судоходную компанию SNCM.\n\nИсточник: https://www.newsru.com/world/28Sep2005/sahvat.html\n</segment>
+		<group id="38" type="multinuc" parent="56" relname="joint"/>
+		<group id="34" type="span" parent="38" relname="sequence"/>
+		<group id="26" type="span" parent="34" relname="span"/>
+		<group id="22" type="span" parent="26" relname="span"/>
+		<group id="25" type="multinuc" parent="22" relname="elaboration"/>
+		<group id="33" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="32" type="span" parent="33" relname="joint"/>
+		<group id="37" type="multinuc" parent="38" relname="sequence"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="45" type="span" parent="55" relname="joint"/>
+		<group id="43" type="span" parent="44" relname="cause-effect"/>
+		<group id="42" type="multinuc" parent="39" relname="elaboration"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="48" type="multinuc" parent="54" relname="comparison"/>
+		<group id="53" type="span" parent="54" relname="comparison"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="56" type="multinuc"/>
+	</body>
+</rst>

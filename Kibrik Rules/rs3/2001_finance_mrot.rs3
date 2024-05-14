@@ -1,0 +1,61 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="25" relname="span">МРОТ сейчас нельзя повышать до прожиточного минимума\n\nДальнейшие шаги по повышению минимального размера оплаты труда (МРОТ) будут возможны только в 2003 году,</segment>
+		<segment id="24" parent="23" relname="attribution">передает РИА \"Новости\" со ссылкой на министра труда и социального развития России Александра Починка.\n\nМинистр сообщил,</segment>
+		<segment id="26" parent="30" relname="span">что правительство не поддерживает радикальное предложение некоторых депутатов Госдумы о резком увеличении МРОТ до уровня прожиточного минимума,</segment>
+		<segment id="27" parent="29" relname="span">поскольку это приведет к скачку инфляции,</segment>
+		<segment id="28" parent="27" relname="elaboration">который сделает бессмысленным такое увеличение.\n\</segment>
+		<segment id="32" parent="34" relname="span">nВ принципе правительство согласно с необходимостью доведения МРОТ до уровня прожиточного минимума,</segment>
+		<segment id="33" parent="32" relname="attribution">сообщил он,</segment>
+		<segment id="35" parent="36" relname="contrast">но увеличение это нужно проводить постепенно.\n\</segment>
+		<segment id="38" parent="41" relname="attribution">nОн напомнил,</segment>
+		<segment id="39" parent="40" relname="cause-effect">что уже принято решение об увеличении с 1 декабря текущего года ставки первого разряда единой тарифной сетки оплаты труда до 450 рублей,</segment>
+		<segment id="40" parent="41" relname="span">что увеличит зарплату бюджетников почти вдвое.</segment>
+		<segment id="43" parent="42" relname="elaboration">На это увеличение в бюджете-2002 выделено 200 млрд. рублей.</segment>
+		<segment id="45" parent="55" relname="joint">Кроме того, с 1 июля следующего года повышается заработная плата военным и работникам правоохранительных органов</segment>
+		<segment id="46" parent="51" relname="attribution">.\n\nПочинок подчеркнул,</segment>
+		<segment id="47" parent="51" relname="joint">что только после прохождения этих двух пиков роста расходов,</segment>
+		<segment id="48" parent="49" relname="condition">убедившись, что бюджеты всех уровней с этим справляются,</segment>
+		<segment id="49" parent="50" relname="span">можно планировать дальнейшие шаги по увеличению МРОТ.</segment>
+		<segment id="53" parent="54" relname="span">Он указал несколько путей возможного повышения.</segment>
+		<segment id="56" parent="58" relname="joint">Во-первых, одним из путей может стать придание с 2003 года единой тарифной сетке оплаты труда рекомендательного характера,</segment>
+		<segment id="57" parent="58" relname="joint">и регионы тогда смогут самостоятельно устанавливать свои более высокие ставки.</segment>
+		<segment id="59" parent="61" relname="span">Другой путь - заключение отраслевых тарифных соглашений, в которых устанавливается более высокий МРОТ.</segment>
+		<segment id="60" parent="59" relname="elaboration">В качестве положительного примера Починок привел тарифное соглашение в металлургии.\n\nИсточник: https://www.newsru.com/finance/12Oct2001/mrot.html\n</segment>
+		<group id="37" type="multinuc" parent="65" relname="joint"/>
+		<group id="31" type="span" parent="37" relname="comparison"/>
+		<group id="25" type="span" parent="30" relname="attribution"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="29" type="span" parent="26" relname="cause-effect"/>
+		<group id="36" type="multinuc" parent="37" relname="comparison"/>
+		<group id="34" type="span" parent="36" relname="contrast"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="44" type="span" parent="64" relname="joint"/>
+		<group id="42" type="span" parent="44" relname="span"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="55" type="multinuc" parent="63" relname="span"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="52" type="span" parent="53" relname="cause-effect"/>
+		<group id="51" type="multinuc" parent="52" relname="span"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="62" type="multinuc" parent="55" relname="elaboration"/>
+		<group id="58" type="multinuc" parent="62" relname="comparison"/>
+		<group id="61" type="span" parent="62" relname="comparison"/>
+		<group id="65" type="multinuc"/>
+	</body>
+</rst>

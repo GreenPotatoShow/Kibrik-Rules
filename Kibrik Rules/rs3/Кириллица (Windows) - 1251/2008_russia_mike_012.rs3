@@ -1,0 +1,226 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="104" parent="105" relname="attribution">Прокуратура считает,</segment>
+		<segment id="105" parent="106" relname="span">что Ходорковский не достоин УДО,</segment>
+		<segment id="107" parent="112" relname="cause-effect">поскольку не раскаялся\n\nПредставитель прокуратуры считает</segment>
+		<segment id="108" parent="112" relname="span">постановление Ингодинского районного суда города Читы на отказ экс-главе НК ЮКОС Михаилу Ходорковскому в условно-досрочном освобождении (УДО) законным и обоснованным,</segment>
+		<segment id="111" parent="108" relname="cause-effect">поскольку он, по мнению прокуратуры, не исправился.</segment>
+		<segment id="115" parent="116" relname="span">В связи с этим прокуратура ходатайствовала перед коллегией Читинского областного суда отказать в кассационной жалобе адвокатов осужденного.\n\n</segment>
+		<segment id="117" parent="121" relname="span">\"Основанием для отказа в УДО считается то, что Ходорковский не исправился.</segment>
+		<segment id="118" parent="120" relname="joint">Он доказывает свою невиновность</segment>
+		<segment id="119" parent="120" relname="joint">и ни на одном судебном заседании он не раскаялся в совершении преступлений\",</segment>
+		<segment id="122" parent="124" relname="span">- заявила прокурор Кириенко в четверг на заседании Читинского областного суда,</segment>
+		<segment id="123" parent="122" relname="background">где рассматривалась кассация адвокатов на отказ Ходорковскому в УДО,</segment>
+		<segment id="125" parent="124" relname="attribution">сообщает \"Интерфакс\".\n\</segment>
+		<segment id="128" parent="131" relname="attribution">nПо ее словам,</segment>
+		<segment id="129" parent="131" relname="span">раскаяние заключенного является обязательным условием</segment>
+		<segment id="130" parent="129" relname="purpose">для его условно-досрочного освобождения.</segment>
+		<segment id="133" parent="134" relname="attribution">Она также отметила,</segment>
+		<segment id="134" parent="135" relname="span">что Ходорковский за время отбывания наказания получил несколько взысканий,</segment>
+		<segment id="136" parent="139" relname="attribution">а поощрений у него нет.\n\n- Суд оставил в силе отказ в УДО\n\nПомимо этого, прокурор заявила,</segment>
+		<segment id="139" parent="140" relname="span">что в августе Ходорковский на момент рассмотрения в суде первой инстанции ходатайства на его УДО, не погасил долги по исполнительным листам.</segment>
+		<segment id="143" parent="147" relname="span">\"У него был долг 63 тысячи 928 рублей.</segment>
+		<segment id="144" parent="146" relname="joint">Ходорковский погасил 1 тысячу 698 рублей,</segment>
+		<segment id="145" parent="146" relname="joint">а остальную сумму внесли адвокаты\",</segment>
+		<segment id="148" parent="147" relname="attribution">- пояснила прокурор.</segment>
+		<segment id="151" parent="152" relname="attribution">По ее словам,</segment>
+		<segment id="152" parent="153" relname="span">Ходорковский имеет долг перед государством в размере более 17 млрд рублей.\n\</segment>
+		<segment id="154" parent="157" relname="attribution">nОна также считает,</segment>
+		<segment id="155" parent="157" relname="span">что доводы адвокатов относительно нарушений закона,</segment>
+		<segment id="156" parent="155" relname="elaboration">которые допущены Ингодинским районным судом, прокуратурой и УФСИН несостоятельны.\n\n</segment>
+		<segment id="159" parent="161" relname="joint">\"В ходе рассмотрения ходатайства адвокатов на УДО Ходорковскому Ингодинским судом Читы приобщены</segment>
+		<segment id="160" parent="161" relname="joint">и исследованы все материалы.</segment>
+		<segment id="162" parent="161" relname="evidence">Факты дискриминации Ходорковского не подтверждаются.</segment>
+		<segment id="164" parent="170" relname="span">Для него в СИЗО созданы специальные условия.</segment>
+		<segment id="165" parent="169" relname="span">В камере находятся два человека</segment>
+		<segment id="166" parent="168" relname="joint">- это меньше, чем в других камерах,</segment>
+		<segment id="167" parent="168" relname="joint">и есть все необходимое\",</segment>
+		<segment id="171" parent="188" relname="attribution">- отметила она.\n\nПрокурор сообщила в суде,</segment>
+		<segment id="172" parent="176" relname="span">что у Михаила Ходорковского имелось 6 взысканий,</segment>
+		<segment id="173" parent="175" relname="joint">три из которых отменил суд</segment>
+		<segment id="174" parent="175" relname="joint">и два - погашены за сроком давностью.\n\n\"Михаил Ходорковский систематически нарушал режим.</segment>
+		<segment id="177" parent="185" relname="span">Отбывание наказания - это не пассивный, а активный процесс.</segment>
+		<segment id="178" parent="182" relname="span">Осужденный не нуждается в наказании только в том случае,</segment>
+		<segment id="179" parent="181" relname="joint">когда цель достигнута,</segment>
+		<segment id="180" parent="181" relname="joint">и он исправился.</segment>
+		<segment id="183" parent="184" relname="joint">В данном случае - цель не достигнута\",</segment>
+		<segment id="186" parent="185" relname="attribution">- подчеркнула она.\n\</segment>
+		<segment id="191" parent="202" relname="attribution">nНа прошлом заседании Читинского областного суда адвокаты Михаила Ходорковского заявили,</segment>
+		<segment id="192" parent="202" relname="span">что доводы прокуратуры не обоснованы.</segment>
+		<segment id="193" parent="194" relname="cause-effect">Они потребовали вынести частное определение сотрудникам прокуратуры и ФСИН.\n\nВ свою очередь, экс-глава НК ЮКОС Ходорковский указал на необъективность суда первой инстанции.\n\nВ частности, отвечая на претензию,</segment>
+		<segment id="194" parent="195" relname="span">что он не желал обучаться профессии в исправительной колонии,</segment>
+		<segment id="196" parent="199" relname="attribution">Ходорковский сказал,</segment>
+		<segment id="197" parent="199" relname="joint">что работал до последнего дня</segment>
+		<segment id="198" parent="199" relname="joint">и получал больше, чем все остальные заключенные, которые работали с ним.\n\n\"Тем не менее, мою фамилию вычеркивали из списка поощрений.</segment>
+		<segment id="204" parent="206" relname="span">Я предлагал наладить в колонии общего режима швейное производство, убыточное</segment>
+		<segment id="205" parent="204" relname="cause-effect">из-за перекрестного финансирования,</segment>
+		<segment id="207" parent="208" relname="contrast">но от моих услуг отказались\",</segment>
+		<segment id="209" parent="228" relname="attribution">- сказал экс-глава ЮКОСа.\n\nХодорковский также добавил,</segment>
+		<segment id="210" parent="212" relname="span">что суд первой инстанции при рассмотрении ходатайства об условно-досрочном освобождении</segment>
+		<segment id="211" parent="210" relname="attribution">не учел высказывание начальника колонии,</segment>
+		<segment id="213" parent="226" relname="attribution">который заявил,</segment>
+		<segment id="214" parent="226" relname="span">что в колонии не смогли объявить его злостным нарушителем,</segment>
+		<segment id="215" parent="224" relname="cause-effect">так как все нарушения были обжалованы в суде.\n\n\"Это злоупотребления должностными полномочиями.</segment>
+		<segment id="216" parent="224" relname="span">Суд не учел этот мотив\",</segment>
+		<segment id="217" parent="222" relname="attribution">- пояснил Ходорковский.\n\nКроме того, он заявил,</segment>
+		<segment id="218" parent="222" relname="same-unit">что заключенного Кучму,</segment>
+		<segment id="219" parent="221" relname="sequence">который порезал ему нос,</segment>
+		<segment id="220" parent="221" relname="sequence">поселили рядом с ним по указанию сотрудника оперотдела.</segment>
+		<segment id="231" parent="232" relname="condition">\"Если суду интересна фамилия этого сотрудника,</segment>
+		<segment id="232" parent="233" relname="span">я скажу отдельно.</segment>
+		<segment id="234" parent="242" relname="sequence">После этого Кучму перевели,</segment>
+		<segment id="235" parent="241" relname="sequence">и он точно таким же ножом порезал еще одного человека.</segment>
+		<segment id="236" parent="240" relname="sequence">Затем его перевели на тюремный режим</segment>
+		<segment id="237" parent="239" relname="span">и в августе этапировали в Читу</segment>
+		<segment id="238" parent="237" relname="purpose">для дачи показаний против меня.</segment>
+		<segment id="244" parent="245" relname="span">Этот же сотрудник оперотдела поручил заключенному \"Б\" написать на меня донос\",</segment>
+		<segment id="246" parent="245" relname="attribution">- рассказал Ходорковский в суде.</segment>
+		<segment id="250" parent="253" relname="attribution">Он напомнил,</segment>
+		<segment id="251" parent="253" relname="joint">что из четырех объявленных ему в колонии взысканий три отменены судом.\n\n\"Взыскание, полученное за распитие чая в комнате совета отряда,</segment>
+		<segment id="252" parent="253" relname="joint">спровоцировал Кучма и заключенный \"Б\".</segment>
+		<segment id="255" parent="271" relname="span">Комната совета отряда, где я пил чай, оказалась ловушкой\",</segment>
+		<segment id="256" parent="261" relname="attribution">- пояснил Ходорковский.\n\nОн также отметил,</segment>
+		<segment id="257" parent="259" relname="span">что его характеристики,</segment>
+		<segment id="258" parent="257" relname="elaboration">составленные в 2006 и 2008 годах и представленные в августе сотрудниками УФСИН в суд первой инстанции</segment>
+		<segment id="260" parent="259" relname="condition">при рассмотрении вопроса об условно-досрочном освобождении,</segment>
+		<segment id="263" parent="267" relname="joint">сильно отличаются друг от друга,</segment>
+		<segment id="264" parent="266" relname="span">и суд этого не учел.\n\n\"Часть аргументов мне запретили озвучить адвокаты,</segment>
+		<segment id="265" parent="264" relname="cause-effect">опасаясь за мою юридическую безопасность\",</segment>
+		<segment id="269" parent="268" relname="attribution">- подчеркнул в суде Ходорковский.\n\</segment>
+		<segment id="273" parent="275" relname="span">nСуд оставил в силе отказ в УДО\n\nКоллегия Читинского областного суда в 8:30 по московскому времени удалилась</segment>
+		<segment id="274" parent="273" relname="purpose">для принятия решения по кассации адвокатов на отказ в УДО Ходорковскому.</segment>
+		<segment id="276" parent="277" relname="joint">Свое решение коллегия Читинского областного суда объявила после перерыва.</segment>
+		<segment id="278" parent="282" relname="sequence">Перерыв был объявлен на 2 часа.\n\nКоллегия Читинского областного суда приняла во внимание доводы прокуратуры</segment>
+		<segment id="279" parent="281" relname="span">и оставила в силе решение суда первой инстанции,</segment>
+		<segment id="280" parent="279" relname="elaboration">отказавшего Михаилу Ходорковскому в УДО.</segment>
+		<segment id="283" parent="284" relname="sequence">Таким образом, кассационная жалоба адвокатов Михаила Ходорковского, ходатайствовавших направить дело в суд на новое рассмотрение,</segment>
+		<segment id="285" parent="287" relname="sequence">отклонена.\n\nГлава ЮКОСа был арестован в октябре 2003 года,</segment>
+		<segment id="286" parent="287" relname="sequence">в июле того же года был арестован глава МФК МЕНАТЕП.</segment>
+		<segment id="290" parent="292" relname="span">Они были осуждены на девять лет лишения свободы каждый Мещанским судом Москвы 31 мая 2005 года,</segment>
+		<segment id="291" parent="290" relname="elaboration">который признал их виновными по семи статьям УК РФ, в том числе - в мошенничестве и неуплате налогов.\n\nКассационная инстанция Мосгорсуда 22 сентября 2005 года снизила обоим срок наказания до восьми лет заключения,</segment>
+		<segment id="293" parent="295" relname="span">после чего Ходорковский и Лебедев были этапированы</segment>
+		<segment id="294" parent="293" relname="purpose">для исполнения приговора в колонии: первый - в Краснокаменск Читинской области, второй - в поселок Харп Ямало-Ненецкого автономного округа.</segment>
+		<segment id="297" parent="298" relname="joint">В конце 2006 года Ходорковский и Лебедев были этапированы из колоний в читинский СИЗО в связи с расследованием нового уголовного дела.\n\nВ рамках нового уголовного дела Генпрокуратура РФ обвиняет обоих в легализации 450 миллиардов рублей и 7,5 миллиарда долларов в период с 1998 по 2004 годы.\n\nИсточник: https://www.newsru.com/russia/16Oct2008/mike.html\n</segment>
+		<group id="116" type="span" parent="307" relname="preparation"/>
+		<group id="114" type="span" parent="115" relname="cause-effect"/>
+		<group id="106" type="span" parent="114" relname="span"/>
+		<group id="113" type="span" parent="106" relname="cause-effect"/>
+		<group id="112" type="span" parent="113" relname="span"/>
+		<group id="307" type="multinuc" parent="308" relname="span"/>
+		<group id="127" type="span" parent="307" relname="joint"/>
+		<group id="121" type="span" parent="127" relname="span"/>
+		<group id="120" type="multinuc" parent="117" relname="elaboration"/>
+		<group id="126" type="span" parent="121" relname="attribution"/>
+		<group id="124" type="span" parent="126" relname="span"/>
+		<group id="306" type="multinuc" parent="307" relname="joint"/>
+		<group id="150" type="span" parent="306" relname="joint"/>
+		<group id="142" type="multinuc" parent="150" relname="span"/>
+		<group id="132" type="span" parent="142" relname="joint"/>
+		<group id="131" type="span" parent="132" relname="span"/>
+		<group id="141" type="multinuc" parent="142" relname="joint"/>
+		<group id="135" type="span" parent="141" relname="joint"/>
+		<group id="140" type="span" parent="141" relname="joint"/>
+		<group id="149" type="span" parent="142" relname="elaboration"/>
+		<group id="147" type="span" parent="149" relname="span"/>
+		<group id="146" type="multinuc" parent="143" relname="elaboration"/>
+		<group id="305" type="multinuc" parent="306" relname="joint"/>
+		<group id="153" type="span" parent="305" relname="joint"/>
+		<group id="304" type="span" parent="305" relname="joint"/>
+		<group id="158" type="span" parent="303" relname="preparation"/>
+		<group id="157" type="span" parent="158" relname="span"/>
+		<group id="303" type="multinuc" parent="304" relname="span"/>
+		<group id="163" type="span" parent="303" relname="joint"/>
+		<group id="161" type="multinuc" parent="163" relname="span"/>
+		<group id="302" type="multinuc" parent="303" relname="joint"/>
+		<group id="190" type="multinuc" parent="302" relname="joint"/>
+		<group id="170" type="span" parent="190" relname="joint"/>
+		<group id="169" type="span" parent="164" relname="elaboration"/>
+		<group id="168" type="multinuc" parent="165" relname="elaboration"/>
+		<group id="189" type="span" parent="190" relname="joint"/>
+		<group id="188" type="span" parent="189" relname="span"/>
+		<group id="176" type="span" parent="188" relname="span"/>
+		<group id="175" type="multinuc" parent="172" relname="elaboration"/>
+		<group id="187" type="span" parent="176" relname="elaboration"/>
+		<group id="185" type="span" parent="187" relname="span"/>
+		<group id="184" type="multinuc" parent="177" relname="elaboration"/>
+		<group id="182" type="span" parent="184" relname="joint"/>
+		<group id="181" type="multinuc" parent="178" relname="condition"/>
+		<group id="301" type="multinuc" parent="302" relname="joint"/>
+		<group id="249" type="multinuc" parent="301" relname="joint"/>
+		<group id="203" type="span" parent="249" relname="joint"/>
+		<group id="202" type="span" parent="203" relname="span"/>
+		<group id="201" type="multinuc" parent="192" relname="elaboration"/>
+		<group id="195" type="span" parent="201" relname="sequence"/>
+		<group id="200" type="span" parent="201" relname="sequence"/>
+		<group id="199" type="multinuc" parent="200" relname="span"/>
+		<group id="248" type="span" parent="249" relname="joint"/>
+		<group id="230" type="span" parent="247" relname="solutionhood"/>
+		<group id="208" type="multinuc" parent="230" relname="span"/>
+		<group id="206" type="span" parent="208" relname="contrast"/>
+		<group id="229" type="span" parent="208" relname="attribution"/>
+		<group id="228" type="span" parent="229" relname="span"/>
+		<group id="212" type="span" parent="228" relname="span"/>
+		<group id="227" type="span" parent="212" relname="elaboration"/>
+		<group id="226" type="span" parent="227" relname="span"/>
+		<group id="225" type="span" parent="214" relname="cause-effect"/>
+		<group id="224" type="span" parent="225" relname="span"/>
+		<group id="223" type="span" parent="216" relname="attribution"/>
+		<group id="222" type="multinuc" parent="223" relname="span"/>
+		<group id="221" type="multinuc" parent="222" relname="same-unit"/>
+		<group id="247" type="span" parent="248" relname="span"/>
+		<group id="245" type="span" parent="247" relname="span"/>
+		<group id="243" type="multinuc" parent="244" relname="solutionhood"/>
+		<group id="233" type="span" parent="243" relname="sequence"/>
+		<group id="242" type="multinuc" parent="243" relname="sequence"/>
+		<group id="241" type="multinuc" parent="242" relname="sequence"/>
+		<group id="240" type="multinuc" parent="241" relname="sequence"/>
+		<group id="239" type="span" parent="240" relname="sequence"/>
+		<group id="300" type="multinuc" parent="301" relname="joint"/>
+		<group id="272" type="multinuc" parent="300" relname="joint"/>
+		<group id="254" type="span" parent="272" relname="joint"/>
+		<group id="253" type="multinuc" parent="254" relname="span"/>
+		<group id="271" type="span" parent="272" relname="joint"/>
+		<group id="270" type="span" parent="255" relname="elaboration"/>
+		<group id="268" type="multinuc" parent="270" relname="span"/>
+		<group id="262" type="span" parent="268" relname="joint"/>
+		<group id="261" type="span" parent="262" relname="span"/>
+		<group id="259" type="span" parent="261" relname="span"/>
+		<group id="267" type="multinuc" parent="268" relname="joint"/>
+		<group id="266" type="span" parent="267" relname="joint"/>
+		<group id="299" type="multinuc" parent="300" relname="joint"/>
+		<group id="289" type="multinuc" parent="299" relname="joint"/>
+		<group id="277" type="multinuc" parent="289" relname="sequence"/>
+		<group id="275" type="span" parent="277" relname="joint"/>
+		<group id="288" type="multinuc" parent="289" relname="sequence"/>
+		<group id="284" type="multinuc" parent="288" relname="sequence"/>
+		<group id="282" type="multinuc" parent="284" relname="sequence"/>
+		<group id="281" type="span" parent="282" relname="sequence"/>
+		<group id="287" type="multinuc" parent="288" relname="sequence"/>
+		<group id="298" type="multinuc" parent="299" relname="joint"/>
+		<group id="296" type="multinuc" parent="298" relname="joint"/>
+		<group id="292" type="span" parent="296" relname="sequence"/>
+		<group id="295" type="span" parent="296" relname="sequence"/>
+		<group id="308" type="span"/>
+	</body>
+</rst>

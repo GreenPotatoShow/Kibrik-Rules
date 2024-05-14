@@ -1,0 +1,75 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="32" relname="cause-effect">Из-за банковского кризиса недвижимость в Москве подешевела на 10-15%\n\</segment>
+		<segment id="30" parent="32" relname="span">nЦены на рынке жилья в Москве снизились на 10-15% в результате проблем в банковском секторе,</segment>
+		<segment id="31" parent="30" relname="attribution">сообщил в понедельник на пресс-конференции в РИА \"Новости\" председатель совета Национальной ассоциации участников ипотечного рынка Владимир Пономарев.\n\n\"В Москве наибольшее распространение получила информация о трудностях в банковском секторе.</segment>
+		<segment id="34" parent="35" relname="span">В результате спад цен на рынке жилья составил 10-15%\",</segment>
+		<segment id="36" parent="35" relname="attribution">- сказал Пономарев.\n\</segment>
+		<segment id="38" parent="40" relname="joint">nПо некоторым данным, столичные банки после прекращения обслуживания клиентов Гута-банком поддались панике</segment>
+		<segment id="39" parent="40" relname="joint">и начали распродажу всех имеющихся активов, включая недвижимость.</segment>
+		<segment id="41" parent="42" relname="joint">При этом законченное и незаконченное строительство, инвестконтракты, котлованы и прочее продавались в розницу с дисконтом в 20-30%.\n\</segment>
+		<segment id="43" parent="46" relname="attribution">nПо мнению экспертов,</segment>
+		<segment id="44" parent="46" relname="span">банки начали распродажу всех имеющихся активов в массовом порядке,</segment>
+		<segment id="45" parent="44" relname="purpose">пытаясь создать запас ликвидности.</segment>
+		<segment id="48" parent="52" relname="span">В числе активов российских банков, выставленных на продажу, оказались и объекты недвижимости,</segment>
+		<segment id="49" parent="50" relname="attribution">в которые были сделаны вложения с целью извлечения прибыли.\n\nПономарев отметил,</segment>
+		<segment id="50" parent="51" relname="span">что рынок жилья в Москве в последние 4-5 недель пережил сложный период.</segment>
+		<segment id="54" parent="56" relname="joint">Особенно с учетом того, что в 2003 году цены на московском рынке жилья выросли на 40%</segment>
+		<segment id="55" parent="56" relname="joint">и достигли по отдельным видам недвижимости 18 тысяч долларов за кв. метр.</segment>
+		<segment id="57" parent="62" relname="purpose">Для сравнения:</segment>
+		<segment id="58" parent="62" relname="comparison">средняя себестоимость жилья в регионах России оценивается в 350-400 долларов за кв. метр,</segment>
+		<segment id="59" parent="61" relname="span">а продажная цена - 550-600 долларов</segment>
+		<segment id="60" parent="59" relname="condition">.\n\</segment>
+		<segment id="64" parent="65" relname="joint">nПредставитель ассоциации вместе с тем не стал прогнозировать, как скажется нестабильная ситуация в банковском секторе на динамике ипотечного кредитования в Москве.</segment>
+		<segment id="66" parent="68" relname="span">\"Надо подождать несколько недель,</segment>
+		<segment id="67" parent="66" relname="condition">пока нервозность на рынке жилья спадет\",</segment>
+		<segment id="69" parent="68" relname="attribution">- сказал Пономарев.\n\</segment>
+		<segment id="71" parent="76" relname="attribution">nПо его мнению,</segment>
+		<segment id="72" parent="76" relname="span">увеличению стоимости жилья в Москве способствуют значительные обременения инвесторов,</segment>
+		<segment id="73" parent="75" relname="span">которые устанавливаются муниципальными властями</segment>
+		<segment id="74" parent="73" relname="elaboration">при выделении участков земли под строительство.\n\nИсточник: https://www.newsru.com/finance/26Jul2004/flats.html\n</segment>
+		<group id="37" type="span" parent="82" relname="preparation"/>
+		<group id="35" type="span" parent="37" relname="span"/>
+		<group id="33" type="span" parent="34" relname="cause-effect"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="42" type="multinuc" parent="82" relname="joint"/>
+		<group id="40" type="multinuc" parent="42" relname="joint"/>
+		<group id="81" type="span" parent="82" relname="joint"/>
+		<group id="53" type="multinuc" parent="81" relname="span"/>
+		<group id="47" type="span" parent="53" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="51" type="span" parent="48" relname="elaboration"/>
+		<group id="80" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="56" type="multinuc" parent="80" relname="joint"/>
+		<group id="79" type="multinuc" parent="80" relname="joint"/>
+		<group id="65" type="multinuc" parent="79" relname="joint"/>
+		<group id="63" type="span" parent="65" relname="joint"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="61" type="span" parent="62" relname="comparison"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="70" type="span" parent="77" relname="solutionhood"/>
+		<group id="68" type="span" parent="70" relname="span"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="75" type="span" parent="72" relname="elaboration"/>
+		<group id="83" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="span">Министерство  Юстиции России приостановило регистрацию партии «Народный альянс»,</segment>
+		<segment id="20" parent="19" relname="elaboration">председателем которой является Алексей Навальный.</segment>
+		<segment id="22" parent="26" relname="span">Соответствующее сообщение размещено на сайте ведомства.\n</segment>
+		<segment id="23" parent="24" relname="attribution">Как пояснили в Минюсте,</segment>
+		<segment id="24" parent="25" relname="span">регистрация приостановлена в соответствии с 20-й статьей закона «О политических партиях».</segment>
+		<segment id="28" parent="31" relname="attribution">В этой статье указывается,</segment>
+		<segment id="29" parent="31" relname="span">что причиной этого может стать противоречие устава партии действующему законодательству,</segment>
+		<segment id="30" parent="29" relname="elaboration">непредоставление необходимых документов или использование наименования либо символики, не соответствующих требованиям закона.\n В самом «Народном альянсе» агентству ИТАР-ТАСС заявили.</segment>
+		<segment id="33" parent="35" relname="joint">что информации о приостановке регистрации пока не получали</segment>
+		<segment id="34" parent="35" relname="joint">и о причинах этого решения не осведомлены.</segment>
+		<segment id="37" parent="40" relname="attribution">Представители «Народного альянса» заявили,</segment>
+		<segment id="38" parent="40" relname="span">что 21 января у них запланирована встреча с сотрудниками Минюста,</segment>
+		<segment id="39" parent="38" relname="elaboration">на которой они намерены прояснить ситуацию.\n Сторонники Навального учредили «Народный альянс» в декабре 2012 года.</segment>
+		<segment id="42" parent="50" relname="span">Движению дважды отказывали в официальной регистрации.</segment>
+		<segment id="43" parent="45" relname="sequence">Навальный был избран его председателем 17 ноября 2013 года.\n На следующий день после избрания Навального председателем «Народного альянса» партия Андрея Богданова «Родная страна» подала в Минюст документы об изменении своего названия на «Народный альянс»;</segment>
+		<segment id="44" parent="45" relname="sequence">27 ноября ведомство утвердила смену наименования.</segment>
+		<segment id="46" parent="48" relname="span">Это сделало невозможным последующую регистрацию под названием «Народный альянс» партии Навального,</segment>
+		<segment id="47" parent="46" relname="cause-effect">так как существование двух партий с одинаковыми названиями противоречит закону.\n \n</segment>
+		<group id="27" type="span" parent="53" relname="joint"/>
+		<group id="21" type="span" parent="27" relname="span"/>
+		<group id="26" type="span" parent="21" relname="elaboration"/>
+		<group id="25" type="span" parent="22" relname="elaboration"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="36" type="span" parent="52" relname="joint"/>
+		<group id="32" type="span" parent="35" relname="cause-effect"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="35" type="multinuc" parent="36" relname="span"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="41" type="span" parent="51" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="49" type="span" parent="42" relname="elaboration"/>
+		<group id="45" type="multinuc" parent="49" relname="span"/>
+		<group id="48" type="span" parent="45" relname="interpretation-evaluation"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

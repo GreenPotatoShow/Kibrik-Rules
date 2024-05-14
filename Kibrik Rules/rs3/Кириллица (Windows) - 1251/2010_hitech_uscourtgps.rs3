@@ -1,0 +1,101 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="42" parent="46" relname="span">Суд запретил американским спецслужбам следить за подозреваемыми с помощью GPS</segment>
+		<segment id="43" parent="45" relname="span">без специального ордера\n\nАпелляционный суд округа Колумбия,</segment>
+		<segment id="44" parent="43" relname="elaboration">в котором находится столица США Вашингтон,</segment>
+		<segment id="47" parent="51" relname="span">запретил спецслужбам осуществлять круглосуточную слежку за подозреваемыми</segment>
+		<segment id="48" parent="50" relname="span">при помощи GPS-устройств</segment>
+		<segment id="49" parent="48" relname="condition">без получения специального ордера.</segment>
+		<segment id="53" parent="54" relname="attribution">В постановлении суда сказано,</segment>
+		<segment id="54" parent="55" relname="span">что подобная практика является нарушением Четвертой поправки к Конституции США</segment>
+		<segment id="56" parent="60" relname="span">.\n\nРешение,</segment>
+		<segment id="57" parent="58" relname="attribution">как сообщает Вебпланета со ссылкой на ComputerWorld,</segment>
+		<segment id="58" parent="59" relname="span">было принято в связи с делом Энтони Джонса и Лоуренса Мэйнарда.\n\nПервый был арестован в 2004 году,</segment>
+		<segment id="61" parent="62" relname="joint">а второму обвинения предъявили в 2006.</segment>
+		<segment id="64" parent="119" relname="preparation">В 2008 году после целого ряда судебных разбирательств оба подозреваемых были признаны виновными в хранении 50 кг кокаина с целью дальнейшего сбыта.\n\</segment>
+		<segment id="65" parent="69" relname="span">nОднако Джонс подал апелляцию,</segment>
+		<segment id="66" parent="67" relname="attribution">заявив,</segment>
+		<segment id="67" parent="68" relname="span">что решение суда было принято на основании доказательств, собранных незаконно:</segment>
+		<segment id="70" parent="74" relname="joint">федералы установили на его джип GPS-жучок</segment>
+		<segment id="71" parent="73" relname="span">и протоколировали всю информацию о передвижениях круглосуточно в течение месяца.\n\nСторона обвинения попыталась сослаться на целый ряд прецедентов,</segment>
+		<segment id="72" parent="71" relname="condition">когда наблюдение с помощью тех или иных средств признавалось законным.</segment>
+		<segment id="76" parent="78" relname="span">В одном из таких случаев преступнику, связанному с производством наркотиков, подбросили \"жучок\",</segment>
+		<segment id="77" parent="76" relname="purpose">с помощью которого и отслеживали перемещения.</segment>
+		<segment id="79" parent="89" relname="span">Тогда суд признал использование \"жучка\" законным,</segment>
+		<segment id="80" parent="83" relname="attribution">постановив,</segment>
+		<segment id="81" parent="82" relname="condition">что если подозреваемый передвигается по общедоступным дорогам,</segment>
+		<segment id="82" parent="83" relname="span">у него нет оснований рассчитывать на какую бы то ни было приватность.\n\nАпелляционный суд, однако, счел сравнение этих дел неуместным,</segment>
+		<segment id="85" parent="86" relname="attribution">заявив,</segment>
+		<segment id="86" parent="87" relname="span">что в примерах, приводимых обвинителями, слежка не было насколько продолжительной, как в случае с Джонсом.\n\n</segment>
+		<segment id="91" parent="97" relname="joint">\"Продолжительное наблюдение</segment>
+		<segment id="92" parent="93" relname="condition">при помощи</segment>
+		<segment id="93" parent="94" relname="span">GPS открывает чересчур детализированную картину жизни подозреваемого,</segment>
+		<segment id="95" parent="94" relname="concession">хотя предполагается, что к таковой картине никто не должен иметь доступа, кроме, разве что, супруги,</segment>
+		<segment id="98" parent="97" relname="attribution">- заявил судья.</segment>
+		<segment id="100" parent="108" relname="span">- Вторжение в личные дела, осуществляемое посредством подобного мониторинга, коренным образом отличается от иных, менее глубоких вмешательств\".\n\</segment>
+		<segment id="101" parent="107" relname="span">nАмериканские правозащитники отнеслись к решению апелляционного суда положительно:</segment>
+		<segment id="102" parent="106" relname="span">информация с GPS-устройств довольно подробна,</segment>
+		<segment id="103" parent="104" relname="purpose">и чтобы получить право собирать ее,</segment>
+		<segment id="104" parent="105" relname="span">необходимы веские основания.</segment>
+		<segment id="109" parent="111" relname="restatement">Однако среди частных лиц нашлись и недовольные судебным решением,</segment>
+		<segment id="110" parent="111" relname="restatement">что тоже объяснимо:</segment>
+		<segment id="114" parent="111" relname="cause-effect">ведь благодаря усилиям адвокатов на свободе оказались распространители наркотиков.\n\nИсточник: https://www.newsru.com/hitech/12Aug2010/uscourtgps.html\n</segment>
+		<group id="52" type="multinuc" parent="121" relname="preparation"/>
+		<group id="46" type="span" parent="52" relname="joint"/>
+		<group id="45" type="span" parent="42" relname="condition"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="50" type="span" parent="47" relname="condition"/>
+		<group id="121" type="span" parent="122" relname="span"/>
+		<group id="63" type="span" parent="120" relname="preparation"/>
+		<group id="55" type="span" parent="63" relname="span"/>
+		<group id="62" type="multinuc" parent="55" relname="elaboration"/>
+		<group id="60" type="span" parent="62" relname="joint"/>
+		<group id="59" type="span" parent="56" relname="elaboration"/>
+		<group id="120" type="span" parent="121" relname="span"/>
+		<group id="119" type="span" parent="120" relname="span"/>
+		<group id="75" type="span" parent="119" relname="span"/>
+		<group id="69" type="span" parent="75" relname="span"/>
+		<group id="68" type="span" parent="65" relname="cause-effect"/>
+		<group id="74" type="multinuc" parent="69" relname="elaboration"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="118" type="multinuc" parent="75" relname="elaboration"/>
+		<group id="90" type="span" parent="118" relname="joint"/>
+		<group id="78" type="span" parent="90" relname="span"/>
+		<group id="89" type="span" parent="78" relname="elaboration"/>
+		<group id="88" type="multinuc" parent="79" relname="elaboration"/>
+		<group id="84" type="span" parent="88" relname="joint"/>
+		<group id="83" type="span" parent="84" relname="span"/>
+		<group id="87" type="span" parent="88" relname="joint"/>
+		<group id="117" type="multinuc" parent="118" relname="joint"/>
+		<group id="99" type="span" parent="117" relname="joint"/>
+		<group id="97" type="multinuc" parent="99" relname="span"/>
+		<group id="96" type="span" parent="97" relname="joint"/>
+		<group id="94" type="span" parent="96" relname="span"/>
+		<group id="116" type="multinuc" parent="117" relname="joint"/>
+		<group id="108" type="span" parent="116" relname="contrast"/>
+		<group id="107" type="span" parent="100" relname="elaboration"/>
+		<group id="106" type="span" parent="101" relname="elaboration"/>
+		<group id="105" type="span" parent="102" relname="purpose"/>
+		<group id="115" type="span" parent="116" relname="contrast"/>
+		<group id="111" type="multinuc" parent="115" relname="span"/>
+		<group id="122" type="span"/>
+	</body>
+</rst>

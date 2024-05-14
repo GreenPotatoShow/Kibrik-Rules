@@ -1,0 +1,88 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="36" parent="38" relname="span">В интернете появились клоны сайтов</segment>
+		<segment id="37" parent="36" relname="purpose">для голосования по поправкам,</segment>
+		<segment id="39" parent="41" relname="span">которые могут быть использованы</segment>
+		<segment id="40" parent="39" relname="purpose">для махинаций\n\</segment>
+		<segment id="43" parent="45" relname="span">nЗа последние дни в интернете появилось несколько доменов,</segment>
+		<segment id="44" parent="43" relname="elaboration">названия которых напоминают сайт электронного голосования о поправках к Конституции 2020og.ru.</segment>
+		<segment id="47" parent="51" relname="joint">Пока они только агитируют за или против поправок</segment>
+		<segment id="48" parent="50" relname="contrast">или представляют собой безобидные страницы с информацией о голосовании,</segment>
+		<segment id="49" parent="50" relname="contrast">но ближе к дате голосования их тематика может измениться,</segment>
+		<segment id="52" parent="56" relname="joint">так как новые сайты зарегистрированы на неизвестных физических лиц,</segment>
+		<segment id="53" parent="54" relname="attribution">предупреждают эксперты</segment>
+		<segment id="54" parent="55" relname="span">.\n\nВ мае мошенники массово создавали копии сайта госуслуг</segment>
+		<segment id="58" parent="59" relname="attribution">после того, как президент РФ Владимир Путин объявил</segment>
+		<segment id="59" parent="60" relname="span">о новых выплатах на детей.</segment>
+		<segment id="61" parent="63" relname="span">В этот раз целью фейковых копий госуслуг и сайта 2020og.ru будут любые данные, которые можно запросить</segment>
+		<segment id="62" parent="61" relname="purpose">для авторизации и последующей перепродажи,</segment>
+		<segment id="64" parent="66" relname="joint">пишет \"Коммерсант\".\n\nПростор для махинаций</segment>
+		<segment id="65" parent="66" relname="joint">создают и розыгрыши призов среди проголосовавших.</segment>
+		<segment id="71" parent="74" relname="condition">При регистрации на фальшивом сайте</segment>
+		<segment id="72" parent="74" relname="span">могут пойти звонки от мошенников с просьбами назвать номер карты,</segment>
+		<segment id="73" parent="72" relname="purpose">чтобы \"перечислить выигрыш\", и код из SMS, якобы подтверждающий отправку денег жертве.</segment>
+		<segment id="76" parent="78" relname="span">Также могут появиться фишинговые сайты</segment>
+		<segment id="77" parent="76" relname="purpose">для проверки выигрыша,</segment>
+		<segment id="79" parent="81" relname="span">где будут предлагать ввести платежные данные,</segment>
+		<segment id="80" parent="79" relname="purpose">чтобы его забрать.\n\nРесурсы любых политических событий и сайты, связанные с волеизъявлением, всегда находятся под пристальным вниманием киберпреступников,</segment>
+		<segment id="82" parent="81" relname="attribution">подтверждает руководитель направления аналитики и спецпроектов ГК InfoWatch Андрей Арсентьев.</segment>
+		<segment id="86" parent="88" relname="contrast">Велик также риск того, что официальный сайт голосования будет подвергаться массированным DDoS-атакам из-за рубежа,</segment>
+		<segment id="87" parent="88" relname="contrast">однако опасность представляют не столько хакеры, сколько мошенники.\n\</segment>
+		<segment id="89" parent="95" relname="contrast">nСпециалисты пока не фиксируют особого всплеска активности в области создания сайтов, имитирующих ресурсы для электронного голосования,</segment>
+		<segment id="90" parent="92" relname="joint">однако не исключают такой возможности ближе к дате его проведения.\n\nПараллельно с приближением даты голосования в интернете</segment>
+		<segment id="91" parent="92" relname="joint">растет и число фейковых новостей о нем,</segment>
+		<segment id="93" parent="92" relname="attribution">утверждает окологосударственная Лига безопасного интернета.</segment>
+		<segment id="96" parent="99" relname="attribution">По данным организации,</segment>
+		<segment id="97" parent="99" relname="joint">за последнюю неделю их количество увеличилось в шесть раз,</segment>
+		<segment id="98" parent="99" relname="joint">а всего за последние 11 дней насчитывается 1256 \"вбросов\" недостоверной информации, в основном в социальных сетях.\n\nИсточник: https://www.newsru.com/hitech/17Jun2020/fake_vote.html\n</segment>
+		<group id="70" type="span" parent="104" relname="joint"/>
+		<group id="46" type="span" parent="69" relname="preparation"/>
+		<group id="42" type="span" parent="46" relname="span"/>
+		<group id="38" type="span" parent="42" relname="span"/>
+		<group id="41" type="span" parent="38" relname="elaboration"/>
+		<group id="45" type="span" parent="42" relname="background"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="57" type="span" parent="69" relname="joint"/>
+		<group id="51" type="multinuc" parent="57" relname="span"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="56" type="multinuc" parent="51" relname="cause-effect"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="60" type="span" parent="68" relname="span"/>
+		<group id="67" type="multinuc" parent="60" relname="elaboration"/>
+		<group id="63" type="span" parent="67" relname="joint"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="85" type="multinuc" parent="103" relname="joint"/>
+		<group id="75" type="span" parent="85" relname="joint"/>
+		<group id="74" type="span" parent="75" relname="span"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="78" type="span" parent="84" relname="joint"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="81" type="span" parent="83" relname="span"/>
+		<group id="102" type="span" parent="103" relname="joint"/>
+		<group id="88" type="multinuc" parent="102" relname="span"/>
+		<group id="101" type="span" parent="88" relname="elaboration"/>
+		<group id="95" type="multinuc" parent="101" relname="span"/>
+		<group id="94" type="span" parent="95" relname="contrast"/>
+		<group id="92" type="multinuc" parent="94" relname="span"/>
+		<group id="100" type="span" parent="95" relname="elaboration"/>
+		<group id="99" type="multinuc" parent="100" relname="span"/>
+		<group id="104" type="multinuc"/>
+	</body>
+</rst>

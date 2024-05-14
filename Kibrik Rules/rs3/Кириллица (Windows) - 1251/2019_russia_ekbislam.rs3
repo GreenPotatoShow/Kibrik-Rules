@@ -1,0 +1,66 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="27" relname="joint">Мусульмане провели акцию в поддержку требования построить мечеть в центре Екатеринбурга\n\nЕкатеринбургские мусульмане посвятили традиционную пятничную молитву проблеме строительства в городе соборной мечети,</segment>
+		<segment id="26" parent="27" relname="joint">а также провели акцию Open Plov с раздачей плова.</segment>
+		<segment id="28" parent="32" relname="span">На мероприятии присутствовала полиция,</segment>
+		<segment id="29" parent="31" relname="span">поскольку акция не была согласована с местными властями,</segment>
+		<segment id="30" parent="29" relname="attribution">передает \"Интерфакс\".\n\n</segment>
+		<segment id="34" parent="36" relname="span">\"Посмотрите, синагога стоит,</segment>
+		<segment id="35" parent="34" relname="background">католический храм стоит,</segment>
+		<segment id="37" parent="41" relname="joint">армянская церковь стоит,</segment>
+		<segment id="38" parent="40" relname="span">православный храм стоит,</segment>
+		<segment id="39" parent="38" relname="purpose">а для соборной мечети места не нашлось\",</segment>
+		<segment id="43" parent="42" relname="attribution">- сказал журналистам председатель Духовного управления мусульман Свердловской области Артур Мухутдинов,</segment>
+		<segment id="45" parent="56" relname="attribution">подчеркнув,</segment>
+		<segment id="46" parent="48" relname="span">что мусульманское сообщество готово к диалогу об альтернативных площадках</segment>
+		<segment id="47" parent="46" relname="purpose">для строительства соборной мечети в центре города</segment>
+		<segment id="49" parent="54" relname="attribution">.\n\nДругой представитель Духовного управления Наиль Шаймарданов сообщил,</segment>
+		<segment id="50" parent="52" relname="span">что все расходы по строительству мечети возьмет на себя Совет муфтиев России.\n\nПосетивший мероприятие депутат Госдумы Андрей Альшевских предложил</segment>
+		<segment id="51" parent="50" relname="elaboration">провести общественный опрос о территориях для объектов религиозного назначения,</segment>
+		<segment id="53" parent="52" relname="elaboration">объединив тем самым вопросы строительства собора Святой Екатерины и соборной мечети.\n\</segment>
+		<segment id="58" parent="59" relname="attribution">nПо словам депутата,</segment>
+		<segment id="59" parent="60" relname="span">участок для возведения соборной мечети был выделен в центре Екатеринбурга еще 15 лет назад,</segment>
+		<segment id="61" parent="62" relname="cause-effect">но из-за финансового кризиса</segment>
+		<segment id="62" parent="63" relname="span">проект не был реализован,</segment>
+		<segment id="65" parent="66" relname="attribution">а в дальнейшем, по его словам,</segment>
+		<segment id="66" parent="67" relname="span">\"чиновники и вовсе попросили освободить площадку ради ледовой арены\".\n\nИсточник: https://www.newsru.com/russia/26Jul2019/ekbislam.html\n</segment>
+		<group id="33" type="span" parent="70" relname="preparation"/>
+		<group id="27" type="multinuc" parent="33" relname="span"/>
+		<group id="32" type="span" parent="27" relname="elaboration"/>
+		<group id="31" type="span" parent="28" relname="cause-effect"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="44" type="span" parent="70" relname="joint"/>
+		<group id="42" type="multinuc" parent="44" relname="span"/>
+		<group id="36" type="span" parent="42" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="57" type="span" parent="69" relname="joint"/>
+		<group id="56" type="multinuc" parent="57" relname="span"/>
+		<group id="48" type="span" parent="56" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="52" type="span" parent="54" relname="span"/>
+		<group id="68" type="multinuc" parent="69" relname="joint"/>
+		<group id="64" type="multinuc" parent="68" relname="joint"/>
+		<group id="60" type="span" parent="64" relname="contrast"/>
+		<group id="63" type="span" parent="64" relname="contrast"/>
+		<group id="67" type="span" parent="68" relname="joint"/>
+		<group id="71" type="span"/>
+	</body>
+</rst>

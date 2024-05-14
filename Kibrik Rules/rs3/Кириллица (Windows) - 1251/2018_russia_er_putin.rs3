@@ -1,0 +1,85 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="35" parent="45" relname="span">ЕР пала жертвой пенсионной реформы:</segment>
+		<segment id="36" parent="38" relname="span">ее ролики не взяли \"ВКонтакте\" и \"Одноклассники\",</segment>
+		<segment id="37" parent="36" relname="cause-effect">требуя доказательств связи с дистанцировавшимся Путиным\n\nПартия \"Единая Россия\" столкнулась с невозможностью полноценно использовать слоган \"Партия президента\",</segment>
+		<segment id="39" parent="43" relname="span">на который она возложила главную надежду на текущих региональных выборах,</segment>
+		<segment id="42" parent="39" relname="elaboration">которые пройдут в единый день голосования 9 сентября.\n\nСоциальные сети \"ВКонтакте\" и \"Одноклассники\", обладающие наибольшими рекламными возможностями в регионах, отказались размещать на правах рекламы агитацию за партию с упоминанием президента.</segment>
+		<segment id="46" parent="49" relname="attribution">В компании Mail.ru,</segment>
+		<segment id="49" parent="50" relname="span">владеющей двумя крупнейшими соцсетями страны, потребовали у \"Единой России\" документы, официально подтверждающие поддержку партии Владимиром Путиным.\n\n\"Мы прислали в Mail.ru наши рекламные ролики.</segment>
+		<segment id="51" parent="50" relname="elaboration">Они уже вовсю идут на региональных телеканалах,</segment>
+		<segment id="53" parent="52" relname="attribution">- рассказал Znak.com один из политтехнологов ЕР.</segment>
+		<segment id="56" parent="99" relname="preparation">- И неожиданно получили категоричный отказ.</segment>
+		<segment id="57" parent="99" relname="joint">Естественно, никаких официальных документов о поддержке партии Путиным нет.</segment>
+		<segment id="58" parent="62" relname="span">Да они и не требуются по закону.</segment>
+		<segment id="59" parent="61" relname="contrast">Мы не используем фото или видео с президентом.</segment>
+		<segment id="60" parent="61" relname="contrast">Только само слово \"президент\".</segment>
+		<segment id="63" parent="96" relname="preparation">Однако Mail.ru настаивает на своем праве отклонять любые агитационные материалы.</segment>
+		<segment id="64" parent="68" relname="span">Для них негласные решения, принимаемые на Старой площади, не указ\".\n\nВ последние несколько лет президент России Владимир Путин постоянно дистанцируется от \"Единой России\",</segment>
+		<segment id="65" parent="67" relname="joint">хотя до этого он много лет был ее \"беспартийным лидером\",</segment>
+		<segment id="66" parent="67" relname="joint">а также называл себя одним из основателей партии.</segment>
+		<segment id="69" parent="70" relname="sequence">Затем руль руководства партией перенял у президента премьер-министр Дмитрий Медведев.\n\nНа последние президентские выборы Путин пошел как самовыдвиженец.</segment>
+		<segment id="71" parent="95" relname="joint">Таким же образом идет на очередные выборы и один из руководителей этой партии, мэр Москвы Сергей Собянин.\n\nКремль якобы дал разрешение \"Единой России\" стать в ходе избирательной кампании \"партией президента\", но не везде.</segment>
+		<segment id="72" parent="76" relname="joint">Слоган \"Единая Россия - партия президента\" может быть использован только в тех регионах, где ЕР оказалась в наиболее сложной ситуации перед единым днем голосования,</segment>
+		<segment id="73" parent="75" relname="span">писал неделю назад РБК.\n\nИспользование этого слогана называлось \"последним резервом\" для партии,</segment>
+		<segment id="74" parent="73" relname="elaboration">популярность которой снизилась на фоне планов повысить пенсионный возраст</segment>
+		<segment id="77" parent="79" relname="span">.\n\nРазрешения на использование лозунга получили отделения партии в Иркутской и Владимирской областях,</segment>
+		<segment id="78" parent="77" relname="elaboration">где пройдут парламентские выборы,</segment>
+		<segment id="80" parent="81" relname="sequence">и в Екатеринбурге, где состоятся выборы в городскую думу.</segment>
+		<segment id="82" parent="88" relname="same-unit">Решений по Архангельской и Ульяновской областям, где предстоят выборы в региональные заксобрания,</segment>
+		<segment id="83" parent="86" relname="cause-effect">якобы еще не принято.\n\nВ Кремле понимают,</segment>
+		<segment id="84" parent="86" relname="joint">что популярность ЕР падает</segment>
+		<segment id="85" parent="86" relname="joint">и ожидают, что в среднем по итогам выборов ее результаты будут на 10-15% ниже,</segment>
+		<segment id="89" parent="91" relname="span">чем прогнозировалось еще весной.\n\nПо данным ВЦИОМ,</segment>
+		<segment id="90" parent="89" relname="elaboration">с марта 2018 года электоральный рейтинг \"Единой России\" упал с 52,2% до 37,1% - минимального уровня с конца декабря 2001 года.\n\nИсточник: https://www.newsru.com/russia/30Aug2018/er_putin.html\n</segment>
+		<group id="55" type="multinuc" parent="101" relname="joint"/>
+		<group id="45" type="span" parent="55" relname="joint"/>
+		<group id="44" type="span" parent="35" relname="elaboration"/>
+		<group id="38" type="span" parent="44" relname="span"/>
+		<group id="43" type="span" parent="38" relname="elaboration"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="52" type="span" parent="54" relname="span"/>
+		<group id="50" type="span" parent="52" relname="span"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="99" type="multinuc" parent="100" relname="span"/>
+		<group id="98" type="multinuc" parent="99" relname="joint"/>
+		<group id="62" type="span" parent="98" relname="contrast"/>
+		<group id="61" type="multinuc" parent="58" relname="evidence"/>
+		<group id="97" type="span" parent="98" relname="contrast"/>
+		<group id="96" type="multinuc" parent="97" relname="span"/>
+		<group id="70" type="multinuc" parent="96" relname="joint"/>
+		<group id="68" type="span" parent="70" relname="sequence"/>
+		<group id="67" type="multinuc" parent="64" relname="concession"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="76" type="multinuc" parent="94" relname="joint"/>
+		<group id="75" type="span" parent="76" relname="joint"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="81" type="multinuc" parent="93" relname="joint"/>
+		<group id="79" type="span" parent="81" relname="sequence"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="88" type="multinuc" parent="92" relname="comparison"/>
+		<group id="87" type="span" parent="88" relname="same-unit"/>
+		<group id="86" type="multinuc" parent="87" relname="span"/>
+		<group id="91" type="span" parent="92" relname="comparison"/>
+		<group id="101" type="multinuc"/>
+	</body>
+</rst>

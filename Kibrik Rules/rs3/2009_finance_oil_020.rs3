@@ -1,0 +1,72 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="30" parent="85" relname="preparation">Эксперты: взлет индекса стоимости фрахта может означать скорый рост цен на сырье\n\</segment>
+		<segment id="31" parent="34" relname="cause-effect">nСтоимость океанских грузоперевозок взлетела на 147%,</segment>
+		<segment id="32" parent="34" relname="comparison">что делает очевидным тот факт, что реализация китайского плана стимулирования экономики стоимостью 580 миллиардов долларов может привести к росту цен на сырьевые товары,</segment>
+		<segment id="33" parent="34" relname="comparison">что, в свою очередь, окажет положительное влияние на страны, специализирующиеся на экспорте сырья.</segment>
+		<segment id="36" parent="41" relname="attribution">Это мнение высказал агентству Bloomberg Ихаб Салиб,</segment>
+		<segment id="39" parent="41" relname="span">управляющий активами на 3 миллиарда долларов в Federated Investments.\n\nСалиб предлагает активизировать покупки норвежской кроны, канадского и австралийского долларов</segment>
+		<segment id="40" parent="39" relname="elaboration">- валют стран, которые традиционно выигрывают при росте цен на сырьевые товары</segment>
+		<segment id="43" parent="44" relname="attribution">.\n\nBloomberg отмечает,</segment>
+		<segment id="44" parent="45" relname="span">что многие валютные спекулянты ориентируются на основной индекс стоимости фрахта</segment>
+		<segment id="46" parent="45" relname="elaboration">- Baltic Dry Index - как на опережающий индикатор, предваряющий динамику на рынке сырьевых товаров и валют, с ними связанных.</segment>
+		<segment id="50" parent="54" relname="span">При этом, согласно исследованию Bloomberg, \"сырьевые\" валюты</segment>
+		<segment id="51" parent="53" relname="comparison">- норвежская крона, австралийский и канадский доллары двигались в том же направлении,</segment>
+		<segment id="52" parent="53" relname="comparison">что и индекс Baltic Dry в 96% случаев в прошлом году,</segment>
+		<segment id="55" parent="56" relname="comparison">а за предыдущее десятилетие они демонстрировали 84-процентную корреляцию.\n\n\"Исторически индекс Baltic Dry всегда был неплохим опережающим индикатором для цен на сырье,</segment>
+		<segment id="57" parent="56" relname="attribution">- цитирует агентство Салиба.</segment>
+		<segment id="60" parent="62" relname="joint">- Сырьевые товары сейчас очень дешевы</segment>
+		<segment id="61" parent="62" relname="joint">и в долгосрочной перспективе представляют собой очень заманчивый объект для инвестиций\".\n\nРост стоимости морских перевозок стал отражением процессов, которые начались в Китае.</segment>
+		<segment id="63" parent="65" relname="span">Стимулирующие меры в этой стране предполагают строительство домов, скоростных дорог, аэропортов, линий электропередач.</segment>
+		<segment id="64" parent="63" relname="elaboration">Все это предъявляет дополнительный спрос на сырье.</segment>
+		<segment id="66" parent="82" relname="span">При этом уже к концу февраля китайские власти планируют освоить четверть выделенных в рамках плана 580 миллиардов долларов.</segment>
+		<segment id="67" parent="72" relname="attribution">Аналитики Deutsche Bank предсказывают</segment>
+		<segment id="68" parent="72" relname="comparison">рост китайской экономики в первом квартале по сравнению с четвертым кварталом прошлого года на 12% в годовом выражении</segment>
+		<segment id="69" parent="71" relname="joint">.\n\nКитай является крупнейшим в мире потребителем меди и железной руды,</segment>
+		<segment id="70" parent="71" relname="joint">и начало реализации инфраструктурной программы уже привело к тому, что цены на эти товары выросли с начала года на 10%.</segment>
+		<segment id="74" parent="76" relname="span">Что касается нефти,</segment>
+		<segment id="75" parent="74" relname="attribution">то согласно среднему прогнозу опрошенных Bloomberg 34 экспертов,</segment>
+		<segment id="77" parent="79" relname="span">в 4 квартале этого года ее цена поднимется до 66 долларов за баррель с 40,62 долларов,</segment>
+		<segment id="78" parent="77" relname="background">которые сложились с начала года.\n\nИсточник: https://www.newsru.com/finance/17Feb2009/oil.html\n</segment>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="59" type="multinuc" parent="85" relname="joint"/>
+		<group id="49" type="multinuc" parent="59" relname="joint"/>
+		<group id="35" type="span" parent="49" relname="joint"/>
+		<group id="34" type="multinuc" parent="35" relname="span"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="42" type="span" parent="48" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="56" type="multinuc" parent="58" relname="span"/>
+		<group id="54" type="span" parent="56" relname="comparison"/>
+		<group id="53" type="multinuc" parent="50" relname="elaboration"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="62" type="multinuc" parent="83" relname="preparation"/>
+		<group id="83" type="multinuc" parent="84" relname="span"/>
+		<group id="65" type="span" parent="83" relname="joint"/>
+		<group id="82" type="span" parent="83" relname="joint"/>
+		<group id="81" type="multinuc" parent="66" relname="elaboration"/>
+		<group id="73" type="span" parent="81" relname="comparison"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="71" type="multinuc" parent="72" relname="comparison"/>
+		<group id="80" type="span" parent="81" relname="comparison"/>
+		<group id="76" type="span" parent="80" relname="span"/>
+		<group id="79" type="span" parent="76" relname="elaboration"/>
+		<group id="86" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,68 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="31" relname="span">Состояние четырех человек, пострадавших</segment>
+		<segment id="28" parent="29" relname="condition">при взрывах во Владикавказе,</segment>
+		<segment id="29" parent="30" relname="span">остается стабильно тяжелым\n\</segment>
+		<segment id="34" parent="36" relname="span">nСостояние четырех человек, пострадавших во время взрывов во Владикавказе у залов игровых автоматов, остается стабильно тяжелым,</segment>
+		<segment id="35" parent="34" relname="attribution">сообщил в субботу агентству \"Интерфакс\" министр здравоохранения Северной Осетии Александр Реутов.</segment>
+		<segment id="38" parent="40" relname="span">\"Особые опасения вызывают по- прежнему двое из четырех,</segment>
+		<segment id="39" parent="38" relname="cause-effect">так как их состояние может грозить и их жизни\",</segment>
+		<segment id="41" parent="40" relname="attribution">- сказал он.</segment>
+		<segment id="44" parent="49" relname="attribution">Министр добавил,</segment>
+		<segment id="45" parent="47" relname="span">что всего на стационарном лечении остаются 14 раненых</segment>
+		<segment id="46" parent="45" relname="cause-effect">в результате взрывов,</segment>
+		<segment id="48" parent="49" relname="comparison">состояние их здоровья - стабильное</segment>
+		<segment id="51" parent="52" relname="same-unit">.\n\</segment>
+		<segment id="53" parent="56" relname="attribution">nВ минувшую пятницу первый заместитель прокурора республики Северная Осетия Александр Панов сообщил,</segment>
+		<segment id="54" parent="56" relname="joint">что всего от взрывов пострадали 29 человек.\n\n\"Двое из них скончались в больнице,</segment>
+		<segment id="55" parent="56" relname="joint">14 человек в настоящее время находятся на стационарном лечении.</segment>
+		<segment id="58" parent="60" relname="comparison">Состояние четверых из них медики расценивают как тяжелое,</segment>
+		<segment id="59" parent="60" relname="comparison">10 человек - в состоянии средней тяжести.</segment>
+		<segment id="62" parent="64" relname="joint">13 человек прошли амбулаторное освидетельствование,</segment>
+		<segment id="63" parent="64" relname="joint">и им была оказана первая медицинская помощь\",</segment>
+		<segment id="65" parent="64" relname="attribution">- сказал Панов.\n\</segment>
+		<segment id="67" parent="71" relname="joint">nПо фактам взрывов,</segment>
+		<segment id="68" parent="70" relname="joint">прогремевших в четверг вечером,</segment>
+		<segment id="69" parent="70" relname="joint">прокуратура возбудила уголовные дела по трем статьям: ст. 205 - \"терроризм\", ст. 105 -\"убийство\", ст. 222 - \"незаконное хранение оружия и боеприпасов\".</segment>
+		<segment id="72" parent="73" relname="joint">Составлены фотороботы трех человек, подозреваемых в совершении преступления.\n\nИсточник: https://www.newsru.com/russia/04Feb2006/chek.html\n</segment>
+		<group id="43" type="span" parent="77" relname="joint"/>
+		<group id="37" type="multinuc" parent="43" relname="span"/>
+		<group id="31" type="span" parent="37" relname="joint"/>
+		<group id="30" type="span" parent="27" relname="condition"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="42" type="span" parent="37" relname="elaboration"/>
+		<group id="40" type="span" parent="42" relname="span"/>
+		<group id="76" type="span" parent="77" relname="joint"/>
+		<group id="52" type="multinuc" parent="75" relname="preparation"/>
+		<group id="50" type="span" parent="52" relname="same-unit"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="47" type="span" parent="49" relname="comparison"/>
+		<group id="75" type="multinuc" parent="76" relname="span"/>
+		<group id="61" type="multinuc" parent="75" relname="joint"/>
+		<group id="57" type="span" parent="61" relname="joint"/>
+		<group id="56" type="multinuc" parent="57" relname="span"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="66" type="span" parent="74" relname="span"/>
+		<group id="64" type="multinuc" parent="66" relname="span"/>
+		<group id="73" type="multinuc" parent="66" relname="elaboration"/>
+		<group id="71" type="multinuc" parent="73" relname="joint"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="77" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,106 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="44" parent="127" relname="preparation">Министр энергетики России Александр Гаврин подал прошение об отставке\n\</segment>
+		<segment id="45" parent="50" relname="attribution">nОткрывая сегодня совещание с членами правительства,</segment>
+		<segment id="46" parent="49" relname="attribution">президент РФ Владимир Путин заявил,</segment>
+		<segment id="47" parent="49" relname="joint">что им \"был поставлен вопрос\" об отставке министра энергетики России</segment>
+		<segment id="48" parent="49" relname="joint">и министр Александр Гаврин подал главе государства заявление об отставке</segment>
+		<segment id="54" parent="58" relname="joint">.\n\nКак заявил журналистам высокопоставленный источник в правительстве России, министр энергетики освобожден от занимаемой должности</segment>
+		<segment id="55" parent="57" relname="comparison">\"за хроническую неспособность справиться с проблемами отрасли\".\n\nПрезидент заявил также,</segment>
+		<segment id="56" parent="57" relname="comparison">что сегодня, в понедельник утром, он говорил по телефону и с губернатором Приморского края Евгением Наздратенко.</segment>
+		<segment id="60" parent="61" relname="attribution">\"Он информировал,</segment>
+		<segment id="61" parent="62" relname="span">что также намерен уйти в отставку\",</segment>
+		<segment id="63" parent="62" relname="attribution">- сказал Владимир Путин</segment>
+		<segment id="66" parent="68" relname="span">.\n\nНаздратенко направил сегодня в Думу Приморского края письмо с просьбой об отставке,</segment>
+		<segment id="67" parent="66" relname="elaboration">как это положено по уставу края</segment>
+		<segment id="69" parent="76" relname="attribution">.\n\nПутин сообщил,</segment>
+		<segment id="70" parent="76" relname="span">что он поручил правоохранительным органам и МЧС проверить все документы, касающиеся создавшейся в восточных регионах страны кризисной обстановки с теплом и энергией,</segment>
+		<segment id="71" parent="75" relname="joint">с тем чтобы обобщить \"эти документы</segment>
+		<segment id="72" parent="74" relname="span">и передать впоследствии в Генпрокуратуру</segment>
+		<segment id="73" parent="72" relname="purpose">для принятия решений\".\n\nПрезидент поручил представителю государства в РАО \"ЕЭС России\" Александру Волошину на ближайшем собрании акционеров \"поставить вопрос об укреплении кадрового руководства РАО \"ЕЭС\".</segment>
+		<segment id="79" parent="81" relname="span">\"Это обдуманное решение\",</segment>
+		<segment id="80" parent="79" relname="attribution">- заявил президент</segment>
+		<segment id="83" parent="87" relname="joint">.\n\nНа руководстве РАО,</segment>
+		<segment id="84" parent="85" relname="attribution">продолжил президент,</segment>
+		<segment id="85" parent="86" relname="span">лежит \"большая доля вины\" за создавшееся этой зимой положение в восточных регионах страны</segment>
+		<segment id="88" parent="90" relname="span">.\n\nПутин высказался</segment>
+		<segment id="89" parent="88" relname="cause-effect">за необходимость \"жестких мер в решении кадровых вопросов,</segment>
+		<segment id="91" parent="92" relname="contrast">однако искать здесь крайних бессмысленно\",</segment>
+		<segment id="93" parent="92" relname="attribution">заявил он</segment>
+		<segment id="95" parent="98" relname="attribution">и пояснил,</segment>
+		<segment id="96" parent="98" relname="span">что корень проблемы заключается в решениях, принятых в начале 90-х годов,</segment>
+		<segment id="97" parent="96" relname="elaboration">когда начался \"массовый сброс\" коммунальных служб на уровень местной власти.\n\n\"Уверен,</segment>
+		<segment id="100" parent="103" relname="attribution">- продолжил президент,</segment>
+		<segment id="101" parent="102" relname="cause-effect">- что и правительство РФ не сделало всего, чтобы даже приступить к устранению этого кризиса\".\n\nПрезидент подчеркнул,</segment>
+		<segment id="102" parent="103" relname="span">что отсутствие помощи местным коммунальным службам из центра \"привело к системному кризису коммунальных служб едва ли не в половине регионов страны\".</segment>
+		<segment id="108" parent="112" relname="restatement">В качестве примеров Путин перечислил Приморье, Архангельскую, Сахалинскую области, Чукотку, Якутию и другие регионы</segment>
+		<segment id="109" parent="110" relname="attribution">.\n\nПрезидент заявил,</segment>
+		<segment id="110" parent="111" relname="span">что в связи с отставкой министра есть необходимость пересмотреть функции министерства энергетики.</segment>
+		<segment id="113" parent="119" relname="same-unit">Хотя,</segment>
+		<segment id="114" parent="117" relname="attribution">по мнению президента,</segment>
+		<segment id="115" parent="116" relname="attribution">кризис в известной мере явился следствием несовершенства законодательства.\n\nПо этому поводу Владимир Путин заявил,</segment>
+		<segment id="116" parent="117" relname="span">что правительству необходимо \"выйти со своими предложениями в Госдуму.</segment>
+		<segment id="120" parent="122" relname="span">\"Абсолютно уверен, что депутаты нас поддержат\",</segment>
+		<segment id="121" parent="120" relname="attribution">- сказал президент.\n\nИсточник: https://www.newsru.com/russia/05Feb2001/otstavka.html\n</segment>
+		<group id="127" type="multinuc" parent="128" relname="span"/>
+		<group id="65" type="span" parent="127" relname="joint"/>
+		<group id="59" type="multinuc" parent="65" relname="span"/>
+		<group id="51" type="span" parent="59" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="span"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="64" type="span" parent="59" relname="attribution"/>
+		<group id="62" type="span" parent="64" relname="span"/>
+		<group id="126" type="multinuc" parent="127" relname="joint"/>
+		<group id="82" type="span" parent="126" relname="joint"/>
+		<group id="78" type="multinuc" parent="82" relname="span"/>
+		<group id="68" type="span" parent="78" relname="joint"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="75" type="multinuc" parent="70" relname="purpose"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="81" type="span" parent="78" relname="interpretation-evaluation"/>
+		<group id="125" type="multinuc" parent="126" relname="joint"/>
+		<group id="107" type="multinuc" parent="125" relname="joint"/>
+		<group id="87" type="multinuc" parent="107" relname="joint"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="106" type="multinuc" parent="107" relname="joint"/>
+		<group id="94" type="span" parent="106" relname="joint"/>
+		<group id="92" type="multinuc" parent="94" relname="span"/>
+		<group id="90" type="span" parent="92" relname="contrast"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="99" type="span" parent="105" relname="joint"/>
+		<group id="98" type="span" parent="99" relname="span"/>
+		<group id="104" type="span" parent="105" relname="joint"/>
+		<group id="103" type="span" parent="104" relname="span"/>
+		<group id="124" type="span" parent="125" relname="joint"/>
+		<group id="112" type="multinuc" parent="124" relname="span"/>
+		<group id="111" type="span" parent="112" relname="restatement"/>
+		<group id="123" type="multinuc" parent="112" relname="concession"/>
+		<group id="119" type="multinuc" parent="123" relname="joint"/>
+		<group id="118" type="span" parent="119" relname="same-unit"/>
+		<group id="117" type="span" parent="118" relname="span"/>
+		<group id="122" type="span" parent="123" relname="joint"/>
+		<group id="128" type="span"/>
+	</body>
+</rst>

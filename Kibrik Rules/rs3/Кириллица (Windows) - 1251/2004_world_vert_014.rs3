@@ -1,0 +1,28 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="11" relname="span">В Бразилии разбился военный вертолет:</segment>
+		<segment id="10" parent="9" relname="elaboration">6 погибших\n\nШестеро бразильских военных погибли в четверг в результате крушения вертолета военно-воздушных сил Бразилии.</segment>
+		<segment id="12" parent="14" relname="span">Трагедия произошла в штате Риу-Гранди-ду-Сул на юге страны.\n\nПо сообщению Центра общественных связей ВВС,</segment>
+		<segment id="13" parent="12" relname="elaboration">катастрофа вертолета НМ-1 \"Пантера\" произошла днем во время тренировочного полета.</segment>
+		<segment id="15" parent="17" relname="span">Создана комиссия, которая должна выяснить причины произошедшего,</segment>
+		<segment id="16" parent="15" relname="attribution">сообщает ИТАР-ТАСС.\n\nЭто уже третья катастрофа вертолетов ВВС Бразилии за последние три месяца.</segment>
+		<segment id="20" parent="22" relname="joint">В результате двух других крушений восемь военных погибли,</segment>
+		<segment id="21" parent="22" relname="joint">один получил ранения.\n\nИсточник: https://www.newsru.com/world/16Jul2004/vert.html\n</segment>
+		<group id="19" type="multinuc" parent="22" relname="cause-effect"/>
+		<group id="11" type="span" parent="19" relname="joint"/>
+		<group id="18" type="multinuc" parent="19" relname="joint"/>
+		<group id="14" type="span" parent="18" relname="joint"/>
+		<group id="17" type="span" parent="18" relname="joint"/>
+		<group id="22" type="multinuc" parent="23" relname="span"/>
+		<group id="23" type="span"/>
+	</body>
+</rst>

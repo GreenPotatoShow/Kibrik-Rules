@@ -1,0 +1,53 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="58" relname="preparation">МНС РФ закончило прием налоговых деклараций\n\nМинистерство по налогам и сборам РФ закончило прием деклараций граждан России о налогах за 2000 год.</segment>
+		<segment id="22" parent="29" relname="attribution">Всего, по информации министерства,</segment>
+		<segment id="23" parent="25" relname="sequence">к 3 мая, которое являлось крайним сроком подачи деклараций,</segment>
+		<segment id="24" parent="25" relname="sequence">было сдано около 2,3 млн. деклараций.\n\nБольшое число деклараций поступило в налоговые органы во второй половине апреля,</segment>
+		<segment id="26" parent="28" relname="span">многие граждане пришли в налоговые инспекции только в последний день декларационной кампании,</segment>
+		<segment id="27" parent="26" relname="attribution">отметили в МНС.</segment>
+		<segment id="31" parent="37" relname="sequence">От организаций в налоговые органы поступило 101,3 млн. сведений о доходах, которые в 2000 году получили 57,7 млн. граждан.\n\nВ МНС напомнили,</segment>
+		<segment id="32" parent="34" relname="span">что декларационная кампания в этом году в последний раз проходит в порядке,</segment>
+		<segment id="33" parent="32" relname="condition">действовавшем без особых изменений,</segment>
+		<segment id="35" parent="34" relname="background">начиная с первой в России декларационной кампании 1993 года.</segment>
+		<segment id="39" parent="47" relname="span">В следующем году она будет проводиться по новым правилам.</segment>
+		<segment id="42" parent="46" relname="joint">В соответствии с Налоговым кодексом, с начала текущего года действует единая ставка налога на доходы физических лиц в размере 13%.</segment>
+		<segment id="45" parent="46" relname="joint">В связи с этим подача деклараций о доходах, полученных в 2001 году, не будет обязательной.\n\</segment>
+		<segment id="49" parent="50" relname="attribution">nОднако налоговики полагают,</segment>
+		<segment id="50" parent="51" relname="span">что в ходе декларационной кампании 2002 года число поданных гражданами деклараций о доходах 2001 года существенно возрастет.</segment>
+		<segment id="52" parent="55" relname="attribution">Это связано с тем, отметили в МНС,</segment>
+		<segment id="53" parent="55" relname="span">что на основании поданных деклараций граждане смогут получить налоговые льготы (налоговые вычеты),</segment>
+		<segment id="54" parent="53" relname="elaboration">перечень которых теперь существенно расширен.\n\nИсточник: https://www.newsru.com/finance/04May2001/taxes.html\n</segment>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="48" type="multinuc" parent="58" relname="contrast"/>
+		<group id="38" type="multinuc" parent="48" relname="joint"/>
+		<group id="30" type="span" parent="38" relname="joint"/>
+		<group id="29" type="multinuc" parent="30" relname="span"/>
+		<group id="25" type="multinuc" parent="29" relname="sequence"/>
+		<group id="28" type="span" parent="29" relname="sequence"/>
+		<group id="37" type="multinuc" parent="38" relname="joint"/>
+		<group id="36" type="span" parent="37" relname="sequence"/>
+		<group id="34" type="span" parent="36" relname="span"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="46" type="multinuc" parent="39" relname="elaboration"/>
+		<group id="57" type="span" parent="58" relname="contrast"/>
+		<group id="51" type="span" parent="57" relname="span"/>
+		<group id="56" type="span" parent="51" relname="elaboration"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="59" type="span"/>
+	</body>
+</rst>

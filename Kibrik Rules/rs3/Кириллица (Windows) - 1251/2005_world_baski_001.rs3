@@ -1,0 +1,43 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="17" relname="span">Баскские террористы впервые предложили начать мирные переговоры\n\nБаскская террористическая организация ETA готова участвовать в \"демократическом процессе, направленном на решение баскского конфликта\".\n\nТакое предложение содержится в коммюнике, которое ETA опубликовала в баскской газете Gara.</segment>
+		<segment id="16" parent="15" relname="background">О своей готовности к мирным переговорам ETA говорила еще с конца 2004 года,</segment>
+		<segment id="18" parent="20" relname="span">однако впервые прямо предложила приступить к ним,</segment>
+		<segment id="19" parent="18" relname="attribution">сообщает РИА \"Новости\".\n\n</segment>
+		<segment id="22" parent="24" relname="span">\"Для решения баскского конфликта,</segment>
+		<segment id="23" parent="22" relname="attribution">- говорится в коммюнике ETA,</segment>
+		<segment id="26" parent="25" relname="attribution">- необходимо сообща договориться о мире, построенном на справедливости\".</segment>
+		<segment id="28" parent="30" relname="joint">Для этого нужно \"использовать диалог и переговоры</segment>
+		<segment id="29" parent="30" relname="joint">и признать право Страны Басков на национальное самоопределение\".\n\nВ коммюнике также содержится критика \"репрессивной политики\" правительства Хосе Луиса Родригеса Сапатеро в отношении ETA,</segment>
+		<segment id="31" parent="32" relname="attribution">которая, по мнению ETA,</segment>
+		<segment id="32" parent="33" relname="span">\"отдаляет мир\".\n\</segment>
+		<segment id="35" parent="39" relname="span">nВ этом же документе руководство организации берет на себя ответственность за теракты, совершенные в последние месяцы в Испании.</segment>
+		<segment id="36" parent="38" relname="span">В их число она включает обстрел из минометов аэропорта Сарагосы и взрыв моста в Долине Павших под Мадридом.</segment>
+		<segment id="37" parent="36" relname="elaboration">При терактах жертв не было.\n\nИсточник: https://www.newsru.com/world/17Jun2005/baski.html\n</segment>
+		<group id="27" type="span" parent="41" relname="joint"/>
+		<group id="25" type="span" parent="27" relname="span"/>
+		<group id="21" type="multinuc" parent="25" relname="span"/>
+		<group id="17" type="span" parent="21" relname="contrast"/>
+		<group id="20" type="span" parent="21" relname="contrast"/>
+		<group id="24" type="span" parent="21" relname="purpose"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="34" type="span" parent="40" relname="span"/>
+		<group id="30" type="multinuc" parent="34" relname="span"/>
+		<group id="33" type="span" parent="30" relname="elaboration"/>
+		<group id="39" type="span" parent="34" relname="elaboration"/>
+		<group id="38" type="span" parent="35" relname="elaboration"/>
+		<group id="41" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,64 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="26" relname="joint">\"Спартак\" одолел \"Динамо\"</segment>
+		<segment id="25" parent="26" relname="joint">и поднялся на второе место в турнирной таблице\n\nВ гостевом матче 22-го тура чемпионата России по футболу московский \"Спартак\" со счетом 2:1 обыграл столичное \"Динамо\".\n\</segment>
+		<segment id="27" parent="39" relname="sequence">nСначала спартаковский защитник Павел Маслов (20') отправил мяч в свои ворота,</segment>
+		<segment id="28" parent="30" relname="span">но затем голы Виктора Мозеса (30') и Александра Соболева (63', с пенальти) склонили чашу весов в пользу красно-белых.\n\nГлавный тренер \"Спартака\" Доменико Тедеско не смог присутствовать на скамейке запасных</segment>
+		<segment id="29" parent="28" relname="cause-effect">из-за трехматчевой дисквалификации,</segment>
+		<segment id="31" parent="30" relname="elaboration">полученной за оскорбительный жест в адрес соперника в матче против \"Сочи\" (0:1),</segment>
+		<segment id="33" parent="35" relname="span">который состоялся 12 декабря.\n\n\"Получилось отличное дерби:</segment>
+		<segment id="34" parent="33" relname="elaboration">обе команды показали интенсивный футбол с первых минут,</segment>
+		<segment id="36" parent="35" relname="attribution">- приводит слова тренера клуба Андреаса Хинкеля официальный сайт \"Спартака\".</segment>
+		<segment id="40" parent="42" relname="joint">- Мы чуть больше владели мячом,</segment>
+		<segment id="41" parent="42" relname="joint">контролировали игру,</segment>
+		<segment id="43" parent="44" relname="contrast">но \"Динамо\" забило первым.</segment>
+		<segment id="45" parent="49" relname="sequence">После этого мы не сбавили темпа,</segment>
+		<segment id="46" parent="48" relname="joint">показали характер</segment>
+		<segment id="47" parent="48" relname="joint">и сравняли счет.\n\</segment>
+		<segment id="50" parent="51" relname="span">nВ перерыве я чувствовал, что у нас есть силы продолжать давление.</segment>
+		<segment id="52" parent="55" relname="attribution">Так и оказалось:</segment>
+		<segment id="53" parent="55" relname="joint">мы заставили соперника ошибиться,</segment>
+		<segment id="54" parent="55" relname="joint">и это привело к пенальти.</segment>
+		<segment id="57" parent="61" relname="span">Могли забить еще,</segment>
+		<segment id="58" parent="60" relname="span">хотя нужно отдать должное \"Динамо\",</segment>
+		<segment id="59" parent="58" relname="elaboration">которое тоже создало неплохие моменты\".\n\nЭтот матч стал 202-м в истории противостояния клубов,</segment>
+		<segment id="62" parent="63" relname="joint">\"Динамо\" одержало 56 побед, \"Спартак\" - 77, еще 69 игр завершились ничейным результатом.\n\n\"Спартак\" (41) поднялся на второе место в турнирной таблице первенства страны, от лидирующего \"Зенита\" (45) москвичи отстают на четыре очка.\n\nИсточник: https://www.newsru.com/sport/14Mar2021/spadin.html\n</segment>
+		<group id="26" type="multinuc" parent="67" relname="preparation"/>
+		<group id="67" type="multinuc" parent="68" relname="span"/>
+		<group id="39" type="multinuc" parent="67" relname="joint"/>
+		<group id="38" type="span" parent="39" relname="sequence"/>
+		<group id="32" type="span" parent="38" relname="span"/>
+		<group id="30" type="span" parent="32" relname="span"/>
+		<group id="37" type="span" parent="32" relname="elaboration"/>
+		<group id="35" type="span" parent="37" relname="span"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="44" type="multinuc" parent="66" relname="sequence"/>
+		<group id="42" type="multinuc" parent="44" relname="contrast"/>
+		<group id="65" type="multinuc" parent="66" relname="sequence"/>
+		<group id="51" type="span" parent="65" relname="sequence"/>
+		<group id="49" type="multinuc" parent="50" relname="cause-effect"/>
+		<group id="48" type="multinuc" parent="49" relname="sequence"/>
+		<group id="64" type="span" parent="65" relname="sequence"/>
+		<group id="56" type="span" parent="64" relname="span"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="63" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="61" type="span" parent="63" relname="joint"/>
+		<group id="60" type="span" parent="57" relname="purpose"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

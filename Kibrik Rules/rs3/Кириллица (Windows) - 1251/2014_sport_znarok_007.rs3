@@ -1,0 +1,71 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="28" parent="29" relname="attribution">Шведские СМИ обвинили тренера российских хоккеистов в мошенничестве\n\nШведская газета Aftonbladet полагает,</segment>
+		<segment id="29" parent="30" relname="span">что наставник сборной России Олег Знарок нарушил все возможные правила Международной федерации хоккея (ИИХФ) во время финального матча чемпионата мира-2014 в Минске против финнов (5:2).\n\n\"Россия заслуженно стала чемпионом мира по хоккею.</segment>
+		<segment id="31" parent="33" relname="span">Они выиграли все матчи.</segment>
+		<segment id="32" parent="31" relname="elaboration">Они были сильнее всех.</segment>
+		<segment id="35" parent="43" relname="contrast">И это был замечательный финал.</segment>
+		<segment id="36" parent="40" relname="span">Но невероятные выходки Олега Знарка,</segment>
+		<segment id="37" parent="39" relname="joint">который нарушил все правила,</segment>
+		<segment id="38" parent="39" relname="joint">все испортили\",</segment>
+		<segment id="41" parent="40" relname="cause-effect">- полагает газета.\n\n\"Во-первых, он появляется на трибунах со всеми средствами коммуникации, будто из старого фильма с Джеймсом Бондом.</segment>
+		<segment id="45" parent="79" relname="sequence">Со спрятанными наушниками, микрофоном и бог еще знает чем.</segment>
+		<segment id="46" parent="52" relname="same-unit">А затем,</segment>
+		<segment id="47" parent="50" relname="interpretation-evaluation">даже не краснея,</segment>
+		<segment id="48" parent="50" relname="joint">спускается на лед посреди празднований,</segment>
+		<segment id="49" parent="50" relname="joint">обнимаясь с Овечкиным.</segment>
+		<segment id="53" parent="57" relname="span">И то, и другое строго запрещено:</segment>
+		<segment id="54" parent="56" relname="joint">дисквалифицированный тренер не может общаться с командой ни во время, ни после матча,</segment>
+		<segment id="55" parent="56" relname="joint">и участвовать в церемонии награждения тоже не может.</segment>
+		<segment id="59" parent="63" relname="span">Знарок нарушил все возможные правила.</segment>
+		<segment id="60" parent="62" relname="span">Это чистая провокация.</segment>
+		<segment id="61" parent="60" relname="elaboration">Как будто он ткнул пальцем в лицо Рене Фазеля\",</segment>
+		<segment id="64" parent="68" relname="contrast">- цитирует Aftonbladet издание \"Советский спорт\".\n\nШведские журналисты не выдвигают никаких требований,</segment>
+		<segment id="65" parent="67" relname="span">а просто обращают внимание на факт нарушения условий дисквалификации.\n\nНапомним, что Знарок был дисквалифицирован дисциплинарным комитетом ИИХФ на финал</segment>
+		<segment id="66" parent="65" relname="cause-effect">из-за жеста в адрес тренера сборной Швеции в полуфинале.</segment>
+		<segment id="70" parent="76" relname="span">За решающим матчем наставник наблюдал с трибун.</segment>
+		<segment id="71" parent="75" relname="span">Действиями российских хоккеистов со скамейки руководил Харийс Витолиньш.\n\</segment>
+		<segment id="72" parent="74" relname="span">nНапомним, что победа на чемпионате мира в Минске стала для команды России пятой в истории.</segment>
+		<segment id="73" parent="72" relname="elaboration">Ранее наши хоккеисты завоевывали золотые медали в 1993, 2008, 2009 и 2012 годах.\n\nИсточник: https://www.newsru.com/sport/26May2014/znarok.html\n</segment>
+		<group id="44" type="multinuc" parent="80" relname="joint"/>
+		<group id="34" type="span" parent="44" relname="joint"/>
+		<group id="30" type="span" parent="34" relname="span"/>
+		<group id="33" type="span" parent="30" relname="elaboration"/>
+		<group id="43" type="multinuc" parent="44" relname="joint"/>
+		<group id="42" type="span" parent="43" relname="contrast"/>
+		<group id="40" type="span" parent="42" relname="span"/>
+		<group id="39" type="multinuc" parent="36" relname="elaboration"/>
+		<group id="79" type="multinuc" parent="80" relname="joint"/>
+		<group id="78" type="multinuc" parent="79" relname="sequence"/>
+		<group id="58" type="multinuc" parent="78" relname="joint"/>
+		<group id="52" type="multinuc" parent="58" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="same-unit"/>
+		<group id="50" type="multinuc" parent="51" relname="span"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="56" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="77" type="multinuc" parent="78" relname="joint"/>
+		<group id="69" type="span" parent="77" relname="joint"/>
+		<group id="63" type="span" parent="69" relname="span"/>
+		<group id="62" type="span" parent="59" relname="interpretation-evaluation"/>
+		<group id="68" type="multinuc" parent="63" relname="interpretation-evaluation"/>
+		<group id="67" type="span" parent="68" relname="contrast"/>
+		<group id="76" type="span" parent="77" relname="joint"/>
+		<group id="75" type="span" parent="70" relname="elaboration"/>
+		<group id="74" type="span" parent="71" relname="elaboration"/>
+		<group id="80" type="multinuc"/>
+	</body>
+</rst>

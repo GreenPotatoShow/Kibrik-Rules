@@ -1,0 +1,31 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="11" parent="19" relname="joint">Доллар прибавил 6 копеек,</segment>
+		<segment id="12" parent="18" relname="span">евро подешевел на 4\n\nСредневзвешенный курс доллара США к российскому рублю со сроком расчетов \"завтра\" на торгах единой торговой сессии ММВБ по состоянию на 11:30 по московскому времени,</segment>
+		<segment id="13" parent="17" relname="same-unit">на основе которого происходит процесс курсообразования доллара на следующий день,</segment>
+		<segment id="14" parent="16" relname="joint">вырос на 6,28 копейки</segment>
+		<segment id="15" parent="16" relname="joint">и составил 30,7823 рубля,</segment>
+		<segment id="20" parent="22" relname="joint">передает \"Финмаркет\".\n\nСредневзвешенный курс евро со сроком расчетов \"завтра\" к 11:30 подешевел на 3,98 копейки</segment>
+		<segment id="21" parent="22" relname="joint">и составил 40,213 рубля.\n\nРубль стабилен к бивалютной корзине.</segment>
+		<segment id="24" parent="26" relname="joint">Ее стоимость подросла на 2 копейки</segment>
+		<segment id="25" parent="26" relname="joint">и составила 35,03 рубля по сравнению с 35,01 рубля в четверг.\n\nНа международном рынке Forex евро укрепляется по отношению к доллару.</segment>
+		<segment id="27" parent="28" relname="joint">Инвесторы ожидают прогресса в вопросе о мерах борьбы с долговым кризисом от саммита стран Европейского союза.\n\nЕвро стоил 1,3074 доллара на 11:32 по московскому времени 19 октября по сравнению с 1,3067 доллара в четверг вечером на торгах в Нью-Йорке.\n\nИсточник: https://www.newsru.com/finance/19Oct2012/dollar_down.html\n</segment>
+		<group id="23" type="multinuc" parent="29" relname="joint"/>
+		<group id="19" type="multinuc" parent="23" relname="joint"/>
+		<group id="18" type="span" parent="19" relname="joint"/>
+		<group id="17" type="multinuc" parent="12" relname="elaboration"/>
+		<group id="16" type="multinuc" parent="17" relname="same-unit"/>
+		<group id="22" type="multinuc" parent="23" relname="joint"/>
+		<group id="28" type="multinuc" parent="29" relname="joint"/>
+		<group id="26" type="multinuc" parent="28" relname="joint"/>
+		<group id="29" type="multinuc"/>
+	</body>
+</rst>

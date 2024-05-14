@@ -1,0 +1,38 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="13" parent="15" relname="joint">Возбуждено уголовное дело о ДТП с машиной ставропольского депутата,</segment>
+		<segment id="14" parent="15" relname="joint">сбившего человека насмерть\n\nУголовное дело возбуждено по факту ДТП со смертельным исходом с участием автомобиля депутата Ставропольской краевой думы, бывшего прокурора края Валерия Калугина,</segment>
+		<segment id="16" parent="22" relname="joint">сообщает Следственный комитет России в субботу.\n\nДело возбуждено по факту ДТП, по статье 264, ч.3 УК РФ (нарушение правил дорожного движения, повлекшее по неосторожности смерть человека).\n\nПо данным следствия,</segment>
+		<segment id="17" parent="19" relname="span">22 ноября примерно в 19 часов 7 минут на 310-м километре федеральной дороги \"Кавказ\" автомобиль Toyota Land Cruiser 200,</segment>
+		<segment id="18" parent="17" relname="elaboration">принадлежащий депутату думы Ставропольского края, председателю комитета по законодательству, государственному строительству и местному самоуправлению,</segment>
+		<segment id="20" parent="21" relname="same-unit">совершил наезд на 57-летнего жителя села Солуно-Дмитриевского.</segment>
+		<segment id="24" parent="31" relname="cause-effect">Мужчина находился на полосе, разделяющей встречные потоки движения.</segment>
+		<segment id="25" parent="27" relname="joint">В результате полученных телесных повреждений он скончался на месте,</segment>
+		<segment id="26" parent="27" relname="joint">напоминает \"Интерфакс\".\n\nАвтомобиль с места ДТП скрылся,</segment>
+		<segment id="28" parent="30" relname="joint">отмечали ранее в ГИБДД.\n\nПо данным официального сайта краевой Думы,</segment>
+		<segment id="29" parent="30" relname="joint">председателем комитета Думы Ставропольского края по законодательству, государственному строительству и местному самоуправлению является Валерий Калугин.</segment>
+		<segment id="34" parent="33" relname="background">Ранее сообщалось, что в 2002-2005 годах Калугин занимал должность прокурора Ставропольского края.\n\nИсточник: https://www.newsru.com/russia/24Nov2012/kalugin.html\n</segment>
+		<group id="33" type="multinuc" parent="35" relname="span"/>
+		<group id="23" type="multinuc" parent="33" relname="joint"/>
+		<group id="15" type="multinuc" parent="23" relname="joint"/>
+		<group id="22" type="multinuc" parent="23" relname="joint"/>
+		<group id="21" type="multinuc" parent="22" relname="joint"/>
+		<group id="19" type="span" parent="21" relname="same-unit"/>
+		<group id="32" type="span" parent="33" relname="joint"/>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="27" type="multinuc" parent="31" relname="sequence"/>
+		<group id="30" type="multinuc" parent="31" relname="sequence"/>
+		<group id="35" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,88 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="35" parent="39" relname="sequence">Московские школьники вернутся к очному обучению</segment>
+		<segment id="36" parent="38" relname="span">и снова получат право льготного проезда\n\nМосковские школьники вернутся к очному обучению после окончания продленных новогодних каникул 18 января,</segment>
+		<segment id="37" parent="36" relname="elaboration">их транспортные карты разблокируют,</segment>
+		<segment id="40" parent="39" relname="attribution">сообщил в своем блоге столичный мэр Сергей Собянин</segment>
+		<segment id="42" parent="43" relname="restatement">.\n\</segment>
+		<segment id="44" parent="47" relname="attribution">nПо его словам,</segment>
+		<segment id="45" parent="47" relname="contrast">решение отменить дистанционное обучение было непростым,</segment>
+		<segment id="46" parent="47" relname="contrast">но \"ребята устали сидеть дома\".</segment>
+		<segment id="49" parent="50" relname="condition">В связи с тем, что риск роста заболеваемости среди школьников остается высоким,</segment>
+		<segment id="50" parent="51" relname="span">школы должны максимально строго соблюдать меры эпидемиологической безопасности.</segment>
+		<segment id="53" parent="55" relname="span">\"В случае выявления даже одного случая инфекции - как и в первом полугодии - весь класс будет временно переводиться на дистанционное обучение\",</segment>
+		<segment id="54" parent="53" relname="attribution">- заявил Собянин.\n\nОстальные введенные в городе ограничения продлеваются до 21 января.</segment>
+		<segment id="57" parent="59" relname="joint">Городские вузы и колледжи, учреждения дополнительного образования и спортивные школы в этот период будут работать в режиме дистанционного обучения</segment>
+		<segment id="58" parent="59" relname="joint">или находиться на каникулах.\n\nПродление мер на неделю Собянин объяснил тем,</segment>
+		<segment id="60" parent="66" relname="same-unit">что ближайшие дни,</segment>
+		<segment id="61" parent="64" relname="attribution">по мнению эпидемиологов,</segment>
+		<segment id="62" parent="63" relname="cause-effect">\"прояснят складывающуюся в Москве тенденцию,</segment>
+		<segment id="63" parent="64" relname="span">что позволит принять решения на более длительный срок\".</segment>
+		<segment id="68" parent="71" relname="condition">Если не произойдет ухудшения,</segment>
+		<segment id="69" parent="71" relname="joint">и уровень заболеваемости продолжит стабилизироваться,</segment>
+		<segment id="70" parent="71" relname="joint">власти смогут смягчить некоторые ограничения.\n\</segment>
+		<segment id="73" parent="77" relname="same-unit">nВ целом,</segment>
+		<segment id="74" parent="75" relname="attribution">по словам мэра,</segment>
+		<segment id="75" parent="76" relname="span">эпидемиологическая обстановка в Москве пока остается \"неопределенной\".</segment>
+		<segment id="78" parent="81" relname="concession">Хотя в новогодние праздники рост заболеваемости остановился,</segment>
+		<segment id="79" parent="81" relname="restatement">а вакцину ежедневно получают \"несколько тысяч\" москвичей,</segment>
+		<segment id="80" parent="81" relname="restatement">\"ощутимого снижения уровня госпитализации пока не произошло\".</segment>
+		<segment id="83" parent="85" relname="comparison">В больницах находится более 13 тысяч человек</segment>
+		<segment id="84" parent="85" relname="comparison">- столько же, сколько и перед праздниками</segment>
+		<segment id="88" parent="92" relname="joint">.\n\nСобянин призвал соблюдать социальное дистанцирование</segment>
+		<segment id="89" parent="91" relname="joint">и использовать средства защиты,</segment>
+		<segment id="90" parent="91" relname="joint">а также не затягивать с вакцинацией.</segment>
+		<segment id="94" parent="95" relname="joint">Накануне президент России Владимир Путин поручил начать в стране всеобщую вакцинацию со следующей недели.\n\nИсточник: https://www.newsru.com/russia/14Jan2021/distant_end.html\n</segment>
+		<group id="43" type="multinuc" parent="100" relname="preparation"/>
+		<group id="41" type="span" parent="43" relname="restatement"/>
+		<group id="39" type="multinuc" parent="41" relname="span"/>
+		<group id="38" type="span" parent="39" relname="sequence"/>
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="56" type="multinuc" parent="100" relname="joint"/>
+		<group id="52" type="span" parent="56" relname="joint"/>
+		<group id="48" type="span" parent="51" relname="cause-effect"/>
+		<group id="47" type="multinuc" parent="48" relname="span"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="99" type="multinuc" parent="100" relname="joint"/>
+		<group id="67" type="span" parent="99" relname="joint"/>
+		<group id="59" type="multinuc" parent="66" relname="cause-effect"/>
+		<group id="66" type="multinuc" parent="67" relname="span"/>
+		<group id="65" type="span" parent="66" relname="same-unit"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="98" type="span" parent="99" relname="joint"/>
+		<group id="72" type="span" parent="97" relname="condition"/>
+		<group id="71" type="multinuc" parent="72" relname="span"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="77" type="multinuc" parent="97" relname="span"/>
+		<group id="76" type="span" parent="77" relname="same-unit"/>
+		<group id="96" type="multinuc" parent="77" relname="concession"/>
+		<group id="82" type="span" parent="96" relname="joint"/>
+		<group id="81" type="multinuc" parent="82" relname="span"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="93" type="multinuc" parent="95" relname="joint"/>
+		<group id="85" type="multinuc" parent="93" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="101" type="span"/>
+	</body>
+</rst>

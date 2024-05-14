@@ -1,0 +1,59 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="24" relname="span">Cегодня в Ленске госкомиссия рассмотрит вопрос о переносе города в другое место\n\nЯкутский город Ленск,</segment>
+		<segment id="23" parent="22" relname="background">который был полностью затоплен наводнением в Якутии,</segment>
+		<segment id="25" parent="26" relname="span">возможно, будет возведен в другом месте.</segment>
+		<segment id="27" parent="31" relname="span">Сегодня там начнут работать федеральная и республиканская рабочие группы,</segment>
+		<segment id="28" parent="30" relname="span">задача которых - определить нанесенный ущерб и необходимые первоочередные меры</segment>
+		<segment id="29" parent="28" relname="purpose">для нормализации жизни города</segment>
+		<segment id="32" parent="33" relname="same-unit">.\n\</segment>
+		<segment id="35" parent="39" relname="same-unit">nОднако,</segment>
+		<segment id="36" parent="37" relname="attribution">как сообщил ИТАР-ТАСС в Якутске председатель правительства Якутии Василий Власов,</segment>
+		<segment id="37" parent="38" relname="span">\"им дано поручение рассмотреть вопрос</segment>
+		<segment id="40" parent="41" relname="joint">и внести в правительство предложение о переносе Ленска на новое место\".</segment>
+		<segment id="42" parent="48" relname="same-unit">Но,</segment>
+		<segment id="43" parent="46" relname="attribution">по словам Власова,</segment>
+		<segment id="44" parent="45" relname="condition">если даже решение о переносе будет признано нереальным,</segment>
+		<segment id="45" parent="46" relname="span">никакого нового строительства на старом месте власти осуществлять не будут.</segment>
+		<segment id="49" parent="53" relname="span">В этом случае будет рассматриваться вариант строительства нового микрорайона на возвышенном месте,</segment>
+		<segment id="50" parent="52" relname="joint">чтобы исключить вероятность затопления в будущем.\n\nВ Ленске и населенных пунктах Батамай, Салдыкель, Нюя, Натора, Турукта полностью разрушены 3331</segment>
+		<segment id="51" parent="52" relname="joint">и подлежат восстановлению 1831 жилой дом.</segment>
+		<segment id="54" parent="56" relname="joint">Повреждены 396 км линий электропередач, 164 трансформаторные подстанции, 470 км линий связи, пять радиопередающих станций.</segment>
+		<segment id="55" parent="56" relname="joint">Необходимо восстановить 184 км автодорог, два моста, поликлиники, больницы, фельдшерско-акушерские пункты, 26 школ и детских садов, а также другие образовательные учреждения.</segment>
+		<segment id="57" parent="56" relname="elaboration">В пострадавшем районе проживает 31 тыс. человек.\n\nИсточник: https://www.newsru.com/russia/21May2001/lensk.html\n</segment>
+		<group id="34" type="span" parent="62" relname="joint"/>
+		<group id="26" type="span" parent="34" relname="span"/>
+		<group id="24" type="span" parent="25" relname="cause-effect"/>
+		<group id="33" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="31" type="span" parent="33" relname="same-unit"/>
+		<group id="30" type="span" parent="27" relname="elaboration"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="41" type="multinuc" parent="61" relname="contrast"/>
+		<group id="39" type="multinuc" parent="41" relname="joint"/>
+		<group id="38" type="span" parent="39" relname="same-unit"/>
+		<group id="60" type="multinuc" parent="61" relname="contrast"/>
+		<group id="48" type="multinuc" parent="60" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="same-unit"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="53" type="span" parent="59" relname="joint"/>
+		<group id="52" type="multinuc" parent="49" relname="purpose"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="56" type="multinuc" parent="58" relname="span"/>
+		<group id="62" type="multinuc"/>
+	</body>
+</rst>

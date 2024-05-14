@@ -1,0 +1,94 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="38" parent="109" relname="preparation">В Омске на участках \"винтили\" людей, раздававших билеты на рэп-концерт\n\</segment>
+		<segment id="39" parent="47" relname="sequence">nВ Омске намерение местных властей повысить явку среди молодежи с помощью билетов на концерт обернулось казусами.</segment>
+		<segment id="40" parent="42" relname="span">\"Ранние пташки\" билетов не дождались</segment>
+		<segment id="41" parent="40" relname="cause-effect">- их принесли ближе к 11 утра.</segment>
+		<segment id="43" parent="45" relname="span">А затем людей с билетами на концерт L'One стала забирать с участков полиция,</segment>
+		<segment id="44" parent="43" relname="attribution">сообщает \"СуперОмск\".</segment>
+		<segment id="48" parent="52" relname="span">В Омске в единый день голосования выбирают городской совет.\n\nАкцию,</segment>
+		<segment id="49" parent="51" relname="joint">призванную повысить активность молодежи,</segment>
+		<segment id="50" parent="51" relname="joint">инициировала общественная палата Омской области.</segment>
+		<segment id="53" parent="59" relname="sequence">В город привезли рэпера L'One (лейбл Black Star),</segment>
+		<segment id="54" parent="55" relname="cause-effect">а билеты на концерт, который пройдет после закрытия участков,</segment>
+		<segment id="55" parent="56" relname="span">можно получить только в ходе голосования</segment>
+		<segment id="57" parent="56" relname="condition">.\n\</segment>
+		<segment id="61" parent="65" relname="same-unit">nОднако,</segment>
+		<segment id="62" parent="63" relname="attribution">как рассказал член рабочей группы ОП РФ по мониторингу и реализации избирательных прав граждан Александр Малькевич,</segment>
+		<segment id="63" parent="64" relname="span">у раздающих билеты волонтеров возникли неожиданные сложности.\n\n\"На 20 участках волонтеров L'One, выражаясь народным языком,</segment>
+		<segment id="66" parent="65" relname="elaboration">\"свинтили\" органы правопорядка за агитацию за рэпера.</segment>
+		<segment id="68" parent="71" relname="attribution">Можно с юмором сказать,</segment>
+		<segment id="69" parent="70" relname="condition">что если бы этого не произошло,</segment>
+		<segment id="70" parent="71" relname="span">он мог бы победить на некоторых участках.</segment>
+		<segment id="73" parent="77" relname="span">Можно сказать, что</segment>
+		<segment id="74" parent="75" relname="cause-effect">из-за ажиотажа СМИ и некоторых кандидатов, например, о голосующих цыганах,</segment>
+		<segment id="75" parent="76" relname="span">нервозность в обществе настолько увеличилась,</segment>
+		<segment id="78" parent="79" relname="span">что я лично вызволял волонтера в школе, где голосовал губернатор.</segment>
+		<segment id="80" parent="88" relname="span">Там прошла команда:</segment>
+		<segment id="81" parent="87" relname="joint">\"смотрите,</segment>
+		<segment id="82" parent="86" relname="joint">она раздает билеты,</segment>
+		<segment id="83" parent="85" relname="joint">хватай ее</segment>
+		<segment id="84" parent="85" relname="joint">и вяжи\".</segment>
+		<segment id="90" parent="92" relname="span">Мы, к счастью, всех отбили\",</segment>
+		<segment id="91" parent="90" relname="attribution">- указал Малькевич,</segment>
+		<segment id="93" parent="94" relname="restatement">не переставая жаловаться на \"психоз\".\n\</segment>
+		<segment id="95" parent="97" relname="joint">nКроме того, утром юные избиратели жаловались на отсутствие билетов.</segment>
+		<segment id="96" parent="97" relname="joint">Большинство волонтеров появились там в 11:00.</segment>
+		<segment id="98" parent="99" relname="attribution">Малькевич не пояснил,</segment>
+		<segment id="99" parent="100" relname="span">смогут ли получить билеты те, кто проголосовал раньше этого времени.\n\nПомимо концерта, власти организовали и другие акции.</segment>
+		<segment id="102" parent="101" relname="elaboration">Например, среди омичей, сделавших селфи на выборах, разыгрывают смартфоны iPhone 7 и другие гаджеты.\n\nИсточник: https://www.newsru.com/russia/10Sep2017/omskrap.html\n</segment>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="47" type="multinuc" parent="109" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="sequence"/>
+		<group id="42" type="span" parent="46" relname="sequence"/>
+		<group id="45" type="span" parent="46" relname="sequence"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="60" type="multinuc" parent="108" relname="joint"/>
+		<group id="52" type="span" parent="60" relname="sequence"/>
+		<group id="51" type="multinuc" parent="48" relname="elaboration"/>
+		<group id="59" type="multinuc" parent="60" relname="sequence"/>
+		<group id="58" type="span" parent="59" relname="sequence"/>
+		<group id="56" type="span" parent="58" relname="span"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="67" type="span" parent="107" relname="joint"/>
+		<group id="65" type="multinuc" parent="67" relname="span"/>
+		<group id="64" type="span" parent="65" relname="same-unit"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="72" type="span" parent="105" relname="preparation"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="105" type="multinuc" parent="106" relname="span"/>
+		<group id="89" type="span" parent="105" relname="joint"/>
+		<group id="79" type="span" parent="89" relname="span"/>
+		<group id="77" type="span" parent="78" relname="cause-effect"/>
+		<group id="76" type="span" parent="73" relname="cause-effect"/>
+		<group id="88" type="span" parent="79" relname="elaboration"/>
+		<group id="87" type="multinuc" parent="80" relname="elaboration"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="104" type="multinuc" parent="105" relname="joint"/>
+		<group id="94" type="multinuc" parent="104" relname="joint"/>
+		<group id="92" type="span" parent="94" relname="restatement"/>
+		<group id="103" type="span" parent="104" relname="joint"/>
+		<group id="101" type="multinuc" parent="103" relname="span"/>
+		<group id="97" type="multinuc" parent="101" relname="joint"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="110" type="span"/>
+	</body>
+</rst>

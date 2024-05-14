@@ -1,0 +1,147 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="63" parent="67" relname="span">Суд оштрафовал редактора портала ProUfu</segment>
+		<segment id="64" parent="66" relname="span">за комментарий из мэрии,</segment>
+		<segment id="65" parent="64" relname="elaboration">который сочли фейком\n\</segment>
+		<segment id="68" parent="70" relname="joint">nСуд приговорил к штрафу в 60 тысяч рублей редактора башкирского издания ProUfu,</segment>
+		<segment id="69" parent="70" relname="joint">посчитав фейковой информацию, полученную от пресс-секретаря уфимской мэрии.</segment>
+		<segment id="71" parent="76" relname="attribution">При этом сам чиновник на суде заявил,</segment>
+		<segment id="72" parent="76" relname="span">что его комментарий был неофициальным.\n\</segment>
+		<segment id="73" parent="74" relname="attribution">nКак отмечается на сайте издания,</segment>
+		<segment id="74" parent="75" relname="span">поводом к скандалу послужили сведения о подготовке на кладбищах Уфы 1000 мест для умерших от коронавируса.</segment>
+		<segment id="79" parent="82" relname="attribution">Первоначально об этом сообщило издание \"Коммерсант-Уфа\" со ссылкой на источники в Комбинате спецобслуживания Уфы.\n\nГлавный редактор \"Коммерсант-Уфа\" Наталья Павлова заявила,</segment>
+		<segment id="80" parent="82" relname="contrast">что у журналистов не было повода не доверять источнику, занимающему руководящий пост,</segment>
+		<segment id="81" parent="82" relname="contrast">а его слова были переданы корректно.</segment>
+		<segment id="84" parent="90" relname="sequence">Целый ряд уфимских СМИ, в том числе и ProUfu, получил подтверждение этой информации из уст пресс-секретаря мэрии Марселя Байдавлетова</segment>
+		<segment id="85" parent="88" relname="attribution">и опубликовал ее на своих сайтах.\n\nОднако на следующий день администрация Уфы разместила сообщение,</segment>
+		<segment id="86" parent="88" relname="span">что информация является недостоверной,</segment>
+		<segment id="87" parent="86" relname="condition">дав повод обвинить СМИ в публикации фейк-ньюс.</segment>
+		<segment id="91" parent="93" relname="joint">Издания были вынуждены снять свои материалы,</segment>
+		<segment id="92" parent="93" relname="joint">а в отношении портала ProUfu был составлен протокол об административной ответственности.</segment>
+		<segment id="96" parent="98" relname="span">Редактора портала Тимура Алмаева обвинили в нарушении ч.9 ст.13.15 КоАП РФ и размещении заведомо недостоверных сведений,</segment>
+		<segment id="97" parent="96" relname="concession">хотя он не имел никакого отношения к данной публикации:</segment>
+		<segment id="99" parent="113" relname="joint">редакция работала на удаленной основе,</segment>
+		<segment id="100" parent="111" relname="cause-effect">и журналисты принимали решения о публикации самостоятельно.\n\nКроме того, источником информации было должностное лицо органа власти,</segment>
+		<segment id="101" parent="111" relname="joint">что исключает возможность недостоверности новостей.</segment>
+		<segment id="102" parent="110" relname="span">А сама ч.9 ст. 13.15 КоАП РФ подразумевает наступление тяжких последствий,</segment>
+		<segment id="103" parent="109" relname="same-unit">создающих угрозу массового нарушения общественного порядка и безопасности,</segment>
+		<segment id="104" parent="108" relname="joint">чего в данном случае не произошло,</segment>
+		<segment id="105" parent="106" relname="attribution">подчеркнули в редакции</segment>
+		<segment id="106" parent="107" relname="span">.\n\nЖурналисты обратили внимание на то, что дело о правонарушении было передано судье 2 участка мировых судей Ленинского района Анфисе Валиуллиной.</segment>
+		<segment id="115" parent="125" relname="span">Она получила известность после дела Руслана Шарифуллина,</segment>
+		<segment id="116" parent="123" relname="cause-effect">оштрафованого за нарушение режима самоизоляции</segment>
+		<segment id="117" parent="118" relname="cause-effect">из-за того, что он вышел перепарковать машину.\n\nВ районной прокуратуре обратили внимание на то,</segment>
+		<segment id="118" parent="119" relname="span">что мировой судья вообще не имел права рассматривать его дело,</segment>
+		<segment id="120" parent="122" relname="span">потому что действия автомобилиста попадают под статью о невыполнении правил поведения</segment>
+		<segment id="121" parent="120" relname="condition">при чрезвычайной ситуации или угрозе ее возникновения (20.6.1 КоАП).</segment>
+		<segment id="126" parent="127" relname="span">Выносить решение по таким делам мог только районный суд.</segment>
+		<segment id="128" parent="133" relname="cause-effect">Впоследствии решение было отменено.\n\nНа заседании суда Марсель Байдавлетов подтвердил,</segment>
+		<segment id="129" parent="133" relname="contrast">что давал информацию о подготовке мест на кладбищах,</segment>
+		<segment id="130" parent="131" relname="attribution">но неожиданно заявил,</segment>
+		<segment id="131" parent="132" relname="span">что она прозвучала не как официальный комментарий, а в рамках личного общения в мессенджере WhatsApp.</segment>
+		<segment id="135" parent="136" relname="attribution">Между тем журналисты издания утверждают,</segment>
+		<segment id="136" parent="137" relname="span">что используют любые каналы связи с чиновниками исключительно в профессиональных целях,</segment>
+		<segment id="138" parent="141" relname="attribution">а существующие нормы права не подразумевают понятия официального и неофициального комментария.\n\nТакже Байдавлетов заявил,</segment>
+		<segment id="139" parent="141" relname="span">что мэрия дает официальные комментарии исключительно на письменные запросы с печатью и подписью редакторов СМИ,</segment>
+		<segment id="140" parent="139" relname="elaboration">проигнорировав существующее в законе о СМИ понятие устного запроса и невозможность оформить письменный запрос в условиях самоизоляции.\n\</segment>
+		<segment id="145" parent="151" relname="same-unit">nКроме того,</segment>
+		<segment id="146" parent="149" relname="attribution">по словам журналистов,</segment>
+		<segment id="147" parent="149" relname="span">администрация города давно практикует общение со СМИ через мессенджеры,</segment>
+		<segment id="148" parent="147" relname="condition">когда чиновники просят присылать им на почту не запросы, а конкретные вопросы.</segment>
+		<segment id="152" parent="154" relname="contrast">\"Это позволяет давать оперативный комментарий,</segment>
+		<segment id="153" parent="154" relname="contrast">но при этом обосновать их перед собственным руководством.</segment>
+		<segment id="155" parent="157" relname="span">Это факт, который подтверждают все уфимские СМИ\",</segment>
+		<segment id="156" parent="155" relname="attribution">- говорится в сообщении портала.</segment>
+		<segment id="160" parent="173" relname="attribution">Коллеги из других СМИ также подтвердили аналогичный комментарий со стороны Байдавлетова.\n\nСудья Валиуллина в решении заявила,</segment>
+		<segment id="161" parent="165" relname="joint">что речь идет о ложности размещенного материала,</segment>
+		<segment id="162" parent="164" relname="contrast">а также умысле со стороны разместившего статью автора,</segment>
+		<segment id="163" parent="164" relname="contrast">но не стала раскрывать умысел редактора Тимура Алмаева,</segment>
+		<segment id="166" parent="168" relname="span">а заведомую ложность публикации</segment>
+		<segment id="167" parent="166" relname="cause-effect">увидела в \"осознании Алмаевым опасности последствий\",</segment>
+		<segment id="169" parent="170" relname="concession">хотя тот не имел отношения к публикации ни как автор, ни как редактор,</segment>
+		<segment id="170" parent="171" relname="span">что было установлено в том числе и судом.</segment>
+		<segment id="175" parent="177" relname="span">Кроме того, \"осознание опасности последствий\" никак не отражено в материалах дела.</segment>
+		<segment id="176" parent="175" relname="evidence">Редакция намерена обжаловать штраф в суде, в том числе в Европейском суде по правам человека.\n\nИсточник: https://www.newsru.com/russia/10Jun2020/fake_sud.html\n</segment>
+		<group id="67" type="span" parent="184" relname="preparation"/>
+		<group id="66" type="span" parent="63" relname="cause-effect"/>
+		<group id="184" type="span" parent="185" relname="span"/>
+		<group id="78" type="multinuc" parent="183" relname="preparation"/>
+		<group id="70" type="multinuc" parent="78" relname="joint"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="75" type="span" parent="72" relname="elaboration"/>
+		<group id="183" type="multinuc" parent="184" relname="span"/>
+		<group id="95" type="multinuc" parent="183" relname="joint"/>
+		<group id="83" type="span" parent="95" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="90" type="multinuc" parent="94" relname="joint"/>
+		<group id="89" type="span" parent="90" relname="sequence"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="182" type="multinuc" parent="183" relname="joint"/>
+		<group id="114" type="multinuc" parent="182" relname="joint"/>
+		<group id="98" type="span" parent="114" relname="joint"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="112" type="span" parent="113" relname="joint"/>
+		<group id="111" type="multinuc" parent="112" relname="span"/>
+		<group id="110" type="span" parent="111" relname="joint"/>
+		<group id="109" type="multinuc" parent="102" relname="elaboration"/>
+		<group id="108" type="multinuc" parent="109" relname="same-unit"/>
+		<group id="107" type="span" parent="108" relname="joint"/>
+		<group id="181" type="multinuc" parent="182" relname="joint"/>
+		<group id="127" type="span" parent="181" relname="joint"/>
+		<group id="125" type="span" parent="126" relname="cause-effect"/>
+		<group id="124" type="span" parent="115" relname="purpose"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="119" type="span" parent="123" relname="span"/>
+		<group id="122" type="span" parent="119" relname="cause-effect"/>
+		<group id="180" type="multinuc" parent="181" relname="joint"/>
+		<group id="144" type="multinuc" parent="180" relname="joint"/>
+		<group id="134" type="span" parent="144" relname="joint"/>
+		<group id="133" type="multinuc" parent="134" relname="span"/>
+		<group id="132" type="span" parent="133" relname="contrast"/>
+		<group id="143" type="multinuc" parent="144" relname="joint"/>
+		<group id="137" type="span" parent="143" relname="joint"/>
+		<group id="142" type="span" parent="143" relname="joint"/>
+		<group id="141" type="span" parent="142" relname="span"/>
+		<group id="179" type="multinuc" parent="180" relname="joint"/>
+		<group id="159" type="span" parent="179" relname="joint"/>
+		<group id="151" type="multinuc" parent="159" relname="span"/>
+		<group id="150" type="span" parent="151" relname="same-unit"/>
+		<group id="149" type="span" parent="150" relname="span"/>
+		<group id="158" type="span" parent="151" relname="purpose"/>
+		<group id="154" type="multinuc" parent="158" relname="span"/>
+		<group id="157" type="span" parent="154" relname="elaboration"/>
+		<group id="178" type="multinuc" parent="179" relname="joint"/>
+		<group id="174" type="span" parent="178" relname="joint"/>
+		<group id="173" type="multinuc" parent="174" relname="span"/>
+		<group id="165" type="multinuc" parent="173" relname="contrast"/>
+		<group id="164" type="multinuc" parent="165" relname="joint"/>
+		<group id="172" type="span" parent="173" relname="contrast"/>
+		<group id="168" type="span" parent="172" relname="span"/>
+		<group id="171" type="span" parent="168" relname="concession"/>
+		<group id="177" type="span" parent="178" relname="joint"/>
+		<group id="185" type="span"/>
+	</body>
+</rst>

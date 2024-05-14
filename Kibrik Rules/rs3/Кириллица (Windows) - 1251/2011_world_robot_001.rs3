@@ -1,0 +1,106 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="44" parent="46" relname="span">На МКС активировали человекоподобного робота-андроида.</segment>
+		<segment id="45" parent="44" relname="background">Он написал о своих ощущениях в Twitter (ВИДЕО)\n\nНа Международной космической станции \"ожил\" робот-астронавт.</segment>
+		<segment id="47" parent="59" relname="sequence">Центр управления полетами в американском Хьюстоне в понедельник дистанционно включил питание андроида Robonaut-2, доставленного на МКС в феврале текущего года.</segment>
+		<segment id="48" parent="50" relname="joint">Все системы робота уже активированы,</segment>
+		<segment id="49" parent="50" relname="joint">его первые испытания начнутся с 1 сентября</segment>
+		<segment id="51" parent="50" relname="attribution">- он пошевелит \"пальцами\",</segment>
+		<segment id="53" parent="52" relname="attribution">сообщает AP со ссылкой на NASA.\n\n\"Эти электроны хороши на вкус\",</segment>
+		<segment id="55" parent="57" relname="span">- написал Robonaut сразу после подключения к сети в своем микроблоге в Twitter,</segment>
+		<segment id="56" parent="55" relname="background">который он ведет с момента прибытия на орбиту.</segment>
+		<segment id="60" parent="62" relname="contrast">\"Это маленький шаг для человека,</segment>
+		<segment id="61" parent="62" relname="contrast">но огромный скачок для жестянки,</segment>
+		<segment id="63" parent="62" relname="attribution">- заявил робот.</segment>
+		<segment id="65" parent="64" relname="background">- Я в космосе!</segment>
+		<segment id="67" parent="71" relname="span">Как вам такое?\".\n\nRobonaut-2 или просто R-2,</segment>
+		<segment id="68" parent="70" relname="span">созданный в сотрудничестве с концерном General Motors по своему строению напоминает человека:</segment>
+		<segment id="69" parent="68" relname="elaboration">у него есть туловище, голова и две руки.</segment>
+		<segment id="72" parent="71" relname="elaboration">Нижняя часть робота - две механические ноги - будут доставлены на МКС в 2013 году.</segment>
+		<segment id="74" parent="76" relname="joint">Основной компьютер находится в \"желудке\" робота,</segment>
+		<segment id="75" parent="76" relname="joint">также R-2 оснащен тридцатью процессорами для управления \"суставами\".</segment>
+		<segment id="77" parent="85" relname="joint">Высота Robonaut - чуть более метра, вес - 150 килограммов.\n\nНа Земле Robonaut прошел многочисленные испытания:</segment>
+		<segment id="78" parent="84" relname="joint">тягал гири,</segment>
+		<segment id="79" parent="83" relname="joint">писал маркером слово \"Hello\",</segment>
+		<segment id="80" parent="82" relname="joint">аккуратно доставал конверт из емкости,</segment>
+		<segment id="81" parent="82" relname="joint">жал руку \"коллеге\" из NASA и др.\n\</segment>
+		<segment id="87" parent="97" relname="span">nВ ближайшие месяцы NASA будет изучать, как робот сможет функционировать в условиях невесомости.</segment>
+		<segment id="88" parent="89" relname="purpose">Для ориентирования в пространстве</segment>
+		<segment id="89" parent="90" relname="span">он использует четыре оптические камеры, установленные в шлеме, и одну инфракрасную, размещенную чуть ниже.</segment>
+		<segment id="91" parent="95" relname="span">Там же находится и динамик,</segment>
+		<segment id="92" parent="93" relname="condition">с помощью которого R-2 общается с людьми,</segment>
+		<segment id="93" parent="94" relname="span">передают \"Вести\".\n\</segment>
+		<segment id="98" parent="99" relname="attribution">nРазработчики R-2 надеются,</segment>
+		<segment id="99" parent="100" relname="span">что со временем робот сможет взять на себя обязанности по выполнению рутинных операций, в частности, уборки орбитальной станции.</segment>
+		<segment id="101" parent="103" relname="joint">Возможно, робот будет полезен</segment>
+		<segment id="102" parent="103" relname="joint">и при возникновении чрезвычайных ситуаций</segment>
+		<segment id="104" parent="106" relname="span">- пожарах или утечках токсических веществ, угрожающих здоровью или жизни экипажа МКС.\n\nРобот-андроид R-2 предназначен</segment>
+		<segment id="105" parent="104" relname="purpose">для работы только в пределах станции,</segment>
+		<segment id="109" parent="110" relname="attribution">однако в NASA рассчитывают,</segment>
+		<segment id="110" parent="111" relname="span">что его преемники будут работать и на внешней поверхности МКС.</segment>
+		<segment id="112" parent="111" relname="attribution">Директор космического центра имени Линдона Джонсона Майкл Коутс заявил:</segment>
+		<segment id="114" parent="116" relname="joint">\"Работая бок о бок с людьми</segment>
+		<segment id="115" parent="116" relname="joint">или отправляясь туда,</segment>
+		<segment id="117" parent="119" relname="comparison">где риск для их жизни слишком велик,</segment>
+		<segment id="118" parent="119" relname="comparison">такие устройства, как Robonaut, значительно расширят наши возможности\".\n\nИсточник: https://www.newsru.com/world/23Aug2011/robot.html\n</segment>
+		<group id="46" type="span" parent="127" relname="preparation"/>
+		<group id="127" type="multinuc" parent="128" relname="span"/>
+		<group id="59" type="multinuc" parent="127" relname="joint"/>
+		<group id="58" type="multinuc" parent="59" relname="sequence"/>
+		<group id="54" type="span" parent="58" relname="sequence"/>
+		<group id="52" type="span" parent="54" relname="span"/>
+		<group id="50" type="multinuc" parent="52" relname="span"/>
+		<group id="57" type="span" parent="58" relname="sequence"/>
+		<group id="126" type="multinuc" parent="127" relname="joint"/>
+		<group id="66" type="span" parent="126" relname="joint"/>
+		<group id="64" type="span" parent="66" relname="span"/>
+		<group id="62" type="multinuc" parent="64" relname="span"/>
+		<group id="125" type="multinuc" parent="126" relname="joint"/>
+		<group id="73" type="span" parent="125" relname="joint"/>
+		<group id="71" type="span" parent="73" relname="span"/>
+		<group id="70" type="span" parent="67" relname="elaboration"/>
+		<group id="124" type="multinuc" parent="125" relname="joint"/>
+		<group id="86" type="span" parent="124" relname="joint"/>
+		<group id="76" type="multinuc" parent="86" relname="span"/>
+		<group id="85" type="multinuc" parent="76" relname="elaboration"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="123" type="multinuc" parent="124" relname="joint"/>
+		<group id="97" type="span" parent="123" relname="joint"/>
+		<group id="96" type="span" parent="87" relname="purpose"/>
+		<group id="90" type="span" parent="96" relname="span"/>
+		<group id="95" type="span" parent="90" relname="elaboration"/>
+		<group id="94" type="span" parent="91" relname="purpose"/>
+		<group id="122" type="multinuc" parent="123" relname="joint"/>
+		<group id="108" type="multinuc" parent="122" relname="contrast"/>
+		<group id="100" type="span" parent="108" relname="joint"/>
+		<group id="107" type="span" parent="108" relname="joint"/>
+		<group id="103" type="multinuc" parent="107" relname="span"/>
+		<group id="106" type="span" parent="103" relname="elaboration"/>
+		<group id="121" type="span" parent="122" relname="contrast"/>
+		<group id="113" type="span" parent="121" relname="span"/>
+		<group id="111" type="span" parent="113" relname="span"/>
+		<group id="120" type="span" parent="113" relname="elaboration"/>
+		<group id="116" type="multinuc" parent="119" relname="condition"/>
+		<group id="119" type="multinuc" parent="120" relname="span"/>
+		<group id="128" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,44 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="17" relname="attribution">Глава IAAF объяснил обмороки марафонцев на ЧМ тем,</segment>
+		<segment id="17" parent="18" relname="span">что спортсмены знали, на что шли\n\</segment>
+		<segment id="19" parent="25" relname="span">nПрезидент Международной ассоциации легкоатлетических федераций Себастьян Коу оправдал обмороки марафонцев на чемпионате мира по легкой атлетике в Дохе тем, что спортсмены знали, на что шли.\n\n</segment>
+		<segment id="20" parent="22" relname="joint">\"Мы не сталкивались с серьезными проблемами,</segment>
+		<segment id="21" parent="22" relname="joint">все они были разрешимы,</segment>
+		<segment id="23" parent="22" relname="attribution">- сказал британец на пресс-конференции, посвященной итогам турнира.</segment>
+		<segment id="26" parent="28" relname="joint">- Да, мы столкнулись с вызовами,</segment>
+		<segment id="27" parent="28" relname="joint">и топовые спортсмены, которые приехали сюда, были хорошо подготовленными.</segment>
+		<segment id="29" parent="40" relname="preparation">Они понимали, с какими вызовами они столкнутся\".\n\</segment>
+		<segment id="30" parent="32" relname="span">nПо ходу чемпионата мира в Дохе организаторы турнира подвергались критике</segment>
+		<segment id="31" parent="30" relname="elaboration">за то, что марафоны и соревнования по спортивной ходьбе проходили в экстремальных условиях: в ночное время при 30-градусной жаре и повышенной влажности,</segment>
+		<segment id="33" parent="32" relname="elaboration">в условиях духоты.\n\nТак, почти половина участниц женского марафона не добралась до финиша,</segment>
+		<segment id="35" parent="37" relname="span">некоторым требовалась медицинская помощь,</segment>
+		<segment id="36" parent="35" relname="cause-effect">поскольку они теряли сознание.</segment>
+		<segment id="39" parent="38" relname="elaboration">Многие спортсмены такое отношение организаторов сочли неуважительным.\n\nИсточник: https://www.newsru.com/sport/06Oct2019/seb.html\n</segment>
+		<group id="18" type="span" parent="43" relname="preparation"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="25" type="span" parent="43" relname="joint"/>
+		<group id="24" type="span" parent="19" relname="elaboration"/>
+		<group id="22" type="multinuc" parent="24" relname="span"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="28" type="multinuc" parent="41" relname="preparation"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="38" type="span" parent="40" relname="span"/>
+		<group id="34" type="span" parent="38" relname="span"/>
+		<group id="32" type="span" parent="34" relname="span"/>
+		<group id="37" type="span" parent="34" relname="elaboration"/>
+		<group id="44" type="span"/>
+	</body>
+</rst>

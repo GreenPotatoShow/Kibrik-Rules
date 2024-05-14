@@ -1,0 +1,32 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="11" parent="13" relname="span">Бензин за неделю подорожал еще на 6 копеек\n\nСредние потребительские цены на\nбензин в России с 3-го по 9 апреля выросли на 0,2%, или на 6 копеек, следует из данных Росстата.\n\nЦены на бензин растут по 0,2% вторую неделю подряд.</segment>
+		<segment id="12" parent="11" relname="elaboration">Три предыдущих\nнедели они прибавляли по 0,1%.</segment>
+		<segment id="14" parent="16" relname="comparison">С начала года бензин подорожал на 2,2%,</segment>
+		<segment id="15" parent="16" relname="comparison">дизельное топливо - на 2,6%,</segment>
+		<segment id="17" parent="18" relname="comparison">отмечает \"Интерфакс\".\n\nЗа прошедшую неделю в 44 центрах субъектов Российской Федерации\nотмечался рост цен на бензин автомобильный.</segment>
+		<segment id="19" parent="21" relname="comparison">Более всего цены на него\nувеличились в Махачкале - на 2,7% и Саранске - на 0,8%.\n\nСнижение цен на бензин на 0,4% зафиксировано в\nПетропавловске-Камчатском, на 0,1% - в Кирове.\n\nВ Москве за прошедшую неделю цены на бензин выросли на 0,2%,</segment>
+		<segment id="20" parent="21" relname="comparison">в\nСанкт-Петербурге - на 0,1%.</segment>
+		<segment id="22" parent="26" relname="comparison">На наблюдаемых АЗС в Москве бензин марки АИ-92 (АИ-93 и т.п.) можно было приобрести по цене от 34,80 до 37,60 руб. за литр, марки АИ-95 и\nвыше - от 37,90 до 41,90 руб.</segment>
+		<segment id="23" parent="25" relname="comparison">В Санкт-Петербурге бензин марки АИ-92\n(АИ-93 и т.п.) стоил от 35,00 до 36,89 руб., марки АИ-95 и выше - от\n38,30 до 40,94 руб. за литр.\n\nСтоимость литра бензина в среднем по РФ на 10 апреля составила\n37,28 руб. (3 апреля - 37,22 руб.).</segment>
+		<segment id="24" parent="25" relname="comparison">Дизтопливо 10\nапреля стоило в среднем 37,60 рубля (3 апреля - 37,61 руб.).\n\nИсточник: https://www.newsru.com/auto/13Apr2017/benzin.html\n</segment>
+		<group id="13" type="span" parent="29" relname="joint"/>
+		<group id="28" type="multinuc" parent="29" relname="joint"/>
+		<group id="18" type="multinuc" parent="28" relname="comparison"/>
+		<group id="16" type="multinuc" parent="18" relname="comparison"/>
+		<group id="27" type="span" parent="28" relname="comparison"/>
+		<group id="21" type="multinuc" parent="27" relname="span"/>
+		<group id="26" type="multinuc" parent="21" relname="evidence"/>
+		<group id="25" type="multinuc" parent="26" relname="comparison"/>
+		<group id="29" type="multinuc"/>
+	</body>
+</rst>

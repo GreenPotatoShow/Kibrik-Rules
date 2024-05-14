@@ -1,0 +1,120 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="52" parent="56" relname="span">Маоисты признались в подрыве поезда в Индии:</segment>
+		<segment id="53" parent="55" relname="span">72 погибших, более 200 раненых\n\nОтветственность за подрыв пассажирского поезда в Индии взял на себя поддерживаемый маоистами Народный комитет против злодеяний полиции,</segment>
+		<segment id="54" parent="53" relname="attribution">сообщает в пятницу электронная версия индийской газеты Hindustan Times.\n\</segment>
+		<segment id="57" parent="66" relname="attribution">nПо словам представителя правоохранительных органов Индии,</segment>
+		<segment id="58" parent="66" relname="span">неподалеку от места происшествия комитет оставил две листовки,</segment>
+		<segment id="59" parent="65" relname="span">в которых четко указано на его ответственность за теракт,</segment>
+		<segment id="62" parent="64" relname="span">жертвами которого стали, по последним данным, 72 человека, свыше 200 ранены,</segment>
+		<segment id="63" parent="62" relname="attribution">передает \"Интерфакс\".</segment>
+		<segment id="69" parent="72" relname="attribution">По словам представителей индийских властей,</segment>
+		<segment id="70" parent="72" relname="span">это могут быть еще не окончательные цифры.\n\nПодрыв пассажирского поезда, который следовал из Калькутты в Мумбаи,</segment>
+		<segment id="71" parent="70" relname="background">произошел в ночь на пятницу в штате Западная Бенгалия на востоке Индии.</segment>
+		<segment id="74" parent="73" relname="elaboration">В сошедшие с рельсов 13 вагонов экспресса \"Гьянешвари\" врезался товарный поезд, шедший в противоположном направлении.</segment>
+		<segment id="76" parent="83" relname="cause-effect">10 из 13 сошедших с рельсов вагонов были спальными,</segment>
+		<segment id="77" parent="79" relname="span">так что многие пассажиры спали,</segment>
+		<segment id="78" parent="77" relname="condition">когда произошла авария,</segment>
+		<segment id="80" parent="81" relname="attribution">передает ИТАР-ТАСС.\n\</segment>
+		<segment id="81" parent="82" relname="span">nНа месте происшествия продолжают работать спасатели,</segment>
+		<segment id="85" parent="87" relname="span">однако пока им не удается добраться до некоторых мест,</segment>
+		<segment id="86" parent="85" relname="elaboration">где еще могут быть люди.</segment>
+		<segment id="89" parent="90" relname="condition">Спустя 12 часов после крушения,</segment>
+		<segment id="90" parent="91" relname="span">спасатели не могли добраться более чем до 50 человек, которые оставались внутри искореженных вагонов.</segment>
+		<segment id="92" parent="94" relname="span">\"Мы можем говорить с некоторыми из них.</segment>
+		<segment id="93" parent="92" relname="elaboration">Остальные, в лучшем случае, находятся в бессознательном состоянии\",</segment>
+		<segment id="95" parent="94" relname="attribution">- сообщил один из спасателей</segment>
+		<segment id="99" parent="111" relname="same-unit">.\n\</segment>
+		<segment id="100" parent="109" relname="attribution">nПо его словам,</segment>
+		<segment id="101" parent="107" relname="span">предварительные данные расследования подтверждают версию теракта:</segment>
+		<segment id="102" parent="104" relname="span">на месте катастрофы были найдены остатки \"гремучего желатина\", используемого для подрывных работ а также листовки двух маоистских группировок,</segment>
+		<segment id="103" parent="102" relname="elaboration">терроризирующих сельские районы штата Западная Бенгалия,</segment>
+		<segment id="105" parent="104" relname="elaboration">получившего печальную известность как оплот террористов на востоке страны.\n\nПодрыв произошел в регионе,</segment>
+		<segment id="108" parent="107" relname="elaboration">где неоднократно совершали диверсии левые мятежники - маоисты.</segment>
+		<segment id="112" parent="115" relname="attribution">Министр железнодорожного транспорта Мамата Банерджи, прибыв на место трагедии, заявила,</segment>
+		<segment id="113" parent="115" relname="joint">что именно маоистов подозревают в организации взрыва</segment>
+		<segment id="114" parent="115" relname="joint">и как следствие столкновения поездов.\n\n\"Железные дороги - легкая мишень для маоистов.</segment>
+		<segment id="117" parent="119" relname="span">С сегодняшнего дня по 31 мая они объявили \"черными днями\",</segment>
+		<segment id="118" parent="117" relname="cause-effect">мы усилили режим безопасности на дороге,</segment>
+		<segment id="120" parent="121" relname="contrast">но не могли остановить движение поездов\",</segment>
+		<segment id="123" parent="122" relname="attribution">- отметила министр.</segment>
+		<segment id="125" parent="132" relname="attribution">Банерджи объявил,</segment>
+		<segment id="126" parent="132" relname="joint">что семьи погибших получат компенсацию в размере 500 тысяч рупий (более 10 тысяч долларов),</segment>
+		<segment id="127" parent="129" relname="span">пострадавшим выплатят по 100 тысяч рупий.\n\nМаоисты,</segment>
+		<segment id="128" parent="127" relname="elaboration">которых в Индии называют также наксалитами,</segment>
+		<segment id="130" parent="131" relname="same-unit">совершают подобные теракты на протяжении нескольких десятилетий.</segment>
+		<segment id="134" parent="140" relname="joint">Сообщений об их вооруженных вылазках поступают практически ежедневно.</segment>
+		<segment id="135" parent="139" relname="span">При этом они позиционируют себя как защитников бедного населения.\n\</segment>
+		<segment id="136" parent="137" relname="attribution">nПо словам премьер-министра республики Манмохана Сингха,</segment>
+		<segment id="137" parent="138" relname="span">угроза со стороны маоистов является самой серьезной для внутренней безопасности страны.</segment>
+		<segment id="141" parent="142" relname="attribution">По данным МВД Индии,</segment>
+		<segment id="142" parent="143" relname="span">формирования экстремистов насчитывают до 20 тысяч человек.</segment>
+		<segment id="144" parent="145" relname="joint">Маоисты активно действуют в 20 штатах Индии, особенно в Бихаре, Западной Бенгалии, Чхаттисгархе.\n\nИсточник: https://www.newsru.com/world/28May2010/maoist.html\n</segment>
+		<group id="68" type="span" parent="151" relname="preparation"/>
+		<group id="56" type="span" parent="68" relname="span"/>
+		<group id="55" type="span" parent="52" relname="elaboration"/>
+		<group id="67" type="span" parent="56" relname="elaboration"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="65" type="span" parent="58" relname="elaboration"/>
+		<group id="64" type="span" parent="59" relname="elaboration"/>
+		<group id="151" type="span" parent="152" relname="span"/>
+		<group id="75" type="span" parent="150" relname="preparation"/>
+		<group id="73" type="span" parent="75" relname="span"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="150" type="multinuc" parent="151" relname="span"/>
+		<group id="98" type="multinuc" parent="150" relname="joint"/>
+		<group id="88" type="multinuc" parent="98" relname="joint"/>
+		<group id="84" type="span" parent="88" relname="contrast"/>
+		<group id="83" type="span" parent="84" relname="span"/>
+		<group id="79" type="span" parent="83" relname="span"/>
+		<group id="82" type="span" parent="79" relname="elaboration"/>
+		<group id="87" type="span" parent="88" relname="contrast"/>
+		<group id="97" type="span" parent="98" relname="joint"/>
+		<group id="91" type="span" parent="97" relname="span"/>
+		<group id="96" type="span" parent="91" relname="elaboration"/>
+		<group id="94" type="span" parent="96" relname="span"/>
+		<group id="149" type="multinuc" parent="150" relname="joint"/>
+		<group id="111" type="multinuc" parent="149" relname="joint"/>
+		<group id="110" type="span" parent="111" relname="same-unit"/>
+		<group id="109" type="span" parent="110" relname="span"/>
+		<group id="107" type="span" parent="109" relname="span"/>
+		<group id="106" type="span" parent="101" relname="elaboration"/>
+		<group id="104" type="span" parent="106" relname="span"/>
+		<group id="148" type="multinuc" parent="149" relname="joint"/>
+		<group id="124" type="span" parent="148" relname="joint"/>
+		<group id="122" type="span" parent="124" relname="span"/>
+		<group id="116" type="span" parent="122" relname="span"/>
+		<group id="115" type="multinuc" parent="116" relname="span"/>
+		<group id="121" type="multinuc" parent="116" relname="elaboration"/>
+		<group id="119" type="span" parent="121" relname="contrast"/>
+		<group id="147" type="multinuc" parent="148" relname="joint"/>
+		<group id="133" type="span" parent="147" relname="joint"/>
+		<group id="132" type="multinuc" parent="133" relname="span"/>
+		<group id="131" type="multinuc" parent="132" relname="joint"/>
+		<group id="129" type="span" parent="131" relname="same-unit"/>
+		<group id="146" type="span" parent="147" relname="joint"/>
+		<group id="140" type="multinuc" parent="146" relname="span"/>
+		<group id="139" type="span" parent="140" relname="joint"/>
+		<group id="138" type="span" parent="135" relname="elaboration"/>
+		<group id="145" type="multinuc" parent="140" relname="elaboration"/>
+		<group id="143" type="span" parent="145" relname="joint"/>
+		<group id="152" type="span"/>
+	</body>
+</rst>

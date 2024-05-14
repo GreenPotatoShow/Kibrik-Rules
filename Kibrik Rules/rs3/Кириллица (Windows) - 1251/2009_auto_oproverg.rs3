@@ -1,0 +1,47 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="22" relname="preparation">Никаких списков VIP-автомобилей не раздают.</segment>
+		<segment id="18" parent="21" relname="attribution">ГИБДД опровергла существование \"неприкасаемого\" листа\n\nПредставители ГУВД Москвы опровергли информацию о том,</segment>
+		<segment id="19" parent="21" relname="span">что столичная ГИБДД выдает своим сотрудникам списки номеров так называемых \"неприкасаемых\" машин VIP-персон,</segment>
+		<segment id="20" parent="19" relname="elaboration">которые запрещено останавливать на дорогах.\n\n</segment>
+		<segment id="24" parent="25" relname="attribution">\"Официально заявляю,</segment>
+		<segment id="25" parent="26" relname="span">что ни в ГУВД Москвы, ни в ГИБДД списков такого рода не существует.</segment>
+		<segment id="27" parent="28" relname="cause-effect">Все маршруты представителей власти заранее тщательно организуются для беспрепятственного проезда,</segment>
+		<segment id="28" parent="29" relname="span">поэтому необходимости в указанных списках попросту нет\",</segment>
+		<segment id="31" parent="36" relname="attribution">- сказал Интерфаксу начальник управления информации и общественных связей ГУВД Москвы полковник милиции Виктор Бирюков.\n\nТакже Бирюков добавил,</segment>
+		<segment id="32" parent="34" relname="joint">что начальник ГУВД Москвы генерал-майор милиции Владимир Колокольцев каких-либо списков подобного род не утверждал</segment>
+		<segment id="33" parent="34" relname="joint">и никогда утверждать не будет.</segment>
+		<segment id="35" parent="34" relname="interpretation-evaluation">\"Это его принципиальная позиция\",</segment>
+		<segment id="39" parent="40" relname="attribution">- подчеркнул собеседник\nагентства.\n\nНапомним, что ранее в ряде СМИ появилась информация о том,</segment>
+		<segment id="40" parent="41" relname="span">что сотрудникам московской ГАИ сейчас выдают списки руководящего состава ГУВД, МВД и мэрии с указанием не только служебных, но и личных автомобилей.</segment>
+		<segment id="42" parent="44" relname="joint">Информация предназначена для служебного пользования,</segment>
+		<segment id="43" parent="44" relname="joint">вместе с листочком милиционерам дают строгое устное наказание не останавливать включенные в VIP-список автомобили.\n\nИсточник: https://www.newsru.com/auto/13Oct2009/oproverg.html\n</segment>
+		<group id="23" type="span" parent="47" relname="joint"/>
+		<group id="22" type="span" parent="23" relname="span"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="38" type="multinuc" parent="46" relname="joint"/>
+		<group id="30" type="span" parent="38" relname="joint"/>
+		<group id="26" type="span" parent="30" relname="span"/>
+		<group id="29" type="span" parent="26" relname="elaboration"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="34" type="multinuc" parent="36" relname="span"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="41" type="span" parent="45" relname="span"/>
+		<group id="44" type="multinuc" parent="41" relname="background"/>
+		<group id="47" type="multinuc"/>
+	</body>
+</rst>

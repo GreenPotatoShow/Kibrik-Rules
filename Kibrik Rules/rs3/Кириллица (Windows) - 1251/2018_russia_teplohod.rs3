@@ -1,0 +1,55 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="26" relname="sequence">Второй инцидент с теплоходом на Москве-реке за сутки:</segment>
+		<segment id="21" parent="25" relname="span">после пожара в трюме эвакуировали больше 100 человек\n\nСпасатели эвакуировали 113 человек после пожара на теплоходе на Москве-реке 1 сентября,</segment>
+		<segment id="22" parent="23" relname="attribution">сообщил ТАСС</segment>
+		<segment id="23" parent="24" relname="span">сообщил источник в экстренных службах.</segment>
+		<segment id="27" parent="33" relname="span">Прогулочное судно загорелось днем в субботу в районе Бережковской набережной.</segment>
+		<segment id="28" parent="31" relname="cause-effect">По предварительным данным, возгорание площадью 1 квадратный метр произошло в трюме.</segment>
+		<segment id="29" parent="31" relname="joint">В результате происшествия никто не погиб</segment>
+		<segment id="30" parent="31" relname="joint">и не пострадал.\n\nЭто уже второй инцидент на Москве-реке за сутки.</segment>
+		<segment id="34" parent="40" relname="contrast">Вечером 31 августа в районе Андреевской набережной столкнулись катамаран \"Снегири-2\" и теплоход \"Ривер Палас\".\n\nПострадали два человека,</segment>
+		<segment id="35" parent="37" relname="span">но от госпитализации отказались</segment>
+		<segment id="36" parent="35" relname="cause-effect">из-за \"незначительности полученных травм\",</segment>
+		<segment id="38" parent="37" relname="attribution">сообщается на сайте московского межрегионального управления Следственного комитета на транспорте.</segment>
+		<segment id="41" parent="45" relname="span">\"Снегири-2\" повредил левый борт.\n\nПо данным ведомства, капитан \"Снегирей-2\" был нетрезв:</segment>
+		<segment id="42" parent="44" relname="span">в его крови обнаружен алкоголь в количестве 1,2 промилле,</segment>
+		<segment id="43" parent="42" relname="attribution">говорится в сообщении.</segment>
+		<segment id="46" parent="50" relname="span">После инцидента катамаран был пришвартован на Лужнецкой набережной.\n\nСледствие рассматривает несколько версий произошедшего,</segment>
+		<segment id="47" parent="49" relname="joint">в том числе нарушение правил безопасности движения водного транспорта со стороны капитанов судов, и техническую неисправность.\n\nСледователи изъяли документацию на оба судна, записи с видеорегистраторов теплоходов,</segment>
+		<segment id="48" parent="49" relname="joint">опросили команды теплоходов и очевидцев.</segment>
+		<segment id="51" parent="52" relname="sequence">Расследование также проводит Ространснадзор.\n\nИсточник: https://www.newsru.com/russia/01Sep2018/teplohod.html\n</segment>
+		<group id="26" type="multinuc" parent="55" relname="preparation"/>
+		<group id="25" type="span" parent="26" relname="sequence"/>
+		<group id="24" type="span" parent="21" relname="attribution"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="33" type="span" parent="55" relname="joint"/>
+		<group id="32" type="span" parent="27" relname="elaboration"/>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="40" type="multinuc" parent="54" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="contrast"/>
+		<group id="37" type="span" parent="39" relname="span"/>
+		<group id="53" type="multinuc" parent="54" relname="joint"/>
+		<group id="45" type="span" parent="53" relname="joint"/>
+		<group id="44" type="span" parent="41" relname="elaboration"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="50" type="span" parent="52" relname="sequence"/>
+		<group id="49" type="multinuc" parent="46" relname="elaboration"/>
+		<group id="56" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,57 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="27" relname="span">В центре Москвы может появиться новая станция метро\n\nОдин из вариантов схемы транспортного обеспечения новых отелей, которые появятся на месте гостиницы \"Россия\", предусматривает строительство новой станции метро,</segment>
+		<segment id="26" parent="25" relname="attribution">сообщил в пятницу \"Интерфаксу\" главный архитектор Москвы Александр Кузьмин.\n\n</segment>
+		<segment id="28" parent="30" relname="joint">\"Нам необходимо обеспечить комплекс гостиниц хорошими транспортными развязками с существующей транспортной инфраструктурой города,</segment>
+		<segment id="29" parent="30" relname="joint">а также наладить связь с общественным городским транспортом.</segment>
+		<segment id="31" parent="32" relname="attribution">Именно поэтому мы предполагаем,</segment>
+		<segment id="32" parent="33" relname="span">что в перспективе рядом с комплексом отелей появится новая промежуточная станция метро\",</segment>
+		<segment id="35" parent="34" relname="attribution">- сказал Кузьмин.\n\n</segment>
+		<segment id="37" parent="39" relname="span">\"Новая станция метро будет хорошо связана со станцией \"Китай-город\",</segment>
+		<segment id="38" parent="37" relname="attribution">- добавил он</segment>
+		<segment id="40" parent="43" relname="attribution">.\n\nВ то же время Кузьмин не уточнил,</segment>
+		<segment id="41" parent="43" relname="comparison">на какой из веток подземки появится новая промежуточная станция.\n\nКузьмин напомнил,</segment>
+		<segment id="42" parent="43" relname="comparison">что согласно постановлению правительства Москвы здание гостиницы \"Россия\" подлежит сносу.</segment>
+		<segment id="46" parent="47" relname="attribution">На ее месте появится целый квартал современных гостиничных комплексов.\n\nРанее главный архитектор Москвы сообщил,</segment>
+		<segment id="47" parent="48" relname="span">что на месте \"России\", как предполагается, будет около восьми отелей общей площадью надземной части около 250 тыс. кв. метров.\n\n</segment>
+		<segment id="49" parent="53" relname="span">\"Количество мест в этих гостиницах разной комфортности будет примерно сопоставимо с тем количеством мест, которые были в \"России\" (2700 мест) ,</segment>
+		<segment id="50" parent="51" relname="attribution">- отметил Кузьмин.\n\nОн также сообщил,</segment>
+		<segment id="51" parent="52" relname="span">что этажность нового квартала гостиниц будет небольшой.</segment>
+		<segment id="54" parent="58" relname="comparison">\"Планируется, что отели, прилегающие к Красной площади, будут несколько ниже,</segment>
+		<segment id="55" parent="57" relname="contrast">а прилегающие к улице Варварка, - несколько выше,</segment>
+		<segment id="56" parent="57" relname="contrast">но в любом случае это будет пять-шесть этажей\",</segment>
+		<segment id="59" parent="58" relname="attribution">- отметил Кузьмин.\n\nИсточник: https://www.newsru.com/russia/20Aug2004/newstant.html\n</segment>
+		<group id="27" type="span" parent="64" relname="preparation"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="36" type="span" parent="64" relname="joint"/>
+		<group id="34" type="span" parent="36" relname="span"/>
+		<group id="30" type="multinuc" parent="33" relname="cause-effect"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="45" type="multinuc" parent="63" relname="joint"/>
+		<group id="39" type="span" parent="45" relname="joint"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="48" type="span" parent="62" relname="joint"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="53" type="span" parent="61" relname="comparison"/>
+		<group id="52" type="span" parent="49" relname="attribution"/>
+		<group id="60" type="span" parent="61" relname="comparison"/>
+		<group id="58" type="multinuc" parent="60" relname="span"/>
+		<group id="57" type="multinuc" parent="58" relname="comparison"/>
+		<group id="65" type="span"/>
+	</body>
+</rst>

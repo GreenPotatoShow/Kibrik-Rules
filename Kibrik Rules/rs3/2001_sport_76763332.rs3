@@ -1,0 +1,45 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="18" relname="span">Почти сутки потребовались немецкой спортсменке</segment>
+		<segment id="17" parent="16" relname="purpose">для того, чтобы пересечь вплавь озеро Бодензее\n\nМарафонские заплывы на озере,</segment>
+		<segment id="19" parent="21" relname="joint">находящемся на стыке границ Германии, Австрии и Швейцарии,</segment>
+		<segment id="20" parent="21" relname="joint">предпринимались и ранее,</segment>
+		<segment id="25" parent="26" relname="contrast">однако 30-летняя Сандра Альбрехт из баварского городка Линдау оказалась первой, кто практически без отдыха смог переплыть озеро в самой широкой его части.</segment>
+		<segment id="27" parent="32" relname="attribution">Как сообщает ИТАР-ТАСС,</segment>
+		<segment id="28" parent="30" relname="sequence">во время всего заплыва Сандру сопровождали лодки со спасателями и медиками, а также официальными спортивными комиссарами, которые и зафиксировали рекорд.\n\nВзяв старт в австрийском порту Брегнец,</segment>
+		<segment id="29" parent="30" relname="sequence">спортсменка через 23 часа 20 минут в полном изнеможении выбралась из воды на германском берегу в районе города Бодман,</segment>
+		<segment id="31" parent="30" relname="condition">оставив позади 64 километра.</segment>
+		<segment id="34" parent="36" relname="span">Последние сотни метров она плыла</segment>
+		<segment id="35" parent="34" relname="condition">при мощной моральной поддержке собравшейся на берегу восторженной толпы поклонников.</segment>
+		<segment id="38" parent="42" relname="span">Это вторая попытка спортсменки установить достижение, достойное \"Книги рекордов Гиннесса\".</segment>
+		<segment id="39" parent="41" relname="span">Год назад сильный встречный ветер вынудил ее отказаться от своих планов,</segment>
+		<segment id="40" parent="39" relname="background">когда до заветной цели оставалось всего девять километров.\n\nИсточник: https://www.newsru.com/sport/03Aug2001/76763332.html\n</segment>
+		<group id="26" type="multinuc" parent="43" relname="preparation"/>
+		<group id="22" type="span" parent="26" relname="contrast"/>
+		<group id="18" type="span" parent="22" relname="span"/>
+		<group id="21" type="multinuc" parent="18" relname="elaboration"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="37" type="span" parent="43" relname="joint"/>
+		<group id="33" type="span" parent="37" relname="span"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="30" type="multinuc" parent="32" relname="span"/>
+		<group id="36" type="span" parent="33" relname="elaboration"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="41" type="span" parent="38" relname="elaboration"/>
+		<group id="44" type="span"/>
+	</body>
+</rst>

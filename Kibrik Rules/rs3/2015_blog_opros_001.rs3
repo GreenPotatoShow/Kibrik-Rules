@@ -1,0 +1,46 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="17" relname="span">Алексей Шабуров: \"Какой вопрос, такой и выбор\"\n\n\"Во многих СМИ сегодня были заголовки:</segment>
+		<segment id="16" parent="15" relname="elaboration">Россияне готовы отказаться от свободы слова в обмен на нормальную зарплату.</segment>
+		<segment id="18" parent="20" relname="span">Со ссылкой на результаты соответствующего соцопроса.\n\nКонечно,</segment>
+		<segment id="19" parent="18" relname="condition">при первом прочтении такого заголовка вспыхивает гнев и негодование.</segment>
+		<segment id="21" parent="26" relname="attribution">Хочется закричать,</segment>
+		<segment id="22" parent="24" relname="span">что россияне идиоты с психологией рабов</segment>
+		<segment id="23" parent="22" relname="interpretation-evaluation">(собственно, такие комментарии можно встретить в твиттере).\n\nНу в самом деле, ведь нужно быть недалеким дурачком,</segment>
+		<segment id="25" parent="24" relname="purpose">чтобы думать, что отказ от свободы слова обеспечит зарплату.</segment>
+		<segment id="29" parent="39" relname="span">На самом деле все наоборот:</segment>
+		<segment id="30" parent="31" relname="cause-effect">ликвидировав свободу слова,</segment>
+		<segment id="31" parent="32" relname="span">власть дальше сможет делать с зарплатой что угодно</segment>
+		<segment id="33" parent="36" relname="condition">- даже снизив ее до минимума,</segment>
+		<segment id="34" parent="36" relname="span">она не рискует нарваться на протест и возмущение</segment>
+		<segment id="35" parent="34" relname="cause-effect">(жаловаться-то будет нельзя)\".\n\nИсточник: https://www.newsru.com/blog/08Jul2015/opros.html\n</segment>
+		<group id="17" type="span" parent="41" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="28" type="span" parent="39" relname="solutionhood"/>
+		<group id="20" type="span" parent="28" relname="span"/>
+		<group id="27" type="span" parent="20" relname="interpretation-evaluation"/>
+		<group id="26" type="span" parent="27" relname="span"/>
+		<group id="24" type="span" parent="26" relname="span"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="38" type="span" parent="29" relname="elaboration"/>
+		<group id="32" type="span" parent="38" relname="span"/>
+		<group id="37" type="span" parent="32" relname="cause-effect"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="41" type="multinuc"/>
+	</body>
+</rst>

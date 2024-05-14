@@ -1,0 +1,18 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="5" parent="7" relname="span">Яков Миркин: \"Изменения, бурные или тихие, начинаются со столиц\"\n\n\"Все помнят, что изменения, бурные или тихие, начинаются со столиц.</segment>
+		<segment id="6" parent="5" relname="elaboration">Реформы, бунты, взятия Зимнего дворца – все там.\n\nВ 2013 году валовой региональный продукт на душу населения в Москве – 30,3 тыс. долл. (2013).</segment>
+		<segment id="8" parent="10" relname="contrast">По уровню – это \"развитая страна\", Испания (29,9 тыс. долл., 2013), близко к Израилю (36,3 тыс. долл.).\n\nВ 2013 году в Петербурге этот показатель – 15,6 тыс. долл.\nПохуже,</segment>
+		<segment id="9" parent="10" relname="contrast">но это тоже был уровень \"развитых\" (Латвия, 15,1 тыс. долл., Литва, 15,7 тыс. долл., 2013).\n\nВ 2013 году для России в среднем - 14,8 тыс. долл\".\n\nИсточник: https://www.newsru.com/blog/03Mar2016/vvp.html\n</segment>
+		<group id="7" type="span" parent="11" relname="span"/>
+		<group id="10" type="multinuc" parent="7" relname="elaboration"/>
+		<group id="11" type="span"/>
+	</body>
+</rst>

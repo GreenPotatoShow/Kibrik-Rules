@@ -1,0 +1,47 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="46" relname="preparation">Олимпийский чемпион сядет в тюрьму за секс с пьяной студенткой\n\nДвукратный олимпийский чемпион по дзюдо японец Масато Утисиба приговорен к пяти годам тюрьмы за изнасилование.</segment>
+		<segment id="18" parent="22" relname="span">Суд не поверил 34-летнему спортсмену,</segment>
+		<segment id="19" parent="20" relname="attribution">который утверждал,</segment>
+		<segment id="20" parent="21" relname="span">что занимался любовью с девушкой по обоюдному согласию.\n\</segment>
+		<segment id="23" parent="26" relname="attribution">nКак передает ИТАР-ТАСС,</segment>
+		<segment id="24" parent="26" relname="span">жертвой дзюдоиста в 2011 году стала учащаяся одного из университетов Токио,</segment>
+		<segment id="25" parent="24" relname="elaboration">посещавшая студенческий дзюдоистский клуб.</segment>
+		<segment id="29" parent="31" relname="joint">Ее утверждения, что она в тот момент была пьяна</segment>
+		<segment id="30" parent="31" relname="joint">и не могла контролировать свои действия,</segment>
+		<segment id="32" parent="35" relname="attribution">были признаны обоснованными.\n\nПрокуратура обвинила спортсмена в том,</segment>
+		<segment id="33" parent="35" relname="span">что он специально напоил девушку,</segment>
+		<segment id="34" parent="33" relname="purpose">чтобы вступить с ней в половую связь.</segment>
+		<segment id="38" parent="44" relname="span">Дзюдоист намерен подать апелляцию на это решение</segment>
+		<segment id="39" parent="43" relname="sequence">.\n\nУтисиба был задержан в декабре 2011 года</segment>
+		<segment id="40" parent="42" relname="joint">по подозрению в изнасиловании</segment>
+		<segment id="41" parent="42" relname="joint">и в январе следующего года был исключен из членства в Федерации дзюдо Японии.\n\nОн выигрывал Олимпийские игры в Афинах и в Пекине в весовой категории до 66 кг.\n\nИсточник: https://www.newsru.com/sport/01Feb2013/dodo.html\n</segment>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="28" type="span" parent="45" relname="preparation"/>
+		<group id="22" type="span" parent="28" relname="span"/>
+		<group id="21" type="span" parent="18" relname="elaboration"/>
+		<group id="27" type="span" parent="22" relname="background"/>
+		<group id="26" type="span" parent="27" relname="span"/>
+		<group id="45" type="multinuc" parent="46" relname="span"/>
+		<group id="37" type="multinuc" parent="45" relname="joint"/>
+		<group id="31" type="multinuc" parent="37" relname="joint"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="span"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="43" type="multinuc" parent="38" relname="background"/>
+		<group id="42" type="multinuc" parent="43" relname="sequence"/>
+		<group id="47" type="span"/>
+	</body>
+</rst>

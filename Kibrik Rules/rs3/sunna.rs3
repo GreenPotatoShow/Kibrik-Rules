@@ -1,0 +1,74 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="82" relname="preparation">Радикальная  исламистская группировка \"Ансар аль-Сунна\" взяла на себя ответственность за взрывы в Волгограде, совершенные в декабре прошлого года.</segment>
+		<segment id="30" parent="31" relname="attribution">В видео, размещенном исламистами на одном из экстремистских сайтов, говорится о том,</segment>
+		<segment id="31" parent="32" relname="span">что \"операцию\" провели два смертника - некие Сулейман и Абдуррахман.</segment>
+		<segment id="33" parent="35" relname="span">Кроме того, утверждается, что боевики готовятся совершить новые теракты во время зимней Олимпиады в Сочи,</segment>
+		<segment id="34" parent="33" relname="attribution">передает Deutsche Welle.\n На видео боевики держат в руках автоматы.</segment>
+		<segment id="37" parent="39" relname="span">Их заявления сопровождаются демонстрацией фотографий с мест волгоградских терактов,</segment>
+		<segment id="38" parent="37" relname="elaboration">взятых из прессы.</segment>
+		<segment id="41" parent="45" relname="sequence">В ролике также есть кадры, на которых неизвестные изготавливают взрывчатку,</segment>
+		<segment id="42" parent="44" relname="span">а позже едут в машине,</segment>
+		<segment id="43" parent="42" relname="condition">держа в руках предмет, похожий на взрыватель.\n</segment>
+		<segment id="46" parent="50" relname="span">В результате двух взрывов,</segment>
+		<segment id="49" parent="46" relname="elaboration">прогремевших в Волгограде 29 и 30 декабря 2013 года, погибли более 30 человек.</segment>
+		<segment id="52" parent="53" relname="attribution">Ранее в СМИ появились сообщения о том,</segment>
+		<segment id="53" parent="54" relname="span">что волгоградские смертники приехали в город из Дагестана.</segment>
+		<segment id="55" parent="59" relname="same-unit">Один из них - Аскер Самедов</segment>
+		<segment id="56" parent="58" relname="span">- являлся активным членом буйнакской террористической группировки,</segment>
+		<segment id="57" parent="56" relname="elaboration">которая имела отношение и к первому теракту в Волгограде осенью прошлого года.</segment>
+		<segment id="60" parent="59" relname="background">Между тем группировка \"Ансар аль-Сунна\" была основана в сентябре 2003 года.</segment>
+		<segment id="62" parent="64" relname="joint">Она базируется в северном и центральном Ираке</segment>
+		<segment id="63" parent="64" relname="joint">и, не исключено, что в действительности она не имеет ни малейшего отношения к терактам в Волгограде,</segment>
+		<segment id="65" parent="70" relname="attribution">отмечает РБК.\n - Западная пресса:</segment>
+		<segment id="66" parent="70" relname="comparison">\"Самая большая опасность для Игр может исходить от еще не известных исламистов\"\n В то же время главный редактор сайта \"Агентура.ru\" Андрей Солдатов предполагает,</segment>
+		<segment id="67" parent="68" relname="attribution">что российские СМИ,</segment>
+		<segment id="68" parent="69" relname="span">сообщившие об \"иракской группировке \"Ансар аль-Сунна\", скорее всего, ошибаются.</segment>
+		<segment id="75" parent="78" relname="attribution">Он полагает,</segment>
+		<segment id="76" parent="78" relname="joint">что эта группировка - новая</segment>
+		<segment id="77" parent="78" relname="joint">и базируется на Кавказе <...> \n \n</segment>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="40" type="span" parent="82" relname="joint"/>
+		<group id="36" type="multinuc" parent="40" relname="span"/>
+		<group id="32" type="span" parent="36" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="39" type="span" parent="36" relname="elaboration"/>
+		<group id="81" type="multinuc" parent="82" relname="joint"/>
+		<group id="51" type="span" parent="81" relname="joint"/>
+		<group id="45" type="multinuc" parent="50" relname="cause-effect"/>
+		<group id="44" type="span" parent="45" relname="sequence"/>
+		<group id="50" type="span" parent="51" relname="span"/>
+		<group id="80" type="span" parent="81" relname="joint"/>
+		<group id="74" type="span" parent="80" relname="span"/>
+		<group id="54" type="span" parent="73" relname="preparation"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="61" type="span" parent="73" relname="joint"/>
+		<group id="59" type="multinuc" parent="61" relname="span"/>
+		<group id="58" type="span" parent="59" relname="same-unit"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="64" type="multinuc" parent="72" relname="joint"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="69" type="span" parent="70" relname="comparison"/>
+		<group id="79" type="span" parent="74" relname="interpretation-evaluation"/>
+		<group id="78" type="multinuc" parent="79" relname="span"/>
+		<group id="83" type="span"/>
+	</body>
+</rst>

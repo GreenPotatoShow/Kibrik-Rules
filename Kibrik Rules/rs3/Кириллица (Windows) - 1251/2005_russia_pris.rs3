@@ -1,0 +1,61 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="27" relname="preparation">Присяжные признали виновными шестерых обвиняемых в убийстве и.о. главы \"Алмаз-Антея\"\n\nКоллегия присяжных признала полностью виновными и не заслуживающими снисхождения шестерых обвиняемых в убийстве и.о. гендиректора концерна ПВО \"Алмаз-Антей\" Игоря Климова.\n\nКак сообщили \"Интерфаксу\" в субботу в Мосгорсуде,</segment>
+		<segment id="23" parent="27" relname="sequence">коллегия присяжных накануне совещалась несколько часов,</segment>
+		<segment id="24" parent="26" relname="joint">после чего вынесла полностью обвинительный вердикт</segment>
+		<segment id="25" parent="26" relname="joint">и признала всех шестерых виновными в убийстве Климова.</segment>
+		<segment id="29" parent="33" relname="same-unit">Кроме того,</segment>
+		<segment id="30" parent="31" relname="attribution">по мнению присяжных,</segment>
+		<segment id="31" parent="32" relname="span">ни один из обвиняемых не заслуживает снисхождения.\n\nКак ожидается,</segment>
+		<segment id="34" parent="36" relname="span">на предстоящей неделе в суде вновь состоятся прения сторон,</segment>
+		<segment id="35" parent="34" relname="condition">в ходе которых гособвинитель по делу попросит</segment>
+		<segment id="37" parent="38" relname="span">назначить наказание каждому из обвиняемых.</segment>
+		<segment id="40" parent="41" relname="joint">После этого суд вынесет приговор.\n\nПятеро обвиняемых - Юрий Мурашов, Александр Никитин, Владимир Степанов, Ирек Набиуллин и Евгений Маньков в ходе судебных слушаний не признали своей вины.</segment>
+		<segment id="42" parent="45" relname="attribution">Шестой обвиняемый - Александр Бурукин признал</segment>
+		<segment id="43" parent="45" relname="span">свою вину частично.\n\nРуководитель концерна \"Алмаз-Антей\" Игорь Климов был застрелен утром 6 июня 2003 года,</segment>
+		<segment id="44" parent="43" relname="background">когда выходил из подъезда дома на Крымском валу в Москве.</segment>
+		<segment id="47" parent="49" relname="joint">Убийца стрелял из револьвера системы \"Наган\" с глушителем,</segment>
+		<segment id="48" parent="49" relname="joint">сообщили ранее в Генпрокуратуре РФ.\n\n\"В ходе расследования преступления следователями Генеральной прокуратуры РФ совместно с оперативными службами была установлена преступная группировка, которая занималась заказными убийствами\",</segment>
+		<segment id="50" parent="49" relname="attribution">- говорилось в сообщении Генпрокуратуры.\n\nКроме убийства Климова,</segment>
+		<segment id="53" parent="54" relname="attribution">отмечается в документе,</segment>
+		<segment id="54" parent="55" relname="span">на их счету заказное убийство гендиректора ОАО \"Проммашинструмент\" (Санкт-Петербург) Елены Нещерет в октябре 2003 года,</segment>
+		<segment id="56" parent="58" relname="comparison">а также другие преступления.\n\nСледствием установлено, что в группировку, которая организовывала и выполняла заказные убийства,</segment>
+		<segment id="57" parent="58" relname="comparison">входили Е.Маньков, И.Набиуллин, А.Бурукин, Ю.Мурашов, А.Никитин, а также старший оперуполномоченный ГУВД Санкт- Петербурга В.Степанов.\n\nИсточник: https://www.newsru.com/russia/24Sep2005/pris.html\n</segment>
+		<group id="28" type="span" parent="61" relname="preparation"/>
+		<group id="27" type="multinuc" parent="28" relname="span"/>
+		<group id="26" type="multinuc" parent="27" relname="sequence"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="41" type="multinuc" parent="61" relname="joint"/>
+		<group id="39" type="span" parent="41" relname="joint"/>
+		<group id="33" type="multinuc" parent="39" relname="span"/>
+		<group id="32" type="span" parent="33" relname="same-unit"/>
+		<group id="38" type="span" parent="33" relname="elaboration"/>
+		<group id="36" type="span" parent="37" relname="cause-effect"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="52" type="multinuc" parent="60" relname="joint"/>
+		<group id="46" type="span" parent="52" relname="joint"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="49" type="multinuc" parent="51" relname="span"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="55" type="span" parent="59" relname="joint"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="62" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,76 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="30" parent="32" relname="sequence">Microsoft объявила об открытии российского онлайн-магазина\n\nКорпорация Microsoft накануне вечером объявила</segment>
+		<segment id="31" parent="32" relname="sequence">об открытии своего российского онлайн-магазина Mstore.ru.</segment>
+		<segment id="33" parent="34" relname="attribution">Как передает РБК,</segment>
+		<segment id="34" parent="35" relname="span">с помощью этой онлайн-площадки компания будет продавать ноутбуки и планшеты под собственной маркой, смартфоны Lumia, игровые консоли Xbox, моноблоки, аксессуары, а также программное обеспечение.\n\</segment>
+		<segment id="36" parent="41" relname="attribution">nПо словам представителя Microsoft,</segment>
+		<segment id="37" parent="41" relname="span">в магазине будут продаваться и партнерские продукты,</segment>
+		<segment id="38" parent="40" relname="span">например устройства на базе ОС Windows,</segment>
+		<segment id="39" parent="38" relname="elaboration">произведенные компаниями Acer, Asus, Lenovo и др.</segment>
+		<segment id="44" parent="54" relname="span">На момент запуска в магазине доступно более 7 тыс. наименований товаров.</segment>
+		<segment id="45" parent="46" relname="attribution">Партнером Microsoft по запуску онлайн-магазина является российская компания ООО \"Центр дистрибьюции\".\n\nРБК уточняет,</segment>
+		<segment id="46" parent="47" relname="span">что магазин станет доступен по новому домену после новогодних праздников.</segment>
+		<segment id="48" parent="52" relname="span">До этого времени при заходе на Mstore.ru пользователь будет автоматически перенаправляться на сайт магазина N-store.ru,</segment>
+		<segment id="49" parent="51" relname="joint">который уже несколько лет специализируется на онлайн-продажах смартфонов Nokia и Lumia</segment>
+		<segment id="50" parent="51" relname="joint">и был создан при участии все того же \"Центра дистрибьюции\".</segment>
+		<segment id="55" parent="56" relname="condition">Когда заработает портал Mstore.ru,</segment>
+		<segment id="56" parent="57" relname="span">магазин N-store.ru прекратит свое существование</segment>
+		<segment id="58" parent="59" relname="span">.\n\nНовый магазин будет поддерживать все возможные способы оплаты, в том числе наличными.</segment>
+		<segment id="60" parent="67" relname="attribution">По словам представителя Microsoft,</segment>
+		<segment id="61" parent="66" relname="attribution">доставкой товаров из Mstore.ru будут заниматься как собственные курьеры Microsoft, так и сторонние курьерские службы.\n\nВ компании также отметили,</segment>
+		<segment id="62" parent="65" relname="attribution">что Microsoft считает</segment>
+		<segment id="63" parent="65" relname="joint">российский рынок перспективным,</segment>
+		<segment id="64" parent="65" relname="joint">а электронный формат продаж \"актуальным и наиболее удобным для пользователей при современном ритме жизни\".\n\</segment>
+		<segment id="69" parent="77" relname="span">nНапомним, что некоторое время назад об открытии собственного онлайн-магазина в России объявила китайская Lenovo.</segment>
+		<segment id="70" parent="71" relname="attribution">По словам представителя Lenovo Марата Ракаева,</segment>
+		<segment id="71" parent="72" relname="span">компания решила открыть новый канал продаж,</segment>
+		<segment id="73" parent="74" relname="cause-effect">так как не все модели устройств по тем или иным причинам попадали на российский рынок.\n\nПри этом Ракаев подчеркнул,</segment>
+		<segment id="74" parent="75" relname="span">что онлайн-магазин для Lenovo является именно дополнительным каналом продаж, а не имиджевой историей.</segment>
+		<segment id="80" parent="82" relname="joint">Так, смартфон Lenovo Vibe P1 начал продаваться эксклюзивно в онлайн-магазине 23 ноября,</segment>
+		<segment id="81" parent="82" relname="joint">и за два дня пользователи раскупили почти всю партию.\n\nИсточник: https://www.newsru.com/hitech/25Nov2015/mstore.html\n</segment>
+		<group id="32" type="multinuc" parent="85" relname="preparation"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="43" type="multinuc" parent="85" relname="joint"/>
+		<group id="35" type="span" parent="43" relname="comparison"/>
+		<group id="42" type="span" parent="43" relname="comparison"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="40" type="span" parent="37" relname="elaboration"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="54" type="span" parent="84" relname="span"/>
+		<group id="53" type="span" parent="44" relname="elaboration"/>
+		<group id="47" type="span" parent="53" relname="span"/>
+		<group id="52" type="span" parent="47" relname="background"/>
+		<group id="51" type="multinuc" parent="48" relname="elaboration"/>
+		<group id="83" type="span" parent="54" relname="elaboration"/>
+		<group id="79" type="span" parent="83" relname="span"/>
+		<group id="59" type="span" parent="79" relname="span"/>
+		<group id="57" type="span" parent="58" relname="condition"/>
+		<group id="78" type="multinuc" parent="59" relname="elaboration"/>
+		<group id="68" type="span" parent="78" relname="joint"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="76" type="span" parent="69" relname="elaboration"/>
+		<group id="72" type="span" parent="76" relname="span"/>
+		<group id="75" type="span" parent="72" relname="cause-effect"/>
+		<group id="82" type="multinuc" parent="79" relname="background"/>
+		<group id="86" type="span"/>
+	</body>
+</rst>

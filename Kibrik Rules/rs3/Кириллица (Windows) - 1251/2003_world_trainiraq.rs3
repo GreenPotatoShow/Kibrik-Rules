@@ -1,0 +1,37 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="31" relname="preparation">В Ираке под Самаррой взорван железнодорожный поезд\n\</segment>
+		<segment id="13" parent="30" relname="preparation">nВ Ираке в воскресенье взорван железнодорожный поезд, следовавший по маршруту Самарра - Мосул.</segment>
+		<segment id="14" parent="17" relname="attribution">Как сообщил вечером в воскресенье телеканал Al-Arabia,</segment>
+		<segment id="15" parent="17" relname="span">мощный взрыв прогремел,</segment>
+		<segment id="16" parent="15" relname="condition">когда поезд проезжал пригород Самарры.\n\</segment>
+		<segment id="19" parent="23" relname="same-unit">nПосле взрыва,</segment>
+		<segment id="20" parent="21" relname="attribution">согласно данным телеканала Al-Arabia,</segment>
+		<segment id="21" parent="22" relname="span">восемь вагонов сошли с рельсов.</segment>
+		<segment id="25" parent="29" relname="span">О жертвах информация не поступала,</segment>
+		<segment id="26" parent="28" relname="span">сообщает РИА 'Новости'.\n\nПо мнению иракского железнодорожного руководства,</segment>
+		<segment id="27" parent="26" relname="purpose">на восстановление движения поездов по данному маршруту потребуется не менее пяти дней.\n\nИсточник: https://www.newsru.com/world/08Dec2003/trainiraq.html\n</segment>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="24" type="span" parent="30" relname="span"/>
+		<group id="18" type="span" parent="24" relname="span"/>
+		<group id="17" type="span" parent="18" relname="span"/>
+		<group id="23" type="multinuc" parent="18" relname="elaboration"/>
+		<group id="22" type="span" parent="23" relname="same-unit"/>
+		<group id="29" type="span" parent="24" relname="elaboration"/>
+		<group id="28" type="span" parent="25" relname="evidence"/>
+		<group id="32" type="span"/>
+	</body>
+</rst>

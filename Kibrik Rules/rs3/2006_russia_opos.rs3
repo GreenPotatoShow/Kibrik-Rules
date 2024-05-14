@@ -1,0 +1,93 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="39" parent="43" relname="span">Большинство россиян склонны не доверять слухам</segment>
+		<segment id="40" parent="42" relname="joint">- опрос ФОМ\n\nПочти три четверти опрошенных россиян (73%) чаще не верят слухам,</segment>
+		<segment id="41" parent="42" relname="joint">и только 16% признали обратное.</segment>
+		<segment id="44" parent="45" relname="attribution">По данным социологов фонда \"Общественное мнение\",</segment>
+		<segment id="45" parent="46" relname="span">женщины выказывают склонность верить слухам несколько чаще мужчин - 21% против 11% соответственно.\n\</segment>
+		<segment id="47" parent="49" relname="span">nОднако нормативная установка на \"недоверие к слухам\",</segment>
+		<segment id="48" parent="47" relname="background">разделяемая почти тремя четвертями россиян,</segment>
+		<segment id="50" parent="56" relname="span">не мешает многим признавать,</segment>
+		<segment id="51" parent="55" relname="span">что слухи иногда оказываются верными</segment>
+		<segment id="52" parent="54" relname="comparison">.\n\nТак, по опыту 27% опрошенных, слухи, поступающие от друзей и родственников, чаще подтверждаются,</segment>
+		<segment id="53" parent="54" relname="comparison">чем нет.</segment>
+		<segment id="59" parent="73" relname="comparison">Противоположного мнения придерживается несколько меньшая доля респондентов - 22%.\n\nПримерно поровну распределяются суждения о достоверности слухов, почерпнутых из СМИ:</segment>
+		<segment id="60" parent="63" relname="attribution">22% респондентов считают,</segment>
+		<segment id="61" parent="62" relname="attribution">что они чаще подтверждаются,</segment>
+		<segment id="62" parent="63" relname="span">19% придерживаются противоположной точки зрения.</segment>
+		<segment id="65" parent="67" relname="comparison">Чаще других упрекают СМИ в распространении не подтвержденных впоследствии слухов</segment>
+		<segment id="66" parent="67" relname="comparison">наиболее образованные респонденты (30%), а также москвичи (33%).\n\nЗаслуживает внимания тот факт, что, по утверждению 36% опрошенных,</segment>
+		<segment id="68" parent="70" relname="contrast">они никогда не узнают слухи из СМИ,</segment>
+		<segment id="69" parent="70" relname="contrast">а 29% - не слышат их от своих друзей или родственников.</segment>
+		<segment id="74" parent="80" relname="comparison">Причем до 18% россиян,</segment>
+		<segment id="75" parent="78" relname="attribution">судя по данным опроса,</segment>
+		<segment id="76" parent="78" relname="span">вообще не доходят никакие слухи - ни из того, ни из другого источника.\n\nМнение о том, что слухи приносят в основном вред,</segment>
+		<segment id="77" parent="76" relname="background">разделяют сравнительно немногие - 26% респондентов.</segment>
+		<segment id="81" parent="82" relname="attribution">Гораздо чаще (34%) участники опроса полагают,</segment>
+		<segment id="82" parent="83" relname="span">что слухи \"приносят и пользу, и вред в равной мере\".</segment>
+		<segment id="85" parent="89" relname="joint">Каждый третий из тех, кто не склонен верить в слухи,</segment>
+		<segment id="86" parent="87" relname="attribution">признает,</segment>
+		<segment id="87" parent="88" relname="span">что определенная польза в их существовании есть.\n\</segment>
+		<segment id="90" parent="95" relname="attribution">nПри этом 5% россиян вообще полагают,</segment>
+		<segment id="91" parent="95" relname="comparison">что слухи скорее полезны,</segment>
+		<segment id="92" parent="94" relname="span">чем вредны,</segment>
+		<segment id="93" parent="92" relname="elaboration">причем в этой, последней группе доли респондентов, верящих и не верящих в слухи, практически равны.\n\</segment>
+		<segment id="97" parent="101" relname="span">nВ ходе опроса только каждый четвертый респондент назвал какой-либо слух,</segment>
+		<segment id="98" parent="100" relname="joint">о котором он узнал в последнее время,</segment>
+		<segment id="99" parent="100" relname="joint">и почти в половине этих случаев речь шла либо о событиях, касающихся жилищно-коммунального хозяйства, либо о повышении цен (12% ответов).\n\nНе были обойдены вниманием респондентов и капризы погоды</segment>
+		<segment id="102" parent="103" relname="comparison">- \"последние слухи\" на эту тему вспомнили 5% опрошенных.</segment>
+		<segment id="104" parent="106" relname="span">Слухи из мира политики, равно как и из жизни знаменитостей, волнуют россиян, по всей видимости, в значительно меньшей степени</segment>
+		<segment id="105" parent="104" relname="attribution">- их упоминали по 1% опрошенных.\n\nИсточник: https://www.newsru.com/russia/05Feb2006/opos.html\n</segment>
+		<group id="43" type="span" parent="112" relname="preparation"/>
+		<group id="42" type="multinuc" parent="39" relname="cause-effect"/>
+		<group id="112" type="multinuc" parent="113" relname="span"/>
+		<group id="58" type="multinuc" parent="112" relname="joint"/>
+		<group id="46" type="span" parent="58" relname="contrast"/>
+		<group id="57" type="multinuc" parent="58" relname="contrast"/>
+		<group id="49" type="span" parent="57" relname="joint"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="55" type="span" parent="50" relname="cause-effect"/>
+		<group id="54" type="multinuc" parent="51" relname="cause-effect"/>
+		<group id="111" type="multinuc" parent="112" relname="joint"/>
+		<group id="73" type="multinuc" parent="111" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="comparison"/>
+		<group id="64" type="span" parent="72" relname="comparison"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="71" type="multinuc" parent="72" relname="comparison"/>
+		<group id="67" type="multinuc" parent="71" relname="comparison"/>
+		<group id="70" type="multinuc" parent="71" relname="comparison"/>
+		<group id="110" type="multinuc" parent="111" relname="joint"/>
+		<group id="84" type="multinuc" parent="110" relname="comparison"/>
+		<group id="80" type="multinuc" parent="84" relname="comparison"/>
+		<group id="79" type="span" parent="80" relname="comparison"/>
+		<group id="78" type="span" parent="79" relname="span"/>
+		<group id="83" type="span" parent="84" relname="comparison"/>
+		<group id="109" type="multinuc" parent="110" relname="comparison"/>
+		<group id="89" type="multinuc" parent="109" relname="joint"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="96" type="span" parent="108" relname="comparison"/>
+		<group id="95" type="multinuc" parent="96" relname="span"/>
+		<group id="94" type="span" parent="95" relname="comparison"/>
+		<group id="107" type="multinuc" parent="108" relname="comparison"/>
+		<group id="103" type="multinuc" parent="107" relname="joint"/>
+		<group id="101" type="span" parent="103" relname="comparison"/>
+		<group id="100" type="multinuc" parent="97" relname="elaboration"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="113" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,162 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="70" parent="72" relname="span">Вновь арестована женщина, обвиняемая во взломе почты Киркорова и его страницы на \"Одноклассниках\"\n\nТверской суд Москвы в понедельник повторно санкционировал арест гендиректора \"Глобал Медиа Групп\" Нины Юровой, обвиняемой во взломе страницы певца Филиппа Киркорова на сайте \"Одноклассники.ру\" и его личной почты.</segment>
+		<segment id="71" parent="70" relname="attribution">Об этом сообщил РИА \"Новости\" адвокат Юровой Руслан Коблев.\n\n10 июня Тверской суд Москвы уже избирал для Юровой меру пресечения в виде заключения под стражу,</segment>
+		<segment id="73" parent="75" relname="span">но 22 июня Мосгорсуд отменил это решение,</segment>
+		<segment id="74" parent="73" relname="elaboration">направив ходатайство следствия на новое рассмотрение в суд первой инстанции.\n\nЮрова на прошлой неделе была объявлена следствием в розыск,</segment>
+		<segment id="76" parent="77" relname="cause-effect">поскольку суд не получил документы, которые бы подтвердили,</segment>
+		<segment id="77" parent="78" relname="span">что она действительно госпитализирована в больницу,</segment>
+		<segment id="79" parent="84" relname="attribution">как заявляли ее адвокаты,</segment>
+		<segment id="80" parent="83" relname="cause-effect">объясняя этим ее отсутствие на двух предыдущих заседаниях.\n\nНа предыдущем заседании суд постановил,</segment>
+		<segment id="81" parent="83" relname="contrast">что Юрова должна быть принудительно доставлена в суд,</segment>
+		<segment id="82" parent="83" relname="contrast">однако она пришла на слушания самостоятельно,</segment>
+		<segment id="87" parent="86" relname="attribution">сказал адвокат.\n\</segment>
+		<segment id="90" parent="101" relname="attribution">nВ ходатайстве о заключении обвиняемой под стражу следователь указал,</segment>
+		<segment id="91" parent="92" relname="condition">что в случае нахождения на свободе</segment>
+		<segment id="92" parent="93" relname="span">она может скрыться от следствия,</segment>
+		<segment id="94" parent="98" relname="joint">оказать давление на свидетелей,</segment>
+		<segment id="95" parent="97" relname="joint">угрожать Киркорову,</segment>
+		<segment id="96" parent="97" relname="joint">уничтожить доказательства по уголовному делу.\n\n\"Во время проведения следственных действий Юрова вела себя агрессивно,</segment>
+		<segment id="99" parent="100" relname="joint">симулировала плохое самочувствие и обмороки\",</segment>
+		<segment id="103" parent="102" relname="attribution">- утверждает следователь.</segment>
+		<segment id="107" parent="122" relname="attribution">По его словам,</segment>
+		<segment id="108" parent="122" relname="joint">в адрес Киркорова,</segment>
+		<segment id="109" parent="121" relname="joint">а также одного из свидетелей по делу поступают угрозы с требованием забрать заявление из Главного следственного управления при ГУВД Москвы</segment>
+		<segment id="110" parent="120" relname="span">и изменить показания.</segment>
+		<segment id="111" parent="118" relname="attribution">Следователь также сообщил,</segment>
+		<segment id="112" parent="118" relname="joint">что за Киркоровым и свидетелем постоянно идет слежка.\n\nВ суде сотрудник главного следственного управления при ГУВД Москвы зачитал заявление Киркорова в генпрокуратуру,</segment>
+		<segment id="113" parent="117" relname="span">датированное 6 июля,</segment>
+		<segment id="114" parent="115" relname="attribution">где певец ставит ведомство в известность о том,</segment>
+		<segment id="115" parent="116" relname="span">что ему \"поступали угрозы лично и по мобильному телефону от лиц, относящихся к явно криминальной среде\".</segment>
+		<segment id="124" parent="127" relname="attribution">Данное заявление суд приобщил к материалам уголовного дела.\n\nВ свою очередь адвокаты гендиректора \"Глобал Медиа Групп\" заявили,</segment>
+		<segment id="125" parent="127" relname="contrast">что у следствия нет доказательств связи между угрожавшими Киркорову и Юровой,</segment>
+		<segment id="126" parent="127" relname="contrast">а ее фамилия в заявлении певца не фигурирует.</segment>
+		<segment id="129" parent="133" relname="span">\"Киркорову может угрожать неограниченный круг лиц,</segment>
+		<segment id="130" parent="131" relname="condition">даже если он заберет свое заявление,</segment>
+		<segment id="131" parent="132" relname="span">следствие не прекратит уголовное дело\",</segment>
+		<segment id="134" parent="133" relname="attribution">- сказал Коблев.\n\</segment>
+		<segment id="137" parent="144" relname="solutionhood">nЧто касается утверждений следователя о слежке за Киркоровым,</segment>
+		<segment id="138" parent="143" relname="attribution">то адвокат напомнил,</segment>
+		<segment id="139" parent="142" relname="attribution">что в данный момент певец находится за границей.\n\nСама Юрова в суде заявила,</segment>
+		<segment id="140" parent="142" relname="span">что у нее нет возможности скрываться от следствия,</segment>
+		<segment id="141" parent="140" relname="cause-effect">так как все ее средства арестованы.</segment>
+		<segment id="146" parent="150" relname="joint">\"У меня нет намерений скрываться,</segment>
+		<segment id="147" parent="149" relname="joint">я обязуюсь приходить на все заседания</segment>
+		<segment id="148" parent="149" relname="joint">и добиваться правды\",</segment>
+		<segment id="151" parent="150" relname="attribution">- сказала обвиняемая.</segment>
+		<segment id="154" parent="156" relname="joint">Однако суд поддержал позицию следственного управления</segment>
+		<segment id="155" parent="156" relname="joint">и постановил избрать в отношении обвиняемой меру пресечения в виде заключения под стражу.\n\nРанее Юрова сообщала в суде,</segment>
+		<segment id="157" parent="158" relname="sequence">что готовит семь исков против Киркорова с требованием возместить ей моральный и материальный ущерб,</segment>
+		<segment id="159" parent="179" relname="same-unit">поскольку,</segment>
+		<segment id="160" parent="163" relname="attribution">по ее словам,</segment>
+		<segment id="161" parent="163" relname="sequence">ей неоднократно угрожали,</segment>
+		<segment id="162" parent="163" relname="sequence">нападали в подъезде.\n\nЮрова утверждала,</segment>
+		<segment id="165" parent="168" relname="cause-effect">что у Киркорова и так слишком скандальный имидж,</segment>
+		<segment id="166" parent="168" relname="span">поэтому она не может представить, какой информацией она должна обладать,</segment>
+		<segment id="167" parent="166" relname="purpose">чтобы его опорочить.</segment>
+		<segment id="170" parent="175" relname="attribution">Она назвала</segment>
+		<segment id="171" parent="174" relname="attribution">выдвинутые против нее обвинения \"голословными и пустыми\".\n\nРанее Юрова также заявляла в суде,</segment>
+		<segment id="172" parent="174" relname="span">что она организовывала рекламную кампанию к юбилейным концертам Киркорова,</segment>
+		<segment id="173" parent="172" relname="background">которые проходили в апреле 2008 года в Москве.</segment>
+		<segment id="181" parent="190" relname="attribution">По ее словам,</segment>
+		<segment id="182" parent="190" relname="span">Киркоров не подписал с ней договор,</segment>
+		<segment id="183" parent="188" relname="cause-effect">поскольку они знакомы более десяти лет</segment>
+		<segment id="184" parent="188" relname="span">и состоят в дружеских отношениях.</segment>
+		<segment id="185" parent="186" relname="attribution">Юрова утверждает,</segment>
+		<segment id="186" parent="187" relname="span">что после концертов певец отказался вернуть ей деньги, вложенные в рекламную кампанию,</segment>
+		<segment id="192" parent="197" relname="cause-effect">- свыше семи миллионов рублей,</segment>
+		<segment id="193" parent="195" relname="span">после чего у нее начались различные неприятности.\n\nПомимо Юровой, обвинение по части 3 статьи 163 УК РФ (вымогательство в особо крупном размере) и части 2 статьи 272 УК РФ</segment>
+		<segment id="194" parent="193" relname="elaboration">(неправомерный доступ к компьютерной информации)</segment>
+		<segment id="196" parent="197" relname="sequence">было предъявлено и бывшему администратору Киркорова Вере Японцевой.</segment>
+		<segment id="200" parent="201" relname="joint">2 июля решением Мосгорсуда она была освобождена из-под стражи.\n\nДанные статьи УК РФ предусматривают лишение свободы до 15 и до пяти лет соответственно.\n\nИсточник: https://www.newsru.com/russia/06Jul2009/k_arrest.html\n</segment>
+		<group id="106" type="multinuc" parent="206" relname="joint"/>
+		<group id="72" type="span" parent="106" relname="contrast"/>
+		<group id="105" type="multinuc" parent="106" relname="contrast"/>
+		<group id="89" type="span" parent="105" relname="joint"/>
+		<group id="75" type="span" parent="89" relname="span"/>
+		<group id="88" type="span" parent="75" relname="cause-effect"/>
+		<group id="86" type="multinuc" parent="88" relname="span"/>
+		<group id="78" type="span" parent="86" relname="comparison"/>
+		<group id="85" type="span" parent="86" relname="comparison"/>
+		<group id="84" type="span" parent="85" relname="span"/>
+		<group id="83" type="multinuc" parent="84" relname="span"/>
+		<group id="104" type="span" parent="105" relname="joint"/>
+		<group id="102" type="span" parent="104" relname="span"/>
+		<group id="101" type="multinuc" parent="102" relname="span"/>
+		<group id="93" type="span" parent="101" relname="joint"/>
+		<group id="100" type="multinuc" parent="101" relname="joint"/>
+		<group id="98" type="multinuc" parent="100" relname="joint"/>
+		<group id="97" type="multinuc" parent="98" relname="joint"/>
+		<group id="205" type="span" parent="206" relname="joint"/>
+		<group id="123" type="span" parent="204" relname="preparation"/>
+		<group id="122" type="multinuc" parent="123" relname="span"/>
+		<group id="121" type="multinuc" parent="122" relname="joint"/>
+		<group id="120" type="span" parent="121" relname="joint"/>
+		<group id="119" type="span" parent="110" relname="elaboration"/>
+		<group id="118" type="multinuc" parent="119" relname="span"/>
+		<group id="117" type="span" parent="118" relname="joint"/>
+		<group id="116" type="span" parent="113" relname="elaboration"/>
+		<group id="204" type="multinuc" parent="205" relname="span"/>
+		<group id="136" type="multinuc" parent="204" relname="joint"/>
+		<group id="128" type="span" parent="136" relname="joint"/>
+		<group id="127" type="multinuc" parent="128" relname="span"/>
+		<group id="135" type="span" parent="136" relname="joint"/>
+		<group id="133" type="span" parent="135" relname="span"/>
+		<group id="132" type="span" parent="129" relname="condition"/>
+		<group id="203" type="multinuc" parent="204" relname="joint"/>
+		<group id="153" type="span" parent="203" relname="joint"/>
+		<group id="145" type="span" parent="153" relname="span"/>
+		<group id="144" type="span" parent="145" relname="span"/>
+		<group id="143" type="span" parent="144" relname="span"/>
+		<group id="142" type="span" parent="143" relname="span"/>
+		<group id="152" type="span" parent="145" relname="elaboration"/>
+		<group id="150" type="multinuc" parent="152" relname="span"/>
+		<group id="149" type="multinuc" parent="150" relname="joint"/>
+		<group id="202" type="multinuc" parent="203" relname="joint"/>
+		<group id="180" type="span" parent="202" relname="joint"/>
+		<group id="158" type="multinuc" parent="180" relname="span"/>
+		<group id="156" type="multinuc" parent="158" relname="sequence"/>
+		<group id="179" type="multinuc" parent="158" relname="cause-effect"/>
+		<group id="178" type="span" parent="179" relname="same-unit"/>
+		<group id="164" type="span" parent="177" relname="attribution"/>
+		<group id="163" type="multinuc" parent="164" relname="span"/>
+		<group id="177" type="multinuc" parent="178" relname="span"/>
+		<group id="169" type="span" parent="177" relname="joint"/>
+		<group id="168" type="span" parent="169" relname="span"/>
+		<group id="176" type="span" parent="177" relname="joint"/>
+		<group id="175" type="span" parent="176" relname="span"/>
+		<group id="174" type="span" parent="175" relname="span"/>
+		<group id="201" type="multinuc" parent="202" relname="joint"/>
+		<group id="199" type="span" parent="201" relname="joint"/>
+		<group id="191" type="span" parent="199" relname="span"/>
+		<group id="190" type="span" parent="191" relname="span"/>
+		<group id="189" type="span" parent="182" relname="cause-effect"/>
+		<group id="188" type="span" parent="189" relname="span"/>
+		<group id="187" type="span" parent="184" relname="elaboration"/>
+		<group id="198" type="span" parent="191" relname="background"/>
+		<group id="197" type="multinuc" parent="198" relname="span"/>
+		<group id="195" type="span" parent="197" relname="sequence"/>
+		<group id="206" type="multinuc"/>
+	</body>
+</rst>

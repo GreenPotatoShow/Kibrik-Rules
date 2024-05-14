@@ -1,0 +1,127 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="53" parent="154" relname="preparation">Тест Lada Granta в Германии:</segment>
+		<segment id="54" parent="56" relname="joint">приборная панель скрипит</segment>
+		<segment id="55" parent="56" relname="joint">и щелкает?</segment>
+		<segment id="57" parent="59" relname="span">Включите музыку погромче\n\nНемецкие автоэксперты протестировали для портала DW российский бюджетный седан Lada Granta,</segment>
+		<segment id="58" parent="57" relname="elaboration">который продается в Германии.\n\nКак поясняет обкатывающий машину под музыку \"Калинки-малинки\" Эммануэль Шеффер, Lada - это марка \"АвтоВАЗа\", крупнейшего автопроизводителя в России и Восточной Европе.\n\nВ целом отзыв Шеффера сдержанно-положительный.</segment>
+		<segment id="61" parent="62" relname="attribution">Он отмечает,</segment>
+		<segment id="62" parent="63" relname="span">что пока Granta оснащается лишь одним вариантом двигателя мощностью 87 л. с.</segment>
+		<segment id="64" parent="68" relname="contrast">На первый взгляд, это немного,</segment>
+		<segment id="65" parent="67" relname="joint">но автомобиль довольно приемистый и маневренный,</segment>
+		<segment id="66" parent="67" relname="joint">и тому есть две причины.</segment>
+		<segment id="71" parent="73" relname="span">Во-первых, Lada Granta вместе с 80-килограммовым водителем весит всего 1080 кг,</segment>
+		<segment id="72" parent="71" relname="interpretation-evaluation">что совсем немного.</segment>
+		<segment id="74" parent="77" relname="cause-effect">Во-вторых, объем двигателя более 1,5 литров,</segment>
+		<segment id="75" parent="77" relname="span">что вполне прилично для машины такого размера,</segment>
+		<segment id="76" parent="75" relname="attribution">комментирует немецкий водитель.</segment>
+		<segment id="79" parent="87" relname="comparison">При этом автомобиль разгоняется до 100 км/ч</segment>
+		<segment id="80" parent="86" relname="same-unit">менее чем за 12 секунд.\n\n- В Германии начнутся продажи Lada Kalina Cross и Lada 4X4 Urban\n\nСалон российской машины,</segment>
+		<segment id="81" parent="82" relname="attribution">по мнению Шеффера,</segment>
+		<segment id="82" parent="83" relname="span">не слишком привлекателен</segment>
+		<segment id="84" parent="83" relname="cause-effect">- очень много твердого пластика.</segment>
+		<segment id="90" parent="92" relname="span">Это и понятно:</segment>
+		<segment id="91" parent="90" relname="purpose">для данной ценовой категории нужно на чем-то экономить.</segment>
+		<segment id="93" parent="99" relname="span">Но при этом все сделано достаточно аккуратно,</segment>
+		<segment id="94" parent="97" relname="attribution">отмечает немец</segment>
+		<segment id="95" parent="97" relname="span">.\n\nОбщее впечатление немного портит отсутствие кондиционера,</segment>
+		<segment id="96" parent="95" relname="elaboration">который нельзя установить даже опционально.</segment>
+		<segment id="100" parent="104" relname="span">Зато есть обогрев заднего стекла, который входит в базовую комплектацию.\n\nХодовая часть Granta - \"средненькая\":</segment>
+		<segment id="101" parent="103" relname="contrast">плавные изменения рельефа хорошо амортизируются,</segment>
+		<segment id="102" parent="103" relname="contrast">но вот резкие толчки отчетливо ощущаются водителем.</segment>
+		<segment id="107" parent="109" relname="joint">Приборная панель скрипит</segment>
+		<segment id="108" parent="109" relname="joint">и щелкает во время езды.</segment>
+		<segment id="110" parent="112" relname="span">Но жить с этим можно</segment>
+		<segment id="111" parent="110" relname="cause-effect">- надо только включить радио чуть-чуть погромче.</segment>
+		<segment id="113" parent="115" relname="span">Обыкновенная радиомагнитола, кстати, понравилась Шефферу своей простотой</segment>
+		<segment id="114" parent="113" relname="elaboration">- \"не надо продираться через тысячи электронных меню\".\n\nМеста на сидении сзади немного,</segment>
+		<segment id="116" parent="122" relname="span">но достаточно:</segment>
+		<segment id="117" parent="120" relname="condition">если вы не выше 180 см,</segment>
+		<segment id="118" parent="120" relname="joint">то его должно хватить,</segment>
+		<segment id="119" parent="120" relname="joint">продолжает свой рассказ автоэксперт.</segment>
+		<segment id="126" parent="127" relname="purpose">Для длительных поездок</segment>
+		<segment id="127" parent="128" relname="span">автомобиль скорее не подходит,</segment>
+		<segment id="129" parent="128" relname="cause-effect">так как спинки кресел достаточно жесткие.</segment>
+		<segment id="131" parent="133" relname="span">Немецкого водителя порадовали размеры багажника</segment>
+		<segment id="132" parent="131" relname="elaboration">- без труда поместилось то, что не вмещали некоторые другие тестируемые им машины.\n\</segment>
+		<segment id="136" parent="140" relname="span">nНо главный аргумент в пользу Granta в Германии - ее цена,</segment>
+		<segment id="137" parent="139" relname="span">резюмирует автотестировщик:</segment>
+		<segment id="138" parent="137" relname="elaboration">всего около семи тысяч евро.</segment>
+		<segment id="141" parent="147" relname="same-unit">За это,</segment>
+		<segment id="142" parent="145" relname="attribution">по мнению Шеффера,</segment>
+		<segment id="143" parent="145" relname="joint">русскому седану можно простить и спартанскую комплектацию,</segment>
+		<segment id="144" parent="145" relname="joint">и недостаток комфорта.\n\nИсточник: https://www.newsru.com/auto/15Feb2016/granta_germany.html\n</segment>
+		<group id="154" type="multinuc" parent="155" relname="span"/>
+		<group id="70" type="span" parent="154" relname="joint"/>
+		<group id="60" type="span" parent="70" relname="span"/>
+		<group id="56" type="multinuc" parent="59" relname="solutionhood"/>
+		<group id="59" type="span" parent="60" relname="span"/>
+		<group id="69" type="span" parent="60" relname="elaboration"/>
+		<group id="63" type="span" parent="69" relname="span"/>
+		<group id="68" type="multinuc" parent="63" relname="interpretation-evaluation"/>
+		<group id="67" type="multinuc" parent="68" relname="contrast"/>
+		<group id="153" type="multinuc" parent="154" relname="joint"/>
+		<group id="89" type="multinuc" parent="153" relname="joint"/>
+		<group id="73" type="span" parent="89" relname="joint"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="78" type="span" parent="88" relname="joint"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="86" type="multinuc" parent="87" relname="comparison"/>
+		<group id="85" type="span" parent="86" relname="same-unit"/>
+		<group id="83" type="span" parent="85" relname="span"/>
+		<group id="152" type="multinuc" parent="153" relname="joint"/>
+		<group id="106" type="multinuc" parent="152" relname="joint"/>
+		<group id="92" type="span" parent="106" relname="contrast"/>
+		<group id="105" type="multinuc" parent="106" relname="contrast"/>
+		<group id="99" type="span" parent="105" relname="restatement"/>
+		<group id="98" type="span" parent="93" relname="interpretation-evaluation"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="104" type="span" parent="105" relname="restatement"/>
+		<group id="103" type="multinuc" parent="100" relname="elaboration"/>
+		<group id="151" type="multinuc" parent="152" relname="joint"/>
+		<group id="125" type="multinuc" parent="151" relname="joint"/>
+		<group id="109" type="multinuc" parent="125" relname="contrast"/>
+		<group id="124" type="span" parent="125" relname="contrast"/>
+		<group id="112" type="span" parent="124" relname="span"/>
+		<group id="123" type="multinuc" parent="112" relname="elaboration"/>
+		<group id="115" type="span" parent="123" relname="contrast"/>
+		<group id="122" type="span" parent="123" relname="contrast"/>
+		<group id="121" type="span" parent="116" relname="condition"/>
+		<group id="120" type="multinuc" parent="121" relname="span"/>
+		<group id="150" type="span" parent="151" relname="joint"/>
+		<group id="130" type="span" parent="150" relname="span"/>
+		<group id="128" type="span" parent="130" relname="span"/>
+		<group id="149" type="multinuc" parent="130" relname="elaboration"/>
+		<group id="133" type="span" parent="149" relname="contrast"/>
+		<group id="148" type="span" parent="149" relname="contrast"/>
+		<group id="140" type="span" parent="148" relname="span"/>
+		<group id="139" type="span" parent="136" relname="attribution"/>
+		<group id="147" type="multinuc" parent="140" relname="cause-effect"/>
+		<group id="146" type="span" parent="147" relname="same-unit"/>
+		<group id="145" type="multinuc" parent="146" relname="span"/>
+		<group id="155" type="span"/>
+	</body>
+</rst>

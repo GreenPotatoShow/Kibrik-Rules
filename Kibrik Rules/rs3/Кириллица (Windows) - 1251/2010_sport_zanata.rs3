@@ -1,0 +1,21 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="6" parent="8" relname="span">У питерского СКА появился новый тренер\n\nКанадский специалист Айван Занатта стал новым главным тренером питерского хоккейного клуба СКА.\n\nЗанатта,</segment>
+		<segment id="7" parent="6" relname="background">которому в августе этого года исполнится 50 лет,</segment>
+		<segment id="9" parent="10" relname="sequence">сменил на тренерском мостике СКА ушедшего в отставку после неудачного выступления в плей-офф КХЛ Барри Смита.</segment>
+		<segment id="11" parent="13" relname="sequence">До этого Занатта руководил молодежной командой СКА-1946.\n\nНового тренера представил журналистам в субботу председатель совета директоров клуба Александр Медведев.\n\nНапомним, что СКА, который считался едва ли не главным фаворитом Кубка Гагарина,</segment>
+		<segment id="12" parent="13" relname="sequence">в первом раунде плей-офф безвольно уступил рижскому \"Динамо\" со счетом 1:3.\n\nИсточник: https://www.newsru.com/sport/17Apr2010/zanata.html\n</segment>
+		<group id="10" type="multinuc" parent="13" relname="preparation"/>
+		<group id="8" type="span" parent="10" relname="sequence"/>
+		<group id="13" type="multinuc" parent="14" relname="span"/>
+		<group id="14" type="span"/>
+	</body>
+</rst>

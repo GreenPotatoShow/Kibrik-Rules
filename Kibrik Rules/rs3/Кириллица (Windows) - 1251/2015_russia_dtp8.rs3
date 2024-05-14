@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="25" relname="span">В Нижнем Новгороде летевший на красный автомобиль въехал в маршрутку:</segment>
+		<segment id="20" parent="22" relname="span">до 8 пострадавших\n\nВ центре Нижнего Новгорода легковой автомобиль врезался в междугородний маршрутный микроавтобус \"Соболь\":</segment>
+		<segment id="21" parent="20" relname="elaboration">по разным данным, пострадали семь либо восемь человек,</segment>
+		<segment id="23" parent="22" relname="attribution">передает \"Интерфакс\".</segment>
+		<segment id="26" parent="29" relname="attribution">По предварительным данным,</segment>
+		<segment id="27" parent="29" relname="span">виновен в ДТП водитель BMW,</segment>
+		<segment id="28" parent="27" relname="elaboration">проехавший на красный свет.\n\nДТП произошло около 7:30 мск. у дома 95 по улице Большая Печерская недалеко от автостанции \"Сенная\".</segment>
+		<segment id="31" parent="39" relname="sequence">Оттуда выехал направлявшийся в город Кстово рейсовый микроавтобус.</segment>
+		<segment id="32" parent="34" relname="span">С ним столкнулся BMW,</segment>
+		<segment id="33" parent="32" relname="elaboration">выехавший на запрещающий сигнал светофора,</segment>
+		<segment id="35" parent="36" relname="attribution">сообщили в пресс-службе регионального УГИБДД.\n\nПо данным областного ГУ МЧС,</segment>
+		<segment id="36" parent="37" relname="span">пострадали семь человек.</segment>
+		<segment id="40" parent="49" relname="preparation">По данным ГИБДД - восемь.</segment>
+		<segment id="41" parent="43" relname="joint">Пострадавшие доставлены в областную больницу имени Семашко,</segment>
+		<segment id="42" parent="43" relname="joint">им оказывают медпомощь.</segment>
+		<segment id="44" parent="43" relname="interpretation-evaluation">Характер полученных ими травм уточняется.</segment>
+		<segment id="46" parent="47" relname="attribution">В УГИБДД отметили,</segment>
+		<segment id="47" parent="48" relname="span">что детей среди пострадавших нет.\n\nИсточник: https://www.newsru.com/russia/07Jun2015/dtp8.html\n</segment>
+		<group id="25" type="span" parent="53" relname="joint"/>
+		<group id="24" type="span" parent="19" relname="elaboration"/>
+		<group id="22" type="span" parent="24" relname="span"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="30" type="span" parent="52" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="span"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="39" type="multinuc" parent="51" relname="sequence"/>
+		<group id="38" type="span" parent="39" relname="sequence"/>
+		<group id="34" type="span" parent="38" relname="span"/>
+		<group id="37" type="span" parent="34" relname="attribution"/>
+		<group id="50" type="span" parent="51" relname="sequence"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="45" type="span" parent="49" relname="joint"/>
+		<group id="43" type="multinuc" parent="45" relname="span"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

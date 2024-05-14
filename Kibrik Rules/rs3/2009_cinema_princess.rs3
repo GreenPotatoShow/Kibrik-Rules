@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="94" relname="preparation">Рисованный шедевр Disney \"Принцесса и лягушка\" вырвался в лидеры бокс-офиса\n\</segment>
+		<segment id="34" parent="36" relname="joint">nНесмотря на засилье 3D-анимации,</segment>
+		<segment id="35" parent="36" relname="joint">зрители питают всю ту же нежную симпатию к старым рисованным мультфильмам от Disney.</segment>
+		<segment id="37" parent="41" relname="span">Рейтинг североамериканского кинопроката возглавила \"Принцесса и лягушка\"</segment>
+		<segment id="38" parent="40" relname="span">- первый мультфильм за последние пять лет,</segment>
+		<segment id="39" parent="38" relname="elaboration">нарисованный мультипликаторами студии вручную,</segment>
+		<segment id="42" parent="45" relname="cause-effect">пишет AP.\n\nИстория о том, как в Новом Орлеане 1920-х ненастоящая принцесса поцеловала заколдованного принца,</segment>
+		<segment id="45" parent="46" relname="span">и к чему это привело, собрала в кинотеатрах 25 млн долларов.</segment>
+		<segment id="49" parent="51" relname="span">Во многом успех мультипликационному мюзиклу принесла старая команда создателей</segment>
+		<segment id="50" parent="49" relname="elaboration">- над \"Принцессой и лягушкой\" работали авторы \"Русалочки\" и \"Аладдина\" Рон Клементс и Джон Маскер и композитор Рэнди Ньюман.\n\n</segment>
+		<segment id="53" parent="56" relname="attribution">\"Я всегда верил,</segment>
+		<segment id="54" parent="55" relname="condition">что, когда начинаешь рассказывать хорошую историю,</segment>
+		<segment id="55" parent="56" relname="span">формат ничего не значит\",</segment>
+		<segment id="58" parent="57" relname="attribution">- заметил президент отдела дистрибуции Walt Disney Studios Чак Виан после удачной премьеры мультфильма.\n\nВторое место плотно оккупировал футбольный байопик \"Невидимая сторона\" со сборами в 15,5 млн долларов.</segment>
+		<segment id="60" parent="59" relname="elaboration">Напомним, что драма снята по мотивам реальной истории из жизни полузащитника клуба Baltimore Ravens Майкла Оэра.</segment>
+		<segment id="62" parent="64" relname="joint">Касса фильма в США уже перевалила за 150 млн долларов,</segment>
+		<segment id="63" parent="64" relname="joint">и по мнению студии Warner Bros., легко доберется до 230 млн долларов.\n\</segment>
+		<segment id="65" parent="64" relname="concession">nНесмотря на то, что \"Сумерки.</segment>
+		<segment id="67" parent="90" relname="preparation">Сага.</segment>
+		<segment id="68" parent="70" relname="joint">Новолуние\" стартовала одновременно с \"Невидимой стороной\",</segment>
+		<segment id="69" parent="70" relname="joint">вампирская мелодрама уже отодвинулась на четвертое место.</segment>
+		<segment id="71" parent="72" relname="cause-effect">За прошлый уикенд слезливая история о любви вампира, смертной и оборотня,</segment>
+		<segment id="72" parent="73" relname="span">заработала всего 8 млн долларов.</segment>
+		<segment id="75" parent="77" relname="joint">Впрочем, в домашнем прокате фильм уже заработал 267,4 млн долларов</segment>
+		<segment id="76" parent="77" relname="joint">и при этом продолжает идти на экранах.\n\nВ свою очередь, третье место заняла еще одна спортивная премьера Warner Bros.</segment>
+		<segment id="78" parent="77" relname="elaboration">- \"Непокоренный\" (\"Invictus\") режиссера Клинта Иствуда.</segment>
+		<segment id="80" parent="82" relname="span">Сюжет фильма основан на реальных событиях,</segment>
+		<segment id="81" parent="80" relname="elaboration">когда в 1995 году Нельсон Мандела и капитан южноафриканской команды по регби пытались объединить страну.</segment>
+		<segment id="83" parent="87" relname="joint">Главные роли в ленте, собравшей в прокате 9,1 млн долларов,</segment>
+		<segment id="84" parent="86" relname="joint">исполнили Мэтт Деймон и Морган Фримен.\n\nСтоит отметить и успех автора \"Властелина Колец\" Питера Джексона - его новый проект \"Милые кости\" (\"The Lovely Bones\") об умершей девочке, наблюдающей за своими родными из своего персонального рая,</segment>
+		<segment id="85" parent="86" relname="joint">заработал 116 тысяч долларов в трех кинотеатрах.\n\nУже традиционно в хвосте \"пятерки\" плетется Рождественская история\"\" Диккенса-Земекиса - 6,9 млн долларов.\n\nИсточник: https://www.newsru.com/cinema/14Dec2009/princess.html\n</segment>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="52" type="multinuc" parent="94" relname="joint"/>
+		<group id="48" type="span" parent="52" relname="joint"/>
+		<group id="36" type="multinuc" parent="47" relname="preparation"/>
+		<group id="47" type="multinuc" parent="48" relname="span"/>
+		<group id="41" type="span" parent="47" relname="sequence"/>
+		<group id="40" type="span" parent="37" relname="elaboration"/>
+		<group id="46" type="span" parent="47" relname="sequence"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="61" type="span" parent="93" relname="joint"/>
+		<group id="59" type="span" parent="61" relname="span"/>
+		<group id="57" type="span" parent="59" relname="span"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="66" type="span" parent="92" relname="joint"/>
+		<group id="64" type="multinuc" parent="66" relname="span"/>
+		<group id="91" type="span" parent="92" relname="joint"/>
+		<group id="90" type="multinuc" parent="91" relname="span"/>
+		<group id="74" type="span" parent="90" relname="joint"/>
+		<group id="70" type="multinuc" parent="74" relname="span"/>
+		<group id="73" type="span" parent="70" relname="elaboration"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="79" type="span" parent="89" relname="joint"/>
+		<group id="77" type="multinuc" parent="79" relname="span"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="82" type="span" parent="88" relname="span"/>
+		<group id="87" type="multinuc" parent="82" relname="elaboration"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

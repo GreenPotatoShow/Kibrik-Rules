@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="19" relname="attribution">Иранский министр иностранных дел призвал</segment>
+		<segment id="19" parent="20" relname="span">европейские страны извиниться за карикатуры\n\nМИД Ирана потребовал немедленных извинений от руководства стран, где были опубликованы карикатуры на пророка Мухаммеда,</segment>
+		<segment id="21" parent="20" relname="attribution">сообщает ИТАР-ТАСС.\n\</segment>
+		<segment id="23" parent="28" relname="attribution">nКак сообщил сегодня журналистам официальный представитель иранского внешнеполитического ведомства Хамид Реза Асефи,</segment>
+		<segment id="24" parent="27" relname="attribution">в понедельник вечером состоялся телефонный разговор между главой МИД ИРИ Манучехром Моттаки и его датским коллегой Пер Стиг Меллером.\n\nИранский министр отметил</segment>
+		<segment id="25" parent="27" relname="span">необходимость \"как можно скорее исправить ошибки, которые сделала Европа,</segment>
+		<segment id="26" parent="25" relname="condition">оскорбив всех мусульман\".</segment>
+		<segment id="30" parent="31" relname="attribution">Он также подчеркнул,</segment>
+		<segment id="31" parent="32" relname="span">что Иран \"помнит о своих обязанностях охранять иностранные дипломатические представительства\".\n\</segment>
+		<segment id="33" parent="42" relname="attribution">nПо словам Асефи,</segment>
+		<segment id="34" parent="41" relname="attribution">в Тегеране \"ожидали,</segment>
+		<segment id="35" parent="37" relname="span">что официальные лица Дании и других государств гораздо раньше принесут извинения за омерзительную акцию,</segment>
+		<segment id="36" parent="35" relname="elaboration">которая дискредитировала идею свободы слова и авторитет мирового информационного сообщества\".\n\nОн назвал \"естественной\" волну протеста,</segment>
+		<segment id="38" parent="40" relname="span">поднявшуюся в мусульманских странах</segment>
+		<segment id="39" parent="38" relname="cause-effect">в связи со скандальными публикациями в европейской прессе.\n\n\"Европейцам следует серьезно задуматься о том, как избежать повторения подобных акций в будущем;</segment>
+		<segment id="44" parent="46" relname="span">не стоит думать, что исламский мир когда-либо с этим смирится\",</segment>
+		<segment id="45" parent="44" relname="attribution">- заключил Асефи.\n\nИсточник: https://www.newsru.com/world/08Feb2006/muids.html\n</segment>
+		<group id="22" type="span" parent="49" relname="preparation"/>
+		<group id="20" type="span" parent="22" relname="span"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="29" type="span" parent="49" relname="joint"/>
+		<group id="28" type="span" parent="29" relname="span"/>
+		<group id="27" type="span" parent="28" relname="span"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="32" type="span" parent="48" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="43" type="span" parent="47" relname="joint"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="41" type="multinuc" parent="42" relname="span"/>
+		<group id="37" type="span" parent="41" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

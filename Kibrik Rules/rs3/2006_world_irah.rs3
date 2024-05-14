@@ -1,0 +1,86 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="evidence" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="35" relname="attribution">Советник госдепа США:</segment>
+		<segment id="33" parent="35" relname="span">мы проявили в Ираке самонадеянность и глупость\n\nСоединенные Штаты проявили в Ираке самонадеянность и глупость,</segment>
+		<segment id="34" parent="33" relname="attribution">заявил советник госдепартамента США по делам Ближнего Востока Альберто Фернандез в интервью катарскому спутниковому телеканалу Al-Jazeera.\n\n</segment>
+		<segment id="37" parent="41" relname="contrast">\"Мы старались сделать (в Ираке) все возможное,</segment>
+		<segment id="38" parent="40" relname="span">но мне кажется, что для критики имеется много места,</segment>
+		<segment id="39" parent="38" relname="cause-effect">поскольку, несомненно, в Ираке США проявили самонадеянность и глупость\",</segment>
+		<segment id="42" parent="41" relname="attribution">- сказал он</segment>
+		<segment id="45" parent="48" relname="attribution">.\n\nФернандез подчеркнул,</segment>
+		<segment id="46" parent="48" relname="span">что Вашингтон готов к переговорам с любыми иракскими группировками, кроме \"Аль-Каиды в Ираке\",</segment>
+		<segment id="47" parent="46" relname="purpose">для того чтобы положить конец межконфессинольному насилию и партизанской войне.\n\nМежду тем незадолго до назначенных на ноябрь нынешнего года выборов в конгресс США деятельность президента Джорджа Буша имеет самые низкие рейтинги в тех областях, которые могут оказать наибольшее влияние на результаты голосования</segment>
+		<segment id="50" parent="60" relname="same-unit">.\n\</segment>
+		<segment id="51" parent="53" relname="span">nКак показали обнародованные в субботу результаты опроса,</segment>
+		<segment id="52" parent="51" relname="elaboration">проведенного исследовательской службой Харриса,</segment>
+		<segment id="54" parent="56" relname="span">наиболее значимыми при принятии решения</segment>
+		<segment id="55" parent="54" relname="condition">во время выборов для жителей США</segment>
+		<segment id="57" parent="56" relname="elaboration">являются вопросы здравоохранения, безопасности, борьбы с терроризмом и положение дел в Ираке,</segment>
+		<segment id="62" parent="61" relname="attribution">сообщает ИТАР-ТАСС.\n\</segment>
+		<segment id="64" parent="66" relname="span">nОтвечая на вопрос о том, результаты деятельности руководства страны в каких областях оказывают наибольшее влияние на мнение избирателей</segment>
+		<segment id="65" parent="64" relname="condition">при принятии решения,</segment>
+		<segment id="67" parent="68" relname="span">за кого отдать свой голос</segment>
+		<segment id="69" parent="72" relname="cause-effect">- за республиканцев или демократов,</segment>
+		<segment id="70" parent="71" relname="attribution">29 процентов респондентов заявили,</segment>
+		<segment id="71" parent="72" relname="span">что ключевым для них является здравоохранение и обеспечение безопасности США.\n\</segment>
+		<segment id="75" parent="79" relname="comparison">nДля 28 процентов наиболее важными оказались результаты борьбы с терроризмом,</segment>
+		<segment id="76" parent="78" relname="sequence">27 процентов опрошенных назвали ситуацию в Ираке,</segment>
+		<segment id="77" parent="78" relname="sequence">24 процента - экономическое положение страны и 19 процентов - налоговую сферу.\n\</segment>
+		<segment id="80" parent="88" relname="span">nМежду тем, деятельность республиканца Джорджа Буша на посту главы Белого дома именно в этих областях вызывает у большинства соотечественников негативную реакцию.\n\</segment>
+		<segment id="81" parent="83" relname="comparison">nНапример, 64 процентов опрошенных не одобряют политику президента в области здравоохранения,</segment>
+		<segment id="82" parent="83" relname="comparison">58 процентов респондентов недовольны экономическим положением страны, а также налоговой политикой.</segment>
+		<segment id="84" parent="86" relname="comparison">Около 50 процентов американцев не одобряют деятельность Буша в области обеспечения безопасности,</segment>
+		<segment id="85" parent="86" relname="comparison">а 57 процентов негативно оценивают усилия главы государства по борьбе с терроризмом.\n\nВ опросе, проводившемся с 5 по 10 октября, участвовали более 2 тыс совершеннолетних жителей США.\n\nИсточник: https://www.newsru.com/world/22Oct2006/irah.html\n</segment>
+		<group id="44" type="span" parent="91" relname="preparation"/>
+		<group id="36" type="span" parent="44" relname="span"/>
+		<group id="35" type="span" parent="36" relname="span"/>
+		<group id="43" type="span" parent="36" relname="interpretation-evaluation"/>
+		<group id="41" type="multinuc" parent="43" relname="span"/>
+		<group id="40" type="span" parent="41" relname="contrast"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="63" type="span" parent="91" relname="joint"/>
+		<group id="61" type="multinuc" parent="63" relname="span"/>
+		<group id="49" type="span" parent="61" relname="joint"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="59" type="span" parent="60" relname="same-unit"/>
+		<group id="53" type="span" parent="59" relname="span"/>
+		<group id="58" type="span" parent="53" relname="elaboration"/>
+		<group id="56" type="span" parent="58" relname="span"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="74" type="span" parent="89" relname="solutionhood"/>
+		<group id="68" type="span" parent="73" relname="solutionhood"/>
+		<group id="66" type="span" parent="67" relname="cause-effect"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="89" type="multinuc" parent="90" relname="span"/>
+		<group id="79" type="multinuc" parent="89" relname="comparison"/>
+		<group id="78" type="multinuc" parent="79" relname="comparison"/>
+		<group id="88" type="span" parent="89" relname="comparison"/>
+		<group id="87" type="multinuc" parent="80" relname="evidence"/>
+		<group id="83" type="multinuc" parent="87" relname="joint"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,26 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="8" parent="10" relname="span">Число жертв землетрясения в Китае достигло 22 человек\n\nЧисло жертв произошедшего в субботу в Китае землетрясения магнитудой 6,1 возросло до 22 человек,</segment>
+		<segment id="9" parent="8" relname="attribution">сообщает агентство Синьхуа.\n\nПо последним данным, более 100 человек получили ранения.</segment>
+		<segment id="11" parent="18" relname="preparation">Ранее сообщалось о семи погибших.\n\nПодземные толчки зафиксированы в 16:30 по местному времени (12:30 мск) в провинциях Сычуань и Юньнань на юго-западе КНР.</segment>
+		<segment id="12" parent="14" relname="span">Еще одно сильное землетрясение магнитудой 5,3 произошло вечером на северо-западе Китая - в Синьцзян-Уйгурском автономном районе.\n\nСильнейшее за последние 30 лет землетрясение в КНР произошло 12 мая в Сычуани.</segment>
+		<segment id="13" parent="12" relname="background">Жертвами природной катастрофы, по последним данным, стали 69 тысяч 226 человек.</segment>
+		<segment id="15" parent="17" relname="span">До сих пор неизвестна судьба 18 тысяч пропавших без вести.\n\nЗемлетрясения на юго-западе КНР продолжаются с середины мая,</segment>
+		<segment id="16" parent="15" relname="attribution">сообщает РИА \"Новости\".\n\nИсточник: https://www.newsru.com/world/30Aug2008/22z.html\n</segment>
+		<group id="10" type="span" parent="19" relname="preparation"/>
+		<group id="19" type="span" parent="20" relname="span"/>
+		<group id="18" type="multinuc" parent="19" relname="span"/>
+		<group id="14" type="span" parent="18" relname="joint"/>
+		<group id="17" type="span" parent="18" relname="joint"/>
+		<group id="20" type="span"/>
+	</body>
+</rst>

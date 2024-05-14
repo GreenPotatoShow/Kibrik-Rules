@@ -1,0 +1,57 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="25" relname="attribution">Касьянов подтвердил</segment>
+		<segment id="23" parent="25" relname="span">намерение баллотироваться в президенты России\n\nЛидер движения \"Народно-демократический союз\" и образованной в октябре этого года партии \"Народ за демократию и справедливость\" (НДС) Михаил Касьянов подтвердил</segment>
+		<segment id="24" parent="23" relname="background">свое намерение участвовать в выборах президента РФ в 2008 году,</segment>
+		<segment id="27" parent="29" relname="span">сообщает \"Интерфакс\".\n\n\"Я своего решения</segment>
+		<segment id="28" parent="27" relname="elaboration">(баллотироваться в президенты РФ) не изменил.</segment>
+		<segment id="31" parent="35" relname="joint">С каждым днем моя уверенность в этом решении растет.</segment>
+		<segment id="32" parent="33" relname="attribution">Более того, 7 декабря мы проведем съезд \"Народно-демократического союза\", где еще раз подтвердим решение о том,</segment>
+		<segment id="33" parent="34" relname="span">что входим фактически уже в юридическую часть избирательной кампании\",</segment>
+		<segment id="36" parent="37" relname="attribution">- сказал Касьянов журналистам в Краснодаре,</segment>
+		<segment id="37" parent="38" relname="span">где в субботу прошло учредительное собрание регионального отделения НДС.\n\</segment>
+		<segment id="40" parent="41" relname="attribution">nКак считает Касьянов,</segment>
+		<segment id="41" parent="42" relname="span">в России назрела необходимость сформировать принципиально иной политический курс.</segment>
+		<segment id="43" parent="45" relname="span">\"Мы требуем от власти исполнения главного конституционного обязательства - организации честных, свободных справедливых выборов\",</segment>
+		<segment id="44" parent="43" relname="attribution">- заявил Касьянов.\n\</segment>
+		<segment id="46" parent="53" relname="attribution">nПо его словам,</segment>
+		<segment id="47" parent="53" relname="joint">в основе программы \"Народно-демократического союза\" и НДС - раскрепощение граждан, создание ситуации, когда \"каждый человек будет уважаться государством,</segment>
+		<segment id="48" parent="52" relname="span">а применение законов будет не избирательным, а одинаковым для всех\".\n\nНДС намерена,</segment>
+		<segment id="49" parent="51" relname="joint">зарегистрировавшись в ЦИК,</segment>
+		<segment id="50" parent="51" relname="joint">участвовать в региональных и муниципальных выборах.</segment>
+		<segment id="55" parent="57" relname="span">В декабре в России будет открыто 52 региональных отделения НДС,</segment>
+		<segment id="56" parent="55" relname="attribution">сказал Касьянов.\n\nИсточник: https://www.newsru.com/russia/24Nov2007/nds.html\n</segment>
+		<group id="30" type="span" parent="61" relname="preparation"/>
+		<group id="26" type="span" parent="30" relname="span"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="29" type="span" parent="26" relname="attribution"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="39" type="span" parent="61" relname="joint"/>
+		<group id="35" type="multinuc" parent="39" relname="span"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="38" type="span" parent="35" relname="attribution"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="42" type="span" parent="59" relname="preparation"/>
+		<group id="59" type="multinuc" parent="60" relname="span"/>
+		<group id="45" type="span" parent="59" relname="joint"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="54" type="span" parent="58" relname="joint"/>
+		<group id="53" type="multinuc" parent="54" relname="span"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="51" type="multinuc" parent="48" relname="condition"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="62" type="span"/>
+	</body>
+</rst>

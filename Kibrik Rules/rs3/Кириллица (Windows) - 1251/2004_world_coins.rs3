@@ -1,0 +1,50 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="span">Британец нашел 20 тысяч римских монет,</segment>
+		<segment id="20" parent="19" relname="elaboration">когда копал пруд в своем саду\n\nКен Аллен из Бристоля нашел древний клад в 6 метрах от черного входа своего дома.</segment>
+		<segment id="24" parent="26" relname="span">Керамическая урна, содержащая от 15 до 20 тысяч бронзовых монет, была спрятана в 1 метре 20 см под землей,</segment>
+		<segment id="25" parent="24" relname="attribution">пишет в пятницу Independent\n\</segment>
+		<segment id="28" parent="31" relname="attribution">nАрхеологи сообщили,</segment>
+		<segment id="29" parent="31" relname="span">что это один их самых значительных кладов римских монет, найденных на юго-западе Великобритании.\n\nДэйл Бойл, археолог из Музея и Художественной галереи Бристоля, сообщил,</segment>
+		<segment id="30" parent="29" relname="background">что монеты датируются временем правления императора Константина Великого (307-337 гг. н. э.)</segment>
+		<segment id="33" parent="37" relname="span">\"Странно, что этот клад пролежал столько времени в районе плотной застройки\",</segment>
+		<segment id="34" parent="35" relname="attribution">- сказал он</segment>
+		<segment id="35" parent="36" relname="span">.\n\n47-летний Кен Аллен, менеджер по продажам, живет в доме, возле которого он нашел клад, уже 15 лет.</segment>
+		<segment id="38" parent="42" relname="span">\"Мой старый садовый пруд расположен всего в нескольких сантиметрах от того места, где я нашел монеты.</segment>
+		<segment id="39" parent="41" relname="joint">Я долго выращивал здесь деревья,</segment>
+		<segment id="40" parent="41" relname="joint">странно, что я не откопал этот клад раньше\",</segment>
+		<segment id="43" parent="42" relname="attribution">- рассказал он</segment>
+		<segment id="45" parent="49" relname="same-unit">.\n\</segment>
+		<segment id="46" parent="47" relname="condition">nЕсли специалисты сочтут находку сокровищем,</segment>
+		<segment id="47" parent="48" relname="span">то, по британским законам, Кен Аллен получит вознаграждение, соответствующее рыночной стоимости монет.\n\nИсточник: https://www.newsru.com/world/12Mar2004/coins.html\n</segment>
+		<group id="27" type="multinuc" parent="53" relname="joint"/>
+		<group id="21" type="span" parent="27" relname="joint"/>
+		<group id="26" type="span" parent="27" relname="joint"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="32" type="span" parent="52" relname="joint"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="37" type="span" parent="51" relname="joint"/>
+		<group id="36" type="span" parent="33" relname="background"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="44" type="span" parent="49" relname="solutionhood"/>
+		<group id="42" type="span" parent="44" relname="span"/>
+		<group id="41" type="multinuc" parent="38" relname="background"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="48" type="span" parent="49" relname="same-unit"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,86 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="36" parent="38" relname="joint">В Москве одобрили законопроект о переводе часов на Сахалине\n\nВ Москве одобрили законопроект о переводе Сахалинской области в десятую часовую зону (московское время плюс восемь часов),</segment>
+		<segment id="37" parent="38" relname="joint">сообщает сайт губернатора и правительства региона.\n\nЭтот документ оценили положительно администрация президента, правительственная комиссия и семь федеральных министерств.</segment>
+		<segment id="39" parent="40" relname="attribution">Сахалинские власти рассчитывают,</segment>
+		<segment id="40" parent="41" relname="span">что данная инициатива будет утверждена обеими палатами парламента и президентом до лета 2016 года.\n\n\"Именно летом очень остро ощущается нехватка светлого времени,</segment>
+		<segment id="42" parent="41" relname="attribution">- поясняет глава региона Олег Кожемяко.</segment>
+		<segment id="45" parent="46" relname="cause-effect">- Люди выходят вечером с работы,</segment>
+		<segment id="46" parent="47" relname="span">не успевают оглянуться</segment>
+		<segment id="48" parent="50" relname="span">- уже стемнело\".\n\nПоявлению законопроекта предшествовал сентябрьский опрос местного населения,</segment>
+		<segment id="49" parent="48" relname="elaboration">в ходе которого 93% его участников (около 118 тысяч человек) проголосовали за перевод времени на час вперед.</segment>
+		<segment id="52" parent="57" relname="attribution">Главные аргументы:</segment>
+		<segment id="53" parent="55" relname="joint">рано темнеет,</segment>
+		<segment id="54" parent="55" relname="joint">область живет сразу в нескольких часовых поясах,</segment>
+		<segment id="56" parent="57" relname="joint">передает агентство SakhalinMedia.ru.\n\n22 декабря Госдума приняла закон о переводе Забайкальcкого края из седьмой в восьмую часовую зону.</segment>
+		<segment id="59" parent="61" relname="sequence">Перевод стрелок в этом регионе запланирован на 27 марта 2016 года,</segment>
+		<segment id="60" parent="61" relname="sequence">после чего разница во времени с Москвой увеличится до шести часов.</segment>
+		<segment id="64" parent="68" relname="sequence">Жители Забайкалья оказались очень недовольны переводом стрелок на два часа назад осенью 2014 года,</segment>
+		<segment id="65" parent="67" relname="joint">после чего рассвет в летнее время сместился на три часа утра,</segment>
+		<segment id="66" parent="67" relname="joint">в то время как в восемь часов вечера уже темнело.\n\nВ конце ноября правительство РФ одобрило законодательную инициативу парламента Астраханской области о переводе эторго региона из второй часовой зоны с московским временем (UTC+3) в третью (МСК плюс один час, UTC+4).\n\nНа очереди - Республика Алтай, где парламентарии попросили вернуть им \"советское\" время.</segment>
+		<segment id="69" parent="75" relname="joint">Местное Законодательное собрание 23 ноября внесло на рассмотрение Госдумы законопроект о переводе времени на один час вперед с 27 марта 2016 года.</segment>
+		<segment id="70" parent="74" relname="same-unit">Документ предлагает отнести регион к шестой часовой зоне (МСК+4, UTC+7).\n\nРоссия в 2014 году после трехлетнего перерыва</segment>
+		<segment id="71" parent="73" relname="sequence">согласно указу президента Владимира Путина вернулась к \"зимнему\" времени</segment>
+		<segment id="72" parent="73" relname="sequence">- стрелки часов в большинстве регионов РФ были переведены на час назад.</segment>
+		<segment id="76" parent="88" relname="sequence">Теперь московское время соответствует третьему часовому поясу в национальной шкале времени UTC+3;</segment>
+		<segment id="77" parent="79" relname="span">ранее действовало UTC+4.\n\nСезонные переводы времени запретили,</segment>
+		<segment id="78" parent="77" relname="elaboration">в стране установили 11 часовых зон,</segment>
+		<segment id="80" parent="86" relname="span">самая крупная из них - московская,</segment>
+		<segment id="81" parent="85" relname="span">к которой также отнесены Крым и Севастополь,</segment>
+		<segment id="82" parent="84" relname="sequence">ставшие новыми субъектами РФ весной 2014 года.\n\nПять регионов, где часы не переводили,</segment>
+		<segment id="83" parent="84" relname="sequence">сменили часовую зону: Удмуртия, Самарская область, Кемеровская область, Камчатский край и Чукотский автономный округ.</segment>
+		<segment id="92" parent="97" relname="attribution">В Госдуме, принявшей законопроект, говорили,</segment>
+		<segment id="93" parent="97" relname="span">что в дискуссии о времени в России на этом \"полностью поставлена точка\".\n\n\"Зимнее\" время было отменено с осени 2011 года</segment>
+		<segment id="94" parent="96" relname="span">по инициативе Дмитрия Медведева,</segment>
+		<segment id="95" parent="94" relname="background">занимавшего тогда пост президента РФ.</segment>
+		<segment id="99" parent="101" relname="joint">Весной 2011 года Россия перешла на \"летнее\" время,</segment>
+		<segment id="100" parent="101" relname="joint">и перевода стрелок часов осенью уже не проводилось.\n\nИсточник: https://www.newsru.com/russia/29Dec2015/sakhalintime.html\n</segment>
+		<group id="44" type="multinuc" parent="104" relname="joint"/>
+		<group id="38" type="multinuc" parent="44" relname="joint"/>
+		<group id="43" type="span" parent="44" relname="joint"/>
+		<group id="41" type="span" parent="43" relname="span"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="91" type="multinuc" parent="103" relname="joint"/>
+		<group id="63" type="multinuc" parent="91" relname="joint"/>
+		<group id="51" type="multinuc" parent="63" relname="joint"/>
+		<group id="47" type="span" parent="51" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="58" type="span" parent="62" relname="span"/>
+		<group id="57" type="multinuc" parent="58" relname="span"/>
+		<group id="55" type="multinuc" parent="57" relname="joint"/>
+		<group id="61" type="multinuc" parent="58" relname="elaboration"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="68" type="multinuc" parent="90" relname="joint"/>
+		<group id="67" type="multinuc" parent="68" relname="sequence"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="75" type="multinuc" parent="89" relname="joint"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="73" type="multinuc" parent="74" relname="same-unit"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="sequence"/>
+		<group id="79" type="span" parent="87" relname="joint"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="85" type="span" parent="80" relname="elaboration"/>
+		<group id="84" type="multinuc" parent="81" relname="elaboration"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="98" type="span" parent="102" relname="joint"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="96" type="span" parent="93" relname="elaboration"/>
+		<group id="101" type="multinuc" parent="102" relname="joint"/>
+		<group id="104" type="multinuc"/>
+	</body>
+</rst>

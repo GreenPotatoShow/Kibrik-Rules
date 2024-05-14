@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="30" relname="cause-effect">СМИ сообщили о гибели 70 иракских военных</segment>
+		<segment id="28" parent="30" relname="span">в результате атаки смертника под Мосулом\n\nНеподалеку от города Мосул смертник атаковал колонну иракских военных,</segment>
+		<segment id="29" parent="28" relname="background">которая вела наступление на город,</segment>
+		<segment id="32" parent="31" relname="attribution">сообщает РИА \"Новости\" со ссылкой на курдское агентство Firat.\n\</segment>
+		<segment id="34" parent="35" relname="attribution">nПо данным агентства,</segment>
+		<segment id="35" parent="36" relname="span">атака произошла около деревни Билавет в местности Гияр к востоку от Мосула.</segment>
+		<segment id="37" parent="36" relname="elaboration">Предполагается, что смертник являлся боевиком запрещенной в России террористической группировки \"Исламское государство\" (ИГ).\n\nНапомним, Мосул находится под контролем ИГ с июня 2014 года.</segment>
+		<segment id="39" parent="42" relname="attribution">Ранее ООН предупреждала,</segment>
+		<segment id="40" parent="42" relname="span">что гуманитарные последствия операции по его освобождению могут затронуть до 1,5 млн человек,</segment>
+		<segment id="41" parent="40" relname="elaboration">живущих в городе и его окрестностях.</segment>
+		<segment id="44" parent="43" relname="elaboration">Их удерживают в заложниках более шести тысяч боевиков ИГ.</segment>
+		<segment id="46" parent="47" relname="attribution">Радикальные исламисты считают</segment>
+		<segment id="47" parent="48" relname="span">населенный пункт своей столицей в Ираке.\n\</segment>
+		<segment id="51" parent="48" relname="elaboration">nНа днях Ирак при поддержке коалиции, возглавляемой США, начал штурм Мосула.</segment>
+		<segment id="53" parent="54" relname="attribution">По предварительным данным,</segment>
+		<segment id="54" parent="55" relname="span">численность иракских подразделений, задействованных в операции, превышает 60 тысяч человек.</segment>
+		<segment id="56" parent="58" relname="joint">Поддержку им оказывают ВВС международной коалиции,</segment>
+		<segment id="57" parent="58" relname="joint">правительственная авиация и артиллерия.\n\nСпецпосланник президента США при коалиции по борьбе с ИГ</segment>
+		<segment id="59" parent="61" relname="joint">Бретт Макгерк приветствовал старт наступления</segment>
+		<segment id="60" parent="61" relname="joint">и выразил свою поддержку Ираку.</segment>
+		<segment id="64" parent="66" relname="span">\"Аль-Абади приказал начать освобождение Мосула от тьмы,</segment>
+		<segment id="65" parent="64" relname="background">два года нависавшей над этим городом.</segment>
+		<segment id="67" parent="69" relname="span">Бог в помощь героям в иракских вооруженных силах, шиитскому ополчению, курдским пешмерга.</segment>
+		<segment id="68" parent="67" relname="elaboration">Мы гордимся быть вместе с вами в этой исторической операции\",</segment>
+		<segment id="71" parent="70" relname="attribution">- заявил он.\n\nИсточник: https://www.newsru.com/world/18Oct2016/mosul_attack.html\n</segment>
+		<group id="33" type="span" parent="76" relname="preparation"/>
+		<group id="31" type="span" parent="33" relname="span"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="38" type="span" parent="76" relname="joint"/>
+		<group id="36" type="span" parent="38" relname="span"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="45" type="span" parent="75" relname="joint"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="52" type="span" parent="74" relname="span"/>
+		<group id="48" type="span" parent="52" relname="span"/>
+		<group id="73" type="multinuc" parent="52" relname="elaboration"/>
+		<group id="63" type="multinuc" parent="73" relname="joint"/>
+		<group id="55" type="span" parent="63" relname="joint"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="58" type="multinuc" parent="62" relname="joint"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="70" type="span" parent="72" relname="span"/>
+		<group id="66" type="span" parent="70" relname="span"/>
+		<group id="69" type="span" parent="66" relname="elaboration"/>
+		<group id="77" type="span"/>
+	</body>
+</rst>

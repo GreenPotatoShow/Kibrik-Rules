@@ -1,0 +1,31 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="10" parent="12" relname="contrast">Opel приготовил ограниченный Corsa Black&White только для России\n\nНемецкий автопроизводитель Opel выпустил специально для российского рынка ограниченную версию популярной модели Corsa под названием Black&White.\n\nКузов автомобилям выкрашен в белый цвет,</segment>
+		<segment id="11" parent="12" relname="contrast">а его крыша ? в черный.</segment>
+		<segment id="13" parent="25" relname="joint">Черными оказались и 17-дюймовые легкосплавные колесные диски и зеркала.</segment>
+		<segment id="14" parent="16" relname="span">Машина также отличается тонированными задними стеклами и задними фонарями,</segment>
+		<segment id="15" parent="14" relname="elaboration">передает AutoNews.ru.\n\nСтандартная комплектация Corsa Black&White включает в себя специальный спортивный пакет.\n\</segment>
+		<segment id="17" parent="23" relname="span">nЗа все время продаж в России Opel Corsa стал очень популярным среди среди наших автомобилистов, особенно среди молодежи.</segment>
+		<segment id="18" parent="20" relname="comparison">В этом году на российском рынке уже продано более 24 000 таких автомобилей.\n\nА спортивная версия Corsa OPC стала обладателем титула \"Спортивный автомобиль 2008 года\" по версии журнала \"Автомобили\",</segment>
+		<segment id="19" parent="20" relname="comparison">сообщается на официальном сайте автопроизводителя.\n\nOpel Corsa OPC стал победителем в категории \"До миллиона рублей\",</segment>
+		<segment id="21" parent="22" relname="joint">опередив модели Hyundai Coupe, Dodge Caliber SRT, Volkswagen Golf GTI, Mini Cooper S, Renault Clio Sport и Volkswagen Polo GTI.\n\nЖюри конкурса оценивало машины по таким критерием, как разгонная и тормозная динамика, управляемость на высокой скорости, курсовая устойчивость, удобство входа-выхода из машины, удобство посадки, обзорность, интерьер и удовольствие от вождения авто.\n\nИсточник: https://www.newsru.com/auto/23Oct2008/corsa.html\n</segment>
+		<group id="12" type="multinuc" parent="25" relname="preparation"/>
+		<group id="25" type="multinuc" parent="26" relname="span"/>
+		<group id="24" type="span" parent="25" relname="joint"/>
+		<group id="16" type="span" parent="24" relname="span"/>
+		<group id="23" type="span" parent="16" relname="elaboration"/>
+		<group id="22" type="multinuc" parent="17" relname="elaboration"/>
+		<group id="20" type="multinuc" parent="22" relname="joint"/>
+		<group id="26" type="span"/>
+	</body>
+</rst>

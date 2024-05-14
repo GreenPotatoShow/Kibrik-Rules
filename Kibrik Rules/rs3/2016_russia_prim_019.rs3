@@ -1,0 +1,96 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="40" parent="42" relname="joint">Смерть дельфинов в Приморском океанариуме не связана с качеством воды и корма,</segment>
+		<segment id="41" parent="42" relname="joint">заявило руководство\n\nПравоохранительные органы продолжают расследование гибели двух дельфинов в Приморском океанариуме на острове Русский во Владивостоке.\n\nМежду тем руководство океанариума утверждает,</segment>
+		<segment id="43" parent="44" relname="span">что смерть дельфинов не связана ни с качеством воды и корма, ни с квалификацией сотрудников.</segment>
+		<segment id="45" parent="44" relname="attribution">Об этом говорится в официальном комментарии учреждения.</segment>
+		<segment id="47" parent="49" relname="joint">\"В воскресенье дельфины выступали перед зрителями.</segment>
+		<segment id="48" parent="49" relname="joint">Тренеры и ветеринары не отмечали нарушений в их поведении и самочувствии\",</segment>
+		<segment id="50" parent="54" relname="span">- сообщает пресс-служба океанариума,</segment>
+		<segment id="51" parent="52" relname="attribution">которую цитирует \"Интерфакс\".\n\nОтмечается,</segment>
+		<segment id="52" parent="53" relname="span">что в настоящее время на территории океанариума сотрудники полиции проводят следственные мероприятия.</segment>
+		<segment id="56" parent="60" relname="span">Расследование находится под контролем Приморской межрайонной природоохранной прокуратуры</segment>
+		<segment id="57" parent="59" relname="joint">.\n\nРанее стало известно, что во вторник утром в главном бассейне Приморского океанариума с интервалом в несколько часов погибли два белобоких дельфина</segment>
+		<segment id="58" parent="59" relname="joint">- перед смертью изо рта животных шла пена.\n\nПоявились слухи, что в тяжелом состоянии находится последний, третий по счету, оставшийся в живых дельфин.</segment>
+		<segment id="61" parent="65" relname="span">Однако директор учреждения Вадим Серков опроверг РИА \"Новости\" эти сведения.</segment>
+		<segment id="62" parent="64" relname="span">\"Состояние третьего дельфина удовлетворительное,</segment>
+		<segment id="63" parent="62" relname="elaboration">он жив\",</segment>
+		<segment id="66" parent="65" relname="attribution">- сказал собеседник агентства.</segment>
+		<segment id="70" parent="74" relname="joint">\"Двух погибших дельфинов отправили на патологоанатомическое обследование в лицензированную организацию в Уссурийской сельхозакадемии с целью установления причин гибели\",</segment>
+		<segment id="71" parent="73" relname="span">- добавил он.\n\nКроме того, 21 октября в океанариуме от полученных при невыясненных пока обстоятельствах увечий погиб сивуч Старк,</segment>
+		<segment id="72" parent="71" relname="background">которого в августе нашли истощенным у берегов Сахалина.</segment>
+		<segment id="75" parent="78" relname="attribution">По этому факту возбуждено уголовное дело по статье о жестоком обращении с животным (ч. 1 ст. 245 УК РФ).\n\nВадим Серков сообщил РИА \"Новости\",</segment>
+		<segment id="76" parent="78" relname="joint">что экспертиза по гибели сивуча продолжается</segment>
+		<segment id="77" parent="78" relname="joint">и официальных результатов пока не получено.</segment>
+		<segment id="80" parent="82" relname="contrast">\"Смерть была насильственная,</segment>
+		<segment id="81" parent="82" relname="contrast">но это пока только предположение\",</segment>
+		<segment id="83" parent="82" relname="attribution">- отметил он</segment>
+		<segment id="86" parent="87" relname="attribution">.\n\nМежду тем агентство PrimaMedia пишет о том,</segment>
+		<segment id="87" parent="88" relname="span">что сивуча \"забил молотком чего-то испугавшийся слесарь, завалившийся в вольер без допуска\".</segment>
+		<segment id="89" parent="96" relname="attribution">Ранее пресса сообщала,</segment>
+		<segment id="92" parent="96" relname="sequence">что, по некоторым сведениям, Старк решил поприветствовать одного из работников океанариума,</segment>
+		<segment id="93" parent="95" relname="joint">а тот испугался</segment>
+		<segment id="94" parent="95" relname="joint">и начал отмахиваться от него молотком.</segment>
+		<segment id="98" parent="97" relname="evidence">Официального подтверждения этой информации нет.\n\</segment>
+		<segment id="100" parent="101" relname="attribution">nКак передает ТАСС,</segment>
+		<segment id="101" parent="102" relname="span">руководство МВД РФ взяло под контроль расследование дела о гибели сивуча и двух дельфинов в Приморском океанариуме.</segment>
+		<segment id="103" parent="105" relname="span">Во Владивосток направлены сотрудники центрального аппарата МВД России</segment>
+		<segment id="104" parent="103" relname="purpose">для оказания практической помощи в расследовании уголовного дела и установления обстоятельств, связанных с гибелью животных.\n\nХод расследования уголовного дела, а также проведения доследственных проверок по фактам гибели животных в Приморском океанариуме</segment>
+		<segment id="106" parent="105" relname="elaboration">поставлен на особый контроль и в органах прокуратуры Приморского края,</segment>
+		<segment id="109" parent="108" relname="attribution">говорится в сообщении на сайте ведомства.\n\nИсточник: https://www.newsru.com/russia/26Oct2016/prim.html\n</segment>
+		<group id="46" type="span" parent="115" relname="preparation"/>
+		<group id="44" type="span" parent="46" relname="span"/>
+		<group id="42" type="multinuc" parent="43" relname="cause-effect"/>
+		<group id="115" type="multinuc" parent="116" relname="span"/>
+		<group id="69" type="multinuc" parent="115" relname="joint"/>
+		<group id="55" type="span" parent="69" relname="joint"/>
+		<group id="49" type="multinuc" parent="55" relname="span"/>
+		<group id="54" type="span" parent="49" relname="attribution"/>
+		<group id="53" type="span" parent="50" relname="elaboration"/>
+		<group id="68" type="multinuc" parent="69" relname="joint"/>
+		<group id="60" type="span" parent="68" relname="contrast"/>
+		<group id="59" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="67" type="span" parent="68" relname="contrast"/>
+		<group id="65" type="span" parent="67" relname="span"/>
+		<group id="64" type="span" parent="61" relname="elaboration"/>
+		<group id="114" type="multinuc" parent="115" relname="joint"/>
+		<group id="74" type="multinuc" parent="114" relname="joint"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="85" type="span" parent="113" relname="joint"/>
+		<group id="79" type="span" parent="85" relname="span"/>
+		<group id="78" type="multinuc" parent="79" relname="span"/>
+		<group id="84" type="span" parent="79" relname="interpretation-evaluation"/>
+		<group id="82" type="multinuc" parent="84" relname="span"/>
+		<group id="112" type="span" parent="113" relname="joint"/>
+		<group id="88" type="span" parent="111" relname="preparation"/>
+		<group id="111" type="multinuc" parent="112" relname="span"/>
+		<group id="99" type="span" parent="111" relname="joint"/>
+		<group id="97" type="span" parent="99" relname="span"/>
+		<group id="96" type="multinuc" parent="97" relname="span"/>
+		<group id="95" type="multinuc" parent="96" relname="sequence"/>
+		<group id="110" type="span" parent="111" relname="joint"/>
+		<group id="108" type="multinuc" parent="110" relname="span"/>
+		<group id="102" type="span" parent="108" relname="joint"/>
+		<group id="107" type="span" parent="108" relname="joint"/>
+		<group id="105" type="span" parent="107" relname="span"/>
+		<group id="116" type="span"/>
+	</body>
+</rst>

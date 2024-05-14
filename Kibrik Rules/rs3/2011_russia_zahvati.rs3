@@ -1,0 +1,62 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="25" relname="span">В Москве задержали девятерых участников оппозиционной акции \"Захвати Старую площадь\"\n\nСотрудники правоохранительных органов задержали около здания ЦИК России в понедельник участников несанкционированной акции протеста \"Захвати Старую площадь\",</segment>
+		<segment id="24" parent="23" relname="attribution">сообщает \"Интерфакс\" со ссылкой на пресс-службу ГУ МВД РФ по Москве.</segment>
+		<segment id="26" parent="36" relname="joint">Там уточнили, что за попытку проведения несанкционированной акции были задержаны девять человек.\n\nМежду тем, источник в правоохранительных органах сообщил агентству,</segment>
+		<segment id="27" parent="31" relname="sequence">что около 10 человек были задержаны после того,</segment>
+		<segment id="28" parent="30" relname="joint">как пришли ровно в 19:00 в масках и с плакатами</segment>
+		<segment id="29" parent="30" relname="joint">и начали общаться с журналистами.\n\nАкцию \"Захвати Старую площадь\" планировалось провести по аналогии с акциями международного движения \"Захвати Уолл-стрит\".\n\nСо своей стороны координатор \"Левого фронта\" Сергей Удальцов сообщил,</segment>
+		<segment id="32" parent="34" relname="span">что \"сегодня вечером около сотни представителей различных политических и общественных движений прибыли к зданию Центризбиркома</segment>
+		<segment id="33" parent="32" relname="purpose">для проведения протестной акции против парламентских выборов в декабре этого года\".\n\</segment>
+		<segment id="37" parent="38" relname="attribution">nПо его словам,</segment>
+		<segment id="38" parent="39" relname="span">на месте предполагаемой акции \"дежурило большое количество полицейских\".\n\n</segment>
+		<segment id="40" parent="44" relname="span">\"Сотрудники полиции не дали возможности провести мероприятие,</segment>
+		<segment id="41" parent="42" relname="concession">хотя участники не имели при себе никаких плакатов,</segment>
+		<segment id="42" parent="43" relname="span">не выкрикивали никаких лозунгов.</segment>
+		<segment id="45" parent="44" relname="elaboration">На данный момент известно, что задержаны около 15 активистов\",</segment>
+		<segment id="49" parent="48" relname="attribution">- сказал Удальцов.</segment>
+		<segment id="51" parent="62" relname="attribution">По его данным,</segment>
+		<segment id="52" parent="61" relname="attribution">задержанных доставляют в ОВД \"Китай-город\".\n\nУдальцов отметил,</segment>
+		<segment id="53" parent="61" relname="span">что не смог принять участие в этой акции,</segment>
+		<segment id="54" parent="60" relname="span">\"поскольку возле дома постоянно дежурят оперативники,</segment>
+		<segment id="55" parent="59" relname="span">которые, безусловно, задержат меня</segment>
+		<segment id="56" parent="58" relname="span">за незаконный, по их мнению, мой уход из больницы,</segment>
+		<segment id="57" parent="56" relname="cause-effect">куда я попал после предыдущего задержания\".\n\nИсточник: https://www.newsru.com/russia/07Nov2011/zahvati.html\n</segment>
+		<group id="25" type="span" parent="64" relname="preparation"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="50" type="span" parent="64" relname="joint"/>
+		<group id="48" type="multinuc" parent="50" relname="span"/>
+		<group id="36" type="multinuc" parent="48" relname="joint"/>
+		<group id="35" type="multinuc" parent="36" relname="joint"/>
+		<group id="31" type="multinuc" parent="35" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="sequence"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="39" type="span" parent="47" relname="span"/>
+		<group id="46" type="span" parent="39" relname="elaboration"/>
+		<group id="44" type="span" parent="46" relname="span"/>
+		<group id="43" type="span" parent="40" relname="concession"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="61" type="span" parent="62" relname="span"/>
+		<group id="60" type="span" parent="53" relname="cause-effect"/>
+		<group id="59" type="span" parent="54" relname="elaboration"/>
+		<group id="58" type="span" parent="55" relname="cause-effect"/>
+		<group id="65" type="span"/>
+	</body>
+</rst>

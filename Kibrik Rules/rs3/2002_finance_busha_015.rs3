@@ -1,0 +1,60 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="evidence" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="25" relname="span">США скоро смогут возобновить экспорт мяса птицы в Россию\n\nСоединенные Штаты в скором времени смогут возобновить экспорт в Россию мяса птицы,</segment>
+		<segment id="22" parent="24" relname="span">сообщил в пятницу Михаил Касьянов</segment>
+		<segment id="23" parent="22" relname="background">в ходе рабочей поездки в Волгоградскую область.</segment>
+		<segment id="26" parent="29" relname="attribution">По словам премьера,</segment>
+		<segment id="27" parent="29" relname="joint">из списка экспортеров будут исключены те предприятия, в продукции которых была обнаружена сальмонелла.</segment>
+		<segment id="28" parent="29" relname="joint">А вопрос с остальными \"может быть решен в течение 20-30 дней максимум\",</segment>
+		<segment id="31" parent="32" relname="attribution">цитирует слова Касьянова РИА \"Новости\".\n\nОн отметил,</segment>
+		<segment id="32" parent="33" relname="span">что \"для России эта тема исчерпана.</segment>
+		<segment id="35" parent="37" relname="joint">Мы выявили все причины</segment>
+		<segment id="36" parent="37" relname="joint">и подвели все итоги\".</segment>
+		<segment id="39" parent="43" relname="same-unit">Таким образом, решение проблемы,</segment>
+		<segment id="40" parent="41" relname="condition">вопреки возникшим в последнее время опасениям,</segment>
+		<segment id="41" parent="42" relname="span">оказалось \"очень простым\".\n\nКасьянов пояснил,</segment>
+		<segment id="44" parent="46" relname="span">что все проблемы удалось устранить</segment>
+		<segment id="45" parent="44" relname="condition">после совместных консультаций представителей Минсельхоза и ветеринарных служб с американской делегацией.</segment>
+		<segment id="48" parent="56" relname="span">\"Cейчас все дело за американскими ветеринарными службами\",</segment>
+		<segment id="49" parent="51" relname="span">- подвел итог премьер.\n\nМежду тем министр сельского хозяйства Энн Венеман,</segment>
+		<segment id="50" parent="49" relname="elaboration">которая возглавляет делегацию США на переговорах по этой проблеме,</segment>
+		<segment id="52" parent="54" relname="span">в среду оценила ход переговоров совсем иначе,</segment>
+		<segment id="53" parent="52" relname="elaboration">сказав, что они проходят без видимого результата.\n\nИсточник: https://www.newsru.com/finance/22Mar2002/busha.html\n</segment>
+		<group id="25" type="span" parent="58" relname="preparation"/>
+		<group id="24" type="span" parent="21" relname="attribution"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="38" type="span" parent="57" relname="evidence"/>
+		<group id="34" type="span" parent="38" relname="span"/>
+		<group id="30" type="span" parent="34" relname="span"/>
+		<group id="29" type="multinuc" parent="30" relname="span"/>
+		<group id="33" type="span" parent="30" relname="attribution"/>
+		<group id="37" type="multinuc" parent="34" relname="interpretation-evaluation"/>
+		<group id="57" type="span" parent="58" relname="span"/>
+		<group id="47" type="span" parent="57" relname="span"/>
+		<group id="43" type="multinuc" parent="46" relname="cause-effect"/>
+		<group id="42" type="span" parent="43" relname="same-unit"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="56" type="span" parent="47" relname="elaboration"/>
+		<group id="55" type="span" parent="48" relname="attribution"/>
+		<group id="51" type="span" parent="55" relname="span"/>
+		<group id="54" type="span" parent="51" relname="elaboration"/>
+		<group id="59" type="span"/>
+	</body>
+</rst>

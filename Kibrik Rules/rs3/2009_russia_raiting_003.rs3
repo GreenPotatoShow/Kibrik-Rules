@@ -1,0 +1,166 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="72" parent="211" relname="preparation">Рейтинг популярности президента и премьер-министра впервые снизился\n\</segment>
+		<segment id="73" parent="79" relname="span">nЗа прошедшие с начала кризиса полгода одобрение деятельности Дмитрия Медведева,</segment>
+		<segment id="74" parent="77" relname="attribution">по данным ВЦИОМа,</segment>
+		<segment id="75" parent="77" relname="comparison">снизилось на 10%,</segment>
+		<segment id="76" parent="77" relname="comparison">а деятельности Владимира Путина - на 7%.</segment>
+		<segment id="80" parent="92" relname="span">Однако доверие к первым лицам государства не падает.</segment>
+		<segment id="81" parent="82" relname="concession">Несмотря на то что экономическую политику власти одобряют только 15%</segment>
+		<segment id="82" parent="83" relname="span">(не одобряют 33%),</segment>
+		<segment id="84" parent="87" relname="attribution">большинство граждан по-прежнему считают,</segment>
+		<segment id="85" parent="87" relname="comparison">что никто не смог бы руководить страной лучше,</segment>
+		<segment id="86" parent="87" relname="comparison">чем действующие президент и премьер,</segment>
+		<segment id="89" parent="88" relname="attribution">пишет \"Труд\".\n\n</segment>
+		<segment id="94" parent="96" relname="span">\"В кризисное время снижение рейтингов одобрения действий властей - нормальный показатель,</segment>
+		<segment id="95" parent="94" relname="attribution">- заявил президент фонда \"Петербургская политика\" Михаил Виноградов.</segment>
+		<segment id="97" parent="99" relname="span">- Более значимы рейтинги доверия.</segment>
+		<segment id="98" parent="97" relname="elaboration">Их незыблемость показывает, что у граждан не появилось альтернативных политических симпатий.\n\</segment>
+		<segment id="102" parent="107" relname="attribution">nПо мнению эксперта,</segment>
+		<segment id="103" parent="104" relname="cause-effect">по мере углубления кризиса</segment>
+		<segment id="104" parent="105" relname="span">одобрять деятельность президента и премьера станут еще меньше,</segment>
+		<segment id="106" parent="107" relname="contrast">но никакой угрозы для их положения это не несет.</segment>
+		<segment id="109" parent="112" relname="attribution">Главным врагом власти Михаил Виноградов считает</segment>
+		<segment id="110" parent="112" relname="joint">глубокое падение экономики</segment>
+		<segment id="111" parent="112" relname="joint">.\n\n- Политики и политологи ждут перемен.</segment>
+		<segment id="114" parent="119" relname="condition">Сценарии\n\nГлавная претензия жителей России к власти,</segment>
+		<segment id="115" parent="118" relname="attribution">считают социологи,</segment>
+		<segment id="116" parent="118" relname="joint">связана не столько со снижением уровня жизни, сокращением зарплат и нарастающей безработицей,</segment>
+		<segment id="117" parent="118" relname="joint">сколько с отсутствием внимания к людям.\n\n</segment>
+		<segment id="123" parent="129" relname="comparison">\"Судя по нашим опросам, от первых лиц чаще всего ждут честных слов о том, что же происходит,</segment>
+		<segment id="124" parent="128" relname="joint">как долго продлится кризис</segment>
+		<segment id="125" parent="127" relname="span">и, самое главное, что будет делать государство,</segment>
+		<segment id="126" parent="125" relname="purpose">чтобы помочь людям,</segment>
+		<segment id="130" parent="129" relname="attribution">- говорит гендиректор ВЦИОМа Валерий Федоров.</segment>
+		<segment id="133" parent="208" relname="preparation">- Пока что ответов нет.</segment>
+		<segment id="134" parent="140" relname="span">К примеру, в январе свыше половины опрошенных нами россиян не знали о том, что у правительства есть конкретный и подробный план антикризисных мер.</segment>
+		<segment id="135" parent="136" relname="cause-effect">Этим во многом объясняется и снижение рейтингов одобрения первых лиц, и негативная оценка экономической политики кабинета министров\".\n\nЭксперты единодушны в том, что на первом этапе кризиса власть настолько увлеклась борьбой с ним,</segment>
+		<segment id="136" parent="137" relname="span">что забыла проинформировать граждан о своих действиях.</segment>
+		<segment id="138" parent="137" relname="elaboration">Показанное в воскресенье антикризисное интервью Дмитрия Медведева - первая попытка говорить с обществом откровенно и доверительно.\n\n</segment>
+		<segment id="141" parent="143" relname="span">\"Власть пока только учится общаться с народом не в ситуации стабильности и экономического роста, а в кризисное время,</segment>
+		<segment id="142" parent="141" relname="condition">когда экономика никак не может достичь дна,</segment>
+		<segment id="144" parent="143" relname="attribution">- объясняет Федоров.</segment>
+		<segment id="146" parent="148" relname="span">- Это очень непривычный формат</segment>
+		<segment id="147" parent="146" relname="cause-effect">- за 2000-е годы от него отвыкли\".\n\</segment>
+		<segment id="149" parent="158" relname="attribution">nПри этом социолог подчеркивает,</segment>
+		<segment id="150" parent="152" relname="span">что открытый диалог с обществом нужен</segment>
+		<segment id="151" parent="150" relname="purpose">не ради сохранения рейтингов,</segment>
+		<segment id="153" parent="157" relname="span">а ради спокойствия и порядка</segment>
+		<segment id="154" parent="156" relname="restatement">- экономическая паника так же опасна, как и паника на фронте</segment>
+		<segment id="155" parent="156" relname="restatement">.\n\nПолитики и политологи ждут перемен.</segment>
+		<segment id="160" parent="161" relname="joint">Сценарии\n\nНекоторые политики и политологи восприняли снижение рейтингов одобрения президента и премьера как первый знак грядущих политических перемен.</segment>
+		<segment id="165" parent="167" relname="joint">На прошлой неделе Геннадий Зюганов напророчил досрочные парламентские выборы</segment>
+		<segment id="166" parent="167" relname="joint">и объявил партийную мобилизацию.</segment>
+		<segment id="168" parent="169" relname="condition">Эксперты предложили сценарии радикальной перестройки в верхах.\n\n\"Оставаясь на посту премьера,</segment>
+		<segment id="169" parent="170" relname="span">Путин по мере усугубления кризиса неизбежно будет и дальше терять популярность,</segment>
+		<segment id="171" parent="170" relname="attribution">- заявил \"Труду\" политолог Дмитрий Орешкин.</segment>
+		<segment id="174" parent="181" relname="cause-effect">- Вряд ли он захочет опускаться вниз в обнимку с Медведевым,</segment>
+		<segment id="175" parent="181" relname="span">поэтому в ближайшие полгода ему предстоит выбрать одно из трех решений\".\n\nПервый сценарий,</segment>
+		<segment id="176" parent="179" relname="attribution">по мнению экспертов,</segment>
+		<segment id="177" parent="179" relname="span">предусматривает досрочные президентские выборы и возвращение Путина в Кремль\".\n\nВторой сценарий включает реанимацию возникшей еще при Ельцине идеи создания Союзного государства России и Белоруссии,</segment>
+		<segment id="178" parent="177" relname="elaboration">которое возглавит опять-таки Путин.\n\nТретий предусматривает введение антикризисного чрезвычайного положения и формирование некоего органа верховной власти вроде ГКЧП.</segment>
+		<segment id="183" parent="185" relname="span">Места в нем могут достаться силовикам во главе с нынешним премьером.\n\n\"Пока все это из области гипотез,</segment>
+		<segment id="184" parent="183" relname="attribution">- скептически замечает первый заместитель гендиректора Центра политических технологий Алексей Макаркин.</segment>
+		<segment id="187" parent="195" relname="span">- Какие-то изменения во власти могут произойти только в том случае,</segment>
+		<segment id="188" parent="189" relname="condition">если кризис продлится не один год</segment>
+		<segment id="189" parent="190" relname="span">и будет настолько глубоким,</segment>
+		<segment id="191" parent="193" relname="joint">что значительная часть населения утратит надежду на власти</segment>
+		<segment id="192" parent="193" relname="joint">и выйдет на улицы\".\n\nОднако пока что на это нет даже намека.</segment>
+		<segment id="196" parent="197" relname="attribution">Согласно последним данным фонда \"Общественное мнение\",</segment>
+		<segment id="197" parent="198" relname="span">уровень протестных настроений в обществе сейчас ниже, чем в начале докризисного лета 2008 года.</segment>
+		<segment id="199" parent="200" relname="attribution">Тогда 39% россиян заявили о том,</segment>
+		<segment id="200" parent="201" relname="span">что лично сталкиваются с проблемами и ситуациями, которые вызывают у них желание протестовать.</segment>
+		<segment id="203" parent="202" relname="elaboration">В первую неделю февраля 2009 года \"протестантов\" оказалось на 4% меньше.\n\nИсточник: https://www.newsru.com/russia/17Feb2009/raiting.html\n</segment>
+		<group id="211" type="multinuc" parent="212" relname="span"/>
+		<group id="101" type="span" parent="211" relname="joint"/>
+		<group id="93" type="multinuc" parent="101" relname="span"/>
+		<group id="79" type="span" parent="93" relname="contrast"/>
+		<group id="78" type="span" parent="73" relname="elaboration"/>
+		<group id="77" type="multinuc" parent="78" relname="span"/>
+		<group id="92" type="span" parent="93" relname="contrast"/>
+		<group id="91" type="span" parent="80" relname="concession"/>
+		<group id="83" type="span" parent="90" relname="concession"/>
+		<group id="90" type="span" parent="91" relname="span"/>
+		<group id="88" type="span" parent="90" relname="span"/>
+		<group id="87" type="multinuc" parent="88" relname="span"/>
+		<group id="100" type="multinuc" parent="93" relname="interpretation-evaluation"/>
+		<group id="96" type="span" parent="100" relname="joint"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="210" type="multinuc" parent="211" relname="joint"/>
+		<group id="132" type="span" parent="210" relname="joint"/>
+		<group id="122" type="multinuc" parent="132" relname="span"/>
+		<group id="108" type="span" parent="122" relname="joint"/>
+		<group id="107" type="multinuc" parent="108" relname="span"/>
+		<group id="105" type="span" parent="107" relname="contrast"/>
+		<group id="121" type="multinuc" parent="122" relname="joint"/>
+		<group id="113" type="span" parent="121" relname="joint"/>
+		<group id="112" type="multinuc" parent="113" relname="span"/>
+		<group id="120" type="span" parent="121" relname="joint"/>
+		<group id="119" type="span" parent="120" relname="span"/>
+		<group id="118" type="multinuc" parent="119" relname="span"/>
+		<group id="131" type="span" parent="122" relname="elaboration"/>
+		<group id="129" type="multinuc" parent="131" relname="span"/>
+		<group id="128" type="multinuc" parent="129" relname="comparison"/>
+		<group id="127" type="span" parent="128" relname="joint"/>
+		<group id="209" type="span" parent="210" relname="joint"/>
+		<group id="208" type="multinuc" parent="209" relname="span"/>
+		<group id="164" type="multinuc" parent="208" relname="joint"/>
+		<group id="140" type="span" parent="164" relname="joint"/>
+		<group id="139" type="span" parent="134" relname="elaboration"/>
+		<group id="137" type="span" parent="139" relname="span"/>
+		<group id="163" type="multinuc" parent="164" relname="joint"/>
+		<group id="145" type="span" parent="163" relname="joint"/>
+		<group id="143" type="span" parent="145" relname="span"/>
+		<group id="162" type="span" parent="163" relname="joint"/>
+		<group id="148" type="span" parent="162" relname="span"/>
+		<group id="161" type="multinuc" parent="148" relname="elaboration"/>
+		<group id="159" type="span" parent="161" relname="joint"/>
+		<group id="158" type="multinuc" parent="159" relname="span"/>
+		<group id="152" type="span" parent="158" relname="contrast"/>
+		<group id="157" type="span" parent="158" relname="contrast"/>
+		<group id="156" type="multinuc" parent="153" relname="cause-effect"/>
+		<group id="207" type="multinuc" parent="208" relname="joint"/>
+		<group id="173" type="multinuc" parent="207" relname="joint"/>
+		<group id="167" type="multinuc" parent="173" relname="joint"/>
+		<group id="172" type="span" parent="173" relname="joint"/>
+		<group id="170" type="span" parent="172" relname="span"/>
+		<group id="206" type="multinuc" parent="207" relname="joint"/>
+		<group id="186" type="span" parent="206" relname="joint"/>
+		<group id="182" type="span" parent="186" relname="span"/>
+		<group id="181" type="span" parent="182" relname="span"/>
+		<group id="180" type="span" parent="175" relname="elaboration"/>
+		<group id="179" type="span" parent="180" relname="span"/>
+		<group id="185" type="span" parent="182" relname="interpretation-evaluation"/>
+		<group id="205" type="span" parent="206" relname="joint"/>
+		<group id="195" type="span" parent="204" relname="preparation"/>
+		<group id="194" type="span" parent="187" relname="condition"/>
+		<group id="190" type="span" parent="193" relname="condition"/>
+		<group id="193" type="multinuc" parent="194" relname="span"/>
+		<group id="204" type="span" parent="205" relname="span"/>
+		<group id="202" type="span" parent="204" relname="span"/>
+		<group id="198" type="span" parent="201" relname="cause-effect"/>
+		<group id="201" type="span" parent="202" relname="span"/>
+		<group id="212" type="span"/>
+	</body>
+</rst>

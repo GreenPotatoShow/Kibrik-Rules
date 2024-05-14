@@ -1,0 +1,106 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="46" parent="133" relname="preparation">Gallup зафиксировала улучшение отношения к Путину в США, преимущественно среди республиканцев\n\</segment>
+		<segment id="47" parent="49" relname="span">nОтношение американцев к президенту России Владимиру Путину к 2017 году немного улучшилось,</segment>
+		<segment id="48" parent="47" relname="elaboration">особенно среди сторонников правящей Республиканской партии,</segment>
+		<segment id="50" parent="53" relname="attribution">следует из опроса социологической службы Gallup,</segment>
+		<segment id="51" parent="53" relname="joint">проведенного 1-5 февраля</segment>
+		<segment id="52" parent="53" relname="joint">и учитывающего мнение более тысячи совершеннолетних жителей Соединенных Штатов.\n\n\"Американцы видят российского президента Владимира Путина в лучшем свете, нежели два года назад,</segment>
+		<segment id="56" parent="55" relname="attribution">- говорится на сайте Gallup.</segment>
+		<segment id="58" parent="64" relname="span">- Теперь 22% заявили о симпатии к Путину по сравнению с 13% в 2015 году.</segment>
+		<segment id="59" parent="61" relname="comparison">Это наивысший с 2003 года процент респондентов, положительно оценивающих российского лидера.</segment>
+		<segment id="60" parent="61" relname="comparison">Его негативный рейтинг (с 2015 года.</segment>
+		<segment id="62" parent="61" relname="elaboration">- Прим.</segment>
+		<segment id="65" parent="74" relname="preparation">NEWSru.com)</segment>
+		<segment id="66" parent="74" relname="comparison">остается неизменным на уровне 72%;</segment>
+		<segment id="67" parent="68" relname="attribution">в то же время стало меньше американцев, заявивших,</segment>
+		<segment id="68" parent="69" relname="span">что у них вовсе нет мнения о нем\".\n\nСогласно приведенному графику,</segment>
+		<segment id="70" parent="72" relname="span">негативный рейтинг Путина в США с годами неуклонно рос,</segment>
+		<segment id="71" parent="70" relname="condition">достигнув в 2013 году, во время его третьего президентского срока, 54%.</segment>
+		<segment id="78" parent="88" relname="joint">Когда Gallup впервые спросили о Путине в 2002 году, во время его первого президентского срока,</segment>
+		<segment id="79" parent="85" relname="comparison">41% американцев ему симпатизировали,</segment>
+		<segment id="80" parent="84" relname="contrast">18% оценивали отрицательно,</segment>
+		<segment id="81" parent="83" relname="joint">а 41% никогда не слышали о нем</segment>
+		<segment id="82" parent="83" relname="joint">или не имели своего мнения</segment>
+		<segment id="86" parent="87" relname="comparison">.\n\nПоложительный рейтинг показывал рост с 2014 года.</segment>
+		<segment id="90" parent="91" relname="attribution">По объяснению авторов исследования,</segment>
+		<segment id="91" parent="92" relname="span">одной из причин стали республиканцы.</segment>
+		<segment id="93" parent="97" relname="comparison">Доля республиканцев в США,</segment>
+		<segment id="94" parent="96" relname="span">положительно относящихся к Путину,</segment>
+		<segment id="95" parent="94" relname="background">увеличилась с 2015 года на 20% - до 32%.</segment>
+		<segment id="99" parent="101" relname="span">Это происходит на фоне заявлений президента Дональда Трампа о намерении улучшить отношения с Россией,</segment>
+		<segment id="100" parent="99" relname="elaboration">испортившиеся в годы президентства Барака Обамы.\n\nМнение независимых респондентов за последние два года тоже улучшилось</segment>
+		<segment id="102" parent="101" relname="attribution">- рейтинг Путина вырос с 12% до 23%.</segment>
+		<segment id="104" parent="106" relname="span">Среди демократов доля таких отзывов, наоборот, уменьшилась</segment>
+		<segment id="105" parent="104" relname="elaboration">- с 15% до 10%.\n\nПредпоследний замер популярности Путина в США был проведен в феврале 2015 года, спустя год после присоединения Крыма и споров вокруг Олимпийских игр в Сочи 2014 года</segment>
+		<segment id="109" parent="110" relname="comparison">.\n\nМежду тем популярность Трампа среди россиян должна, наоборот, упасть.</segment>
+		<segment id="112" parent="114" relname="span">В феврале российские федеральные телеканалы в четыре раза сократили упоминания в эфире президента США,</segment>
+		<segment id="113" parent="112" relname="cause-effect">получив указание из Кремля его игнорировать.</segment>
+		<segment id="115" parent="116" relname="attribution">В администрации президента в ответ на это заявили,</segment>
+		<segment id="116" parent="117" relname="span">что российские СМИ \"абсолютно самостоятельно определяют свою редакционную политику\".\n\nЗападная пресса заговорила о разочаровании,</segment>
+		<segment id="118" parent="122" relname="span">которое испытывает Кремль</segment>
+		<segment id="119" parent="120" relname="cause-effect">из-за того, как складываются отношения с Вашингтоном при новой администрации,</segment>
+		<segment id="120" parent="121" relname="span">в частности, после того, как Трамп задался вопросом,</segment>
+		<segment id="124" parent="126" relname="span">не была ли администрация Барака Обамы \"слишком мягкой\" во внешней политике,</segment>
+		<segment id="125" parent="124" relname="condition">когда Россия \"взяла\" Крым у Украины.\n\nИсточник: https://www.newsru.com/world/22Feb2017/gallup.html\n</segment>
+		<group id="133" type="multinuc" parent="134" relname="span"/>
+		<group id="57" type="span" parent="133" relname="joint"/>
+		<group id="55" type="multinuc" parent="57" relname="span"/>
+		<group id="49" type="span" parent="55" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="53" type="multinuc" parent="54" relname="span"/>
+		<group id="132" type="multinuc" parent="133" relname="joint"/>
+		<group id="64" type="span" parent="132" relname="joint"/>
+		<group id="63" type="span" parent="58" relname="interpretation-evaluation"/>
+		<group id="61" type="multinuc" parent="63" relname="span"/>
+		<group id="131" type="multinuc" parent="132" relname="joint"/>
+		<group id="89" type="multinuc" parent="131" relname="joint"/>
+		<group id="75" type="span" parent="89" relname="comparison"/>
+		<group id="74" type="multinuc" parent="75" relname="span"/>
+		<group id="73" type="multinuc" parent="74" relname="comparison"/>
+		<group id="69" type="span" parent="73" relname="comparison"/>
+		<group id="72" type="span" parent="73" relname="comparison"/>
+		<group id="88" type="multinuc" parent="89" relname="comparison"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="85" type="multinuc" parent="87" relname="comparison"/>
+		<group id="84" type="multinuc" parent="85" relname="comparison"/>
+		<group id="83" type="multinuc" parent="84" relname="contrast"/>
+		<group id="130" type="span" parent="131" relname="joint"/>
+		<group id="98" type="span" parent="129" relname="preparation"/>
+		<group id="92" type="span" parent="98" relname="span"/>
+		<group id="97" type="multinuc" parent="92" relname="elaboration"/>
+		<group id="96" type="span" parent="97" relname="comparison"/>
+		<group id="129" type="multinuc" parent="130" relname="span"/>
+		<group id="111" type="multinuc" parent="129" relname="joint"/>
+		<group id="103" type="span" parent="111" relname="joint"/>
+		<group id="101" type="span" parent="103" relname="span"/>
+		<group id="110" type="multinuc" parent="111" relname="joint"/>
+		<group id="106" type="span" parent="110" relname="comparison"/>
+		<group id="128" type="multinuc" parent="129" relname="joint"/>
+		<group id="114" type="span" parent="128" relname="joint"/>
+		<group id="127" type="multinuc" parent="128" relname="joint"/>
+		<group id="123" type="span" parent="127" relname="comparison"/>
+		<group id="117" type="span" parent="123" relname="span"/>
+		<group id="122" type="span" parent="117" relname="elaboration"/>
+		<group id="121" type="span" parent="118" relname="cause-effect"/>
+		<group id="126" type="span" parent="127" relname="comparison"/>
+		<group id="134" type="span"/>
+	</body>
+</rst>

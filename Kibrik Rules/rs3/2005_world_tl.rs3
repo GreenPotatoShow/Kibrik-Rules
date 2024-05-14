@@ -1,0 +1,78 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="34" relname="span">Ташкент и Лондон обменялись резкими заявлениями по поводу событий в Андижане\n\nВ Ташкенте удивлены заявлением главы МИД Великобритании Джека Стро по ситуации в Андижане.</segment>
+		<segment id="33" parent="32" relname="attribution">Об этом говорится в письме в адрес министра иностранных дел Великобритании,</segment>
+		<segment id="35" parent="41" relname="span">переданном в воскресенье британскому послу в Ташкенте,</segment>
+		<segment id="36" parent="40" relname="span">сообщает РИА \"Новости\".\n\n\"В Узбекистане были удивлены заявлением главы внешнеполитического ведомства Великобритании Джека Стро,</segment>
+		<segment id="39" parent="36" relname="elaboration">который находясь за тысячи километров от Андижана, так хорошо осведомлен о деталях столкновения в этом городе\",</segment>
+		<segment id="43" parent="45" relname="span">- говорится в документе.\n\n\"Откуда господину Джеку Стро известно, что со стороны правоохранительных органов был \"открыт огонь по демонстрантам\",</segment>
+		<segment id="44" parent="43" relname="condition">тогда когда этого не было вообще?</segment>
+		<segment id="47" parent="49" relname="sequence">Не помешало бы господину Джеку Стро сначала проанализировать все, что произошло,</segment>
+		<segment id="48" parent="49" relname="sequence">а затем выступать с подобными громкими заявлениями\",</segment>
+		<segment id="50" parent="55" relname="attribution">- отмечается в письме.\n\nВ МИД Узбекистана подчеркнули,</segment>
+		<segment id="51" parent="53" relname="span">что обстановка в Андижане \"полностью стабилизировалась\".\n\n\"Обо всем, что произошло в Андижане,</segment>
+		<segment id="52" parent="51" relname="background">было подробно и в открытой форме сказано в ходе пресс-конференции,</segment>
+		<segment id="54" parent="53" relname="attribution">данной президентом Узбекистана 14 мая\",</segment>
+		<segment id="58" parent="63" relname="attribution">- говорится в заявлении внешнеполитического ведомства Узбекистана.\n\nГлава МИД Великобритании заявил в субботу,</segment>
+		<segment id="59" parent="63" relname="span">что официальный Лондон осуждает действия узбекских властей и правоохранительных органов в Андижане,</segment>
+		<segment id="60" parent="61" relname="cause-effect">где в последние дни происходят массовые волнения.\n\n\"Я чрезвычайно озабочен сообщениями о том,</segment>
+		<segment id="61" parent="62" relname="span">что узбекские войска открыли огонь по демонстрантам в Андижане\",</segment>
+		<segment id="65" parent="64" relname="attribution">- сказал министр.</segment>
+		<segment id="69" parent="73" relname="joint">\"Я полностью осуждаю подобные действия</segment>
+		<segment id="70" parent="72" relname="joint">и призываю узбекские власти проявлять сдержанность в разрешении ситуации</segment>
+		<segment id="71" parent="72" relname="joint">и искать мирные пути для этого\",</segment>
+		<segment id="74" parent="73" relname="attribution">- подчеркнул глава британского внешнеполитического ведомства.\n\</segment>
+		<segment id="76" parent="79" relname="attribution">nПо его словам,</segment>
+		<segment id="77" parent="78" relname="attribution">в Лондоне \"неоднократно давали понять властям Узбекистана,</segment>
+		<segment id="78" parent="79" relname="span">что репрессии в отношении диссидентов являются ошибкой\".\n\n\"Этот подход разделяют и наши партнеры в Европейском Союзе\",</segment>
+		<segment id="81" parent="80" relname="attribution">- указал Стро.</segment>
+		<segment id="83" parent="87" relname="joint">\"Мы подходим к периоду нашего председательства в ЕС</segment>
+		<segment id="84" parent="86" relname="span">и будем использовать коллективный вес Евросоюза</segment>
+		<segment id="85" parent="84" relname="purpose">для того, чтобы поставить перед узбекскими властями вопрос о ликвидации недостатков в экономическом и политическом управлении страной и неадекватном развитии демократических институтов\",</segment>
+		<segment id="88" parent="87" relname="attribution">- пообещал глава британского внешнеполитического ведомства.\n\nИсточник: https://www.newsru.com/world/15May2005/tl.html\n</segment>
+		<group id="68" type="span" parent="91" relname="solutionhood"/>
+		<group id="46" type="span" parent="67" relname="solutionhood"/>
+		<group id="42" type="span" parent="46" relname="span"/>
+		<group id="34" type="span" parent="42" relname="span"/>
+		<group id="41" type="span" parent="34" relname="elaboration"/>
+		<group id="40" type="span" parent="35" relname="elaboration"/>
+		<group id="45" type="span" parent="42" relname="elaboration"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="57" type="span" parent="67" relname="span"/>
+		<group id="49" type="multinuc" parent="57" relname="span"/>
+		<group id="56" type="span" parent="49" relname="attribution"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="53" type="span" parent="55" relname="span"/>
+		<group id="66" type="span" parent="57" relname="attribution"/>
+		<group id="64" type="span" parent="66" relname="span"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="62" type="span" parent="59" relname="elaboration"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="75" type="span" parent="91" relname="joint"/>
+		<group id="73" type="multinuc" parent="75" relname="span"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="82" type="span" parent="90" relname="joint"/>
+		<group id="80" type="span" parent="82" relname="span"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="89" type="span" parent="90" relname="joint"/>
+		<group id="87" type="multinuc" parent="89" relname="span"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

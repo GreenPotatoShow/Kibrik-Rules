@@ -1,0 +1,99 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="42" parent="48" relname="sequence">В Минске 130 участников \"молчаливой\" акции протеста ругались матом,</segment>
+		<segment id="43" parent="45" relname="joint">решили власти</segment>
+		<segment id="44" parent="45" relname="joint">и будут их судить\n\nМВД Белоруссии составило административные протоколы в отношении 130 участников \"молчаливой\" акции протеста в Минске,</segment>
+		<segment id="46" parent="45" relname="elaboration">которая прошла 29 июня.</segment>
+		<segment id="49" parent="53" relname="joint">По традиции, судить их будут не за участие в несанкционированной демонстрации,</segment>
+		<segment id="50" parent="51" relname="attribution">а за нецензурную брань в адрес милиционеров.\n\nУправление информации и общественных связей МВД Белоруссии сообщило,</segment>
+		<segment id="51" parent="52" relname="span">что в 19:00 29 июня на площади Октябрьская и прилегающих к ней улицах стали собираться группы людей по 30-70 человек.</segment>
+		<segment id="54" parent="56" relname="span">Оттуда они пошли по проспекту Независимости от улицы Энгельса до улицы Янки Купалы, а также от Дома офицеров в сторону улицы Янки Купалы,</segment>
+		<segment id="55" parent="54" relname="purpose">чтобы попасть в итоге на площадь Победы,</segment>
+		<segment id="57" parent="56" relname="elaboration">передает \"Интерфакс\".\n\n\"В процессе движения к указанным группам примыкали другие граждане.</segment>
+		<segment id="61" parent="63" relname="contrast">Собравшиеся никакой атрибутикой себя не обозначали,</segment>
+		<segment id="62" parent="63" relname="contrast">однако громко выкрикивали нецензурные выражения в адрес сотрудников милиции.</segment>
+		<segment id="64" parent="73" relname="cause-effect">На проводимую разъяснительную работу не реагировали,</segment>
+		<segment id="65" parent="73" relname="joint">мешали проходу пешеходов по тротуарам,</segment>
+		<segment id="66" parent="68" relname="joint">шумели,</segment>
+		<segment id="67" parent="68" relname="joint">привлекали внимание прохожих хлопками в ладоши,</segment>
+		<segment id="69" parent="71" relname="joint">толкали сотрудников органов правопорядка,</segment>
+		<segment id="70" parent="71" relname="joint">выходили на проезжую часть\",</segment>
+		<segment id="76" parent="75" relname="attribution">- утверждают в МВД.\n\nЭто происходило и в других частях города.</segment>
+		<segment id="78" parent="80" relname="contrast">\"В результате наиболее активные нарушители правопорядка были доставлены в столичные РУВД для установления личности,</segment>
+		<segment id="79" parent="80" relname="contrast">а остальные граждане разошлись\",</segment>
+		<segment id="81" parent="80" relname="attribution">- отмечается в сообщении.\n\</segment>
+		<segment id="85" parent="103" relname="span">nПримечательно, что оценка количества участников акции, которую дают в МВД, кардинально отличается от того, что говорят правозащитники.</segment>
+		<segment id="86" parent="89" relname="attribution">По данным правоохранительных органов,</segment>
+		<segment id="87" parent="89" relname="span">с 19:00 до 20:05 в Минске в несанкционированных мероприятиях участвовали около 350 человек.</segment>
+		<segment id="88" parent="87" relname="elaboration">Между тем неофициально называлась цифра в 5000 человек.</segment>
+		<segment id="91" parent="97" relname="joint">В МВД признали также только \"попытки сбора людей\" в других городах Белоруссии.\n\n\"В результате в органы внутренних дел с целью установления личности были доставлены 269 человек.</segment>
+		<segment id="92" parent="94" relname="span">Из них на 130 наиболее активных участников несанкционированных массовых мероприятий составлены административные протоколы по статьям 17.1 (мелкое хулиганство), 23.4 (неповиновение законному распоряжению или требованию должностного лица</segment>
+		<segment id="93" parent="92" relname="condition">при исполнении им служебных полномочий)</segment>
+		<segment id="95" parent="96" relname="joint">и 23.24 (нарушение порядка организации или проведения массового мероприятия или пикетирования) Кодекса \"Об административных правонарушениях\" с последующим направлением в суд\",</segment>
+		<segment id="98" parent="100" relname="span">- отметили в МВД.\n\nОчередная \"молчаливая\" акция намечена на 3 июля,</segment>
+		<segment id="99" parent="98" relname="cause-effect">когда в Белоруссии будет отмечаться День независимости.</segment>
+		<segment id="107" parent="114" relname="attribution">Как уверяют организаторы,</segment>
+		<segment id="108" parent="110" relname="joint">это мероприятие будет самым многочисленным.\n\nИнициативная группа \"Революция через социальные сети\" призывает белорусов выходить каждую среду на площади своих городов</segment>
+		<segment id="109" parent="110" relname="joint">и молча хлопать,</segment>
+		<segment id="111" parent="113" relname="joint">требуя реформ</segment>
+		<segment id="112" parent="113" relname="joint">и протестуя против диктатуры и недальновидной политики властей.</segment>
+		<segment id="116" parent="119" relname="attribution">Как подчеркивают организаторы,</segment>
+		<segment id="117" parent="119" relname="joint">пропагандируемые ими методы борьбы ненасильственные,</segment>
+		<segment id="118" parent="119" relname="joint">а целью является отставка президента Александра Лукашенко.\n\nИсточник: https://www.newsru.com/world/30Jun2011/admin.html\n</segment>
+		<group id="106" type="multinuc" parent="121" relname="preparation"/>
+		<group id="60" type="span" parent="106" relname="joint"/>
+		<group id="48" type="multinuc" parent="59" relname="preparation"/>
+		<group id="47" type="span" parent="48" relname="sequence"/>
+		<group id="45" type="multinuc" parent="47" relname="span"/>
+		<group id="59" type="multinuc" parent="60" relname="span"/>
+		<group id="53" type="multinuc" parent="59" relname="joint"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="56" type="span" parent="58" relname="span"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="77" type="span" parent="105" relname="joint"/>
+		<group id="75" type="multinuc" parent="77" relname="span"/>
+		<group id="63" type="multinuc" parent="75" relname="joint"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="68" type="multinuc" parent="72" relname="joint"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="104" type="multinuc" parent="105" relname="joint"/>
+		<group id="82" type="span" parent="104" relname="joint"/>
+		<group id="80" type="multinuc" parent="82" relname="span"/>
+		<group id="103" type="span" parent="104" relname="joint"/>
+		<group id="102" type="multinuc" parent="85" relname="elaboration"/>
+		<group id="90" type="span" parent="102" relname="joint"/>
+		<group id="89" type="span" parent="90" relname="span"/>
+		<group id="101" type="multinuc" parent="102" relname="joint"/>
+		<group id="97" type="multinuc" parent="101" relname="joint"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="94" type="span" parent="96" relname="joint"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="121" type="multinuc" parent="122" relname="span"/>
+		<group id="115" type="span" parent="121" relname="joint"/>
+		<group id="114" type="span" parent="115" relname="span"/>
+		<group id="110" type="multinuc" parent="114" relname="span"/>
+		<group id="113" type="multinuc" parent="110" relname="elaboration"/>
+		<group id="120" type="span" parent="121" relname="joint"/>
+		<group id="119" type="multinuc" parent="120" relname="span"/>
+		<group id="122" type="span"/>
+	</body>
+</rst>

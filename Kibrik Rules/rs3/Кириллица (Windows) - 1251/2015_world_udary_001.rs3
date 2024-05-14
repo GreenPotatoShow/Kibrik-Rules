@@ -1,0 +1,105 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="45" parent="130" relname="preparation">Турция нанесла очередную серию ударов по курдам\n\</segment>
+		<segment id="46" parent="48" relname="span">nВоенные самолеты Турции нанесли серию ударов по позициям бойцов запрещенной турецкой властью Рабочей партии Курдистана (РПК),</segment>
+		<segment id="47" parent="46" relname="attribution">передает Reuters.</segment>
+		<segment id="49" parent="53" relname="span">Авиация поразила 17 мишеней недалеко от границы с Ираком и Ираном в провинции Хаккяри.\n\nПо всей видимости,</segment>
+		<segment id="50" parent="52" relname="span">авиаудары стали ответом на несколько терактов,</segment>
+		<segment id="51" parent="50" relname="elaboration">произошедших в Турции накануне.</segment>
+		<segment id="55" parent="57" relname="joint">Ответственность за них турецкие власти возложили на курдских боевиков</segment>
+		<segment id="56" parent="57" relname="joint">.\n\nЗа прошедшие сутки в Турции произошло сразу несколько терактов, устроенных экстремистами.</segment>
+		<segment id="58" parent="63" relname="cause-effect">В Стамбуле в одном из полицейских участков ночью 10 августа прогремел взрыв.</segment>
+		<segment id="59" parent="63" relname="joint">В результате перестрелки,</segment>
+		<segment id="60" parent="62" relname="joint">завязавшейся после теракта,</segment>
+		<segment id="61" parent="62" relname="joint">убиты три человека - два террориста и полицейский.</segment>
+		<segment id="65" parent="71" relname="joint">Еще 10 человек - трое полицейских и семь гражданских лиц - получили ранения во время взрыва.\n\nКроме того, произошло нападение на консульство США, а в турецкой провинции Ширнак, граничащей с Ираком и Сирией,</segment>
+		<segment id="66" parent="68" relname="joint">боевики РПК подорвали самодельную мину,</segment>
+		<segment id="67" parent="68" relname="joint">при взрыве погибли четыре полицейских-спецназовца</segment>
+		<segment id="69" parent="70" relname="joint">.\n\nРабочая партия Курдистана созналась в нападении на полицейский участок в Стамбуле\n\</segment>
+		<segment id="74" parent="76" relname="span">nРабочая партия Курдистана взяла ответственность за теракт,</segment>
+		<segment id="75" parent="74" relname="background">который произошел накануне в одном из полицейских участков Стамбула.</segment>
+		<segment id="77" parent="79" relname="span">На одном из сайтов повстанческой организации появилось заявление,</segment>
+		<segment id="78" parent="77" relname="elaboration">где названы имена всех трех боевиков, погибших в результате нападения,</segment>
+		<segment id="80" parent="79" relname="attribution">сообщает Reuters.\n\nНочью 10 августа в пункте полиции прогремел взрыв.</segment>
+		<segment id="82" parent="83" relname="span">Преступники использовали для атаки заминированный автомобиль.</segment>
+		<segment id="84" parent="88" relname="sequence">Была разрушена часть трехэтажного здания полицейского участка,</segment>
+		<segment id="85" parent="87" relname="sequence">после чего в нем вспыхнул пожар.</segment>
+		<segment id="86" parent="87" relname="sequence">Погиб сотрудник полиции.</segment>
+		<segment id="89" parent="97" relname="joint">10 человек - трое полицейских и семь гражданских лиц - получили ранения.</segment>
+		<segment id="90" parent="92" relname="span">Раненых доставили в больницу Султанбейли.\n\nПовреждения также получил магазин,</segment>
+		<segment id="91" parent="90" relname="elaboration">расположенный рядом с участком полиции.</segment>
+		<segment id="93" parent="94" relname="cause-effect">Примерно 15 автомашин, находившихся поблизости, также пострадали от взрывной волны.\n\nСтолкновения между курдами и турецкими военными приняли ожесточенный характер\n\nС тех пор как турецкие ВВС начали наносить удары по лагерям РПК на севере Ирака,</segment>
+		<segment id="94" parent="95" relname="span">боевики партии почти ежедневно совершают вылазки.</segment>
+		<segment id="99" parent="124" relname="preparation">Начиная с 20 июля в столкновениях между правоохранительными органами и членами РПК погибли более 20 военнослужащих Вооруженных сил Турции.</segment>
+		<segment id="100" parent="102" relname="span">На прошлой неделе полиция провела в стамбульском районе Газиосманпаша операцию по задержанию членов экстремистских организаций.\n\n24 и 25 июля Турция впервые применила военную силу против курдов с весны 2013 года,</segment>
+		<segment id="101" parent="100" relname="elaboration">когда был объявлен мораторий на военные действия между Турцией и курдскими повстанцами.</segment>
+		<segment id="103" parent="104" relname="attribution">Курды объявили</segment>
+		<segment id="104" parent="105" relname="span">об окончании многолетнего перемирия с Турцией после налетов турецкой авиации.</segment>
+		<segment id="107" parent="115" relname="span">Также началась масштабная операция против предполагаемых экстремистов,</segment>
+		<segment id="108" parent="114" relname="span">которых подозревают в связях с террористической организацией \"Исламское государство\"</segment>
+		<segment id="109" parent="113" relname="joint">(запрещена на территории РФ) и боевиками Рабочей партии Курдистана.\n\nТурция присоединилась к борьбе с \"Исламским государством\"</segment>
+		<segment id="110" parent="112" relname="span">и разблокировала свои авиабазы для союзников после теракта в приграничном городе Суруч,</segment>
+		<segment id="111" parent="110" relname="elaboration">где погибли 32 человека.</segment>
+		<segment id="116" parent="122" relname="comparison">Турецкие силы правопорядка арестовали более тысячи человек,</segment>
+		<segment id="117" parent="121" relname="span">а 29 июля ВВС Турции нанесли серию мощных авиаударов по иракской территории,</segment>
+		<segment id="118" parent="120" relname="span">поразив как минимум шесть позиций иракских курдов,</segment>
+		<segment id="119" parent="118" relname="elaboration">которые, в свою очередь, тоже ведут борьбу с исламистами.\n\nИсточник: https://www.newsru.com/world/11Aug2015/udary.html\n</segment>
+		<group id="130" type="span" parent="131" relname="span"/>
+		<group id="54" type="span" parent="129" relname="preparation"/>
+		<group id="48" type="span" parent="54" relname="span"/>
+		<group id="53" type="span" parent="48" relname="elaboration"/>
+		<group id="52" type="span" parent="49" relname="elaboration"/>
+		<group id="129" type="multinuc" parent="130" relname="span"/>
+		<group id="73" type="span" parent="129" relname="joint"/>
+		<group id="57" type="multinuc" parent="73" relname="span"/>
+		<group id="72" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="64" type="span" parent="72" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="68" type="multinuc" parent="70" relname="joint"/>
+		<group id="128" type="span" parent="129" relname="joint"/>
+		<group id="76" type="span" parent="127" relname="preparation"/>
+		<group id="127" type="multinuc" parent="128" relname="span"/>
+		<group id="83" type="span" parent="127" relname="joint"/>
+		<group id="81" type="span" parent="82" relname="cause-effect"/>
+		<group id="79" type="span" parent="81" relname="span"/>
+		<group id="126" type="multinuc" parent="127" relname="joint"/>
+		<group id="98" type="multinuc" parent="126" relname="joint"/>
+		<group id="88" type="multinuc" parent="98" relname="sequence"/>
+		<group id="87" type="multinuc" parent="88" relname="sequence"/>
+		<group id="97" type="multinuc" parent="98" relname="sequence"/>
+		<group id="96" type="span" parent="97" relname="joint"/>
+		<group id="92" type="span" parent="96" relname="span"/>
+		<group id="95" type="span" parent="92" relname="elaboration"/>
+		<group id="125" type="span" parent="126" relname="joint"/>
+		<group id="124" type="multinuc" parent="125" relname="span"/>
+		<group id="106" type="multinuc" parent="124" relname="joint"/>
+		<group id="102" type="span" parent="106" relname="joint"/>
+		<group id="105" type="span" parent="106" relname="joint"/>
+		<group id="123" type="span" parent="124" relname="joint"/>
+		<group id="115" type="span" parent="123" relname="span"/>
+		<group id="114" type="span" parent="107" relname="elaboration"/>
+		<group id="113" type="multinuc" parent="108" relname="elaboration"/>
+		<group id="112" type="span" parent="113" relname="joint"/>
+		<group id="122" type="multinuc" parent="115" relname="elaboration"/>
+		<group id="121" type="span" parent="122" relname="comparison"/>
+		<group id="120" type="span" parent="117" relname="elaboration"/>
+		<group id="131" type="span"/>
+	</body>
+</rst>

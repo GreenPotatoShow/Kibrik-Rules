@@ -1,0 +1,60 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="24" relname="attribution">Япония сообщила</segment>
+		<segment id="24" parent="25" relname="span">о пролете трех российских Ту-95 вокруг территории страны\n\</segment>
+		<segment id="26" parent="28" relname="span">nСамолеты Воздушных сил самообороны Японии были подняты по тревоге</segment>
+		<segment id="27" parent="26" relname="cause-effect">в связи с появлением российских бомбардировщиков Ту-95 вблизи воздушных границ страны.</segment>
+		<segment id="29" parent="33" relname="span">Инцидент произошел 24 января.</segment>
+		<segment id="30" parent="32" relname="span">Три российских бомбардировщика совершили облет Японского архипелага,</segment>
+		<segment id="31" parent="30" relname="elaboration">пролетев на Восточно-Китайским и Японским морями, а также над Тихим океаном, следует из карты маршрута, приложенной к сообщению, опубликованному на сайте японского Министерства обороны.\n\nТакже к сообщению прилагаются фотографии российских бомбардировщиков.</segment>
+		<segment id="35" parent="43" relname="joint">Отмечается, что воздушного пространства Японии пилоты РФ не нарушили.\n\nРанее они облетали Японские острова в январе 2016 года.</segment>
+		<segment id="36" parent="38" relname="span">Кроме того, в июне японские истребители дважды за два дня поднимались в воздух</segment>
+		<segment id="37" parent="36" relname="purpose">для перехвата двух противолодочных самолетов ВМФ России Ил-38,</segment>
+		<segment id="39" parent="41" relname="span">которые совершали полет близ японских берегов на Тихом океане.\n\nВ период с апреля по сентябрь прошлого года Япония более 500 раз поднимала свои истребители</segment>
+		<segment id="40" parent="39" relname="purpose">для сопровождения иностранных военных самолетов.</segment>
+		<segment id="45" parent="48" relname="attribution">Как отмечает ТАСС,</segment>
+		<segment id="46" parent="48" relname="span">большинство вылетов было сделано</segment>
+		<segment id="47" parent="46" relname="elaboration">в ответ на действия авиации КНР.\n\nВ мае 2016 года российские диспетчеры предотвратили опасное сближение трех самолетов над Японским морем.</segment>
+		<segment id="50" parent="54" relname="joint">Не отвечавший на сигналы американский самолет-разведчик летел на высоте, предназначенной для гражданской авиации.</segment>
+		<segment id="51" parent="52" relname="attribution">Он мог столкнуться с двумя пассажирскими авиалайнерами.\n\nМинобороны РФ ранее сообщало,</segment>
+		<segment id="52" parent="53" relname="span">что принимает \"беспрецедентные меры\" для усиления военного присутствия на Курилах и Сахалине.</segment>
+		<segment id="55" parent="56" relname="attribution">Между тем власти Японии выражали сожаление</segment>
+		<segment id="56" parent="57" relname="span">в связи с укреплением военного присутствия РФ на Курильских островах</segment>
+		<segment id="58" parent="57" relname="cause-effect">на фоне активизации попыток Токио достичь решения вопроса относительно их территориальной принадлежности и заключения мирного договора с РФ.\n\nТу-95 - советский и российский турбовинтовой стратегический бомбардировщик-ракетоносец, единственный в мире серийный бомбардировщик с турбовинтовыми двигателями.</segment>
+		<segment id="60" parent="59" relname="elaboration">Считается символом обеспечения стратегического паритета в холодной войне.\n\nИсточник: https://www.newsru.com/world/25Jan2017/tu95jp.html\n</segment>
+		<group id="25" type="span" parent="64" relname="preparation"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="44" type="multinuc" parent="64" relname="comparison"/>
+		<group id="34" type="multinuc" parent="44" relname="joint"/>
+		<group id="28" type="span" parent="34" relname="sequence"/>
+		<group id="33" type="span" parent="34" relname="sequence"/>
+		<group id="32" type="span" parent="29" relname="elaboration"/>
+		<group id="43" type="multinuc" parent="44" relname="joint"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="38" type="span" parent="42" relname="span"/>
+		<group id="41" type="span" parent="38" relname="elaboration"/>
+		<group id="63" type="span" parent="64" relname="comparison"/>
+		<group id="49" type="span" parent="63" relname="span"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="62" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="54" type="multinuc" parent="62" relname="comparison"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="61" type="span" parent="62" relname="comparison"/>
+		<group id="59" type="span" parent="61" relname="span"/>
+		<group id="57" type="span" parent="59" relname="span"/>
+		<group id="65" type="span"/>
+	</body>
+</rst>

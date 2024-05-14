@@ -1,0 +1,26 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="8" parent="10" relname="span">В Хайфском заливе столкнулись два судна,</segment>
+		<segment id="9" parent="8" relname="elaboration">есть пострадавшие\n\nГреческое пассажирское судно столкнулось в ночь на пятницу с израильским грузовым кораблем на расстоянии трех километров от Хайфского порта.</segment>
+		<segment id="11" parent="15" relname="joint">В результате столкновения израильское судно затонуло,</segment>
+		<segment id="12" parent="14" relname="joint">члены экипажа были вынуждены прыгать в воду.\n\n11 человек были спасены,</segment>
+		<segment id="13" parent="14" relname="joint">двое числятся пропавшими без вести,</segment>
+		<segment id="16" parent="15" relname="attribution">сообщает NEWSru Israel.</segment>
+		<segment id="19" parent="18" relname="elaboration">Служба скорой помощи \"Маген Давид Адом\" в Хайфе была приведена в состояние повышенной готовности.\n\nИсточник: https://www.newsru.com/world/31Aug2007/port.html\n</segment>
+		<group id="18" type="span" parent="20" relname="span"/>
+		<group id="10" type="span" parent="17" relname="cause-effect"/>
+		<group id="17" type="span" parent="18" relname="span"/>
+		<group id="15" type="multinuc" parent="17" relname="span"/>
+		<group id="14" type="multinuc" parent="15" relname="joint"/>
+		<group id="20" type="span"/>
+	</body>
+</rst>

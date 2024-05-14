@@ -1,0 +1,48 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="18" relname="attribution">Тренер немецкого клуба заявила,</segment>
+		<segment id="18" parent="19" relname="span">что подбирает футболистов по размеру члена\n\</segment>
+		<segment id="20" parent="25" relname="attribution">nГлавный тренер немецкого футбольного клуба \"Клоппенбург\" Имке Вюббенхорст заявила,</segment>
+		<segment id="21" parent="25" relname="span">что формирует состав своей команды исключительно по размеру полового члена игроков.\n\nТаким образам,</segment>
+		<segment id="22" parent="23" relname="attribution">как пишет издание As,</segment>
+		<segment id="23" parent="24" relname="span">наставница отреагировала на сексистские провокации журналистов.\n\</segment>
+		<segment id="27" parent="29" relname="joint">nОтвечая на вопрос,</segment>
+		<segment id="28" parent="29" relname="joint">одеваются ли игроки клуба перед ее приходом в раздевалку,</segment>
+		<segment id="30" parent="29" relname="attribution">Вюббенхорст заявила в интервью немецкой газете Die Welt буквально следующее:</segment>
+		<segment id="32" parent="44" relname="span">\"Конечно же нет.</segment>
+		<segment id="33" parent="39" relname="joint">Я профессионал,</segment>
+		<segment id="34" parent="38" relname="span">я выбираю состав по длине пениса\".\n\n30-летняя Имке Вюббенхорст</segment>
+		<segment id="35" parent="37" relname="span">- первая женщина-тренер,</segment>
+		<segment id="36" parent="35" relname="elaboration">которая возглавила мужскую команду в первых пяти дивизионах немецкого футбола.</segment>
+		<segment id="40" parent="42" relname="span">В декабре 2018 года она приняла бразды правления \"Клоппенбургом\",</segment>
+		<segment id="41" parent="40" relname="background">который ведет борьбу за выживание в пятом по силе дивизионе Германии - оберлиге Нижняя Саксония.\n\nПосле окончания карьеры в 2016 году бывшая футболистка \"Клоппенбурга\" и молодежной сборной Германии работала на тренерской должности в женской команде клуба.\n\nИсточник: https://www.newsru.com/sport/18Jan2019/penis.html\n</segment>
+		<group id="19" type="span" parent="46" relname="preparation"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="26" type="span" parent="46" relname="joint"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="24" type="span" parent="21" relname="attribution"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="31" type="span" parent="45" relname="span"/>
+		<group id="29" type="multinuc" parent="31" relname="span"/>
+		<group id="44" type="span" parent="31" relname="elaboration"/>
+		<group id="43" type="multinuc" parent="32" relname="evidence"/>
+		<group id="39" type="multinuc" parent="43" relname="sequence"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="37" type="span" parent="34" relname="elaboration"/>
+		<group id="42" type="span" parent="43" relname="sequence"/>
+		<group id="47" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,68 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="29" relname="joint">Спор между латвийским банком и \"Севернефтью\" дошел до Европейского суда по правам человека\n\nЛатвийский банк Reverta (правопреемник ликвидированного частного Parex banka)</segment>
+		<segment id="28" parent="29" relname="joint">подал иск против России в Европейский суд по правам человека (ЕСПЧ) \"в связи с невозможностью получить справедливое правосудие\".</segment>
+		<segment id="30" parent="31" relname="attribution">Как выяснило российское издание журнала Forbes,</segment>
+		<segment id="31" parent="32" relname="span">заявитель жалуется в первую очередь на непредоставление \"права на справедливое судебное разбирательство\" (статья 6 Европейской конвенции по правам человека)</segment>
+		<segment id="33" parent="37" relname="span">и требует \"защиты собственности\" (статья 1 Протокола N 1 к Конвенции).\n\nКредит на 75 млн долларов,</segment>
+		<segment id="36" parent="33" relname="elaboration">который фигурирует в иске, был выдан Parex banka компании \"Североргсинтез\" под поручительство \"Севернефти\" в 2006 году.</segment>
+		<segment id="39" parent="41" relname="joint">Parex не смог получить деньги ни с одной из компаний</segment>
+		<segment id="40" parent="41" relname="joint">и в конце 2011 года затеял с ними судебную тяжбу.\n\nВысший арбитражный суд России в середине мая 2013 года отказал правопреемникам кредитора - Reverta - в передаче в президиум дела о взыскании средств с \"Севернефти\" по договору поручительства по кредиту \"Североргсинтеза\".</segment>
+		<segment id="43" parent="47" relname="span">ВАС оставил в силе решение Арбитражного суда Ямало-Ненецкого автономного округа,</segment>
+		<segment id="44" parent="46" relname="span">который отклонил этот иск.\n\nТаким образом,</segment>
+		<segment id="45" parent="44" relname="attribution">пишет обозреватель Forbes Елена Ходякова,</segment>
+		<segment id="48" parent="56" relname="joint">судебная тяжба, которая была направлена против одной компании,</segment>
+		<segment id="49" parent="55" relname="span">может перерасти в межгосударственное разбирательство России и Латвии.\n\nЭдуард Худайнатов покинул \"Роснефть\" в августе 2013 года,</segment>
+		<segment id="50" parent="52" relname="joint">чтобы заняться собственным бизнесом</segment>
+		<segment id="51" parent="52" relname="joint">и \"объединить нескольких независимых игроков в нефтегазовом сегменте\".\n\nБывший президент \"Роснефти\" никогда не признавал,</segment>
+		<segment id="53" parent="52" relname="cause-effect">что связан со структурами \"Севернефти\",</segment>
+		<segment id="58" parent="60" relname="span">но судебный скандал с латвийским Parex уже обернулся против него в 2012 году.\n\nБрат нефтяника Жан Худойнатов</segment>
+		<segment id="59" parent="58" relname="background">(фамилия братьев в документах пишется по-разному)</segment>
+		<segment id="61" parent="62" relname="same-unit">был, по данным СПАРК, генеральным директором \"Севернефти\",</segment>
+		<segment id="63" parent="64" relname="attribution">которая выступила поручителем по кредиту \"Североргсинтеза\".\n\nИсточники Forbes считают,</segment>
+		<segment id="64" parent="65" relname="span">что именно Эдуард Худайнатов был старшим партнером среди братьев и одним из главных акционеров \"Севернефти\".</segment>
+		<segment id="67" parent="73" relname="span">Еще один акционер \"Севернефти\" - Александр Рязанов, бывший заместитель председателя правления \"Газпрома\".</segment>
+		<segment id="68" parent="72" relname="joint">Эдуард Худайнатов отказался отвечать на вопросы Forbes.</segment>
+		<segment id="69" parent="71" relname="span">Связаться с Жаном Худойнатовым не удалось.\n\nПодробнее о том, как латвийский банк Parex помог Эдуарду Худайнатову превратиться из менеджера в бизнесмена,</segment>
+		<segment id="70" parent="69" relname="background">российский Forbes обещает рассказать в ближайшем номере, который выйдет 20 июня.\n\nИсточник: https://www.newsru.com/finance/03Jun2015/rulaparexlawsuit.html\n</segment>
+		<group id="29" type="multinuc" parent="76" relname="preparation"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="42" type="multinuc" parent="76" relname="joint"/>
+		<group id="38" type="multinuc" parent="42" relname="joint"/>
+		<group id="32" type="span" parent="38" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="57" type="multinuc" parent="75" relname="contrast"/>
+		<group id="47" type="span" parent="57" relname="joint"/>
+		<group id="46" type="span" parent="43" relname="elaboration"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="54" type="span" parent="49" relname="purpose"/>
+		<group id="52" type="multinuc" parent="54" relname="span"/>
+		<group id="74" type="multinuc" parent="75" relname="contrast"/>
+		<group id="66" type="span" parent="74" relname="joint"/>
+		<group id="62" type="multinuc" parent="66" relname="span"/>
+		<group id="60" type="span" parent="62" relname="same-unit"/>
+		<group id="65" type="span" parent="62" relname="elaboration"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="72" type="multinuc" parent="67" relname="elaboration"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="77" type="span"/>
+	</body>
+</rst>

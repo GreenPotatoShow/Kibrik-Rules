@@ -1,0 +1,81 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="34" relname="span">Пауло Коэльо отправится в путешествие по Транссибирской магистрали\n\nЗнаменитый бразильский писатель Пауло Коэльо,</segment>
+		<segment id="33" parent="32" relname="background">романы которого пользуются большой популярностью в России,</segment>
+		<segment id="35" parent="34" relname="cause-effect">хотел бы совершить путешествие по Транссибирской магистрали.</segment>
+		<segment id="37" parent="39" relname="contrast">\"Мы планировали сделать это в этом году,</segment>
+		<segment id="38" parent="39" relname="contrast">но пока не получилось\",</segment>
+		<segment id="40" parent="42" relname="span">- сказал Коэльо в интервью РИА \"Новости\".\n\nПисатель уже в седьмой раз принимает участие в работе Всемирного экономического форума,</segment>
+		<segment id="41" parent="40" relname="background">ежегодная сессия которого открылась в среду в Давосе.</segment>
+		<segment id="44" parent="50" relname="span">\"Существует старый институт под названием \"диалог\", который мы потеряли.</segment>
+		<segment id="45" parent="47" relname="joint">Люди больше не разговаривают друг с другом,</segment>
+		<segment id="46" parent="47" relname="joint">не смотрят друг другу в глаза.</segment>
+		<segment id="48" parent="49" relname="same-unit">Давос - это нейтральная площадка, предоставляющая возможность диалога\",</segment>
+		<segment id="51" parent="50" relname="attribution">- сказал Коэльо.\n\</segment>
+		<segment id="53" parent="58" relname="attribution">nПо словам писателя,</segment>
+		<segment id="54" parent="58" relname="joint">Давосский форум становится все более социально ориентированным,</segment>
+		<segment id="55" parent="56" relname="attribution">приглашая лидеров культуры, писателей и артистов.\n\nТакже Пауло Коэльо напомнил,</segment>
+		<segment id="56" parent="57" relname="span">что в апреле этого года во многих странах мира, включая Россию, выйдет его новый роман \"Захир\".</segment>
+		<segment id="60" parent="87" relname="preparation">Автор знаменитой философской притчи \"Алхимик\" на этот раз обратился к истории мусульманского мира XVIII века.</segment>
+		<segment id="61" parent="62" relname="attribution">Свою книгу он назвал \"Захир\",</segment>
+		<segment id="62" parent="63" relname="span">что в переводе с арабского означает \"мудрец, провидец\".\n\nПауло Коэльо не только выдающийся писатель, но и человек с необычной судьбой, ни на кого не похожий.</segment>
+		<segment id="64" parent="68" relname="span">Он одевается во все черное,</segment>
+		<segment id="65" parent="67" relname="span">потому что не любит сдавать в прачечные белые рубашки,</segment>
+		<segment id="66" parent="65" relname="cause-effect">которые там часто рвутся.</segment>
+		<segment id="70" parent="72" relname="joint">Любит путешествовать,</segment>
+		<segment id="71" parent="72" relname="joint">причем ездит по миру с маленьким чемоданчиком.</segment>
+		<segment id="73" parent="75" relname="span">\"В молодости я был хиппи,</segment>
+		<segment id="74" parent="73" relname="attribution">- объясняет писатель, -</segment>
+		<segment id="76" parent="77" relname="same-unit">привык странствовать налегке\".</segment>
+		<segment id="78" parent="84" relname="sequence">В 2002 году Пауло Коэльо добрался и до Москвы.\n\nВ настоящее время произведения писателя переведены на языки 150 стран мира.</segment>
+		<segment id="79" parent="83" relname="sequence">В нашей стране первым появился \"Алхимик\",</segment>
+		<segment id="80" parent="82" relname="span">затем вышли книги \"Дневник волшебника\", \"Пятая гора\", \"Дьявол и сеньорита Прим\",</segment>
+		<segment id="81" parent="80" relname="elaboration">\"Вероника хочет умереть\", \"11 минут\".\n\nИсточник: https://www.newsru.com/cinema/27Jan2005/paulo.html\n</segment>
+		<group id="36" type="span" parent="91" relname="preparation"/>
+		<group id="34" type="span" parent="36" relname="span"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="43" type="span" parent="90" relname="preparation"/>
+		<group id="39" type="multinuc" parent="43" relname="span"/>
+		<group id="42" type="span" parent="39" relname="attribution"/>
+		<group id="90" type="multinuc" parent="91" relname="span"/>
+		<group id="52" type="span" parent="90" relname="joint"/>
+		<group id="50" type="span" parent="52" relname="span"/>
+		<group id="49" type="multinuc" parent="44" relname="interpretation-evaluation"/>
+		<group id="47" type="multinuc" parent="49" relname="same-unit"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="59" type="span" parent="89" relname="joint"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="span"/>
+		<group id="69" type="span" parent="87" relname="joint"/>
+		<group id="63" type="span" parent="69" relname="span"/>
+		<group id="68" type="span" parent="63" relname="elaboration"/>
+		<group id="67" type="span" parent="64" relname="cause-effect"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="72" type="multinuc" parent="86" relname="span"/>
+		<group id="85" type="multinuc" parent="72" relname="elaboration"/>
+		<group id="77" type="multinuc" parent="85" relname="sequence"/>
+		<group id="75" type="span" parent="77" relname="same-unit"/>
+		<group id="84" type="multinuc" parent="85" relname="sequence"/>
+		<group id="83" type="multinuc" parent="84" relname="sequence"/>
+		<group id="82" type="span" parent="83" relname="sequence"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

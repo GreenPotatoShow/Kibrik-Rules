@@ -1,0 +1,72 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="33" relname="span">Нижняя палата парламента Италии поддержала реформу спецслужб</segment>
+		<segment id="30" parent="32" relname="span">после скандала с похищением имама\n\nПалата депутатов итальянского парламента в четверг единодушно проголосовала за реформу спецслужб,</segment>
+		<segment id="31" parent="30" relname="elaboration">которую предложил провести кабинет Романо Проди.</segment>
+		<segment id="34" parent="36" relname="span">Как передает РИА \"Новости\",</segment>
+		<segment id="35" parent="34" relname="background">за реформу проголосовал 471 депутат,</segment>
+		<segment id="37" parent="38" relname="same-unit">20 - воздержались.</segment>
+		<segment id="40" parent="68" relname="span">Теперь этот вопрос перейдет на рассмотрение сената.\n\</segment>
+		<segment id="43" parent="47" relname="joint">nНапомним, с предложением реформировать секретные службы итальянское правительство выступило в конце января.</segment>
+		<segment id="44" parent="46" relname="span">Теперь роль военной разведки SISMI будет исполнять секретная служба,</segment>
+		<segment id="45" parent="44" relname="elaboration">которая получила название SIE (внешняя безопасность).</segment>
+		<segment id="48" parent="66" relname="span">Внутреннюю же разведку SISDE заменит служба под названием SIN (внутренняя безопасность).</segment>
+		<segment id="49" parent="51" relname="joint">SIN будет находиться под началом министерства внутренних дел,</segment>
+		<segment id="50" parent="51" relname="joint">а SIE отойдет в подчинение министерству обороны и МИД.</segment>
+		<segment id="52" parent="56" relname="joint">Контролировать деятельность новых спецслужб будет специально созданный департамент информации по проблемам безопасности (DIS).\n\nПо новым правилам на территории Италии SIE сможет работать только в сотрудничестве с коллегами из SIN</segment>
+		<segment id="53" parent="55" relname="span">и лишь в том случае,</segment>
+		<segment id="54" parent="53" relname="elaboration">когда это вызвано необходимостью в ее заграничной деятельности.\n\nВ документе о реформе спецслужб,</segment>
+		<segment id="57" parent="58" relname="attribution">подготовленном Комиссией по конституционным делам Палаты депутатов итальянского парламента, говорится о том,</segment>
+		<segment id="58" parent="59" relname="span">что разведслужбам запрещается проводить какие-либо неадекватные операции по отношению к партийным, профсоюзным и журналистским организациям.</segment>
+		<segment id="60" parent="62" relname="span">Агентам спецслужб также не позволяется совершать какие-либо действия,</segment>
+		<segment id="61" parent="60" relname="purpose">представляющие опасность для жизни, здоровья, личной свободы граждан.\n\nВ ноябре 2006 года итальянское правительство сменило руководителя военной разведки.</segment>
+		<segment id="70" parent="74" relname="sequence">На эту должность был назначен 59-летний адмирал Бруно Бранчифорте.</segment>
+		<segment id="71" parent="73" relname="span">Он сменил находившегося на этом посту с 2001 года генерала Николо Поллари,</segment>
+		<segment id="72" parent="71" relname="elaboration">с которым, собственно, и связано решение правительства о необходимости перемен в верхах разведки.\n\nНапомним, имя Поллари фигурировало в скандале о похищении имама Абу Омара агентами ЦРУ.</segment>
+		<segment id="75" parent="78" relname="attribution">По данным следствия,</segment>
+		<segment id="76" parent="78" relname="joint">итальянская военная разведка не только знала о незаконной операции ЦРУ,</segment>
+		<segment id="77" parent="78" relname="joint">но и участвовала в похищении имама</segment>
+		<segment id="80" parent="79" relname="cause-effect">- именно поэтому от подобных инцидентов итальянское руководство решило ограничить себя и впредь.\n\nИсточник: https://www.newsru.com/world/15Feb2007/sinsity.html\n</segment>
+		<group id="69" type="multinuc" parent="83" relname="span"/>
+		<group id="39" type="span" parent="69" relname="joint"/>
+		<group id="33" type="span" parent="39" relname="span"/>
+		<group id="32" type="span" parent="29" relname="cause-effect"/>
+		<group id="38" type="multinuc" parent="33" relname="attribution"/>
+		<group id="36" type="span" parent="38" relname="same-unit"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="67" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="47" type="multinuc" parent="67" relname="comparison"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="66" type="span" parent="67" relname="comparison"/>
+		<group id="65" type="multinuc" parent="48" relname="elaboration"/>
+		<group id="51" type="multinuc" parent="65" relname="joint"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="56" type="multinuc" parent="64" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="59" type="span" parent="63" relname="joint"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="82" type="multinuc" parent="69" relname="elaboration"/>
+		<group id="74" type="multinuc" parent="82" relname="joint"/>
+		<group id="73" type="span" parent="74" relname="sequence"/>
+		<group id="81" type="span" parent="82" relname="joint"/>
+		<group id="79" type="span" parent="81" relname="span"/>
+		<group id="78" type="multinuc" parent="79" relname="span"/>
+		<group id="83" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,64 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="28" relname="span">Альбина Ахатова подозревается в применении допинга\n\nРоссийская биатлонистка Альбина Ахатова,</segment>
+		<segment id="25" parent="27" relname="span">которая занимает третье место в общем зачете розыгрыша Кубка мира,</segment>
+		<segment id="26" parent="25" relname="condition">подозревается в применении допинга.</segment>
+		<segment id="29" parent="31" relname="span">Об этом, как передает РИА \"Новости\",</segment>
+		<segment id="30" parent="29" relname="attribution">сообщило в четверг норвежское телеграфное бюро Остерсунда.</segment>
+		<segment id="33" parent="37" relname="span">Проба крови 'А', взятая у Ахатовой на соревнованиях Кубка мира 22-26 января в Антерсельве,</segment>
+		<segment id="34" parent="36" relname="joint">где она заняла первое место,</segment>
+		<segment id="35" parent="36" relname="joint">дала положительный результат.\n\nПожелавшие остаться неназванными источники в Международном союзе биатлонистов (ИБУ) подтвердили факт положительной реакции допинг-пробы российской спортсменки.</segment>
+		<segment id="38" parent="40" relname="span">\"Прежде чем принять какое-либо решение,</segment>
+		<segment id="39" parent="38" relname="attribution">- заявил генеральный секретарь ИБУ Патер Байер в интервью шведскому агентству ТТ,</segment>
+		<segment id="41" parent="45" relname="span">- мы должны будем проанализировать анализ пробы 'Б',</segment>
+		<segment id="42" parent="44" relname="span">результат которого станет известен не ранее 28 февраля\".\n\nВ сегодняшней спринтерской гонке на дистанции 7,5 километров очередного этапа Кубка мира в шведском Остерсунде Ахатова заняла седьмое место,</segment>
+		<segment id="43" parent="42" relname="elaboration">отстав от победительницы немки Кати Вильгельм на 40 с лишним секунд.</segment>
+		<segment id="47" parent="49" relname="sequence">Второе место досталось белорусской биатлонистке Олене Зубриловой,</segment>
+		<segment id="48" parent="49" relname="sequence">а третьей финишировала еще одна спортсменка из ФРГ Уши Дизль.</segment>
+		<segment id="50" parent="52" relname="span">Светлана Черноусова и Ольга Пылева финишировали соответственно 8-й и 13-й.\n\nПобедителем на дистанции 10 километров у мужчин стал немецкий спортсмен Свен Фишер.</segment>
+		<segment id="51" parent="50" relname="interpretation-evaluation">Он не промахнулся ни на одном из огневых рубежей.</segment>
+		<segment id="53" parent="55" relname="span">Всего на 1,2 секунды отстал от него белорус Владимир Драчев,</segment>
+		<segment id="54" parent="53" relname="elaboration">который бежал быстрее победителя,</segment>
+		<segment id="56" parent="57" relname="contrast">но допустил один промах.</segment>
+		<segment id="60" parent="64" relname="span">Третье место на этапе досталось норвежцу Ларсу Бергеру.</segment>
+		<segment id="61" parent="63" relname="span">Лучший из россиян Сергей Башкиров остался на шестом месте,</segment>
+		<segment id="62" parent="61" relname="concession">несмотря на безупречную стрельбу.\n\nИсточник: https://www.newsru.com/sport/20Feb2003/572388644.html\n</segment>
+		<group id="32" type="span" parent="67" relname="preparation"/>
+		<group id="28" type="span" parent="32" relname="span"/>
+		<group id="27" type="span" parent="24" relname="elaboration"/>
+		<group id="31" type="span" parent="28" relname="attribution"/>
+		<group id="67" type="multinuc" parent="68" relname="span"/>
+		<group id="37" type="span" parent="67" relname="joint"/>
+		<group id="36" type="multinuc" parent="33" relname="elaboration"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="46" type="span" parent="66" relname="joint"/>
+		<group id="40" type="span" parent="45" relname="attribution"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="44" type="span" parent="41" relname="elaboration"/>
+		<group id="65" type="multinuc" parent="66" relname="joint"/>
+		<group id="59" type="span" parent="65" relname="joint"/>
+		<group id="49" type="multinuc" parent="59" relname="span"/>
+		<group id="58" type="span" parent="49" relname="elaboration"/>
+		<group id="52" type="span" parent="58" relname="span"/>
+		<group id="57" type="multinuc" parent="52" relname="interpretation-evaluation"/>
+		<group id="55" type="span" parent="57" relname="contrast"/>
+		<group id="64" type="span" parent="65" relname="joint"/>
+		<group id="63" type="span" parent="60" relname="elaboration"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,85 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="36" relname="sequence">С 2009 года \"Газпром\" будет покупать газ из Центральной Азии по европейским ценам\n\nКазахстан, Узбекистан и Туркменистан с 2009 года будут продавать газ по европейским ценам.\n\nКак сообщила пресс-служба \"Газпрома\",</segment>
+		<segment id="35" parent="36" relname="sequence">11 марта в Москве состоялась встреча председателя правления \"Газпрома\" Алексея Миллера, президента НК \"КазМунайГаз\" Узакбая Карабалина, председателя правления НХК \"Узбекнефтегаз\" Нурммухамада Ахмедова и председателя ГК \"Туркменгаз\" Ягшигельды Какаева.\n\nРуководители газовых компаний Казахстана, Узбекистана и Туркменистана заявили,</segment>
+		<segment id="37" parent="39" relname="span">что \"исходя из интересов национальных экономик,</segment>
+		<segment id="38" parent="37" relname="cause-effect">учитывая международные обязательства по обеспечению надежных и бесперебойных поставок энергоносителей,</segment>
+		<segment id="40" parent="41" relname="span">с 2009 года продажа природного газа будет осуществляться по европейским ценам\",</segment>
+		<segment id="43" parent="49" relname="comparison">говорится в заявлении российской компании.\n\nСредняя цена для европейских потребителей к 2009 году может составить около 360 долларов за тысячу кубометров.\n\nЦена среднеазиатского газа, который \"Газпром\" продает на Украину, в 2008 году составляет 179,5 долларов за тысячу кубометров,</segment>
+		<segment id="44" parent="48" relname="span">а российского - 314,6 доллара.\n\nРешение среднеазиатских республик о повышении цен</segment>
+		<segment id="45" parent="47" relname="span">не сможет не сказаться на переговорах между \"Газпромом\" и украинским \"Нафтогазом\" 12 марта,</segment>
+		<segment id="46" parent="45" relname="condition">где будут обсуждаться вопросы поставок газа на Украину</segment>
+		<segment id="51" parent="65" relname="span">.\n\nБолее дешевый по сравнению с российским среднеазиатский природный газ является основой для газоснабжения Украины.</segment>
+		<segment id="52" parent="56" relname="comparison">В текущем году она получает газ по 179,5 долларов за тысячу кубометров по сравнению с ценой европейского уровня в 315 долларов за тысячу кубометров,</segment>
+		<segment id="53" parent="55" relname="span">в которую оценивает свое топливо</segment>
+		<segment id="54" parent="53" relname="purpose">для поставок газа на Украину \"Газпром\".\n\nВ декабре прошлого года было объявлено о повышении цены на газ,</segment>
+		<segment id="57" parent="58" relname="condition">покупаемый \"Газпромом\" у Туркмении,</segment>
+		<segment id="58" parent="59" relname="span">в 1-м полугодии 2008 года - до 130 долларов,</segment>
+		<segment id="60" parent="62" relname="joint">а во втором - до 150 долларов.\n\n\"Газпром\" намерен закупить у Туркмении до 50 млрд кубометровгаза,</segment>
+		<segment id="61" parent="62" relname="joint">и также согласовал цены на газ, покупаемый в Узбекистане.</segment>
+		<segment id="67" parent="69" relname="contrast">В концерне эту цену не называют,</segment>
+		<segment id="68" parent="69" relname="contrast">но отмечают, что он \"закупает газ во всех странах Средней и Центральной Азии на сопоставимых условиях\",</segment>
+		<segment id="70" parent="69" relname="attribution">сообщает ИТАР-ТАСС.</segment>
+		<segment id="73" parent="97" relname="joint">Россия и Казахстан в ноябре 2005 года подписали пятилетнее соглашение о транзите до 55 млрд куб м газа из Туркмении и Узбекистана.\n\nРешение поднять цену до среднеевропейской может стать основным фактором в судьбе альтернативных проектов по доставке среднеазиатского газа на европейские рынки, таких как Транскаспийский газопровод.</segment>
+		<segment id="74" parent="76" relname="span">Страны Средней Азии поддерживали эти проекты,</segment>
+		<segment id="75" parent="74" relname="cause-effect">поскольку не могли получить за свой газ адекватную европейской цену.\n\nЗапасы газа в государствах Средней Азии считаются достаточно большими:</segment>
+		<segment id="77" parent="78" relname="condition">учитывая, что геологоразведочные работы там проводились еще во времена Советского Союза,</segment>
+		<segment id="78" parent="79" relname="span">то реальные объемы залежей нефти и газа в Узбекистане, Туркмении и Казахстане не известны</segment>
+		<segment id="80" parent="81" relname="condition">.\n\nТо, что добывается сейчас этими государствами,</segment>
+		<segment id="81" parent="82" relname="span">полностью выкупается российскими компаниями по низким ценам,</segment>
+		<segment id="84" parent="83" relname="attribution">пишет \"Независимая газета\",</segment>
+		<segment id="87" parent="89" relname="span">так как трубопроводные системы строились Советским Союзом</segment>
+		<segment id="88" parent="87" relname="purpose">для решения проблемы поставок энергоресурсов в промышленные районы европейской части страны,</segment>
+		<segment id="90" parent="92" relname="comparison">а с распадом СССР эти системы связали добывающую промышленность независимых государств Центральной Азии с Россией</segment>
+		<segment id="91" parent="92" relname="comparison">.\n\nРоссия продает газ как в Европу, так и в Китай по достаточно высоким ценам - 300-315 долларов за тысячу кубометров голубого топлива.</segment>
+		<segment id="94" parent="95" relname="comparison">Туркменский газ для России обходится в 110 долларов за тысячу кубометров, а казахский - немногим дороже.\n\nИсточник: https://www.newsru.com/finance/11Mar2008/gazpromo.html\n</segment>
+		<group id="72" type="span" parent="98" relname="joint"/>
+		<group id="66" type="multinuc" parent="72" relname="span"/>
+		<group id="50" type="multinuc" parent="66" relname="comparison"/>
+		<group id="42" type="span" parent="50" relname="comparison"/>
+		<group id="36" type="multinuc" parent="41" relname="attribution"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="39" type="span" parent="40" relname="condition"/>
+		<group id="49" type="multinuc" parent="50" relname="comparison"/>
+		<group id="48" type="span" parent="49" relname="comparison"/>
+		<group id="47" type="span" parent="44" relname="elaboration"/>
+		<group id="65" type="span" parent="66" relname="comparison"/>
+		<group id="64" type="multinuc" parent="51" relname="elaboration"/>
+		<group id="56" type="multinuc" parent="64" relname="comparison"/>
+		<group id="55" type="span" parent="56" relname="comparison"/>
+		<group id="63" type="multinuc" parent="64" relname="comparison"/>
+		<group id="59" type="span" parent="63" relname="comparison"/>
+		<group id="62" type="multinuc" parent="63" relname="comparison"/>
+		<group id="71" type="span" parent="66" relname="elaboration"/>
+		<group id="69" type="multinuc" parent="71" relname="span"/>
+		<group id="97" type="multinuc" parent="98" relname="joint"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="86" type="span" parent="96" relname="comparison"/>
+		<group id="76" type="span" parent="86" relname="span"/>
+		<group id="85" type="span" parent="76" relname="cause-effect"/>
+		<group id="83" type="multinuc" parent="85" relname="span"/>
+		<group id="79" type="span" parent="83" relname="comparison"/>
+		<group id="82" type="span" parent="83" relname="comparison"/>
+		<group id="95" type="multinuc" parent="96" relname="comparison"/>
+		<group id="93" type="multinuc" parent="95" relname="comparison"/>
+		<group id="89" type="span" parent="93" relname="comparison"/>
+		<group id="92" type="multinuc" parent="93" relname="comparison"/>
+		<group id="98" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,67 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="30" parent="32" relname="span">Космодром \"Восточный\" снова в центре скандала: возбуждено уголовное дело о мошенничестве на девять миллионов рублей\n\</segment>
+		<segment id="31" parent="30" relname="elaboration">nОчередное громкое разоблачение случилось на строящемся в Амурской области космодроме \"Восточный\".</segment>
+		<segment id="33" parent="36" relname="attribution">Пресс-служба регионального управления МВД России сообщает</segment>
+		<segment id="34" parent="36" relname="span">о факте мошенничества на девять миллионов рублей</segment>
+		<segment id="35" parent="34" relname="condition">при строительстве объектов в поселке Углегорск (Амурская область),</segment>
+		<segment id="38" parent="40" relname="span">где специально для работников космодрома \"Восточный\" возводится городок,</segment>
+		<segment id="39" parent="38" relname="elaboration">в котором, как предполагается, будут проживать порядка 80 тысяч человек.\n\</segment>
+		<segment id="42" parent="43" relname="attribution">nКак сообщается на сайте регионального управления МВД,</segment>
+		<segment id="43" parent="44" relname="span">факт хищения денежных средств выявлен в ходе проверки строительства космодрома \"Восточный\", проведенной сотрудниками полиции, УФСБ и прокуратуры региона.\n\n\"Установлено, что в 2012 году между федеральным казенным учреждением и одной из подрядных организаций был заключен госконтракт по строительству четырех зданий в поселке Углегорск.</segment>
+		<segment id="45" parent="44" relname="elaboration">По составленным актам о приемке выполненных работ на счета строительной компании оплата поступила полностью.</segment>
+		<segment id="48" parent="49" relname="contrast">Однако из четырех зданий построено было только одно\",</segment>
+		<segment id="50" parent="52" relname="span">- говорится в сообщении.\n\nОтметим, что в пятницу, 27 февраля, объекты строящегося космодрома проинспектирует вице-премьер российского правительства Дмитрий Рогозин,</segment>
+		<segment id="51" parent="50" relname="attribution">об этом он сам сообщил еще 16 февраля на своей странице в Twitter.</segment>
+		<segment id="54" parent="57" relname="attribution">Во время своего последнего визита на Восточный в конце января он заявил,</segment>
+		<segment id="55" parent="57" relname="joint">что строительство космодрома вышло \"на финишную прямую\",</segment>
+		<segment id="56" parent="57" relname="joint">и объявил обратный отсчет до декабря 2015 года.</segment>
+		<segment id="59" parent="67" relname="joint">После чего на сайте Роскосмоса была запущена видеотрансляция того, как идет сооружение космической гавани страны.\n\nНапомним, Главное следственное управление СКР расследует уголовное дело о хищении средств, выделенных из федерального бюджета на строительство объектов космодрома \"Восточный\".</segment>
+		<segment id="60" parent="61" relname="attribution">По версии следствия,</segment>
+		<segment id="61" parent="62" relname="span">в результате незаконных действий бывшего начальника \"Дальспецстроя\" генерал-лейтенанта в отставке Юрия Хризмана в период 2012-2013 годов бюджету РФ был причинен ущерб на сумму не менее 1,8 млрд рублей.</segment>
+		<segment id="63" parent="65" relname="joint">Ему предъявлено обвинение в растрате,</segment>
+		<segment id="64" parent="65" relname="joint">он арестован.\n\nВместе с ним взят под стражу другой фигурант дела - бывший бухгалтер \"Дальспецстроя\" Владимир Ашихмин.</segment>
+		<segment id="68" parent="69" relname="attribution">Ранее в феврале сообщалось, что заместитель начальника одного из строительных управлений \"Дальспецстроя\" был задержан по подозрению в коммерческом подкупе (статья 204 УК РФ).\n\nВ начале февраля глава Счетной палаты РФ Татьяна Голикова оценила</segment>
+		<segment id="69" parent="70" relname="span">объем хищений при строительстве Восточного более чем в 13 млрд рублей.</segment>
+		<segment id="71" parent="73" relname="span">На прошлой неделе стало известно о задержании заместителя начальника одного из строительных управлений \"Дальспецстроя\" Андрея Голуба.</segment>
+		<segment id="72" parent="71" relname="elaboration">Он стал фигурантом уголовного дела о коммерческом подкупе.</segment>
+		<segment id="74" parent="73" relname="elaboration">Речь идет о сумме больше чем в полмиллиона рублей.\n\nИсточник: https://www.newsru.com/russia/25Feb2015/uglegorsk.html\n</segment>
+		<group id="32" type="span" parent="79" relname="preparation"/>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="53" type="span" parent="79" relname="joint"/>
+		<group id="49" type="multinuc" parent="53" relname="span"/>
+		<group id="47" type="multinuc" parent="49" relname="contrast"/>
+		<group id="41" type="span" parent="47" relname="joint"/>
+		<group id="37" type="span" parent="41" relname="span"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="40" type="span" parent="37" relname="elaboration"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="44" type="span" parent="46" relname="span"/>
+		<group id="52" type="span" parent="49" relname="attribution"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="58" type="span" parent="77" relname="preparation"/>
+		<group id="57" type="multinuc" parent="58" relname="span"/>
+		<group id="77" type="multinuc" parent="78" relname="span"/>
+		<group id="67" type="multinuc" parent="77" relname="joint"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="62" type="span" parent="66" relname="joint"/>
+		<group id="65" type="multinuc" parent="66" relname="joint"/>
+		<group id="76" type="multinuc" parent="77" relname="joint"/>
+		<group id="70" type="span" parent="76" relname="joint"/>
+		<group id="75" type="span" parent="76" relname="joint"/>
+		<group id="73" type="span" parent="75" relname="span"/>
+		<group id="80" type="span"/>
+	</body>
+</rst>

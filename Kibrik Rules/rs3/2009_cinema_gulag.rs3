@@ -1,0 +1,72 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="28" parent="79" relname="preparation">Российских школьников обязали штудировать \"Архипелаг ГУЛАГ\"\n\nРоссийские старшеклассники теперь будут в обязательном порядке изучать роман \"Архипелаг ГУЛАГ\" Александра Солженицына.</segment>
+		<segment id="29" parent="32" relname="attribution">Как сообщили в среду в пресс-службе министерства образования и науки РФ,</segment>
+		<segment id="30" parent="32" relname="contrast">\"приказом министра Андрея Фурсенко обязательный минимум основных образовательных программ по русской литературе ХХ века дополнен изучением фрагментов этого романа\".\n\nРанее в школе изучали другие известные произведения Солженицына,</segment>
+		<segment id="31" parent="32" relname="contrast">но не столько фундаментальные - рассказ \"Матренин двор\" и повесть \"Один день Ивана Денисовича\".</segment>
+		<segment id="34" parent="40" relname="span">Что касается \"Архипелага ГУЛАГа\",</segment>
+		<segment id="35" parent="39" relname="span">то раньше в средней школе его изучали лишь на профильном уровне.\n\nТеперь же, после включения романа в федеральный компонент государственных образовательных стандартов среднего образования, изучение фрагментов романа становится обязательным для всех российских старшеклассников,</segment>
+		<segment id="36" parent="38" relname="sequence">пояснили ИТАР-ТАСС в пресс-службе Минобрнауки.\n\nВвести в школьную программу несколько уроков, посвященных творчеству Александра Солженицына,</segment>
+		<segment id="37" parent="38" relname="sequence">предложила вдова писателя Наталья Солженицына на состоявшейся 28 июля встрече с премьер-министром РФ Владимиром Путиным.</segment>
+		<segment id="42" parent="46" relname="span">\"Можно ввести два-три урока.</segment>
+		<segment id="43" parent="44" relname="attribution">Мне кажется,</segment>
+		<segment id="44" parent="45" relname="span">это было бы правильным по отношению к истории страны\",</segment>
+		<segment id="47" parent="46" relname="attribution">- заметила она.\n\</segment>
+		<segment id="50" parent="54" relname="same-unit">nОднако,</segment>
+		<segment id="51" parent="52" relname="attribution">по мнению вдовы писателя,</segment>
+		<segment id="52" parent="53" relname="span">вводить \"Архипелаг ГУЛАГ\" в качестве обязательного произведения для всех школ было бы нереалистично.</segment>
+		<segment id="55" parent="56" relname="attribution">Она также рассказала Путину,</segment>
+		<segment id="56" parent="57" relname="span">что готовит к изданию в России однотомный вариант романа.</segment>
+		<segment id="58" parent="60" relname="span">\"Есть сокращенное издание,</segment>
+		<segment id="59" parent="58" relname="background">так сначала сделали в Америке,</segment>
+		<segment id="61" parent="62" relname="sequence">а потом в других странах для студентов и старших школьников - конденсированный вариант\",</segment>
+		<segment id="63" parent="66" relname="attribution">- напомнила вдова нобелевского лауреата.\n\nСудя по всему, Минобрнауки \"услышало эти слова:</segment>
+		<segment id="64" parent="65" relname="attribution">в приказе министра четко говорится,</segment>
+		<segment id="65" parent="66" relname="span">что речь идет об изучении именно фрагментов \"Архипелага ГУЛАГа\".</segment>
+		<segment id="69" parent="73" relname="span">Кроме того, еще осенью прошлого года министерство направило в российские школы методические рекомендации,</segment>
+		<segment id="70" parent="72" relname="joint">согласно которым было расширено изучение творческого и историко-культурного наследия Солженицына,</segment>
+		<segment id="71" parent="72" relname="joint">как на уроках литературы, русского языка и развития речи, так и в курсе отечественной истории ХХ - начала ХХI веков.\n\nПрославленный русский писатель Александр Солженицын ушел из жизни 3 августа 2008 года в возрасте 89 лет.</segment>
+		<segment id="74" parent="75" relname="sequence">В настоящее время в России издается самое полное 30-томное собрание сочинений писателя.\n\nИсточник: https://www.newsru.com/cinema/09Sep2009/gulag.html\n</segment>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="49" type="span" parent="79" relname="joint"/>
+		<group id="41" type="span" parent="49" relname="span"/>
+		<group id="33" type="span" parent="41" relname="span"/>
+		<group id="32" type="multinuc" parent="33" relname="span"/>
+		<group id="40" type="span" parent="33" relname="elaboration"/>
+		<group id="39" type="span" parent="34" relname="elaboration"/>
+		<group id="38" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="48" type="span" parent="41" relname="interpretation-evaluation"/>
+		<group id="46" type="span" parent="48" relname="span"/>
+		<group id="45" type="span" parent="42" relname="interpretation-evaluation"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="54" type="multinuc" parent="78" relname="joint"/>
+		<group id="53" type="span" parent="54" relname="same-unit"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="57" type="span" parent="77" relname="span"/>
+		<group id="76" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="68" type="span" parent="76" relname="joint"/>
+		<group id="62" type="multinuc" parent="68" relname="span"/>
+		<group id="60" type="span" parent="62" relname="sequence"/>
+		<group id="67" type="span" parent="62" relname="attribution"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="73" type="span" parent="75" relname="sequence"/>
+		<group id="72" type="multinuc" parent="69" relname="elaboration"/>
+		<group id="80" type="span"/>
+	</body>
+</rst>

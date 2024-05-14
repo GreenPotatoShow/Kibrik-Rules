@@ -1,0 +1,85 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="35" relname="span">В России может появиться финансовый омбудсмен,</segment>
+		<segment id="34" parent="33" relname="purpose">чтобы решать споры между банками и клиентами без суда\n\nАссоциация региональных банков выступила с идеей учреждения института уполномоченного по защите прав банковских клиентов, или финансового омбудсмена.</segment>
+		<segment id="36" parent="38" relname="span">Этот проект можно будет запустить уже в следующем году,</segment>
+		<segment id="37" parent="36" relname="attribution">считает вице-президент ассоциации Олег Иванов.</segment>
+		<segment id="40" parent="42" relname="contrast">Идею поддержали Международная конфедерация обществ потребителей (КонфОП) и Ассоциация юристов.\n\nДля граждан услуги посредников будут бесплатными,</segment>
+		<segment id="41" parent="42" relname="contrast">а их решения - независимыми,</segment>
+		<segment id="43" parent="42" relname="attribution">сказал Иванов \"Российской газете\".</segment>
+		<segment id="45" parent="44" relname="purpose">Это позволит разрешать возникающие конфликты гораздо быстрее и с меньшими затратами для обеих сторон.\n\</segment>
+		<segment id="47" parent="49" relname="span">nСейчас,</segment>
+		<segment id="48" parent="47" relname="attribution">поясняет Иванов,</segment>
+		<segment id="50" parent="51" relname="span">недовольные поведением банков граждане обращаются сразу в несколько инстанций - Роспотребнадзор, Центробанк, общество защиты прав потребителей.</segment>
+		<segment id="52" parent="92" relname="joint">Определить, кто прав - банк или клиент, - могут только суды, которые завалены такими делами.\n\</segment>
+		<segment id="53" parent="54" relname="cause-effect">nТолько в 2009 году было подано 25 тысяч исков, связанных с защитой прав потребителей в сфере финансовых услуг.</segment>
+		<segment id="54" parent="55" relname="span">Решения по ним приходится ждать месяцами.\n\</segment>
+		<segment id="56" parent="60" relname="joint">nЧтобы клиенты и банк могли урегулировать спор до суда,</segment>
+		<segment id="57" parent="59" relname="joint">нужен независимый арбитр,</segment>
+		<segment id="58" parent="59" relname="joint">чью роль и должен выполнять омбудсмен.</segment>
+		<segment id="61" parent="60" relname="elaboration">Его услуги для граждан будут бесплатными.</segment>
+		<segment id="63" parent="65" relname="span">Скорость рассмотрения споров займет от силы два-три месяца,</segment>
+		<segment id="64" parent="63" relname="cause-effect">потому что работать арбитр сможет дистанционно.\n\nСхема предполагается следующая:</segment>
+		<segment id="66" parent="70" relname="span">омбудсмен получает жалобу от клиента банка,</segment>
+		<segment id="67" parent="69" relname="span">направляет ее</segment>
+		<segment id="68" parent="67" relname="purpose">для выставления контраргументов в кредитную организацию,</segment>
+		<segment id="71" parent="72" relname="sequence">затем знакомит с ответом жалобщика.</segment>
+		<segment id="74" parent="88" relname="joint">И на основе трех документов - первого обращения, разъяснений банка и последнего ответа клиента, а также действующего законодательства выносит вердикт.\n\</segment>
+		<segment id="75" parent="79" relname="sequence">nПредполагается, что на первом этапе омбудсмен будет решать споры в сфере потребительского кредитования,</segment>
+		<segment id="76" parent="78" relname="span">затем поле деятельности расширят</segment>
+		<segment id="77" parent="76" relname="cause-effect">за счет конфликтов, связанных с депозитами, а потом - и споров, касающихся управления ценными бумагами.\n\</segment>
+		<segment id="80" parent="83" relname="attribution">nПо словам Иванова,</segment>
+		<segment id="81" parent="83" relname="span">на первом этапе к проекту готовы добровольно присоединиться два десятка банков,</segment>
+		<segment id="82" parent="81" relname="condition">занимающие 95 процентов на рынке кредитования без учета Сбербанка.</segment>
+		<segment id="85" parent="86" relname="comparison">Впоследствии количество участников может вырасти до 200-300 кредитных организаций.\n\nИсточник: https://www.newsru.com/finance/15Jun2010/banki.html\n</segment>
+		<group id="39" type="span" parent="94" relname="preparation"/>
+		<group id="35" type="span" parent="39" relname="span"/>
+		<group id="38" type="span" parent="35" relname="elaboration"/>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="46" type="span" parent="94" relname="joint"/>
+		<group id="44" type="span" parent="46" relname="span"/>
+		<group id="42" type="multinuc" parent="44" relname="span"/>
+		<group id="93" type="span" parent="94" relname="joint"/>
+		<group id="51" type="span" parent="93" relname="span"/>
+		<group id="49" type="span" parent="50" relname="attribution"/>
+		<group id="92" type="multinuc" parent="51" relname="evidence"/>
+		<group id="91" type="span" parent="92" relname="joint"/>
+		<group id="55" type="span" parent="90" relname="preparation"/>
+		<group id="90" type="span" parent="91" relname="span"/>
+		<group id="62" type="span" parent="90" relname="span"/>
+		<group id="60" type="multinuc" parent="62" relname="span"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="89" type="multinuc" parent="62" relname="evidence"/>
+		<group id="73" type="span" parent="89" relname="joint"/>
+		<group id="65" type="span" parent="72" relname="cause-effect"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="70" type="span" parent="72" relname="sequence"/>
+		<group id="69" type="span" parent="66" relname="purpose"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="87" type="span" parent="88" relname="joint"/>
+		<group id="79" type="multinuc" parent="87" relname="span"/>
+		<group id="78" type="span" parent="79" relname="sequence"/>
+		<group id="86" type="multinuc" parent="79" relname="elaboration"/>
+		<group id="84" type="span" parent="86" relname="comparison"/>
+		<group id="83" type="span" parent="84" relname="span"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

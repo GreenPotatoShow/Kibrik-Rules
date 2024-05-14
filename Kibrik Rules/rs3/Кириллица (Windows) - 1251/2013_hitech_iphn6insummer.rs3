@@ -1,0 +1,67 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="31" relname="preparation">Слух:</segment>
+		<segment id="27" parent="31" relname="joint">новый iPhone выйдет летом,</segment>
+		<segment id="28" parent="30" relname="contrast">а не осенью\n\nApple выпустит следующую модель смартфона iPhone летом 2013 года,</segment>
+		<segment id="29" parent="30" relname="contrast">а не осенью, как ожидалось ранее.</segment>
+		<segment id="33" parent="32" relname="cause-effect">Агентство Associated Press и газета The Wall Street Journal узнали об этом из собственных анонимных источников в \"яблочной\" корпорации.</segment>
+		<segment id="35" parent="37" relname="span">Модно предположить, что новая версия модного i-устройства будет оснащена более современными компонентами, например, новым процессором или камерой.\n\</segment>
+		<segment id="36" parent="35" relname="elaboration">nОфициально представители Apple информацию о сроках выхода гаджета традиционно не комментируют.</segment>
+		<segment id="38" parent="41" relname="attribution">Предыдущие модели iPhone компания всегда выпускала осенью.\n\nАнонимные источники также подтвердили слухи о том,</segment>
+		<segment id="39" parent="41" relname="span">что Apple ведет разработку еще одной, более дешевой модели iPhone,</segment>
+		<segment id="40" parent="39" relname="purpose">предназначенной в основном для рынков развивающихся стран,</segment>
+		<segment id="43" parent="42" relname="attribution">сообщает РБК.</segment>
+		<segment id="46" parent="72" relname="span">Презентация бюджетной версии может состояться во второй половине этого года.\n\</segment>
+		<segment id="47" parent="50" relname="attribution">nРанее аналитики предсказывали</segment>
+		<segment id="48" parent="50" relname="span">подобный ход компании,</segment>
+		<segment id="49" parent="48" relname="cause-effect">после того как продажи последней модели iPhone начали падать</segment>
+		<segment id="52" parent="56" relname="span">из-за сильной конкуренцию со стороны производителей Android-смартфонов,</segment>
+		<segment id="53" parent="55" relname="span">большинство которых стоит дешевле даже более ранних моделей iPhone.\n\nГлавным конкурентом iPhone является линейка смартфонов Galaxy южнокорейской компании Samsung.\n\nПервые сообщения о том, что Apple тестирует iPhone следующего поколения,</segment>
+		<segment id="54" parent="53" relname="background">появились в Сети и некоторых СМИ в начале января 2013 года.</segment>
+		<segment id="58" parent="60" relname="span">Поводом к подобным предположениям стали свидетельства блогеров,</segment>
+		<segment id="59" parent="58" relname="background">которые обнаружили в своих приложениях логи, относящиеся к смартфону с идентификатором iPhone 6.1,</segment>
+		<segment id="61" parent="60" relname="elaboration">использующему операционную систему iOS 7,</segment>
+		<segment id="63" parent="62" relname="elaboration">причем запросы поступали с IP-адресов штаб-квартиры Apple в Купертино.\n\</segment>
+		<segment id="65" parent="68" relname="attribution">nПо прогнозам экспертов,</segment>
+		<segment id="66" parent="68" relname="span">новый iPhone будет оборудован гибким экраном,</segment>
+		<segment id="67" parent="66" relname="elaboration">который сможет выполнять функции динамика и микрофона одновременно.\n\nИсточник: https://www.newsru.com/hitech/03Apr2013/iphn6insummer.html\n</segment>
+		<group id="34" type="span" parent="73" relname="preparation"/>
+		<group id="32" type="span" parent="34" relname="span"/>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="30" type="multinuc" parent="31" relname="joint"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="45" type="multinuc" parent="73" relname="joint"/>
+		<group id="37" type="span" parent="45" relname="joint"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="42" type="span" parent="44" relname="span"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="71" type="multinuc" parent="46" relname="elaboration"/>
+		<group id="57" type="span" parent="71" relname="joint"/>
+		<group id="51" type="span" parent="57" relname="span"/>
+		<group id="50" type="span" parent="51" relname="span"/>
+		<group id="56" type="span" parent="51" relname="cause-effect"/>
+		<group id="55" type="span" parent="52" relname="elaboration"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="64" type="span" parent="70" relname="joint"/>
+		<group id="62" type="span" parent="64" relname="span"/>
+		<group id="60" type="span" parent="62" relname="span"/>
+		<group id="69" type="span" parent="70" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="74" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,86 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="36" parent="103" relname="preparation">Путин заморозил на год зарплаты чиновников, в том числе из администрации президента и правительства\n\</segment>
+		<segment id="37" parent="39" relname="span">nПрезидент России Владимир Путин во вторник подписал закон,</segment>
+		<segment id="38" parent="37" relname="background">который приостанавливает индексацию зарплат ряда чиновников в 2015 году,</segment>
+		<segment id="40" parent="39" relname="attribution">сообщает ТАСС.</segment>
+		<segment id="42" parent="47" relname="attribution">Согласно документу,</segment>
+		<segment id="45" parent="46" relname="cause-effect">до 1 января 2016 года будут заморожены зарплаты сотрудников администрации президента РФ, аппарата правительства РФ, Счетной палаты РФ, центрального аппарата Министерства иностранных дел РФ и его территориальных органов.\n\nКак указали авторы инициативы, денежное содержание этих категорий госчиновников ранее индексировалось с опережением инфляции,</segment>
+		<segment id="46" parent="47" relname="span">в связи с чем в дальнейшем увеличении их зарплат в 2015 году нет необходимости.</segment>
+		<segment id="49" parent="50" relname="attribution">В документе отмечается,</segment>
+		<segment id="50" parent="51" relname="span">что оклады других категорий бюджетников будут проиндексированы.</segment>
+		<segment id="52" parent="51" relname="elaboration">На эти цели в бюджете на следующий год заложено 80 млрд рублей.\n\</segment>
+		<segment id="55" parent="58" relname="attribution">nНакануне первый зампред Центробанка Ксения Юдаева заявила,</segment>
+		<segment id="56" parent="58" relname="contrast">что инфляция в стране по итогам года превысит 9%,</segment>
+		<segment id="57" parent="58" relname="contrast">но пик ее роста еще не пройден.</segment>
+		<segment id="60" parent="61" relname="attribution">По оценкам Юдаевой,</segment>
+		<segment id="61" parent="62" relname="span">в первом квартале инфляция может приблизиться к 10%.</segment>
+		<segment id="63" parent="64" relname="attribution">По последним данным,</segment>
+		<segment id="64" parent="65" relname="span">инфляция в России в настоящее время составляет примерно 8,9%.\n\n- В образцовой Кировской области начали сокращать зарплаты бюджетников\n\</segment>
+		<segment id="67" parent="99" relname="span">nНедавно Росстат отчитывался по размеру зарплат чиновников.</segment>
+		<segment id="68" parent="71" relname="attribution">По данным ведомства,</segment>
+		<segment id="69" parent="71" relname="joint">за девять месяцев этого года среднемесячная заработная плата чиновников федеральных органов власти выросла на 18,3% по сравнению с аналогичным периодом прошлого года</segment>
+		<segment id="70" parent="71" relname="joint">и составила 96,5 тысячи рублей.</segment>
+		<segment id="73" parent="79" relname="comparison">При этом размер средней зарплаты в РФ за то же время достиг 31,6 тыс. рублей,</segment>
+		<segment id="74" parent="78" relname="comparison">увеличившись за год примерно на 9%.\n\nПо статистике, с января по сентябрь сотрудники АП получали самую большую среднемесячную зарплату - 216,4 тысячи рублей</segment>
+		<segment id="75" parent="77" relname="comparison">(на 13,8% больше, чем год назад).\n\nВторое место по величине зарплат заняли сотрудники аппарата правительства</segment>
+		<segment id="76" parent="77" relname="comparison">- их средняя зарплата составила 200,4 тысячи рублей (на 8,5% больше).</segment>
+		<segment id="81" parent="83" relname="span">Третьими в списке стали чиновники Счетной палаты</segment>
+		<segment id="82" parent="81" relname="elaboration">- в среднем за девять месяцев года они получали 122,2 тысячи рублей (на 16,3% больше).</segment>
+		<segment id="84" parent="86" relname="span">В Совете Федерации средняя оплата труда сотрудников достигла чуть больше 120 тысяч рублей</segment>
+		<segment id="85" parent="84" relname="elaboration">(рост на 24,4%).\n\nПо данным Росстата,</segment>
+		<segment id="87" parent="88" relname="comparison">за последние пять лет зарплата чиновников в федеральных государственных органах власти выросла на 36,5%.</segment>
+		<segment id="89" parent="91" relname="comparison">Зарплаты работников администрации президента повысились выше на 74%,</segment>
+		<segment id="90" parent="91" relname="comparison">работники аппарата правительства стали получать на 60% больше.\n\nСамыми высокооплачиваемыми были признаны чиновники Москвы, Чукотки, Тюменской и Магаданской областей.</segment>
+		<segment id="92" parent="94" relname="comparison">Самый большой рост зарплат чиновников был зафиксирован в Кабардино-Балкарии и Чечне</segment>
+		<segment id="93" parent="94" relname="comparison">- на 70-80% больше, чем раньше.\n\nИсточник: https://www.newsru.com/russia/02Dec2014/zarplaty.html\n</segment>
+		<group id="103" type="span" parent="104" relname="span"/>
+		<group id="41" type="span" parent="102" relname="preparation"/>
+		<group id="39" type="span" parent="41" relname="span"/>
+		<group id="102" type="multinuc" parent="103" relname="span"/>
+		<group id="54" type="multinuc" parent="102" relname="joint"/>
+		<group id="48" type="span" parent="54" relname="comparison"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="53" type="span" parent="54" relname="comparison"/>
+		<group id="51" type="span" parent="53" relname="span"/>
+		<group id="101" type="multinuc" parent="102" relname="joint"/>
+		<group id="59" type="span" parent="101" relname="joint"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="100" type="multinuc" parent="101" relname="joint"/>
+		<group id="66" type="multinuc" parent="100" relname="joint"/>
+		<group id="62" type="span" parent="66" relname="comparison"/>
+		<group id="65" type="span" parent="66" relname="comparison"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="98" type="multinuc" parent="67" relname="evidence"/>
+		<group id="80" type="multinuc" parent="98" relname="joint"/>
+		<group id="72" type="span" parent="80" relname="joint"/>
+		<group id="71" type="multinuc" parent="72" relname="span"/>
+		<group id="79" type="multinuc" parent="80" relname="joint"/>
+		<group id="78" type="multinuc" parent="79" relname="comparison"/>
+		<group id="77" type="multinuc" parent="78" relname="comparison"/>
+		<group id="97" type="multinuc" parent="98" relname="joint"/>
+		<group id="83" type="span" parent="97" relname="comparison"/>
+		<group id="96" type="multinuc" parent="97" relname="comparison"/>
+		<group id="88" type="multinuc" parent="96" relname="comparison"/>
+		<group id="86" type="span" parent="88" relname="comparison"/>
+		<group id="95" type="multinuc" parent="96" relname="comparison"/>
+		<group id="91" type="multinuc" parent="95" relname="comparison"/>
+		<group id="94" type="multinuc" parent="95" relname="comparison"/>
+		<group id="104" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,58 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="restatement" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="27" relname="span">Обманутые дольщики ЖК Минобороны митингуют у мэрии Москвы\n\nГруппа обманутых соинвесторов\nстроительства жилья проводит в четверг днем несанкционированный митинг у здания мэрии Москвы.\n\n\"Сейчас около 30 обманутых дольщиков жилого комплекса министерства\nобороны \"Московские окна\" проводят несанкционированный митинг у здания\nмэрии Москвы на Тверской улице\",</segment>
+		<segment id="22" parent="25" relname="attribution">- сообщил агентству \"Интерфакс\" координатор\nдвижения \"Однодольщики\" Игорь Гульев.\n\nОн отметил,</segment>
+		<segment id="23" parent="25" relname="restatement">что у дольщиков поверх одежды одинаковые майки.\n\"Собравшиеся хором просят столичного градоначальника помочь в\nрешении проблем,</segment>
+		<segment id="24" parent="25" relname="restatement">выкрикивая: \"Собянин, помоги!\",</segment>
+		<segment id="28" parent="45" relname="attribution">- рассказал координатор движения.\n\nОн отметил,</segment>
+		<segment id="29" parent="36" relname="cause-effect">что полиция, не вмешиваясь, наблюдает за происходящим.\nВместе с тем в пресс-службе ГУ МВД России по Москве сообщили,</segment>
+		<segment id="30" parent="32" relname="span">что в четверг днем группа граждан из 15 человек пришла к\nзданию мэрии,</segment>
+		<segment id="31" parent="30" relname="purpose">чтобы подать письмо.\n\n\"Один из пришедших зашел в здание,</segment>
+		<segment id="33" parent="35" relname="joint">чтобы передать письмо,</segment>
+		<segment id="34" parent="35" relname="joint">а его\nтоварищи ждут на улице.</segment>
+		<segment id="38" parent="44" relname="span">Обстановка на месте спокойная\",</segment>
+		<segment id="39" parent="42" relname="attribution">- сказали в\nпресс-службе.\n\nКак напоминает Каспаров.ru\",</segment>
+		<segment id="40" parent="42" relname="span">проект ЖК \"Московские окна\",</segment>
+		<segment id="41" parent="40" relname="elaboration">заказчиком строительства которого является Министерство Обороны РФ, стартовал в 2004 году.</segment>
+		<segment id="48" parent="58" relname="span">Комплекс планировалось возвести на деньги частных инвесторов, с обременением в пользу ведомства в размере 30% площадей (примерно 200 квартир).</segment>
+		<segment id="49" parent="51" relname="span">Таким образом, каждый третий рубль оплаченный гражданами должен был идти на строительство квартир для семей военнослужащих.\n\nВ декабре 2009 года люди, полностью оплатившие квартиры,</segment>
+		<segment id="50" parent="49" relname="elaboration">должны были получить их в собственность,</segment>
+		<segment id="52" parent="56" relname="span">однако этого не произошло,</segment>
+		<segment id="53" parent="55" relname="joint">так как строительство, как и на всех объектах ведомства,</segment>
+		<segment id="54" parent="55" relname="joint">началось без должного оформления земельно-правовых отношений, проектной документации и летом 2008 года было остановлено.\n\n\"Причин, по которым многие из нас остались у разбитого корыта - ни жилья, ни денег, много - это и недобросовестный инвестор-застройщик \"NBM - Стройсервис\", \"Глобинвестстрой\", и бардак в Министерстве обороны, и несовершенство законодательства, и безответственность чиновников\", - отмечается на сайте дольщиков \"Московских окон\".\n\nИсточник: https://www.newsru.com/realty/29Mar2012/msk_okna.html\n</segment>
+		<group id="47" type="multinuc" parent="59" relname="span"/>
+		<group id="27" type="span" parent="47" relname="joint"/>
+		<group id="26" type="span" parent="21" relname="attribution"/>
+		<group id="25" type="multinuc" parent="26" relname="span"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="span"/>
+		<group id="37" type="span" parent="45" relname="joint"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="32" type="span" parent="36" relname="span"/>
+		<group id="35" type="multinuc" parent="32" relname="purpose"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="43" type="span" parent="38" relname="attribution"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="58" type="span" parent="47" relname="background"/>
+		<group id="57" type="multinuc" parent="48" relname="elaboration"/>
+		<group id="51" type="span" parent="57" relname="contrast"/>
+		<group id="56" type="span" parent="57" relname="contrast"/>
+		<group id="55" type="multinuc" parent="52" relname="evidence"/>
+		<group id="59" type="span"/>
+	</body>
+</rst>

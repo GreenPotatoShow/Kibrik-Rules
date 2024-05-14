@@ -1,0 +1,107 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="45" parent="49" relname="span">\"Роскомсвобода\" подала иск об отмене указа мэра Москвы о сборе данных переведенных на удаленную работу сотрудников\n\nОбщественная организация \"Роскомсвобода\" совместно с Фондом развития цифровых прав подала в Мосгорсуд иск к мэрии Москвы с требованием частично отменить указ мэра Москвы Сергея Собянина о мерах по борьбе с распространением коронавируса,</segment>
+		<segment id="46" parent="48" relname="joint">который среди прочего обязывает работодателей перевести на \"удаленку\" 30% сотрудников</segment>
+		<segment id="47" parent="48" relname="joint">и передавать в мэрию их данные.</segment>
+		<segment id="50" parent="51" relname="joint">Подробности об иске изложены на сайте \"Роскомсвободы\".\n\nНапомним, указ обязывает работодателей передавать данные о сотрудниках еженедельно в электронном виде с использованием личного кабинета юридического лица, индивидуального предпринимателя на официальном сайте мэра и Правительства Москвы.</segment>
+		<segment id="52" parent="55" relname="attribution">Пункт 2.1 указа гласит,</segment>
+		<segment id="53" parent="55" relname="joint">что передаче подлежат номера мобильных телефонов, регистрационные номера машин, номера электронных карт \"Тройка\" и \"Стрелка\", номера социальных карт и безлимитных проездных.\n\nЮристы \"Роскомсвободы\" считают,</segment>
+		<segment id="54" parent="55" relname="joint">что требования мэрии противоречат Трудовому кодексу РФ и федеральным закона о персональных данных и об организации предоставления государственных и муниципальных услуг.</segment>
+		<segment id="57" parent="60" relname="attribution">Так, в законе о персональных данных говорится,</segment>
+		<segment id="58" parent="60" relname="joint">что обработка персональных данных должна осуществляться на законной и справедливой основе</segment>
+		<segment id="59" parent="60" relname="joint">и должна ограничиваться достижением конкретных, заранее определенных и законных целей.</segment>
+		<segment id="62" parent="64" relname="span">Кроме того, закон запрещает объединение баз данных, содержащих персональные данные,</segment>
+		<segment id="63" parent="62" relname="elaboration">обработка которых осуществляется в целях, несовместимых между собой,</segment>
+		<segment id="65" parent="66" relname="joint">уточняя, что содержание и объем обрабатываемых персональных данных должны соответствовать заявленным целям обработки.</segment>
+		<segment id="67" parent="66" relname="elaboration">Обрабатываемые персональные данные при этом не должны быть избыточными по отношению к заявленным целям.\n\</segment>
+		<segment id="69" parent="71" relname="span">nМежду тем в указе Собянина не установлена цель обработки сведений о работниках,</segment>
+		<segment id="70" parent="69" relname="purpose">что не позволяет оценить необходимый для достижения этой цели объем персональных данных.</segment>
+		<segment id="72" parent="78" relname="span">Помимо этого, в документе не указано, кто является оператором сведений о работниках.</segment>
+		<segment id="73" parent="77" relname="span">На этом и других основаниях истцы требуют признать недействующим с момента принятия указа пункт о сборе и передаче данных сотрудников работодателями в мэрию Москвы.\n\n\"Новый указ Собянина - это очередной удар по сфере приватности москвичей.</segment>
+		<segment id="74" parent="76" relname="contrast">Указ не только подрывает все установленные законом принципы обработки персональных данных,</segment>
+		<segment id="75" parent="76" relname="contrast">но это еще и ловушка для всех московских работодателей.</segment>
+		<segment id="80" parent="82" relname="joint">Непредставление отчета может повлечь привлечение работодателя к административной ответственности.</segment>
+		<segment id="81" parent="82" relname="joint">При этом слив данных третьим лицам без какой-либо понятной в самом указе цели может закончиться для работодателя исками от работников\",</segment>
+		<segment id="83" parent="92" relname="attribution">- отметил глава юридической практики \"Роскомсвободы\" Саркис Дарбинян.\n\nДарбинян напомнил,</segment>
+		<segment id="84" parent="91" relname="attribution">что в мэрии отрицают,</segment>
+		<segment id="85" parent="91" relname="contrast">что собираемые в рамках указа являются персональными,</segment>
+		<segment id="86" parent="90" relname="same-unit">однако,</segment>
+		<segment id="87" parent="88" relname="attribution">по мнению юриста,</segment>
+		<segment id="88" parent="89" relname="span">это заявление является \"абсолютным искажением смыслов\".</segment>
+		<segment id="94" parent="98" relname="joint">\"Нет никаких сомнений, что собираемые данные - персональные</segment>
+		<segment id="95" parent="97" relname="joint">и они будут использованы как против самих граждан, так и против их работодателей,</segment>
+		<segment id="96" parent="97" relname="joint">не выполнивших требования указа мэра по \"удаленке\".</segment>
+		<segment id="99" parent="100" relname="condition">И если все же мэрия не считает эти данные персональными,</segment>
+		<segment id="100" parent="101" relname="span">то и соответствующего уровня охраны она им не предоставит\",</segment>
+		<segment id="102" parent="101" relname="attribution">подчеркнул Дарбинян,</segment>
+		<segment id="105" parent="110" relname="attribution">отметив,</segment>
+		<segment id="106" parent="109" relname="attribution">что указ содержит массу противоречий.\n\nВ \"Роскомсвободе\" добавили,</segment>
+		<segment id="107" parent="109" relname="span">что считают многие шаги властей по контролю за соблюдением гражданами введенных</segment>
+		<segment id="108" parent="107" relname="cause-effect">из-за пандемии ограничений избыточными.</segment>
+		<segment id="112" parent="116" relname="joint">Такие меры грубо нарушают права россиян,</segment>
+		<segment id="113" parent="115" relname="joint">противоречат законодательству и здравому смыслу</segment>
+		<segment id="114" parent="115" relname="joint">и направлены на создание \"Большого брата\" в Москве и по всей стране.</segment>
+		<segment id="118" parent="122" relname="joint">В связи с этим в организации призвали столичных предпринимателей присоединиться к иску.\n\nРанее крупнейшие профильные IT-ассоциации - \"Руссофт\", АПКИТ и АРПП \"Отечественный софт\" - попросили главу Минцифры Максута Шадаева предложить мэрии Москвы пересмотреть требования к предоставлению информации о сотрудниках, переведенных на удаленную работу по требованию столичных властей.</segment>
+		<segment id="119" parent="121" relname="contrast">В обращении говорилось о незаконности требования о предоставлении персональных данных сотрудников,</segment>
+		<segment id="120" parent="121" relname="contrast">но в Минцифры претензии представителей отрасли к мэрии не поддержали.\n\nИсточник: https://www.newsru.com/hitech/16Oct2020/udalenka.html\n</segment>
+		<group id="51" type="multinuc" parent="131" relname="joint"/>
+		<group id="49" type="span" parent="51" relname="joint"/>
+		<group id="48" type="multinuc" parent="45" relname="elaboration"/>
+		<group id="130" type="span" parent="131" relname="joint"/>
+		<group id="56" type="span" parent="129" relname="preparation"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="129" type="span" parent="130" relname="span"/>
+		<group id="61" type="span" parent="128" relname="preparation"/>
+		<group id="60" type="multinuc" parent="61" relname="span"/>
+		<group id="128" type="span" parent="129" relname="span"/>
+		<group id="68" type="span" parent="127" relname="preparation"/>
+		<group id="66" type="multinuc" parent="68" relname="span"/>
+		<group id="64" type="span" parent="66" relname="joint"/>
+		<group id="127" type="multinuc" parent="128" relname="span"/>
+		<group id="79" type="multinuc" parent="127" relname="joint"/>
+		<group id="71" type="span" parent="79" relname="contrast"/>
+		<group id="78" type="span" parent="79" relname="contrast"/>
+		<group id="77" type="span" parent="72" relname="elaboration"/>
+		<group id="76" type="multinuc" parent="73" relname="elaboration"/>
+		<group id="126" type="multinuc" parent="127" relname="joint"/>
+		<group id="82" type="multinuc" parent="126" relname="joint"/>
+		<group id="125" type="multinuc" parent="126" relname="joint"/>
+		<group id="93" type="span" parent="125" relname="joint"/>
+		<group id="92" type="span" parent="93" relname="span"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="90" type="multinuc" parent="91" relname="contrast"/>
+		<group id="89" type="span" parent="90" relname="same-unit"/>
+		<group id="124" type="multinuc" parent="125" relname="joint"/>
+		<group id="104" type="multinuc" parent="124" relname="joint"/>
+		<group id="98" type="multinuc" parent="104" relname="joint"/>
+		<group id="97" type="multinuc" parent="98" relname="joint"/>
+		<group id="103" type="span" parent="104" relname="joint"/>
+		<group id="101" type="span" parent="103" relname="span"/>
+		<group id="123" type="span" parent="124" relname="joint"/>
+		<group id="117" type="span" parent="122" relname="cause-effect"/>
+		<group id="111" type="span" parent="117" relname="span"/>
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="109" type="span" parent="110" relname="span"/>
+		<group id="116" type="multinuc" parent="111" relname="elaboration"/>
+		<group id="115" type="multinuc" parent="116" relname="joint"/>
+		<group id="122" type="multinuc" parent="123" relname="span"/>
+		<group id="121" type="multinuc" parent="122" relname="joint"/>
+		<group id="131" type="multinuc"/>
+	</body>
+</rst>

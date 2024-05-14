@@ -1,0 +1,66 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="30" relname="span">Эдуард Лимонов: \"Свершилось\"\n\n\"Деятельность самозванных лидеров была ошибочной от начала до конца, одни ошибки.</segment>
+		<segment id="27" parent="29" relname="joint">Стратегии не было никакой,</segment>
+		<segment id="28" parent="29" relname="joint">тактика состояла из уступок власти.</segment>
+		<segment id="31" parent="73" relname="joint">За победу приняли количество вышедших на улицу граждан.</segment>
+		<segment id="32" parent="46" relname="joint">Поспешили порвать с радикальной частью оппозиции, то-есть с моими сторонниками.</segment>
+		<segment id="33" parent="39" relname="same-unit">Следуя импульсам прославленного российского нигилизма провозгласили этакое \"беспоповство\" в оппозиции,</segment>
+		<segment id="34" parent="38" relname="joint">командиры не нужны,</segment>
+		<segment id="35" parent="37" relname="joint">нужна толпа дилетантов, второстепенных писателей и телеперсонажей,</segment>
+		<segment id="36" parent="37" relname="joint">разбирающихся в политике как свиньи в апельсинах.\nПоследняя ошибка ;</segment>
+		<segment id="40" parent="42" relname="joint">взялись тягаться с властью на том поле</segment>
+		<segment id="41" parent="42" relname="joint">,где власть заведомо сильнее,</segment>
+		<segment id="43" parent="44" relname="joint">взялись доказать фальсификации на выборах.</segment>
+		<segment id="47" parent="48" relname="condition">Ну если и докажут,</segment>
+		<segment id="48" parent="49" relname="span">даже предположим недостоверность 50 тысяч голосов,</segment>
+		<segment id="50" parent="51" relname="span">это капля в море,</segment>
+		<segment id="52" parent="54" relname="span">это если в процентах - сотая доля,\nЗатратили столько средств,</segment>
+		<segment id="53" parent="52" relname="condition">ловя одиночных блох на участках,</segment>
+		<segment id="55" parent="56" relname="span">вовлекли огромное количество людей в наблюдатели,</segment>
+		<segment id="57" parent="61" relname="span">тогда как нужно было сосредоточиться на очевидном, на лежащем на поверхности, уже имеющемся доказательстве нелигитимности выборов,</segment>
+		<segment id="58" parent="60" relname="joint">на том что семь независимых кандидатов в президенты не были допущены к выборам</segment>
+		<segment id="59" parent="60" relname="joint">.\nПутин щеголяет своим большинством,</segment>
+		<segment id="62" parent="63" relname="contrast">но это большинство было добыто отстранением от выборов семерых соперников.</segment>
+		<segment id="66" parent="70" relname="span">Вот как надо было подавать тему</segment>
+		<segment id="67" parent="69" relname="contrast">.Просто как в арифметике,</segment>
+		<segment id="68" parent="69" relname="contrast">но не допетрили\"\n\nИсточник: https://www.newsru.com/blog/05Mar2012/svershilos.html\n</segment>
+		<group id="30" type="span" parent="73" relname="preparation"/>
+		<group id="29" type="multinuc" parent="26" relname="interpretation-evaluation"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="46" type="multinuc" parent="72" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="39" type="multinuc" parent="45" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="same-unit"/>
+		<group id="37" type="multinuc" parent="38" relname="joint"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="42" type="multinuc" parent="44" relname="joint"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="65" type="multinuc" parent="71" relname="span"/>
+		<group id="51" type="span" parent="65" relname="contrast"/>
+		<group id="49" type="span" parent="50" relname="condition"/>
+		<group id="64" type="span" parent="65" relname="contrast"/>
+		<group id="56" type="span" parent="63" relname="condition"/>
+		<group id="54" type="span" parent="55" relname="condition"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="61" type="span" parent="63" relname="contrast"/>
+		<group id="60" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="70" type="span" parent="65" relname="interpretation-evaluation"/>
+		<group id="69" type="multinuc" parent="66" relname="elaboration"/>
+		<group id="74" type="span"/>
+	</body>
+</rst>

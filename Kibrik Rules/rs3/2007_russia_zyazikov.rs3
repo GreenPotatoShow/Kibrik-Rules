@@ -1,0 +1,135 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="60" parent="175" relname="preparation">В Ингушетии найден похищенный полгода назад дядя президента Зязикова\n\</segment>
+		<segment id="61" parent="63" relname="span">nВ Ингушетии освобожден дядя президента республики Урусхан Зязиков,</segment>
+		<segment id="62" parent="61" relname="background">которого дерзко похитили более полугода назад.</segment>
+		<segment id="64" parent="67" relname="condition">Причем правоохранительные органы пока не могут договориться,</segment>
+		<segment id="65" parent="67" relname="joint">было ли освобождение дяди результатом переговоров,</segment>
+		<segment id="66" parent="67" relname="joint">либо его случайно нашли сотрудники милиции.\n\</segment>
+		<segment id="70" parent="74" relname="same-unit">nПо версии источника ИТАР-ТАСС в правоохранительных органах,</segment>
+		<segment id="71" parent="73" relname="span">Урусхан Зязиков в четверг вечером освобожден</segment>
+		<segment id="72" parent="71" relname="condition">без каких-либо выкупов и условий.</segment>
+		<segment id="75" parent="77" relname="sequence">Похитители в канун священного для мусульмане праздника Ид аль-Фитр привезли его в селение Барсуки</segment>
+		<segment id="76" parent="77" relname="sequence">и высадили рядом с соборной мечетью.</segment>
+		<segment id="80" parent="84" relname="span">Больного Урусхана Зязикова обнаружили проезжавшие сотрудники милиции,</segment>
+		<segment id="81" parent="83" relname="span">которые и привезли его домой</segment>
+		<segment id="82" parent="81" relname="elaboration">.\n\nРИА \"Новости\" со ссылкой на свой источник в силовых структурах Ингушетии излагает другую версию:</segment>
+		<segment id="85" parent="87" relname="span">освобождению Зязикова предшествовали долгие и тяжелые переговоры с похитителями.</segment>
+		<segment id="86" parent="85" relname="elaboration">Сотрудники спецслужб вели их через ряд посредников,</segment>
+		<segment id="88" parent="87" relname="attribution">рассказал источник.</segment>
+		<segment id="91" parent="107" relname="sequence">В итоге удалось договориться о его освобождении.</segment>
+		<segment id="92" parent="98" relname="joint">Около 19:00 в четверг похитители привезли Урусхана Зязикова на автомобиле к одному из постов милиции</segment>
+		<segment id="93" parent="97" relname="span">и высадили его</segment>
+		<segment id="94" parent="95" relname="attribution">.\n\nВ органах подчеркивают,</segment>
+		<segment id="95" parent="96" relname="span">что освобождение Урусхана Зязикова произошло без выкупа.</segment>
+		<segment id="99" parent="105" relname="sequence">Ранее в обмен на освобождение заложника</segment>
+		<segment id="100" parent="104" relname="sequence">они хотели получить несколько десятков миллионов долларов.</segment>
+		<segment id="101" parent="102" relname="attribution">Источник сказал,</segment>
+		<segment id="102" parent="103" relname="span">что в операции по освобождению заложника принимали участие сотрудники ФСБ, МВД и военные.\n\</segment>
+		<segment id="108" parent="109" relname="attribution">nКак сообщили ИТАР-ТАСС в правоохранительных органах Ингушетии,</segment>
+		<segment id="109" parent="110" relname="span">дядя президента в настоящее время он в кругу своих родных.</segment>
+		<segment id="111" parent="112" relname="attribution">Один из близких родственников Урусхана Зязикова, в свою очередь, говорит,</segment>
+		<segment id="112" parent="113" relname="span">что \"состояние его желает оставлять лучшее\".\n\nУрусхан отказывается от каких-либо комментариев по поводу похищения и насильного удержания.</segment>
+		<segment id="115" parent="116" relname="attribution">Как сообщил родственник,</segment>
+		<segment id="116" parent="117" relname="span">\"относились к нему неплохо\".</segment>
+		<segment id="118" parent="120" relname="span">Похитителей в лицо он не видел,</segment>
+		<segment id="119" parent="118" relname="cause-effect">так как они всегда были в масках.</segment>
+		<segment id="121" parent="122" relname="sequence">Разговаривали они на русском и чеченском языках.</segment>
+		<segment id="124" parent="127" relname="cause-effect">За все время похищения Урусхан не получил возможности побриться,</segment>
+		<segment id="125" parent="127" relname="joint">постричься,</segment>
+		<segment id="126" parent="127" relname="joint">искупаться.</segment>
+		<segment id="129" parent="131" relname="joint">\"Сейчас он привел себя в порядок\"</segment>
+		<segment id="130" parent="131" relname="joint">и отдыхает,</segment>
+		<segment id="132" parent="131" relname="attribution">сообщил родственник</segment>
+		<segment id="134" parent="135" relname="joint">.\n\</segment>
+		<segment id="137" parent="169" relname="sequence">nНапомним, Урусхан Зязиков был похищен в Назрани 23 марта.</segment>
+		<segment id="140" parent="146" relname="sequence">Четверо неизвестных в масках и камуфлированной форме, вооруженные автоматическим оружием, подъехали на автомашине \"ВАЗ-21112\" к шедшему в мечеть Урусхану.</segment>
+		<segment id="141" parent="145" relname="joint">Похитители насильно усадили его в машину</segment>
+		<segment id="142" parent="144" relname="span">и скрылись в неизвестном направлении.\n\nТестя Зязикова тоже похищали\n\n27 февраля 2006 года в Назрани был похищен 71-летний тесть президента Ингушетии Магомед Чахкиев,</segment>
+		<segment id="143" parent="142" relname="elaboration">председатель комитета парламента по аграрной политике, природопользованию и охране окружающей среды республики.</segment>
+		<segment id="149" parent="153" relname="joint">Автомашина \"Волга\", в которой он возвращался домой, была обстреляна из автоматического оружия.</segment>
+		<segment id="150" parent="152" relname="joint">Во время обстрела водитель автомашины не справился с управлением</segment>
+		<segment id="151" parent="152" relname="joint">и врезался в ограждение.</segment>
+		<segment id="155" parent="159" relname="sequence">Подбежавшие преступники оглушили водителя</segment>
+		<segment id="156" parent="158" relname="sequence">и увезли Чахкиева в неизвестном направлении на автомашине ВАЗ-2107 белого цвета.\n\nЧерез месяц после похищения похитители впервые вышли на контакт</segment>
+		<segment id="157" parent="158" relname="sequence">и в обмен на освобождение Чахкиева предложили президенту Ингушетии Мурату Зязикову и прокурору Махмуду Али Калиматову уйти в отставку.</segment>
+		<segment id="160" parent="161" relname="sequence">Ответственность за похищение депутата взял на себя некий Хабибулла,</segment>
+		<segment id="162" parent="163" relname="sequence">назвавший себя амиром ингушского джамаата \"Шариат\".\n\n1 мая в результате специальной операции депутат Народного собрания (парламента) Ингушетии Магомед Чахкиев был освобожден.</segment>
+		<segment id="164" parent="166" relname="span">Освобождение произошло накануне дня рождения похищенного.</segment>
+		<segment id="165" parent="164" relname="elaboration">Чахкиев был освобожден без предварительных условий.\n\nИсточник: https://www.newsru.com/russia/11Oct2007/zyazikov.html\n</segment>
+		<group id="175" type="multinuc" parent="176" relname="span"/>
+		<group id="79" type="multinuc" parent="175" relname="sequence"/>
+		<group id="69" type="span" parent="79" relname="joint"/>
+		<group id="63" type="span" parent="69" relname="span"/>
+		<group id="68" type="span" parent="63" relname="elaboration"/>
+		<group id="67" type="multinuc" parent="68" relname="span"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="74" type="multinuc" parent="78" relname="sequence"/>
+		<group id="73" type="span" parent="74" relname="same-unit"/>
+		<group id="77" type="multinuc" parent="78" relname="sequence"/>
+		<group id="174" type="multinuc" parent="175" relname="sequence"/>
+		<group id="90" type="span" parent="174" relname="sequence"/>
+		<group id="84" type="span" parent="90" relname="span"/>
+		<group id="83" type="span" parent="80" relname="elaboration"/>
+		<group id="89" type="span" parent="84" relname="elaboration"/>
+		<group id="87" type="span" parent="89" relname="span"/>
+		<group id="173" type="multinuc" parent="174" relname="sequence"/>
+		<group id="107" type="multinuc" parent="173" relname="sequence"/>
+		<group id="106" type="multinuc" parent="107" relname="sequence"/>
+		<group id="98" type="multinuc" parent="106" relname="sequence"/>
+		<group id="97" type="span" parent="98" relname="joint"/>
+		<group id="96" type="span" parent="93" relname="cause-effect"/>
+		<group id="105" type="multinuc" parent="106" relname="sequence"/>
+		<group id="104" type="multinuc" parent="105" relname="sequence"/>
+		<group id="103" type="span" parent="104" relname="sequence"/>
+		<group id="172" type="span" parent="173" relname="sequence"/>
+		<group id="114" type="multinuc" parent="171" relname="preparation"/>
+		<group id="110" type="span" parent="114" relname="joint"/>
+		<group id="113" type="span" parent="114" relname="joint"/>
+		<group id="171" type="span" parent="172" relname="span"/>
+		<group id="123" type="span" parent="171" relname="span"/>
+		<group id="117" type="span" parent="123" relname="span"/>
+		<group id="122" type="multinuc" parent="117" relname="elaboration"/>
+		<group id="120" type="span" parent="122" relname="sequence"/>
+		<group id="170" type="multinuc" parent="123" relname="evidence"/>
+		<group id="136" type="span" parent="170" relname="sequence"/>
+		<group id="128" type="span" parent="136" relname="span"/>
+		<group id="127" type="multinuc" parent="128" relname="span"/>
+		<group id="135" type="multinuc" parent="128" relname="elaboration"/>
+		<group id="133" type="span" parent="135" relname="joint"/>
+		<group id="131" type="multinuc" parent="133" relname="span"/>
+		<group id="169" type="multinuc" parent="170" relname="sequence"/>
+		<group id="168" type="multinuc" parent="169" relname="sequence"/>
+		<group id="154" type="multinuc" parent="168" relname="sequence"/>
+		<group id="146" type="multinuc" parent="154" relname="joint"/>
+		<group id="145" type="multinuc" parent="146" relname="sequence"/>
+		<group id="144" type="span" parent="145" relname="joint"/>
+		<group id="153" type="multinuc" parent="154" relname="joint"/>
+		<group id="152" type="multinuc" parent="153" relname="joint"/>
+		<group id="167" type="multinuc" parent="168" relname="sequence"/>
+		<group id="163" type="multinuc" parent="167" relname="sequence"/>
+		<group id="161" type="multinuc" parent="163" relname="sequence"/>
+		<group id="159" type="multinuc" parent="161" relname="sequence"/>
+		<group id="158" type="multinuc" parent="159" relname="sequence"/>
+		<group id="166" type="span" parent="167" relname="sequence"/>
+		<group id="176" type="span"/>
+	</body>
+</rst>

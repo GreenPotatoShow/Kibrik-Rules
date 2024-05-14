@@ -1,0 +1,58 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="24" relname="span">МВД оставляет охрану в 64 культурных и образовательных учреждениях РФ\n\nМинистерство внутренних дел РФ представило список культурных и образовательных объектов федерального значения,</segment>
+		<segment id="23" parent="22" relname="elaboration">на которых сохраняется охрана силами полиции.</segment>
+		<segment id="25" parent="27" relname="joint">В перечне фигурируют 64 объекта, в том числе четыре детских лагеря, четыре библиотеки, 10 архивов и 46 музеев в 24 субъектах России.</segment>
+		<segment id="26" parent="27" relname="joint">Полный список размещен на сайте \"Интерфакса\".\n\nВ частности, ведомственная охрана сохранится для детских лагерей \"Артек\", \"Орленок\", \"Смена\" и \"Океан\".</segment>
+		<segment id="29" parent="31" relname="span">Посты охраны останутся в Эрмитаже, Третьяковской галерее, Государственном музее изобразительных искусств имени Пушкина, в Российской государственной библиотеке, Русском музее, Политехническом музее и в других крупных учреждениях культуры РФ.\n\nРанее сообщалось, что с 1 ноября МВД снимает посты охраны с 3,5 тыс. государственных объектов,</segment>
+		<segment id="30" parent="29" relname="elaboration">среди которых в том числе хранилища Центробанка, музеи с особо ценными экспонатами, гидроузлы и другие объекты, требующие повышенного внимания.\n\</segment>
+		<segment id="32" parent="33" relname="cause-effect">nПричиной одностороннего расторжения договоров об охране</segment>
+		<segment id="33" parent="34" relname="span">стало плановое сокращение численности подразделений вневедомственной охраны МВД на 43 тысячи человек.</segment>
+		<segment id="36" parent="37" relname="joint">В июле президент РФ Владимир Путин подписал указ о сокращении предельной численности органов внутренних дел России на 110 тысяч человек.\n\nС 1 ноября работу продолжат работу лишь 262 поста на объектах, отнесенных правительством к \"критически важным\".</segment>
+		<segment id="38" parent="41" relname="attribution">Глава МВД Владимир Колокольцев сообщал,</segment>
+		<segment id="39" parent="41" relname="span">что Минкульту предложено создать межведомственную рабочую группу,</segment>
+		<segment id="40" parent="39" relname="purpose">для того чтобы вместе определить перечень объектов культуры, безопасность которых будет обеспечиваться постами полиции.</segment>
+		<segment id="43" parent="44" relname="attribution">При этом Колокольцев заверил,</segment>
+		<segment id="44" parent="45" relname="span">что МВД продолжит охрану наиболее крупных музеев страны.\n\nОбсуждение перспективы снятия охраны вызвало обеспокоенность музейного сообщества.</segment>
+		<segment id="46" parent="48" relname="span">Глава Союза музеев России Михаил Пиотровский направил министру культуры РФ Владимиру Мединскому письмо,</segment>
+		<segment id="47" parent="46" relname="elaboration">в котором предложил музеям России срочно провести учения по защите режима работы экспозиций собственными силами.</segment>
+		<segment id="49" parent="54" relname="attribution">Со своей стороны Мединский сообщил,</segment>
+		<segment id="50" parent="54" relname="comparison">что сотрудники МВД будут охранять только ограниченный список музеев.\n\n\"Во всех федеральных музеях, которые охраняются сейчас,</segment>
+		<segment id="51" parent="53" relname="joint">а это 46 музеев,</segment>
+		<segment id="52" parent="53" relname="joint">плюс в архивах и четырех крупнейших федеральных библиотеках в целом по внешнему периметру охрана МВД сохраняется\",</segment>
+		<segment id="61" parent="60" relname="attribution">- доложил министр в сентябре на встрече Путина с членами правительства.\n\nИсточник: https://www.newsru.com/cinema/26Oct2015/mvd.html\n</segment>
+		<group id="60" type="multinuc" parent="62" relname="span"/>
+		<group id="28" type="multinuc" parent="60" relname="joint"/>
+		<group id="24" type="span" parent="28" relname="joint"/>
+		<group id="27" type="multinuc" parent="28" relname="joint"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="37" type="multinuc" parent="59" relname="joint"/>
+		<group id="35" type="span" parent="37" relname="joint"/>
+		<group id="31" type="span" parent="35" relname="span"/>
+		<group id="34" type="span" parent="31" relname="cause-effect"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="42" type="span" parent="58" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="45" type="span" parent="57" relname="joint"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="48" type="span" parent="56" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="53" type="multinuc" parent="54" relname="comparison"/>
+		<group id="62" type="span"/>
+	</body>
+</rst>

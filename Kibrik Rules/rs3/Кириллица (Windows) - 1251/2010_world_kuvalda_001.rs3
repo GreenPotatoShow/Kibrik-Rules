@@ -1,0 +1,78 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="91" relname="preparation">В Турции задержаны 30 человек по делу о подготовке госпереворота\n\nВ Турции задержаны 30 человек в рамках расследования дела о подготовке в 2003 году государственного переворота активистами ультранационалистической организации \"Эргенекон\".</segment>
+		<segment id="33" parent="36" relname="attribution">Как сообщил в пятницу телеканал \"ХаберТюрк\",</segment>
+		<segment id="34" parent="36" relname="span">задержания прошли одновременно в 11 провинциях страны.\n\nСотрудники прокуратуры провели обыски в 37 домах подозреваемых,</segment>
+		<segment id="35" parent="34" relname="elaboration">расположенных, в частности, в провинциях Стамбул, Анкара, Конья и Анталья.</segment>
+		<segment id="38" parent="40" relname="joint">Изъятые вещественные доказательства направлены на изучение,</segment>
+		<segment id="39" parent="40" relname="joint">задержанным также придется пройти допрос.</segment>
+		<segment id="42" parent="43" relname="attribution">Прокуратура считает,</segment>
+		<segment id="43" parent="44" relname="span">что задержанные связаны с лицами, арестованными по делу организации \"Эргенекон\".\n\nУльтранационалисты обвиняются в планировании заговора против действующей власти в Турции.</segment>
+		<segment id="45" parent="44" relname="elaboration">Активное развитие это дело получило весной 2009 года.</segment>
+		<segment id="48" parent="52" relname="joint">Прокуратура провела ряд задержаний и арестов отставных генералов, журналистов, политиков и общественных деятелей.</segment>
+		<segment id="49" parent="51" relname="span">Задержания сопровождались обысками в домах подозреваемых.</segment>
+		<segment id="50" parent="49" relname="elaboration">Местные наблюдатели назвали процесс \"судом века\",</segment>
+		<segment id="53" parent="54" relname="attribution">передает ИТАР-ТАСС</segment>
+		<segment id="54" parent="55" relname="span">.\n\nНапомним, прокуратура Стамбула начала разбирательство по делу о подготовке в 2003 году переворота с цель свержения правительства Реджепа Тайипа Эрдогана после публикации в январе 2010 года малотиражной газетой \"Тараф\" серии скандальных материалов.</segment>
+		<segment id="57" parent="68" relname="attribution">В них утверждается,</segment>
+		<segment id="58" parent="60" relname="span">что влиятельная в Турции армия,</segment>
+		<segment id="59" parent="58" relname="background">которая трижды с 1960 года совершала перевороты,</segment>
+		<segment id="61" parent="67" relname="joint">подготовила план \"Кувалда\",</segment>
+		<segment id="62" parent="66" relname="span">предусматривающий организацию взрывов в двух мечетях Стамбула и введение чрезвычайного положения.\n\nИзначально в рамках расследования плана переворота под стражу были взяты около 70 человек,</segment>
+		<segment id="63" parent="65" relname="span">в том числе экс-командующий Первой полевой армией генерал Четин Доган,</segment>
+		<segment id="64" parent="63" relname="elaboration">которому приписывают организацию заговора.</segment>
+		<segment id="70" parent="74" relname="contrast">По делу также проходили трое бывших высших чинов турецкой армии - экс-главкомы ВМС и ВВС армейский адмирал Ибрахим Фыртына и армейский генерал Озден Орнек, а также экс-командующий Первой полевой армией армейский генерал Эргин Сайгун</segment>
+		<segment id="71" parent="73" relname="span">- но их под стражу не заключили.\n\nВ начале апреля суд принял решение освободить 21 из 70 арестованных военных, в том числе генерала Догана,</segment>
+		<segment id="72" parent="71" relname="cause-effect">из-за отсутствия \"достаточных доказательств, подтверждающих подозрение в совершении преступления\".</segment>
+		<segment id="75" parent="81" relname="joint">Однако в воскресенье суд на основании нового обращения прокуратуры пересмотрел свое решение</segment>
+		<segment id="76" parent="78" relname="span">и повторно санкционировал арест военных.\n\nРазбирательство плана \"Кувалда\",</segment>
+		<segment id="77" parent="76" relname="elaboration">существование которого военные отвергают,</segment>
+		<segment id="79" parent="80" relname="joint">обострило отношения между правительством и армией в Турции.\n\nПо информации \"Тараф\", авторами \"Плана Кувалда\" являются бывшие высокопоставленные военные, уже проходящие по делу \"Организации Эргенекон\"</segment>
+		<segment id="82" parent="81" relname="elaboration">- в рамках этого дела их обвиняют в заговоре с целью свержения правительства в середине 2000-х годов.</segment>
+		<segment id="84" parent="86" relname="span">Суд над оппозиционерами с октября 2007 года проводится в Стамбуле.</segment>
+		<segment id="85" parent="84" relname="elaboration">Всего по делу \"Организации Эргенекон\" проходят около 200 человек: политические и общественные деятели, журналисты, адвокаты, преподаватели вузов, отставные и действующие военные, полицейские.\n\nИсточник: https://www.newsru.com/world/14May2010/kuvalda.html\n</segment>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="47" type="multinuc" parent="91" relname="joint"/>
+		<group id="41" type="span" parent="47" relname="joint"/>
+		<group id="37" type="span" parent="41" relname="span"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="40" type="multinuc" parent="37" relname="elaboration"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="44" type="span" parent="46" relname="span"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="56" type="multinuc" parent="89" relname="preparation"/>
+		<group id="52" type="multinuc" parent="56" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="89" type="multinuc" parent="90" relname="span"/>
+		<group id="69" type="span" parent="89" relname="joint"/>
+		<group id="68" type="multinuc" parent="69" relname="span"/>
+		<group id="60" type="span" parent="68" relname="same-unit"/>
+		<group id="67" type="multinuc" parent="68" relname="same-unit"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="65" type="span" parent="62" relname="elaboration"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="74" type="multinuc" parent="88" relname="joint"/>
+		<group id="73" type="span" parent="74" relname="contrast"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="83" type="span" parent="87" relname="joint"/>
+		<group id="81" type="multinuc" parent="83" relname="span"/>
+		<group id="80" type="multinuc" parent="81" relname="joint"/>
+		<group id="78" type="span" parent="80" relname="joint"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

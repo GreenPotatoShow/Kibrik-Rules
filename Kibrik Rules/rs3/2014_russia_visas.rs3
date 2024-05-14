@@ -1,0 +1,150 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="66" parent="68" relname="span">Посольство США в Москве приостановило выдачу виз россиянам</segment>
+		<segment id="67" parent="66" relname="cause-effect">из-за \"технических неполадок\"\n\</segment>
+		<segment id="69" parent="75" relname="span">nПосольство Соединенных Штатов Америки в Москве временно перестало выдавать гражданам РФ визы, дающие право на посещение страны.</segment>
+		<segment id="70" parent="74" relname="span">После объявления Вашингтоном во вторник о расширении</segment>
+		<segment id="71" parent="72" relname="cause-effect">из-за украинского кризиса черного списка российских компаний,</segment>
+		<segment id="72" parent="73" relname="span">первым делом приходит в голову связь обострения в двусторонних отношениях и приостановки выдачи виз.</segment>
+		<segment id="76" parent="77" relname="attribution">Однако в американской дипмиссии уверяют,</segment>
+		<segment id="77" parent="78" relname="span">что дело только в технических проблемах.</segment>
+		<segment id="79" parent="82" relname="attribution">Госдепартамент на днях действительно признал,</segment>
+		<segment id="80" parent="82" relname="span">что в визовой системе произошел глобальный сбой.\n\n\"В данный момент Бюро по консульским вопросам Государственного департамента США испытывает технические неполадки паспортно-визовой системы,</segment>
+		<segment id="81" parent="80" relname="elaboration">которые повлияли на процесс выдачи виз во всем мире\",</segment>
+		<segment id="84" parent="83" relname="attribution">- говорится в сообщении на сайте американского посольства в Москве.</segment>
+		<segment id="88" parent="97" relname="attribution">Как заверил Вашингтон,</segment>
+		<segment id="89" parent="91" relname="joint">данная проблема - \"глобальная</segment>
+		<segment id="90" parent="91" relname="joint">и не зависит от какой-либо определенной страны или визовой категории\".\n\</segment>
+		<segment id="92" parent="96" relname="joint">nВ посольстве приносят свои извинения заявителям за задержку</segment>
+		<segment id="93" parent="95" relname="span">и обещают вернуть паспорта с визами,</segment>
+		<segment id="94" parent="93" relname="condition">как только проблема будет устранена.</segment>
+		<segment id="99" parent="107" relname="joint">При этом о времени возвращения дипмиссии к нормальной работе не сообщается, даже приблизительно.\n\nПретендентам, которые проходили собеседование после 21 июля</segment>
+		<segment id="100" parent="106" relname="joint">и хотели бы временно вернуть свой паспорт без американской визы,</segment>
+		<segment id="101" parent="105" relname="joint">предлагается связаться по электронной почте посольства,</segment>
+		<segment id="102" parent="104" relname="joint">указав тему обращения.\n\nИндивидуальный подход предлагается</segment>
+		<segment id="103" parent="104" relname="joint">и тем, кому предстоит срочная поездка в США.</segment>
+		<segment id="108" parent="114" relname="joint">Правда, в посольстве обещают рассмотреть только \"действительно неотложные случаи - экстраординарные обстоятельства гуманитарного характера, вопросы жизни и смерти\".\n\</segment>
+		<segment id="109" parent="113" relname="joint">nДо сих пор у россиян, не входящих в черный список тех, на кого наложены санкции,</segment>
+		<segment id="110" parent="112" relname="joint">не возникало проблем в массовом порядке с получением американских виз.\n\nМежду тем Госдепартамент США на днях подтвердил наличие сбоя в своей визовой системе</segment>
+		<segment id="111" parent="112" relname="joint">и призвал заявителей на визы в США приостановить подачу заявлений до устранения неисправности.\n\</segment>
+		<segment id="116" parent="119" relname="attribution">nКак пишет пресса,</segment>
+		<segment id="117" parent="119" relname="span">проблемы начались более недели назад,</segment>
+		<segment id="118" parent="117" relname="condition">когда компьютерный сбой парализовал работу визовой системы Госдепартамента США.</segment>
+		<segment id="121" parent="126" relname="attribution">В минувший четверг об этом на брифинге заявила официальный представитель Госдепа Мари Харф,</segment>
+		<segment id="122" parent="126" relname="span">сообщает PCWorld.</segment>
+		<segment id="123" parent="124" relname="attribution">По словам Харф,</segment>
+		<segment id="124" parent="125" relname="span">проблемы появились после планового технического обслуживания.</segment>
+		<segment id="129" parent="130" relname="cause-effect">В сентябре 2013 года визовая система Госдепа США была аналогичным образом парализована по всему миру</segment>
+		<segment id="130" parent="131" relname="span">в результате атаки компьютерного вируса.\n\</segment>
+		<segment id="132" parent="131" relname="elaboration">nАналогичные сообщения о технических проблемах появились за последние дни на сайтах посольств США в других странах.</segment>
+		<segment id="134" parent="138" relname="span">О технических неполадках в паспортно-визовой системе,</segment>
+		<segment id="135" parent="137" relname="span">ставшей причиной затруднений</segment>
+		<segment id="136" parent="135" relname="cause-effect">при получении виз США по всему миру, в частности, сообщается на сайте дипломатической миссии США в Казахстане.\n\n\"Мы приносим свои извинения заявителям, которые не могут получить вовремя паспорта США, консульские сертификаты о рождении ребенка за границей или визы США.</segment>
+		<segment id="139" parent="141" relname="joint">Мы работаем над устранением данной проблемы</segment>
+		<segment id="140" parent="141" relname="joint">и надеемся, что вскоре наша система снова заработает в обычном режиме\",</segment>
+		<segment id="143" parent="147" relname="joint">- цитировало в минувшее воскресенье ИА Новости - Казахстан текст сообщения.\n\nПосольство США в Китае принесло извинения за техническую неполадку визовой службы,</segment>
+		<segment id="144" parent="146" relname="joint">подчеркнув, что проблема является \"глобальной\"</segment>
+		<segment id="145" parent="146" relname="joint">и не нацелена против какой-либо страны, какого-либо народа и какой-либо категории виз.</segment>
+		<segment id="148" parent="151" relname="attribution">Как сообщили в китайских визовых агентствах,</segment>
+		<segment id="149" parent="151" relname="span">данный сбой, в первую очередь, окажет влияние на туристов,</segment>
+		<segment id="150" parent="149" relname="elaboration">которые в последние дни подали заявление на американские визы,</segment>
+		<segment id="153" parent="155" relname="span">передает агентство Xinhua.\n\nО проблемах с получением американских виз для тех жителей Ирландии, кому они требуются,</segment>
+		<segment id="154" parent="153" relname="attribution">пишет Irish Examiner.</segment>
+		<segment id="160" parent="162" relname="span">Посольство США в Дублине не сообщило изданию точное число людей,</segment>
+		<segment id="161" parent="160" relname="condition">не получивших в ожидаемый срок паспорта с визами,</segment>
+		<segment id="163" parent="170" relname="attribution">однако предположило, что речь идет о нескольких сотнях</segment>
+		<segment id="164" parent="166" relname="span">.\n\nНакануне важные сообщения по поводу санкций в отношении РФ,</segment>
+		<segment id="165" parent="164" relname="elaboration">с которыми можно было бы связать приостановку в выдаче виз для россиян,</segment>
+		<segment id="167" parent="168" relname="condition">если бы не было пояснений Госдепа,</segment>
+		<segment id="168" parent="169" relname="span">поступили одновременно от Евросоюза и США.</segment>
+		<segment id="173" parent="175" relname="span">ЕС накануне официально согласовал пакет секторальных санкций,</segment>
+		<segment id="174" parent="173" relname="elaboration">которые, предположительно, будут подписаны Советом ЕС в среду</segment>
+		<segment id="176" parent="177" relname="attribution">и уже в четверг вступят в силу.\n\nВашингтон в свою очередь объявил</segment>
+		<segment id="177" parent="178" relname="span">о внесении в черный список трех российских банков - ВТБ, \"Банка Москвы\" и \"Россельхозбанка\".</segment>
+		<segment id="180" parent="181" relname="joint">Гражданам и компаниям США запрещено приобретать долговые обязательства этих банков или связанных с ними юридических лиц, а также их имущество на срок более чем 90 дней.</segment>
+		<segment id="182" parent="185" relname="attribution">В черный список попала и Объединенная судостроительная корпорация РФ (ОСК).\n\nГоссекретарь США Джон Керри ранее сообщал,</segment>
+		<segment id="183" parent="185" relname="span">что у Вашингтона полностью готовы жесткие экономические санкции против России,</segment>
+		<segment id="184" parent="183" relname="elaboration">о сроках введения которых пока не говорится.\n\nИсточник: https://www.newsru.com/russia/30Jul2014/visas.html\n</segment>
+		<group id="68" type="span" parent="193" relname="preparation"/>
+		<group id="193" type="span" parent="194" relname="span"/>
+		<group id="87" type="multinuc" parent="192" relname="preparation"/>
+		<group id="75" type="span" parent="87" relname="contrast"/>
+		<group id="74" type="span" parent="69" relname="cause-effect"/>
+		<group id="73" type="span" parent="70" relname="cause-effect"/>
+		<group id="86" type="span" parent="87" relname="contrast"/>
+		<group id="78" type="span" parent="86" relname="span"/>
+		<group id="85" type="span" parent="78" relname="elaboration"/>
+		<group id="83" type="span" parent="85" relname="span"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="192" type="multinuc" parent="193" relname="span"/>
+		<group id="98" type="span" parent="192" relname="joint"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="91" type="multinuc" parent="97" relname="span"/>
+		<group id="96" type="multinuc" parent="91" relname="elaboration"/>
+		<group id="95" type="span" parent="96" relname="joint"/>
+		<group id="191" type="multinuc" parent="192" relname="joint"/>
+		<group id="115" type="multinuc" parent="191" relname="joint"/>
+		<group id="107" type="multinuc" parent="115" relname="contrast"/>
+		<group id="106" type="multinuc" parent="107" relname="joint"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="104" type="multinuc" parent="105" relname="joint"/>
+		<group id="114" type="multinuc" parent="115" relname="contrast"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="112" type="multinuc" parent="113" relname="joint"/>
+		<group id="190" type="span" parent="191" relname="joint"/>
+		<group id="128" type="multinuc" parent="189" relname="preparation"/>
+		<group id="120" type="span" parent="128" relname="joint"/>
+		<group id="119" type="span" parent="120" relname="span"/>
+		<group id="127" type="span" parent="128" relname="joint"/>
+		<group id="126" type="span" parent="127" relname="span"/>
+		<group id="125" type="span" parent="122" relname="interpretation-evaluation"/>
+		<group id="189" type="span" parent="190" relname="span"/>
+		<group id="159" type="span" parent="188" relname="solutionhood"/>
+		<group id="133" type="span" parent="158" relname="preparation"/>
+		<group id="131" type="span" parent="133" relname="span"/>
+		<group id="158" type="multinuc" parent="159" relname="span"/>
+		<group id="142" type="span" parent="158" relname="joint"/>
+		<group id="138" type="span" parent="142" relname="span"/>
+		<group id="137" type="span" parent="134" relname="cause-effect"/>
+		<group id="141" type="multinuc" parent="138" relname="elaboration"/>
+		<group id="157" type="span" parent="158" relname="joint"/>
+		<group id="147" type="multinuc" parent="156" relname="preparation"/>
+		<group id="146" type="multinuc" parent="147" relname="joint"/>
+		<group id="156" type="multinuc" parent="157" relname="span"/>
+		<group id="152" type="span" parent="156" relname="joint"/>
+		<group id="151" type="span" parent="152" relname="span"/>
+		<group id="155" type="span" parent="156" relname="joint"/>
+		<group id="188" type="multinuc" parent="189" relname="span"/>
+		<group id="172" type="multinuc" parent="188" relname="joint"/>
+		<group id="162" type="span" parent="172" relname="contrast"/>
+		<group id="171" type="span" parent="172" relname="contrast"/>
+		<group id="170" type="span" parent="171" relname="span"/>
+		<group id="166" type="span" parent="170" relname="span"/>
+		<group id="169" type="span" parent="166" relname="condition"/>
+		<group id="187" type="multinuc" parent="188" relname="joint"/>
+		<group id="181" type="multinuc" parent="187" relname="joint"/>
+		<group id="179" type="multinuc" parent="181" relname="joint"/>
+		<group id="175" type="span" parent="179" relname="joint"/>
+		<group id="178" type="span" parent="179" relname="joint"/>
+		<group id="186" type="span" parent="187" relname="joint"/>
+		<group id="185" type="span" parent="186" relname="span"/>
+		<group id="194" type="span"/>
+	</body>
+</rst>

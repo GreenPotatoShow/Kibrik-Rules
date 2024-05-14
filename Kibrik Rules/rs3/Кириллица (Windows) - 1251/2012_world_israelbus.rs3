@@ -1,0 +1,401 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="192" parent="196" relname="span">В Болгарии взорвался автобус с израильскими туристами:</segment>
+		<segment id="193" parent="195" relname="span">много погибших и раненых\n\nБлиз международного аэропорта Бургаса взорвался туристический автобус,</segment>
+		<segment id="194" parent="193" relname="attribution">передает ИТАР-ТАСС.</segment>
+		<segment id="197" parent="211" relname="span">Речь идет об автобусе с туристами из Израиля.</segment>
+		<segment id="198" parent="199" relname="attribution">Есть погибшие и раненые.\n\nБолгарское агентство БГНЕС в первые минуты после трагедии сообщило,</segment>
+		<segment id="199" parent="200" relname="span">что погибли пять человек.</segment>
+		<segment id="201" parent="200" relname="elaboration">Полиция оцепила место взрыва.</segment>
+		<segment id="203" parent="207" relname="span">Аэропорт \"Сарафово\" закрыт</segment>
+		<segment id="204" parent="205" relname="attribution">(рейсы перенаправляются в Варну).\n\nАгентство уточняет,</segment>
+		<segment id="205" parent="206" relname="span">что взрыв прогремел на автостоянке аэропорта, недалеко от терминала прилета.</segment>
+		<segment id="208" parent="207" relname="elaboration">Повреждены припаркованные рядом машины</segment>
+		<segment id="212" parent="228" relname="span">.\n\nИзраильские СМИ со ссылкой на МИД Израиля сообщают о семи погибших.</segment>
+		<segment id="213" parent="222" relname="attribution">По последним данным, которые представило МИД Болгарии,</segment>
+		<segment id="214" parent="222" relname="joint">погибли шесть человек,</segment>
+		<segment id="215" parent="221" relname="span">32 получили ранения.</segment>
+		<segment id="216" parent="220" relname="span">\"Мы выражаем самые глубокие соболезнования семьям погибших и раненых.</segment>
+		<segment id="217" parent="219" relname="span">Болгария сделает все, что в ее силах,</segment>
+		<segment id="218" parent="217" relname="purpose">чтобы выяснить причины этой ужасной трагедии\",</segment>
+		<segment id="224" parent="225" relname="attribution">- заявил министр иностранных дел страны Николай Младенов,</segment>
+		<segment id="225" parent="226" relname="span">прибывший на место теракта.</segment>
+		<segment id="230" parent="231" relname="attribution">Там также находятся президент Болгарии Росен Плевнелиев и глава МВД Цветан Цветанов.\n\n- Обратная хронология \"самолетных\" терактов против израильтян\n\nNEWSru Israel со ссылкой на \"Радио Бургас\" передает,</segment>
+		<segment id="231" parent="232" relname="span">что в городскую больницу доставлены 18 израильских туристов с ранениями различной степени тяжести.</segment>
+		<segment id="233" parent="235" relname="joint">Госпиталь взяли под охрану усиленные наряды полиции,</segment>
+		<segment id="234" parent="235" relname="joint">журналистов внутрь не пускают.\n\nВсего в момент взрыва в автобусе находились 40 туристов и водитель.</segment>
+		<segment id="236" parent="238" relname="joint">Он остался жив</segment>
+		<segment id="237" parent="238" relname="joint">и также госпитализирован,</segment>
+		<segment id="239" parent="240" relname="joint">отмечает РИА Новости.\n\nТри автобуса - взорванный и два соседних - загорелись.</segment>
+		<segment id="243" parent="246" relname="attribution">Reuters со ссылкой на очевидцев сообщает,</segment>
+		<segment id="244" parent="246" relname="span">что в данном случае, скорее всего, произошел теракт</segment>
+		<segment id="245" parent="244" relname="cause-effect">- смертник взорвался возле одной из дверей автобуса.</segment>
+		<segment id="248" parent="247" relname="interpretation-evaluation">Не исключено, однако, что бомба попала в багажное отделение автобуса в сумке.</segment>
+		<segment id="250" parent="253" relname="attribution">Мощность взрыва была такой,</segment>
+		<segment id="251" parent="253" relname="joint">что сотряслось само здание аэропорта,</segment>
+		<segment id="252" parent="253" relname="joint">констатируют очевидцы.\n\nБолгарские следователи проверяют две версии.</segment>
+		<segment id="256" parent="262" relname="joint">\"По одной, бомба была спрятана в чемодане</segment>
+		<segment id="257" parent="259" relname="span">и взорвалась,</segment>
+		<segment id="258" parent="257" relname="condition">когда вещи загружали в багажное отделение (автобуса),</segment>
+		<segment id="260" parent="259" relname="elaboration">по другой - ее разместили внутри транспортного средства заранее перед посадкой туристов и загрузкой багажа\",</segment>
+		<segment id="263" parent="277" relname="joint">- сообщает местная газета \"24 часа\" со ссылкой на министра Цветанова.\n\nО том, что взорвалась именно бомба,</segment>
+		<segment id="264" parent="276" relname="joint">установленная внутри автобуса,</segment>
+		<segment id="265" parent="274" relname="attribution">заявил и министр иностранных дел Израиля Авигдор Либерман в беседе с AP</segment>
+		<segment id="266" parent="273" relname="preparation">.\n\</segment>
+		<segment id="267" parent="273" relname="joint">nВ настоящее время полиция проводит оперативно-розыскные мероприятия, направленные на расследование теракта.</segment>
+		<segment id="268" parent="272" relname="joint">Шоссе, ведущее из аэропорта \"Сарафово\" в \"Солнечный берег\", перекрыто полицейскими и сотрудниками жандармерии.</segment>
+		<segment id="269" parent="271" relname="joint">Полицейские также проверят различные гостиницы городов Бургас и Несебыр на предмет заложенных там взрывных устройств</segment>
+		<segment id="270" parent="271" relname="joint">.\n\nГлава МВД Цветан Цветанов опроверг слухи о якобы поступивших сигналах о готовящихся терактах на территории Болгарии.</segment>
+		<segment id="280" parent="294" relname="span">\"В данный момент проводится допрос всех свидетелей происшествия,</segment>
+		<segment id="281" parent="293" relname="span">которые находились в непосредственной близости.</segment>
+		<segment id="282" parent="292" relname="span">Это должно помочь представить полную картину случившегося.</segment>
+		<segment id="283" parent="291" relname="span">Вероятно, к утру появится информация о типе и мощности взрывного устройства, которым был подорван автобус с туристами\",</segment>
+		<segment id="284" parent="285" relname="attribution">- сказал Цветанов</segment>
+		<segment id="285" parent="286" relname="span">.\n\</segment>
+		<segment id="287" parent="289" relname="joint">nСам Израиль оперативно реагирует на события</segment>
+		<segment id="288" parent="289" relname="joint">и отправляет в Бургас команду медиков.</segment>
+		<segment id="295" parent="297" relname="span">В тель-авивском аэропорту Бен-Гурион быстро подготовили самолет</segment>
+		<segment id="296" parent="295" relname="purpose">для вылета в Болгарию.</segment>
+		<segment id="298" parent="300" relname="span">В МИД Израиля создан оперативный штаб.</segment>
+		<segment id="299" parent="298" relname="elaboration">Министр иностранных дел Авигдор Либерман уже связался по телефону со своим болгарским коллегой Николаем Младеновым,</segment>
+		<segment id="302" parent="301" relname="background">который отправился к месту происшествия.</segment>
+		<segment id="304" parent="307" relname="attribution">Как сообщил заместитель главы МИД Израиля Дани Аялон,</segment>
+		<segment id="305" parent="307" relname="joint">дипломаты находятся на связи с болгарскими властями,</segment>
+		<segment id="306" parent="307" relname="joint">а также координируют свои действия со спецслужбами.\n\nБургас в последнее время стал одним из самых популярных курортов среди израильских туристов, в первую очередь, среди молодежи.</segment>
+		<segment id="309" parent="311" relname="span">Подвергшиеся нападению израильтяне прибыли в составе группы, организованной компанией \"Кавей Хуфша\".\n\nКто виноват?\n\nПремьер-министр Израиля Биньямин Нетаньяху заявил в среду,</segment>
+		<segment id="310" parent="309" relname="cause-effect">что за взрывом автобуса с израильскими туристами в Болгарии стоят Иран и \"Хизбаллах\",</segment>
+		<segment id="312" parent="311" relname="attribution">передает \"Интерфакс\".</segment>
+		<segment id="317" parent="321" relname="span">\"В течение нескольких последних месяцев мы наблюдали попытки Ирана организовать нападения на израильтян в Таиланде, Индии, Кении и на Кипре\",</segment>
+		<segment id="318" parent="319" relname="attribution">- сказал Нетаньяху</segment>
+		<segment id="319" parent="320" relname="span">.\n\nТакого же мнения придерживается и министр обороны Израиля Эхуд Барак.</segment>
+		<segment id="322" parent="321" relname="elaboration">Он назвал также (палестинские движения) \"Хамас\", \"Исламский джихад\".</segment>
+		<segment id="324" parent="327" relname="attribution">Барак пообещал</segment>
+		<segment id="325" parent="327" relname="joint">\"вычислить тех, кто совершил (теракт), тех, кто их послал,</segment>
+		<segment id="326" parent="327" relname="joint">и свести с ними счеты\",</segment>
+		<segment id="329" parent="328" relname="attribution">указывает РИА Новости.\n\</segment>
+		<segment id="332" parent="333" relname="attribution">nОднако ливанская газета \"Ан-Нашра\" сообщила в среду,</segment>
+		<segment id="333" parent="334" relname="span">что \"Хизбаллах\" отрицает причастность к подрыву автобуса.\n\n\"Обвинения Израиля в наш адрес вызывают смех,</segment>
+		<segment id="335" parent="336" relname="attribution">- заявил представитель движения.</segment>
+		<segment id="336" parent="337" relname="span">- Наше движение не ведет борьбу против туристов\".\n\nБолгарию предупреждали об опасности\n\nNEWSru Israel пишет,</segment>
+		<segment id="339" parent="341" relname="joint">что МВД Болгарии квалифицировало происшествие как теракт,</segment>
+		<segment id="340" parent="341" relname="joint">и напоминает:</segment>
+		<segment id="342" parent="343" relname="attribution">в самом начале года израильские СМИ сообщили,</segment>
+		<segment id="343" parent="344" relname="span">что власти опасаются терактов против израильтян в Болгарии.</segment>
+		<segment id="347" parent="348" relname="attribution">Согласно этой информации,</segment>
+		<segment id="348" parent="349" relname="span">теракт пытаются организовать боевики шиитской террористической организации \"Хизбаллах\" в рамках мести за убийство начальника оперативного отдела группировки Имада Мугнии в Дамаске.</segment>
+		<segment id="350" parent="353" relname="attribution">По этим сообщениям,</segment>
+		<segment id="351" parent="353" relname="span">власти Израиля попросили болгарские силы безопасности принять дополнительные меры</segment>
+		<segment id="352" parent="351" relname="purpose">для защиты израильских туристов.</segment>
+		<segment id="355" parent="354" relname="elaboration">(Прим.</segment>
+		<segment id="360" parent="377" relname="preparation">NEWSru.com:</segment>
+		<segment id="361" parent="365" relname="span">скорее всего, по совпадению,</segment>
+		<segment id="362" parent="364" relname="span">как раз в среду в Сирии в теракте погиб заместитель министра обороны по вопросам безопасности генерал Асеф Шавкат,</segment>
+		<segment id="363" parent="362" relname="elaboration">которого считали причастным к тому громкому убийству.</segment>
+		<segment id="366" parent="365" relname="elaboration">)\n\nБолгарское правительство тогда заверило,</segment>
+		<segment id="368" parent="369" relname="span">что не получало никаких официальных запросов подобного рода.</segment>
+		<segment id="370" parent="376" relname="span">Затем такое же заявление сделало Министерство иностранных дел Болгарии,</segment>
+		<segment id="371" parent="372" relname="attribution">подчеркнув,</segment>
+		<segment id="372" parent="373" relname="span">что в прошлом такие обращения поступали заблаговременно,</segment>
+		<segment id="374" parent="375" relname="contrast">но на сей раз просьбы с израильской стороны не было.\n\nРовно 18 лет назад \"Хизбаллах\" взорвала Еврейский центр в Буэнос-Айресе.</segment>
+		<segment id="379" parent="384" relname="attribution">Жертвами теракта 18 июля 1994 года стали 86 человек.\n\nМежду тем РИА Новости со ссылкой на местный телеканал БНТ сообщает,</segment>
+		<segment id="380" parent="382" relname="span">что болгарский туроператор \"Ортана\",</segment>
+		<segment id="381" parent="380" relname="elaboration">который организовал поездку группы израильских туристов,</segment>
+		<segment id="383" parent="382" relname="elaboration">получил предупредительный звонок о готовящемся теракте в Бургасе</segment>
+		<segment id="388" parent="392" relname="joint">.\n\nТак, по данным БНТ, за час до взрыва неизвестный мужчина позвонил в офис туроператора</segment>
+		<segment id="389" parent="390" relname="attribution">и сообщил,</segment>
+		<segment id="390" parent="391" relname="span">что израильтяне будут \"встречены\" двумя бомбами.</segment>
+		<segment id="394" parent="414" relname="joint">О реакции представителей компании на этот звонок пока неизвестно</segment>
+		<segment id="395" parent="401" relname="joint">.\n\nРостуризм выясняет,</segment>
+		<segment id="396" parent="400" relname="joint">пострадали ли соотечественники\n\nРостуризм выясняет,</segment>
+		<segment id="397" parent="399" relname="span">есть ли граждане России среди пострадавших</segment>
+		<segment id="398" parent="397" relname="condition">при взрыве автобуса в Бургасе,</segment>
+		<segment id="402" parent="410" relname="span">сообщает РИА \"Новости\" со ссылкой на руководителя пресс-службы ведомства Ирину Щеголькову.\n\n\"Мы связываемся с болгарской стороной,</segment>
+		<segment id="403" parent="409" relname="contrast">чтобы выяснить, нет ли среди пострадавших туристов из России.</segment>
+		<segment id="404" parent="408" relname="span">К сожалению, исключить практику,</segment>
+		<segment id="405" parent="406" relname="condition">когда в одном автобусе едут туристы разных стран,</segment>
+		<segment id="406" parent="407" relname="span">нельзя.</segment>
+		<segment id="411" parent="412" relname="span">Мы будем следить за развитием событий\",</segment>
+		<segment id="415" parent="414" relname="attribution">- сказала Щеголькова.\n\</segment>
+		<segment id="419" parent="422" relname="attribution">nВ свою очередь, исполнительный директор Ассоциации туроператоров России Майя Ломидзе заявила,</segment>
+		<segment id="420" parent="422" relname="span">что российские туристы в Бургасе не пострадали.</segment>
+		<segment id="421" parent="420" relname="elaboration">Ломидзе сослалась на данные российского консульства в Болгарии и болгарских туроператоров, работающих с российским рынком.\n\nОбратная хронология \"самолетных\" терактов против израильтян (справка представлена NEWSru Israel.)\n\n28 ноября 2002.</segment>
+		<segment id="424" parent="423" relname="background">Обстрел в Момбасе (Кения) двумя ракетами лайнера израильской авиакомпании Arkia (рейс 582).</segment>
+		<segment id="426" parent="425" relname="elaboration">Никто не пострадал.\n\n4 июля 2002.</segment>
+		<segment id="428" parent="456" relname="span">Террорист открыл стрельбу у билетной кассы израильской авиакомпании \"Эль-Аль\" в Лос-Анджелесе (США).</segment>
+		<segment id="429" parent="455" relname="span">Убиты два человека.\n\n27 декабря 1985.</segment>
+		<segment id="430" parent="436" relname="span">Двойной теракт во время посадки на рейс израильской компании \"Эль-Аль\" в аэропортах Рима и Вены.</segment>
+		<segment id="431" parent="433" relname="joint">Убиты 18 человек,</segment>
+		<segment id="432" parent="433" relname="joint">свыше 150 ранены.</segment>
+		<segment id="434" parent="435" relname="joint">Организатор: Революционный совет \"Фатх\"/Организация Абу Нидаля.\n\n14 июня 1985.</segment>
+		<segment id="437" parent="451" relname="span">Террористы захватили самолет Boeing 727 компании Trans World Airlines,</segment>
+		<segment id="438" parent="440" relname="joint">направляющийся из Рима в Афины,</segment>
+		<segment id="439" parent="440" relname="joint">и заставили пилотов лететь в Бейрут.</segment>
+		<segment id="441" parent="442" relname="joint">Два террориста требовали освободить несколько сотен заключенных из израильских и южно-ливанских тюрем.</segment>
+		<segment id="443" parent="445" relname="span">Самолет дважды летал в Алжир.</segment>
+		<segment id="444" parent="443" relname="condition">После этого при посадке</segment>
+		<segment id="447" parent="448" relname="span">в Бейруте заложники были освобождены,</segment>
+		<segment id="449" parent="450" relname="joint">преступники осуждены.</segment>
+		<segment id="452" parent="453" relname="sequence">8 членов экипажа и 145 пассажиров удерживались в плену на протяжении 17 дней.</segment>
+		<segment id="457" parent="473" relname="span">Один пассажир был убит.</segment>
+		<segment id="458" parent="471" relname="preparation">Организатор: \"Хизбаллах\".\n\n26 июня 1976.</segment>
+		<segment id="459" parent="461" relname="span">Захват самолета Airbus A300 компании Air France,</segment>
+		<segment id="460" parent="459" relname="elaboration">летевшего из Тель-Авива в Париж.</segment>
+		<segment id="462" parent="461" relname="elaboration">На борту самолёта находились 248 пассажиров и 12 членов экипажа.</segment>
+		<segment id="464" parent="466" relname="sequence">Самолёт, по приказу террористов,</segment>
+		<segment id="465" parent="466" relname="sequence">сел в аэропорту Энтеббе близ столицы Уганды Кампалы.</segment>
+		<segment id="467" parent="468" relname="joint">Во время операции \"Энтеббе\" погибли трое заложников-израильтян и подполковник Йонатан Нетаниягу (брат Биньямина Нетаниягу).</segment>
+		<segment id="470" parent="469" relname="elaboration">Одна из заложниц была убита офицерами угандийских спецслужб.</segment>
+		<segment id="474" parent="475" relname="joint">10 заложников и 5 бойцов спецназа были ранены.</segment>
+		<segment id="476" parent="478" relname="span">Организаторы: \"Народный фронт освобождения Палестины\" и германская \"Фракция красной армии\".\n\n30 мая 1972.</segment>
+		<segment id="477" parent="476" relname="elaboration">Теракт в аэропорту израильского города Лод.</segment>
+		<segment id="479" parent="481" relname="joint">Погибли 10 израильтян и 16 паломников из Пуэрто Рико,</segment>
+		<segment id="480" parent="481" relname="joint">72 получили ранения.</segment>
+		<segment id="482" parent="484" relname="joint">Двое боевиков убиты,</segment>
+		<segment id="483" parent="484" relname="joint">один арестован.</segment>
+		<segment id="486" parent="485" relname="elaboration">Исполнители: боевики \"Красной армии Японии\".</segment>
+		<segment id="492" parent="498" relname="span">Организатор: \"Народный фронт освобождения Палестины\" и власти Северной Кореи.\n\n8 мая 1972.</segment>
+		<segment id="493" parent="495" relname="span">Четверо палестинских террористов захватили самолет Boeing-707 бельгийской авиакомпании Sabena,</segment>
+		<segment id="494" parent="493" relname="elaboration">следовавший рейсом Вена – Тель-Авив.</segment>
+		<segment id="496" parent="495" relname="elaboration">Самолёт совершил посадку в Аэропорту Лод.</segment>
+		<segment id="499" parent="500" relname="joint">9 мая спецподразделение \"Сайерет Маткаль\" под командованием Эхуда Барака провело операцию по освобождению заложников.</segment>
+		<segment id="501" parent="503" relname="joint">В ходе операции двое террористов были уничтожены,</segment>
+		<segment id="502" parent="503" relname="joint">двое других – схвачены.</segment>
+		<segment id="506" parent="507" relname="joint">Одна заложница убита, два заложника и боец спецназа Биньямин Нетаньяху были ранены.</segment>
+		<segment id="508" parent="507" relname="elaboration">Организатор: \"Черный сентябрь\".\n\n6 сентября 1970.</segment>
+		<segment id="510" parent="509" relname="elaboration">Неудавшаяся попытка угона самолета компании \"Эль-Аль\", следовавшего из Тель-Авива в Нью-Йорк, Лейлой Халед и Патрисио Аргуэльо.</segment>
+		<segment id="512" parent="514" relname="span">Аргуэльо застрелен сотрудником службы безопасности \"Эль Аль\" после того, как успел бросить ручную гранату в проход самолёта,</segment>
+		<segment id="513" parent="512" relname="interpretation-evaluation">которая к счастью не взорвалась.</segment>
+		<segment id="515" parent="516" relname="same-unit">Халед была арестована.</segment>
+		<segment id="517" parent="519" relname="span">При нападении был ранен стюард.</segment>
+		<segment id="518" parent="517" relname="elaboration">Организатор: \"Народный фронт освобождения Палестины\".\n\n21 февраля 1970.</segment>
+		<segment id="523" parent="525" relname="span">Теракт в самолете Swissair Flight 330 (Швейцария).</segment>
+		<segment id="524" parent="523" relname="elaboration">47 человека погибли, в том числе, 9 членов экипажа и 13 граждан Израиля.</segment>
+		<segment id="526" parent="525" relname="elaboration">Организатор: \"Народный фронт освобождения Палестины\".\n\n10 февраля 1970.</segment>
+		<segment id="529" parent="528" relname="elaboration">Теракт в аэропорту Мюнхена (Германия).</segment>
+		<segment id="531" parent="532" relname="cause-effect">Попытка захвата самолета компании \"Эль-Аль\" с применением автоматического оружия и гранат.</segment>
+		<segment id="532" parent="533" relname="span">11 человек получили серьёзные ранения.</segment>
+		<segment id="534" parent="535" relname="joint">Организатор: \"Демократический фронт освобождения Палестины\".\n\n18 февраля 1969.</segment>
+		<segment id="538" parent="554" relname="span">Теракт в аэропорту Цюриха (Швейцария).</segment>
+		<segment id="539" parent="549" relname="joint">Палестинские боевики открыли огонь по сотрудникам \"Эль-Аль\".</segment>
+		<segment id="540" parent="548" relname="joint">Погиб помощник пилота,</segment>
+		<segment id="541" parent="543" relname="span">ранено 5 пассажиров.</segment>
+		<segment id="542" parent="541" relname="elaboration">Один из нападавших застрелен сотрудником служб безопасности компании.\n\n26 декабря 1968.</segment>
+		<segment id="544" parent="546" relname="joint">В аэропорту Афин (Греция) два палестинских боевика открыли автоматный огонь по самолету \"Эль-Аль\"</segment>
+		<segment id="545" parent="546" relname="joint">и забросали его гранатами.</segment>
+		<segment id="550" parent="552" relname="joint">Погиб один пассажир,</segment>
+		<segment id="551" parent="552" relname="joint">тяжело ранена бортпроводница.</segment>
+		<segment id="555" parent="554" relname="elaboration">Организатор: \"Народный фронт освобождения Палестины\".\n\n23 июля 1968.</segment>
+		<segment id="557" parent="559" relname="span">Захват самолета Boeing-707 компании \"Эль-Аль\", следовавшего рейсом Рим – Тель-Авив.</segment>
+		<segment id="558" parent="557" relname="elaboration">Самолет был посажен в Алжире.</segment>
+		<segment id="561" parent="563" relname="span">Последние заложники были освобождены 1 сентября 1968 года.</segment>
+		<segment id="562" parent="561" relname="elaboration">Организатор: \"Народный фронт освобождения Палестины\".\n\nИсточник: https://www.newsru.com/world/18Jul2012/israelbus.html\n</segment>
+		<group id="196" type="span" parent="571" relname="preparation"/>
+		<group id="195" type="span" parent="192" relname="elaboration"/>
+		<group id="571" type="multinuc" parent="572" relname="span"/>
+		<group id="229" type="multinuc" parent="571" relname="joint"/>
+		<group id="211" type="span" parent="229" relname="joint"/>
+		<group id="210" type="multinuc" parent="197" relname="elaboration"/>
+		<group id="202" type="span" parent="210" relname="joint"/>
+		<group id="200" type="span" parent="202" relname="span"/>
+		<group id="209" type="span" parent="210" relname="joint"/>
+		<group id="207" type="span" parent="209" relname="span"/>
+		<group id="206" type="span" parent="203" relname="elaboration"/>
+		<group id="228" type="span" parent="229" relname="joint"/>
+		<group id="227" type="span" parent="212" relname="elaboration"/>
+		<group id="223" type="span" parent="227" relname="span"/>
+		<group id="222" type="multinuc" parent="223" relname="span"/>
+		<group id="221" type="span" parent="222" relname="joint"/>
+		<group id="220" type="span" parent="215" relname="elaboration"/>
+		<group id="219" type="span" parent="216" relname="elaboration"/>
+		<group id="226" type="span" parent="223" relname="attribution"/>
+		<group id="570" type="multinuc" parent="571" relname="joint"/>
+		<group id="242" type="multinuc" parent="570" relname="joint"/>
+		<group id="232" type="span" parent="242" relname="joint"/>
+		<group id="241" type="multinuc" parent="242" relname="joint"/>
+		<group id="235" type="multinuc" parent="241" relname="joint"/>
+		<group id="240" type="multinuc" parent="241" relname="joint"/>
+		<group id="238" type="multinuc" parent="240" relname="joint"/>
+		<group id="569" type="multinuc" parent="570" relname="joint"/>
+		<group id="279" type="multinuc" parent="569" relname="joint"/>
+		<group id="255" type="span" parent="279" relname="joint"/>
+		<group id="249" type="span" parent="255" relname="span"/>
+		<group id="247" type="span" parent="249" relname="span"/>
+		<group id="246" type="span" parent="247" relname="span"/>
+		<group id="254" type="span" parent="249" relname="interpretation-evaluation"/>
+		<group id="253" type="multinuc" parent="254" relname="span"/>
+		<group id="278" type="multinuc" parent="279" relname="joint"/>
+		<group id="262" type="multinuc" parent="278" relname="joint"/>
+		<group id="261" type="span" parent="262" relname="joint"/>
+		<group id="259" type="span" parent="261" relname="span"/>
+		<group id="277" type="multinuc" parent="278" relname="joint"/>
+		<group id="276" type="multinuc" parent="277" relname="joint"/>
+		<group id="275" type="span" parent="276" relname="joint"/>
+		<group id="274" type="span" parent="275" relname="span"/>
+		<group id="273" type="multinuc" parent="274" relname="span"/>
+		<group id="272" type="multinuc" parent="273" relname="joint"/>
+		<group id="271" type="multinuc" parent="272" relname="joint"/>
+		<group id="568" type="multinuc" parent="569" relname="joint"/>
+		<group id="316" type="multinuc" parent="568" relname="joint"/>
+		<group id="294" type="span" parent="316" relname="joint"/>
+		<group id="293" type="span" parent="280" relname="elaboration"/>
+		<group id="292" type="span" parent="281" relname="elaboration"/>
+		<group id="291" type="span" parent="282" relname="elaboration"/>
+		<group id="290" type="span" parent="283" relname="attribution"/>
+		<group id="286" type="span" parent="289" relname="attribution"/>
+		<group id="289" type="multinuc" parent="290" relname="span"/>
+		<group id="315" type="span" parent="316" relname="joint"/>
+		<group id="303" type="span" parent="314" relname="preparation"/>
+		<group id="301" type="span" parent="303" relname="span"/>
+		<group id="297" type="span" parent="301" relname="span"/>
+		<group id="300" type="span" parent="297" relname="elaboration"/>
+		<group id="314" type="multinuc" parent="315" relname="span"/>
+		<group id="308" type="span" parent="314" relname="joint"/>
+		<group id="307" type="multinuc" parent="308" relname="span"/>
+		<group id="313" type="span" parent="314" relname="joint"/>
+		<group id="311" type="span" parent="313" relname="span"/>
+		<group id="567" type="multinuc" parent="568" relname="joint"/>
+		<group id="359" type="multinuc" parent="567" relname="joint"/>
+		<group id="331" type="span" parent="359" relname="joint"/>
+		<group id="323" type="span" parent="331" relname="span"/>
+		<group id="321" type="span" parent="323" relname="span"/>
+		<group id="320" type="span" parent="317" relname="attribution"/>
+		<group id="330" type="span" parent="323" relname="elaboration"/>
+		<group id="328" type="span" parent="330" relname="span"/>
+		<group id="327" type="multinuc" parent="328" relname="span"/>
+		<group id="358" type="span" parent="359" relname="joint"/>
+		<group id="346" type="span" parent="358" relname="span"/>
+		<group id="338" type="multinuc" parent="346" relname="span"/>
+		<group id="334" type="span" parent="338" relname="joint"/>
+		<group id="337" type="span" parent="338" relname="joint"/>
+		<group id="345" type="span" parent="338" relname="interpretation-evaluation"/>
+		<group id="341" type="multinuc" parent="345" relname="span"/>
+		<group id="344" type="span" parent="341" relname="elaboration"/>
+		<group id="357" type="span" parent="346" relname="elaboration"/>
+		<group id="349" type="span" parent="357" relname="span"/>
+		<group id="356" type="span" parent="349" relname="elaboration"/>
+		<group id="354" type="span" parent="356" relname="span"/>
+		<group id="353" type="span" parent="354" relname="span"/>
+		<group id="566" type="multinuc" parent="567" relname="joint"/>
+		<group id="418" type="span" parent="566" relname="joint"/>
+		<group id="378" type="span" parent="418" relname="span"/>
+		<group id="377" type="multinuc" parent="378" relname="span"/>
+		<group id="369" type="span" parent="377" relname="joint"/>
+		<group id="367" type="span" parent="368" relname="cause-effect"/>
+		<group id="365" type="span" parent="367" relname="span"/>
+		<group id="364" type="span" parent="361" relname="condition"/>
+		<group id="376" type="span" parent="377" relname="joint"/>
+		<group id="375" type="multinuc" parent="370" relname="elaboration"/>
+		<group id="373" type="span" parent="375" relname="contrast"/>
+		<group id="417" type="multinuc" parent="378" relname="elaboration"/>
+		<group id="393" type="multinuc" parent="417" relname="joint"/>
+		<group id="385" type="span" parent="393" relname="joint"/>
+		<group id="384" type="span" parent="385" relname="span"/>
+		<group id="382" type="span" parent="384" relname="span"/>
+		<group id="392" type="multinuc" parent="393" relname="joint"/>
+		<group id="391" type="span" parent="392" relname="joint"/>
+		<group id="416" type="span" parent="417" relname="joint"/>
+		<group id="414" type="multinuc" parent="416" relname="span"/>
+		<group id="413" type="multinuc" parent="414" relname="joint"/>
+		<group id="401" type="multinuc" parent="413" relname="joint"/>
+		<group id="400" type="multinuc" parent="401" relname="joint"/>
+		<group id="399" type="span" parent="400" relname="joint"/>
+		<group id="412" type="span" parent="413" relname="joint"/>
+		<group id="410" type="span" parent="411" relname="cause-effect"/>
+		<group id="409" type="multinuc" parent="402" relname="purpose"/>
+		<group id="408" type="span" parent="409" relname="contrast"/>
+		<group id="407" type="span" parent="404" relname="condition"/>
+		<group id="565" type="multinuc" parent="566" relname="joint"/>
+		<group id="537" type="multinuc" parent="565" relname="joint"/>
+		<group id="491" type="multinuc" parent="537" relname="joint"/>
+		<group id="427" type="span" parent="491" relname="joint"/>
+		<group id="425" type="span" parent="427" relname="span"/>
+		<group id="423" type="span" parent="425" relname="span"/>
+		<group id="422" type="span" parent="423" relname="span"/>
+		<group id="490" type="multinuc" parent="491" relname="joint"/>
+		<group id="456" type="span" parent="490" relname="joint"/>
+		<group id="455" type="span" parent="428" relname="elaboration"/>
+		<group id="454" type="multinuc" parent="429" relname="elaboration"/>
+		<group id="436" type="span" parent="454" relname="joint"/>
+		<group id="435" type="multinuc" parent="430" relname="elaboration"/>
+		<group id="433" type="multinuc" parent="435" relname="joint"/>
+		<group id="453" type="multinuc" parent="454" relname="joint"/>
+		<group id="451" type="span" parent="453" relname="sequence"/>
+		<group id="450" type="multinuc" parent="437" relname="elaboration"/>
+		<group id="448" type="span" parent="450" relname="joint"/>
+		<group id="446" type="span" parent="447" relname="cause-effect"/>
+		<group id="442" type="multinuc" parent="446" relname="span"/>
+		<group id="440" type="multinuc" parent="442" relname="joint"/>
+		<group id="445" type="span" parent="442" relname="elaboration"/>
+		<group id="489" type="multinuc" parent="490" relname="joint"/>
+		<group id="475" type="multinuc" parent="489" relname="joint"/>
+		<group id="473" type="span" parent="475" relname="joint"/>
+		<group id="472" type="span" parent="457" relname="elaboration"/>
+		<group id="471" type="span" parent="472" relname="span"/>
+		<group id="469" type="multinuc" parent="471" relname="span"/>
+		<group id="463" type="span" parent="469" relname="joint"/>
+		<group id="461" type="span" parent="463" relname="span"/>
+		<group id="468" type="multinuc" parent="469" relname="joint"/>
+		<group id="466" type="multinuc" parent="468" relname="joint"/>
+		<group id="488" type="multinuc" parent="489" relname="joint"/>
+		<group id="478" type="span" parent="488" relname="joint"/>
+		<group id="487" type="span" parent="488" relname="joint"/>
+		<group id="485" type="span" parent="487" relname="span"/>
+		<group id="481" type="multinuc" parent="485" relname="span"/>
+		<group id="484" type="multinuc" parent="481" relname="elaboration"/>
+		<group id="536" type="span" parent="537" relname="joint"/>
+		<group id="530" type="span" parent="536" relname="span"/>
+		<group id="528" type="span" parent="530" relname="span"/>
+		<group id="522" type="multinuc" parent="528" relname="span"/>
+		<group id="500" type="multinuc" parent="522" relname="joint"/>
+		<group id="498" type="span" parent="500" relname="joint"/>
+		<group id="497" type="span" parent="492" relname="elaboration"/>
+		<group id="495" type="span" parent="497" relname="span"/>
+		<group id="521" type="multinuc" parent="522" relname="joint"/>
+		<group id="511" type="span" parent="521" relname="joint"/>
+		<group id="509" type="span" parent="511" relname="span"/>
+		<group id="507" type="multinuc" parent="509" relname="span"/>
+		<group id="503" type="multinuc" parent="507" relname="joint"/>
+		<group id="520" type="multinuc" parent="521" relname="joint"/>
+		<group id="516" type="multinuc" parent="520" relname="sequence"/>
+		<group id="514" type="span" parent="516" relname="same-unit"/>
+		<group id="519" type="span" parent="520" relname="sequence"/>
+		<group id="527" type="span" parent="522" relname="elaboration"/>
+		<group id="525" type="span" parent="527" relname="span"/>
+		<group id="535" type="multinuc" parent="530" relname="elaboration"/>
+		<group id="533" type="span" parent="535" relname="joint"/>
+		<group id="564" type="multinuc" parent="565" relname="joint"/>
+		<group id="560" type="span" parent="564" relname="joint"/>
+		<group id="556" type="span" parent="560" relname="span"/>
+		<group id="554" type="span" parent="556" relname="span"/>
+		<group id="553" type="multinuc" parent="538" relname="elaboration"/>
+		<group id="549" type="multinuc" parent="553" relname="joint"/>
+		<group id="548" type="multinuc" parent="549" relname="joint"/>
+		<group id="547" type="multinuc" parent="548" relname="joint"/>
+		<group id="543" type="span" parent="547" relname="joint"/>
+		<group id="546" type="multinuc" parent="547" relname="joint"/>
+		<group id="552" type="multinuc" parent="553" relname="joint"/>
+		<group id="559" type="span" parent="556" relname="elaboration"/>
+		<group id="563" type="span" parent="564" relname="joint"/>
+		<group id="572" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,62 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="26" relname="span">Apple расследует взрыв на китайском заводе по производству iPad</segment>
+		<segment id="25" parent="24" relname="cause-effect">- погибли два человека\n\</segment>
+		<segment id="27" parent="29" relname="span">nКомпания Apple ведёт расследование причин взрыва на фабрике тайваньской компании Foxconn в Китае,</segment>
+		<segment id="28" parent="27" relname="elaboration">производящей популярные планшетные компьютеры iPad 2,</segment>
+		<segment id="30" parent="29" relname="attribution">сообщает агентство Reuters со ссылкой на представителя Apple Стива Доулинга.\n\</segment>
+		<segment id="32" parent="35" relname="attribution">nВ пятницу агентство Синьхуа сообщало,</segment>
+		<segment id="33" parent="35" relname="joint">что в результате взрыва на заводе Hongfujin Precision Electronics в промышленной зоне к западу от китайского города Чэнду, административного центра провинции Сычуань, погибли два человека.</segment>
+		<segment id="34" parent="35" relname="joint">16 человек получили ранения.\n\nЭтот завод является ключевым предприятием компании Foxconn, главного производителя техники для Apple.</segment>
+		<segment id="37" parent="38" relname="attribution">По мнению Доулинга,</segment>
+		<segment id="38" parent="39" relname="span">инцидент может негативно сказаться на выпуске iPad2.\n\n</segment>
+		<segment id="40" parent="42" relname="joint">\"Мы глубоко расстроены трагедией на заводе Foxconn в Чэнду</segment>
+		<segment id="41" parent="42" relname="joint">и всем сердцем соболезнуем пострадавшим и их семьям.</segment>
+		<segment id="43" parent="45" relname="span">Мы тесно сотрудничаем с Foxconn</segment>
+		<segment id="44" parent="43" relname="purpose">для установления причины этого ужасного происшествия\",</segment>
+		<segment id="46" parent="45" relname="attribution">- сказал Доулинг</segment>
+		<segment id="48" parent="61" relname="preparation">.\n\nКомментариев от представителей компании Foxconn пока не поступало.</segment>
+		<segment id="49" parent="59" relname="span">Foxconn является крупнейшим мировым поставщиком электронных компонентов.</segment>
+		<segment id="50" parent="52" relname="span">В числе ее контрактных клиентов - множество брендов первой величины,</segment>
+		<segment id="51" parent="50" relname="elaboration">среди которых Apple, Nokia, Sony, HP и другие,</segment>
+		<segment id="53" parent="57" relname="span">сообщает РИА \"Новости\".\n\nПриостановка производства iPad сейчас особенно невыгодна Apple</segment>
+		<segment id="54" parent="56" relname="span">- компания до сих пор не в силах удовлетворить полностью спрос на популярные \"планшетники\" второго поколения,</segment>
+		<segment id="55" parent="54" relname="elaboration">продажи которых в США стартовали в марте.</segment>
+		<segment id="60" parent="59" relname="elaboration">Поставки iPad2 и так не поспевали за растущими потребностями рынка.\n\nИсточник: https://www.newsru.com/world/21May2011/ipad.html\n</segment>
+		<group id="26" type="span" parent="67" relname="preparation"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="31" type="span" parent="66" relname="preparation"/>
+		<group id="29" type="span" parent="31" relname="span"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="36" type="span" parent="65" relname="preparation"/>
+		<group id="35" type="multinuc" parent="36" relname="span"/>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="39" type="span" parent="64" relname="preparation"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="42" type="multinuc" parent="63" relname="preparation"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="47" type="span" parent="63" relname="span"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="62" type="span" parent="47" relname="elaboration"/>
+		<group id="61" type="span" parent="62" relname="span"/>
+		<group id="59" type="span" parent="61" relname="span"/>
+		<group id="58" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="52" type="span" parent="58" relname="same-unit"/>
+		<group id="57" type="span" parent="58" relname="same-unit"/>
+		<group id="56" type="span" parent="53" relname="elaboration"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

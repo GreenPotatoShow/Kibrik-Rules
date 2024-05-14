@@ -1,0 +1,43 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="17" relname="condition">ГАЗ выпустит \"антикризисную ГАЗель\" к концу 2009 года\n\nРоссийский автопроизводитель группа \"ГАЗ\" намерен начать выпуск нового бюджетного автомобиля \"ГАЗель\" в конце третьего - начале четвертого квартала 2009 года.\n\nУже известно, что стоимость новинки составит около 6 000 долларов,</segment>
+		<segment id="17" parent="18" relname="span">что по нынешнему курсу равняется немногим более 200 000 рублей.</segment>
+		<segment id="19" parent="22" relname="purpose">Для сравнения,</segment>
+		<segment id="22" parent="23" relname="span">базовая комплектация \"ГАЗели\" нынешнего поколения стоит 354 000 рублей.\n\n\"Сейчас мы анализируем рынок, целевую группу, определяем политику по продвижению продукта.</segment>
+		<segment id="24" parent="23" relname="elaboration">Думаем, что \"антикризисная ГАЗель\" появится в конце третьего - начале четвертого квартала\",</segment>
+		<segment id="26" parent="25" relname="attribution">- передает РИА \"Новости\" слова первого зампредседателя правления \"ГАЗа\" Вадима Сорокина.</segment>
+		<segment id="29" parent="30" relname="attribution">С таким заявлением он выступил в понедельник на брифинге.\n\nРанее глава компании \"Базовый элемент\" Олег Дерипаска сообщил,</segment>
+		<segment id="30" parent="31" relname="span">что \"ГАЗ\" сейчас фокусируется на значительном снижении издержек, производстве линейки высокорентабельных продуктов.</segment>
+		<segment id="32" parent="33" relname="attribution">По его словам,</segment>
+		<segment id="33" parent="34" relname="span">компания намерена предложить рынку новую бюджетную \"ГАЗель\" к августу 2009 года.\n\n\"ГАЗ\" произведет порядка 10 000 таких машин.</segment>
+		<segment id="35" parent="36" relname="attribution">По словам зампреда группы,</segment>
+		<segment id="36" parent="37" relname="span">выпуск дешевой \"ГАЗели\" также поможет увеличить объемы производства.</segment>
+		<segment id="38" parent="40" relname="span">В 2009 году \"ГАЗ\" должен реализовать до 100 000 коммерческих автомобилей семейств \"ГАЗель\", \"Соболь\" и среднетоннажных грузовиков,</segment>
+		<segment id="39" parent="38" relname="attribution">прогнозирует Сорокин.\n\nИсточник: https://www.newsru.com/auto/06Apr2009/gazel.html\n</segment>
+		<group id="28" type="multinuc" parent="44" relname="joint"/>
+		<group id="18" type="span" parent="28" relname="joint"/>
+		<group id="27" type="span" parent="28" relname="joint"/>
+		<group id="25" type="span" parent="27" relname="span"/>
+		<group id="23" type="span" parent="25" relname="span"/>
+		<group id="43" type="multinuc" parent="44" relname="joint"/>
+		<group id="31" type="span" parent="43" relname="joint"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="34" type="span" parent="42" relname="comparison"/>
+		<group id="41" type="span" parent="42" relname="comparison"/>
+		<group id="37" type="span" parent="41" relname="span"/>
+		<group id="40" type="span" parent="37" relname="elaboration"/>
+		<group id="44" type="multinuc"/>
+	</body>
+</rst>

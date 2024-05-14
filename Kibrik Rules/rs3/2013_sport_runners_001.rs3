@@ -1,0 +1,32 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="10" parent="12" relname="span">Футболисты \"Рубина\" и \"Кубани\" одержали победы в Лиге Европы\n\nКазанский \"Рубин\" оформил победу в первом матче третьего отборочного раунда Лиги Европы,</segment>
+		<segment id="11" parent="10" relname="elaboration">выиграв в гостях у датского клуба \"Раннерс\" со счетом 2:1.\n\nУ победителей забитыми мячами отметились экс-железнодорожник Дмитрий Торбинский (12') и Соломон Рондон (42').</segment>
+		<segment id="13" parent="15" relname="sequence">Единственный гол гостей на счету Йонаса Борринга (61').\n\nКоманда Курбана Бердыева активно начала матч</segment>
+		<segment id="14" parent="15" relname="sequence">и в первом тайме вела 2:0,</segment>
+		<segment id="16" parent="17" relname="contrast">но после перерыва едва не упустила победу.</segment>
+		<segment id="18" parent="19" relname="joint">Ответная игра пройдет 8 августа в Казани.\n\nПозднее в четверг в Шотландии первый в истории команды еврокубковый матч провели футболисты \"Кубани\".</segment>
+		<segment id="20" parent="22" relname="span">Соперником краснодарцев в 3-м квалификационном раунде Лиги Европы был местный клуб \"Мотеруэлла\",</segment>
+		<segment id="21" parent="20" relname="elaboration">который капитулировал со счетом 0:2.\n\nОба мяча у россиян на 52-й и 78-й минутах забил полузащитник Ивелин Попов.</segment>
+		<segment id="23" parent="24" relname="joint">Ответный матч пройдет в Краснодаре 8 августа.\n\nИсточник: https://www.newsru.com/sport/01Aug2013/runners.html\n</segment>
+		<group id="12" type="span" parent="25" relname="preparation"/>
+		<group id="25" type="multinuc" parent="26" relname="span"/>
+		<group id="19" type="multinuc" parent="25" relname="comparison"/>
+		<group id="17" type="multinuc" parent="19" relname="joint"/>
+		<group id="15" type="multinuc" parent="17" relname="contrast"/>
+		<group id="24" type="multinuc" parent="25" relname="comparison"/>
+		<group id="22" type="span" parent="24" relname="joint"/>
+		<group id="26" type="span"/>
+	</body>
+</rst>

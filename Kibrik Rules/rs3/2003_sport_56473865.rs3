@@ -1,0 +1,78 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="34" relname="span">Лэнс Армстронг пятый раз подряд выиграл \"Тур де Франс\"\n\nАмериканец Лэнс Армстронг выиграл юбилейную, 100-ю по счету велогонку \"Тур де Франс\",</segment>
+		<segment id="33" parent="32" relname="elaboration">которая финишировала в воскресенье на Елисейских полях в Париже.\n\nЕго победа была ожидаемой и закономерной.</segment>
+		<segment id="35" parent="37" relname="sequence">Большую часть гонки Армстронг провел в желтой майке лидера,</segment>
+		<segment id="36" parent="37" relname="sequence">и перед заключительным этапом его отрыв от ближайшего преследователя - немца Яна Ульриха - составлял 1 минуту 16 секунд.</segment>
+		<segment id="38" parent="42" relname="span">Фактически американцу нужно было лишь без приключений добраться до финиша,</segment>
+		<segment id="41" parent="38" relname="cause-effect">что он и сделал при поддержке товарищей по команде \"US Postal\".</segment>
+		<segment id="44" parent="46" relname="span">А победителем 20-го этапа протяженностью 152 км стал хозяин гонки Жан-Патрик Назон.\n\nВыиграв \"Тур де Франс\" пятый раз подряд,</segment>
+		<segment id="45" parent="44" relname="elaboration">Армстронг по праву вписал свое имя в историю самой престижной многодневной велогонки.</segment>
+		<segment id="47" parent="48" relname="joint">До него пятикратными победителями за сто лет становились лишь четверо спортсменов: французы Жак Анкетиль и Бернар Эно, бельгиец Эдди Меркс и испанец Мигель Индурайн,</segment>
+		<segment id="49" parent="58" relname="attribution">сообщает РИА \"Новости\".\n\nЛэнс Армстронг,</segment>
+		<segment id="50" parent="52" relname="span">которому вскоре исполнится 32 года,</segment>
+		<segment id="51" parent="50" relname="concession">несмотря на временные проблемы с желудком и воспаление ткани сухожилия,</segment>
+		<segment id="53" parent="57" relname="joint">вызванного не разношенной обувью,</segment>
+		<segment id="54" parent="55" relname="attribution">был, по его словам,</segment>
+		<segment id="55" parent="56" relname="span">не в самой лучшей форме.</segment>
+		<segment id="61" parent="64" relname="attribution">Он заявил,</segment>
+		<segment id="62" parent="64" relname="joint">что обязательно будет участвовать в следующей велогонке во Франции</segment>
+		<segment id="63" parent="64" relname="joint">и надеется стать первым в мире велосипедистом, выигравшим шесть титулов на \"Тур де Франс\",</segment>
+		<segment id="66" parent="67" relname="sequence">сообщает ИТАР-ТАСС.\n\nВторое место в общем зачете юбилейной велогонки досталось Ульриху, третье - Александру Винокурову из Казахстана.</segment>
+		<segment id="68" parent="70" relname="span">Французская пресса назвала Александра \"открытием Тур де Франс\", \"участником велогонки,</segment>
+		<segment id="69" parent="68" relname="elaboration">проявившим самый высокий боевой дух\",</segment>
+		<segment id="71" parent="73" relname="span">и имеющим прекрасные перспективы в велоспорте</segment>
+		<segment id="72" parent="71" relname="cause-effect">.\n\nСегодня же стало известно, что одна допинг-проба участника престижной многодневки дала положительный результат на эритропоэтин.</segment>
+		<segment id="75" parent="77" relname="span">Имя спортсмена пока не разглашается.</segment>
+		<segment id="76" parent="75" relname="interpretation-evaluation">Оно будет предано гласности после того, как станут известны результаты контрольной пробы.</segment>
+		<segment id="79" parent="81" relname="span">Однако, по сведениям из источников, близких к организаторам,</segment>
+		<segment id="80" parent="79" relname="interpretation-evaluation">этот велосипедист не из числа лидеров.</segment>
+		<segment id="82" parent="86" relname="span">Пока организаторы отказываются от комментариев,</segment>
+		<segment id="83" parent="84" relname="attribution">заявляя,</segment>
+		<segment id="84" parent="85" relname="span">что собираются дождаться сначала официального уведомления от Международного союза велосипедистов.\n\nИсточник: https://www.newsru.com/sport/27Jul2003/56473865.html\n</segment>
+		<group id="34" type="span" parent="91" relname="preparation"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="43" type="span" parent="91" relname="joint"/>
+		<group id="37" type="multinuc" parent="42" relname="preparation"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="60" type="multinuc" parent="90" relname="joint"/>
+		<group id="48" type="multinuc" parent="60" relname="joint"/>
+		<group id="46" type="span" parent="48" relname="joint"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="52" type="span" parent="58" relname="span"/>
+		<group id="57" type="multinuc" parent="52" relname="interpretation-evaluation"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="67" type="multinuc" parent="89" relname="joint"/>
+		<group id="65" type="span" parent="67" relname="sequence"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="78" type="span" parent="88" relname="contrast"/>
+		<group id="74" type="multinuc" parent="78" relname="span"/>
+		<group id="70" type="span" parent="74" relname="joint"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="77" type="span" parent="74" relname="elaboration"/>
+		<group id="87" type="span" parent="88" relname="contrast"/>
+		<group id="81" type="span" parent="87" relname="span"/>
+		<group id="86" type="span" parent="81" relname="elaboration"/>
+		<group id="85" type="span" parent="82" relname="condition"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

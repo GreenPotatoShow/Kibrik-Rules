@@ -1,0 +1,102 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="42" parent="121" relname="preparation">Дмитрий Гудков: \"Плитка горит под ногами\"\n\n\"Вчера на \"Дожде\" у меня был разговор об убийцах из ФСБ и расследовании об отравлении Навального.</segment>
+		<segment id="43" parent="46" relname="attribution">Депутат Госдумы (правда, от ЛДПР) Сергей Калашников сказал:</segment>
+		<segment id="46" parent="47" relname="span">вы знаете, я не смотрел,</segment>
+		<segment id="48" parent="49" relname="contrast">но считаю, что это все домыслы.</segment>
+		<segment id="50" parent="52" relname="joint">Растерянность.</segment>
+		<segment id="51" parent="52" relname="joint">Непонимание, что дальше.</segment>
+		<segment id="54" parent="56" relname="span">Какие бы слова ни разносились с кремлевских минаретов,</segment>
+		<segment id="55" parent="54" relname="interpretation-evaluation">они уже не имеют значения.</segment>
+		<segment id="57" parent="61" relname="span">Цугцванг.</segment>
+		<segment id="58" parent="60" relname="span">Какой ход ни делай</segment>
+		<segment id="59" parent="58" relname="cause-effect">- будет только хуже\",</segment>
+		<segment id="63" parent="62" relname="attribution">- пишет политик на своей странице в Facebook.\n\n</segment>
+		<segment id="65" parent="68" relname="condition">\"Промолчишь</segment>
+		<segment id="66" parent="68" relname="joint">- потеряешь поддержку,</segment>
+		<segment id="67" parent="68" relname="joint">соврешь - тем более.</segment>
+		<segment id="70" parent="69" relname="elaboration">Десакрализация власти.</segment>
+		<segment id="72" parent="82" relname="span">Не отцы нации, а ворье.</segment>
+		<segment id="73" parent="81" relname="joint">Не государство - а мафиозная корпорация.</segment>
+		<segment id="74" parent="76" relname="span">И только остатки телеаудитории продолжают создавать проценты рейтинга,</segment>
+		<segment id="75" parent="74" relname="elaboration">которые уже никого в Кремле не утешают.</segment>
+		<segment id="77" parent="78" relname="sequence">Плитка горит под ногами.\n\nСначала вы работаете на репутацию, а потом репутация на вас.</segment>
+		<segment id="79" parent="78" relname="interpretation-evaluation">И нельзя сказать \"горшочек, не вари\".</segment>
+		<segment id="83" parent="87" relname="joint">Грабили ЮКОС,</segment>
+		<segment id="84" parent="86" relname="joint">убивали всех подряд за границей и внутри,</segment>
+		<segment id="85" parent="86" relname="joint">развязывали войны,</segment>
+		<segment id="88" parent="92" relname="joint">наказывали сирот</segment>
+		<segment id="89" parent="91" relname="joint">- и получили то, что и должны были получить.\n\nМожно врать по телевизору</segment>
+		<segment id="90" parent="91" relname="joint">или не врать по телевизору:</segment>
+		<segment id="93" parent="94" relname="span">реакция одинаковая.</segment>
+		<segment id="96" parent="100" relname="joint">Там молчат?</segment>
+		<segment id="97" parent="99" relname="span">- Есть, что скрывать!</segment>
+		<segment id="98" parent="97" relname="elaboration">Там говорят?</segment>
+		<segment id="101" parent="115" relname="span">- Значит, врут.\n\nНо это расследование - особый случай.</segment>
+		<segment id="102" parent="110" relname="span">Приведенные факты - убедительные.</segment>
+		<segment id="103" parent="107" relname="joint">Те, кто вчера поддерживал власть,</segment>
+		<segment id="104" parent="106" relname="span">потихоньку отходят в сторону,</segment>
+		<segment id="105" parent="104" relname="purpose">чтобы не ассоциироваться с преступниками.</segment>
+		<segment id="108" parent="109" relname="span">Сомневающиеся тоже сделали вывод.</segment>
+		<segment id="111" parent="113" relname="joint">Рано или поздно общество выйдет из гражданской комы,</segment>
+		<segment id="112" parent="113" relname="joint">и поток вранья, жестокости и преступлений власти приведут к закономерному финалу\".\n\nИсточник: https://www.newsru.com/blog/15Dec2020/navalny_novichok.html\n</segment>
+		<group id="121" type="span" parent="122" relname="span"/>
+		<group id="53" type="span" parent="120" relname="preparation"/>
+		<group id="49" type="multinuc" parent="53" relname="span"/>
+		<group id="47" type="span" parent="49" relname="contrast"/>
+		<group id="52" type="multinuc" parent="49" relname="interpretation-evaluation"/>
+		<group id="120" type="multinuc" parent="121" relname="span"/>
+		<group id="64" type="span" parent="120" relname="joint"/>
+		<group id="62" type="span" parent="64" relname="span"/>
+		<group id="56" type="span" parent="62" relname="span"/>
+		<group id="61" type="span" parent="56" relname="interpretation-evaluation"/>
+		<group id="60" type="span" parent="57" relname="interpretation-evaluation"/>
+		<group id="119" type="multinuc" parent="120" relname="joint"/>
+		<group id="71" type="span" parent="119" relname="joint"/>
+		<group id="69" type="span" parent="71" relname="span"/>
+		<group id="68" type="multinuc" parent="69" relname="span"/>
+		<group id="118" type="multinuc" parent="119" relname="joint"/>
+		<group id="82" type="span" parent="118" relname="joint"/>
+		<group id="81" type="multinuc" parent="72" relname="evidence"/>
+		<group id="80" type="span" parent="81" relname="joint"/>
+		<group id="78" type="multinuc" parent="80" relname="span"/>
+		<group id="76" type="span" parent="78" relname="sequence"/>
+		<group id="117" type="multinuc" parent="118" relname="joint"/>
+		<group id="95" type="multinuc" parent="117" relname="joint"/>
+		<group id="87" type="multinuc" parent="95" relname="joint"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="cause-effect"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="116" type="span" parent="117" relname="joint"/>
+		<group id="100" type="multinuc" parent="115" relname="solutionhood"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="115" type="span" parent="116" relname="span"/>
+		<group id="114" type="multinuc" parent="101" relname="elaboration"/>
+		<group id="110" type="span" parent="114" relname="joint"/>
+		<group id="109" type="span" parent="102" relname="elaboration"/>
+		<group id="107" type="multinuc" parent="108" relname="cause-effect"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="122" type="span"/>
+	</body>
+</rst>

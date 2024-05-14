@@ -1,0 +1,91 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="37" parent="39" relname="span">Немецкое правительство вернет в строй списанные \"на пенсию\" танки из-за \"российской угрозы\"\n\nНемецкое правительство увеличить количество танков Leopard-2 (\"Леопард-2\") в армии с 225 до до 328 машин</segment>
+		<segment id="38" parent="37" relname="cause-effect">из-за растущей напряженности между НАТО и Россией.</segment>
+		<segment id="40" parent="44" relname="same-unit">Эту информацию, которая появилась ранее в германской прессе,</segment>
+		<segment id="41" parent="42" relname="attribution">подтвердил представитель Министерства обороны Германии Йенс Флосдорф.\n\nОн указал,</segment>
+		<segment id="42" parent="43" relname="span">что в ведомстве было принято решение повысить количество боевых машин.</segment>
+		<segment id="46" parent="50" relname="joint">320 боевых танков будут введены в эксплуатацию,</segment>
+		<segment id="47" parent="49" relname="joint">восемь будут нужны для технических нужд</segment>
+		<segment id="48" parent="49" relname="joint">и в целях демонстрации,</segment>
+		<segment id="51" parent="50" relname="attribution">передает слова чиновника Zeit Online.</segment>
+		<segment id="54" parent="57" relname="attribution">По словам Флосдорфа,</segment>
+		<segment id="55" parent="56" relname="cause-effect">соответствующее решение было принято после того, как было практически выполнено предыдущее</segment>
+		<segment id="56" parent="57" relname="span">- о сокращении количества боевых машин.</segment>
+		<segment id="59" parent="70" relname="attribution">Представитель немецкого оборонного ведомства отметил,</segment>
+		<segment id="60" parent="63" relname="attribution">что политика была изменена из-за \"российской угрозы\".\n\nЧиновник сообщил,</segment>
+		<segment id="61" parent="62" relname="purpose">что для исполнения решения</segment>
+		<segment id="62" parent="63" relname="span">планируется использовать те танки, которые были отправлены \"на пенсию\".</segment>
+		<segment id="65" parent="67" relname="joint">Они будут модернизированы</segment>
+		<segment id="66" parent="67" relname="joint">и заново введены в эксплуатацию,</segment>
+		<segment id="68" parent="67" relname="attribution">объяснил Флосдорф.</segment>
+		<segment id="72" parent="73" relname="attribution">По его словам,</segment>
+		<segment id="73" parent="74" relname="span">на модернизацию потребуется около 23 миллионов долларов.\n\nРанее о решении бундесвера сообщило издание Spiegel.</segment>
+		<segment id="75" parent="80" relname="attribution">Согласно информации журнала,</segment>
+		<segment id="76" parent="80" relname="span">который ссылается на внутренний документ Минобороны ФРГ,</segment>
+		<segment id="77" parent="79" relname="span">использование ранее списанных танков необходимо</segment>
+		<segment id="78" parent="77" relname="purpose">для полного оснащения шести немецких танковых батальонов, состоящих каждый из 44 боевых \"Леопардов\".\n\nРанее на Западе неоднократно высказывали беспокойство по поводу \"российской угрозы\".</segment>
+		<segment id="82" parent="84" relname="span">Накануне стало известно, что пять стран севера Европы - Швеция, Норвегия, Финляндия, Дания и Исландия - договорились координировать усилия в области обороны против России,</segment>
+		<segment id="83" parent="82" relname="elaboration">которую провозгласили главной угрозой для региона, Европы и НАТО.</segment>
+		<segment id="86" parent="101" relname="preparation">В Швеции запланировали переброску войск на остров в Балтийском море.</segment>
+		<segment id="87" parent="89" relname="span">В Норвегии раскритиковали решение закрыть военную базу,</segment>
+		<segment id="88" parent="87" relname="elaboration">которую теперь \"оккупировала\" Россия.\n\nОпасения касательно \"российской агрессии\" высказывали и страны Балтии.</segment>
+		<segment id="90" parent="92" relname="joint">Они принялись увеличивать военные бюджеты,</segment>
+		<segment id="91" parent="92" relname="joint">а в Литве даже вернули военный призыв.</segment>
+		<segment id="94" parent="96" relname="comparison">Министерство обороны этой страны подготовило для школьников книгу, в которой рассказывается о том, что надо делать в случае нападения России.\n\nРешения были приняты на фоне масштабных учений российских войск и переброски ракетно-тактических комплексов в Калининградскую область.\n\nВ январе власти США объявили</segment>
+		<segment id="95" parent="96" relname="comparison">об опасности нападения на Латвию со стороны \"восточной границы\".</segment>
+		<segment id="97" parent="99" relname="span">О возможности нападения РФ на одну из западных стран</segment>
+		<segment id="98" parent="97" relname="cause-effect">заявляли в Великобритании, а также в НАТО.\n\nИсточник: https://www.newsru.com/world/10Apr2015/germantank.html\n</segment>
+		<group id="53" type="multinuc" parent="107" relname="joint"/>
+		<group id="45" type="multinuc" parent="53" relname="joint"/>
+		<group id="39" type="span" parent="45" relname="joint"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="43" type="span" parent="44" relname="same-unit"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="50" type="multinuc" parent="52" relname="span"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="58" type="span" parent="105" relname="preparation"/>
+		<group id="57" type="span" parent="58" relname="span"/>
+		<group id="105" type="multinuc" parent="106" relname="span"/>
+		<group id="71" type="span" parent="105" relname="joint"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="64" type="span" parent="70" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="69" type="span" parent="70" relname="joint"/>
+		<group id="67" type="multinuc" parent="69" relname="span"/>
+		<group id="104" type="span" parent="105" relname="joint"/>
+		<group id="74" type="span" parent="103" relname="preparation"/>
+		<group id="103" type="multinuc" parent="104" relname="span"/>
+		<group id="85" type="multinuc" parent="103" relname="joint"/>
+		<group id="81" type="span" parent="85" relname="joint"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="79" type="span" parent="76" relname="purpose"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="102" type="span" parent="103" relname="joint"/>
+		<group id="101" type="multinuc" parent="102" relname="span"/>
+		<group id="93" type="multinuc" parent="101" relname="joint"/>
+		<group id="89" type="span" parent="93" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="100" type="multinuc" parent="101" relname="joint"/>
+		<group id="96" type="multinuc" parent="100" relname="joint"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="107" type="multinuc"/>
+	</body>
+</rst>

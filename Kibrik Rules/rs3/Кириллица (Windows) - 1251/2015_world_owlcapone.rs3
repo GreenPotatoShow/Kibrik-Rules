@@ -1,0 +1,84 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="38" relname="span">В Орегоне появились дорожные знаки, предупреждающие о злых совах\n\nНеобычные дорожные знаки появились в американском городе Салем в штате Орегон.</segment>
+		<segment id="35" parent="37" relname="span">На них изображен человек, убегающий от нападающей на него совы,</segment>
+		<segment id="36" parent="35" relname="attribution">сообщает агентство AP.\n\nСмысл изображения</segment>
+		<segment id="39" parent="40" relname="condition">- предупредить граждан</segment>
+		<segment id="40" parent="41" relname="span">об угрозе совиной атаки.</segment>
+		<segment id="43" parent="45" relname="span">Инициатором появления знаков стала ведущая канала MSNBC Рэйчел Мэддоу,</segment>
+		<segment id="44" parent="43" relname="elaboration">поднявшая \"проблему\" агрессии \"злых сов\" в прямом эфире.</segment>
+		<segment id="46" parent="48" relname="span">Американцы с юмором отнеслись к этой идее.</segment>
+		<segment id="47" parent="46" relname="elaboration">Они организовали интернет-конкурс на лучшее имя для совы-хулиганки.</segment>
+		<segment id="51" parent="53" relname="span">Кроме того, у птицы появился собственный аккаунт в Twitter.\n\nА началось все с нескольких нападений совы в местном парке.</segment>
+		<segment id="52" parent="51" relname="elaboration">Один из них произошел 20 января.</segment>
+		<segment id="54" parent="64" relname="span">Жертвой совиной атаки стал местный житель, вышедший в парк на пробежку.</segment>
+		<segment id="55" parent="56" relname="attribution">По его словам,</segment>
+		<segment id="56" parent="57" relname="span">птица дважды ударила его клювом в голову с такой силой,</segment>
+		<segment id="58" parent="60" relname="joint">что он решил,</segment>
+		<segment id="59" parent="60" relname="joint">будто это молния,</segment>
+		<segment id="61" parent="60" relname="attribution">передает Huffington Post.</segment>
+		<segment id="65" parent="66" relname="sequence">Позднее произошло еще по меньшей мере три схожих инцидента.</segment>
+		<segment id="67" parent="68" relname="attribution">Двое пострадавших сообщили,</segment>
+		<segment id="68" parent="69" relname="span">что во время нападения сова \"похитила\" их головные уборы.\n\nМэддоу упомянула о случившемся в одном из своих эфиров.</segment>
+		<segment id="70" parent="72" relname="span">Она также предложила установить в парке специальные предупреждающие знаки.</segment>
+		<segment id="71" parent="70" relname="interpretation-evaluation">Салемским чиновникам эта идея понравилась.</segment>
+		<segment id="73" parent="74" relname="attribution">Они объявили,</segment>
+		<segment id="74" parent="75" relname="span">что для начала в городе будут установлены 20 таких знаков.\n\nНа днях пример такого изображения был обнародован на сайте Салема в Twitter.\n\nА уже 13 февраля пользователи смогли лицезреть подобные изображения, установленные в парке.\n\nКроме того, сама Рэйчел Мэддоу продемонстрировала плоды своих усилий в эфире.\n\nИстория получила широкую огласку.</segment>
+		<segment id="76" parent="78" relname="span">Так, издающаяся в Салеме газета Statesman Journal устроила конкурс на лучшее имя для совы-хулиганки,</segment>
+		<segment id="77" parent="76" relname="elaboration">где победило имя \"Owlpachino\" (нечто среднее между английским словом owl - \"сова\" и фамилией известного американского актера Аль Пачино,</segment>
+		<segment id="79" parent="78" relname="elaboration">сыгравшего роль главы мафиозного клана в трилогии \"Крестный отец\".</segment>
+		<segment id="81" parent="80" relname="elaboration">- Прим.</segment>
+		<segment id="86" parent="93" relname="preparation">NEWSru.com).</segment>
+		<segment id="87" parent="88" relname="attribution">Также ироничные пользователи предлагали</segment>
+		<segment id="88" parent="89" relname="span">назвать сову Rachel Madowl по аналогии с именем самой инициаторши борьбы со \"злыми совами\" - Рэйчел Мэддоу (Rachel Maddow).\n\nНекие шутники изготовили также две футболки с изображением знаков, появившихся по инициативе телеведущей.</segment>
+		<segment id="90" parent="89" relname="elaboration">Одна из них была подарена первой жертве нападения совы - мужчине по имени Рональд Джекс (Ronald Jaecks).</segment>
+		<segment id="92" parent="93" relname="joint">Его друзья также соорудили для него защитный шлем с прикрепленной к нему самодельной совой.\n\nИсточник: https://www.newsru.com/world/13Feb2015/owlcapone.html\n</segment>
+		<group id="50" type="multinuc" parent="98" relname="joint"/>
+		<group id="42" type="span" parent="50" relname="joint"/>
+		<group id="38" type="span" parent="42" relname="span"/>
+		<group id="37" type="span" parent="34" relname="elaboration"/>
+		<group id="41" type="span" parent="38" relname="attribution"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="45" type="span" parent="49" relname="span"/>
+		<group id="48" type="span" parent="45" relname="elaboration"/>
+		<group id="97" type="span" parent="98" relname="joint"/>
+		<group id="53" type="span" parent="96" relname="preparation"/>
+		<group id="96" type="multinuc" parent="97" relname="span"/>
+		<group id="66" type="multinuc" parent="96" relname="joint"/>
+		<group id="64" type="span" parent="66" relname="sequence"/>
+		<group id="63" type="span" parent="54" relname="elaboration"/>
+		<group id="57" type="span" parent="62" relname="cause-effect"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="60" type="multinuc" parent="62" relname="span"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="85" type="multinuc" parent="95" relname="joint"/>
+		<group id="69" type="span" parent="85" relname="joint"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="72" type="span" parent="84" relname="joint"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="75" type="span" parent="83" relname="span"/>
+		<group id="82" type="span" parent="75" relname="cause-effect"/>
+		<group id="80" type="span" parent="82" relname="span"/>
+		<group id="78" type="span" parent="80" relname="span"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="93" type="multinuc" parent="94" relname="span"/>
+		<group id="91" type="span" parent="93" relname="joint"/>
+		<group id="89" type="span" parent="91" relname="span"/>
+		<group id="98" type="multinuc"/>
+	</body>
+</rst>

@@ -6,10 +6,15 @@
 #include <vector>
 #include <iostream>
 
+bool isProtagonist(std::string str) {
+	const char* nominative = "èì";
+	return (str.substr(0, 2) == nominative);
+}
 
 
 TextProcessor::TextProcessor(const TextLoader &textLoader) {
 	int bestCAChainID;
+	char* oProperty = new char;
 	double currentCA, maxCA;
 	bestCAChainID = -1;
 	currentCA = 0;
@@ -17,9 +22,9 @@ TextProcessor::TextProcessor(const TextLoader &textLoader) {
 	uint* end_pos = new uint;
 	std::vector<Chain> chains;
 	this->chains = chains;
-	std::list<const IKNWordShell*> entities = textLoader.getEntities();
+	std::list<IKNWordShell*> entities = textLoader.getEntities();
 
-	const IKNWordShell* currentEntity;
+	IKNWordShell* currentEntity;
 	currentEntity = entities.front();
 
 	this->chains.push_back(Chain(0));
@@ -29,13 +34,15 @@ TextProcessor::TextProcessor(const TextLoader &textLoader) {
 	while (!entities.empty()) {
 		currentEntity = entities.front();
 		for (auto &chain:this->chains) {
-			currentCA=textLoader.activationÑoeff(chain.getWords().back()->GetTextPos(end_pos), currentEntity->GetTextPos(end_pos));
+			chain.getWords().back()->GetPropertyAsString(oProperty);
+			currentCA=textLoader.activationÑoeff(chain.getWords().back()->GetTextPos(end_pos), currentEntity->GetTextPos(end_pos), isProtagonist(std::string(oProperty)), chain.getWords().size());
+			//currentCA = textLoader.activationÑoeff(chain.getWords().back()->GetTextPos(end_pos), currentEntity->GetTextPos(end_pos), true, 0);
 			if (currentCA >= maxCA) {
 				maxCA = currentCA;
 				bestCAChainID = chain.getId();
 			}
 		}
-		if (maxCA >= 0) {
+		if (maxCA >= 0.7) {
 			this->chains[bestCAChainID].pushBackToWords(currentEntity);
 		}
 		else {

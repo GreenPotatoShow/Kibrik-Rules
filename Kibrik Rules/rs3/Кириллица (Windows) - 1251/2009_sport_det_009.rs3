@@ -1,0 +1,22 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="6" parent="13" relname="preparation">\"Детройт\" в шаге от выхода в финал Кубка Стэнли\n\n\"Детройт Ред Уингз\" после поражения в Чикаго три дня назад в воскресенье в четвертом матче полуфинальной серии плей-офф Национальной хоккейной лиги разгромил в гостях \"Блэкхокс\" со счетом 6:1.</segment>
+		<segment id="7" parent="9" relname="contrast">По две шайбы в составе \"Красных крыльев\" забросили словак Марианн Хосса и швед Хенрик Зеттерберг.\n\nГости вторую встречу кряду играли без травмированного Павла Дацюка,</segment>
+		<segment id="8" parent="9" relname="contrast">а в составе \"Чикаго\" также из-за повреждения отсутствовал основной голкипер Николай Хабибуллин.</segment>
+		<segment id="10" parent="12" relname="joint">Его не очень удачно подменил Кристобаль Юэ.\n\nДействующие обладатели Кубка Стэнли повели в серии со счетом 3-1</segment>
+		<segment id="11" parent="12" relname="joint">и уже в среду на своем льду могут оформить выход в финал плей-офф.\n\nВ финальной серии Восточной конференции \"Питтсбург\" со счетом 3-0 выигрывает у \"Каролины\".\n\nИсточник: https://www.newsru.com/sport/25May2009/det.html\n</segment>
+		<group id="13" type="span" parent="14" relname="span"/>
+		<group id="9" type="multinuc" parent="13" relname="span"/>
+		<group id="12" type="multinuc" parent="9" relname="elaboration"/>
+		<group id="14" type="span"/>
+	</body>
+</rst>

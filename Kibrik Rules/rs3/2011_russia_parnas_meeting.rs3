@@ -1,0 +1,88 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="39" parent="41" relname="span">Партия Немцова и Касьянова,</segment>
+		<segment id="40" parent="39" relname="elaboration">не допущенная к выборам,</segment>
+		<segment id="42" parent="46" relname="span">проведет протестный митинг\n\nПартия народной свободы (ПАРНАС),</segment>
+		<segment id="45" parent="42" relname="elaboration">которую возглавляют оппозиционные политики Борис Немцов и Михаил Касьянов, намеревается провести митинг в Москве под лозунгами</segment>
+		<segment id="48" parent="47" relname="interpretation-evaluation">\"Против произвола и коррупции!</segment>
+		<segment id="50" parent="51" relname="cause-effect">За честные и свободные выборы!\".</segment>
+		<segment id="51" parent="52" relname="span">Напомним, что в среду стало известно об отказе Минюста регистрировать партию.</segment>
+		<segment id="53" parent="55" relname="span">Ее лидеры связывают этот факт с нежеланием нынешнего руководства страны допускать оппозиционную партию к парламентским выборам,</segment>
+		<segment id="54" parent="53" relname="elaboration">которые состоятся осенью этого года.\n\</segment>
+		<segment id="56" parent="60" relname="same-unit">nКак сообщается на сайте движения,</segment>
+		<segment id="57" parent="59" relname="joint">митинг согласован</segment>
+		<segment id="58" parent="59" relname="joint">и пройдет 25 июня в Новопушкинском сквере.</segment>
+		<segment id="62" parent="72" relname="joint">Организаторы выступают против системы власти,</segment>
+		<segment id="63" parent="70" relname="attribution">выстроенной премьером Владимиром Путиным и продвигаемой нынешним президентом Дмитрием Медведевым.\n\nОни заявляют,</segment>
+		<segment id="64" parent="70" relname="joint">что действующее правительство не в состоянии обеспечить рост экономики,</segment>
+		<segment id="65" parent="67" relname="joint">гарантировать гражданам благополучную жизнь</segment>
+		<segment id="66" parent="67" relname="joint">и побороть коррупцию и беспредел во властных кругах.\n\n\"У нас вызывает серьезную тревогу ухудшающееся уже не первый год положение дел в сфере выборов,</segment>
+		<segment id="68" parent="67" relname="elaboration">характеризуемое отсутствием реальной политической конкуренции, безудержными манипуляциями и фальсификациями в пользу представляющих власть кандидатов, произволом судебных и регистрирующих органов в отношении их оппонентов.</segment>
+		<segment id="73" parent="72" relname="interpretation-evaluation">Все это позволяет констатировать практически полное уничтожение в нашей стране института демократических выборов как такового\",</segment>
+		<segment id="75" parent="74" relname="attribution">- говорится в официальном заявлении партии.\n\nЗаявление подписано, в частности, правозащитницей Людмилой Алексеевой, актерами Лией Ахеджаковой и Олегом Басилашвили, режиссерами Эльдаром Рязановым и Юрием Норштейном.\n\</segment>
+		<segment id="80" parent="87" relname="attribution">nПо мнению ПАРНАСа,</segment>
+		<segment id="81" parent="85" relname="span">в России назревает политический кризис,</segment>
+		<segment id="82" parent="83" relname="condition">когда президент не в состоянии конструктивно изменить ситуацию,</segment>
+		<segment id="83" parent="84" relname="span">парламент больше не является местом для дискуссий,</segment>
+		<segment id="86" parent="87" relname="joint">а региональные власти практически не могут обойтись без помощи федерального центра.\n\n\"Первым шагом на этом пути должно стать снятие де-факто действующего антиконституционного запрета на регистрацию новых политических партий и обеспечение доступа к выборам всех политических сил.</segment>
+		<segment id="89" parent="93" relname="span">Выбор должны делать граждане, а не чиновники:</segment>
+		<segment id="92" parent="89" relname="elaboration">все партии, которым отказывают в регистрации под разными несуразными предлогами, должны быть зарегистрированы\",</segment>
+		<segment id="94" parent="96" relname="span">- говорится в заявлении партии.\n\n\"Ответственность за вакуум власти в стране и его катастрофические последствия целиком и полностью ляжет на президента России Дмитрия Медведева и главу партии \"Единая Россия\" Владимира Путина\",</segment>
+		<segment id="95" parent="94" relname="attribution">- отмечают в заключении авторы заявления</segment>
+		<segment id="98" parent="102" relname="same-unit">.\n\</segment>
+		<segment id="101" parent="102" relname="same-unit">nПримечательно, что на днях об отмене регистрации партий заговорил глава Минюста Александр Коновалов.</segment>
+		<segment id="103" parent="109" relname="same-unit">Признав, что российское законодательство, касающееся вопросов партстроительства, \"слишком забюрократизировано\",</segment>
+		<segment id="104" parent="107" relname="attribution">министр юстиции предложил</segment>
+		<segment id="105" parent="107" relname="span">в будущем отменить обязательную регистрацию партий,</segment>
+		<segment id="106" parent="105" relname="condition">заменив ее уведомительной системой.\n\nИсточник: https://www.newsru.com/russia/22Jun2011/parnas_meeting.html\n</segment>
+		<group id="79" type="span" parent="113" relname="joint"/>
+		<group id="49" type="span" parent="78" relname="preparation"/>
+		<group id="47" type="multinuc" parent="49" relname="span"/>
+		<group id="41" type="span" parent="47" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="78" type="multinuc" parent="79" relname="span"/>
+		<group id="52" type="span" parent="78" relname="joint"/>
+		<group id="77" type="multinuc" parent="78" relname="joint"/>
+		<group id="61" type="span" parent="77" relname="joint"/>
+		<group id="55" type="span" parent="61" relname="span"/>
+		<group id="60" type="multinuc" parent="55" relname="elaboration"/>
+		<group id="59" type="multinuc" parent="60" relname="same-unit"/>
+		<group id="76" type="span" parent="77" relname="joint"/>
+		<group id="74" type="span" parent="76" relname="span"/>
+		<group id="72" type="multinuc" parent="74" relname="span"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="69" type="span" parent="70" relname="joint"/>
+		<group id="67" type="multinuc" parent="69" relname="span"/>
+		<group id="112" type="multinuc" parent="113" relname="joint"/>
+		<group id="88" type="span" parent="112" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="span"/>
+		<group id="85" type="span" parent="87" relname="joint"/>
+		<group id="84" type="span" parent="81" relname="condition"/>
+		<group id="111" type="multinuc" parent="112" relname="joint"/>
+		<group id="97" type="span" parent="111" relname="joint"/>
+		<group id="93" type="span" parent="97" relname="span"/>
+		<group id="96" type="span" parent="93" relname="attribution"/>
+		<group id="110" type="multinuc" parent="111" relname="joint"/>
+		<group id="102" type="multinuc" parent="110" relname="joint"/>
+		<group id="109" type="multinuc" parent="110" relname="joint"/>
+		<group id="108" type="span" parent="109" relname="same-unit"/>
+		<group id="107" type="span" parent="108" relname="span"/>
+		<group id="113" type="multinuc"/>
+	</body>
+</rst>

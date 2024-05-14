@@ -1,0 +1,113 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="48" parent="52" relname="same-unit">В Англии пилота самолета,</segment>
+		<segment id="49" parent="51" relname="joint">у которого при взлете отвалилась деталь,</segment>
+		<segment id="50" parent="51" relname="joint">уличили во лжи\n\</segment>
+		<segment id="53" parent="61" relname="span">nПри взлете самолета Bombardier Dash 8 авиакомпании Flybe из британского аэропорта Саутгемптон</segment>
+		<segment id="54" parent="60" relname="joint">у двигателя воздушного судна оторвалась створка, прикрывающая начинку мотора</segment>
+		<segment id="55" parent="59" relname="same-unit">и,</segment>
+		<segment id="58" parent="59" relname="same-unit">отлетая, повредила крыло.</segment>
+		<segment id="62" parent="67" relname="condition">При расследовании</segment>
+		<segment id="63" parent="66" relname="attribution">командир экипажа утверждал,</segment>
+		<segment id="64" parent="66" relname="joint">что перед взлетом проверил машину, включая крышки двигателя,</segment>
+		<segment id="65" parent="66" relname="joint">и они были должным образом закреплены.</segment>
+		<segment id="69" parent="70" relname="attribution">Но подразделение по расследованию авиапроисшествий AAIB заключило,</segment>
+		<segment id="70" parent="71" relname="span">что дверца не была должным образом закреплена,</segment>
+		<segment id="72" parent="71" relname="attribution">передает BBC.\n\</segment>
+		<segment id="74" parent="78" relname="joint">nСамолет развернулся на посадку</segment>
+		<segment id="75" parent="77" relname="span">и благополучно приземлился,</segment>
+		<segment id="76" parent="75" relname="cause-effect">никто из 40 пассажиров не пострадал.</segment>
+		<segment id="81" parent="83" relname="contrast">Инцидент произошел еще 22 апреля,</segment>
+		<segment id="82" parent="83" relname="contrast">но отчет AAIB обнародован лишь сейчас.</segment>
+		<segment id="84" parent="91" relname="attribution">В нем также говорится,</segment>
+		<segment id="85" parent="91" relname="same-unit">что рабочие аэродрома,</segment>
+		<segment id="86" parent="90" relname="same-unit">занимавшиеся антиобледенительными мероприятиями,</segment>
+		<segment id="87" parent="89" relname="joint">не обнаружили у самолета никаких неполадок.\n\nОтрыв крышки двигателя</segment>
+		<segment id="88" parent="89" relname="joint">при взлете самолета Flybe увидел летчик другого самолета, стоявшего на аэродроме.</segment>
+		<segment id="93" parent="96" relname="attribution">Он немедленно сообщил</segment>
+		<segment id="94" parent="96" relname="joint">о случившемся авиадиспетчерам,</segment>
+		<segment id="95" parent="96" relname="joint">а те передали это сообщение экипажу Dash 8.</segment>
+		<segment id="98" parent="108" relname="span">Тот не заметил ничего не обычного,</segment>
+		<segment id="99" parent="107" relname="span">пока не получил это тревожное известие</segment>
+		<segment id="100" parent="105" relname="attribution">- взлет прошел штатно.\n\nДиспетчер сообщил экипажу,</segment>
+		<segment id="101" parent="105" relname="joint">что сорванная с двигателя крышка и другие обломки валяются на летном поле,</segment>
+		<segment id="102" parent="104" relname="sequence">и командир воздушного судна решил развернуться</segment>
+		<segment id="103" parent="104" relname="sequence">и зайти на посадку.</segment>
+		<segment id="109" parent="108" relname="elaboration">На самом деле оторвавшаяся крышка была найдена в траве возле взлетной полосы.</segment>
+		<segment id="112" parent="114" relname="joint">Два ее замка были полностью открыты</segment>
+		<segment id="113" parent="114" relname="joint">и забиты землей и травой</segment>
+		<segment id="115" parent="114" relname="interpretation-evaluation">- это означает,</segment>
+		<segment id="117" parent="120" relname="attribution">заключила комиссия,</segment>
+		<segment id="118" parent="120" relname="joint">что при ударе о землю</segment>
+		<segment id="119" parent="120" relname="joint">они находились в открытом положении.\n\</segment>
+		<segment id="123" parent="126" relname="evidence">nА из этого, в свою очередь, следует,</segment>
+		<segment id="126" parent="127" relname="span">что после техосмотра, который проводился в Саутгемптоне в ночь перед полетом, крышка не была полностью зафиксирована на месте.\n\nПосле инцидента авиакомпания усилила меры безопасности,</segment>
+		<segment id="128" parent="131" relname="purpose">напомнив пилотам</segment>
+		<segment id="129" parent="131" relname="span">о необходимости проверять перед каждым полетом,</segment>
+		<segment id="130" parent="129" relname="purpose">чтобы крышки двигателей были надежно заперты.\n\nИсточник: https://www.newsru.com/world/09Dec2010/flybe.html\n</segment>
+		<group id="52" type="multinuc" parent="139" relname="preparation"/>
+		<group id="51" type="multinuc" parent="52" relname="same-unit"/>
+		<group id="139" type="span" parent="140" relname="span"/>
+		<group id="61" type="span" parent="138" relname="preparation"/>
+		<group id="60" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="138" type="multinuc" parent="139" relname="span"/>
+		<group id="80" type="multinuc" parent="138" relname="joint"/>
+		<group id="68" type="span" parent="80" relname="contrast"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="66" type="multinuc" parent="67" relname="span"/>
+		<group id="79" type="multinuc" parent="80" relname="contrast"/>
+		<group id="73" type="span" parent="79" relname="sequence"/>
+		<group id="71" type="span" parent="73" relname="span"/>
+		<group id="78" type="multinuc" parent="79" relname="sequence"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="137" type="span" parent="138" relname="joint"/>
+		<group id="83" type="multinuc" parent="136" relname="preparation"/>
+		<group id="136" type="multinuc" parent="137" relname="span"/>
+		<group id="92" type="span" parent="136" relname="joint"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="90" type="multinuc" parent="91" relname="same-unit"/>
+		<group id="89" type="multinuc" parent="90" relname="same-unit"/>
+		<group id="135" type="multinuc" parent="136" relname="joint"/>
+		<group id="111" type="multinuc" parent="135" relname="joint"/>
+		<group id="97" type="span" parent="111" relname="sequence"/>
+		<group id="96" type="multinuc" parent="97" relname="span"/>
+		<group id="110" type="span" parent="111" relname="sequence"/>
+		<group id="108" type="span" parent="110" relname="span"/>
+		<group id="107" type="span" parent="98" relname="condition"/>
+		<group id="106" type="span" parent="99" relname="cause-effect"/>
+		<group id="105" type="multinuc" parent="106" relname="span"/>
+		<group id="104" type="multinuc" parent="105" relname="joint"/>
+		<group id="134" type="multinuc" parent="135" relname="joint"/>
+		<group id="122" type="multinuc" parent="134" relname="joint"/>
+		<group id="116" type="span" parent="122" relname="joint"/>
+		<group id="114" type="multinuc" parent="116" relname="span"/>
+		<group id="121" type="span" parent="122" relname="joint"/>
+		<group id="120" type="multinuc" parent="121" relname="span"/>
+		<group id="133" type="span" parent="134" relname="joint"/>
+		<group id="127" type="span" parent="133" relname="span"/>
+		<group id="132" type="span" parent="127" relname="elaboration"/>
+		<group id="131" type="span" parent="132" relname="span"/>
+		<group id="140" type="span"/>
+	</body>
+</rst>

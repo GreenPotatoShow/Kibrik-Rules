@@ -1,0 +1,36 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="13" parent="27" relname="joint">На железнодорожных путях у станции Монино в Подмосковье обнаружена граната\n\nНа железнодорожных путях приблизительно в 350 метрах от станции Монино в 40 километрах от Москвы местные жители в четверг утром обнаружили гранату РГД, заложенную под рельсы.</segment>
+		<segment id="14" parent="26" relname="joint">Они немедленно сообщили об опасной находке в правоохранительные органы</segment>
+		<segment id="15" parent="19" relname="joint">.\n\nЖелезнодорожное движение в оба направления было перекрыто,</segment>
+		<segment id="16" parent="17" relname="cause-effect">район оцеплен,</segment>
+		<segment id="17" parent="18" relname="span">вызвано подразделение саперов.\n\nНачальник пресс-службы Главного управления внутренних дел на транспорте МВД России Игорь Барский сообщил РИА \"Новости\",</segment>
+		<segment id="22" parent="24" relname="span">что \"граната РГД, обнаруженная на железнодорожных путях недалеко от платформы Монино, не является боевой,</segment>
+		<segment id="23" parent="22" relname="cause-effect">так как в ней нет запала\".\n\</segment>
+		<segment id="28" parent="29" relname="attribution">nПо словам Барского,</segment>
+		<segment id="29" parent="30" relname="span">опасная находка уже изъята специалистами.</segment>
+		<segment id="31" parent="30" relname="elaboration">Движение поездов в ближайшее время будет восстановлено,</segment>
+		<segment id="33" parent="34" relname="comparison">добавил он.\n\nИсточник: https://www.newsru.com/russia/01Apr2004/monino.html\n</segment>
+		<group id="27" type="multinuc" parent="35" relname="joint"/>
+		<group id="26" type="multinuc" parent="27" relname="joint"/>
+		<group id="25" type="multinuc" parent="26" relname="joint"/>
+		<group id="19" type="multinuc" parent="25" relname="joint"/>
+		<group id="18" type="span" parent="19" relname="joint"/>
+		<group id="24" type="span" parent="25" relname="joint"/>
+		<group id="34" type="multinuc" parent="35" relname="joint"/>
+		<group id="32" type="span" parent="34" relname="comparison"/>
+		<group id="30" type="span" parent="32" relname="span"/>
+		<group id="35" type="multinuc"/>
+	</body>
+</rst>

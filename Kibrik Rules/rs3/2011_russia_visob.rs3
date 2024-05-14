@@ -1,0 +1,88 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="35" parent="37" relname="span">Высшее образование должны получать не более 20% россиян,</segment>
+		<segment id="36" parent="35" relname="attribution">заявил Прохоров\n\nЛидер \"Правого дела\" Михаил Прохоров выступил с очередным инновационным предвыборным предложением:</segment>
+		<segment id="38" parent="41" relname="attribution">он считает,</segment>
+		<segment id="39" parent="40" relname="cause-effect">что высшее образование в России должны получать не более одной пятой части молодых людей,</segment>
+		<segment id="40" parent="41" relname="span">тогда это позволит устранить дисбаланс между рынками труда и образованием.</segment>
+		<segment id="44" parent="46" relname="joint">Сейчас, по подсчетам миллиардера,</segment>
+		<segment id="45" parent="46" relname="joint">более половины выпускников российских вузов не работают по специальности,</segment>
+		<segment id="47" parent="48" relname="restatement">сообщает \"Интерфакс\".\n\n\"Проблема молодежной политики заключается в том, что рынок труда не соответствует рынку образования\",</segment>
+		<segment id="49" parent="48" relname="attribution">- заявил Прохоров в среду,</segment>
+		<segment id="51" parent="53" relname="span">выступая перед студентами Московского государственного университета,</segment>
+		<segment id="52" parent="51" relname="elaboration">который на днях выпал из сотни рейтинга лучших вузов планеты.\n\n\"Если мы будем продолжать в таком же духе,</segment>
+		<segment id="54" parent="56" relname="joint">часть молодежи будет уезжать,</segment>
+		<segment id="55" parent="56" relname="joint">и мы потеряем остатки конкурентоспособности\",</segment>
+		<segment id="59" parent="58" relname="attribution">- сказал Прохоров.</segment>
+		<segment id="62" parent="73" relname="attribution">Он убежден,</segment>
+		<segment id="63" parent="67" relname="span">что необходимо вернуться к модели,</segment>
+		<segment id="64" parent="66" relname="joint">при которой высшее образование должно получать не больше 20% молодежи,</segment>
+		<segment id="65" parent="66" relname="joint">и одновременно необходимо создавать высококвалифицированные рабочие места.\n\</segment>
+		<segment id="68" parent="70" relname="span">nОтвечая на вопросы студентов,</segment>
+		<segment id="69" parent="68" relname="elaboration">Прохоров не исключил вероятности избрания его президентом России в марте 2012 года,</segment>
+		<segment id="71" parent="72" relname="contrast">однако прежде хочет попасть в Госдуму.</segment>
+		<segment id="75" parent="82" relname="attribution">Согласно данным социологических опросов,</segment>
+		<segment id="76" parent="82" relname="comparison">пока праводелам не хватает голосов избирателей даже для преодоления 5-процентного барьера,</segment>
+		<segment id="77" parent="81" relname="span">а не то, что создать фракцию в Думе</segment>
+		<segment id="78" parent="80" relname="comparison">(набрать не менее 7% голосов).\n\nПо данным \"Левада-Центра\",</segment>
+		<segment id="79" parent="80" relname="comparison">рейтинг партии Прохорова в августе вырос до 3% против 1% с начала года.</segment>
+		<segment id="84" parent="86" relname="span">Недостающие очки праводелам может добавить певица Алла Пугачева,</segment>
+		<segment id="85" parent="84" relname="condition">если действительно примкнет к \"Правому делу\".</segment>
+		<segment id="87" parent="91" relname="span">Многочисленные поклонники примы смогут оказать серьезную поддержку партии Прохорова во время декабрьских выборов в Госдуму,</segment>
+		<segment id="88" parent="90" relname="span">указывают эксперты.\n\nНа днях бизнесмен Михаил Прохоров,</segment>
+		<segment id="89" parent="88" relname="background">который возглавил \"Правое дело\" лишь в конце июня 2011 года,</segment>
+		<segment id="92" parent="91" relname="attribution">заявил журналистам,</segment>
+		<segment id="94" parent="96" relname="span">что партия может выдвинуть его кандидатуру на президентских выборах в РФ в марте 2012 года,</segment>
+		<segment id="95" parent="94" relname="elaboration">если станет второй на думских выборах в декабре.\n\nИсточник: https://www.newsru.com/russia/07Sep2011/visob.html\n</segment>
+		<group id="61" type="multinuc" parent="101" relname="joint"/>
+		<group id="43" type="multinuc" parent="61" relname="joint"/>
+		<group id="37" type="span" parent="43" relname="joint"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="58" type="multinuc" parent="60" relname="span"/>
+		<group id="50" type="span" parent="58" relname="joint"/>
+		<group id="48" type="multinuc" parent="50" relname="span"/>
+		<group id="46" type="multinuc" parent="48" relname="restatement"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="53" type="span" parent="56" relname="condition"/>
+		<group id="56" type="multinuc" parent="57" relname="span"/>
+		<group id="100" type="multinuc" parent="101" relname="joint"/>
+		<group id="74" type="span" parent="100" relname="joint"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="67" type="span" parent="73" relname="comparison"/>
+		<group id="66" type="multinuc" parent="63" relname="elaboration"/>
+		<group id="72" type="multinuc" parent="73" relname="comparison"/>
+		<group id="70" type="span" parent="72" relname="contrast"/>
+		<group id="99" type="multinuc" parent="100" relname="joint"/>
+		<group id="83" type="span" parent="99" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="81" type="span" parent="82" relname="comparison"/>
+		<group id="80" type="multinuc" parent="77" relname="elaboration"/>
+		<group id="98" type="span" parent="99" relname="joint"/>
+		<group id="86" type="span" parent="97" relname="preparation"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="93" type="span" parent="96" relname="attribution"/>
+		<group id="91" type="span" parent="93" relname="span"/>
+		<group id="90" type="span" parent="87" relname="elaboration"/>
+		<group id="96" type="span" parent="97" relname="span"/>
+		<group id="101" type="multinuc"/>
+	</body>
+</rst>

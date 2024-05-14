@@ -1,0 +1,18 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="5" parent="10" relname="preparation">Виталий Дымарский: \"Из Волгограда в Сталинград.</segment>
+		<segment id="6" parent="9" relname="preparation">Получится ли обратно?\"\n\n\"И очень осторожными следовало бы быть всем делегатам партийного съезда...\n\</segment>
+		<segment id="7" parent="9" relname="span">nИмя Сталинграда действительно носят многие улицы и площади в Европе, особенно во Франции, всегда сильной левыми настроениями.</segment>
+		<segment id="8" parent="7" relname="elaboration">Только названия эти — не в честь генералиссимуса, а в честь кровавого сражения, в котором победу одержал народ.\n\nА вот та же Франция, кстати, почему-то не требует переименовать обратно в Аустерлиц моравский город Славков.\"\n\nИсточник: https://www.newsru.com/blog/01Feb2013/stalingrad.html\n</segment>
+		<group id="10" type="span" parent="11" relname="span"/>
+		<group id="9" type="span" parent="10" relname="span"/>
+		<group id="11" type="span"/>
+	</body>
+</rst>

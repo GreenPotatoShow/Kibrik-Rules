@@ -1,0 +1,59 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="61" relname="preparation">Заключенные пермской колонии жалуются на издевательства администрации\n\nКрупный скандал разгорается в Пермской области.</segment>
+		<segment id="23" parent="24" relname="attribution">Как передает НТВ,</segment>
+		<segment id="24" parent="25" relname="span">сегодня стало известно, что более ста заключенных одной из колоний обратились за помощью к правозащитным организациям с жалобами на избиения и издевательства со стороны тюремных властей.\n\nВ конце июля на имя уполномоченного по правам человека в Пермской области поступили более 140 писем от заключенных исправительной колонии строго режима в поселке Чепец Чердынского района.</segment>
+		<segment id="26" parent="36" relname="sequence">Как следует из этих писем, в апреле этого года на территории колонии проходил практику один из отрядов тюремного спецназа.</segment>
+		<segment id="27" parent="35" relname="joint">В течение трех дней люди в черных масках,</segment>
+		<segment id="28" parent="34" relname="joint">вооруженные резиновыми дубинками,</segment>
+		<segment id="29" parent="33" relname="joint">били заключенных,</segment>
+		<segment id="30" parent="32" relname="joint">издевались над ними</segment>
+		<segment id="31" parent="32" relname="joint">и проводили обыски.\n\</segment>
+		<segment id="38" parent="39" relname="attribution">nВ этих же письмах заключенные пишут,</segment>
+		<segment id="39" parent="40" relname="span">что обращались с жалобами в прокуратуру,</segment>
+		<segment id="41" parent="43" relname="joint">но ответа не получили</segment>
+		<segment id="42" parent="43" relname="joint">и в итоге каким-то образом, минуя тюремный контроль,</segment>
+		<segment id="44" parent="45" relname="same-unit">письма были переправлены правозащитникам.</segment>
+		<segment id="47" parent="46" relname="elaboration">Администрация колонии отрицает факты, изложенные в письмах заключенных.</segment>
+		<segment id="49" parent="57" relname="joint">В областной прокуратуре от комментариев отказываются,</segment>
+		<segment id="50" parent="56" relname="span">а правозащитники намерены обратиться за помощью в международные организации по защите прав человека.\n\n\"Я надеюсь,</segment>
+		<segment id="51" parent="55" relname="joint">уголовное дело доведет до конца</segment>
+		<segment id="52" parent="54" relname="span">и накажут исполнителей,</segment>
+		<segment id="53" parent="52" relname="elaboration">которые допустили абсолютное бесчеловечное отношение к заключенным\",</segment>
+		<segment id="58" parent="57" relname="attribution">- заявил директор Пермского регионального правозащитного центра Игорь Аверкиев.\n\nИсточник: https://www.newsru.com/russia/23Aug2001/zakluchennie.html\n</segment>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="37" type="multinuc" parent="61" relname="joint"/>
+		<group id="25" type="span" parent="37" relname="joint"/>
+		<group id="36" type="multinuc" parent="37" relname="joint"/>
+		<group id="35" type="multinuc" parent="36" relname="sequence"/>
+		<group id="34" type="multinuc" parent="35" relname="joint"/>
+		<group id="33" type="multinuc" parent="34" relname="joint"/>
+		<group id="32" type="multinuc" parent="33" relname="joint"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="48" type="span" parent="60" relname="joint"/>
+		<group id="46" type="multinuc" parent="48" relname="span"/>
+		<group id="40" type="span" parent="46" relname="contrast"/>
+		<group id="45" type="multinuc" parent="46" relname="contrast"/>
+		<group id="43" type="multinuc" parent="45" relname="same-unit"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="57" type="multinuc" parent="59" relname="span"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="55" type="multinuc" parent="50" relname="cause-effect"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="62" type="span"/>
+	</body>
+</rst>

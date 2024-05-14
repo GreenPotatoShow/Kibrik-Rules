@@ -1,0 +1,76 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="30" parent="33" relname="cause-effect">Глок не был в курсе,</segment>
+		<segment id="31" parent="33" relname="span">что играет важную роль в борьбе за титул\n\nПилот \"Тойоты\" Тимо Глок,</segment>
+		<segment id="32" parent="31" relname="elaboration">который наряду с Себастьяном Феттелем, подарил Фелипе Массе шанс стать чемпионом мира,</segment>
+		<segment id="35" parent="40" relname="attribution">заявил,</segment>
+		<segment id="36" parent="40" relname="contrast">что не был в курсе расклада в чемпионате,</segment>
+		<segment id="37" parent="38" relname="cause-effect">а усилившийся дождь не позволил ему сдержать Льюиса Хэмилтона.\n\n\"Я был сконцентрирован лишь на своей гонке,</segment>
+		<segment id="38" parent="39" relname="span">и не знал, что от меня зависит расклад в чемпионате.</segment>
+		<segment id="43" parent="45" relname="joint">Мы решили рискнуть</segment>
+		<segment id="44" parent="45" relname="joint">и остаться на мягких покрышках,</segment>
+		<segment id="46" parent="47" relname="contrast">но на последнем круге пошел слишком сильный дождь.</segment>
+		<segment id="48" parent="50" relname="contrast">Не скажу, что мне не повезло,</segment>
+		<segment id="49" parent="50" relname="contrast">но риск не принес больших дивидендов.\n\nНе знаю, где именно Льюис меня обошел,</segment>
+		<segment id="51" parent="50" relname="cause-effect">потому что сразу четыре машины опережали меня справа и слева.</segment>
+		<segment id="53" parent="54" relname="span">Я же просто старался удержать машину на трассе.</segment>
+		<segment id="56" parent="58" relname="span">Конечно, не собирался помогать Фелипе или Льюису.</segment>
+		<segment id="57" parent="56" relname="interpretation-evaluation">В такой ситуации невозможно что-то спланировать.</segment>
+		<segment id="59" parent="80" relname="preparation">Посмотрите на мои результаты на круге.</segment>
+		<segment id="60" parent="62" relname="comparison">Предпоследний я прошел за 1.28,</segment>
+		<segment id="61" parent="62" relname="comparison">а последний круг за 1.48.</segment>
+		<segment id="63" parent="65" relname="contrast">Болид был просто неуправляем.\n\nМне очень жаль,</segment>
+		<segment id="64" parent="65" relname="contrast">но и Масса прекрасно понимает, что я не мог ничего сделать в этой ситуации.</segment>
+		<segment id="67" parent="71" relname="contrast">В конце концов, последняя гонка всегда считается решающей в чемпионате,</segment>
+		<segment id="68" parent="70" relname="span">но большую роль играют и предыдущие 17 гонок,</segment>
+		<segment id="69" parent="68" relname="elaboration">где ему иногда не везло.</segment>
+		<segment id="72" parent="74" relname="span">Бывало, что Фелипе терял очки</segment>
+		<segment id="73" parent="72" relname="cause-effect">из-за технических проблем.</segment>
+		<segment id="75" parent="77" relname="contrast">Очень обидно потерять титул на последнем круге,</segment>
+		<segment id="76" parent="77" relname="contrast">но я ничего не мог поделать\",</segment>
+		<segment id="85" parent="84" relname="attribution">- цитирует Глока Autosport .\n\nИсточник: https://www.newsru.com/sport/03Nov2008/tim.html\n</segment>
+		<group id="84" type="multinuc" parent="86" relname="span"/>
+		<group id="42" type="multinuc" parent="84" relname="joint"/>
+		<group id="34" type="span" parent="42" relname="joint"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="39" type="span" parent="40" relname="contrast"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="55" type="span" parent="83" relname="joint"/>
+		<group id="47" type="multinuc" parent="55" relname="span"/>
+		<group id="45" type="multinuc" parent="47" relname="contrast"/>
+		<group id="54" type="span" parent="47" relname="interpretation-evaluation"/>
+		<group id="52" type="span" parent="53" relname="cause-effect"/>
+		<group id="50" type="multinuc" parent="52" relname="span"/>
+		<group id="82" type="span" parent="83" relname="joint"/>
+		<group id="58" type="span" parent="82" relname="span"/>
+		<group id="81" type="span" parent="58" relname="elaboration"/>
+		<group id="80" type="multinuc" parent="81" relname="span"/>
+		<group id="66" type="span" parent="80" relname="joint"/>
+		<group id="62" type="multinuc" parent="66" relname="span"/>
+		<group id="65" type="multinuc" parent="62" relname="interpretation-evaluation"/>
+		<group id="79" type="span" parent="80" relname="joint"/>
+		<group id="71" type="multinuc" parent="79" relname="span"/>
+		<group id="70" type="span" parent="71" relname="contrast"/>
+		<group id="78" type="span" parent="71" relname="interpretation-evaluation"/>
+		<group id="74" type="span" parent="78" relname="span"/>
+		<group id="77" type="multinuc" parent="74" relname="interpretation-evaluation"/>
+		<group id="86" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,107 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="45" parent="47" relname="span">Лидер оппозиции Мьянмы вышла на свободу после 15 лет домашнего ареста\n\nВоенное руководство Мьянмы (Бирмы) освободило в субботу лидера оппозиции Сан Су Чжи,</segment>
+		<segment id="46" parent="45" relname="attribution">сообщает британский телеканал Sky News.</segment>
+		<segment id="48" parent="52" relname="joint">Решение об освобождении принято в связи с тем, что в субботу завершился срок 18-месячного пребывания Сан Су Чжи под домашним арестом</segment>
+		<segment id="49" parent="51" relname="joint">.\n\nСан Су Чжи вышла из дома</segment>
+		<segment id="50" parent="51" relname="joint">и призвала сторонников продолжать добиваться поставленной цели</segment>
+		<segment id="53" parent="57" relname="joint">.\n\nЛауреат Нобелевской премии мира появилась в воротах своего дома в Янгоне в субботу вечером</segment>
+		<segment id="54" parent="56" relname="span">и поприветствовала людей, пришедших,</segment>
+		<segment id="55" parent="54" relname="purpose">чтобы поздравить ее с освобождением.</segment>
+		<segment id="58" parent="57" relname="elaboration">Встречать Сан Су Чжи пришли несколько тысяч человек.\n\n</segment>
+		<segment id="61" parent="63" relname="span">\"Мы должны работать все вместе, в унисон,</segment>
+		<segment id="62" parent="61" relname="purpose">чтобы добиться нашей цели\",</segment>
+		<segment id="64" parent="63" relname="attribution">- заявила лидер бирманской \"Национальной лиги за демократию\".</segment>
+		<segment id="67" parent="71" relname="span">Сан Су Чжи призвала своих сторонников собраться в штаб-квартире партии в воскресенье,</segment>
+		<segment id="68" parent="70" relname="span">где она намерена выступить с речью.\n\nСан Су Чжи - дочь лидера движения за независимость Мьянмы Аунг Сана,</segment>
+		<segment id="69" parent="68" relname="background">убитого в 1947 году.</segment>
+		<segment id="72" parent="76" relname="sequence">Она покинула Мьянму в 1960 году,</segment>
+		<segment id="73" parent="75" relname="joint">окончила Оксфордский университет,</segment>
+		<segment id="74" parent="75" relname="joint">жила в Англии.</segment>
+		<segment id="77" parent="83" relname="sequence">В 1988 году она вернулась в родную страну.\n\nВ сентябре 1988 года Сан Су Чжи возглавила оппозиционную Национальную лигу за демократию.</segment>
+		<segment id="78" parent="82" relname="contrast">В октябре 1991 года она стала лауреатом Нобелевской премии мира,</segment>
+		<segment id="79" parent="81" relname="span">однако власти не позволили ей выехать за границу,</segment>
+		<segment id="80" parent="79" relname="purpose">чтобы получить награду.\n\nС 1989 по 1995 годы и с 2000 по 2002 годы Сан Су Чжи находилась под домашним арестом.</segment>
+		<segment id="86" parent="92" relname="sequence">В мае 2003 года ее снова задержали,</segment>
+		<segment id="87" parent="89" relname="span">после чего женщину снова поместили под домашний арест.\n\nС 1990 года в Мьянме</segment>
+		<segment id="88" parent="87" relname="elaboration">(ранее называвшейся Бирмой) правит военная хунта,</segment>
+		<segment id="90" parent="91" relname="sequence">а лидер победившей в тот год на парламентских выборах \"Национальной лиги за демократию\" (НЛД) Аун Сан Су Чжи находится под домашним арестом.</segment>
+		<segment id="93" parent="95" relname="joint">Заявив о необходимости стабилизировать социально-экономическую ситуацию в стране</segment>
+		<segment id="94" parent="95" relname="joint">и принять новую конституцию,</segment>
+		<segment id="96" parent="98" relname="joint">военные отказались признать итоги выборов</segment>
+		<segment id="97" parent="98" relname="joint">и передать власть избранному парламенту.\n\nСу Чжи находилась под домашним арестом с 1989 по 1995 и с 2000 по 2002 год.</segment>
+		<segment id="100" parent="102" relname="sequence">В мае 2003 года она снова была арестована,</segment>
+		<segment id="101" parent="102" relname="sequence">позже помещена под домашний арест.\n\nПервые за последние 20 лет парламентские выборы прошли в Мьянме 7 ноября.</segment>
+		<segment id="105" parent="112" relname="attribution">Военные Мьянмы объявили</segment>
+		<segment id="106" parent="112" relname="span">о победе своей партии \"Объединение солидарности и развития\" (Union Solidarity and Development Party, USDP) на выборах с результатом до 80% голосов.\n\nОппозиционные партии - Национальная демократическая сила (National Democratic Force) и Демократическая партия - признали свое поражение,</segment>
+		<segment id="107" parent="110" relname="attribution">хотя заявил,</segment>
+		<segment id="108" parent="110" relname="span">что власти использовали</segment>
+		<segment id="109" parent="108" relname="purpose">для достижения нужных результатов давление на работников бюджетной сферы.</segment>
+		<segment id="114" parent="116" relname="span">Наиболее значимая оппозиционная партия НЛД во главе с Аун Сан Су Чжи ранее отказалась от участия в выборах,</segment>
+		<segment id="115" parent="114" relname="cause-effect">поскольку не считает их справедливыми</segment>
+		<segment id="117" parent="119" relname="joint">.\n\nМеждународное сообщество неоднократно выражало озабоченность по поводу ситуации вокруг ареста лидера оппозиции</segment>
+		<segment id="118" parent="119" relname="joint">и призывало власти Мьянмы освободить ее.</segment>
+		<segment id="122" parent="126" relname="span">С просьбой об освобождении Су Чжи и других политических заключенных,</segment>
+		<segment id="123" parent="125" relname="span">которых в стране более 2 тысяч,</segment>
+		<segment id="124" parent="123" relname="elaboration">к правительству Мьянмы обращался в июле 2010 года генсек ООН Пан Ги Мун.\n\nИсточник: https://www.newsru.com/world/13Nov2010/mn.html\n</segment>
+		<group id="47" type="span" parent="130" relname="preparation"/>
+		<group id="130" type="multinuc" parent="131" relname="span"/>
+		<group id="66" type="span" parent="130" relname="joint"/>
+		<group id="60" type="multinuc" parent="66" relname="span"/>
+		<group id="52" type="multinuc" parent="60" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="57" type="multinuc" parent="59" relname="span"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="65" type="span" parent="60" relname="elaboration"/>
+		<group id="63" type="span" parent="65" relname="span"/>
+		<group id="129" type="multinuc" parent="130" relname="joint"/>
+		<group id="85" type="multinuc" parent="129" relname="sequence"/>
+		<group id="71" type="span" parent="85" relname="sequence"/>
+		<group id="70" type="span" parent="67" relname="elaboration"/>
+		<group id="84" type="multinuc" parent="85" relname="sequence"/>
+		<group id="76" type="multinuc" parent="84" relname="sequence"/>
+		<group id="75" type="multinuc" parent="76" relname="sequence"/>
+		<group id="83" type="multinuc" parent="84" relname="sequence"/>
+		<group id="82" type="multinuc" parent="83" relname="sequence"/>
+		<group id="81" type="span" parent="82" relname="contrast"/>
+		<group id="128" type="multinuc" parent="129" relname="sequence"/>
+		<group id="104" type="multinuc" parent="128" relname="joint"/>
+		<group id="92" type="multinuc" parent="104" relname="sequence"/>
+		<group id="91" type="multinuc" parent="92" relname="sequence"/>
+		<group id="89" type="span" parent="91" relname="sequence"/>
+		<group id="103" type="multinuc" parent="104" relname="sequence"/>
+		<group id="99" type="multinuc" parent="103" relname="sequence"/>
+		<group id="95" type="multinuc" parent="99" relname="joint"/>
+		<group id="98" type="multinuc" parent="99" relname="joint"/>
+		<group id="102" type="multinuc" parent="103" relname="sequence"/>
+		<group id="127" type="span" parent="128" relname="joint"/>
+		<group id="121" type="multinuc" parent="127" relname="span"/>
+		<group id="113" type="span" parent="121" relname="joint"/>
+		<group id="112" type="span" parent="113" relname="span"/>
+		<group id="111" type="span" parent="106" relname="concession"/>
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="120" type="multinuc" parent="121" relname="joint"/>
+		<group id="116" type="span" parent="120" relname="joint"/>
+		<group id="119" type="multinuc" parent="120" relname="joint"/>
+		<group id="126" type="span" parent="121" relname="elaboration"/>
+		<group id="125" type="span" parent="122" relname="elaboration"/>
+		<group id="131" type="span"/>
+	</body>
+</rst>

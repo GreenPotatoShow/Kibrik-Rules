@@ -1,0 +1,172 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="evidence" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="76" parent="77" relname="attribution">Глава  Google Эрик Шмидт в интервью Wall Street Journal сообщил о том,</segment>
+		<segment id="77" parent="78" relname="span">что компания сворачивает творческие проекты сотрудников.</segment>
+		<segment id="79" parent="81" relname="span">И это только один из шагов политики по сокращению издержек,</segment>
+		<segment id="80" parent="79" relname="elaboration">предпринятый в условиях кризиса.\n Финансовый кризис добрался и до гигантов компьютерного мира.</segment>
+		<segment id="82" parent="83" relname="span">Google начинает затягивать пояс.</segment>
+		<segment id="85" parent="87" relname="contrast">За свою десятилетнюю истории компания не только сумела стать главным поисковиком для интернет-пользователей в США и одним из самых популярных сервисов по всему миру,</segment>
+		<segment id="86" parent="87" relname="contrast">но и прославилась своей корпоративной политикой.</segment>
+		<segment id="88" parent="90" relname="joint">Google бесплатно кормила, лечила</segment>
+		<segment id="89" parent="90" relname="joint">и развлекала своих сотрудников.</segment>
+		<segment id="91" parent="90" relname="elaboration">Описанию всех благ, которые предоставляла им компания, можно было бы посвятить отдельную статью.</segment>
+		<segment id="95" parent="112" relname="preparation">Не случайно корпорация последние годы занимала первые места в рейтинге лучших работодателей США.</segment>
+		<segment id="96" parent="98" relname="restatement">Google позволяла своим программистам тратить 20% оплачиваемого фирмой рабочего времени</segment>
+		<segment id="97" parent="98" relname="restatement">(то есть один день в неделю) на интересные им самим проекты,</segment>
+		<segment id="99" parent="101" relname="span">которые в дальнейшем часто становились новыми сервисами Google,</segment>
+		<segment id="100" parent="99" relname="elaboration">которые появлялись в большом количестве.</segment>
+		<segment id="103" parent="111" relname="span">И вот счастливые времена начали заканчиваться.\n</segment>
+		<segment id="104" parent="105" relname="concession">Несмотря на относительный рост доходов от рекламы</segment>
+		<segment id="105" parent="106" relname="span">— это основной источник доходов компании,</segment>
+		<segment id="107" parent="109" relname="comparison">— стоимость ее акций на NASDAQ в последнюю неделю ноября достигла абсолютного минимума, 257,44 доллара,</segment>
+		<segment id="108" parent="109" relname="comparison">что почти в 3 раза меньше их цены год назад, в ноябре 2007 года.</segment>
+		<segment id="114" parent="116" relname="joint">Экономика США в рецессии,</segment>
+		<segment id="115" parent="116" relname="joint">и Google падает вместе с ней.\n</segment>
+		<segment id="117" parent="130" relname="concession">И хотя экономический кризис длится не первую неделю,</segment>
+		<segment id="118" parent="129" relname="attribution">только сейчас компания решила пойти на коррекцию своей экономической и корпоративной политики.\n В интервью Wall Street Journal генеральный директор компании Эрик Шмидт заявил,</segment>
+		<segment id="119" parent="129" relname="span">что компания сократит проекты,</segment>
+		<segment id="120" parent="128" relname="joint">которые «на самом деле не цепляют»,</segment>
+		<segment id="121" parent="127" relname="joint">не принимаются пользователями.</segment>
+		<segment id="122" parent="125" relname="attribution">Шмидт уточнил,</segment>
+		<segment id="123" parent="125" relname="joint">что речь не идет о том,</segment>
+		<segment id="124" parent="125" relname="joint">что фирма сворачивает экспериментальные проекты.</segment>
+		<segment id="133" parent="136" relname="condition">«Когда [экономический] цикл пройдет,</segment>
+		<segment id="134" parent="135" relname="attribution">— сказал Шмидт, —</segment>
+		<segment id="135" parent="136" relname="span">мы будем способны поддержать их замечательные разработки».</segment>
+		<segment id="138" parent="140" relname="span">Компании, к сожалению, приходится это делать,</segment>
+		<segment id="139" parent="138" relname="cause-effect">поскольку далеко не все из новых интересных разработок оказываются достаточно устойчивыми в работе и востребованными пользователями</segment>
+		<segment id="141" parent="143" relname="span">.\n Google уже начала закрывать не пользующиеся популярностью или не приносящие никакой прибыли сервисы,</segment>
+		<segment id="142" parent="141" relname="purpose">чтобы, как сказано в официальном пресс-релизе,</segment>
+		<segment id="144" parent="145" relname="joint">«сконцентрировать ресурсы на самом главном для нас — поиске, рекламе и приложениях для бизнеса».</segment>
+		<segment id="147" parent="146" relname="attribution">Так, недавно было объявлено о грядущем закрытии виртуального мира (и чата) Google Lively.</segment>
+		<segment id="150" parent="152" relname="contrast">Пользователям предложено сделать как можно больше скриншотов «на память»,</segment>
+		<segment id="151" parent="152" relname="contrast">но сервис до конца года будет закрыт.\n На сайте другого экспериментального проекта Google — SearchMash</segment>
+		<segment id="153" parent="152" relname="attribution">— уже красуется извещение о том, что он «ушел по пути динозавров».</segment>
+		<segment id="155" parent="160" relname="attribution">На повестке дня — судьба сервисов Google Notebook,</segment>
+		<segment id="156" parent="160" relname="joint">позволяющего пользователю сохранять заинтересовавшие его веб-страницы, и Google Audio Indexing,</segment>
+		<segment id="157" parent="159" relname="span">ищущего текст по роликам политиков YouTube</segment>
+		<segment id="158" parent="157" relname="elaboration">(этот сервис был запущен во время последней избирательной кампании в США)</segment>
+		<segment id="162" parent="170" relname="joint">.\n Не исключено, что какие-то из закрывающихся служб будут интегрированы в другие,</segment>
+		<segment id="163" parent="165" relname="span">как это случилось с Page Creator,</segment>
+		<segment id="164" parent="163" relname="purpose">позволявшей создавать несложные веб-страницы,</segment>
+		<segment id="166" parent="168" relname="span">— функциональность этого сервиса была реализована в Google Sites.\n Ликвидация «лишних» сервисов и программы «20 процентов»</segment>
+		<segment id="167" parent="166" relname="elaboration">— не единственные меры, которые начал предпринимать Google даже независимо от кризиса.</segment>
+		<segment id="172" parent="174" relname="span">Главная угроза никуда не ушла</segment>
+		<segment id="173" parent="172" relname="cause-effect">— замедление роста доходов.</segment>
+		<segment id="177" parent="183" relname="contrast">С 14 млрд долларов дохода и основательной долей рынка онлайновой рекламы Google чувствует себя значительно лучше своих конкурентов, компания не работает в убыток,</segment>
+		<segment id="178" parent="180" relname="comparison">но 92% годового роста,</segment>
+		<segment id="179" parent="180" relname="comparison">как это было в 2005 году,</segment>
+		<segment id="181" parent="180" relname="elaboration">Google, видимо, не покажет уже никогда.</segment>
+		<segment id="185" parent="191" relname="span">Тем более что ей не удалось расширить свою долю рынка,</segment>
+		<segment id="186" parent="190" relname="span">заключив договор на размещение рекламы на Yahoo.\n На этом фоне компания заранее приступила к сокращению издержек,</segment>
+		<segment id="187" parent="189" relname="joint">закрыв летом несколько филиалов в США</segment>
+		<segment id="188" parent="189" relname="joint">и заморозив планы строительства нового большого дата-центра.</segment>
+		<segment id="192" parent="204" relname="span">А с началом кризиса экономические меры компании стали еще более радикальными:</segment>
+		<segment id="193" parent="203" relname="joint">было объявлено о значительном сокращении работавших с Google по контракту почти 10 тыс. сотрудников и сокращении найма постоянных сотрудников.\n По всей видимости,</segment>
+		<segment id="194" parent="200" relname="joint">такие меры не будут последними с углублением кризиса</segment>
+		<segment id="195" parent="199" relname="span">и возможным сокращением рынка интернет-рекламы, главного источника доходов Google.</segment>
+		<segment id="196" parent="198" relname="span">Эта угроза подталкивает компанию не только к сокращению издержек, но и к освоению новых рекламных сервисов — графической рекламы и рекламы на мобильных устройствах</segment>
+		<segment id="197" parent="196" relname="elaboration">(именно для этого Google так заботится об операционной системе для телефонов Android),</segment>
+		<segment id="201" parent="202" relname="joint">и к более серьезному подходу к онлайновым бизнес-приложениям.\n Звонок для Google еще не прозвенел.</segment>
+		<segment id="213" parent="219" relname="sequence">Собственно, пока в компьютере, на котором я пишу эту статью,</segment>
+		<segment id="214" parent="218" relname="sequence">время от времени звенит сигнал о приходе сообщения в чат Gmail,</segment>
+		<segment id="215" parent="217" relname="joint">отвлекая меня от текста, который я набираю в Google Docs,</segment>
+		<segment id="216" parent="217" relname="joint">пользуясь Google Notebook и Google Translate.</segment>
+		<segment id="220" parent="221" relname="condition">И если Google настала пора подумать о сокращении издержек,</segment>
+		<segment id="221" parent="222" relname="span">видимо, пришло время и мне позаботиться о бэкапе.\n \n</segment>
+		<group id="212" type="span" parent="223" relname="evidence"/>
+		<group id="94" type="span" parent="211" relname="preparation"/>
+		<group id="84" type="multinuc" parent="93" relname="preparation"/>
+		<group id="78" type="span" parent="84" relname="joint"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="81" type="span" parent="82" relname="cause-effect"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="87" type="multinuc" parent="93" relname="span"/>
+		<group id="92" type="span" parent="87" relname="elaboration"/>
+		<group id="90" type="multinuc" parent="92" relname="span"/>
+		<group id="211" type="multinuc" parent="212" relname="span"/>
+		<group id="113" type="span" parent="211" relname="joint"/>
+		<group id="112" type="multinuc" parent="113" relname="span"/>
+		<group id="102" type="span" parent="112" relname="joint"/>
+		<group id="98" type="multinuc" parent="102" relname="span"/>
+		<group id="101" type="span" parent="98" relname="elaboration"/>
+		<group id="111" type="span" parent="112" relname="joint"/>
+		<group id="110" type="span" parent="103" relname="concession"/>
+		<group id="106" type="span" parent="109" relname="concession"/>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="210" type="span" parent="211" relname="joint"/>
+		<group id="132" type="span" parent="209" relname="preparation"/>
+		<group id="116" type="multinuc" parent="132" relname="span"/>
+		<group id="131" type="span" parent="116" relname="concession"/>
+		<group id="130" type="span" parent="131" relname="span"/>
+		<group id="129" type="span" parent="130" relname="span"/>
+		<group id="128" type="multinuc" parent="119" relname="elaboration"/>
+		<group id="127" type="multinuc" parent="128" relname="joint"/>
+		<group id="126" type="span" parent="127" relname="joint"/>
+		<group id="125" type="multinuc" parent="126" relname="span"/>
+		<group id="209" type="multinuc" parent="210" relname="span"/>
+		<group id="149" type="multinuc" parent="209" relname="joint"/>
+		<group id="137" type="span" parent="149" relname="joint"/>
+		<group id="136" type="span" parent="137" relname="span"/>
+		<group id="148" type="span" parent="149" relname="joint"/>
+		<group id="146" type="multinuc" parent="148" relname="span"/>
+		<group id="140" type="span" parent="146" relname="joint"/>
+		<group id="145" type="multinuc" parent="146" relname="joint"/>
+		<group id="143" type="span" parent="145" relname="joint"/>
+		<group id="208" type="span" parent="209" relname="joint"/>
+		<group id="154" type="span" parent="207" relname="preparation"/>
+		<group id="152" type="multinuc" parent="154" relname="span"/>
+		<group id="207" type="multinuc" parent="208" relname="span"/>
+		<group id="171" type="multinuc" parent="207" relname="joint"/>
+		<group id="161" type="span" parent="171" relname="joint"/>
+		<group id="160" type="multinuc" parent="161" relname="span"/>
+		<group id="159" type="span" parent="160" relname="joint"/>
+		<group id="170" type="multinuc" parent="171" relname="joint"/>
+		<group id="169" type="span" parent="170" relname="joint"/>
+		<group id="165" type="span" parent="169" relname="span"/>
+		<group id="168" type="span" parent="165" relname="elaboration"/>
+		<group id="206" type="multinuc" parent="207" relname="joint"/>
+		<group id="184" type="span" parent="206" relname="joint"/>
+		<group id="174" type="span" parent="184" relname="span"/>
+		<group id="183" type="multinuc" parent="174" relname="elaboration"/>
+		<group id="182" type="span" parent="183" relname="contrast"/>
+		<group id="180" type="multinuc" parent="182" relname="span"/>
+		<group id="205" type="multinuc" parent="206" relname="joint"/>
+		<group id="191" type="span" parent="205" relname="joint"/>
+		<group id="190" type="span" parent="185" relname="cause-effect"/>
+		<group id="189" type="multinuc" parent="186" relname="cause-effect"/>
+		<group id="204" type="span" parent="205" relname="joint"/>
+		<group id="203" type="multinuc" parent="192" relname="elaboration"/>
+		<group id="202" type="multinuc" parent="203" relname="joint"/>
+		<group id="200" type="multinuc" parent="202" relname="joint"/>
+		<group id="199" type="span" parent="200" relname="joint"/>
+		<group id="198" type="span" parent="195" relname="elaboration"/>
+		<group id="223" type="span" parent="224" relname="span"/>
+		<group id="219" type="multinuc" parent="222" relname="cause-effect"/>
+		<group id="218" type="multinuc" parent="219" relname="sequence"/>
+		<group id="217" type="multinuc" parent="218" relname="sequence"/>
+		<group id="222" type="span" parent="223" relname="span"/>
+		<group id="224" type="span"/>
+	</body>
+</rst>

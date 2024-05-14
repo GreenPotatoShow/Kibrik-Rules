@@ -1,0 +1,81 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="37" relname="attribution">Ректор ВШЭ предложил</segment>
+		<segment id="33" parent="37" relname="joint">заменить преподавателей вузов без научных работ онлайн-курсами\n\nРектор национального исследовательского университета \"Высшая школа экономики\" (ВШЭ) Ярослав Кузьминов предложил Минобрнауки запретить преподавателям, которые не писали научных работ по своему предмету,</segment>
+		<segment id="34" parent="36" relname="joint">читать лекции в вузах</segment>
+		<segment id="35" parent="36" relname="joint">и заменить их на популярные в современном мире онлайн-курсы.\n\n\"Надо создавать систему, в которой вуз был бы обязан замещать те курсы, которые у него читают люди, которые сами ничего не писали по этой теме, качественными онлайн-курсами.</segment>
+		<segment id="39" parent="38" relname="interpretation-evaluation">А это, к сожалению, довольно часто встречается в российских вузах\",</segment>
+		<segment id="41" parent="40" relname="attribution">- пояснил он (цитата по ТАСС).\n\</segment>
+		<segment id="43" parent="44" relname="attribution">nПо мнению Кузьминова,</segment>
+		<segment id="44" parent="45" relname="span">чиновники Министерства образования и науки должны \"разработать форму сетевых взаимодействий между вузами-донорами, которые создают онлайн-курс, и вузами-реципиентами, которые этот курс используют\".\n\n</segment>
+		<segment id="46" parent="52" relname="contrast">\"Экономический эффект будет достигнут не когда отдельный студент возьмет онлайн-курс,</segment>
+		<segment id="47" parent="50" relname="condition">а когда мы примем решение,</segment>
+		<segment id="48" parent="50" relname="joint">что вот этот курс вычитаем из себя,</segment>
+		<segment id="49" parent="50" relname="joint">а предоставляем студентам выбор из курса МИФИ, из Санкт-Петербургского университета и других\",</segment>
+		<segment id="53" parent="57" relname="joint">- объяснил ректор ВШЭ.\n\nГлавной задачей для внедрения системы онлайн-курсов в российских вузах Кузьминов считает необходимость Минобрнауки и Рособрнадзора \"быть просто более жесткими</segment>
+		<segment id="54" parent="56" relname="span">и принуждать вузы, которые не предоставляют такой возможности своим студентам\".\n\nОтметим, что в декабре прошлого года МГУ имени М. В. Ломоносова попал в первую сотню мирового рейтинга Round University Ranking (RUR),</segment>
+		<segment id="55" parent="54" relname="elaboration">заняв 81-е место в категории гуманитарных наук.\n\nКроме МГУ, ни один российский вуз не попал в топ-100.</segment>
+		<segment id="59" parent="61" relname="span">Однако в целом довольно высокие результаты обнаружились по техническим наукам:</segment>
+		<segment id="60" parent="59" relname="elaboration">в рейтинг вошли 37 российских вузов.</segment>
+		<segment id="62" parent="64" relname="sequence">МГУ занял 149-е место,</segment>
+		<segment id="63" parent="64" relname="sequence">Санкт-Петербургский национальный исследовательский университет информационных технологий, механики и оптики (ИТМО) - 190-е место и Санкт-Петербургский университет (СпбГУ) расположился на 195-й позиции.\n\nВ рейтинг по естественным наукам попал 31 российский вуз.</segment>
+		<segment id="65" parent="66" relname="joint">Во второй сотне оказались Московский инженерно-физический институт (МИФИ, 115-е место), Томский государственный университет (ТГУ, 139-е место), МГУ (164-е), Московский физико-технический институт (МФТИ, 189-е место) и Санкт-Петербургский политехнический университет Петра Великого (Политех, 199-е место).\n\nВ перечень по социальным наукам вошли 29 отечественных вузов.</segment>
+		<segment id="67" parent="69" relname="span">Во вторую сотню этого рейтинга попал только МГУ,</segment>
+		<segment id="68" parent="67" relname="condition">заняв 184-е место.</segment>
+		<segment id="70" parent="72" relname="span">ТГУ занял 245-е место,</segment>
+		<segment id="71" parent="70" relname="elaboration">Российская экономическая школа - 256-е место.\n\nВ рейтинги по гуманитарным и медицинским наукам попало меньше всего российских вузов - 11 и семь соответственно.</segment>
+		<segment id="75" parent="79" relname="sequence">Помимо МГУ, среди вузов в гуманитарной категории самое высокие места занял ТГУ (181-е) и Томский политехнический университет (207-е),</segment>
+		<segment id="76" parent="78" relname="sequence">в рейтинге по медицинским наукам выше всего поднялся МГУ (184-я позиция),</segment>
+		<segment id="77" parent="78" relname="sequence">за ним идут Казанский федеральный университет (306-е место) и ТГУ (314-е место).\n\nRUR - первый глобальный рейтинг университетов российского происхождения.</segment>
+		<segment id="80" parent="86" relname="comparison">Университеты в рейтинге RUR оцениваются по 20 параметрам, сгруппированным в пять направлений измерения: качество преподавания (40% от оценки вуза), качество исследований (40%), уровень интернационализации (10% от оценки вуза), уровень финансовой устойчивости (10%).\n\nРейтинговое агентство RUR было создано в 2013 году.</segment>
+		<segment id="81" parent="84" relname="cause-effect">Помимо издания системы рейтингов университетов</segment>
+		<segment id="82" parent="84" relname="joint">оно является официальным представителем британского международного рейтинга Times Higher Education на территории России и стран СНГ,</segment>
+		<segment id="83" parent="84" relname="joint">а также оказывает консалтинговые услуги в области оценки университетов.\n\nИсточник: https://www.newsru.com/russia/26Feb2018/onlinekursy.html\n</segment>
+		<group id="42" type="span" parent="92" relname="joint"/>
+		<group id="40" type="span" parent="42" relname="span"/>
+		<group id="38" type="span" parent="40" relname="span"/>
+		<group id="37" type="multinuc" parent="38" relname="span"/>
+		<group id="36" type="multinuc" parent="37" relname="joint"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="45" type="span" parent="91" relname="joint"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="58" type="span" parent="90" relname="contrast"/>
+		<group id="52" type="multinuc" parent="58" relname="span"/>
+		<group id="51" type="span" parent="52" relname="contrast"/>
+		<group id="50" type="multinuc" parent="51" relname="span"/>
+		<group id="57" type="multinuc" parent="52" relname="elaboration"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="89" type="span" parent="90" relname="contrast"/>
+		<group id="61" type="span" parent="89" relname="span"/>
+		<group id="88" type="multinuc" parent="61" relname="elaboration"/>
+		<group id="74" type="multinuc" parent="88" relname="comparison"/>
+		<group id="66" type="multinuc" parent="74" relname="sequence"/>
+		<group id="64" type="multinuc" parent="66" relname="joint"/>
+		<group id="73" type="multinuc" parent="74" relname="sequence"/>
+		<group id="69" type="span" parent="73" relname="sequence"/>
+		<group id="72" type="span" parent="73" relname="sequence"/>
+		<group id="87" type="multinuc" parent="88" relname="comparison"/>
+		<group id="79" type="multinuc" parent="87" relname="comparison"/>
+		<group id="78" type="multinuc" parent="79" relname="sequence"/>
+		<group id="86" type="multinuc" parent="87" relname="comparison"/>
+		<group id="85" type="span" parent="86" relname="comparison"/>
+		<group id="84" type="multinuc" parent="85" relname="span"/>
+		<group id="92" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,44 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="19" relname="span">Валентин Иванов будет судить полуфинальный матч Лиги чемпионов\n\nРоссийский арбитр Валентин Иванов будет обслуживать ответный полуфинальный матч футбольной Лиги чемпионов,</segment>
+		<segment id="18" parent="17" relname="elaboration">в котором испанский \"Вильярреал\" сыграет с лондонским \"Арсеналом\".</segment>
+		<segment id="20" parent="22" relname="span">Помогать Иванову будут его соотечественники Николай Голубев и Тихон Калугин,</segment>
+		<segment id="21" parent="20" relname="attribution">сообщает РИА \"Новости\" со ссылкой на официальный сайт УЕФА.\n\n44-летний Иванов начал судейскую карьеру в 1989 году.</segment>
+		<segment id="24" parent="26" relname="sequence">Четыре года спустя он стал обслуживать матчи высшей лиги чемпионата России,</segment>
+		<segment id="25" parent="26" relname="sequence">а арбитром ФИФА стал в 1997 году.\n\nВалентин Иванов один раз судил матч с участием \"Вильярреала\".</segment>
+		<segment id="27" parent="29" relname="joint">Это случилось 7 декабря 2005 года,</segment>
+		<segment id="28" parent="29" relname="joint">и тогда испанская команда во встрече группового этапа Лиги выиграла у французского \"Лилля\" со счетом 1:0.</segment>
+		<segment id="30" parent="34" relname="joint">С другой стороны, при Иванове \"Арсенал\" играл дважды,</segment>
+		<segment id="31" parent="33" relname="joint">оба раза на выезде</segment>
+		<segment id="32" parent="33" relname="joint">и в итоге ни разу не выиграл.</segment>
+		<segment id="38" parent="40" relname="joint">Первый раз, 26 февраля 2003 года, \"канониры\" сыграли вничью с голландским \"Аяксом\" - 0:0,</segment>
+		<segment id="39" parent="40" relname="joint">а 20 октября 2004 года подопечные Арсена Венгера разошлись миром с греческим \"Панатинаикосом\" - 2:2.\n\nМатч между \"Вильярреалом\" и \"Арсеналом\" состоится 25 апреля на стадионе \"Эль Мадригал\" в Испании.</segment>
+		<segment id="41" parent="43" relname="span">Первая встреча завершилась победой лондонцев со счетом 1:0.\n\nДень спустя состоится второй полуфинальный поединок,</segment>
+		<segment id="42" parent="41" relname="elaboration">в котором испанская \"Барселона\" примет итальянский \"Милан\" (первый матч - 1:0).</segment>
+		<segment id="44" parent="43" relname="elaboration">Его будет обслуживать немецкая бригада арбитров во главе с Маркусом Мерком.\n\nИсточник: https://www.newsru.com/sport/24Apr2006/refree.html\n</segment>
+		<group id="37" type="span" parent="47" relname="joint"/>
+		<group id="23" type="multinuc" parent="37" relname="span"/>
+		<group id="19" type="span" parent="23" relname="sequence"/>
+		<group id="22" type="span" parent="23" relname="sequence"/>
+		<group id="36" type="span" parent="23" relname="elaboration"/>
+		<group id="26" type="multinuc" parent="36" relname="span"/>
+		<group id="35" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="29" type="multinuc" parent="35" relname="joint"/>
+		<group id="34" type="multinuc" parent="35" relname="joint"/>
+		<group id="33" type="multinuc" parent="34" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="40" type="multinuc" parent="46" relname="joint"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="47" type="multinuc"/>
+	</body>
+</rst>

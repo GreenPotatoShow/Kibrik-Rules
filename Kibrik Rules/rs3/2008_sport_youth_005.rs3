@@ -1,0 +1,44 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="46" relname="preparation">Российские юниоры обыграли канадцев на чемпионате мира по хоккею\n\</segment>
+		<segment id="18" parent="20" relname="span">nРоссийские хоккеисты со счетом 4:2 победили сборную Канады на юниорском чемпионате мира среди игроков не старше 18 лет,</segment>
+		<segment id="19" parent="18" relname="elaboration">который проходит в эти дни в Казани.</segment>
+		<segment id="21" parent="25" relname="span">У россиян отличились Дмитрий Кугрышев, Андрей Локтионов, Евгений Грачев и Павел Чернов.\n\nМатч между принципиальными соперниками выдался очень красивым и очень нервным,</segment>
+		<segment id="22" parent="24" relname="span">на двоих команды заработали 75 минут штрафа,</segment>
+		<segment id="23" parent="22" relname="elaboration">из которых 45 пришлось на первый отрезок игры.</segment>
+		<segment id="27" parent="29" relname="span">Канадцы действовали довольно грязно,</segment>
+		<segment id="28" parent="27" relname="cause-effect">постоянно провоцируя россиян.\n\</segment>
+		<segment id="30" parent="32" relname="span">nДля российской команды это третья победа в трех матчах ЧМ-2008.</segment>
+		<segment id="31" parent="30" relname="elaboration">Ранее подопечные Александра Бирюкова обыграли словаков и немцев.</segment>
+		<segment id="34" parent="44" relname="span">Канадцы же потерпели первое поражение в трех играх.\n\nТурнирная таблица группы А:\n\n1.</segment>
+		<segment id="35" parent="37" relname="span">Россия\n\n9 очков (3 игры)\n2.</segment>
+		<segment id="36" parent="35" relname="elaboration">Канада 6 (3)\n3.</segment>
+		<segment id="38" parent="42" relname="span">Словакия 4 (3)\n4.</segment>
+		<segment id="39" parent="41" relname="span">Германия 2 (3)\n5.</segment>
+		<segment id="40" parent="39" relname="elaboration">Дания 0 (2)\n\nЗаключительный матч в группе сборная России проведет с командой Дании 18 апреля.\n\nИсточник: https://www.newsru.com/sport/17Apr2008/youth.html\n</segment>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="26" type="span" parent="46" relname="comparison"/>
+		<group id="20" type="span" parent="26" relname="span"/>
+		<group id="25" type="span" parent="20" relname="elaboration"/>
+		<group id="24" type="span" parent="21" relname="elaboration"/>
+		<group id="45" type="multinuc" parent="46" relname="comparison"/>
+		<group id="33" type="span" parent="45" relname="comparison"/>
+		<group id="29" type="span" parent="33" relname="span"/>
+		<group id="32" type="span" parent="29" relname="elaboration"/>
+		<group id="44" type="span" parent="45" relname="comparison"/>
+		<group id="43" type="span" parent="34" relname="elaboration"/>
+		<group id="37" type="span" parent="43" relname="span"/>
+		<group id="42" type="span" parent="37" relname="elaboration"/>
+		<group id="41" type="span" parent="38" relname="elaboration"/>
+		<group id="47" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,104 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="44" parent="127" relname="preparation">Статья Путина \"О наших экономических задачах\" вышла в \"Ведомостях\"\n\nТретья авторская статья премьер-министра России Владимира Путина опубликована в понедельник, 30 января, в газете \"Ведомости\".</segment>
+		<segment id="45" parent="46" relname="cause-effect">В статье \"О наших экономических задачах\" Путин предлагает свое видение экономического развития России.\n\nПутин в частности, пишет,</segment>
+		<segment id="46" parent="47" relname="span">что \"фактически мы пережили масштабную деиндустриализацию\" из-за того, что \"в процессе рыночной, в значительной степени стихийной трансформации выживали наиболее ликвидные отрасли, связанные с экспортом необработанного сырья и полуфабрикатов\",</segment>
+		<segment id="48" parent="47" relname="attribution">цитирует \"Интерфакс\".\n\</segment>
+		<segment id="50" parent="49" relname="interpretation-evaluation">nВыход Путин видит в технологическом прорыве не во всех, а только в ряде секторов.</segment>
+		<segment id="52" parent="53" relname="purpose">\"Для возвращения технологического лидерства</segment>
+		<segment id="53" parent="54" relname="span">нам нужно тщательно выбрать приоритеты.</segment>
+		<segment id="55" parent="63" relname="joint">Кандидатами являются такие отрасли, как фармацевтика, высокотехнологичная химия, композитные и неметаллические материалы, авиационная промышленность, информационно-коммуникационные технологии, нанотехнологии.</segment>
+		<segment id="56" parent="60" relname="span">Разумеется, традиционными лидерами,</segment>
+		<segment id="57" parent="59" relname="joint">где мы не потеряли технологических преимуществ,</segment>
+		<segment id="58" parent="59" relname="joint">являются наша атомная промышленность и космос.</segment>
+		<segment id="61" parent="62" relname="span">Список не закрыт\",</segment>
+		<segment id="65" parent="66" relname="attribution">- пишет премьер</segment>
+		<segment id="66" parent="67" relname="span">.\n\nВ конце он отдельно обращается к оппозиционным политикам.</segment>
+		<segment id="69" parent="73" relname="span">\"Специально для представителей оппозиции оговариваю.</segment>
+		<segment id="70" parent="71" relname="cause-effect">Все сказанное не означает, что мы в какой-то степени отступим от системы бесплатного образования и здравоохранения,</segment>
+		<segment id="71" parent="72" relname="span">перестанем повышать традиционные пенсии.</segment>
+		<segment id="74" parent="77" relname="cause-effect">Не отступим,</segment>
+		<segment id="75" parent="77" relname="span">будем поднимать качество услуг,</segment>
+		<segment id="76" parent="75" relname="elaboration">которые гарантированы каждому гражданину нашей страны Конституцией.</segment>
+		<segment id="79" parent="78" relname="interpretation-evaluation">Этому будет посвящена отдельная статья\",</segment>
+		<segment id="82" parent="81" relname="attribution">- говорит Путин</segment>
+		<segment id="84" parent="85" relname="attribution">.\n\nОн подчеркнул,</segment>
+		<segment id="85" parent="86" relname="span">что \"за каждым макроэкономическим показателем, за каждым конкретным проектом мы должны видеть:</segment>
+		<segment id="87" parent="89" relname="comparison">сколько новых рабочих мест это принесет России,</segment>
+		<segment id="88" parent="89" relname="comparison">как это изменит качество занятости,</segment>
+		<segment id="90" parent="92" relname="span">а значит – и качество жизни людей\".\n\n\"В этом - смысл социального измерения экономики,</segment>
+		<segment id="91" parent="90" relname="attribution">о котором я предлагаю поговорить в следующей статье\",</segment>
+		<segment id="94" parent="93" relname="attribution">- заключает премьер</segment>
+		<segment id="96" parent="98" relname="joint">.\n\nТаким образом, следующая авторская статья кандидата в президенты РФ будет посвящена теме строительства в России социального государства.</segment>
+		<segment id="97" parent="98" relname="joint">Она выйдет в одной из российских газет.\n\nПредыдущая статья Путина, опубликованная неделей ранее в \"Независимой газете\", носила название \"Россия: национальный вопрос\".</segment>
+		<segment id="101" parent="103" relname="span">За неделю до этого была опубликована первая программная статья российского премьера</segment>
+		<segment id="102" parent="101" relname="elaboration">- \"Россия сосредотачивается - вызовы, на которые мы должны ответить\".</segment>
+		<segment id="104" parent="108" relname="joint">Идеи премьера по регулированию миграции</segment>
+		<segment id="105" parent="107" relname="joint">эксперты назвали антиконституционными</segment>
+		<segment id="106" parent="107" relname="joint">и провоцирующими коррупцию.</segment>
+		<segment id="110" parent="114" relname="span">А статью о вызовах раскритиковал экс-министр финансов Кудрин:</segment>
+		<segment id="111" parent="112" relname="attribution">по его словам,</segment>
+		<segment id="112" parent="113" relname="span">вызовы, описанные Путиным, сужены.\n\</segment>
+		<segment id="115" parent="116" relname="attribution">nКак заявлял пресс-секретарь премьера Дмитрий Песков,</segment>
+		<segment id="116" parent="117" relname="span">эти статьи лягут в основу программы Путина как кандидата в президенты России.</segment>
+		<segment id="119" parent="120" relname="attribution">По словам Пескова,</segment>
+		<segment id="120" parent="121" relname="span">в целом программа будет представлять собой весьма объемный документ - порядка 100 страниц.\n\nИсточник: https://www.newsru.com/russia/29Jan2012/ecoputin.html\n</segment>
+		<group id="127" type="multinuc" parent="128" relname="span"/>
+		<group id="51" type="span" parent="127" relname="joint"/>
+		<group id="49" type="span" parent="51" relname="span"/>
+		<group id="47" type="span" parent="49" relname="span"/>
+		<group id="126" type="multinuc" parent="127" relname="joint"/>
+		<group id="68" type="span" parent="126" relname="joint"/>
+		<group id="64" type="span" parent="68" relname="span"/>
+		<group id="54" type="span" parent="64" relname="span"/>
+		<group id="63" type="multinuc" parent="54" relname="elaboration"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="60" type="span" parent="61" relname="solutionhood"/>
+		<group id="59" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="67" type="span" parent="64" relname="attribution"/>
+		<group id="125" type="multinuc" parent="126" relname="joint"/>
+		<group id="83" type="span" parent="125" relname="joint"/>
+		<group id="81" type="multinuc" parent="83" relname="span"/>
+		<group id="73" type="span" parent="81" relname="joint"/>
+		<group id="72" type="span" parent="69" relname="elaboration"/>
+		<group id="80" type="span" parent="81" relname="joint"/>
+		<group id="78" type="span" parent="80" relname="span"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="124" type="multinuc" parent="125" relname="joint"/>
+		<group id="100" type="multinuc" parent="124" relname="joint"/>
+		<group id="86" type="span" parent="100" relname="joint"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="95" type="span" parent="98" relname="cause-effect"/>
+		<group id="93" type="multinuc" parent="95" relname="span"/>
+		<group id="89" type="multinuc" parent="93" relname="joint"/>
+		<group id="92" type="span" parent="93" relname="joint"/>
+		<group id="98" type="multinuc" parent="99" relname="span"/>
+		<group id="123" type="multinuc" parent="124" relname="joint"/>
+		<group id="109" type="span" parent="123" relname="joint"/>
+		<group id="103" type="span" parent="108" relname="cause-effect"/>
+		<group id="108" type="multinuc" parent="109" relname="span"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="122" type="span" parent="123" relname="joint"/>
+		<group id="118" type="span" parent="122" relname="span"/>
+		<group id="114" type="span" parent="118" relname="span"/>
+		<group id="113" type="span" parent="110" relname="elaboration"/>
+		<group id="117" type="span" parent="114" relname="attribution"/>
+		<group id="121" type="span" parent="118" relname="interpretation-evaluation"/>
+		<group id="128" type="span"/>
+	</body>
+</rst>

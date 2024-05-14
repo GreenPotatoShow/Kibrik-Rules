@@ -1,0 +1,54 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="27" relname="span">Британский изобретатель представил самодельный ховербайк (ВИДЕО)\n\nБританский сантехник и изобретатель Колин Фарз,</segment>
+		<segment id="22" parent="26" relname="span">известный своими необычными разработками и несколько эксцентричными манерами,</segment>
+		<segment id="23" parent="25" relname="span">опубликовал на своем YouTube-канале очередное видео,</segment>
+		<segment id="24" parent="23" relname="elaboration">в котором продемонстрировал самодельный летающий мотоцикл (ховербайк).</segment>
+		<segment id="28" parent="34" relname="joint">Менее чем за сутки ролик набрал свыше миллиона просмотров.\n\nКаркас ховербайка сварен из алюминиевых труб,</segment>
+		<segment id="29" parent="33" relname="span">а в качестве двигателей изобретатель использовал моторы от мотопараплана,</segment>
+		<segment id="30" parent="32" relname="span">повернув их в разные стороны</segment>
+		<segment id="31" parent="30" relname="purpose">для компенсации реактивного момента.</segment>
+		<segment id="35" parent="37" relname="span">Дополнительно энтузиаст оснастил ховербайк подсветкой и установкой</segment>
+		<segment id="36" parent="35" relname="purpose">для запуска петард.</segment>
+		<segment id="38" parent="42" relname="span">На проектирование и постройку аппарата ушло около месяца.\n\</segment>
+		<segment id="39" parent="40" relname="attribution">nКак подчеркнул сам Фарз,</segment>
+		<segment id="40" parent="41" relname="span">ховербайк стал первым летательным аппаратом в коллекции его изобретений.</segment>
+		<segment id="46" parent="48" relname="joint">В ходе испытательных полетов ховербайк ненадолго поднимался в воздух</segment>
+		<segment id="47" parent="48" relname="joint">и пролетал небольшое расстояние.</segment>
+		<segment id="49" parent="57" relname="span">При этом можно отметить, что аппарат не отличается хорошей управляемостью и стабильностью полета.\n\nРанее Фарз неоднократно радовал пользователей Сети копиями различных гаджетов из фантастических фильмов и компьютерных игр.</segment>
+		<segment id="50" parent="52" relname="span">Например, в мае 2014 года Фарз продемонстрировал наручный огнемет,</segment>
+		<segment id="51" parent="50" relname="elaboration">созданный по образу и подобию костюма Пиро - персонажа из вселенной \"Людей Икс\".</segment>
+		<segment id="53" parent="55" relname="span">Также в коллекции изобретений Фарза есть магнитные ботинки Магнето и когти Росомахи.</segment>
+		<segment id="54" parent="53" relname="elaboration">В прошлом году Фарз представил крюк-кошку и потайной нож из игры Assassin's Creed: Syndicate.\n\nИсточник: https://www.newsru.com/hitech/29Apr2016/furze.html\n</segment>
+		<group id="45" type="multinuc" parent="59" relname="joint"/>
+		<group id="27" type="span" parent="45" relname="comparison"/>
+		<group id="26" type="span" parent="21" relname="elaboration"/>
+		<group id="25" type="span" parent="22" relname="elaboration"/>
+		<group id="44" type="multinuc" parent="45" relname="comparison"/>
+		<group id="34" type="multinuc" parent="44" relname="joint"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="32" type="span" parent="29" relname="elaboration"/>
+		<group id="43" type="multinuc" parent="44" relname="joint"/>
+		<group id="37" type="span" parent="43" relname="joint"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="41" type="span" parent="38" relname="elaboration"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="48" type="multinuc" parent="58" relname="joint"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="56" type="multinuc" parent="49" relname="evidence"/>
+		<group id="52" type="span" parent="56" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="59" type="multinuc"/>
+	</body>
+</rst>

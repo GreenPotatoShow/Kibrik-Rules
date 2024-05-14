@@ -1,0 +1,46 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="18" relname="span">Volkswagen может продать некоторые бренды\n\nVolkswagen Group может продать Ducati, Scania и MAN,</segment>
+		<segment id="17" parent="16" relname="purpose">чтобы покрыть расходы, связанные с \"дизельгейтом\",</segment>
+		<segment id="19" parent="18" relname="attribution">сообщает JCNews.ru.</segment>
+		<segment id="21" parent="24" relname="attribution">Официальный представитель компании подтвердил,</segment>
+		<segment id="22" parent="24" relname="contrast">что в настоящее время решается судьба Scania и MAN.\n\nРешение не будет принято в ближайшее время,</segment>
+		<segment id="23" parent="24" relname="contrast">однако вполне вероятно, что подразделения грузовых автомобилей выйдут из состава Volkswagen Group.</segment>
+		<segment id="26" parent="30" relname="span">Эта возможность рассматривалась еще до дизельного скандала.\n\nСтоимость брендов составит около 13,5 млрд долларов США.</segment>
+		<segment id="27" parent="29" relname="contrast">Это позволит покрыть часть расходов,</segment>
+		<segment id="28" parent="29" relname="contrast">однако полная сумма все еще слишком велика.</segment>
+		<segment id="31" parent="41" relname="joint">По некоторым оценкам, ущерб составляет примерно 55 млрд долларов.\n\</segment>
+		<segment id="32" parent="34" relname="span">nСтоит отметить, что Volkswagen уже выделил более 7 млрд долларов,</segment>
+		<segment id="33" parent="32" relname="purpose">чтобы покрыть расходы.</segment>
+		<segment id="35" parent="39" relname="span">Еще 20 млрд долларов будут выделены европейскими банками</segment>
+		<segment id="36" parent="38" relname="span">.\n\nБренд Ducati будет продан только в том случае,</segment>
+		<segment id="37" parent="36" relname="condition">если положение окажется безвыходным.\n\nИсточник: https://www.newsru.com/auto/12Feb2016/vw_sbrnds.html\n</segment>
+		<group id="20" type="span" parent="43" relname="preparation"/>
+		<group id="18" type="span" parent="20" relname="span"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="25" type="span" parent="43" relname="joint"/>
+		<group id="24" type="multinuc" parent="25" relname="span"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="30" type="span" parent="42" relname="span"/>
+		<group id="29" type="multinuc" parent="26" relname="purpose"/>
+		<group id="41" type="multinuc" parent="30" relname="elaboration"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="34" type="span" parent="40" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="38" type="span" parent="35" relname="elaboration"/>
+		<group id="44" type="span"/>
+	</body>
+</rst>

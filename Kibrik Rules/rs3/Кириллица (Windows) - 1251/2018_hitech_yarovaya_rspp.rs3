@@ -1,0 +1,126 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="54" parent="56" relname="span">РСПП не устроили смягченные требования \"закона Яровой\" к операторам связи\n\nКомиссия по связи и информационно-телекоммуникационным технологиям Российского союза промышленников и предпринимателей (РСПП) подготовила заключение на обновленный проект постановления Минкомсвязи о хранении данных операторами по \"закону Яровой\",</segment>
+		<segment id="55" parent="54" relname="attribution">пишет газета \"Коммерсант\".\n\nПо данным издания,</segment>
+		<segment id="57" parent="61" relname="sequence">документ, подписанный главой РСПП Александром Шохиным,</segment>
+		<segment id="58" parent="60" relname="span">1 февраля был направлен заместителю главы Минкомсвязи Дмитрию Алхазову и вице-премьеру Аркадию Дворковичу.\n\</segment>
+		<segment id="59" parent="58" relname="elaboration">nНапомним, доработанный вариант постановления частично учитывает предыдущие предложения РСПП.</segment>
+		<segment id="63" parent="65" relname="span">Так, из него было исключено требование об определении объема хранилищ информации,</segment>
+		<segment id="64" parent="63" relname="condition">исходя из монтированной емкости сетей связи, а также требование по хранению транзитного трафика.</segment>
+		<segment id="66" parent="67" relname="attribution">Как отмечается в заключении РСПП,</segment>
+		<segment id="67" parent="68" relname="span">это позволит заметно сократить объем хранимой информации.</segment>
+		<segment id="69" parent="75" relname="span">Однако даже эти требования могут привести к прекращению развития сетей связи в стране,</segment>
+		<segment id="70" parent="71" relname="cause-effect">поскольку полностью поглотят инвестиционные бюджеты операторов,</segment>
+		<segment id="71" parent="72" relname="span">либо значительному росту тарифов на услуги связи</segment>
+		<segment id="73" parent="72" relname="elaboration">(на 12-90% в зависимости от услуги и оператора связи).\n\</segment>
+		<segment id="79" parent="82" relname="attribution">nСогласно новым предложениям Минкомсвязи,</segment>
+		<segment id="80" parent="82" relname="span">операторы должны будут хранить фактически переданный трафик,</segment>
+		<segment id="81" parent="80" relname="cause-effect">за исключением голоса, в течение 30 суток.</segment>
+		<segment id="84" parent="89" relname="attribution">По оценке комиссии РСПП,</segment>
+		<segment id="85" parent="87" relname="span">расходы на исполнение этих требований в течение пяти лет для компании МТС составят до 43 млрд рублей,</segment>
+		<segment id="86" parent="85" relname="purpose">для \"ВымпелКома\" - не менее 63 млрд рублей,</segment>
+		<segment id="88" parent="89" relname="joint">для \"МегаФона\" - около 40 млрд рублей, а для МГТС - до 17 млрд рублей.</segment>
+		<segment id="92" parent="93" relname="comparison">До внесения изменений в проект постановления в РСПП оценивали совокупные затраты операторов \"большой тройки\" на исполнение закона в 100 млрд рублей в 2018 году.</segment>
+		<segment id="94" parent="101" relname="attribution">При этом эксперты указывали,</segment>
+		<segment id="95" parent="101" relname="comparison">что без софинансирования из госбюджета каждый из этих операторов может позволить себе тратить на реализацию требований не более 3 млрд рублей.\n\</segment>
+		<segment id="96" parent="97" relname="attribution">nВ заключении комиссии также отмечается,</segment>
+		<segment id="97" parent="98" relname="span">что из-под действия закона так и не были выведены выделенные сети телефонной связи промышленных предприятий,</segment>
+		<segment id="99" parent="100" relname="span">что означает значительные затраты для использующих их компаний.</segment>
+		<segment id="103" parent="105" relname="joint">Кроме того, на рынке отсутствует необходимое для реализации требований оборудование,</segment>
+		<segment id="104" parent="105" relname="joint">а архитектура действующих систем обеспечения оперативно-разыскных мероприятий не может быть модифицирована.</segment>
+		<segment id="107" parent="116" relname="attribution">Как полагают в РСПП,</segment>
+		<segment id="108" parent="116" relname="span">это значит, что реализация требований закона с 1 июля 2018 года,</segment>
+		<segment id="109" parent="115" relname="joint">когда он должен вступить в силу,</segment>
+		<segment id="110" parent="114" relname="joint">фактически невозможна с учетом того, как организованы закупочные процедуры и процессы бюджетирования операторов связи.\n\nВ РСПП предлагают</segment>
+		<segment id="111" parent="113" relname="joint">сократить сроки и объемы хранимой информации,</segment>
+		<segment id="112" parent="113" relname="joint">исключить трафик выделенных сетей связи и сетей специального назначения, а также трафик корпоративных пользователей.</segment>
+		<segment id="118" parent="117" relname="interpretation-evaluation">Помимо этого, в заключении предлагается поэтапная реализация требований закона до 2022 года включительно.</segment>
+		<segment id="120" parent="122" relname="span">Этапность при этом должна затрагивать не только сроки хранения трафика, но и географию сетей.\n\</segment>
+		<segment id="121" parent="120" relname="attribution">nКак пояснила куратор рабочей группы \"Связь и IT\" экспертного совета при правительстве Ирина Левова,</segment>
+		<segment id="123" parent="125" relname="span">географическая этапность необходима,</segment>
+		<segment id="124" parent="123" relname="purpose">чтобы избежать резкого роста затрат на электроэнергию.</segment>
+		<segment id="127" parent="134" relname="attribution">По ее словам,</segment>
+		<segment id="128" parent="130" relname="span">большинство регионов России энергодефицитны</segment>
+		<segment id="129" parent="128" relname="purpose">для полномасштабной реализации требований закона.\n\n\"Огромные дата-центры, которые еще только предстоит построить,</segment>
+		<segment id="131" parent="133" relname="span">будут потреблять несопоставимо большие, чем сейчас, объемы электричества,</segment>
+		<segment id="132" parent="131" relname="condition">причем не столько на собственно энергопотребление, сколько на охлаждение\",</segment>
+		<segment id="136" parent="135" relname="attribution">- сообщила Левова,</segment>
+		<segment id="139" parent="140" relname="attribution">отметив,</segment>
+		<segment id="140" parent="141" relname="span">что соблюдение требований закона может привести к веерным отключениям электричества в больших городах.</segment>
+		<segment id="142" parent="145" relname="attribution">Также Левова отметила,</segment>
+		<segment id="143" parent="145" relname="joint">что максимально приемлемый срок хранения данных по \"закону Яровой\" составляет всего трое суток.\n\</segment>
+		<segment id="144" parent="145" relname="joint">nОтметим, что в правительстве рассматривают возможность перенести вступление \"закона Яровой\" в силу с июля на октябрь этого года.</segment>
+		<segment id="147" parent="146" relname="attribution">Об этом 19 января сообщил вице-премьер Аркадий Дворкович.</segment>
+		<segment id="149" parent="150" relname="attribution">Комментируя его слова,</segment>
+		<segment id="150" parent="151" relname="span">представители \"ВымпелКома\", \"МегаФона\" и \"Ростелекома\" поддержали идею отсрочки.\n\nИсточник: https://www.newsru.com/hitech/05Feb2018/yarovaya_rspp.html\n</segment>
+		<group id="78" type="span" parent="158" relname="joint"/>
+		<group id="62" type="multinuc" parent="78" relname="span"/>
+		<group id="56" type="span" parent="62" relname="joint"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="60" type="span" parent="61" relname="sequence"/>
+		<group id="77" type="multinuc" parent="62" relname="elaboration"/>
+		<group id="65" type="span" parent="77" relname="comparison"/>
+		<group id="76" type="multinuc" parent="77" relname="comparison"/>
+		<group id="68" type="span" parent="76" relname="contrast"/>
+		<group id="75" type="span" parent="76" relname="contrast"/>
+		<group id="74" type="span" parent="69" relname="cause-effect"/>
+		<group id="72" type="span" parent="74" relname="span"/>
+		<group id="157" type="multinuc" parent="158" relname="joint"/>
+		<group id="93" type="multinuc" parent="157" relname="joint"/>
+		<group id="91" type="multinuc" parent="93" relname="comparison"/>
+		<group id="83" type="span" parent="91" relname="joint"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="89" type="multinuc" parent="90" relname="span"/>
+		<group id="87" type="span" parent="89" relname="joint"/>
+		<group id="156" type="multinuc" parent="157" relname="joint"/>
+		<group id="106" type="multinuc" parent="156" relname="joint"/>
+		<group id="102" type="span" parent="106" relname="joint"/>
+		<group id="101" type="multinuc" parent="102" relname="span"/>
+		<group id="100" type="span" parent="101" relname="comparison"/>
+		<group id="98" type="span" parent="99" relname="cause-effect"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="155" type="multinuc" parent="156" relname="joint"/>
+		<group id="119" type="span" parent="155" relname="joint"/>
+		<group id="117" type="span" parent="119" relname="span"/>
+		<group id="116" type="span" parent="117" relname="span"/>
+		<group id="115" type="multinuc" parent="108" relname="elaboration"/>
+		<group id="114" type="multinuc" parent="115" relname="joint"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="154" type="multinuc" parent="155" relname="joint"/>
+		<group id="138" type="multinuc" parent="154" relname="joint"/>
+		<group id="126" type="span" parent="138" relname="joint"/>
+		<group id="122" type="span" parent="126" relname="span"/>
+		<group id="125" type="span" parent="122" relname="purpose"/>
+		<group id="137" type="span" parent="138" relname="joint"/>
+		<group id="135" type="span" parent="137" relname="span"/>
+		<group id="134" type="multinuc" parent="135" relname="span"/>
+		<group id="130" type="span" parent="134" relname="joint"/>
+		<group id="133" type="span" parent="134" relname="joint"/>
+		<group id="153" type="multinuc" parent="154" relname="joint"/>
+		<group id="141" type="span" parent="153" relname="joint"/>
+		<group id="152" type="multinuc" parent="153" relname="joint"/>
+		<group id="148" type="span" parent="152" relname="joint"/>
+		<group id="146" type="span" parent="148" relname="span"/>
+		<group id="145" type="multinuc" parent="146" relname="span"/>
+		<group id="151" type="span" parent="152" relname="joint"/>
+		<group id="158" type="multinuc"/>
+	</body>
+</rst>

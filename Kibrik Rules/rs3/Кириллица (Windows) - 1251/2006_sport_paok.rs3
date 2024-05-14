@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="52" relname="preparation">Разгневанных болельщиков ПАОК разогнали газом\n\</segment>
+		<segment id="20" parent="24" relname="span">nГреческая полиция применила слезоточивый газ</segment>
+		<segment id="21" parent="22" relname="condition">при разгоне демонстрации футбольных болельщиков в Салониках,</segment>
+		<segment id="22" parent="23" relname="span">сообщают греческие телеканалы.</segment>
+		<segment id="25" parent="31" relname="span">Около пяти тысяч демонстрантов собрались в центре города возле выставочного центра,</segment>
+		<segment id="26" parent="30" relname="span">когда премьер-министр страны Костас Караманлис открывал 71-ю Международную выставку.\n\nВ большинстве своем демонстранты являются поклонниками футбольного клуба ПАОК,</segment>
+		<segment id="27" parent="29" relname="span">который в последнее время испытывает серьезные финансовые проблемы,</segment>
+		<segment id="28" parent="27" relname="condition">находясь практически на грани банкротства.</segment>
+		<segment id="33" parent="35" relname="joint">Фанаты клуба винят в происходящем греческие власти.</segment>
+		<segment id="34" parent="35" relname="joint">В течение примерно часа толпа радикально настроенных болельщиков забрасывала полицейские кордоны камнями, банками с краской, яйцами.</segment>
+		<segment id="36" parent="50" relname="sequence">Вскоре в полицейских полетели и стулья из расположенного поблизости открытого кафе.</segment>
+		<segment id="37" parent="41" relname="span">После того, как брошенные камни стали долетать до здания,</segment>
+		<segment id="40" parent="37" relname="elaboration">где проходит открытие выставки, полиция пошла в контрнаступление.</segment>
+		<segment id="42" parent="43" relname="condition">Применив слезоточивый газ,</segment>
+		<segment id="43" parent="44" relname="span">стражи порядка оттеснили футбольных фанатов на соседние улицы.</segment>
+		<segment id="45" parent="44" relname="elaboration">При этом никто не был ранен,</segment>
+		<segment id="47" parent="46" relname="attribution">сообщает РИА \"Новости\".\n\nИсточник: https://www.newsru.com/sport/09Sep2006/paok.html\n</segment>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="32" type="multinuc" parent="52" relname="joint"/>
+		<group id="24" type="span" parent="32" relname="joint"/>
+		<group id="23" type="span" parent="20" relname="condition"/>
+		<group id="31" type="span" parent="32" relname="joint"/>
+		<group id="30" type="span" parent="25" relname="elaboration"/>
+		<group id="29" type="span" parent="26" relname="elaboration"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="35" type="multinuc" parent="51" relname="joint"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="49" type="span" parent="50" relname="sequence"/>
+		<group id="41" type="span" parent="49" relname="span"/>
+		<group id="48" type="span" parent="41" relname="elaboration"/>
+		<group id="46" type="span" parent="48" relname="span"/>
+		<group id="44" type="span" parent="46" relname="span"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

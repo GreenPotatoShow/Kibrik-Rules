@@ -1,0 +1,96 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="40" parent="42" relname="span">На Украине закрыто дело против чиновников, обвинявшихся в разгоне сонного Майдана\n\nНа Украине закрыто дело против чиновников,</segment>
+		<segment id="41" parent="40" relname="background">которые обвинялись в превышении власти в связи с ночным разгоном киевского Майдана 30 ноября 2013 года.</segment>
+		<segment id="43" parent="46" relname="cause-effect">Такое решение принял суд</segment>
+		<segment id="44" parent="46" relname="span">в связи с действием закона об амнистии,</segment>
+		<segment id="45" parent="44" relname="attribution">сообщила в среду пресс-служба столичной прокуратуры,</segment>
+		<segment id="48" parent="50" relname="span">передает \"Интерфакс\".\n\nВ частности, от ответственности освобождены бывший глава Киевской городской государственной администрации Александр Попов и бывший заместитель секретаря Совета национальной безопасности и обороны (СНБО) Украины Владимир Сивкович.</segment>
+		<segment id="49" parent="48" relname="elaboration">В декабре Генпрокуратура страны назвала их, а также двоих руководителей киевской милиции виновными в разгоне.</segment>
+		<segment id="52" parent="53" relname="attribution">Попов и Сивкович были сняты с должностей указами президента Виктора Януковича.\n\nПри этом оба они заявили,</segment>
+		<segment id="53" parent="54" relname="span">что в своих действиях в ночь на 30 ноября руководствовались указаниями секретаря СНБО Андрея Клюева.</segment>
+		<segment id="56" parent="62" relname="span">Сам он это отрицал.</segment>
+		<segment id="57" parent="61" relname="joint">В январе этого года Янукович освободил его от должности</segment>
+		<segment id="58" parent="60" relname="span">и назначил главой своей администрации</segment>
+		<segment id="59" parent="58" relname="elaboration">.\n\n- На Украине застрелен судья, решавший вопросы об арестах радикалов из оппозиции\n\</segment>
+		<segment id="63" parent="64" relname="attribution">nКак объяснила глава пресс-службы киевской прокуратуры Яна Соболевская,</segment>
+		<segment id="64" parent="65" relname="span">дела были по закону \"О внесении изменений в закон Украины об устранении негативных последствий и недопущении преследования и наказания по поводу событий, которые имели место во время проведения мирных собраний\".</segment>
+		<segment id="66" parent="70" relname="span">Этим документом предусмотрен четкий перечень статей Уголовного кодекса,</segment>
+		<segment id="67" parent="69" relname="joint">производства по которым подлежат закрытию,</segment>
+		<segment id="68" parent="69" relname="joint">сказала она.\n\nВо исполнение закона все производства, которые расследовались по этим статьям, были закрыты.</segment>
+		<segment id="71" parent="72" relname="cause-effect">В тех случаях, где в процессах не были установлены подозреваемые, так называемые фактовые,</segment>
+		<segment id="72" parent="73" relname="span">решение о закрытии принимались органами прокуратуры.</segment>
+		<segment id="75" parent="79" relname="span">В тех производствах, где были установлены фигуранты,</segment>
+		<segment id="76" parent="78" relname="span">так, как в деле по подозрению Попова, Сивковича и других, решение о закрытии принимались судами.\n\nВсего по Киеву было закрыто 35 фактовых уголовных производств,</segment>
+		<segment id="77" parent="76" relname="elaboration">в отношении 21 человека уже применены нормы этого закона,</segment>
+		<segment id="80" parent="84" relname="span">подытожила Соболевская.\n\nТаким образом,</segment>
+		<segment id="81" parent="82" relname="attribution">по ее словам,</segment>
+		<segment id="82" parent="83" relname="span">по амнистии освобождены от уголовной ответственности все, кроме троих людей, находящихся в розыске.</segment>
+		<segment id="88" parent="92" relname="joint">\"Судам осталось рассмотреть</segment>
+		<segment id="89" parent="91" relname="span">и применить нормы этого закона по отношению к тем, кто находился в розыске,</segment>
+		<segment id="90" parent="89" relname="elaboration">в том числе это касается Дмитрия Корчинского\",</segment>
+		<segment id="93" parent="92" relname="attribution">- цитирует ее \"Сегодня\".</segment>
+		<segment id="95" parent="96" relname="attribution">Глава пресс-службы обратила внимание,</segment>
+		<segment id="96" parent="97" relname="span">что соответствующие ходатайства уже поданы в суды.\n\nЛидер партии \"Братство\" Дмитрий Корчинский подозревается в организации массовых беспорядков на Банковой улице в Киеве 1 декабря.</segment>
+		<segment id="98" parent="99" relname="attribution">Ранее в СМИ появлялась информация,</segment>
+		<segment id="99" parent="100" relname="span">что Корчинский уехал в Россию,</segment>
+		<segment id="101" parent="102" relname="contrast">однако сам он это опроверг.</segment>
+		<segment id="103" parent="107" relname="span">\"Где бы я не хотел прятаться от украинской тюрьмы, так это в грозненской.</segment>
+		<segment id="104" parent="106" relname="span">В России на меня уже много лет заведено уголовное дело\",</segment>
+		<segment id="105" parent="104" relname="attribution">- написал он на своей странице в Facebook.\n\nСоболевская уточнила,</segment>
+		<segment id="108" parent="109" relname="comparison">что среди разыскиваемых лиц нет других известных людей, кроме лидера \"Братства\".\n\nИсточник: https://www.newsru.com/world/12Feb2014/amnesty.html\n</segment>
+		<group id="42" type="span" parent="115" relname="preparation"/>
+		<group id="115" type="multinuc" parent="116" relname="span"/>
+		<group id="55" type="multinuc" parent="115" relname="joint"/>
+		<group id="51" type="multinuc" parent="55" relname="joint"/>
+		<group id="47" type="span" parent="51" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="114" type="multinuc" parent="115" relname="joint"/>
+		<group id="62" type="span" parent="114" relname="joint"/>
+		<group id="61" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="87" type="span" parent="113" relname="joint"/>
+		<group id="65" type="span" parent="87" relname="span"/>
+		<group id="86" type="multinuc" parent="65" relname="elaboration"/>
+		<group id="74" type="span" parent="86" relname="joint"/>
+		<group id="70" type="span" parent="74" relname="span"/>
+		<group id="69" type="multinuc" parent="66" relname="elaboration"/>
+		<group id="73" type="span" parent="70" relname="elaboration"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="79" type="span" parent="85" relname="joint"/>
+		<group id="78" type="span" parent="75" relname="elaboration"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="83" type="span" parent="80" relname="elaboration"/>
+		<group id="112" type="span" parent="113" relname="joint"/>
+		<group id="94" type="span" parent="111" relname="preparation"/>
+		<group id="92" type="multinuc" parent="94" relname="span"/>
+		<group id="91" type="span" parent="92" relname="joint"/>
+		<group id="111" type="multinuc" parent="112" relname="span"/>
+		<group id="97" type="span" parent="111" relname="sequence"/>
+		<group id="110" type="span" parent="111" relname="sequence"/>
+		<group id="102" type="multinuc" parent="109" relname="preparation"/>
+		<group id="100" type="span" parent="102" relname="contrast"/>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="107" type="span" parent="109" relname="comparison"/>
+		<group id="106" type="span" parent="103" relname="background"/>
+		<group id="116" type="span"/>
+	</body>
+</rst>

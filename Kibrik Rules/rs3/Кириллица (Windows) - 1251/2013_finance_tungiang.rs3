@@ -1,0 +1,47 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="20" relname="span">\"Дочка\" ВЭБа купила компанию, строящую мост через Амур в Китай\n\nВходящая в группу Внешэкономбанка компания \"Фонд развития Дальнего Востока и Байкальского региона\" получит 100% долей в ООО \"Рубикон\" - проектной компании по реализации строительства российской части пограничного железнодорожного мостового перехода через реку Амур на границе России и Китая,</segment>
+		<segment id="19" parent="18" relname="attribution">сообщает \"Интерфакс\".</segment>
+		<segment id="21" parent="23" relname="comparison">\"Дочка\" ВЭБа заключила соглашение о приобретении 100% \"Рубикона\" с ГК \"Петропавловск - черная металлургия\" (альянс Petropavlovsk).\n\nПредполагается, что фонд станет управляющим и финансовым партнером правительства Еврейской автономной области,</segment>
+		<segment id="22" parent="23" relname="comparison">на территории которой реализуется этот инфраструктурный проект.\n\nК сооружению железнодорожного моста из села Нижнеленинское Еврейской автономной области до Тунцзяна планируется приступить в этом году.</segment>
+		<segment id="24" parent="25" relname="joint">Сроки строительства оцениваются в 2,5 года.</segment>
+		<segment id="26" parent="30" relname="joint">Мост протянется через реку от Северного железнодорожного вокзала города Тунцзян в Нижнеленинское</segment>
+		<segment id="27" parent="29" relname="span">и там соединится с железнодорожной веткой Нижнеленинское-Биробиджан российской Дальневосточной железной дороги.\n\nОдновременно с ним должен заработать грузопассажирский пункт пропуска,</segment>
+		<segment id="28" parent="27" relname="elaboration">финансирование которого включено в Федеральную целевую программу \"Государственная граница Российской Федерации (2012 – 2020 годы)\".\n\nСтроительство моста осуществляется в рамках межправительственного соглашения между РФ и КНР.</segment>
+		<segment id="31" parent="33" relname="comparison">Протяженность мостового перехода - 2,2 км,</segment>
+		<segment id="32" parent="33" relname="comparison">из них российская часть - 0,3 км.</segment>
+		<segment id="34" parent="46" relname="joint">Пропускная способность составит от 5,2 миллиона тонн (I этап проекта) до 20,0 миллиона тонн (II этап проекта).\n\nКроме того, строительство нового моста в Китай, как полагают, поспособствует развитию проекта освоения Кимкано-Сутарского железорудного месторождения в Еврейской автономной области.</segment>
+		<segment id="35" parent="37" relname="joint">Строительство Кимкано-Сутарского ГОКа ведет IRC Ltd (железорудная структура альянса Petropavlovsk),</segment>
+		<segment id="36" parent="37" relname="joint">продукцию планируется поставлять в Китай по мосту через Амур.\n\nСейчас на границе РФ и КНР действует всего два прямых железнодорожных погранперехода: Забайкальск—Маньчжурия в Забайкальском крае и Гродеково-Суйфеньхэ в Приморском крае.</segment>
+		<segment id="38" parent="37" relname="elaboration">В сумме на них приходится около половины железнодорожного грузооборота.</segment>
+		<segment id="40" parent="44" relname="span">Остальные железнодорожные перевозки между Россией и Китаем осуществляются транзитом через Казахстан и Монголию.\n\n\"Фонд развития Дальнего Востока и Байкальского региона\" создан в 2011 году.</segment>
+		<segment id="41" parent="43" relname="joint">Уставный капитал фонда составляет 15 миллиардов рублей.</segment>
+		<segment id="42" parent="43" relname="joint">Учредителем и единственным акционером является Внешэкономбанк.\n\nИсточник: https://www.newsru.com/finance/22May2013/tungiang.html\n</segment>
+		<group id="20" type="span" parent="49" relname="preparation"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="25" type="multinuc" parent="49" relname="joint"/>
+		<group id="23" type="multinuc" parent="25" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="30" type="multinuc" parent="48" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="33" type="multinuc" parent="47" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="39" type="span" parent="45" relname="joint"/>
+		<group id="37" type="multinuc" parent="39" relname="span"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="43" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

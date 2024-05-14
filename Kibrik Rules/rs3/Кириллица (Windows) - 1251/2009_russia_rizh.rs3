@@ -1,0 +1,41 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="15" relname="cause-effect">В Подмосковье на Рижском направлении обесточены несколько перегонов\n\nРяд перегонов обесточен на рижском направлении Московской железной дороги,</segment>
+		<segment id="15" parent="16" relname="span">что вызвало задержку в отправлении некоторых электропоездов,</segment>
+		<segment id="17" parent="19" relname="span">сообщил РИА \"Новости\" в воскресенье начальник пресс-службы дороги Владимир Мягков.\n\n\"В 13:05 отключены сети,</segment>
+		<segment id="18" parent="17" relname="cause-effect">из-за чего были обесточены железнодорожные перегоны Холщевики-Румянцево, Румянцево-Чисмена, Чисмена-Волоколамск\",</segment>
+		<segment id="21" parent="20" relname="attribution">- сказал он.\n\</segment>
+		<segment id="23" parent="26" relname="attribution">nПо словам руководителя пресс-службы,</segment>
+		<segment id="24" parent="26" relname="joint">МЖД оперативно перешла на резервное питание с помощью генераторов,</segment>
+		<segment id="25" parent="26" relname="joint">поезда на обесточенных участках перемещались тепловозами.</segment>
+		<segment id="28" parent="30" relname="span">На ряде станций перевод стрелок осуществлялся вручную.\n\</segment>
+		<segment id="29" parent="28" relname="elaboration">nВ результате предпринятых мер удалось избежать массового опоздания поездов,</segment>
+		<segment id="31" parent="30" relname="attribution">отметил Мягков.</segment>
+		<segment id="34" parent="35" relname="attribution">По его словам,</segment>
+		<segment id="35" parent="36" relname="span">примерно с 15-минутной задержкой следовали два поезда.\n\nНачальник пресс-службы не располагает пока данными о восстановлении энергоснабжения участков пути.\n\nИсточник: https://www.newsru.com/russia/01Nov2009/rizh.html\n</segment>
+		<group id="22" type="span" parent="38" relname="sequence"/>
+		<group id="20" type="multinuc" parent="22" relname="span"/>
+		<group id="16" type="span" parent="20" relname="joint"/>
+		<group id="19" type="span" parent="20" relname="joint"/>
+		<group id="37" type="multinuc" parent="38" relname="sequence"/>
+		<group id="33" type="multinuc" parent="37" relname="sequence"/>
+		<group id="27" type="span" parent="33" relname="joint"/>
+		<group id="26" type="multinuc" parent="27" relname="span"/>
+		<group id="32" type="span" parent="33" relname="joint"/>
+		<group id="30" type="span" parent="32" relname="span"/>
+		<group id="36" type="span" parent="37" relname="sequence"/>
+		<group id="38" type="multinuc"/>
+	</body>
+</rst>

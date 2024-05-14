@@ -1,0 +1,81 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="42" relname="preparation">\"Оттава\" вышла в лидеры дивизиона после чистой победы над \"Филадельфией\"\n\n\"Оттава Сенаторз\" выиграла у \"Филадельфии\" в очередном матче регулярного первенства НХЛ - 3:1.</segment>
+		<segment id="34" parent="36" relname="span">Напомним, что последняя встреча между этими командами завершилась большой дракой,</segment>
+		<segment id="35" parent="34" relname="elaboration">в ходе которой соперники установили новый рекорд НХЛ,</segment>
+		<segment id="37" parent="41" relname="joint">набрав 419 минут штрафа.\n\nЗащитник \"Оттавы\" Здено Чара забросил шайбу</segment>
+		<segment id="38" parent="40" relname="restatement">и сделал результативную передачу,</segment>
+		<segment id="39" parent="40" relname="restatement">что помогло \"Сенаторам\" выйти на первое место в дивизионе, деля его с \"Бостоном\".</segment>
+		<segment id="44" parent="52" relname="span">Судьба первенства решится в двух матчах основного соперника против \"Дэвилз\".</segment>
+		<segment id="45" parent="51" relname="span">Между тем, \"Оттава\" закрывает сезон поединком с \"Торонто\".\n\</segment>
+		<segment id="46" parent="50" relname="span">nНапомним, что пятого марта на льду \"Вачовиа Центра\" состоялось самое крупное побоище за всю историю лиги,</segment>
+		<segment id="47" parent="48" relname="cause-effect">в котором соперникам досталось 419 штрафных минут.\n\nТренер \"Фили\" в преддверии этого матча сказал,</segment>
+		<segment id="48" parent="49" relname="span">что его команда будет на этот раз бороться за очки.</segment>
+		<segment id="53" parent="57" relname="contrast">Однако у \"Флайерз\" взять их не получилось,</segment>
+		<segment id="54" parent="55" relname="attribution">впрочем, Хитчкок оправдал свое заявление о том,</segment>
+		<segment id="55" parent="56" relname="span">что его подопечные грубить не будут.</segment>
+		<segment id="58" parent="61" relname="cause-effect">В итоге обе команды получили лишь 12 минут штрафа,</segment>
+		<segment id="59" parent="61" relname="span">что бесспорный прогресс по сравнению с прошлым поединком.\n\nПервый гол в этом матче забросил Энтони Верметт,</segment>
+		<segment id="60" parent="59" relname="elaboration">после комбинации Радека Банка и Мариана Хоссы.</segment>
+		<segment id="64" parent="70" relname="sequence">\"Флайерс\" сравняли счет после 20-й шайбы в сезоне Михала Хэндзуса.</segment>
+		<segment id="65" parent="67" relname="sequence">После этого отличился Чара,</segment>
+		<segment id="66" parent="67" relname="sequence">а еще несколько минут спустя \"Оттава\" не смогла реализовать два удаления соперника.</segment>
+		<segment id="68" parent="69" relname="sequence">В итоге победную шайбу на свой счет записал Петер Бондра.\n\nВ других встречах Адриан Окойн помог своей команде выиграть восьмую путевку в розыгрыш Кубка Стэнли.</segment>
+		<segment id="71" parent="73" relname="span">На счету защитника \"Айлендерс\" дубль, а у команды победа над \"Каролиной\" 6:4.</segment>
+		<segment id="72" parent="71" relname="elaboration">Два первых гола в НХЛ Марека Сватоша из \"Колорадо\" помогли его команде выиграть у \"Коламбуса\" 4:2.</segment>
+		<segment id="74" parent="80" relname="contrast">Илья Ковальчук забросил свою 40-ю шайбу в чемпионате,</segment>
+		<segment id="75" parent="79" relname="joint">но его \"Атланта\" проиграла \"Питтсбургу\" 2:3.\n\nВ Баффало Чэд Килгер и Джо Ньювендайк провели по шайбе,</segment>
+		<segment id="76" parent="77" relname="attribution">а Эдди Бельфор отразил 17 бросков,</segment>
+		<segment id="77" parent="78" relname="span">что привело к сухой победе \"Торонто\" над \"Сэйбрз\" 2:0.</segment>
+		<segment id="81" parent="85" relname="sequence">Рикарл Уоллин сравнял счет,</segment>
+		<segment id="82" parent="84" relname="span">а затем забросил победную шайбу во встрече своей \"Миннесоты\" с \"Далласом\" 4:2.\n\nМэттью Ломбрди забросил две шайбы за \"Калгари\",</segment>
+		<segment id="83" parent="82" relname="elaboration">который выиграл у \"Кингз\" со счетом 3:2.</segment>
+		<segment id="89" parent="91" relname="joint">Отметим, что для \"Королей\" поражение стало десятым подряд.</segment>
+		<segment id="90" parent="91" relname="joint">И, наконец, в Сан-Хосе Мэтт Кук забросил победную и первую шайбы во встрече своего \"Ванкувера\" против \"Шаркс\".\n\nИсточник: https://www.newsru.com/sport/03Apr2004/nhlrecap.html\n</segment>
+		<group id="43" type="span" parent="94" relname="preparation"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="36" type="span" parent="42" relname="span"/>
+		<group id="41" type="multinuc" parent="36" relname="elaboration"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="52" type="span" parent="94" relname="joint"/>
+		<group id="51" type="span" parent="44" relname="elaboration"/>
+		<group id="50" type="span" parent="45" relname="elaboration"/>
+		<group id="49" type="span" parent="46" relname="elaboration"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="63" type="span" parent="93" relname="joint"/>
+		<group id="57" type="multinuc" parent="63" relname="span"/>
+		<group id="56" type="span" parent="57" relname="contrast"/>
+		<group id="62" type="span" parent="57" relname="evidence"/>
+		<group id="61" type="span" parent="62" relname="span"/>
+		<group id="92" type="span" parent="93" relname="joint"/>
+		<group id="88" type="multinuc" parent="92" relname="span"/>
+		<group id="70" type="multinuc" parent="88" relname="sequence"/>
+		<group id="69" type="multinuc" parent="70" relname="sequence"/>
+		<group id="67" type="multinuc" parent="69" relname="sequence"/>
+		<group id="87" type="multinuc" parent="88" relname="sequence"/>
+		<group id="73" type="span" parent="87" relname="joint"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="80" type="multinuc" parent="86" relname="joint"/>
+		<group id="79" type="multinuc" parent="80" relname="contrast"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="84" type="span" parent="85" relname="sequence"/>
+		<group id="91" type="multinuc" parent="88" relname="elaboration"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,57 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="28" relname="preparation">Политехнический университет Флориды отказался от бумажных книг в своей новой библиотеке\n\nПолитехнический университет Флориды открыл новую библиотеку для студентов.</segment>
+		<segment id="22" parent="27" relname="attribution">Как пишет пользователь портала \"Хабрахабр\",</segment>
+		<segment id="23" parent="27" relname="joint">над проектом здания работал известный архитектор Сантьяго Калатрава,</segment>
+		<segment id="24" parent="26" relname="contrast">а главной особенностью новой библиотеки стало полное отсутствие в ней привычных бумажных книг.\n\nБиблиотека оснащена рабочими местами,</segment>
+		<segment id="25" parent="26" relname="contrast">а в ее электронном фонде хранится более 135 тысяч изданий.</segment>
+		<segment id="30" parent="34" relname="span">Доступ к ним студенты университета могут получить со своих планшетов, ноутбуков или электронных \"читалок\".\n\</segment>
+		<segment id="31" parent="33" relname="span">nПри необходимости студенты могут распечатать необходимые материалы</segment>
+		<segment id="32" parent="31" relname="cause-effect">благодаря установленным в библиотеке принтерам.</segment>
+		<segment id="35" parent="39" relname="same-unit">Кроме того,</segment>
+		<segment id="36" parent="37" relname="condition">при желании</segment>
+		<segment id="37" parent="38" relname="span">можно приобрести обычную бумажную книгу в любом книжном магазине,</segment>
+		<segment id="40" parent="41" relname="joint">а традиционный учебник можно запросить в библиотеке одного из 11 университетов штата.\n\nУниверситет также выделил около 60 тысяч долларов на приобретение новых книг.</segment>
+		<segment id="42" parent="43" relname="condition">Если студенту потребуется книга, учебник или научная литература,</segment>
+		<segment id="43" parent="44" relname="span">то при помощи специального интерфейса</segment>
+		<segment id="45" parent="47" relname="span">он сможет выбрать нужное издание,</segment>
+		<segment id="46" parent="45" relname="elaboration">которое будет куплено за счет университета.\n\</segment>
+		<segment id="52" parent="54" relname="span">nСтоит отметить, что опыт Флоридского политехнического университета не является уникальным:</segment>
+		<segment id="53" parent="52" relname="elaboration">по схожему принципу организована библиотека в NASA и медицинская библиотека в Университете Центральной Флориды в Орландо.</segment>
+		<segment id="55" parent="57" relname="span">Именно их опыт и был учтен</segment>
+		<segment id="56" parent="55" relname="elaboration">при строительстве и организации новой библиотеки во Флориде.\n\nИсточник: https://www.newsru.com/hitech/27Aug2014/library.html\n</segment>
+		<group id="51" type="multinuc" parent="59" relname="comparison"/>
+		<group id="29" type="span" parent="51" relname="joint"/>
+		<group id="28" type="span" parent="29" relname="span"/>
+		<group id="27" type="multinuc" parent="28" relname="span"/>
+		<group id="26" type="multinuc" parent="27" relname="joint"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="34" type="span" parent="50" relname="joint"/>
+		<group id="33" type="span" parent="30" relname="elaboration"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="41" type="multinuc" parent="49" relname="span"/>
+		<group id="39" type="multinuc" parent="41" relname="joint"/>
+		<group id="38" type="span" parent="39" relname="same-unit"/>
+		<group id="48" type="span" parent="41" relname="elaboration"/>
+		<group id="44" type="span" parent="47" relname="condition"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="58" type="span" parent="59" relname="comparison"/>
+		<group id="54" type="span" parent="58" relname="span"/>
+		<group id="57" type="span" parent="54" relname="elaboration"/>
+		<group id="59" type="multinuc"/>
+	</body>
+</rst>

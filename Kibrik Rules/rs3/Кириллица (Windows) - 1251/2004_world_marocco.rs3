@@ -1,0 +1,31 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="10" parent="25" relname="preparation">В Марокко найдены \"лунный камень\" и 6 метеоритов с Марса\n\nБолее 2 тонн метеоритов обнаружили в Марокко два французских исследователя Бруно Фектей и Карина Бидо.</segment>
+		<segment id="11" parent="13" relname="span">Начиная с 1998 года они ведут поиски этих космических тел в предгорьях Верхнего Атласа и в пустыне Сахара,</segment>
+		<segment id="12" parent="11" relname="elaboration">передает ИТАР-ТАСС.\n\nСреди раритетов - один \"лунный камень\" и шесть метеоритов, попавших на Землю с Марса.</segment>
+		<segment id="14" parent="18" relname="joint">Один из метеоритов с Красной планеты известен в научном мире под названием НВА 1950 - это аббревиатура слов \"Северо-Западная Африка\".\n\</segment>
+		<segment id="15" parent="17" relname="sequence">nПервый метеорит с Марса весил всего 25 граммов</segment>
+		<segment id="16" parent="17" relname="sequence">и получил сначала название \"Черная маслинка\", а потом - \"Теодор Монод\".</segment>
+		<segment id="20" parent="24" relname="span">Все подобные находки подверглись тщательному анализу.\n\nПозднее \"марокканские сокровища\" были проданы Национальному центру космических исследований Франции</segment>
+		<segment id="21" parent="23" relname="span">для более тщательного изучения,</segment>
+		<segment id="22" parent="21" relname="elaboration">в котором также участвует NASA.\n\nИсточник: https://www.newsru.com/world/06Jan2004/marocco.html\n</segment>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="19" type="span" parent="25" relname="span"/>
+		<group id="13" type="span" parent="19" relname="span"/>
+		<group id="18" type="multinuc" parent="13" relname="elaboration"/>
+		<group id="17" type="multinuc" parent="18" relname="joint"/>
+		<group id="24" type="span" parent="19" relname="elaboration"/>
+		<group id="23" type="span" parent="20" relname="purpose"/>
+		<group id="26" type="span"/>
+	</body>
+</rst>

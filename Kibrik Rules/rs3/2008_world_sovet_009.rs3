@@ -1,0 +1,56 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="65" relname="joint">Латвия подсчитала ущерб, нанесенный советским режимом\n\</segment>
+		<segment id="26" parent="34" relname="joint">nКомиссия, образованная для подсчета ущерба, причиненного Латвии советским режимом,</segment>
+		<segment id="27" parent="32" relname="cause-effect">планирует в понедельник отчитаться перед правительством о проделанной работе.\n\nВ докладе комиссии говорится о сотрудничестве с Латвийским государственным архивом, результатах выполненных в прошлом году исследований в сфере экономики, демографии, окружающей среды и истории, изложены основные направления работы в 2008 году.\n\nКомиссия указывает,</segment>
+		<segment id="28" parent="32" relname="span">что сотрудничество с латвийским архивом регулируется заключенным договором,</segment>
+		<segment id="29" parent="31" relname="joint">цель которого - установить число жертв массовых депортаций жителей Латвии</segment>
+		<segment id="30" parent="31" relname="joint">и обобщить информацию о них.</segment>
+		<segment id="35" parent="37" relname="joint">Эксперты ввели в базу данные о 55 тыс. 580 жителях Латвии, депортированных 25 марта 1949 года,</segment>
+		<segment id="36" parent="37" relname="joint">и о других высланных из Латвии жителях.</segment>
+		<segment id="38" parent="40" relname="span">Всего в архиве имеются 57 тыс. 975 анкетных данных.\n\nКроме того, база данных упорядочена</segment>
+		<segment id="39" parent="38" relname="attribution">- она проверена,</segment>
+		<segment id="41" parent="42" relname="joint">подготовлены списки высланных по уездам для публикации в книге \"Увезенные\", разработана система поиска.\n\nВ прошлом году было выполнено несколько исследований:</segment>
+		<segment id="43" parent="53" relname="joint">о развитии Латвии на макроэкономическом уровне в 1935-1940 гг. и влиянии на него девальвации лата, о влиянии созданной во время советской оккупации структуры народного хозяйства Латвии на развитие производства в переходный период от командной к рыночной экономике.\n\</segment>
+		<segment id="44" parent="46" relname="span">nБыло выполнено исследование,</segment>
+		<segment id="45" parent="44" relname="elaboration">в ходе которого получены точные данные о численности населения Латвии в 1940-1959 гг.,</segment>
+		<segment id="47" parent="51" relname="joint">подсчитан прямой демографический ущерб стране за весь период советской оккупации,</segment>
+		<segment id="48" parent="50" relname="joint">получена аналитическая информация о количестве и составе пострадавших от оккупационного режима, его влиянии на половую и возрастную структуру населения Латвии.\n\nКроме того, подсчитан ущерб, причиненный окружающей среде в период 1940-1990 гг.,</segment>
+		<segment id="49" parent="50" relname="joint">ущерб, нанесенный людским ресурсам и экономике Латвии \"советским оккупационным режимом во время военных действий в Афганистане\", прямой и косвенный демографический ущерб в связи с аварией на Чернобыльской АЭС.\n\nКомиссия также подсчитала ущерб, причиненный другим сферам.</segment>
+		<segment id="56" parent="58" relname="joint">В этом году планируется продолжить начатую работу - сотрудничество с архивом, изучение истории, подсчет ущерба, причиненного памятникам, и др.\n\nКомиссия была создана в августе 2005 года</segment>
+		<segment id="57" parent="58" relname="joint">и за прошедший период провела более 20 общих заседаний и отдельных рабочих совещаний по специфическим вопросам работы комиссии.\n\nАналогичная комиссия работала и в Литве.</segment>
+		<segment id="59" parent="60" relname="attribution">Её представители подсчитали,</segment>
+		<segment id="60" parent="61" relname="span">что прямые и косвенные потери страны за годы \"советской оккупации\" превысили 3 миллиарда долларов.\n\nИсточник: https://www.newsru.com/world/27Apr2008/sovet.html\n</segment>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="34" type="multinuc" parent="64" relname="joint"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="31" type="multinuc" parent="28" relname="purpose"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="55" type="multinuc" parent="63" relname="joint"/>
+		<group id="37" type="multinuc" parent="55" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="42" type="multinuc" parent="54" relname="joint"/>
+		<group id="40" type="span" parent="42" relname="joint"/>
+		<group id="53" type="multinuc" parent="54" relname="joint"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="46" type="span" parent="52" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="58" type="multinuc" parent="62" relname="joint"/>
+		<group id="61" type="span" parent="62" relname="joint"/>
+		<group id="65" type="multinuc"/>
+	</body>
+</rst>

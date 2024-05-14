@@ -1,0 +1,64 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="27" relname="attribution">Глава международного комитета Госдумы: \"Катынь забрала новые жертвы\"\n\nПредседатель Госдумы Борис Грызлов назвал</segment>
+		<segment id="27" parent="28" relname="span">тяжелой утратой гибель в авиакатастрофе президента Польши Леха Качиньского.</segment>
+		<segment id="29" parent="30" relname="condition">\"Российский народ скорбит вместе с польским народом\",</segment>
+		<segment id="30" parent="31" relname="span">- цитирует слова спикера в субботу думское управление по связям с общественностью и взаимодействию со СМИ.\n\nГрызлов выразил глубокие соболезнования родным и близким Леха Качиньского, родственникам всех жертв этой катастрофы - гражданам Польши.</segment>
+		<segment id="32" parent="36" relname="span">\"Сейчас наша самая главная задача - выяснить причины произошедшего\",</segment>
+		<segment id="33" parent="34" relname="attribution">- сказал председатель Госдумы</segment>
+		<segment id="34" parent="35" relname="span">.\n\n- Хроника катастрофы\n\nГлава международного комитета Государственной Думы Константин Косачев потрясен известием о катастрофе польского самолета.</segment>
+		<segment id="38" parent="40" relname="span">\"Я выражаю самые глубочайшие слова соболезнования родным и близким президента Польши и всему польскому народу - это не просто огромная человеческая трагедия, но и политическая трагедия - гибель главы государства\",</segment>
+		<segment id="39" parent="38" relname="attribution">- сказал Косачев \"Интерфаксу\".\n\</segment>
+		<segment id="41" parent="42" relname="attribution">nОн сказал,</segment>
+		<segment id="42" parent="43" relname="span">что испытал \"шок и ужас\" от этого известия.</segment>
+		<segment id="45" parent="49" relname="span">\"Содрогается душа от осознания того, что Катынь забрала новые жертвы\",</segment>
+		<segment id="46" parent="47" relname="attribution">- сказал российский парламентарий.\n\nОн отметил,</segment>
+		<segment id="47" parent="48" relname="span">что сейчас самое главное - организовать спасательные работы по поиску выживших в этой авиакатастрофе.</segment>
+		<segment id="50" parent="53" relname="attribution">Косачев сообщил,</segment>
+		<segment id="51" parent="53" relname="joint">что позвонил в Варшаву своему коллеге - главе международного комитета сейма Польши Анджею Халицкому</segment>
+		<segment id="52" parent="53" relname="joint">и выразил соболезнование в связи со страшной трагедией.\n\n\"Я также позвонил коллегам, членам Парламентской Ассамблеи Совета Европы и Европарламента.</segment>
+		<segment id="55" parent="57" relname="span">Они, также как и я, в шоке от случившегося\",</segment>
+		<segment id="56" parent="55" relname="attribution">- сказал Косачев</segment>
+		<segment id="59" parent="63" relname="joint">.\n\nПостпред России при НАТО</segment>
+		<segment id="60" parent="61" relname="attribution">Дмитрий Рогозин сообщил,</segment>
+		<segment id="61" parent="62" relname="span">что выразил соболезнование в связи с гибелью президента Польши, его супруги и пассажиров самолета, летевших в Катынь, своему польскому коллеге - главе миссии при НАТО Богуславу Виниду.</segment>
+		<segment id="64" parent="65" relname="attribution">\"Я сказал,</segment>
+		<segment id="65" parent="66" relname="span">что российские дипломаты потрясены случившимся\",</segment>
+		<segment id="67" parent="66" relname="attribution">- сообщил Рогозин в субботу.\n\nИсточник: https://www.newsru.com/russia/10Apr2010/df.html\n</segment>
+		<group id="28" type="span" parent="73" relname="preparation"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="37" type="multinuc" parent="73" relname="joint"/>
+		<group id="31" type="span" parent="37" relname="joint"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="35" type="span" parent="32" relname="attribution"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="44" type="span" parent="72" relname="joint"/>
+		<group id="40" type="span" parent="44" relname="span"/>
+		<group id="43" type="span" parent="40" relname="interpretation-evaluation"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="49" type="span" parent="71" relname="joint"/>
+		<group id="48" type="span" parent="45" relname="attribution"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="58" type="span" parent="70" relname="joint"/>
+		<group id="54" type="span" parent="58" relname="span"/>
+		<group id="53" type="multinuc" parent="54" relname="span"/>
+		<group id="57" type="span" parent="54" relname="interpretation-evaluation"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="63" type="multinuc" parent="69" relname="joint"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="66" type="span" parent="68" relname="span"/>
+		<group id="74" type="span"/>
+	</body>
+</rst>

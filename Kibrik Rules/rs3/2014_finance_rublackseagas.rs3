@@ -1,0 +1,132 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="56" parent="63" relname="preparation">NYT: вместе с Крымом Путин приобрел целое море углеводородных запасов\n\nВместе с Крымом Россия захватила область морского шельфа с правами на ресурсы, которые потенциально стоят триллионы долларов.</segment>
+		<segment id="57" parent="59" relname="span">Это сильнейший удар по надеждам Украины на энергетическую независимость,</segment>
+		<segment id="58" parent="57" relname="attribution">пишет InoPressa.ru со ссылкой на статью Уильяма Дж. Брода в американской газете The New York Times.\n\n\"Россия изобразила присоединение как возврат территории, принадлежащей ей по праву,</segment>
+		<segment id="60" parent="62" relname="span">и не привлекала внимание к нефтегазовой лихорадке,</segment>
+		<segment id="61" parent="60" relname="elaboration">которая в последнее время обостряется в Черном море\",</segment>
+		<segment id="65" parent="64" relname="attribution">- отмечает журналист.</segment>
+		<segment id="67" parent="74" relname="attribution">Со своей стороны, пресс-секретарь президента Путина Дмитрий Песков сказал,</segment>
+		<segment id="68" parent="74" relname="joint">что между присоединением Крыма и энергоресурсами \"нет связи\",</segment>
+		<segment id="69" parent="72" relname="attribution">и, как пересказывает его слова газета,</segment>
+		<segment id="70" parent="71" relname="attribution">\"добавил,</segment>
+		<segment id="71" parent="72" relname="span">что нефть и газ Россию даже не волновали\".\n\nExxon Mobil, Royal Dutch Shell и другие крупные компании уже провели геологоразведку в Черном море.</segment>
+		<segment id="76" parent="77" relname="attribution">Некоторые аналитики нефтяной отрасли утверждают,</segment>
+		<segment id="77" parent="78" relname="span">что потенциал Черного моря может тягаться с ресурсами Северного моря.</segment>
+		<segment id="79" parent="86" relname="attribution">По мнению американского геолога Уильяма Б. Ф. Райана,</segment>
+		<segment id="80" parent="85" relname="attribution">с присоединением Крыма</segment>
+		<segment id="81" parent="85" relname="span">Россия заполучила потенциально \"самые лучшие\" глубокие месторождения нефти.\n\</segment>
+		<segment id="82" parent="83" relname="attribution">nНа взгляд аналитиков,</segment>
+		<segment id="83" parent="84" relname="span">помехой для освоения ресурсов могут стать санкции, которые ограничат доступ к западному финансированию и технологиям.</segment>
+		<segment id="89" parent="90" relname="attribution">Но они отмечают,</segment>
+		<segment id="90" parent="91" relname="span">что Россия уже провела поглощение \"крымского подразделения украинской национальной газовой компании\" (формулировка газеты).\n\nИздание напоминает хронику \"нефтегазовой лихорадки\".</segment>
+		<segment id="92" parent="94" relname="span">Чуть более двух лет назад у берегов Румынии было обнаружено крупное месторождение газа.</segment>
+		<segment id="93" parent="92" relname="elaboration">В апреле 2012 года премьер-министр Путин подписал с итальянской Eni соглашение о геологоразведке в российской зоне в северо-восточной части Черного моря.\n\nВ августе 2012-го Украина объявила о соглашении с группой компаний под руководством Exxon.</segment>
+		<segment id="96" parent="100" relname="span">Ставилась задача добывать нефть и газ в Черном море.</segment>
+		<segment id="97" parent="99" relname="contrast">Российская компания \"Лукойл\" претендовала на тот же контракт,</segment>
+		<segment id="98" parent="99" relname="contrast">но Украина предпочла заявку Exxon.\n\nЗаглянув в договор о присоединении Крыма к России,</segment>
+		<segment id="101" parent="102" relname="attribution">автор обнаружил \"одну пресную фразу, гласящую,</segment>
+		<segment id="102" parent="103" relname="span">что разграничение морских пространств Черного и Азовского морей будет регулироваться международным правом\".\n\n24 марта румынская газета Romania Libera объявила:</segment>
+		<segment id="104" parent="110" relname="joint">\"Румыния и Россия станут соседями\"</segment>
+		<segment id="105" parent="108" relname="attribution">- и привела мнения экспертов:</segment>
+		<segment id="106" parent="108" relname="span">Грузия, Турция, Болгария и Румыния негласно признают аннексию Крыма,</segment>
+		<segment id="107" parent="106" relname="purpose">\"чтобы избежать открытого конфликта\".\n\</segment>
+		<segment id="111" parent="114" relname="interpretation-evaluation">nКак бы то ни было,</segment>
+		<segment id="112" parent="113" relname="attribution">аналитики прогнозируют,</segment>
+		<segment id="113" parent="114" relname="span">что после присоединения Крыма будет изменен проект газопровода \"Южный поток\"</segment>
+		<segment id="116" parent="115" relname="cause-effect">- его проложат не в обход, через турецкие воды, а по новоприобретенной акватории.</segment>
+		<segment id="121" parent="126" relname="solutionhood">Правда, украинский кризис поставил будущее \"Южного потока\" под сомнение.\n\</segment>
+		<segment id="122" parent="126" relname="joint">nЧто касается добычи нефти в водах, на которые теперь претендует Россия,</segment>
+		<segment id="123" parent="124" relname="attribution">то компании заявляют,</segment>
+		<segment id="124" parent="125" relname="span">что их прежние договоренности с Украиной оказались в подвешенном состоянии.</segment>
+		<segment id="128" parent="137" relname="attribution">По мнению аналитиков,</segment>
+		<segment id="129" parent="131" relname="span">в ближайшее время новые контракты вряд ли будут подписаны,</segment>
+		<segment id="130" parent="129" relname="condition">если учесть продолжение волнений в регионе и попытки США усилить давление на Россию,</segment>
+		<segment id="132" parent="135" relname="attribution">говорится в статье.\n\nНапомним, \"Газпром\" ранее объявил</segment>
+		<segment id="133" parent="135" relname="joint">о планах построить подводный газопровод в Крым,</segment>
+		<segment id="134" parent="135" relname="joint">а также принять участие в тендере на приватизацию местной энергетической компании.</segment>
+		<segment id="139" parent="142" relname="attribution">В апреле представитель администрации США сообщил,</segment>
+		<segment id="140" parent="142" relname="joint">что санкции затронут \"Газпром\" в случае приобретения части \"Черноморнефтегаза\" - компании, национализированной правительством Республики Крым накануне присоединения к России</segment>
+		<segment id="141" parent="142" relname="joint">- или заключения сделок с ним.\n\nСША не закупают российский газ,</segment>
+		<segment id="144" parent="146" relname="span">однако \"Газпром\" может столкнуться с серьезными проблемами</segment>
+		<segment id="145" parent="144" relname="condition">при проведении валютных расчетов с импортерами:</segment>
+		<segment id="148" parent="149" relname="span">зачастую банками-корреспондентами при таких расчетах выступают американские учреждения.\n\</segment>
+		<segment id="150" parent="154" relname="joint">nЧерез несколько дней ожидавшуюся приватизацию \"Черноморнефтегаза\" отложили.</segment>
+		<segment id="151" parent="153" relname="span">\"Принято решение, что приватизации \"Черноморнефтегаза\" до конца нынешнего года не будет.</segment>
+		<segment id="152" parent="151" relname="elaboration">Он будет республиканской собственностью Крыма как субъекта Российской Федерации\",</segment>
+		<segment id="156" parent="155" relname="attribution">- заявил первый вице-премьер Рустам Темиргалиев.\n\nИсточник: https://www.newsru.com/finance/19May2014/rublackseagas.html\n</segment>
+		<group id="66" type="span" parent="163" relname="preparation"/>
+		<group id="64" type="span" parent="66" relname="span"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="59" type="span" parent="63" relname="joint"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="163" type="span" parent="164" relname="span"/>
+		<group id="75" type="span" parent="162" relname="preparation"/>
+		<group id="74" type="multinuc" parent="75" relname="span"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="162" type="multinuc" parent="163" relname="span"/>
+		<group id="88" type="span" parent="162" relname="joint"/>
+		<group id="78" type="span" parent="88" relname="span"/>
+		<group id="87" type="span" parent="78" relname="elaboration"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="85" type="span" parent="86" relname="span"/>
+		<group id="84" type="span" parent="81" relname="purpose"/>
+		<group id="161" type="multinuc" parent="162" relname="joint"/>
+		<group id="95" type="multinuc" parent="161" relname="joint"/>
+		<group id="91" type="span" parent="95" relname="joint"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="160" type="multinuc" parent="161" relname="joint"/>
+		<group id="120" type="multinuc" parent="160" relname="joint"/>
+		<group id="100" type="span" parent="120" relname="joint"/>
+		<group id="99" type="multinuc" parent="96" relname="background"/>
+		<group id="119" type="multinuc" parent="120" relname="joint"/>
+		<group id="103" type="span" parent="119" relname="joint"/>
+		<group id="118" type="multinuc" parent="119" relname="joint"/>
+		<group id="110" type="multinuc" parent="118" relname="comparison"/>
+		<group id="109" type="span" parent="110" relname="joint"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="117" type="span" parent="118" relname="comparison"/>
+		<group id="115" type="span" parent="117" relname="span"/>
+		<group id="114" type="span" parent="115" relname="span"/>
+		<group id="159" type="span" parent="160" relname="joint"/>
+		<group id="127" type="span" parent="158" relname="preparation"/>
+		<group id="126" type="multinuc" parent="127" relname="span"/>
+		<group id="125" type="span" parent="126" relname="joint"/>
+		<group id="158" type="multinuc" parent="159" relname="span"/>
+		<group id="138" type="span" parent="158" relname="joint"/>
+		<group id="137" type="multinuc" parent="138" relname="span"/>
+		<group id="131" type="span" parent="137" relname="joint"/>
+		<group id="136" type="span" parent="137" relname="joint"/>
+		<group id="135" type="multinuc" parent="136" relname="span"/>
+		<group id="157" type="span" parent="158" relname="joint"/>
+		<group id="155" type="multinuc" parent="157" relname="span"/>
+		<group id="149" type="span" parent="155" relname="joint"/>
+		<group id="147" type="multinuc" parent="148" relname="cause-effect"/>
+		<group id="143" type="span" parent="147" relname="contrast"/>
+		<group id="142" type="multinuc" parent="143" relname="span"/>
+		<group id="146" type="span" parent="147" relname="contrast"/>
+		<group id="154" type="multinuc" parent="155" relname="joint"/>
+		<group id="153" type="span" parent="154" relname="joint"/>
+		<group id="164" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,72 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="37" relname="joint">Гибель чиновника, проходившего по делу \"Булгарии\", сочли</segment>
+		<segment id="32" parent="36" relname="span">добровольной\n\nСледственный отдел по Нижегородскому району Нижнего Новгорода СУ СКР по Нижегородской области отказал в возбуждении уголовного дела по факту суицида 59-летнего сотрудника управления Ространснадзора,</segment>
+		<segment id="33" parent="35" relname="span">проходившего свидетелем по делу о гибели теплохода \"Булгария\".\n\n\"Постановление об отказе в возбуждении уголовного дела вынесено на основании п.1 ч.1 ст.24 УПК РФ</segment>
+		<segment id="34" parent="33" relname="cause-effect">- за отсутствием события преступления\",</segment>
+		<segment id="38" parent="37" relname="attribution">- сообщается в четверг на сайте областного СУ СКР.</segment>
+		<segment id="40" parent="45" relname="attribution">В сообщении говорится,</segment>
+		<segment id="41" parent="43" relname="span">что в ходе доследственной проверки были опрошены родственники и сослуживцы погибшего,</segment>
+		<segment id="42" parent="41" relname="elaboration">проведена судебно-медицинская экспертиза,</segment>
+		<segment id="44" parent="43" relname="elaboration">установившая, что смерть мужчины наступила от огнестрельного ранения головы.\n\n</segment>
+		<segment id="47" parent="49" relname="span">\"На основании полученных материалов установлено, что мужчина покончил жизнь самоубийством.</segment>
+		<segment id="48" parent="47" relname="elaboration">Оснований, указывающих на наличие признаков какого-либо преступления, не установлено\",</segment>
+		<segment id="50" parent="51" relname="attribution">- отмечают следователи.\n\nРанее сообщалось,</segment>
+		<segment id="51" parent="52" relname="span">что следствие проводит проверку по версии о самоубийстве сотрудника Волжского управления Госморречнадзора (подведомственное подразделение Ространснадзора) Александра Храмова.</segment>
+		<segment id="54" parent="60" relname="sequence">Тело 59-летнего чиновника с огнестрельным ранением головы было обнаружено в кустарнике в районе улицы Набережная Федоровского вечером в Нижнем Новгороде 22 августа.</segment>
+		<segment id="55" parent="57" relname="joint">На месте происшествия обнаружен пистолет марки \"ERMA\" и патроны.\n\nКак сообщает отраслевое издание \"ПортНьюс\",</segment>
+		<segment id="56" parent="57" relname="joint">погибший являлся заместителем начальника отдела регистрации и лицензирования Волжского управления Госморречнадзора.</segment>
+		<segment id="58" parent="59" relname="sequence">Он покончил с собой после того, как ознакомился с приказом о своем увольнении.</segment>
+		<segment id="61" parent="62" relname="attribution">В СК РФ сообщали,</segment>
+		<segment id="62" parent="63" relname="span">что Храмов проходил свидетелем по делу о крушении теплохода \"Булгария\", затонувшего 10 июля на Куйбышевском водохранилище в районе Татарстана.</segment>
+		<segment id="64" parent="70" relname="joint">Из находившихся на борту 201 человека спасти удалось лишь 79, а 122, в том числе 28 детей, погибли.\n\</segment>
+		<segment id="65" parent="67" relname="span">nВ июле Приволжский транспортный прокурор внес представление начальнику Волжского управления Госморречнадзора Петру Комкову</segment>
+		<segment id="66" parent="65" relname="cause-effect">в связи с нарушениями, допущенными при проверке документов ООО \"АргоРечТур\" (субарендатор затонувшего теплохода),</segment>
+		<segment id="68" parent="67" relname="elaboration">обратившегося 25 мая 2011 года за лицензией на право перевозок пассажиров.</segment>
+		<segment id="72" parent="74" relname="span">Установлено, что 1 июня 2011 года ведомство издало акт о готовности соискателя к соблюдению требований и условий</segment>
+		<segment id="73" parent="72" relname="condition">при перевозках пассажиров.</segment>
+		<segment id="75" parent="77" relname="span">Однако фактически проверка ООО \"АргоРечТур\" и, в частности, судна \"Булгария\", не проводилась, напоминает НИА \"Нижний Новгород\".\n\nГибель \"Булгарии\" стала одной из наиболее тяжелых российских транспортных катастроф в текущем году,</segment>
+		<segment id="76" parent="75" relname="background">который уже к сентябрю по этому трагическому показателю превзошел год прошлый.\n\nИсточник: https://www.newsru.com/russia/22Sep2011/hramov.html\n</segment>
+		<group id="39" type="span" parent="82" relname="preparation"/>
+		<group id="37" type="multinuc" parent="39" relname="span"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="35" type="span" parent="32" relname="elaboration"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="46" type="span" parent="81" relname="preparation"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="81" type="multinuc" parent="82" relname="span"/>
+		<group id="53" type="span" parent="81" relname="joint"/>
+		<group id="49" type="span" parent="53" relname="span"/>
+		<group id="52" type="span" parent="49" relname="attribution"/>
+		<group id="80" type="multinuc" parent="81" relname="joint"/>
+		<group id="60" type="multinuc" parent="80" relname="joint"/>
+		<group id="59" type="multinuc" parent="60" relname="sequence"/>
+		<group id="57" type="multinuc" parent="59" relname="sequence"/>
+		<group id="79" type="multinuc" parent="80" relname="joint"/>
+		<group id="71" type="multinuc" parent="79" relname="joint"/>
+		<group id="63" type="span" parent="71" relname="sequence"/>
+		<group id="70" type="multinuc" parent="71" relname="sequence"/>
+		<group id="69" type="span" parent="70" relname="joint"/>
+		<group id="67" type="span" parent="69" relname="span"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="74" type="span" parent="78" relname="contrast"/>
+		<group id="77" type="span" parent="78" relname="contrast"/>
+		<group id="83" type="span"/>
+	</body>
+</rst>

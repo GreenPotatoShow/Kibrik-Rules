@@ -1,0 +1,91 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="35" parent="37" relname="sequence">США придумали, как отказать палестинцам в приеме в ООН,</segment>
+		<segment id="36" parent="37" relname="sequence">а Россия предложила промежуточный вариант\n\</segment>
+		<segment id="38" parent="40" relname="span">nКомитет по приему новых членов в ООН проведет в пятницу первое заседание по вопросу рассмотрения заявки Палестинской автономии на вступление в организацию.</segment>
+		<segment id="39" parent="38" relname="interpretation-evaluation">Этому готовятся помешать США.</segment>
+		<segment id="41" parent="42" relname="attribution">Между тем в России считают,</segment>
+		<segment id="42" parent="43" relname="span">что полноправного членства в ООН палестинцы не получат,</segment>
+		<segment id="44" parent="48" relname="span">и не исключают промежуточного варианта.\n\</segment>
+		<segment id="45" parent="46" relname="purpose">nДля принятия положительного решения</segment>
+		<segment id="46" parent="47" relname="span">заявку палестинцев должны поддержать 9 из 15 членов Совбеза ООН</segment>
+		<segment id="50" parent="51" relname="condition">при условии, что никто из \"пятерки\" постоянных членов не выступит против.\n\nСомнений в том, что входящие в эту \"пятерку\" США заблокируют положительную резолюцию,</segment>
+		<segment id="51" parent="52" relname="span">практически нет,</segment>
+		<segment id="53" parent="52" relname="attribution">пишет \"Коммерсант\".</segment>
+		<segment id="57" parent="67" relname="span">Правда, сделать это Вашингтон может не только своими, но и чужими руками</segment>
+		<segment id="58" parent="60" relname="span">.\n\nГлава МИД РФ Сергей Лавров,</segment>
+		<segment id="59" parent="58" relname="background">который находится в Нью-Йорке,</segment>
+		<segment id="61" parent="64" relname="attribution">подтвердил:</segment>
+		<segment id="62" parent="64" relname="joint">американцам очень не хочется использовать право вето</segment>
+		<segment id="63" parent="64" relname="joint">и \"предстать в таком негативном свете перед арабским миром\".</segment>
+		<segment id="68" parent="69" relname="span">Поэтому сейчас США активно обрабатывают страны, которые не определились с выбором.\n\nК стану сомневающихся до недавнего времени относили Нигерию, Габон и Боснию.</segment>
+		<segment id="70" parent="71" relname="attribution">Однако ходят слухи,</segment>
+		<segment id="71" parent="72" relname="span">что благодаря усилиям сторонников Палестинской автономии</segment>
+		<segment id="73" parent="74" relname="joint">Нигерия и Габон уже готовы голосовать за ее принятие.</segment>
+		<segment id="75" parent="77" relname="span">В итоге под сильнейшим дипломатическим нажимом оказались боснийцы.</segment>
+		<segment id="76" parent="75" relname="elaboration">При таком раскладе палестинцам не хватает по крайней мере одного голоса в Совбезе.\n\nПолноправного членства в ООН палестинцы, скорее всего, не получат.</segment>
+		<segment id="78" parent="80" relname="span">В России считают более реалистичным другой вариант - Палестинской автономии предоставят статус государства-наблюдателя,</segment>
+		<segment id="79" parent="78" relname="attribution">заявил журналистам постпред России в ООН Виталий Чуркин</segment>
+		<segment id="81" parent="95" relname="span">.\n\</segment>
+		<segment id="82" parent="84" relname="span">nДля этого Рамалле придется обращаться в Генассамблею,</segment>
+		<segment id="83" parent="82" relname="background">состоящую из 193 государств.</segment>
+		<segment id="85" parent="87" relname="span">Вопрос будет решаться простым большинством голосов</segment>
+		<segment id="86" parent="85" relname="elaboration">- их должно хватить.</segment>
+		<segment id="88" parent="89" relname="span">Тогда палестинцы, хоть и не получат права голосовать в ООН,</segment>
+		<segment id="90" parent="91" relname="cause-effect">зато смогут подавать иски в Международный уголовный суд,</segment>
+		<segment id="91" parent="92" relname="span">что станет новым раздражителем в их отношениях с Израилем.\n\nИсточник: https://www.newsru.com/world/30Sep2011/palest.html\n</segment>
+		<group id="37" type="multinuc" parent="100" relname="preparation"/>
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="56" type="multinuc" parent="100" relname="contrast"/>
+		<group id="40" type="span" parent="56" relname="joint"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="49" type="multinuc" parent="55" relname="joint"/>
+		<group id="43" type="span" parent="49" relname="joint"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="47" type="span" parent="44" relname="purpose"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="52" type="span" parent="54" relname="span"/>
+		<group id="99" type="multinuc" parent="100" relname="contrast"/>
+		<group id="69" type="span" parent="99" relname="contrast"/>
+		<group id="67" type="span" parent="68" relname="cause-effect"/>
+		<group id="66" type="span" parent="57" relname="cause-effect"/>
+		<group id="60" type="span" parent="66" relname="span"/>
+		<group id="65" type="span" parent="60" relname="elaboration"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="98" type="span" parent="99" relname="contrast"/>
+		<group id="74" type="multinuc" parent="98" relname="span"/>
+		<group id="72" type="span" parent="74" relname="joint"/>
+		<group id="97" type="multinuc" parent="74" relname="elaboration"/>
+		<group id="77" type="span" parent="97" relname="contrast"/>
+		<group id="96" type="span" parent="97" relname="contrast"/>
+		<group id="80" type="span" parent="95" relname="attribution"/>
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="94" type="span" parent="81" relname="purpose"/>
+		<group id="84" type="span" parent="94" relname="span"/>
+		<group id="93" type="multinuc" parent="84" relname="elaboration"/>
+		<group id="89" type="span" parent="93" relname="joint"/>
+		<group id="87" type="span" parent="88" relname="solutionhood"/>
+		<group id="92" type="span" parent="93" relname="joint"/>
+		<group id="101" type="span"/>
+	</body>
+</rst>

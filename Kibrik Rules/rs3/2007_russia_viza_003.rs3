@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="30" relname="joint">Новые правила получения британских виз: снятие отпечатков пальцев и цифрового фото\n\nРоссияне, желающие получить британскую визу,</segment>
+		<segment id="27" parent="29" relname="span">отныне должны будут лично приходить в посольство Великобритании</segment>
+		<segment id="28" parent="27" relname="purpose">для сканирования отпечатков пальцев и снятия цифрового фото.</segment>
+		<segment id="31" parent="33" relname="span">Процедуры осуществляются без дополнительной платы,</segment>
+		<segment id="32" parent="31" relname="elaboration">передает \"Интерфакс\".\n\nНовые правила вводятся \"в рамках международного процесса биометрической идентификации, который направлен на защиту личности, облегчение въезда в Британию в будущем, противодействие как фальсификации, так и нарушению работы организаций по делам иммиграции, беженцев\",</segment>
+		<segment id="34" parent="38" relname="joint">говорится в сообщении британской дипмиссии, распространенном во вторник.\n\n\"Начиная с 8 ноября, всем желающим подать заявки на британскую визу, независимо от их гражданства,</segment>
+		<segment id="35" parent="37" relname="span">будет необходимо лично прийти в посольство Великобритании</segment>
+		<segment id="36" parent="35" relname="purpose">для сканирования отпечатков пальцев и снятия цифрового фото.</segment>
+		<segment id="41" parent="53" relname="joint">Данные процедуры осуществляются без дополнительной платы.</segment>
+		<segment id="42" parent="52" relname="joint">При этом заявки на визы и сопутствующие документы будут приниматься, как и сейчас, в британских визовых центрах\", - отмечается в документе.\n\</segment>
+		<segment id="43" parent="46" relname="attribution">nВ нем подчеркивается,</segment>
+		<segment id="44" parent="46" relname="joint">что в связи с необходимостью установить</segment>
+		<segment id="45" parent="46" relname="joint">и проверить новое оборудование,</segment>
+		<segment id="48" parent="50" relname="joint">обучить сотрудников работе с ним и ознакомить их с новыми процедурами,</segment>
+		<segment id="49" parent="50" relname="joint">британские визовые центры в России будут закрыты 1, 2, 6 и 7 ноября.</segment>
+		<segment id="55" parent="56" relname="purpose">Для приема индивидуальных заявок</segment>
+		<segment id="56" parent="57" relname="span">центры откроются 8 ноября,</segment>
+		<segment id="58" parent="59" relname="joint">для приема всех заявок - 12 ноября.</segment>
+		<segment id="60" parent="62" relname="span">В Петербурге британский визовый отдел будет закрыт для установки биометрического оборудования до 8 октября.\n\nОтдел виз посольства Великобритании и информационный центр Британского визового центра будут работать в нормальном режиме,</segment>
+		<segment id="61" parent="60" relname="condition">рассматривая только безотлагательные обращения.</segment>
+		<segment id="63" parent="67" relname="joint">\"После подачи заявки и поддерживающих документов,</segment>
+		<segment id="64" parent="66" relname="span">каждому обратившемуся сообщат время и дату визита в посольство или консульство Великобритании</segment>
+		<segment id="65" parent="64" relname="purpose">для подачи биометрических данных.</segment>
+		<segment id="68" parent="67" relname="elaboration">В большинстве случаев это будет ближайший рабочий день\",</segment>
+		<segment id="70" parent="69" relname="attribution">- сообщает дипслужба.\n\nИсточник: https://www.newsru.com/russia/23Oct2007/viza.html\n</segment>
+		<group id="54" type="multinuc" parent="74" relname="span"/>
+		<group id="40" type="multinuc" parent="54" relname="joint"/>
+		<group id="30" type="multinuc" parent="40" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="33" type="span" parent="39" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="53" type="multinuc" parent="54" relname="joint"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="47" type="span" parent="51" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="73" type="span" parent="54" relname="elaboration"/>
+		<group id="59" type="multinuc" parent="73" relname="span"/>
+		<group id="57" type="span" parent="59" relname="joint"/>
+		<group id="72" type="span" parent="59" relname="elaboration"/>
+		<group id="62" type="span" parent="72" relname="span"/>
+		<group id="71" type="span" parent="62" relname="elaboration"/>
+		<group id="69" type="span" parent="71" relname="span"/>
+		<group id="67" type="multinuc" parent="69" relname="span"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="74" type="span"/>
+	</body>
+</rst>

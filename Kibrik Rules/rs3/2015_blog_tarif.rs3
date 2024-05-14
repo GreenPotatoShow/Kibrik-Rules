@@ -1,0 +1,39 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="18" relname="span">Петр Милованов: \"Про тарифы\"\n\n\"Высокие цены на услуги ЖКХ особенно в небогатых странах - это политическая проблема.</segment>
+		<segment id="15" parent="17" relname="joint">Власти это прекрасно знают</segment>
+		<segment id="16" parent="17" relname="joint">и решают ее простым и плохим способом - субсидиями компаниям ЖКХ.</segment>
+		<segment id="19" parent="31" relname="joint">Даже в Москве ДЕЗы получают субсидии на ремонт и обслуживание жилья.</segment>
+		<segment id="20" parent="22" relname="restatement">Субсидии берутся из бюджета,</segment>
+		<segment id="21" parent="22" relname="restatement">то есть все равно из кармана налогоплательщика или пенсионера,</segment>
+		<segment id="23" parent="25" relname="joint">власти могли бы платить более высокие пенсии,</segment>
+		<segment id="24" parent="25" relname="joint">а не субсидировать предприятия.\n\nСубсидируемое государством предприятие - это самое худшее, что может быть в этом мире.</segment>
+		<segment id="27" parent="29" relname="span">Оно теряет стимулы</segment>
+		<segment id="28" parent="27" relname="purpose">для развития, модернизации и поиска инвестиций.</segment>
+		<segment id="33" parent="36" relname="solutionhood">Зачем?</segment>
+		<segment id="34" parent="36" relname="joint">Клянчишь деньги из бюджета</segment>
+		<segment id="35" parent="36" relname="joint">и больше ничего не делаешь\".\n\nИсточник: https://www.newsru.com/blog/24Jun2015/tarif.html\n</segment>
+		<group id="32" type="multinuc" parent="38" relname="span"/>
+		<group id="18" type="span" parent="32" relname="joint"/>
+		<group id="17" type="multinuc" parent="14" relname="interpretation-evaluation"/>
+		<group id="31" type="multinuc" parent="32" relname="joint"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="26" type="multinuc" parent="30" relname="span"/>
+		<group id="22" type="multinuc" parent="26" relname="joint"/>
+		<group id="25" type="multinuc" parent="26" relname="joint"/>
+		<group id="29" type="span" parent="26" relname="interpretation-evaluation"/>
+		<group id="37" type="span" parent="32" relname="interpretation-evaluation"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="38" type="span"/>
+	</body>
+</rst>

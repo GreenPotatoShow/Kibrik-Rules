@@ -1,0 +1,81 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="38" relname="span">В Китае произошел очередной выброс токсичных веществ в реку\n\nВ южно-китайской провинции Гуандун зафиксировано серьезное загрязнение химическими веществами реки Бэйцзян,</segment>
+		<segment id="37" parent="34" relname="elaboration">впадающей в Южно-Китайское море, пишет в среду газета \"Дии сайцзин жибао\".\n\nКак сообщает управление по охране окружающей среды провинции,</segment>
+		<segment id="39" parent="41" relname="span">на участке реки Бэйцзян,</segment>
+		<segment id="40" parent="39" relname="elaboration">находящемся в районе города Шаогуань отмечено почти десятикратное превышение предельно допустимой концентрации по металлическому кадмию,</segment>
+		<segment id="43" parent="42" relname="attribution">сообщает РИА \"Новости\".</segment>
+		<segment id="45" parent="48" relname="attribution">По предварительным данным экологов,</segment>
+		<segment id="46" parent="48" relname="span">виновником загрязнения реки стал Шаогуаньский плавильный завод,</segment>
+		<segment id="47" parent="46" relname="elaboration">сбросивший в реку во время ремонта оборудования загрязненную кадмием воду.\n\</segment>
+		<segment id="50" parent="52" relname="span">nНесмотря на то, что впервые кадмий в воде был обнаружен еще 15 декабря,</segment>
+		<segment id="51" parent="50" relname="background">завод до настоящего времени продолжает работать в обычном режиме.</segment>
+		<segment id="53" parent="57" relname="span">По некоторым данным, предприятие будет остановлено в среду.\n\</segment>
+		<segment id="54" parent="56" relname="contrast">nВ настоящее время концентрация кадмия в районе Шаогуаня снижается,</segment>
+		<segment id="55" parent="56" relname="contrast">однако пятно загрязненной воды идет вниз по течению.</segment>
+		<segment id="58" parent="66" relname="span">В трех крупных городах ниже по течению реки - Шаогуань, Цинюань и Индэ - введен в действие план по борьбе с чрезвычайной ситуацией.</segment>
+		<segment id="59" parent="61" relname="joint">Запрещено употребление воды из реки в качестве питьевой,</segment>
+		<segment id="60" parent="61" relname="joint">принимаются меры по поставкам в города воды из находящихся неподалеку водохранилищ, в том числе трубопроводным и автомобильным транспортом.\n\nСо вторника в Шаогуане на сутки было отключено все водоснабжение.</segment>
+		<segment id="62" parent="64" relname="span">Как ожидается, оно будет возобновлено в среду вечером.\n\</segment>
+		<segment id="63" parent="62" relname="elaboration">nВ находящемся ниже по течению городе Индэ водопровод пока работает.</segment>
+		<segment id="67" parent="73" relname="contrast">Здесь ожидают, что в течение 48 часов будут проложены временные трубы, соединяющие городскую систему водоснабжения с водохранилищем.</segment>
+		<segment id="68" parent="70" relname="span">В противном случае водоснабжение будет отключено.\n\</segment>
+		<segment id="69" parent="68" relname="elaboration">nЖители города Индэ активно скупают воду в бутылках,</segment>
+		<segment id="71" parent="70" relname="attribution">пишет издание.</segment>
+		<segment id="74" parent="92" relname="span">Руководством провинции создана специальная рабочая группа по расследованию причин аварии и выявлению виновных.\n\nЭто уже вторая экологическая катастрофа в стране за последний месяц:</segment>
+		<segment id="75" parent="84" relname="cause-effect">в ноябре из-за взрыва на химическом комбинате в реку Сунгари</segment>
+		<segment id="76" parent="82" relname="span">произошел выброс токсичного бензола,</segment>
+		<segment id="77" parent="81" relname="joint">который достиг территории России</segment>
+		<segment id="78" parent="80" relname="span">и уже подошел к Хабаровску.\n\nСправка: металлический кадмий\n\nМеталлический кадмий применяют в ядерных реакторах,</segment>
+		<segment id="79" parent="78" relname="purpose">для антикоррозионных и декоративных покрытий, в аккумуляторах.\n\nКадмий служит основой некоторых подшипниковых сплавов,</segment>
+		<segment id="83" parent="82" relname="elaboration">входит в состав легкоплавких сплавов.</segment>
+		<segment id="86" parent="88" relname="span">Легкоплавкие сплавы применяют</segment>
+		<segment id="87" parent="86" relname="purpose">для спайки стекла с металлом, в автоматических огнетушителях, для тонких и сложных отливок в гипсовых формах и др.\n\nСульфид кадмия (кадмиевая жёлтая) - краска для живописи.</segment>
+		<segment id="89" parent="90" relname="joint">Сульфат и амальгама кадмия используются в нормальном элементе Вестона.\n\nИсточник: https://www.newsru.com/world/21Dec2005/kitai.html\n</segment>
+		<group id="44" type="span" parent="97" relname="preparation"/>
+		<group id="42" type="span" parent="44" relname="span"/>
+		<group id="38" type="span" parent="42" relname="span"/>
+		<group id="41" type="span" parent="38" relname="background"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="49" type="span" parent="96" relname="preparation"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="96" type="span" parent="97" relname="span"/>
+		<group id="52" type="span" parent="95" relname="preparation"/>
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="57" type="span" parent="95" relname="span"/>
+		<group id="56" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="94" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="66" type="span" parent="94" relname="joint"/>
+		<group id="65" type="span" parent="58" relname="elaboration"/>
+		<group id="61" type="multinuc" parent="65" relname="span"/>
+		<group id="64" type="span" parent="61" relname="elaboration"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="73" type="multinuc" parent="93" relname="joint"/>
+		<group id="72" type="span" parent="73" relname="contrast"/>
+		<group id="70" type="span" parent="72" relname="span"/>
+		<group id="92" type="span" parent="93" relname="joint"/>
+		<group id="91" type="multinuc" parent="74" relname="elaboration"/>
+		<group id="85" type="span" parent="91" relname="joint"/>
+		<group id="84" type="span" parent="85" relname="span"/>
+		<group id="82" type="span" parent="84" relname="span"/>
+		<group id="81" type="multinuc" parent="76" relname="elaboration"/>
+		<group id="80" type="span" parent="81" relname="joint"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="88" type="span" parent="90" relname="joint"/>
+		<group id="98" type="span"/>
+	</body>
+</rst>

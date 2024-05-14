@@ -1,0 +1,71 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="30" relname="attribution">Глава МВД Киргизии пообещал</segment>
+		<segment id="30" parent="31" relname="span">наказать всех причастных к торговле мясом, зараженным сибирской язвой\n\</segment>
+		<segment id="32" parent="35" relname="attribution">nМинистр внутренних дел Киргизии Болотбек Ногойбаев заявил,</segment>
+		<segment id="33" parent="35" relname="span">что все лица, причастные к продаже мяса на бишкекском рынке,</segment>
+		<segment id="34" parent="33" relname="elaboration">зараженного сибирской язвой, будут привлечены к ответственности.</segment>
+		<segment id="37" parent="41" relname="span">\"В Бишкеке по факту продажи мяса, зараженного сибирской язвой, возбуждено уголовное дело\",</segment>
+		<segment id="38" parent="39" relname="attribution">- сказал министр в пятницу.\n\nПо данным МВД Киргизии,</segment>
+		<segment id="39" parent="40" relname="span">на крупнейшем в стране оптовом продовольственном рынке было реализовано более 160 кг мяса зараженного \"сибирской язвой\".</segment>
+		<segment id="42" parent="44" relname="span">\"Мясо больной \"сибирской язвой\" коровы было доставлено на столичный \"Ошский рынок\" из пригорода Бишкека\",</segment>
+		<segment id="43" parent="42" relname="attribution">- сказали в пресс-службе МВД.</segment>
+		<segment id="46" parent="47" relname="attribution">По ее данным,</segment>
+		<segment id="47" parent="48" relname="span">\"зараженное мясо через посредников попало в одну из торговых точек рынка, принадлежащей гражданину Турции\".\n\</segment>
+		<segment id="49" parent="54" relname="attribution">nПо словам главы МВД республики,</segment>
+		<segment id="50" parent="52" relname="span">\"к ответственности будут проверены все люди, задействованные в этой цепочке,</segment>
+		<segment id="51" parent="50" relname="elaboration">начиная от владельцев скота и заканчивая ветеринаром, выдавшим справку о качестве мяса, а также реализаторы на \"Ошском рынке\" (название рынка, расположенного в Бишкеке).\n\nКак сообщили в пресс-службе МВД Киргизии,</segment>
+		<segment id="53" parent="54" relname="joint">\"в настоящее время два человека с диагнозом \"сибирская язва\" доставлены в республиканскую инфекционную больницу\".\n\n\"Эти люди употребляли в пищу мясо больного животного.</segment>
+		<segment id="56" parent="58" relname="span">Также погибли две собаки, которых накормили внутренностями коровы.</segment>
+		<segment id="57" parent="56" relname="elaboration">Сейчас на профилактическом лечении находятся трое граждан, участвовавших в забое коровы\",</segment>
+		<segment id="59" parent="58" relname="attribution">- сказали в пресс-службе</segment>
+		<segment id="61" parent="76" relname="preparation">.\n\</segment>
+		<segment id="62" parent="76" relname="joint">nВ настоящее время правоохранительными органами и санитарными службами устанавливаются граждане, купившие опасные мясопродукты.</segment>
+		<segment id="63" parent="67" relname="joint">Также Ветеринарная служба проводит экстренную внеплановую прививку домашнего скота в пригороде столицы,</segment>
+		<segment id="64" parent="66" relname="span">а на всех базарах Бишкека усилены профилактические мероприятия.\n\nСибирская язва - острая инфекционная болезнь животных и человека,</segment>
+		<segment id="65" parent="64" relname="elaboration">характеризующаяся тяжелой интоксикацией, лихорадкой, септицемией, карбункулами, поражением кишечника, легких, миндалин.</segment>
+		<segment id="68" parent="70" relname="sequence">Болезнь поражает чаще всего кожу, реже - внутренние органы.\n\nИнкубационный период от 2 до 14 дней.\n\nИсточником инфекции являются домашние животные (крупный рогатый скот, овцы, козы, верблюды, свиньи).\n\nЗаражение может наступить при уходе за больными животными, убое скота, обработке мяса, а также при контакте с продуктами животноводства.\n\nНачало болезни - температура, сухой кашель, озноб, головокружение, головная боль, тошнота, слабость, боли в груди, плохой аппетит.</segment>
+		<segment id="69" parent="70" relname="sequence">Затем - рвота с кровью и молниеносный характер развития болезни.\n\nСмерть наступает от массовых кровоизлияний в головной мозг и внутренние органы.\n\</segment>
+		<segment id="71" parent="73" relname="span">nВ России ежегодно регистрируется несколько десятков случаев заболевания сибирской язвой среди людей.</segment>
+		<segment id="72" parent="71" relname="elaboration">Как правило, они связаны с разделкой заболевшего домашнего скота.\n\nИсточник: https://www.newsru.com/world/10Aug2007/yazva.html\n</segment>
+		<group id="31" type="span" parent="82" relname="preparation"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="36" type="span" parent="81" relname="preparation"/>
+		<group id="35" type="span" parent="36" relname="span"/>
+		<group id="81" type="multinuc" parent="82" relname="span"/>
+		<group id="45" type="multinuc" parent="81" relname="joint"/>
+		<group id="41" type="span" parent="45" relname="joint"/>
+		<group id="40" type="span" parent="37" relname="attribution"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="80" type="span" parent="81" relname="joint"/>
+		<group id="48" type="span" parent="79" relname="preparation"/>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="55" type="span" parent="79" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="52" type="span" parent="54" relname="joint"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="60" type="span" parent="78" relname="joint"/>
+		<group id="58" type="span" parent="60" relname="span"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="67" type="multinuc" parent="75" relname="joint"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="70" type="multinuc" parent="74" relname="comparison"/>
+		<group id="73" type="span" parent="74" relname="comparison"/>
+		<group id="83" type="span"/>
+	</body>
+</rst>

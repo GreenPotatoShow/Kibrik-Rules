@@ -1,0 +1,141 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="63" parent="69" relname="contrast">Единоросс получил скандальный срок за хищение земли на 15 млрд рублей\n\nЛюберецкий городской суд в среду признал виновным в мошенничестве в особо крупном размере известного подмосковного политика и бизнесмена, председателя совета директоров племзавода \"Петровское\" Василия Дупака.</segment>
+		<segment id="64" parent="68" relname="span">Однако приговор за совершение тяжкого преступления оказался скандально мягким</segment>
+		<segment id="65" parent="67" relname="joint">- прокурор просил для члена областного политсовета партии \"Единая Россия\" и бывшего депутата областной думы восемь лет реального заключения,</segment>
+		<segment id="66" parent="67" relname="joint">а суд счел условное наказание достаточным.</segment>
+		<segment id="70" parent="73" relname="attribution">Между тем сам Дупак был удивлен,</segment>
+		<segment id="73" parent="74" relname="span">что приговор вообще обвинительный.\n\nКак напоминает \"Коммерсант\", расследование уголовного дела в отношении Василия Дупака с самого начала шло непросто.</segment>
+		<segment id="75" parent="74" relname="elaboration">Оно было возбуждено еще в 2008 году.</segment>
+		<segment id="77" parent="81" relname="same-unit">Тогда же Дупаку,</segment>
+		<segment id="78" parent="79" relname="attribution">совмещавшему на тот момент депутатскую деятельность с постом председателя совета директоров племзавода \"Петровское\",</segment>
+		<segment id="79" parent="80" relname="span">СКР было предъявлено обвинение в совершении сразу нескольких преступлений - мошенничества в особо крупном размере, легализации денежных средств и имущества, приобретенных в результате совершения преступлений и уклонения от уплаты налогов с организации в особо крупном размере.\n\n- Инициатор дела против Дупака получил 8 лет тюрьмы реально\n\</segment>
+		<segment id="84" parent="85" relname="attribution">nПо версии следствия,</segment>
+		<segment id="85" parent="86" relname="span">Василий Дупак похитил у членов трудового коллектива своего племзавода права на земельные участки в Люберецком и Можайском районах Московской области общей площадью более 2,2 тысячи гектаров и стоимостью 15 миллиардов рублей.</segment>
+		<segment id="89" parent="93" relname="span">Будучи в 1994 году гендиректором государственного племзавода, при его реорганизации в частное предприятие Дупак и его не установленные следствием сообщники подделали протокол общего собрания работников завода,</segment>
+		<segment id="90" parent="92" relname="span">на котором якобы было принято решение о внесении земельных паев в уставный фонд нового предприятия,</segment>
+		<segment id="91" parent="90" relname="elaboration">главным владельцем которого оказался сам депутат.</segment>
+		<segment id="94" parent="96" relname="joint">Позднее часть земель была продана,</segment>
+		<segment id="95" parent="96" relname="joint">а вырученные средства легализованы.</segment>
+		<segment id="99" parent="101" relname="joint">Потерпевшими по делу были признаны 561 человек.\n\nКроме того, Василий Дупак обвинялся следствием в том, что в период 2005 - 2007 годов давал указания подчиненным, в том числе главному бухгалтеру племзавода,</segment>
+		<segment id="100" parent="101" relname="joint">вносить в налоговые декларации по единому сельскохозяйственному налогу искаженные данные о налоговой базе и налоговой ставке,</segment>
+		<segment id="102" parent="108" relname="span">в результате чего предприятие недоплатило в бюджеты различных уровней более 46 миллионов рублей.\n\nНа первом этапе следствие,</segment>
+		<segment id="103" parent="107" relname="span">учитывая статус Василия Дупака,</segment>
+		<segment id="106" parent="103" relname="elaboration">который на тот момент являлся председателем Комитета по вопросам землепользования, природных ресурсов и экологии Московской областной думы, ограничилось взятием у него подписки о невыезде.</segment>
+		<segment id="110" parent="112" relname="span">Но когда Дупак попытался скрыться</segment>
+		<segment id="111" parent="110" relname="elaboration">(его задержали в аэропорту \"Шереметьево\" за несколько минут до вылета),</segment>
+		<segment id="113" parent="115" relname="joint">он был арестован</segment>
+		<segment id="114" parent="115" relname="joint">и по решению суда более года содержался в СИЗО.</segment>
+		<segment id="117" parent="118" relname="span">Правда, позднее по ходатайству коллег-депутатов Василия Дупака вновь освободили по состоянию здоровья.</segment>
+		<segment id="120" parent="126" relname="sequence">В этом году СКР наконец удалось завершить расследование дела Василия Дупака</segment>
+		<segment id="121" parent="124" relname="cause-effect">и после утверждения обвинительного заключения в Мособлпрокуратуре</segment>
+		<segment id="122" parent="124" relname="span">оно поступило в Люберецкий суд</segment>
+		<segment id="123" parent="122" relname="purpose">для рассмотрения по существу.\n\nИтог судебного разбирательства оказался неожиданным.</segment>
+		<segment id="127" parent="131" relname="span">Судья Люберецкого горсуда Светла Пантелеева,</segment>
+		<segment id="128" parent="130" relname="span">признав Василия Дупака виновным в мошенничестве</segment>
+		<segment id="129" parent="128" relname="elaboration">(максимальный срок наказания по ч.4 ст.159 УК - до десяти лет лишения свободы),</segment>
+		<segment id="132" parent="133" relname="attribution">сочла,</segment>
+		<segment id="133" parent="134" relname="span">что его вина в легализации похищенного не доказана.</segment>
+		<segment id="137" parent="139" relname="contrast">Кроме того, судья сняла с бывшего депутата обвинение в уклонении от уплаты налогов.\n\nПрокурор попросил суд приговорить Василия Дупака к восьми годам общего режима,</segment>
+		<segment id="138" parent="139" relname="contrast">однако судья ограничилась шестью годами условно с выплатой штрафа в 1 миллион рублей.\n\</segment>
+		<segment id="140" parent="144" relname="span">nМежду тем Василий Дупак,</segment>
+		<segment id="141" parent="142" relname="attribution">доказывавший в суде,</segment>
+		<segment id="142" parent="143" relname="span">что против него был предпринят классический рейдерский захват,</segment>
+		<segment id="145" parent="146" relname="attribution">до конца был уверен,</segment>
+		<segment id="146" parent="147" relname="span">что с него будут сняты все обвинения,</segment>
+		<segment id="148" parent="149" relname="span">поэтому приговор для него стал шоком,</segment>
+		<segment id="151" parent="150" relname="attribution">пишет газета \"Открытая линия\" со ссылкой на окружение политика.</segment>
+		<segment id="158" parent="164" relname="sequence">Защита Дупака,</segment>
+		<segment id="159" parent="162" relname="attribution">по сведениям источника,</segment>
+		<segment id="160" parent="162" relname="span">готовит апелляцию в вышестоящую судебную инстанцию.\n\nИнициатор дела против Дупака получил 8 лет тюрьмы реально\n\nЛюберецкий горсуд не впервые принимает неоднозначные решения,</segment>
+		<segment id="161" parent="160" relname="cause-effect">связанные с хищением земель племзавода \"Петровский\", напоминает \"Коммерсант\".</segment>
+		<segment id="165" parent="167" relname="sequence">В августе 2011 года в этом суде по обвинению в приготовлении к сбыту наркотиков</segment>
+		<segment id="166" parent="167" relname="sequence">к восьми годам заключения был приговорен адвокат Артур Прель,</segment>
+		<segment id="168" parent="174" relname="span">являвшийся одним из инициаторов возбуждения уголовного дела в отношении Василия Дупака.</segment>
+		<segment id="169" parent="171" relname="span">В кармане у адвоката Преля,</segment>
+		<segment id="170" parent="169" relname="condition">остановленного на посту ДПС при въезде в Люберцы,</segment>
+		<segment id="172" parent="173" relname="same-unit">были найдены 15 граммов амфетамина, расфасованные в три пакетика.</segment>
+		<segment id="176" parent="180" relname="joint">\"Мой сын отстаивал права простых людей на очень дорогую землю в нашей Малаховке, которую похитил Дупак,</segment>
+		<segment id="177" parent="179" relname="span">и делал это очень эффективно,</segment>
+		<segment id="178" parent="177" relname="cause-effect">за что и оказался в заключении\",</segment>
+		<segment id="182" parent="181" relname="attribution">- заявила газете мать осужденного Ирина Прель.\n\nИсточник: https://www.newsru.com/realty/06Jun2013/dupak.html\n</segment>
+		<group id="157" type="multinuc" parent="185" relname="joint"/>
+		<group id="83" type="multinuc" parent="157" relname="joint"/>
+		<group id="69" type="multinuc" parent="83" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="contrast"/>
+		<group id="67" type="multinuc" parent="64" relname="elaboration"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="76" type="span" parent="82" relname="joint"/>
+		<group id="74" type="span" parent="76" relname="span"/>
+		<group id="81" type="multinuc" parent="82" relname="joint"/>
+		<group id="80" type="span" parent="81" relname="same-unit"/>
+		<group id="156" type="multinuc" parent="157" relname="joint"/>
+		<group id="98" type="multinuc" parent="156" relname="joint"/>
+		<group id="86" type="span" parent="98" relname="sequence"/>
+		<group id="97" type="multinuc" parent="98" relname="sequence"/>
+		<group id="93" type="span" parent="97" relname="sequence"/>
+		<group id="92" type="span" parent="89" relname="elaboration"/>
+		<group id="96" type="multinuc" parent="97" relname="sequence"/>
+		<group id="155" type="span" parent="156" relname="joint"/>
+		<group id="119" type="multinuc" parent="154" relname="solutionhood"/>
+		<group id="109" type="span" parent="119" relname="contrast"/>
+		<group id="101" type="multinuc" parent="108" relname="cause-effect"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="107" type="span" parent="102" relname="condition"/>
+		<group id="118" type="span" parent="119" relname="contrast"/>
+		<group id="116" type="span" parent="117" relname="cause-effect"/>
+		<group id="112" type="span" parent="115" relname="condition"/>
+		<group id="115" type="multinuc" parent="116" relname="span"/>
+		<group id="154" type="multinuc" parent="155" relname="span"/>
+		<group id="136" type="span" parent="154" relname="joint"/>
+		<group id="126" type="multinuc" parent="136" relname="span"/>
+		<group id="125" type="span" parent="126" relname="sequence"/>
+		<group id="124" type="span" parent="125" relname="span"/>
+		<group id="135" type="span" parent="126" relname="elaboration"/>
+		<group id="131" type="span" parent="135" relname="span"/>
+		<group id="130" type="span" parent="127" relname="background"/>
+		<group id="134" type="span" parent="131" relname="interpretation-evaluation"/>
+		<group id="153" type="multinuc" parent="154" relname="joint"/>
+		<group id="139" type="multinuc" parent="153" relname="joint"/>
+		<group id="152" type="span" parent="153" relname="joint"/>
+		<group id="150" type="multinuc" parent="152" relname="span"/>
+		<group id="144" type="span" parent="150" relname="joint"/>
+		<group id="143" type="span" parent="140" relname="background"/>
+		<group id="149" type="span" parent="150" relname="joint"/>
+		<group id="147" type="span" parent="148" relname="cause-effect"/>
+		<group id="184" type="multinuc" parent="185" relname="joint"/>
+		<group id="164" type="multinuc" parent="184" relname="joint"/>
+		<group id="163" type="span" parent="164" relname="sequence"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="183" type="span" parent="184" relname="joint"/>
+		<group id="181" type="span" parent="183" relname="span"/>
+		<group id="175" type="multinuc" parent="181" relname="span"/>
+		<group id="167" type="multinuc" parent="175" relname="sequence"/>
+		<group id="174" type="span" parent="175" relname="sequence"/>
+		<group id="173" type="multinuc" parent="168" relname="elaboration"/>
+		<group id="171" type="span" parent="173" relname="same-unit"/>
+		<group id="180" type="multinuc" parent="175" relname="interpretation-evaluation"/>
+		<group id="179" type="span" parent="180" relname="joint"/>
+		<group id="185" type="multinuc"/>
+	</body>
+</rst>

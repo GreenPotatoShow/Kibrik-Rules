@@ -1,0 +1,20 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="6" parent="8" relname="span">Елена Лиховцева победила в первом матче турнира Pan-Pacific Open,</segment>
+		<segment id="7" parent="6" relname="background">проходящем в Токио\n\</segment>
+		<segment id="9" parent="13" relname="span">nВ стартовом матче российская теннисистка уверенно обыграла американку Корину Морарю 6:3, 6:2.</segment>
+		<segment id="10" parent="12" relname="span">В других поединках первого круга болгарка Магдалена Малеева победила бельгийку Элс Калленс 6:3, 6:4, француженка Анн-Галль Сидо американку Дженнифер Хопкинс 3:6, 6:2, 6:3, хорватка Ива Майоли австралийку Николь Пратт 6:4, 6:0.\n\nВ матче второго круга первая ракетка мира, швейцарка Мартина Хингис,</segment>
+		<segment id="11" parent="10" relname="elaboration">справилась с Карой Блэк из Зимбабве 6:3, 6:3.\n\nИсточник: https://www.newsru.com/sport/31Jan2001/lihov.html\n</segment>
+		<group id="8" type="span" parent="14" relname="span"/>
+		<group id="13" type="span" parent="8" relname="elaboration"/>
+		<group id="12" type="span" parent="9" relname="elaboration"/>
+		<group id="14" type="span"/>
+	</body>
+</rst>

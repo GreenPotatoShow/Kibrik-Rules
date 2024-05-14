@@ -1,0 +1,68 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="29" relname="span">В Дагестане сгорел сельский дом:</segment>
+		<segment id="28" parent="27" relname="elaboration">четверо детей погибли\n\</segment>
+		<segment id="30" parent="34" relname="sequence">nВ селе Тукита Ахвахского района Дагестана произошел пожар в частном доме,</segment>
+		<segment id="31" parent="33" relname="span">погибли четверо детей,</segment>
+		<segment id="32" parent="31" relname="attribution">сообщили \"Интерфаксу\" в ГУ МЧС РФ по Дагестану.\n\n\"Сообщение о пожаре поступило на пульт дежурного в 5:00 по московскому времени в субботу\",</segment>
+		<segment id="35" parent="34" relname="attribution">- сказал сотрудник пресс-службы.</segment>
+		<segment id="38" parent="41" relname="attribution">По его словам,</segment>
+		<segment id="39" parent="41" relname="span">во время пожара погибли четверо детей в возрасте от трех до 15 лет.</segment>
+		<segment id="40" parent="39" relname="elaboration">Их мать, 1974 года рождения, госпитализирована с ожогами.\n\n</segment>
+		<segment id="43" parent="45" relname="span">\"По предварительным данным, причиной пожара является замыкание электропроводки\",</segment>
+		<segment id="44" parent="43" relname="attribution">- отметили в пресс-службе.\n\nРанее представитель главного управления МЧС России по Дагестану сообщил РИА \"Новости\",</segment>
+		<segment id="46" parent="50" relname="joint">что ближайшая пожарная часть находится в Ботлихском районе, примерно в 50 километрах от места происшествия</segment>
+		<segment id="47" parent="49" relname="span">.\n\nЗа последнее время в России произошло несколько крупных пожаров,</segment>
+		<segment id="48" parent="47" relname="elaboration">в которых погибли члены многодетных семей.\n\nТак, в ночь на среду, 14 марта, одноэтажный деревянный дом загорелся в деревне Нефедово Серпуховского района Подмосковья.</segment>
+		<segment id="52" parent="73" relname="preparation">Пламя полностью охватило здание.</segment>
+		<segment id="53" parent="55" relname="joint">Спастись из огня успели трое взрослых и пятеро детей.</segment>
+		<segment id="54" parent="55" relname="joint">Еще двое мальчиков - четырех и 12 лет - погибли.\n\nДевятого марта в селе Моховое Кунгурского района Пермского края сгорели родители и семеро детей.</segment>
+		<segment id="56" parent="58" relname="span">Из всей семьи выжил восьмилетний мальчик,</segment>
+		<segment id="57" parent="56" relname="background">который в тот день остался у бабушки.\n\nВ начале февраля в Ленинском районе Подмосковья сгорели два строительных вагончика, соединенных дополнительной пристройкой, где жила семья из десяти человек.</segment>
+		<segment id="59" parent="60" relname="span">В результате пожара погибла супружеская пара и семь несовершеннолетних детей.</segment>
+		<segment id="61" parent="71" relname="sequence">Одному ребенку, десятилетней девочке, удалось спастись.</segment>
+		<segment id="62" parent="70" relname="span">Позже выяснилось, что погибшая многодетная мать ждала еще одного ребенка.</segment>
+		<segment id="63" parent="64" relname="attribution">По предварительным данным следствия,</segment>
+		<segment id="64" parent="65" relname="span">пожар начался из-за неправильной эксплуатации печи.\n\nВ ноябре прошлого года в Сергиево-Посадском районе Подмосковья сгорел двухэтажный кирпичный дом семьи священника.</segment>
+		<segment id="66" parent="68" relname="joint">Погибли женщина и трое детей.</segment>
+		<segment id="67" parent="68" relname="joint">Еще четверо детей пострадали.\n\nИсточник: https://www.newsru.com/russia/17Mar2012/dagg.html\n</segment>
+		<group id="37" type="span" parent="76" relname="preparation"/>
+		<group id="29" type="span" parent="37" relname="span"/>
+		<group id="36" type="span" parent="29" relname="elaboration"/>
+		<group id="34" type="multinuc" parent="36" relname="span"/>
+		<group id="33" type="span" parent="34" relname="sequence"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="42" type="span" parent="75" relname="preparation"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="75" type="multinuc" parent="76" relname="span"/>
+		<group id="51" type="span" parent="75" relname="joint"/>
+		<group id="45" type="span" parent="51" relname="span"/>
+		<group id="50" type="multinuc" parent="45" relname="background"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="55" type="multinuc" parent="73" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="60" type="span" parent="72" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="cause-effect"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="70" type="span" parent="71" relname="sequence"/>
+		<group id="69" type="multinuc" parent="62" relname="elaboration"/>
+		<group id="65" type="span" parent="69" relname="joint"/>
+		<group id="68" type="multinuc" parent="69" relname="joint"/>
+		<group id="77" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,62 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="25" relname="span">Банк \"Траст\" возглавит санатор из АСВ\n\nПредседателем правления банка \"Траст\" назначена Вероника Доленко,</segment>
+		<segment id="24" parent="23" relname="elaboration">которая управляла временной администрацией банка в течение полугода с начала процедуры санации как представитель Агентства по страхованию вкладов.\n\nСанация \"Траста\" была объявлена 22 декабря 2014 года.</segment>
+		<segment id="26" parent="32" relname="span">Тогда банк не справился с набегом вкладчиков:</segment>
+		<segment id="27" parent="30" relname="cause-effect">из-за плохого качества активов и низкой их ликвидности</segment>
+		<segment id="28" parent="30" relname="span">он не смог найти 3 млрд рублей</segment>
+		<segment id="29" parent="28" relname="purpose">для возмещения оттока.</segment>
+		<segment id="33" parent="32" relname="interpretation-evaluation">ЦБ решил санировать \"Траст\".</segment>
+		<segment id="35" parent="37" relname="span">Общая сумма санации - 127 млрд рублей</segment>
+		<segment id="36" parent="35" relname="elaboration">- уступает только цене спасения Банка Москвы в 2011 году.</segment>
+		<segment id="38" parent="61" relname="preparation">Временная администрация оценила дыру ровно в размер депозитного портфеля - 114 млрд рублей.</segment>
+		<segment id="39" parent="41" relname="sequence">Спасать банк поручено ФК \"Открытие\".\n\nДоленко не чужой холдингу \"Открытие\" человек: с 2012 года она работала в должности финансового директора банка \"Открытие\",</segment>
+		<segment id="40" parent="41" relname="sequence">в 2014 году вошла в правление \"Ханты-Мансийского банка Открытие\".</segment>
+		<segment id="42" parent="44" relname="sequence">В декабре 2014 года она перешла в АСВ</segment>
+		<segment id="43" parent="44" relname="sequence">и занялась оздоровлением \"Траста\",</segment>
+		<segment id="45" parent="52" relname="attribution">пишут \"Ведомости\".\n\nСама Доленко заявила,</segment>
+		<segment id="46" parent="52" relname="joint">что за шесть месяцев \"Траст\" приостановил отток вкладов</segment>
+		<segment id="47" parent="51" relname="joint">и привлек новых клиентов,</segment>
+		<segment id="48" parent="50" relname="joint">пересмотрел процедуры риск-менеджмента</segment>
+		<segment id="49" parent="50" relname="joint">и возобновил кредитование в соответствии с более качественными подходами к оценке заемщиков.</segment>
+		<segment id="55" parent="59" relname="same-unit">Банк,</segment>
+		<segment id="56" parent="57" relname="attribution">по ее словам,</segment>
+		<segment id="57" parent="58" relname="span">за это время сократил персонал и избыточную региональную сеть.\n\nИсточник: https://www.newsru.com/finance/24Jun2015/trustbank.html\n</segment>
+		<group id="25" type="span" parent="64" relname="preparation"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="34" type="span" parent="64" relname="joint"/>
+		<group id="32" type="span" parent="34" relname="span"/>
+		<group id="31" type="span" parent="26" relname="cause-effect"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="37" type="span" parent="62" relname="preparation"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="41" type="multinuc" parent="61" relname="joint"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="54" type="multinuc" parent="60" relname="span"/>
+		<group id="44" type="multinuc" parent="54" relname="joint"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="59" type="multinuc" parent="54" relname="elaboration"/>
+		<group id="58" type="span" parent="59" relname="same-unit"/>
+		<group id="65" type="span"/>
+	</body>
+</rst>

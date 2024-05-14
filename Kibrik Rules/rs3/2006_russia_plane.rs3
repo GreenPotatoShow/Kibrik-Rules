@@ -1,0 +1,32 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="10" parent="12" relname="sequence">В небе над Томском у самолета Ан-24 отказал двигатель\n\nСамолет Ан-24, следовавший из поселка Пионерный в город Томск,</segment>
+		<segment id="11" parent="12" relname="sequence">в понедельник вечером совершил посадку с одним отказавшим двигателем.\n\</segment>
+		<segment id="13" parent="18" relname="attribution">nКак сообщили в региональном управлении МЧС,</segment>
+		<segment id="14" parent="16" relname="sequence">сообщение о том, что Ан-24 совершает аварийную посадку,</segment>
+		<segment id="15" parent="16" relname="sequence">поступило в 16:00 по местному времени,</segment>
+		<segment id="17" parent="18" relname="joint">сообщает \"Интерфакс\".\n\nАварийные - спасательные и пожарные - службы Иркутска были приведены в повышенную готовность.\n\n\"Произошел отказ левого двигателя.</segment>
+		<segment id="20" parent="19" relname="elaboration">В 16:04 самолет благополучно сел в аэропорту Томска.</segment>
+		<segment id="22" parent="21" relname="background">На борту находились 41 пассажир и три члена экипажа\",</segment>
+		<segment id="24" parent="23" relname="attribution">- рассказал представитель МЧС.\n\nПричину происшествия выясняет Межрегиональная территориальная комиссия по безопасности полетов воздушного транспорта.\n\nИсточник: https://www.newsru.com/russia/05Sep2006/plane.html\n</segment>
+		<group id="12" type="multinuc" parent="26" relname="sequence"/>
+		<group id="25" type="span" parent="26" relname="sequence"/>
+		<group id="23" type="span" parent="25" relname="span"/>
+		<group id="21" type="span" parent="23" relname="span"/>
+		<group id="19" type="span" parent="21" relname="span"/>
+		<group id="18" type="multinuc" parent="19" relname="span"/>
+		<group id="16" type="multinuc" parent="18" relname="joint"/>
+		<group id="26" type="multinuc"/>
+	</body>
+</rst>

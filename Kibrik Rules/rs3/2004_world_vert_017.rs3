@@ -1,0 +1,32 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="11" parent="15" relname="span">В Ираке столкнулись два военных вертолета</segment>
+		<segment id="12" parent="14" relname="joint">- два пилота погибли\n\nДвое военнослужащих США погибли</segment>
+		<segment id="13" parent="14" relname="joint">и еще двое получили ранения в результате крушения двух американских военных вертолетов близ Багдада.\n\</segment>
+		<segment id="16" parent="18" relname="span">nКак сообщает ИТАР-ТАСС со ссылкой на представителя военного командования США в столице Ирака подполковника Уилла Хаттона,</segment>
+		<segment id="17" parent="16" relname="background">инцидент произошел в субботу около 20:30 по местному времени</segment>
+		<segment id="19" parent="23" relname="joint">.\n\nХаттон не сообщил о типе разбившихся вертолетов и о причинах произошедшего,</segment>
+		<segment id="20" parent="22" relname="joint">ограничившись заявлением о начатом расследовании обстоятельств инцидента.\n\nСогласно поступающей из Ирака информации,</segment>
+		<segment id="21" parent="22" relname="joint">два вертолета столкнулись в воздухе юго-западнее Багдада.\n\</segment>
+		<segment id="25" parent="26" relname="attribution">nПо данным одного из наиболее авторитетных неправительственных научно-исследовательских заведений в Вашингтоне - Института Брукингса,</segment>
+		<segment id="26" parent="27" relname="span">с мая 2003 года вооруженные силы США потеряли в Ираке по меньшей мере 27 вертолетов.\n\nИсточник: https://www.newsru.com/world/17Oct2004/vert.html\n</segment>
+		<group id="15" type="span" parent="29" relname="joint"/>
+		<group id="14" type="multinuc" parent="11" relname="elaboration"/>
+		<group id="28" type="multinuc" parent="29" relname="joint"/>
+		<group id="24" type="multinuc" parent="28" relname="joint"/>
+		<group id="18" type="span" parent="24" relname="joint"/>
+		<group id="23" type="multinuc" parent="24" relname="joint"/>
+		<group id="22" type="multinuc" parent="23" relname="joint"/>
+		<group id="27" type="span" parent="28" relname="joint"/>
+		<group id="29" type="multinuc"/>
+	</body>
+</rst>

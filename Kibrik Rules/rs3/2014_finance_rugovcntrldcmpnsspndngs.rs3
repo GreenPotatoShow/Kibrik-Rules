@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="23" relname="contrast">Госкомпании отрапортовали о снижении закупочных расходов,</segment>
+		<segment id="22" parent="23" relname="contrast">но их затраты только выросли\n\</segment>
+		<segment id="24" parent="25" relname="joint">nПравительство опубликовало итоги экономии госкомпаний на закупках товаров и услуг за 2013 года.</segment>
+		<segment id="26" parent="57" relname="preparation">Предполагалось, что госкомпании с 2011 года должны в течение трех лет на 10% снижать затраты на единицу продукции в реальном выражении.</segment>
+		<segment id="27" parent="30" relname="attribution">По данным правительства,</segment>
+		<segment id="28" parent="30" relname="span">более 30 упомянутых в справке госкомпаний это поручение исполняют,</segment>
+		<segment id="29" parent="28" relname="elaboration">сообщает газета \"Коммерсант\".\n\nНапример, большая часть представителей ТЭКа (\"Роснефть\", \"Транснефть\", \"РусГидро\", \"Росатом\", ФСК, \"Россети\") рапортовали об экономии в 11%.\n\nРяд компаний перевыполнил план по экономии в разы: \"Аэрофлот\" снизил затраты на закупки на 30,7%,</segment>
+		<segment id="32" parent="33" relname="comparison">ОАО РЖД - на 27,9%, \"Почта России\" - на 28%, а ФГУП \"Администрация гражданских аэропортов (аэродромов)\" - на 30%.</segment>
+		<segment id="34" parent="42" relname="span">Абсолютный рекорд показало ОАО \"Ростелеком\",</segment>
+		<segment id="37" parent="41" relname="joint">в 2013 году сэкономившее на закупках, по данным правительства, сразу 60,4%.\n\nЧаще всего компании ссылаются на долгосрочные контракты,</segment>
+		<segment id="38" parent="40" relname="span">дающие более выгодные условия</segment>
+		<segment id="39" parent="38" relname="condition">при закупках (ОАО РЖД), ужесточение закупочной политики и сокращение услуг на аутсорсинге (\"Россети\"), рост числа поставщиков (\"Ростелеком\").</segment>
+		<segment id="43" parent="47" relname="comparison">В \"Транснефти\" говорят о снижении \"объема обязательного резервирования в банках страховых случаев\" и о росте предоплаты с 10-15% до 50%,</segment>
+		<segment id="44" parent="46" relname="span">что позволило создать пул максимально эффективных подрядчиков,</segment>
+		<segment id="45" parent="44" relname="elaboration">которых и стали допускать на закрытые конкурсы.\n\nОднако экономия на гозакупках не оказала заметного влияния на операционные расходы госкомпаний.\n\nТак, операционные затраты группы \"Газпром\" по МСФО в 2013 году выросли на 10,5%, до 3,6 трлн рублей, \"Роснефти\" - на 57%, до 389 млрд рублей.</segment>
+		<segment id="48" parent="54" relname="joint">Затраты \"Транснефти\" составили 499 млрд рублей в 2013 году против 492 млрд рублей годом ранее.</segment>
+		<segment id="51" parent="53" relname="span">Сходная ситуация в \"РусГидро\" (272,8 млрд рублей в 2013 году и 271,2 млрд рублей в 2012 году) и в \"Ростелекоме\" (245,5 млрд рублей в 2013 году против 242,9 млрд рублей в 2012 году).\n\nЭксперты и источники газеты называют отчеты по снижению затрат \"бухгалтерской алхимией\": их результаты сильно зависят от используемой системы учета.</segment>
+		<segment id="52" parent="51" relname="elaboration">Эффект от экономии на закупках пока что можно обнаружить лишь в снижении цен на их продукцию или темпов роста тарифов.\n\nИсточник: https://www.newsru.com/finance/30Jun2014/rugovcntrldcmpnsspndngs.html\n</segment>
+		<group id="25" type="multinuc" parent="58" relname="preparation"/>
+		<group id="23" type="multinuc" parent="25" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="57" type="multinuc" parent="58" relname="span"/>
+		<group id="33" type="multinuc" parent="57" relname="joint"/>
+		<group id="31" type="span" parent="33" relname="comparison"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="42" type="span" parent="56" relname="comparison"/>
+		<group id="41" type="multinuc" parent="34" relname="elaboration"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="55" type="multinuc" parent="56" relname="comparison"/>
+		<group id="47" type="multinuc" parent="55" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="comparison"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="59" type="span"/>
+	</body>
+</rst>

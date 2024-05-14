@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="94" relname="preparation">Twitter помог французам делиться данными с избирательных участков в день выборов\n\</segment>
+		<segment id="34" parent="40" relname="same-unit">nВ минувшее воскресенье,</segment>
+		<segment id="35" parent="38" relname="condition">когда во Франции проходил первый тур президентских выборов,</segment>
+		<segment id="36" parent="38" relname="span">местные пользователи Twitter нашли способ обойти закон,</segment>
+		<segment id="37" parent="36" relname="elaboration">запрещающий делать прогнозы результатов выборов до закрытия избирательных участков,</segment>
+		<segment id="41" parent="40" relname="attribution">сообщает Руформатор со ссылкой на американскую газету The New York Times.\n\nДля этого ушлые обитатели микроблогов использовали шифровки времен Второй мировой войны.</segment>
+		<segment id="43" parent="51" relname="span">Энтузиасты обозначили твиты с предсказанием итогов выборов хэштегом #RadioLondres</segment>
+		<segment id="44" parent="50" relname="span">- по названию лондонской радиостанции,</segment>
+		<segment id="45" parent="49" relname="joint">транслировавшей шифрованные сообщения членам французского сопротивления во время оккупации Франции фашистами.\n\nНарушение закона, который запрещает разглашать результаты выборов</segment>
+		<segment id="46" parent="48" relname="span">или делать какие-либо прогнозы до закрытия избирательных участков,</segment>
+		<segment id="47" parent="46" relname="cause-effect">влечет за собой штраф в 75 тыс. евро.</segment>
+		<segment id="53" parent="54" relname="condition">\"Если брать по 75 тыс. евро за каждый твит, размещенный с хэштегом #RadioLondres,</segment>
+		<segment id="54" parent="55" relname="span">то Twitter покроет госдолг Франции в течение 24 часов\",</segment>
+		<segment id="56" parent="57" relname="span">- иронизировал один из пользователей сервиса.\n\nСообщения о результатах выборов были зашифрованы.</segment>
+		<segment id="58" parent="64" relname="span">Действующий президент Франции Николя Саркози скрывался под шифром \"токайское вино\",</segment>
+		<segment id="59" parent="63" relname="joint">так как \"Токай\" производится в Венгрии,</segment>
+		<segment id="60" parent="62" relname="joint">и оттуда же родом отец Саркози,</segment>
+		<segment id="61" parent="62" relname="joint">или \"погода в Венгрии\" - по той же причине.</segment>
+		<segment id="66" parent="72" relname="span">Другим прозвищем Саркози в Twitter стал Rolex</segment>
+		<segment id="67" parent="69" relname="span">- из-за его стиля жизни,</segment>
+		<segment id="68" parent="67" relname="elaboration">который ассоциируется с показным шиком.\n\nОппонента Саркози, лидера социалистической партии Франсуа Олланда</segment>
+		<segment id="70" parent="71" relname="same-unit">пользователи Twitter называли Flan (заварной крем, запеченный с карамельной глазурью).</segment>
+		<segment id="73" parent="75" relname="span">Франсуа Олланд,</segment>
+		<segment id="74" parent="73" relname="background">до того, как похудел,</segment>
+		<segment id="76" parent="77" relname="sequence">был известен под этим ником.</segment>
+		<segment id="78" parent="82" relname="span">Вторым кодовым прозвищем Олланда был \"голландский сыр\"</segment>
+		<segment id="79" parent="81" relname="span">- отсылка к его фамилии Hollande,</segment>
+		<segment id="80" parent="79" relname="elaboration">которая по-французски и значит \"голландский\".\n\nКандидата от крайне левых Жана-Люка Меланшона твиттеряне зашифровали под ником \"помидор\"</segment>
+		<segment id="83" parent="85" relname="span">- на сей раз,</segment>
+		<segment id="84" parent="83" relname="cause-effect">по понятным причинам:</segment>
+		<segment id="86" parent="88" relname="joint">Меланшон - коммунист,</segment>
+		<segment id="87" parent="88" relname="joint">и он такой же \"красный\", как помидор.\n\nИсточник: https://www.newsru.com/hitech/24Apr2012/frvottwit.html\n</segment>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="52" type="multinuc" parent="94" relname="joint"/>
+		<group id="42" type="span" parent="52" relname="joint"/>
+		<group id="40" type="multinuc" parent="42" relname="span"/>
+		<group id="39" type="span" parent="40" relname="same-unit"/>
+		<group id="38" type="span" parent="39" relname="span"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="50" type="span" parent="43" relname="elaboration"/>
+		<group id="49" type="multinuc" parent="44" relname="elaboration"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="65" type="multinuc" parent="93" relname="joint"/>
+		<group id="57" type="span" parent="65" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="condition"/>
+		<group id="64" type="span" parent="65" relname="joint"/>
+		<group id="63" type="multinuc" parent="58" relname="cause-effect"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="72" type="span" parent="92" relname="joint"/>
+		<group id="71" type="multinuc" parent="66" relname="cause-effect"/>
+		<group id="69" type="span" parent="71" relname="same-unit"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="77" type="multinuc" parent="91" relname="comparison"/>
+		<group id="75" type="span" parent="77" relname="sequence"/>
+		<group id="90" type="multinuc" parent="91" relname="comparison"/>
+		<group id="82" type="span" parent="90" relname="comparison"/>
+		<group id="81" type="span" parent="78" relname="cause-effect"/>
+		<group id="89" type="span" parent="90" relname="comparison"/>
+		<group id="85" type="span" parent="89" relname="span"/>
+		<group id="88" type="multinuc" parent="85" relname="elaboration"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

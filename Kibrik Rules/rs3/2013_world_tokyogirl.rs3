@@ -1,0 +1,43 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="18" relname="span">Пропавшая в Токио семилетняя девочка из России нашлась\n\nДевочка из России,</segment>
+		<segment id="17" parent="16" relname="background">которая пропала ранее в воскресенье в токийском районе Сибуя,</segment>
+		<segment id="19" parent="20" relname="same-unit">благополучно нашлась.</segment>
+		<segment id="21" parent="23" relname="span">Об этом ИТАР-ТАСС сообщили в местном отделении полиции.\n\nКак выяснилось,</segment>
+		<segment id="22" parent="21" relname="elaboration">семилетняя Алиса на протяжении пяти часов играла в одном из соседних дворов со своими японскими друзьями.</segment>
+		<segment id="27" parent="29" relname="span">В районе 20:00 по местному времени (15:00 мск.) она вернулась домой.\n\nО пропаже дочери в полицию</segment>
+		<segment id="28" parent="27" relname="attribution">сообщила мама Юлия Панченко.</segment>
+		<segment id="30" parent="33" relname="attribution">По ее словам,</segment>
+		<segment id="31" parent="33" relname="sequence">девочка ушла на детскую площадку напротив своего дома в районе 15:00 по местному времени,</segment>
+		<segment id="32" parent="33" relname="sequence">после чего пропала.</segment>
+		<segment id="35" parent="39" relname="joint">При этом никто из соседей, находившихся в тот момент на улице,</segment>
+		<segment id="36" parent="38" relname="joint">ее не видел.\n\nДевочку искали полицейские,</segment>
+		<segment id="37" parent="38" relname="joint">а также волонтеры из числа живущих Токио соотечественников.</segment>
+		<segment id="40" parent="41" relname="sequence">О произошедшем был оповещен консульский отдел посольства РФ в японской столице.\n\nИсточник: https://www.newsru.com/world/14Jul2013/tokyogirl.html\n</segment>
+		<group id="24" type="span" parent="44" relname="sequence"/>
+		<group id="20" type="multinuc" parent="24" relname="span"/>
+		<group id="18" type="span" parent="20" relname="same-unit"/>
+		<group id="23" type="span" parent="20" relname="elaboration"/>
+		<group id="43" type="multinuc" parent="44" relname="sequence"/>
+		<group id="29" type="span" parent="43" relname="sequence"/>
+		<group id="42" type="multinuc" parent="43" relname="sequence"/>
+		<group id="34" type="span" parent="42" relname="joint"/>
+		<group id="33" type="multinuc" parent="34" relname="span"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="39" type="multinuc" parent="41" relname="sequence"/>
+		<group id="38" type="multinuc" parent="39" relname="joint"/>
+		<group id="44" type="multinuc"/>
+	</body>
+</rst>

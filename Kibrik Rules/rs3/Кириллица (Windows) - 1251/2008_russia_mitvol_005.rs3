@@ -1,0 +1,104 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="44" parent="46" relname="span">Олег Митволь подал в суд на Росприроднадзор и Министерство природы РФ\n\nБывший заместитель руководителя Росприроднадзора Олег Митволь,</segment>
+		<segment id="45" parent="44" relname="elaboration">уволенный в сентябре в связи с сокращением кадров,</segment>
+		<segment id="47" parent="48" relname="sequence">подал иск в Пресненский суд Москвы,</segment>
+		<segment id="49" parent="53" relname="span">в котором требует от ведомства и Минприроды РФ решить</segment>
+		<segment id="50" parent="51" relname="condition">при помощи квалификационного экзамена,</segment>
+		<segment id="51" parent="52" relname="span">кто из четырех заместителей - Алексей Акулов, Иван Клеменков, Владимир Смолин или он сам - должен оставить кресло.</segment>
+		<segment id="55" parent="56" relname="attribution">Как сообщил опальный чиновник РИА \"Новости\",</segment>
+		<segment id="56" parent="57" relname="span">предварительные слушания по делу назначены на 13 ноября.\n\</segment>
+		<segment id="59" parent="62" relname="attribution">nПо словам Митволя,</segment>
+		<segment id="60" parent="62" relname="joint">в своем иске он требует обязать министерство и Росприроднадзор исполнить постановление правительства №582</segment>
+		<segment id="61" parent="62" relname="joint">и провести квалификационный конкурс среди всех заместителей руководителя Росприроднадзора.</segment>
+		<segment id="64" parent="72" relname="span">Постановление о сокращении числа заместителей было подписано в августе.</segment>
+		<segment id="65" parent="69" relname="span">В начале сентября замглавы Минприроды Семен Леви в отсутствие министра Юрия Трутнева,</segment>
+		<segment id="68" parent="65" relname="background">который находился в Иркутске в служебной командировке, подписал приказ об увольнении Митволя</segment>
+		<segment id="70" parent="71" relname="same-unit">.\n\</segment>
+		<segment id="74" parent="77" relname="attribution">nКак отметил Митволь,</segment>
+		<segment id="75" parent="76" relname="cause-effect">уведомления о своем увольнении он так и не получал,</segment>
+		<segment id="76" parent="77" relname="span">поэтому продолжает работать.</segment>
+		<segment id="79" parent="88" relname="attribution">По словам чиновника,</segment>
+		<segment id="80" parent="82" relname="span">в иске он также отразил свои претензии,</segment>
+		<segment id="81" parent="80" relname="condition">касающиеся размещения на сайте общественного совета Росприроднадзора информации о своем увольнении,</segment>
+		<segment id="83" parent="87" relname="span">которое Митволь не считает состоявшимся.\n\nНапомним, Олега Митволя,</segment>
+		<segment id="86" parent="83" relname="cause-effect">известного конфликтами со своими начальниками и экологическими претензиями к крупным компаниям, ранее пытались уволить не один раз.</segment>
+		<segment id="91" parent="93" relname="contrast">До недавнего времени Митволь пользовался поддержкой у главы Минприроды Юрия Трутнева.</segment>
+		<segment id="92" parent="93" relname="contrast">Однако с приходом в Росприроднадзор Владимира Кириллова на Митволя снова начались гонения.</segment>
+		<segment id="94" parent="100" relname="same-unit">Митволь,</segment>
+		<segment id="95" parent="98" relname="cause-effect">ранее курировавший вопросы лесного, водного, земельного и экологического надзора,</segment>
+		<segment id="96" parent="98" relname="joint">в июне по новому штатному расписанию был лишен своих полномочий</segment>
+		<segment id="97" parent="98" relname="joint">и выведен вне штата.</segment>
+		<segment id="101" parent="102" relname="sequence">Позже он был назначен заместителем руководителя по особым поручениям.\n\nВ июле Юрий Трутнев отказался визировать подготовленный в Росприроднадзоре проект постановления правительства о сокращении числа заместителей главы службы.</segment>
+		<segment id="103" parent="120" relname="preparation">Однако документ все же был подписан.</segment>
+		<segment id="104" parent="106" relname="sequence">1 сентября глава Росприроднадзора Кириллов подписал</segment>
+		<segment id="105" parent="106" relname="sequence">и направил главе Минприроды представление об увольнении Митволя.\n\</segment>
+		<segment id="107" parent="111" relname="same-unit">nПо словам хорошо информированных источников в Росприроднадзоре,</segment>
+		<segment id="108" parent="110" relname="span">поводом для увольнения Митволя стали результаты судебных разбирательств,</segment>
+		<segment id="109" parent="108" relname="elaboration">на которых оспаривались итоги проверок, инициированных им.</segment>
+		<segment id="112" parent="114" relname="span">В судах результаты проверок, проведенных именно по инициативе Митволя,</segment>
+		<segment id="113" parent="112" relname="evidence">в большинстве случаев не подтверждались.</segment>
+		<segment id="115" parent="117" relname="contrast">\"Почему-то нарушения, выявленные по итогам проверок, проведенных по инициативе других заместителей, в судах не оспариваются,</segment>
+		<segment id="116" parent="117" relname="contrast">а устраняются\",</segment>
+		<segment id="127" parent="126" relname="attribution">- отметил источник.\n\nИсточник: https://www.newsru.com/russia/10Nov2008/mitvol.html\n</segment>
+		<group id="126" type="multinuc" parent="128" relname="span"/>
+		<group id="58" type="span" parent="126" relname="sequence"/>
+		<group id="54" type="span" parent="58" relname="span"/>
+		<group id="48" type="multinuc" parent="54" relname="span"/>
+		<group id="46" type="span" parent="48" relname="sequence"/>
+		<group id="53" type="span" parent="48" relname="elaboration"/>
+		<group id="52" type="span" parent="49" relname="condition"/>
+		<group id="57" type="span" parent="54" relname="attribution"/>
+		<group id="125" type="multinuc" parent="126" relname="sequence"/>
+		<group id="73" type="multinuc" parent="125" relname="joint"/>
+		<group id="63" type="span" parent="73" relname="sequence"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="72" type="span" parent="73" relname="sequence"/>
+		<group id="71" type="multinuc" parent="64" relname="elaboration"/>
+		<group id="69" type="span" parent="71" relname="same-unit"/>
+		<group id="124" type="multinuc" parent="125" relname="joint"/>
+		<group id="90" type="multinuc" parent="124" relname="joint"/>
+		<group id="78" type="span" parent="90" relname="joint"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="89" type="span" parent="90" relname="joint"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="82" type="span" parent="88" relname="span"/>
+		<group id="87" type="span" parent="82" relname="elaboration"/>
+		<group id="123" type="span" parent="124" relname="joint"/>
+		<group id="93" type="multinuc" parent="122" relname="preparation"/>
+		<group id="122" type="multinuc" parent="123" relname="span"/>
+		<group id="102" type="multinuc" parent="122" relname="contrast"/>
+		<group id="100" type="multinuc" parent="102" relname="sequence"/>
+		<group id="99" type="span" parent="100" relname="same-unit"/>
+		<group id="98" type="multinuc" parent="99" relname="span"/>
+		<group id="121" type="span" parent="122" relname="contrast"/>
+		<group id="120" type="span" parent="121" relname="span"/>
+		<group id="106" type="multinuc" parent="119" relname="preparation"/>
+		<group id="119" type="multinuc" parent="120" relname="span"/>
+		<group id="111" type="multinuc" parent="119" relname="joint"/>
+		<group id="110" type="span" parent="111" relname="same-unit"/>
+		<group id="118" type="multinuc" parent="119" relname="joint"/>
+		<group id="114" type="span" parent="118" relname="joint"/>
+		<group id="117" type="multinuc" parent="118" relname="joint"/>
+		<group id="128" type="span"/>
+	</body>
+</rst>

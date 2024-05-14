@@ -1,0 +1,54 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="26" relname="preparation">В жилом доме в Петербурге произошел пожар.</segment>
+		<segment id="20" parent="24" relname="joint">Обрушилась лестница\n\nВ Санкт-Петербурге в жилом доме произошел пожар,</segment>
+		<segment id="21" parent="23" relname="restatement">повлекший обрушение лестницы между первым и вторым этажами,</segment>
+		<segment id="22" parent="23" relname="restatement">есть один пострадавший,</segment>
+		<segment id="25" parent="24" relname="attribution">сообщили \"Интерфаксу\" в пресс-службе пожарной охраны города.\n\</segment>
+		<segment id="28" parent="31" relname="attribution">nПо данным пресс-службы,</segment>
+		<segment id="29" parent="31" relname="span">при пожаре пострадал мужчина 22 лет,</segment>
+		<segment id="30" parent="29" relname="elaboration">который с ожогами 15% тела был госпитализирован.</segment>
+		<segment id="33" parent="39" relname="joint">Сотрудниками пожарной охраны были эвакуированы 14 человек.\n\n</segment>
+		<segment id="34" parent="38" relname="contrast">\"Огонь был на участке 10 квадратных метров,</segment>
+		<segment id="35" parent="36" relname="cause-effect">но требовалась эвакуация людей,</segment>
+		<segment id="36" parent="37" relname="span">поэтому пожару был присвоен второй номер сложности\",</segment>
+		<segment id="41" parent="46" relname="attribution">- сказал представитель пресс-службы.\n\nОн отметил,</segment>
+		<segment id="42" parent="43" relname="cause-effect">что \"из-за высокой температуры</segment>
+		<segment id="43" parent="44" relname="span">произошло разрушение несущей конструкции,</segment>
+		<segment id="45" parent="46" relname="span">в результате чего произошло обрушение лестничного проема между первым и вторым этажами\".</segment>
+		<segment id="48" parent="50" relname="span">В течение часа пожар был локализован.</segment>
+		<segment id="49" parent="48" relname="cause-effect">Причины происшествия выясняются.\n\nИсточник: https://www.newsru.com/russia/02Oct2004/fire.html\n</segment>
+		<group id="27" type="span" parent="52" relname="preparation"/>
+		<group id="26" type="span" parent="27" relname="span"/>
+		<group id="24" type="multinuc" parent="26" relname="span"/>
+		<group id="23" type="multinuc" parent="24" relname="joint"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="40" type="multinuc" parent="52" relname="sequence"/>
+		<group id="32" type="span" parent="40" relname="joint"/>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="contrast"/>
+		<group id="51" type="multinuc" parent="52" relname="sequence"/>
+		<group id="47" type="span" parent="51" relname="sequence"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="44" type="span" parent="45" relname="cause-effect"/>
+		<group id="50" type="span" parent="51" relname="sequence"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

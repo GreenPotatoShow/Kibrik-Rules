@@ -1,0 +1,54 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="22" relname="sequence">У брата вице-премьера украли сумку с документами\n\nНеизвестные в центре Москвы обокрали предпринимателя Михаила Дворковича, брата вице-премьера РФ Аркадия Дворковича,</segment>
+		<segment id="21" parent="22" relname="sequence">из его машины похитили сумку с документами,</segment>
+		<segment id="23" parent="22" relname="attribution">сообщает РИА \"Новости\".\n\n</segment>
+		<segment id="25" parent="27" relname="span">\"Михаил Дворкович сегодня утром обратился в полицию с сообщением о краже из его автомобиля в центре Москвы\",</segment>
+		<segment id="26" parent="25" relname="attribution">- сказал собеседник агентства.</segment>
+		<segment id="29" parent="32" relname="attribution">Сам Дворкович рассказал о происшествии в Twitter,</segment>
+		<segment id="30" parent="31" relname="attribution">пожаловался,</segment>
+		<segment id="31" parent="32" relname="span">что полицейских пришлось ждать долго:</segment>
+		<segment id="34" parent="36" relname="joint">\"Приехала ППС, нахамили</segment>
+		<segment id="35" parent="36" relname="joint">и уехали\".\n\nКакие документы были украдены,</segment>
+		<segment id="37" parent="39" relname="span">пока неясно.\n\nВ пресс-службе столичного главка МВД подтвердили факт подачи заявления,</segment>
+		<segment id="38" parent="37" relname="condition">не уточняя личность заявителя.</segment>
+		<segment id="42" parent="50" relname="joint">\"Сегодня в 06:00 в службу \"02\" обратился гражданин</segment>
+		<segment id="43" parent="44" relname="attribution">и сообщил,</segment>
+		<segment id="44" parent="45" relname="span">что по адресу Краснопресненская набережная,</segment>
+		<segment id="46" parent="48" relname="joint">дом 14 неизвестные разбили стекло в его автомобиле Land Rover</segment>
+		<segment id="47" parent="48" relname="joint">и совершили кражу сумки с документами\",</segment>
+		<segment id="51" parent="52" relname="attribution">- сказал сотрудник пресс-службы.</segment>
+		<segment id="52" parent="53" relname="span">Сейчас решается вопрос о возбуждении уголовного дела.\n\nИсточник: https://www.newsru.com/russia/13Apr2013/dvorkovich.html\n</segment>
+		<group id="28" type="multinuc" parent="56" relname="sequence"/>
+		<group id="24" type="span" parent="28" relname="sequence"/>
+		<group id="22" type="multinuc" parent="24" relname="span"/>
+		<group id="27" type="span" parent="28" relname="sequence"/>
+		<group id="55" type="multinuc" parent="56" relname="sequence"/>
+		<group id="41" type="span" parent="55" relname="sequence"/>
+		<group id="33" type="span" parent="41" relname="span"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="40" type="multinuc" parent="33" relname="elaboration"/>
+		<group id="36" type="multinuc" parent="40" relname="comparison"/>
+		<group id="39" type="span" parent="40" relname="comparison"/>
+		<group id="54" type="span" parent="55" relname="sequence"/>
+		<group id="50" type="multinuc" parent="54" relname="span"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="45" type="span" parent="49" relname="span"/>
+		<group id="48" type="multinuc" parent="45" relname="background"/>
+		<group id="53" type="span" parent="50" relname="attribution"/>
+		<group id="56" type="multinuc"/>
+	</body>
+</rst>

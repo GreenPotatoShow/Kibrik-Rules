@@ -1,0 +1,115 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="48" parent="139" relname="preparation">Сенаторы США угрожают заблокировать вступление России в ВТО.</segment>
+		<segment id="51" parent="63" relname="joint">РФ готовит новый запрет на \"ножки Буша\"\n\nВ переговорах с США о вступлении России во Всемирную торговую организацию (ВТО) вновь зреет конфликт.</segment>
+		<segment id="52" parent="55" relname="attribution">Четыре американских сенатора в письме к торговому представителю США Сьюзан Шваб заявили,</segment>
+		<segment id="53" parent="55" relname="span">что готовы проголосовать против,</segment>
+		<segment id="54" parent="53" relname="condition">если Россия не прекратит реализацию контракта по строительству АЭС в Иране,</segment>
+		<segment id="57" parent="56" relname="attribution">сообщает The Wall Street Journal.\n\nСреди сенаторов, подписавших письмо,</segment>
+		<segment id="59" parent="61" relname="joint">- Оррин Хэтч и еще два республиканца,</segment>
+		<segment id="60" parent="61" relname="joint">а также один представитель Демократической партии.</segment>
+		<segment id="64" parent="69" relname="attribution">Они опасаются,</segment>
+		<segment id="65" parent="69" relname="joint">что Тегеран \"сможет обогатить ядерное топливо\", используемое на АЭС,</segment>
+		<segment id="66" parent="68" relname="span">и, возможно, сможет использовать его</segment>
+		<segment id="67" parent="66" relname="purpose">для производства ядерного оружия</segment>
+		<segment id="71" parent="74" relname="attribution">.\n\nРоссия ранее неоднократно заявляла,</segment>
+		<segment id="72" parent="74" relname="span">что подписала с Ираном соглашение,</segment>
+		<segment id="73" parent="72" relname="condition">в соответствии с которым отработанное ядерное топливо с атомной станции в Бушере будет вывозиться на переработку и хранение в Российскую Федерацию,</segment>
+		<segment id="76" parent="80" relname="span">что гарантирует его безопасность</segment>
+		<segment id="77" parent="78" relname="condition">.\n\nВпрочем, по данным \"Коммерсанта\",</segment>
+		<segment id="78" parent="79" relname="span">это не единственная проблема в переговорах.</segment>
+		<segment id="83" parent="88" relname="attribution">Газета утверждает,</segment>
+		<segment id="84" parent="85" relname="attribution">что официальные оптимистичные заявления о том,</segment>
+		<segment id="85" parent="86" relname="span">что число нерешенных вопросов сведено к минимуму,</segment>
+		<segment id="87" parent="86" relname="interpretation-evaluation">не соответствуют действительности.</segment>
+		<segment id="90" parent="91" relname="attribution">Газета утверждает,</segment>
+		<segment id="91" parent="92" relname="span">что очередной раунд переговоров закончился провалом.</segment>
+		<segment id="93" parent="95" relname="span">А российские власти уже готовят ответные меры на случай окончательного провала переговоров:</segment>
+		<segment id="94" parent="93" relname="elaboration">поставки американской курятины в страну могут быть резко ограничены уже до конца месяца.\n\nСледующий раунд переговоров намечен на середину октября.</segment>
+		<segment id="98" parent="105" relname="attribution">Газета утверждает,</segment>
+		<segment id="99" parent="105" relname="span">что в июле министр экономического развития Герман Греф,</segment>
+		<segment id="100" parent="103" relname="attribution">ссылаясь на договоренности президентов Буша и Путина о том,</segment>
+		<segment id="101" parent="103" relname="sequence">что двусторонний протокол между двумя странами будет подписан в октябре 2006 года,</segment>
+		<segment id="102" parent="103" relname="sequence">выдвинул торговому представителю США Сьюзен Шваб ультиматум.</segment>
+		<segment id="107" parent="110" relname="attribution">В его письме говорится,</segment>
+		<segment id="108" parent="109" relname="condition">что если оставшиеся проблемы не будут сужены до рамок, определенных правилами и практикой ВТО,</segment>
+		<segment id="109" parent="110" relname="span">то Россия \"в октябре 2006 года будет вынуждена снять ранее взятые на себя обязательства по всем видам поставок сельскохозяйственной продукции из США\".\n\nУгроза Грефа уже начала приобретать реальные очертания.</segment>
+		<segment id="112" parent="115" relname="attribution">Как сообщает \"Интерфакс\",</segment>
+		<segment id="113" parent="114" relname="attribution">министр сельского хозяйства России Алексей Гордеев предложил</segment>
+		<segment id="114" parent="115" relname="span">отменить преференции для импорта мяса из США.\n\n\"Справедливо было бы привести всех к одному стандарту\",</segment>
+		<segment id="117" parent="116" relname="attribution">- заявил он на пресс-конференции во вторник.</segment>
+		<segment id="121" parent="124" relname="attribution">Гордеев отметил,</segment>
+		<segment id="122" parent="124" relname="span">что существует соглашение между Россией и США о преференциях</segment>
+		<segment id="123" parent="122" relname="purpose">для импорта мяса - главным образом, импорта мяса птицы.</segment>
+		<segment id="126" parent="129" relname="attribution">Как отметил Гордеев,</segment>
+		<segment id="127" parent="128" relname="attribution">предполагалось,</segment>
+		<segment id="128" parent="129" relname="span">что США будут содействовать присоединению РФ к ВТО.</segment>
+		<segment id="131" parent="133" relname="joint">Однако этого не произошло</segment>
+		<segment id="132" parent="133" relname="joint">и \"единственным камнем преткновения оказались американцы\".\n\nИсточник: https://www.newsru.com/finance/03Oct2006/wto.html\n</segment>
+		<group id="139" type="multinuc" parent="140" relname="span"/>
+		<group id="63" type="multinuc" parent="139" relname="joint"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="58" type="span" parent="62" relname="span"/>
+		<group id="56" type="span" parent="58" relname="span"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="61" type="multinuc" parent="58" relname="attribution"/>
+		<group id="138" type="multinuc" parent="139" relname="joint"/>
+		<group id="82" type="multinuc" parent="138" relname="joint"/>
+		<group id="70" type="span" parent="82" relname="joint"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="81" type="span" parent="82" relname="joint"/>
+		<group id="75" type="span" parent="80" relname="cause-effect"/>
+		<group id="74" type="span" parent="75" relname="span"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="79" type="span" parent="76" relname="cause-effect"/>
+		<group id="137" type="multinuc" parent="138" relname="joint"/>
+		<group id="97" type="multinuc" parent="137" relname="joint"/>
+		<group id="89" type="span" parent="97" relname="joint"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="86" type="span" parent="88" relname="span"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="92" type="span" parent="96" relname="joint"/>
+		<group id="95" type="span" parent="96" relname="joint"/>
+		<group id="136" type="span" parent="137" relname="joint"/>
+		<group id="120" type="multinuc" parent="135" relname="solutionhood"/>
+		<group id="106" type="span" parent="120" relname="comparison"/>
+		<group id="105" type="span" parent="106" relname="span"/>
+		<group id="104" type="span" parent="99" relname="elaboration"/>
+		<group id="103" type="multinuc" parent="104" relname="span"/>
+		<group id="119" type="multinuc" parent="120" relname="comparison"/>
+		<group id="111" type="span" parent="119" relname="comparison"/>
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="118" type="span" parent="119" relname="comparison"/>
+		<group id="116" type="span" parent="118" relname="span"/>
+		<group id="115" type="span" parent="116" relname="span"/>
+		<group id="135" type="multinuc" parent="136" relname="span"/>
+		<group id="125" type="span" parent="135" relname="joint"/>
+		<group id="124" type="span" parent="125" relname="span"/>
+		<group id="134" type="multinuc" parent="135" relname="joint"/>
+		<group id="130" type="span" parent="134" relname="contrast"/>
+		<group id="129" type="span" parent="130" relname="span"/>
+		<group id="133" type="multinuc" parent="134" relname="contrast"/>
+		<group id="140" type="span"/>
+	</body>
+</rst>

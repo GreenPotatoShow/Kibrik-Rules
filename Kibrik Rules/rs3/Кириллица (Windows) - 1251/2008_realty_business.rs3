@@ -1,0 +1,69 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="28" parent="34" relname="contrast">Бизнесмены-неудачники лишились квартиры за долги\n\nБольшая часть банков не кредитует сделки по купле-продаже жилья между родственниками,</segment>
+		<segment id="29" parent="33" relname="span">но молодым Семеновым, жителям Курганской области, повезло</segment>
+		<segment id="32" parent="29" relname="elaboration">- банк, в который обратились они, с удовольствием выделил деньги на приобретение двухкомнатной квартиры, принадлежащей родителям жены.</segment>
+		<segment id="35" parent="39" relname="joint">Об этом сообщает вестник о долгах \"Долговой фактор\".\n\nВ свою очередь, тесть и теща настолько хотели помочь детям наладить собственный бизнес,</segment>
+		<segment id="36" parent="38" relname="span">и настолько верили в их коммерческий талант,</segment>
+		<segment id="37" parent="36" relname="interpretation-evaluation">что согласились на это довольно сомнительное финансовое предприятие.</segment>
+		<segment id="41" parent="49" relname="same-unit">Ведь,</segment>
+		<segment id="42" parent="44" relname="joint">как уверяли будущие бизнесмены,</segment>
+		<segment id="43" parent="44" relname="joint">покидать квартиру пожилым людям не придется,</segment>
+		<segment id="45" parent="47" relname="span">а банковский кредит станет первоначальным капиталом для будущего процветания.\n\nК сожалению, платная автомобильная стоянка, которую Семеновы приобрели на переданные банком родителям за их жилье деньги,</segment>
+		<segment id="46" parent="45" relname="interpretation-evaluation">прибыль приносила небольшую, совершенно непропорциональную расходам.</segment>
+		<segment id="50" parent="51" relname="span">Постепенно задолженность перед банком росла.</segment>
+		<segment id="52" parent="54" relname="span">Финансовый кризис еще более осложнил ситуацию,</segment>
+		<segment id="53" parent="52" relname="cause-effect">поскольку взять другой кредит, на погашение первого, стало, практически, невозможно.\n\</segment>
+		<segment id="55" parent="59" relname="span">nПо наработанной схеме банк обратился в суд,</segment>
+		<segment id="56" parent="58" relname="span">который принял решение о наложении ареста на предмет залога,</segment>
+		<segment id="57" parent="56" relname="elaboration">которым в данном случае являлась якобы проданная квартира.</segment>
+		<segment id="60" parent="64" relname="joint">Исполнительные документы поступили в один из городских отделов судебных приставов,</segment>
+		<segment id="61" parent="63" relname="joint">и по истечении срока, предназначенного для добровольного исполнения судебного решения,</segment>
+		<segment id="62" parent="63" relname="joint">пристав-исполнитель наложил арест на квартиру.\n\nТеперь у Семеновых есть 10 дней на обжалование действий пристава-исполнителя,</segment>
+		<segment id="65" parent="69" relname="span">чего, они, впрочем, делать не собираются,</segment>
+		<segment id="66" parent="68" relname="joint">осознавая правомерность происходящего,</segment>
+		<segment id="67" parent="68" relname="joint">либо изыскать возможность погашения долга перед банком.</segment>
+		<segment id="71" parent="75" relname="contrast">В противном случае квартира будет выставлена на торги,</segment>
+		<segment id="72" parent="74" relname="span">а родителям придется переехать к детям,</segment>
+		<segment id="73" parent="72" relname="condition">если те, конечно, будут не против.\n\nИсточник: https://www.newsru.com/realty/12Nov2008/business.html\n</segment>
+		<group id="40" type="multinuc" parent="79" relname="preparation"/>
+		<group id="34" type="multinuc" parent="40" relname="joint"/>
+		<group id="33" type="span" parent="34" relname="contrast"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="51" type="span" parent="79" relname="joint"/>
+		<group id="49" type="multinuc" parent="50" relname="cause-effect"/>
+		<group id="48" type="multinuc" parent="49" relname="same-unit"/>
+		<group id="44" type="multinuc" parent="48" relname="contrast"/>
+		<group id="47" type="span" parent="48" relname="contrast"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="54" type="span" parent="78" relname="span"/>
+		<group id="77" type="multinuc" parent="54" relname="elaboration"/>
+		<group id="59" type="span" parent="77" relname="joint"/>
+		<group id="58" type="span" parent="55" relname="elaboration"/>
+		<group id="76" type="multinuc" parent="77" relname="joint"/>
+		<group id="70" type="span" parent="76" relname="contrast"/>
+		<group id="64" type="multinuc" parent="70" relname="span"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="69" type="span" parent="64" relname="interpretation-evaluation"/>
+		<group id="68" type="multinuc" parent="65" relname="condition"/>
+		<group id="75" type="multinuc" parent="76" relname="contrast"/>
+		<group id="74" type="span" parent="75" relname="contrast"/>
+		<group id="80" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,56 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="23" relname="span">Вратарь Джанлуиджи Буффон близок к возвращению в \"Ювентус\"\n\nБывший голкипер сборной Италии Джанлуиджи Буффон близок к возвращению в туринский \"Ювентус\",</segment>
+		<segment id="22" parent="21" relname="elaboration">где согласен на статус резервного вратаря.\n\</segment>
+		<segment id="24" parent="25" relname="attribution">nКак сообщает итальянский журналист Джанлука ди Марцио,</segment>
+		<segment id="25" parent="26" relname="span">переговоры Буффона и \"бьянконери\" проходят плодотворно.</segment>
+		<segment id="27" parent="29" relname="joint">Джиджи уже дал согласие на то, чтобы быть запасным вратарем,</segment>
+		<segment id="28" parent="29" relname="joint">тогда как основным останется поляк Войцех Щченсный.</segment>
+		<segment id="31" parent="32" relname="condition">При таком развитии событий</segment>
+		<segment id="32" parent="33" relname="span">\"Ювентус\" покинет голкипер Маттиа Перин</segment>
+		<segment id="34" parent="44" relname="sequence">.\n\nИнсайдер телеканала Sky Sport Фабрицио Романо подтвердил информацию</segment>
+		<segment id="35" parent="42" relname="attribution">и добавил,</segment>
+		<segment id="36" parent="38" relname="sequence">что 41-летний голкипер подпишет контракт на один сезон</segment>
+		<segment id="37" parent="38" relname="sequence">с последующим переходом на управленческую должность.\n\nБуффон в июле 2018 года покинул \"Ювентус\",</segment>
+		<segment id="39" parent="41" relname="joint">где провел 17 лет своей карьеры,</segment>
+		<segment id="40" parent="41" relname="joint">и подписал контракт с французским \"Пари Сен-Жермен\" по схеме \"1+1\".</segment>
+		<segment id="47" parent="49" relname="joint">По окончании сезона-2018/19 парижане не стали продлевать соглашение с 41-летним ветераном.\n\nБуффон в сезоне-2018/19 провел за \"ПСЖ\" 25 матчей в разных турнирах</segment>
+		<segment id="48" parent="49" relname="joint">и пропустил 25 мячей.</segment>
+		<segment id="50" parent="52" relname="joint">В составе туринцев он девять раз становился чемпионом Италии</segment>
+		<segment id="51" parent="52" relname="joint">и трижды выходил в финал Лиги чемпионов,</segment>
+		<segment id="53" parent="54" relname="contrast">но ни разу не выигрывал этот турнир.</segment>
+		<segment id="55" parent="54" relname="elaboration">В 2006 году в составе национальной команды Буффон стал чемпионом мира.\n\nИсточник: https://www.newsru.com/sport/26Jun2019/buffon.html\n</segment>
+		<group id="23" type="span" parent="58" relname="preparation"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="46" type="multinuc" parent="58" relname="sequence"/>
+		<group id="30" type="span" parent="46" relname="joint"/>
+		<group id="26" type="span" parent="30" relname="span"/>
+		<group id="29" type="multinuc" parent="26" relname="interpretation-evaluation"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="33" type="span" parent="45" relname="joint"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="43" type="span" parent="44" relname="sequence"/>
+		<group id="42" type="multinuc" parent="43" relname="span"/>
+		<group id="38" type="multinuc" parent="42" relname="sequence"/>
+		<group id="41" type="multinuc" parent="42" relname="sequence"/>
+		<group id="57" type="span" parent="58" relname="sequence"/>
+		<group id="49" type="multinuc" parent="57" relname="span"/>
+		<group id="56" type="span" parent="49" relname="elaboration"/>
+		<group id="54" type="multinuc" parent="56" relname="span"/>
+		<group id="52" type="multinuc" parent="54" relname="contrast"/>
+		<group id="59" type="span"/>
+	</body>
+</rst>

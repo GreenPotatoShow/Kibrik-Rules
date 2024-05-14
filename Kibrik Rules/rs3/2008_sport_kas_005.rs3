@@ -1,0 +1,36 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="31" relname="preparation">Кастро заступился за дисквалифицированного тхэквондиста\n\</segment>
+		<segment id="13" parent="20" relname="attribution">nБывший президент Кубы Фидель Кастро высказался в защиту кубинского тхэквондиста Анхеля Валоди Матоса,</segment>
+		<segment id="14" parent="20" relname="comparison">пожизненно дисквалифицированного за нападение на судью на пекинской Олимпиаде во время поединка за бронзовую награду.\n\nДневник Олимпиады-2008 и результаты\n\nКастро заявил на своей интернет-колонке,</segment>
+		<segment id="15" parent="18" relname="cause-effect">что Анхель Валоди Матос находился в \"негодовании\" из-за того,</segment>
+		<segment id="16" parent="18" relname="joint">что кто-то пытался подкупить его тренера,</segment>
+		<segment id="17" parent="18" relname="joint">и \"не сдержал себя\",</segment>
+		<segment id="22" parent="24" relname="span">когда шведский рефери Шакир Шельбат дисквалифицировал его в схватке за третье место с казахстанцем Арманом Чилмановым.\n\nКастро,</segment>
+		<segment id="23" parent="22" relname="background">акцентировавший внимание на то, что Матос лидировал в этом бою,</segment>
+		<segment id="26" parent="29" relname="attribution">также отметил,</segment>
+		<segment id="27" parent="29" relname="joint">что ничто не заставит его \"промолчать против этой мафии\",</segment>
+		<segment id="28" parent="29" relname="joint">а также призвал всех кубинцев к солидарности со своим соотечественником.\n\nИсточник: https://www.newsru.com/sport/27Aug2008/kas.html\n</segment>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="25" type="span" parent="31" relname="joint"/>
+		<group id="21" type="span" parent="25" relname="span"/>
+		<group id="20" type="multinuc" parent="21" relname="span"/>
+		<group id="19" type="span" parent="20" relname="comparison"/>
+		<group id="18" type="multinuc" parent="19" relname="span"/>
+		<group id="24" type="span" parent="21" relname="background"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="29" type="multinuc" parent="30" relname="span"/>
+		<group id="32" type="span"/>
+	</body>
+</rst>

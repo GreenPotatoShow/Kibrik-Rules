@@ -1,0 +1,89 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="37" parent="39" relname="span">СК арестовал имущество Улюкаева более чем на полмиллиарда рублей\n\nСледственный комитет (СК) РФ арестовал имущество экс-министра экономического развития Алексея Улюкаева на сумму свыше полумиллиарда рублей,</segment>
+		<segment id="38" parent="37" relname="attribution">заявил заместитель председателя СК Игорь Краснов в интервью газете \"Коммерсант\".</segment>
+		<segment id="40" parent="45" relname="preparation">Общая сумма арестованных средств экс-министра превышает один миллион долларов и 280 миллионов рублей,</segment>
+		<segment id="41" parent="45" relname="span">сообщила \"Интерфаксу\" пресс-секретарь Басманного суда Юнона Царева.\n\n\"Что касается Алексея Улюкаева,</segment>
+		<segment id="42" parent="43" relname="attribution">о деле которого вы спрашивали,</segment>
+		<segment id="43" parent="44" relname="span">то у него суд по ходатайству следователей центрального аппарата СКР арестовал 15 объектов недвижимости и принадлежащие ему средства на сумму не менее 564 млн рублей.</segment>
+		<segment id="47" parent="49" relname="span">Отмечу, что следствие продолжает устанавливать имущество обвиняемых</segment>
+		<segment id="48" parent="47" relname="purpose">для его последующего ареста</segment>
+		<segment id="50" parent="49" relname="purpose">в целях обеспечения исполнения уголовного наказания\",</segment>
+		<segment id="53" parent="52" relname="attribution">- сообщил Краснов</segment>
+		<segment id="55" parent="58" relname="attribution">.\n\nОн также сообщил,</segment>
+		<segment id="56" parent="58" relname="span">что в распоряжении следствия есть фото- и видеоматериалы,</segment>
+		<segment id="57" parent="56" relname="elaboration">на которых зафиксировано, как экс-министр получает взятку в офисе \"Роснефти\".</segment>
+		<segment id="60" parent="64" relname="joint">Говоря о подтверждении факта получения взятки экс-министром,</segment>
+		<segment id="61" parent="63" relname="span">Краснов заверил:</segment>
+		<segment id="62" parent="61" relname="elaboration">\"В распоряжении следствия имеются соответствующие фото- и видеоматериалы.</segment>
+		<segment id="65" parent="69" relname="span">Но в данном конкретном случае следствие посчитало нецелесообразным их распространение в СМИ.</segment>
+		<segment id="66" parent="67" relname="attribution">А мнение следователя в соответствии с уголовно-процессуальным законом должны учитывать все\".\n\nЦарева сообщила,</segment>
+		<segment id="67" parent="68" relname="span">что \"Басманным судом был наложен арест на денежные средства обвиняемого Улюкаева, находящиеся на счетах в банках России, на общую сумму в размере более одного миллиона долларов США и 280 миллионов рублей\".</segment>
+		<segment id="71" parent="74" relname="attribution">Она также добавила,</segment>
+		<segment id="72" parent="74" relname="span">что арест наложен на денежные средства в разной валюте и золотые монеты,</segment>
+		<segment id="73" parent="72" relname="elaboration">каждая из которых стоимостью от 13 тыс. до более шести миллионов рублей, изъятых в ходе обысков.\n\</segment>
+		<segment id="78" parent="86" relname="joint">nПервое в истории современной России задержание федерального министра произошло 14 ноября 2016 года, напоминает ТАСС.</segment>
+		<segment id="79" parent="84" relname="attribution">По данным СК,</segment>
+		<segment id="80" parent="82" relname="span">Улюкаев был задержан при получении 2 млн долларов</segment>
+		<segment id="81" parent="80" relname="elaboration">за выданную Минэкономразвития положительную оценку,</segment>
+		<segment id="83" parent="82" relname="elaboration">позволившую \"Роснефти\" выкупить у государства 50,08% акций \"Башнефти\".</segment>
+		<segment id="88" parent="91" relname="attribution">По данным следствия,</segment>
+		<segment id="89" parent="91" relname="span">речь идет о вымогательстве взятки,</segment>
+		<segment id="90" parent="89" relname="condition">сопряженном с угрозами в адрес представителей \"Роснефти\".</segment>
+		<segment id="93" parent="95" relname="span">Экс-министру предъявлено обвинение по ч. 6 ст. 290 УК РФ</segment>
+		<segment id="94" parent="93" relname="elaboration">(\"Получение взятки лицом, занимающим государственную должность Российской Федерации, с вымогательством и в особо крупном размере\").\n\nПрезидент РФ 15 ноября 2016 года освободил Улюкаева от должности министра в связи с утратой доверия.\n\</segment>
+		<segment id="96" parent="97" relname="sequence">nПо ходатайству следователя суд поместил Улюкаева под домашний арест.</segment>
+		<segment id="98" parent="100" relname="joint">10 января стало известно, что срок следствия по его делу продлен до 15 мая текущего года.</segment>
+		<segment id="99" parent="100" relname="joint">Тогда же до 15 апреля продлили домашний арест бывшего министра.\n\nИсточник: https://www.newsru.com/russia/11Jan2017/krasnov.html\n</segment>
+		<group id="39" type="span" parent="106" relname="preparation"/>
+		<group id="106" type="multinuc" parent="107" relname="span"/>
+		<group id="54" type="span" parent="106" relname="joint"/>
+		<group id="52" type="span" parent="54" relname="span"/>
+		<group id="46" type="span" parent="52" relname="span"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="44" type="span" parent="41" relname="background"/>
+		<group id="51" type="span" parent="46" relname="elaboration"/>
+		<group id="49" type="span" parent="51" relname="span"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="59" type="span" parent="105" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="104" type="multinuc" parent="105" relname="joint"/>
+		<group id="70" type="multinuc" parent="104" relname="joint"/>
+		<group id="64" type="multinuc" parent="70" relname="contrast"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="69" type="span" parent="70" relname="contrast"/>
+		<group id="68" type="span" parent="65" relname="evidence"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="87" type="multinuc" parent="103" relname="joint"/>
+		<group id="75" type="span" parent="87" relname="joint"/>
+		<group id="74" type="span" parent="75" relname="span"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="85" type="span" parent="86" relname="joint"/>
+		<group id="84" type="span" parent="85" relname="span"/>
+		<group id="82" type="span" parent="84" relname="span"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="92" type="span" parent="102" relname="joint"/>
+		<group id="91" type="span" parent="92" relname="span"/>
+		<group id="101" type="multinuc" parent="102" relname="joint"/>
+		<group id="97" type="multinuc" parent="101" relname="sequence"/>
+		<group id="95" type="span" parent="97" relname="sequence"/>
+		<group id="100" type="multinuc" parent="101" relname="sequence"/>
+		<group id="107" type="span"/>
+	</body>
+</rst>

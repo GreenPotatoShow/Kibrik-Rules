@@ -1,0 +1,35 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="32" relname="span">Пола Гаскойна доставили в больницу с воспалением легких\n\</segment>
+		<segment id="13" parent="17" relname="joint">nИзвестного английского футболиста и хулигана Пола Гаскойна госпитализировали с воспалением легких.</segment>
+		<segment id="14" parent="16" relname="sequence">37-летний Гаскойн почувствовал себя плохо у себя дома</segment>
+		<segment id="15" parent="16" relname="sequence">и был немедленно доставлен в больницу.</segment>
+		<segment id="18" parent="20" relname="joint">Врачи поставили диагноз - воспаление легких -</segment>
+		<segment id="19" parent="20" relname="joint">и оценивают его состояние как серьезной степени тяжести.\n\nНе исключено и обнаружение симптомов других болезней,</segment>
+		<segment id="21" parent="20" relname="attribution">сообщает сайт RTR-SPORT.RU.</segment>
+		<segment id="24" parent="25" relname="attribution">По словам агента игрока Алекса Армитэжа,</segment>
+		<segment id="25" parent="26" relname="span">у Пола наблюдалось обильное кровотечение.\n\nНа данный момент Гаскойн считается безработным.</segment>
+		<segment id="27" parent="29" relname="span">В октябре он ушел с поста играющего тренера \"Бостон Юнайтед\",</segment>
+		<segment id="28" parent="27" relname="elaboration">проведя там всего два месяца.\n\nИсточник: https://www.newsru.com/sport/03Jan2005/gazza.html\n</segment>
+		<group id="31" type="multinuc" parent="12" relname="elaboration"/>
+		<group id="23" type="multinuc" parent="31" relname="joint"/>
+		<group id="17" type="multinuc" parent="23" relname="joint"/>
+		<group id="16" type="multinuc" parent="17" relname="joint"/>
+		<group id="22" type="span" parent="23" relname="joint"/>
+		<group id="20" type="multinuc" parent="22" relname="span"/>
+		<group id="30" type="multinuc" parent="31" relname="joint"/>
+		<group id="26" type="span" parent="30" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="32" type="span"/>
+	</body>
+</rst>

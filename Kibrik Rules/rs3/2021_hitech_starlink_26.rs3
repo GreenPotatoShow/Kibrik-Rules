@@ -1,0 +1,89 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="37" parent="39" relname="span">SpaceX запустила 26-ю партию спутников Starlink (ВИДЕО)\n\nАмериканская космическая компания SpaceX 4 мая запустила ракету-носитель Falcon 9,</segment>
+		<segment id="38" parent="37" relname="background">которая вывела на орбиту 60 спутников разрабатываемой SpaceX системы глобального доступа к интернету Starlink.</segment>
+		<segment id="40" parent="44" relname="span">Трансляция миссии велась на YouTube-канале компании.</segment>
+		<segment id="41" parent="43" relname="span">Этот запуск стал 26-м по счету в рамках проекта по созданию Starlink и 10-м в этом году.\n\nРакета-носитель со спутниками была запущена с площадки LC-39A,</segment>
+		<segment id="42" parent="41" relname="background">расположенной в Космическом центре имени Джона Кеннеди во Флориде, в 22 часа 1 минуту по московскому времени.</segment>
+		<segment id="46" parent="50" relname="sequence">Отделение первой ступени (многоразовый разгонный блок использовался в девятый раз)</segment>
+		<segment id="47" parent="49" relname="sequence">прошло штатно,</segment>
+		<segment id="48" parent="49" relname="sequence">и через восемь с небольшим минут ступень совершила посадку на плавучую платформу в Атлантическом океане.</segment>
+		<segment id="51" parent="53" relname="span">Это вторая по счету ступень Falcon 9,</segment>
+		<segment id="52" parent="51" relname="elaboration">совершившая по девять взлетов и посадок.</segment>
+		<segment id="54" parent="56" relname="joint">Изначально компания планировала использовать многоразовые ступени Falcon 9 по 10 раз,</segment>
+		<segment id="55" parent="56" relname="joint">и сейчас SpaceX близка к практической реализации этого плана.\n\nЧерез час с небольшим после запуска ракеты все спутники были одновременно выведены на орбиту.</segment>
+		<segment id="58" parent="60" relname="span">По плану SpaceX после проверки систем спутники Starlink должны подняться на рабочую орбиту высотой 550 километров</segment>
+		<segment id="59" parent="58" relname="condition">при помощи собственных двигателей.\n\</segment>
+		<segment id="64" parent="68" relname="joint">nНапомним, ранее SpaceX получила разрешение Федеральной комиссии по связи США (FCC) вывести на орбиту почти 12 тыс. спутников системы Starlink.</segment>
+		<segment id="65" parent="67" relname="joint">Предполагается, что спутники будут находиться на низких орбитах</segment>
+		<segment id="66" parent="67" relname="joint">и смогут обеспечить доступ к интернету по всей планете.</segment>
+		<segment id="69" parent="75" relname="sequence">В 2018 году SpaceX вывела на орбиту два тестовых спутника Starlink,</segment>
+		<segment id="70" parent="73" relname="attribution">а первую партию из 60 спутников первой версии компания запустила в мае 2019 года.\n\nВ компании отмечали,</segment>
+		<segment id="71" parent="73" relname="joint">что для минимального покрытия поверхности Земли сигналом системы Starlink потребуется запустить 420 спутников,</segment>
+		<segment id="72" parent="73" relname="joint">а для среднего покрытия SpaceX нужно вывести на орбиту в общей сложности 780 аппаратов.</segment>
+		<segment id="76" parent="78" relname="span">К настоящему времени компания запустила уже 1563 спутника Starlink</segment>
+		<segment id="77" parent="76" relname="background">(65 аппаратов были сведены с орбиты).\n\nВ начале сентября прошлого года в SpaceX обнародовали результаты тестирования системы.</segment>
+		<segment id="79" parent="80" relname="attribution">В компании сообщили,</segment>
+		<segment id="80" parent="81" relname="span">что спутники обеспечивают загрузку данных со скоростью свыше 100 Мбит/с,</segment>
+		<segment id="82" parent="83" relname="contrast">а малая задержка соединения позволяет играть в самые продвинутые онлайн-игры.</segment>
+		<segment id="85" parent="87" relname="joint">В октябре компания начала бета-тестирование системы в Канаде и северных регионах США,</segment>
+		<segment id="86" parent="87" relname="joint">и первые участники программы, получившей название \"Лучше, чем ничего\", высоко оценили качество и скорость интернета Starlink</segment>
+		<segment id="88" parent="87" relname="elaboration">(сейчас программа тестирования действует также в Великобритании, Германии и Новой Зеландии).</segment>
+		<segment id="90" parent="97" relname="attribution">В конце февраля этого года глава SpaceX Илон Маск пообещал,</segment>
+		<segment id="91" parent="97" relname="comparison">что к концу 2021 года система обеспечит покрытие почти всей планеты,</segment>
+		<segment id="92" parent="96" relname="span">а скорость соединения с интернетом через Starlink достигнет 300 Мбит/с.\n\nРазработкой аналогичных систем спутникового интернета занимаются и другие компании.</segment>
+		<segment id="93" parent="95" relname="span">Так, похожую систему разрабатывает компания OneWeb,</segment>
+		<segment id="94" parent="93" relname="elaboration">которая успела вывести на орбиту 182 спутника одноименной системы.</segment>
+		<segment id="99" parent="101" relname="span">Кроме того, в апреле 2019 года о намерении создать систему под названием Kuiper объявила компания Amazon.</segment>
+		<segment id="100" parent="99" relname="elaboration">Недавно Amazon получила разрешение FCC запустить 3,2 тыс. спутников Kuiper.\n\nИсточник: https://www.newsru.com/hitech/04May2021/starlink_26.html\n</segment>
+		<group id="63" type="multinuc" parent="107" relname="joint"/>
+		<group id="45" type="multinuc" parent="63" relname="joint"/>
+		<group id="39" type="span" parent="45" relname="sequence"/>
+		<group id="44" type="span" parent="45" relname="sequence"/>
+		<group id="43" type="span" parent="40" relname="elaboration"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="50" type="multinuc" parent="62" relname="joint"/>
+		<group id="49" type="multinuc" parent="50" relname="sequence"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="57" type="span" parent="61" relname="joint"/>
+		<group id="53" type="span" parent="57" relname="span"/>
+		<group id="56" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="106" type="multinuc" parent="107" relname="joint"/>
+		<group id="68" type="multinuc" parent="106" relname="joint"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="75" type="multinuc" parent="105" relname="joint"/>
+		<group id="74" type="span" parent="75" relname="sequence"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="104" type="multinuc" parent="105" relname="joint"/>
+		<group id="84" type="span" parent="104" relname="joint"/>
+		<group id="78" type="span" parent="84" relname="span"/>
+		<group id="83" type="multinuc" parent="78" relname="elaboration"/>
+		<group id="81" type="span" parent="83" relname="contrast"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="89" type="span" parent="103" relname="joint"/>
+		<group id="87" type="multinuc" parent="89" relname="span"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="98" type="span" parent="102" relname="joint"/>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="96" type="span" parent="97" relname="comparison"/>
+		<group id="95" type="span" parent="92" relname="interpretation-evaluation"/>
+		<group id="101" type="span" parent="102" relname="joint"/>
+		<group id="107" type="multinuc"/>
+	</body>
+</rst>

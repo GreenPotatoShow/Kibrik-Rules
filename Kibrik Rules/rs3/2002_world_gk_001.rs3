@@ -1,0 +1,63 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="24" relname="span">Крестьянин умер,</segment>
+		<segment id="23" parent="22" relname="condition">решив, что с переходом на евро потерял состояние\n\</segment>
+		<segment id="25" parent="27" relname="joint">nЕсли в Европе переход на единую валюту евро состоялся без заметных потрясений</segment>
+		<segment id="26" parent="27" relname="joint">и граждане ворчат лишь на рост цен,</segment>
+		<segment id="28" parent="30" relname="span">то для жителя далекой Гвинеи-Бисау это событие обернулось трагедией.\n\nКак передает РИА \"Новости\",</segment>
+		<segment id="29" parent="28" relname="attribution">грустную историю рассказали в субботу бельгийские СМИ.</segment>
+		<segment id="32" parent="34" relname="comparison">Пожилой крестьянин хранил сбережения не в банке,</segment>
+		<segment id="33" parent="34" relname="comparison">а как водится в Африке - в \"чулке\".</segment>
+		<segment id="35" parent="36" relname="joint">И не в национальной валюте, а во французских франках - 100 тыс. франков или в переводе - 15 тыс. 245 евро.</segment>
+		<segment id="37" parent="59" relname="span">Огромное состояние.\n\</segment>
+		<segment id="38" parent="42" relname="same-unit">nВ один прекрасный день,</segment>
+		<segment id="39" parent="40" relname="cause-effect">решив купить скотину и напитки,</segment>
+		<segment id="40" parent="41" relname="span">он обнаружил, что никто из торговцев не берет французские франки.</segment>
+		<segment id="43" parent="47" relname="span">А португальский коммерсант,</segment>
+		<segment id="44" parent="45" relname="attribution">к которому он пришел в конце концов, объяснил,</segment>
+		<segment id="45" parent="46" relname="span">что в Европе давно новые деньги,</segment>
+		<segment id="48" parent="50" relname="sequence">а его франки превратились в пустые бумажки.\n\nКрестьянина хватил удар,</segment>
+		<segment id="49" parent="50" relname="sequence">и скоро он умер.</segment>
+		<segment id="52" parent="56" relname="joint">Португалец либо не знал,</segment>
+		<segment id="53" parent="54" relname="attribution">либо просто не сказал бедняге,</segment>
+		<segment id="54" parent="55" relname="span">что в центральных банках стран ЕС можно поменять старую валюту на новую еще по меньшей мере десять лет.\n\nИсточник: https://www.newsru.com/world/28Dec2002/gk.html\n</segment>
+		<group id="24" type="span" parent="61" relname="preparation"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="31" type="span" parent="61" relname="joint"/>
+		<group id="27" type="multinuc" parent="30" relname="condition"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="36" type="multinuc" parent="60" relname="joint"/>
+		<group id="34" type="multinuc" parent="36" relname="joint"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="58" type="multinuc" parent="37" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="58" relname="contrast"/>
+		<group id="41" type="span" parent="42" relname="same-unit"/>
+		<group id="57" type="multinuc" parent="58" relname="contrast"/>
+		<group id="51" type="multinuc" parent="57" relname="joint"/>
+		<group id="47" type="span" parent="51" relname="sequence"/>
+		<group id="46" type="span" parent="43" relname="background"/>
+		<group id="50" type="multinuc" parent="51" relname="sequence"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="62" type="span"/>
+	</body>
+</rst>

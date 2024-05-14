@@ -1,0 +1,237 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="108" parent="110" relname="span">Система спутниковой навигации ГЛОНАСС полностью покроет территорию России и СНГ в феврале\n\nСистема ГЛОНАСС заработает в полную силу после окончания тестирования и ввода в режим эксплуатации запущенных 25 декабря на ракете-носителе \"Протон\" трех космических аппаратов.</segment>
+		<segment id="109" parent="108" relname="attribution">Об этом, как сообщает ИТАР-ТАСС,</segment>
+		<segment id="111" parent="112" relname="attribution">заявил в среду в интервью \"Российской газете\" глава Роскосмоса Анатолий Перминов.\n\nРанее ожидалось, что с вводом в строй 19 января первого\nспутника типа \"Глонасс-М\" из числа трех, запущенных 25 декабря\nс Байконура, число действующих спутников достигнет 18-и,</segment>
+		<segment id="112" parent="113" relname="span">что\nпозволит обеспечить непрерывность навигационного сигнала на\nвсей территории России.\n\nЭтого не случилось,</segment>
+		<segment id="114" parent="113" relname="background">так как 12 января один из спутников был временно выведен на техобслуживание.</segment>
+		<segment id="116" parent="118" relname="span">Во вторник это событие также пока не произошло,</segment>
+		<segment id="117" parent="116" relname="cause-effect">поскольку\nодновременно с вводом в число действующих второго спутника из числа трех, запущенных 25 декабря, на регламент был выведен еще один космический аппарат.</segment>
+		<segment id="120" parent="124" relname="span">На приведение всех трех спутников в рабочее состояние отводится 45 суток с момента запуска.\n\nГлобальное покрытие система обеспечит,</segment>
+		<segment id="121" parent="123" relname="joint">когда Россия будет иметь орбитальную группировку из 30 спутников,</segment>
+		<segment id="122" parent="123" relname="joint">24 из которых будут постоянно работающие</segment>
+		<segment id="125" parent="134" relname="attribution">,- добавил он</segment>
+		<segment id="126" parent="134" relname="joint">.\n\</segment>
+		<segment id="127" parent="129" relname="joint">nНапомним,</segment>
+		<segment id="128" parent="129" relname="joint">как заявлял в конце прошлого года вице-премьер РФ Сергей Иванов,</segment>
+		<segment id="132" parent="133" relname="span">покрывать весь земной шар российская система ГЛОНАСС будет к 2012 году.\n\</segment>
+		<segment id="137" parent="145" relname="joint">nВ 2009-2011 годах финансирование космических программ только из федерального бюджета должно превысить 200 млрд рублей.</segment>
+		<segment id="138" parent="139" relname="attribution">Перминов также отметил,</segment>
+		<segment id="139" parent="140" relname="span">что более 85 процентов этой суммы приходится на Федеральную космическую программу России и федеральную целевую программу \"Глобальная навигационная система\".\n\nКроме того, Роскосмос принимает участие в еще более чем десяти различных федеральных целевых программах</segment>
+		<segment id="141" parent="143" relname="span">,- добавил Анатолий Перминов.\n\nСпутниковая навигация (СПРАВКА)\n\nПринцип работы спутниковых систем навигации основан на измерении расстояния от антенны на объекте</segment>
+		<segment id="142" parent="141" relname="elaboration">(координаты которого необходимо получить) до спутников, положение которых известно с большой точностью.</segment>
+		<segment id="146" parent="148" relname="span">Таблица положений всех спутников называется альманахом,</segment>
+		<segment id="147" parent="146" relname="elaboration">которым должен располагать любой спутниковый приемник до начала измерений.</segment>
+		<segment id="149" parent="155" relname="joint">Обычно приемник сохраняет альманах в памяти со времени последнего выключения,</segment>
+		<segment id="150" parent="154" relname="span">и,</segment>
+		<segment id="151" parent="152" relname="condition">если он не устарел,</segment>
+		<segment id="152" parent="153" relname="span">мгновенно использует его.</segment>
+		<segment id="157" parent="161" relname="span">Каждый спутник передает в своем сигнале весь альманах.\n\nТаким образом,</segment>
+		<segment id="158" parent="160" relname="span">зная расстояния до нескольких спутников системы,</segment>
+		<segment id="159" parent="158" relname="condition">с помощью геометрических построений можно вычислить положение объекта в пространстве.</segment>
+		<segment id="163" parent="170" relname="purpose">Для осуществления возможности измерения времени распространения радиосигнала</segment>
+		<segment id="164" parent="170" relname="span">каждый спутник навигационной системы излучает сигналы точного времени в составе своего сигнала</segment>
+		<segment id="165" parent="169" relname="joint">используя точно синхронизированные с системным временем атомные часы.\n\</segment>
+		<segment id="166" parent="168" relname="joint">nПри работе спутникового приемника его часы синхронизируются с системным временем</segment>
+		<segment id="167" parent="168" relname="joint">и при дальнейшем приеме сигналов</segment>
+		<segment id="172" parent="171" relname="elaboration">вычисляется задержка между временем излучения, содержащимся в самом сигнале, и временем приема сигнала.</segment>
+		<segment id="174" parent="182" relname="joint">Располагая этой информацией,</segment>
+		<segment id="175" parent="181" relname="joint">навигационный приемник вычисляет координаты антенны,</segment>
+		<segment id="176" parent="178" relname="joint">а накапливая</segment>
+		<segment id="177" parent="178" relname="joint">и обрабатывая эти данные за определенный промежуток времени,</segment>
+		<segment id="179" parent="180" relname="span">становится возможным вычислить такие параметры движения, как скорость, пройденный путь и т.д.</segment>
+		<segment id="183" parent="187" relname="span">В реальности работа системы происходит значительно сложнее.\n\nЕдинственная полностью работающая спутниковая навигационная система в настоящее время - Navstar,</segment>
+		<segment id="184" parent="186" relname="contrast">которая принадлежит министерству обороны США,</segment>
+		<segment id="185" parent="186" relname="contrast">что, собственно, считается другими государствами ее главным недостатком.</segment>
+		<segment id="188" parent="187" relname="elaboration">В мире она более известна под названием GPS.\n\nGalileo - европейский проект спутниковой системы навигации.</segment>
+		<segment id="192" parent="194" relname="span">Европейская система предназначена</segment>
+		<segment id="193" parent="192" relname="purpose">для решения навигационных задач для любых подвижных объектов с точностью менее одного метра.</segment>
+		<segment id="195" parent="197" relname="span">Точность бытовых приемников Navstar (GPS) колеблется от 10 до 35 метров</segment>
+		<segment id="196" parent="195" relname="condition">в зависимости от условий приема сигналов - в городе или за его пределами и т.п.</segment>
+		<segment id="199" parent="201" relname="joint">- но зато они стоят очень недорого.\n\nНыне существующие GPS-приемники не смогут принимать</segment>
+		<segment id="200" parent="201" relname="joint">и обрабатывать сигналы со спутников Galileo ,</segment>
+		<segment id="202" parent="206" relname="span">хотя достигнута договоренность о совместимости и взаимодополнении с системой Navstar (GPS) третьего поколения</segment>
+		<segment id="203" parent="205" relname="joint">.\n\nТак как финансирование проекта будет осуществляться в том числе за счет продажи лицензий производителям приемников,</segment>
+		<segment id="204" parent="205" relname="joint">следует ожидать, что цена на последние будет несколько выше сегодняшних.\n\nПомимо стран ЕС достигнуты договоренности на участие в проекте с такими государствами, как Китай, Израиль, Южная Корея, Украина и Россия.</segment>
+		<segment id="209" parent="213" relname="span">Ожидается, что Galileo войдет в строй в 2013 году,</segment>
+		<segment id="210" parent="212" relname="span">когда на орбиту будут выведены все 30 запланированных спутников (27 операционных и 3 резервных).\n\nКомпания Arianespace заключила договор на 10 ракет-носителей \"Союз\"</segment>
+		<segment id="211" parent="210" relname="purpose">для запуска спутников начиная с 2010 года.</segment>
+		<segment id="214" parent="216" relname="span">Космический сегмент будет дополнен наземной инфраструктурой,</segment>
+		<segment id="215" parent="214" relname="elaboration">включающей в себя два центра управления и глобальную сеть передающих и принимающих станций.\n\</segment>
+		<segment id="219" parent="221" relname="span">nВ отличие от американской GPS и российской ГЛОНАСС, система Galileo не контролируется ни государственными, ни военными учреждениями.</segment>
+		<segment id="220" parent="219" relname="elaboration">Разработку осуществляет Европейское аэрокосмическое агентство (ЕКА).</segment>
+		<segment id="224" parent="226" relname="span">Общие затраты на создание системы оцениваются в 3,8 млрд. евро,</segment>
+		<segment id="225" parent="224" relname="condition">включая стоимость инфраструктуры на Земле.\n\nДве трети капиталовложений будут сделаны частными компаниями и инвесторами, а одна треть ЕС и ЕКА.</segment>
+		<segment id="227" parent="229" relname="contrast">Планируется, что система будет бесплатна для всех,</segment>
+		<segment id="228" parent="229" relname="contrast">однако за большую по сравнению с GPS точность придется платить отдельно.\n\</segment>
+		<segment id="231" parent="243" relname="span">nОднако развитию системы мешают разногласия европейских стран в финансировании программы.</segment>
+		<segment id="232" parent="234" relname="restatement">Например, Франция активно поддерживает ее развитие,</segment>
+		<segment id="233" parent="234" relname="restatement">что означает для этой страны независимость от технологий США.</segment>
+		<segment id="235" parent="238" relname="attribution">Другие страны считают,</segment>
+		<segment id="236" parent="238" relname="joint">что выгоднее использовать бесплатно систему GPS.\n\nГлобальная навигационная спутниковая система (ГЛОНАСС) была разработана в СССР в начале 1980-х годов</segment>
+		<segment id="237" parent="238" relname="joint">и сейчас принадлежит Российским аэрокосмическим силам.</segment>
+		<segment id="240" parent="239" relname="elaboration">Все спутники были запущены с космодрома Тюратам в Казахстане, первые три - в октябре 1982 года.</segment>
+		<segment id="244" parent="246" relname="contrast">Прием первых сигналов начался в декабре 1983 года.\n\nПолностью система должна была начать функционирование в 1991 году,</segment>
+		<segment id="245" parent="246" relname="contrast">но реально заработала только в сентябре 1993 года.</segment>
+		<segment id="247" parent="248" relname="sequence">Полное укомплектование спутниками произошло в декабре 1995 года.</segment>
+		<segment id="252" parent="286" relname="joint">На пике своей эффективности система гарантировала аккуратность измерения местоположения в 55 м по горизонтали и 70 м по вертикали в общедоступном стандарте.</segment>
+		<segment id="253" parent="255" relname="span">Более точный сигнал был доступен только для военных нужд.\n\</segment>
+		<segment id="254" parent="253" relname="elaboration">nВ свои лучшие годы группировка спутников состояла из 24 штук,</segment>
+		<segment id="256" parent="257" relname="span">в связи с плохим финансированием программы к апрелю 2002 года</segment>
+		<segment id="258" parent="268" relname="joint">на орбите осталось только 8 работающих спутников,</segment>
+		<segment id="259" parent="267" relname="joint">что сделало их использование неприемлемым.\n\</segment>
+		<segment id="260" parent="266" relname="span">nНачалась разработка новой программы ГЛОНАСС-М.</segment>
+		<segment id="261" parent="265" relname="span">Космические аппараты типа \"Глонасс-М\" эксплуатируются с декабря 2003 года.</segment>
+		<segment id="262" parent="264" relname="span">Они созданы в железногорском (Красноярск-26) ОАО \"Информационные спутниковые системы\" им. Решетнева на базе тех же проектно-конструкторских решений, что и их предшественники - аппараты типа \"Глонасс\".\n\nОсновные изменения в \"Глонасс-М\" свелись к модификации антенно-фидерного устройства, увеличению срока активного существования до семи лет</segment>
+		<segment id="263" parent="262" relname="elaboration">(у \"Глонасс\" этот параметр составлял 3 - 4,5 года), введению второй навигационной частоты для гражданских пользователей.</segment>
+		<segment id="270" parent="278" relname="span">Масса одного космического аппарата - 1415 кг.\n\</segment>
+		<segment id="271" parent="272" relname="attribution">nСогласно данным информационно-аналитического центра ГЛОНАСС,</segment>
+		<segment id="272" parent="273" relname="span">в настоящее время на орбите находится 13 спутников.</segment>
+		<segment id="274" parent="276" relname="joint">Для бесперебойного покрытия территории России нужно как минимум 18,</segment>
+		<segment id="275" parent="276" relname="joint">а для покрытия всего мира - 24.</segment>
+		<segment id="279" parent="282" relname="attribution">Однако по данным информационно-аналитического центра ГЛОНАСС,</segment>
+		<segment id="280" parent="282" relname="joint">за последние сутки полное покрытие России обеспечивалось более 22 часов,</segment>
+		<segment id="281" parent="282" relname="joint">и только 1 час 17 минут существовали пробелы.\n\</segment>
+		<segment id="287" parent="296" relname="condition">nЕсли орбитальную группировку все же можно использовать,</segment>
+		<segment id="288" parent="296" relname="span">то с приемниками для военных дела обстоят гораздо хуже.</segment>
+		<segment id="289" parent="291" relname="contrast">Модели ГЛОНАСС-приемников для армии были представлены еще прошлым летом,</segment>
+		<segment id="290" parent="291" relname="contrast">однако после этого никакой информации о них не появлялось.</segment>
+		<segment id="292" parent="294" relname="span">В России, как утверждается, нет предприятий с ресурсами</segment>
+		<segment id="293" parent="292" relname="purpose">для изготовления данных приемников.\n\</segment>
+		<segment id="298" parent="300" relname="span">nКроме того, ни одна компания не будет вкладывать деньги в разработку приемников,</segment>
+		<segment id="299" parent="298" relname="condition">пока орбитальная группировка не будет полностью сформирована.</segment>
+		<segment id="302" parent="301" relname="interpretation-evaluation">Попытка в принудительном порядке обязать госпредприятия производить такой тонкий продукт ни к чему не привели.\n\nА первые покупатели гражданских навигаторов оказались разочарованы.</segment>
+		<segment id="304" parent="306" relname="joint">Некоторые пользователи жалуются на то, что навигаторы не видят спутников</segment>
+		<segment id="305" parent="306" relname="joint">или есть неполадки в работе программного обеспечения.</segment>
+		<segment id="307" parent="309" relname="span">К 2011 году группировка спутников ГЛОНАСС-М будет увеличена с 16 до 30,</segment>
+		<segment id="308" parent="307" relname="elaboration">в частности, до конца 2008 года на орбиту планируется вывести шесть спутников.\n\nИсточник: https://www.newsru.com/hitech/21Jan2009/glonass.html\n</segment>
+		<group id="110" type="span" parent="319" relname="preparation"/>
+		<group id="319" type="multinuc" parent="320" relname="span"/>
+		<group id="119" type="multinuc" parent="319" relname="joint"/>
+		<group id="115" type="span" parent="119" relname="joint"/>
+		<group id="113" type="span" parent="115" relname="span"/>
+		<group id="118" type="span" parent="119" relname="joint"/>
+		<group id="318" type="multinuc" parent="319" relname="joint"/>
+		<group id="136" type="multinuc" parent="318" relname="joint"/>
+		<group id="124" type="span" parent="136" relname="joint"/>
+		<group id="123" type="multinuc" parent="120" relname="condition"/>
+		<group id="135" type="span" parent="136" relname="joint"/>
+		<group id="134" type="multinuc" parent="135" relname="span"/>
+		<group id="133" type="span" parent="134" relname="joint"/>
+		<group id="129" type="multinuc" parent="132" relname="attribution"/>
+		<group id="317" type="multinuc" parent="318" relname="joint"/>
+		<group id="145" type="multinuc" parent="317" relname="joint"/>
+		<group id="144" type="multinuc" parent="145" relname="joint"/>
+		<group id="140" type="span" parent="144" relname="comparison"/>
+		<group id="143" type="span" parent="144" relname="comparison"/>
+		<group id="316" type="multinuc" parent="317" relname="joint"/>
+		<group id="162" type="multinuc" parent="316" relname="joint"/>
+		<group id="156" type="span" parent="162" relname="joint"/>
+		<group id="148" type="span" parent="156" relname="span"/>
+		<group id="155" type="multinuc" parent="148" relname="elaboration"/>
+		<group id="154" type="span" parent="155" relname="joint"/>
+		<group id="153" type="span" parent="150" relname="condition"/>
+		<group id="161" type="span" parent="162" relname="joint"/>
+		<group id="160" type="span" parent="157" relname="condition"/>
+		<group id="315" type="multinuc" parent="316" relname="joint"/>
+		<group id="191" type="multinuc" parent="315" relname="joint"/>
+		<group id="173" type="span" parent="191" relname="joint"/>
+		<group id="171" type="span" parent="173" relname="span"/>
+		<group id="170" type="span" parent="171" relname="span"/>
+		<group id="169" type="multinuc" parent="164" relname="condition"/>
+		<group id="168" type="multinuc" parent="169" relname="joint"/>
+		<group id="190" type="span" parent="191" relname="joint"/>
+		<group id="182" type="multinuc" parent="190" relname="span"/>
+		<group id="181" type="multinuc" parent="182" relname="joint"/>
+		<group id="180" type="span" parent="181" relname="joint"/>
+		<group id="178" type="multinuc" parent="179" relname="condition"/>
+		<group id="189" type="span" parent="182" relname="elaboration"/>
+		<group id="187" type="span" parent="189" relname="span"/>
+		<group id="186" type="multinuc" parent="183" relname="elaboration"/>
+		<group id="314" type="multinuc" parent="315" relname="joint"/>
+		<group id="208" type="multinuc" parent="314" relname="joint"/>
+		<group id="198" type="span" parent="208" relname="contrast"/>
+		<group id="194" type="span" parent="198" relname="span"/>
+		<group id="197" type="span" parent="194" relname="elaboration"/>
+		<group id="207" type="span" parent="208" relname="contrast"/>
+		<group id="201" type="multinuc" parent="207" relname="span"/>
+		<group id="206" type="span" parent="201" relname="concession"/>
+		<group id="205" type="multinuc" parent="202" relname="elaboration"/>
+		<group id="313" type="multinuc" parent="314" relname="joint"/>
+		<group id="251" type="multinuc" parent="313" relname="joint"/>
+		<group id="223" type="multinuc" parent="251" relname="joint"/>
+		<group id="213" type="span" parent="223" relname="joint"/>
+		<group id="212" type="span" parent="209" relname="condition"/>
+		<group id="222" type="multinuc" parent="223" relname="joint"/>
+		<group id="216" type="span" parent="222" relname="joint"/>
+		<group id="221" type="span" parent="222" relname="joint"/>
+		<group id="250" type="multinuc" parent="251" relname="joint"/>
+		<group id="230" type="span" parent="250" relname="comparison"/>
+		<group id="226" type="span" parent="230" relname="span"/>
+		<group id="229" type="multinuc" parent="226" relname="interpretation-evaluation"/>
+		<group id="249" type="span" parent="250" relname="comparison"/>
+		<group id="243" type="span" parent="249" relname="span"/>
+		<group id="242" type="multinuc" parent="231" relname="elaboration"/>
+		<group id="234" type="multinuc" parent="242" relname="joint"/>
+		<group id="241" type="span" parent="242" relname="joint"/>
+		<group id="239" type="span" parent="241" relname="span"/>
+		<group id="238" type="multinuc" parent="239" relname="span"/>
+		<group id="248" type="multinuc" parent="243" relname="elaboration"/>
+		<group id="246" type="multinuc" parent="248" relname="sequence"/>
+		<group id="312" type="multinuc" parent="313" relname="joint"/>
+		<group id="286" type="multinuc" parent="312" relname="joint"/>
+		<group id="285" type="multinuc" parent="286" relname="joint"/>
+		<group id="269" type="multinuc" parent="285" relname="joint"/>
+		<group id="257" type="span" parent="269" relname="joint"/>
+		<group id="255" type="span" parent="256" relname="cause-effect"/>
+		<group id="268" type="multinuc" parent="269" relname="joint"/>
+		<group id="267" type="multinuc" parent="268" relname="joint"/>
+		<group id="266" type="span" parent="267" relname="joint"/>
+		<group id="265" type="span" parent="260" relname="elaboration"/>
+		<group id="264" type="span" parent="261" relname="elaboration"/>
+		<group id="284" type="multinuc" parent="285" relname="joint"/>
+		<group id="278" type="span" parent="284" relname="contrast"/>
+		<group id="277" type="span" parent="270" relname="elaboration"/>
+		<group id="273" type="span" parent="277" relname="span"/>
+		<group id="276" type="multinuc" parent="273" relname="purpose"/>
+		<group id="283" type="span" parent="284" relname="contrast"/>
+		<group id="282" type="multinuc" parent="283" relname="span"/>
+		<group id="311" type="span" parent="312" relname="joint"/>
+		<group id="303" type="span" parent="310" relname="solutionhood"/>
+		<group id="301" type="multinuc" parent="303" relname="span"/>
+		<group id="297" type="span" parent="301" relname="joint"/>
+		<group id="296" type="span" parent="297" relname="span"/>
+		<group id="295" type="span" parent="288" relname="elaboration"/>
+		<group id="291" type="multinuc" parent="295" relname="span"/>
+		<group id="294" type="span" parent="291" relname="elaboration"/>
+		<group id="300" type="span" parent="301" relname="joint"/>
+		<group id="310" type="span" parent="311" relname="span"/>
+		<group id="306" type="multinuc" parent="310" relname="span"/>
+		<group id="309" type="span" parent="306" relname="elaboration"/>
+		<group id="320" type="span"/>
+	</body>
+</rst>

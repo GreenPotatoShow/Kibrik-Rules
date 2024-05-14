@@ -1,0 +1,68 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="28" relname="span">ЕБРР согласен стать стратегическим инвестором РАО \"ЕЭС России\"\n\nЕвропейский банк реконструкции и развития (ЕБРР) рассматривает возможность кредитования РАО \"ЕЭС России\",</segment>
+		<segment id="27" parent="26" relname="attribution">сообщает влиятельная деловая газета The Financial Times.\n\nСейчас банк рассматривает вопрос о предоставлении кредита в 94 млн. евро.</segment>
+		<segment id="29" parent="37" relname="span">В дальнейшем ЕБРР возможно станет стратегическим инвестором РАО,</segment>
+		<segment id="30" parent="32" relname="contrast">не только поддерживая компанию кредитами,</segment>
+		<segment id="31" parent="32" relname="contrast">но и став акционером дочерних энергопредприятий РАО.\n\nВпрочем, и в банке это подчеркивают,</segment>
+		<segment id="33" parent="35" relname="span">перспективы сотрудничества зависят, в первую очередь, от того, насколько серьезны намерения президента Путина и российского кабинета министров продолжать реформу РАО \"ЕЭС России\".\n\nВ начале апреля,</segment>
+		<segment id="34" parent="33" relname="elaboration">в рамках подготовительной работы к выдаче кредита в Москву прибудет первый вице-президент банка Чарльз Фрэнк.</segment>
+		<segment id="38" parent="41" relname="purpose">Для того, чтобы оценить судьбу реформы РАО \"ЕЭС России\",</segment>
+		<segment id="39" parent="41" relname="joint">он проведет переговоры с членами правительственной комиссии по реструктуризации энергетической естественной монополии,</segment>
+		<segment id="40" parent="41" relname="joint">побеседует с противниками реформы.\n\</segment>
+		<segment id="43" parent="47" relname="span">nВ том случае,</segment>
+		<segment id="44" parent="45" relname="condition">если представитель банка будет уверен в твердости намерений российской власти,</segment>
+		<segment id="45" parent="46" relname="span">ЕБРР приступит к разработке схем стратегического сотрудничества с РАО.</segment>
+		<segment id="48" parent="49" relname="span">Работы в этом направлении уже ведутся.</segment>
+		<segment id="50" parent="56" relname="span">В частности, в распоряжении The Financial Times оказался фрагмент меморандума о взаимопонимании между ЕБРР и РАО \"ЕЭС\",</segment>
+		<segment id="51" parent="55" relname="span">который будет официально обнародован в том случае,</segment>
+		<segment id="52" parent="54" relname="joint">если банк удовлетвориться настроениями в России</segment>
+		<segment id="53" parent="54" relname="joint">и выделит кредит в 94 млн. евро.\n\nВ документе говорится,</segment>
+		<segment id="57" parent="61" relname="span">в том случае,</segment>
+		<segment id="58" parent="60" relname="joint">если РАО \"ЕЭС России\" будет наращивать объемы денежных поступлений</segment>
+		<segment id="59" parent="60" relname="joint">и демонстрировать свою готовность увеличивать стоимость активов генерирующих и поставляющих предприятий,</segment>
+		<segment id="62" parent="64" relname="joint">привлекая инвесторов через открытые и прозрачные торги,</segment>
+		<segment id="63" parent="64" relname="joint">ЕБРР рассмотрит возможность участия в капитале дочерних компаний РАО.</segment>
+		<segment id="67" parent="69" relname="joint">Кроме того, банк продолжит средне- и долгосрочное финансирование компании</segment>
+		<segment id="68" parent="69" relname="joint">и облегчит ей доступ на международные финансовые рынки.\n\nИсточник: https://www.newsru.com/finance/26Mar2001/ebrd.html\n</segment>
+		<group id="28" type="span" parent="73" relname="preparation"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="37" type="span" parent="73" relname="joint"/>
+		<group id="36" type="multinuc" parent="29" relname="condition"/>
+		<group id="32" type="multinuc" parent="36" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="42" type="span" parent="72" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="span"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="49" type="span" parent="71" relname="span"/>
+		<group id="47" type="span" parent="48" relname="cause-effect"/>
+		<group id="46" type="span" parent="43" relname="condition"/>
+		<group id="70" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="66" type="multinuc" parent="70" relname="joint"/>
+		<group id="56" type="span" parent="66" relname="comparison"/>
+		<group id="55" type="span" parent="50" relname="elaboration"/>
+		<group id="54" type="multinuc" parent="51" relname="condition"/>
+		<group id="65" type="span" parent="66" relname="comparison"/>
+		<group id="61" type="span" parent="65" relname="span"/>
+		<group id="60" type="multinuc" parent="57" relname="condition"/>
+		<group id="64" type="multinuc" parent="61" relname="condition"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="74" type="span"/>
+	</body>
+</rst>

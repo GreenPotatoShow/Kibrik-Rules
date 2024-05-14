@@ -1,0 +1,105 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="46" parent="48" relname="span">Двое американцев похищены в Египте</segment>
+		<segment id="47" parent="46" relname="cause-effect">- их хотят обменять на наркобарона\n\nВ Египте бедуины похитили двоих американских туристов.</segment>
+		<segment id="49" parent="54" relname="attribution">Как передает NEWSru Israel,</segment>
+		<segment id="50" parent="54" relname="span">молодые люди в возрасте около 30 лет были похищены утром 31 мая в районе курортного города Нувейба,</segment>
+		<segment id="51" parent="53" relname="span">расположенного на берегу Красного моря</segment>
+		<segment id="52" parent="51" relname="elaboration">.\n\nАгентство Maan называет имена похищенных - это Джонатан Шизарласки и Картер Брэйбон.</segment>
+		<segment id="58" parent="60" relname="joint">В обмен на них кочевники требуют освободить одного из своих соплеменников - крупного наркоторговца Ида Сулеймана Атави, задержанного полицией.</segment>
+		<segment id="59" parent="60" relname="joint">Накануне десятки бедуинов в знак протеста против задержания Атави на несколько часов перекрыли автомобильную трассу в районе Нувейбы.\n\nИнцидент с американцами произошел на дороге между Дахабом и Нувейбой.</segment>
+		<segment id="61" parent="67" relname="same-unit">Изначально туристы, прибывшие в Египет 28 мая,</segment>
+		<segment id="62" parent="64" relname="sequence">остановились в Дахабе в отеле Hilton,</segment>
+		<segment id="63" parent="64" relname="sequence">а в среду вечером отправились в Нувейбу,</segment>
+		<segment id="65" parent="66" relname="contrast">однако до пункта назначения не добрались.\n\</segment>
+		<segment id="68" parent="73" relname="cause-effect">nВскоре после того, как они выехали из отеля,</segment>
+		<segment id="69" parent="73" relname="span">дорогу их машине преградили вооруженные бедуины,</segment>
+		<segment id="70" parent="72" relname="joint">которые под дулами автоматов вытащили туристов из авто</segment>
+		<segment id="71" parent="72" relname="joint">и увезли в неизвестном направлении.</segment>
+		<segment id="78" parent="90" relname="span">В настоящее время идут переговоры об освобождении заложников.\n\nЭто не первый за последние несколько месяцев случай захвата иностранцев на юге Синайского полуострова.</segment>
+		<segment id="79" parent="89" relname="span">В последнее время бедуинские вооруженные группировки все чаще захватывают людей.</segment>
+		<segment id="80" parent="84" relname="span">Их цель – надавить на правительство,</segment>
+		<segment id="81" parent="83" relname="joint">чтобы власти выпустили из тюрем родственников боевиков</segment>
+		<segment id="82" parent="83" relname="joint">или улучшили качество коммунальных услуг в тех местах, где они проживают,</segment>
+		<segment id="85" parent="87" relname="joint">сообщает РИА \"Новости\".\n\nВ феврале на восточном побережье Синая были захвачены в заложники граждане США.</segment>
+		<segment id="86" parent="87" relname="joint">Бедуинские боевики остановили автобус с туристами.</segment>
+		<segment id="91" parent="93" relname="joint">Ограбив пассажиров,</segment>
+		<segment id="92" parent="93" relname="joint">они увели с собой двух американок и местного экскурсовода.</segment>
+		<segment id="94" parent="96" relname="span">Через несколько часов похищенные были освобождены.</segment>
+		<segment id="95" parent="94" relname="elaboration">Бедуины требовали освободить своих родственников из египетских тюрем.\n\nОбъектами похищений становились и туристы из других стран.</segment>
+		<segment id="97" parent="98" relname="sequence">Так, в марте были взяты в заложники две гражданки из Бразилии и гражданка Чехии.</segment>
+		<segment id="100" parent="102" relname="joint">1 марта в Каире группа вооруженных людей похитила двух китайских рабочих местного завода по обработке каменных материалов.</segment>
+		<segment id="101" parent="102" relname="joint">За освобождение китайских граждан похитители потребовали выкуп.\n\nПохищают на полуострове и военнослужащих.</segment>
+		<segment id="103" parent="105" relname="sequence">29 мая бедуины взяли в плен шестерых египетских солдат,</segment>
+		<segment id="104" parent="105" relname="sequence">а в начале месяца ими были похищены десять миротворцев ООН с Фиджи.\n\nПосле инцидентов с туристами власти провинции сообщили об усилении охраны иностранцев.</segment>
+		<segment id="106" parent="109" relname="attribution">По словам губернатора Южного Синая Халеда Фода,</segment>
+		<segment id="109" parent="110" relname="span">все туристические автобусы или автомобили с туристами, которые направляются в Шарм-эш-Шейх, Табу или Сант-Катрин, должны быть обеспечены охраной.\n\</segment>
+		<segment id="111" parent="112" relname="joint">nКроме того, была достигнута договоренность с бедуинскими племенами о том, что подобные инциденты будут пресекаться совместными усилиями местных жителей и правоохранительных органов.</segment>
+		<segment id="114" parent="120" relname="span">Однако захват иностранцев в заложники на Синае продолжается.\n\nПохищения иностранцев происходят в Египте на фоне нестабильной политической ситуации.</segment>
+		<segment id="115" parent="117" relname="span">Полтора года назад в стране произошла \"жасминовая революция\",</segment>
+		<segment id="116" parent="115" relname="elaboration">в ходе которой ушел в отставку президент Хосни Мубарак,</segment>
+		<segment id="118" parent="117" relname="background">правивший страной почти 30 лет.</segment>
+		<segment id="121" parent="127" relname="span">В настоящее время страной правят военные.</segment>
+		<segment id="122" parent="126" relname="contrast">Недавно в Египте прошел первый тур президентских выборов,</segment>
+		<segment id="123" parent="125" relname="span">однако никому из кандидатов не удалось победить.</segment>
+		<segment id="124" parent="123" relname="elaboration">Второй тур состоится в июне.\n\nИсточник: https://www.newsru.com/world/31May2012/beduins.html\n</segment>
+		<group id="48" type="span" parent="133" relname="preparation"/>
+		<group id="133" type="multinuc" parent="134" relname="span"/>
+		<group id="77" type="span" parent="133" relname="joint"/>
+		<group id="55" type="span" parent="76" relname="preparation"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="53" type="span" parent="50" relname="elaboration"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="60" type="multinuc" parent="76" relname="sequence"/>
+		<group id="75" type="span" parent="76" relname="sequence"/>
+		<group id="67" type="multinuc" parent="75" relname="span"/>
+		<group id="66" type="multinuc" parent="67" relname="same-unit"/>
+		<group id="64" type="multinuc" parent="66" relname="contrast"/>
+		<group id="74" type="span" parent="67" relname="elaboration"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="72" type="multinuc" parent="69" relname="elaboration"/>
+		<group id="132" type="multinuc" parent="133" relname="joint"/>
+		<group id="90" type="span" parent="132" relname="joint"/>
+		<group id="89" type="span" parent="78" relname="elaboration"/>
+		<group id="88" type="multinuc" parent="79" relname="elaboration"/>
+		<group id="84" type="span" parent="88" relname="joint"/>
+		<group id="83" type="multinuc" parent="80" relname="purpose"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="131" type="multinuc" parent="132" relname="joint"/>
+		<group id="99" type="multinuc" parent="131" relname="joint"/>
+		<group id="93" type="multinuc" parent="99" relname="sequence"/>
+		<group id="98" type="multinuc" parent="99" relname="sequence"/>
+		<group id="96" type="span" parent="98" relname="sequence"/>
+		<group id="130" type="multinuc" parent="131" relname="joint"/>
+		<group id="102" type="multinuc" parent="130" relname="joint"/>
+		<group id="129" type="multinuc" parent="130" relname="joint"/>
+		<group id="113" type="multinuc" parent="129" relname="contrast"/>
+		<group id="105" type="multinuc" parent="113" relname="joint"/>
+		<group id="112" type="multinuc" parent="113" relname="joint"/>
+		<group id="110" type="span" parent="112" relname="joint"/>
+		<group id="128" type="span" parent="129" relname="contrast"/>
+		<group id="120" type="span" parent="128" relname="span"/>
+		<group id="119" type="span" parent="114" relname="elaboration"/>
+		<group id="117" type="span" parent="119" relname="span"/>
+		<group id="127" type="span" parent="120" relname="elaboration"/>
+		<group id="126" type="multinuc" parent="121" relname="elaboration"/>
+		<group id="125" type="span" parent="126" relname="contrast"/>
+		<group id="134" type="span"/>
+	</body>
+</rst>

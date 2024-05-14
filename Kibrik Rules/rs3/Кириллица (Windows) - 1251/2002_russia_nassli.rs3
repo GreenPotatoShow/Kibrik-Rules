@@ -1,0 +1,54 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="22" relname="span">Спасатели нашли якутских лыжников, ушедших в поход неделю назад\n\nСпасатели обнаружили пропавшую несколько дней назад в Якутии группу лыжников,</segment>
+		<segment id="21" parent="20" relname="background">в которую входили ученики и преподаватели из якутского поселка Кюсюр Булонского улуса,</segment>
+		<segment id="23" parent="24" relname="joint">сообщает \"Интерфакс\".\n\n20 апреля группа из восьми школьников и двух преподавателей вышла из поселка по пешеходному туристическому маршруту в райцентр Тикси.</segment>
+		<segment id="25" parent="27" relname="contrast">Сюда школьники и учителя должны были прийти 24 апреля,</segment>
+		<segment id="26" parent="27" relname="contrast">но они не появились,</segment>
+		<segment id="28" parent="27" relname="attribution">сообщили в пятницу в МЧС России.\n\nРасстояние между поселками - 150 километров.</segment>
+		<segment id="31" parent="33" relname="span">Школьники и их наставники совершали лыжный поход в честь 80-летия образования Якутской АССР.\n\nВсе школьники, потерявшиеся в тундре, это ученики 8-10 классов.</segment>
+		<segment id="32" parent="31" relname="elaboration">Один из преподавателей 1942 года рождения, другой - 1967 года.</segment>
+		<segment id="35" parent="41" relname="sequence">Возглавлял юных туристов старший из преподавателей Семен Шамаев,</segment>
+		<segment id="36" parent="40" relname="sequence">неоднократно водивший ребят по маршруту между поселками Кюсюр и Тикси</segment>
+		<segment id="37" parent="39" relname="joint">.\n\nВ четверг спасатели начали искать пропавших</segment>
+		<segment id="38" parent="39" relname="joint">и нашли только сегодня.</segment>
+		<segment id="42" parent="44" relname="joint">Утром тринадцать спасателей на двух гусеничных вездеходах и шести снегоходах \"Буран\" вышли на поиски экспедиции</segment>
+		<segment id="43" parent="44" relname="joint">и обнаружили ребят и преподавателей.</segment>
+		<segment id="46" parent="47" relname="attribution">Как сообщили в субботу в пресс-службе МЧС России,</segment>
+		<segment id="47" parent="48" relname="span">группа была обнаружена в субботу около 10:20 по московскому времени.</segment>
+		<segment id="49" parent="51" relname="span">По предварительной информации, состояние здоровья лыжников удовлетворительное.</segment>
+		<segment id="50" parent="49" relname="elaboration">В настоящее время идет их эвакуация на снегоходах.</segment>
+		<segment id="52" parent="51" relname="elaboration">Возможно, что уже сегодня их доставят в Тикси.\n\nИсточник: https://www.newsru.com/russia/27Apr2002/nassli.html\n</segment>
+		<group id="34" type="multinuc" parent="56" relname="sequence"/>
+		<group id="30" type="multinuc" parent="34" relname="sequence"/>
+		<group id="24" type="multinuc" parent="30" relname="sequence"/>
+		<group id="22" type="span" parent="24" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="sequence"/>
+		<group id="27" type="multinuc" parent="29" relname="span"/>
+		<group id="33" type="span" parent="34" relname="sequence"/>
+		<group id="55" type="span" parent="56" relname="sequence"/>
+		<group id="45" type="multinuc" parent="54" relname="preparation"/>
+		<group id="41" type="multinuc" parent="45" relname="sequence"/>
+		<group id="40" type="multinuc" parent="41" relname="sequence"/>
+		<group id="39" type="multinuc" parent="40" relname="sequence"/>
+		<group id="44" type="multinuc" parent="45" relname="sequence"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="48" type="span" parent="54" relname="joint"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="51" type="span" parent="53" relname="span"/>
+		<group id="56" type="multinuc"/>
+	</body>
+</rst>

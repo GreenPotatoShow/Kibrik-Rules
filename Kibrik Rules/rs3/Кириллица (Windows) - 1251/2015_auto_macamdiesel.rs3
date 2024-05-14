@@ -1,0 +1,42 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="17" relname="joint">Дизельный Porsche Macan будет стоить в России от 3,4 млн рублей\n\</segment>
+		<segment id="16" parent="17" relname="joint">nКомпания Porsche анонсировала начало продаж в России дизельной версии среднеразмерного кроссовера Macan - Macan S Diesel.</segment>
+		<segment id="18" parent="20" relname="joint">Продажи новинки начнутся в декабре,</segment>
+		<segment id="19" parent="20" relname="joint">а базовая стоимость составит 3 381 000 рублей</segment>
+		<segment id="21" parent="23" relname="span">- столько же просят за 340-сильную бензиновую модель Macan S,</segment>
+		<segment id="22" parent="21" relname="elaboration">передает Carscope.\n\nMacan S Diesel оснащается 3,0-литровым V6 мощностью 245 л. с. в сочетании с 7-ступенчатым \"роботом\" PDK и полным приводом.</segment>
+		<segment id="25" parent="27" relname="joint">Такой автомобиль разгоняется с нуля до 100 км/ч за 6,4 секунды (за 6,2 секунды с пакетом Sport Chrono)</segment>
+		<segment id="26" parent="27" relname="joint">и развивает максимальную скорость 227 км/ч.\n\</segment>
+		<segment id="28" parent="29" relname="purpose">nДля сравнения,</segment>
+		<segment id="29" parent="30" relname="span">у Macan S эти характеристики составляют 5,4 секунды и 254 км/ч соответственно.</segment>
+		<segment id="33" parent="39" relname="span">Однако дизельный кроссовер экономичнее:</segment>
+		<segment id="34" parent="38" relname="comparison">расход в смешанном цикле заявлен на уровне 6,3 литра на 100 км против 9 литров у бензиновой \"эски\".\n\</segment>
+		<segment id="35" parent="37" relname="joint">nПомимо версии S и грядущей S Diesel кроссовер Macan предлагается в России в топовой модификации Turbo с 400-сильным мотором.</segment>
+		<segment id="36" parent="37" relname="joint">Минимальная цена такого автомобиля - 4 869 000 рублей.\n\nИсточник: https://www.newsru.com/auto/19Aug2015/macamdiesel.html\n</segment>
+		<group id="17" type="multinuc" parent="40" relname="preparation"/>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="32" type="multinuc" parent="40" relname="contrast"/>
+		<group id="24" type="span" parent="32" relname="joint"/>
+		<group id="20" type="multinuc" parent="24" relname="span"/>
+		<group id="23" type="span" parent="20" relname="elaboration"/>
+		<group id="31" type="multinuc" parent="32" relname="joint"/>
+		<group id="27" type="multinuc" parent="31" relname="joint"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="contrast"/>
+		<group id="38" type="multinuc" parent="33" relname="elaboration"/>
+		<group id="37" type="multinuc" parent="38" relname="comparison"/>
+		<group id="41" type="span"/>
+	</body>
+</rst>

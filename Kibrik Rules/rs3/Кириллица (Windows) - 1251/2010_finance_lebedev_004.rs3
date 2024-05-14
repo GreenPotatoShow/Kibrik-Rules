@@ -1,0 +1,114 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="47" parent="54" relname="preparation">Лебедев готов перебазировать свою авиакомпанию Red Wings на Северный Кавказ\n\nПринадлежащая Лебедеву Национальная резервная корпорация готова перебазировать входящую в НРК авиакомпанию Red Wings в один из аэропортов Северо-Кавказского федерального округа.</segment>
+		<segment id="48" parent="50" relname="joint">Об этом пишет издание \"Газета GZT.ru\" со ссылкой на специальное сообщении НРК.\n\n\"Национальная резервная корпорация поддерживает призыв президента России Дмитрия Медведева к бизнес-сообществу проявить патриотизм</segment>
+		<segment id="49" parent="50" relname="joint">и вкладывать средства в социально-экономическое развитие республик Северо-Кавказского федерального округа</segment>
+		<segment id="51" parent="53" relname="span">,\" - подчеркивается в заявлении НРК.\n\nПризыв Медведева к предпринимателям прозвучал 1 апреля в столице Дагестана Махачкале,</segment>
+		<segment id="52" parent="51" relname="background">куда президент отправился почти сразу после терактов в Москве и на Северном Кавказе.</segment>
+		<segment id="56" parent="60" relname="joint">\"Не всё в Москву вкладывать</segment>
+		<segment id="57" parent="58" relname="cause-effect">и за границей</segment>
+		<segment id="58" parent="59" relname="span">- надо отдавать долги родным местам\",</segment>
+		<segment id="61" parent="60" relname="attribution">- заявил тогда президент.\n\</segment>
+		<segment id="64" parent="68" relname="joint">nХотя Лебедев родился в Москве</segment>
+		<segment id="65" parent="67" relname="span">и его родные места не на Кавказе,</segment>
+		<segment id="66" parent="65" relname="cause-effect">он объяснил изданию мотивы своего предложения.</segment>
+		<segment id="69" parent="74" relname="attribution">\"Есть соблазн сказать,</segment>
+		<segment id="70" parent="74" relname="same-unit">что мы, послушав нашего президента,</segment>
+		<segment id="71" parent="73" relname="joint">решили,</segment>
+		<segment id="72" parent="73" relname="joint">цитирую \"тряхнуть мошной\",</segment>
+		<segment id="76" parent="78" relname="joint">но в нашем случае на первом месте стоят исключительно экономические соображения.</segment>
+		<segment id="77" parent="78" relname="joint">При этом я бы назвал нынешнюю инициативу - умеренно-патриотической,</segment>
+		<segment id="80" parent="79" relname="attribution">- заявил GZT.ru Александр Лебедев.\n\n</segment>
+		<segment id="83" parent="85" relname="contrast">\"Мы давно смотрим,</segment>
+		<segment id="84" parent="85" relname="contrast">а не совершить ли какой-нибудь подвиг?</segment>
+		<segment id="86" parent="88" relname="span">В поисках дополнительного рынка</segment>
+		<segment id="87" parent="86" relname="purpose">для развития авиакомпании</segment>
+		<segment id="89" parent="90" relname="same-unit">Red Wings я обращался год назад к Рамзану Кадырову с подобным предложением,</segment>
+		<segment id="91" parent="92" relname="attribution">говорил с Багапшем,</segment>
+		<segment id="92" parent="93" relname="span">тогда они не были готовы обсуждать нашу инициативу\".</segment>
+		<segment id="96" parent="99" relname="attribution">А сейчас, по словам Лебедева,</segment>
+		<segment id="97" parent="99" relname="span">на Кавказе новый президентский полпред Александр Хлопонин,</segment>
+		<segment id="98" parent="97" relname="elaboration">который вызывает уважение и с которым можно иметь дело\",</segment>
+		<segment id="101" parent="100" relname="attribution">- признался он.\n\</segment>
+		<segment id="103" parent="106" relname="attribution">nСудя по сообщению НРК,</segment>
+		<segment id="104" parent="106" relname="span">после выбора аэропорта туда будет перенесена база технического обслуживания авиапарка Red Wings,</segment>
+		<segment id="105" parent="104" relname="purpose">что позволит создать дополнительные рабочие места.</segment>
+		<segment id="108" parent="110" relname="sequence">Корпорация уже направила соответствующее письмо полпреду президента в СКФО</segment>
+		<segment id="109" parent="110" relname="sequence">и после ответа на него примет окончательное решение о перебазировании Red Wings.\n\</segment>
+		<segment id="111" parent="115" relname="joint">nВ случае перебазирования Red Wings в один из северокавказских аэропортов,</segment>
+		<segment id="112" parent="114" relname="span">ее авиапарк, состоящий из самолетов ТУ-204, НРК обещает увеличить за счет приобретения отечественных Superjet 100 и других региональных самолетов.\n\nК осени в Red Wings поступят два самолета Airbus A320,</segment>
+		<segment id="113" parent="112" relname="background">весной следующего года - еще семь.</segment>
+		<segment id="118" parent="120" relname="span">Речь идет о лайнерах семейства Airbus,</segment>
+		<segment id="119" parent="118" relname="elaboration">которые были выведены из эксплуатации после прекращения деятельности принадлежавшей Лебедеву немецкой авиакомпании Blue Wings.\n\nРешение о смене аэропорта базирования Лебедев принял на фоне конфликта с Росавиацией.</segment>
+		<segment id="121" parent="127" relname="sequence">800 пассажиров Red Wings не смогли вовремя улететь 30 марта из Москвы и Архангельска,</segment>
+		<segment id="122" parent="126" relname="span">после чего Росавиация запретила часть чартерных полетов авиакомпании,</segment>
+		<segment id="123" parent="124" relname="attribution">объяснив свои действия тем,</segment>
+		<segment id="124" parent="125" relname="span">что перевозчик \"несвоевременно подал заявку на одобрение чартерной программы\".\n\nГенеральная прокуратура РФ вмешалась в конфликт Лебедева с Росавицией.</segment>
+		<segment id="129" parent="130" relname="attribution">По данным Генпрокуратуры,</segment>
+		<segment id="130" parent="131" relname="span">пассажиры ожидали вылета от полутора до семи часов по вине авиакомпании.\n\nИсточник: https://www.newsru.com/finance/09Apr2010/lebedev.html\n</segment>
+		<group id="63" type="span" parent="137" relname="joint"/>
+		<group id="55" type="span" parent="63" relname="span"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="50" type="multinuc" parent="54" relname="joint"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="62" type="span" parent="55" relname="elaboration"/>
+		<group id="60" type="multinuc" parent="62" relname="span"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="136" type="multinuc" parent="137" relname="joint"/>
+		<group id="82" type="span" parent="136" relname="joint"/>
+		<group id="68" type="multinuc" parent="82" relname="span"/>
+		<group id="67" type="span" parent="68" relname="joint"/>
+		<group id="81" type="span" parent="68" relname="elaboration"/>
+		<group id="79" type="multinuc" parent="81" relname="span"/>
+		<group id="75" type="span" parent="79" relname="contrast"/>
+		<group id="74" type="multinuc" parent="75" relname="span"/>
+		<group id="73" type="multinuc" parent="74" relname="same-unit"/>
+		<group id="78" type="multinuc" parent="79" relname="contrast"/>
+		<group id="135" type="multinuc" parent="136" relname="joint"/>
+		<group id="95" type="span" parent="135" relname="joint"/>
+		<group id="85" type="multinuc" parent="94" relname="solutionhood"/>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="90" type="multinuc" parent="94" relname="same-unit"/>
+		<group id="88" type="span" parent="90" relname="same-unit"/>
+		<group id="93" type="span" parent="94" relname="same-unit"/>
+		<group id="134" type="span" parent="135" relname="joint"/>
+		<group id="102" type="span" parent="134" relname="span"/>
+		<group id="100" type="span" parent="102" relname="span"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="133" type="multinuc" parent="102" relname="elaboration"/>
+		<group id="117" type="multinuc" parent="133" relname="joint"/>
+		<group id="107" type="span" parent="117" relname="joint"/>
+		<group id="106" type="span" parent="107" relname="span"/>
+		<group id="116" type="span" parent="117" relname="joint"/>
+		<group id="110" type="multinuc" parent="116" relname="span"/>
+		<group id="115" type="multinuc" parent="110" relname="elaboration"/>
+		<group id="114" type="span" parent="115" relname="joint"/>
+		<group id="132" type="span" parent="133" relname="joint"/>
+		<group id="128" type="multinuc" parent="132" relname="span"/>
+		<group id="120" type="span" parent="128" relname="joint"/>
+		<group id="127" type="multinuc" parent="128" relname="joint"/>
+		<group id="126" type="span" parent="127" relname="sequence"/>
+		<group id="125" type="span" parent="122" relname="condition"/>
+		<group id="131" type="span" parent="128" relname="elaboration"/>
+		<group id="137" type="multinuc"/>
+	</body>
+</rst>

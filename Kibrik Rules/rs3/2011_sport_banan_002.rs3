@@ -1,0 +1,55 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="22" relname="span">Самарская полиция запретит болельщикам есть овощи и фрукты на матче \"Крылья Советов\" - \"Зенит\"\n\nНа футбольном матче 21-го тура чемпионата России между \"Крыльями Советов\" и \"Зенитом\",</segment>
+		<segment id="21" parent="20" relname="elaboration">который пройдет в субботу в Самаре,</segment>
+		<segment id="23" parent="22" relname="elaboration">местные органы правопорядка существенно ужесточили меры безопасности,</segment>
+		<segment id="25" parent="26" relname="attribution">запретив болельщикам проносить на игру овощи и фрукты.\n\nЗаместитель начальника полиции по общественной безопасности ГУ МВД России по Самарской области Николай Рудаков заявил,</segment>
+		<segment id="26" parent="27" relname="span">что во время матча полиция региона не допустит повторения ситуации с броском банана в Роберто Карлоса.\n\n</segment>
+		<segment id="29" parent="31" relname="span">\"Мы будем убеждать болельщиков,</segment>
+		<segment id="30" parent="29" relname="purpose">чтобы они не приносили фрукты и овощи на футбол,</segment>
+		<segment id="32" parent="31" relname="attribution">- приводит слова Николая Рудакова \"Комсомольская Правда\".</segment>
+		<segment id="34" parent="38" relname="span">- Но прежде надо определиться, что за нарушение, например, бросание банана.</segment>
+		<segment id="35" parent="37" relname="contrast">В регламенте проведения соревнований существует пункт, запрещающий метание посторонних предметов на футбольное поле.</segment>
+		<segment id="36" parent="37" relname="contrast">А законодательно привлечь за это человека нельзя.</segment>
+		<segment id="39" parent="40" relname="condition">Опираясь на пункт регламента,</segment>
+		<segment id="40" parent="41" relname="span">мы не можем составить на нарушителя протокол, скажем, об административной ответственности\".\n\</segment>
+		<segment id="42" parent="44" relname="span">nНапомним, на последних минутах матча 15-го тура чемпионата России по футболу в Самаре между \"Крыльями Советов\" и \"Анжи\" к ногам капитана махачкалинцев Роберто Карлоса был брошен банан.\n\n\"Крылья Советов\" были оштрафованы на 100 тысяч рублей</segment>
+		<segment id="43" parent="42" relname="elaboration">за расистскую выходку и еще на 200 тысяч - за необеспечение порядка во время проведения встречи.</segment>
+		<segment id="46" parent="52" relname="span">Поиски метателя банана результатов не дали.</segment>
+		<segment id="47" parent="51" relname="contrast">С тех пор южный фрукт впал в немилость у полицейских.</segment>
+		<segment id="48" parent="50" relname="span">Однако теперь в Самаре решили пойти еще дальше:</segment>
+		<segment id="49" parent="48" relname="elaboration">вместе с бананами \"репрессированы\" и остальные фрукты, а заодно и овощи.\n\nИсточник: https://www.newsru.com/sport/20Aug2011/banan.html\n</segment>
+		<group id="28" type="multinuc" parent="55" relname="preparation"/>
+		<group id="24" type="span" parent="28" relname="joint"/>
+		<group id="22" type="span" parent="24" relname="span"/>
+		<group id="27" type="span" parent="28" relname="joint"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="33" type="span" parent="55" relname="contrast"/>
+		<group id="31" type="span" parent="33" relname="span"/>
+		<group id="54" type="span" parent="55" relname="contrast"/>
+		<group id="38" type="span" parent="54" relname="span"/>
+		<group id="37" type="multinuc" parent="34" relname="elaboration"/>
+		<group id="53" type="multinuc" parent="38" relname="elaboration"/>
+		<group id="45" type="multinuc" parent="53" relname="sequence"/>
+		<group id="41" type="span" parent="45" relname="joint"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="52" type="span" parent="53" relname="sequence"/>
+		<group id="51" type="multinuc" parent="46" relname="elaboration"/>
+		<group id="50" type="span" parent="51" relname="contrast"/>
+		<group id="56" type="span"/>
+	</body>
+</rst>

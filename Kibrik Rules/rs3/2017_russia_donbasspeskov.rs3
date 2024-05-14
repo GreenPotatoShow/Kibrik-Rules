@@ -1,0 +1,78 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="30" parent="36" relname="span">Кремль не видит связи между статусом Крыма и ситуацией в Донбассе\n\nВ Кремле отреагировали на заявление украинского депутата и бывшей заключенной российской тюрьмы Надежды Савченко,</segment>
+		<segment id="31" parent="34" relname="attribution">которая предположила,</segment>
+		<segment id="32" parent="34" relname="span">что есть только один способ мирно разрешить ситуацию в Донбассе</segment>
+		<segment id="33" parent="32" relname="elaboration">- это признать Крым российским.</segment>
+		<segment id="37" parent="39" relname="span">Пресс-секретарь президента РФ Владимира Путина Дмитрий Песков в корне не согласен с такой постановкой вопроса.\n\nРоссия не будет обсуждать с Киевом статус Крыма как российского региона при урегулировании конфликта в Донбассе,</segment>
+		<segment id="38" parent="37" relname="attribution">передает ТАСС слова Пескова:</segment>
+		<segment id="40" parent="42" relname="span">\"Этот вопрос является абсолютно недискуссионным и неоспоримым для России.</segment>
+		<segment id="41" parent="40" relname="evidence">Мы не обсуждаем статус и будущее положение российских регионов.</segment>
+		<segment id="43" parent="44" relname="attribution">Это не вопрос для обсуждения с кем бы то ни было\".\n\nПредставитель Кремля уверен,</segment>
+		<segment id="44" parent="45" relname="span">что решение конфликта на Украине целиком зависит от Киева.</segment>
+		<segment id="48" parent="50" relname="span">\"Здесь нужно в первую очередь,</segment>
+		<segment id="49" parent="48" relname="purpose">чтобы сама Украина не отказывалась от этих республик.</segment>
+		<segment id="51" parent="53" relname="span">Потому что абсолютная блокада этих регионов в плане выполнения социальных обязательств, выплаты пенсий, инфраструктурного обеспечения</segment>
+		<segment id="52" parent="51" relname="interpretation-evaluation">- это свидетельствует о том, что скорее Киев сам отказывается от Донбасса,</segment>
+		<segment id="54" parent="55" relname="joint">и в этом как раз очень серьезная проблема\",</segment>
+		<segment id="58" parent="57" relname="attribution">- сказал пресс-секретарь российского президента.\n\</segment>
+		<segment id="60" parent="65" relname="condition">nГоворя об отказе Украины от республик Донбасса,</segment>
+		<segment id="61" parent="64" relname="attribution">он пояснил,</segment>
+		<segment id="62" parent="64" relname="joint">что Киев \"не выплачивает пенсии,</segment>
+		<segment id="63" parent="64" relname="joint">не обеспечивает ни здравоохранение, ни какие-либо услуги в социальной сфере (в этом регионе)\".</segment>
+		<segment id="67" parent="69" relname="span">\"Это как раз и является проблемой в том плане,</segment>
+		<segment id="68" parent="67" relname="cause-effect">что это никоим образом не способствует сближению этих республик с Киевом, а наоборот\",</segment>
+		<segment id="70" parent="69" relname="attribution">- подчеркнул Песков</segment>
+		<segment id="72" parent="75" relname="attribution">.\n\nПресс-секретарь отметил,</segment>
+		<segment id="73" parent="75" relname="span">что Москва делает все возможное,</segment>
+		<segment id="74" parent="73" relname="purpose">чтобы способствовать украинскому урегулированию:</segment>
+		<segment id="77" parent="81" relname="span">\"Россия как страна - гарант минских договоренностей делает все возможное,</segment>
+		<segment id="78" parent="79" relname="purpose">чтобы повлиять на стороны этого конфликта</segment>
+		<segment id="79" parent="80" relname="span">- а именно, чтобы регионы Донбасса и Киев выполняли взятые на себя обязательства\".\n\nИсточник: https://www.newsru.com/russia/18Jan2017/donbasspeskov.html\n</segment>
+		<group id="36" type="span" parent="85" relname="preparation"/>
+		<group id="35" type="span" parent="30" relname="elaboration"/>
+		<group id="34" type="span" parent="35" relname="span"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="59" type="span" parent="85" relname="joint"/>
+		<group id="57" type="span" parent="59" relname="span"/>
+		<group id="47" type="multinuc" parent="56" relname="solutionhood"/>
+		<group id="39" type="span" parent="47" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="42" type="span" parent="46" relname="span"/>
+		<group id="45" type="span" parent="42" relname="interpretation-evaluation"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="50" type="span" parent="56" relname="span"/>
+		<group id="55" type="multinuc" parent="50" relname="cause-effect"/>
+		<group id="53" type="span" parent="55" relname="joint"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="66" type="span" parent="84" relname="joint"/>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="71" type="span" parent="83" relname="joint"/>
+		<group id="69" type="span" parent="71" relname="span"/>
+		<group id="82" type="span" parent="83" relname="joint"/>
+		<group id="76" type="span" parent="82" relname="span"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="81" type="span" parent="76" relname="elaboration"/>
+		<group id="80" type="span" parent="77" relname="purpose"/>
+		<group id="86" type="span"/>
+	</body>
+</rst>

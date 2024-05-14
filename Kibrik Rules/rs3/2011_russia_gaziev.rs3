@@ -1,0 +1,41 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="37" relname="preparation">В Дагестане ликвидировали главаря \"горного сектора\" боевиков\n\</segment>
+		<segment id="15" parent="19" relname="joint">nВ Дагестане в ходе спецоперации уничтожен главарь \"горного сектора\" бандподполья республики Гаджияв Газиев 1981 года рождения.</segment>
+		<segment id="16" parent="17" relname="attribution">Об этом ИТАР-ТАСС сообщил представитель Национального антитеррористического комитета (НАК) Николай Синцов.\n\nПо его словам,</segment>
+		<segment id="17" parent="18" relname="span">сегодня \"после адресных проверочных мероприятий в населенном пункте Кванада Цумадинского района силами ФСБ России совместно с подразделениями внутренних войск МВД России, УФСБ и МВД по Республике Дагестан в горно-лесистой местности была обнаружена группа вооруженных бандитов численностью до десяти человек.</segment>
+		<segment id="20" parent="22" relname="joint">При попытке их задержания</segment>
+		<segment id="21" parent="22" relname="joint">и дальнейшем боестолкновении</segment>
+		<segment id="23" parent="24" relname="span">двое из них были уничтожены\".\n\n\"Уничтоженный в понедельник преступник причастен к многочисленным убийствам и покушениям на жизнь гражданских лиц и сотрудников правоохранительных органов\",</segment>
+		<segment id="25" parent="24" relname="attribution">- сказал представитель НАК \"Интерфаксу\".\n\</segment>
+		<segment id="27" parent="31" relname="sequence">nВ результате вооруженного столкновения с боевиками никто из сотрудников правоохранительных органов не пострадал.\n\n\"В ходе преследования скрывшихся бандитов обнаружен спешно покинутый ими оборудованный зимний блиндаж с запасами продовольствия, обмундирования и боеприпасов.</segment>
+		<segment id="28" parent="29" relname="cause-effect">После его осмотра и необходимого документирования</segment>
+		<segment id="29" parent="30" relname="span">он был уничтожен накладным зарядом\",</segment>
+		<segment id="32" parent="34" relname="sequence">- сказал собеседник агентства.\n\nПоиск скрывшихся боевиков продолжается,</segment>
+		<segment id="33" parent="34" relname="sequence">передает информационный канал \"Вести\".\n\nИсточник: https://www.newsru.com/russia/25Apr2011/gaziev.html\n</segment>
+		<group id="37" type="multinuc" parent="38" relname="span"/>
+		<group id="19" type="multinuc" parent="37" relname="joint"/>
+		<group id="18" type="span" parent="19" relname="joint"/>
+		<group id="36" type="multinuc" parent="37" relname="joint"/>
+		<group id="26" type="span" parent="36" relname="joint"/>
+		<group id="24" type="span" parent="26" relname="span"/>
+		<group id="22" type="multinuc" parent="23" relname="condition"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="31" type="multinuc" parent="35" relname="span"/>
+		<group id="30" type="span" parent="31" relname="sequence"/>
+		<group id="34" type="multinuc" parent="31" relname="attribution"/>
+		<group id="38" type="span"/>
+	</body>
+</rst>

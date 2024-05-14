@@ -1,0 +1,151 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="69" parent="202" relname="preparation">Во Франции объявлены окончательные итоги первого тура выборов.</segment>
+		<segment id="70" parent="72" relname="span">СМИ отмечают две \"сенсации\"\n\</segment>
+		<segment id="71" parent="70" relname="elaboration">nВо Франции объявлены окончательные результаты состоявшихся в воскресенье президентских выборов.</segment>
+		<segment id="73" parent="83" relname="span">Победитель первого тура социалист Франсуа Олланд набрал 28,63% голосов,</segment>
+		<segment id="74" parent="82" relname="span">нынешний глава государства Николя Саркози,</segment>
+		<segment id="75" parent="77" relname="sequence">баллотирующийся на второй срок,</segment>
+		<segment id="76" parent="77" relname="sequence">получил 27,18%,</segment>
+		<segment id="78" parent="80" relname="span">передает \"Интерфакс\".</segment>
+		<segment id="79" parent="78" relname="elaboration">Их соперничество разрешится во втором туре 6 мая.\n\nМировые СМИ отмечают два знаковых факта этих выборов.</segment>
+		<segment id="87" parent="103" relname="contrast">Во-первых, за всю историю Пятой республики (с 1958 года по настоящее время) ни один действующий президент Франции не проигрывал в первом туре.</segment>
+		<segment id="88" parent="90" relname="span">Но это всего лишь факт,</segment>
+		<segment id="89" parent="88" relname="evidence">тогда как настоящей сенсацией стало третье место лидера ультраправого Национального фронта Марин Ле Пен - 43-летней дочери Жан-Мари Ле Пена,</segment>
+		<segment id="91" parent="93" relname="span">для которой эта президентская гонка была первой</segment>
+		<segment id="92" parent="91" relname="elaboration">.\n\nМарин Ле Пен набрала 17,9% голосов</segment>
+		<segment id="95" parent="97" relname="span">- такого результата ее отец,</segment>
+		<segment id="96" parent="95" relname="background">возглавлявший Национальный фронт с момента его основания в 1972 году по январь 2011 года</segment>
+		<segment id="100" parent="101" relname="joint">и трижды участвовавший в президентских выборах, не добивался никогда.</segment>
+		<segment id="104" parent="108" relname="contrast">Хотя однажды, в 2002 году, он неожиданно вышел во второй тур выборов с 16,86% голосов,</segment>
+		<segment id="105" parent="107" relname="span">но в итоге был переизбран Жак Ширак.\n\nПо большому счету,</segment>
+		<segment id="106" parent="105" relname="elaboration">именно от сторонников Ле Пен теперь зависит то, кого Франция получит в президенты на следующие пять лет.</segment>
+		<segment id="109" parent="110" relname="attribution">На первый взгляд,</segment>
+		<segment id="110" parent="111" relname="span">большинство этих людей должны предпочесть правого Саркози левому Олланду,</segment>
+		<segment id="112" parent="116" relname="span">но на самом деле все совсем не так просто.\n\nЭлекторат Ле Пен - это люди,</segment>
+		<segment id="113" parent="114" relname="attribution">которые считают</segment>
+		<segment id="114" parent="115" relname="span">обоих лидеров гонки и их партии двумя лицами одного монстра - французской правящей элиты.</segment>
+		<segment id="119" parent="129" relname="span">Избиратели Ле Пен эту элиту не любят</segment>
+		<segment id="120" parent="124" relname="joint">- она, с их точки зрения, душит их налогами,</segment>
+		<segment id="121" parent="123" relname="joint">не может ничего сделать с нелегальной иммиграцией</segment>
+		<segment id="122" parent="123" relname="joint">и слишком оглядывается на Брюссель и Вашингтон,</segment>
+		<segment id="125" parent="127" relname="span">объясняет обозреватель \"Коммерсант FM\" Константин Эггерт.\n\nСаркози никогда не боялся брать на вооружение отдельные темы Национального фронта - борьбу с этнической преступностью, жесткие меры в отношении иммиграции,</segment>
+		<segment id="126" parent="125" relname="elaboration">угрозу выйти из Шенгенской зоны, запрет мусульманских головных уборов для женщин.</segment>
+		<segment id="132" parent="138" relname="joint">Но пойти на открытый предвыборный союз с партией, которую в его стране и в Европе многие считают \"нерукопожатной\", ему будет нелегко,</segment>
+		<segment id="133" parent="136" relname="attribution">отмечает журналист</segment>
+		<segment id="134" parent="135" relname="attribution">.\n\nВ целом воскресные выборы показали,</segment>
+		<segment id="135" parent="136" relname="span">что недовольство нынешним правящим классом и европейскими институтами во Франции растет.</segment>
+		<segment id="139" parent="143" relname="same-unit">Помимо лидера ультраправых,</segment>
+		<segment id="140" parent="142" relname="span">\"ошеломляющего\" результата достиг и неокоммунист Жан-Люк Меланшон</segment>
+		<segment id="141" parent="140" relname="elaboration">- у него 11,11% голосов.</segment>
+		<segment id="144" parent="146" relname="span">Это еще одно свидетельство кризиса нынешней партийной системы,</segment>
+		<segment id="145" parent="144" relname="elaboration">который подогревается экономическими проблемами Европейского союза,</segment>
+		<segment id="147" parent="146" relname="elaboration">убежден Эггерт.\n\nНаконец, на пятом месте, по итогам первого тура, оказался лидер центристского \"Демократического движения\" Франсуа Байру с 9,13%.</segment>
+		<segment id="150" parent="149" relname="elaboration">Ни один из остальных кандидатов не смог подобраться к отметке в 3% голосов.</segment>
+		<segment id="155" parent="157" relname="span">Эти данные, полученные после подсчета голосов на всех избирательных участках страны, должны быть утверждены Конституционным советом Франции.\n\nЧто касается прогнозов на второй тур,</segment>
+		<segment id="156" parent="155" relname="attribution">то мнения экспертов разделились:</segment>
+		<segment id="158" parent="160" relname="comparison">некоторые предрекают победу Франсуа Олланду,</segment>
+		<segment id="159" parent="160" relname="comparison">другие - Николя Саркози.</segment>
+		<segment id="162" parent="169" relname="attribution">Вместе с тем опросы,</segment>
+		<segment id="163" parent="169" relname="joint">результаты которых опубликованы во Франции после первого тура,</segment>
+		<segment id="164" parent="168" relname="restatement">показывают, что большинство граждан страны во втором туре намерены отдать голоса кандидату от социалистов</segment>
+		<segment id="165" parent="167" relname="span">.\n\nТак,</segment>
+		<segment id="166" parent="165" relname="attribution">согласно опросу, проведенному для газеты Le Parisien,</segment>
+		<segment id="171" parent="174" relname="attribution">53% респондентов заявили,</segment>
+		<segment id="172" parent="173" relname="condition">что если бы выборы прошли в ближайшее воскресенье,</segment>
+		<segment id="173" parent="174" relname="span">то они бы проголосовали за Олланда.</segment>
+		<segment id="177" parent="178" relname="attribution">47% ответили,</segment>
+		<segment id="178" parent="179" relname="span">что проголосуют за Саркози.</segment>
+		<segment id="180" parent="181" relname="comparison">Другой опрос, проведенный компанией Harris Interactive,</segment>
+		<segment id="182" parent="185" relname="attribution">показал,</segment>
+		<segment id="183" parent="185" relname="comparison">что за Олланда сейчас намерены проголосовать 54% французов,</segment>
+		<segment id="184" parent="185" relname="comparison">а за Саркози - 46%.\n\</segment>
+		<segment id="188" parent="193" relname="condition">nЕсли неприятный для Саркози прогноз сбудется,</segment>
+		<segment id="189" parent="192" relname="attribution">то, как отмечает BBC,</segment>
+		<segment id="190" parent="192" relname="span">он станет первым с 1981 года президентом,</segment>
+		<segment id="191" parent="190" relname="elaboration">который не смог остаться в Елисейском дворце на второй срок.\n\nИсточник: https://www.newsru.com/world/23Apr2012/premiertour.html\n</segment>
+		<group id="202" type="multinuc" parent="203" relname="span"/>
+		<group id="84" type="span" parent="202" relname="joint"/>
+		<group id="72" type="span" parent="84" relname="span"/>
+		<group id="83" type="span" parent="72" relname="elaboration"/>
+		<group id="82" type="span" parent="73" relname="elaboration"/>
+		<group id="81" type="span" parent="74" relname="elaboration"/>
+		<group id="77" type="multinuc" parent="81" relname="span"/>
+		<group id="80" type="span" parent="77" relname="attribution"/>
+		<group id="201" type="multinuc" parent="202" relname="joint"/>
+		<group id="103" type="multinuc" parent="201" relname="joint"/>
+		<group id="102" type="span" parent="103" relname="contrast"/>
+		<group id="94" type="span" parent="102" relname="span"/>
+		<group id="90" type="span" parent="94" relname="span"/>
+		<group id="93" type="span" parent="90" relname="background"/>
+		<group id="101" type="multinuc" parent="94" relname="background"/>
+		<group id="97" type="span" parent="101" relname="joint"/>
+		<group id="200" type="multinuc" parent="201" relname="joint"/>
+		<group id="118" type="span" parent="200" relname="joint"/>
+		<group id="108" type="multinuc" parent="118" relname="span"/>
+		<group id="107" type="span" parent="108" relname="contrast"/>
+		<group id="117" type="multinuc" parent="108" relname="interpretation-evaluation"/>
+		<group id="111" type="span" parent="117" relname="contrast"/>
+		<group id="116" type="span" parent="117" relname="contrast"/>
+		<group id="115" type="span" parent="112" relname="elaboration"/>
+		<group id="199" type="multinuc" parent="200" relname="joint"/>
+		<group id="129" type="span" parent="199" relname="contrast"/>
+		<group id="128" type="multinuc" parent="119" relname="cause-effect"/>
+		<group id="124" type="multinuc" parent="128" relname="joint"/>
+		<group id="123" type="multinuc" parent="124" relname="joint"/>
+		<group id="127" type="span" parent="128" relname="joint"/>
+		<group id="198" type="multinuc" parent="199" relname="contrast"/>
+		<group id="152" type="multinuc" parent="198" relname="joint"/>
+		<group id="138" type="multinuc" parent="152" relname="joint"/>
+		<group id="137" type="span" parent="138" relname="joint"/>
+		<group id="136" type="span" parent="137" relname="span"/>
+		<group id="151" type="span" parent="152" relname="joint"/>
+		<group id="149" type="span" parent="151" relname="span"/>
+		<group id="143" type="multinuc" parent="149" relname="span"/>
+		<group id="142" type="span" parent="143" relname="same-unit"/>
+		<group id="148" type="span" parent="143" relname="interpretation-evaluation"/>
+		<group id="146" type="span" parent="148" relname="span"/>
+		<group id="197" type="multinuc" parent="198" relname="joint"/>
+		<group id="161" type="span" parent="197" relname="joint"/>
+		<group id="157" type="span" parent="161" relname="span"/>
+		<group id="160" type="multinuc" parent="157" relname="elaboration"/>
+		<group id="196" type="multinuc" parent="197" relname="joint"/>
+		<group id="176" type="multinuc" parent="196" relname="joint"/>
+		<group id="170" type="span" parent="176" relname="joint"/>
+		<group id="169" type="multinuc" parent="170" relname="span"/>
+		<group id="168" type="multinuc" parent="169" relname="joint"/>
+		<group id="167" type="span" parent="168" relname="restatement"/>
+		<group id="175" type="span" parent="176" relname="joint"/>
+		<group id="174" type="span" parent="175" relname="span"/>
+		<group id="195" type="multinuc" parent="196" relname="joint"/>
+		<group id="187" type="multinuc" parent="195" relname="joint"/>
+		<group id="181" type="multinuc" parent="187" relname="comparison"/>
+		<group id="179" type="span" parent="181" relname="comparison"/>
+		<group id="186" type="span" parent="187" relname="comparison"/>
+		<group id="185" type="multinuc" parent="186" relname="span"/>
+		<group id="194" type="span" parent="195" relname="joint"/>
+		<group id="193" type="span" parent="194" relname="span"/>
+		<group id="192" type="span" parent="193" relname="span"/>
+		<group id="203" type="span"/>
+	</body>
+</rst>

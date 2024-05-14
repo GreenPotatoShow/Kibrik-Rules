@@ -1,0 +1,71 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="28" parent="79" relname="preparation">Ученые:</segment>
+		<segment id="29" parent="31" relname="comparison">жителям американских деревень проще спастись от катастрофы,</segment>
+		<segment id="30" parent="31" relname="comparison">чем горожанам\n\nАмериканская деревня к бедствию подготовлена лучше, чем город.</segment>
+		<segment id="32" parent="31" relname="attribution">Об этом сообщает Washington ProFile,</segment>
+		<segment id="34" parent="33" relname="attribution">ссылаясь на результаты исследования University of Illinois.</segment>
+		<segment id="36" parent="40" relname="span">При этом \"бедствие\" может быть каким угодно</segment>
+		<segment id="37" parent="39" relname="joint">- от террористической атаки до снегопада необычной мощности,</segment>
+		<segment id="38" parent="39" relname="joint">подобного тому, от которого США страдают уже несколько дней.\n\</segment>
+		<segment id="41" parent="47" relname="span">nОбычно считается, что города лучше справляются с подобными проблемами:</segment>
+		<segment id="42" parent="44" relname="joint">у них больше техники, ресурсов и денег,</segment>
+		<segment id="43" parent="44" relname="joint">они обладают более развитой инфраструктурой;</segment>
+		<segment id="45" parent="46" relname="joint">более многочисленными и лучше экипированными спасательными службами, полицией и пожарными; лучшими системами связи и оповещения.\n\</segment>
+		<segment id="48" parent="50" relname="span">nОднако деревня обладает \"активом\",</segment>
+		<segment id="49" parent="48" relname="elaboration">который в значительной степени перечеркивает все достижения цивилизации городов:</segment>
+		<segment id="51" parent="50" relname="elaboration">жители сельской местности традиционно привыкли рассчитывать только на свои силы.</segment>
+		<segment id="53" parent="61" relname="joint">Поэтому они лучше готовы к катаклизмам,</segment>
+		<segment id="54" parent="60" relname="joint">привыкли действовать самостоятельно</segment>
+		<segment id="55" parent="59" relname="joint">- а не ждать указаний властей и помощи со стороны,</segment>
+		<segment id="56" parent="58" relname="span">а также, как правило, готовы прийти на помощь своим соседям</segment>
+		<segment id="57" parent="56" relname="condition">без специальных обращений и команд.</segment>
+		<segment id="63" parent="67" relname="span">Кроме того, сельские жители в своих домах чаще имеют запасы пищи и воды, топлива и резервные мощности</segment>
+		<segment id="64" parent="66" relname="span">(например, электрогенератор, который можно подключить,</segment>
+		<segment id="65" parent="64" relname="condition">если линия электропередач вышла из строя).\n\</segment>
+		<segment id="68" parent="70" relname="joint">nОднако у деревни есть и слабые стороны,</segment>
+		<segment id="69" parent="70" relname="joint">заключают исследователи.</segment>
+		<segment id="71" parent="73" relname="span">В частности, люди живут в отдалении друг от друга</segment>
+		<segment id="72" parent="71" relname="elaboration">- это делает их более уязвимыми.\n\nИсточник: https://www.newsru.com/world/16Jan2007/village.html\n</segment>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="35" type="span" parent="79" relname="joint"/>
+		<group id="33" type="span" parent="35" relname="span"/>
+		<group id="31" type="multinuc" parent="33" relname="span"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="40" type="span" parent="77" relname="preparation"/>
+		<group id="39" type="multinuc" parent="36" relname="cause-effect"/>
+		<group id="77" type="multinuc" parent="78" relname="span"/>
+		<group id="47" type="span" parent="77" relname="comparison"/>
+		<group id="46" type="multinuc" parent="41" relname="elaboration"/>
+		<group id="44" type="multinuc" parent="46" relname="joint"/>
+		<group id="76" type="multinuc" parent="77" relname="comparison"/>
+		<group id="62" type="span" parent="76" relname="joint"/>
+		<group id="52" type="span" parent="61" relname="cause-effect"/>
+		<group id="50" type="span" parent="52" relname="span"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="67" type="span" parent="75" relname="contrast"/>
+		<group id="66" type="span" parent="63" relname="elaboration"/>
+		<group id="74" type="span" parent="75" relname="contrast"/>
+		<group id="70" type="multinuc" parent="74" relname="span"/>
+		<group id="73" type="span" parent="70" relname="elaboration"/>
+		<group id="80" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,62 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="26" relname="contrast">Раскрывшего \"карусель\" журналиста \"Фонтанки\" забрали в полицию,</segment>
+		<segment id="25" parent="26" relname="contrast">но затем отпустили\n\</segment>
+		<segment id="27" parent="29" relname="span">nВ Петербурге корреспондент издания \"Фонтанка\" смог поучаствовать в \"карусели\",</segment>
+		<segment id="28" parent="27" relname="cause-effect">разоблачив людей, пытавшихся незаконно повлиять на результаты выборов.</segment>
+		<segment id="32" parent="34" relname="span">Полицейские, прибывшие на участок, решили составить протокол на журналиста Дениса Короткова</segment>
+		<segment id="33" parent="32" relname="cause-effect">в связи с незаконным получением им избирательных бюллетеней.</segment>
+		<segment id="36" parent="35" relname="attribution">Об этом сообщает сайт городского издания</segment>
+		<segment id="38" parent="40" relname="span">.\n\nКоротков получил бюллетени в Кировском районе на участке 616 по своему паспорту за другого человека в рамках журналистского эксперимента,</segment>
+		<segment id="39" parent="38" relname="purpose">чтобы выявить \"карусель\".</segment>
+		<segment id="41" parent="43" relname="joint">Для этого он наклеил в паспорт специальную отметку,</segment>
+		<segment id="42" parent="43" relname="joint">и член УИК выдал ему четыре бюллетеня.</segment>
+		<segment id="44" parent="45" relname="attribution">Прописка корреспондента свидетельствовала о том,</segment>
+		<segment id="45" parent="46" relname="span">что он зарегистрирован в другом районе (Фрунзенском),</segment>
+		<segment id="47" parent="48" relname="joint">и ему велели расписаться за другого человека.\n\</segment>
+		<segment id="49" parent="54" relname="condition">nПосле того, как корреспондент представился,</segment>
+		<segment id="50" parent="53" relname="attribution">в комиссии заявили</segment>
+		<segment id="51" parent="53" relname="joint">о намерении разобраться в ситуации</segment>
+		<segment id="52" parent="53" relname="joint">и вызвали полицию.\n\nПолицейские решили заняться корреспондентом, а не членами УИК, выдававшими бюллетени пачками.</segment>
+		<segment id="56" parent="58" relname="span">Как сообщила \"Фонтанка\",</segment>
+		<segment id="57" parent="56" relname="background">Короткова доставили в 64-й отдел полиции,</segment>
+		<segment id="59" parent="60" relname="attribution">но впоследствии корреспондента издания отпустили.\n\nРанее \"Новая газета\" отмечала,</segment>
+		<segment id="60" parent="61" relname="span">что во время предыдущих кампаний Петербург отмечался \"массовыми фальсификациями результатов голосований\".\n\nИсточник: https://www.newsru.com/russia/18Sep2016/korotkov.html\n</segment>
+		<group id="26" type="multinuc" parent="67" relname="preparation"/>
+		<group id="67" type="multinuc" parent="68" relname="span"/>
+		<group id="37" type="span" parent="67" relname="joint"/>
+		<group id="35" type="multinuc" parent="37" relname="span"/>
+		<group id="29" type="span" parent="35" relname="joint"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="40" type="span" parent="66" relname="joint"/>
+		<group id="65" type="multinuc" parent="66" relname="joint"/>
+		<group id="43" type="multinuc" parent="65" relname="sequence"/>
+		<group id="64" type="multinuc" parent="65" relname="sequence"/>
+		<group id="48" type="multinuc" parent="64" relname="sequence"/>
+		<group id="46" type="span" parent="48" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="sequence"/>
+		<group id="55" type="span" parent="62" relname="preparation"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="53" type="multinuc" parent="54" relname="span"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="58" type="span" parent="62" relname="contrast"/>
+		<group id="61" type="span" parent="62" relname="contrast"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

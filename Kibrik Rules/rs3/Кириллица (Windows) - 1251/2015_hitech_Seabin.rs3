@@ -1,0 +1,72 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="31" relname="span">Австралийские серферы изобрели ненасытную корзину</segment>
+		<segment id="30" parent="29" relname="purpose">для сбора мусора в мировом океане (ВИДЕО)\n\nДва австралийских серфера,</segment>
+		<segment id="32" parent="33" relname="cause-effect">уставшие от количества мусора, царапающего их серфборды,</segment>
+		<segment id="33" parent="34" relname="span">предложили простое и элегантное решение по очистке больших объемов воды.</segment>
+		<segment id="36" parent="42" relname="span">Это мусорный бак под названием Seabin,</segment>
+		<segment id="37" parent="41" relname="joint">который размещается на поверхности где-нибудь у причала</segment>
+		<segment id="38" parent="40" relname="joint">или цепляется за борт лодки</segment>
+		<segment id="39" parent="40" relname="joint">и с помощью насоса всасывает воду вместе со всем плавающим в ней мусором.\n\</segment>
+		<segment id="43" parent="47" relname="joint">nВода из него тут же выходит очищенной,</segment>
+		<segment id="44" parent="46" relname="span">а мусор остается внутри в съемном мешке,</segment>
+		<segment id="45" parent="44" relname="elaboration">который нужно периодически менять.</segment>
+		<segment id="48" parent="49" relname="span">Таким образом, бак может функционировать круглосуточно.</segment>
+		<segment id="50" parent="54" relname="span">Размеры и вес устройства рассчитаны так,</segment>
+		<segment id="51" parent="53" relname="joint">чтобы его смог установить</segment>
+		<segment id="52" parent="53" relname="joint">и чистить один человек.\n\</segment>
+		<segment id="55" parent="64" relname="preparation">nСудя по схеме и описанию,</segment>
+		<segment id="56" parent="60" relname="joint">в этой конструкции подразумевается насос, который размещается на причале,</segment>
+		<segment id="57" parent="59" relname="joint">соединяется с баком трубой</segment>
+		<segment id="58" parent="59" relname="joint">и позволяет прокачивать воду.\n\nСоздатели Seabin подчеркивают,</segment>
+		<segment id="61" parent="63" relname="span">что устройство будет эффективно не только в борьбе с плавающим на поверхности мусором, но и с разлившейся нефтью.\n\nСерферы уверяют,</segment>
+		<segment id="62" parent="61" relname="cause-effect">что за четыре года тестирования в их бак ни разу не засосало рыбу или другое морское животное.</segment>
+		<segment id="66" parent="72" relname="span">Сейчас они собирают на платформе Indiegogo средства на массовый выпуск таких корзин</segment>
+		<segment id="67" parent="71" relname="span">.\n\nСамые щедрые жертвователи проекта получат титул \"Посла океана\" и первые корзины за 3825 долларов,</segment>
+		<segment id="68" parent="70" relname="joint">которые будут сделаны из особых материалов, по эксклюзивному дизайну</segment>
+		<segment id="69" parent="70" relname="joint">и на которых будет выгравировано имя владельца.</segment>
+		<segment id="73" parent="77" relname="span">Поставки этих корзин запланированы на ноябрь 2016 года.</segment>
+		<segment id="74" parent="75" relname="condition">В случае успешного запуска производства</segment>
+		<segment id="75" parent="76" relname="span">другие корзины будут более доступны в цене.\n\nИсточник: https://www.newsru.com/hitech/29Dec2015/Seabin.html\n</segment>
+		<group id="35" type="span" parent="82" relname="preparation"/>
+		<group id="31" type="span" parent="35" relname="span"/>
+		<group id="34" type="span" parent="31" relname="cause-effect"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="42" type="span" parent="81" relname="preparation"/>
+		<group id="41" type="multinuc" parent="36" relname="elaboration"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="81" type="multinuc" parent="82" relname="span"/>
+		<group id="49" type="span" parent="81" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="evidence"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="80" type="span" parent="81" relname="joint"/>
+		<group id="54" type="span" parent="80" relname="span"/>
+		<group id="53" type="multinuc" parent="50" relname="purpose"/>
+		<group id="79" type="span" parent="54" relname="elaboration"/>
+		<group id="65" type="span" parent="79" relname="span"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="60" type="multinuc" parent="63" relname="cause-effect"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="78" type="multinuc" parent="65" relname="elaboration"/>
+		<group id="72" type="span" parent="78" relname="joint"/>
+		<group id="71" type="span" parent="66" relname="elaboration"/>
+		<group id="70" type="multinuc" parent="67" relname="elaboration"/>
+		<group id="77" type="span" parent="78" relname="joint"/>
+		<group id="76" type="span" parent="73" relname="elaboration"/>
+		<group id="83" type="span"/>
+	</body>
+</rst>

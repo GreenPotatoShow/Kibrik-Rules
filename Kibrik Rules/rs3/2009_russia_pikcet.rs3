@@ -1,0 +1,42 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="18" relname="sequence">В Москве в четверг пройдет пикет в память об убитой правозащитнице \"Мемориала\"\n\nВ Москве 16 июля (в четверг) пройдет пикет памяти погибшей правозащитницы Натальи Эстемировой.</segment>
+		<segment id="15" parent="17" relname="span">Акция намечена на 17:30 в Новопушкинском сквере,</segment>
+		<segment id="16" parent="15" relname="attribution">сообщил лидер движения \"За права человека\" Лев Пономарев в эфире \"Эхо Москвы\".\n\</segment>
+		<segment id="19" parent="22" relname="attribution">nПо словам правозащитника,</segment>
+		<segment id="20" parent="22" relname="span">изначально это был согласованный антивоенный пикет,</segment>
+		<segment id="21" parent="20" relname="elaboration">который традиционно, по четвергам, проводится в этом сквере.</segment>
+		<segment id="24" parent="30" relname="span">Но из-за чрезвычайного происшествия организаторы изменили тему.\n\</segment>
+		<segment id="25" parent="29" relname="joint">nНапомним, Эстемирову похитили утром в среду в Грозном,</segment>
+		<segment id="26" parent="27" relname="cause-effect">а тело ее вечером с огнестрельными ранениями в области головы и грудной клетки нашли около 16:30 в 100 метрах от федеральной автомобильной дороги \"Кавказ\" в Ингушетии.\n\nВ СКП РФ заявили,</segment>
+		<segment id="27" parent="28" relname="span">что в качестве основных версий убийства следствие рассматривает личную неприязнь или профессиональную деятельность погибшей.</segment>
+		<segment id="31" parent="33" relname="span">Дело возбуждено по признакам преступлений, предусмотренных ч.1. ст. 105 и ч. 1 ст. 222 УК РФ (убийство и незаконный оборот оружия и боеприпасов).\n\</segment>
+		<segment id="32" parent="31" relname="purpose">nДля расследования убийства в Ингушетии правозащитницы из Грозного Натальи Эстемировой на место происшествия вылетела группа криминалистов Следственного комитета при прокуратуре РФ из Москвы,</segment>
+		<segment id="34" parent="35" relname="joint">сообщила пресс-служба СКП РФ.\n\nВ Назрань уже выехали следователи Главного следственного управления по Южному федеральному округу и криминалисты центрального аппарата Следственного комитета.\n\nИсточник: https://www.newsru.com/russia/15Jul2009/pikcet.html\n</segment>
+		<group id="18" type="multinuc" parent="37" relname="preparation"/>
+		<group id="17" type="span" parent="18" relname="sequence"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="23" type="span" parent="36" relname="preparation"/>
+		<group id="22" type="span" parent="23" relname="span"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="30" type="span" parent="36" relname="joint"/>
+		<group id="29" type="multinuc" parent="24" relname="elaboration"/>
+		<group id="28" type="span" parent="29" relname="joint"/>
+		<group id="35" type="multinuc" parent="36" relname="joint"/>
+		<group id="33" type="span" parent="35" relname="joint"/>
+		<group id="38" type="span"/>
+	</body>
+</rst>

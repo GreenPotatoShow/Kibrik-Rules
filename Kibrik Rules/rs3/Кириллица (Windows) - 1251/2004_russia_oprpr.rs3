@@ -1,0 +1,41 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="16" relname="attribution">55% россиян считает,</segment>
+		<segment id="16" parent="17" relname="span">что все положительное в экономике - заслуга президента\n\</segment>
+		<segment id="18" parent="21" relname="attribution">nОпрос проведенный Аналитическим Центром Юрия Левады свидетельствует о том,</segment>
+		<segment id="19" parent="20" relname="attribution">что большинство россиян (55%) считают,</segment>
+		<segment id="20" parent="21" relname="span">что именно президенту Владимиру Путину принадлежит заслуга за последние повышения зарплат, пенсий и пособий.</segment>
+		<segment id="23" parent="24" relname="joint">Исследование проводилось в августе среди 1600 респондентов.\n\nМенее трети опрошенных (28%) видят в этом заслугу правительства.</segment>
+		<segment id="25" parent="26" relname="attribution">Еще 8% респондентов полагают,</segment>
+		<segment id="26" parent="27" relname="span">что губернаторы и местные власти повышают им зарплаты, пенсии и пособия, а 3% - промышленники и предприниматели.</segment>
+		<segment id="28" parent="30" relname="comparison">12% затруднились высказать свое мнение.\n\</segment>
+		<segment id="29" parent="30" relname="comparison">nВ то же время четверть россиян (24%) возлагает на президента основную ответственность за последние повышения цен, рост стоимости жизни.</segment>
+		<segment id="33" parent="39" relname="comparison">Однако 46% возлагают за это вину на правительство.</segment>
+		<segment id="34" parent="37" relname="attribution">16% - губернаторов и местные власти, 12% - промышленников и предпринимателей.\n\nСоциологи Центра отмечают,</segment>
+		<segment id="35" parent="37" relname="comparison">что в массовом сознании россиян, как и в прошлые годы, с президентом связываются в основном положительные экономические изменения, происходящие в России,</segment>
+		<segment id="36" parent="37" relname="comparison">а правительство оказывается ответственным за экономические явления сугубо отрицательного характера.\n\nИсточник: https://www.newsru.com/russia/12Sep2004/oprpr.html\n</segment>
+		<group id="17" type="span" parent="40" relname="preparation"/>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="32" type="multinuc" parent="40" relname="contrast"/>
+		<group id="24" type="multinuc" parent="32" relname="joint"/>
+		<group id="22" type="span" parent="24" relname="joint"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="31" type="multinuc" parent="32" relname="joint"/>
+		<group id="27" type="span" parent="31" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="joint"/>
+		<group id="39" type="multinuc" parent="40" relname="contrast"/>
+		<group id="38" type="span" parent="39" relname="comparison"/>
+		<group id="37" type="multinuc" parent="38" relname="span"/>
+		<group id="41" type="span"/>
+	</body>
+</rst>

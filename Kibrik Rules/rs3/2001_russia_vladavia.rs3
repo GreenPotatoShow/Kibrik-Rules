@@ -1,0 +1,43 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="19" relname="span">В компании \"Владивосток-авиа\" не исполнялось трудовое законодательство\n\nСущественные нарушения трудового законодательства обнаружила специальная комиссия в компании \"Владивосток-авиа\",</segment>
+		<segment id="18" parent="17" relname="elaboration">принадлежащий которой самолет Ту-154 со 130 пассажирами и девятью членами экипажа на борту потерпел катастрофу 3 июля под Иркутском.\n\nКак сообщает РИА \"Новости\",</segment>
+		<segment id="20" parent="23" relname="attribution">во время проверки установлено,</segment>
+		<segment id="21" parent="23" relname="joint">что многие пилоты и бортинженеры компании не были в отпуске по два-три года</segment>
+		<segment id="22" parent="23" relname="joint">и накопили большую психологическую и физическую усталость.</segment>
+		<segment id="26" parent="46" relname="joint">Многие экипажи авиакомпании не всегда имели полноценный отдых перед дальними полетами.</segment>
+		<segment id="27" parent="45" relname="span">Более того, нередки случаи, когда пилоты, бортинженеры и проводники проводят в воздухе сверхнормативное количество часов.\n\</segment>
+		<segment id="28" parent="29" relname="attribution">nПо словам председателя комиссии по соблюдению трудового законодательства Геннадия Лобеева,</segment>
+		<segment id="29" parent="30" relname="span">все это существенно влияло на физическое и психологическое состояние летного состава.\n\</segment>
+		<segment id="31" parent="33" relname="span">nДвое руководителей авиакомпании,</segment>
+		<segment id="32" parent="31" relname="elaboration">которые отвечали за летную подготовку экипажей, безопасность и качество полетов,</segment>
+		<segment id="34" parent="37" relname="attribution">уже уволены.\n\nПомощник гендиректора \"Владивосток-авиа\" Владимир Разбежкин заявил,</segment>
+		<segment id="35" parent="37" relname="span">что руководство компании пересмотрело многие позиции и технологию организации работы предприятия, в том числе выполнение полетов</segment>
+		<segment id="36" parent="35" relname="condition">при смене экипажей.</segment>
+		<segment id="42" parent="43" relname="joint">Под строгий контроль руководства взяты условия, режим и продолжительность отдыха экипажей.\n\nИсточник: https://www.newsru.com/russia/21Aug2001/vladavia.html\n</segment>
+		<group id="25" type="multinuc" parent="47" relname="joint"/>
+		<group id="19" type="span" parent="25" relname="joint"/>
+		<group id="24" type="span" parent="25" relname="joint"/>
+		<group id="23" type="multinuc" parent="24" relname="span"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="44" type="multinuc" parent="27" relname="evidence"/>
+		<group id="30" type="span" parent="44" relname="joint"/>
+		<group id="43" type="multinuc" parent="44" relname="joint"/>
+		<group id="39" type="multinuc" parent="43" relname="joint"/>
+		<group id="33" type="span" parent="39" relname="joint"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="47" type="multinuc"/>
+	</body>
+</rst>

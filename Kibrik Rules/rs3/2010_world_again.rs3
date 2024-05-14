@@ -1,0 +1,103 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="43" parent="45" relname="span">Во Франции демонстранты продолжают борьбу за контроль над нефтехранилищами\n\nВо Франции продолжается противостояние между полицией и демонстрантами,</segment>
+		<segment id="44" parent="43" relname="elaboration">которые снова начали осаду нефтехранилищ.</segment>
+		<segment id="46" parent="50" relname="joint">Протестующие против пенсионной реформы</segment>
+		<segment id="47" parent="49" relname="span">французы намерены снова занять заводы,</segment>
+		<segment id="48" parent="47" relname="elaboration">из которых несколькими часами ранее их выгнала полиция.\n\nДемонстрации и забастовки уже привели к тому, что 12 нефтеперерабатывающих заводов Франции простаивают.</segment>
+		<segment id="51" parent="53" relname="span">Стране пришлось прибегнуть к массовому импорту электроэнергии</segment>
+		<segment id="52" parent="51" relname="cause-effect">в связи с проходящими забастовками на объектах энергетики, а также регламентными работами на АЭС,</segment>
+		<segment id="54" parent="53" relname="attribution">передает ИТАР-ТАСС.\n\</segment>
+		<segment id="58" parent="61" relname="attribution">nПо данным компании, управляющей государственными ЛЭП,</segment>
+		<segment id="59" parent="61" relname="comparison">в середине дня 20 октября страна импортировала 5900 мгВт электроэнергии,</segment>
+		<segment id="60" parent="61" relname="comparison">что эквивалентно производству ее шести энергоблоками АЭС.</segment>
+		<segment id="63" parent="68" relname="attribution">По данным ряда экспертов,</segment>
+		<segment id="64" parent="68" relname="joint">данный уровень сегодня уже превысил шесть тысяч мгВт</segment>
+		<segment id="65" parent="67" relname="comparison">и приближается к историческому рекорду в импорте электроэнергии страной - 7797 мгВт в начале крайне холодного января 2010 года.\n\nБолее чем на трех тысячах автозаправочных станций Франции временно отсутствует горючее,</segment>
+		<segment id="66" parent="67" relname="comparison">а на 1700 АЗС возникли перебои с поставками некоторых марок автомобильного топлива.</segment>
+		<segment id="70" parent="72" relname="span">Об этом сообщил сегодня министр экологии и энергетики страны Жан-Луи Борлоо,</segment>
+		<segment id="71" parent="70" relname="elaboration">отвечая на вопросы депутатов Национального собрания.</segment>
+		<segment id="75" parent="77" relname="restatement">Объявленные Борлоо цифры означают,</segment>
+		<segment id="76" parent="77" relname="restatement">что практически на каждой четвертой АЗС Франции топливо в настоящее время полностью отсутствует.\n\</segment>
+		<segment id="78" parent="82" relname="span">nВ разных городах страны продолжаются стычки манифестантов с полицией.</segment>
+		<segment id="79" parent="81" relname="span">В частности, сообщается о столкновениях в Нантере - пригороде Парижа,</segment>
+		<segment id="80" parent="79" relname="attribution">передает BBC.</segment>
+		<segment id="83" parent="95" relname="sequence">Около 300 участников акции протеста перекрыли вход в основной терминал главного аэропорта Франции имени Шарля де Голля.</segment>
+		<segment id="84" parent="94" relname="sequence">Они пели французский гимн,</segment>
+		<segment id="85" parent="87" relname="sequence">а затем, прорвавшись через кордон полиции,</segment>
+		<segment id="86" parent="87" relname="sequence">прошли в здание,</segment>
+		<segment id="88" parent="92" relname="span">размахивая флагами.\n\nКроме того, забастовщики перекрыли главную дорогу,</segment>
+		<segment id="91" parent="88" relname="elaboration">которая вела к одному из двух терминалов аэропорта Орли в Париже, затем блокировав дорогу к другому терминалу.</segment>
+		<segment id="96" parent="103" relname="attribution">По сообщению профсоюзов,</segment>
+		<segment id="97" parent="99" relname="span">аэропорт Клермон-Ферран в центральной Франции закрыт,</segment>
+		<segment id="98" parent="97" relname="elaboration">в других аэропортах страны отменен ряд рейсов.\n\</segment>
+		<segment id="100" parent="101" relname="attribution">nВ среду министр внутренних дел пригрозил</segment>
+		<segment id="101" parent="102" relname="span">отправить военизированную полицию GIGN на борьбу с акциями протеста.</segment>
+		<segment id="105" parent="115" relname="joint">За последнюю неделю было задержано 1423 человека,</segment>
+		<segment id="106" parent="114" relname="joint">из них 123 предстанут перед судом,</segment>
+		<segment id="107" parent="113" relname="contrast">62 полицейских было ранено.\n\</segment>
+		<segment id="108" parent="112" relname="same-unit">nОднако,</segment>
+		<segment id="109" parent="110" relname="concession">несмотря на массовые протесты,</segment>
+		<segment id="110" parent="111" relname="span">правительство не намерено отступать от намеченной реформы.</segment>
+		<segment id="116" parent="118" relname="span">Единственное пока, чего удалось добиться демонстрантам,</segment>
+		<segment id="117" parent="116" relname="elaboration">- это то, что окончательное принятие решение перенесено со среды на конец недели.\n\nИсточник: https://www.newsru.com/world/20Oct2010/again.html\n</segment>
+		<group id="57" type="span" parent="125" relname="joint"/>
+		<group id="45" type="span" parent="56" relname="preparation"/>
+		<group id="56" type="multinuc" parent="57" relname="span"/>
+		<group id="50" type="multinuc" parent="56" relname="joint"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="53" type="span" parent="55" relname="span"/>
+		<group id="124" type="multinuc" parent="125" relname="joint"/>
+		<group id="74" type="multinuc" parent="124" relname="joint"/>
+		<group id="62" type="span" parent="74" relname="joint"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="69" type="span" parent="73" relname="span"/>
+		<group id="68" type="multinuc" parent="69" relname="span"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="72" type="span" parent="69" relname="attribution"/>
+		<group id="123" type="multinuc" parent="124" relname="joint"/>
+		<group id="77" type="multinuc" parent="123" relname="joint"/>
+		<group id="122" type="multinuc" parent="123" relname="joint"/>
+		<group id="82" type="span" parent="122" relname="joint"/>
+		<group id="81" type="span" parent="78" relname="elaboration"/>
+		<group id="121" type="multinuc" parent="122" relname="joint"/>
+		<group id="95" type="multinuc" parent="121" relname="joint"/>
+		<group id="94" type="multinuc" parent="95" relname="sequence"/>
+		<group id="93" type="multinuc" parent="94" relname="sequence"/>
+		<group id="87" type="multinuc" parent="93" relname="sequence"/>
+		<group id="92" type="span" parent="93" relname="sequence"/>
+		<group id="120" type="multinuc" parent="121" relname="joint"/>
+		<group id="104" type="span" parent="120" relname="joint"/>
+		<group id="103" type="multinuc" parent="104" relname="span"/>
+		<group id="99" type="span" parent="103" relname="joint"/>
+		<group id="102" type="span" parent="103" relname="joint"/>
+		<group id="119" type="span" parent="120" relname="joint"/>
+		<group id="115" type="multinuc" parent="119" relname="span"/>
+		<group id="114" type="multinuc" parent="115" relname="joint"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="112" type="multinuc" parent="113" relname="contrast"/>
+		<group id="111" type="span" parent="112" relname="same-unit"/>
+		<group id="118" type="span" parent="115" relname="interpretation-evaluation"/>
+		<group id="125" type="multinuc"/>
+	</body>
+</rst>

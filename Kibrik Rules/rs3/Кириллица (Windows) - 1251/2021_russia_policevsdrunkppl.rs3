@@ -1,0 +1,55 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="23" relname="span">В МВД предложили забирать граждан в вытрезвители прямо из дома\n\nМВД разработало порядок доставления граждан \"в состоянии алкогольного, наркотического или иного токсического опьянения\" в медицинские вытрезвители,</segment>
+		<segment id="22" parent="21" relname="elaboration">следует из проекта приказа, опубликованного на портале проектов нормативных правовых актов.\n\nВ проекте приказа говорится,</segment>
+		<segment id="24" parent="30" relname="span">что полицейские могут доставлять пьяных граждан в вытрезвители из общественных мест</segment>
+		<segment id="25" parent="29" relname="span">(со стадионов, вокзалов, парков) в том случае,</segment>
+		<segment id="26" parent="28" relname="joint">если они потеряли способность самостоятельно передвигаться</segment>
+		<segment id="27" parent="28" relname="joint">и ориентироваться.\n\</segment>
+		<segment id="32" parent="36" relname="span">nКроме того, сотрудники МВД могут забирать нетрезвых людей из квартир и домов,</segment>
+		<segment id="33" parent="35" relname="joint">если они могут причинить вред другим гражданам</segment>
+		<segment id="34" parent="35" relname="joint">или нанести ущерб имуществу.</segment>
+		<segment id="37" parent="39" relname="span">В таком случае находящиеся вместе с пьяным человеком люди должны написать заявление.\n\nПолицейские получат право использовать ведомственные базы данных</segment>
+		<segment id="38" parent="37" relname="purpose">для установления личности пьяных.</segment>
+		<segment id="40" parent="41" relname="joint">Доставлять в вытрезвители их должны минимум двое полицейских на служебной машине.</segment>
+		<segment id="43" parent="47" relname="joint">Перед этим им следует убедиться в отсутствии оружия.\n\</segment>
+		<segment id="44" parent="46" relname="span">nПравоохранители также будут обязаны обеспечить безопасность медикам в вытрезвителях,</segment>
+		<segment id="45" parent="44" relname="condition">когда те проводят освидетельствование доставленных граждан.\n\</segment>
+		<segment id="48" parent="50" relname="sequence">nНапомним, систему вытрезвителей, ликвидированную в России в 2011 году в рамках реформы МВД,</segment>
+		<segment id="49" parent="50" relname="sequence">воссоздали с 1 января 2021 года.</segment>
+		<segment id="51" parent="55" relname="span">Соответствующий законопроект приняла Госдума.</segment>
+		<segment id="52" parent="53" relname="cause-effect">Вытрезвители решено создавать на базе государственно-частного партнерства,</segment>
+		<segment id="53" parent="54" relname="span">что предполагает взимание платы за пребывание в них.\n\nИсточник: https://www.newsru.com/russia/21Feb2021/policevsdrunkppl.html\n</segment>
+		<group id="31" type="span" parent="59" relname="joint"/>
+		<group id="23" type="span" parent="31" relname="span"/>
+		<group id="30" type="span" parent="23" relname="cause-effect"/>
+		<group id="29" type="span" parent="24" relname="elaboration"/>
+		<group id="28" type="multinuc" parent="25" relname="condition"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="42" type="span" parent="58" relname="joint"/>
+		<group id="36" type="span" parent="42" relname="span"/>
+		<group id="35" type="multinuc" parent="32" relname="condition"/>
+		<group id="41" type="multinuc" parent="36" relname="elaboration"/>
+		<group id="39" type="span" parent="41" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="47" type="multinuc" parent="57" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="50" type="multinuc" parent="56" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="54" type="span" parent="51" relname="elaboration"/>
+		<group id="59" type="multinuc"/>
+	</body>
+</rst>

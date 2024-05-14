@@ -1,0 +1,61 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="36" relname="joint">Евгений Примаков награжден медалью Горчакова за вклад в развитие внешней политики России\n\nМИД России наградил бывшего министра иностранных дел, а ныне лидера фракции ОВР в Госдуме РФ Евгения Примакова медалью имени выдающегося российского внешнеполитического деятеля, канцлера Андрея Горчакова.</segment>
+		<segment id="27" parent="35" relname="joint">Эту медаль Примакову вручил в пятницу его преемник, министр иностранных дел России Игорь Иванов.\n\</segment>
+		<segment id="28" parent="33" relname="preparation">nВыступая на церемонии награждения,</segment>
+		<segment id="29" parent="30" relname="attribution">Иванов заметил,</segment>
+		<segment id="30" parent="31" relname="span">что \"в России есть и более высокие награды,</segment>
+		<segment id="32" parent="33" relname="contrast">но только эту можно рассматривать как свидетельство признания дипломатами- профессионалами личного вклада лауреата в реализацию внешней политики РФ\".</segment>
+		<segment id="37" parent="38" relname="attribution">Глава МИД отметил,</segment>
+		<segment id="38" parent="39" relname="span">что таких медалей, которыми решено награждать российских и иностранных представителей за особые заслуги в укреплении мира и развитие международного сотрудничества, всего 40.\n\</segment>
+		<segment id="40" parent="41" relname="attribution">nКак сообщил министр,</segment>
+		<segment id="41" parent="42" relname="span">Евгений Примаков - третий лауреат этой награды.</segment>
+		<segment id="44" parent="49" relname="cause-effect">Ранее медаль была вручена только первому президенту России Борису Ельцину и нынешнему президенту РФ Владимиру Путину.</segment>
+		<segment id="45" parent="48" relname="cause-effect">В связи с этим Иванов особо отметил вклад Примакова \"в развитие и обновление российской внешней политики\".\n\nВ свою очередь Евгений Примаков,</segment>
+		<segment id="46" parent="47" relname="attribution">давая оценку деятельности Игорю Иванову, заявил,</segment>
+		<segment id="47" parent="48" relname="span">что тот \"прекрасно выполняет свои обязанности главы МИД\".</segment>
+		<segment id="52" parent="55" relname="attribution">При этом Примаков отметил,</segment>
+		<segment id="53" parent="55" relname="span">что Иванов возглавил министерство иностранных дел,</segment>
+		<segment id="54" parent="53" relname="interpretation-evaluation">\"когда всей стране было очень худо\".</segment>
+		<segment id="57" parent="58" relname="attribution">По его словам,</segment>
+		<segment id="58" parent="59" relname="span">в современных условиях внешняя политика России \"призвана решать очень большие задачи:</segment>
+		<segment id="60" parent="64" relname="joint">помочь сохранить территориальную целостность России,</segment>
+		<segment id="61" parent="63" relname="joint">укрепить ее безопасность и обороноспособность,</segment>
+		<segment id="62" parent="63" relname="joint">продвинуть интеграционные процессы на пространстве бывшего СССР\".\n\nИсточник: https://www.newsru.com/russia/17Apr2001/primakov1.html\n</segment>
+		<group id="36" type="multinuc" parent="68" relname="joint"/>
+		<group id="35" type="multinuc" parent="36" relname="joint"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="33" type="multinuc" parent="34" relname="span"/>
+		<group id="31" type="span" parent="33" relname="contrast"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="51" type="multinuc" parent="67" relname="joint"/>
+		<group id="43" type="span" parent="51" relname="joint"/>
+		<group id="39" type="span" parent="43" relname="span"/>
+		<group id="42" type="span" parent="39" relname="attribution"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="56" type="span" parent="66" relname="span"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="65" type="span" parent="56" relname="elaboration"/>
+		<group id="59" type="span" parent="65" relname="span"/>
+		<group id="64" type="multinuc" parent="59" relname="purpose"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="68" type="multinuc"/>
+	</body>
+</rst>

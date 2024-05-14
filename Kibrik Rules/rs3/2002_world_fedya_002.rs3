@@ -1,0 +1,36 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="14" relname="span">Новой \"Мисс Вселенной 2002\" стала представительница Панамы\n\nОбладательницей титула \"Мисс Вселенная - 2002\" стала представительница Панамы Хустина Пасек.</segment>
+		<segment id="13" parent="12" relname="attribution">Об этом в понедельник заявил представитель оргкомитета конкурса</segment>
+		<segment id="15" parent="17" relname="span">.\n\nОжидается, что официально об избрании Пасек будет объявлено на пресс-конференции,</segment>
+		<segment id="16" parent="15" relname="elaboration">которая состоится во вторник в Нью-Йорке.\n\nХустина стала первой представительницей центральноамериканской страны, получившей титул \"Мисс Вселенная\".</segment>
+		<segment id="18" parent="20" relname="span">Она будет носить это звание ближайшие 9 месяцев до следующего конкурса,</segment>
+		<segment id="19" parent="18" relname="elaboration">который, как планируется, состоится у нее на родине.\n\nНа конкурсе нынешнего года, состоявшемся 29 мая в Пуэрто-Рико, Пасек завоевала титул \"первой финалистки\",</segment>
+		<segment id="21" parent="23" relname="span">уступив лишь россиянке Оксане Федоровой,</segment>
+		<segment id="22" parent="21" relname="elaboration">которая отказалась теперь от звания первой красавицы мира.\n\</segment>
+		<segment id="25" parent="26" relname="attribution">nКак отметил исполнительный директор конкурса \"Мисс Вселенная - 2003\" Габриэль Норьега,</segment>
+		<segment id="26" parent="27" relname="span">избрание Пасек вызывает у панамцев \"чувство гордости и большого энтузиазма\".</segment>
+		<segment id="28" parent="29" relname="joint">При этом Норьега выразил \"сожаление в связи с решением, принятым Федоровой\".\n\nИсточник: https://www.newsru.com/world/24Sep2002/fedya.html\n</segment>
+		<group id="14" type="span" parent="32" relname="sequence"/>
+		<group id="31" type="multinuc" parent="32" relname="sequence"/>
+		<group id="17" type="span" parent="31" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="joint"/>
+		<group id="24" type="span" parent="30" relname="joint"/>
+		<group id="20" type="span" parent="24" relname="span"/>
+		<group id="23" type="span" parent="20" relname="condition"/>
+		<group id="29" type="multinuc" parent="30" relname="joint"/>
+		<group id="27" type="span" parent="29" relname="joint"/>
+		<group id="32" type="multinuc"/>
+	</body>
+</rst>

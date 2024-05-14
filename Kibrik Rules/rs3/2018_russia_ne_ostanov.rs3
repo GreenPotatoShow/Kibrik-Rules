@@ -1,0 +1,129 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="56" parent="63" relname="preparation">Глава \"Натали Турс\" опроверг информацию о приостановке деятельности компании\n\nНа сайте компании \"Натали Турс\" появилось официальное объявление о том, что компания приостановила свою операционную деятельность.</segment>
+		<segment id="57" parent="60" relname="attribution">В ассоциации туроператоров по выездному туризму \"Турпомощь\" сообщили,</segment>
+		<segment id="58" parent="60" relname="span">что заявление \"Натали Турс\" только фиксирует ситуацию,</segment>
+		<segment id="59" parent="58" relname="elaboration">оно не повлечет за собой возможности для клиентов получить выплаты из финансовых гарантий.\n\n\"Туроператор приостановил операционную деятельность,</segment>
+		<segment id="62" parent="63" relname="contrast">но не остановил в соответствии с законом туроператорскую деятельность.</segment>
+		<segment id="65" parent="69" relname="span">Это ничего не значит</segment>
+		<segment id="66" parent="68" relname="span">- только то, что компания не берет на себя новых обязательств.</segment>
+		<segment id="67" parent="66" relname="interpretation-evaluation">К сожалению, просто зафиксирована ситуация сегодняшнего дня\",</segment>
+		<segment id="70" parent="69" relname="attribution">- сообщил \"Интерфаксу\" директор \"Турпомощи\" Александр Осауленко.\n\</segment>
+		<segment id="73" parent="76" relname="attribution">nПри этом президент туроператора \"Натали Турс\" Владимир Воробьев заверил,</segment>
+		<segment id="74" parent="76" relname="span">что с 1 октября работу с клиентами возобновят,</segment>
+		<segment id="75" parent="74" relname="attribution">сообщает РИА \"Новости\".</segment>
+		<segment id="78" parent="80" relname="joint">\"Мы продолжаем работать с реестром клиентов,</segment>
+		<segment id="79" parent="80" relname="joint">и с 1 октября мы планируем возобновить деятельность.</segment>
+		<segment id="81" parent="80" relname="attribution">Как об этом и говорилось раньше\",</segment>
+		<segment id="83" parent="82" relname="attribution">- сказал Воробьев.</segment>
+		<segment id="86" parent="93" relname="attribution">Он сообщил,</segment>
+		<segment id="87" parent="93" relname="contrast">что выплаты туристам пока не производят,</segment>
+		<segment id="88" parent="91" relname="attribution">но компания рассчитывает, что сможет в дальнейшем предложить клиентам замену туров.\n\nОн также заявил,</segment>
+		<segment id="89" parent="91" relname="joint">что информация на сайте некорректна</segment>
+		<segment id="90" parent="91" relname="joint">и вскоре будет изменена.</segment>
+		<segment id="95" parent="102" relname="attribution">\"Речь идет о той же информации,</segment>
+		<segment id="96" parent="102" relname="span">что мы давали 4 июля,</segment>
+		<segment id="97" parent="100" relname="attribution">когда мы объявили</segment>
+		<segment id="98" parent="100" relname="joint">об остановке продаж</segment>
+		<segment id="99" parent="100" relname="joint">и возобновлении их с 1 октября.</segment>
+		<segment id="104" parent="112" relname="span">Ничего нового не произошло,</segment>
+		<segment id="105" parent="107" relname="span">за исключением того, что, по просьбам трудящихся, закрыли временно сайт,</segment>
+		<segment id="106" parent="105" relname="purpose">чтобы не раздражать.</segment>
+		<segment id="108" parent="110" relname="joint">Много было жалоб, что сайт функционирует,</segment>
+		<segment id="109" parent="110" relname="joint">и мы, таким образом, вводим в заблуждение туристов\",</segment>
+		<segment id="113" parent="112" relname="attribution">- сообщил Воробьев \"Интерфаксу\".</segment>
+		<segment id="116" parent="120" relname="joint">Вскоре объявление о приостановке операционной деятельности компании было скорректировано,</segment>
+		<segment id="117" parent="118" relname="attribution">и там появилась информация о возобновлении работы с 1 октября.\n\nКомпания \"Натали Турс\" 4 июля объявила</segment>
+		<segment id="118" parent="119" relname="span">об аннулировании всех подтвержденных туров до 30 сентября.</segment>
+		<segment id="121" parent="122" relname="attribution">По оценкам экспертов,</segment>
+		<segment id="122" parent="123" relname="span">до конца года она продала около 30 тысяч туров на общую сумму не менее 1,2 миллиарда рублей.</segment>
+		<segment id="125" parent="126" relname="attribution">При этом глава туроператора Владимир Воробьев заявил,</segment>
+		<segment id="126" parent="127" relname="span">что будет продолжать деятельность,</segment>
+		<segment id="128" parent="129" relname="joint">и предложил туристам вместо поездок гарантийные обязательства о том, что они смогут поехать в тур соответствующей стоимости летом 2019 года.</segment>
+		<segment id="130" parent="132" relname="span">Часть клиентов согласились на это предложение,</segment>
+		<segment id="131" parent="130" relname="elaboration">многие же стали обращаться в суд.\n\nПострадавшие туристы есть не только в России, но и в Казахстане, Белоруссии, на Украине.</segment>
+		<segment id="136" parent="150" relname="span">Только в Белоруссии, по сообщению департамента по туризму Минспорта и туризма этой страны, \"Натали Турс\" должна выплатить компенсаций по аннулированным турам на сумму примерно 500 тысяч евро (36,6 миллиона рублей).</segment>
+		<segment id="137" parent="142" relname="attribution">Компания \"Ингосстрах\", где застрахована ответственность \"Натали Турс\", 6 августа заявила,</segment>
+		<segment id="138" parent="142" relname="span">что готова выплачивать компенсации пострадавшим клиентам в объеме,</segment>
+		<segment id="139" parent="141" relname="contrast">который покрывается финансовой гарантией туроператора,</segment>
+		<segment id="140" parent="141" relname="contrast">но только после того, как он объявит об остановке деятельности</segment>
+		<segment id="144" parent="148" relname="joint">.\n\nРанее сообщалось об обеспокоенности клиентов \"Натали Турс\" тем, что компания не начинает возврат денег за неиспользованные туры</segment>
+		<segment id="145" parent="147" relname="span">и не реагирует на претензии и запросы,</segment>
+		<segment id="146" parent="145" relname="condition">затягивая процесс.</segment>
+		<segment id="151" parent="154" relname="condition">После 3 сентября, когда вступят в силу изменения в закон о туристской деятельности,</segment>
+		<segment id="152" parent="154" relname="span">Ростуризм может сам исключить туроператора из реестра,</segment>
+		<segment id="153" parent="152" relname="condition">не дожидаясь, когда он объявит об остановке.</segment>
+		<segment id="156" parent="157" relname="joint">Между тем стало известно, что на полный возврат средств за несостоявшиеся поездки могут рассчитывать лишь несколько клиентов фирмы.\n\nИсточник: https://www.newsru.com/russia/14Aug2018/ne_ostanov.html\n</segment>
+		<group id="72" type="span" parent="164" relname="joint"/>
+		<group id="64" type="span" parent="72" relname="span"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="61" type="span" parent="63" relname="contrast"/>
+		<group id="60" type="span" parent="61" relname="span"/>
+		<group id="71" type="span" parent="64" relname="interpretation-evaluation"/>
+		<group id="69" type="span" parent="71" relname="span"/>
+		<group id="68" type="span" parent="65" relname="cause-effect"/>
+		<group id="163" type="span" parent="164" relname="joint"/>
+		<group id="85" type="multinuc" parent="162" relname="preparation"/>
+		<group id="77" type="span" parent="85" relname="joint"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="82" type="span" parent="84" relname="span"/>
+		<group id="80" type="multinuc" parent="82" relname="span"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="94" type="span" parent="161" relname="preparation"/>
+		<group id="93" type="multinuc" parent="94" relname="span"/>
+		<group id="92" type="span" parent="93" relname="contrast"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="161" type="span" parent="162" relname="span"/>
+		<group id="115" type="multinuc" parent="160" relname="preparation"/>
+		<group id="103" type="span" parent="115" relname="joint"/>
+		<group id="102" type="span" parent="103" relname="span"/>
+		<group id="101" type="span" parent="96" relname="elaboration"/>
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="114" type="span" parent="115" relname="joint"/>
+		<group id="112" type="span" parent="114" relname="span"/>
+		<group id="111" type="span" parent="104" relname="cause-effect"/>
+		<group id="107" type="span" parent="110" relname="cause-effect"/>
+		<group id="110" type="multinuc" parent="111" relname="span"/>
+		<group id="160" type="multinuc" parent="161" relname="span"/>
+		<group id="124" type="span" parent="160" relname="joint"/>
+		<group id="120" type="multinuc" parent="124" relname="span"/>
+		<group id="119" type="span" parent="120" relname="joint"/>
+		<group id="123" type="span" parent="120" relname="elaboration"/>
+		<group id="159" type="multinuc" parent="160" relname="joint"/>
+		<group id="133" type="multinuc" parent="159" relname="joint"/>
+		<group id="129" type="multinuc" parent="133" relname="joint"/>
+		<group id="127" type="span" parent="129" relname="joint"/>
+		<group id="132" type="span" parent="133" relname="joint"/>
+		<group id="158" type="multinuc" parent="159" relname="joint"/>
+		<group id="150" type="span" parent="158" relname="sequence"/>
+		<group id="149" type="multinuc" parent="136" relname="elaboration"/>
+		<group id="143" type="span" parent="149" relname="joint"/>
+		<group id="142" type="span" parent="143" relname="span"/>
+		<group id="141" type="multinuc" parent="138" relname="elaboration"/>
+		<group id="148" type="multinuc" parent="149" relname="joint"/>
+		<group id="147" type="span" parent="148" relname="joint"/>
+		<group id="157" type="multinuc" parent="158" relname="sequence"/>
+		<group id="155" type="span" parent="157" relname="joint"/>
+		<group id="154" type="span" parent="155" relname="span"/>
+		<group id="164" type="multinuc"/>
+	</body>
+</rst>

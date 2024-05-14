@@ -1,0 +1,54 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="22" relname="span">В Кубке LG примут участие сборные Аргентины и Хорватии\n\nНа Кубок LG по футболу,</segment>
+		<segment id="21" parent="20" relname="elaboration">который пройдет летом в Москве,</segment>
+		<segment id="23" parent="24" relname="sequence">приедут сборные команды Аргентины и Хорватии.</segment>
+		<segment id="25" parent="26" relname="span">Это подтвердил президент российского футбольного союза (РФС) Вячеслав Колосков в прямом эфире радиостанции 'Эхо Москвы'.\n\n\"Мы уже получили официальное согласие сборных Аргентины и Хорватии на приглашение принять участие в Кубке LG\",</segment>
+		<segment id="27" parent="26" relname="attribution">- добавил он.</segment>
+		<segment id="29" parent="40" relname="attribution">По словам Колоскова,</segment>
+		<segment id="30" parent="34" relname="span">сборная Франции не примет участие в соревнованиях,</segment>
+		<segment id="31" parent="33" relname="span">так как в это время там будет проходить Кубок Федерации,</segment>
+		<segment id="32" parent="31" relname="elaboration">где команда непременно должна будет принять участие</segment>
+		<segment id="35" parent="39" relname="joint">.\n\nПриглашение к участию в Кубке LG было принято иностранными командами в связи с \"очень высокой репутацией РФС,</segment>
+		<segment id="36" parent="38" relname="contrast">тем более, что многие слышали,</segment>
+		<segment id="37" parent="38" relname="contrast">но не видели, какие позитивные изменения произошли в России и в Москве в частности\",</segment>
+		<segment id="42" parent="41" relname="attribution">заметил президент РФС.</segment>
+		<segment id="44" parent="46" relname="joint">\"Москва стала спортивным мировым центром,</segment>
+		<segment id="45" parent="46" relname="joint">и все это привлекательно для иностранных футболистов\",</segment>
+		<segment id="47" parent="46" relname="attribution">- подчеркнул он.\n\</segment>
+		<segment id="49" parent="53" relname="span">nНапомним, что в прошлом году в Москву на Кубок LG приехали национальные сборные Украины, Белоруссии и Югославии.</segment>
+		<segment id="50" parent="52" relname="span">Его призовой фонд составлял 150 тысяч долларов,</segment>
+		<segment id="51" parent="50" relname="elaboration">причем победитель - команда Белоруссии - получила 60 тысяч долларов.\n\nИсточник: https://www.newsru.com/sport/14Mar2003/5738675654.html\n</segment>
+		<group id="28" type="span" parent="55" relname="preparation"/>
+		<group id="26" type="span" parent="28" relname="span"/>
+		<group id="24" type="multinuc" parent="25" relname="preparation"/>
+		<group id="22" type="span" parent="24" relname="sequence"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="43" type="span" parent="55" relname="span"/>
+		<group id="41" type="span" parent="43" relname="span"/>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="34" type="span" parent="40" relname="joint"/>
+		<group id="33" type="span" parent="30" relname="cause-effect"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="38" type="multinuc" parent="39" relname="joint"/>
+		<group id="54" type="multinuc" parent="43" relname="elaboration"/>
+		<group id="48" type="span" parent="54" relname="joint"/>
+		<group id="46" type="multinuc" parent="48" relname="span"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="52" type="span" parent="49" relname="elaboration"/>
+		<group id="56" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="34" relname="span">Страны G7 решили продолжить санкционную политику в отношении России\n\nСтраны \"большой семерки\" выступают за сохранение санкций против России,</segment>
+		<segment id="33" parent="32" relname="attribution">говорится в Twitter МИД Канады.\n\n\"Министр [иностранных дел Канады Христя] Фриланд и другие главы МИД стран G7 подтвердили общую приверженность нормам международного права, в том числе относительно территориальной целостности.</segment>
+		<segment id="35" parent="37" relname="restatement">Санкции, которые были введены против России после ее неприемлемых действий на Украине,</segment>
+		<segment id="36" parent="37" relname="restatement">сохранятся\",</segment>
+		<segment id="38" parent="37" relname="attribution">- говорится в сообщении.\n\nВ канадском Торонто 22 апреля стартовали переговоры министров иностранных дел стран - членов G7 (Великобритания, Германия, Италия, Канада, США, Франция и Япония).</segment>
+		<segment id="41" parent="90" relname="preparation">На встречу впервые был приглашен министр иностранных дел Украины Павел Климкин.</segment>
+		<segment id="42" parent="44" relname="joint">Представители стран \"большой семерки\" выразили единую позицию по украинскому вопросу</segment>
+		<segment id="43" parent="44" relname="joint">и договорились оказывать поддержку Киеву</segment>
+		<segment id="45" parent="44" relname="elaboration">.\n\n- FT:</segment>
+		<segment id="47" parent="49" relname="contrast">Европа предпринимает дипломатические усилия для ослабления санкций против РФ\n\nСтраны \"группы семи\" готовы к продолжению диалога с Россией,</segment>
+		<segment id="48" parent="49" relname="contrast">но продолжают считать ее ответственной за \"злонамеренные действия\".</segment>
+		<segment id="51" parent="54" relname="attribution">Об этом журналистам в воскресенье по итогам встречи глав внешнеполитических ведомств на брифинге</segment>
+		<segment id="52" parent="54" relname="contrast">сообщил представитель американского Госдепартамента высокого ранга.\n\n\"Есть открытость для диалога с Россией,</segment>
+		<segment id="53" parent="54" relname="contrast">но одновременно с этим мы возлагаем на них ответственность за их злонамеренные действия и усилия по дестабилизации государств\",</segment>
+		<segment id="56" parent="57" relname="attribution">- сказал дипломат,</segment>
+		<segment id="57" parent="58" relname="span">стенограмму высказываний которого распространила пресс-служба Госдепартамента (цитата по ТАСС).</segment>
+		<segment id="60" parent="61" relname="attribution">По его словам,</segment>
+		<segment id="61" parent="62" relname="span">страны-члены \"семерки\" едины в том, что касается \"противостояния негативному поведению России\".\n\nМинистры стран \"семерки\" провели \"хорошие дискуссии\" по северокорейской проблеме,</segment>
+		<segment id="63" parent="62" relname="attribution">также сказал представитель Госдепа.\n\</segment>
+		<segment id="65" parent="66" relname="attribution">nНа встрече стран G7 обсуждались и вопросы, касающиеся политики Ирана,</segment>
+		<segment id="66" parent="67" relname="span">было подчеркнуто, что реализуемая Тегераном программа разработки баллистических ракет является \"неприемлемой\",</segment>
+		<segment id="68" parent="71" relname="attribution">заявил представитель Госдепа журналистам.\n\nДипломат сообщил,</segment>
+		<segment id="69" parent="71" relname="span">что участники встречи рассмотрели вопросы, связанные с соглашением по иранскому атому от 2015 года и возможными дополнениями к нему или же заключением дополнительного соглашения,</segment>
+		<segment id="70" parent="69" relname="attribution">передает \"Интерфакс\".</segment>
+		<segment id="75" parent="79" relname="span">\"Мы провели переговоры с европейцами,</segment>
+		<segment id="76" parent="78" relname="contrast">был достигнут значительный прогресс по этому вопросу,</segment>
+		<segment id="77" parent="78" relname="contrast">но решения еще нет\",</segment>
+		<segment id="80" parent="79" relname="attribution">- заявил представитель американского внешнеполитического ведомства.\n\nРанее сообщалось,</segment>
+		<segment id="82" parent="86" relname="joint">что президент США Дональд Трамп неоднократно критиковал соглашение</segment>
+		<segment id="83" parent="85" relname="span">и угрожал выходом из него,</segment>
+		<segment id="84" parent="83" relname="condition">если оно не будет пересмотрено.\n\nИсточник: https://www.newsru.com/world/23Apr2018/sanctions.html\n</segment>
+		<group id="40" type="multinuc" parent="92" relname="joint"/>
+		<group id="34" type="span" parent="40" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="37" type="multinuc" parent="39" relname="span"/>
+		<group id="91" type="span" parent="92" relname="joint"/>
+		<group id="90" type="multinuc" parent="91" relname="span"/>
+		<group id="50" type="multinuc" parent="90" relname="joint"/>
+		<group id="46" type="span" parent="50" relname="joint"/>
+		<group id="44" type="multinuc" parent="46" relname="span"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="59" type="span" parent="89" relname="joint"/>
+		<group id="55" type="span" parent="59" relname="span"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="58" type="span" parent="55" relname="attribution"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="74" type="multinuc" parent="88" relname="joint"/>
+		<group id="64" type="span" parent="74" relname="comparison"/>
+		<group id="62" type="span" parent="64" relname="span"/>
+		<group id="73" type="multinuc" parent="74" relname="comparison"/>
+		<group id="67" type="span" parent="73" relname="joint"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="81" type="span" parent="87" relname="joint"/>
+		<group id="79" type="span" parent="81" relname="span"/>
+		<group id="78" type="multinuc" parent="75" relname="elaboration"/>
+		<group id="86" type="multinuc" parent="87" relname="joint"/>
+		<group id="85" type="span" parent="86" relname="joint"/>
+		<group id="92" type="multinuc"/>
+	</body>
+</rst>

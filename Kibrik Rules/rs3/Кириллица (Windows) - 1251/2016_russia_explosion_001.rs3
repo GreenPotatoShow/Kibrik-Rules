@@ -1,0 +1,67 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="28" relname="cause-effect">В Иваново на химическом заводе произошел взрыв\n\nВ Иваново произошел взрыв газового котла на территории котельной ОАО \"Ивхимпром\".</segment>
+		<segment id="28" parent="29" relname="span">В результате инцидента пять человек получили ранения различной степени тяжести.</segment>
+		<segment id="30" parent="36" relname="sequence">Один из них позднее скончался в больнице.</segment>
+		<segment id="31" parent="35" relname="joint">В настоящее время в котельной работают все экстренные службы города,</segment>
+		<segment id="32" parent="34" relname="span">сообщается на официальном сайте регионального МЧС.\n\n\"Сегодня в 14:44 в центр управления в кризисных ситуациях главного управления МЧС России по Ивановской области поступило сообщение о взрыве в котельной на территории ОАО \"Ивхимпром\", расположенного по адресу город Иваново, ул. Кузнецова, 116.</segment>
+		<segment id="33" parent="32" relname="elaboration">Первые пожарно-спасательные подразделения прибыли на место уже через пять минут\",</segment>
+		<segment id="37" parent="36" relname="attribution">- заявили в ведомстве.\n\</segment>
+		<segment id="39" parent="40" relname="condition">nПрибыв на место происшествия,</segment>
+		<segment id="40" parent="41" relname="span">спасатели установили, что произошел взрыв газового котла.</segment>
+		<segment id="42" parent="43" relname="joint">При взрыве были разрушены внутренние перегородки котельной на площади 10 квадратных метров.</segment>
+		<segment id="44" parent="48" relname="span">Тем не менее несущие конструкции здания на пострадали.</segment>
+		<segment id="45" parent="47" relname="span">Последующего возгорания не произошло.\n\nВ результате происшествия пострадали пять работников предприятия.</segment>
+		<segment id="46" parent="45" relname="elaboration">Все они были госпитализированы.</segment>
+		<segment id="49" parent="53" relname="same-unit">Позднее один из пострадавших, находившийся в самом тяжелом состоянии,</segment>
+		<segment id="50" parent="51" relname="attribution">скончался в больнице.\n\nВ МЧС подчеркнули,</segment>
+		<segment id="51" parent="52" relname="span">что угроза распространения опасных химических веществ отсутствует.</segment>
+		<segment id="54" parent="58" relname="same-unit">Эвакуация работников предприятия и населения, проживающего по близости,</segment>
+		<segment id="57" parent="58" relname="same-unit">не требуется, добавили в ведомстве.\n\nВ котельную были отправлены все местные экстренные службы, включая пожарно-спасательные подразделения МЧС России, бригады скорой медицинской помощи, полицию, оперативные группы главного управления МЧС России по Ивановской области и администрации города.</segment>
+		<segment id="60" parent="72" relname="joint">Всего на месте работают 164 человека и 36 единиц техники.\n\nВ Следственном управлении СК по Ивановской области уже начали проверку по факту произошедшего.</segment>
+		<segment id="61" parent="69" relname="joint">\"Установлено, что 23 июня в 14:45 в помещении одного из цехов химического предприятия произошел хлопок.</segment>
+		<segment id="62" parent="64" relname="span">Госпитализировано пять человек,</segment>
+		<segment id="63" parent="62" relname="elaboration">один из которых скончался в медицинском учреждении.</segment>
+		<segment id="65" parent="67" relname="span">В настоящее время выполняется комплекс необходимых следственных проверочных действий.</segment>
+		<segment id="66" parent="65" relname="elaboration">По результатам доследственной проверки будет принято процессуальное решение\",</segment>
+		<segment id="70" parent="69" relname="attribution">- заверили в СК.\n\nИсточник: https://www.newsru.com/russia/23Jun2016/explosion.html\n</segment>
+		<group id="29" type="span" parent="76" relname="preparation"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="38" type="span" parent="76" relname="joint"/>
+		<group id="36" type="multinuc" parent="38" relname="span"/>
+		<group id="35" type="multinuc" parent="36" relname="sequence"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="43" type="multinuc" parent="75" relname="joint"/>
+		<group id="41" type="span" parent="43" relname="joint"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="48" type="span" parent="74" relname="joint"/>
+		<group id="47" type="span" parent="44" relname="elaboration"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="59" type="multinuc" parent="73" relname="joint"/>
+		<group id="53" type="multinuc" parent="59" relname="joint"/>
+		<group id="52" type="span" parent="53" relname="same-unit"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="69" type="multinuc" parent="71" relname="span"/>
+		<group id="68" type="multinuc" parent="69" relname="joint"/>
+		<group id="64" type="span" parent="68" relname="sequence"/>
+		<group id="67" type="span" parent="68" relname="sequence"/>
+		<group id="77" type="span"/>
+	</body>
+</rst>

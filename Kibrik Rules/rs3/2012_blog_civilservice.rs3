@@ -1,0 +1,42 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="16" relname="span">Валерий Чеховский: \"Чиновничий сюртук короткий, но тёплый\"\n\n\"Государственный аппарат любой страны имеет одно неприятное свойство</segment>
+		<segment id="15" parent="14" relname="attribution">- он дорого обходится обществу.</segment>
+		<segment id="17" parent="16" relname="elaboration">Государственные служащие необходимы.</segment>
+		<segment id="19" parent="22" relname="solutionhood">Но в каком количестве?</segment>
+		<segment id="20" parent="22" relname="joint">Степень полезности результатов любого другого труда легко можно определить на рынке,</segment>
+		<segment id="21" parent="22" relname="joint">её можно измерить в рублях и евро.</segment>
+		<segment id="25" parent="26" relname="contrast">Но как, в каких единицах измерить полезность труда чиновника?\n\</segment>
+		<segment id="27" parent="28" relname="cause-effect">nПоскольку эта, не поддающаяся измерению деятельность,</segment>
+		<segment id="28" parent="29" relname="span">оплачивается обществом и непосредственно затрагивает интересы граждан,</segment>
+		<segment id="30" parent="31" relname="span">то она постоянно находится под критическим наблюдением последних.</segment>
+		<segment id="32" parent="36" relname="comparison">В Германии, например, в первую очередь подвергается сомнению эффективность труда чиновников.</segment>
+		<segment id="33" parent="35" relname="span">В России центр тяжести критики лежит в другом месте.</segment>
+		<segment id="34" parent="33" relname="elaboration">Разницу можно проиллюстрировать на примерах типичного немецкого и русского юмора.\"\n\nИсточник: https://www.newsru.com/blog/06Dec2012/civilservice.html\n</segment>
+		<group id="26" type="multinuc" parent="38" relname="joint"/>
+		<group id="24" type="multinuc" parent="26" relname="contrast"/>
+		<group id="18" type="span" parent="24" relname="contrast"/>
+		<group id="16" type="span" parent="18" relname="span"/>
+		<group id="23" type="span" parent="24" relname="contrast"/>
+		<group id="22" type="multinuc" parent="23" relname="span"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="31" type="span" parent="37" relname="span"/>
+		<group id="29" type="span" parent="30" relname="cause-effect"/>
+		<group id="36" type="multinuc" parent="31" relname="evidence"/>
+		<group id="35" type="span" parent="36" relname="comparison"/>
+		<group id="38" type="multinuc"/>
+	</body>
+</rst>

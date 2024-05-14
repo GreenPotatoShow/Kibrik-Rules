@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="58" relname="preparation">Лауреатом премии \"Русский Букер\" стал Михаил Елизаров\n\nПисатель Михаил Елизаров стал лауреатом независимой литературной премии \"Русский Букер\" за роман \"Библиотекарь\".</segment>
+		<segment id="22" parent="28" relname="span">Победитель получил денежную премию в размере 20 тысяч долларов.</segment>
+		<segment id="23" parent="27" relname="span">Каждый из оставшихся финалистов - по две тысячи долларов,</segment>
+		<segment id="26" parent="23" relname="attribution">передает РИА \"Новости\".\n\nВ 2008 году для участия в конкурсе было номинировано рекордное число произведений - 91.</segment>
+		<segment id="29" parent="37" relname="span">С этого года организаторы \"Русского Букера\" впервые ограничили лонг-лист</segment>
+		<segment id="30" parent="36" relname="span">- теперь он может включать не более 23 романов.\n\nИз них жюри под председательством литературного критика Евгения Сидорова составило \"короткий список\",</segment>
+		<segment id="31" parent="35" relname="span">в который вошли шесть авторов - Илья Бояшов (\"Армада\"), Михаил Елизаров (\"Библиотекарь\"), Елена Некрасова (\"Щукинск и города\"), Герман Садулаев (\"Таблетка\"), Владимир Шаров (\"Будьте как дети\"), Галина Щекина (\"Графоманка\").\n\nПомимо Сидорова, в составе жюри вошли критик Сергей Боровиков (Саратов), прозаик Марина Вишневецкая, актриса театра и кино Евгения Симонова, прозаик Леонид Юзефович.\n\nСреди авторов, претендовавших на звание финалиста, были Александр Архангельский (\"Цена от сечения\"), Юрий Вяземский (\"Сладкие весенние баккуроты\"), Андрей Тургенев (\"Спать и верить\"), Михаил Липскеров (\"Белая горячка\"), Татьяна Москвина (\"Она что-то знала...\") и другие.\n\nВ этом году дальнейшее развитие получил и проект \"Студенческий Букер\",</segment>
+		<segment id="32" parent="34" relname="joint">в рамках которого работает параллельное студенческое жюри</segment>
+		<segment id="33" parent="34" relname="joint">и выбирает своего лауреата.</segment>
+		<segment id="38" parent="40" relname="span">С этого года конкурс стал общероссийским</segment>
+		<segment id="39" parent="38" relname="elaboration">- в нем могут участвовать студенты и аспиранты всех вузов.\n\nЛауреатом премии 2007 года стал Александр Иличевский с романом \"Матисс\".\n\n\"Русский Букер\" - первая негосударственная литературная премия в России с 1917 года.</segment>
+		<segment id="41" parent="42" relname="sequence">Она была учреждена в декабре 1991 года.</segment>
+		<segment id="43" parent="47" relname="joint">Первое вручение премии состоялось в 1992 году,</segment>
+		<segment id="44" parent="46" relname="span">и с тех пор она вручается ежегодно.\n\nНепосредственное руководство деятельностью премии осуществляет Букеровский комитет,</segment>
+		<segment id="45" parent="44" relname="elaboration">в который входят видные писатели, представители литературной общественности, деятели культуры.</segment>
+		<segment id="48" parent="49" relname="sequence">С 2004 года его возглавляет британский журналист, литератор, дипломат Джордж Уолден.</segment>
+		<segment id="50" parent="54" relname="joint">Комитет устанавливает правила конкурса</segment>
+		<segment id="51" parent="53" relname="span">и приглашает членов жюри,</segment>
+		<segment id="52" parent="51" relname="elaboration">состав которого меняется каждый год.\n\nИсточник: https://www.newsru.com/cinema/04Dec2008/booker.html\n</segment>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="28" type="span" parent="58" relname="joint"/>
+		<group id="27" type="span" parent="22" relname="elaboration"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="37" type="span" parent="57" relname="joint"/>
+		<group id="36" type="span" parent="29" relname="elaboration"/>
+		<group id="35" type="span" parent="30" relname="elaboration"/>
+		<group id="34" type="multinuc" parent="31" relname="elaboration"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="42" type="multinuc" parent="56" relname="joint"/>
+		<group id="40" type="span" parent="42" relname="sequence"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="49" type="multinuc" parent="55" relname="sequence"/>
+		<group id="47" type="multinuc" parent="49" relname="sequence"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="sequence"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="59" type="span"/>
+	</body>
+</rst>

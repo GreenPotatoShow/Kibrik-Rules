@@ -1,0 +1,75 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="32" relname="interpretation-evaluation">\"Чудовищно и необъяснимо\":</segment>
+		<segment id="30" parent="32" relname="span">Астахов прокомментировал убийство няней ребенка в Москве\n\nУполномоченный при президенте РФ по правам ребенка Павел Астахов назвал</segment>
+		<segment id="31" parent="30" relname="background">чудовищным убийство ребенка няней в Москве.</segment>
+		<segment id="34" parent="38" relname="joint">Ранее сообщалось, что на северо-западе столицы в одной из квартир после пожара было обнаружено тело четырехлетней девочки с отрезанной головой.</segment>
+		<segment id="35" parent="37" relname="span">Подозреваемую в жестокой расправе по горячим следам задержала полиция.\n\n\"Очередная дикая история убийства малолетней девочки, предположительно, своей няней, произошла в Москве.</segment>
+		<segment id="36" parent="35" relname="interpretation-evaluation">Чудовищно и необъяснимо\",</segment>
+		<segment id="39" parent="43" relname="same-unit">- написал детский омбудсмен в своем Twitter.\n\n\"Неоднократно выяснялось, что няни, нанятые для ухода за ребенком,</segment>
+		<segment id="40" parent="42" relname="joint">в действительности избивали,</segment>
+		<segment id="41" parent="42" relname="joint">истязали детей.</segment>
+		<segment id="44" parent="45" relname="sequence">Теперь дошло до убийства\",</segment>
+		<segment id="48" parent="47" relname="attribution">- отметил Астахов</segment>
+		<segment id="50" parent="54" relname="joint">.\n\nОмбудсмен рекомендовал принимающим на работу няню проверить хотя бы ее психическое состояние,</segment>
+		<segment id="51" parent="53" relname="joint">потребовать пройти медицинскую комиссию,</segment>
+		<segment id="52" parent="53" relname="joint">получить справку от психиатра.\n\nРанее в понедельник стало известно, что в сгоревшей московской квартире на проспекте Народного Ополчения было обнаружено тело девочки с отрубленной головой.</segment>
+		<segment id="55" parent="56" relname="cause-effect">Подозреваемая в убийстве была задержана у метро \"Октябрьское поле\"</segment>
+		<segment id="56" parent="57" relname="span">- женщина угрожала себя взорвать.</segment>
+		<segment id="59" parent="60" relname="attribution">В правоохранительных органах сообщили,</segment>
+		<segment id="60" parent="61" relname="span">что у няни при себе была отрезанная голова ребенка.</segment>
+		<segment id="62" parent="64" relname="span">По некоторым данным, задержанная находилась в состоянии наркотического опьянения.</segment>
+		<segment id="63" parent="62" relname="elaboration">Взрывчатки у нее не было.\n\nПо факту убийства возбуждено уголовное дело по ч.2 ст.105 УК РФ (убийство малолетнего).</segment>
+		<segment id="66" parent="67" relname="attribution">По предварительным данным,</segment>
+		<segment id="67" parent="68" relname="span">подозреваемая - няня ребенка - гражданка одного из государств Средней Азии 1977 года рождения.</segment>
+		<segment id="69" parent="77" relname="sequence">По сведениям \"Московского комсомольца\", это уроженка Самаркандской области Узбекистана Гюльчехра Бобокулова.\n\nУтром в понедельник после того, как родители со старшим ребенком покинули квартиру,</segment>
+		<segment id="70" parent="76" relname="sequence">няня убила младшую девочку,</segment>
+		<segment id="71" parent="75" relname="joint">отрезала у нее голову,</segment>
+		<segment id="72" parent="74" relname="joint">подожгла квартиру</segment>
+		<segment id="73" parent="74" relname="joint">и скрылась.</segment>
+		<segment id="78" parent="79" relname="sequence">Вскоре она была задержана у метро.\n\nИсточник: https://www.newsru.com/russia/29Feb2016/astakhov.html\n</segment>
+		<group id="49" type="span" parent="83" relname="joint"/>
+		<group id="47" type="span" parent="49" relname="span"/>
+		<group id="33" type="span" parent="46" relname="preparation"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="38" type="multinuc" parent="46" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="43" type="multinuc" parent="45" relname="sequence"/>
+		<group id="42" type="multinuc" parent="43" relname="same-unit"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="58" type="multinuc" parent="82" relname="joint"/>
+		<group id="54" type="multinuc" parent="58" relname="joint"/>
+		<group id="53" type="multinuc" parent="54" relname="joint"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="81" type="multinuc" parent="82" relname="joint"/>
+		<group id="65" type="span" parent="81" relname="joint"/>
+		<group id="61" type="span" parent="65" relname="span"/>
+		<group id="64" type="span" parent="61" relname="elaboration"/>
+		<group id="80" type="multinuc" parent="81" relname="joint"/>
+		<group id="68" type="span" parent="80" relname="sequence"/>
+		<group id="79" type="multinuc" parent="80" relname="sequence"/>
+		<group id="77" type="multinuc" parent="79" relname="sequence"/>
+		<group id="76" type="multinuc" parent="77" relname="sequence"/>
+		<group id="75" type="multinuc" parent="76" relname="sequence"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="83" type="multinuc"/>
+	</body>
+</rst>

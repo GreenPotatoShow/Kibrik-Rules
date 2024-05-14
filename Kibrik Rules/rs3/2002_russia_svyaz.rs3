@@ -1,0 +1,112 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="49" parent="55" relname="joint">ФСБ передала террористам рацию\n\nКонтакт с террористами поддерживается постоянно.</segment>
+		<segment id="50" parent="52" relname="span">Переговоры ведут специалисты-переговорщики по мобильной связи и рации,</segment>
+		<segment id="51" parent="50" relname="elaboration">которую передали террористам.</segment>
+		<segment id="53" parent="52" relname="attribution">Об этом журналистам сообщил официальный представитель штаба ФСБ Сергей Игнатченко.\n\n\"Переговоры будут продолжаться столько, сколько нужно\" для освобождения заложников\",</segment>
+		<segment id="56" parent="57" relname="attribution">- заявил он</segment>
+		<segment id="57" parent="58" relname="span">.\n\</segment>
+		<segment id="60" parent="63" relname="attribution">nПо словам Игнатченко,</segment>
+		<segment id="61" parent="63" relname="span">выдвинутое террористами первоначально требование остается основным</segment>
+		<segment id="62" parent="61" relname="cause-effect">- это вывод российских войск из Чечне.</segment>
+		<segment id="65" parent="67" relname="span">\"Остальным требованиям я бы ни придавал особого значения\",</segment>
+		<segment id="66" parent="65" relname="attribution">- сказал он,</segment>
+		<segment id="68" parent="71" relname="attribution">отметив,</segment>
+		<segment id="69" parent="70" relname="attribution">что, по оценке штаба,</segment>
+		<segment id="70" parent="71" relname="span">\"это затягивание времени и ничего существенного\".\n\</segment>
+		<segment id="75" parent="78" relname="attribution">nНапример, пояснил представитель штаба,</segment>
+		<segment id="76" parent="77" relname="attribution">одним из требований было выставить пикет с плакатами.\n\nСергей Игнатченко сообщил также,</segment>
+		<segment id="77" parent="78" relname="span">что две девушки бежали из здания Театрального центра \"по собственной инициативе\".</segment>
+		<segment id="80" parent="90" relname="span">При этом террористы произвели по ним два выстрела из гранатомета.</segment>
+		<segment id="81" parent="83" relname="joint">\"Сотрудник спецназа получил легкое ранение,</segment>
+		<segment id="82" parent="83" relname="joint">жизнь его вне опасности\",</segment>
+		<segment id="84" parent="87" relname="attribution">- сказал представитель штаба.\n\nОдна из девушек, которая выпрыгнула из окна,</segment>
+		<segment id="85" parent="87" relname="joint">получила первую медицинскую помощь</segment>
+		<segment id="86" parent="87" relname="joint">и ее уже забрали родители.</segment>
+		<segment id="92" parent="95" relname="attribution">С девушками провели беседу психологи.\n\nИгнатченко сообщил,</segment>
+		<segment id="93" parent="95" relname="span">что находящимся в Театральноим центре заложникам помощь оказывают врачи-граждане Иордании,</segment>
+		<segment id="94" parent="93" relname="background">которые \"практиковались в Москве\".\n\</segment>
+		<segment id="97" parent="98" relname="joint">nВ разрешении ситуации с заложниками возникла пауза\n\</segment>
+		<segment id="99" parent="103" relname="same-unit">nТеррористы,</segment>
+		<segment id="102" parent="103" relname="same-unit">захватившие вечером в среду здание ДК ГПЗ, постоянно перемещаются внутри здания.</segment>
+		<segment id="104" parent="106" relname="span">Об этом сообщил \"Интерфаксу\" в четверг информированный источник в оперативном штабе.\n\nИсточник отметил высокую боевую подготовку террористов.</segment>
+		<segment id="105" parent="104" relname="elaboration">В частности, среди них были замечены несколько снайперов, внимательно наблюдающих из окон ДК за близлежащей территорией.\n\</segment>
+		<segment id="108" parent="112" relname="same-unit">nВместе с тем,</segment>
+		<segment id="109" parent="110" relname="attribution">по его словам,</segment>
+		<segment id="110" parent="111" relname="span">в работе по разрешению ситуации возникла пауза.</segment>
+		<segment id="113" parent="115" relname="restatement">\"Такое впечатление, что бандиты чего-то ждут.</segment>
+		<segment id="114" parent="115" relname="restatement">Либо какой-то команды, либо каких-либо активных действий со стороны правоохранительных органов\",</segment>
+		<segment id="116" parent="127" relname="attribution">- пояснил собеседник агентства.\n\nСвое мнение от подтвердил тем,</segment>
+		<segment id="117" parent="119" relname="span">что террористы специально требуют</segment>
+		<segment id="118" parent="117" relname="purpose">для переговоров людей, которым сложно прибыть к ДК ГПЗ.</segment>
+		<segment id="120" parent="119" relname="elaboration">В частности, террористам заранее было известно, что журналистка Анна Политковская,</segment>
+		<segment id="122" parent="121" relname="background">которую они потребовали для переговоров,</segment>
+		<segment id="124" parent="126" relname="span">в настоящее время находится в заграничной поездке</segment>
+		<segment id="125" parent="124" relname="elaboration">.\n\</segment>
+		<segment id="130" parent="136" relname="joint">nВместе с тем, в оперативном штабе продолжают поиск возможности контактов с террористами.</segment>
+		<segment id="131" parent="133" relname="span">В оперативный штаб прибывают иностранные дипломаты,</segment>
+		<segment id="132" parent="131" relname="elaboration">которые могут быть сторонами переговорного процесса,</segment>
+		<segment id="134" parent="133" relname="attribution">отметил источник.\n\nИсточник: https://www.newsru.com/russia/24Oct2002/svyaz.html\n</segment>
+		<group id="59" type="span" parent="143" relname="joint"/>
+		<group id="55" type="multinuc" parent="59" relname="span"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="52" type="span" parent="54" relname="span"/>
+		<group id="58" type="span" parent="55" relname="attribution"/>
+		<group id="142" type="multinuc" parent="143" relname="joint"/>
+		<group id="74" type="span" parent="142" relname="joint"/>
+		<group id="64" type="span" parent="74" relname="span"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="73" type="multinuc" parent="64" relname="elaboration"/>
+		<group id="67" type="span" parent="73" relname="joint"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="141" type="multinuc" parent="142" relname="joint"/>
+		<group id="91" type="multinuc" parent="141" relname="joint"/>
+		<group id="79" type="span" parent="91" relname="joint"/>
+		<group id="78" type="span" parent="79" relname="span"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="89" type="span" parent="80" relname="elaboration"/>
+		<group id="83" type="multinuc" parent="89" relname="span"/>
+		<group id="88" type="span" parent="83" relname="attribution"/>
+		<group id="87" type="multinuc" parent="88" relname="span"/>
+		<group id="140" type="multinuc" parent="141" relname="joint"/>
+		<group id="98" type="multinuc" parent="140" relname="joint"/>
+		<group id="96" type="span" parent="98" relname="joint"/>
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="139" type="multinuc" parent="140" relname="joint"/>
+		<group id="107" type="multinuc" parent="139" relname="joint"/>
+		<group id="103" type="multinuc" parent="107" relname="joint"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="138" type="span" parent="139" relname="joint"/>
+		<group id="112" type="multinuc" parent="137" relname="preparation"/>
+		<group id="111" type="span" parent="112" relname="same-unit"/>
+		<group id="137" type="multinuc" parent="138" relname="span"/>
+		<group id="129" type="span" parent="137" relname="restatement"/>
+		<group id="115" type="multinuc" parent="129" relname="span"/>
+		<group id="128" type="span" parent="115" relname="attribution"/>
+		<group id="127" type="span" parent="128" relname="span"/>
+		<group id="123" type="span" parent="127" relname="span"/>
+		<group id="121" type="span" parent="123" relname="span"/>
+		<group id="119" type="span" parent="121" relname="span"/>
+		<group id="126" type="span" parent="123" relname="background"/>
+		<group id="136" type="multinuc" parent="137" relname="restatement"/>
+		<group id="135" type="span" parent="136" relname="joint"/>
+		<group id="133" type="span" parent="135" relname="span"/>
+		<group id="143" type="multinuc"/>
+	</body>
+</rst>

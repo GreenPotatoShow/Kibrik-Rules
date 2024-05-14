@@ -1,0 +1,40 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="16" relname="span">\"Манчестер Юнайтед\" не собирается продавать Роналду\n\n\"Манчестер Юнайтед\" не намерен рассматривать предложения о продаже своей главной звезды, португальского полузащитника Криштиану Роналду.</segment>
+		<segment id="15" parent="14" relname="attribution">Соответствующее заявление \"МЮ\" разместил на своем официальном сайте.</segment>
+		<segment id="17" parent="22" relname="attribution">Клуб напоминает,</segment>
+		<segment id="18" parent="19" relname="attribution">что, согласно информации некоторых СМИ,</segment>
+		<segment id="19" parent="20" relname="span">в приобретении футболиста сборной Португалии был заинтересован мадридский \"Реал\".\n\n\"Тем не менее, клуб вновь подчеркивает свою позицию:</segment>
+		<segment id="21" parent="20" relname="elaboration">23-летний лидер \"Юнайтед\" не продается\",</segment>
+		<segment id="24" parent="23" relname="attribution">- говорится в официальном заявлении.\n\nПо итогам минувшего сезона Роналду был признан лучшим игроком английского первенства.</segment>
+		<segment id="26" parent="28" relname="joint">Португалец наколотил 31 мяч за \"МЮ\" в Премьер-лиге</segment>
+		<segment id="27" parent="28" relname="joint">и стал лучшим бомбардиром чемпионата,</segment>
+		<segment id="29" parent="30" relname="comparison">чем внес более чем весомый вклад в победу \"красных дьяволов\" на внутренней арене.\n\nВ прошедшем розыгрыше Лиги чемпионов Роналду также стал лучшим снайпером с 8 мячами.</segment>
+		<segment id="31" parent="33" relname="span">Последний из них он забил в ворота \"Челси\" в московском финале турнира,</segment>
+		<segment id="32" parent="31" relname="background">где в серии послематчевых пенальти победу также праздновал \"Юнайтед\",</segment>
+		<segment id="35" parent="34" relname="attribution">напоминает Eurosport.\n\nИсточник: https://www.newsru.com/sport/21Jun2008/ron.html\n</segment>
+		<group id="16" type="span" parent="38" relname="joint"/>
+		<group id="37" type="multinuc" parent="38" relname="joint"/>
+		<group id="25" type="span" parent="37" relname="joint"/>
+		<group id="23" type="span" parent="25" relname="span"/>
+		<group id="22" type="span" parent="23" relname="span"/>
+		<group id="20" type="span" parent="22" relname="span"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="34" type="span" parent="36" relname="span"/>
+		<group id="30" type="multinuc" parent="34" relname="span"/>
+		<group id="28" type="multinuc" parent="30" relname="comparison"/>
+		<group id="33" type="span" parent="30" relname="elaboration"/>
+		<group id="38" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,102 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="43" parent="48" relname="attribution">Алексей Рощин: \"Лукавый ВВП и выход из кризиса\"\n\n\"Который уже раз читаю,</segment>
+		<segment id="44" parent="47" relname="cause-effect">что российский ВВП в нынешнем году несказанно вырос</segment>
+		<segment id="45" parent="47" relname="span">- и, прежде чем начать радоваться этому обстоятельству,</segment>
+		<segment id="46" parent="45" relname="cause-effect">натыкаюсь на объяснение.</segment>
+		<segment id="50" parent="53" relname="attribution">Счастливые экономические статистики все как один объясняют</segment>
+		<segment id="51" parent="53" relname="span">рост нашего ВВП в 2017 году прежде всего...</segment>
+		<segment id="52" parent="51" relname="elaboration">невероятно затянувшимся в этом году периодом холодной погоды.</segment>
+		<segment id="56" parent="57" relname="cause-effect">Мол, на большей части территории страны температура аж до почти середины июня болталась в районе 0 - +10 градусов,</segment>
+		<segment id="57" parent="58" relname="span">поэтому в стране сильно затянулся отопительный сезон\",</segment>
+		<segment id="59" parent="58" relname="attribution">- пишет социальный психолог в \"Живом журнале\".\n\n\"Казалось бы</segment>
+		<segment id="61" parent="65" relname="contrast">- что в этом хорошего?!</segment>
+		<segment id="62" parent="64" relname="joint">А то, что на отопление пришлось израсходовать многие дополнительные сотни тонн мазута, угля и прочего горючего,</segment>
+		<segment id="63" parent="64" relname="joint">дольше работали на полную мощность всякие ТЭЦ и котельные.</segment>
+		<segment id="67" parent="71" relname="span">Опять же, с точки зрения, так сказать, хозяйской это все плохо</segment>
+		<segment id="68" parent="70" relname="span">- лишние расходы,</segment>
+		<segment id="69" parent="68" relname="cause-effect">причем из таких, которые в буквальном смысле улетают в трубу.</segment>
+		<segment id="74" parent="76" relname="span">Но нет - оказывается, именно для статистики подсчета ВВП</segment>
+		<segment id="75" parent="74" relname="interpretation-evaluation">это только к лучшему,</segment>
+		<segment id="77" parent="81" relname="joint">ведь получилось больше расходов,</segment>
+		<segment id="78" parent="80" relname="span">а значит, их можно приписать к другим расходам нац. экономики</segment>
+		<segment id="79" parent="78" relname="elaboration">- которые вместе и составляют ВВП!\n\nС одной стороны - да, чудесно.</segment>
+		<segment id="84" parent="94" relname="span">С другой - это что ж получается:</segment>
+		<segment id="85" parent="90" relname="condition">если б в этом году зима,</segment>
+		<segment id="86" parent="89" relname="attribution">условно говоря,</segment>
+		<segment id="87" parent="89" relname="joint">вообще бы не кончалась,</segment>
+		<segment id="88" parent="89" relname="joint">то наш ВВП и вовсе взлетел бы до небес?!</segment>
+		<segment id="92" parent="91" relname="cause-effect">Просто потому, что нам пришлось бы извести еще больше нефти, газа и угля на всего лишь отопление?\n\</segment>
+		<segment id="95" parent="103" relname="span">nМожно было бы отнестись к этому \"росту ВВП</segment>
+		<segment id="96" parent="101" relname="cause-effect">из-за долгих холодов\" как к забавной хохме</segment>
+		<segment id="97" parent="99" relname="joint">- если бы наши пропагандисты не подняли этот \"рост\" на щит</segment>
+		<segment id="98" parent="99" relname="joint">и не заявляли бы сегодня на каждом углу,</segment>
+		<segment id="100" parent="101" relname="span">что \"рост ВВП знаменует окончание кризиса\" и \"выход экономики России на траекторию нового развития\".</segment>
+		<segment id="104" parent="105" relname="contrast">А ведь именно так и пишут!</segment>
+		<segment id="107" parent="109" relname="span">Природа лишний раз посмеялась над нами,</segment>
+		<segment id="108" parent="107" relname="elaboration">показав, что мы тут все по преимуществу гнездимся в местностях с самым непредсказуемым и поганым климатом</segment>
+		<segment id="110" parent="111" relname="cause-effect">- но мы из-за причуд статистики</segment>
+		<segment id="111" parent="112" relname="span">и это сделали поводом для безудержного оптимизма.\n\nИдиотизм.</segment>
+		<segment id="114" parent="113" relname="interpretation-evaluation">Надо бы что-то поменять в методике расчета ВВП.</segment>
+		<segment id="116" parent="120" relname="span">Чтобы не считать тупое сжигание наших природных богатств признаком \"выхода экономики из кризиса\".</segment>
+		<segment id="117" parent="118" relname="attribution">Лучше, как говорил еще Менделеев,</segment>
+		<segment id="118" parent="119" relname="span">\"топить печку ассигнациями\".\n\nИсточник: https://www.newsru.com/blog/19Sep2017/vvp.html\n</segment>
+		<group id="55" type="span" parent="124" relname="preparation"/>
+		<group id="49" type="span" parent="55" relname="span"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="54" type="span" parent="49" relname="elaboration"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="124" type="multinuc" parent="125" relname="span"/>
+		<group id="66" type="span" parent="124" relname="comparison"/>
+		<group id="60" type="span" parent="65" relname="preparation"/>
+		<group id="58" type="span" parent="60" relname="span"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="contrast"/>
+		<group id="123" type="multinuc" parent="124" relname="comparison"/>
+		<group id="83" type="multinuc" parent="123" relname="comparison"/>
+		<group id="71" type="span" parent="83" relname="contrast"/>
+		<group id="70" type="span" parent="67" relname="cause-effect"/>
+		<group id="82" type="span" parent="83" relname="contrast"/>
+		<group id="76" type="span" parent="82" relname="span"/>
+		<group id="81" type="multinuc" parent="76" relname="cause-effect"/>
+		<group id="80" type="span" parent="81" relname="joint"/>
+		<group id="122" type="span" parent="123" relname="comparison"/>
+		<group id="106" type="multinuc" parent="121" relname="preparation"/>
+		<group id="94" type="span" parent="106" relname="joint"/>
+		<group id="93" type="span" parent="84" relname="elaboration"/>
+		<group id="91" type="span" parent="93" relname="span"/>
+		<group id="90" type="span" parent="91" relname="span"/>
+		<group id="89" type="multinuc" parent="90" relname="span"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="103" type="span" parent="105" relname="contrast"/>
+		<group id="102" type="span" parent="95" relname="cause-effect"/>
+		<group id="101" type="span" parent="102" relname="span"/>
+		<group id="99" type="multinuc" parent="100" relname="cause-effect"/>
+		<group id="121" type="span" parent="122" relname="span"/>
+		<group id="115" type="span" parent="121" relname="span"/>
+		<group id="113" type="multinuc" parent="115" relname="span"/>
+		<group id="109" type="span" parent="113" relname="contrast"/>
+		<group id="112" type="span" parent="113" relname="contrast"/>
+		<group id="120" type="span" parent="115" relname="purpose"/>
+		<group id="119" type="span" parent="116" relname="interpretation-evaluation"/>
+		<group id="125" type="span"/>
+	</body>
+</rst>

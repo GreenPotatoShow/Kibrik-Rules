@@ -1,0 +1,78 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="33" relname="span">Немецкие экономисты:</segment>
+		<segment id="32" parent="31" relname="elaboration">умеренное употребление алкоголя способствует успехам на работе\n\</segment>
+		<segment id="34" parent="42" relname="joint">nНемецкие экономисты изучили связь потребления алкоголя с возможностями профессионального роста</segment>
+		<segment id="35" parent="40" relname="attribution">и пришли к выводу:</segment>
+		<segment id="36" parent="40" relname="same-unit">спиртное в умеренных дозах способствует профессиональному успеху</segment>
+		<segment id="37" parent="39" relname="span">– по крайней мере до тех пор,</segment>
+		<segment id="38" parent="37" relname="condition">пока не превратится в зависимость.\n\</segment>
+		<segment id="43" parent="54" relname="attribution">nКак сообщает РИА \"Новости\" со ссылкой на газету Die Welt,</segment>
+		<segment id="44" parent="47" relname="attribution">исследователи Бьёрн Франк, Юстус Хаукап и Анника Герр из университета Дюссельдорфа утверждают:</segment>
+		<segment id="45" parent="47" relname="joint">алкоголь растормаживает</segment>
+		<segment id="46" parent="47" relname="joint">и приоткрывает завесу личности.\n\nТаким образом, кружка пива после работы или бокал шампанского во время официального приема помогает сотруднику раскрыть коллегам информацию о себе и своем характере,</segment>
+		<segment id="49" parent="51" relname="joint">что может оказаться очень полезным в совместной бизнес-практике.\n\n\"Предположение о том, что \"социальная выпивка\" придает уверенность</segment>
+		<segment id="50" parent="51" relname="joint">и служит вдохновляющим инструментом,</segment>
+		<segment id="52" parent="51" relname="cause-effect">помогает понять, почему умеренное употребление алкоголя в бизнес-среде получило столь широкое распространение во многих странах\",</segment>
+		<segment id="57" parent="56" relname="attribution">- говорится в исследовании.\n\</segment>
+		<segment id="60" parent="62" relname="span">nНапример, в ходе собеседования работодателю важно узнать как можно больше о соискателе.</segment>
+		<segment id="61" parent="60" relname="interpretation-evaluation">Тому в свою очередь важно понять, каким может оказаться его босс.</segment>
+		<segment id="63" parent="65" relname="span">Взаимное доверие</segment>
+		<segment id="64" parent="63" relname="elaboration">– важнейшая валюта в любом бизнесе,</segment>
+		<segment id="66" parent="68" relname="joint">поэтому принятие по рюмке на собеседовании может пойти только на пользу дела,</segment>
+		<segment id="67" parent="68" relname="joint">делают вывод ученые.\n\n\"Употребление алкоголя заставляет людей, как правило, непреднамеренно говорить правду.</segment>
+		<segment id="70" parent="74" relname="span">Следовательно, небольшая \"рабочая\" выпивка может послужить хорошим приемом в социальных контактных \"играх\",</segment>
+		<segment id="71" parent="73" relname="span">— заключают немецкие исследователи.\n\nВывод звучит достаточно рискованно,</segment>
+		<segment id="72" parent="71" relname="cause-effect">поскольку распитие спиртного на рабочем месте в подавляющем большинстве немецких компаний служит основанием для увольнения работника.</segment>
+		<segment id="77" parent="79" relname="joint">Алкоголизм же как явление снижает производительность труда</segment>
+		<segment id="78" parent="79" relname="joint">и влечет негативные последствия для экономики в целом.\n\</segment>
+		<segment id="80" parent="81" relname="attribution">nПо данным Всемирной организации здравоохранения,</segment>
+		<segment id="81" parent="82" relname="span">от алкогольной зависимости в мире страдает около 76 млн человек.</segment>
+		<segment id="83" parent="82" relname="elaboration">1,3 млн - жители Германии.</segment>
+		<segment id="85" parent="86" relname="joint">Первое место в Европе по количеству употребляемого алкоголя на человека занимает Люксембург, последнее - Турция.\n\nИсточник: https://www.newsru.com/finance/15Apr2014/detkinken.html\n</segment>
+		<group id="59" type="multinuc" parent="89" relname="comparison"/>
+		<group id="33" type="span" parent="59" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="56" type="multinuc" parent="58" relname="span"/>
+		<group id="42" type="multinuc" parent="56" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="39" type="span" parent="40" relname="same-unit"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="48" type="span" parent="54" relname="span"/>
+		<group id="47" type="multinuc" parent="48" relname="span"/>
+		<group id="53" type="span" parent="48" relname="interpretation-evaluation"/>
+		<group id="51" type="multinuc" parent="53" relname="span"/>
+		<group id="88" type="multinuc" parent="89" relname="comparison"/>
+		<group id="76" type="multinuc" parent="88" relname="comparison"/>
+		<group id="62" type="span" parent="76" relname="joint"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="69" type="span" parent="75" relname="joint"/>
+		<group id="65" type="span" parent="68" relname="cause-effect"/>
+		<group id="68" type="multinuc" parent="69" relname="span"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="73" type="span" parent="70" relname="elaboration"/>
+		<group id="87" type="span" parent="88" relname="comparison"/>
+		<group id="79" type="multinuc" parent="87" relname="span"/>
+		<group id="86" type="multinuc" parent="79" relname="elaboration"/>
+		<group id="84" type="span" parent="86" relname="joint"/>
+		<group id="82" type="span" parent="84" relname="span"/>
+		<group id="89" type="multinuc"/>
+	</body>
+</rst>

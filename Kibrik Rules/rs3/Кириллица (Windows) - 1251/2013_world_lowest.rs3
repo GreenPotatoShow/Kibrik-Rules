@@ -1,0 +1,40 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="18" relname="span">Сбой \"глобального потепления\":</segment>
+		<segment id="15" parent="17" relname="span">обновился рекорд минимальной температуры на Земле,</segment>
+		<segment id="16" parent="15" relname="background">державшийся 30 лет\n\</segment>
+		<segment id="19" parent="25" relname="joint">nНовый всемирный рекорд самой низкой температуры на поверхности Земли зафиксировали ученые в Антарктиде в районе японской станции \"Купол Фудзи\".</segment>
+		<segment id="20" parent="22" relname="span">Впервые преодолена планка в минус 90 градусов Цельсия,</segment>
+		<segment id="21" parent="20" relname="attribution">сообщила газета The Sunday Times.\n\nЗамеры были сделаны со спутника специалистами Американского национального центра снежных и ледовых данных,</segment>
+		<segment id="23" parent="22" relname="attribution">передает ИТАР-ТАСС.</segment>
+		<segment id="27" parent="29" relname="span">Новый рекорд - минус 91,2 градуса.\n\nПредыдущий рекорд - минус 89,2 градуса по Цельсию</segment>
+		<segment id="28" parent="27" relname="elaboration">- был зарегистрирован также в Антарктиде в 1983 году на российской станции \"Восток\".</segment>
+		<segment id="30" parent="34" relname="span">С тех пор она считалась земным \"полюсом холода\".\n\nСтанция \"Купол Фудзи\" является самой высокогорной из всех существующих в Антарктиде.</segment>
+		<segment id="31" parent="33" relname="span">Она находится на высоте 3786 метров над уровнем моря.\n\n\"Восток\" расположена на высоте 3488 м над уровнем моря.\n\nКак отмечает National Geographic,</segment>
+		<segment id="32" parent="31" relname="elaboration">абсолютный минимум для Северного полушария намного скромнее: меньше минус 70 градусов.</segment>
+		<segment id="35" parent="36" relname="contrast">Однако эти показатели зафиксированы на уровне моря - в городе Верхоянск.\n\nИсточник: https://www.newsru.com/world/08Dec2013/lowest.html\n</segment>
+		<group id="26" type="multinuc" parent="38" relname="joint"/>
+		<group id="18" type="span" parent="26" relname="joint"/>
+		<group id="17" type="span" parent="14" relname="elaboration"/>
+		<group id="25" type="multinuc" parent="26" relname="joint"/>
+		<group id="24" type="span" parent="25" relname="joint"/>
+		<group id="22" type="span" parent="24" relname="span"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="29" type="span" parent="36" relname="preparation"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="34" type="span" parent="36" relname="contrast"/>
+		<group id="33" type="span" parent="30" relname="elaboration"/>
+		<group id="38" type="multinuc"/>
+	</body>
+</rst>

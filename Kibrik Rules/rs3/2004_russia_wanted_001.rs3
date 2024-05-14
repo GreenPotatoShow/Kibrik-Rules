@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="20" relname="attribution">Российское бюро Интерпола подтвердило,</segment>
+		<segment id="20" parent="21" relname="span">что Леонид Невзлин и Владимир Дубов объявлены в розыск\n\nВ Национальном центральном бюро Интерпола в РФ подтвердили факт объявления в международный розыск совладельцев нефтяной компании ЮКОС Леонида Невзлина и Владимира Дубова.\n\n\"На основании поручения Генеральной прокуратуры России НЦБ Интерпола в РФ направило материалы на розыск в Генеральный секретариат Интерпола в Лионе\",</segment>
+		<segment id="22" parent="24" relname="sequence">- заявил в пятницу представитель НЦБ,</segment>
+		<segment id="23" parent="24" relname="sequence">передает \"Интерфакс\".\n\n\"Поручение на розыск от Генпрокуратуры России мы получили 16 января.</segment>
+		<segment id="26" parent="28" relname="joint">После этого предоставленные материалы совместно с представителями прокуратуры были доработаны</segment>
+		<segment id="27" parent="28" relname="joint">и направлены в Лион\",</segment>
+		<segment id="29" parent="34" relname="attribution">- сказал собеседник агентства.\n\nОн пояснил,</segment>
+		<segment id="30" parent="34" relname="same-unit">что,</segment>
+		<segment id="31" parent="32" relname="attribution">согласно статье третьей устава Интерпола,</segment>
+		<segment id="32" parent="33" relname="span">Генеральный секретариат этой организации сам выносит решение об извещении государств - членов организации о розыске конкретного лица.</segment>
+		<segment id="37" parent="39" relname="span">\"Интерполу запрещено вмешиваться в случае,</segment>
+		<segment id="38" parent="37" relname="condition">если речь идет о политическом или религиозном преследовании\",</segment>
+		<segment id="40" parent="39" relname="attribution">- сказал представитель НЦБ.\n\</segment>
+		<segment id="42" parent="49" relname="attribution">nОн также подчеркнул:</segment>
+		<segment id="43" parent="44" relname="attribution">\"Сведений о направлении Генеральным секретариатом Интерпола в другие государства поручений на розыск и задержание названных лиц пока не поступало\".\n\nПредставитель НЦБ пояснил,</segment>
+		<segment id="44" parent="45" relname="span">что Интерпол в практике работы международных правоохранительных органов является только инструментом.</segment>
+		<segment id="46" parent="48" relname="span">\"В данном деле основным ведомством по российскому законодательству является Генеральная прокуратура\",</segment>
+		<segment id="47" parent="46" relname="attribution">- отметил собеседник агентства.\n\nИсточник: https://www.newsru.com/russia/23Jan2004/wanted.html\n</segment>
+		<group id="25" type="span" parent="53" relname="sequence"/>
+		<group id="21" type="span" parent="25" relname="span"/>
+		<group id="24" type="multinuc" parent="21" relname="attribution"/>
+		<group id="52" type="multinuc" parent="53" relname="sequence"/>
+		<group id="36" type="span" parent="52" relname="joint"/>
+		<group id="28" type="multinuc" parent="36" relname="span"/>
+		<group id="35" type="span" parent="28" relname="attribution"/>
+		<group id="34" type="multinuc" parent="35" relname="span"/>
+		<group id="33" type="span" parent="34" relname="same-unit"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="41" type="span" parent="51" relname="joint"/>
+		<group id="39" type="span" parent="41" relname="span"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="45" type="span" parent="49" relname="span"/>
+		<group id="48" type="span" parent="45" relname="elaboration"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

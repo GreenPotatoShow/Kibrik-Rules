@@ -1,0 +1,42 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="17" relname="span">Министр Фурсенко отверг идею строить адронный коллайдер в России:</segment>
+		<segment id="16" parent="15" relname="elaboration">это бессмысленно\n\nСтроить в России более мощный ускоритель частиц, чем Большой адронный коллайдер (БАК) ЦЕРН, бессмысленно.</segment>
+		<segment id="18" parent="21" relname="attribution">Об этом, как передает РИА \"Новости\",</segment>
+		<segment id="19" parent="20" relname="attribution">заявил министр образования и науки Андрей Фурсенко.\n\n\"Я считаю,</segment>
+		<segment id="20" parent="21" relname="span">что нет смысла строить в РФ коллайдер, подобный БАК.</segment>
+		<segment id="24" parent="26" relname="span">Нам надо участвовать в крупных международных проектах.</segment>
+		<segment id="25" parent="24" relname="interpretation-evaluation">Повторять (БАК) абсолютно бессмысленно\",</segment>
+		<segment id="27" parent="26" relname="attribution">- сказал министр</segment>
+		<segment id="30" parent="31" relname="attribution">.\n\nРанее академик Виктор Матвеев из Института ядерных исследований РАН сообщил,</segment>
+		<segment id="31" parent="32" relname="span">что российские ученые обсуждают строительство в РФ ускорителя, превосходящего по мощности БАК.</segment>
+		<segment id="34" parent="40" relname="span">Предположительно он может появиться в подмосковной Дубне.\n\</segment>
+		<segment id="35" parent="38" relname="attribution">nПо словам Фурсенко,</segment>
+		<segment id="36" parent="38" relname="comparison">России вместо строительства у себя более мощного ускорителя необходимо добиваться большего участия иностранных коллег в крупных отечественных проектах, подобных синхротронному центру в РНЦ \"Курчатовский институт\".\n\nОн отметил,</segment>
+		<segment id="37" parent="38" relname="comparison">что в Европейском центре ядерных исследований необходимо \"усиливать присутствие российских ученых\".\n\nИсточник: https://www.newsru.com/russia/19Sep2008/collider.html\n</segment>
+		<group id="33" type="span" parent="41" relname="joint"/>
+		<group id="29" type="span" parent="33" relname="span"/>
+		<group id="23" type="span" parent="29" relname="span"/>
+		<group id="17" type="span" parent="23" relname="span"/>
+		<group id="22" type="span" parent="17" relname="attribution"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="28" type="span" parent="23" relname="interpretation-evaluation"/>
+		<group id="26" type="span" parent="28" relname="span"/>
+		<group id="32" type="span" parent="29" relname="attribution"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="39" type="span" parent="34" relname="elaboration"/>
+		<group id="38" type="multinuc" parent="39" relname="span"/>
+		<group id="41" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,83 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="restatement" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="32" parent="34" relname="joint">Реальный курс доллара упал за семь лет на 25%</segment>
+		<segment id="33" parent="34" relname="joint">и может понизиться еще на 20%\n\nДоллар упал на 25% со своего максимального значения по отношению к корзине валют основных торговых партнеров США.</segment>
+		<segment id="35" parent="39" relname="span">Слабый доллар — естественное последствие затяжного дефицита счета текущих операций США</segment>
+		<segment id="36" parent="38" relname="restatement">— с максимума в 6,8% ВВП в 2005 году дефицит ко II кварталу 2007 года сократился до 5,5%,</segment>
+		<segment id="37" parent="38" relname="restatement">пишут \"Ведомости\".\n\nПредыдущее сопоставимое 35</segment>
+		<segment id="40" parent="42" relname="comparison">%-ное падение доллара к корзине валют произошло в 1985-1989 годах,</segment>
+		<segment id="41" parent="42" relname="comparison">после 20%-ного укрепления в предыдущие три года.</segment>
+		<segment id="45" parent="51" relname="joint">Реальный курс валюты коррелирует с условиями торговли США — соотношением цен на экспортируемые и импортируемые товары и услуги.\n\</segment>
+		<segment id="46" parent="50" relname="comparison">nОбнуление дефицита счета текущих операций может сопровождаться снижением потребления на 6%,</segment>
+		<segment id="47" parent="49" relname="joint">увеличением занятости на 3%</segment>
+		<segment id="48" parent="49" relname="joint">и ослаблением реального курса доллара еще максимум на 20%.</segment>
+		<segment id="52" parent="56" relname="same-unit">Но в отличие от 1970-х годов правительства крупнейших развитых стран сегодня тесно взаимодействуют и</segment>
+		<segment id="53" parent="54" relname="condition">при необходимости</segment>
+		<segment id="54" parent="55" relname="span">смогут сообща остановить неконтролируемое падение доллара.\n\nДжим Роджерс, бывший партнер Джорджа Сороса по фонду Quantum,</segment>
+		<segment id="57" parent="65" relname="span">уже отказался от доллара,</segment>
+		<segment id="58" parent="63" relname="attribution">заявив на прошлой неделе,</segment>
+		<segment id="59" parent="61" relname="span">что \"доллар обваливается\" и он избавляется от долларовых активов в пользу китайского юаня.\n\nОт падения доллара</segment>
+		<segment id="60" parent="59" relname="cause-effect">многие инвесторы страхуются за счет вложений в нефтяные активы,</segment>
+		<segment id="62" parent="63" relname="joint">и они дорожают.</segment>
+		<segment id="67" parent="69" relname="comparison">Поведение американских инвесторов все сильнее определяется страхом резкого падения курса доллара.</segment>
+		<segment id="68" parent="69" relname="comparison">А экономисты указывают на потерю доверия к доллару:</segment>
+		<segment id="70" parent="72" relname="span">\"Ситуация критическая,</segment>
+		<segment id="71" parent="70" relname="attribution">- говорит Джим О'Нил из Goldman Sachs,</segment>
+		<segment id="73" parent="75" relname="comparison">- в последние месяцы доллар ведет себя так,</segment>
+		<segment id="74" parent="75" relname="comparison">как будто рынок проверяет его статус мировой резервной валюты\".\n\nДоверие к доллару теряют не только финансисты.</segment>
+		<segment id="77" parent="79" relname="span">На днях широкий резонанс получило заявление самой богатой супермодели мира Жизель Бундхен,</segment>
+		<segment id="78" parent="77" relname="interpretation-evaluation">что \"ради долларов она не встанет с постели\".</segment>
+		<segment id="80" parent="86" relname="joint">Модель избегает заключать новые контракты в американской валюте.</segment>
+		<segment id="81" parent="84" relname="attribution">Сестра и помощница модели Патрисиа Бундхен заявила Bloomberg,</segment>
+		<segment id="82" parent="84" relname="span">что контракты в евро \"более привлекательны:</segment>
+		<segment id="83" parent="82" relname="elaboration">мы не знаем, что случится с долларом\".\n\nИсточник: https://www.newsru.com/finance/09Nov2007/dollrz.html\n</segment>
+		<group id="44" type="multinuc" parent="91" relname="preparation"/>
+		<group id="34" type="multinuc" parent="44" relname="comparison"/>
+		<group id="43" type="multinuc" parent="44" relname="comparison"/>
+		<group id="39" type="span" parent="43" relname="comparison"/>
+		<group id="38" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="43" relname="comparison"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="51" type="multinuc" parent="91" relname="contrast"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="49" type="multinuc" parent="50" relname="comparison"/>
+		<group id="90" type="multinuc" parent="91" relname="contrast"/>
+		<group id="66" type="multinuc" parent="90" relname="joint"/>
+		<group id="56" type="multinuc" parent="66" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="same-unit"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="64" type="span" parent="57" relname="cause-effect"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="61" type="span" parent="63" relname="joint"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="69" type="multinuc" parent="89" relname="joint"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="76" type="span" parent="88" relname="joint"/>
+		<group id="72" type="span" parent="75" relname="attribution"/>
+		<group id="75" type="multinuc" parent="76" relname="span"/>
+		<group id="87" type="span" parent="88" relname="joint"/>
+		<group id="79" type="span" parent="87" relname="span"/>
+		<group id="86" type="multinuc" parent="79" relname="evidence"/>
+		<group id="85" type="span" parent="86" relname="joint"/>
+		<group id="84" type="span" parent="85" relname="span"/>
+		<group id="92" type="span"/>
+	</body>
+</rst>

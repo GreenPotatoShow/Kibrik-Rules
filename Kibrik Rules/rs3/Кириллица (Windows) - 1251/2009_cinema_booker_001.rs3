@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="sequence">В Лондоне объявят лауреатов Букеровской премии – 2009\n\nВо вторник в в Гилдхолле - церемониальной ратуше лондонского района Сити</segment>
+		<segment id="20" parent="21" relname="sequence">– пройдет торжественная церемония объявления лауреата Букеровской премии - 2009.</segment>
+		<segment id="24" parent="26" relname="span">За престижнейшую премию, которую ежегодно вручают англоязычным авторам из Великобритании, Ирландии и стран Содружества, будут бороться шесть авторов,</segment>
+		<segment id="25" parent="24" relname="attribution">передает РИА \"Новости\".\n\nВ числе финалистов - дважды лауреат Букера, обладатель Нобелевской премии по литературе (2003 год) Джон Максвелл Кутзее.</segment>
+		<segment id="27" parent="29" relname="span">В 1983 году Букеровская премия досталась писателю,</segment>
+		<segment id="28" parent="27" relname="background">родившемуся в ЮАР и ныне проживающему в Австралии,</segment>
+		<segment id="30" parent="29" relname="elaboration">за роман \"Жизнь и время Михаэла К.\", в 1999 году - за роман \"Бесчестье\".\n\nВ нынешнем году на приз претендует последний роман Кутзее Summertime (дословно \"Летняя пора\").</segment>
+		<segment id="34" parent="36" relname="joint">Summertime автобиографичен</segment>
+		<segment id="35" parent="36" relname="joint">и рассказывает историю писателя через близких ему людей, друзей и бывших коллег.</segment>
+		<segment id="37" parent="38" relname="condition">Если роман в этом году будет признан лучшим,</segment>
+		<segment id="38" parent="39" relname="span">Кутзее станет первым в истории писателем - обладателем трех Букеровских премий.\n\nКроме того, в число финалистов вошла лауреат Букера 1990 года (роман \"Обладать\") английская писательница Антония Байетт со своей последней книгой The Children's Book (дословно \"Детская книга\"),</segment>
+		<segment id="40" parent="41" relname="joint">рассказывающей историю нескольких семей и нескольких поколений в период с 1895 года до начала Первой мировой войны.\n\nТакже в \"короткий список\" вошли полуфиналистка 2005 года Хилари Мэнтел с историческим романом Wolf Hall (\"Вулф Холл\"), дважды финалистка (2002 и 2006 годы) Сара Уотерс с книгой The Little Stranger (\"Маленький незнакомец\") и двое дебютантов - самый молодой автор нынешнего сезона 34-летний Адам Фаулдс с романом The Quickening Maze (\"Живой лабиринт\") и английский писатель Саймон Моуер, The Glass Room (\"Стеклянная комната\").\n\</segment>
+		<segment id="42" parent="44" relname="joint">nНапомним, что Букеровская премия, учрежденная в 1968 году, вручается ежегодно.</segment>
+		<segment id="43" parent="44" relname="joint">Обладатель премии получает 50 тысяч фунтов стерлингов.</segment>
+		<segment id="45" parent="47" relname="joint">Кроме того, всем финалистам, включая победителя, вручается чек на 2,5 тысячи фунтов,</segment>
+		<segment id="46" parent="47" relname="joint">а также контракт на дизайнерское оформление новой книги.</segment>
+		<segment id="48" parent="49" relname="joint">Победителя определяет жюри, которое в этом году возглавляет шотландский журналист и писатель Джеймс Ноти.\n\nВ 2008 году лауреатом Букера и обладателем премии в 50 тысяч фунтов стерлингов стал индийский писатель Аравинд Адига с книгой \"Белый тигр\".\n\nИсточник: https://www.newsru.com/cinema/06Oct2009/booker.html\n</segment>
+		<group id="33" type="multinuc" parent="53" relname="joint"/>
+		<group id="21" type="multinuc" parent="33" relname="joint"/>
+		<group id="32" type="multinuc" parent="33" relname="joint"/>
+		<group id="26" type="span" parent="32" relname="joint"/>
+		<group id="31" type="span" parent="32" relname="joint"/>
+		<group id="29" type="span" parent="31" relname="span"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="36" type="multinuc" parent="52" relname="span"/>
+		<group id="51" type="multinuc" parent="36" relname="evidence"/>
+		<group id="41" type="multinuc" parent="51" relname="joint"/>
+		<group id="39" type="span" parent="41" relname="joint"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="44" type="multinuc" parent="50" relname="joint"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="47" type="multinuc" parent="49" relname="joint"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,77 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="30" parent="32" relname="span">В Москве пройдет эксперимент по замене школьных учебников электронными \"читалками\"\n\nДепартамент образования правительства Москвы готовит эксперимент по внедрению в учебный процесс в нескольких московских школах электронных ридеров.</segment>
+		<segment id="31" parent="30" relname="elaboration">Эксперимент планируется начать осенью 2010 года.</segment>
+		<segment id="33" parent="32" relname="attribution">Об этом сообщает CNews.ru со ссылкой на Фонд \"Русский глобус\".</segment>
+		<segment id="35" parent="39" relname="same-unit">Эта организация,</segment>
+		<segment id="36" parent="37" relname="cause-effect">финансируемая за счет добровольных пожертвований,</segment>
+		<segment id="37" parent="38" relname="span">обеспечивает проект электронными учебниками.\n\nВ рамках эксперимента в нескольких московских школах учащиеся будут использовать электронный ридер \"ДИГИтека\" в качестве универсального школьного учебника.</segment>
+		<segment id="40" parent="42" relname="span">Это устройство,</segment>
+		<segment id="41" parent="40" relname="elaboration">вес которого сопоставим с весом одной книги,</segment>
+		<segment id="43" parent="44" relname="joint">может вместить программу всех лет обучения, включая словари, справочники и хрестоматии,</segment>
+		<segment id="45" parent="47" relname="joint">что, как считают энтузиасты из \"Русского глобуса\",</segment>
+		<segment id="46" parent="47" relname="joint">несомненно благотворно скажется на здоровье российских школьников.\n\nКто занимается производством устройств для школьников, в \"Русском глобусе\" не раскрывают.</segment>
+		<segment id="50" parent="57" relname="attribution">По словам пресс-секретаря фонда Дарьи Моргуновой,</segment>
+		<segment id="51" parent="57" relname="joint">прототип читалки предоставила украинская компания PocketBook,</segment>
+		<segment id="52" parent="54" relname="span">а его доработку ведет совместное российско-украинское предприятие.\n\nУчастие в эксперименте учителей и методистов,</segment>
+		<segment id="53" parent="52" relname="attribution">по словам представителя фонда, оплачивается по линии департамента образования Москва,</segment>
+		<segment id="55" parent="54" relname="purpose">затраты по общей координации и подготовке учебного контента берет на себя \"Русский глобус\".\n\n\"Устройства быстро дешевеют,</segment>
+		<segment id="59" parent="60" relname="joint">и ожидается, что через 3-4 года стоимость ридера будет сопоставима со стоимостью компекта учебной литературы на один год,</segment>
+		<segment id="62" parent="61" relname="attribution">- пояснила Дарья Моргунова.</segment>
+		<segment id="64" parent="65" relname="condition">- Если устройство будет служить ученику 2-3 года,</segment>
+		<segment id="65" parent="66" relname="span">то экономия безусловная»\".</segment>
+		<segment id="67" parent="73" relname="same-unit">Лицензии,</segment>
+		<segment id="68" parent="71" relname="attribution">по ее словам,</segment>
+		<segment id="69" parent="70" relname="attribution">будут стоить в несколько раз дешевле, чем соответствующие бумажные книги.\n\nПресс-секретарь Департамента образования правительства Москвы Александр Гаврилов сообщил изданию,</segment>
+		<segment id="70" parent="71" relname="span">что знает об этом эксперименте,</segment>
+		<segment id="74" parent="75" relname="contrast">но от комментариев воздержался.\n\nАналогичные инициативы обсуждаются и в других странах.</segment>
+		<segment id="77" parent="81" relname="span">Например, демократическая партия США выступила в Конгрессе с предложением выдать по ридеру каждому американскому ученику.</segment>
+		<segment id="78" parent="80" relname="span">Всего в США около 56 млн. школьников.</segment>
+		<segment id="79" parent="78" relname="elaboration">Стоимость этого проекта оценивается в 9 млрд долларов.</segment>
+		<segment id="82" parent="83" relname="joint">Министерство образования Южной Кореи заявило о полном отказе от бумажных учебников в школе к 2011 года.\n\nИсточник: https://www.newsru.com/hitech/15Apr2010/digiteka.html\n</segment>
+		<group id="34" type="span" parent="85" relname="preparation"/>
+		<group id="32" type="span" parent="34" relname="span"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="63" type="span" parent="85" relname="joint"/>
+		<group id="61" type="multinuc" parent="63" relname="span"/>
+		<group id="49" type="span" parent="61" relname="joint"/>
+		<group id="39" type="multinuc" parent="49" relname="span"/>
+		<group id="38" type="span" parent="39" relname="same-unit"/>
+		<group id="48" type="multinuc" parent="39" relname="elaboration"/>
+		<group id="44" type="multinuc" parent="48" relname="comparison"/>
+		<group id="42" type="span" parent="44" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="comparison"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="58" type="span" parent="60" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="span"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="54" type="span" parent="56" relname="span"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="76" type="multinuc" parent="84" relname="joint"/>
+		<group id="66" type="span" parent="76" relname="joint"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="73" type="multinuc" parent="75" relname="contrast"/>
+		<group id="72" type="span" parent="73" relname="same-unit"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="81" type="span" parent="83" relname="joint"/>
+		<group id="80" type="span" parent="77" relname="elaboration"/>
+		<group id="86" type="span"/>
+	</body>
+</rst>

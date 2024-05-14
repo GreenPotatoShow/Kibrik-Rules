@@ -1,0 +1,47 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="20" relname="preparation">МВД Грузии:</segment>
+		<segment id="20" parent="21" relname="span">мы сбили российский военный самолет-разведчик\n\nГрузинские власти объявили о том, что во вторник сбили российский самолет.\n\</segment>
+		<segment id="22" parent="23" relname="attribution">nКак сообщает Reuters со ссылкой на МВД Грузии,</segment>
+		<segment id="23" parent="24" relname="span">беспилотный разведывательный аппарат был сбит над грузинской территорией.</segment>
+		<segment id="26" parent="30" relname="span">Отметим, что эта информация пришла в тот момент,</segment>
+		<segment id="27" parent="29" relname="span">когда в Нью-Йорке открывается 63-я сессия Генеральной Ассамблеи ООН,</segment>
+		<segment id="28" parent="27" relname="elaboration">на которой, в частности, будут обсуждаться и российско-грузинские отношения</segment>
+		<segment id="31" parent="32" relname="attribution">.\n\nСотрудник МВД Грузии Шота Утиашвили заявил,</segment>
+		<segment id="32" parent="33" relname="span">что самолет был сбит в понедельник, 22 сентября, в районе населенного пункта Цителубани Горийского района, недалеко от границы с Южной Осетией.\n\n\"На этом аппарате был установлен фотоаппарат.</segment>
+		<segment id="35" parent="34" relname="elaboration">Мы не исключаем, что велась съемка трассы нефтепровода Баку-Супса, а также перемещение и местонахождение грузинских войск\",</segment>
+		<segment id="37" parent="36" relname="attribution">- заявил Утиашвили.\n\</segment>
+		<segment id="39" parent="41" relname="joint">nПри каких обстоятельствах</segment>
+		<segment id="40" parent="41" relname="joint">и какими средствами был уничтожен беспилотник,</segment>
+		<segment id="42" parent="41" relname="attribution">власти республики не уточняют,</segment>
+		<segment id="44" parent="43" relname="attribution">отмечает \"Грузия-Online\".\n\nМинобороны России опровергло это сообщение.</segment>
+		<segment id="48" parent="50" relname="span">\"Это очередная информационная провокация грузинской стороны с целью дестабилизации обстановки в регионе. Никаких полетов в зоне безопасности летательные аппараты Минобороны России не выполняли\",</segment>
+		<segment id="49" parent="48" relname="attribution">- заявил \"Интерфаксу\" временно исполняющий должность начальника управления пресс-службы и информации Минобороны РФ полковник Александр Дробышевский.\n\nИсточник: https://www.newsru.com/world/23Sep2008/samolet.html\n</segment>
+		<group id="25" type="multinuc" parent="52" relname="preparation"/>
+		<group id="21" type="span" parent="25" relname="joint"/>
+		<group id="24" type="span" parent="25" relname="joint"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="38" type="span" parent="52" relname="joint"/>
+		<group id="36" type="span" parent="38" relname="span"/>
+		<group id="34" type="span" parent="36" relname="span"/>
+		<group id="30" type="span" parent="34" relname="span"/>
+		<group id="29" type="span" parent="26" relname="elaboration"/>
+		<group id="33" type="span" parent="30" relname="elaboration"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="45" type="span" parent="51" relname="joint"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="41" type="multinuc" parent="43" relname="span"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

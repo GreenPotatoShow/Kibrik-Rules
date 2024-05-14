@@ -1,0 +1,73 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="28" parent="79" relname="preparation">Испанские банки избавляются от недвижимости должников по смешным ценам\n\nНедвижимость в Испании распродается по бросовым ценам.</segment>
+		<segment id="29" parent="31" relname="span">От активов избавляются местные банки,</segment>
+		<segment id="30" parent="29" relname="elaboration">которым жилье и торговые площади достались от обанкротившихся клиентов.</segment>
+		<segment id="32" parent="31" relname="evidence">Только за 2012 год с молотка аукционов, по субсидиям и просто с большими скидками, ушло почти 85 тысяч таких объектов.</segment>
+		<segment id="34" parent="36" relname="span">Местные власти прилагают все усилия</segment>
+		<segment id="35" parent="34" relname="purpose">для привлечения клиентов из России,</segment>
+		<segment id="37" parent="36" relname="attribution">рассказывает \"Коммерсант-FM\".\n\nСегодня в центре любого города,</segment>
+		<segment id="39" parent="38" relname="elaboration">в любом доме можно увидеть табличку \"продается\".</segment>
+		<segment id="42" parent="77" relname="preparation">Часть из этого - жилые дома, часть - офисы.</segment>
+		<segment id="43" parent="45" relname="joint">Напомним, недавно правительством Испании был разработан</segment>
+		<segment id="44" parent="45" relname="joint">и скоро планируется к принятию закон:</segment>
+		<segment id="46" parent="47" relname="condition">если иностранный гражданин покупает в Испании недвижимость стоимостью свыше 160 тысяч евро,</segment>
+		<segment id="47" parent="48" relname="span">ему автоматически будет предоставляться вид на жительство.</segment>
+		<segment id="49" parent="48" relname="purpose">Для испанцев это очень большая сумма.</segment>
+		<segment id="52" parent="54" relname="comparison">Например, квартира в Мадриде - 87 кв. метров,</segment>
+		<segment id="53" parent="54" relname="comparison">три комнаты - обойдется в 325 тысяч евро.</segment>
+		<segment id="55" parent="57" relname="span">В испанской прессе в последнее время появилось много статей о том, что главная надежда Испании - это русские.\n\nСегодня средняя стоимость жилья в Испании - 1890 евро за кв. метр.</segment>
+		<segment id="56" parent="55" relname="elaboration">Причем иногда предложения бывают и более выгодные.</segment>
+		<segment id="58" parent="59" relname="cause-effect">Однако рассматривать покупку дома или апартаментов в стране как инструмент инвестиций эксперты не советуют</segment>
+		<segment id="59" parent="60" relname="span">- цены продолжают обвал.</segment>
+		<segment id="62" parent="64" relname="span">Скидки делаются на 30-50%.</segment>
+		<segment id="63" parent="62" relname="elaboration">В противовес жилой недвижимости в Испании все еще можно заработать на инвестициях в коммерческие площади.</segment>
+		<segment id="65" parent="71" relname="contrast">Но в этом случае нужно рассчитывать не на стабильный рентный доход,</segment>
+		<segment id="66" parent="70" relname="span">а на потенциал капитализации в десятилетней перспективе,</segment>
+		<segment id="67" parent="69" relname="comparison">если на рынке Испании все стабилизируется,</segment>
+		<segment id="68" parent="69" relname="comparison">как было до 2007 года,</segment>
+		<segment id="72" parent="73" relname="joint">советуют специалисты.\n\nИсточник: https://www.newsru.com/realty/08Feb2013/spain.html\n</segment>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="41" type="multinuc" parent="79" relname="joint"/>
+		<group id="33" type="span" parent="41" relname="joint"/>
+		<group id="31" type="span" parent="33" relname="span"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="38" type="span" parent="40" relname="span"/>
+		<group id="36" type="span" parent="38" relname="span"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="77" type="multinuc" parent="78" relname="span"/>
+		<group id="51" type="span" parent="77" relname="comparison"/>
+		<group id="45" type="multinuc" parent="51" relname="span"/>
+		<group id="50" type="span" parent="45" relname="elaboration"/>
+		<group id="48" type="span" parent="50" relname="span"/>
+		<group id="76" type="multinuc" parent="77" relname="comparison"/>
+		<group id="54" type="multinuc" parent="76" relname="comparison"/>
+		<group id="75" type="multinuc" parent="76" relname="comparison"/>
+		<group id="61" type="multinuc" parent="75" relname="joint"/>
+		<group id="57" type="span" parent="61" relname="contrast"/>
+		<group id="60" type="span" parent="61" relname="contrast"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="64" type="span" parent="74" relname="contrast"/>
+		<group id="73" type="multinuc" parent="74" relname="contrast"/>
+		<group id="71" type="multinuc" parent="73" relname="joint"/>
+		<group id="70" type="span" parent="71" relname="contrast"/>
+		<group id="69" type="multinuc" parent="66" relname="condition"/>
+		<group id="80" type="span"/>
+	</body>
+</rst>

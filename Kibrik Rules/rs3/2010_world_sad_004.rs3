@@ -1,0 +1,76 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="30" parent="85" relname="preparation">Столкновения между сербами и албанцами на севере Косово - никто не пострадал\n\</segment>
+		<segment id="31" parent="32" relname="condition">nВ столкновении между сербами и албанцами, произошедшими сегодня в Косовска-Митровице на севере Косово,</segment>
+		<segment id="32" parent="33" relname="span">никто серьезно не пострадал.</segment>
+		<segment id="34" parent="35" relname="attribution">Как сообщил ИТАР-ТАСС официальный представитель Косовской полицейской службы Бесим Хоти,</segment>
+		<segment id="35" parent="36" relname="span">его коллегам пришлось применить слезоточивый газ.\n\nЧерез полтора часа после начала беспорядков ситуация была нормализована.</segment>
+		<segment id="38" parent="42" relname="span">Ставший местом противостояния мост через реку Ибар,</segment>
+		<segment id="39" parent="41" relname="span">делящую Косовска-Митровицу на сербскую и албанскую половины,</segment>
+		<segment id="40" parent="39" relname="purpose">вновь открылся для автомобильного и пешеходного движения.\n\</segment>
+		<segment id="44" parent="46" relname="joint">nСегодня после полудня группы этнических сербов и албанцев общей численностью до четырех тысяч человек собрались у моста</segment>
+		<segment id="45" parent="46" relname="joint">и после \"обмена любезностями\" забросали друг друга камнями.</segment>
+		<segment id="47" parent="51" relname="span">До эскалации насилия дело не дошло</segment>
+		<segment id="48" parent="49" relname="cause-effect">из-за вмешательства натовского контингента KFOR, местных стражей порядка и полиции европейской Миссии в области верховенства закона.\n\nПеред началом столкновений в албанской части города на митинг \"в защиту суверенитета\" самопровозглашенной республики</segment>
+		<segment id="49" parent="50" relname="span">собрались около двух тысяч местных националистов, в том числе бывших бойцов так называемой \"Освободительной армии Косово\".</segment>
+		<segment id="53" parent="57" relname="span">Агрессивная толпа выдвинулась к мосту, ведущему в северную часть города,</segment>
+		<segment id="54" parent="56" relname="joint">где их уже поджидали сербы</segment>
+		<segment id="55" parent="56" relname="joint">.\n\</segment>
+		<segment id="58" parent="60" relname="span">nПоводом для нового всплеска межэтнической напряженности стали внеочередные выборы в местные органы самоуправления,</segment>
+		<segment id="59" parent="58" relname="elaboration">которые сербы в Косовска-Митровице проводят в соответствии с законодательством \"коренной\" Сербии.</segment>
+		<segment id="62" parent="66" relname="span">В ноябре прошлого года власти самопровозглашенной республики сумели организовать выборы в нескольких изолированных сербских анклавах в центральной и южной частях Косово,</segment>
+		<segment id="63" parent="65" relname="span">где, несмотря на минимальную активность населения,</segment>
+		<segment id="64" parent="63" relname="elaboration">были сформированы лояльные Приштине органы самоуправления.\n\</segment>
+		<segment id="67" parent="69" relname="span">nПри этом выборы в Косовска-Митровице и других северных анклавах,</segment>
+		<segment id="68" parent="67" relname="elaboration">где сербы составляют абсолютное большинство населения,</segment>
+		<segment id="70" parent="71" relname="same-unit">Приштина решила отложить \"до лучших времен\".</segment>
+		<segment id="73" parent="80" relname="condition">Действуя на опережение,</segment>
+		<segment id="74" parent="80" relname="span">Белград сам профинансировал внеочередное голосование,</segment>
+		<segment id="75" parent="79" relname="same-unit">которое,</segment>
+		<segment id="76" parent="77" relname="condition">если не считать инцидента на мосту,</segment>
+		<segment id="77" parent="78" relname="span">проходит в достаточно спокойной обстановке.\n\nИсточник: https://www.newsru.com/world/30May2010/sad.html\n</segment>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="43" type="span" parent="85" relname="joint"/>
+		<group id="37" type="span" parent="43" relname="span"/>
+		<group id="33" type="span" parent="36" relname="preparation"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="42" type="span" parent="37" relname="elaboration"/>
+		<group id="41" type="span" parent="38" relname="background"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="52" type="multinuc" parent="84" relname="joint"/>
+		<group id="46" type="multinuc" parent="52" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="50" type="span" parent="47" relname="cause-effect"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="61" type="multinuc" parent="83" relname="joint"/>
+		<group id="57" type="span" parent="61" relname="joint"/>
+		<group id="56" type="multinuc" parent="53" relname="elaboration"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="82" type="span" parent="83" relname="joint"/>
+		<group id="72" type="multinuc" parent="82" relname="span"/>
+		<group id="66" type="span" parent="72" relname="joint"/>
+		<group id="65" type="span" parent="62" relname="elaboration"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="69" type="span" parent="71" relname="same-unit"/>
+		<group id="81" type="span" parent="72" relname="elaboration"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="79" type="multinuc" parent="74" relname="elaboration"/>
+		<group id="78" type="span" parent="79" relname="same-unit"/>
+		<group id="86" type="span"/>
+	</body>
+</rst>

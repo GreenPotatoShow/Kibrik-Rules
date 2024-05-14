@@ -1,0 +1,28 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="11" relname="joint">Дом книги на Новом Арбате будет реконструирован\n\nРеконструировать Московский Дом книги на Новом Арбате намерены городские власти.\n\nПроект переоборудования известного книжного магазина одобрен в среду на заседании общественного градостроительного совета при мэре столицы</segment>
+		<segment id="10" parent="11" relname="joint">.\n\nДом книги предполагается надстроить на два этажа,</segment>
+		<segment id="12" parent="13" relname="span">в результате его общая площадь увеличится на 3 тыс. кв. метров,</segment>
+		<segment id="14" parent="15" relname="joint">сообщает \"Интерфакс\".\n\nНа первом, втором и третьем этажах будет развернута торговля книгами.</segment>
+		<segment id="16" parent="22" relname="span">На третьем откроется небольшое кафе.</segment>
+		<segment id="17" parent="21" relname="joint">Четвертый этаж займут предприятия общественного питания для посетителей и сотрудников магазина, а также вспомогательные службы.\n\nПредполагается также построить подземный гараж</segment>
+		<segment id="18" parent="20" relname="span">.\n\nДом книги будут реконструировать</segment>
+		<segment id="19" parent="18" relname="cause-effect">за счет смешанного финансирования с привлечением инвестиций.\n\nИсточник: https://www.newsru.com/russia/31Mar2004/domknigi.html\n</segment>
+		<group id="15" type="multinuc" parent="23" relname="joint"/>
+		<group id="13" type="span" parent="15" relname="joint"/>
+		<group id="11" type="multinuc" parent="12" relname="cause-effect"/>
+		<group id="22" type="span" parent="23" relname="joint"/>
+		<group id="21" type="multinuc" parent="16" relname="elaboration"/>
+		<group id="20" type="span" parent="21" relname="joint"/>
+		<group id="23" type="multinuc"/>
+	</body>
+</rst>

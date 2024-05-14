@@ -1,0 +1,39 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="17" relname="span">Ирак передал в ООН доклад о своих вооружених\n\nИракские представители передали экспертам ООН так называмую декларацию обо всех своих вооружениях и военных разработках, ведущихся в стране,</segment>
+		<segment id="16" parent="15" relname="attribution">сообщает Reuters.</segment>
+		<segment id="18" parent="20" relname="span">В воскресенье отчет будет доставлен в штаб-квартиру ООН в Нью-Йорке.\n\nОфициальные представители Ирака доставили в представительства ООН в Багдаде две большие сумки и четыре коробки с бумагами:</segment>
+		<segment id="19" parent="18" relname="elaboration">в отчете насчитывается более 12 тысяч страниц.</segment>
+		<segment id="21" parent="20" relname="elaboration">Ядерной, химической, биологической и ракетной программам Ирака в этом отчете посвящено по отдельному тому.</segment>
+		<segment id="23" parent="29" relname="span">Кроме того, к отчету прилагается несколько дисков,</segment>
+		<segment id="26" parent="28" relname="span">содержащих, как предположили журналисты, дополнительную информацию.\n\nХоссам Мохаммед Амин,</segment>
+		<segment id="27" parent="26" relname="attribution">руководивший составлением отчета,</segment>
+		<segment id="30" parent="33" relname="attribution">вновь заявил,</segment>
+		<segment id="31" parent="33" relname="span">что никакого оружия массового поражения на территории Ирака нет.\n\nВ суботу президент Ирака Саддам Хусейн выступил с обращением к народу Кувейта,</segment>
+		<segment id="32" parent="31" relname="background">принеся извинения за вторжение 1990 года.</segment>
+		<segment id="36" parent="37" relname="attribution">Хусейн также призвал</segment>
+		<segment id="37" parent="38" relname="span">Кувейт присоединиться к Ираку в борьбе с возможной оккупацией.\n\nИсточник: https://www.newsru.com/world/07Dec2002/doklad.html\n</segment>
+		<group id="17" type="span" parent="41" relname="joint"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="22" type="span" parent="40" relname="joint"/>
+		<group id="20" type="span" parent="22" relname="span"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="35" type="multinuc" parent="39" relname="joint"/>
+		<group id="29" type="span" parent="35" relname="joint"/>
+		<group id="28" type="span" parent="23" relname="elaboration"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="41" type="multinuc"/>
+	</body>
+</rst>

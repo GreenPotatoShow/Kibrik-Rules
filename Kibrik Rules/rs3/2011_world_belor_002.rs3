@@ -1,0 +1,165 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="concession" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="71" parent="75" relname="span">Жертвы \"отморозка-спецназовца\" в Минске нашли его в Сети:</segment>
+		<segment id="72" parent="74" relname="joint">любит бананы,</segment>
+		<segment id="73" parent="74" relname="joint">а \"аппозицию\"</segment>
+		<segment id="76" parent="82" relname="span">- нет\n\nЖители Белоруссии,</segment>
+		<segment id="77" parent="80" relname="condition">участвовавшие в \"молчаливых\" акциях протеста, организованных группой \"Революция через социальные сети\",</segment>
+		<segment id="78" parent="80" relname="span">пытаются при помощи интернета установить личности милиционеров в штатском,</segment>
+		<segment id="79" parent="78" relname="elaboration">которые избивали митингующих в Минске в минувшее воскресенье.</segment>
+		<segment id="84" parent="88" relname="sequence">В результате по фотографии неизвестного,</segment>
+		<segment id="87" parent="88" relname="sequence">распылившего газ на Октябрьской площади 3 июля, был опознан 22-летний выпускник Академии МВД Белоруссии Роман Кибик,</segment>
+		<segment id="89" parent="99" relname="joint">сообщает \"Хартия'97\".\n\nМежду тем в стране завершаются суды над задержанными участниками молчаливых акций протеста.</segment>
+		<segment id="90" parent="98" relname="span">Их приговаривают к штрафу или аресту до 15 суток за \"мат в общественном месте\".\n\</segment>
+		<segment id="91" parent="97" relname="span">nХотя не исключено, что интернет-пользователи ошиблись,</segment>
+		<segment id="92" parent="96" relname="contrast">признав в жестоком спецназовце с газовым баллончиком Романа Кибика,</segment>
+		<segment id="93" parent="94" relname="cause-effect">однако он сам в телефонной беседе с журналистками \"Еврорадио\" почему-то не стал опровергать версию,</segment>
+		<segment id="94" parent="95" relname="span">что именно он по заданию руководства участвовал в подавлении митинга.</segment>
+		<segment id="102" parent="108" relname="span">Правда, подтвердить это утверждение Роман тоже отказался,</segment>
+		<segment id="103" parent="106" relname="attribution">заявив,</segment>
+		<segment id="104" parent="106" relname="span">что он не скажет,</segment>
+		<segment id="105" parent="104" relname="background">где был в воскресенье вечером,</segment>
+		<segment id="109" parent="115" relname="span">так как это его личная жизнь.\n\nКак выяснили СМИ,</segment>
+		<segment id="110" parent="112" relname="span">изучив страницу Кибика в соцсети \"ВКонтакте\",</segment>
+		<segment id="111" parent="110" relname="background">он родился в Волковыске,</segment>
+		<segment id="113" parent="114" relname="span">сейчас проживает в Минске.</segment>
+		<segment id="117" parent="116" relname="interpretation-evaluation">В своем профиле Роман представился очень красноречиво: \"Простой смертный крестьянин.</segment>
+		<segment id="120" parent="207" relname="preparation">Обожаю спорт, экстрим, нагрузки.</segment>
+		<segment id="121" parent="145" relname="joint">Моя слабость: авто, мотоциклы.</segment>
+		<segment id="122" parent="128" relname="joint">Еще, я готов отстрелить ноги пи***рам</segment>
+		<segment id="123" parent="125" relname="joint">и тем кто под них косит,</segment>
+		<segment id="124" parent="125" relname="joint">ненавижу эмо и аппозицию,</segment>
+		<segment id="126" parent="125" relname="cause-effect">так же не навижу фуфлогонов.</segment>
+		<segment id="129" parent="130" relname="attribution">Люблю бананы\" (орфография автора сохранена).\n\nСначала Кибик заявил \"Еврорадио\",</segment>
+		<segment id="130" parent="131" relname="span">что его страница была взломана,</segment>
+		<segment id="132" parent="141" relname="solutionhood">но после того, как журналистки задали вопрос про \"аппозицию\" через \"а\",</segment>
+		<segment id="133" parent="134" relname="attribution">Роман фактически признал</segment>
+		<segment id="134" parent="135" relname="span">свое авторство сообщения о пристрастиях,</segment>
+		<segment id="136" parent="139" relname="attribution">заявив,</segment>
+		<segment id="137" parent="139" relname="span">что слово \"оппозиция\" очень сложное</segment>
+		<segment id="138" parent="137" relname="purpose">для написания.</segment>
+		<segment id="146" parent="151" relname="attribution">В остальном ничего конкретного он так и не сказал,</segment>
+		<segment id="147" parent="150" relname="interpretation-evaluation">неловко отшучиваясь,</segment>
+		<segment id="148" parent="150" relname="joint">что закончил три класса церковно-приходской школы</segment>
+		<segment id="149" parent="150" relname="joint">и отвечать на вопросы не может.\n\nНа фотографиях, опубликованных сайтом \"Хартия'97\",</segment>
+		<segment id="153" parent="155" relname="joint">на Романе форма спецназовца,</segment>
+		<segment id="154" parent="155" relname="joint">в руках он держит специальный шлем,</segment>
+		<segment id="156" parent="162" relname="span">рядом стоит щит с надписью \"Милиция\".\n\nКак сообщает \"Газета.ru\",</segment>
+		<segment id="157" parent="160" relname="purpose">для опознания милиционеров в гражданской одежде,</segment>
+		<segment id="158" parent="160" relname="joint">участвовавших в подавлении акций протеста,</segment>
+		<segment id="159" parent="160" relname="joint">в Белоруссии создан специальный сайт - Posobniki.com - \"досье на пособников белорусского фашизма\".\n\nБелорусы также выкладывают в соцсетях фотографии милиционеров, избивающих участников акций протеста.</segment>
+		<segment id="164" parent="165" relname="joint">После опознания активисты собирают всю необходимую информацию о сотрудниках правоохранительных органов.</segment>
+		<segment id="167" parent="177" relname="joint">По данным издания, милиционеров можно было легко узнать в толпе по бритым головам, военной выправке и наушникам от раций в ушах.\n\nОсобую жестокость буелорусские стражи порядка проявляют к журналистам</segment>
+		<segment id="168" parent="170" relname="joint">- их избивают, отбирают</segment>
+		<segment id="169" parent="170" relname="joint">или разбивают камеры,</segment>
+		<segment id="171" parent="175" relname="joint">распыляют в лицо слезоточивый газ,</segment>
+		<segment id="172" parent="174" relname="joint">отвозят в отделения милиции</segment>
+		<segment id="173" parent="174" relname="joint">.\n\nУчастникам акции дают по 15 суток\n\</segment>
+		<segment id="178" parent="184" relname="comparison">nВ Белоруссии завершаются суды над задержанными в воскресенье участниками акций протеста.</segment>
+		<segment id="179" parent="181" relname="joint">Накануне сообщалось, что осуждены около 100 человек</segment>
+		<segment id="180" parent="181" relname="joint">.\n\nКак передает \"Русская служба новостей\",</segment>
+		<segment id="182" parent="183" relname="sequence">большинство задержанных приговаривают к административному аресту.</segment>
+		<segment id="185" parent="188" relname="attribution">По данным радиостанции,</segment>
+		<segment id="186" parent="188" relname="sequence">только в суде Фрунзенского района Минска из 21 человека постановления о штрафе в 700 тысяч белорусских рублей (около 4 тыс. российских рублей) вынесли лишь двоим.</segment>
+		<segment id="187" parent="188" relname="sequence">Остальные получили от 9 до 15 суток лишения свободы.\n\nУчастников акций протеста обвиняют в нецензурной брани в общественном месте.</segment>
+		<segment id="192" parent="196" relname="joint">Свидетелями в суде выступают сотрудники милицейского спецназа.\n\nПо данным белорусских правозащитников,</segment>
+		<segment id="193" parent="195" relname="comparison">во время акции молчаливого протеста в День Независимости в республике было задержано примерно 390 человек:</segment>
+		<segment id="194" parent="195" relname="comparison">не менее 210 человек - в Минске, около 180 - в регионах.</segment>
+		<segment id="197" parent="199" relname="contrast">Как и раньше, участники акций не выкрикивали никаких лозунгов,</segment>
+		<segment id="198" parent="199" relname="contrast">а просто молча вместе хлопали в ладоши.</segment>
+		<segment id="200" parent="201" relname="attribution">По замыслу организаторов,</segment>
+		<segment id="201" parent="202" relname="span">так люди выражают протест против экономической политики властей.\n\nИсточник: https://www.newsru.com/world/05Jul2011/belor.html\n</segment>
+		<group id="119" type="multinuc" parent="209" relname="joint"/>
+		<group id="101" type="span" parent="119" relname="contrast"/>
+		<group id="83" type="span" parent="100" relname="cause-effect"/>
+		<group id="75" type="span" parent="83" relname="span"/>
+		<group id="74" type="multinuc" parent="71" relname="elaboration"/>
+		<group id="82" type="span" parent="75" relname="elaboration"/>
+		<group id="81" type="span" parent="76" relname="condition"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="88" type="multinuc" parent="99" relname="preparation"/>
+		<group id="99" type="multinuc" parent="100" relname="span"/>
+		<group id="98" type="span" parent="99" relname="joint"/>
+		<group id="97" type="span" parent="90" relname="concession"/>
+		<group id="96" type="multinuc" parent="91" relname="cause-effect"/>
+		<group id="95" type="span" parent="96" relname="contrast"/>
+		<group id="118" type="span" parent="119" relname="contrast"/>
+		<group id="116" type="span" parent="118" relname="span"/>
+		<group id="108" type="span" parent="116" relname="span"/>
+		<group id="107" type="span" parent="102" relname="cause-effect"/>
+		<group id="106" type="span" parent="107" relname="span"/>
+		<group id="115" type="span" parent="108" relname="cause-effect"/>
+		<group id="114" type="span" parent="109" relname="condition"/>
+		<group id="112" type="span" parent="113" relname="cause-effect"/>
+		<group id="208" type="span" parent="209" relname="joint"/>
+		<group id="207" type="span" parent="208" relname="span"/>
+		<group id="145" type="multinuc" parent="206" relname="preparation"/>
+		<group id="144" type="multinuc" parent="145" relname="joint"/>
+		<group id="128" type="multinuc" parent="144" relname="joint"/>
+		<group id="127" type="span" parent="128" relname="joint"/>
+		<group id="125" type="multinuc" parent="127" relname="span"/>
+		<group id="143" type="multinuc" parent="144" relname="joint"/>
+		<group id="131" type="span" parent="143" relname="contrast"/>
+		<group id="142" type="span" parent="143" relname="contrast"/>
+		<group id="141" type="span" parent="142" relname="span"/>
+		<group id="135" type="span" parent="141" relname="span"/>
+		<group id="140" type="span" parent="135" relname="cause-effect"/>
+		<group id="139" type="span" parent="140" relname="span"/>
+		<group id="206" type="multinuc" parent="207" relname="span"/>
+		<group id="166" type="multinuc" parent="206" relname="joint"/>
+		<group id="152" type="span" parent="166" relname="joint"/>
+		<group id="151" type="span" parent="152" relname="span"/>
+		<group id="150" type="multinuc" parent="151" relname="span"/>
+		<group id="165" type="multinuc" parent="166" relname="joint"/>
+		<group id="163" type="multinuc" parent="165" relname="joint"/>
+		<group id="155" type="multinuc" parent="163" relname="joint"/>
+		<group id="162" type="span" parent="163" relname="joint"/>
+		<group id="161" type="span" parent="156" relname="purpose"/>
+		<group id="160" type="multinuc" parent="161" relname="span"/>
+		<group id="205" type="multinuc" parent="206" relname="joint"/>
+		<group id="191" type="multinuc" parent="205" relname="joint"/>
+		<group id="177" type="multinuc" parent="191" relname="joint"/>
+		<group id="176" type="multinuc" parent="177" relname="joint"/>
+		<group id="170" type="multinuc" parent="176" relname="joint"/>
+		<group id="175" type="multinuc" parent="176" relname="joint"/>
+		<group id="174" type="multinuc" parent="175" relname="joint"/>
+		<group id="190" type="multinuc" parent="191" relname="joint"/>
+		<group id="184" type="multinuc" parent="190" relname="joint"/>
+		<group id="183" type="multinuc" parent="184" relname="comparison"/>
+		<group id="181" type="multinuc" parent="183" relname="sequence"/>
+		<group id="189" type="span" parent="190" relname="joint"/>
+		<group id="188" type="multinuc" parent="189" relname="span"/>
+		<group id="204" type="multinuc" parent="205" relname="joint"/>
+		<group id="196" type="multinuc" parent="204" relname="joint"/>
+		<group id="195" type="multinuc" parent="196" relname="joint"/>
+		<group id="203" type="span" parent="204" relname="joint"/>
+		<group id="199" type="multinuc" parent="203" relname="span"/>
+		<group id="202" type="span" parent="199" relname="evidence"/>
+		<group id="209" type="multinuc"/>
+	</body>
+</rst>

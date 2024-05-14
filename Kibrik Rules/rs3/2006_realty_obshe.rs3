@@ -1,0 +1,127 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="concession" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="53" parent="55" relname="sequence">После расселения общежитий более полумиллиона россиян окажутся на улице\n\nВ субботу на Славянской площади в рамках общероссийской акции протеста состоялся митинг жильцов столичных и подмосковных общежитий.</segment>
+		<segment id="54" parent="55" relname="sequence">Собравшиеся потребовали у властей прекращения их незаконного выселения и отмены нового Жилищного кодекса.</segment>
+		<segment id="56" parent="59" relname="attribution">Участники митинга уверены,</segment>
+		<segment id="57" parent="59" relname="joint">что по подложным документам \"общаги\" передаются в частную собственность руководству предприятий и заводов,</segment>
+		<segment id="58" parent="59" relname="joint">а проживших в них по 15-20 лет людей всеми доступными способами пытаются лишить крыши над головой.</segment>
+		<segment id="61" parent="63" relname="sequence">В тот же день прошли акции протеста в ряде других городов России,</segment>
+		<segment id="62" parent="63" relname="sequence">пишут \"Новые известия\".\n\nК памятнику Кириллу и Мефодию народ стал подтягиваться еще за час до официального начала мероприятия, назначенного на 11:00.</segment>
+		<segment id="66" parent="70" relname="same-unit">Растянув в руках плакаты и транспаранты с надписями \"Новый Жилищный кодекс - закон для бомжей\",</segment>
+		<segment id="69" parent="70" relname="same-unit">\"Чиновников, допустивших беспредел, на 6 кв. метров\", \"Мы вычеркнуты из списка жителей города\", люди разместились полукругом вокруг импровизированной трибуны, у памятника.</segment>
+		<segment id="71" parent="73" relname="sequence">Всего на площади собралось около 250-300 человек.\n\nОрганизаторы акции Движение общежитий Москвы и области \"Дом\" отметили,</segment>
+		<segment id="72" parent="73" relname="sequence">что в тот же день акции протеста должны были пройти в Санкт-Петербурге, Ижевске, Перми, Уфе, Нижневартовске и Стерлитамаке.</segment>
+		<segment id="75" parent="77" relname="span">В качестве главных требований властям демонстранты выдвинули отмену Нового Жилищного кодекса,</segment>
+		<segment id="76" parent="75" relname="elaboration">передачу в муниципальную собственность всех общежитий, а также предоставление проживающим в них права бесплатной приватизации.</segment>
+		<segment id="78" parent="87" relname="attribution">По словам участников мероприятия,</segment>
+		<segment id="79" parent="80" relname="condition">если их требования не выполнят,</segment>
+		<segment id="80" parent="81" relname="span">около 500 тысяч человек,</segment>
+		<segment id="82" parent="83" relname="concession">несмотря на постоянную московскую прописку,</segment>
+		<segment id="83" parent="84" relname="span">могут оказаться на улице.\n\nЭто уже третий митинг,</segment>
+		<segment id="85" parent="86" relname="span">прошедший в Москве за последние полгода.</segment>
+		<segment id="89" parent="90" relname="concession">Хотя определенные подвижки уже есть,</segment>
+		<segment id="90" parent="91" relname="span">прекращать акции протеста они не намерены.</segment>
+		<segment id="93" parent="97" relname="contrast">\"Действительно, многие судебные иски решены в нашу пользу,</segment>
+		<segment id="94" parent="95" relname="condition">однако если не продолжать митинговать</segment>
+		<segment id="95" parent="96" relname="span">- исполнять их никто не будет\",</segment>
+		<segment id="98" parent="97" relname="attribution">- пояснила газете участница инициативной группы жильцов Елена Зорькина.\n\nСегодня только в Москве под угрозой выселения находятся обитатели 150 общежитий.</segment>
+		<segment id="100" parent="104" relname="joint">Дело в том, что большая часть заводских и фабричных общежитий столицы еще в 90-е годы была приватизирована</segment>
+		<segment id="101" parent="103" relname="comparison">и скуплена их администрацией по подложным,</segment>
+		<segment id="102" parent="103" relname="comparison">как говорят протестующие, документам.</segment>
+		<segment id="105" parent="107" relname="contrast">Поскольку по закону жилой фонд нельзя передавать в частную собственность,</segment>
+		<segment id="106" parent="107" relname="contrast">в бумагах указывалось, что в здании никто не живет.</segment>
+		<segment id="108" parent="109" relname="span">Последние четыре года стали объявляться хозяева \"частных общаг\".</segment>
+		<segment id="111" parent="118" relname="condition">Действуя по праву собственника,</segment>
+		<segment id="112" parent="118" relname="joint">они сверх всяких мер повышают квартплату,</segment>
+		<segment id="113" parent="117" relname="joint">переселяют жильцов в комнаты к соседям,</segment>
+		<segment id="114" parent="116" relname="joint">а освободившуюся площадь сдают под офисы, магазины, ателье</segment>
+		<segment id="115" parent="116" relname="joint">или переделывают в гостиницы.</segment>
+		<segment id="120" parent="122" relname="span">Причем оспорить в суде незаконность такой приватизации почти невозможно,</segment>
+		<segment id="121" parent="120" relname="cause-effect">так как сроки исковой давности истекли.\n\n</segment>
+		<segment id="124" parent="128" relname="joint">\"В 2002 году помещение, где я живу уже 27 лет,</segment>
+		<segment id="125" parent="127" relname="joint">было выведено из жилого фонда</segment>
+		<segment id="126" parent="127" relname="joint">и превращено в частную собственность ЗАО \"Москабельмет\",</segment>
+		<segment id="129" parent="128" relname="attribution">- рассказала член координационного совета \"Дом\" Наталья Ежова.</segment>
+		<segment id="131" parent="137" relname="span">- Уже в течение четырех лет мне отключают воду и свет,</segment>
+		<segment id="132" parent="136" relname="span">пытаясь вынудить меня съехать.</segment>
+		<segment id="133" parent="134" relname="concession">Несмотря на все мои письма в окружную администрацию,</segment>
+		<segment id="134" parent="135" relname="span">Таганская управа и префектура ЦАО до сих пор не предприняли никаких мер по прекращению этого безобразия.</segment>
+		<segment id="138" parent="137" relname="elaboration">Хозяину же общежития выгодно заключать договор коммерческого, а не социального найма.</segment>
+		<segment id="140" parent="146" relname="sequence">Поэтому нас, проживающих там, кроме как бесправными рабами назвать нельзя\".\n\nМитинг продолжался полтора часа,</segment>
+		<segment id="141" parent="145" relname="span">после чего люди,</segment>
+		<segment id="142" parent="144" relname="joint">свернув свои транспаранты и плакаты,</segment>
+		<segment id="143" parent="144" relname="joint">спокойно разошлись с площади.\n\nИсточник: https://www.newsru.com/realty/02Oct2006/obshe.html\n</segment>
+		<group id="65" type="span" parent="155" relname="joint"/>
+		<group id="55" type="multinuc" parent="64" relname="preparation"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="60" type="span" parent="64" relname="sequence"/>
+		<group id="59" type="multinuc" parent="60" relname="span"/>
+		<group id="63" type="multinuc" parent="64" relname="sequence"/>
+		<group id="154" type="multinuc" parent="155" relname="joint"/>
+		<group id="74" type="multinuc" parent="154" relname="joint"/>
+		<group id="70" type="multinuc" parent="74" relname="joint"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="153" type="span" parent="154" relname="joint"/>
+		<group id="77" type="span" parent="152" relname="preparation"/>
+		<group id="152" type="multinuc" parent="153" relname="span"/>
+		<group id="92" type="span" parent="152" relname="joint"/>
+		<group id="88" type="span" parent="92" relname="span"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="81" type="span" parent="87" relname="span"/>
+		<group id="86" type="span" parent="81" relname="concession"/>
+		<group id="84" type="span" parent="85" relname="concession"/>
+		<group id="91" type="span" parent="88" relname="concession"/>
+		<group id="151" type="span" parent="152" relname="joint"/>
+		<group id="99" type="span" parent="150" relname="preparation"/>
+		<group id="97" type="multinuc" parent="99" relname="span"/>
+		<group id="96" type="span" parent="97" relname="contrast"/>
+		<group id="150" type="multinuc" parent="151" relname="span"/>
+		<group id="110" type="span" parent="150" relname="joint"/>
+		<group id="104" type="multinuc" parent="110" relname="span"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="109" type="span" parent="104" relname="cause-effect"/>
+		<group id="107" type="multinuc" parent="108" relname="cause-effect"/>
+		<group id="149" type="multinuc" parent="150" relname="joint"/>
+		<group id="123" type="span" parent="149" relname="joint"/>
+		<group id="119" type="span" parent="123" relname="span"/>
+		<group id="118" type="multinuc" parent="119" relname="span"/>
+		<group id="117" type="multinuc" parent="118" relname="joint"/>
+		<group id="116" type="multinuc" parent="117" relname="joint"/>
+		<group id="122" type="span" parent="119" relname="interpretation-evaluation"/>
+		<group id="148" type="multinuc" parent="149" relname="joint"/>
+		<group id="130" type="span" parent="148" relname="joint"/>
+		<group id="128" type="multinuc" parent="130" relname="span"/>
+		<group id="127" type="multinuc" parent="128" relname="joint"/>
+		<group id="147" type="span" parent="148" relname="joint"/>
+		<group id="139" type="span" parent="146" relname="cause-effect"/>
+		<group id="137" type="span" parent="139" relname="span"/>
+		<group id="136" type="span" parent="131" relname="purpose"/>
+		<group id="135" type="span" parent="132" relname="interpretation-evaluation"/>
+		<group id="146" type="multinuc" parent="147" relname="span"/>
+		<group id="145" type="span" parent="146" relname="sequence"/>
+		<group id="144" type="multinuc" parent="141" relname="condition"/>
+		<group id="155" type="multinuc"/>
+	</body>
+</rst>

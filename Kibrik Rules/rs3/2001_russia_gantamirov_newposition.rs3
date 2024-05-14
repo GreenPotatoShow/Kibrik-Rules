@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="94" relname="preparation">Бислан Гантамиров получил должность в аппарате президента России\n\nВ понедельник стало известно, что бывший мэр Грозного Бислан Гантамиров назначен главным федеральным инспектором аппарата полпреда президента в Южном федеральном округе.</segment>
+		<segment id="34" parent="37" relname="preparation">На этом долгие разговоры о его новом месте работы после неожиданной отставки с поста мэра Грозного заканчиваются.</segment>
+		<segment id="35" parent="37" relname="joint">Как сообщается, Гантамиров будет работать над новой конституцией Чечни</segment>
+		<segment id="36" parent="37" relname="joint">и отвечать за связь с общественными движениями и партиями республики.\n\nОфициальный документ с перечнем должностных обязанностей нового федерального инспектора еще даже не прошел формальную юридическую регистрацию.</segment>
+		<segment id="39" parent="41" relname="sequence">Бислана Гантамирова сегодня представили аппарату,</segment>
+		<segment id="40" parent="41" relname="sequence">он теперь полноправно вступил в должность.\n\nВиктор Казанцев, полномочный представитель Президента России в Южном федеральном округе сообщил:</segment>
+		<segment id="42" parent="48" relname="joint">\"Сегодня утверждена мною функциональная инструкция Главного федерального инспектора Гантамирова Бислана Сайдалиевича\".\n\nДо назначения Гантамирова в округе было 10 главных федеральных инспекторов.</segment>
+		<segment id="43" parent="45" relname="joint">И как говорят, выделение еще одной штатной единицы под бывшего мэра чеченской столицы согласовывали с главой президентской администрации Александром Волошиным.\n\nГантамиров будет работать во всем округе,</segment>
+		<segment id="44" parent="45" relname="joint">у него будет два рабочих кабинета - один в Москве, другой в Ростове.</segment>
+		<segment id="46" parent="47" relname="joint">Он снова будет заниматься проблемами Чечни.</segment>
+		<segment id="51" parent="56" relname="condition">Только теперь, став сотрудником аппарата президента,</segment>
+		<segment id="52" parent="55" relname="attribution">куда входит полпредство,</segment>
+		<segment id="53" parent="55" relname="joint">что расценивается как повышение,</segment>
+		<segment id="54" parent="55" relname="joint">он будет заниматься куда более серьезными проблемами.</segment>
+		<segment id="58" parent="57" relname="interpretation-evaluation">В каком-то смысле это можно назвать государственно-партийным строительством.</segment>
+		<segment id="60" parent="66" relname="span">В перечне задач - подготовка национальных кадров, решение проблем беженцев, создание республиканского избиркома, подготовка к парламентским выборам в Чечне и разработка проекта чеченской конституции.\n\nКоснувшись одной из главных задач, Бислан Гантамиров заявил:</segment>
+		<segment id="61" parent="65" relname="span">\"Конституция Чеченской республики будет выстроена в строгой вертикали и в соответствии с Конституцией Российской Федерации.</segment>
+		<segment id="62" parent="64" relname="joint">Главная основа конституции Чеченской республики это то, что республика является субъектом Российской Федерации,</segment>
+		<segment id="63" parent="64" relname="joint">и она будет писать свою конституцию только в правовом поле нашей общей Конституции\".\n\nРешение всех этих вопросов во многом будет зависеть от обстановки в самой Чечне.</segment>
+		<segment id="67" parent="69" relname="span">И первое, что предстоит сделать Гантамирову</segment>
+		<segment id="68" parent="67" relname="cause-effect">- решить кадровую проблему.</segment>
+		<segment id="70" parent="71" relname="contrast">Тем не менее, новый мэр Грозного до сих пор не назначен.</segment>
+		<segment id="73" parent="76" relname="attribution">Новый главный федеральный инспектор говорит,</segment>
+		<segment id="74" parent="76" relname="joint">что без него это решение не примут</segment>
+		<segment id="75" parent="76" relname="joint">и кандидатуру мэра он должен будет одобрить сам.</segment>
+		<segment id="78" parent="79" relname="attribution">Виктор Казанцев заявил,</segment>
+		<segment id="79" parent="80" relname="span">что новый мэр Грозного будет назначен до конца июня.</segment>
+		<segment id="81" parent="88" relname="attribution">По его словам,</segment>
+		<segment id="82" parent="84" relname="joint">сейчас на этот пост подбирается</segment>
+		<segment id="83" parent="84" relname="joint">и согласовывается кандидатура.\n\nСам же Гантамиров на вопрос, о том, когда начнется его первый рабочий день в новой должности,</segment>
+		<segment id="85" parent="86" relname="attribution">отвечает:</segment>
+		<segment id="86" parent="87" relname="span">я уже работаю.\n\nИсточник: https://www.newsru.com/russia/19Jun2001/gantamirov_newposition.html\n</segment>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="50" type="multinuc" parent="94" relname="joint"/>
+		<group id="38" type="span" parent="50" relname="joint"/>
+		<group id="37" type="multinuc" parent="38" relname="span"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="41" type="multinuc" parent="49" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="45" type="multinuc" parent="47" relname="joint"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="59" type="span" parent="93" relname="joint"/>
+		<group id="57" type="span" parent="59" relname="span"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="72" type="span" parent="92" relname="joint"/>
+		<group id="66" type="span" parent="71" relname="cause-effect"/>
+		<group id="65" type="span" parent="60" relname="elaboration"/>
+		<group id="64" type="multinuc" parent="61" relname="elaboration"/>
+		<group id="71" type="multinuc" parent="72" relname="span"/>
+		<group id="69" type="span" parent="71" relname="contrast"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="77" type="span" parent="91" relname="joint"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="80" type="span" parent="90" relname="span"/>
+		<group id="89" type="span" parent="80" relname="elaboration"/>
+		<group id="88" type="multinuc" parent="89" relname="span"/>
+		<group id="84" type="multinuc" parent="88" relname="sequence"/>
+		<group id="87" type="span" parent="88" relname="sequence"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

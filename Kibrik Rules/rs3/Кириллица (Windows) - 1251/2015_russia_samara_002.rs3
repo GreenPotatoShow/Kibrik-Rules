@@ -1,0 +1,162 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="70" parent="74" relname="sequence">В Самаре уничтожили первую партию санкционных продуктов\n\nРоссельхознадзор выявил</segment>
+		<segment id="71" parent="73" relname="span">первую партию санкционных продуктов,</segment>
+		<segment id="72" parent="71" relname="background">которая, предположительно, была произведена в Евросоюзе,</segment>
+		<segment id="75" parent="76" relname="contrast">но ввозилась на территорию РФ по бразильским сертификатам.</segment>
+		<segment id="77" parent="79" relname="span">Контрафакт в виде шести фур со 114 тоннами свиной продукции был обнаружен в Самаре.</segment>
+		<segment id="78" parent="77" relname="elaboration">В городе уже приступили к уничтожению мяса.</segment>
+		<segment id="80" parent="79" relname="attribution">Об этом во вторник агентству РИА \"Новости\" рассказала пресс-секретарь Россельхознадзора Юлия Мелано.\n\n</segment>
+		<segment id="83" parent="97" relname="restatement">\"Сегодня в Самаре уничтожается партия груза, задержанного еще в апреле,</segment>
+		<segment id="84" parent="90" relname="span">- шесть фур со 114 тоннами свиной продукции,</segment>
+		<segment id="85" parent="87" relname="contrast">которые по документам имели бразильское происхождение,</segment>
+		<segment id="86" parent="87" relname="contrast">однако вызвали сомнения у инспекторов</segment>
+		<segment id="88" parent="89" relname="joint">и были задержаны.</segment>
+		<segment id="91" parent="95" relname="joint">Впоследствии Бразилия не подтвердила подлинность сертификатов,</segment>
+		<segment id="92" parent="93" relname="attribution">а Россельхознадзор предполагает,</segment>
+		<segment id="93" parent="94" relname="span">что эта продукция была произведена в Евросоюзе\",</segment>
+		<segment id="98" parent="101" relname="attribution">- пояснила сотрудница ведомства.\n\nОна также уточнила,</segment>
+		<segment id="99" parent="101" relname="span">что утилизация мяса в Самаре \"не подпадает под действие постановления правительства от 31 июля,</segment>
+		<segment id="100" parent="99" relname="elaboration">ввиду того, что данная продукция обнаружена не на государственной границе РФ, а уже непосредственно на территории страны\".</segment>
+		<segment id="103" parent="105" relname="joint">\"Россельхознадзор ранее утилизировал продукцию, которая нелегально попадала в страну,</segment>
+		<segment id="104" parent="105" relname="joint">с 6 числа числа мы будем делать это и на границе\",</segment>
+		<segment id="106" parent="109" relname="attribution">- пообещала Мелано</segment>
+		<segment id="107" parent="108" relname="cause-effect">.\n\n- Путина попросили</segment>
+		<segment id="108" parent="109" relname="span">расширить список стран, попадающих под запрет на поставку продуктов\n\</segment>
+		<segment id="114" parent="134" relname="joint">nНакануне правительство утвердило правила уничтожения санкционных продуктов - \"любым способом, предусмотренным законодательством\".</segment>
+		<segment id="115" parent="121" relname="joint">Изъятие и ликвидация будет производиться независимо от того, кому принадлежат продукты</segment>
+		<segment id="116" parent="119" relname="attribution">или кто организовал их провоз.\n\nЗаинтересованные ведомства уже объяснили,</segment>
+		<segment id="117" parent="119" relname="restatement">что под уничтожением следует понимать приведение продуктов в негодность</segment>
+		<segment id="118" parent="119" relname="restatement">- речь идет о сожжении</segment>
+		<segment id="122" parent="130" relname="span">либо о нарушении заводской упаковки с последующей отправкой на свалку.\n\nЮрист, глава практики разрешения споров ИФК \"Горизонт Капитал\" Василий Ицков заявил \"Коммерсанту\",</segment>
+		<segment id="123" parent="128" relname="cause-effect">что поскольку за ликвидацию санкционных продуктов отвечает не одна ФТС,</segment>
+		<segment id="124" parent="128" relname="span">их поиски могут начаться на территории всей страны, в том числе в супермаркетах, а не только на границе.\n\nИсточник в Минсельхозе подтвердил изданию:</segment>
+		<segment id="125" parent="127" relname="joint">проверять будут склады всех ритейлеров,</segment>
+		<segment id="126" parent="127" relname="joint">ответственным за эту операцию назначен Роспотребнадзор.</segment>
+		<segment id="131" parent="130" relname="interpretation-evaluation">В самом Роспотребнадзоре не смогли оперативно прокомментировать эту информацию.</segment>
+		<segment id="135" parent="136" relname="attribution">Заместитель руководителя Россельхознадзора Николай Власов сообщил,</segment>
+		<segment id="136" parent="137" relname="span">что ведомство будет проверять продукцию на границе, на складах временного хранения и в качестве эксперта участвовать в проверках общепита и ритейлера.\n\</segment>
+		<segment id="138" parent="139" relname="attribution">nСами ритейлеры утверждают,</segment>
+		<segment id="139" parent="140" relname="span">что санкционных продуктов уже нет ни на полках, ни на складах.</segment>
+		<segment id="141" parent="147" relname="span">Продажи запрещенных европейских и американских продуктов какое-то время продолжались после введения эмбарго,</segment>
+		<segment id="142" parent="144" relname="contrast">когда в обороте находились ввезенные до объявления санкций товары,</segment>
+		<segment id="143" parent="144" relname="contrast">но они уже \"вымылись\" из ассортимента,</segment>
+		<segment id="145" parent="146" relname="span">поэтому вероятность обнаружить их нулевая.\n\nКакие страны выиграли от эмбарго на западные продукты\n\nВведение продовольственного эмбарго обойдется россиянам в 147,3 млрд рублей дополнительных расходов на питание за год.</segment>
+		<segment id="148" parent="150" relname="joint">Экономическую цену антисанкций оценили эксперты компании ФБК,</segment>
+		<segment id="149" parent="150" relname="joint">писал Forbes.\n\nДополнительные расходы на продовольственные товары, импорт которых из ряда стран был запрещен,</segment>
+		<segment id="151" parent="152" relname="span">вызывают дополнительный инфляционный рост стоимости продуктов.</segment>
+		<segment id="155" parent="158" relname="cause-effect">В числе причин ускорения инфляции</segment>
+		<segment id="156" parent="157" relname="attribution">эксперты называют</segment>
+		<segment id="157" parent="158" relname="span">рост транспортных затрат</segment>
+		<segment id="160" parent="164" relname="joint">.\n\nНишу запрещенных к ввозу в Россию сельхозпродуктов, сырья и продовольствия из США, Канады, стран Евросоюза и Норвегии стали занимать поставки из других стран</segment>
+		<segment id="161" parent="163" relname="span">- товары поступают либо из более далеких регионов, например из Южной Америки, либо из Европы, но обходным путем через Белоруссию.\n\nНапример, импорт мяса из Чили с мая по декабрь 2014 года вырос в пять раз (в стоимостном выражении),</segment>
+		<segment id="162" parent="161" relname="elaboration">во столько же выросли поставки молочных продуктов из Аргентины и фруктов из Коста-Рики,</segment>
+		<segment id="165" parent="166" relname="span">приводит данные издание.\n\nАнтисанкции, например, свели до нуля поставки в Россию канадского мяса.</segment>
+		<segment id="168" parent="178" relname="span">Новый импортер Китай поставляет,</segment>
+		<segment id="169" parent="177" relname="joint">по данным, приведенным изданием, чуть более трети прежних объемов.\n\nОсновного поставщика рыбы - Норвегию заменили Фарерские острова,</segment>
+		<segment id="170" parent="176" relname="span">но и в этом случае объем поставок стал в несколько раз меньше.</segment>
+		<segment id="171" parent="175" relname="joint">Вместо Финляндии молочные продукты поставляет Аргентина,</segment>
+		<segment id="172" parent="174" relname="comparison">голландские овощи превратились в турецкие,</segment>
+		<segment id="173" parent="174" relname="comparison">а испанские фрукты замещены китайскими.\n\</segment>
+		<segment id="179" parent="185" relname="joint">nНапомним, Минсельхоз 28 июля разработал</segment>
+		<segment id="180" parent="184" relname="joint">и направил в правительство проект постановления об уничтожении продуктов из санкционного списка</segment>
+		<segment id="181" parent="183" relname="span">.\n\nВладимир Путин подписал 29 июля указ о немедленном уничтожении запрещенных продуктов питания</segment>
+		<segment id="182" parent="181" relname="condition">при попытке их ввоза на территорию РФ.\n\</segment>
+		<segment id="186" parent="187" relname="condition">nПосле того как указ был подписан,</segment>
+		<segment id="187" parent="188" relname="span">в сети появилась петиция с призывом отменить его за несколько часов набравшая сотни подписей.</segment>
+		<segment id="190" parent="195" relname="attribution">Многие подписывавшие возмущались:</segment>
+		<segment id="191" parent="195" relname="span">зачем уничтожать еду,</segment>
+		<segment id="192" parent="193" relname="condition">когда ее можно отдать нуждающимся,</segment>
+		<segment id="193" parent="194" relname="span">которых с вводом санкций стало больше.</segment>
+		<segment id="197" parent="198" relname="comparison">Эксперты говорят и о коррупционной составляющей указа.\n\nИсточник: https://www.newsru.com/russia/04Aug2015/samara.html\n</segment>
+		<group id="82" type="multinuc" parent="205" relname="preparation"/>
+		<group id="76" type="multinuc" parent="82" relname="joint"/>
+		<group id="74" type="multinuc" parent="76" relname="contrast"/>
+		<group id="73" type="span" parent="74" relname="sequence"/>
+		<group id="81" type="span" parent="82" relname="joint"/>
+		<group id="79" type="span" parent="81" relname="span"/>
+		<group id="205" type="multinuc" parent="206" relname="span"/>
+		<group id="113" type="multinuc" parent="205" relname="joint"/>
+		<group id="97" type="multinuc" parent="113" relname="joint"/>
+		<group id="96" type="multinuc" parent="97" relname="restatement"/>
+		<group id="90" type="span" parent="96" relname="joint"/>
+		<group id="89" type="multinuc" parent="84" relname="elaboration"/>
+		<group id="87" type="multinuc" parent="89" relname="joint"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="112" type="span" parent="113" relname="joint"/>
+		<group id="102" type="span" parent="112" relname="span"/>
+		<group id="101" type="span" parent="102" relname="span"/>
+		<group id="111" type="multinuc" parent="102" relname="elaboration"/>
+		<group id="105" type="multinuc" parent="111" relname="joint"/>
+		<group id="110" type="span" parent="111" relname="joint"/>
+		<group id="109" type="span" parent="110" relname="span"/>
+		<group id="204" type="multinuc" parent="205" relname="joint"/>
+		<group id="134" type="multinuc" parent="204" relname="joint"/>
+		<group id="133" type="multinuc" parent="134" relname="joint"/>
+		<group id="121" type="multinuc" parent="133" relname="joint"/>
+		<group id="120" type="span" parent="121" relname="joint"/>
+		<group id="119" type="multinuc" parent="120" relname="span"/>
+		<group id="132" type="span" parent="133" relname="joint"/>
+		<group id="130" type="span" parent="132" relname="span"/>
+		<group id="129" type="span" parent="122" relname="cause-effect"/>
+		<group id="128" type="span" parent="129" relname="span"/>
+		<group id="127" type="multinuc" parent="124" relname="elaboration"/>
+		<group id="203" type="multinuc" parent="204" relname="joint"/>
+		<group id="137" type="span" parent="203" relname="joint"/>
+		<group id="202" type="multinuc" parent="203" relname="joint"/>
+		<group id="154" type="span" parent="202" relname="joint"/>
+		<group id="140" type="span" parent="154" relname="span"/>
+		<group id="153" type="multinuc" parent="140" relname="evidence"/>
+		<group id="147" type="span" parent="153" relname="joint"/>
+		<group id="146" type="span" parent="141" relname="elaboration"/>
+		<group id="144" type="multinuc" parent="145" relname="cause-effect"/>
+		<group id="152" type="span" parent="153" relname="joint"/>
+		<group id="150" type="multinuc" parent="151" relname="cause-effect"/>
+		<group id="201" type="multinuc" parent="202" relname="joint"/>
+		<group id="167" type="multinuc" parent="201" relname="joint"/>
+		<group id="159" type="span" parent="167" relname="joint"/>
+		<group id="158" type="span" parent="159" relname="span"/>
+		<group id="166" type="span" parent="167" relname="joint"/>
+		<group id="164" type="multinuc" parent="165" relname="cause-effect"/>
+		<group id="163" type="span" parent="164" relname="joint"/>
+		<group id="200" type="multinuc" parent="201" relname="joint"/>
+		<group id="178" type="span" parent="200" relname="joint"/>
+		<group id="177" type="multinuc" parent="168" relname="elaboration"/>
+		<group id="176" type="span" parent="177" relname="joint"/>
+		<group id="175" type="multinuc" parent="170" relname="elaboration"/>
+		<group id="174" type="multinuc" parent="175" relname="joint"/>
+		<group id="199" type="multinuc" parent="200" relname="joint"/>
+		<group id="189" type="span" parent="199" relname="joint"/>
+		<group id="185" type="multinuc" parent="188" relname="cause-effect"/>
+		<group id="184" type="multinuc" parent="185" relname="joint"/>
+		<group id="183" type="span" parent="184" relname="joint"/>
+		<group id="188" type="span" parent="189" relname="span"/>
+		<group id="198" type="multinuc" parent="199" relname="joint"/>
+		<group id="196" type="span" parent="198" relname="comparison"/>
+		<group id="195" type="span" parent="196" relname="span"/>
+		<group id="194" type="span" parent="191" relname="condition"/>
+		<group id="206" type="span"/>
+	</body>
+</rst>

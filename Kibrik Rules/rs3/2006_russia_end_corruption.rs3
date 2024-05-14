@@ -1,0 +1,37 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="13" parent="14" relname="cause-effect">Коррупцию в военкоматах России решили искоренять ротацией кадров\n\nРотация кадров российских военных комиссариатов всех уровней с целью предотвращения правонарушений и взяточничества начнется с 1 июня нынешнего года,</segment>
+		<segment id="14" parent="15" relname="span">в соответствии с решением вице-премьера - министра обороны РФ Сергея Иванова.\n\nКак сообщил \"Интерфаксу \" информированный источник в российском военном ведомстве,</segment>
+		<segment id="16" parent="22" relname="joint">\"в первую очередь будут перемещаться военкомы субъектов Федерации, областей, районов и городов,</segment>
+		<segment id="17" parent="21" relname="span">а также начальники вторых отделений военкоматов,</segment>
+		<segment id="18" parent="20" relname="span">которые отвечают за призыв граждан на военную службу,</segment>
+		<segment id="19" parent="18" relname="elaboration">где больше всего есть случаев коррупции и взяточничества\",</segment>
+		<segment id="24" parent="23" relname="attribution">- сказал собеседник агентства.\n\</segment>
+		<segment id="26" parent="29" relname="attribution">nПо его словам,</segment>
+		<segment id="27" parent="29" relname="span">до конца 2006 года планируется переместить около 25% должностных лиц военкоматов.\n\n\"Ротация будет производиться по трем направлениям</segment>
+		<segment id="28" parent="27" relname="elaboration">- путем перемещения офицеров в другие военкоматы на равнозначные должности, действующие на территории военных округов, путем перемещения офицеров из войск на вышестоящие должности в военкоматы и направления военнослужащих из военкоматов в войска\",</segment>
+		<segment id="31" parent="32" relname="attribution">- уточнил собеседник</segment>
+		<segment id="32" parent="33" relname="span">.\n\nОтметим, что срок службы офицеров в должности военкома любого уровня не должен превышать более трех лет.\n\nИсточник: https://www.newsru.com/russia/12May2006/end_corruption.html\n</segment>
+		<group id="25" type="span" parent="35" relname="joint"/>
+		<group id="23" type="multinuc" parent="25" relname="span"/>
+		<group id="15" type="span" parent="23" relname="joint"/>
+		<group id="22" type="multinuc" parent="23" relname="joint"/>
+		<group id="21" type="span" parent="22" relname="joint"/>
+		<group id="20" type="span" parent="17" relname="elaboration"/>
+		<group id="34" type="multinuc" parent="35" relname="joint"/>
+		<group id="30" type="span" parent="34" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="span"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="35" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,30 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="14" relname="attribution">¬ладимир Ѕуд€нский: \"ѕечален путь врача в –оссии\"\n\n\"≈ще недавно доктор, с приличной зарплатой, который думал,</segment>
+		<segment id="10" parent="12" relname="joint">что он занимаетс€ благородным делом,</segment>
+		<segment id="11" parent="12" relname="joint">окруженный уважающими его коллегами и благодарными пациентами,</segment>
+		<segment id="13" parent="12" relname="cause-effect">вдруг может оказатьс€ без работы и без средств к существованию.\n\nѕричин дл€ этого может быть много,</segment>
+		<segment id="16" parent="15" relname="elaboration">особенно у врача, работающего в частной клинике.</segment>
+		<segment id="18" parent="20" relname="joint">Ќо планы по реформированию ћосковского здравоохранени€ сделали нестабильной и работу в государственных медучреждени€х.\n\nя оставлю за рамками этого поста вопросы о том,</segment>
+		<segment id="19" parent="20" relname="joint">нужна или не нужна реформа здравоохранени€,</segment>
+		<segment id="21" parent="22" relname="span">€вл€етс€ ли необходимым закрытие части московских больниц и сокращение значительного количества московских медиков\".\n\n»сточник: https://www.newsru.com/blog/27Oct2014/vrachi.html\n</segment>
+		<group id="17" type="span" parent="23" relname="contrast"/>
+		<group id="15" type="span" parent="17" relname="span"/>
+		<group id="14" type="span" parent="15" relname="span"/>
+		<group id="12" type="multinuc" parent="14" relname="span"/>
+		<group id="22" type="span" parent="23" relname="contrast"/>
+		<group id="20" type="multinuc" parent="21" relname="cause-effect"/>
+		<group id="23" type="multinuc"/>
+	</body>
+</rst>

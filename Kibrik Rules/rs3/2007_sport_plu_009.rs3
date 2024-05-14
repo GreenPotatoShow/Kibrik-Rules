@@ -1,0 +1,85 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="concession" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="35" relname="span">Плющенко вернулся в Петербург после операции в Мюнхене\n\nОлимпийский чемпион, многократный чемпион мира и Европы в фигурном катании Евгений Плющенко уже вернулся домой в Санкт-Петербург после операции на мениске, сделанной в Мюнхене.\n\n\"Евгений вернулся после операции в Санкт-Петербург еще вчера, 16 июля,</segment>
+		<segment id="34" parent="33" relname="attribution">- рассказал агентству \"Весь спорт\" агент и менеджер Евгения Ари Закарян.</segment>
+		<segment id="36" parent="42" relname="sequence">- Я тоже специально приехал к нему в Питер.</segment>
+		<segment id="37" parent="41" relname="joint">Сегодня вечером мы встретимся,</segment>
+		<segment id="38" parent="40" relname="joint">поговорим,</segment>
+		<segment id="39" parent="40" relname="joint">Женя расскажет о самочувствии.</segment>
+		<segment id="43" parent="50" relname="solutionhood">Пока процесс восстановления, вроде бы, идет по плану\".\n\</segment>
+		<segment id="44" parent="49" relname="attribution">nНапомним, Евгений Плющенко перенес операцию на мениске 12 июля в клинике знаменитого спортивного ортопеда, врача футбольного клуба \"Бавария\" (Мюнхен) и сборной Германии по футболу доктора Ханса-Вильхельма Мюллера-Вольфарта.\n\nСам фигурист уже подтвердил,</segment>
+		<segment id="45" parent="49" relname="same-unit">что,</segment>
+		<segment id="46" parent="47" relname="concession">несмотря на операцию,</segment>
+		<segment id="47" parent="48" relname="span">возобновит любительскую карьеру в сезоне-2007/08.</segment>
+		<segment id="52" parent="51" relname="elaboration">Он пообещал принять участие в одном из этапов Гран-при, в чемпионате Европы и чемпионате мира.</segment>
+		<segment id="55" parent="66" relname="preparation">Что касается участия в зимней Олимпиаде 2010 года в Ванкувере,</segment>
+		<segment id="56" parent="65" relname="attribution">то фигурист считает,</segment>
+		<segment id="57" parent="64" relname="attribution">что заглядывать так далеко вперед пока преждевременно.\n\nВ интервью изданию \"Российская Газета\" Плющенко рассказал,</segment>
+		<segment id="58" parent="60" relname="span">что перед сессией МОК в Гватемале,</segment>
+		<segment id="59" parent="58" relname="background">где он поддерживал заявку Сочи,</segment>
+		<segment id="61" parent="63" relname="joint">была сделана томография,</segment>
+		<segment id="62" parent="63" relname="joint">показавшая, что у спортсмена оторван мениск.\n\n</segment>
+		<segment id="68" parent="70" relname="span">\"Четыре года я катался без операций,</segment>
+		<segment id="69" parent="68" relname="cause-effect">настало время приводить организм в порядок,</segment>
+		<segment id="71" parent="70" relname="attribution">- сообщил Евгений.</segment>
+		<segment id="73" parent="77" relname="contrast">- Честно говоря, повреждение мениска не всегда мешало,</segment>
+		<segment id="74" parent="76" relname="joint">но при больших нагрузках происходило \"защелкивание\" колена</segment>
+		<segment id="75" parent="76" relname="joint">и я испытывал дискомфорт\".\n\</segment>
+		<segment id="78" parent="83" relname="condition">nГоворя о планах,</segment>
+		<segment id="79" parent="82" relname="attribution">Плющенко отметил,</segment>
+		<segment id="80" parent="82" relname="joint">что ему важно доказать самому себе,</segment>
+		<segment id="81" parent="82" relname="joint">может ли он претендовать на лидерскую позицию на мировой арене после длительного перерыва.</segment>
+		<segment id="85" parent="89" relname="span">А терять,</segment>
+		<segment id="86" parent="87" relname="attribution">по словам спортсмена,</segment>
+		<segment id="87" parent="88" relname="span">ему в принципе нечего.\n\nИсточник: https://www.newsru.com/sport/17Jul2007/plu.html\n</segment>
+		<group id="35" type="span" parent="94" relname="preparation"/>
+		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="54" type="span" parent="93" relname="preparation"/>
+		<group id="42" type="multinuc" parent="53" relname="preparation"/>
+		<group id="41" type="multinuc" parent="42" relname="sequence"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="51" type="span" parent="53" relname="span"/>
+		<group id="50" type="span" parent="51" relname="span"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="48" type="span" parent="49" relname="same-unit"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="67" type="span" parent="92" relname="preparation"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="60" type="span" parent="64" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="span"/>
+		<group id="72" type="span" parent="92" relname="joint"/>
+		<group id="70" type="span" parent="72" relname="span"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="77" type="multinuc" parent="91" relname="joint"/>
+		<group id="76" type="multinuc" parent="77" relname="contrast"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="84" type="span" parent="90" relname="joint"/>
+		<group id="83" type="span" parent="84" relname="span"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="89" type="span" parent="90" relname="joint"/>
+		<group id="88" type="span" parent="85" relname="attribution"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

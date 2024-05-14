@@ -1,0 +1,72 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="31" relname="span">В преддверии рождественских праздников ООН назначила Санта-Клауса послом европейских лесов\n\nПродовольственная и сельскохозяйственная организация ООН (ФАО) и Европейская экономическая комиссия ООН (ЕЭК ООН) назначили Санта-Клауса послом европейских лесов,</segment>
+		<segment id="30" parent="29" relname="attribution">сообщается на сайте ФАО.</segment>
+		<segment id="32" parent="36" relname="same-unit">Теперь помимо доставки подарков на Рождество,</segment>
+		<segment id="33" parent="35" relname="joint">дедушка будет заниматься продвижением идеи бережного отношения к лесным массивам.\n\nСам Санта-Клаус, живущий в деревне Йоулупукки, обрадовался новым обязанностям</segment>
+		<segment id="34" parent="35" relname="joint">и так прокомментировал свое назначение:</segment>
+		<segment id="38" parent="42" relname="span">\"Будущее нашей планеты находится в руках детей.</segment>
+		<segment id="39" parent="41" relname="span">Очень важно,</segment>
+		<segment id="40" parent="39" relname="purpose">чтобы они понимали ценность лесов.</segment>
+		<segment id="43" parent="45" relname="joint">Наше благополучие и процветание будет зависеть от качества лесов, которые люди должны использовать с умом</segment>
+		<segment id="44" parent="45" relname="joint">и бережно передавать своим детям\".\n\</segment>
+		<segment id="47" parent="49" relname="joint">nНазначение Санты состоялось на его малой родине, в финском городе Рованиеми,</segment>
+		<segment id="48" parent="49" relname="joint">расположенном на севере Финляндии в провинции Лапландия.</segment>
+		<segment id="50" parent="52" relname="span">Именно там находится деревня Санта-Клауса и его главный почтовый офис,</segment>
+		<segment id="51" parent="50" relname="background">куда приходит около полумиллиона писем ежегодно.</segment>
+		<segment id="56" parent="68" relname="joint">В понедельник там открылась Европейская неделя лесов.\n\n\"Когда лесным хозяйством управляют как надо, оно обеспечивает нас постоянно возобновляемым запасом сырья и биоэнергетики.</segment>
+		<segment id="57" parent="59" relname="span">Вот почему европейским лесам стоит уделять внимание.</segment>
+		<segment id="58" parent="57" relname="purpose">Для нас большая честь принять у себя Европейскую неделю лесов в Рованиеми\",</segment>
+		<segment id="60" parent="66" relname="joint">- заявил министр сельского и лесного хозяйства Финляндии Яри Коскинен.\n\nМинистры лесного хозяйства Европы</segment>
+		<segment id="61" parent="63" relname="span">и другие делегаты высокого уровня из 40 стран собрались в Финляндии,</segment>
+		<segment id="62" parent="61" relname="purpose">чтобы обсудить план действий для лесного сектора,</segment>
+		<segment id="64" parent="63" relname="purpose">направленный на защиту лесов в Европе и ускорение перехода к зеленой экономике к 2020 году.\n\n</segment>
+		<segment id="72" parent="79" relname="condition">\"Если план действий в лесном хозяйстве утвердят,</segment>
+		<segment id="73" parent="79" relname="joint">у нас появится надежный инструмент, который может помочь государствам и организациям, работающим в этом секторе,</segment>
+		<segment id="74" parent="78" relname="joint">инвестировать ресурсы,</segment>
+		<segment id="75" parent="77" relname="joint">определить приоритеты</segment>
+		<segment id="76" parent="77" relname="joint">и принять меры по \"озеленению\" производства и потребления\",</segment>
+		<segment id="81" parent="80" relname="attribution">- заявил исполнительный секретарь ЕЭК и заместитель Генерального секретаря ООН Свен Алкалай.\n\nИсточник: https://www.newsru.com/world/10Dec2013/santa.html\n</segment>
+		<group id="71" type="span" parent="82" relname="solutionhood"/>
+		<group id="37" type="span" parent="70" relname="preparation"/>
+		<group id="31" type="span" parent="36" relname="preparation"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="35" type="multinuc" parent="36" relname="same-unit"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="46" type="span" parent="70" relname="joint"/>
+		<group id="42" type="span" parent="46" relname="span"/>
+		<group id="41" type="span" parent="38" relname="interpretation-evaluation"/>
+		<group id="45" type="multinuc" parent="42" relname="elaboration"/>
+		<group id="69" type="span" parent="70" relname="joint"/>
+		<group id="53" type="span" parent="68" relname="preparation"/>
+		<group id="49" type="multinuc" parent="53" relname="span"/>
+		<group id="52" type="span" parent="49" relname="elaboration"/>
+		<group id="68" type="multinuc" parent="69" relname="span"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="59" type="span" parent="67" relname="joint"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="63" type="span" parent="65" relname="span"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="80" type="span" parent="82" relname="span"/>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="77" type="multinuc" parent="78" relname="joint"/>
+		<group id="83" type="span"/>
+	</body>
+</rst>

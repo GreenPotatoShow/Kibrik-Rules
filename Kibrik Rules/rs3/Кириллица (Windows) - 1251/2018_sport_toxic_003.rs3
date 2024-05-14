@@ -1,0 +1,38 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="18" relname="joint">Фигуристка Туктамышева устроила стриптиз во время показательного номера в Канаде (ВИДЕО)\n\nРоссийская фигуристка Елизавета Туктамышева решила удивить публику</segment>
+		<segment id="15" parent="17" relname="span">и разделась до белья во время показательного номера на этапе Гран-при Skate Canada,</segment>
+		<segment id="16" parent="15" relname="elaboration">где она ранее отодвинула на третье место свою соотечественницу Евгению Медведеву.\n\nЧемпионка мира 2015 года выступала в костюме стюардессы под песню Бритни Спирс Toxic.</segment>
+		<segment id="19" parent="21" relname="span">В середине проката Туктамышева сняла верхнюю часть костюма,</segment>
+		<segment id="20" parent="19" relname="elaboration">оставшись в одном бюстгальтере.\n\n- Как \"императрица\" хочет убрать со своей дороги двух принцесс фигурного катания\n\</segment>
+		<segment id="23" parent="33" relname="span">nНапомним, что на соревнованиях по фигурному катанию после проката произвольных программ и церемоний награждения традиционно устраивают показательные выступления чемпионов.</segment>
+		<segment id="24" parent="28" relname="joint">Эти прокаты не оцениваются судьями</segment>
+		<segment id="25" parent="27" relname="span">и носят развлекательный характер.\n\nНа канадском этапе Гран-при Туктамышева одержала победу в женском одиночном катании,</segment>
+		<segment id="26" parent="25" relname="elaboration">опередив японку Мако Ямашиту и двукратную чемпионку мира Евгению Медведеву.\n\nТуктамышева впервые с сезона-2014/15 завоевала золото этапа Гран-при,</segment>
+		<segment id="29" parent="31" relname="span">в предыдущий раз она побеждала на этапе в Китае,</segment>
+		<segment id="30" parent="29" relname="background">который прошел в ноябре 2014 года.</segment>
+		<segment id="34" parent="36" relname="joint">Россиянка является чемпионкой мира и обладательницей золота чемпионата Европы 2015 года.\n\nСледующий старт пройдет в Хельсинки со 2 по 4 ноября,</segment>
+		<segment id="35" parent="36" relname="joint">на данном этапе дебютирует в сезоне-2018/19 олимпийская чемпионка 2018 года Алина Загитова.\n\nИсточник: https://www.newsru.com/sport/29Oct2018/toxic.html\n</segment>
+		<group id="22" type="multinuc" parent="38" relname="joint"/>
+		<group id="18" type="multinuc" parent="22" relname="sequence"/>
+		<group id="17" type="span" parent="18" relname="joint"/>
+		<group id="21" type="span" parent="22" relname="sequence"/>
+		<group id="37" type="multinuc" parent="38" relname="joint"/>
+		<group id="33" type="span" parent="37" relname="joint"/>
+		<group id="32" type="span" parent="23" relname="elaboration"/>
+		<group id="28" type="multinuc" parent="32" relname="span"/>
+		<group id="27" type="span" parent="28" relname="joint"/>
+		<group id="31" type="span" parent="28" relname="background"/>
+		<group id="36" type="multinuc" parent="37" relname="joint"/>
+		<group id="38" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,52 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="span">Роспотребнадзор за четыре месяца закрыл 3699 веб-страниц с информацией о суицидах\n\nРоспотребнадзор за последние четыре месяца вынес 3699 решений о закрытии веб-страниц,</segment>
+		<segment id="20" parent="19" relname="elaboration">где были размещены материалы, содержащие информацию о способах совершения самоубийства и (или) призывы к суициду,</segment>
+		<segment id="22" parent="24" relname="span">отчиталось ведомство на своем сайте.\n\nЧаще всего запрещенная информация была размещена в различных соцсетях, например, на ресурсе \"ВКонтакте\" - закрыто 853 страницы, Mail.ru - 171, LiveJournal - 175, а также на видеохостинге YouTube - 102 решения,</segment>
+		<segment id="23" parent="22" relname="elaboration">отмечается в пресс-релизе.\n\nСамым распространенным видом запрещенной информации в Сети являются перечисление различных способов суицида (в т.ч. изощренных) с детальным описанием процесса.</segment>
+		<segment id="26" parent="30" relname="span">Такая информация представлена в основном в виде текстового описания и фотографий - 3414 ссылки,</segment>
+		<segment id="27" parent="29" relname="joint">в видеоформате - 285 ссылок,</segment>
+		<segment id="28" parent="29" relname="joint">уточняет Роспотребнадзор</segment>
+		<segment id="31" parent="33" relname="span">.\n\nРоскомнадзор за этот же период получил почти 90 тысяч обращений от граждан,</segment>
+		<segment id="32" parent="31" relname="cause-effect">связанных с обнаружением в интернете опасного контента,</segment>
+		<segment id="34" parent="46" relname="joint">18% из них были связаны с пропагандой суицидов в интернете,</segment>
+		<segment id="35" parent="37" relname="span">отмечает ИТАР-ТАСС.\n\nЕдиный реестр интернет-ресурсов с информацией, запрещенной к распространению в России,</segment>
+		<segment id="36" parent="35" relname="background">действует в России с осени 2012 года,</segment>
+		<segment id="38" parent="39" relname="condition">и если какой-либо сайт попадает в него,</segment>
+		<segment id="39" parent="40" relname="span">то он подлежит блокировке,</segment>
+		<segment id="41" parent="42" relname="condition">если запрещенная информация не будет удалена в течение трех дней с момента отправки уведомления.\n\nРешение о включении ресурсов в \"черный список\" по материалам, связанным с самоубийствами,</segment>
+		<segment id="42" parent="43" relname="span">принимает Роспотребнадзор, по пропаганде наркотиков - ФСКН, по детской порнографии - Роскомнадзор.</segment>
+		<segment id="49" parent="51" relname="span">Помимо этого, с 1 февраля 2014 года в этот \"черный список\" по требованию генпрокурора и его заместителей также вносятся сайты,</segment>
+		<segment id="50" parent="49" relname="elaboration">призывающие к экстремизму и массовым беспорядкам.\n\nИсточник: https://www.newsru.com/russia/21Feb2014/intersui.html\n</segment>
+		<group id="25" type="multinuc" parent="53" relname="joint"/>
+		<group id="21" type="span" parent="25" relname="joint"/>
+		<group id="24" type="span" parent="25" relname="joint"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="48" type="multinuc" parent="52" relname="span"/>
+		<group id="30" type="span" parent="48" relname="joint"/>
+		<group id="29" type="multinuc" parent="26" relname="attribution"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="33" type="span" parent="47" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="37" type="span" parent="45" relname="joint"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="40" type="span" parent="44" relname="span"/>
+		<group id="43" type="span" parent="40" relname="condition"/>
+		<group id="51" type="span" parent="48" relname="interpretation-evaluation"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

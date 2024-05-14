@@ -1,0 +1,50 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="joint">\"Почта России\" задумала помочь клиентам интернет-магазинов:</segment>
+		<segment id="20" parent="21" relname="joint">составлен план из 7 пунктов\n\n\"Почта России\" хочет теснее сотрудничать с российскими интернет-магазинами.</segment>
+		<segment id="22" parent="24" relname="span">Для этого компания готова изменить свою работу,</segment>
+		<segment id="23" parent="22" relname="purpose">чтобы улучшить ситуацию с отправлением и доставкой посылок.</segment>
+		<segment id="26" parent="30" relname="span">Сейчас многие интернет-магазины предпочитают другие сервисы доставки,</segment>
+		<segment id="27" parent="28" relname="condition">которые доставляют покупки вовремя и сразу на дом покупателям,</segment>
+		<segment id="28" parent="29" relname="span">пишут \"Ведомости\".\n\nВарианты возможных реформ менеджеры \"Почты России\" обсудили с участниками рынка.</segment>
+		<segment id="31" parent="32" relname="span">В результате был составлен список из семи предложений.\n\nОдно из них - введение четких сроков доставки посылок, \"соответствующих реальным\".</segment>
+		<segment id="34" parent="46" relname="joint">Предполагается, что в случае несоблюдения этих нормативов</segment>
+		<segment id="35" parent="37" relname="span">почтовикам придется платить штрафы.\n\nДругая инициатива - создание сервиса отдельного обслуживания юридических лиц по договору и увеличения количества специальных окон</segment>
+		<segment id="36" parent="35" relname="purpose">для приема от них посылок.\n\nКроме того, в компаниях считают,</segment>
+		<segment id="38" parent="44" relname="joint">что \"Почте\" необходимо создать на своем сайте личный кабинет для тех же юридических лиц,</segment>
+		<segment id="39" parent="43" relname="joint">ввести понятную градацию тарифов на пересылку,</segment>
+		<segment id="40" parent="42" relname="joint">придумать гибкие условия перечисления средств от интернет-магазинов,</segment>
+		<segment id="41" parent="42" relname="joint">а также ввести для потребителей SMS-сервис оповещений о перемещении, доставке и оплате посылки.\n\n15 августа список будет представлен гендиректору \"Почты\" Дмитрию Страшнову.</segment>
+		<segment id="47" parent="50" relname="attribution">В \"Почте\" считают,</segment>
+		<segment id="48" parent="50" relname="joint">что предложенные инициативы будут одобрены</segment>
+		<segment id="49" parent="50" relname="joint">и \"имеют хорошие шансы на воплощение\" в ближайшие сроки.\n\nИсточник: https://www.newsru.com/hitech/31Jul2013/po4ta.html\n</segment>
+		<group id="33" type="multinuc" parent="53" relname="joint"/>
+		<group id="25" type="span" parent="33" relname="joint"/>
+		<group id="21" type="multinuc" parent="25" relname="span"/>
+		<group id="24" type="span" parent="21" relname="purpose"/>
+		<group id="32" type="span" parent="33" relname="joint"/>
+		<group id="30" type="span" parent="31" relname="cause-effect"/>
+		<group id="29" type="span" parent="26" relname="elaboration"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="46" type="multinuc" parent="52" relname="span"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="37" type="span" parent="45" relname="joint"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="43" type="multinuc" parent="44" relname="joint"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="51" type="span" parent="46" relname="elaboration"/>
+		<group id="50" type="multinuc" parent="51" relname="span"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

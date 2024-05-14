@@ -1,0 +1,55 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="24" relname="span">Внук Пугачевой стал миллионером</segment>
+		<segment id="23" parent="22" relname="elaboration">– ему подарили остров за 2 млн долларов\n\nМладший внук российской эстрадной певицы Аллы Пугачевой Дэни Байсаров оказался в центре внимания прессы.</segment>
+		<segment id="25" parent="31" relname="span">Пока старший сын Кристины Орбакайте Никита принимает в подарки от отца Владимира Преснякова-младшего скейтборды,</segment>
+		<segment id="26" parent="30" relname="sequence">его брат, 8-летний Дэни Байсаров,</segment>
+		<segment id="27" parent="29" relname="span">уже стал настоящим миллионером.\n\nЕще в мае в день рождения сына отец Дэни - Руслан Байсаров - подарил ему остров площадью 6 гектаров,</segment>
+		<segment id="28" parent="27" relname="elaboration">примерная стоимость которого около двух миллионов долларов,</segment>
+		<segment id="32" parent="31" relname="attribution">пишет \"Комсомольская правда\".\n\</segment>
+		<segment id="37" parent="39" relname="span">nИздание гадает, где может находиться этот остров.</segment>
+		<segment id="38" parent="37" relname="elaboration">За эти деньги сегодня можно с легкостью приобрести кусочек суши, например, в Карибском бассейне.</segment>
+		<segment id="40" parent="52" relname="span">Близ Гондураса острова подобного размера оцениваются от 1,5 млн до 20 млн долларов.</segment>
+		<segment id="41" parent="51" relname="span">Все зависит от того, какие сооружения тут построены.</segment>
+		<segment id="42" parent="50" relname="span">Неплохой популярностью пользуются клочки земли в Средиземном море.</segment>
+		<segment id="43" parent="49" relname="joint">Цены примерно такие же,</segment>
+		<segment id="44" parent="48" relname="same-unit">и каждый год,</segment>
+		<segment id="45" parent="46" relname="attribution">по оценкам экспертов,</segment>
+		<segment id="46" parent="47" relname="span">россияне выкупают по 2 - 4 острова.\n\n\"Дэни еще маленький.</segment>
+		<segment id="54" parent="56" relname="span">Руслан, наверное, подарил сыну игру \"Остров сокровищ!\"</segment>
+		<segment id="55" parent="54" relname="attribution">- осторожно прокомментировала Кристина Орбакайте.\n\nБайсаров вообще славится шикарными презентами.</segment>
+		<segment id="59" parent="61" relname="sequence">Несколько лет назад бизнесмен подарил своей бывшей теще Алле Пугачевой квартиру в Филипповском переулке.</segment>
+		<segment id="60" parent="61" relname="sequence">А в этом году оплатил празднование дня рождения певицы в ресторане \"Метрополь\", напоминает газета.\n\nИсточник: https://www.newsru.com/cinema/14Aug2006/island.html\n</segment>
+		<group id="58" type="multinuc" parent="62" relname="span"/>
+		<group id="34" type="multinuc" parent="58" relname="joint"/>
+		<group id="24" type="span" parent="34" relname="joint"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="31" type="span" parent="33" relname="span"/>
+		<group id="30" type="multinuc" parent="25" relname="elaboration"/>
+		<group id="29" type="span" parent="30" relname="sequence"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="53" type="span" parent="57" relname="joint"/>
+		<group id="39" type="span" parent="53" relname="span"/>
+		<group id="52" type="span" parent="39" relname="elaboration"/>
+		<group id="51" type="span" parent="40" relname="elaboration"/>
+		<group id="50" type="span" parent="41" relname="elaboration"/>
+		<group id="49" type="multinuc" parent="42" relname="elaboration"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="same-unit"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="61" type="multinuc" parent="58" relname="background"/>
+		<group id="62" type="span"/>
+	</body>
+</rst>

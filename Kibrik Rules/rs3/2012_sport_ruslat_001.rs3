@@ -1,0 +1,29 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="22" relname="preparation">Россияне уступили латвийцам во втором матче Евровызова\n\</segment>
+		<segment id="10" parent="14" relname="span">nСборная Россия проиграла сегодня команде Латвии со счетом 0:1 (0:1, 0:0, 0:0) в Риге в заключительном, шестом матче турнира \"Европейский хоккейный вызов\".</segment>
+		<segment id="11" parent="13" relname="span">Единственную шайбу во встрече забросил Мейая Гинтс на 11-й минуте,</segment>
+		<segment id="12" parent="11" relname="attribution">сообщает ИТАР-ТАСС.\n\nВ первом матче накануне россияне победили со счетом 2:1.</segment>
+		<segment id="15" parent="21" relname="span">В четырех предыдущих встречах российские спортсмены добились трех побед:</segment>
+		<segment id="16" parent="20" relname="sequence">на старте турнира команда проиграла немцам 3:4 во Фрайбурге,</segment>
+		<segment id="17" parent="19" relname="joint">однако затем в Равенсбурге взяла у них реванш - 3:2 (буллиты)</segment>
+		<segment id="18" parent="19" relname="joint">и дважды в Ярославле оказалась сильнее словаков - 2:1 (Б) и 3:2.\n\nИсточник: https://www.newsru.com/sport/22Apr2012/ruslat.html\n</segment>
+		<group id="22" type="multinuc" parent="23" relname="span"/>
+		<group id="14" type="span" parent="22" relname="joint"/>
+		<group id="13" type="span" parent="10" relname="elaboration"/>
+		<group id="21" type="span" parent="22" relname="joint"/>
+		<group id="20" type="multinuc" parent="15" relname="elaboration"/>
+		<group id="19" type="multinuc" parent="20" relname="sequence"/>
+		<group id="23" type="span"/>
+	</body>
+</rst>

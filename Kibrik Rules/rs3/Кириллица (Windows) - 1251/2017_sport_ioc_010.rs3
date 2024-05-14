@@ -1,0 +1,81 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="35" relname="span">МОК лишил Россию победы на Олимпиаде в Сочи,</segment>
+		<segment id="34" parent="33" relname="elaboration">отобрав медали у бобслеиста Зубкова\n\nМеждународный олимпийский комитет (МОК)</segment>
+		<segment id="36" parent="37" relname="cause-effect">из-за нарушения антидопинговых правил</segment>
+		<segment id="37" parent="38" relname="span">лишил российского бобслеиста Александра Зубкова двух золотых медалей, завоеванных на домашней Олимпиаде 2014 года в Сочи,</segment>
+		<segment id="40" parent="46" relname="sequence">и пожизненно отстранил его от участия в Играх.\n\nКак сообщается на официальном сайте МОК,</segment>
+		<segment id="41" parent="45" relname="span">такое решение приняла в пятницу комиссия под руководством Денниса Освальда,</segment>
+		<segment id="44" parent="41" relname="purpose">которая занимается перепроверкой допинг-проб россиян с Игр в Сочи на основании доклада Ричарда Макларена.\n\nПосле этого cборная России потеряла первое место в неофициальном общекомандном зачете Олимпийских игр 2014 года.</segment>
+		<segment id="48" parent="50" relname="comparison">На счету хозяев Олимпиады осталось 10 золотых медалей,</segment>
+		<segment id="49" parent="50" relname="comparison">что на одну меньше, чем у команды Норвегии (11-6-12).</segment>
+		<segment id="51" parent="53" relname="joint">На данный момент Россия (10-7-7) опустилась на третье место,</segment>
+		<segment id="52" parent="53" relname="joint">пропустив вперед еще и Канаду (10-10-5).\n\n- Дневник Олимпиады-2014\n\</segment>
+		<segment id="55" parent="65" relname="joint">nНа Играх в Сочи Зубков стал чемпионом в двойках с разгоняющим Алексеем Воеводой и в четверках вместе с Воеводой, Алексеем Негодайло и Дмитрием Труненковым.</segment>
+		<segment id="56" parent="58" relname="sequence">Он завершил спортивную карьеру в 2014 году</segment>
+		<segment id="57" parent="58" relname="sequence">и в настоящее время занимает пост президента Федерации бобслея России.\n\nМОК в пятницу также вынес обвинительные решения по бобслеистке Ольге Стульневой и двум конькобежцам - серебряному медалисту Игр-2014 Ольге Фаткулиной и Александру Румянцеву.</segment>
+		<segment id="59" parent="63" relname="joint">Эти спортсмены признаны виновными в нарушении антидопинговых правил</segment>
+		<segment id="60" parent="62" relname="joint">и пожизненно лишены права участвовать в Олимпийских играх с аннулированием результатов.\n\nРанее МОК признал виновными в нарушении антидопинговых правил</segment>
+		<segment id="61" parent="62" relname="joint">и применил аналогичные санкции к российским лыжникам Александру Легкову, Евгению Белову, Максиму Вылегжанину, Алексею Петухову, Евгении Шаповаловой и Юлии Ивановой, а также к скелетонистам Александру Третьякову, Елене Никитиной, Марии Орловой и Ольге Потылицыной.\n\nРоссия в связи с этим лишилась золота Легкова на дистанции 50 км, серебра в мужской лыжной эстафете 4 ?</segment>
+		<segment id="66" parent="91" relname="preparation">10 км, двух серебряных наград Вылегжанина - в гонке на 50 км, командном спринте классическим стилем, золота Третьякова и бронзы Никитиной.</segment>
+		<segment id="67" parent="71" relname="span">После дисквалификации Легкова и Вылегжанина золотая медаль в марафоне пока достается другому россиянину - Илье Черноусову.\n\</segment>
+		<segment id="68" parent="70" relname="joint">nНапомним, что комиссия Освальда занимается расследованием случаев махинаций с допинг-пробами в Сочи,</segment>
+		<segment id="69" parent="70" relname="joint">упомянутых в докладе комиссии Всемирного антидопингового агентства (WADA) во главе с Ричардом Маклареном.</segment>
+		<segment id="72" parent="76" relname="same-unit">В нем, в частности, сообщалось о подмене хозяевами Игр-2014</segment>
+		<segment id="73" parent="75" relname="joint">при поддержке спецслужб проб своих спортсменов через дырку в стене лаборатории</segment>
+		<segment id="74" parent="75" relname="joint">.\n\nКомиссия открыла около трех десятков дел на основе данных Макларена.</segment>
+		<segment id="77" parent="79" relname="joint">Пробирки с пробами участников разбирательств были поцарапаны</segment>
+		<segment id="78" parent="79" relname="joint">или имели аномальную концентрацию солей,</segment>
+		<segment id="80" parent="81" relname="span">что могло указывать на их подмену</segment>
+		<segment id="82" parent="86" relname="span">.\n\nОсвальд должен представить МОК выводы,</segment>
+		<segment id="83" parent="85" relname="span">на основании которых будет принято решение о допуске россиян к Олимпиаде-2018.\n\nВторая комиссия МОК под руководством Самуэля Шмида разбирается с обвинением в существовании в РФ допинговой системы,</segment>
+		<segment id="84" parent="83" relname="condition">поддерживаемой на государственном уровне.</segment>
+		<segment id="88" parent="87" relname="interpretation-evaluation">Ее выводы пока не оглашены.\n\nИсточник: https://www.newsru.com/sport/24Nov2017/ioc.html\n</segment>
+		<group id="47" type="multinuc" parent="94" relname="preparation"/>
+		<group id="39" type="span" parent="47" relname="sequence"/>
+		<group id="35" type="span" parent="39" relname="span"/>
+		<group id="38" type="span" parent="35" relname="cause-effect"/>
+		<group id="46" type="multinuc" parent="47" relname="sequence"/>
+		<group id="45" type="span" parent="46" relname="sequence"/>
+		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="54" type="multinuc" parent="93" relname="preparation"/>
+		<group id="50" type="multinuc" parent="54" relname="comparison"/>
+		<group id="53" type="multinuc" parent="54" relname="comparison"/>
+		<group id="93" type="multinuc" parent="94" relname="span"/>
+		<group id="65" type="multinuc" parent="93" relname="joint"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="58" type="multinuc" parent="64" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="92" type="span" parent="93" relname="joint"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="71" type="span" parent="91" relname="joint"/>
+		<group id="70" type="multinuc" parent="67" relname="elaboration"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="76" type="multinuc" parent="90" relname="joint"/>
+		<group id="75" type="multinuc" parent="76" relname="same-unit"/>
+		<group id="89" type="span" parent="90" relname="joint"/>
+		<group id="87" type="multinuc" parent="89" relname="span"/>
+		<group id="81" type="span" parent="87" relname="joint"/>
+		<group id="79" type="multinuc" parent="80" relname="cause-effect"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="85" type="span" parent="82" relname="elaboration"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,74 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="30" parent="32" relname="span">Отказ Стинга от выступления в Казахстане там сочли делом рук опальных казахстанских олигархов\n\nРешение всемирно известного британского рок-музыканта Стинга отменить концерт в Астане</segment>
+		<segment id="31" parent="30" relname="cause-effect">из-за бедственного положения рабочих нефтегазового сектора Казахстана,</segment>
+		<segment id="33" parent="39" relname="same-unit">которые в конце мая начали забастовки в Мангистауской области республики</segment>
+		<segment id="34" parent="38" relname="joint">с требованием повысить зарплаты,</segment>
+		<segment id="37" parent="38" relname="joint">связали с происками беглых казахстанских олигархов.\n\</segment>
+		<segment id="41" parent="42" relname="comparison">nКак заявил гендиректор АО \"Разведка Добыча \"КазМунайГаз\" (\"дочка\" нацкомпании \"КазМунайГаз\", входящей в тройку лидеров по объему добычи нефти в Казахстане)</segment>
+		<segment id="43" parent="48" relname="attribution">Аскар Балжанов,</segment>
+		<segment id="44" parent="47" relname="attribution">\"я подозреваю,</segment>
+		<segment id="45" parent="47" relname="span">что некоторые наши соотечественники, которые вывезли самолетами и пароходами свое добро за пределы страны,</segment>
+		<segment id="46" parent="45" relname="elaboration">которые порвали с исторической Родиной...,</segment>
+		<segment id="50" parent="53" relname="attribution">я думаю,</segment>
+		<segment id="53" parent="54" relname="span">что это их рук дело, они ничем не гнушаются\".\n\nБайжанов также прокомментировал заявление международной правозащитной организации Amnesty International о давлении на бастующих в Казахстане нефтяников.</segment>
+		<segment id="56" parent="61" relname="condition">\"Если бы эта организация изучила подробно данный вопрос,</segment>
+		<segment id="57" parent="61" relname="joint">ее представитель побывал бы в Казахстане,</segment>
+		<segment id="58" parent="59" relname="cause-effect">в нашей компании и после всего этого они сделали бы заявление о жестоком подавлении забастовочного рабочего движения,</segment>
+		<segment id="59" parent="60" relname="span">я бы мог их понять.</segment>
+		<segment id="63" parent="67" relname="span">Но Amnesty International ни к кому из первоисточников не обращалась,</segment>
+		<segment id="64" parent="66" relname="joint">непонятно откуда черпала информацию</segment>
+		<segment id="65" parent="66" relname="joint">и сделала вывод о жестоком подавлении нефтяников \",</segment>
+		<segment id="68" parent="72" relname="span">- сказал гендиректор РД КМГ.\n\nКонцертная программа Стинга Symphonicity должна была состояться 4 июля на республиканском велотреке в Астане в преддверии Дня столицы,</segment>
+		<segment id="69" parent="71" relname="joint">который отмечается 6 июля</segment>
+		<segment id="70" parent="71" relname="joint">и празднуется вместе с днем рождения президента Казахстана Нурсултана Назарбаева.</segment>
+		<segment id="77" parent="85" relname="joint">Такое решение музыкант принял после того, как международная правозащитная организация Amnesty International сообщила ему о давлении на нефтяников и профсоюзных лидеров</segment>
+		<segment id="78" parent="79" relname="attribution">.\n\nВ Amnesty International считают,</segment>
+		<segment id="79" parent="80" relname="span">что посещение Стингом Астаны может быть воспринято как поддержка действий против бастующих,</segment>
+		<segment id="81" parent="83" relname="span">и будет противоречить всему, что ранее защищал певец,</segment>
+		<segment id="82" parent="81" relname="elaboration">поддерживая Организацию на протяжении 40 лет.\n\nИсточник: https://www.newsru.com/cinema/07Jul2011/sting.html\n</segment>
+		<group id="76" type="span" parent="85" relname="solutionhood"/>
+		<group id="42" type="multinuc" parent="75" relname="preparation"/>
+		<group id="40" type="span" parent="42" relname="comparison"/>
+		<group id="32" type="span" parent="40" relname="span"/>
+		<group id="39" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="38" type="multinuc" parent="39" relname="same-unit"/>
+		<group id="75" type="multinuc" parent="76" relname="span"/>
+		<group id="55" type="multinuc" parent="75" relname="joint"/>
+		<group id="49" type="span" parent="55" relname="same-unit"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="54" type="span" parent="55" relname="same-unit"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="62" type="span" parent="74" relname="contrast"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="73" type="span" parent="74" relname="contrast"/>
+		<group id="67" type="span" parent="73" relname="span"/>
+		<group id="66" type="multinuc" parent="63" relname="cause-effect"/>
+		<group id="72" type="span" parent="67" relname="attribution"/>
+		<group id="71" type="multinuc" parent="68" relname="elaboration"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="80" type="span" parent="84" relname="joint"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="86" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,89 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="36" parent="103" relname="preparation">В России начались масштабные проверки заплесневевших новостроек\n\</segment>
+		<segment id="37" parent="43" relname="span">nВ России начинаются массовые проверки новостроек,</segment>
+		<segment id="38" parent="42" relname="span">поводом для которых послужили многочисленные жалобы из самых разных городов страны на плесень и другие вредные вещества,</segment>
+		<segment id="39" parent="41" relname="joint">которые заводятся</segment>
+		<segment id="40" parent="41" relname="joint">и очень комфортно себя чувствуют в новых строениях,</segment>
+		<segment id="44" parent="46" relname="contrast">сообщает телеканал \"Вести\".\n\nВ некоторых случаях с момента новоселья не проходит и двух лет,</segment>
+		<segment id="45" parent="46" relname="contrast">а все стены нового дома покрываются опасными грибком и плесенью.</segment>
+		<segment id="48" parent="50" relname="contrast">Так, споры плесени кладоспориум способны вызвать аллергию и астму.</segment>
+		<segment id="49" parent="50" relname="contrast">Но чаще всего медики ставят диагноз - неспецифическая болезнь легких.</segment>
+		<segment id="51" parent="52" relname="span">Это значит, что споры со стен переселились в организм человека.\n\</segment>
+		<segment id="53" parent="55" relname="span">nОб опасности домашней плесени</segment>
+		<segment id="54" parent="53" relname="attribution">медики говорят давно.</segment>
+		<segment id="58" parent="72" relname="span">Еще несколько лет назад специалисты находили ее только в подвалах и сырых чердачных помещениях.</segment>
+		<segment id="59" parent="71" relname="joint">Теперь все чаще их находят в новостройках.\n\nПоражение стен и несущих конструкций грибком ученые связывают с появлением новых утеплителей.</segment>
+		<segment id="60" parent="64" relname="contrast">Дом лучше держит тепло,</segment>
+		<segment id="61" parent="63" relname="span">но при этом сдвигается точка росы,</segment>
+		<segment id="62" parent="61" relname="elaboration">она оказывается либо в комнате, либо внутри панелей.</segment>
+		<segment id="65" parent="69" relname="span">В результате новостройка начинает гнить.\n\nНаиболее популярный утеплитель в настоящее время - пенополистирол,</segment>
+		<segment id="66" parent="68" relname="joint">он хорошо сохраняет тепло</segment>
+		<segment id="67" parent="68" relname="joint">и недорого стоит.</segment>
+		<segment id="73" parent="77" relname="contrast">Самый большой завод по его производству находится в Самаре.</segment>
+		<segment id="76" parent="77" relname="contrast">Но его производством стали заниматься и множество мелких фирм, которые разными способами, зачастую в ущерб качеству, удешевляют этот продукт.\n\</segment>
+		<segment id="78" parent="84" relname="same-unit">nКроме этого,</segment>
+		<segment id="79" parent="82" relname="attribution">по словам специалистов,</segment>
+		<segment id="80" parent="82" relname="span">очень часто нарушается технология монтажа</segment>
+		<segment id="81" parent="80" relname="cause-effect">– вместо приклеивания пенополистирол крепят на дюбеля.\nОднако пенополистирольные плиты имеют побочные свойства.</segment>
+		<segment id="85" parent="89" relname="span">\"Если его нагревать</segment>
+		<segment id="86" parent="87" relname="condition">при ограниченном доступе воздуха,</segment>
+		<segment id="87" parent="88" relname="span">то образуется фосген,</segment>
+		<segment id="90" parent="92" relname="span">потому что туда добавлен антипирен,</segment>
+		<segment id="91" parent="90" relname="cause-effect">который предохраняет от возгорания.</segment>
+		<segment id="93" parent="94" relname="contrast">Но фосген - это газовая камера\",</segment>
+		<segment id="96" parent="98" relname="joint">- говорит профессор Пермского государственного технического университета Борис Баталин.\n\nВ пермском клубе \"Хромая лошадь\" звукоизоляция была произведена с помощью пенополистирольных плит.\n\nСейчас по всей стране проходит мониторинг новостроек по новому техническому регламенту.</segment>
+		<segment id="97" parent="98" relname="joint">Эти работы должны дать ответ на главный вопрос о том, какие материалы стоит применять на стройках в России.\n\nИсточник: https://www.newsru.com/realty/26Jan2010/mouldy.html\n</segment>
+		<group id="103" type="multinuc" parent="104" relname="span"/>
+		<group id="57" type="multinuc" parent="103" relname="joint"/>
+		<group id="47" type="multinuc" parent="57" relname="comparison"/>
+		<group id="43" type="span" parent="47" relname="comparison"/>
+		<group id="42" type="span" parent="37" relname="elaboration"/>
+		<group id="41" type="multinuc" parent="38" relname="elaboration"/>
+		<group id="46" type="multinuc" parent="47" relname="comparison"/>
+		<group id="56" type="span" parent="57" relname="comparison"/>
+		<group id="52" type="span" parent="56" relname="span"/>
+		<group id="50" type="multinuc" parent="51" relname="cause-effect"/>
+		<group id="55" type="span" parent="52" relname="background"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="72" type="span" parent="102" relname="joint"/>
+		<group id="71" type="multinuc" parent="58" relname="elaboration"/>
+		<group id="70" type="span" parent="71" relname="joint"/>
+		<group id="64" type="multinuc" parent="69" relname="cause-effect"/>
+		<group id="63" type="span" parent="64" relname="contrast"/>
+		<group id="69" type="span" parent="70" relname="span"/>
+		<group id="68" type="multinuc" parent="65" relname="elaboration"/>
+		<group id="101" type="multinuc" parent="102" relname="joint"/>
+		<group id="77" type="multinuc" parent="101" relname="joint"/>
+		<group id="100" type="multinuc" parent="101" relname="joint"/>
+		<group id="84" type="multinuc" parent="100" relname="joint"/>
+		<group id="83" type="span" parent="84" relname="same-unit"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="95" type="span" parent="99" relname="span"/>
+		<group id="89" type="span" parent="95" relname="span"/>
+		<group id="88" type="span" parent="85" relname="condition"/>
+		<group id="94" type="multinuc" parent="89" relname="cause-effect"/>
+		<group id="92" type="span" parent="94" relname="contrast"/>
+		<group id="98" type="multinuc" parent="95" relname="attribution"/>
+		<group id="104" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,68 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="73" relname="preparation">Пересчитали:</segment>
+		<segment id="27" parent="33" relname="span">стоимость Олимпиады в Сочи будет ниже заявленной\n\</segment>
+		<segment id="28" parent="30" relname="comparison">nИтоговая стоимость зимней Олимпиады-2014 будет ниже,</segment>
+		<segment id="29" parent="30" relname="comparison">чем была заявлено Россией в Международном олимпийском комитете (МОК),</segment>
+		<segment id="31" parent="30" relname="attribution">заявил журналистам в Пекине глава Министерства регионального развития РФ Дмитрий Козак.\n\n</segment>
+		<segment id="34" parent="36" relname="span">\"Я могу сказать точно, что стоимость собственно Олимпиады,</segment>
+		<segment id="35" parent="34" relname="elaboration">стоимость спортивных объектов и общественной инфраструктуры не будет превышать</segment>
+		<segment id="37" parent="39" relname="comparison">и будет даже меньше,</segment>
+		<segment id="38" parent="39" relname="comparison">чем была обозначена в заявочной книге на Олимпиаду\",</segment>
+		<segment id="41" parent="40" relname="attribution">- сказал министр,</segment>
+		<segment id="43" parent="45" relname="span">посетивший Пекин с краткосрочным визитом</segment>
+		<segment id="44" parent="43" relname="purpose">для ознакомления с китайским опытом проведения Олимпийских игр.</segment>
+		<segment id="46" parent="53" relname="attribution">Его слова приводит РИА Новости.\n\nПри этом он отметил,</segment>
+		<segment id="47" parent="49" relname="span">что его позиция остается неизменной в отношении того, что \"пока не будет утверждена проектная документация,</segment>
+		<segment id="48" parent="47" relname="condition">пока она не пройдет государственную экспертизу,</segment>
+		<segment id="50" parent="52" relname="joint">а инвесторы, как уже существующие, так и потенциальные, не оценят эти проекты,</segment>
+		<segment id="51" parent="52" relname="joint">и мы не определимся окончательно с конкретными объектами,</segment>
+		<segment id="55" parent="56" relname="attribution">говорить о стоимости Олимпиады преждевременно\".\n\nВместе с тем, он сообщил,</segment>
+		<segment id="56" parent="57" relname="span">что организаторы уже сейчас понимают, что \"это будет меньше,</segment>
+		<segment id="58" parent="61" relname="attribution">чем мы заявляли,</segment>
+		<segment id="59" parent="60" relname="cause-effect">когда соревновались с другими городами-кандидатами\".\n\nКозак отметил,</segment>
+		<segment id="60" parent="61" relname="span">что значительная доля финансирования Игр будет обеспечиваться за счет частных инвесторов.</segment>
+		<segment id="65" parent="67" relname="joint">\"Многие инвесторы уже сегодня занимаются реальным проектированием,</segment>
+		<segment id="66" parent="67" relname="joint">идет та работа, которая должна идти в этот период времени\",</segment>
+		<segment id="68" parent="67" relname="attribution">- сообщил он.\n\nИсточник: https://www.newsru.com/realty/10Sep2008/sochi.html\n</segment>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="33" type="span" parent="73" relname="joint"/>
+		<group id="32" type="span" parent="27" relname="elaboration"/>
+		<group id="30" type="multinuc" parent="32" relname="span"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="42" type="span" parent="72" relname="joint"/>
+		<group id="40" type="multinuc" parent="42" relname="span"/>
+		<group id="36" type="span" parent="40" relname="joint"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="45" type="span" parent="71" relname="span"/>
+		<group id="70" type="span" parent="45" relname="elaboration"/>
+		<group id="64" type="multinuc" parent="70" relname="span"/>
+		<group id="54" type="span" parent="64" relname="joint"/>
+		<group id="53" type="multinuc" parent="54" relname="span"/>
+		<group id="49" type="span" parent="53" relname="joint"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="57" type="span" parent="63" relname="comparison"/>
+		<group id="62" type="span" parent="63" relname="comparison"/>
+		<group id="61" type="span" parent="62" relname="span"/>
+		<group id="69" type="span" parent="64" relname="background"/>
+		<group id="67" type="multinuc" parent="69" relname="span"/>
+		<group id="74" type="span"/>
+	</body>
+</rst>

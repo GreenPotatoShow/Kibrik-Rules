@@ -1,0 +1,66 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="31" relname="span">Биатлонист Шипулин в заключительной гонке ЧМ-2013 принес России первое \"серебро\"\n\nРоссийский биатлонист Антон Шипулин занял второе место в гонке с общего старта на 15 км на чемпионате мира,</segment>
+		<segment id="30" parent="27" relname="background">который завершился в чешском Нове-Месте.\n\nПервым финишировал норвежец Тарьей Бё, ни разу не промахнувшийся на четырех огневых рубежах.</segment>
+		<segment id="32" parent="34" relname="span">Шипулин один раз пустил пулю в \"молоко\",</segment>
+		<segment id="33" parent="32" relname="elaboration">отстав от триумфатора всего на три секунды.</segment>
+		<segment id="35" parent="41" relname="span">Третьим финишировал норвежец Эмиль Хегле Свендсен.\n\n</segment>
+		<segment id="36" parent="37" relname="condition">\"После того как я стрельнул ноль,</segment>
+		<segment id="37" parent="38" relname="span">мы большой группой ушли с рубежа.</segment>
+		<segment id="39" parent="40" relname="span">Сразу же стали бороться за медаль со Свендсеном,</segment>
+		<segment id="43" parent="42" relname="attribution">- передает слова Антона официальный сайт Союза биатлонистов России.</segment>
+		<segment id="46" parent="56" relname="joint">- Сегодня я уже больше был готов тактически к борьбе с ним.</segment>
+		<segment id="47" parent="49" relname="joint">Обошел Свендсена так,</segment>
+		<segment id="48" parent="49" relname="joint">как и планировал.</segment>
+		<segment id="50" parent="54" relname="contrast">Можно было попробовать рвануться за Бё сразу,</segment>
+		<segment id="51" parent="53" relname="joint">но тогда бы я мог растратить все силы</segment>
+		<segment id="52" parent="53" relname="joint">и остаться без \"серебра\".\n\</segment>
+		<segment id="57" parent="61" relname="span">nКонечно, рад, что сегодня удалось выиграть \"серебро\".</segment>
+		<segment id="58" parent="60" relname="contrast">В прошлом году у меня была одна \"бронза\",</segment>
+		<segment id="59" parent="60" relname="contrast">а в этом выиграл две медали - \"серебро\" и \"бронзу\".</segment>
+		<segment id="62" parent="74" relname="span">Но мне хотелось стать здесь чемпионом мира.</segment>
+		<segment id="63" parent="65" relname="joint">Будем готовиться,</segment>
+		<segment id="64" parent="65" relname="joint">будем работать дальше\".\n\nДругой россиянин Дмитрий Малышко стал 15-м (3 промаха),</segment>
+		<segment id="66" parent="65" relname="elaboration">Евгений Устюгов - 16-м (3),</segment>
+		<segment id="68" parent="72" relname="span">Евгений Гараничев - 25-м (5).\n\nОтметим, что наша команда завершила чемпионат с двумя медалями,</segment>
+		<segment id="69" parent="71" relname="span">обе в активе Шипулина,</segment>
+		<segment id="70" parent="69" relname="background">который ранее стал бронзовым призером в гонке преследования.\n\nИсточник: https://www.newsru.com/sport/17Feb2013/anton.html\n</segment>
+		<group id="45" type="multinuc" parent="77" relname="sequence"/>
+		<group id="31" type="span" parent="45" relname="sequence"/>
+		<group id="44" type="span" parent="45" relname="sequence"/>
+		<group id="42" type="multinuc" parent="44" relname="span"/>
+		<group id="34" type="span" parent="42" relname="sequence"/>
+		<group id="41" type="span" parent="42" relname="sequence"/>
+		<group id="40" type="span" parent="35" relname="elaboration"/>
+		<group id="38" type="span" parent="39" relname="cause-effect"/>
+		<group id="76" type="multinuc" parent="77" relname="sequence"/>
+		<group id="56" type="multinuc" parent="76" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="49" type="multinuc" parent="55" relname="span"/>
+		<group id="54" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="53" type="multinuc" parent="54" relname="contrast"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="61" type="span" parent="75" relname="contrast"/>
+		<group id="60" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="74" type="span" parent="75" relname="contrast"/>
+		<group id="73" type="multinuc" parent="62" relname="elaboration"/>
+		<group id="67" type="span" parent="73" relname="sequence"/>
+		<group id="65" type="multinuc" parent="67" relname="span"/>
+		<group id="72" type="span" parent="73" relname="sequence"/>
+		<group id="71" type="span" parent="68" relname="elaboration"/>
+		<group id="77" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,112 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="47" parent="50" relname="preparation">ЦИК РФ:</segment>
+		<segment id="48" parent="49" relname="cause-effect">регистрация на выборах в Мосгордуму прошла без скандалов\n\nПредставители Центральной избирательной комиссии в четверг сообщили,</segment>
+		<segment id="49" parent="50" relname="span">что процесс регистрации на выборах депутатов Мосгордумы завершился без эксцессов.\n\</segment>
+		<segment id="52" parent="55" relname="attribution">nПо словам члена ЦИК РФ Геннадия Райкова,</segment>
+		<segment id="53" parent="55" relname="sequence">все шесть политических партий, которые подали документы на регистрацию,</segment>
+		<segment id="54" parent="55" relname="sequence">были зарегистрированы,</segment>
+		<segment id="57" parent="56" relname="attribution">сообщает ИТАР-ТАСС.</segment>
+		<segment id="60" parent="64" relname="span">Никаких жалоб в Мосгоризбирком не поступало,</segment>
+		<segment id="61" parent="62" relname="attribution">отметил Райков,</segment>
+		<segment id="62" parent="63" relname="span">предложив вспомнить, что четыре года назад на момент регистрации в Мосгоризбирком поступило около 200 жалоб.\n\</segment>
+		<segment id="65" parent="68" relname="attribution">nКак добавил Райков,</segment>
+		<segment id="66" parent="68" relname="span">отсутствие жалоб свидетельствует о \"демократизации работы городской избирательной комиссии,</segment>
+		<segment id="67" parent="66" relname="elaboration">которая не создает препон для регистрации\".\n\</segment>
+		<segment id="70" parent="72" relname="span">nПо словам члена ЦИК,</segment>
+		<segment id="71" parent="70" relname="elaboration">который курирует выборы в Москве и области,</segment>
+		<segment id="73" parent="77" relname="span">в Центризбирком поступили две жалобы на отказ в регистрации со стороны окружных избирательных комиссий.\n\nОдну из жалоб подал активист движения \"Солидарность\" Илья Яшин,</segment>
+		<segment id="74" parent="76" relname="span">которому было отказано в регистрации</segment>
+		<segment id="75" parent="74" relname="cause-effect">из-за большого числа недостоверных подписей.</segment>
+		<segment id="80" parent="88" relname="joint">Оспаривает отказ в регистрации</segment>
+		<segment id="81" parent="87" relname="span">и некий претендент на мандат Мосгордумы,</segment>
+		<segment id="82" parent="85" relname="attribution">который утверждает,</segment>
+		<segment id="83" parent="85" relname="contrast">что не является гражданином РФ,</segment>
+		<segment id="84" parent="85" relname="contrast">а живет в придуманной им стране.</segment>
+		<segment id="89" parent="101" relname="span">Этот человек представил на регистрацию собственноручно изготовленный паспорт.</segment>
+		<segment id="90" parent="92" relname="span">ЦИК передал жалобы в Мосгоризбирком,</segment>
+		<segment id="91" parent="90" relname="cause-effect">так как их обсуждение в его компетенции.\n\</segment>
+		<segment id="93" parent="98" relname="attribution">nКак заявил Райков \"Интерфаксу\",</segment>
+		<segment id="94" parent="97" relname="attribution">по его мнению,</segment>
+		<segment id="95" parent="97" relname="joint">Мосгоризбирком провел работу на высоком уровне</segment>
+		<segment id="96" parent="97" relname="joint">и \"поработал демократично\".</segment>
+		<segment id="102" parent="103" relname="attribution">Как отметил член ЦИК,</segment>
+		<segment id="103" parent="104" relname="span">благополучно завершилась регистрация и на выборах в региональные парламенты в Тульской области и Республике Марий Эл.\n\</segment>
+		<segment id="105" parent="106" relname="comparison">nНапомним, что в настоящее время на выборах в Мосгордуму зарегистрированы шесть партий, выдвинувших свои списки кандидатов в депутаты столичного парламента.</segment>
+		<segment id="107" parent="109" relname="span">Партии \"Справедливая Россия\", КПРФ, \"Единая Россия\" и ЛДПР, которым не требовался сбор подписей</segment>
+		<segment id="108" parent="107" relname="purpose">для регистрации,</segment>
+		<segment id="110" parent="111" relname="comparison">как партиям, представленным в Госдуме, прошли процедуру регистрации ранее.\n\n2 сентября с выборов в Мосгордуму ЦИК снял сразу трех оппозиционных кандидатов - самовыдвиженцев от движения \"Солидарность\".</segment>
+		<segment id="112" parent="116" relname="joint">Кандидаты назвали все претензии к ним \"абсолютно надуманными\" и \"полным бредом\".\n\</segment>
+		<segment id="113" parent="115" relname="span">nТакже было отказано в регистрации практически всем представителям партии \"Правое дело\",</segment>
+		<segment id="114" parent="113" relname="elaboration">выдвигавшим свои кандидатуры в качестве одномандатников на выборах в Мосгордуму.</segment>
+		<segment id="117" parent="121" relname="joint">В качестве одномандатников выдвигались Борис Надеждин, глава московской организации \"Правого дела\" Игорь Трунов,</segment>
+		<segment id="118" parent="119" relname="attribution">а также представители партии Сираждин Рамазанов и Елена Гусева.\n\nКроме того, представители КПРФ накануне пожаловались,</segment>
+		<segment id="119" parent="120" relname="span">что им мешают нормально вести агитацию в Москве в преддверии выборов в столичную думу.</segment>
+		<segment id="124" parent="127" relname="attribution">Коммунисты жалуются,</segment>
+		<segment id="125" parent="127" relname="joint">что им для ведения агитации выделено всего два часа на двух городских телеканалах</segment>
+		<segment id="126" parent="127" relname="joint">и полностью запретили рекламу в метро.\n\nВыборы в Мосгордуму пройдут единый по стране день голосования 11 октября.</segment>
+		<segment id="129" parent="130" relname="joint">На 35 депутатских мест 18 парламентариев москвичи выберут по партспискам, 17 по одномандатным округам.\n\nИсточник: https://www.newsru.com/russia/10Sep2009/mosgor.html\n</segment>
+		<group id="59" type="span" parent="136" relname="preparation"/>
+		<group id="51" type="span" parent="59" relname="span"/>
+		<group id="50" type="span" parent="51" relname="span"/>
+		<group id="58" type="span" parent="51" relname="elaboration"/>
+		<group id="56" type="span" parent="58" relname="span"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="136" type="span" parent="137" relname="span"/>
+		<group id="64" type="span" parent="135" relname="preparation"/>
+		<group id="63" type="span" parent="60" relname="elaboration"/>
+		<group id="135" type="multinuc" parent="136" relname="span"/>
+		<group id="79" type="multinuc" parent="135" relname="joint"/>
+		<group id="69" type="span" parent="79" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="72" type="span" parent="78" relname="same-unit"/>
+		<group id="77" type="span" parent="78" relname="same-unit"/>
+		<group id="76" type="span" parent="73" relname="elaboration"/>
+		<group id="134" type="multinuc" parent="135" relname="joint"/>
+		<group id="88" type="multinuc" parent="134" relname="joint"/>
+		<group id="87" type="span" parent="88" relname="joint"/>
+		<group id="86" type="span" parent="81" relname="elaboration"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="133" type="multinuc" parent="134" relname="joint"/>
+		<group id="101" type="span" parent="133" relname="joint"/>
+		<group id="100" type="multinuc" parent="89" relname="elaboration"/>
+		<group id="92" type="span" parent="100" relname="joint"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="98" type="span" parent="99" relname="span"/>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="132" type="multinuc" parent="133" relname="joint"/>
+		<group id="106" type="multinuc" parent="132" relname="joint"/>
+		<group id="104" type="span" parent="106" relname="comparison"/>
+		<group id="131" type="multinuc" parent="132" relname="joint"/>
+		<group id="123" type="multinuc" parent="131" relname="joint"/>
+		<group id="111" type="multinuc" parent="123" relname="joint"/>
+		<group id="109" type="span" parent="111" relname="comparison"/>
+		<group id="122" type="multinuc" parent="123" relname="joint"/>
+		<group id="116" type="multinuc" parent="122" relname="joint"/>
+		<group id="115" type="span" parent="116" relname="joint"/>
+		<group id="121" type="multinuc" parent="122" relname="joint"/>
+		<group id="120" type="span" parent="121" relname="joint"/>
+		<group id="130" type="multinuc" parent="131" relname="joint"/>
+		<group id="128" type="span" parent="130" relname="joint"/>
+		<group id="127" type="multinuc" parent="128" relname="span"/>
+		<group id="137" type="span"/>
+	</body>
+</rst>

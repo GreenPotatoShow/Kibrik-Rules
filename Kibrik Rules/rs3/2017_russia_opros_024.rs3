@@ -1,0 +1,78 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="35" relname="attribution">Рекордное число россиян считают</segment>
+		<segment id="35" parent="36" relname="span">свою страну влиятельной на мировой арене,</segment>
+		<segment id="37" parent="36" relname="attribution">показал опрос\n\</segment>
+		<segment id="39" parent="40" relname="attribution">nВсе больше россиян считают</segment>
+		<segment id="40" parent="41" relname="span">свою страну влиятельным на мировой арене государством:</segment>
+		<segment id="42" parent="44" relname="comparison">если в прошлом году о высоком влиянии России в международных делах говорили три четверти граждан страны,</segment>
+		<segment id="43" parent="44" relname="comparison">то в 2017 году такое мнение высказывают 86% респондентов</segment>
+		<segment id="45" parent="47" relname="span">- максимум за все годы измерений, проводимых Всероссийским центром изучения общественного мнения (ВЦИОМ),</segment>
+		<segment id="46" parent="45" relname="attribution">передает РИА \"Новости\".\n\n\"Оценки позиций России на мировой арене за год существенно выросли:</segment>
+		<segment id="49" parent="53" relname="comparison">в 2016 году о том, что влияние нашей страны в международных делах велико,</segment>
+		<segment id="50" parent="52" relname="comparison">говорили 75% россиян,</segment>
+		<segment id="51" parent="52" relname="comparison">в 2017 году - уже 86% (максимум за все годы измерений).</segment>
+		<segment id="56" parent="58" relname="span">Вместе с тем доля скептиков снизилась почти вдвое: с 18% до 10%\",</segment>
+		<segment id="57" parent="56" relname="attribution">- сообщают социологи</segment>
+		<segment id="60" parent="61" relname="attribution">.\n\nИсследователи отмечают,</segment>
+		<segment id="61" parent="62" relname="span">что скептически настроенных в этом плане граждан больше среди сторонников непарламентских партий (16%) и среди граждан, оценивающих свое материальное положение как плохое или очень плохое (19%).\n\n</segment>
+		<segment id="63" parent="95" relname="span">\"За три года надежда на приобретение нашей страной статуса великой державы переросла в уверенность в том, что она уже является таковой.</segment>
+		<segment id="64" parent="69" relname="attribution">Если в 2014 году 54% опрошенных считали,</segment>
+		<segment id="65" parent="69" relname="comparison">что в ближайшие 15-20 лет Россия станет одним из ведущих государств мира,</segment>
+		<segment id="66" parent="67" relname="attribution">то сегодня 57% говорят о том,</segment>
+		<segment id="67" parent="68" relname="span">что она уже входит в их число.</segment>
+		<segment id="71" parent="74" relname="attribution">В настоящее время около трети россиян (31%) полагают,</segment>
+		<segment id="74" parent="75" relname="span">что это произойдет в течение нескольких десятилетий, не согласны с этим 10%\",</segment>
+		<segment id="76" parent="75" relname="attribution">- указано в материалах ислледования.\n\nОпрос был проведен 2-3 марта 2017 года среди 1,2 тысячи респондентов;</segment>
+		<segment id="78" parent="79" relname="joint">метод опроса - телефонное интервью.</segment>
+		<segment id="81" parent="93" relname="span">Статистическая погрешность не превышает 3,5%.\n\</segment>
+		<segment id="82" parent="92" relname="span">nОтметим, о подобных результатах в конце января сообщали социологи \"Левада-Центра\".</segment>
+		<segment id="83" parent="90" relname="attribution">Согласно проведенному опросу,</segment>
+		<segment id="84" parent="85" relname="attribution">доля граждан, считающих,</segment>
+		<segment id="85" parent="86" relname="span">что Россия в настоящее время находится вровень с самыми влиятельными мировыми державами,</segment>
+		<segment id="87" parent="89" relname="comparison">достигла 41% - максимума с июня 2007 года</segment>
+		<segment id="88" parent="89" relname="comparison">(больше было только в январе 2008 года - 45%).\n\nИсточник: https://www.newsru.com/russia/15Mar2017/opros.html\n</segment>
+		<group id="38" type="span" parent="97" relname="preparation"/>
+		<group id="36" type="span" parent="38" relname="span"/>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="59" type="span" parent="97" relname="comparison"/>
+		<group id="55" type="span" parent="59" relname="span"/>
+		<group id="41" type="span" parent="55" relname="span"/>
+		<group id="54" type="multinuc" parent="41" relname="elaboration"/>
+		<group id="48" type="multinuc" parent="54" relname="comparison"/>
+		<group id="44" type="multinuc" parent="48" relname="comparison"/>
+		<group id="47" type="span" parent="48" relname="comparison"/>
+		<group id="53" type="multinuc" parent="54" relname="comparison"/>
+		<group id="52" type="multinuc" parent="53" relname="comparison"/>
+		<group id="58" type="span" parent="55" relname="attribution"/>
+		<group id="96" type="multinuc" parent="97" relname="comparison"/>
+		<group id="62" type="span" parent="96" relname="joint"/>
+		<group id="95" type="span" parent="96" relname="joint"/>
+		<group id="94" type="multinuc" parent="63" relname="elaboration"/>
+		<group id="80" type="multinuc" parent="94" relname="comparison"/>
+		<group id="70" type="span" parent="80" relname="comparison"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="68" type="span" parent="69" relname="comparison"/>
+		<group id="79" type="multinuc" parent="80" relname="comparison"/>
+		<group id="77" type="span" parent="79" relname="joint"/>
+		<group id="75" type="span" parent="77" relname="span"/>
+		<group id="93" type="span" parent="94" relname="comparison"/>
+		<group id="92" type="span" parent="81" relname="elaboration"/>
+		<group id="91" type="span" parent="82" relname="elaboration"/>
+		<group id="90" type="multinuc" parent="91" relname="span"/>
+		<group id="86" type="span" parent="90" relname="joint"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="98" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,50 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="joint">Range Rover запустит в серию кабриолет Evoque\n\nRange Rover Evoque в версии кабриолет получил зеленый свет</segment>
+		<segment id="20" parent="21" relname="joint">и будет запущен в серию,</segment>
+		<segment id="22" parent="21" relname="attribution">сообщает сайт Edmunds.com.\n\nПредложение будет уникальным,</segment>
+		<segment id="24" parent="36" relname="span">но вот успехом в области внедорожных кабриолетов современная автопромышленность похвастать пока не может:</segment>
+		<segment id="25" parent="35" relname="joint">Nissan Murano CrossCabriolet провалился в продажах в США</segment>
+		<segment id="26" parent="34" relname="span">и даже завоевывал звание самого уродливого автомобиля.\n\nДля своего кабриолета в Land Rover явно ожидают другой судьбы.</segment>
+		<segment id="27" parent="33" relname="sequence">Автомобиль в качестве прототипа был представлен на прошлогоднем автосалоне в Женеве,</segment>
+		<segment id="28" parent="30" relname="span">а серийная версия появится в продаже в 2014 году.\n\nПо данным издания, кабриолет будет трехдверным, с мягкой крышей с электроприводом,</segment>
+		<segment id="29" parent="28" relname="elaboration">которая будет полностью убираться в багажник,</segment>
+		<segment id="31" parent="30" relname="condition">сохраняя \"чистоту силуэта\".</segment>
+		<segment id="38" parent="41" relname="attribution">Представляя концепт в Женеве, Land Rover сообщил,</segment>
+		<segment id="41" parent="42" relname="span">что привод крыши и усиление кузова привели к утяжелению автомобиля на 80 кг.\n\</segment>
+		<segment id="43" parent="45" relname="joint">nКак ожидается,</segment>
+		<segment id="44" parent="45" relname="joint">под капотом автомобиля будет тот же 240-сильный двухлитровый двигатель,</segment>
+		<segment id="46" parent="48" relname="joint">что и в обычном Range Rover,</segment>
+		<segment id="47" parent="48" relname="joint">и, вероятно, дебютирует кабриолет уже с передовой 9-ступенчатой трансмиссией от ZF.\n\nВ США цены на Evoque начинаются от 43 тысяч долларов,</segment>
+		<segment id="50" parent="51" relname="joint">кабриолет будет на 10-15% дороже.\n\nИсточник: https://www.newsru.com/auto/25Jul2013/cabrio.html\n</segment>
+		<group id="37" type="multinuc" parent="53" relname="comparison"/>
+		<group id="23" type="span" parent="37" relname="contrast"/>
+		<group id="21" type="multinuc" parent="23" relname="span"/>
+		<group id="36" type="span" parent="37" relname="contrast"/>
+		<group id="35" type="multinuc" parent="24" relname="elaboration"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="33" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="32" type="span" parent="33" relname="sequence"/>
+		<group id="30" type="span" parent="32" relname="span"/>
+		<group id="52" type="multinuc" parent="53" relname="comparison"/>
+		<group id="42" type="span" parent="52" relname="comparison"/>
+		<group id="51" type="multinuc" parent="52" relname="comparison"/>
+		<group id="49" type="multinuc" parent="51" relname="joint"/>
+		<group id="45" type="multinuc" parent="49" relname="comparison"/>
+		<group id="48" type="multinuc" parent="49" relname="comparison"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

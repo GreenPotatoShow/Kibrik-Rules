@@ -1,0 +1,73 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="28" relname="cause-effect">Россельхознадзор нашел новые нарушения в магазинах сети \"Ашан\"\n\nРоссельхознадзор выявил,</segment>
+		<segment id="28" parent="29" relname="span">что работники гипермаркета неправильно избавляются от биологических отходов,</segment>
+		<segment id="30" parent="29" relname="attribution">сообщает РИА \"Новости\".</segment>
+		<segment id="32" parent="33" relname="cause-effect">Нарушения обнаружились в ходе внеплановой проверки магазинов \"Ашан\" в Москве, Подмосковье и Тульской области.\n\n\"Установлены факты сброса биологических отходов в контейнер, предназначенный для сбора твердых бытовых отходов с последующим вывозом их на свалки и полигоны,</segment>
+		<segment id="33" parent="34" relname="span">что может повлечь загрязнение окружающей среды биологическими отходами и ухудшение эпизодической ситуации в регионе\",</segment>
+		<segment id="35" parent="37" relname="span">- сказал журналистам представитель ведомства.\n\nКроме того, в ходе проверки в гипермаркетах был установлен факт хранения кишечного сырья</segment>
+		<segment id="36" parent="35" relname="purpose">для приготовления полуфабрикатов в помещении для специй с нарушением температурного режима,</segment>
+		<segment id="38" parent="39" relname="joint">а также осуществляется хранение специй в грязной таре из-под кишечного сырья.\n\</segment>
+		<segment id="41" parent="42" relname="span">nНакануне Россельхознадзор обнародовал результаты проверки продукции, изъятой в торговой сети \"Ашан\".</segment>
+		<segment id="43" parent="47" relname="same-unit">В свином фарше</segment>
+		<segment id="44" parent="45" relname="condition">при анализе</segment>
+		<segment id="45" parent="46" relname="span">были обнаружены чужеродные ДНК, в том числе ДНК лошади.\n\nТорговая сеть сообщила,</segment>
+		<segment id="48" parent="49" relname="span">что проводит внутреннее расследование.</segment>
+		<segment id="50" parent="57" relname="attribution">Кроме того, директор по внешним коммуникациям \"Ашан Россия\" Мария Курносова заявила,</segment>
+		<segment id="51" parent="57" relname="same-unit">что компания,</segment>
+		<segment id="52" parent="55" relname="condition">реагируя на претензии Россельхознадзора к качеству продуктов,</segment>
+		<segment id="53" parent="55" relname="joint">вынесла предупреждение сотруднику</segment>
+		<segment id="54" parent="55" relname="joint">и наладит взаимодействие с поставщиком.\n\</segment>
+		<segment id="59" parent="64" relname="attribution">nРанее она пояснила,</segment>
+		<segment id="60" parent="64" relname="joint">что проблемы со сроком годности мясной продукции возникли после вступления в силу нового технического регламента Таможенного союза,</segment>
+		<segment id="61" parent="63" relname="span">а нарушение с просроченной колбасой в пицце она объяснила тем,</segment>
+		<segment id="62" parent="61" relname="cause-effect">что сотрудник вовремя не выполнил процедуру списания.\n\nНа прошлой неделе надзорное ведомство выявило в магазинах сети сразу два случая нарушения санитарных норм.</segment>
+		<segment id="66" parent="71" relname="attribution">По данным Россельхознадзора,</segment>
+		<segment id="67" parent="71" relname="span">в одном случае магазин искусственно продлевал сроки годности охлажденного мяса,</segment>
+		<segment id="68" parent="69" relname="cause-effect">манипулируя с маркировкой в процессе его хранения, переработки и реализации,</segment>
+		<segment id="69" parent="70" relname="span">что представляет угрозу для потребителей.\n\nИсточник: https://www.newsru.com/finance/05Aug2015/auchanwaste.html\n</segment>
+		<group id="31" type="span" parent="76" relname="preparation"/>
+		<group id="29" type="span" parent="31" relname="span"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="42" type="span" parent="76" relname="joint"/>
+		<group id="40" type="multinuc" parent="41" relname="solutionhood"/>
+		<group id="34" type="span" parent="40" relname="joint"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="37" type="span" parent="39" relname="joint"/>
+		<group id="75" type="multinuc" parent="76" relname="joint"/>
+		<group id="49" type="span" parent="75" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="attribution"/>
+		<group id="46" type="span" parent="47" relname="same-unit"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="58" type="span" parent="74" relname="sequence"/>
+		<group id="57" type="multinuc" parent="58" relname="span"/>
+		<group id="56" type="span" parent="57" relname="same-unit"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="73" type="span" parent="74" relname="sequence"/>
+		<group id="65" type="span" parent="73" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="72" type="span" parent="65" relname="elaboration"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="70" type="span" parent="67" relname="condition"/>
+		<group id="77" type="span"/>
+	</body>
+</rst>

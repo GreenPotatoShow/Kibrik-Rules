@@ -1,0 +1,61 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="26" relname="joint">Главный приз \"Кинотавра\" достался фильму Сергея Соловьева \"Нежный возраст\"\n\nВ Сочи завершился ХII открытый российский фестиваль \"Кинотавр\".</segment>
+		<segment id="25" parent="26" relname="joint">Его главный приз - \"Золотую розу\", как и ожидалось, взял фильм Сергея Соловьева \"Нежный возраст\".</segment>
+		<segment id="27" parent="29" relname="span">Этот фильм посвящен тем, кто родился в начале 70-х годов,</segment>
+		<segment id="28" parent="27" relname="elaboration">\"кто взрослел в безвременье\".</segment>
+		<segment id="30" parent="33" relname="attribution">Получая приз, Сергей Соловьев сказал:</segment>
+		<segment id="31" parent="33" relname="span">\"Наша группа согласна с решением жюри\".\n\nГран-при, который на \"Кинотавре\" почему-то считается вторым за \"розой\",</segment>
+		<segment id="32" parent="31" relname="elaboration">получил фильм \"Яды, или Всемирная история отравлений\".</segment>
+		<segment id="35" parent="37" relname="span">Режиссеру Карену Шахназарову была вручена \"Жемчужина России\" материальное воплощение приза.\n\nЛучшим исполнителем мужской роли назван президент фестиваля Олег Янковский</segment>
+		<segment id="36" parent="35" relname="interpretation-evaluation">(фильм \"Приходи на меня посмотреть...\").</segment>
+		<segment id="39" parent="41" relname="span">Приз ему вручила звезда мирового кино Орнелла Мути, прилетевшая в Сочи,</segment>
+		<segment id="40" parent="39" relname="purpose">чтобы принять участие в церемонии закрытия \"Кинотавра\".</segment>
+		<segment id="42" parent="43" relname="joint">За лучшую женскую роль была награждена Ольга Конская (фильм \"Любовь и другие кошмары\").\n\nПриз имени Микаэла Таривердиева за лучшую музыку к фильму достался композитору Энри Лолашвили (фильм \"Нежный возраст\").</segment>
+		<segment id="44" parent="64" relname="joint">Приз президентского совета фестиваля достался режиссеру Александру Нитте за фильм \"Таежный роман\".\n\nНа торжественной церемонии закрытия \"Кинотавра\" были названы имена лауреатов приза Президента РФ \"За вклад в российское киноискусство\".</segment>
+		<segment id="45" parent="47" relname="sequence">Его обладателями стали легендарная актриса Марина Ладынина, выдающийся режиссер-мультипликатор Федор Хитрук и прославленный оператор Вадим Юсов.</segment>
+		<segment id="46" parent="47" relname="sequence">Приз жюри ФИПРЕССИ достался фильму Киры Муратовой \"Второстепенные люди\".</segment>
+		<segment id="48" parent="62" relname="joint">Победителем конкурса \"Дебют\" стал фильм \"Сестры\" Сергея Бодрова-младшего.</segment>
+		<segment id="49" parent="51" relname="span">Приз за исполнительское мастерство получил актерский дуэт из этого же фильма Оксана Акиньшина и Катя Горина.\n\nПозже были названы победители VIII Международного кинофестиваля в Сочи,</segment>
+		<segment id="50" parent="49" relname="elaboration">проходящего параллельно с \"Кинотавром\".</segment>
+		<segment id="52" parent="60" relname="joint">Главный приз получил фильм \"Мой брат Том\" (Великобритания, режиссер Дом Родероу).</segment>
+		<segment id="53" parent="55" relname="span">Второе место заняла картина</segment>
+		<segment id="54" parent="53" relname="elaboration">\"Когда дедушка любил Риту Хейуорт\" (Германия-Швейцария-Чехия, режиссер Ива Шварцова).</segment>
+		<segment id="56" parent="58" relname="span">Призы за лучшие актерские работы взяли хорватка Дора Полич</segment>
+		<segment id="57" parent="56" relname="elaboration">(\"Кассирша хочет поехать на море\") и англичанин Бен Уишо (\"Мой брат Том\").\n\nИсточник: https://www.newsru.com/cinema/15Jun2001/prizy.html\n</segment>
+		<group id="26" type="multinuc" parent="67" relname="preparation"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="29" type="span" parent="66" relname="preparation"/>
+		<group id="66" type="multinuc" parent="67" relname="span"/>
+		<group id="38" type="multinuc" parent="66" relname="joint"/>
+		<group id="34" type="span" parent="38" relname="joint"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="65" type="multinuc" parent="66" relname="joint"/>
+		<group id="43" type="multinuc" parent="65" relname="joint"/>
+		<group id="41" type="span" parent="43" relname="joint"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="47" type="multinuc" parent="63" relname="joint"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="51" type="span" parent="61" relname="joint"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="55" type="span" parent="59" relname="span"/>
+		<group id="58" type="span" parent="55" relname="elaboration"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,44 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="22" relname="span">В Великобритании вычислили \"столицу пенсионеров\": милое и приятное место\n\nГород Крайстчерч в графстве Дорсет на южном побережье Великобритании,</segment>
+		<segment id="17" parent="20" relname="attribution">согласно последним данным национальной статистики,</segment>
+		<segment id="18" parent="20" relname="span">оказался в стране самым густонаселенным жителями в возрасте от 65 лет.\n\nВ солнечном и живописном Крайстчерче</segment>
+		<segment id="19" parent="18" relname="elaboration">на 47 750 резидентов приходится 14 200 пенсионеров.</segment>
+		<segment id="23" parent="27" relname="comparison">Сейчас это составляет около 30% от населения города,</segment>
+		<segment id="24" parent="26" relname="span">а к 2031 году пенсионеров там будет уже около 40%,</segment>
+		<segment id="25" parent="24" relname="attribution">прогнозируют аналитики.</segment>
+		<segment id="28" parent="29" relname="contrast">Но уже сейчас его называют британской \"столицей пенсионеров\",</segment>
+		<segment id="31" parent="30" relname="attribution">пишет The Daily Mail</segment>
+		<segment id="33" parent="43" relname="joint">.\n\</segment>
+		<segment id="34" parent="42" relname="span">nИ, судя по описанию, это более чем приятный городок для неспешной благоустроенный жизни.</segment>
+		<segment id="35" parent="41" relname="joint">Здесь умеренный климат, большая гавань с пляжами, красивый замок XI века.\n\nСредний ценник на дома здесь, естественно, довольно высокий - 300 000 фунтов стерлингов (480 тысяч долларов).</segment>
+		<segment id="36" parent="40" relname="comparison">В прошлом году кто-то смог купить здесь домик на пляже \"всего\" за 170 тысяч фунтов, через день после того, как он поступил в продажу.\n\nА меньше всего пенсионеров в Великобритании проживает, конечно, в столице:</segment>
+		<segment id="37" parent="39" relname="comparison">в Лондоне всего 11% пенсионеров (каждый девятый).</segment>
+		<segment id="38" parent="39" relname="comparison">В целом же пенсионеры сейчас составляют одну шестую населения Великобритании.\n\nИсточник: https://www.newsru.com/realty/16Sep2013/christchurch.html\n</segment>
+		<group id="32" type="span" parent="44" relname="comparison"/>
+		<group id="30" type="multinuc" parent="32" relname="span"/>
+		<group id="22" type="span" parent="30" relname="comparison"/>
+		<group id="21" type="span" parent="16" relname="elaboration"/>
+		<group id="20" type="span" parent="21" relname="span"/>
+		<group id="29" type="multinuc" parent="30" relname="comparison"/>
+		<group id="27" type="multinuc" parent="29" relname="contrast"/>
+		<group id="26" type="span" parent="27" relname="comparison"/>
+		<group id="43" type="multinuc" parent="44" relname="comparison"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="41" type="multinuc" parent="34" relname="elaboration"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="39" type="multinuc" parent="40" relname="comparison"/>
+		<group id="44" type="multinuc"/>
+	</body>
+</rst>

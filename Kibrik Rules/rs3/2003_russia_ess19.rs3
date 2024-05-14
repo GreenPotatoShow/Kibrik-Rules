@@ -1,0 +1,23 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="8" parent="10" relname="span">19 раненых при взрыве в Ессентуках находятся в тяжелом состоянии\n\nВ реанимационном отделении больницы Ессентуков в тяжелом состоянии находятся 19 пострадавших при теракте в электричке Кисловодск-Минеральные Воды,</segment>
+		<segment id="9" parent="8" relname="attribution">сообщил РИА \"Новости\" в воскресенье главный врач горбольницы Дмитрий Катанов.\n\nВсего в больнице находится 84 человека, пострадавших от взрыва.</segment>
+		<segment id="13" parent="14" relname="joint">В воскресенье выписка пациентов не запланирована, отметил Катанов.\n\nВ патологоанатомическом отделении уже опознаны тела всех погибших в результате теракта.</segment>
+		<segment id="15" parent="19" relname="joint">В Кисловодске в воскресенье состоялись похороны семи человек.\n\nВ минувшую пятницу, 5 декабря, в результате взрыва вагона в районе станции Ессентуки, погибли 42 человека и более 100 пассажиров получили ранения.</segment>
+		<segment id="16" parent="18" relname="span">По предварительным данным, взрывное устройство во втором вагоне состава в действие привел террорист-смертник.</segment>
+		<segment id="17" parent="16" relname="elaboration">Мощность бомбы составила около десяти кг в тротиловом эквиваленте.\n\nСледствие по уголовному делу ведет Управление Генпрокуратуры РФ на Северном Кавказе.\n\nИсточник: https://www.newsru.com/russia/07Dec2003/ess19.html\n</segment>
+		<group id="14" type="multinuc" parent="20" relname="joint"/>
+		<group id="10" type="span" parent="14" relname="joint"/>
+		<group id="19" type="multinuc" parent="20" relname="joint"/>
+		<group id="18" type="span" parent="19" relname="joint"/>
+		<group id="20" type="multinuc"/>
+	</body>
+</rst>

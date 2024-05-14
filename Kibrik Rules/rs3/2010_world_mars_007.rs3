@@ -1,0 +1,50 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="20" relname="joint">Обнародована самая подробная и точная карта Марса\n\nСамая подробная за всю историю наблюдений карта Марса подготовлена NASA</segment>
+		<segment id="19" parent="20" relname="joint">и обнародована Университетом штата Аризона,</segment>
+		<segment id="21" parent="23" relname="span">сообщает газета The Christian Science Monitor.\n\nКарта составлена на основе снимков, выполненных мощной инфракрасной камерой THEMIS,</segment>
+		<segment id="22" parent="21" relname="purpose">установленной на борту космического аппарата Mars Odyssey.</segment>
+		<segment id="25" parent="29" relname="sequence">Карту опубликовал на своем сайте Университет штата Аризона.\n\nКамера THEMIS начала свою деятельность восемь лет назад,</segment>
+		<segment id="26" parent="27" relname="cause-effect">и тогда же начались работы по составлению карты.\n\n\"Мы привязали снимки к картографической контрольной сетке, предоставленной Геологической службой США,</segment>
+		<segment id="27" parent="28" relname="span">на ее основе также была смоделирована оптика камеры.</segment>
+		<segment id="31" parent="35" relname="span">Этот подход позволил нам устранить все искажения,</segment>
+		<segment id="32" parent="34" relname="joint">так что все черты поверхности расположены точно, с погрешностью лишь в несколько пикселей,</segment>
+		<segment id="33" parent="34" relname="joint">и наша карта Марса - лучшая на сегодняшний момент\",</segment>
+		<segment id="36" parent="37" relname="attribution">- заявил руководитель проекта Филип Кристенсен.\n\nПользователи могут, меняя масштаб,</segment>
+		<segment id="37" parent="38" relname="span">просматривать изображение в деталях, вплоть до объектов от 100 м шириной.</segment>
+		<segment id="40" parent="46" relname="contrast">Ранее удавалось снимать отдельные области марсианской поверхности с еще лучшим разрешением,</segment>
+		<segment id="41" parent="43" relname="span">но данная работа отличается покрытием всей поверхности планеты.\n\nОбладатели мощных компьютеров со скоростным доступом к интернету и программным обеспечением,</segment>
+		<segment id="42" parent="41" relname="purpose">позволяющем обрабатывать снимки объемом в несколько гигабайт,</segment>
+		<segment id="44" parent="43" relname="elaboration">могут загрузить изображение всей планеты.\n\nКарта позволит ученым изучать минеральный состав поверхности Марса и физическую природу материалов, из которых она состоит,</segment>
+		<segment id="47" parent="46" relname="attribution">отметил ученый проекта Джеффри Плаут.\n\nИсточник: https://www.newsru.com/world/26Jul2010/mars.html\n</segment>
+		<group id="30" type="multinuc" parent="50" relname="joint"/>
+		<group id="24" type="span" parent="30" relname="sequence"/>
+		<group id="20" type="multinuc" parent="24" relname="span"/>
+		<group id="23" type="span" parent="20" relname="attribution"/>
+		<group id="29" type="multinuc" parent="30" relname="sequence"/>
+		<group id="28" type="span" parent="29" relname="sequence"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="39" type="multinuc" parent="49" relname="joint"/>
+		<group id="35" type="span" parent="39" relname="joint"/>
+		<group id="34" type="multinuc" parent="31" relname="elaboration"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="46" type="multinuc" parent="48" relname="span"/>
+		<group id="45" type="span" parent="46" relname="contrast"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="50" type="multinuc"/>
+	</body>
+</rst>

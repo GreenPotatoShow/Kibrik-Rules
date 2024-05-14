@@ -1,0 +1,87 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="36" relname="span">Амбициозный проект беспилотного автомобиля Google сгубили слишком большие зарплаты разработчиков\n\nВ конце прошлого года стало известно, что руководство Google приняло решение прекратить разработку собственного беспилотного автомобиля,</segment>
+		<segment id="35" parent="34" relname="purpose">на создание и дорожные испытания которого было потрачено несколько лет и миллиарды долларов.</segment>
+		<segment id="37" parent="49" relname="span">Издание Bloomberg приводит неожиданное объяснение этого провала:</segment>
+		<segment id="38" parent="41" relname="cause-effect">корпорация слишком щедро финансировала сотрудников, работающих над проектом гугломобиля,</segment>
+		<segment id="39" parent="41" relname="span">в результате они скопили достаточно средств</segment>
+		<segment id="40" parent="39" relname="purpose">для открытия собственных стартапов</segment>
+		<segment id="43" parent="47" relname="span">и ушли из Google,</segment>
+		<segment id="44" parent="46" relname="span">не завершив продукт.\n\nТак, в августе 2016 года из корпорации уволился ключевой инженер проекта по созданию гугломобиля Крис Урмсон,</segment>
+		<segment id="45" parent="44" relname="elaboration">который теперь вместе с экс-сотрудником Tesla Стерлингом Андерсоном работает над собственным стартапом по разработке беспилотных авто Aurora.</segment>
+		<segment id="51" parent="53" relname="span">Еще один бывший ведущий сотрудник Google Брайан Салески вместе с экс-сотрудником Uber Питером Рендером создал стартап Argo AI,</segment>
+		<segment id="52" parent="51" relname="elaboration">занимающийся разработкой системы виртуального управления.</segment>
+		<segment id="54" parent="56" relname="span">На днях стало известно, что Ford собирается инвестировать в Argo 1 млрд долларов.\nЕще ряд бывших сотрудников Google создали проект самоуправляемых грузовиков Otto,</segment>
+		<segment id="55" parent="54" relname="elaboration">который в августе 2016 года за 680 млн долларов приобрела компания Uber.\n\</segment>
+		<segment id="57" parent="62" relname="attribution">nПо данным Bloomberg,</segment>
+		<segment id="58" parent="62" relname="joint">часть бывших сотрудников Google разочаровались темпами разработки беспилотного автомобиля внутри огромной корпорации</segment>
+		<segment id="59" parent="61" relname="span">и сомневались, что этот процесс ускорит бывший президент американского подразделения Hyundai Джон Крафчик,</segment>
+		<segment id="60" parent="59" relname="elaboration">которого интернет-компания пригласила в 2015 году возглавить свое автомобильное подразделение.</segment>
+		<segment id="66" parent="68" relname="joint">Кроме того, многие давно мечтали о самостоятельных разработках,</segment>
+		<segment id="67" parent="68" relname="joint">и как раз к тому времени для этого сложились наиболее благоприятные условия.</segment>
+		<segment id="69" parent="73" relname="span">В конце 2015 года некоторые работавшие над проектом беспилотных авто сотрудники получили многомиллионные бонусы,</segment>
+		<segment id="70" parent="72" relname="span">которые прилагались к быстро растущим зарплатам на протяжении предыдущих четырех лет.\n\</segment>
+		<segment id="71" parent="70" relname="attribution">nКак пояснили источники агентства,</segment>
+		<segment id="74" parent="80" relname="same-unit">такая ситуация сложилась из-за того,</segment>
+		<segment id="75" parent="79" relname="same-unit">что в 2010 году,</segment>
+		<segment id="76" parent="78" relname="sequence">вскоре после того, как был представлен первый прототип гугломобиля,</segment>
+		<segment id="77" parent="78" relname="sequence">Google внедрила новую схему поощрения разработчиков:</segment>
+		<segment id="81" parent="83" relname="sequence">к их зарплатам применялся повышающий коэффициент в зависимости от количества лет, которые они посвятили проекту.</segment>
+		<segment id="82" parent="83" relname="sequence">Позже этот коэффициент был распространен и на суммы бонусов.</segment>
+		<segment id="87" parent="95" relname="contrast">К примеру, у одного из сотрудников при расчете компенсации зарплата и бонусы за четыре года были умножены на 16.\n\nКомпания таким образом рассчитывала сделать сотрудников максимально заинтересованными в развитии проекта,</segment>
+		<segment id="88" parent="94" relname="span">но в итоге вышло наоборот:</segment>
+		<segment id="89" parent="93" relname="span">они заработали так много,</segment>
+		<segment id="90" parent="92" relname="joint">что перестали финансово зависеть от работодателя</segment>
+		<segment id="91" parent="92" relname="joint">и бросили его.\n\nИсточник: https://www.newsru.com/auto/15Feb2017/toomuchmoney.html\n</segment>
+		<group id="50" type="span" parent="98" relname="joint"/>
+		<group id="36" type="span" parent="49" relname="preparation"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="48" type="multinuc" parent="37" relname="cause-effect"/>
+		<group id="42" type="span" parent="48" relname="joint"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="46" type="span" parent="43" relname="condition"/>
+		<group id="97" type="multinuc" parent="98" relname="joint"/>
+		<group id="65" type="span" parent="97" relname="joint"/>
+		<group id="53" type="span" parent="64" relname="preparation"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="56" type="span" parent="64" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="61" type="span" parent="62" relname="joint"/>
+		<group id="96" type="multinuc" parent="97" relname="joint"/>
+		<group id="86" type="span" parent="96" relname="joint"/>
+		<group id="68" type="multinuc" parent="86" relname="span"/>
+		<group id="85" type="multinuc" parent="68" relname="elaboration"/>
+		<group id="73" type="span" parent="85" relname="comparison"/>
+		<group id="72" type="span" parent="69" relname="elaboration"/>
+		<group id="84" type="span" parent="85" relname="comparison"/>
+		<group id="80" type="multinuc" parent="84" relname="span"/>
+		<group id="79" type="multinuc" parent="80" relname="same-unit"/>
+		<group id="78" type="multinuc" parent="79" relname="same-unit"/>
+		<group id="83" type="multinuc" parent="80" relname="elaboration"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="94" type="span" parent="95" relname="contrast"/>
+		<group id="93" type="span" parent="88" relname="cause-effect"/>
+		<group id="92" type="multinuc" parent="89" relname="cause-effect"/>
+		<group id="98" type="multinuc"/>
+	</body>
+</rst>

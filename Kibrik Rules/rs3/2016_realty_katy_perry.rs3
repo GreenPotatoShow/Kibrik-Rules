@@ -1,0 +1,101 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="41" parent="43" relname="span">Кэти Перри выиграла суд у монахинь,</segment>
+		<segment id="42" parent="41" relname="elaboration">которые боятся продавать ей для жилья бывший монастырь\n\nАмериканская певица и актриса Кэти Перри судится с двумя монахинями за здание бывшего монастыря в лос-анджелесском пригороде Лос-Фелис.</segment>
+		<segment id="44" parent="50" relname="span">Перри давно хочет купить его,</segment>
+		<segment id="45" parent="48" relname="purpose">чтобы сделать там загородную резиденцию для своей семьи,</segment>
+		<segment id="46" parent="48" relname="span">а монахини рассчитывают продать объект другой клиентке</segment>
+		<segment id="47" parent="46" relname="elaboration">.\n\</segment>
+		<segment id="52" parent="55" relname="attribution">nКак пишет Los Angeles Times,</segment>
+		<segment id="53" parent="55" relname="span">на этой неделе певица одержала важную победу в Верховном суде Лос-Анджелеса,</segment>
+		<segment id="54" parent="53" relname="background">который заблокировал сделку по продаже монастыря известному ресторатору Дане Холлистер.</segment>
+		<segment id="57" parent="60" relname="attribution">Однако адвокат монахинь заявил,</segment>
+		<segment id="58" parent="60" relname="span">что дело еще не проиграно:</segment>
+		<segment id="59" parent="58" relname="cause-effect">они подадут апелляцию по данном решению.\n\nПредыстория этого дела такова.</segment>
+		<segment id="62" parent="66" relname="sequence">До 2011 года монастырь был действующим</segment>
+		<segment id="63" parent="65" relname="sequence">- в нем жили и трудились 52 монахини - сестры ордена Непорочного сердца Девы Марии.</segment>
+		<segment id="64" parent="65" relname="sequence">Но затем местная епархия решила перевести монастырь в другое место.</segment>
+		<segment id="67" parent="71" relname="span">Однако не все монахини захотели переезжать.</segment>
+		<segment id="68" parent="70" relname="joint">Пять из них остались</segment>
+		<segment id="69" parent="70" relname="joint">и договорились с епископом о выкупе здания и прилегающего участка на свои деньги со скидкой.</segment>
+		<segment id="73" parent="75" relname="joint">Однако условия нерыночной сделки оказались слишком запутанными,</segment>
+		<segment id="74" parent="75" relname="joint">и теперь непонятно, кому здание принадлежит по факту:</segment>
+		<segment id="76" parent="77" relname="attribution">монахини считают,</segment>
+		<segment id="77" parent="78" relname="span">что им,</segment>
+		<segment id="79" parent="83" relname="span">а епархия Лос-Анджелеса придерживается другого мнения,</segment>
+		<segment id="80" parent="81" relname="condition">считая проведенную сделку ничтожной.\n\nТак как содержание большого здания обходится недешево,</segment>
+		<segment id="81" parent="82" relname="span">обе стороны задумались о его продаже.</segment>
+		<segment id="85" parent="97" relname="sequence">Монахини договорились продать монастырь Дане Холлистер за 15,5 млн долларов,</segment>
+		<segment id="86" parent="96" relname="span">а епископ - Кэти Перри за 14,5 млн.\n\nКак уточняет издание,</segment>
+		<segment id="87" parent="95" relname="span">Перри,</segment>
+		<segment id="88" parent="90" relname="span">которая уже три года присматривается к этому владению,</segment>
+		<segment id="89" parent="88" relname="purpose">чтобы поселиться в медитативной обстановке с мамой и бабушкой,</segment>
+		<segment id="91" parent="93" relname="joint">встречалась с монахинями</segment>
+		<segment id="92" parent="93" relname="joint">и пыталась произвести на них хорошее впечатление.</segment>
+		<segment id="99" parent="103" relname="span">Однако то ли у поп-звезды это не очень получилось,</segment>
+		<segment id="100" parent="101" relname="attribution">то ли сестры опасаются,</segment>
+		<segment id="101" parent="102" relname="span">что в случае сделки с Перри им придется делиться вырученной суммой с епархией,</segment>
+		<segment id="104" parent="106" relname="span">но в итоге они решили настаивать на сделке с Холлистер,</segment>
+		<segment id="105" parent="104" relname="elaboration">которая подумывает организовать там бутик-отель.</segment>
+		<segment id="108" parent="111" relname="cause-effect">Кстати, последние потребовало бы перезонирования территории,</segment>
+		<segment id="109" parent="111" relname="joint">что настораживает соседей,</segment>
+		<segment id="110" parent="111" relname="joint">и они больше болеют за успех Перри.\n\nИсточник: https://www.newsru.com/realty/14Apr2016/katy_perry.html\n</segment>
+		<group id="51" type="multinuc" parent="118" relname="preparation"/>
+		<group id="43" type="span" parent="51" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="49" type="span" parent="44" relname="purpose"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="118" type="span" parent="119" relname="span"/>
+		<group id="56" type="span" parent="117" relname="preparation"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="117" type="span" parent="118" relname="span"/>
+		<group id="61" type="span" parent="116" relname="preparation"/>
+		<group id="60" type="span" parent="61" relname="span"/>
+		<group id="116" type="multinuc" parent="117" relname="span"/>
+		<group id="72" type="multinuc" parent="116" relname="contrast"/>
+		<group id="66" type="multinuc" parent="72" relname="contrast"/>
+		<group id="65" type="multinuc" parent="66" relname="sequence"/>
+		<group id="71" type="span" parent="72" relname="contrast"/>
+		<group id="70" type="multinuc" parent="67" relname="elaboration"/>
+		<group id="115" type="span" parent="116" relname="contrast"/>
+		<group id="75" type="multinuc" parent="115" relname="span"/>
+		<group id="114" type="multinuc" parent="75" relname="elaboration"/>
+		<group id="98" type="multinuc" parent="114" relname="contrast"/>
+		<group id="84" type="multinuc" parent="98" relname="joint"/>
+		<group id="78" type="span" parent="84" relname="joint"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="82" type="span" parent="79" relname="condition"/>
+		<group id="97" type="multinuc" parent="98" relname="joint"/>
+		<group id="96" type="span" parent="97" relname="sequence"/>
+		<group id="95" type="span" parent="86" relname="elaboration"/>
+		<group id="94" type="multinuc" parent="87" relname="elaboration"/>
+		<group id="90" type="span" parent="94" relname="sequence"/>
+		<group id="93" type="multinuc" parent="94" relname="sequence"/>
+		<group id="113" type="span" parent="114" relname="contrast"/>
+		<group id="107" type="multinuc" parent="113" relname="span"/>
+		<group id="103" type="span" parent="107" relname="contrast"/>
+		<group id="102" type="span" parent="99" relname="elaboration"/>
+		<group id="106" type="span" parent="107" relname="contrast"/>
+		<group id="112" type="span" parent="107" relname="elaboration"/>
+		<group id="111" type="multinuc" parent="112" relname="span"/>
+		<group id="119" type="span"/>
+	</body>
+</rst>

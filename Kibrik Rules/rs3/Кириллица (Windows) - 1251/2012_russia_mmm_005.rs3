@@ -1,0 +1,150 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="64" parent="70" relname="joint">Мавроди доставят в суд насильно.</segment>
+		<segment id="65" parent="69" relname="span">Он не согласен и \"исчезает\" до девятого апреля,</segment>
+		<segment id="66" parent="68" relname="span">оставив ВИДЕОобращение\n\nМировой участок Хамовнического суда Москвы постановил принудительно доставить основателя финансовой пирамиды \"МММ\" Сергея Мавроди</segment>
+		<segment id="67" parent="66" relname="purpose">для участия в рассмотрении административных дел против него,</segment>
+		<segment id="71" parent="70" relname="attribution">сообщает \"Интерфакс\".</segment>
+		<segment id="73" parent="77" relname="span">Судья Карина Морозова вынесла соответствующее решение,</segment>
+		<segment id="74" parent="75" relname="cause-effect">поскольку Мавроди, несмотря на надлежащее извещение о процессе,</segment>
+		<segment id="75" parent="76" relname="span">не явился в суд.\n\nО возможности своего отсутствия обвиняемый, в общем-то, предупредил заранее:</segment>
+		<segment id="78" parent="80" relname="joint">прихватив дорогостоящее медоборудование</segment>
+		<segment id="79" parent="80" relname="joint">и покинув Боткинскую больницу,</segment>
+		<segment id="81" parent="83" relname="joint">где лечил сердце,</segment>
+		<segment id="82" parent="83" relname="joint">он передал через своих адвокатов,</segment>
+		<segment id="84" parent="85" relname="span">что обязательно явится 22 марта в суд.</segment>
+		<segment id="87" parent="88" relname="contrast">Но только если позволит здоровье.</segment>
+		<segment id="89" parent="88" relname="interpretation-evaluation">Каково нынешнее самочувствие Сергея Пантелеевича Мавроди, неизвестно.</segment>
+		<segment id="92" parent="100" relname="span">Судить о нем можно лишь по косвенным признакам - например, по свежему видеообращению строителя финансовых пирамид</segment>
+		<segment id="93" parent="97" relname="same-unit">.\n\</segment>
+		<segment id="94" parent="95" relname="interpretation-evaluation">nКак бы то ни было,</segment>
+		<segment id="95" parent="96" relname="span">суд решил перенести рассмотрение дела в последний раз - на пятницу, 30 марта.</segment>
+		<segment id="98" parent="97" relname="elaboration">В этот день приставы обязаны доставить Мавроди на процесс.</segment>
+		<segment id="101" parent="105" relname="sequence">В настоящее время на рассмотрении Хамовнического суда находится административное дело по ч.1 ст.20.25 КоАП (\"Неуплата административного штрафа\") КоАП РФ.</segment>
+		<segment id="102" parent="104" relname="span">По аналогичному делу Мавроди ранее был приговорен к административному аресту,</segment>
+		<segment id="103" parent="102" relname="elaboration">который в минувший понедельник и закончился госпитализацией.</segment>
+		<segment id="106" parent="107" relname="attribution">По данным адвокатов Мавроди,</segment>
+		<segment id="107" parent="108" relname="span">всего в суде ожидают рассмотрения порядка 300 аналогичных исков.</segment>
+		<segment id="109" parent="108" relname="elaboration">Правда, срок давности по ним истекает уже девятого апреля.\n\n\"На войне как на войне\"\n\nВероятно, вчерашний \"побег\" из больницы был элементом плана Мавроди по уклонению от уплаты исковых требований.</segment>
+		<segment id="111" parent="122" relname="attribution">Если ранее его адвокаты заявили прессе,</segment>
+		<segment id="112" parent="116" relname="span">что их клиент попросту решил перебраться в частную клинику,</segment>
+		<segment id="113" parent="114" relname="condition">где условия получше,</segment>
+		<segment id="114" parent="115" relname="span">то сам \"строитель пирамид\" свои коварные планы решил не скрывать.\n\nВ видеозаписи, опубликованной сегодня сторонницей Мавроди, \"десятником\" Татьяной Лагун,</segment>
+		<segment id="117" parent="121" relname="joint">явно излечившийся от недуга</segment>
+		<segment id="118" parent="119" relname="attribution">предприниматель открыто заявляет,</segment>
+		<segment id="119" parent="120" relname="span">что до девятого числа намерен исчезнуть.\n\n\"Ну что, испугались?</segment>
+		<segment id="124" parent="127" relname="solutionhood">Думали, что я уже в Латвию уехал?</segment>
+		<segment id="125" parent="127" relname="span">Просто жизнь такая.</segment>
+		<segment id="126" parent="125" relname="elaboration">Срок истекает девятого марта.</segment>
+		<segment id="129" parent="128" relname="interpretation-evaluation">Блин!</segment>
+		<segment id="134" parent="140" relname="span">Апреля.</segment>
+		<segment id="135" parent="138" relname="cause-effect">По всем этим идиотским делам.</segment>
+		<segment id="136" parent="138" relname="span">Поэтому нужно вести себя разумно.</segment>
+		<segment id="137" parent="136" relname="elaboration">На войне как на войне\",</segment>
+		<segment id="141" parent="142" relname="attribution">- заявляет Мавроди,</segment>
+		<segment id="142" parent="143" relname="span">сидя перед монитором компьютера в неком темном помещении.</segment>
+		<segment id="145" parent="155" relname="span">Где он находится, неясно.</segment>
+		<segment id="146" parent="152" relname="span">Судя по всему, съемка ведется не в его квартире:</segment>
+		<segment id="147" parent="151" relname="joint">за кадром непривычно шумно.\n\nМавроди поясняет,</segment>
+		<segment id="148" parent="150" relname="joint">что до девятого апреля не будет выкладывать видеозаписи</segment>
+		<segment id="149" parent="150" relname="joint">и вообще общаться с поклонниками и вкладчиками.</segment>
+		<segment id="153" parent="152" relname="elaboration">Управлять \"МММ-2011\" в это время будет его заместитель Александр Колбасов.</segment>
+		<segment id="156" parent="157" relname="attribution">При этом Мавроди сообщает,</segment>
+		<segment id="157" parent="158" relname="span">что будет поддерживать связь с руководителями подразделений.</segment>
+		<segment id="159" parent="160" relname="joint">Работа будет строиться, как и раньше.\n\n</segment>
+		<segment id="161" parent="163" relname="joint">\"Всем все выплачивается</segment>
+		<segment id="162" parent="163" relname="joint">и будет дальше платиться.</segment>
+		<segment id="164" parent="163" relname="interpretation-evaluation">Все, что происходит, это временные трудности...</segment>
+		<segment id="166" parent="168" relname="joint">Не грустите,</segment>
+		<segment id="167" parent="168" relname="joint">потерпите\",</segment>
+		<segment id="169" parent="168" relname="attribution">- обещает Мавроди.\n\</segment>
+		<segment id="173" parent="175" relname="joint">nВидимо, еще не зная о решении Хамовнического суда доставить его в зал заседаний насильно</segment>
+		<segment id="174" parent="175" relname="joint">или будучи уверенным в успехе своего плана,</segment>
+		<segment id="176" parent="175" relname="elaboration">основатель \"МММ\" объявляет о \"победе\".</segment>
+		<segment id="178" parent="180" relname="span">Так он решил переименовать бонус,</segment>
+		<segment id="179" parent="178" relname="elaboration">который прежде назывался \"тюремным\".\n\nИсточник: https://www.newsru.com/russia/22Mar2012/mmm.html\n</segment>
+		<group id="72" type="span" parent="187" relname="preparation"/>
+		<group id="70" type="multinuc" parent="72" relname="span"/>
+		<group id="69" type="span" parent="70" relname="joint"/>
+		<group id="68" type="span" parent="65" relname="cause-effect"/>
+		<group id="187" type="multinuc" parent="188" relname="span"/>
+		<group id="91" type="multinuc" parent="187" relname="joint"/>
+		<group id="77" type="span" parent="91" relname="joint"/>
+		<group id="76" type="span" parent="73" relname="cause-effect"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="88" type="multinuc" parent="90" relname="span"/>
+		<group id="86" type="span" parent="88" relname="contrast"/>
+		<group id="80" type="multinuc" parent="86" relname="span"/>
+		<group id="85" type="span" parent="80" relname="elaboration"/>
+		<group id="83" type="multinuc" parent="84" relname="attribution"/>
+		<group id="186" type="span" parent="187" relname="joint"/>
+		<group id="100" type="span" parent="185" relname="preparation"/>
+		<group id="99" type="span" parent="92" relname="elaboration"/>
+		<group id="97" type="multinuc" parent="99" relname="span"/>
+		<group id="96" type="span" parent="97" relname="same-unit"/>
+		<group id="185" type="multinuc" parent="186" relname="span"/>
+		<group id="133" type="multinuc" parent="185" relname="joint"/>
+		<group id="105" type="multinuc" parent="133" relname="joint"/>
+		<group id="104" type="span" parent="105" relname="sequence"/>
+		<group id="132" type="multinuc" parent="133" relname="joint"/>
+		<group id="110" type="span" parent="132" relname="joint"/>
+		<group id="108" type="span" parent="110" relname="span"/>
+		<group id="131" type="span" parent="132" relname="joint"/>
+		<group id="123" type="span" parent="130" relname="solutionhood"/>
+		<group id="122" type="span" parent="123" relname="span"/>
+		<group id="116" type="span" parent="122" relname="span"/>
+		<group id="115" type="span" parent="112" relname="elaboration"/>
+		<group id="121" type="multinuc" parent="116" relname="interpretation-evaluation"/>
+		<group id="120" type="span" parent="121" relname="joint"/>
+		<group id="130" type="span" parent="131" relname="span"/>
+		<group id="128" type="span" parent="130" relname="span"/>
+		<group id="127" type="span" parent="128" relname="span"/>
+		<group id="184" type="span" parent="185" relname="joint"/>
+		<group id="144" type="span" parent="183" relname="preparation"/>
+		<group id="140" type="span" parent="144" relname="span"/>
+		<group id="139" type="span" parent="134" relname="elaboration"/>
+		<group id="138" type="span" parent="139" relname="span"/>
+		<group id="143" type="span" parent="140" relname="attribution"/>
+		<group id="183" type="multinuc" parent="184" relname="span"/>
+		<group id="155" type="span" parent="183" relname="joint"/>
+		<group id="154" type="span" parent="145" relname="evidence"/>
+		<group id="152" type="span" parent="154" relname="span"/>
+		<group id="151" type="multinuc" parent="146" relname="cause-effect"/>
+		<group id="150" type="multinuc" parent="151" relname="joint"/>
+		<group id="182" type="span" parent="183" relname="joint"/>
+		<group id="172" type="multinuc" parent="181" relname="solutionhood"/>
+		<group id="160" type="multinuc" parent="172" relname="joint"/>
+		<group id="158" type="span" parent="160" relname="joint"/>
+		<group id="171" type="span" parent="172" relname="joint"/>
+		<group id="165" type="span" parent="171" relname="span"/>
+		<group id="163" type="multinuc" parent="165" relname="span"/>
+		<group id="170" type="span" parent="165" relname="interpretation-evaluation"/>
+		<group id="168" type="multinuc" parent="170" relname="span"/>
+		<group id="181" type="span" parent="182" relname="span"/>
+		<group id="177" type="span" parent="181" relname="span"/>
+		<group id="175" type="multinuc" parent="177" relname="span"/>
+		<group id="180" type="span" parent="177" relname="elaboration"/>
+		<group id="188" type="span"/>
+	</body>
+</rst>

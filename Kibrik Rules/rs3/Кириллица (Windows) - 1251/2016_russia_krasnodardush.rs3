@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="26" relname="cause-effect">\"Уральские авиалинии\" послали самолет в Душанбе вопреки запрету\n\nСамолет компании \"Уральские авиалинии\" вылетел из Краснодара в столицу Таджикистана Душанбе.</segment>
+		<segment id="26" parent="27" relname="span">Рейс был совершен вопреки запрету Минтранса Таджикистана.</segment>
+		<segment id="28" parent="29" relname="attribution">Как свидетельствует онлайн-табло на сайте таджикского аэропорта,</segment>
+		<segment id="29" parent="30" relname="span">самолет успешно приземлился с двухчасовой задержкой.</segment>
+		<segment id="31" parent="32" relname="joint">Другие запланированные на субботу рейсы из России пока стоят с пометкой \"по расписанию\".</segment>
+		<segment id="33" parent="35" relname="span">На обратный рейс в Краснодар на момент написания заметки открыта регистрация.\n\nНакануне авиавласти Таджикистана отменили рейсы авиакомпании \"Уральские авиалинии\" из четырех городов России, в том числе из Краснодара,</segment>
+		<segment id="34" parent="33" relname="elaboration">в ответ на приостановку полетов \"Сомон Эйр\" в ряд российских регионов.</segment>
+		<segment id="36" parent="38" relname="span">О запрете говорил начальник департамента гражданской авиации Министерства транспорта Таджикистана Юсуф Рахмон.\n\</segment>
+		<segment id="37" parent="36" relname="elaboration">nПри этом в российском Минтрансе,</segment>
+		<segment id="39" parent="40" relname="attribution">а также в авиакомпании заявили,</segment>
+		<segment id="40" parent="41" relname="span">что не получали от авиавластей Таджикистана уведомлений о приостановке полетов.\n\nКак отмечает РИА \"Новости\",</segment>
+		<segment id="42" parent="41" relname="elaboration">субботний рейс U62967 \"Уральских авиалиний\" был отправлен из Краснодара с двухчасовой задержкой:</segment>
+		<segment id="44" parent="46" relname="span">самолет вылетел в 5:21.</segment>
+		<segment id="45" parent="44" relname="elaboration">В 11:00 по местному времени самолет приземлился в Душанбе.\n\nУгроза прекращения авиасообщения возникла из-за несогласия между РФ и Таджикистаном о статусе аэропорта Жуковский.</segment>
+		<segment id="48" parent="65" relname="preparation">Россия считает воздушную гавань подмосковной, Таджикистан - московской.</segment>
+		<segment id="49" parent="51" relname="span">Международные рейсы из всех московских аэропортов должны выполняться согласно двусторонним соглашениям,</segment>
+		<segment id="50" parent="49" relname="elaboration">в которых прописан паритет по количеству назначенных перевозчиков от каждой страны.\n\nВ начале этой недели,</segment>
+		<segment id="52" parent="53" relname="condition">ссылаясь на нарушение паритета,</segment>
+		<segment id="53" parent="54" relname="span">авиавласти Таджикистана отказались согласовать авиакомпании \"Ямал\" вылет из аэропорта Жуковский в Худжанд.</segment>
+		<segment id="56" parent="58" relname="span">Полеты \"Ямала\" нарушили бы паритет по количеству назначенных перевозчиков на выполнение рейсов между РФ и Таджикистаном,</segment>
+		<segment id="57" parent="56" relname="attribution">заявили в Душанбе.</segment>
+		<segment id="60" parent="63" relname="attribution">Минтранс в свою очередь заявил</segment>
+		<segment id="61" parent="62" relname="attribution">20 декабря о попытках Таджикистана пересмотреть действующие договоренности по авиасообщению.\n\nПресса писала,</segment>
+		<segment id="62" parent="63" relname="span">что накануне в Москву прибыла правительственная комиссия под руководством начальника управления гражданской авиации Министерства Республики Таджикистан Юсуфа Рахмона для переговоров.\n\nИсточник: https://www.newsru.com/russia/24Dec2016/krasnodardush.html\n</segment>
+		<group id="27" type="span" parent="70" relname="preparation"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="32" type="multinuc" parent="70" relname="joint"/>
+		<group id="30" type="span" parent="32" relname="joint"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="35" type="span" parent="69" relname="joint"/>
+		<group id="68" type="multinuc" parent="69" relname="joint"/>
+		<group id="38" type="span" parent="68" relname="joint"/>
+		<group id="67" type="multinuc" parent="68" relname="joint"/>
+		<group id="47" type="multinuc" parent="67" relname="joint"/>
+		<group id="43" type="span" parent="47" relname="sequence"/>
+		<group id="41" type="span" parent="43" relname="span"/>
+		<group id="46" type="span" parent="47" relname="sequence"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="59" type="multinuc" parent="65" relname="joint"/>
+		<group id="55" type="multinuc" parent="59" relname="joint"/>
+		<group id="51" type="span" parent="55" relname="same-unit"/>
+		<group id="54" type="span" parent="55" relname="same-unit"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="64" type="span" parent="65" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="71" type="span"/>
+	</body>
+</rst>

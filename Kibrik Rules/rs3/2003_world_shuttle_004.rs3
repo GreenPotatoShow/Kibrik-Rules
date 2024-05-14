@@ -1,0 +1,56 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="27" relname="joint">В Конгрессе США начинаются слушания о трагедии шаттла Columbia\n\nВ Конгрессе США сегодня начинаются слушания о трагедии космического корабля Columbia.</segment>
+		<segment id="22" parent="26" relname="contrast">Никто не рассчитывает на то, что американские законодатели установят точные причины гибели шаттла с семью астронавтами на борту.\n\</segment>
+		<segment id="23" parent="25" relname="joint">nОднако члены комитетов по науке сената и палаты представителей собираются подробно разобраться с обстоятельствами катастрофы</segment>
+		<segment id="24" parent="25" relname="joint">и проанализировать в целом программу NASA \"Space shuttle\".</segment>
+		<segment id="28" parent="48" relname="joint">Более того, они намереваются заглянуть гораздо глубже в планы NASA по изучению космического пространства на перспективу.\n\nВ ближайшее время полномасштабный анализ политики США в области освоения космоса собирается провести также Совет национальной безопасности при Белом доме.</segment>
+		<segment id="29" parent="35" relname="span">Цель законодателей и администрации - ответить на поставленный уже многие годы назад вопрос:</segment>
+		<segment id="30" parent="34" relname="joint">по какому пути должна развиваться программа пилотируемых полетов в эпоху после шаттлов,</segment>
+		<segment id="31" parent="33" relname="joint">передает РИА \"Новости\".\n\nИными словами, следует ли ставить более смелые задачи освоения дальнего космоса</segment>
+		<segment id="32" parent="33" relname="joint">или же резко сократить роль астронавтов в космических исследованиях.</segment>
+		<segment id="36" parent="38" relname="span">От ответа на этот вопрос во многом зависит будущее Международной космической станции и перспективы полет человека к другим планетам и, в первую очередь, к Марсу.\n\nГлава комиссии по расследованию катастрофы шаттла в США уверен,</segment>
+		<segment id="37" parent="36" relname="cause-effect">что причину трагедии удастся установить\n\</segment>
+		<segment id="39" parent="43" relname="span">nРуководитель американской правительственной комиссии по расследованию обстоятельств катастрофы шаттла Columbia Гарольд Геман уверен в том, что причины трагедии удастся установить.</segment>
+		<segment id="40" parent="42" relname="span">Об этом он заявил во вторник на пресс-конференции на мысе Канаверал,</segment>
+		<segment id="41" parent="40" relname="background">где расположены космодром и Космический центр имени Кеннеди,</segment>
+		<segment id="44" parent="43" relname="attribution">сообщает ИТАР-ТАСС.\n\</segment>
+		<segment id="50" parent="51" relname="attribution">nПо словам Гемана,</segment>
+		<segment id="51" parent="52" relname="span">следователям предстоит создать \"стереоскопическую мозаику\" последних минут полета шаттла из полученных фотографий, видеозаписей, показателей радаров и других данных, связанных с катастрофой космического челнока, произошедшей 1 февраля.\n\</segment>
+		<segment id="53" parent="54" relname="attribution">nПо имеющейся у Комиссии информации,</segment>
+		<segment id="54" parent="55" relname="span">шаттл начал разрушаться над западом США западнее города Форт-уорт (штат Техас),</segment>
+		<segment id="56" parent="57" relname="joint">и обнаруженные в этом районе обломки Columbia могут навести экспертов на версии о причинах трагедии.\n\nВсего на данный момент собрано более 12 тысяч фрагментов космического корабля.\n\nИсточник: https://www.newsru.com/world/12Feb2003/shuttle.html\n</segment>
+		<group id="49" type="multinuc" parent="58" relname="solutionhood"/>
+		<group id="27" type="multinuc" parent="49" relname="joint"/>
+		<group id="26" type="multinuc" parent="27" relname="joint"/>
+		<group id="25" type="multinuc" parent="26" relname="contrast"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="35" type="span" parent="47" relname="joint"/>
+		<group id="34" type="multinuc" parent="29" relname="purpose"/>
+		<group id="33" type="multinuc" parent="34" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="38" type="span" parent="46" relname="joint"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="42" type="span" parent="39" relname="attribution"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="52" type="span" parent="58" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="55" type="span" parent="57" relname="joint"/>
+		<group id="59" type="span"/>
+	</body>
+</rst>

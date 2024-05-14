@@ -1,0 +1,31 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="10" parent="12" relname="span">МВФ будет рассматривать вопрос о кредитах России не раньше ноября\n\nЗаседание совета директоров МВФ,</segment>
+		<segment id="11" parent="10" relname="elaboration">на котором должен быть решен вопрос о выдаче кредитов России,</segment>
+		<segment id="13" parent="12" relname="interpretation-evaluation">вряд ли состоятся до начала ноября.</segment>
+		<segment id="15" parent="16" relname="attribution">Об этом сегодня пишет британская Financial Times.\n\nПо данным газеты,</segment>
+		<segment id="16" parent="17" relname="span">решение МВФ тормозится спором вокруг условий проведения аудита Сбербанка.</segment>
+		<segment id="19" parent="21" relname="span">Кроме того, Фонд ожидает итогов нового расследования отношений между Банком России и его зарубежными отделениями,</segment>
+		<segment id="20" parent="19" relname="elaboration">которое проводится аудиторами компании Pricewaterhouse Coopers.\n\</segment>
+		<segment id="22" parent="23" relname="attribution">nНакануне глава Банка России Виктор Геращенко заявил,</segment>
+		<segment id="23" parent="24" relname="span">что Россия до конца текущего года и, скорее всего, и в следующем году не сможет рассчитывать на займы МВФ.\n\nИсточник: https://www.newsru.com/world/22Sep2000/mvf.html\n</segment>
+		<group id="18" type="span" parent="26" relname="joint"/>
+		<group id="14" type="span" parent="18" relname="span"/>
+		<group id="12" type="span" parent="14" relname="span"/>
+		<group id="17" type="span" parent="14" relname="attribution"/>
+		<group id="25" type="span" parent="26" relname="joint"/>
+		<group id="21" type="span" parent="25" relname="span"/>
+		<group id="24" type="span" parent="21" relname="elaboration"/>
+		<group id="26" type="multinuc"/>
+	</body>
+</rst>

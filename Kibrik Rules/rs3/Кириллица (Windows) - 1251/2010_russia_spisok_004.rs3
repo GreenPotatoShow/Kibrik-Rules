@@ -1,0 +1,267 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="124" parent="128" relname="joint">СМИ выяснили еще двух кандидатов на \"шпионский\" обмен\n\nКроме ученого Игоря Сутягина и экс-полковника ГРУ Сергея Скрипаля, в \"обменный\" список на пойманных недавно в США русских агентов,</segment>
+		<segment id="125" parent="127" relname="span">могут добавиться бывший сотрудник СВР Александр Запорожский,</segment>
+		<segment id="126" parent="125" relname="background">осужденный за шпионаж на 18 лет в 2003 году,</segment>
+		<segment id="129" parent="131" relname="span">и агент ЦРУ Александр Сыпачев,</segment>
+		<segment id="130" parent="129" relname="background">получивший в 2002 году 8-летний срок,</segment>
+		<segment id="132" parent="133" relname="same-unit">пишет газета \"Коммерсант\" со ссылкой на источники в спецслужбах.\n\nМежду тем газете не удалось получить подтверждения этой информации.</segment>
+		<segment id="135" parent="143" relname="joint">Связаться с представителями Запорожского не получилось,</segment>
+		<segment id="136" parent="139" relname="attribution">а адвокат Сыпачева уверенно заявил,</segment>
+		<segment id="137" parent="139" relname="span">что его подзащитный ни на какие сделки не пойдет.\n\n- Родные Сутягина:</segment>
+		<segment id="138" parent="137" relname="elaboration">Ученый согласился признать свою вину только</segment>
+		<segment id="141" parent="140" relname="elaboration">ради спасения 10 агентов от тюрьмы\n- Самый известный \"обменянный\" заключенный Буковский недоумевает: похоже на фарс и абсурд\n\</segment>
+		<segment id="144" parent="153" relname="attribution">nПо данным издания,</segment>
+		<segment id="147" parent="153" relname="joint">физик Валентин Данилов (осужден на 14 лет за передачу секретных сведений Китаю)</segment>
+		<segment id="148" parent="150" relname="sequence">и бывший гендиректор ЗАО \"ЦНИИМАШ-Экспорт\", академик Академии космонавтики Игорь Решетин</segment>
+		<segment id="149" parent="150" relname="sequence">(приговорен к 11,5 года заключения за незаконную передачу Китаю технологий двойного назначения),</segment>
+		<segment id="151" parent="152" relname="same-unit">в обмене не участвуют.\n\</segment>
+		<segment id="156" parent="157" relname="attribution">nКак пояснила адвокат Игоря Сутягина Анна Ставицкая,</segment>
+		<segment id="157" parent="158" relname="span">процедура обмена фигурантами шпионских дел нигде не прописана.</segment>
+		<segment id="159" parent="164" relname="interpretation-evaluation">Очевидно,</segment>
+		<segment id="160" parent="163" relname="attribution">считает она,</segment>
+		<segment id="161" parent="162" relname="condition">после признания вины обмениваемыми,</segment>
+		<segment id="162" parent="163" relname="span">они должны обратиться к президенту РФ,</segment>
+		<segment id="168" parent="169" relname="joint">а тот должен издать, в соответствии с 89-й статьей Конституции, указ об их помиловании.</segment>
+		<segment id="171" parent="173" relname="joint">На сайте президента Дмитрия Медведева указ о помиловании накануне опубликован не был,</segment>
+		<segment id="172" parent="173" relname="joint">а пресс-секретарь президента Наталья Тимакова от каких-либо комментариев по данному поводу воздержалась.</segment>
+		<segment id="174" parent="178" relname="span">Тем не менее планируется, что обмен шпионами будет произведен уже сегодня.\n\n\"В четверг,</segment>
+		<segment id="175" parent="176" relname="attribution">как сообщили Игорю,</segment>
+		<segment id="176" parent="177" relname="span">его и других участников обмена самолетом отправят в Вену</segment>
+		<segment id="179" parent="178" relname="attribution">,- рассказала газете мать Игоря Сутягина Светлана.</segment>
+		<segment id="182" parent="184" relname="span">- Там его встретят сотрудники британских спецслужб,</segment>
+		<segment id="183" parent="182" relname="elaboration">с которыми он затем полетит в Лондон\".</segment>
+		<segment id="187" parent="198" relname="preparation">По каким странам из Австрии развезут других фигурантов сделки спецслужб, не известно.</segment>
+		<segment id="188" parent="197" relname="attribution">Сутягина отметила,</segment>
+		<segment id="189" parent="197" relname="sequence">что одному из родственников разрешили проводить Игоря Сутягина до Вены.\n\nПредставители властей США, как и их российские коллеги,</segment>
+		<segment id="190" parent="196" relname="contrast">накануне категорически отказались комментировать возможный обмен шпионами.</segment>
+		<segment id="191" parent="194" relname="attribution">Однако источник газеты, близкий к Госдепартаменту США, сообщил,</segment>
+		<segment id="192" parent="194" relname="span">что в среду состоялась встреча заместителя госсекретаря Уильяма Бернса с послом России в США Сергеем Кисляком,</segment>
+		<segment id="193" parent="192" relname="elaboration">на которой могли обсуждаться детали обмена.\n\nВо всяком случае после этого суд в Арлингтоне (штат Вирджиния) без объяснений отменил назначенные на среду дополнительные слушания по делу арестованных Майкла Зоттоли, Патрисии Миллс и Михаила Семенко.</segment>
+		<segment id="201" parent="202" relname="span">Аналогичное решение принял суд и в Бостоне, рассматривающий дело Дональда Хитфилда и Трейси Ли Энн Фоли.</segment>
+		<segment id="203" parent="211" relname="same-unit">Все пятеро,</segment>
+		<segment id="204" parent="209" relname="attribution">согласно заявлению прокуратуры,</segment>
+		<segment id="205" parent="209" relname="joint">были затем переведены в Нью-Йорк</segment>
+		<segment id="206" parent="208" relname="span">и размещены в тюрьме MCC на Манхэттене и DCC в Бруклине,</segment>
+		<segment id="207" parent="206" relname="background">где содержатся другие арестованные в ходе последнего шпионского скандала в США.</segment>
+		<segment id="212" parent="215" relname="attribution">Как заявил \"Коммерсанту\" один из адвокатов,</segment>
+		<segment id="213" parent="215" relname="span">уже в четверг произойдет \"событие, которое кардинально повлияет на ход дела\".\n\nКак сообщает \"Эхо Москвы\",</segment>
+		<segment id="214" parent="213" relname="elaboration">в четверг, 8 июля, десять арестованных властями США фигурантов \"шпионского дела\" явятся в федеральный суд южного округа США в Нью-Йорке.</segment>
+		<segment id="217" parent="216" relname="elaboration">Там им будут официально предъявлены обвинения.\n\</segment>
+		<segment id="220" parent="222" relname="span">nНакануне федеральная прокуратура представила обвинительное заключение,</segment>
+		<segment id="221" parent="220" relname="elaboration">в котором подозреваемые обвиняются в \"преступном сговоре с целью действовать в качестве тайных агентов правительства Российской Федерации\", а также в отмывании денег.</segment>
+		<segment id="223" parent="227" relname="span">В обвинительном заключении названы имена 11 человек,</segment>
+		<segment id="224" parent="226" relname="span">один из которых - Кристофер Метсос</segment>
+		<segment id="225" parent="224" relname="background">– находится в розыске.</segment>
+		<segment id="228" parent="234" relname="span">Арестованные же предстанут перед федеральным окружным судьей Кимбой Вуд.</segment>
+		<segment id="229" parent="233" relname="joint">Им будут зачитаны инкриминируемые обвинения,</segment>
+		<segment id="230" parent="232" relname="joint">после чего каждый из них должен будет сказать,</segment>
+		<segment id="231" parent="232" relname="joint">признает ли он себя виновным или нет.\n\</segment>
+		<segment id="237" parent="242" relname="attribution">nКак сообщало накануне агентство Reuters,</segment>
+		<segment id="238" parent="241" relname="attribution">сделка предусматривает,</segment>
+		<segment id="239" parent="241" relname="joint">что задержанные в США признают свою вину</segment>
+		<segment id="240" parent="241" relname="joint">и после этого будут высланы в Россию.\n\</segment>
+		<segment id="244" parent="246" relname="span">nНесмотря на то что обмен шпионами считается рудиментом холодной войны</segment>
+		<segment id="245" parent="244" relname="elaboration">(о подобных фактах за историю современной России никогда еще не сообщалось),</segment>
+		<segment id="247" parent="251" relname="same-unit">в данном случае,</segment>
+		<segment id="248" parent="249" relname="attribution">как полагают многие наблюдатели в США,</segment>
+		<segment id="249" parent="250" relname="span">наоборот, это не будет противоречить начатой недавно \"перезагрузке\" отношений США и России.</segment>
+		<segment id="253" parent="257" relname="span">Наоборот, обмен,</segment>
+		<segment id="254" parent="255" relname="condition">если он состоится,</segment>
+		<segment id="255" parent="256" relname="span">возможно, будет признан одним из признаков этой \"перезагрузки\",</segment>
+		<segment id="258" parent="259" relname="joint">пишет газета \"Время новостей\".\n\nНе исключено, что \"полноценный\" судебный процесс над \"русскими шпионами\" не на руку и собственно американским спецслужбам,</segment>
+		<segment id="260" parent="262" relname="comparison">поскольку на нем подробно и публично разбирались бы все нюансы их специфической работы,</segment>
+		<segment id="261" parent="262" relname="comparison">о чем разведки и контрразведки всех стран традиционно распространяться не любят,</segment>
+		<segment id="263" parent="264" relname="joint">отмечает издание.\n\nВнешне наиболее \"пострадавшей\" стороной в случае обмена шпионов, окажется, конечно, российская сторона и, в частности, СВР.</segment>
+		<segment id="268" parent="271" relname="attribution">Ведь формально получается, что тогда Россия признает,</segment>
+		<segment id="269" parent="271" relname="span">что арестованы именно кадровые разведчики</segment>
+		<segment id="270" parent="269" relname="elaboration">(не будут же наши власти менять случайных людей на осужденных за госизмену),</segment>
+		<segment id="273" parent="283" relname="joint">а, значит, мы продолжали \"недружественно\" шпионить за США.\n\</segment>
+		<segment id="274" parent="282" relname="span">nПопутно будут посрамлены те политики и аналитики,</segment>
+		<segment id="275" parent="280" relname="attribution">кто полагал,</segment>
+		<segment id="276" parent="280" relname="joint">что всю историю со \"шпионской сетью\" выдумали некие злобные американские политики и спецслужбы США,</segment>
+		<segment id="277" parent="279" relname="joint">желающие расстроить сближение России и США</segment>
+		<segment id="278" parent="279" relname="joint">и \"подставить\" Бараку Обаму.</segment>
+		<segment id="285" parent="287" relname="span">Кроме того, это будет фактически означать и один из самых масштабных провалов в современной истории российской разведки,</segment>
+		<segment id="286" parent="285" relname="attribution">считает газета.\n\nРодные Сутягина:</segment>
+		<segment id="288" parent="295" relname="attribution">Ученый согласился</segment>
+		<segment id="289" parent="295" relname="same-unit">признать свою вину только</segment>
+		<segment id="290" parent="294" relname="span">ради спасения 10 агентов от тюрьмы\n\</segment>
+		<segment id="291" parent="292" relname="attribution">nКак рассказала журналистам адвокат Игоря Сутягина Анна Ставицкая,</segment>
+		<segment id="292" parent="293" relname="span">тот добровольно согласился на обмен,</segment>
+		<segment id="297" parent="306" relname="attribution">но подчеркнул,</segment>
+		<segment id="298" parent="306" relname="joint">что не согласиться не мог.</segment>
+		<segment id="299" parent="304" relname="attribution">Адвокат также отметила,</segment>
+		<segment id="300" parent="304" relname="span">что ее подзащитный просил передать,</segment>
+		<segment id="301" parent="302" relname="attribution">\"чтобы все отдавали себе отчет,</segment>
+		<segment id="302" parent="303" relname="span">что он не совершал это преступление\".\n\</segment>
+		<segment id="311" parent="316" relname="attribution">nУченый рассказал родным,</segment>
+		<segment id="312" parent="315" relname="attribution">что ему объяснили,</segment>
+		<segment id="313" parent="314" relname="condition">что если кто-то из участников готовящегося обмена откажется от выезда,</segment>
+		<segment id="314" parent="315" relname="span">то задержанные в США люди отправятся в тюрьму.</segment>
+		<segment id="318" parent="321" relname="cause-effect">Отсидев в колонии больше 10 лет,</segment>
+		<segment id="319" parent="321" relname="joint">Сутягин не захотел своим отказом обрекать других людей на заключение</segment>
+		<segment id="320" parent="321" relname="joint">и согласился участвовать в сделке.\n\</segment>
+		<segment id="324" parent="327" relname="attribution">nПо словам Ставицкой,</segment>
+		<segment id="325" parent="327" relname="joint">признание вины ее подзащитным было обязательным условием</segment>
+		<segment id="326" parent="327" relname="joint">и, скорее всего, нужно было для того, чтобы придать всей этой истории официальную форму.</segment>
+		<segment id="330" parent="351" relname="attribution">По ее мнению,</segment>
+		<segment id="331" parent="347" relname="sequence">теперь он может быть официально помилован,</segment>
+		<segment id="332" parent="346" relname="joint">после чего его высылка будет выглядеть как добровольная просьба об отъезде в Великобританию.</segment>
+		<segment id="333" parent="344" relname="attribution">Адвокат также отметила,</segment>
+		<segment id="334" parent="344" relname="span">что ученый сейчас находится в состоянии депрессии</segment>
+		<segment id="335" parent="343" relname="same-unit">из-за того,</segment>
+		<segment id="336" parent="342" relname="joint">что ему пришлось признать себя виновным в том, чего он не совершал.\n\</segment>
+		<segment id="337" parent="341" relname="same-unit">nПо словам родных,</segment>
+		<segment id="338" parent="339" relname="condition">если до недавнего времени Игорю Сутягину нужно было просто отсидеть оставшиеся по приговору 4,5 года,</segment>
+		<segment id="339" parent="340" relname="span">то теперь он оказался в \"подвешенном\" состоянии.</segment>
+		<segment id="348" parent="347" relname="elaboration">В Англии у него нет ни родных, ни знакомых, ни места жительства, ни гарантий безопасности,</segment>
+		<segment id="350" parent="351" relname="joint">и рассчитывать ему там пока не на кого.</segment>
+		<segment id="353" parent="356" relname="attribution">По словам матери,</segment>
+		<segment id="354" parent="356" relname="joint">он надеется найти себе работу</segment>
+		<segment id="355" parent="356" relname="joint">и оттуда помогать посильно семье.\n\nИсточник: https://www.newsru.com/russia/08Jul2010/spisok.html\n</segment>
+		<group id="134" type="multinuc" parent="368" relname="joint"/>
+		<group id="128" type="multinuc" parent="134" relname="sequence"/>
+		<group id="127" type="span" parent="128" relname="joint"/>
+		<group id="133" type="multinuc" parent="134" relname="sequence"/>
+		<group id="131" type="span" parent="133" relname="same-unit"/>
+		<group id="367" type="multinuc" parent="368" relname="joint"/>
+		<group id="155" type="multinuc" parent="367" relname="joint"/>
+		<group id="143" type="multinuc" parent="155" relname="joint"/>
+		<group id="142" type="span" parent="143" relname="joint"/>
+		<group id="140" type="span" parent="142" relname="span"/>
+		<group id="139" type="span" parent="140" relname="span"/>
+		<group id="154" type="span" parent="155" relname="joint"/>
+		<group id="153" type="multinuc" parent="154" relname="span"/>
+		<group id="152" type="multinuc" parent="153" relname="joint"/>
+		<group id="150" type="multinuc" parent="152" relname="same-unit"/>
+		<group id="366" type="multinuc" parent="367" relname="joint"/>
+		<group id="170" type="multinuc" parent="366" relname="joint"/>
+		<group id="158" type="span" parent="170" relname="joint"/>
+		<group id="169" type="multinuc" parent="170" relname="joint"/>
+		<group id="165" type="span" parent="169" relname="joint"/>
+		<group id="164" type="span" parent="165" relname="span"/>
+		<group id="163" type="span" parent="164" relname="span"/>
+		<group id="365" type="multinuc" parent="366" relname="joint"/>
+		<group id="181" type="multinuc" parent="365" relname="joint"/>
+		<group id="173" type="multinuc" parent="181" relname="contrast"/>
+		<group id="180" type="span" parent="181" relname="contrast"/>
+		<group id="178" type="span" parent="180" relname="span"/>
+		<group id="177" type="span" parent="174" relname="elaboration"/>
+		<group id="364" type="multinuc" parent="365" relname="joint"/>
+		<group id="202" type="span" parent="364" relname="joint"/>
+		<group id="200" type="multinuc" parent="201" relname="solutionhood"/>
+		<group id="184" type="span" parent="200" relname="joint"/>
+		<group id="199" type="span" parent="200" relname="joint"/>
+		<group id="198" type="span" parent="199" relname="span"/>
+		<group id="197" type="multinuc" parent="198" relname="span"/>
+		<group id="196" type="multinuc" parent="197" relname="sequence"/>
+		<group id="195" type="span" parent="196" relname="contrast"/>
+		<group id="194" type="span" parent="195" relname="span"/>
+		<group id="363" type="multinuc" parent="364" relname="joint"/>
+		<group id="219" type="multinuc" parent="363" relname="joint"/>
+		<group id="211" type="multinuc" parent="219" relname="joint"/>
+		<group id="210" type="span" parent="211" relname="same-unit"/>
+		<group id="209" type="multinuc" parent="210" relname="span"/>
+		<group id="208" type="span" parent="209" relname="joint"/>
+		<group id="218" type="span" parent="219" relname="joint"/>
+		<group id="216" type="span" parent="218" relname="span"/>
+		<group id="215" type="span" parent="216" relname="span"/>
+		<group id="362" type="multinuc" parent="363" relname="joint"/>
+		<group id="236" type="span" parent="362" relname="joint"/>
+		<group id="222" type="span" parent="236" relname="span"/>
+		<group id="235" type="span" parent="222" relname="elaboration"/>
+		<group id="227" type="span" parent="235" relname="span"/>
+		<group id="226" type="span" parent="223" relname="elaboration"/>
+		<group id="234" type="span" parent="227" relname="elaboration"/>
+		<group id="233" type="multinuc" parent="228" relname="elaboration"/>
+		<group id="232" type="multinuc" parent="233" relname="joint"/>
+		<group id="361" type="multinuc" parent="362" relname="joint"/>
+		<group id="267" type="multinuc" parent="361" relname="joint"/>
+		<group id="243" type="span" parent="267" relname="joint"/>
+		<group id="242" type="span" parent="243" relname="span"/>
+		<group id="241" type="multinuc" parent="242" relname="span"/>
+		<group id="266" type="multinuc" parent="267" relname="joint"/>
+		<group id="252" type="span" parent="266" relname="joint"/>
+		<group id="246" type="span" parent="252" relname="span"/>
+		<group id="251" type="multinuc" parent="246" relname="evidence"/>
+		<group id="250" type="span" parent="251" relname="same-unit"/>
+		<group id="265" type="span" parent="266" relname="joint"/>
+		<group id="259" type="multinuc" parent="265" relname="span"/>
+		<group id="257" type="span" parent="259" relname="joint"/>
+		<group id="256" type="span" parent="253" relname="condition"/>
+		<group id="264" type="multinuc" parent="259" relname="cause-effect"/>
+		<group id="262" type="multinuc" parent="264" relname="joint"/>
+		<group id="360" type="multinuc" parent="361" relname="joint"/>
+		<group id="310" type="multinuc" parent="360" relname="joint"/>
+		<group id="284" type="multinuc" parent="310" relname="joint"/>
+		<group id="272" type="span" parent="284" relname="joint"/>
+		<group id="271" type="span" parent="272" relname="span"/>
+		<group id="283" type="multinuc" parent="284" relname="joint"/>
+		<group id="282" type="span" parent="283" relname="joint"/>
+		<group id="281" type="span" parent="274" relname="elaboration"/>
+		<group id="280" type="multinuc" parent="281" relname="span"/>
+		<group id="279" type="multinuc" parent="280" relname="joint"/>
+		<group id="309" type="span" parent="310" relname="joint"/>
+		<group id="287" type="span" parent="309" relname="span"/>
+		<group id="308" type="multinuc" parent="287" relname="evidence"/>
+		<group id="296" type="span" parent="308" relname="contrast"/>
+		<group id="295" type="multinuc" parent="296" relname="span"/>
+		<group id="294" type="span" parent="295" relname="same-unit"/>
+		<group id="293" type="span" parent="290" relname="attribution"/>
+		<group id="307" type="span" parent="308" relname="contrast"/>
+		<group id="306" type="multinuc" parent="307" relname="span"/>
+		<group id="305" type="span" parent="306" relname="joint"/>
+		<group id="304" type="span" parent="305" relname="span"/>
+		<group id="303" type="span" parent="300" relname="purpose"/>
+		<group id="359" type="multinuc" parent="360" relname="joint"/>
+		<group id="329" type="span" parent="359" relname="joint"/>
+		<group id="323" type="multinuc" parent="329" relname="span"/>
+		<group id="317" type="span" parent="323" relname="joint"/>
+		<group id="316" type="span" parent="317" relname="span"/>
+		<group id="315" type="span" parent="316" relname="span"/>
+		<group id="322" type="span" parent="323" relname="joint"/>
+		<group id="321" type="multinuc" parent="322" relname="span"/>
+		<group id="328" type="span" parent="323" relname="interpretation-evaluation"/>
+		<group id="327" type="multinuc" parent="328" relname="span"/>
+		<group id="358" type="multinuc" parent="359" relname="joint"/>
+		<group id="352" type="span" parent="358" relname="joint"/>
+		<group id="351" type="multinuc" parent="352" relname="span"/>
+		<group id="349" type="span" parent="351" relname="joint"/>
+		<group id="347" type="multinuc" parent="349" relname="span"/>
+		<group id="346" type="multinuc" parent="347" relname="sequence"/>
+		<group id="345" type="span" parent="346" relname="joint"/>
+		<group id="344" type="span" parent="345" relname="span"/>
+		<group id="343" type="multinuc" parent="334" relname="cause-effect"/>
+		<group id="342" type="multinuc" parent="343" relname="same-unit"/>
+		<group id="341" type="multinuc" parent="342" relname="joint"/>
+		<group id="340" type="span" parent="341" relname="same-unit"/>
+		<group id="357" type="span" parent="358" relname="joint"/>
+		<group id="356" type="multinuc" parent="357" relname="span"/>
+		<group id="368" type="multinuc"/>
+	</body>
+</rst>

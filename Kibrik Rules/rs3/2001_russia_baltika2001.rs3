@@ -1,0 +1,32 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="10" parent="25" relname="preparation">Сегодня суд рассмотрит иск \"Балтики\" к главному санитарному врачу\n\nМосковский арбитражный суд планирует рассмотреть сегодня иск пивоваренной компании \"Балтика\" к главному санитарному врачу России Геннадию Онищенко.</segment>
+		<segment id="11" parent="13" relname="span">Пивовары просят суд взыскать с Онищенко 2 тыс. рублей в качестве компенсации за ущерб, причиненный, по их утверждению,</segment>
+		<segment id="12" parent="11" relname="attribution">его постановлением от 20 марта текущего года.\n\</segment>
+		<segment id="14" parent="17" relname="attribution">nВ этом постановлении главный санитарный врач предлагал</segment>
+		<segment id="15" parent="17" relname="joint">ужесточить санитарный контроль за производством пива</segment>
+		<segment id="16" parent="17" relname="joint">и ограничить содержание в нем алкоголя.</segment>
+		<segment id="20" parent="21" relname="attribution">По мнению Онищенко,</segment>
+		<segment id="21" parent="22" relname="span">эта мера необходима в связи с ростом потребления пива в стране и угрозой пивного алкоголизма.</segment>
+		<segment id="23" parent="24" relname="sequence">Позднее Онищенко отменил свое постановление.\n\nИсточник: https://www.newsru.com/russia/05Jun2001/baltika2001.html\n</segment>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="19" type="multinuc" parent="25" relname="span"/>
+		<group id="13" type="span" parent="19" relname="joint"/>
+		<group id="18" type="span" parent="19" relname="joint"/>
+		<group id="17" type="multinuc" parent="18" relname="span"/>
+		<group id="24" type="multinuc" parent="19" relname="interpretation-evaluation"/>
+		<group id="22" type="span" parent="24" relname="sequence"/>
+		<group id="26" type="span"/>
+	</body>
+</rst>

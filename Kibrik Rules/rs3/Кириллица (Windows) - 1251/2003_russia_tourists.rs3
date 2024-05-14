@@ -1,0 +1,44 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="18" relname="span">Группа израильских туристов пропала</segment>
+		<segment id="17" parent="16" relname="condition">при восхождении на вулканы Камчатки\n\nГруппа израильских туристов пропала в районе вулкана Толбачик на Камчатке,</segment>
+		<segment id="19" parent="18" relname="attribution">сообщает РИА \"Новости\".\n\nКак сообщил представитель туристической компании \"Или-Трэвол\",</segment>
+		<segment id="21" parent="23" relname="span">организовывавшей тур на Камчатке,</segment>
+		<segment id="22" parent="21" relname="elaboration">15 туристов из Израиля,</segment>
+		<segment id="24" parent="23" relname="elaboration">совершавших восхождение на вулканы Толбачик и Безымянный,</segment>
+		<segment id="26" parent="27" relname="span">в полдень в воскресенье в назначенное для встречи место не явились.</segment>
+		<segment id="28" parent="30" relname="span">Контрольное время ожидания истекло в понедельник.</segment>
+		<segment id="29" parent="28" relname="elaboration">В районе вулканов в настоящее время идет сильный снег.\n\nТуристов сопровождают шесть россиян.</segment>
+		<segment id="33" parent="41" relname="span">Рацией и спутниковым телефоном группа не оснащена.\n\</segment>
+		<segment id="34" parent="35" relname="attribution">nПо словам представителя турфирмы,</segment>
+		<segment id="35" parent="36" relname="span">маршрут в главном управлении по делам ГО и ЧС Камчатской области не зарегистрирован.</segment>
+		<segment id="37" parent="39" relname="span">Турфирма пока не обращалась в областное ГО и ЧС за помощью,</segment>
+		<segment id="38" parent="37" relname="attribution">сказала представитель туристической компании.\n\nС израильской стороны туристическую поездку обеспечивала компания \"Аялла-групп\".</segment>
+		<segment id="42" parent="43" relname="joint">Руководство компании \"Или-Трэвол\" планирует во вторник обратиться к одной из камчатских авиакомпаний с просьбой предоставить для поисков вертолет.\n\nИсточник: https://www.newsru.com/russia/25Aug2003/tourists.html\n</segment>
+		<group id="32" type="multinuc" parent="44" relname="joint"/>
+		<group id="20" type="span" parent="32" relname="joint"/>
+		<group id="18" type="span" parent="20" relname="span"/>
+		<group id="31" type="multinuc" parent="32" relname="joint"/>
+		<group id="27" type="span" parent="31" relname="joint"/>
+		<group id="25" type="span" parent="26" relname="cause-effect"/>
+		<group id="23" type="span" parent="25" relname="span"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="43" type="multinuc" parent="44" relname="joint"/>
+		<group id="41" type="span" parent="43" relname="joint"/>
+		<group id="40" type="span" parent="33" relname="elaboration"/>
+		<group id="36" type="span" parent="40" relname="span"/>
+		<group id="39" type="span" parent="36" relname="elaboration"/>
+		<group id="44" type="multinuc"/>
+	</body>
+</rst>

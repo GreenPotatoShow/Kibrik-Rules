@@ -1,0 +1,58 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="solutionhood" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="24" relname="span">Хоккеист Алексей Яшин продает свой особняк в Нью-Йорке</segment>
+		<segment id="23" parent="22" relname="cause-effect">за $11 млн\n\</segment>
+		<segment id="25" parent="29" relname="span">nТо, что российский хоккеист Алексей Яшин больше не будет играть в Нью-Йорке,</segment>
+		<segment id="26" parent="27" relname="attribution">подтверждает тот факт,</segment>
+		<segment id="27" parent="28" relname="span">что форвард на днях выставил на продажу свой дом-замок в нью-йоркском пригороде Олд Вестбури.</segment>
+		<segment id="31" parent="34" relname="solutionhood">Цена вопроса ?</segment>
+		<segment id="34" parent="35" relname="span">11 млн долларов, сообщает \"Советский спорт\".\n\nПлощадь дома ?</segment>
+		<segment id="36" parent="37" relname="span">855 кв. метров.</segment>
+		<segment id="38" parent="60" relname="joint">Земля под особняк ?</segment>
+		<segment id="39" parent="48" relname="preparation">1,3 гектара.</segment>
+		<segment id="40" parent="48" relname="sequence">В нем шесть спален, лифт, домашний кинотеатр, бильярдная и теннисный корт.</segment>
+		<segment id="41" parent="47" relname="sequence">Замок был построен в 2000-м.</segment>
+		<segment id="42" parent="46" relname="span">Яшин купил его спустя два года</segment>
+		<segment id="43" parent="45" relname="joint">(в 2001-м он подписал 10-летний контракт на 8,7 млн долларов) за 3,877 млн долларов</segment>
+		<segment id="44" parent="45" relname="joint">и жил в нем вместе со своей подругой, фотомоделью и актрисой.\n\</segment>
+		<segment id="50" parent="58" relname="span">nСтоит отметить, что звезды спорта нередко вкладывают заработанные во время соревнований деньги в недвижимость.</segment>
+		<segment id="51" parent="53" relname="joint">Так, полузащитник сборной России по футболу и ЦСКА Юрий Жирков собирается потратить почти полмиллиона евро,</segment>
+		<segment id="52" parent="53" relname="joint">полученные им за участие в чемпионате Европы, на строительство нового дома.\n\n24-летний футболист решил обзавестись жильем недалеко от родного города своей жены Инны ? прибалтийского Калининграда.\n\</segment>
+		<segment id="54" parent="55" relname="condition">nКогда в качестве премиальных футболист заработал 300 тысяч евро за выход из группы на чемпионате Европы и еще 120 тысяч ? за победу над голландцами в четвертьфинале,</segment>
+		<segment id="55" parent="56" relname="span">он немедленно решил пустить их в дело.\n\nИсточник: https://www.newsru.com/realty/10Jul2008/yashin.html\n</segment>
+		<group id="30" type="multinuc" parent="61" relname="preparation"/>
+		<group id="24" type="span" parent="30" relname="comparison"/>
+		<group id="29" type="span" parent="30" relname="comparison"/>
+		<group id="28" type="span" parent="25" relname="background"/>
+		<group id="61" type="span" parent="62" relname="span"/>
+		<group id="37" type="span" parent="60" relname="preparation"/>
+		<group id="35" type="span" parent="36" relname="solutionhood"/>
+		<group id="60" type="multinuc" parent="61" relname="span"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="49" type="span" parent="59" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="span"/>
+		<group id="47" type="multinuc" parent="48" relname="sequence"/>
+		<group id="46" type="span" parent="47" relname="sequence"/>
+		<group id="45" type="multinuc" parent="42" relname="background"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="57" type="span" parent="50" relname="elaboration"/>
+		<group id="53" type="multinuc" parent="57" relname="span"/>
+		<group id="56" type="span" parent="53" relname="elaboration"/>
+		<group id="62" type="span"/>
+	</body>
+</rst>

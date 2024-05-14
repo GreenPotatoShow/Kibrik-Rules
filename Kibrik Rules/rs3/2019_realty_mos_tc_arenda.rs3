@@ -1,0 +1,84 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="35" relname="span">Москва заняла второе место в Европе по стоимости аренды помещений в премиальных торговых центрах\n\nСредняя ставка аренды в премиальных торговых центрах Москвы составляет 256 тыс. рублей</segment>
+		<segment id="34" parent="33" relname="elaboration">(свыше 3,5 тыс. евро)</segment>
+		<segment id="36" parent="35" relname="background">за 1 квадратный метр в год,</segment>
+		<segment id="38" parent="40" relname="span">и по этому показателю в Европе российская столица уступила только Лондону,</segment>
+		<segment id="39" parent="38" relname="elaboration">где помещения в элитных ТЦ сдаются в среднем за 3,9 тыс. евро за метр в год.</segment>
+		<segment id="42" parent="41" relname="attribution">Об этом пишет газета \"Ведомости\" со ссылкой на данные консалтинговой компании CBRE.</segment>
+		<segment id="44" parent="94" relname="joint">Третье и четвертое место в этом неофициальном рейтинге заняли Париж и Хельсинки (2,75 и 1,8 тыс. евро соответственно)</segment>
+		<segment id="45" parent="51" relname="span">.\n\nКак отмечает издание,</segment>
+		<segment id="46" parent="50" relname="span">CBRE впервые приводит данные об аренде в премиальных ТЦ</segment>
+		<segment id="47" parent="49" relname="span">– до сих пор компания оценивала среднюю ставку аренды по всем аналогичным по площади торговым центрам в городе</segment>
+		<segment id="48" parent="47" relname="elaboration">(в Москве она составляет свыше 84,5 тыс. рублей за квадратный метр в год).</segment>
+		<segment id="52" parent="56" relname="contrast">Какие именно ТЦ аналитики отнесли к премиальным в CBRE не уточнили,</segment>
+		<segment id="53" parent="54" relname="attribution">но сообщили,</segment>
+		<segment id="54" parent="55" relname="span">что речь идет об отдельных помещениях площадью 100-150 квадратных метров на первых этажах самых коммерчески успешных объектов Москвы рядом с Садовым кольцом.</segment>
+		<segment id="58" parent="61" relname="attribution">Опрошенные журналистами консультанты полагают,</segment>
+		<segment id="59" parent="60" relname="attribution">что в этот список входят ГУМ, ЦУМ, \"Европейский\", \"Атриум\" и ТЦ \"Охотный Ряд\".\n\nВ отчете CBRE говорится,</segment>
+		<segment id="60" parent="61" relname="span">что сохранению высоких ставок аренды в премиальных ТЦ способствует их удачное расположение.</segment>
+		<segment id="63" parent="64" relname="attribution">По словам партнера Colliers International Анны Никандровой,</segment>
+		<segment id="64" parent="65" relname="span">средняя ставка аренды в 3,5 тыс. евро возможна в самых топовых торговых центрах.</segment>
+		<segment id="66" parent="67" relname="attribution">Она уточнила,</segment>
+		<segment id="67" parent="68" relname="span">что по такой цене арендуются небольшие помещения, которые снимают люксовые бренды ювелирных украшений или аксессуаров.</segment>
+		<segment id="69" parent="71" relname="span">Клиенты этих магазинов, как правило, не испытывают на себе влияние кризисов.</segment>
+		<segment id="70" parent="69" relname="evidence">В то же время многие премиальные бренды в ГУМе или \"Атриуме\" заключают договоры аренды по ставкам ниже, чем раньше.</segment>
+		<segment id="74" parent="77" relname="attribution">При этом Никандрова добавила,</segment>
+		<segment id="75" parent="76" relname="cause-effect">что некоторые помещения в самых престижных торговых центрах могут сдаваться по очень высокой цене и в других европейских столицах,</segment>
+		<segment id="76" parent="77" relname="span">поэтому 2-е место Москвы по этому показателю вызывает у нее сомнения.\n\</segment>
+		<segment id="79" parent="80" relname="attribution">nПо словам экспертов,</segment>
+		<segment id="80" parent="81" relname="span">ранее площади в премиальных столичных ТЦ в основном сдавались за валюту,</segment>
+		<segment id="82" parent="84" relname="span">но после 2014 года многие арендаторы настояли на переходе на оплату в рублях,</segment>
+		<segment id="83" parent="82" relname="concession">хотя некоторые компании продолжают платить за аренду в евро и долларах,</segment>
+		<segment id="86" parent="88" relname="span">но у них в договорах обычно указан валютный коридор,</segment>
+		<segment id="87" parent="86" relname="purpose">что позволяет снизить плату в случае резкого падения курса рубля.\n\nИсточник: https://www.newsru.com/realty/15Oct2019/mos_tc_arenda.html\n</segment>
+		<group id="43" type="span" parent="95" relname="joint"/>
+		<group id="41" type="multinuc" parent="43" relname="span"/>
+		<group id="37" type="span" parent="41" relname="joint"/>
+		<group id="35" type="span" parent="37" relname="span"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="57" type="multinuc" parent="93" relname="joint"/>
+		<group id="51" type="span" parent="57" relname="joint"/>
+		<group id="50" type="span" parent="45" relname="elaboration"/>
+		<group id="49" type="span" parent="46" relname="elaboration"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="contrast"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="62" type="span" parent="92" relname="joint"/>
+		<group id="61" type="span" parent="62" relname="span"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="73" type="span" parent="91" relname="joint"/>
+		<group id="65" type="span" parent="73" relname="span"/>
+		<group id="72" type="span" parent="65" relname="elaboration"/>
+		<group id="68" type="span" parent="72" relname="span"/>
+		<group id="71" type="span" parent="68" relname="interpretation-evaluation"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="78" type="span" parent="90" relname="comparison"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="89" type="multinuc" parent="90" relname="comparison"/>
+		<group id="85" type="multinuc" parent="89" relname="contrast"/>
+		<group id="81" type="span" parent="85" relname="contrast"/>
+		<group id="84" type="span" parent="85" relname="contrast"/>
+		<group id="88" type="span" parent="89" relname="contrast"/>
+		<group id="95" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,69 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="31" relname="joint">В Минюсте США идут споры по поводу вынесения смертного приговора Роберту Ханссену\n\nВ руководстве министерства юстиции США идут острые дебаты относительно возможности требования вынести смертный приговор Роберту Ханссену,</segment>
+		<segment id="28" parent="30" relname="span">обвиняемому в шпионаже в пользу СССР и России,</segment>
+		<segment id="29" parent="28" relname="attribution">сообщает \"Интерфакс\" со ссылкой на CNN.\n\nУ юристов министерства,</segment>
+		<segment id="32" parent="31" relname="attribution">сообщает CNN,</segment>
+		<segment id="34" parent="35" relname="attribution">существуют сомнения в том,</segment>
+		<segment id="35" parent="36" relname="span">можно ли требовать казни обвиняемого,</segment>
+		<segment id="37" parent="39" relname="joint">поскольку приписываемые ему деяния были совершены в то время,</segment>
+		<segment id="38" parent="39" relname="joint">когда федеральное законодательство о смертной казни было объявлено антиконституционным.\n\</segment>
+		<segment id="44" parent="50" relname="same-unit">nМежду тем, как пишет в последнем номере журнал Time,</segment>
+		<segment id="45" parent="48" relname="attribution">директор ЦРУ Джордж Тенет призвал</segment>
+		<segment id="46" parent="48" relname="span">министра юстиции, генерального прокурора США Джона Эшкрофта не требовать казни обвиняемого,</segment>
+		<segment id="47" parent="46" relname="elaboration">процесс над которым начинается 1 июня.</segment>
+		<segment id="51" parent="53" relname="span">Инициатива шефа разведки продиктована желанием спецслужб США сохранить жизнь Ханссену,</segment>
+		<segment id="52" parent="51" relname="purpose">чтобы в дальнейшем получать от него информацию о шпионской деятельности.\n\nВ минувший вторник переговоры адвокатов обвиняемого с прокуратурой о внесудебной сделке</segment>
+		<segment id="54" parent="53" relname="elaboration">- признательных показаниях в обмен на отказ от требования смертного приговора завершились ничем,</segment>
+		<segment id="56" parent="66" relname="joint">поскольку сторона обвинения уклонилась от обещания не требовать от суда казни.\n\nНа следующий же день большому жюри был вручен обвинительный акт,</segment>
+		<segment id="57" parent="61" relname="span">и его члены вынесли Ханссену обвинение по 21 пункту,</segment>
+		<segment id="58" parent="60" relname="span">14 из которых могут повлечь смертный приговор,</segment>
+		<segment id="59" parent="58" relname="condition">если суд сочтет его виновным.\n\nХанссен был одним из ведущих специалистов по контрразведке в ФБР,</segment>
+		<segment id="62" parent="64" relname="joint">где он работал 25 лет,</segment>
+		<segment id="63" parent="64" relname="joint">15 из которых сотрудничал с разведкой СССР, а затем России.</segment>
+		<segment id="68" parent="74" relname="joint">Ханссен выдал России важнейшие секреты американских спецслужб</segment>
+		<segment id="69" parent="73" relname="span">и передал имена советских агентов-двойников, действовавших в интересах США.\n\nОднако все деяния шпиона, подпадающие под смертный приговор, относятся к периоду между 1985 и 1991 годами,</segment>
+		<segment id="70" parent="71" relname="condition">когда все федеральные процедуры при вынесении таких приговоров</segment>
+		<segment id="71" parent="72" relname="span">были объявлены противоречащими конституции.\n\nИсточник: https://www.newsru.com/world/21May2001/hanssen.html\n</segment>
+		<group id="41" type="multinuc" parent="77" relname="joint"/>
+		<group id="33" type="span" parent="41" relname="joint"/>
+		<group id="31" type="multinuc" parent="33" relname="span"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="36" type="span" parent="40" relname="span"/>
+		<group id="39" type="multinuc" parent="36" relname="cause-effect"/>
+		<group id="76" type="span" parent="77" relname="joint"/>
+		<group id="50" type="multinuc" parent="75" relname="preparation"/>
+		<group id="49" type="span" parent="50" relname="same-unit"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="75" type="multinuc" parent="76" relname="span"/>
+		<group id="67" type="span" parent="75" relname="joint"/>
+		<group id="55" type="span" parent="67" relname="span"/>
+		<group id="53" type="span" parent="55" relname="span"/>
+		<group id="66" type="multinuc" parent="55" relname="cause-effect"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="61" type="span" parent="65" relname="span"/>
+		<group id="60" type="span" parent="57" relname="elaboration"/>
+		<group id="64" type="multinuc" parent="61" relname="background"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="72" type="span" parent="69" relname="elaboration"/>
+		<group id="77" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,75 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="concession" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="evidence" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="35" relname="joint">В Росгидромете исключили вероятность радиоактивного заражения территории РФ после аварии на японской АЭС\n\</segment>
+		<segment id="30" parent="32" relname="span">nПопадание радиоактивных веществ на территорию России</segment>
+		<segment id="31" parent="30" relname="cause-effect">из-за аварии на японской атомной электростанции (АЭС) исключено,</segment>
+		<segment id="33" parent="34" relname="joint">считают в Федеральной службе России по гидрометеорологии и мониторингу окружающей среды (Росгидромете).\n\n</segment>
+		<segment id="36" parent="39" relname="attribution">\"Результаты расчетов показывают,</segment>
+		<segment id="37" parent="38" relname="cause-effect">что воздушные массы (с места расположения АЭС) распространялись в восточном направлении на акваторию Тихого океана,</segment>
+		<segment id="38" parent="39" relname="span">поэтому их попадание на территорию России исключается\",</segment>
+		<segment id="41" parent="46" relname="attribution">- цитирует РИА \"Новости\" пресс-релиз ведомства.\n\nВ Росгидромете добавляют,</segment>
+		<segment id="42" parent="46" relname="span">что никаких отклонений в радиационном фоне на территории РФ</segment>
+		<segment id="43" parent="45" relname="span">из-за аварии на японской АЭС не зарегистрировано.\n\nПосле мощного землетрясения магнитудой 6,8</segment>
+		<segment id="44" parent="43" relname="cause-effect">в префектуре Ниигата на западе главного острова Хонсю 16 июля в трансформаторе с внешней стороны третьего блока крупнейшей японской АЭС Касивадзаки-Карива начался пожар.</segment>
+		<segment id="49" parent="51" relname="sequence">Пожарные прибыли лишь через час,</segment>
+		<segment id="50" parent="51" relname="sequence">на тушение ушло еще два часа.\n\nПозднее появилась информация об утечке в шестом блоке 1,2 тонны воды, содержащей радиоактивные вещества.</segment>
+		<segment id="52" parent="55" relname="attribution">По информации компании-оператора АЭС \"Токио дэнриоку\",</segment>
+		<segment id="53" parent="55" relname="span">это была вода из бассейна</segment>
+		<segment id="54" parent="53" relname="purpose">для хранения отработанного уранового топлива.</segment>
+		<segment id="57" parent="65" relname="span">Вытекшая жидкость по системе дренажа попала в море,</segment>
+		<segment id="58" parent="63" relname="concession">хотя опасности для окружающей среды в таком количестве,</segment>
+		<segment id="59" parent="62" relname="attribution">по мнению компании,</segment>
+		<segment id="60" parent="62" relname="span">она не представляет</segment>
+		<segment id="61" parent="60" relname="cause-effect">.\n\</segment>
+		<segment id="66" parent="73" relname="preparation">nВо вторник стало известно, что на территории АЭС опрокинулись около сотни бочек, в которых хранятся низкорадиоактивные ядерные отходы.</segment>
+		<segment id="67" parent="72" relname="attribution">Как сообщила \"Токио дэнриоку\",</segment>
+		<segment id="68" parent="72" relname="joint">у нескольких бочек произошла разгерметизация</segment>
+		<segment id="69" parent="71" relname="joint">и сейчас уточняется, вытекло ли их содержимое наружу</segment>
+		<segment id="70" parent="71" relname="joint">и был ли нанесен ущерб окружающей среде.\n\nОтметим, что похожие инциденты на атомных станциях случались в Японии и раньше.</segment>
+		<segment id="75" parent="77" relname="joint">Так, на той же АЭС Касивадзаки-Карива 9 июля 2004 года был отключен один из реакторов;</segment>
+		<segment id="76" parent="77" relname="joint">правда, радиоактивного выброса тогда не произошло.\n\nИсточник: https://www.newsru.com/russia/17Jul2007/ugrozy_net.html\n</segment>
+		<group id="35" type="multinuc" parent="82" relname="preparation"/>
+		<group id="34" type="multinuc" parent="35" relname="joint"/>
+		<group id="32" type="span" parent="34" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="48" type="multinuc" parent="82" relname="joint"/>
+		<group id="40" type="span" parent="48" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="45" type="span" parent="42" relname="cause-effect"/>
+		<group id="81" type="span" parent="82" relname="joint"/>
+		<group id="51" type="multinuc" parent="80" relname="preparation"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="56" type="span" parent="79" relname="preparation"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="65" type="span" parent="79" relname="span"/>
+		<group id="64" type="span" parent="57" relname="concession"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="78" type="multinuc" parent="65" relname="evidence"/>
+		<group id="74" type="span" parent="78" relname="comparison"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="77" type="multinuc" parent="78" relname="comparison"/>
+		<group id="83" type="span"/>
+	</body>
+</rst>

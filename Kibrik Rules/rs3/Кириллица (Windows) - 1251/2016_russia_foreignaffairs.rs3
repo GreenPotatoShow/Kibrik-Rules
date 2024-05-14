@@ -1,0 +1,106 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="43" parent="49" relname="joint">В правительстве РФ предложили обязать граждан отчитываться о браках за рубежом\n\nЧиновники решили обязать россиян сообщать властям о любых зарегистрированных за рубежом актах гражданского состояния.</segment>
+		<segment id="44" parent="46" relname="span">В эту категорию подпадают браки, разводы, рождение детей, усыновление, смена фамилии.</segment>
+		<segment id="45" parent="44" relname="attribution">С такой инициативой выступили в Минфине.</segment>
+		<segment id="47" parent="46" relname="elaboration">В минувший понедельник соответствующие поправки были одобрены правительственной комиссией по законопроектной деятельности.</segment>
+		<segment id="50" parent="49" relname="attribution">Об этом журналистам РБК рассказали два источника в комиссии</segment>
+		<segment id="52" parent="62" relname="span">.\n\nПо информации издания,</segment>
+		<segment id="53" parent="61" relname="joint">в Министерстве финансов уже предложили внести поправку в правительственный законопроект,</segment>
+		<segment id="54" parent="60" relname="joint">разработанный в рамках поручений президента по улучшению администрирования страховых взносов в Пенсионный фонд, ФСС и ФОМС.\n\nИз текста законопроекта, который появился в распоряжении журналистов, следует,</segment>
+		<segment id="55" parent="57" relname="span">что россияне будут обязаны предоставить информацию об актах гражданского состояния, зарегистрированных за рубежом по законам других государств, в ЗАГС по месту жительства или в консульское учреждение в стране, где находится гражданин РФ.\n\nЭти сведения будут заноситься в электронный госреестр актов гражданского состояния,</segment>
+		<segment id="56" parent="55" relname="elaboration">который на основе данных российских ЗАГСов и консульств создаст</segment>
+		<segment id="58" parent="59" relname="joint">и будет вести Федеральная налоговая служба.\n\</segment>
+		<segment id="63" parent="64" relname="attribution">nПри этом подчеркивается,</segment>
+		<segment id="64" parent="65" relname="span">что информация о гражданском состоянии россиян и их родственных связях за рубежом будут защищены законодательством о персональных данных.</segment>
+		<segment id="66" parent="72" relname="joint">Тем не менее к этим сведениям смогут получить доступ не только ФНС, но и Пенсионный фонд, Фонд соцстрахования, ФОМС, включая их региональные представительства, органы соцзащиты, региональные министерства образования, главы муниципальных районов и городских округов.\n\nБолее того, информация будет предоставляться и по запросам судов, прокуратуры, органов дознания и следствия, органов, осуществляющих оперативно-разыскную деятельность, и других ведомств.\n\nИсточник издания в правительственной комиссии пояснил,</segment>
+		<segment id="67" parent="71" relname="joint">что поправки в законодательство определят, каким образом российские граждане должны самостоятельно предоставлять справки о зарубежных актах гражданского состояния в местные органы ЗАГС или консульские учреждения,</segment>
+		<segment id="68" parent="69" relname="attribution">\"поскольку автоматического межгосударственного обмена такой информацией нет\".\n\nВ ФНС, в свою очередь, подчеркивают,</segment>
+		<segment id="69" parent="70" relname="span">что поправки не связаны с желанием государства увеличить фискальные сборы.</segment>
+		<segment id="73" parent="79" relname="same-unit">Они,</segment>
+		<segment id="74" parent="77" relname="attribution">пояснили в ведомстве,</segment>
+		<segment id="75" parent="77" relname="span">необходимы для ведения полноценного единого реестра.\n\nЭксперт Экономической экспертной группы Александра Суслина назвала</segment>
+		<segment id="76" parent="75" relname="elaboration">предполагаемые меры логичными в контексте усиления контроля над вторыми гражданствами россиян и их финансовыми потоками в зарубежных банках.</segment>
+		<segment id="82" parent="83" relname="attribution">При этом, по ее мнению,</segment>
+		<segment id="83" parent="84" relname="span">напрямую эти меры не будут способствовать улучшению собираемости взносов и налогов.\n\n</segment>
+		<segment id="85" parent="93" relname="span">\"Но технически мысль у чиновников может быть такой:</segment>
+		<segment id="86" parent="87" relname="condition">если дети у тебя, условно,</segment>
+		<segment id="87" parent="88" relname="span">родились где-то еще,</segment>
+		<segment id="89" parent="90" relname="span">то можно предположить, что, наверное, ты обладаешь какой-то недвижимостью и счетами где-то еще, кроме России.</segment>
+		<segment id="91" parent="92" relname="span">Очередная мера контроля\",</segment>
+		<segment id="94" parent="99" relname="attribution">- рассуждает она.\n\nСтарший юрист Herbert Smith Freehills Сергей Еремин предположил,</segment>
+		<segment id="95" parent="97" relname="span">что эти меры могут поспособствовать препятствованию попыткам россиян обойти закон о контролируемых иностранных компаниях в случаях, когда активы передаются супругу,</segment>
+		<segment id="96" parent="95" relname="elaboration">брак с которым заключен за пределами юрисдикции РФ,</segment>
+		<segment id="98" parent="99" relname="span">а потому остается неизвестным контролирующим органам.\n\</segment>
+		<segment id="102" parent="111" relname="attribution">nПо его словам,</segment>
+		<segment id="103" parent="105" relname="span">наиболее вероятной целью такой инициативы может быть интерес государства</segment>
+		<segment id="104" parent="103" relname="condition">собрать как можно больше информации о собственных гражданах и их деятельности,</segment>
+		<segment id="106" parent="110" relname="span">это вполне вписывается в общий вектор развития законодательной базы в сфере сбора и обмена данными с другими государствами.\n\nВ 2014 году власти обязали россиян отчитываться о наличии второго гражданства.</segment>
+		<segment id="107" parent="109" relname="span">После принятия закона было дано 60 дней на то,</segment>
+		<segment id="108" parent="107" relname="purpose">чтобы заявить об этом по месту постоянного проживания.</segment>
+		<segment id="113" parent="119" relname="contrast">Если человек находится за пределами РФ,</segment>
+		<segment id="114" parent="118" relname="span">но зарегистрирован здесь,</segment>
+		<segment id="115" parent="117" relname="span">документы ему придется подать в том случае,</segment>
+		<segment id="116" parent="115" relname="condition">если он периодически приезжает на родину.\n\nИсточник: https://www.newsru.com/russia/02Jun2016/foreignaffairs.html\n</segment>
+		<group id="51" type="span" parent="125" relname="joint"/>
+		<group id="49" type="multinuc" parent="51" relname="span"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="46" type="span" parent="48" relname="span"/>
+		<group id="124" type="multinuc" parent="125" relname="joint"/>
+		<group id="62" type="span" parent="124" relname="joint"/>
+		<group id="61" type="multinuc" parent="52" relname="elaboration"/>
+		<group id="60" type="multinuc" parent="61" relname="joint"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="57" type="span" parent="59" relname="joint"/>
+		<group id="123" type="multinuc" parent="124" relname="joint"/>
+		<group id="81" type="span" parent="123" relname="joint"/>
+		<group id="65" type="span" parent="81" relname="span"/>
+		<group id="80" type="span" parent="65" relname="elaboration"/>
+		<group id="72" type="multinuc" parent="80" relname="span"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="70" type="span" parent="71" relname="joint"/>
+		<group id="79" type="multinuc" parent="72" relname="interpretation-evaluation"/>
+		<group id="78" type="span" parent="79" relname="same-unit"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="122" type="span" parent="123" relname="joint"/>
+		<group id="84" type="span" parent="121" relname="preparation"/>
+		<group id="121" type="multinuc" parent="122" relname="span"/>
+		<group id="101" type="multinuc" parent="121" relname="comparison"/>
+		<group id="93" type="span" parent="101" relname="joint"/>
+		<group id="92" type="span" parent="85" relname="elaboration"/>
+		<group id="90" type="span" parent="91" relname="condition"/>
+		<group id="88" type="span" parent="89" relname="condition"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="97" type="span" parent="98" relname="cause-effect"/>
+		<group id="120" type="multinuc" parent="121" relname="comparison"/>
+		<group id="112" type="span" parent="120" relname="joint"/>
+		<group id="111" type="multinuc" parent="112" relname="span"/>
+		<group id="105" type="span" parent="111" relname="joint"/>
+		<group id="110" type="span" parent="111" relname="joint"/>
+		<group id="109" type="span" parent="106" relname="elaboration"/>
+		<group id="119" type="multinuc" parent="120" relname="joint"/>
+		<group id="118" type="span" parent="119" relname="contrast"/>
+		<group id="117" type="span" parent="114" relname="cause-effect"/>
+		<group id="125" type="multinuc"/>
+	</body>
+</rst>

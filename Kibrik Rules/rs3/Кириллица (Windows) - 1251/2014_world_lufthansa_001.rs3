@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="30" relname="attribution">Авиакомпания Lufthansa сообщила,</segment>
+		<segment id="26" parent="30" relname="span">какие авиарейсы будут отменены</segment>
+		<segment id="27" parent="29" relname="span">из-за двухдневной забастовки пилотов\n\nБолее тысячи авиарейсов будут отменены</segment>
+		<segment id="28" parent="27" relname="cause-effect">из-за забастовки пилотов Lufthansa в первые два дня зимы.</segment>
+		<segment id="32" parent="37" relname="attribution">Как сообщили представители немецкой авиакомпании,</segment>
+		<segment id="33" parent="37" relname="joint">акция начнется в полдень по местному времени (+2 часа к Москве) 1 декабря</segment>
+		<segment id="34" parent="36" relname="joint">и продлится до ночи вторника (23:59).\n\nВ результате противостояния пилотов и руководства компании пострадают сотни тысяч пассажиров во всем мире</segment>
+		<segment id="35" parent="36" relname="joint">и будут отменены 1350 рейсов.</segment>
+		<segment id="39" parent="41" relname="joint">1 декабря будут бастовать пилоты, работающие на европейских рейсах,</segment>
+		<segment id="40" parent="41" relname="joint">а со 2 декабря к акции подключатся пилоты, обслуживающие межконтинентальные сообщения.</segment>
+		<segment id="42" parent="44" relname="joint">Какие рейсы будут отменены можно узнать на сайте авиакомпании.\n\nВсего акция повлияет на планы 150 тысяч авиапассажиров,</segment>
+		<segment id="43" parent="44" relname="joint">уточняет The Local.\n\nЭто не первая акция пилотов компании в этом году.</segment>
+		<segment id="46" parent="55" relname="cause-effect">Напомним, что в результате трехдневной забастовки в начале апреля были отменены свыше 3,8 тысяч рейсов,</segment>
+		<segment id="47" parent="51" relname="span">в результате чего пострадали 425 тысяч пассажиров.\n\nА</segment>
+		<segment id="48" parent="49" relname="cause-effect">из-за забастовки в марте 2012 года</segment>
+		<segment id="49" parent="50" relname="span">было отменено 460 международных рейсов.\n\nВ основе конфликта профсоюза пилотов с руководством компании</segment>
+		<segment id="52" parent="54" relname="span">- отмена программы досрочного выхода на пенсию,</segment>
+		<segment id="53" parent="52" relname="attribution">сообщает DW-World.de.\n\nLufthansa - флагманский авиаперевозчик Германии и крупнейший авиаконцерн Европы.</segment>
+		<segment id="60" parent="70" relname="span">В общем сложности Lufthansa выполняет рейсы в 78 стран мира по более чем двумстам направлениям.</segment>
+		<segment id="61" parent="63" relname="joint">Воздушный флот всей авиакомпании, включая и дочерних перевозчиков,</segment>
+		<segment id="62" parent="63" relname="joint">насчитывает около 620 воздушных судов,</segment>
+		<segment id="64" parent="68" relname="span">а общий пассажиропоток компании по данным 2013 года составил 104,5 миллиона человек.\n\nВ мировом рейтинге авиакомпаний 2014 года,</segment>
+		<segment id="65" parent="67" relname="span">составленном на основе анализа оценок бизнес-пассажиров и туристов, путешествующих разными классами,</segment>
+		<segment id="66" parent="65" relname="elaboration">Lufthansa занимает 11 место.\n\nИсточник: https://www.newsru.com/world/01Dec2014/lufthansa.html\n</segment>
+		<group id="59" type="span" parent="71" relname="span"/>
+		<group id="31" type="span" parent="58" relname="preparation"/>
+		<group id="30" type="span" parent="31" relname="span"/>
+		<group id="29" type="span" parent="26" relname="cause-effect"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="38" type="span" parent="58" relname="joint"/>
+		<group id="37" type="multinuc" parent="38" relname="span"/>
+		<group id="36" type="multinuc" parent="37" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="45" type="multinuc" parent="57" relname="joint"/>
+		<group id="41" type="multinuc" parent="45" relname="joint"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="51" type="span" parent="55" relname="span"/>
+		<group id="50" type="span" parent="47" relname="cause-effect"/>
+		<group id="54" type="span" parent="51" relname="attribution"/>
+		<group id="70" type="span" parent="59" relname="interpretation-evaluation"/>
+		<group id="69" type="multinuc" parent="60" relname="elaboration"/>
+		<group id="63" type="multinuc" parent="69" relname="comparison"/>
+		<group id="68" type="span" parent="69" relname="comparison"/>
+		<group id="67" type="span" parent="64" relname="elaboration"/>
+		<group id="71" type="span"/>
+	</body>
+</rst>

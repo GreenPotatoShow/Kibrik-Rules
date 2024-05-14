@@ -1,0 +1,92 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="38" parent="40" relname="span">Рамзан Кадыров получил черный пояс по каратэ\n\nГлава Чечни Рамзан Кадыров,</segment>
+		<segment id="39" parent="38" relname="elaboration">недавно получивший медаль \"За заслуги в деле защиты детей России\",</segment>
+		<segment id="41" parent="40" relname="condition">похвастался получением черного пояса по каратэ.</segment>
+		<segment id="43" parent="44" relname="attribution">В своем Instagram он написал,</segment>
+		<segment id="44" parent="45" relname="span">что в его \"спортивной жизни произошло большое событие\".\n\n\"Международной ассоциации киокушинкай-каратэ, легендарного Шокей Мацуи (Shokei Matsui, Япония) мне вручили черный пояс пятый дан.</segment>
+		<segment id="46" parent="45" relname="purpose">Для меня большая честь стать обладателем столь высокого титула\",</segment>
+		<segment id="48" parent="47" relname="attribution">- сообщил чеченский лидер.</segment>
+		<segment id="50" parent="51" relname="attribution">По его словам,</segment>
+		<segment id="51" parent="52" relname="span">документ подписал обладатель восьмого дана.\n\n\"Вручил мне пояс и сертификат главный тренер Ассоциации киокушинкай-каратэ России Александр Алымов.</segment>
+		<segment id="53" parent="55" relname="span">Я благодарен своему тренеру Лечи Курбанову,</segment>
+		<segment id="54" parent="53" relname="background">с которым длительное время занимаюсь\",</segment>
+		<segment id="56" parent="55" relname="elaboration">- добавил Кадыров.\n\nКиокушинкай (кёкусинкай - переводится как \"предельная искренность\" или \"союз абсолютной истины\") - один из самых трудных и жестких разновидностей контактного каратэ.</segment>
+		<segment id="58" parent="105" relname="preparation">Он был основан в 50-х годах прошлого века.</segment>
+		<segment id="59" parent="63" relname="span">Самой высокой степенью мастерства в киокушинкай является десятый дан</segment>
+		<segment id="62" parent="59" relname="elaboration">- тому, кто его достигает, вручают красный пояс.\n\nЛетом этого года глава Чечни удостоился ордена \"за доброту и человечность\",</segment>
+		<segment id="64" parent="66" relname="span">а также получил медаль \"За освобождение Крыма\".\n\nВ начале октября Кадырову исполнилось 38 лет</segment>
+		<segment id="65" parent="64" relname="elaboration">- день его рождения совпадает с днем Грозного.</segment>
+		<segment id="68" parent="69" relname="span">В связи с этим в столице Чечни открылся аналог римского амфитеатра - спорткомплекс \"Колизей\".</segment>
+		<segment id="70" parent="103" relname="preparation">Строить его начали в октябре прошлого года в центре города, вблизи стадиона имени Билимханова.</segment>
+		<segment id="71" parent="72" relname="condition">При виде сверху комплекс очертаниями напоминает корону,</segment>
+		<segment id="72" parent="73" relname="span">внутри - круглая арена.\n\</segment>
+		<segment id="74" parent="78" relname="span">nВ день рождения Кадырова не обошлось и без происшествий</segment>
+		<segment id="75" parent="76" relname="cause-effect">- в Грозном прогремел взрыв,</segment>
+		<segment id="76" parent="77" relname="span">в результате которого погибли несколько полицейских.</segment>
+		<segment id="79" parent="81" relname="span">Установлено, что самодельное взрывное устройство привел в действие уроженец Грозного, 19-летний Опти Мударов,</segment>
+		<segment id="80" parent="79" relname="background">который этим летом ушел и дома,</segment>
+		<segment id="82" parent="81" relname="interpretation-evaluation">родственники о нем ничего не знали.</segment>
+		<segment id="86" parent="87" relname="condition">Когда бомба сработала,</segment>
+		<segment id="87" parent="88" relname="span">мужчина скончался.\n\n</segment>
+		<segment id="89" parent="95" relname="span">\"Этот недоносок никого не представляет.</segment>
+		<segment id="90" parent="94" relname="span">В республике мир, стабильность и процветание.</segment>
+		<segment id="91" parent="93" relname="joint">Мы уверенно смотрим в завтрашний день.</segment>
+		<segment id="92" parent="93" relname="joint">А террористы и ваххабисты понимают только язык силы\",</segment>
+		<segment id="97" parent="100" relname="attribution">- заявил тогда Кадыров.</segment>
+		<segment id="98" parent="100" relname="joint">По факту взрыва возбудили уголовное дело,</segment>
+		<segment id="99" parent="100" relname="joint">произошедшее в правоохранительных органах расценили не как теракт, а как его попытку.\n\nИсточник: https://www.newsru.com/russia/13Oct2014/kadyrov.html\n</segment>
+		<group id="42" type="span" parent="109" relname="preparation"/>
+		<group id="40" type="span" parent="42" relname="span"/>
+		<group id="109" type="span" parent="110" relname="span"/>
+		<group id="49" type="span" parent="108" relname="preparation"/>
+		<group id="47" type="span" parent="49" relname="span"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="52" type="span" parent="107" relname="preparation"/>
+		<group id="107" type="span" parent="108" relname="span"/>
+		<group id="57" type="span" parent="106" relname="preparation"/>
+		<group id="55" type="span" parent="57" relname="span"/>
+		<group id="106" type="span" parent="107" relname="span"/>
+		<group id="105" type="multinuc" parent="106" relname="span"/>
+		<group id="69" type="span" parent="105" relname="joint"/>
+		<group id="67" type="multinuc" parent="68" relname="cause-effect"/>
+		<group id="63" type="span" parent="67" relname="joint"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="104" type="span" parent="105" relname="joint"/>
+		<group id="103" type="multinuc" parent="104" relname="span"/>
+		<group id="85" type="span" parent="103" relname="joint"/>
+		<group id="73" type="span" parent="85" relname="span"/>
+		<group id="84" type="span" parent="73" relname="background"/>
+		<group id="78" type="span" parent="84" relname="span"/>
+		<group id="77" type="span" parent="74" relname="cause-effect"/>
+		<group id="83" type="span" parent="78" relname="background"/>
+		<group id="81" type="span" parent="83" relname="span"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="96" type="span" parent="102" relname="joint"/>
+		<group id="88" type="span" parent="96" relname="span"/>
+		<group id="95" type="span" parent="88" relname="interpretation-evaluation"/>
+		<group id="94" type="span" parent="89" relname="elaboration"/>
+		<group id="93" type="multinuc" parent="90" relname="elaboration"/>
+		<group id="101" type="span" parent="102" relname="joint"/>
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="110" type="span"/>
+	</body>
+</rst>

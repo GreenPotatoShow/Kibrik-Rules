@@ -1,0 +1,56 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="24" relname="span">В Баку полиция разогнала митинг оппозиции,</segment>
+		<segment id="23" parent="22" relname="elaboration">не санкционированный властями\n\nПолиция Баку пересекла попытку группы активистов ряда оппозиционных партий провести несанкционированный городскими властями митинг,</segment>
+		<segment id="25" parent="24" relname="attribution">сообщает корреспондент агентства \"Интерфакс\" с места событий.\n\</segment>
+		<segment id="27" parent="29" relname="span">nВ ходе акции ее участники,</segment>
+		<segment id="28" parent="27" relname="condition">передвигаясь отдельными группами,</segment>
+		<segment id="30" parent="31" relname="same-unit">предприняли несколько попыток собраться в центре города,</segment>
+		<segment id="32" parent="33" relname="contrast">однако этому мешали сотрудники правоохранительных органов и оппозиции неоднократно пришлось менять маршрут следования.</segment>
+		<segment id="36" parent="38" relname="same-unit">Сначала они, скандируя лозунги \"Свобода!\" и \"Отставка!\",</segment>
+		<segment id="37" parent="38" relname="same-unit">пытались приблизиться к Площади Фонтанов,</segment>
+		<segment id="39" parent="40" relname="sequence">потом прошлись по улице Низами и далее - в район железнодорожного вокзала.</segment>
+		<segment id="41" parent="42" relname="cause-effect">На всех участках маршрута силы правопорядка разгоняли участников акции,</segment>
+		<segment id="42" parent="43" relname="span">в итоге последние решили разойтись.\n\</segment>
+		<segment id="44" parent="56" relname="span">nВ ходе разгона акции было задержано несколько десятков человек.</segment>
+		<segment id="47" parent="55" relname="joint">В центре города в настоящее время спокойно, в отдельных местах дежурят полицейские патрули.\n\nРяд оппозиционных партий во главе с \"Мусават\" и Партией народного фронта Азербайджана планировали провести митинг с требованиями роспуска нынешнего состава Милли меджлиса (законодательного органа)</segment>
+		<segment id="48" parent="49" relname="cause-effect">и проведение новых парламентских выборов,</segment>
+		<segment id="49" parent="50" relname="span">проведения в стране демократических реформ, освобождения \"политзаключенных\", усиления борьбы с коррупцией.\n\nНакануне,</segment>
+		<segment id="51" parent="53" relname="span">Бакинская мэрия отказалась санкционировать митинг \"Мусават\" в центре Баку,</segment>
+		<segment id="52" parent="51" relname="background">при этом предоставила место на стадионе в поселке Биби-Эйбат.</segment>
+		<segment id="58" parent="57" relname="elaboration">В этой связи, партии приняли решение о проведении несанкционированного митинга с 14:00 по 15:00 по бакинскому времени на площади Фонтанов.\n\nИсточник: https://www.newsru.com/world/02Apr2011/aliev.html\n</segment>
+		<group id="26" type="span" parent="61" relname="preparation"/>
+		<group id="24" type="span" parent="26" relname="span"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="33" type="multinuc" parent="61" relname="joint"/>
+		<group id="31" type="multinuc" parent="33" relname="contrast"/>
+		<group id="29" type="span" parent="31" relname="same-unit"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="40" type="multinuc" parent="59" relname="preparation"/>
+		<group id="38" type="multinuc" parent="40" relname="sequence"/>
+		<group id="59" type="span" parent="60" relname="span"/>
+		<group id="57" type="multinuc" parent="59" relname="span"/>
+		<group id="43" type="span" parent="57" relname="joint"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="55" type="multinuc" parent="44" relname="elaboration"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="50" type="span" parent="54" relname="same-unit"/>
+		<group id="53" type="span" parent="54" relname="same-unit"/>
+		<group id="62" type="span"/>
+	</body>
+</rst>

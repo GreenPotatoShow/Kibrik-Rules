@@ -1,0 +1,67 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="28" relname="span">Елена Соколова - новая чемпионка России\n\nПервая сенсация на чемпионате России по фигурному катанию в Казани:</segment>
+		<segment id="27" parent="26" relname="elaboration">москвичка Елена Соколова стала чемпионкой страны среди фигуристок, выступающих в одиночном разряде.\n\nПобеда Соколовой для всех оказалась неожиданной.</segment>
+		<segment id="29" parent="31" relname="contrast">В короткой программе с большим преимуществом первенствовала Ирина Слуцкая,</segment>
+		<segment id="30" parent="31" relname="contrast">но в самом начале произвольной она допустила ошибку</segment>
+		<segment id="32" parent="33" relname="sequence">- упала.</segment>
+		<segment id="34" parent="36" relname="span">В результате стала серебряным призером.</segment>
+		<segment id="35" parent="34" relname="elaboration">Бронза досталась дебютантке из Санкт-Петербурга - Татьяне Басовой.</segment>
+		<segment id="38" parent="40" relname="span">\"Это мой лучший новогодний подарок себе, моему тренеру, родным и друзьям\",</segment>
+		<segment id="39" parent="38" relname="attribution">заявила ИТАР-ТАСС новая чемпионка страны.\n\nОтметим, что мечта Елены - стать Олимпийской чемпионкой.</segment>
+		<segment id="41" parent="43" relname="span">Ей не удалось в Нагано подняться выше 7 места.</segment>
+		<segment id="42" parent="41" relname="elaboration">Впрочем, на ее счету несколько выигранных этапов 'гран-при'.</segment>
+		<segment id="45" parent="47" relname="span">На соревнованиях в Финляндии в 1997 году Лена получила травму,</segment>
+		<segment id="46" parent="45" relname="elaboration">едва оправившись от которой заняла на соревнованиях в Америке второе, а на чемпионате России третье место.</segment>
+		<segment id="48" parent="49" relname="sequence">Потом были игры в Нагано.</segment>
+		<segment id="50" parent="54" relname="span">Пока самым ярким для Соколовой является 1998 год.</segment>
+		<segment id="51" parent="53" relname="joint">Тогда она выиграла Кубок России и чемпионат мира в Финляндии.\n\nТем временем танцоры продолжили борьбу в оригинальном танце</segment>
+		<segment id="52" parent="53" relname="joint">и лидерство подтвердили Татьяна Навка и Роман Костомаров.</segment>
+		<segment id="55" parent="59" relname="joint">После двух дней после обязательного и оригинального танца этот дуэт лидируют.</segment>
+		<segment id="56" parent="58" relname="span">На втором месте Оксана Домнина и Максим Шабалин,</segment>
+		<segment id="57" parent="56" relname="background">на третьем - ученики Татьяны Тарасовой Светлана Куликова и Арсений Марков.</segment>
+		<segment id="60" parent="68" relname="span">Наконец, приняли старт и спортивные пары.</segment>
+		<segment id="61" parent="67" relname="comparison">Татьяна Тотьмянина и Максим Маринин вышли в лидеры после короткой программы парного катания.</segment>
+		<segment id="62" parent="66" relname="span">На втором месте - Мария Петрова и Алексей Тихонов,</segment>
+		<segment id="63" parent="65" relname="span">третье занимают Юлия Обертас и Алексей Соколов.</segment>
+		<segment id="64" parent="63" relname="elaboration">Все три пары представляют Санкт-Петербург.\n\nИсточник: https://www.newsru.com/sport/28Dec2002/sokolovaruschamp.html\n</segment>
+		<group id="28" type="span" parent="73" relname="preparation"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="37" type="span" parent="72" relname="preparation"/>
+		<group id="33" type="multinuc" parent="36" relname="cause-effect"/>
+		<group id="31" type="multinuc" parent="33" relname="sequence"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="44" type="span" parent="72" relname="joint"/>
+		<group id="40" type="span" parent="44" relname="span"/>
+		<group id="43" type="span" parent="40" relname="elaboration"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="49" type="multinuc" parent="71" relname="span"/>
+		<group id="47" type="span" parent="49" relname="sequence"/>
+		<group id="70" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="54" type="span" parent="70" relname="sequence"/>
+		<group id="53" type="multinuc" parent="50" relname="elaboration"/>
+		<group id="69" type="multinuc" parent="70" relname="sequence"/>
+		<group id="59" type="multinuc" parent="69" relname="sequence"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="sequence"/>
+		<group id="67" type="multinuc" parent="60" relname="elaboration"/>
+		<group id="66" type="span" parent="67" relname="comparison"/>
+		<group id="65" type="span" parent="62" relname="elaboration"/>
+		<group id="74" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,148 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="65" parent="67" relname="span">Президент Ирана публично осудил осьминога Пауля,</segment>
+		<segment id="66" parent="65" relname="cause-effect">сочтя его опасным пропагандистом\n\</segment>
+		<segment id="68" parent="69" relname="attribution">nПрезидент Исламской Республики Иран Махмуд Ахмади Нежад выступил</segment>
+		<segment id="69" parent="70" relname="span">с осуждением всемирной популярности осьминога Пауля из германского города Оберхаузена,</segment>
+		<segment id="71" parent="77" relname="same-unit">прославившегося точными прогнозами на исходы матчей чемпионата мира по футболу,</segment>
+		<segment id="72" parent="75" relname="attribution">проходившего в ЮАР.\n\nИранский лидер заявил,</segment>
+		<segment id="73" parent="75" relname="restatement">что \"феномен осьминога Пауля\" воплощает в себе все плохое,</segment>
+		<segment id="74" parent="75" relname="restatement">что есть в западных странах.</segment>
+		<segment id="79" parent="81" relname="span">\"Это западная пропаганда суеверия\",</segment>
+		<segment id="80" parent="79" relname="attribution">- сказал он во время выступления в конце прошлой недели,</segment>
+		<segment id="83" parent="89" relname="joint">комментируя публикации об осьминоге.\n\nПо словам президента Ирана,</segment>
+		<segment id="84" parent="88" relname="same-unit">те, кто всерьез верит в сверхъестественные способности осьминогов,</segment>
+		<segment id="85" parent="87" relname="joint">не могут возглавлять государства</segment>
+		<segment id="86" parent="87" relname="joint">и вести за собой человечество,</segment>
+		<segment id="90" parent="89" relname="attribution">пишет NEWSru Israel.</segment>
+		<segment id="93" parent="100" relname="attribution">Он добавил,</segment>
+		<segment id="94" parent="96" relname="span">что осьминог Пауль символизирует собой закат и упадок,</segment>
+		<segment id="95" parent="94" relname="elaboration">царящие в стане врагов Ирана.\n\nВидимо, своими холодными щупальцами осьминог Пауль все же задел за душу президента Ирана:</segment>
+		<segment id="97" parent="99" relname="span">тот неоднократно упоминал своего головоногого противника на протяжении речи,</segment>
+		<segment id="98" parent="97" relname="attribution">отмечает газета The Daily Telegraph.</segment>
+		<segment id="102" parent="103" relname="attribution">Так, отметил Ахмади Нежад,</segment>
+		<segment id="103" parent="104" relname="span">осьминог Пауль \"распространяет пропаганду западного превосходства\".</segment>
+		<segment id="105" parent="109" relname="span">Куда этим низким созданиям до Ирана,</segment>
+		<segment id="106" parent="108" relname="joint">который занимается совершенствованием человека</segment>
+		<segment id="107" parent="108" relname="joint">и основывает свою духовность на любви ко всем священным ценностям,</segment>
+		<segment id="110" parent="109" relname="attribution">заявил глава государства.\n\nТем самым Махмуд Ахмади Нежад высказал согласие с представителем своего злейшего врага - Израиля.</segment>
+		<segment id="113" parent="126" relname="attribution">Ведь раввин Давид Став говорил,</segment>
+		<segment id="114" parent="125" relname="cause-effect">что \"израильское общество преуспело в области науки и медицины\",</segment>
+		<segment id="115" parent="117" relname="span">и поэтому у евреев нет необходимости использовать осьминога</segment>
+		<segment id="116" parent="115" relname="purpose">для того,</segment>
+		<segment id="118" parent="117" relname="purpose">чтобы получить ответы на важные вопросы.\n\nПо его мнению,</segment>
+		<segment id="120" parent="124" relname="span">люди прибегают к помощи представителей животного мира,</segment>
+		<segment id="121" parent="123" relname="span">когда собственного разума недостаточно</segment>
+		<segment id="122" parent="121" relname="purpose">для решения проблемы.</segment>
+		<segment id="128" parent="131" relname="attribution">Давид Став отметил,</segment>
+		<segment id="131" parent="132" relname="span">что поиск ответа на вопросы, которые лежат за пределами человеческого познания, \"может привести к подобному вздору\".</segment>
+		<segment id="133" parent="134" relname="attribution">Таким образом, уверен раввин,</segment>
+		<segment id="134" parent="135" relname="span">использование животных во время проведения чемпионата мира по футболу говорит о \"моральном банкротстве Запада\".\n\</segment>
+		<segment id="136" parent="142" relname="span">nНапомним, осьминог прославился на весь мир тем,</segment>
+		<segment id="137" parent="141" relname="span">что смог правильно угадать исход всех восьми матчей,</segment>
+		<segment id="138" parent="139" relname="attribution">о которых его спрашивали</segment>
+		<segment id="139" parent="140" relname="span">- семь игр с участием сборной Германии и финальный поединок между сборными Испании и Нидерландов.</segment>
+		<segment id="143" parent="149" relname="span">При этом осьминог Пауль не раз оказывался прозорливее букмекеров,</segment>
+		<segment id="144" parent="148" relname="joint">угадывая победу более слабой команды.\n\nНедавно про \"головоногого пророка\" сняли черную комедию \"Убить осьминога Пауля\".\n\nПауль все-таки приносит пользу:</segment>
+		<segment id="145" parent="147" relname="span">спасает сородичей\n\nОсьминог-провидец Пауль уже спас тысячи жизней своих сородичей, которых люди все чаще начинают теперь рассматривать не просто как вкусное блюдо на тарелке, а как обладающих интеллектом \"собратьев\" по разумной жизни,</segment>
+		<segment id="146" parent="145" relname="attribution">передает ИТАР-ТАСС со ссылкой на германскую газету Die Welt am Sonntag.</segment>
+		<segment id="153" parent="154" relname="attribution">\"Многие люди пишут нам,</segment>
+		<segment id="154" parent="155" relname="span">что они больше уже не едят осьминогов\",</segment>
+		<segment id="156" parent="158" relname="span">- сообщила изданию Таня Мунциг, представительница океанариума в Оберхаузене,</segment>
+		<segment id="157" parent="156" relname="background">где обитает Пауль.</segment>
+		<segment id="160" parent="164" relname="span">В этом смысле, замечает газета,</segment>
+		<segment id="161" parent="163" relname="comparison">Пауль уже сейчас сделал больше для своих сородичей,</segment>
+		<segment id="162" parent="163" relname="comparison">чем другая немецкая знаменитость - берлинский белый медведь Кнут,</segment>
+		<segment id="165" parent="176" relname="cause-effect">поскольку люди все же редко едят медвежатину,</segment>
+		<segment id="166" parent="176" relname="joint">тогда как осьминогов поедают ежегодно десятками тысяч тонн по всему миру.\n\nМежду тем \"пророку из Оберхаузена\",</segment>
+		<segment id="167" parent="169" relname="joint">находящемуся ныне на вершине своей славы</segment>
+		<segment id="168" parent="169" relname="joint">и которого уже начали активно использовать в рекламных целях в немецких СМИ,</segment>
+		<segment id="170" parent="174" relname="span">предстоит вскоре поработать не только для спасения осьминогов, но и для черепах.\n\n\"Его владельцы - компания Merlin Entertainments Group - наняли специального агента,</segment>
+		<segment id="171" parent="173" relname="span">в задачу которого входит мобилизовать популярность Пауля</segment>
+		<segment id="172" parent="171" relname="purpose">для привлечения спонсоров к благотворительным акциям.</segment>
+		<segment id="179" parent="183" relname="joint">На повестке дня стоит помощь организации, которая спасает черепах на греческом острове Закинтос.</segment>
+		<segment id="180" parent="182" relname="span">И это стало бы определенной иронией,</segment>
+		<segment id="181" parent="180" relname="cause-effect">поскольку черепахи любят поедать осьминогов\".\n\nИсточник: https://www.newsru.com/world/28Jul2010/againstpaul.html\n</segment>
+		<group id="67" type="span" parent="190" relname="preparation"/>
+		<group id="190" type="span" parent="191" relname="span"/>
+		<group id="92" type="span" parent="189" relname="preparation"/>
+		<group id="82" type="span" parent="92" relname="span"/>
+		<group id="78" type="span" parent="82" relname="span"/>
+		<group id="70" type="span" parent="78" relname="span"/>
+		<group id="77" type="multinuc" parent="70" relname="elaboration"/>
+		<group id="76" type="span" parent="77" relname="same-unit"/>
+		<group id="75" type="multinuc" parent="76" relname="span"/>
+		<group id="81" type="span" parent="78" relname="interpretation-evaluation"/>
+		<group id="91" type="span" parent="82" relname="elaboration"/>
+		<group id="89" type="multinuc" parent="91" relname="span"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="same-unit"/>
+		<group id="189" type="span" parent="190" relname="span"/>
+		<group id="101" type="span" parent="188" relname="preparation"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="96" type="span" parent="100" relname="span"/>
+		<group id="99" type="span" parent="96" relname="attribution"/>
+		<group id="188" type="span" parent="189" relname="span"/>
+		<group id="112" type="span" parent="187" relname="preparation"/>
+		<group id="104" type="span" parent="112" relname="span"/>
+		<group id="111" type="span" parent="104" relname="elaboration"/>
+		<group id="109" type="span" parent="111" relname="span"/>
+		<group id="108" type="multinuc" parent="105" relname="elaboration"/>
+		<group id="187" type="span" parent="188" relname="span"/>
+		<group id="127" type="span" parent="186" relname="preparation"/>
+		<group id="126" type="span" parent="127" relname="span"/>
+		<group id="125" type="multinuc" parent="126" relname="span"/>
+		<group id="119" type="span" parent="125" relname="joint"/>
+		<group id="117" type="span" parent="119" relname="span"/>
+		<group id="124" type="span" parent="125" relname="joint"/>
+		<group id="123" type="span" parent="120" relname="condition"/>
+		<group id="186" type="multinuc" parent="187" relname="span"/>
+		<group id="152" type="span" parent="186" relname="joint"/>
+		<group id="132" type="span" parent="152" relname="span"/>
+		<group id="151" type="span" parent="132" relname="elaboration"/>
+		<group id="135" type="span" parent="151" relname="span"/>
+		<group id="150" type="multinuc" parent="135" relname="elaboration"/>
+		<group id="142" type="span" parent="150" relname="joint"/>
+		<group id="141" type="span" parent="136" relname="cause-effect"/>
+		<group id="140" type="span" parent="137" relname="elaboration"/>
+		<group id="149" type="span" parent="150" relname="joint"/>
+		<group id="148" type="multinuc" parent="143" relname="elaboration"/>
+		<group id="147" type="span" parent="148" relname="joint"/>
+		<group id="185" type="span" parent="186" relname="joint"/>
+		<group id="159" type="span" parent="184" relname="preparation"/>
+		<group id="155" type="span" parent="159" relname="span"/>
+		<group id="158" type="span" parent="155" relname="attribution"/>
+		<group id="184" type="span" parent="185" relname="span"/>
+		<group id="178" type="span" parent="184" relname="span"/>
+		<group id="164" type="span" parent="178" relname="span"/>
+		<group id="163" type="multinuc" parent="160" relname="elaboration"/>
+		<group id="177" type="span" parent="164" relname="cause-effect"/>
+		<group id="176" type="multinuc" parent="177" relname="span"/>
+		<group id="175" type="multinuc" parent="176" relname="joint"/>
+		<group id="169" type="multinuc" parent="175" relname="joint"/>
+		<group id="174" type="span" parent="175" relname="joint"/>
+		<group id="173" type="span" parent="170" relname="purpose"/>
+		<group id="183" type="multinuc" parent="178" relname="elaboration"/>
+		<group id="182" type="span" parent="183" relname="joint"/>
+		<group id="191" type="span"/>
+	</body>
+</rst>

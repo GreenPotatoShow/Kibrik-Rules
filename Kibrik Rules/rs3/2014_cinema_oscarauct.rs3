@@ -1,0 +1,50 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="24" relname="joint">Статуэтка \"Оскара\", врученная в 1942 году,</segment>
+		<segment id="21" parent="23" relname="joint">продана за 79 тыс. долларов\n\nСтатуэтка \"Оскар\", врученная в 1942 году художнику-постановщику Джозефу Райту за лучшую работу художников в цвете в фильме \"Моя девушка Сэл\",</segment>
+		<segment id="22" parent="23" relname="joint">продана за 79 тысяч 200 долларов в понедельник на аукционе на Род-Айленде в США,</segment>
+		<segment id="25" parent="27" relname="joint">сообщает РИА \"Новости\".\n\nРайт умер в 1985 году,</segment>
+		<segment id="26" parent="27" relname="joint">и статуэтка перешла по наследству его племяннику.</segment>
+		<segment id="29" parent="55" relname="span">Представитель аукционного дома Brairbrook Auctions Нэнси Тейлор отказалась раскрыть имя покупателя.\n\</segment>
+		<segment id="30" parent="31" relname="attribution">nПо ее словам,</segment>
+		<segment id="31" parent="32" relname="span">изначально эксперты Brairbrook Auctions оценивали редкую статуэтку в 5-30 тысяч долларов,</segment>
+		<segment id="33" parent="41" relname="joint">однако перед самым началом торгов цена подскочила до 32 тысяч долларов,</segment>
+		<segment id="34" parent="39" relname="attribution">передает AP.\n\nВысокая цена объяснима тем,</segment>
+		<segment id="35" parent="38" relname="attribution">что Академия кинематографических искусств и наук, присуждающая кинопремию \"Оскар\", постановила,</segment>
+		<segment id="38" parent="39" relname="span">что с 1950 года владельцы, желающие продать статуэтку, обязаны сначала предложить ее академии за один доллар.</segment>
+		<segment id="42" parent="43" relname="cause-effect">Однако в данном случае награда была вручена в 1942 году,</segment>
+		<segment id="43" parent="44" relname="span">поэтому правило на нее не распространяется.\n\nФигурка имеет высоту около 34,3 сантиметра (13,5 дюйма)</segment>
+		<segment id="45" parent="46" relname="joint">и весит около 3,9 килограмма (8,5 фунта).</segment>
+		<segment id="47" parent="51" relname="same-unit">Первоначально награда изготавливалась из бронзы,</segment>
+		<segment id="48" parent="50" relname="span">сейчас ее производит расположенная в Чикаго компания R.S.Owens&Company,</segment>
+		<segment id="49" parent="48" relname="elaboration">используя специальный сплав, покрытый 24-каратным золотом.\n\nИсточник: https://www.newsru.com/cinema/24Jun2014/oscarauct.html\n</segment>
+		<group id="28" type="multinuc" parent="56" relname="joint"/>
+		<group id="24" type="multinuc" parent="28" relname="sequence"/>
+		<group id="23" type="multinuc" parent="24" relname="joint"/>
+		<group id="27" type="multinuc" parent="28" relname="sequence"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="54" type="multinuc" parent="29" relname="elaboration"/>
+		<group id="32" type="span" parent="54" relname="joint"/>
+		<group id="53" type="multinuc" parent="54" relname="joint"/>
+		<group id="41" type="multinuc" parent="53" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="46" type="multinuc" parent="52" relname="joint"/>
+		<group id="44" type="span" parent="46" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="same-unit"/>
+		<group id="56" type="multinuc"/>
+	</body>
+</rst>

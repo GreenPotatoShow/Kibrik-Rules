@@ -1,0 +1,45 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="43" relname="preparation">Пятерых пропавших в Красноярске школьников будут искать и в праздничные дни\n\nВ Красноярске в пятницу на острове Татышев проходит крупномасштабная поисковая операция по розыску пятерых пропавших без вести школьников.</segment>
+		<segment id="17" parent="42" relname="preparation">Поиски детей также идут в районе деревни Коркино и садов Красноярского алюминиевого завода.</segment>
+		<segment id="18" parent="20" relname="span">На помощь милиции вышли студенты юридического техникума, лицеисты и преподаватели школ, представители общественности.\n\nКак сообщили ИТАР-ТАСС в краевом ГУВД,</segment>
+		<segment id="19" parent="18" relname="condition">\"с момента пропажи детей в розыскных мероприятиях участвовало более 13 тысяч сотрудников милиции.</segment>
+		<segment id="21" parent="22" relname="cause-effect">В их числе - не только красноярские милиционеры, но и сотрудники органов внутренних дел всех субъектов Российской Федерации\".\n\nС момента исчезновения детей в оперативный штаб поступило более 330 сообщений о том,</segment>
+		<segment id="22" parent="23" relname="span">что их якобы видели в тех или иных местах.</segment>
+		<segment id="25" parent="26" relname="attribution">Так, водитель, следовавший из Владивостока, сообщил,</segment>
+		<segment id="26" parent="27" relname="span">что видел ребят в районе Улан-Удэ.</segment>
+		<segment id="28" parent="32" relname="span">Поступали звонки из Абакана, Боготола.</segment>
+		<segment id="29" parent="30" relname="attribution">Все сообщения проверены,</segment>
+		<segment id="30" parent="31" relname="span">информация не подтвердилась.\n\n\"Работа по поиску детей будет продолжаться и в выходные дни\",</segment>
+		<segment id="34" parent="35" relname="attribution">- отметили в ГУВД.</segment>
+		<segment id="35" parent="36" relname="span">В числе обследуемых объектов - дачные участки, подвалы, чердаки домов, заброшенные здания, колодцы теплотрасс.\n\nМилиция рассматривает такие версии исчезновения пятерых школьников, как побег из дома, несчастный случай, похищение или убийство.</segment>
+		<segment id="37" parent="39" relname="span">Пятеро мальчиков в возрасте 9-12 лет - Максим Тауманов, Сафар Алиев, Галаш Мамедгасанов, Александр Лавренов и Дмитрий Макаров - пропали 16 апреля,</segment>
+		<segment id="38" parent="37" relname="elaboration">с тех пор об их судьбе ничего не известно.\n\nИсточник: https://www.newsru.com/russia/06May2005/kids.html\n</segment>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="42" type="multinuc" parent="43" relname="span"/>
+		<group id="24" type="multinuc" parent="42" relname="joint"/>
+		<group id="20" type="span" parent="24" relname="joint"/>
+		<group id="23" type="span" parent="24" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="33" type="multinuc" parent="41" relname="joint"/>
+		<group id="27" type="span" parent="33" relname="sequence"/>
+		<group id="32" type="span" parent="33" relname="sequence"/>
+		<group id="31" type="span" parent="28" relname="elaboration"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="36" type="span" parent="40" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="44" type="span"/>
+	</body>
+</rst>

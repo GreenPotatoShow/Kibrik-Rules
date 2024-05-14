@@ -1,0 +1,48 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="23" relname="span">Невеста британского принца Уильяма является потомком английского короля Генриха VIII\n\nНевеста британского принца Уильяма - Кейт Миддлтон является потомком знаменитого английского короля Генриха VIII.</segment>
+		<segment id="18" parent="22" relname="span">Об этом сообщила сегодня радиостанция ВВС.\n\nКейт до сегодняшнего дня считалась представительницей среднего класса современной Англии</segment>
+		<segment id="19" parent="21" relname="joint">- ее мать работала стюардессой,</segment>
+		<segment id="20" parent="21" relname="joint">а дед был летчиком Королевских ВВС.</segment>
+		<segment id="24" parent="26" relname="span">Однако в действительности далеким предком невесты принца Уильяма был, почти наверняка, король Генрих VIII,</segment>
+		<segment id="25" parent="24" relname="elaboration">отмечает радиостанция.\n\nДанный факт установила историк Шарлот Игар во время подготовки материалов о дочери Генриха - королеве Елизавете 1.</segment>
+		<segment id="28" parent="30" relname="span">Она смогла провести прямую линию от любовницы основателя династии Тюдоров до невесты принца из дома Виндзор.\n\</segment>
+		<segment id="29" parent="28" relname="background">nВ результате основу рода Миддлтон положила старшая сестра матери Елизаветы 1 - Мэри Болин.</segment>
+		<segment id="31" parent="45" relname="sequence">На протяжении четырех лет у Мэри был страстный роман с Генрихом VIII.</segment>
+		<segment id="32" parent="36" relname="sequence">После чего она родила в 1524 году девочку - Кэтрин,</segment>
+		<segment id="33" parent="35" relname="span">а спустя два года мальчика - Генри.\n\nКороль не признал своих незаконнорожденных детей,</segment>
+		<segment id="34" parent="33" relname="background">так как Мэри находилась в то время замужем за Уильямом Кейри.</segment>
+		<segment id="37" parent="39" relname="comparison">Именно от этой семьи через 15 поколений и ведет свою родословную Кейт Миддлтон.\n\nИсторики также установили,</segment>
+		<segment id="38" parent="39" relname="comparison">что Кейт также является и родственницей принцессы Дианы - матери ее жениха принца Уильяма.</segment>
+		<segment id="40" parent="42" relname="span">Свадьба Уильяма и Кейт состоится 29 апреля в Вестминстерском аббатстве,</segment>
+		<segment id="41" parent="40" relname="elaboration">где, кстати, покоится Мэри Болин.\n\nИсточник: https://www.newsru.com/world/02Apr2011/keit.html\n</segment>
+		<group id="27" type="multinuc" parent="46" relname="preparation"/>
+		<group id="23" type="span" parent="27" relname="contrast"/>
+		<group id="22" type="span" parent="17" relname="attribution"/>
+		<group id="21" type="multinuc" parent="18" relname="elaboration"/>
+		<group id="26" type="span" parent="27" relname="contrast"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="30" type="span" parent="46" relname="sequence"/>
+		<group id="45" type="multinuc" parent="46" relname="sequence"/>
+		<group id="44" type="multinuc" parent="45" relname="sequence"/>
+		<group id="36" type="multinuc" parent="44" relname="sequence"/>
+		<group id="35" type="span" parent="36" relname="sequence"/>
+		<group id="43" type="multinuc" parent="44" relname="sequence"/>
+		<group id="39" type="multinuc" parent="43" relname="joint"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="47" type="span"/>
+	</body>
+</rst>

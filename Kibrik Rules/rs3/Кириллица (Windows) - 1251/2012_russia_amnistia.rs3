@@ -1,0 +1,165 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="73" parent="81" relname="joint">Медведев решил обсудить с парламентом \"экономическую\" амнистию.</segment>
+		<segment id="74" parent="76" relname="joint">Под нее может попасть</segment>
+		<segment id="75" parent="76" relname="joint">и Ходорковский\n\nУходящий президент Дмитрий Медведев предложил</segment>
+		<segment id="77" parent="79" relname="span">обсудить с парламентом вопрос о возможности объявления амнистии в отношении осужденных за экономические преступления.\n\n\"Амнистия вещь в общем вполне возможная,</segment>
+		<segment id="78" parent="77" relname="cause-effect">в народе непопулярная по понятным причинам,</segment>
+		<segment id="82" parent="84" relname="contrast">потому что все вспоминают \"Холодное лето 53-го\", еще что-нибудь подобное,</segment>
+		<segment id="83" parent="84" relname="contrast">но в принципе, как сигнал, это можно было бы продумать.</segment>
+		<segment id="86" parent="90" relname="span">При этом должны апеллировать к Государственной Думе,</segment>
+		<segment id="87" parent="89" relname="contrast">потому что амнистию объявляет парламент,</segment>
+		<segment id="88" parent="89" relname="contrast">а не президент\",</segment>
+		<segment id="91" parent="90" relname="attribution">- отметил он на заседании \"Открытого правительства\" в Москве во вторник.</segment>
+		<segment id="94" parent="103" relname="attribution">И добавил:</segment>
+		<segment id="95" parent="99" relname="span">\"Давайте обсудим это с парламентом и с отдельными фракциями\",</segment>
+		<segment id="96" parent="97" relname="attribution">передает \"Интерфакс\".\n\nЕго помощник Аркадий Дворкович со своей стороны заявил журналистам после этой встречи,</segment>
+		<segment id="97" parent="98" relname="span">что \"после поручения президента диалог в Госдуме (по этому вопросу) будет активизирован,</segment>
+		<segment id="100" parent="101" relname="attribution">возможно будет найдено решение, которое устроит большинство в Госдуме\".\n\nДворкович отметил,</segment>
+		<segment id="101" parent="102" relname="span">что \"есть разные сведения по количеству осужденных предпринимателей\".</segment>
+		<segment id="105" parent="106" relname="attribution">Так, на на заседании \"Открытого правительства\" во вторник прозвучали данные,</segment>
+		<segment id="106" parent="107" relname="span">что на начало 2012 года наказание по ряду экономических статей отбывали 13 тысяч человек.</segment>
+		<segment id="108" parent="110" relname="joint">\"Возможно больше\",</segment>
+		<segment id="109" parent="110" relname="joint">- не исключил помощник Медведева.\n\nОн привел и другие данные:</segment>
+		<segment id="111" parent="113" relname="span">\"За последние годы к уголовной ответственности привлекались около 3 миллионов бизнесменов по отдельным экономическим статьям\",</segment>
+		<segment id="112" parent="111" relname="attribution">передает ИТАР-ТАСС</segment>
+		<segment id="114" parent="116" relname="joint">.\n\nХодорковский может попасть под эту амнистию,</segment>
+		<segment id="115" parent="116" relname="joint">считает Федотов\n\</segment>
+		<segment id="122" parent="125" relname="condition">nВ случае объявления в России амнистии</segment>
+		<segment id="123" parent="125" relname="span">по экономическим статьям Уголовного кодекса тысячи людей могли бы выйти на свободу,</segment>
+		<segment id="124" parent="123" relname="condition">включая бывших руководителей ЮКОСа Михаила Ходорковского и Платона Лебедева,</segment>
+		<segment id="127" parent="138" relname="attribution">считает глава президентского совета по развитию гражданского общества и правам человека Михаил Федотов.\n\nПо его данным,</segment>
+		<segment id="128" parent="134" relname="joint">\"на сегодняшний день в местах лишения свободы находится около 100 тысяч человек, осужденных за экономические преступления\",</segment>
+		<segment id="129" parent="132" relname="condition">передает \"Интерфакс\".\n\n\"Государственная дума могла бы определить,</segment>
+		<segment id="130" parent="132" relname="contrast">по каким конкретно статьям должна пройти эта амнистия,</segment>
+		<segment id="131" parent="132" relname="contrast">но думаю, общество заинтересовано в том, чтобы в нашу экономическую сферу вернулись честные предприниматели, которые сидят в тюрьме ни за что ни про что.</segment>
+		<segment id="135" parent="137" relname="span">Среди этих 100 тысяч достаточно много таких людей\",</segment>
+		<segment id="136" parent="135" relname="attribution">- заявил Федотов.\n\</segment>
+		<segment id="141" parent="162" relname="solutionhood">nНа вопрос о том, может ли эта \"экономическая\" амнистия коснуться Ходорковского и Лебедева,</segment>
+		<segment id="142" parent="143" relname="attribution">он ответил:</segment>
+		<segment id="143" parent="144" relname="span">\"Думаю, что да.</segment>
+		<segment id="145" parent="149" relname="joint">То, что им было вменено,</segment>
+		<segment id="146" parent="148" relname="span">это сфера экономических преступлений\".\n\nТакая амнистия поможет Путину \"сохранить лицо\",</segment>
+		<segment id="147" parent="146" relname="attribution">убежден адвокат экс-главы ЮКОСа\n\</segment>
+		<segment id="150" parent="159" relname="attribution">nВ то же время адвокат экс-главы ЮКОСа Юрий Шмидт указал,</segment>
+		<segment id="151" parent="153" relname="span">что его клиент может попасть под такую амнистию,</segment>
+		<segment id="152" parent="151" relname="condition">только если у парламентариев \"не будет прямой установки</segment>
+		<segment id="154" parent="157" relname="cause-effect">- ни в коем случае не допустить освобождения Ходорковского,</segment>
+		<segment id="155" parent="157" relname="span">что несложно сделать,</segment>
+		<segment id="156" parent="155" relname="condition">в разных формулировках\".\n\</segment>
+		<segment id="164" parent="173" relname="attribution">nПри этом он убежден,</segment>
+		<segment id="165" parent="167" relname="span">что освобождение Ходорковского по амнистии</segment>
+		<segment id="166" parent="165" relname="interpretation-evaluation">- это идеальный вариант, который устроит всех:</segment>
+		<segment id="168" parent="172" relname="span">Ходорковскому не придется признавать своей вины,</segment>
+		<segment id="169" parent="171" relname="joint">чтобы быть амнистированным,</segment>
+		<segment id="170" parent="171" relname="joint">а власти смогут не отказываться от своей позиции относительно осужденного.\n\n\"Этот вариант не приведет к потере лица ни Путина, ни Медведева,</segment>
+		<segment id="175" parent="174" relname="attribution">- уверен Шмидт.</segment>
+		<segment id="177" parent="187" relname="span">- Эта депутатская инициатива была бы очень позитивно встречена во всем мире\".\n\</segment>
+		<segment id="178" parent="182" relname="span">nНапомним, в середине марта все тот же Президентский совет по правам человека представил Медведеву новое экспертное заключение</segment>
+		<segment id="181" parent="178" relname="attribution">- о том, что глава государства вправе помиловать любого заключенного, не дожидаясь от него прошения.\n\nТаким образом Медведеву дали понять,</segment>
+		<segment id="183" parent="185" relname="span">что он может освободить Ходорковского и Лебедева</segment>
+		<segment id="184" parent="183" relname="condition">без их просьбы.</segment>
+		<segment id="188" parent="206" relname="span">Однако Медведев с такими выводами не согласился,</segment>
+		<segment id="189" parent="190" relname="attribution">ответив,</segment>
+		<segment id="190" parent="191" relname="span">что просто не понимает,</segment>
+		<segment id="192" parent="200" relname="span">почему он должен миловать человека,</segment>
+		<segment id="193" parent="197" relname="joint">который у него об этом не просил</segment>
+		<segment id="194" parent="195" relname="attribution">.\n\nРанее премьер-министр Владимир Путин говорил,</segment>
+		<segment id="195" parent="196" relname="span">что допускает возможность помилования Ходорковского и Лебедева будущим президентом,</segment>
+		<segment id="198" parent="199" relname="contrast">но только в том случае,</segment>
+		<segment id="201" parent="203" relname="joint">если они признают свою вину</segment>
+		<segment id="202" parent="203" relname="joint">и напишут прошение о помиловании.</segment>
+		<segment id="207" parent="209" relname="contrast">Без этого - никак.</segment>
+		<segment id="208" parent="209" relname="contrast">А ни Ходорковский, ни Лебедев своей вины категорически не признают.\n\nИсточник: https://www.newsru.com/russia/10Apr2012/amnistia.html\n</segment>
+		<group id="121" type="span" parent="215" relname="joint"/>
+		<group id="93" type="multinuc" parent="120" relname="solutionhood"/>
+		<group id="85" type="span" parent="93" relname="joint"/>
+		<group id="81" type="multinuc" parent="85" relname="span"/>
+		<group id="80" type="span" parent="81" relname="joint"/>
+		<group id="76" type="multinuc" parent="80" relname="span"/>
+		<group id="79" type="span" parent="76" relname="cause-effect"/>
+		<group id="84" type="multinuc" parent="81" relname="cause-effect"/>
+		<group id="92" type="span" parent="93" relname="joint"/>
+		<group id="90" type="span" parent="92" relname="span"/>
+		<group id="89" type="multinuc" parent="86" relname="cause-effect"/>
+		<group id="120" type="multinuc" parent="121" relname="span"/>
+		<group id="104" type="span" parent="120" relname="joint"/>
+		<group id="103" type="multinuc" parent="104" relname="span"/>
+		<group id="99" type="span" parent="103" relname="joint"/>
+		<group id="98" type="span" parent="95" relname="attribution"/>
+		<group id="102" type="span" parent="103" relname="joint"/>
+		<group id="119" type="multinuc" parent="120" relname="joint"/>
+		<group id="107" type="span" parent="119" relname="joint"/>
+		<group id="118" type="span" parent="119" relname="joint"/>
+		<group id="110" type="multinuc" parent="118" relname="span"/>
+		<group id="117" type="multinuc" parent="110" relname="elaboration"/>
+		<group id="113" type="span" parent="117" relname="joint"/>
+		<group id="116" type="multinuc" parent="117" relname="joint"/>
+		<group id="214" type="multinuc" parent="215" relname="joint"/>
+		<group id="140" type="multinuc" parent="214" relname="joint"/>
+		<group id="126" type="span" parent="140" relname="joint"/>
+		<group id="125" type="span" parent="126" relname="span"/>
+		<group id="139" type="span" parent="140" relname="joint"/>
+		<group id="138" type="span" parent="139" relname="span"/>
+		<group id="134" type="multinuc" parent="138" relname="span"/>
+		<group id="133" type="span" parent="134" relname="joint"/>
+		<group id="132" type="multinuc" parent="133" relname="span"/>
+		<group id="137" type="span" parent="134" relname="interpretation-evaluation"/>
+		<group id="213" type="multinuc" parent="214" relname="joint"/>
+		<group id="163" type="span" parent="213" relname="joint"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="144" type="span" parent="162" relname="span"/>
+		<group id="161" type="multinuc" parent="144" relname="elaboration"/>
+		<group id="149" type="multinuc" parent="161" relname="comparison"/>
+		<group id="148" type="span" parent="149" relname="joint"/>
+		<group id="160" type="span" parent="161" relname="comparison"/>
+		<group id="159" type="multinuc" parent="160" relname="span"/>
+		<group id="153" type="span" parent="159" relname="joint"/>
+		<group id="158" type="span" parent="159" relname="joint"/>
+		<group id="157" type="span" parent="158" relname="span"/>
+		<group id="212" type="multinuc" parent="213" relname="joint"/>
+		<group id="176" type="span" parent="212" relname="joint"/>
+		<group id="174" type="span" parent="176" relname="span"/>
+		<group id="173" type="span" parent="174" relname="span"/>
+		<group id="167" type="span" parent="173" relname="span"/>
+		<group id="172" type="span" parent="167" relname="elaboration"/>
+		<group id="171" type="multinuc" parent="168" relname="purpose"/>
+		<group id="211" type="multinuc" parent="212" relname="joint"/>
+		<group id="187" type="span" parent="211" relname="contrast"/>
+		<group id="186" type="span" parent="177" relname="elaboration"/>
+		<group id="182" type="span" parent="185" relname="attribution"/>
+		<group id="185" type="span" parent="186" relname="span"/>
+		<group id="210" type="span" parent="211" relname="contrast"/>
+		<group id="206" type="span" parent="210" relname="span"/>
+		<group id="205" type="span" parent="188" relname="condition"/>
+		<group id="191" type="span" parent="204" relname="interpretation-evaluation"/>
+		<group id="204" type="span" parent="205" relname="span"/>
+		<group id="200" type="span" parent="204" relname="span"/>
+		<group id="199" type="multinuc" parent="192" relname="background"/>
+		<group id="197" type="multinuc" parent="199" relname="contrast"/>
+		<group id="196" type="span" parent="197" relname="joint"/>
+		<group id="203" type="multinuc" parent="200" relname="condition"/>
+		<group id="209" type="multinuc" parent="206" relname="interpretation-evaluation"/>
+		<group id="215" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,78 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="30" parent="32" relname="span">\"Ведомости\" нашли дом Сечина в Барвихе на земле стоимостью 110 млн долларов\n\nГлава \"Роснефти\" Игорь Сечин строит дом в Барвихе на земле,</segment>
+		<segment id="31" parent="30" relname="elaboration">покупка которой по рыночной стоимости обошлась бы более чем в 110 млн долларов,</segment>
+		<segment id="33" parent="32" relname="attribution">утверждают \"Ведомости\".</segment>
+		<segment id="35" parent="37" relname="span">При этом его соседка, супруга Сергея Чемезова, выставила свой только что построенный дворец на продажу.\n\nПо данным газеты,</segment>
+		<segment id="36" parent="35" relname="background">с осени 2014 года Сечин строит новый дом на Рублевке, возле клинического санатория \"Барвиха\" управделами президента (УДП).</segment>
+		<segment id="38" parent="42" relname="span">Участок Сечина площадью 3 га расположился в центре нового поселка, у которого пока нет названия.</segment>
+		<segment id="39" parent="41" relname="span">Он скрыт от чужих глаз сплошным забором и 100-метровой полосой соснового бора.</segment>
+		<segment id="40" parent="39" relname="elaboration">Рядом участки площадью 3,4 га купили еще три человека с такой же фамилией, включая двух детей руководителя нефтяной компании.\n\n\"Ведомостям\" не удалось выяснить, у кого Сечин приобрел свои гектары и на каких условиях.</segment>
+		<segment id="43" parent="45" relname="span">Но газета смогла оценить стоимость покупки,</segment>
+		<segment id="44" parent="43" relname="condition">если бы цена была рыночной.</segment>
+		<segment id="46" parent="45" relname="evidence">Участок Сечина в 2014 году стоил бы 60 млн долларов.</segment>
+		<segment id="48" parent="50" relname="span">А участки, купленные в 2015 году его детьми Иваном Сечиным, Ингой Каримовой, а также Варварой Сечиной</segment>
+		<segment id="49" parent="48" relname="background">(ее статус в \"Роснефти\" отказались раскрыть)</segment>
+		<segment id="51" parent="52" relname="same-unit">- еще 51 млн.\n\</segment>
+		<segment id="53" parent="55" relname="joint">nСудя по спутниковым снимкам, Сечин ведет активное строительство огромного дворца,</segment>
+		<segment id="54" parent="55" relname="joint">указывают \"Ведомости\".\n\nЗначительная часть расследования \"Ведомостей\" посвящена особняку супруги гендиректора \"Ростеха\" Сергея Чемезова Екатерины Игнатовой.</segment>
+		<segment id="57" parent="58" relname="attribution">В декларации о доходах за 2014 год Чемезов указал,</segment>
+		<segment id="58" parent="59" relname="span">что у его жены появился загородный дом площадью 4442,5 кв. м.</segment>
+		<segment id="60" parent="62" relname="span">Дом на Рублевке такой же площади в октябре прошлого года выставили на продажу сразу несколько агентств.</segment>
+		<segment id="61" parent="60" relname="elaboration">С мая 2016 года цена предложения - 30 млн долларов.</segment>
+		<segment id="63" parent="65" relname="span">Представитель \"Ростеха\" не стала отрицать, что речь идет именно о доме Игнатовой</segment>
+		<segment id="64" parent="63" relname="interpretation-evaluation">.\n\nИгнатова не захотела рассказать,</segment>
+		<segment id="66" parent="67" relname="cause-effect">почему продает только что построенный дом.\n\nАнонимный \"руководитель крупной нефтяной компании\" заявил газете,</segment>
+		<segment id="67" parent="68" relname="span">что Игнатовой перестали нравиться соседи.</segment>
+		<segment id="71" parent="78" relname="attribution">А бывший чиновник прокомментировал:</segment>
+		<segment id="72" parent="74" relname="comparison">\"Скорее лев возляжет с агнцем,</segment>
+		<segment id="73" parent="74" relname="comparison">чем Сечин и Чемезов будут соседями:</segment>
+		<segment id="75" parent="76" relname="attribution">их интересы слишком часто пересекались\".\n\nВ \"Роснефти\" указали,</segment>
+		<segment id="76" parent="77" relname="span">что не комментируют личную жизнь сотрудников компании.\n\nИсточник: https://www.newsru.com/russia/20Jul2016/barviha.html\n</segment>
+		<group id="34" type="span" parent="85" relname="preparation"/>
+		<group id="32" type="span" parent="34" relname="span"/>
+		<group id="85" type="span" parent="86" relname="span"/>
+		<group id="37" type="span" parent="84" relname="preparation"/>
+		<group id="84" type="multinuc" parent="85" relname="span"/>
+		<group id="42" type="span" parent="84" relname="joint"/>
+		<group id="41" type="span" parent="38" relname="elaboration"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="47" type="span" parent="83" relname="joint"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="56" type="multinuc" parent="82" relname="joint"/>
+		<group id="52" type="multinuc" parent="56" relname="joint"/>
+		<group id="50" type="span" parent="52" relname="same-unit"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="81" type="span" parent="82" relname="joint"/>
+		<group id="59" type="span" parent="80" relname="preparation"/>
+		<group id="80" type="multinuc" parent="81" relname="span"/>
+		<group id="70" type="span" parent="80" relname="joint"/>
+		<group id="62" type="span" parent="69" relname="preparation"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="65" type="span" parent="69" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="79" type="span" parent="80" relname="joint"/>
+		<group id="78" type="span" parent="79" relname="span"/>
+		<group id="74" type="multinuc" parent="78" relname="span"/>
+		<group id="77" type="span" parent="74" relname="elaboration"/>
+		<group id="86" type="span"/>
+	</body>
+</rst>

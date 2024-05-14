@@ -1,0 +1,43 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="20" relname="span">Жозе Моуринью укажет тренеру \"ПСЖ\" на слабые места \"Барселоны\"\n\nГлавный тренер мадридского \"Реала\" Жозе Моуринью помогает тренерскому штабу \"ПСЖ\" в подготовке к первому матчу 1/4 финала Лиги чемпионов с \"Барселоной\",</segment>
+		<segment id="19" parent="16" relname="attribution">который состоится 2 апреля.\n\nКак информирует \"Спорт-Экспресс\" со ссылкой на французский журнал L’Equipe, помимо тактических советов и указаний на слабые стороны соперника,</segment>
+		<segment id="21" parent="22" relname="attribution">португалец предоставил Карло Анчелотти подробный отчет и видеоразбор двух победных матчей \"Королевского клуба\" с каталонцами.\n\nСообщается,</segment>
+		<segment id="22" parent="23" relname="span">что о помощи Моуринью попросил президент парижан Нассер Аль-Хелайфи.\n\</segment>
+		<segment id="25" parent="33" relname="span">nНапомним, что лидеры испанской Примеры - \"Барселона\" и \"Реал\" - больше века являются непримиримыми соперниками.</segment>
+		<segment id="26" parent="28" relname="span">Их упорное противостояние,</segment>
+		<segment id="27" parent="26" relname="elaboration">уважительно именуемое \"эль-класико\",</segment>
+		<segment id="29" parent="31" relname="sequence">ведет свою историю с 1902 года</segment>
+		<segment id="30" parent="31" relname="sequence">и насчитывает уже 224 матча.</segment>
+		<segment id="34" parent="36" relname="contrast">По сумме встреч каталонцы проигрывают со счетом 87:89 при 48-ми ничьих.\n\n\"ПСЖ\" сыграет в четвертьфинале Лиги чемпионов всего во второй раз,</segment>
+		<segment id="35" parent="36" relname="contrast">однако это не мешает команде Карло Анчелотти подходить к противостоянию с оптимизмом.</segment>
+		<segment id="37" parent="39" relname="contrast">Парижане не знают поражений в еврокубках на своем поле уже шесть лет,</segment>
+		<segment id="38" parent="39" relname="contrast">а их наставник побеждал в Кубке чемпионов и как игрок, и как тренер.</segment>
+		<segment id="40" parent="41" relname="joint">Кроме того, предыдущее выступление \"ПСЖ\" в четвертьфинале ЛЧ в 1995 году завершилось победой над \"Барселоной\".\n\nИсточник: https://www.newsru.com/sport/29Mar2013/jose.html\n</segment>
+		<group id="24" type="multinuc" parent="44" relname="joint"/>
+		<group id="20" type="span" parent="24" relname="joint"/>
+		<group id="23" type="span" parent="24" relname="joint"/>
+		<group id="43" type="multinuc" parent="44" relname="joint"/>
+		<group id="33" type="span" parent="43" relname="joint"/>
+		<group id="32" type="multinuc" parent="25" relname="elaboration"/>
+		<group id="28" type="span" parent="32" relname="same-unit"/>
+		<group id="31" type="multinuc" parent="32" relname="same-unit"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="36" type="multinuc" parent="42" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="39" type="multinuc" parent="41" relname="joint"/>
+		<group id="44" type="multinuc"/>
+	</body>
+</rst>

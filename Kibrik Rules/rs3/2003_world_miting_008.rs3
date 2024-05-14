@@ -1,0 +1,44 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="26" relname="joint">Более 10 тысяч сторонников главы Аджарии Аслана Абашидзе собрались на митинг в Тбилиси\n\nВ Тбилиси на площади перед зданием парламента начался митинг жителей столицы и других регионов Грузии в поддержку действующей Конституции.</segment>
+		<segment id="19" parent="25" relname="comparison">На проспекте Руставели в настоящее время находятся, по оценке правоохранительных органов, более 10 тысяч человек,</segment>
+		<segment id="20" parent="24" relname="joint">сообщает \"Интерфакс\".\n\nБольшая часть из них участвовала в состоявшемся во вторник во Дворце спорта форуме,</segment>
+		<segment id="21" parent="23" relname="comparison">организованном партией Аслана Абашидзе - главы автономии в составе Грузии Аджарии - \"Союз демократического возрождения\".\n\nНа форуме его организаторами было заявлено,</segment>
+		<segment id="22" parent="23" relname="comparison">что \"народ Грузии противопоставит свою силу фашистам и экстремистам, рвущимся к власти\".\n\</segment>
+		<segment id="27" parent="32" relname="attribution">nОдин из организаторов форума и митинга Цотнэ Бакурия сказал журналистам,</segment>
+		<segment id="28" parent="32" relname="joint">что \"лидер так называемой оппозиции Михаил Саакашвили желал собрать народ на митинг,</segment>
+		<segment id="29" parent="31" relname="contrast">и народ пришел,</segment>
+		<segment id="30" parent="31" relname="contrast">но Саакашвили не место среди народа Грузии\".\n\</segment>
+		<segment id="35" parent="36" relname="attribution">nПо его словам,</segment>
+		<segment id="36" parent="37" relname="span">собравшиеся на площади люди - \"далеко не в восторге от правления президента Шеварднадзе,</segment>
+		<segment id="38" parent="39" relname="contrast">но все процессы, в том числе и протест народа, должен происходить в рамках действующей Конституции\".</segment>
+		<segment id="40" parent="41" relname="attribution">Однако телекомпания \"Рустави-2\" сообщила,</segment>
+		<segment id="41" parent="42" relname="span">что участники этого митинга в Тбилиси были \"насильственно мобилизованы властями на разных предприятиях Тбилиси\".\n\nМежду тем лидеры радикальной оппозиции намерены провести во вторник свой многотысячный митинг с требованием отставки президента в городе Рустави</segment>
+		<segment id="43" parent="47" relname="joint">.\n\nРадикальная грузинская оппозиция,</segment>
+		<segment id="46" parent="47" relname="joint">недовольная итогами парламентских выборов 2 ноября, выступает за их отмену и отставку главы республики Эдуарда Шеварднадзе.\n\nИсточник: https://www.newsru.com/world/18Nov2003/miting.html\n</segment>
+		<group id="34" type="multinuc" parent="50" relname="joint"/>
+		<group id="26" type="multinuc" parent="34" relname="joint"/>
+		<group id="25" type="multinuc" parent="26" relname="joint"/>
+		<group id="24" type="multinuc" parent="25" relname="comparison"/>
+		<group id="23" type="multinuc" parent="24" relname="joint"/>
+		<group id="33" type="span" parent="34" relname="joint"/>
+		<group id="32" type="multinuc" parent="33" relname="span"/>
+		<group id="31" type="multinuc" parent="32" relname="joint"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="39" type="multinuc" parent="49" relname="contrast"/>
+		<group id="37" type="span" parent="39" relname="contrast"/>
+		<group id="48" type="multinuc" parent="49" relname="contrast"/>
+		<group id="42" type="span" parent="48" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="50" type="multinuc"/>
+	</body>
+</rst>

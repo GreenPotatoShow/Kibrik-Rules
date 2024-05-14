@@ -1,0 +1,59 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="25" relname="span">Бейонс Ноулс сыграет легенду блюза Этту Джеймс\n\nR'n'B-дива Бейонс Ноулс подписала контракт на исполнение роли легендарной блюзовой певицы Этты Джеймс в фильме Cadillac Records,</segment>
+		<segment id="24" parent="23" relname="background">посвященном открытию в 1950-х годах чикагской студии звукозаписи Chess Records.</segment>
+		<segment id="26" parent="27" relname="attribution">Согласно условиям контракта,</segment>
+		<segment id="27" parent="28" relname="span">певица должна написать четыре песни для саундтрека фильма,</segment>
+		<segment id="29" parent="30" relname="joint">передает Reuters.\n\nВместе с десятикратной обладательницей музыкальной премии Grammy в картине сыграют Эдриан Броди (\"Поезд на Даджирлинг\", \"Пианист\"), который исполнит роль основателя Chess Records Леонарда Чесса, Джеффри Райт в роли основоположника чикагской школы блюза Мадди Уотерса,</segment>
+		<segment id="31" parent="33" relname="joint">Седрик the Entertainer сыграет блюзового композитора Уилли Диксона,</segment>
+		<segment id="32" parent="33" relname="joint">а Коламбус Шорт - композитора Литтла Уолтера.\n\nДарнелл Мартин (\"Их глаза видели бога\") выступит в качестве режиссера и сценариста проекта студии Sony BMG Films.</segment>
+		<segment id="35" parent="41" relname="joint">Кроме актерской работы, Бейонс займется продюсированием ленты.</segment>
+		<segment id="36" parent="40" relname="joint">Ноулс стала обладательницей престижной кинематографической премии \"Золотой глобус\" за роль Дины Джонс в мюзикле 2006 года \"Девушки мечты\".</segment>
+		<segment id="37" parent="39" relname="span">Среди других ее киноработ роль в фильме \"Остин Пауэрс-3: Голдмембер\", а также в ленте \"Борьба с искушениями\".\n\nБейонс Жизель Ноулз родилась 4 сентября 1981 года в Хьюстоне, штат Техас.</segment>
+		<segment id="38" parent="37" relname="elaboration">Свои первые шаги к большой сцене Бейонс сделала в возрасте 7 лет.</segment>
+		<segment id="42" parent="46" relname="sequence">В начале 1990-х Бейонс вместе со своими двоюродными сестрами Келли Роуланд и Латавией Роберсон создала музыкальный коллектив.</segment>
+		<segment id="43" parent="45" relname="sequence">Вскоре к группе присоединилась еще одна участница Латоя Лакетт.</segment>
+		<segment id="44" parent="45" relname="sequence">Так началось восхождение одного из лучших женских R'n'B-коллективов - Destiny's Child.\n\nВ 1998 году группа записала дебютный одноименный альбом.</segment>
+		<segment id="47" parent="49" relname="span">Главный сингл альбома No No No прорвался на вершины хит-парадов США и Великобритании.</segment>
+		<segment id="48" parent="47" relname="elaboration">Летом 1999 выходит второй альбом The Writing's On The Wall.</segment>
+		<segment id="50" parent="60" relname="span">Однако через год группу покидают две участницы, а чуть позже еще одна.</segment>
+		<segment id="51" parent="53" relname="span">Однако весной 2001 года на прилавках музыкальных магазинов появляется новая работа группы - альбом Survivor,</segment>
+		<segment id="52" parent="51" relname="elaboration">который сразу занимает первое место в хит-параде США.\n\nБейонс стала первой чернокожей исполнительницей и второй женщиной, удостоенной награды в номинации \"Автор поп-песни года\", ежегодно учреждаемой Американским Обществом Композиторов и Авторов (ASCAP).</segment>
+		<segment id="54" parent="56" relname="span">В 2001 году Ноулз дебютировала в качестве актрисы,</segment>
+		<segment id="55" parent="54" relname="condition">снявшись в постановочном шоу MTV.</segment>
+		<segment id="57" parent="58" relname="sequence">Летом 2003 года Бейонс выпустила первый сольный альбом Dangerously In Love.\n\nИсточник: https://www.newsru.com/cinema/21Feb2008/beyonce.html\n</segment>
+		<group id="25" type="span" parent="64" relname="preparation"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="34" type="multinuc" parent="64" relname="joint"/>
+		<group id="30" type="multinuc" parent="34" relname="joint"/>
+		<group id="28" type="span" parent="30" relname="joint"/>
+		<group id="33" type="multinuc" parent="34" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="41" type="multinuc" parent="63" relname="joint"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="46" type="multinuc" parent="62" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="sequence"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="49" type="span" parent="61" relname="joint"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="59" type="multinuc" parent="50" relname="elaboration"/>
+		<group id="53" type="span" parent="59" relname="sequence"/>
+		<group id="58" type="multinuc" parent="59" relname="sequence"/>
+		<group id="56" type="span" parent="58" relname="sequence"/>
+		<group id="65" type="span"/>
+	</body>
+</rst>

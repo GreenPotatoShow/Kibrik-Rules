@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="29" relname="attribution">Максим Горюнов: \"Старик, сочувствующий Сталину,</segment>
+		<segment id="27" parent="29" relname="joint">на самом деле требует у общества достойной смерти\"\n\n\"Уже говорил</segment>
+		<segment id="28" parent="29" relname="joint">и скажу еще</segment>
+		<segment id="33" parent="30" relname="interpretation-evaluation">- старик, сочувствующий Сталину, на самом требует у общества достойной смерти.</segment>
+		<segment id="35" parent="37" relname="joint">Сталин - тот, кто лишает жизни.</segment>
+		<segment id="36" parent="37" relname="joint">Сочувствовать Сталину - желать смерти\",</segment>
+		<segment id="38" parent="39" relname="attribution">- пишет философ и публицист на своей странице в Facebook.\n\n\"Как правило, в странах, где много престарелых сталинистов,</segment>
+		<segment id="39" parent="40" relname="span">переход в мир иной выглядит ужасно.</segment>
+		<segment id="43" parent="49" relname="joint">Нет лекарств, облегчающих переход,</segment>
+		<segment id="44" parent="48" relname="joint">нет специальных клиник,</segment>
+		<segment id="45" parent="47" relname="span">нет персонала.\n\nРоссийские старики до сих пор умирают унизительно, в муках, среди некрасоты.\nКогда престарелый сталинист кричит</segment>
+		<segment id="46" parent="45" relname="attribution">- Сталин!</segment>
+		<segment id="50" parent="54" relname="joint">- он просит у нас</segment>
+		<segment id="51" parent="53" relname="joint">- Дайте мне умереть достойно</segment>
+		<segment id="52" parent="53" relname="joint">!\n\</segment>
+		<segment id="56" parent="61" relname="attribution">nЕсли бы российские старики твердо знали,</segment>
+		<segment id="57" parent="61" relname="joint">что их ждет мягкая комфортная смерть без боли и унизительной слабости,</segment>
+		<segment id="58" parent="59" relname="cause-effect">- смерть, как успение, как сон и растворение в потоке света</segment>
+		<segment id="59" parent="60" relname="span">- они бы забыли о Сталине.</segment>
+		<segment id="63" parent="65" relname="span">Зачем мечтать о пуле в затылок,</segment>
+		<segment id="64" parent="63" relname="condition">когда тебя ждёт комфортный переход в вечный покой?\n\nПроблема в том, что не ждет.</segment>
+		<segment id="66" parent="68" relname="span">И когда престарелая депутат Елена Драпеко кричит с трибуны о луже мочи,</segment>
+		<segment id="67" parent="66" relname="background">в которой лежит окоченевший вождь,</segment>
+		<segment id="69" parent="70" relname="span">она кричит от имени миллионов стариков, которым предстоит нечто подобное\".\n\nИсточник: https://www.newsru.com/blog/25Jan2018/stariki_stalin.html\n</segment>
+		<group id="42" type="multinuc" parent="74" relname="joint"/>
+		<group id="34" type="span" parent="42" relname="joint"/>
+		<group id="30" type="span" parent="34" relname="span"/>
+		<group id="29" type="multinuc" parent="30" relname="span"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="37" type="multinuc" parent="41" relname="span"/>
+		<group id="40" type="span" parent="37" relname="attribution"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="55" type="multinuc" parent="73" relname="joint"/>
+		<group id="49" type="multinuc" parent="55" relname="sequence"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="sequence"/>
+		<group id="53" type="multinuc" parent="54" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="62" type="span" parent="72" relname="joint"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="71" type="multinuc" parent="72" relname="joint"/>
+		<group id="65" type="span" parent="71" relname="joint"/>
+		<group id="70" type="span" parent="71" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="condition"/>
+		<group id="74" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,90 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="38" parent="42" relname="span">Московского рекламиста спутали с лидером \"Войны\":</segment>
+		<segment id="39" parent="41" relname="joint">посадили на 12 часов в \"обезьянник\"</segment>
+		<segment id="40" parent="41" relname="joint">и якобы били по почкам\n\</segment>
+		<segment id="43" parent="45" relname="span">nВ Москве на Кудринской площади вечером во вторник полицейские задержали на 12 часов участника протестного лагеря, сценариста и руководителя творческой группы рекламного агентства DDB Андрея Лукьянова,</segment>
+		<segment id="44" parent="43" relname="elaboration">спутав его с находящимся в розыске лидером арт-группы \"Война\" Олегом Воротниковым.</segment>
+		<segment id="46" parent="49" relname="attribution">Об этом сообщила жена задержанного Елена Заритовская.\n\n\"Они уверяют меня,</segment>
+		<segment id="47" parent="49" relname="contrast">что это не он,</segment>
+		<segment id="48" parent="49" relname="contrast">а Воротников.</segment>
+		<segment id="52" parent="54" relname="span">Если бы вы видели ориентировку на Воротникова... по этому ксероксу можно задержать нас всех\",</segment>
+		<segment id="53" parent="52" relname="attribution">- написала она на своей странице в социальной сети Facebook.</segment>
+		<segment id="56" parent="61" relname="attribution">Женщина утверждает,</segment>
+		<segment id="57" parent="61" relname="sequence">что Лукьянова в отделе полиции \"били по почкам\".\n\nОколо 23:10 Лукьянов отошел в сторону от группы активистов, проводивших собрание на Кудринской,</segment>
+		<segment id="58" parent="60" relname="sequence">после чего к нему сразу подошли полицейские</segment>
+		<segment id="59" parent="60" relname="sequence">и попросили предъявить документы.</segment>
+		<segment id="63" parent="71" relname="joint">Лукьянов показал свои водительские права,</segment>
+		<segment id="64" parent="66" relname="joint">полицейские забрали документ</segment>
+		<segment id="65" parent="66" relname="joint">и отвели активиста в автобус,</segment>
+		<segment id="67" parent="68" relname="condition">никак не поясняя свои действия,</segment>
+		<segment id="68" parent="69" relname="span">пишут \"Грани.ру\".\n\</segment>
+		<segment id="73" parent="74" relname="attribution">nВ свою очередь председатель межрегиональной правозащитной ассоциации \"Агора\" Павел Чиков пишет в своем Twitter,</segment>
+		<segment id="74" parent="75" relname="span">что Лукьянов действительно похож на Воротникова.\n\nВ пресс-службе ГУ МВД РФ по Москве между тем подтвердили факт ошибочного задержания Лукьянова.</segment>
+		<segment id="76" parent="78" relname="span">\"Лукьянов был задержан,</segment>
+		<segment id="77" parent="76" relname="cause-effect">поскольку он похож на человека, находящегося в федеральном розыске за совершение преступлений.</segment>
+		<segment id="81" parent="82" relname="joint">После проведения беседы и установления личности, в том числе проверки по базе данных отпечатков пальцев, он был отпущен\",</segment>
+		<segment id="83" parent="82" relname="attribution">- сообщил сотрудник пресс-службы \"Интерфаксу\".</segment>
+		<segment id="85" parent="92" relname="attribution">В МВД также подчеркнули,</segment>
+		<segment id="86" parent="88" relname="span">что Лукьянов не имеет никаких претензий к полиции.\n\nСам Воротников,</segment>
+		<segment id="87" parent="86" relname="elaboration">в отношении которого возбуждено дело о хулиганстве,</segment>
+		<segment id="89" parent="91" relname="span">в мае 2011 года был объявлен в федеральный розыск,</segment>
+		<segment id="90" parent="89" relname="cause-effect">так как не явился на очередной допрос.</segment>
+		<segment id="94" parent="96" relname="sequence">В конце июля 2011-го суд заочно арестовал Воротникова,</segment>
+		<segment id="95" parent="96" relname="sequence">а позднее он был объявлен в международный розыск.\n\nАрт-группа \"Война\" получила известность благодаря ряду скандальных акций.</segment>
+		<segment id="97" parent="99" relname="joint">В частности, в ночь на 14 июня 2010 года активисты \"Война\" нарисовали гигантский фаллос на пролете разводного Литейного моста в Петербурге напротив здания управления Федеральной службы безопасности по Петербургу и Ленинградской области,</segment>
+		<segment id="98" parent="99" relname="joint">известного в народе как \"Большой дом\".\n\nВ сентябре того же года члены группы провели в Петербурге акцию \"Дворцовый переворот\" с опрокидываем милицейских машин.</segment>
+		<segment id="100" parent="102" relname="joint">По этому факту было возбуждено уголовное дело по статье 213 УК РФ (\"Хулиганство\").</segment>
+		<segment id="101" parent="102" relname="joint">Обвинения были предъявлены Олегу Воротникову и другому активисту \"Войны\" Леониду Николаеву.\n\nИсточник: https://www.newsru.com/russia/23May2012/lukyanov.html\n</segment>
+		<group id="42" type="span" parent="109" relname="preparation"/>
+		<group id="41" type="multinuc" parent="38" relname="elaboration"/>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="55" type="span" parent="109" relname="joint"/>
+		<group id="51" type="span" parent="55" relname="span"/>
+		<group id="45" type="span" parent="51" relname="span"/>
+		<group id="50" type="span" parent="45" relname="attribution"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="54" type="span" parent="51" relname="interpretation-evaluation"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="72" type="multinuc" parent="108" relname="joint"/>
+		<group id="62" type="span" parent="72" relname="sequence"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="60" type="multinuc" parent="61" relname="sequence"/>
+		<group id="71" type="multinuc" parent="72" relname="sequence"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="66" type="multinuc" parent="70" relname="joint"/>
+		<group id="69" type="span" parent="70" relname="joint"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="75" type="span" parent="107" relname="joint"/>
+		<group id="106" type="multinuc" parent="107" relname="joint"/>
+		<group id="84" type="span" parent="106" relname="joint"/>
+		<group id="82" type="multinuc" parent="84" relname="span"/>
+		<group id="78" type="span" parent="82" relname="joint"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="93" type="span" parent="105" relname="joint"/>
+		<group id="92" type="span" parent="93" relname="span"/>
+		<group id="88" type="span" parent="92" relname="span"/>
+		<group id="91" type="span" parent="88" relname="elaboration"/>
+		<group id="104" type="multinuc" parent="105" relname="joint"/>
+		<group id="96" type="multinuc" parent="104" relname="sequence"/>
+		<group id="103" type="multinuc" parent="104" relname="sequence"/>
+		<group id="99" type="multinuc" parent="103" relname="joint"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="110" type="span"/>
+	</body>
+</rst>

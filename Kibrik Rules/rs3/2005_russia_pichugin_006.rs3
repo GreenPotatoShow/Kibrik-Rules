@@ -1,0 +1,210 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="96" parent="98" relname="span">Присяжные вынесут вердикт по делу сотрудника ЮКОСа Алексея Пичугина\n\nПрисяжные вынесут вердикт по делу сотрудника ЮКОСа Алексея Пичугина,</segment>
+		<segment id="97" parent="96" relname="attribution">сообщил адвокат Пичугина Георгий Каганер.\n\n\"Согласно положению Уголовно-процессуального кодекса,</segment>
+		<segment id="99" parent="98" relname="background">сегодня стороны защиты и обвинения составят вопросы, на которые предстоит ответить коллегии присяжных.</segment>
+		<segment id="101" parent="105" relname="joint">В частности, присяжным предстоит определить,</segment>
+		<segment id="102" parent="104" relname="joint">удалось ли следствию доказать вину подсудимых по каждому из инкриминируемым им преступлений,</segment>
+		<segment id="103" parent="104" relname="joint">а также заслуживают ли Пичугин и Пешкун снисхождения\",</segment>
+		<segment id="106" parent="105" relname="attribution">- сказал адвокат.\n\</segment>
+		<segment id="109" parent="110" relname="attribution">nОн напомнил,</segment>
+		<segment id="110" parent="111" relname="span">что вердикт выносится путем голосования присяжных.</segment>
+		<segment id="112" parent="116" relname="same-unit">В среду в суде завершились прения сторон,</segment>
+		<segment id="113" parent="115" relname="contrast">в ходе которых прокуратура просила вынести обвинительный вердикт,</segment>
+		<segment id="114" parent="115" relname="contrast">а защита - оправдательный,</segment>
+		<segment id="117" parent="118" relname="joint">передает РИА \"Новости\".\n\nНачальник четвертого отдела внутренней экономической безопасности ЮКОСа Пичугин был задержан 19 июля 2003 года.\n\nГенпрокуратура РФ обвиняет его в организации покушения на бывшего начальника управления Общественных связей мэрии Москвы, экс-советника бывшего главы ЮКОСа Михаила Ходорковского Ольгу Костину в ноябре 1998 года,</segment>
+		<segment id="119" parent="121" relname="sequence">в организации убийства двоих жителей Тамбова - Ольги и Сергея Гориных - в 2002 году,</segment>
+		<segment id="120" parent="121" relname="sequence">а также в покушении на убийство бывшего сотрудника компании МЕНАТЕП Сергея Колесова в 1998 году.\n\</segment>
+		<segment id="124" parent="125" relname="cause-effect">nВ ходе судебного процесса</segment>
+		<segment id="125" parent="126" relname="span">по ходатайству защиты сотрудника ЮКОСа было прекращено уголовное дело по одному из эпизодов, вменяемых Пичугину.</segment>
+		<segment id="127" parent="130" relname="attribution">По данным Генпрокуратуры,</segment>
+		<segment id="128" parent="129" relname="cause-effect">14 марта 2002 года Пичугин угрожал убийством предпринимателю Сергею Лобикову в Московском дворце молодежи.\n\n\"Статья 119 - \"угроза убийством\" - не относится к категории тяжких,</segment>
+		<segment id="129" parent="130" relname="span">поэтому срок давности по этой статье истекает через два года с момента совершения преступления\",</segment>
+		<segment id="132" parent="131" relname="attribution">- пояснил один из участников судебного процесса.</segment>
+		<segment id="135" parent="145" relname="joint">Пичугин не признает своей вины ни по одному из вменяемых ему эпизодов.</segment>
+		<segment id="136" parent="144" relname="span">В то же время другой фигурант дела - Алексей Пешкун -</segment>
+		<segment id="137" parent="143" relname="joint">частично признал свою вину.\n\</segment>
+		<segment id="138" parent="140" relname="joint">nСвидетели обвинения</segment>
+		<segment id="139" parent="140" relname="joint">– насильники и убийцы,</segment>
+		<segment id="141" parent="140" relname="attribution">заявил адвокат Пичугина\n\</segment>
+		<segment id="146" parent="145" relname="attribution">nКак сообщил NEWSru</segment>
+		<segment id="149" parent="152" relname="attribution">.com один из адвокатов Пичугина,</segment>
+		<segment id="150" parent="151" relname="attribution">на прошедшем судебном заседании прокурор Камиль Кашаев заявил,</segment>
+		<segment id="151" parent="152" relname="span">что вина Пичугина подтверждается показаниями свидетелей.</segment>
+		<segment id="154" parent="158" relname="joint">Очевидно, прокурор Кашаев имел в виду показания участников известной своей жесткостью тамбовской \"банды Коровникова\",</segment>
+		<segment id="155" parent="157" relname="span">рассказал адвокат.\n\nИгорь Коровников был осужден в 2000 году</segment>
+		<segment id="156" parent="155" relname="elaboration">за 8 изнасилований и убийств молодых девушек на пожизненное лишение свободы с конфискацией имущества с отбыванием в исправительной колонии особого режима.</segment>
+		<segment id="160" parent="162" relname="joint">Ранее он был также осужден по статье \"истязание\" на 5 лет лишения свободы условно.\n\nВ состав банды, помимо Коровникова, входили Павел Попов, Владимир Кабанец и Денис Эрбес.</segment>
+		<segment id="161" parent="162" relname="joint">Все они также были осуждены за изнасилования и убийства,</segment>
+		<segment id="163" parent="162" relname="attribution">сообщил адвокат Пичугина.\n\</segment>
+		<segment id="166" parent="169" relname="attribution">nПо его словам,</segment>
+		<segment id="169" parent="170" relname="span">в ходе слушаний представители прокуратуры и судья Наталья Олихвер пытались скрыть нынешний социальный статус указанных \"свидетелей\".\n\nДругие свидетели, допрошенные на процессе по делу Пичугина, показаний против него не давали,</segment>
+		<segment id="171" parent="178" relname="attribution">сообщил NEWSru.com адвокат.</segment>
+		<segment id="172" parent="178" relname="span">Таким образом, прокуратура считает достаточным показаний 4 уголовников,</segment>
+		<segment id="173" parent="175" relname="span">отбывающих длительные сроки лишения свободы в колониях строгого режима и пожизненно осужденного серийного насильника и убийцы,</segment>
+		<segment id="174" parent="173" relname="purpose">для вынесения обвинительного приговора Алексею Пичугину,</segment>
+		<segment id="176" parent="175" relname="attribution">отметил его адвокат.\n\</segment>
+		<segment id="181" parent="188" relname="attribution">nПо словам защитника Пичугина,</segment>
+		<segment id="182" parent="188" relname="joint">в ходе выступления Кашаев постоянно передергивал показания свидетелей</segment>
+		<segment id="183" parent="187" relname="span">и ссылался на показания, которые на самом деле в ходе судебных слушаний не прозвучали.\n\nВсе адвокаты Алексея Пичугина, просили коллегию вынести оправдательное решение,</segment>
+		<segment id="184" parent="185" relname="attribution">заявив,</segment>
+		<segment id="185" parent="186" relname="span">что он не совершал преступлений.</segment>
+		<segment id="190" parent="195" relname="attribution">В ходе прений адвокаты Алексея Пичугина заявили о том,</segment>
+		<segment id="191" parent="195" relname="joint">что в суде так и не была доказана причастность Пичугина к инкриминируемым ему преступлениям,</segment>
+		<segment id="192" parent="193" relname="attribution">а также заинтересованность компании ЮКОС, ее руководства или лично Алексея Пичугина в совершении преступлений, в которых его обвиняют.\n\nКроме того, адвокат Алексея Пешкуна Александр Шишин заявил</segment>
+		<segment id="193" parent="194" relname="span">о возможном самооговоре со стороны своего подзащитного.</segment>
+		<segment id="197" parent="202" relname="preparation">Ранее Пешкун частично признал свою вину.\n\</segment>
+		<segment id="198" parent="202" relname="joint">nНакануне судья Наталья Олихвер запретила адвокатам анализировать перед присяжными речь гособвинителей.</segment>
+		<segment id="199" parent="200" relname="attribution">По словам адвокатов,</segment>
+		<segment id="200" parent="201" relname="span">этот запрет не позволит защитникам показать присяжным явные нестыковки в позиции следователей.\n\</segment>
+		<segment id="204" parent="208" relname="joint">nВ ходе заседания суда с показаниями выступил сам Пичугин</segment>
+		<segment id="205" parent="206" relname="attribution">и вновь заявил,</segment>
+		<segment id="206" parent="207" relname="span">что не виновен в инкриминируемых ему преступлениях.</segment>
+		<segment id="209" parent="213" relname="sequence">В частности, касаясь взаимоотношений с крупнейшим владельцем акций ЮКОСа Леонидом Невзлиным, проходящим по этому делу,</segment>
+		<segment id="210" parent="211" relname="attribution">Пичугин сообщил,</segment>
+		<segment id="211" parent="212" relname="span">что являлся лишь наемным работником.</segment>
+		<segment id="218" parent="241" relname="attribution">Он заявил,</segment>
+		<segment id="219" parent="225" relname="span">что других отношений между крупнейшим владельцем акций ЮКОСа и ним не могло быть.\n\</segment>
+		<segment id="220" parent="223" relname="condition">nГоворя об обвинении в убийстве супругов Гориных,</segment>
+		<segment id="221" parent="222" relname="attribution">Пичугин заявил,</segment>
+		<segment id="222" parent="223" relname="span">что с этой семьей у него были дружеские отношения.</segment>
+		<segment id="226" parent="239" relname="attribution">Он отметил,</segment>
+		<segment id="227" parent="229" relname="span">что судьба пропавших супругов Гориных не могла оставить его безучастным,</segment>
+		<segment id="228" parent="227" relname="cause-effect">так как это были близкие ему люди,</segment>
+		<segment id="230" parent="231" relname="attribution">пояснив,</segment>
+		<segment id="231" parent="232" relname="span">что являлся крестным отцом их сына.\n\nТаким образом,</segment>
+		<segment id="234" parent="237" relname="attribution">отметил Пичугин,</segment>
+		<segment id="235" parent="237" relname="sequence">все обвинения, выдвинутые Генпрокураторой в его адрес, безосновательны.\n\nКроме Пичугина во вторник была снова допрошена Екатерина Рожкова, утверждавшая,</segment>
+		<segment id="236" parent="237" relname="sequence">что по просьбе Невзлина она приносила ему личное дело Костиной.</segment>
+		<segment id="243" parent="249" relname="span">Следователи решили снова ее вызвать,</segment>
+		<segment id="244" parent="248" relname="sequence">поскольку на предыдущих слушаниях свидетели защиты опровергли ее показания.\n\nЕкатерина Рожкова подтвердила ранее данные показания.</segment>
+		<segment id="245" parent="246" relname="attribution">По ее словам,</segment>
+		<segment id="246" parent="247" relname="span">в 1998 году она передала Леониду Невзлину фотографии и личное дело Ольги Костиной.</segment>
+		<segment id="250" parent="251" relname="sequence">А затем Невзлин,</segment>
+		<segment id="252" parent="255" relname="attribution">по мнению следователей,</segment>
+		<segment id="253" parent="255" relname="span">передал их Пичугину</segment>
+		<segment id="254" parent="253" relname="purpose">для организации убийства Костиной</segment>
+		<segment id="258" parent="268" relname="same-unit">.\n\</segment>
+		<segment id="259" parent="266" relname="attribution">nВ ответ адвокаты представили показания Рожковой,</segment>
+		<segment id="260" parent="262" relname="span">данные на предварительном следствии,</segment>
+		<segment id="261" parent="260" relname="elaboration">которые противоречат ее нынешним показаниям,</segment>
+		<segment id="263" parent="265" relname="span">и предложили устроить очную ставку со свидетелями защиты,</segment>
+		<segment id="264" parent="263" relname="purpose">чтобы присяжные сами решили, кто прав.\n\nЕкатерина Рожкова \"просто физически\" не могла взять дело Костиной по поручению Невзлина в 1998 году.</segment>
+		<segment id="270" parent="272" relname="span">Секретарь работала у крупнейшего акционера ЮКОСа только до 1995 года</segment>
+		<segment id="271" parent="270" relname="attribution">- об этом заявляли свидетели защиты.</segment>
+		<segment id="275" parent="276" relname="attribution">Однако судья Наталья Олихвер,</segment>
+		<segment id="276" parent="277" relname="span">отказала адвокатам в проведении очной ставки.\n\nИсточник: https://www.newsru.com/russia/24Mar2005/pichugin.html\n</segment>
+		<group id="108" type="span" parent="283" relname="preparation"/>
+		<group id="100" type="span" parent="108" relname="span"/>
+		<group id="98" type="span" parent="100" relname="span"/>
+		<group id="107" type="span" parent="100" relname="elaboration"/>
+		<group id="105" type="multinuc" parent="107" relname="span"/>
+		<group id="104" type="multinuc" parent="105" relname="joint"/>
+		<group id="283" type="multinuc" parent="284" relname="span"/>
+		<group id="123" type="span" parent="283" relname="joint"/>
+		<group id="111" type="span" parent="122" relname="preparation"/>
+		<group id="122" type="span" parent="123" relname="span"/>
+		<group id="118" type="multinuc" parent="122" relname="span"/>
+		<group id="116" type="multinuc" parent="118" relname="joint"/>
+		<group id="115" type="multinuc" parent="116" relname="same-unit"/>
+		<group id="121" type="multinuc" parent="118" relname="background"/>
+		<group id="282" type="multinuc" parent="283" relname="joint"/>
+		<group id="148" type="multinuc" parent="282" relname="joint"/>
+		<group id="134" type="span" parent="148" relname="joint"/>
+		<group id="126" type="span" parent="134" relname="span"/>
+		<group id="133" type="span" parent="126" relname="elaboration"/>
+		<group id="131" type="span" parent="133" relname="span"/>
+		<group id="130" type="span" parent="131" relname="span"/>
+		<group id="147" type="span" parent="148" relname="joint"/>
+		<group id="145" type="multinuc" parent="147" relname="span"/>
+		<group id="144" type="span" parent="145" relname="joint"/>
+		<group id="143" type="multinuc" parent="136" relname="elaboration"/>
+		<group id="142" type="span" parent="143" relname="joint"/>
+		<group id="140" type="multinuc" parent="142" relname="span"/>
+		<group id="281" type="multinuc" parent="282" relname="joint"/>
+		<group id="165" type="multinuc" parent="281" relname="joint"/>
+		<group id="159" type="multinuc" parent="165" relname="joint"/>
+		<group id="153" type="span" parent="159" relname="joint"/>
+		<group id="152" type="span" parent="153" relname="span"/>
+		<group id="158" type="multinuc" parent="159" relname="joint"/>
+		<group id="157" type="span" parent="158" relname="joint"/>
+		<group id="164" type="span" parent="165" relname="joint"/>
+		<group id="162" type="multinuc" parent="164" relname="span"/>
+		<group id="280" type="multinuc" parent="281" relname="joint"/>
+		<group id="180" type="multinuc" parent="280" relname="joint"/>
+		<group id="170" type="span" parent="180" relname="joint"/>
+		<group id="179" type="span" parent="180" relname="joint"/>
+		<group id="178" type="span" parent="179" relname="span"/>
+		<group id="177" type="span" parent="172" relname="elaboration"/>
+		<group id="175" type="span" parent="177" relname="span"/>
+		<group id="279" type="multinuc" parent="280" relname="joint"/>
+		<group id="217" type="multinuc" parent="279" relname="joint"/>
+		<group id="189" type="span" parent="217" relname="joint"/>
+		<group id="188" type="multinuc" parent="189" relname="span"/>
+		<group id="187" type="span" parent="188" relname="joint"/>
+		<group id="186" type="span" parent="183" relname="elaboration"/>
+		<group id="216" type="multinuc" parent="217" relname="joint"/>
+		<group id="196" type="span" parent="216" relname="joint"/>
+		<group id="195" type="multinuc" parent="196" relname="span"/>
+		<group id="194" type="span" parent="195" relname="joint"/>
+		<group id="215" type="multinuc" parent="216" relname="joint"/>
+		<group id="203" type="span" parent="215" relname="joint"/>
+		<group id="202" type="multinuc" parent="203" relname="span"/>
+		<group id="201" type="span" parent="202" relname="joint"/>
+		<group id="214" type="multinuc" parent="215" relname="joint"/>
+		<group id="208" type="multinuc" parent="214" relname="sequence"/>
+		<group id="207" type="span" parent="208" relname="joint"/>
+		<group id="213" type="multinuc" parent="214" relname="sequence"/>
+		<group id="212" type="span" parent="213" relname="sequence"/>
+		<group id="278" type="multinuc" parent="279" relname="joint"/>
+		<group id="274" type="multinuc" parent="278" relname="contrast"/>
+		<group id="242" type="span" parent="274" relname="joint"/>
+		<group id="241" type="multinuc" parent="242" relname="span"/>
+		<group id="225" type="span" parent="241" relname="joint"/>
+		<group id="224" type="span" parent="219" relname="background"/>
+		<group id="223" type="span" parent="224" relname="span"/>
+		<group id="240" type="span" parent="241" relname="joint"/>
+		<group id="239" type="multinuc" parent="240" relname="span"/>
+		<group id="233" type="span" parent="239" relname="joint"/>
+		<group id="229" type="span" parent="233" relname="span"/>
+		<group id="232" type="span" parent="229" relname="condition"/>
+		<group id="238" type="span" parent="239" relname="joint"/>
+		<group id="237" type="multinuc" parent="238" relname="span"/>
+		<group id="273" type="span" parent="274" relname="joint"/>
+		<group id="269" type="multinuc" parent="273" relname="span"/>
+		<group id="257" type="multinuc" parent="269" relname="joint"/>
+		<group id="251" type="multinuc" parent="257" relname="joint"/>
+		<group id="249" type="span" parent="251" relname="sequence"/>
+		<group id="248" type="multinuc" parent="243" relname="cause-effect"/>
+		<group id="247" type="span" parent="248" relname="sequence"/>
+		<group id="256" type="span" parent="257" relname="joint"/>
+		<group id="255" type="span" parent="256" relname="span"/>
+		<group id="268" type="multinuc" parent="269" relname="joint"/>
+		<group id="267" type="span" parent="268" relname="same-unit"/>
+		<group id="266" type="multinuc" parent="267" relname="span"/>
+		<group id="262" type="span" parent="266" relname="joint"/>
+		<group id="265" type="span" parent="266" relname="joint"/>
+		<group id="272" type="span" parent="269" relname="background"/>
+		<group id="277" type="span" parent="278" relname="contrast"/>
+		<group id="284" type="span"/>
+	</body>
+</rst>

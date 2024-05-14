@@ -1,0 +1,111 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="48" parent="139" relname="preparation">Путин может помочь кабельным телеканалам, которым с 1 января будет запрещено размещать рекламу\n\</segment>
+		<segment id="49" parent="51" relname="span">nС 2015 года в силу вступает запрет для платных кабельных телеканалов на размещение рекламы,</segment>
+		<segment id="50" parent="49" relname="elaboration">который сильно ударит по региональному ТВ.</segment>
+		<segment id="52" parent="53" relname="joint">После жалоб владельцев кабельных каналов Общероссийский народный фронт (ОНФ) попросил президента Владимира Путина разрешить рекламу.</segment>
+		<segment id="54" parent="55" relname="attribution">По словам пресс-секретаря президента Дмитрия Пескова,</segment>
+		<segment id="55" parent="56" relname="span">Путин может поручить проработать эти вопросы.</segment>
+		<segment id="57" parent="56" relname="elaboration">По некоторым данным, уже есть \"политическое решение\".\n\</segment>
+		<segment id="60" parent="63" relname="attribution">nКак отмечает РБК,</segment>
+		<segment id="61" parent="63" relname="span">в Госдуму уже были внесены два подобных законопроекта</segment>
+		<segment id="62" parent="61" relname="elaboration">- о разрешении помещать рекламу на региональных и муниципальных кабельных телеканалах.</segment>
+		<segment id="65" parent="67" relname="span">Но инициативы не были своевременно рассмотрены,</segment>
+		<segment id="66" parent="65" relname="cause-effect">заняться этими вопросами Госдума сможет только в следующем году.\n\</segment>
+		<segment id="69" parent="70" relname="condition">nОднако если идею поддержит президент,</segment>
+		<segment id="70" parent="71" relname="span">то судьба телеканалов может сложиться благоприятно.</segment>
+		<segment id="72" parent="74" relname="comparison">\"Президент, как известно, всегда с вниманием относится к инициативам ОНФ,</segment>
+		<segment id="73" parent="74" relname="comparison">в данном конкретном случае можно предположить, что Владимир Путин поручит проработать упомянутый вопрос соответствующим ведомствам\",</segment>
+		<segment id="75" parent="74" relname="attribution">- цитирует ТАСС Пескова.\n\n\"Ситуация с тяжелым финансовым положением кабельных каналов хорошо известна в профессиональной среде,</segment>
+		<segment id="78" parent="82" relname="same-unit">тем более,</segment>
+		<segment id="79" parent="80" relname="condition">если я не ошибаюсь,</segment>
+		<segment id="80" parent="81" relname="span">в ходе большой пресс-конференции эта тема поднималась журналистами в одном из вопросов\",</segment>
+		<segment id="83" parent="82" relname="attribution">- добавил он.\n\</segment>
+		<segment id="85" parent="87" relname="joint">nНапомним, что поправки в закон \"О рекламе\", запрещающие рекламу на телеканалах,</segment>
+		<segment id="86" parent="87" relname="joint">\"доступ к которым осуществляется исключительно на платной основе и (или) с применением декодирующих технических устройств\", были приняты летом 2014 года.\n\nЗапрет не распространяется на общероссийские обязательные общедоступные телеканалы: \"Первый канал\", \"Россия-1\", \"Россия-2\", \"Россия Культура\", \"Россия 24\", НТВ, \"Пятый канал\", \"Карусель\", \"ТВ Центр\" и \"Общественное телевидение России\".</segment>
+		<segment id="88" parent="90" relname="span">Кроме того, запрет не распространяется на каналы, которые распространяются \"с использованием ограниченного радиочастотного ресурса посредством наземного эфирного вещания\".\n\nЭтой лазейкой, например, воспользовался телеканал LifeNews,</segment>
+		<segment id="89" parent="88" relname="condition">получив лицензию на наземное эфирное вещание,</segment>
+		<segment id="91" parent="95" relname="joint">- запрет не распространяется на каналы, у которых есть эфирная частота хотя бы в одном регионе РФ,</segment>
+		<segment id="94" parent="95" relname="joint">независимо от того, берут ли они плату с подписчиков.\n\</segment>
+		<segment id="97" parent="99" relname="span">nЧто касается кабельных и спутниковых телеканалов,</segment>
+		<segment id="98" parent="97" relname="elaboration">которые пострадают в случае неисполнения требований закона,</segment>
+		<segment id="100" parent="101" relname="comparison">то их, по подсчетам Роскомнадзора, около 1,4 тысячи,</segment>
+		<segment id="102" parent="106" relname="span">включая, например, тематические каналы ВГТРК, Russia Today, \"Дождь\".\n\nСопредседатель центрального штаба ОНФ Александр Бречалов,</segment>
+		<segment id="103" parent="104" relname="condition">обращаясь к Путину,</segment>
+		<segment id="104" parent="105" relname="span">говорил:</segment>
+		<segment id="108" parent="116" relname="joint">\"Только охват аудитории в субъектах Российской Федерации, подпадающих под новые нормы закона \"О рекламе\", - свыше 60 миллионов человек.</segment>
+		<segment id="109" parent="115" relname="span">В этом сегменте рынка задействовано почти шесть тысяч человек.</segment>
+		<segment id="110" parent="114" relname="joint">Вступление в силу закона приведет к увольнению почти 1,7 тысячи человек\".\n\</segment>
+		<segment id="113" parent="114" relname="joint">nПо словам источников РБК, близких к руководству Госдумы и администрации президента, есть политическое решение существенно смягчить запрет рекламы на платных каналах.</segment>
+		<segment id="117" parent="118" relname="cause-effect">Один из источников не исключает,</segment>
+		<segment id="118" parent="119" relname="span">что запрет может быть вовсе отменен.</segment>
+		<segment id="120" parent="121" relname="attribution">Другие источники полагают,</segment>
+		<segment id="121" parent="122" relname="span">что ограничения будут лишь частично пересмотрены.\n\</segment>
+		<segment id="123" parent="125" relname="span">nДобавим, что на прошлой неделе совет директоров холдинга \"Газпром-Медиа\" утвердил отставку его председателя правления Михаила Лесина,</segment>
+		<segment id="124" parent="123" relname="elaboration">который связан с появлением этого запрета,</segment>
+		<segment id="126" parent="127" relname="attribution">- по его словам,</segment>
+		<segment id="127" parent="128" relname="span">он участвовал в обсуждении законопроекта.\n\nИсточник: https://www.newsru.com/russia/29Dec2014/reklama.html\n</segment>
+		<group id="139" type="multinuc" parent="140" relname="span"/>
+		<group id="59" type="span" parent="139" relname="joint"/>
+		<group id="53" type="multinuc" parent="59" relname="span"/>
+		<group id="51" type="span" parent="53" relname="joint"/>
+		<group id="58" type="span" parent="53" relname="interpretation-evaluation"/>
+		<group id="56" type="span" parent="58" relname="span"/>
+		<group id="138" type="multinuc" parent="139" relname="joint"/>
+		<group id="68" type="multinuc" parent="138" relname="joint"/>
+		<group id="64" type="span" parent="68" relname="contrast"/>
+		<group id="63" type="span" parent="64" relname="span"/>
+		<group id="67" type="span" parent="68" relname="contrast"/>
+		<group id="137" type="multinuc" parent="138" relname="joint"/>
+		<group id="77" type="multinuc" parent="137" relname="joint"/>
+		<group id="71" type="span" parent="77" relname="joint"/>
+		<group id="76" type="span" parent="77" relname="joint"/>
+		<group id="74" type="multinuc" parent="76" relname="span"/>
+		<group id="136" type="multinuc" parent="137" relname="joint"/>
+		<group id="84" type="span" parent="136" relname="joint"/>
+		<group id="82" type="multinuc" parent="84" relname="span"/>
+		<group id="81" type="span" parent="82" relname="same-unit"/>
+		<group id="135" type="multinuc" parent="136" relname="joint"/>
+		<group id="87" type="multinuc" parent="135" relname="joint"/>
+		<group id="134" type="multinuc" parent="135" relname="joint"/>
+		<group id="96" type="multinuc" parent="134" relname="joint"/>
+		<group id="90" type="span" parent="96" relname="contrast"/>
+		<group id="95" type="multinuc" parent="96" relname="contrast"/>
+		<group id="133" type="multinuc" parent="134" relname="joint"/>
+		<group id="107" type="span" parent="133" relname="joint"/>
+		<group id="101" type="multinuc" parent="107" relname="span"/>
+		<group id="99" type="span" parent="101" relname="comparison"/>
+		<group id="106" type="span" parent="101" relname="condition"/>
+		<group id="105" type="span" parent="102" relname="attribution"/>
+		<group id="132" type="multinuc" parent="133" relname="joint"/>
+		<group id="116" type="multinuc" parent="132" relname="joint"/>
+		<group id="115" type="span" parent="116" relname="joint"/>
+		<group id="114" type="multinuc" parent="109" relname="elaboration"/>
+		<group id="131" type="multinuc" parent="132" relname="joint"/>
+		<group id="119" type="span" parent="131" relname="joint"/>
+		<group id="130" type="multinuc" parent="131" relname="joint"/>
+		<group id="122" type="span" parent="130" relname="joint"/>
+		<group id="129" type="span" parent="130" relname="joint"/>
+		<group id="125" type="span" parent="129" relname="span"/>
+		<group id="128" type="span" parent="125" relname="attribution"/>
+		<group id="140" type="span"/>
+	</body>
+</rst>

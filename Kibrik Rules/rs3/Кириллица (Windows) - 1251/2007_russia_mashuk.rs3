@@ -1,0 +1,70 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="28" parent="32" relname="span">В Ростове-на-Дону прошел митинг в защиту горы Машук,</segment>
+		<segment id="31" parent="28" relname="elaboration">распродаваемую под коттеджи\n\nУ здания полпредства президента в Южном федеральном округе состоялся пикет в защиту историко-культурного заповедника горы Машук, расположенного в районе Кавказских Минеральных Вод под Пятигорском.</segment>
+		<segment id="33" parent="37" relname="joint">Митинг, участие в котором приняли около ста человек,</segment>
+		<segment id="34" parent="35" relname="cause-effect">был организован активистами гражданской инициативы \"Ставрополье без коррупции\".\n\nКак передает ИА \"Росбалт\",</segment>
+		<segment id="35" parent="36" relname="span">в мероприятии приняли участие жители Пятигорска и ростовчане.</segment>
+		<segment id="38" parent="40" relname="joint">Пикетчики держали в руках плакаты</segment>
+		<segment id="39" parent="40" relname="joint">и скандировали:</segment>
+		<segment id="41" parent="47" relname="joint">\"Козак, защити наш заповедник\", \"Президент, скажи \"нет\" коррупции в Ставрополье\", \"Позор губернатору-единороссу Черногорову\" и др.\n\</segment>
+		<segment id="42" parent="44" relname="span">nПо словам представителя движения \"Ставрополье без коррупции\" Сергея Семёнова,</segment>
+		<segment id="43" parent="42" relname="elaboration">к ним за помощью в организации акции протеста \"обратились жители Пятигорска,</segment>
+		<segment id="45" parent="44" relname="elaboration">возмущенные отсутствием реакции федеральных властей на вопиющие факты ухудшения экологической ситуации в крае\".</segment>
+		<segment id="49" parent="52" relname="attribution">Семёнов пояснил,</segment>
+		<segment id="50" parent="52" relname="sequence">что \"пятигорская и краевая администрации осуществили незаконный перевод 37,3 га реликтовых лесов на западном склоне горы Машук в категорию нелесных земель,</segment>
+		<segment id="51" parent="52" relname="sequence">а потом продали их частной фирме под коттеджи\".\n\</segment>
+		<segment id="57" parent="58" relname="attribution">nУчастники инициативной группы жителей Пятигорска пояснили,</segment>
+		<segment id="58" parent="59" relname="span">что официальное распоряжение об изменении статуса земель историко-культурного заповедника на Машуке подписал губернатор Ставропольского края Александр Черногоров в сентябре 2005 года,</segment>
+		<segment id="60" parent="68" relname="span">а уже в декабре того же года 37,3 га реликтовых лесов оказались в собственности местных бизнесменов Афанасовых.\n\</segment>
+		<segment id="61" parent="67" relname="joint">nКак следует из распространенного во вторник обращения к общественности,</segment>
+		<segment id="62" parent="66" relname="span">губернатор Ставропольского края Александр Черногоров подписал свое распоряжение</segment>
+		<segment id="63" parent="65" relname="span">без проведения необходимых для этого государственной экологической и историко-культурной экспертиз,</segment>
+		<segment id="64" parent="63" relname="cause-effect">нарушив тем самым закон.\n\n</segment>
+		<segment id="70" parent="74" relname="span">\"Наша инициативная группа собрала факты преступной деятельности чиновников края и города,</segment>
+		<segment id="71" parent="73" relname="sequence">которые изложила в Гражданской петиции</segment>
+		<segment id="72" parent="73" relname="sequence">и направила ее летом прошлого года в Генпрокуратуру РФ, ФСБ России и Администрацию президента РФ,</segment>
+		<segment id="75" parent="76" relname="contrast">но от федеральных властей пока никакой реакции не последовало\",</segment>
+		<segment id="77" parent="76" relname="attribution">- подчеркнул Сергей Семёнов.\n\nИсточник: https://www.newsru.com/russia/06Feb2007/mashuk.html\n</segment>
+		<group id="56" type="span" parent="80" relname="joint"/>
+		<group id="32" type="span" parent="55" relname="preparation"/>
+		<group id="55" type="multinuc" parent="56" relname="span"/>
+		<group id="37" type="multinuc" parent="55" relname="joint"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="joint"/>
+		<group id="48" type="span" parent="54" relname="joint"/>
+		<group id="40" type="multinuc" parent="48" relname="span"/>
+		<group id="47" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="44" type="span" parent="46" relname="span"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="79" type="multinuc" parent="80" relname="joint"/>
+		<group id="69" type="multinuc" parent="79" relname="joint"/>
+		<group id="59" type="span" parent="69" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="67" type="multinuc" parent="60" relname="elaboration"/>
+		<group id="66" type="span" parent="67" relname="joint"/>
+		<group id="65" type="span" parent="62" relname="purpose"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="76" type="multinuc" parent="78" relname="span"/>
+		<group id="74" type="span" parent="76" relname="contrast"/>
+		<group id="73" type="multinuc" parent="70" relname="elaboration"/>
+		<group id="80" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,46 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="21" relname="span">В аэропорту Израиля были подняты по тревоге спасатели:</segment>
+		<segment id="18" parent="19" relname="cause-effect">аварийно сел рейс на Москву\n\nВ израильском международном аэропорту имени Бен-Гуриона сегодня были подняты по тревоге спасатели.\n\nПассажирский самолет авиакомпании \"Эль-Аль\", вылетевший рейсом в Москву,</segment>
+		<segment id="19" parent="20" relname="span">вынужден был повернуть назад.</segment>
+		<segment id="22" parent="46" relname="joint">По предварительным данным, решение о возвращении было принято \"по техническим причинам\".</segment>
+		<segment id="23" parent="25" relname="span">Пилот самолета,</segment>
+		<segment id="24" parent="23" relname="condition">услышав \"странный шум\" в отсеке шасси,</segment>
+		<segment id="26" parent="28" relname="sequence">решил прервать полет</segment>
+		<segment id="27" parent="28" relname="sequence">и вернуться в аэропорт Тель-Авива.\n\nВ интервью радиостанции \"Коль Исраэль\" представитель компании сообщил,</segment>
+		<segment id="29" parent="30" relname="span">что \"проблема, по всей видимости, возникла в левом шасси\",</segment>
+		<segment id="32" parent="43" relname="attribution">передает NEWSru Israel.\n\nПредставительница авиакомпании \"Эль-Аль\" сообщила редакции NEWSru Israel,</segment>
+		<segment id="33" parent="35" relname="span">что речь идет о 611-м рейсе</segment>
+		<segment id="34" parent="33" relname="elaboration">(вылетевшем в Москву около 6 утра).</segment>
+		<segment id="36" parent="42" relname="span">На борту самолета Boeing-737 находятся 107 пассажиров и члены экипажа.</segment>
+		<segment id="37" parent="41" relname="joint">Никакой опасности для жизни пассажиров нет.\n\</segment>
+		<segment id="38" parent="40" relname="sequence">nПосле того, как на пульт диспетчера поступило сообщение об аварийном возвращении,</segment>
+		<segment id="39" parent="40" relname="sequence">в район посадки были направлены около 30 санитарных машин и машины пожарной службы.\n\nВ 9:45 по московскому времени борт 611 совершил благополучную посадку.\n\nИсточник: https://www.newsru.com/world/18Apr2006/samolet.html\n</segment>
+		<group id="21" type="span" parent="47" relname="joint"/>
+		<group id="20" type="span" parent="17" relname="elaboration"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="31" type="multinuc" parent="45" relname="joint"/>
+		<group id="25" type="span" parent="31" relname="joint"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="28" type="multinuc" parent="29" relname="attribution"/>
+		<group id="44" type="span" parent="45" relname="joint"/>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="35" type="span" parent="43" relname="span"/>
+		<group id="42" type="span" parent="35" relname="elaboration"/>
+		<group id="41" type="multinuc" parent="36" relname="elaboration"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="47" type="multinuc"/>
+	</body>
+</rst>

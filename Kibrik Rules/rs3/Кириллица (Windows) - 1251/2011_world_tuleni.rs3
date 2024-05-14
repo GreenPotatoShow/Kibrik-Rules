@@ -1,0 +1,83 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="35" parent="37" relname="span">В прикаспийской области Казахстана обнаружены 48 мертвых тюленей\n\nВ прикаспийской Мангистауской области Казахстана в районе водозащитной дамбы месторождения Каламкас обнаружены 48 мертвых тюленей.</segment>
+		<segment id="36" parent="35" relname="elaboration">Их нашли 11 мая.</segment>
+		<segment id="38" parent="42" relname="span">Среди погибших животных 43 взрослые особи и 5 молодых.</segment>
+		<segment id="39" parent="41" relname="span">Об этом сообщает \"Интерфакс\" со ссылкой на директора неправительственного учреждения \"Эко Мангистау\",</segment>
+		<segment id="40" parent="39" relname="elaboration">расположенного в Актау (административный центр региона), Кирилла Осина.\n\n</segment>
+		<segment id="44" parent="46" relname="joint">\"Работники ветеринарной службы провели патолого-анатомическое вскрытие туш тюленей,</segment>
+		<segment id="45" parent="46" relname="joint">взятые органы отправлены в Астану в республиканский центр по ветеринарии на экспертизу\",</segment>
+		<segment id="47" parent="46" relname="attribution">- сказал Осин.</segment>
+		<segment id="50" parent="51" relname="attribution">Между тем, по его словам,</segment>
+		<segment id="51" parent="52" relname="span">анализ воды не выявил каких-либо отклонений.\n\</segment>
+		<segment id="53" parent="54" relname="attribution">nПри этом он отметил,</segment>
+		<segment id="54" parent="55" relname="span">что говорить о массовой гибели тюленей нельзя.</segment>
+		<segment id="56" parent="58" relname="span">\"Нужно дождаться результатов экспертизы\",</segment>
+		<segment id="57" parent="56" relname="attribution">- сказал Осин.\n\nЗа день до этого, 10 мая, в поселке Баутино были обнаружены еще восемь туш погибших тюленей.</segment>
+		<segment id="59" parent="62" relname="attribution">Согласно заключению экспертов,</segment>
+		<segment id="60" parent="62" relname="joint">часть животных погибла в начале года,</segment>
+		<segment id="61" parent="62" relname="joint">смерть остальных наступила около полутора-двух лет назад.\n\</segment>
+		<segment id="64" parent="70" relname="span">nСтоит отметить, что в последние годы на Каспии неоднократно отмечались случаи массовой гибели тюленей.</segment>
+		<segment id="65" parent="69" relname="span">Так, в 2000 году в казахстанской зоне ответственности Каспия погибло более 12 тысяч тюленей.\n\</segment>
+		<segment id="66" parent="68" relname="joint">nПо одной из версий, лед на Каспии тогда растаял очень быстро,</segment>
+		<segment id="67" parent="68" relname="joint">и неокрепшее, не приспособленное к самостоятельной жизни потомство тюленей оказалось в воде.</segment>
+		<segment id="71" parent="75" relname="span">Далее у слабого молодняка стали развиваться болезни бактериологического характера,</segment>
+		<segment id="72" parent="74" relname="span">в частности пастереллез,</segment>
+		<segment id="73" parent="72" relname="elaboration">который мог послужить причиной массовой гибели животных.\n\</segment>
+		<segment id="76" parent="82" relname="span">nВ 2007 году в казахстанском секторе Каспия погибло около 1 тысячи тюленей.</segment>
+		<segment id="77" parent="81" relname="joint">Межведомственная комиссия,</segment>
+		<segment id="78" parent="79" relname="attribution">занимавшаяся расследованием причин мора животных, заявляла,</segment>
+		<segment id="79" parent="80" relname="span">что тюлени погибли в результате заражения вирусом чумы плотоядных.</segment>
+		<segment id="84" parent="88" relname="comparison">В октябре 2008 года статус этого морского млекопитающего был изменен с категории \"уязвимого\" на \"находящегося под угрозой исчезновения\".\n\</segment>
+		<segment id="85" parent="87" relname="comparison">nВ 2009 году на казахстанском побережье Каспия были обнаружены еще несколько сотен туш тюленей.</segment>
+		<segment id="86" parent="87" relname="comparison">По состоянию на март 2010 года популяция тюленей в казахстанской части Каспия составляла порядка 8 тысяч особей.</segment>
+		<segment id="89" parent="92" relname="attribution">Между тем, по данным экспертов,</segment>
+		<segment id="90" parent="92" relname="comparison">в начале 20-х годов прошлого века их популяция на Каспии превышала 1 млн особей,</segment>
+		<segment id="91" parent="92" relname="comparison">а сейчас их количество сократилось до 100 тысяч.\n\nИсточник: https://www.newsru.com/world/16May2011/tuleni.html\n</segment>
+		<group id="49" type="multinuc" parent="100" relname="preparation"/>
+		<group id="43" type="multinuc" parent="49" relname="joint"/>
+		<group id="37" type="span" parent="43" relname="joint"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="41" type="span" parent="38" relname="attribution"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="46" type="multinuc" parent="48" relname="span"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="52" type="span" parent="99" relname="preparation"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="55" type="span" parent="98" relname="preparation"/>
+		<group id="98" type="span" parent="99" relname="span"/>
+		<group id="58" type="span" parent="97" relname="preparation"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="63" type="span" parent="96" relname="preparation"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="96" type="multinuc" parent="97" relname="span"/>
+		<group id="70" type="span" parent="96" relname="joint"/>
+		<group id="69" type="span" parent="64" relname="background"/>
+		<group id="68" type="multinuc" parent="65" relname="elaboration"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="83" type="multinuc" parent="95" relname="joint"/>
+		<group id="75" type="span" parent="83" relname="joint"/>
+		<group id="74" type="span" parent="71" relname="elaboration"/>
+		<group id="82" type="span" parent="83" relname="joint"/>
+		<group id="81" type="multinuc" parent="76" relname="elaboration"/>
+		<group id="80" type="span" parent="81" relname="joint"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="88" type="multinuc" parent="94" relname="comparison"/>
+		<group id="87" type="multinuc" parent="88" relname="comparison"/>
+		<group id="93" type="span" parent="94" relname="comparison"/>
+		<group id="92" type="multinuc" parent="93" relname="span"/>
+		<group id="101" type="span"/>
+	</body>
+</rst>

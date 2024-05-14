@@ -1,4 +1,5 @@
 #include "TextLoader.h"
+#include "TreeCreator.h"
 #include "macros.h"
 
 #include "KNKernel.h"
@@ -7,6 +8,8 @@
 #include <list>
 #include <fstream>
 #include <iostream>
+#include <map>
+#include <algorithm>
 
 bool isEntity(const IKNWordShell* wordShell) {
 	const char* noun = "Сущ";
@@ -16,19 +19,11 @@ bool isEntity(const IKNWordShell* wordShell) {
 	return ((*partSpeech == *noun) || (*partSpeech == *pronoun));
 }
 
-//убираем из текста \n \t и прочее
-std::string clearText(std::string text) {
-	auto position = text.find("\\");
-	while (position != std::string::npos) {
-		text.erase(position, 2);
-		position = text.find("\\");
-	}
-	return text;
-}
 
 
 TextLoader::TextLoader(std::string fileName) {
 	setlocale(LC_ALL, "Russian");
+	char* oProperty = new char;
 	uint lastPosId = 0;
 	uint* end_pos = new uint;
 	int position;
@@ -37,6 +32,7 @@ TextLoader::TextLoader(std::string fileName) {
 	std::string textStr, line, word;
 	bool isVerb = false;
 	std::ifstream file;
+	this->fileName = fileName;
 	file.open(INPUT_DIRECTORY+fileName);
 	while (!file.eof()) {
 		getline(file, line);
@@ -44,15 +40,14 @@ TextLoader::TextLoader(std::string fileName) {
 	}
 	this->text = textStr;
 	
-	std::string clearedTextStr = clearText(textStr);
-	char * text = const_cast<char*>(clearedTextStr.c_str());
+	char * text = const_cast<char*>(textStr.c_str());
 	this->manager= GenerateAPIManager();
 	this->manager->Create();
 	this->engine = manager->GetEngine();
 	this->engine->Run(text, 0, len);
 
 	//ищем сущности
-	std::list<const IKNWordShell*> entities;
+	std::list<IKNWordShell*> entities;
 	this->entities = entities;
 
 	IKNResultList* resultList = engine->GetResultList();
@@ -64,12 +59,13 @@ TextLoader::TextLoader(std::string fileName) {
 	auto partSpeech = iknWord->GetPartSpeech();
 	while (wordShell != NULL) {
 		iknWord = wordShell->GetWord();
+		//std::cout << wordShell->GetForm() << " " << oProperty << "\n";
 		partSpeech = iknWord->GetPartSpeech();
 		if (isEntity(wordShell)) {
 			this->entities.push_back(wordShell);
 		}
-		std::cout << wordShell->GetForm() << " "<< partSpeech<<"\n";
-		lastPosId = wordShell->GetTextPos(end_pos);
+		lastPosId = wordShell->GetTextPos(end_pos); //первый символ нумеруется как 1
+		//std::cout << wordShell->GetForm() << " " << lastPosId << "\n";
 		wordShell = resultList->GetNextWordShell();
 		while (wordShell->GetTextPos(end_pos) == lastPosId) {
 			lastPosId = wordShell->GetTextPos(end_pos);
@@ -77,6 +73,8 @@ TextLoader::TextLoader(std::string fileName) {
 			if (!wordShell) { break; }
 		}
 	}
+	TreeCreator treeCreator(fileName);
+	this-> RSTNodes=treeCreator.getRSTNods();
 
 	file.close();
 }
@@ -85,14 +83,14 @@ TextLoader::~TextLoader() {
 	this->manager->Release();
 }
 
-const std::list<const IKNWordShell*> TextLoader::getEntities() const{
+const std::list<IKNWordShell*> TextLoader::getEntities() const{
 	return this->entities;
 };
 
 int TextLoader::linearDistance(int first, int second) const{
 	uint lastPosId = 0;
 	std::string word, text;
-	int value = 0;
+	int value = 1;
 	uint* end_pos = new uint;
 	text = this->text;
 	IKNResultList* resultList;
@@ -141,25 +139,78 @@ int TextLoader::paragraphDistance(int first, int second) const{
 	return value;
 }
 
-double TextLoader::activationСoeff(int first, int second) const{
+int TextLoader::rhetoricalDistance(int first, int second) const {
+	int value = 1;
+
+	int commonNodeId=0;
+	std::vector<int> idsGoingUp;
+	Rs3Tree* nodeForFirst=new Rs3Tree;
+	Rs3Tree* nodeForSecond = new Rs3Tree;
+	for (const auto& pairobj : this->RSTNodes) {
+		if ((first >= pairobj.second->getRangeBegin()) && (first <= pairobj.second->getRangeEnd())) {
+			*nodeForFirst=*pairobj.second;
+		}
+		if ((second >= pairobj.second->getRangeBegin()) && (second <= pairobj.second->getRangeEnd())) {
+			*nodeForSecond = *pairobj.second;
+			break;
+		}
+	}
+	while (nodeForFirst != nullptr) {
+		idsGoingUp.push_back(nodeForFirst->getId());
+		nodeForFirst = nodeForFirst->getParent();
+	}
+	while (nodeForSecond != nullptr) {
+		if (std::binary_search(idsGoingUp.begin(), idsGoingUp.end(), nodeForSecond->getId())) {
+			commonNodeId = nodeForSecond->getId();
+			break;
+		};
+		value += 1;
+		nodeForSecond = nodeForSecond->getParent();
+	}
+
+	value += std::find(idsGoingUp.begin(), idsGoingUp.end(), commonNodeId)- idsGoingUp.begin();
+
+
+	return value;
+}
+
+double TextLoader::activationСoeff(int first, int second, bool isFirstProtagonist, int sizeOfChain) const{
 	double CA = 0;
 	int linD = this->linearDistance(first, second);
 	int paraD = this->paragraphDistance(first, second);
+	int RhD = this->rhetoricalDistance(first, second);
 
 	switch (linD)
 	{
-	case 0: break;
 	case 1: break;
 	case 2: CA -= 0.1; break;
 	case 3: CA -= 0.2; break;
-	default: CA -= 0.3; break;
+	case 4: CA -= 0.3; break;
+	default: CA -= 0.5; break;
 	}
 
 	switch (paraD)
 	{
 	case 0: break;
-	case 1: CA -= 0.3; break;
-	default: CA -= 0.5; break;
+	case 1: CA -= 0.2; break;
+	default: CA -= 0.4; break;
 	}
+
+	switch (RhD)
+	{
+	case 1: CA += 0.7; break;
+	case 2: CA += 0.4; break;
+	case 3: CA += 0; break;
+	default: CA -= 0.3; break;
+	}
+
+	//protagonism
+	if ((isFirstProtagonist) && (sizeOfChain == 1)) {
+		CA += 0.3;
+	}
+	else if ((isFirstProtagonist) && (sizeOfChain == 2)) {
+		CA += 0.1;
+	}
+
 	return CA;
 }

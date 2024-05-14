@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="23" relname="cause-effect">Наталья Пелевина: \"Как меня не пускали домой, в Россию\"\n\n\"На паспортном контроле девушка, загрузив мои паспортные данные в базу,</segment>
+		<segment id="19" parent="22" relname="interpretation-evaluation">заметно оживилась,</segment>
+		<segment id="20" parent="22" relname="joint">увидев что-то на экране,</segment>
+		<segment id="21" parent="22" relname="joint">и взялась за белую телефонную трубку.</segment>
+		<segment id="25" parent="27" relname="span">\"Подождите у кабинки\"</segment>
+		<segment id="26" parent="25" relname="attribution">,- сказала.</segment>
+		<segment id="28" parent="29" relname="sequence">Очередь напряглась.</segment>
+		<segment id="30" parent="32" relname="sequence">Через пару минут пришел человек в погонах</segment>
+		<segment id="31" parent="32" relname="sequence">и предложил пройти с ним.</segment>
+		<segment id="33" parent="43" relname="joint">В комнате 3m на 3m к нам присоединился человек без погон</segment>
+		<segment id="34" parent="42" relname="same-unit">и,</segment>
+		<segment id="35" parent="41" relname="sequence">сев напротив меня,</segment>
+		<segment id="36" parent="40" relname="joint">они вдвоем начали странную форму допроса.\n\nЕсть ли у меня грин карта или второе гражданство,</segment>
+		<segment id="37" parent="39" relname="joint">и было ли когда-нибудь,</segment>
+		<segment id="38" parent="39" relname="joint">интересовались они.</segment>
+		<segment id="44" parent="45" relname="attribution">На мой протест о незаконности происходящего они ответили,</segment>
+		<segment id="45" parent="46" relname="span">что имеют и право и, возможно, даже задержат меня на 48 часов\".\n\nИсточник: https://www.newsru.com/blog/28Mar2014/usarusia.html\n</segment>
+		<group id="24" type="span" parent="49" relname="preparation"/>
+		<group id="23" type="span" parent="24" relname="span"/>
+		<group id="22" type="multinuc" parent="23" relname="span"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="29" type="multinuc" parent="49" relname="sequence"/>
+		<group id="27" type="span" parent="29" relname="sequence"/>
+		<group id="48" type="multinuc" parent="49" relname="sequence"/>
+		<group id="32" type="multinuc" parent="48" relname="sequence"/>
+		<group id="47" type="span" parent="48" relname="sequence"/>
+		<group id="43" type="multinuc" parent="46" relname="solutionhood"/>
+		<group id="42" type="multinuc" parent="43" relname="joint"/>
+		<group id="41" type="multinuc" parent="42" relname="same-unit"/>
+		<group id="40" type="multinuc" parent="41" relname="sequence"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

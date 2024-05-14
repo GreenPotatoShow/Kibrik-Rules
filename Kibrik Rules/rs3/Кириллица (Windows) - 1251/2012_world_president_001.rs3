@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="31" relname="sequence">Стать президентом Египта изъявили желание почти 200 человек\n\nВ Египте почти 200 человек уже изъявили желание баллотироваться на высший государственный пост.\n\nТолько в субботу, 10 марта, в первый день кампании по регистрации кандидатов в президенты,</segment>
+		<segment id="28" parent="30" relname="span">Высшую избирательную комиссию посетили 199 человек,</segment>
+		<segment id="29" parent="28" relname="elaboration">которые получили необходимый пакет документов с условиями и порядком выдвижения кандидатур,</segment>
+		<segment id="32" parent="34" relname="span">передает ИТАР-ТАСС.\n\nОфициально пока никто не зарегистрирован кандидатом на президентских выборах,</segment>
+		<segment id="33" parent="32" relname="elaboration">которые пройдут в Египте 23-24 мая.\n\</segment>
+		<segment id="36" parent="37" relname="attribution">nКак пояснил в связи с этим глава избиркома Фарук Султан,</segment>
+		<segment id="37" parent="38" relname="span">регистрация и получение статуса кандидата - это последний шаг, которому предшествует кропотливая работа по сбору подписей и выполнению ряда других требований</segment>
+		<segment id="39" parent="43" relname="comparison">.\n\nВо-первых, выдвиженцам необходимо заручиться письменной поддержкой,</segment>
+		<segment id="40" parent="42" relname="joint">как минимум, 30 депутатов парламента</segment>
+		<segment id="41" parent="42" relname="joint">или собрать 30 тысяч подписей избирателей, имеющих право голоса, не менее чем из 15, то есть почти половины, провинций страны.</segment>
+		<segment id="45" parent="47" relname="joint">При этом в каждой провинции должно быть не менее одной тысячи сторонников кандидата.\n\nВо-вторых, на свою избирательную кампанию претендентам разрешается потратить не более 10 млн египетских фунтов (порядка 1,7 млн долларов),</segment>
+		<segment id="46" parent="47" relname="joint">а в случае проведения второго тура - не более 2 млн фунтов (немногим свыше 300 тысяч долларов).\n\nКандидатам в президенты категорически запрещено получать пожертвования и взносы, напрямую или каким-либо косвенным образом, от юридических лиц, иностранных государств или частных лиц-иностранцев, международных организаций или любого человека, так или иначе связанного с иностранным капиталом.\n\nПеречислять средства кандидатам могут только египтяне, выступающие как частные лица.</segment>
+		<segment id="52" parent="60" relname="joint">При этом сумма пожертвований не может быть выше 100 тысяч фунтов (около 170 тысяч долларов).\n\nСогласно закону от 1975 года о взяточничестве, кандидаты в президенты должны предоставить исчерпывающую информацию о своем финансовом положении и источниках доходов.</segment>
+		<segment id="53" parent="59" relname="span">Особым образом оговариваются и банки, в которых разрешается открывать счета.\n\</segment>
+		<segment id="54" parent="57" relname="attribution">nСогласно одобренной египтянами год назад на референдуме конституционной декларации,</segment>
+		<segment id="55" parent="57" relname="joint">претендент на высший государственный пост в стране должен быть не моложе 40 лет</segment>
+		<segment id="56" parent="57" relname="joint">и иметь обоих родителей-египтян, граждан АРЕ.</segment>
+		<segment id="61" parent="75" relname="span">То же самое касается и национальной принадлежности супруги или супруга кандидата.\n\</segment>
+		<segment id="62" parent="64" relname="span">nВ субботу одним из первых в Высшую избирательную комиссию пришел бывший премьер Ахмед Шафик,</segment>
+		<segment id="63" parent="62" relname="elaboration">который возглавлял кабинет министров с января по март прошлого года,</segment>
+		<segment id="65" parent="67" relname="joint">когда в стране произошла революция</segment>
+		<segment id="66" parent="67" relname="joint">и ушел в отставку</segment>
+		<segment id="68" parent="69" relname="span">назначивший его на этот пост президент Хосни Мубарак.</segment>
+		<segment id="71" parent="73" relname="sequence">В конце 1990-х годов он занимал пост командующего ВВС АРЕ,</segment>
+		<segment id="72" parent="73" relname="sequence">а в 2000-х возглавлял министерство гражданской авиации.\n\nРегистрация кандидатов продлится до 8 апреля.\n\nИсточник: https://www.newsru.com/world/11Mar2012/president.html\n</segment>
+		<group id="49" type="multinuc" parent="77" relname="span"/>
+		<group id="35" type="multinuc" parent="49" relname="joint"/>
+		<group id="31" type="multinuc" parent="35" relname="sequence"/>
+		<group id="30" type="span" parent="31" relname="sequence"/>
+		<group id="34" type="span" parent="35" relname="sequence"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="44" type="span" parent="48" relname="joint"/>
+		<group id="38" type="span" parent="44" relname="span"/>
+		<group id="43" type="multinuc" parent="38" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="43" relname="comparison"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="76" type="multinuc" parent="49" relname="background"/>
+		<group id="60" type="multinuc" parent="76" relname="comparison"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="58" type="span" parent="53" relname="elaboration"/>
+		<group id="57" type="multinuc" parent="58" relname="span"/>
+		<group id="75" type="span" parent="76" relname="comparison"/>
+		<group id="74" type="multinuc" parent="61" relname="elaboration"/>
+		<group id="70" type="span" parent="74" relname="sequence"/>
+		<group id="64" type="span" parent="70" relname="span"/>
+		<group id="69" type="span" parent="64" relname="background"/>
+		<group id="67" type="multinuc" parent="68" relname="cause-effect"/>
+		<group id="73" type="multinuc" parent="74" relname="sequence"/>
+		<group id="77" type="span"/>
+	</body>
+</rst>

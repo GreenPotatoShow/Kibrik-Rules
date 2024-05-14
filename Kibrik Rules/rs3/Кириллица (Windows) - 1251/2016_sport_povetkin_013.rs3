@@ -1,0 +1,38 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="31" relname="preparation">Всей команде российского боксера Поветкина предстоит проверка на полиграфе\n\</segment>
+		<segment id="13" parent="19" relname="sequence">nКоманда российского боксера Александра Поветкина, подозреваемого в употреблении допинга,</segment>
+		<segment id="14" parent="18" relname="sequence">в полном составе пройдет проверку на детекторе лжи на этой неделе.\n\nОб этом в эфире телеканала \"Матч ТВ\" сообщил руководитель компании \"Мир бокса\" Андрей Рябинский,</segment>
+		<segment id="15" parent="16" relname="attribution">представляющий интересы российского боксера.\n\n17 декабря было объявлено,</segment>
+		<segment id="16" parent="17" relname="span">что в допинг-пробе Поветкина обнаружено запрещенное Всемирным антидопинговым агентством (WADA) вещество остарин.</segment>
+		<segment id="20" parent="26" relname="span">Из-за этого Всемирный боксерский совет (WBC) отказался санкционировать титульный характер его боя в Екатеринбурге против канадца Бермейна Стиверна</segment>
+		<segment id="21" parent="25" relname="contrast">.\n\nСтиверн позднее отказался боксировать с россиянином,</segment>
+		<segment id="22" parent="24" relname="span">а вместо него на ринг в беговых кроссовках вышел француз Йоанн Дюопа,</segment>
+		<segment id="23" parent="22" relname="elaboration">которого Поветкин нокаутировал в шестом раунде.\n\n\"Вся команда Поветкина пройдет проверку на полиграфе на этой неделе\",</segment>
+		<segment id="28" parent="29" relname="attribution">- сказал Рябинский,</segment>
+		<segment id="29" parent="30" relname="span">дав понять, что запрещенное вещество в организме Александра могло оказаться по вине ближайшего окружения.\n\nИсточник: https://www.newsru.com/sport/21Dec2016/povetkin.html\n</segment>
+		<group id="31" type="span" parent="32" relname="span"/>
+		<group id="27" type="multinuc" parent="31" relname="span"/>
+		<group id="19" type="multinuc" parent="27" relname="joint"/>
+		<group id="18" type="multinuc" parent="19" relname="sequence"/>
+		<group id="17" type="span" parent="18" relname="sequence"/>
+		<group id="26" type="span" parent="27" relname="joint"/>
+		<group id="25" type="multinuc" parent="20" relname="cause-effect"/>
+		<group id="24" type="span" parent="25" relname="contrast"/>
+		<group id="30" type="span" parent="27" relname="attribution"/>
+		<group id="32" type="span"/>
+	</body>
+</rst>

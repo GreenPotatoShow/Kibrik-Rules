@@ -1,0 +1,38 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="14" parent="18" relname="span">Футболисты сборной России два матча Евро-2020 проведут в Санкт-Петербурге\n\nСборная России по футболу сыграет два из трех матчей группового этапа чемпионата Европы 2020 года в Санкт-Петербурге.</segment>
+		<segment id="15" parent="17" relname="span">Это стало известно после жеребьевки,</segment>
+		<segment id="16" parent="15" relname="elaboration">которая состоялась в штаб-квартире УЕФА в швейцарском Ньоне.\n\nСборные России и Дании автоматически распределены в группу B чемпионата Европы как хозяева турнира.</segment>
+		<segment id="19" parent="36" relname="preparation">Матчи группы В пройдут в Санкт-Петербурге и Копенгагене.</segment>
+		<segment id="20" parent="22" relname="comparison">По итогам жеребьевки сборная России проведет два матча на домашней арене,</segment>
+		<segment id="21" parent="22" relname="comparison">сборная Дании - три.</segment>
+		<segment id="23" parent="35" relname="span">Таким образом, сборные России и Дании проведут очную встречу в Копенгагене.\n\nТакже в группе В вместе с командами России и Дании сыграет сборная Бельгии.</segment>
+		<segment id="24" parent="26" relname="span">Сборная России проведет матч против бельгийцев в Санкт-Петербурге.\n\nЖеребьевка группового этапа чемпионата Европы пройдет 30 ноября в Бухаресте,</segment>
+		<segment id="25" parent="24" relname="elaboration">после нее будет определено, в какие даты свои матчи проведет российская команда.</segment>
+		<segment id="27" parent="29" relname="span">Четвертая сборная в квартете станет известна после жеребьевки</segment>
+		<segment id="28" parent="27" relname="elaboration">.\n\nЧемпионат Европы в честь 60-летнего юбилея турнира пройдет в 12 европейских городах - Санкт-Петербурге, Лондоне, Мюнхене, Баку, Риме, Бухаресте, Дублине, Копенгагене, Бильбао, Глазго, Будапеште и Амстердаме.</segment>
+		<segment id="30" parent="32" relname="span">Санкт-Петербург примет три матча групповой стадии и один из четвертьфиналов.</segment>
+		<segment id="31" parent="30" relname="elaboration">Турнир пройдет с 12 июня по 12 июля 2020 года.\n\nИсточник: https://www.newsru.com/sport/22Nov2019/rusfut.html\n</segment>
+		<group id="18" type="span" parent="38" relname="joint"/>
+		<group id="17" type="span" parent="14" relname="elaboration"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="22" type="multinuc" parent="36" relname="span"/>
+		<group id="35" type="span" parent="22" relname="elaboration"/>
+		<group id="34" type="multinuc" parent="23" relname="elaboration"/>
+		<group id="26" type="span" parent="34" relname="joint"/>
+		<group id="33" type="multinuc" parent="34" relname="joint"/>
+		<group id="29" type="span" parent="33" relname="joint"/>
+		<group id="32" type="span" parent="33" relname="joint"/>
+		<group id="38" type="multinuc"/>
+	</body>
+</rst>

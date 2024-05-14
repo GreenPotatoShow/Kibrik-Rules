@@ -1,0 +1,60 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="67" relname="preparation">Машина с Надеждой Савченко наехала на старушку в Киеве (ФОТО)\n\</segment>
+		<segment id="27" parent="31" relname="joint">nВ Киеве автомобиль, в котором находились бывшая украинская военнослужащая, а ныне депутат Верховной рады Надежда Савченко вместе со своей сестрой, наехал на пожилую женщину.</segment>
+		<segment id="28" parent="30" relname="span">Пострадавшая госпитализирована с предварительным диагнозом ушиб колена,</segment>
+		<segment id="29" parent="28" relname="elaboration">передает сайт 112.ua.\n\nИнформация об этом происшествии и фотографии с места события появились утром 13 апреля в паблике \"Троещина ВК\" в социальной сети \"ВКонтакте\".</segment>
+		<segment id="32" parent="33" relname="attribution">На одном из снимков видно, как Надежда Савченко оказывает помощь сбитой пенсионерке.\n\nЕе сестра Вера Савченко заявила журналистам,</segment>
+		<segment id="33" parent="34" relname="span">что за рулем в момент инцидента находилась она, а не Надежда.</segment>
+		<segment id="35" parent="36" relname="attribution">Она рассказала,</segment>
+		<segment id="36" parent="37" relname="span">что все произошло на парковке возле их дома на улице Драйзера.</segment>
+		<segment id="38" parent="51" relname="attribution">По версии Веры Савченко,</segment>
+		<segment id="39" parent="51" relname="sequence">сдавая назад,</segment>
+		<segment id="40" parent="50" relname="span">она слегка толкнула пожилую даму,</segment>
+		<segment id="41" parent="49" relname="joint">которая не устояла на ногах</segment>
+		<segment id="42" parent="48" relname="sequence">и упала.\n\nПосле этого Надежда Савченко вышла из авто,</segment>
+		<segment id="43" parent="47" relname="joint">осмотрела колено,</segment>
+		<segment id="44" parent="46" relname="joint">обработала баллончиком с заморозкой от травм</segment>
+		<segment id="45" parent="46" relname="joint">и забинтовала,</segment>
+		<segment id="53" parent="52" relname="attribution">сообщила ее сестра в комментарии ТСН.</segment>
+		<segment id="55" parent="57" relname="span">\"Это моя проблема\",</segment>
+		<segment id="56" parent="55" relname="attribution">- подчеркнула Вера Савченко,</segment>
+		<segment id="58" parent="62" relname="span">призывая не впутывать в происшествие сестру,</segment>
+		<segment id="59" parent="60" relname="attribution">которая ранее неоднократно заявляла</segment>
+		<segment id="60" parent="61" relname="span">о своих президентских амбициях.\n\nИсточник: https://www.newsru.com/world/13Apr2017/sav.html\n</segment>
+		<group id="67" type="multinuc" parent="68" relname="span"/>
+		<group id="31" type="multinuc" parent="67" relname="joint"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="34" type="span" parent="66" relname="joint"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="37" type="span" parent="64" relname="preparation"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="54" type="span" parent="64" relname="joint"/>
+		<group id="52" type="span" parent="54" relname="span"/>
+		<group id="51" type="multinuc" parent="52" relname="span"/>
+		<group id="50" type="span" parent="51" relname="sequence"/>
+		<group id="49" type="multinuc" parent="40" relname="elaboration"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="sequence"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="57" type="span" parent="62" relname="interpretation-evaluation"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="61" type="span" parent="58" relname="background"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

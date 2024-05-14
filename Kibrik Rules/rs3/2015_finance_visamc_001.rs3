@@ -1,0 +1,123 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="52" parent="54" relname="span">Visa не успевает перевести обработку операций по картам в Россию\n\nVisa не успевает перевести российский трафик на обработку в Национальную систему платежных карт до 31 марта,</segment>
+		<segment id="53" parent="52" relname="attribution">рассказали \"Ведомости\" со ссылкой на банковский источник.</segment>
+		<segment id="55" parent="56" relname="attribution">Участники рынка считают,</segment>
+		<segment id="56" parent="57" relname="span">что к 1 апреля не успеет никто - ни НСПК, ни Visa, ни MasterCard.</segment>
+		<segment id="58" parent="59" relname="condition">\"Пока даже до проверки клиринга не дошли,</segment>
+		<segment id="59" parent="60" relname="span">протестировали только каналы связи\",</segment>
+		<segment id="61" parent="60" relname="attribution">- рассказал источник газете</segment>
+		<segment id="64" parent="149" relname="preparation">.\n\nЗакон обязывает все международные платежные системы передать внутрироссийские транзакции на обработку в НСПК до 31 марта.</segment>
+		<segment id="65" parent="66" relname="condition">Если этого не будет сделано,</segment>
+		<segment id="66" parent="67" relname="span">платежная система уплачивает обеспечительный взнос,</segment>
+		<segment id="68" parent="69" relname="span">предупредил представитель ЦБ.</segment>
+		<segment id="70" parent="74" relname="joint">Размер обеспечения привязан к обороту по картам системы,</segment>
+		<segment id="73" parent="74" relname="joint">Morgan Stanley оценивал его в 950 долларов млн для Visa и 500 млн - для MasterCard.\n\</segment>
+		<segment id="76" parent="82" relname="joint">nТакие условия работы платежных систем в России законодатели установили</segment>
+		<segment id="77" parent="81" relname="span">после того, как весной 2014 года Visa и MasterCard</segment>
+		<segment id="78" parent="79" relname="cause-effect">из-за западных санкций</segment>
+		<segment id="79" parent="80" relname="span">заморозили операции по картам ряда российских банков.</segment>
+		<segment id="83" parent="87" relname="sequence">MasterCard заключила договор с Национальной системой платежных карт о переводе транзакций по картам MasterCard на процессинг НСПК в конце минувшего года,</segment>
+		<segment id="84" parent="86" relname="restatement">о чем Банк России уведомил 12 января.\n\nУ тех, кто не успевает перевести транзакции,</segment>
+		<segment id="85" parent="86" relname="restatement">есть два варианта,</segment>
+		<segment id="88" parent="87" relname="attribution">говорит замминистра финансов Алексей Моисеев:</segment>
+		<segment id="90" parent="94" relname="span">дерегистрироваться как платежная система</segment>
+		<segment id="91" parent="93" relname="contrast">(это не обязательно означает уход из России,</segment>
+		<segment id="92" parent="93" relname="contrast">но серьезно осложнит работу)</segment>
+		<segment id="95" parent="111" relname="sequence">либо внести депозит на время до завершения перехода.\n\nVisa во вторник, 24 марта,</segment>
+		<segment id="96" parent="104" relname="span">опубликовала заявление,</segment>
+		<segment id="97" parent="102" relname="attribution">в котором указала,</segment>
+		<segment id="98" parent="100" relname="span">что активно работает с НСПК и ЦБ над завершением полного перевода внутрироссийских транзакций,</segment>
+		<segment id="99" parent="98" relname="purpose">чтобы российские банки, торгово-сервисные предприятия и держатели карт не заметили изменений в работе карт Visa.\n\nMasterCard в партнерстве с НСПК</segment>
+		<segment id="101" parent="102" relname="joint">продолжает поэтапно переводить внутрироссийские транзакции на процессинг в НСПК в соответствии со сроками, определенными законодательством,</segment>
+		<segment id="105" parent="107" relname="span">заявил представитель MasterCard.\n\nСкорее всего, после 1 апреля будет переходный период,</segment>
+		<segment id="106" parent="105" relname="elaboration">в течение которого транзакции по картам МПС будут передаваться на обслуживание в НСПК,</segment>
+		<segment id="108" parent="109" relname="sequence">предполагает сотрудник банка из топ-10.</segment>
+		<segment id="115" parent="116" relname="attribution">Он рассказал,</segment>
+		<segment id="116" parent="117" relname="span">что по картам MasterCard банк сейчас проводит пилотный проект,</segment>
+		<segment id="118" parent="119" relname="cause-effect">однако с Visa банк только начал тестовые операции,</segment>
+		<segment id="119" parent="120" relname="span">после чего уже будет запускаться пилот.</segment>
+		<segment id="122" parent="129" relname="attribution">По его мнению,</segment>
+		<segment id="123" parent="128" relname="cause-effect">не все банки успели провести пилотный проект даже с картами Mastercard,</segment>
+		<segment id="124" parent="128" relname="same-unit">поэтому,</segment>
+		<segment id="125" parent="126" relname="attribution">предполагает он,</segment>
+		<segment id="126" parent="127" relname="span">не все российские транзакции этой МПС с 31 марта будут обслуживаться в НСПК.</segment>
+		<segment id="131" parent="133" relname="span">Visa потребуется еще примерно два месяца</segment>
+		<segment id="132" parent="131" relname="purpose">для перевода транзакций на НСПК,</segment>
+		<segment id="134" parent="138" relname="joint">оценивает сотрудник одной из платежных систем</segment>
+		<segment id="135" parent="136" relname="attribution">.\n\nЦБ в прошлую пятницу заявлял о том,</segment>
+		<segment id="136" parent="137" relname="span">что из 67 банков - участников МПС в Центральном федеральном округе подключено 60.</segment>
+		<segment id="140" parent="144" relname="joint">Депозиты с 31 марта будут вносить American Express, JCB и China Union Pay и другие,</segment>
+		<segment id="141" parent="142" relname="attribution">напоминает Обаева:</segment>
+		<segment id="142" parent="143" relname="span">они будут подключаться к НСПК позже, в соответствии с актами ЦБ, до 31 декабря.\n\nИсточник: https://www.newsru.com/finance/26Mar2015/visamc.html\n</segment>
+		<group id="54" type="span" parent="151" relname="preparation"/>
+		<group id="151" type="span" parent="152" relname="span"/>
+		<group id="63" type="multinuc" parent="150" relname="preparation"/>
+		<group id="57" type="span" parent="63" relname="joint"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="60" type="span" parent="62" relname="span"/>
+		<group id="150" type="span" parent="151" relname="span"/>
+		<group id="149" type="span" parent="150" relname="span"/>
+		<group id="75" type="multinuc" parent="148" relname="preparation"/>
+		<group id="69" type="span" parent="75" relname="joint"/>
+		<group id="67" type="span" parent="68" relname="condition"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="148" type="multinuc" parent="149" relname="span"/>
+		<group id="114" type="multinuc" parent="148" relname="joint"/>
+		<group id="82" type="multinuc" parent="114" relname="joint"/>
+		<group id="81" type="span" parent="82" relname="joint"/>
+		<group id="80" type="span" parent="77" relname="cause-effect"/>
+		<group id="113" type="multinuc" parent="114" relname="joint"/>
+		<group id="89" type="span" parent="113" relname="comparison"/>
+		<group id="87" type="multinuc" parent="89" relname="span"/>
+		<group id="86" type="multinuc" parent="87" relname="sequence"/>
+		<group id="112" type="multinuc" parent="113" relname="comparison"/>
+		<group id="94" type="span" parent="112" relname="joint"/>
+		<group id="93" type="multinuc" parent="90" relname="interpretation-evaluation"/>
+		<group id="111" type="multinuc" parent="112" relname="joint"/>
+		<group id="110" type="multinuc" parent="111" relname="sequence"/>
+		<group id="104" type="span" parent="110" relname="joint"/>
+		<group id="103" type="span" parent="96" relname="elaboration"/>
+		<group id="102" type="multinuc" parent="103" relname="span"/>
+		<group id="100" type="span" parent="102" relname="joint"/>
+		<group id="109" type="multinuc" parent="110" relname="joint"/>
+		<group id="107" type="span" parent="109" relname="sequence"/>
+		<group id="147" type="span" parent="148" relname="joint"/>
+		<group id="121" type="multinuc" parent="147" relname="span"/>
+		<group id="117" type="span" parent="121" relname="contrast"/>
+		<group id="120" type="span" parent="121" relname="contrast"/>
+		<group id="146" type="multinuc" parent="121" relname="elaboration"/>
+		<group id="130" type="span" parent="146" relname="joint"/>
+		<group id="129" type="span" parent="130" relname="span"/>
+		<group id="128" type="multinuc" parent="129" relname="span"/>
+		<group id="127" type="span" parent="128" relname="same-unit"/>
+		<group id="145" type="multinuc" parent="146" relname="joint"/>
+		<group id="139" type="multinuc" parent="145" relname="joint"/>
+		<group id="133" type="span" parent="139" relname="joint"/>
+		<group id="138" type="multinuc" parent="139" relname="joint"/>
+		<group id="137" type="span" parent="138" relname="joint"/>
+		<group id="144" type="multinuc" parent="145" relname="joint"/>
+		<group id="143" type="span" parent="144" relname="joint"/>
+		<group id="152" type="span"/>
+	</body>
+</rst>

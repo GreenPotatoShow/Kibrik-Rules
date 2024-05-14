@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="20" parent="27" relname="preparation">В Москве за год больше всего подорожали бензин, услуги ЖКХ и мясо\n\nМосгорстат рапортовал о росте цен в столице России за 9 месяцев 2005 года.</segment>
+		<segment id="21" parent="25" relname="span">Выяснилось, что среди продовольственных товаров наиболее значительно подорожало мясо,</segment>
+		<segment id="22" parent="24" relname="joint">среди непроводольственных - бензин,</segment>
+		<segment id="23" parent="24" relname="joint">а абсолютный рекорд установили услуги ЖКХ.\n\nСтоимость бензина в Москве увеличилась на 17,8% за 9 месяцев 2005 года,</segment>
+		<segment id="26" parent="25" relname="attribution">сообщили \"Интерфаксу\" в Мосгорстате.</segment>
+		<segment id="29" parent="54" relname="preparation">Среди непродовольственных товаров моторное топливо продемонстрировало наибольший рост.</segment>
+		<segment id="30" parent="32" relname="span">\"Только за сентябрь бензин подорожал в среднем на 10,8%\",</segment>
+		<segment id="31" parent="30" relname="attribution">- указывают статистики.</segment>
+		<segment id="33" parent="35" relname="joint">В среднем за январь-сентябрь 2005 года цены на непродовольственные товары в Москве выросли на 4,8%</segment>
+		<segment id="34" parent="35" relname="joint">.\n\nОдно из лидирующих мест на столичном потребительском рынке, как и раньше, занимают платные услуги.</segment>
+		<segment id="36" parent="52" relname="joint">В январе-сентябре этого года цены и тарифы на них для населения выросли на 15,5%.</segment>
+		<segment id="37" parent="50" relname="preparation">При этом на 21% выросли тарифы на жилищные услуги и на 35,2% - на коммунальные.</segment>
+		<segment id="38" parent="40" relname="comparison">На 30% подорожала абонентская плата за радиотрансляционную точку,</segment>
+		<segment id="39" parent="40" relname="comparison">а тарифы на услуги городского автотранспорта и наземного электрического транспорта и метро возросли на 10-30%.</segment>
+		<segment id="41" parent="43" relname="span">От 11,1 до 20,5% составил рост цен на бытовые, медицинские и ветеринарные услуги, а также услуги физической культуры, спорта и культуры.\n\nЗа девять месяцев текущего года в столице наибольший рост цен среди продуктов питания зафиксирован на мясо и птицу</segment>
+		<segment id="42" parent="41" relname="elaboration">- они подорожали на 12,7%.</segment>
+		<segment id="44" parent="48" relname="comparison">Кроме того, на 7,2% подорожали молоко и молочная продукция, колбасные изделия - на 8,7%, сливочное масло - на 9,5%, рыбопродукты - на 9,7%.\n\nОт 1,3 до 5,5% стали дороже подсолнечное масло, мука, хлеб и хлебобулочные изделия, а также овощные и фруктово-ягодные консервы.\n\nЦены на овощи, включая картофель, с января по сентябрь выросли на 3%.\n\nВ Мосгорстате также отмечают 30-процентное снижение цен на яйца,</segment>
+		<segment id="45" parent="47" relname="comparison">на 9,5% подешевело пшено, на 1,5% - сахар.\n\nАлкоголь подорожал на 4,3%,</segment>
+		<segment id="46" parent="47" relname="comparison">а посещение предприятий общественного питания горожанам стало обходиться дороже на 9,7%.\n\nВ среднем стоимость продуктов питания за девять месяцев 2005 года возросла на 6,7%.\n\nИсточник: https://www.newsru.com/finance/25Oct2005/price.html\n</segment>
+		<group id="28" type="span" parent="55" relname="preparation"/>
+		<group id="27" type="span" parent="28" relname="span"/>
+		<group id="25" type="span" parent="27" relname="span"/>
+		<group id="24" type="multinuc" parent="21" relname="elaboration"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="32" type="span" parent="53" relname="preparation"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="35" type="multinuc" parent="52" relname="preparation"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="span"/>
+		<group id="40" type="multinuc" parent="49" relname="preparation"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="43" type="span" parent="49" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="comparison"/>
+		<group id="56" type="span"/>
+	</body>
+</rst>

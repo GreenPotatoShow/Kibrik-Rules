@@ -1,0 +1,49 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="concession" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="47" relname="joint">Тарантино подал в суд на соседа за птичий шум\n\</segment>
+		<segment id="18" parent="22" relname="span">nАмериканский режиссер Квентин Тарантино подал в суд на своего соседа - также известного сценариста и режиссера Алана Болла</segment>
+		<segment id="19" parent="20" relname="attribution">- утверждая,</segment>
+		<segment id="20" parent="21" relname="span">что тот \"лишил его возможности находить покой в собственном доме\",</segment>
+		<segment id="23" parent="35" relname="span">сообщает РИА \"Новости\" со ссылкой на ресурс Move,</segment>
+		<segment id="24" parent="26" relname="span">который является официальной онлайн-базой Национальной ассоциации риелторов США.\n\nКак поясняется в сообщении, создатель фильмов \"Криминальное чтиво\", \"Убить Билла\", \"Бесславные ублюдки\" обвинил соседа в разведении экзотических птиц,</segment>
+		<segment id="25" parent="24" relname="elaboration">которые ежедневно издают \"крики,</segment>
+		<segment id="27" parent="31" relname="span">от которых кровь стынет в жилах\".\n\nВ материалах риелторов также указывается,</segment>
+		<segment id="28" parent="30" relname="span">что Тарантино жалуется на то, что \"крики птеродактилей\" и \"доисторические вопли\" серьезно мешают ему работать у себя дома с конца 2009 года.\n\n\"Забавно, что Болл, который сам является признанным сценаристом</segment>
+		<segment id="29" parent="28" relname="background">(за сценарий фильма \"Красота по-американски\" он получил \"Оскар\" и \"Золотой глобус\" - ред.),</segment>
+		<segment id="32" parent="33" relname="same-unit">должен понимать творческую потребность в тишине и спокойствии\",</segment>
+		<segment id="37" parent="36" relname="attribution">- замечают риелторы.\n\nКак добавлено в сообщении,</segment>
+		<segment id="39" parent="44" relname="attribution">несмотря на то, что Тарантино заявляет,</segment>
+		<segment id="40" parent="44" relname="span">что он пытался решить проблему по-дружески,</segment>
+		<segment id="41" parent="43" relname="span">со стороны Болла мало что было сделано</segment>
+		<segment id="42" parent="41" relname="purpose">для того, чтобы птицы не создавали столько шума.\n\nИсточник: https://www.newsru.com/cinema/14Mar2011/tarantino.html\n</segment>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="38" type="span" parent="46" relname="span"/>
+		<group id="36" type="multinuc" parent="38" relname="span"/>
+		<group id="22" type="span" parent="36" relname="joint"/>
+		<group id="21" type="span" parent="18" relname="elaboration"/>
+		<group id="35" type="span" parent="36" relname="joint"/>
+		<group id="34" type="span" parent="23" relname="elaboration"/>
+		<group id="26" type="span" parent="34" relname="span"/>
+		<group id="33" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="31" type="span" parent="33" relname="same-unit"/>
+		<group id="30" type="span" parent="27" relname="interpretation-evaluation"/>
+		<group id="45" type="span" parent="38" relname="concession"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="43" type="span" parent="40" relname="elaboration"/>
+		<group id="47" type="multinuc"/>
+	</body>
+</rst>

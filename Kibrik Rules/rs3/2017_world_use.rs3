@@ -1,0 +1,96 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="38" parent="40" relname="span">Каждый третий немец и каждый четвертый француз поддерживают создание Соединенных Штатов Европы\n\nПочти треть немцев (30%) поддерживают предложение председателя Социал-демократической партии Германии Мартина Шульца,</segment>
+		<segment id="39" parent="38" relname="elaboration">выступающего за преобразование Евросоюза в Соединенные Штаты Европы.</segment>
+		<segment id="41" parent="47" relname="span">Опрос был проведен в семи странах ЕС исследовательской организацией YouGov.\n\nПо данным YouGov,</segment>
+		<segment id="42" parent="44" relname="comparison">во Франции идею создания СШЕ поддерживают 28%,</segment>
+		<segment id="43" parent="44" relname="comparison">в скандинавских странах - Норвегии, Дании, Швеции и Финляндии - от 12 до 13% жителей.</segment>
+		<segment id="45" parent="46" relname="comparison">При этом в Финляндии и Норвегии более половины респондентов - 56% и 55% соответственно - высказались против этой идеи.</segment>
+		<segment id="48" parent="50" relname="span">В Великобритании,</segment>
+		<segment id="49" parent="48" relname="background">которая ранее решила выйти из состава ЕС,</segment>
+		<segment id="51" parent="50" relname="elaboration">за создание СШЕ проголосовали 10%, против - 43%.\n\nОнлайн-опрос проводился в период с 13-го по 19 декабря,</segment>
+		<segment id="53" parent="54" relname="same-unit">в нем приняли участие 8138 человек старше 18 лет</segment>
+		<segment id="55" parent="59" relname="span">.\n\nКак напоминает DW,</segment>
+		<segment id="56" parent="58" relname="span">Мартин Шульц на съезде СДПГ в начале декабря выступил с идеей преобразовать ЕС в Соединенные Штаты Европы к 2025 году,</segment>
+		<segment id="57" parent="56" relname="purpose">приняв общую конституцию.</segment>
+		<segment id="61" parent="67" relname="span">Государства ЕС,</segment>
+		<segment id="62" parent="64" relname="joint">которые откажутся ее поддержать,</segment>
+		<segment id="63" parent="64" relname="joint">согласно предложению политика,</segment>
+		<segment id="65" parent="66" relname="same-unit">автоматически выйдут из Евросоюза.</segment>
+		<segment id="68" parent="70" relname="sequence">В \"Христианско-демократическом союзе\", который возглавляет канцлер Ангела Меркель,</segment>
+		<segment id="69" parent="70" relname="sequence">раскритиковали эту идею.\n\nПроект СШЕ по аналогии с США появился еще в XIX столетии.</segment>
+		<segment id="71" parent="75" relname="span">При этом лозунг о Соединенных Штатах Европы иногда приписывают Наполеону I:</segment>
+		<segment id="72" parent="74" relname="span">якобы, будучи в изгнании на острове Святой Елены,</segment>
+		<segment id="73" parent="72" relname="interpretation-evaluation">он размышлял о \"великой европейской семье\" c управлением наподобие \"американского конгресса\", о \"конфедерации великих (европейских) народов\".</segment>
+		<segment id="76" parent="78" relname="span">В 1849 году на Третьем конгрессе мира в Париже писатель и общественный деятель Виктор Гюго представил проект нового устройства в Европе,</segment>
+		<segment id="77" parent="76" relname="elaboration">в котором сравнивал деятельность США и СШЕ.</segment>
+		<segment id="79" parent="82" relname="attribution">В своей речи он отмечал,</segment>
+		<segment id="80" parent="82" relname="span">что \"Соединенные Штаты Европы и Соединенные Штаты Америки будут сотрудничать,</segment>
+		<segment id="81" parent="80" relname="condition">скрепив рукопожатие через океан\".</segment>
+		<segment id="90" parent="100" relname="joint">В Германии ярым сторонником создания Соединенных Штатов Европы был император Вильгельм II.</segment>
+		<segment id="91" parent="93" relname="span">А вот Владимир Ленин скептически относился к этому проекту,</segment>
+		<segment id="92" parent="91" relname="cause-effect">полагая, что при капитализме в Европе такое образование либо невозможно,</segment>
+		<segment id="94" parent="98" relname="span">либо реакционно.\n\nВ последние десятилетия,</segment>
+		<segment id="95" parent="96" relname="concession">несмотря на создание ЕС,</segment>
+		<segment id="96" parent="97" relname="span">мечта о СШЕ продолжает будоражить умы.</segment>
+		<segment id="101" parent="107" relname="joint">В 1992 году голландский бизнесмен Фредди Хайнекен после консультаций с историками издал брошюру \"Соединенные Штаты Европы, Евротопия?\".</segment>
+		<segment id="102" parent="106" relname="span">В ней он выдвинул идею создания СШЕ как конфедерации 75 государств.</segment>
+		<segment id="103" parent="105" relname="span">В 2002 году бывший президент Франции Валери Жискар д'Эстен представил первый проект доклада \"Конвенция о будущем Европы\",</segment>
+		<segment id="104" parent="103" relname="elaboration">в котором предложил переименовать Европейский союз в Соединенные Штаты Европы или Единую Европу.\n\nИсточник: https://www.newsru.com/world/28Dec2017/use.html\n</segment>
+		<group id="40" type="span" parent="109" relname="preparation"/>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="89" type="multinuc" parent="109" relname="joint"/>
+		<group id="47" type="span" parent="89" relname="joint"/>
+		<group id="46" type="multinuc" parent="41" relname="elaboration"/>
+		<group id="44" type="multinuc" parent="46" relname="comparison"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="60" type="multinuc" parent="88" relname="joint"/>
+		<group id="54" type="multinuc" parent="60" relname="joint"/>
+		<group id="52" type="span" parent="54" relname="same-unit"/>
+		<group id="50" type="span" parent="52" relname="span"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="58" type="span" parent="55" relname="elaboration"/>
+		<group id="87" type="span" parent="88" relname="joint"/>
+		<group id="67" type="span" parent="87" relname="span"/>
+		<group id="66" type="multinuc" parent="61" relname="elaboration"/>
+		<group id="64" type="multinuc" parent="66" relname="same-unit"/>
+		<group id="86" type="multinuc" parent="67" relname="elaboration"/>
+		<group id="70" type="multinuc" parent="86" relname="joint"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="75" type="span" parent="85" relname="joint"/>
+		<group id="74" type="span" parent="71" relname="elaboration"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="78" type="span" parent="84" relname="joint"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="100" type="multinuc" parent="108" relname="joint"/>
+		<group id="99" type="multinuc" parent="100" relname="joint"/>
+		<group id="93" type="span" parent="99" relname="joint"/>
+		<group id="98" type="span" parent="99" relname="joint"/>
+		<group id="97" type="span" parent="94" relname="concession"/>
+		<group id="107" type="multinuc" parent="108" relname="joint"/>
+		<group id="106" type="span" parent="107" relname="joint"/>
+		<group id="105" type="span" parent="102" relname="elaboration"/>
+		<group id="110" type="span"/>
+	</body>
+</rst>

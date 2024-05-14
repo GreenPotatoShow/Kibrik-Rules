@@ -1,0 +1,55 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="comparison">Спаллетти не исключил возвращение в \"Зенит\" Андрея Аршавина\n\nГлавный тренер питерского \"Зенита\" Лучано Спаллетти в преддверии стартового матча нового сезона против пермского \"Амкара\" заявил,</segment>
+		<segment id="20" parent="21" relname="comparison">что не исключает возможности приобретения форварда лондонского \"Арсенала\" Андрея Аршавина.\n\n\"С моей точки зрения, Аршавин - игрок высокого класса.</segment>
+		<segment id="22" parent="28" relname="span">Помимо этого, он умный человек.</segment>
+		<segment id="23" parent="27" relname="span">Все зависит от того, какие стимулы есть у него,</segment>
+		<segment id="24" parent="26" relname="span">какие есть мотивации</segment>
+		<segment id="25" parent="24" relname="purpose">для того, чтобы реализовывать себя в своем деле.</segment>
+		<segment id="29" parent="37" relname="span">У меня с этой точки зрения есть мало сомнений по поводу Аршавина.</segment>
+		<segment id="30" parent="33" relname="condition">Абсолютно точно, если бы он вернулся,</segment>
+		<segment id="31" parent="33" relname="comparison">то сыграл бы так же хорошо,</segment>
+		<segment id="32" parent="33" relname="comparison">как делал это в прошлом голу.</segment>
+		<segment id="35" parent="34" relname="elaboration">Аршавин - это одно из тех имен, которые мы обсуждаем\",</segment>
+		<segment id="38" parent="37" relname="attribution">- цитирует Спаллетти официальный сайт клуба.\n\nВ прошлом сезоне Аршавин на правах аренды выступал за санкт-петербургский \"Зенит\".</segment>
+		<segment id="42" parent="43" relname="attribution">Согласно контракту,</segment>
+		<segment id="43" parent="44" relname="span">31-летний нападающий до 2013 года принадлежит \"Арсеналу\".</segment>
+		<segment id="45" parent="47" relname="span">Однако неудовлетворительная игра россиянина за \"канониров\" заставила руководство клуба выставить футболиста на трансфер,</segment>
+		<segment id="46" parent="45" relname="cause-effect">оценив его в 10 миллионов евро</segment>
+		<segment id="48" parent="50" relname="span">.\n\nРанее СМИ сообщали об интересе к Аршавину со стороны стамбульского \"Галатасарая\",</segment>
+		<segment id="49" parent="48" relname="elaboration">который уже отказался от претензий на этого игрока, а также катарского клуба \"Аль-Садд\".\n\nИсточник: https://www.newsru.com/sport/20Jul2012/arshavin.html\n</segment>
+		<group id="41" type="multinuc" parent="53" relname="span"/>
+		<group id="21" type="multinuc" parent="41" relname="joint"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="28" type="span" parent="40" relname="comparison"/>
+		<group id="27" type="span" parent="22" relname="elaboration"/>
+		<group id="26" type="span" parent="23" relname="purpose"/>
+		<group id="39" type="span" parent="40" relname="comparison"/>
+		<group id="37" type="span" parent="39" relname="span"/>
+		<group id="36" type="span" parent="29" relname="interpretation-evaluation"/>
+		<group id="34" type="span" parent="36" relname="span"/>
+		<group id="33" type="multinuc" parent="34" relname="span"/>
+		<group id="52" type="multinuc" parent="41" relname="background"/>
+		<group id="44" type="span" parent="52" relname="contrast"/>
+		<group id="51" type="multinuc" parent="52" relname="contrast"/>
+		<group id="47" type="span" parent="51" relname="comparison"/>
+		<group id="50" type="span" parent="51" relname="comparison"/>
+		<group id="53" type="span"/>
+	</body>
+</rst>

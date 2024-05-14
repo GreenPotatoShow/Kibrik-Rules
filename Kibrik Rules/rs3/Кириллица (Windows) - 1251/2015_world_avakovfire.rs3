@@ -1,0 +1,236 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="109" parent="111" relname="span">В связи с пожаром на нефтебазе под Киевом задержан ее руководитель,</segment>
+		<segment id="110" parent="109" relname="elaboration">озвучена версия поджога\n\</segment>
+		<segment id="112" parent="114" relname="joint">nВ связи с пожаром на нефтебазе \"БРСМ-Нафта\" под Васильковом задержан фактический ее руководитель Юрий Шквира,</segment>
+		<segment id="113" parent="114" relname="joint">также к ответу привлекут инженера Юрия Южанина.\n\</segment>
+		<segment id="116" parent="120" relname="span">nОб этом заявил министр внутренних дел Арсен Аваков,</segment>
+		<segment id="117" parent="118" relname="condition">докладывая на заседании правительства в пятницу,</segment>
+		<segment id="118" parent="119" relname="span">передает NEWSru.ua</segment>
+		<segment id="121" parent="126" relname="attribution">со ссылкой на Украинскую правду</segment>
+		<segment id="122" parent="125" relname="cause-effect">.\n\n- Из-за повреждения газопровода</segment>
+		<segment id="123" parent="125" relname="span">прекращено газоснабжение Мариуполя, Бердянска и Волновахи\n\n\"Уже установлено, что работы проводились без соблюдения правил безопасности,</segment>
+		<segment id="124" parent="123" relname="elaboration">путем смешивания бензина различных октановых чисел\",</segment>
+		<segment id="129" parent="128" relname="attribution">- сказал он</segment>
+		<segment id="132" parent="137" relname="attribution">.\n\nАваков сообщил,</segment>
+		<segment id="133" parent="137" relname="span">что по месту жительства ряда руководителей этого предприятия проведены обыски,</segment>
+		<segment id="134" parent="136" relname="span">изъяты документы и вещи, имеющие значения для расследования.\n\n\"Фактическое руководство нефтебазой осуществлял Шквира Юрий Иванович,</segment>
+		<segment id="135" parent="134" relname="elaboration">который официально занимал должность заместителя ООО \"Укртрансойл\" до 2009 года.</segment>
+		<segment id="139" parent="141" relname="span">Вчера указанное лицо задержано,</segment>
+		<segment id="140" parent="139" relname="elaboration">в соответствии с нормами уголовно-процессуального кодекса подготовлено сообщение о подозрении в совершении преступления, предусмотренного ч. 2 ст. 273\",</segment>
+		<segment id="142" parent="144" relname="span">- заявил глава МВД.\n\n\"Также к уголовной ответственности привлекается главный инженер общества с ограниченной ответственностью \"Парком-Транс\" Южанин Юрий Аркадьевич,</segment>
+		<segment id="143" parent="142" relname="elaboration">который отвечал за безопасность труда и эксплуатацию нефтехранилища.</segment>
+		<segment id="146" parent="148" relname="joint">Этот человек сейчас лег в больницу</segment>
+		<segment id="147" parent="148" relname="joint">и в больнице с ним общаются следователи и представители прокуратуры\",</segment>
+		<segment id="149" parent="148" relname="attribution">- добавил Аваков.\n\</segment>
+		<segment id="153" parent="156" relname="attribution">nВ свою очередь глава СБУ Валентин Наливайченко подтвердил,</segment>
+		<segment id="154" parent="155" relname="cause-effect">что нефтебаза и АЗС \"БРСМ-Нафта\" принадлежали экс-министру энергетики и угольной промышленности Украины Эдуарду Ставицкому.\n\n\"Надо четко говорить,</segment>
+		<segment id="155" parent="156" relname="span">что вся эта нефтебаза и подобные ей принадлежали бывшему министру энергетики Ставицкому...</segment>
+		<segment id="158" parent="173" relname="preparation">Второе - мы готовы вместе с МВД расследовать,</segment>
+		<segment id="159" parent="173" relname="comparison">как заместитель Генпрокурора остановил расследование милиции,</segment>
+		<segment id="160" parent="172" relname="joint">как он стал совладельцем такой нефтебазы и подобных нефтебаз.</segment>
+		<segment id="161" parent="171" relname="span">А главное, чтобы именно эти миллиардеры компенсировали убытки семьям и нашим гражданам, бюджету\",</segment>
+		<segment id="162" parent="169" relname="attribution">- сказал он</segment>
+		<segment id="163" parent="169" relname="same-unit">.\n\</segment>
+		<segment id="164" parent="168" relname="span">nВместе с тем, председатель совета директоров фонда FreezeOil</segment>
+		<segment id="165" parent="166" relname="attribution">(являющегося совладельцем \"БРСМ-Нафта\") Роланд Пипер заявил,</segment>
+		<segment id="166" parent="167" relname="span">что компания никаким образом не связана с экс-министром Ставицким.</segment>
+		<segment id="176" parent="177" relname="condition">\"При покупке мы проводили due diligence</segment>
+		<segment id="177" parent="178" relname="span">- никаких связей с ним выявлено не было\",</segment>
+		<segment id="179" parent="178" relname="attribution">- сказал он</segment>
+		<segment id="181" parent="222" relname="preparation">.\n\</segment>
+		<segment id="182" parent="183" relname="cause-effect">nНапомним, 8 июня на нефтебазе \"БРСМ-Нафта\" в Васильковском районе Киевской области возник пожар.\n\n9 июня во время тушения пожара</segment>
+		<segment id="183" parent="184" relname="span">произошел мощный взрыв.</segment>
+		<segment id="185" parent="197" relname="joint">Пожар охватил все 17 резервуаров с топливом.</segment>
+		<segment id="186" parent="188" relname="joint">Возникла угроза распространения на соседнюю нефтебазу, лес и воинскую часть, на которой хранится арсенал оружия.\n\nБыла объявлена эвакуация граждан из двухкилометровой зоны от границы пожара.\n\nВечером того же дня эпицентр огня был локализован.\n\n10 июня спасатели провели пенную атаку</segment>
+		<segment id="187" parent="188" relname="joint">и задействовали пожарные танки.\n\n11 июня произошел взрыв еще двух емкостей с топливом.</segment>
+		<segment id="189" parent="191" relname="joint">Спасатели начали откачивать нефтепродукты из невзорвавшихся цистерн.\n\nВ результате катастрофы погибло 5 человек (из них трое - спасатели),</segment>
+		<segment id="190" parent="191" relname="joint">18 человек пострадали.\n\</segment>
+		<segment id="192" parent="193" relname="attribution">nРуководитель управления ГСЧС в городе Киеве отметил,</segment>
+		<segment id="193" parent="194" relname="span">что пожара таких масштабов в Украине не было около полувека.</segment>
+		<segment id="198" parent="200" relname="span">В МВД уже назвали вероятные причины масштабного пожара.\n\nПо факту гибели людей во время пожара на нефтехранилище милиция открыла уголовное производство по ч. 2 ст. 275</segment>
+		<segment id="199" parent="198" relname="elaboration">(нарушение правил, касающихся безопасного использования промышленной продукции или безопасной эксплуатации зданий и сооружений,</segment>
+		<segment id="201" parent="200" relname="cause-effect">повлекшее за собой гибель людей или иные тяжкие последствия) Уголовного кодекса Украины.</segment>
+		<segment id="203" parent="208" relname="attribution">Досудебное следствие продолжается.\n\nСекретарь СНБО Александр Турчинов также сообщил</segment>
+		<segment id="204" parent="207" relname="cause-effect">об открытии уголовного производства по поводу незаконности размещения двух нефтебаз возле с. Крячки в непосредственной близости с воинской частью.\n\nКроме того, Турчинов заявляет</segment>
+		<segment id="205" parent="207" relname="span">о несвоевременном обращении сотрудников нефтебазы к пожарным</segment>
+		<segment id="206" parent="205" relname="cause-effect">в связи с возникновением возгорания:</segment>
+		<segment id="210" parent="216" relname="joint">\"Проблема заключается в том, что на нефтебазе проводились работы по перекачке нефтепродуктов,</segment>
+		<segment id="211" parent="214" relname="attribution">и по информации, которая есть,</segment>
+		<segment id="212" parent="214" relname="joint">во время этой перекачки нефтепродукты попали на электродвигатель,</segment>
+		<segment id="213" parent="214" relname="joint">что и привело к возгоранию\".\n\nТакже правоохранители называют одной из версий умышленный поджог.\n\nСледствие отрабатывает 4 версии причин пожара на нефтебазе под Киевом\n\nМинистерство внутренних дел Украины рассматривает четыре версии пожара на нефтебазе \"БРСМ-нафта\" под Киевом,</segment>
+		<segment id="219" parent="218" relname="attribution">сообщил Аваков.\n\n</segment>
+		<segment id="225" parent="239" relname="span">\"Мы рассматриваем четыре ключевые версии пожара.</segment>
+		<segment id="226" parent="228" relname="span">Первая - это нарушение правил безопасности на взрывоопасном предприятии</segment>
+		<segment id="227" parent="226" relname="condition">при эксплуатации:</segment>
+		<segment id="229" parent="228" relname="condition">проведение сварочных работ или обращение с огнем.</segment>
+		<segment id="231" parent="235" relname="span">Вторая - несоблюдение обслуживающим персоналом технологического процесса, несоответствие технического состояния оборудования нефтебазы.</segment>
+		<segment id="232" parent="234" relname="joint">Третья - умышленный поджог с целью дискредитации группы компаний БРСМ.</segment>
+		<segment id="233" parent="234" relname="joint">И четвертая - поджог с целью получения компенсации\",</segment>
+		<segment id="237" parent="236" relname="attribution">- сказал Аваков на заседании правительства.\n\</segment>
+		<segment id="240" parent="241" relname="attribution">nПо его словам,</segment>
+		<segment id="241" parent="242" relname="span">было установлено, что деятельность по переработке и реализации нефтепродуктов на указанной базе осуществлялась без соответствующих разрешений о вводе в эксплуатацию.</segment>
+		<segment id="243" parent="244" relname="attribution">Так, по его словам,</segment>
+		<segment id="244" parent="245" relname="span">в государственной архитектурно-строительной комиссии отсутствует какая-либо информация об этом объекте.\n\nКроме того, глава МВД озвучил результаты допросов сотрудников нефтебазы.</segment>
+		<segment id="246" parent="262" relname="joint">\"Во время допроса работников предприятия уже установлено, что работы проводились без соблюдения правил безопасности путем смешивания бензина различных октановых чисел\",</segment>
+		<segment id="247" parent="261" relname="span">- отметил Аваков.\n\nРуководство сгоревшей нефтебазы подозревается в коррупции на 48 млн долларов\n\nСледствие установило, что руководство нефтебазы,</segment>
+		<segment id="248" parent="260" relname="joint">которая горит по Киевом,</segment>
+		<segment id="249" parent="259" relname="span">использовало коррупционные схемы</segment>
+		<segment id="250" parent="257" relname="condition">при производстве и продаже топлива,</segment>
+		<segment id="251" parent="253" relname="span">чем нанесло государству убытки около 48 миллионов долларов,</segment>
+		<segment id="252" parent="251" relname="attribution">сообщил глава МВД Украины Арсен Аваков</segment>
+		<segment id="254" parent="256" relname="span">в ходе заседания правительства в пятницу.\n\n\"Начато расследование в отношении руководства группы компании БРСМ,</segment>
+		<segment id="255" parent="254" relname="background">которые на протяжении последнего года закупали нефтепродукты из нефтяных месторождений Украины,</segment>
+		<segment id="263" parent="267" relname="joint">оприходовали через фиктивные предприятия по поддельным документам и на территории трех нефтебаз,</segment>
+		<segment id="264" parent="266" relname="span">расположенных в Винницкой, Полтавской и Киевской областях,</segment>
+		<segment id="265" parent="264" relname="elaboration">изготавливали бензин и дизтопливо \"повышенного качества\" с использованием разных присадок и добавок.</segment>
+		<segment id="270" parent="286" relname="same-unit">Вследствие таких махинаций,</segment>
+		<segment id="271" parent="284" relname="attribution">на наш взгляд,</segment>
+		<segment id="272" parent="283" relname="attribution">по данным следствия,</segment>
+		<segment id="273" parent="283" relname="span">причиненный государству ущерб составляет более 1 млрд гривен</segment>
+		<segment id="274" parent="276" relname="span">(около 48 млн долларов по текущему курсу Нацбанка)\",</segment>
+		<segment id="275" parent="274" relname="attribution">- цитирует Авакова РИА \"Новости\" Украина.\n\</segment>
+		<segment id="277" parent="280" relname="attribution">nПо его словам,</segment>
+		<segment id="278" parent="280" relname="span">уголовное производство затребовано генпрокуратурой Украины.\n\nГлава Службы безопасности Украины,</segment>
+		<segment id="279" parent="278" relname="elaboration">который также присутствовал на заседании Кабинета министров,</segment>
+		<segment id="287" parent="294" relname="attribution">сообщил,</segment>
+		<segment id="288" parent="294" relname="joint">что его ведомство также проводит расследование относительно того, почему заместитель Генпрокурора остановил ранее расследование милиции в отношении данной компании.</segment>
+		<segment id="289" parent="292" relname="attribution">Он также сообщил,</segment>
+		<segment id="290" parent="292" relname="joint">что есть договоренность с БРСМ о проведении совместного межведомственного расследования по коррупционным делам,</segment>
+		<segment id="291" parent="292" relname="joint">и не исключил привлечения специалистов БРСМ к расследованию коррупционных схем в отношении руководства компании.\n\</segment>
+		<segment id="297" parent="300" relname="cause-effect">nИз-за повреждения газопровода</segment>
+		<segment id="298" parent="300" relname="span">прекращено газоснабжение Мариуполя, Бердянска и Волновахи\n\nГазоснабжение Мариуполя, Бердянска и Волновахи будет временно прекращено</segment>
+		<segment id="299" parent="298" relname="cause-effect">из-за повреждения газопровода в районе населенного пункта Очеретино в Донецкой области.</segment>
+		<segment id="303" parent="304" relname="joint">Об этом сегодня сообщила пресс-служба компании \"Укртрансгаз\".\n\n\"Газоснабжение будет прекращено на время проведения ремонтных работ.</segment>
+		<segment id="312" parent="314" relname="span">С момента прекращения боевых действий ориентировочно 1,5-2 суток\",</segment>
+		<segment id="313" parent="312" relname="attribution">- цитирует ТАСС пресс-секретаря компании Максима Белявского.\n\nПредставитель \"Укртрансгаза\" подчеркнул,</segment>
+		<segment id="315" parent="321" relname="comparison">что на транзит природного газа \"данная чрезвычайная ситуация не влияет\".\n\nНачальник украинской милиции в Донецкой области Вячеслав Аброськин заявил,</segment>
+		<segment id="316" parent="320" relname="span">что участок газопровода между Красногоровкой и Новокалиново поврежден</segment>
+		<segment id="317" parent="318" relname="cause-effect">из-за минометного обстрела с позиций так называемого ополчения самопровозглашенной ДНР.\n\nВ свою очередь в министерстве обороны ДНР заявили,</segment>
+		<segment id="318" parent="319" relname="span">что этот район находится вне зоны досягаемости их минометов.\n\nИсточник: https://www.newsru.com/world/12Jun2015/avakovfire.html\n</segment>
+		<group id="311" type="multinuc" parent="323" relname="joint"/>
+		<group id="131" type="multinuc" parent="311" relname="joint"/>
+		<group id="115" type="multinuc" parent="131" relname="joint"/>
+		<group id="111" type="span" parent="115" relname="joint"/>
+		<group id="114" type="multinuc" parent="115" relname="joint"/>
+		<group id="130" type="span" parent="131" relname="joint"/>
+		<group id="128" type="span" parent="130" relname="span"/>
+		<group id="120" type="span" parent="127" relname="attribution"/>
+		<group id="119" type="span" parent="116" relname="background"/>
+		<group id="127" type="span" parent="128" relname="span"/>
+		<group id="126" type="span" parent="127" relname="span"/>
+		<group id="125" type="span" parent="126" relname="span"/>
+		<group id="310" type="multinuc" parent="311" relname="joint"/>
+		<group id="152" type="multinuc" parent="310" relname="joint"/>
+		<group id="138" type="span" parent="152" relname="joint"/>
+		<group id="137" type="span" parent="138" relname="span"/>
+		<group id="136" type="span" parent="133" relname="elaboration"/>
+		<group id="151" type="multinuc" parent="152" relname="joint"/>
+		<group id="145" type="span" parent="151" relname="joint"/>
+		<group id="141" type="span" parent="145" relname="span"/>
+		<group id="144" type="span" parent="141" relname="attribution"/>
+		<group id="150" type="span" parent="151" relname="joint"/>
+		<group id="148" type="multinuc" parent="150" relname="span"/>
+		<group id="309" type="multinuc" parent="310" relname="joint"/>
+		<group id="175" type="multinuc" parent="309" relname="joint"/>
+		<group id="157" type="span" parent="175" relname="joint"/>
+		<group id="156" type="span" parent="157" relname="span"/>
+		<group id="174" type="span" parent="175" relname="joint"/>
+		<group id="173" type="multinuc" parent="174" relname="span"/>
+		<group id="172" type="multinuc" parent="173" relname="comparison"/>
+		<group id="171" type="span" parent="172" relname="joint"/>
+		<group id="170" type="span" parent="161" relname="attribution"/>
+		<group id="169" type="multinuc" parent="170" relname="span"/>
+		<group id="168" type="span" parent="169" relname="same-unit"/>
+		<group id="167" type="span" parent="164" relname="elaboration"/>
+		<group id="308" type="multinuc" parent="309" relname="joint"/>
+		<group id="224" type="multinuc" parent="308" relname="joint"/>
+		<group id="180" type="span" parent="224" relname="joint"/>
+		<group id="178" type="span" parent="180" relname="span"/>
+		<group id="223" type="span" parent="224" relname="joint"/>
+		<group id="222" type="span" parent="223" relname="span"/>
+		<group id="184" type="span" parent="221" relname="preparation"/>
+		<group id="221" type="multinuc" parent="222" relname="span"/>
+		<group id="197" type="multinuc" parent="221" relname="joint"/>
+		<group id="196" type="multinuc" parent="197" relname="joint"/>
+		<group id="188" type="multinuc" parent="196" relname="joint"/>
+		<group id="195" type="span" parent="196" relname="joint"/>
+		<group id="191" type="multinuc" parent="195" relname="span"/>
+		<group id="194" type="span" parent="191" relname="elaboration"/>
+		<group id="220" type="span" parent="221" relname="joint"/>
+		<group id="218" type="multinuc" parent="220" relname="span"/>
+		<group id="202" type="span" parent="218" relname="joint"/>
+		<group id="200" type="span" parent="202" relname="span"/>
+		<group id="217" type="multinuc" parent="218" relname="joint"/>
+		<group id="209" type="span" parent="217" relname="joint"/>
+		<group id="208" type="span" parent="209" relname="span"/>
+		<group id="207" type="span" parent="208" relname="span"/>
+		<group id="216" type="multinuc" parent="217" relname="joint"/>
+		<group id="215" type="span" parent="216" relname="joint"/>
+		<group id="214" type="multinuc" parent="215" relname="span"/>
+		<group id="307" type="multinuc" parent="308" relname="joint"/>
+		<group id="239" type="span" parent="307" relname="joint"/>
+		<group id="238" type="span" parent="225" relname="elaboration"/>
+		<group id="236" type="multinuc" parent="238" relname="span"/>
+		<group id="230" type="span" parent="236" relname="joint"/>
+		<group id="228" type="span" parent="230" relname="span"/>
+		<group id="235" type="span" parent="236" relname="joint"/>
+		<group id="234" type="multinuc" parent="231" relname="elaboration"/>
+		<group id="306" type="multinuc" parent="307" relname="joint"/>
+		<group id="242" type="span" parent="306" relname="joint"/>
+		<group id="305" type="multinuc" parent="306" relname="joint"/>
+		<group id="269" type="multinuc" parent="305" relname="joint"/>
+		<group id="245" type="span" parent="269" relname="joint"/>
+		<group id="268" type="multinuc" parent="269" relname="joint"/>
+		<group id="262" type="multinuc" parent="268" relname="joint"/>
+		<group id="261" type="span" parent="262" relname="joint"/>
+		<group id="260" type="multinuc" parent="247" relname="elaboration"/>
+		<group id="259" type="span" parent="260" relname="joint"/>
+		<group id="258" type="span" parent="249" relname="condition"/>
+		<group id="257" type="span" parent="258" relname="span"/>
+		<group id="253" type="span" parent="257" relname="span"/>
+		<group id="256" type="span" parent="253" relname="elaboration"/>
+		<group id="267" type="multinuc" parent="268" relname="joint"/>
+		<group id="266" type="span" parent="267" relname="joint"/>
+		<group id="304" type="multinuc" parent="305" relname="joint"/>
+		<group id="302" type="span" parent="304" relname="joint"/>
+		<group id="296" type="multinuc" parent="301" relname="cause-effect"/>
+		<group id="286" type="multinuc" parent="296" relname="joint"/>
+		<group id="285" type="span" parent="286" relname="same-unit"/>
+		<group id="284" type="span" parent="285" relname="span"/>
+		<group id="283" type="span" parent="284" relname="span"/>
+		<group id="282" type="multinuc" parent="273" relname="elaboration"/>
+		<group id="276" type="span" parent="282" relname="joint"/>
+		<group id="281" type="span" parent="282" relname="joint"/>
+		<group id="280" type="span" parent="281" relname="span"/>
+		<group id="295" type="span" parent="296" relname="joint"/>
+		<group id="294" type="multinuc" parent="295" relname="span"/>
+		<group id="293" type="span" parent="294" relname="joint"/>
+		<group id="292" type="multinuc" parent="293" relname="span"/>
+		<group id="301" type="span" parent="302" relname="span"/>
+		<group id="300" type="span" parent="301" relname="span"/>
+		<group id="322" type="span" parent="323" relname="joint"/>
+		<group id="314" type="span" parent="321" relname="attribution"/>
+		<group id="321" type="multinuc" parent="322" relname="span"/>
+		<group id="320" type="span" parent="321" relname="comparison"/>
+		<group id="319" type="span" parent="316" relname="cause-effect"/>
+		<group id="323" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,228 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="107" parent="310" relname="preparation">Слух членов кабинета министров России теперь тешит \"правительственный\" соловей - он поет им сладкие песни\n\</segment>
+		<segment id="108" parent="112" relname="joint">nНа фоне трагических столкновений между сепаратистами и украинскими военными,</segment>
+		<segment id="109" parent="111" relname="joint">на фоне борьбы российских законодателей за подчинение интернета,</segment>
+		<segment id="110" parent="111" relname="joint">на фоне неутешительных экономических прогнозов в РФ</segment>
+		<segment id="113" parent="115" relname="span">- можно сказать, почти в другой действительности - у Дома правительства Российской Федерации раздались чистые, звонкие звуки природы:</segment>
+		<segment id="114" parent="113" relname="elaboration">там поселились соловьи.</segment>
+		<segment id="117" parent="121" relname="contrast">Их сладкоголосое пение теперь будет тешить слух членов кабинета министров,</segment>
+		<segment id="118" parent="119" relname="attribution">а случайных критически к нему настроенных прохожих наводить на мысль,</segment>
+		<segment id="119" parent="120" relname="span">что одними баснями соловья не накормишь.\n\</segment>
+		<segment id="122" parent="130" relname="span">nПоявление у Белого дома соловьев</segment>
+		<segment id="123" parent="129" relname="span">- факт необычный,</segment>
+		<segment id="124" parent="128" relname="same-unit">поскольку,</segment>
+		<segment id="125" parent="126" relname="attribution">по словам столичных орнитологов,</segment>
+		<segment id="126" parent="127" relname="span">эти певчие птицы на протяжении многих лет избегали самого центра Москвы,</segment>
+		<segment id="131" parent="130" relname="attribution">передает ИТАР-ТАСС.</segment>
+		<segment id="135" parent="143" relname="span">Заметим, что специалисты также указывают на еще одну особенность выбора их места:</segment>
+		<segment id="136" parent="137" relname="attribution">соловьи почему-то предпочли несколько десятков деревьев и кустов, расположенных возле стадиона и главного контрольно-пропускного пункта в Белый дом, Краснопресненскому парку, расположенному напротив.\n\nПредседатель бюро центрального совета \"Союза охраны птиц России\" Полина Полежанкина заявила,</segment>
+		<segment id="137" parent="138" relname="span">что \"соловьи эти - московские, не перелетные\",</segment>
+		<segment id="139" parent="140" relname="attribution">и подчеркнула:</segment>
+		<segment id="140" parent="141" relname="span">тот факт, что птицы поселились именно в этом районе, фактически у Садового кольца - очень редкий случай.</segment>
+		<segment id="144" parent="148" relname="sequence">Так, в 2012 году в центральном округе столицы было зафиксировано всего около ста птиц,</segment>
+		<segment id="145" parent="147" relname="span">рекордсменом же стал юго-запад Москвы,</segment>
+		<segment id="146" parent="145" relname="elaboration">где поселились более 200 поющих соловьев.\n\nВозможно, в Дом правительства временами несутся переливающиеся трели.</segment>
+		<segment id="149" parent="161" relname="span">Стоит отметить, что у здания кабмина, во всей видимости, поет лишь один соловей.</segment>
+		<segment id="150" parent="155" relname="attribution">Как объясняют орнитологи,</segment>
+		<segment id="151" parent="155" relname="span">у соловьев трели выводит именно самец,</segment>
+		<segment id="152" parent="154" relname="joint">который таким образом обозначает свою территорию</segment>
+		<segment id="153" parent="154" relname="joint">или пытается привлечь самку.</segment>
+		<segment id="157" parent="159" relname="span">Как правило, на одного самца-соловья приходится около одного гектара площади,</segment>
+		<segment id="158" parent="157" relname="attribution">отметила Полежанкина.</segment>
+		<segment id="163" parent="176" relname="attribution">Таким образом, по ее мнению,</segment>
+		<segment id="164" parent="176" relname="joint">\"правительственный\" соловей уже выбрал себе примерную территорию обитания</segment>
+		<segment id="165" parent="174" relname="solutionhood">и вряд ли ее поменяет.\n\</segment>
+		<segment id="166" parent="174" relname="comparison">nИнтересно, что строительством гнезда и насиживанием кладки,</segment>
+		<segment id="169" parent="173" relname="comparison">что как раз происходит в настоящее время, занимается только самка,</segment>
+		<segment id="170" parent="172" relname="span">в то время как ее \"муж\" предпочитает петь,</segment>
+		<segment id="171" parent="170" relname="condition">услаждая слух российских министров.</segment>
+		<segment id="178" parent="188" relname="span">Однако после того, как на свет появляются птенцы,</segment>
+		<segment id="179" parent="181" relname="joint">самец \"остепеняется\"</segment>
+		<segment id="180" parent="181" relname="joint">и начинает помогать \"супруге\" их выкармливать,</segment>
+		<segment id="182" parent="186" relname="joint">из-за чего вынужден практически полностью прекратить свои выступления на этот период.</segment>
+		<segment id="183" parent="185" relname="span">Наиболее активно соловьиные трели слышны рано утром (до 7-8 часов) и вечером,</segment>
+		<segment id="184" parent="183" relname="elaboration">когда начинает темнеть.\n\nСогласно определению \"Энциклопедического словаря\", \"песня соловья - сильная, красивая, с богатыми свистовыми, рокочущими и щелкающими трелями\".</segment>
+		<segment id="189" parent="188" relname="interpretation-evaluation">Отмечается, что у разных соловьев она может отличаться \"сложностью, совершенством, насыщенностью, набором и последовательностью звуковых фраз, или \"колен\", концовкой\".</segment>
+		<segment id="192" parent="194" relname="contrast">\"В одной песне насчитывается обычно 6-7 колен,</segment>
+		<segment id="193" parent="194" relname="contrast">но встречаются певцы, использующие подряд 12 и более колен\",</segment>
+		<segment id="195" parent="194" relname="attribution">- говорится в статье.\n\n\"Она может быть \"стукотней\" - \"чочочочочочови\", \"дробью\" - \"тррррррррци\", \"кукушкиным перелетом\" - \"кликликликликликли\",</segment>
+		<segment id="197" parent="205" relname="joint">- пытается воспроизвести звуки трелей словарь.</segment>
+		<segment id="198" parent="202" relname="span">Добавим, что соловьи способны к подражанию</segment>
+		<segment id="199" parent="200" relname="condition">- если \"в округе есть хороший певец,</segment>
+		<segment id="200" parent="201" relname="span">то улучшается пение и других самцов\".</segment>
+		<segment id="203" parent="204" relname="joint">Неизвестно, есть ли среди российских министров любители петь, которые бы смогли \"улучшить\" трели \"правительственного\" соловья.\n\nПисатель и публицист Виктор Шендерович, кстати, тоже обратил внимание на звуки соловьиных трелей.</segment>
+		<segment id="207" parent="215" relname="contrast">В сатирической заметке, опубликованной в блоге \"Эха Москвы\", он озадачился вопросом, что соловью произносить позволительно в наше время,</segment>
+		<segment id="208" parent="214" relname="contrast">а что будет \"безнравственно\".\n\n\"Как хотите,</segment>
+		<segment id="209" parent="213" relname="joint">но утю-тю-тью-тью – это пускай,</segment>
+		<segment id="210" parent="212" relname="contrast">и даже трррьятятя-цок-цок еще куда ни шло,</segment>
+		<segment id="211" parent="212" relname="contrast">а вот цвиринь-цвиринь – это уже совершенно недопустимо!</segment>
+		<segment id="216" parent="218" relname="span">Цвиринь-цвиринь на данном историческом отрезке мы позволить не можем!</segment>
+		<segment id="217" parent="216" relname="elaboration">Это враждебно национальному сознанию, которым мы тут, у куста, в настоящий момент заведуем.</segment>
+		<segment id="220" parent="222" relname="span">В этом нагловатом цвиринь ясно слышен либеральный распад и презрение к традициям;</segment>
+		<segment id="221" parent="220" relname="interpretation-evaluation">больше того – это, несомненно, попытка поставить под сомнение наше куку!\" - иронизирует Шендерович.\n\nПублицист высмеял также и популярные у российских властей претензии к чему-либо выходящему за грань их политических взглядов:</segment>
+		<segment id="223" parent="225" relname="joint">\"Возникает законный вопрос: с чьего голоса поет этот соловей?</segment>
+		<segment id="224" parent="225" relname="joint">Кто стоит у него за спиной?</segment>
+		<segment id="226" parent="225" relname="elaboration">Откуда это цвиринь два раза?</segment>
+		<segment id="229" parent="231" relname="span">Что, собственно, он имел в виду,</segment>
+		<segment id="230" parent="229" relname="condition">когда вместо рекомендованного муму начал издавать эти звуки?</segment>
+		<segment id="232" parent="231" relname="elaboration">Кто профинансировал цвиринь?</segment>
+		<segment id="236" parent="242" relname="sequence">Мужчина он, наконец, или женщина, этот соловей?\"\n\nСимволизм образа:</segment>
+		<segment id="237" parent="238" relname="condition">о чем поет \"правительственный\" соловей?\n\nТот факт, что соловей поселился у Дома правительства РФ,</segment>
+		<segment id="238" parent="239" relname="span">не может не иметь символический характер,</segment>
+		<segment id="240" parent="241" relname="comparison">тем более что сам образ соловья тесно связан с культурой, а следовательно, и с жизнью.</segment>
+		<segment id="243" parent="269" relname="span">Образ соловья распространен как в западной, так и в отечественной литературе.</segment>
+		<segment id="244" parent="247" relname="condition">Например, если около здания поселился всего один соловей,</segment>
+		<segment id="245" parent="247" relname="span">то сразу же возникает ассоциация с известным былинным персонажем \"Соловьем-разбойником\",</segment>
+		<segment id="246" parent="245" relname="elaboration">которого победил русский богатырь Илья Муромец.</segment>
+		<segment id="249" parent="253" relname="same-unit">Напомним, что \"Соловей-разбойник\" был отрицательным персонажем,</segment>
+		<segment id="250" parent="252" relname="comparison">не дававшим добрым людям проходу и грабившим путников.\n\nПродолжая тему народного творчества,</segment>
+		<segment id="251" parent="252" relname="comparison">нельзя не вспомнить о поговорках и пословицах.</segment>
+		<segment id="256" parent="266" relname="span">Кроме известного \"Соловья баснями не кормят\", существуют еще несколько обиходных фраз.</segment>
+		<segment id="257" parent="258" relname="condition">Например, \"Перелетный соловей: то на сосну, то на ель\",</segment>
+		<segment id="258" parent="259" relname="span">что в народе говорили о непостоянном человеке.</segment>
+		<segment id="260" parent="263" relname="attribution">Или устаревшее разговорное выражение \"Разводить соловьев\",</segment>
+		<segment id="261" parent="263" relname="joint">что значит вести пустые разговоры,</segment>
+		<segment id="262" parent="263" relname="joint">болтать не по делу.</segment>
+		<segment id="271" parent="281" relname="restatement">Более резкая поговорка - \"Заливать соловья\",</segment>
+		<segment id="272" parent="280" relname="joint">то есть обманывать,</segment>
+		<segment id="273" parent="279" relname="span">врать.\n\nС другой стороны, образ соловья обычно не несет в себе отрицательной семантики,</segment>
+		<segment id="274" parent="276" relname="span">хотя элемент трагизма, безусловно, присутствует.</segment>
+		<segment id="275" parent="274" relname="evidence">Так, в античной литературе, например, у Гомера в \"Одиссее\" печальная песня соловья символизирует тоску и печаль.</segment>
+		<segment id="277" parent="276" relname="attribution">Согласно статье доктора филологических наук Ольги Ушаковой,</segment>
+		<segment id="282" parent="283" relname="joint">\"Мифологема соловья в античной литературе\", \"в античной традиции соловей как литературный персонаж сохраняет свою архаическую, дионисийскую семантику.</segment>
+		<segment id="284" parent="283" relname="interpretation-evaluation">Соловей - это преступная и страдающая женщина,</segment>
+		<segment id="286" parent="288" relname="joint">чья жалобная и прекрасная песнь обладает катартической силой, преображающей плач и стенания в высокое искусство\".\n\nЗаметим, что с развитием литературы образ соловья претерпел изменения</segment>
+		<segment id="287" parent="288" relname="joint">и несколько упростился.</segment>
+		<segment id="289" parent="288" relname="elaboration">Так, в средневековой поэзии соловей воспринимается как певец любви,</segment>
+		<segment id="291" parent="295" relname="span">кроме того, его образ обязательно связывается с творческим началом.</segment>
+		<segment id="292" parent="293" relname="cause-effect">Возможно, \"правительственному\" соловью следовало поселиться рядом с Государственной думой.\n\nНу, а в российской литературе в период зарождения и развития романтизма, то бишь в начале XIX столетия, соловей иллюстрирует любовные переживания лирического героя,</segment>
+		<segment id="293" parent="294" relname="span">становится средством раскрытия гармоничного мира человеческой души.</segment>
+		<segment id="298" parent="299" relname="contrast">Однако многие российские поэты оставляли открытым вопрос \"о чем же поет соловей\".</segment>
+		<segment id="300" parent="302" relname="joint">Например, Павел Александрович Катенин в стихотворении \"Любовь\" спрашивает: \"О чем, о чем в тени ветвей/ Поешь ты ночью, соловей?\".</segment>
+		<segment id="301" parent="302" relname="joint">И сегодня, наверное, почти невозможно спрогнозировать, о чем будет петь \"правительственный\" соловей - о скорби или же о дионисийских радостях.\n\nИсточник: https://www.newsru.com/russia/16May2014/solovey.html\n</segment>
+		<group id="310" type="multinuc" parent="311" relname="span"/>
+		<group id="134" type="span" parent="310" relname="joint"/>
+		<group id="116" type="multinuc" parent="134" relname="span"/>
+		<group id="112" type="multinuc" parent="116" relname="same-unit"/>
+		<group id="111" type="multinuc" parent="112" relname="joint"/>
+		<group id="115" type="span" parent="116" relname="same-unit"/>
+		<group id="133" type="multinuc" parent="116" relname="elaboration"/>
+		<group id="121" type="multinuc" parent="133" relname="joint"/>
+		<group id="120" type="span" parent="121" relname="contrast"/>
+		<group id="132" type="span" parent="133" relname="joint"/>
+		<group id="130" type="span" parent="132" relname="span"/>
+		<group id="129" type="span" parent="122" relname="elaboration"/>
+		<group id="128" type="multinuc" parent="123" relname="cause-effect"/>
+		<group id="127" type="span" parent="128" relname="same-unit"/>
+		<group id="309" type="multinuc" parent="310" relname="joint"/>
+		<group id="143" type="span" parent="309" relname="joint"/>
+		<group id="142" type="multinuc" parent="135" relname="elaboration"/>
+		<group id="138" type="span" parent="142" relname="joint"/>
+		<group id="141" type="span" parent="142" relname="joint"/>
+		<group id="308" type="multinuc" parent="309" relname="joint"/>
+		<group id="162" type="multinuc" parent="308" relname="joint"/>
+		<group id="148" type="multinuc" parent="162" relname="joint"/>
+		<group id="147" type="span" parent="148" relname="sequence"/>
+		<group id="161" type="span" parent="162" relname="joint"/>
+		<group id="160" type="span" parent="149" relname="elaboration"/>
+		<group id="156" type="span" parent="160" relname="span"/>
+		<group id="155" type="span" parent="156" relname="span"/>
+		<group id="154" type="multinuc" parent="151" relname="elaboration"/>
+		<group id="159" type="span" parent="156" relname="elaboration"/>
+		<group id="307" type="multinuc" parent="308" relname="joint"/>
+		<group id="191" type="multinuc" parent="307" relname="joint"/>
+		<group id="177" type="span" parent="191" relname="contrast"/>
+		<group id="176" type="multinuc" parent="177" relname="span"/>
+		<group id="175" type="span" parent="176" relname="joint"/>
+		<group id="174" type="multinuc" parent="175" relname="span"/>
+		<group id="173" type="multinuc" parent="174" relname="comparison"/>
+		<group id="172" type="span" parent="173" relname="comparison"/>
+		<group id="190" type="span" parent="191" relname="contrast"/>
+		<group id="188" type="span" parent="190" relname="span"/>
+		<group id="187" type="span" parent="178" relname="elaboration"/>
+		<group id="181" type="multinuc" parent="187" relname="span"/>
+		<group id="186" type="multinuc" parent="181" relname="cause-effect"/>
+		<group id="185" type="span" parent="186" relname="joint"/>
+		<group id="306" type="multinuc" parent="307" relname="joint"/>
+		<group id="206" type="multinuc" parent="306" relname="joint"/>
+		<group id="196" type="span" parent="206" relname="joint"/>
+		<group id="194" type="multinuc" parent="196" relname="span"/>
+		<group id="205" type="multinuc" parent="206" relname="joint"/>
+		<group id="204" type="multinuc" parent="205" relname="joint"/>
+		<group id="202" type="span" parent="204" relname="joint"/>
+		<group id="201" type="span" parent="198" relname="condition"/>
+		<group id="305" type="span" parent="306" relname="joint"/>
+		<group id="235" type="span" parent="304" relname="solutionhood"/>
+		<group id="219" type="span" parent="235" relname="span"/>
+		<group id="215" type="multinuc" parent="219" relname="span"/>
+		<group id="214" type="multinuc" parent="215" relname="contrast"/>
+		<group id="213" type="multinuc" parent="214" relname="contrast"/>
+		<group id="212" type="multinuc" parent="213" relname="joint"/>
+		<group id="218" type="span" parent="215" relname="interpretation-evaluation"/>
+		<group id="234" type="span" parent="219" relname="interpretation-evaluation"/>
+		<group id="228" type="span" parent="233" relname="solutionhood"/>
+		<group id="222" type="span" parent="228" relname="span"/>
+		<group id="227" type="span" parent="222" relname="elaboration"/>
+		<group id="225" type="multinuc" parent="227" relname="span"/>
+		<group id="233" type="span" parent="234" relname="span"/>
+		<group id="231" type="span" parent="233" relname="span"/>
+		<group id="304" type="multinuc" parent="305" relname="span"/>
+		<group id="270" type="multinuc" parent="304" relname="joint"/>
+		<group id="242" type="multinuc" parent="270" relname="joint"/>
+		<group id="241" type="multinuc" parent="242" relname="sequence"/>
+		<group id="239" type="span" parent="241" relname="comparison"/>
+		<group id="269" type="span" parent="270" relname="joint"/>
+		<group id="268" type="multinuc" parent="243" relname="elaboration"/>
+		<group id="248" type="span" parent="268" relname="joint"/>
+		<group id="247" type="span" parent="248" relname="span"/>
+		<group id="267" type="multinuc" parent="268" relname="joint"/>
+		<group id="253" type="multinuc" parent="267" relname="joint"/>
+		<group id="252" type="multinuc" parent="253" relname="same-unit"/>
+		<group id="266" type="span" parent="267" relname="joint"/>
+		<group id="265" type="multinuc" parent="256" relname="evidence"/>
+		<group id="259" type="span" parent="265" relname="joint"/>
+		<group id="264" type="span" parent="265" relname="joint"/>
+		<group id="263" type="multinuc" parent="264" relname="span"/>
+		<group id="303" type="span" parent="304" relname="joint"/>
+		<group id="299" type="multinuc" parent="303" relname="span"/>
+		<group id="297" type="multinuc" parent="299" relname="contrast"/>
+		<group id="285" type="span" parent="297" relname="joint"/>
+		<group id="283" type="multinuc" parent="285" relname="span"/>
+		<group id="281" type="multinuc" parent="283" relname="joint"/>
+		<group id="280" type="multinuc" parent="281" relname="restatement"/>
+		<group id="279" type="span" parent="280" relname="joint"/>
+		<group id="278" type="span" parent="273" relname="concession"/>
+		<group id="276" type="span" parent="278" relname="span"/>
+		<group id="296" type="multinuc" parent="297" relname="joint"/>
+		<group id="290" type="span" parent="296" relname="joint"/>
+		<group id="288" type="multinuc" parent="290" relname="span"/>
+		<group id="295" type="span" parent="296" relname="joint"/>
+		<group id="294" type="span" parent="291" relname="elaboration"/>
+		<group id="302" type="multinuc" parent="299" relname="elaboration"/>
+		<group id="311" type="span"/>
+	</body>
+</rst>

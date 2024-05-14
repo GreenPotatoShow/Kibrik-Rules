@@ -1,0 +1,36 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="13" parent="15" relname="span">Фильм \"Камера 211\" о тюремной жизни получил восемь премий \"Гойя\" включая главную - \"За лучший фильм\"\n\nКартина испанского режиссера Даниэля Монсона \"Камера 211\" получила в воскресенье вечером восемь премий испанской академии киноискусств \"Гойя\", в том числе премию за лучший фильм,</segment>
+		<segment id="14" parent="13" relname="attribution">сообщает РИА \"Новости\".</segment>
+		<segment id="16" parent="18" relname="span">Церемония вручения премий передавалась в прямом эфире по Национальному телевидению Испании (TVE1).\n\nЖюри киноакадемии,</segment>
+		<segment id="17" parent="16" relname="background">которая вручала свои призы в 24-й раз,</segment>
+		<segment id="19" parent="20" relname="joint">присудило фильму-фавориту \"Камера 211\",</segment>
+		<segment id="21" parent="27" relname="span">где речь идет о тюремной жизни,</segment>
+		<segment id="22" parent="26" relname="span">премии за лучший фильм, лучшую режиссуру, лучший адаптированный сценарий, лучший монтаж, лучший звук, лучшую мужскую роль (актер Луис Тосар), лучшую женскую роль второго плана (актриса Марта Этура) и лучшую дебютную мужскую роль (актер Альберто Амман).\n\nСемь премий \"Гойя\" получил второй фаворит - исторический фильм испанского режиссера Алехандро Аменабара \"Агора\",</segment>
+		<segment id="23" parent="25" relname="span">который повествует о первой в истории женщине-ученом Гипатии,</segment>
+		<segment id="24" parent="23" relname="background">жившей в Александрии в 5 веке нашей эры.</segment>
+		<segment id="29" parent="33" relname="joint">Фильм был награжден за лучший оригинальный сценарий, лучшую операторскую работу, лучший дизайн костюмов, лучшую работу художника-постановщика, лучшую продюсерскую работу, лучший грим, лучшие спецэффекты.\n\nПремии \"Гойя\" - своего рода испанский аналог \"Оскара\", национальная кинопремия Испании, которую вручает испанская Академия искусств и кинематографии.</segment>
+		<segment id="30" parent="32" relname="span">Первая церемония вручения этих наград состоялась 16 марта 1987 года.</segment>
+		<segment id="31" parent="30" relname="elaboration">Награда представляет собой бронзовый бюст испанского художника Франсиско Гойи.\n\nИсточник: https://www.newsru.com/cinema/15Feb2010/goya.html\n</segment>
+		<group id="15" type="span" parent="35" relname="joint"/>
+		<group id="34" type="multinuc" parent="35" relname="joint"/>
+		<group id="28" type="multinuc" parent="34" relname="joint"/>
+		<group id="20" type="multinuc" parent="28" relname="joint"/>
+		<group id="18" type="span" parent="20" relname="joint"/>
+		<group id="27" type="span" parent="28" relname="joint"/>
+		<group id="26" type="span" parent="21" relname="elaboration"/>
+		<group id="25" type="span" parent="22" relname="elaboration"/>
+		<group id="33" type="multinuc" parent="34" relname="joint"/>
+		<group id="32" type="span" parent="33" relname="joint"/>
+		<group id="35" type="multinuc"/>
+	</body>
+</rst>

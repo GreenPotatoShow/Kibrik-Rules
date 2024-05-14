@@ -1,0 +1,64 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="28" relname="sequence">Умер человек, стоявший у истоков Ice Bucket Challenge\n\nВ США умер человек,</segment>
+		<segment id="27" parent="28" relname="sequence">вдохновивший весь мир в 2014 году на флешмоб Ice Bucket Challenge,</segment>
+		<segment id="29" parent="31" relname="span">- Энтони Сенерчия,</segment>
+		<segment id="30" parent="29" relname="elaboration">много лет боровшийся с боковым амиотрофическим склерозом (AMS).</segment>
+		<segment id="33" parent="35" relname="span">Благодаря флешмобу ассоциация по исследованию неизлечимого пока заболевания собрала более 100 млн долларов пожертвований.\n\nСенерчия ушел из жизни в субботу, 25 ноября.</segment>
+		<segment id="34" parent="33" relname="elaboration">Ему было 46 лет.</segment>
+		<segment id="36" parent="38" relname="sequence">О кончине сообщила его супруга Дженнет,</segment>
+		<segment id="37" parent="38" relname="sequence">передает Reuters.\n\nФлешмоб начался в 2014 году с брата Дженнет Криса Кеннеди,</segment>
+		<segment id="39" parent="43" relname="sequence">который записал шутливое видео,</segment>
+		<segment id="40" parent="42" relname="joint">где он обливается ледяной водой</segment>
+		<segment id="41" parent="42" relname="joint">и бросает вызов другим людям.</segment>
+		<segment id="45" parent="47" relname="joint">Необходимо либо вылить на себя ведро с ледяной водой,</segment>
+		<segment id="46" parent="47" relname="joint">либо перевести ассоциации AMS пожертвование.</segment>
+		<segment id="48" parent="52" relname="sequence">Многие участники делали и то, и другое.\n\nЗа пределы городка Пелем, где жил Сенерчия,</segment>
+		<segment id="49" parent="51" relname="span">флешмоб вышел после того, как в нем принял участие экс-бейсболист Пит Фрейтс,</segment>
+		<segment id="50" parent="49" relname="elaboration">у которого также диагностировали это заболевание.</segment>
+		<segment id="53" parent="55" relname="sequence">После этого к флешмобу присоединились многие знаменитые люди,</segment>
+		<segment id="54" parent="55" relname="sequence">а вскоре он вышел за пределы США.</segment>
+		<segment id="57" parent="59" relname="span">Холодной водой обливались мировые знаменитости,</segment>
+		<segment id="58" parent="57" relname="elaboration">в том числе основатель Microsoft Билл Гейтс, учредитель Facebook Марк Цукерберг, бывший президент США Джордж Буш - младший, писатель Стивен Кинг,</segment>
+		<segment id="60" parent="62" relname="span">десятки музыкантов и актеров.\n\nНа пожертвования, полученные за счет акции, Сенерчия создал благотворительный фонд</segment>
+		<segment id="61" parent="60" relname="purpose">для помощи в исследовании болезни.\n\nПо данным BuzzFeed,</segment>
+		<segment id="63" parent="65" relname="span">благодаря Ice Bucket Challenge ассоциация по исследованию AMS получила около 115 млн долларов пожертвований.\n\nВ настоящее время AMS - неизлечимая болезнь,</segment>
+		<segment id="64" parent="63" relname="elaboration">развитие которой постепенно приводит к параличу.</segment>
+		<segment id="68" parent="69" relname="joint">Самый знаменитый больной с боковым амиотрофическим склерозом - физик Стивен Хокинг, создатель теории черных дыр и популяризатор науки.\n\nИсточник: https://www.newsru.com/world/01Dec2017/ams.html\n</segment>
+		<group id="32" type="span" parent="73" relname="preparation"/>
+		<group id="28" type="multinuc" parent="32" relname="span"/>
+		<group id="31" type="span" parent="28" relname="attribution"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="35" type="span" parent="72" relname="preparation"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="44" type="span" parent="71" relname="preparation"/>
+		<group id="38" type="multinuc" parent="44" relname="span"/>
+		<group id="43" type="multinuc" parent="38" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="43" relname="sequence"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="47" type="multinuc" parent="70" relname="preparation"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="56" type="multinuc" parent="70" relname="joint"/>
+		<group id="52" type="multinuc" parent="56" relname="sequence"/>
+		<group id="51" type="span" parent="52" relname="sequence"/>
+		<group id="55" type="multinuc" parent="56" relname="sequence"/>
+		<group id="69" type="multinuc" parent="70" relname="joint"/>
+		<group id="67" type="span" parent="69" relname="joint"/>
+		<group id="59" type="span" parent="67" relname="span"/>
+		<group id="66" type="multinuc" parent="59" relname="purpose"/>
+		<group id="62" type="span" parent="66" relname="joint"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="74" type="span"/>
+	</body>
+</rst>

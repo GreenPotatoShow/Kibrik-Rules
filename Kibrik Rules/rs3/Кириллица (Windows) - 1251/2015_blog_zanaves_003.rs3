@@ -1,0 +1,45 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="40" relname="solutionhood">Кирилл Шулика: \"Железный занавес российского футбола\"\n\n\"Что же мы видим в России?</segment>
+		<segment id="16" parent="18" relname="span">Да, многие говорят о засилье легионеров,</segment>
+		<segment id="17" parent="16" relname="condition">причем, не всегда высокого качества.</segment>
+		<segment id="19" parent="18" relname="interpretation-evaluation">Это все правда.</segment>
+		<segment id="21" parent="23" relname="joint">Но при этом нужно понимать, что для развития футбола</segment>
+		<segment id="22" parent="23" relname="joint">обязательно необходимо и обратное движение,</segment>
+		<segment id="24" parent="25" relname="restatement">то есть отъезд российских футболистов в Европу.</segment>
+		<segment id="26" parent="38" relname="span">А с этим у нас серьезнейшие проблемы.</segment>
+		<segment id="27" parent="31" relname="span">В ведущих футбольных странах играют единицы,</segment>
+		<segment id="28" parent="30" relname="span">из которых я могу вспомнить только выступающего в Испании Дениса Черышева.\n\nА ведь в тяжелые 90-е годы сборную спасало то,</segment>
+		<segment id="29" parent="28" relname="background">что практически вся она играла в зарубежных клубах.</segment>
+		<segment id="32" parent="31" relname="elaboration">Просто в России зарплата футболистов была если не 100 долларов, то где-то рядом.</segment>
+		<segment id="34" parent="36" relname="span">Вот и уезжали те же Карпин, Онопко, Добровольский, Колыванов, Хохлов, Смертин, Никифоров.</segment>
+		<segment id="35" parent="34" relname="elaboration">Они привносили в сборную что-то европейское, прежде всего, отношение к делу и дисциплину\".\n\nИсточник: https://www.newsru.com/blog/16Jun2015/zanaves.html\n</segment>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="20" type="span" parent="40" relname="contrast"/>
+		<group id="18" type="span" parent="20" relname="span"/>
+		<group id="39" type="multinuc" parent="40" relname="contrast"/>
+		<group id="25" type="multinuc" parent="39" relname="comparison"/>
+		<group id="23" type="multinuc" parent="25" relname="restatement"/>
+		<group id="38" type="span" parent="39" relname="comparison"/>
+		<group id="37" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="33" type="span" parent="37" relname="joint"/>
+		<group id="31" type="span" parent="33" relname="span"/>
+		<group id="30" type="span" parent="27" relname="elaboration"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="41" type="span"/>
+	</body>
+</rst>

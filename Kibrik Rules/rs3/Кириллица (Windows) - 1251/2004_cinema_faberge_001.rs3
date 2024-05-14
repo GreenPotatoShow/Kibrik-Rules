@@ -1,0 +1,30 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="11" parent="15" relname="span">Коллекция Фаберже,</segment>
+		<segment id="12" parent="14" relname="joint">оцененная в 90 млн долларов,</segment>
+		<segment id="13" parent="14" relname="joint">уйдет с аукциона\n\nКоллекция изделий Фаберже, включая 8 пасхальных яиц, оцененная в 90 млн долларов,</segment>
+		<segment id="16" parent="17" relname="same-unit">будет выставлена на аукционе в Нью-Йорке в апреле этого года.</segment>
+		<segment id="18" parent="22" relname="span">Предлагаемые на продажу яйца Фаберже принадлежали династии русских царей.\n\nВладельцем коллекции,</segment>
+		<segment id="21" parent="18" relname="elaboration">которая считается самым крупным частным собранием в мире, является семья умершего американского миллионера Малкольма Форбса, владельца и издателя одноименного журнала.\n\nПродать коллекцию, состоящую из около 190 предметов, поручено фирме Sotheby's 20-21 апреля.</segment>
+		<segment id="23" parent="25" relname="span">Среди наиболее ценных объектов - изготовленное Фаберже \"Яйцо Коронация\", заказанное царем Николаем II к первой Пасхе после своего восхождения на трон в 1897 году, в возрасте 28 лет.</segment>
+		<segment id="24" parent="23" relname="elaboration">Оно оценивается в 18-24 млн долларов,</segment>
+		<segment id="28" parent="27" relname="attribution">сообщает \"Интерфакс\".\n\nИсточник: https://www.newsru.com/cinema/09Jan2004/faberge.html\n</segment>
+		<group id="27" type="multinuc" parent="29" relname="span"/>
+		<group id="17" type="multinuc" parent="27" relname="joint"/>
+		<group id="15" type="span" parent="17" relname="same-unit"/>
+		<group id="14" type="multinuc" parent="11" relname="elaboration"/>
+		<group id="26" type="multinuc" parent="27" relname="joint"/>
+		<group id="22" type="span" parent="26" relname="joint"/>
+		<group id="25" type="span" parent="26" relname="joint"/>
+		<group id="29" type="span"/>
+	</body>
+</rst>

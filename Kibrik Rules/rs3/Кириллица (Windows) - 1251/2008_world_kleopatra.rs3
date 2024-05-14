@@ -1,0 +1,93 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="38" parent="41" relname="attribution">Известный археолог считает,</segment>
+		<segment id="39" parent="41" relname="span">что нашел гробницу Клеопатры\n\nЕгипетский археолог Захи Хавасс заявил,</segment>
+		<segment id="40" parent="39" relname="background">что отыскал место погребения Клеопатры,</segment>
+		<segment id="43" parent="42" relname="attribution">пишет The Times.\n\n60-летний Хавасс,</segment>
+		<segment id="45" parent="52" relname="attribution">возглавляющий Высший совет по древностям Египта, полагает,</segment>
+		<segment id="46" parent="48" relname="joint">что прославленную египетскую царицу ,</segment>
+		<segment id="47" parent="48" relname="joint">а также ее возлюбленного римского военачальника Марка Антония похоронили вместе на территории храма Осириса,</segment>
+		<segment id="49" parent="51" relname="span">известного под названием Taposiris Magna, в 28 милях западнее Александрии.\n\nХавасс обнаружил под храмом туннель длиной в 400 футов,</segment>
+		<segment id="50" parent="49" relname="elaboration">где содержатся указания на то, что красавица-царица, возможно, покоится под толщей земли именно здесь.</segment>
+		<segment id="55" parent="59" relname="joint">\"Мы нашли туннели со статуями Клеопатры</segment>
+		<segment id="56" parent="58" relname="span">и много монет, на которых отчеканен ее портрет,</segment>
+		<segment id="57" parent="56" relname="elaboration">– в типичном храме такое не ожидаешь увидеть\",</segment>
+		<segment id="60" parent="59" relname="attribution">– пояснил он.</segment>
+		<segment id="63" parent="67" relname="same-unit">Исследователь, которому помогают 12 археологов и 70 рабочих,</segment>
+		<segment id="64" parent="66" relname="joint">начал поиски входа в гробницу.\n\nДве недели тому назад экспедиция обнаружила алебастровую голову Клеопатры,</segment>
+		<segment id="65" parent="66" relname="joint">а также, как предполагается скульптурную маску Марка Антония.</segment>
+		<segment id="68" parent="78" relname="span">(Полный текст на сайте InoPressa.ru.)\n\nСейчас раскопки приостановлены на период летнего зноя.</segment>
+		<segment id="69" parent="70" relname="condition">Когда в ноябре они возобновятся,</segment>
+		<segment id="70" parent="71" relname="span">Хавасс воспользуется радаром для поиска потайных подземных камер.\n\nЕсли Хавасс прав,</segment>
+		<segment id="72" parent="74" relname="span">то ему, возможно, удастся совершить величайшее археологическое открытие на территории Египта с тех пор,</segment>
+		<segment id="73" parent="72" relname="background">как в 1922 году британский археолог Говард Картер нашел гробницу Тутанхамона</segment>
+		<segment id="75" parent="76" relname="same-unit">.\n\</segment>
+		<segment id="80" parent="84" relname="span">nОднако другие специалисты оценивают происходящее с осторожностью.</segment>
+		<segment id="81" parent="82" relname="attribution">Джон Бейнс, профессор египтологии из Оксфордского университета, предостерег,</segment>
+		<segment id="82" parent="83" relname="span">что поиски царских гробниц часто оказываются \"безнадежной\" затеей.</segment>
+		<segment id="85" parent="86" relname="attribution">Он также выразил сомнения,</segment>
+		<segment id="86" parent="87" relname="span">что Антония похоронили рядом с его возлюбленной.</segment>
+		<segment id="88" parent="90" relname="span">\"Вряд ли у Марка Антония была могила, которую возможно отыскать,</segment>
+		<segment id="89" parent="88" relname="cause-effect">так как ко времени своей смерти он перешел в статус врага\",</segment>
+		<segment id="91" parent="90" relname="attribution">– пояснил Бейнс</segment>
+		<segment id="93" parent="95" relname="contrast">.\n\nХавасс,</segment>
+		<segment id="94" parent="95" relname="contrast">однако, настаивает на своем.</segment>
+		<segment id="97" parent="103" relname="span">\"Такова наша теория.</segment>
+		<segment id="98" parent="102" relname="contrast">Возможно, другие с ней не согласны,</segment>
+		<segment id="99" parent="101" relname="span">но мы проводим раскопки,</segment>
+		<segment id="100" parent="99" relname="purpose">чтобы проверить, удастся ли нам ее доказать\",</segment>
+		<segment id="104" parent="103" relname="attribution">– сказал он.\n\nИсточник: https://www.newsru.com/world/27May2008/kleopatra.html\n</segment>
+		<group id="62" type="span" parent="110" relname="joint"/>
+		<group id="54" type="multinuc" parent="62" relname="span"/>
+		<group id="44" type="span" parent="54" relname="sequence"/>
+		<group id="42" type="span" parent="44" relname="span"/>
+		<group id="41" type="span" parent="42" relname="span"/>
+		<group id="53" type="span" parent="54" relname="sequence"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="48" type="multinuc" parent="52" relname="span"/>
+		<group id="51" type="span" parent="48" relname="elaboration"/>
+		<group id="61" type="span" parent="54" relname="elaboration"/>
+		<group id="59" type="multinuc" parent="61" relname="span"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="109" type="multinuc" parent="110" relname="joint"/>
+		<group id="79" type="multinuc" parent="109" relname="contrast"/>
+		<group id="67" type="multinuc" parent="79" relname="sequence"/>
+		<group id="66" type="multinuc" parent="67" relname="same-unit"/>
+		<group id="78" type="span" parent="79" relname="sequence"/>
+		<group id="77" type="span" parent="68" relname="elaboration"/>
+		<group id="71" type="span" parent="76" relname="condition"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="74" type="span" parent="76" relname="same-unit"/>
+		<group id="108" type="multinuc" parent="109" relname="contrast"/>
+		<group id="84" type="span" parent="108" relname="joint"/>
+		<group id="83" type="span" parent="80" relname="elaboration"/>
+		<group id="107" type="span" parent="108" relname="joint"/>
+		<group id="87" type="span" parent="107" relname="span"/>
+		<group id="106" type="multinuc" parent="87" relname="elaboration"/>
+		<group id="96" type="multinuc" parent="106" relname="joint"/>
+		<group id="92" type="span" parent="96" relname="contrast"/>
+		<group id="90" type="span" parent="92" relname="span"/>
+		<group id="95" type="multinuc" parent="96" relname="contrast"/>
+		<group id="105" type="span" parent="106" relname="joint"/>
+		<group id="103" type="span" parent="105" relname="span"/>
+		<group id="102" type="multinuc" parent="97" relname="elaboration"/>
+		<group id="101" type="span" parent="102" relname="contrast"/>
+		<group id="110" type="multinuc"/>
+	</body>
+</rst>

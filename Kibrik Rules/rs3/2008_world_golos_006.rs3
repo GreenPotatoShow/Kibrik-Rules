@@ -1,0 +1,63 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="25" relname="span">Джордж и Лора Буш досрочно проголосовали на выборах президента США\n\nДжордж и Лора Буш заполнили утром в пятницу бюллетени</segment>
+		<segment id="24" parent="23" relname="purpose">для голосования на выборах президента США,</segment>
+		<segment id="26" parent="25" relname="attribution">сообщила пресс-служба Белого дома,</segment>
+		<segment id="28" parent="27" relname="attribution">сообщает РИА \"Новости\".</segment>
+		<segment id="30" parent="34" relname="span">Пресс-служба распространила также фотографию,</segment>
+		<segment id="31" parent="33" relname="sequence">показывающую как Буш собственноручно заполняет бюллетень,</segment>
+		<segment id="32" parent="33" relname="sequence">сидя за своим рабочим столом в Овальном кабинете Белого дома.\n\nЗаполненные Джорджем и Лорой Буш бюллетени в пятницу были отправлены по почте в избирательную комиссию штата Техас,</segment>
+		<segment id="35" parent="43" relname="joint">так как личным домашним адресом президента и первой леди является их ранчо под Кроуфордом в этом штате,</segment>
+		<segment id="36" parent="42" relname="span">и Буш с супругой традиционно голосуют именно в Техасе,</segment>
+		<segment id="37" parent="41" relname="joint">где они зарегистрированы как избиратели</segment>
+		<segment id="38" parent="39" relname="attribution">.\n\nПресс-служба сообщила,</segment>
+		<segment id="39" parent="40" relname="span">что в день выборов Буш будет находиться в Белом доме в Вашингтоне</segment>
+		<segment id="45" parent="47" relname="joint">.\n\nБелый дом не сообщил,</segment>
+		<segment id="46" parent="47" relname="joint">за кого именно проголосовали президент и первая леди США,</segment>
+		<segment id="48" parent="61" relname="attribution">но ранее они оба неоднократно в своих публичных выступления заявляли,</segment>
+		<segment id="49" parent="53" relname="joint">что поддерживают на этих выборах кандидатуру республиканского кандидата сенатора Джона Маккейна.\n\nВ штате Техас досрочное голосование на выборах президента США началось 21 октября</segment>
+		<segment id="50" parent="52" relname="span">и продлится до 31 октября.\n\nЛюбой избиратель в Техасе имеет право проголосовать досрочно,</segment>
+		<segment id="51" parent="50" relname="condition">придя лично на любой избирательный участок в своем графстве</segment>
+		<segment id="54" parent="56" relname="joint">и объяснив причину, по которой необходимо досрочное голосование,</segment>
+		<segment id="55" parent="56" relname="joint">или проголосовав по почте,</segment>
+		<segment id="57" parent="59" relname="span">запросив предварительно,</segment>
+		<segment id="58" parent="57" relname="purpose">чтобы ему по почте был прислан избирательный бюллетень.\n\nИсточник: https://www.newsru.com/world/25Oct2008/golos.html\n</segment>
+		<group id="29" type="span" parent="64" relname="preparation"/>
+		<group id="27" type="span" parent="29" relname="span"/>
+		<group id="25" type="span" parent="27" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="44" type="span" parent="64" relname="joint"/>
+		<group id="34" type="span" parent="44" relname="span"/>
+		<group id="33" type="multinuc" parent="30" relname="elaboration"/>
+		<group id="43" type="multinuc" parent="34" relname="cause-effect"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="41" type="multinuc" parent="36" relname="background"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="47" type="multinuc" parent="63" relname="contrast"/>
+		<group id="62" type="span" parent="63" relname="contrast"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="53" type="multinuc" parent="61" relname="sequence"/>
+		<group id="52" type="span" parent="53" relname="joint"/>
+		<group id="60" type="multinuc" parent="61" relname="sequence"/>
+		<group id="56" type="multinuc" parent="60" relname="sequence"/>
+		<group id="59" type="span" parent="60" relname="sequence"/>
+		<group id="65" type="span"/>
+	</body>
+</rst>

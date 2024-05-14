@@ -1,0 +1,37 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="13" parent="15" relname="span">Анатолий Чубайс полетел в США за инвестициями\n\nПредседатель правления РАО \"ЕЭС России\" Анатолий Чубайс вылетел в воскресенье, 20 мая, в США,</segment>
+		<segment id="14" parent="13" relname="attribution">где состоится его встреча с вице-президентом США Ричардом Чейни.</segment>
+		<segment id="16" parent="22" relname="span">Об этом сообщили в РАО \"ЕЭС России\".\n\nВ ходе визита в США,</segment>
+		<segment id="17" parent="21" relname="same-unit">который продлится до 25 мая,</segment>
+		<segment id="18" parent="20" relname="joint">глава РАО намерен также встретиться с инвесторами</segment>
+		<segment id="19" parent="20" relname="joint">и обсудить с ними вопрос инвестирования средств в российскую электроэнергетику.</segment>
+		<segment id="24" parent="25" relname="attribution">Анатолий Чубайс неоднократно заявлял,</segment>
+		<segment id="25" parent="26" relname="span">что после принятия правительством РФ решения о реформировании электроэнергетической отрасли можно будет приступать к проведению конкретных переговорах с инвесторами.</segment>
+		<segment id="27" parent="31" relname="same-unit">Такое решение, как известно, было принято правительством 19 мая этого года.\n\nКроме того,</segment>
+		<segment id="28" parent="29" relname="attribution">как сообщили в РАО ЕЭС,</segment>
+		<segment id="29" parent="30" relname="span">глава энергохолдинга намерен еще раз ознакомиться с процессом проведения либерализации рынка электроэнергии в США.</segment>
+		<segment id="32" parent="33" relname="joint">Напомним, что более чем в 20 штатах этой страны процесс либерализации прошел успешно.\n\nИсточник: https://www.newsru.com/finance/21May2001/chubaisusa.html\n</segment>
+		<group id="23" type="multinuc" parent="35" relname="joint"/>
+		<group id="15" type="span" parent="23" relname="joint"/>
+		<group id="22" type="span" parent="23" relname="joint"/>
+		<group id="21" type="multinuc" parent="16" relname="elaboration"/>
+		<group id="20" type="multinuc" parent="21" relname="same-unit"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="26" type="span" parent="34" relname="span"/>
+		<group id="33" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="31" type="multinuc" parent="33" relname="joint"/>
+		<group id="30" type="span" parent="31" relname="same-unit"/>
+		<group id="35" type="multinuc"/>
+	</body>
+</rst>

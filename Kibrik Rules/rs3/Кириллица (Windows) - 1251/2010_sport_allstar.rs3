@@ -1,0 +1,22 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="6" parent="8" relname="span">В символической сборной ЧМ-2010 доминируют испанцы\n\nНациональная команда Испании по футболу делегировала наибольшее количество представителей в символическую сборную чемпионата мира в ЮАР,</segment>
+		<segment id="7" parent="6" relname="attribution">сообщает официальный сайт ФИФА.</segment>
+		<segment id="9" parent="11" relname="span">Болельщики выбрали шесть игроков \"Красной фурии\" и ее главного тренера.\n\nПолностью список сборной звезд ЧМ-2010 выглядит следующим образом:\n\nВратарь\n\nИкер Касильяс (Испания)\nЗащитники Серхио Рамос, Карлес Пуйоль (оба - Испания), Филипп Лам (Германия), Майкон (Бразилия)\nПолузащитники Хави, Андрес Иньеста (оба - Испания), Уэсли Снейдер (Нидерланды), Бастиан Швайнштайгер (Германия)\nНападающие Давид Вилья (Испания), Диего Форлан (Уругвай)\n\nТренер: Висенте дель Боске (Испания).\n\nНаиболее популярным персонажем в этом опросе тоже оказался лидер чемпионов мира Давид Вилья,</segment>
+		<segment id="10" parent="9" relname="elaboration">за которого отдали свои голоса 61,33% респондентов,</segment>
+		<segment id="12" parent="13" relname="comparison">на втором месте голландец Уэсли Снейдер – 60,6%.\n\nЗвездная сборная определилась путем голосования болельщиков на официальном сайте ФИФА.\n\nИсточник: https://www.newsru.com/sport/16Jul2010/allstar.html\n</segment>
+		<group id="8" type="span" parent="13" relname="preparation"/>
+		<group id="13" type="multinuc" parent="14" relname="span"/>
+		<group id="11" type="span" parent="13" relname="comparison"/>
+		<group id="14" type="span"/>
+	</body>
+</rst>

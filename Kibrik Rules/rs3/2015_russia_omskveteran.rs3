@@ -1,0 +1,60 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="23" parent="64" relname="preparation">Под Омском на памятнике умершим ветеранам выбили имена живых (ФОТО)\n\</segment>
+		<segment id="24" parent="26" relname="span">nОткрытие в Омской области мемориала участникам Великой Отечественной войны не обошлось без конфуза:</segment>
+		<segment id="25" parent="24" relname="elaboration">на гранитной плите вместе с именами ушедших из жизни ветеранов оказались семь здравствующих пенсионеров.</segment>
+		<segment id="27" parent="29" relname="contrast">Их имена теперь заклеили,</segment>
+		<segment id="28" parent="29" relname="contrast">но фамилии все же просматриваются,</segment>
+		<segment id="30" parent="29" relname="attribution">сообщает портал \"СуперОмск\".</segment>
+		<segment id="33" parent="62" relname="preparation">На ФОТО мемориала ветеранам видно, что некоторые надписи заклеены.\n\n</segment>
+		<segment id="34" parent="38" relname="span">\"Разумеется, это сделали не специально.</segment>
+		<segment id="35" parent="37" relname="joint">Все люди, все ошибаются.</segment>
+		<segment id="36" parent="37" relname="joint">Не переделывать же теперь все... это больших денег стоит\",</segment>
+		<segment id="39" parent="40" relname="attribution">- констатировал в интервью порталу родственник одного из ветеранов,</segment>
+		<segment id="40" parent="41" relname="span">имя которого вошло в список \"ушедших из жизни\".\n\nОтметим, что празднование 9 мая в России сопровождалось многочисленными скандалами.</segment>
+		<segment id="43" parent="60" relname="preparation">Одним из последних стало появление фотографий, которые, предположительно, демонстрируют плакаты с портретами ветеранов, выброшенные после шествия \"Бессметрный полк\".</segment>
+		<segment id="44" parent="48" relname="joint">По задумке на шествие пришли люди, которые несли портреты своих родственников.\n\nМножество скандалов было связано с использованием георгиевской ленты для продвижения товаров:</segment>
+		<segment id="45" parent="47" relname="span">\"символ победы\" появился даже на ценниках секс-шопа.</segment>
+		<segment id="46" parent="45" relname="elaboration">Скандальным стал и неудавшийся пробег мотоклуба \"Ночные волки\".\n\nКроме того, внимание общественности оказалось привлечено к танцующим девушкам.</segment>
+		<segment id="49" parent="51" relname="contrast">Один коллектив в Оренбурге танцевал еще зимой,</segment>
+		<segment id="50" parent="51" relname="contrast">но в костюмах цветов георгиевской ленты.</segment>
+		<segment id="52" parent="54" relname="span">Девушки в Новороссийске сплясали возле мемориала,</segment>
+		<segment id="53" parent="52" relname="cause-effect">за что поплатились административным арестом.\n\nБыли даже скандалы, связанные с приглашением ветеранов на чаепитие в похоронное бюро.</segment>
+		<segment id="55" parent="57" relname="span">А в Красноярском крае возмущение вызвал кулинарный конкурс.</segment>
+		<segment id="56" parent="55" relname="elaboration">На нем были представлены торты в форме памятника \"Родина-мать\", обгоревших солдатских писем, Красной площади, парада военной техники, похоронок, отца, выносящего мертвого ребенка из горящей Хатыни.\n\nИсточник: https://www.newsru.com/russia/12May2015/omskveteran.html\n</segment>
+		<group id="64" type="multinuc" parent="65" relname="span"/>
+		<group id="32" type="span" parent="64" relname="joint"/>
+		<group id="26" type="span" parent="32" relname="span"/>
+		<group id="31" type="span" parent="26" relname="elaboration"/>
+		<group id="29" type="multinuc" parent="31" relname="span"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="42" type="span" parent="62" relname="joint"/>
+		<group id="38" type="span" parent="42" relname="span"/>
+		<group id="37" type="multinuc" parent="34" relname="interpretation-evaluation"/>
+		<group id="41" type="span" parent="38" relname="attribution"/>
+		<group id="61" type="span" parent="62" relname="joint"/>
+		<group id="60" type="multinuc" parent="61" relname="span"/>
+		<group id="48" type="multinuc" parent="60" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="51" type="multinuc" parent="58" relname="preparation"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="54" type="span" parent="58" relname="joint"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="65" type="span"/>
+	</body>
+</rst>

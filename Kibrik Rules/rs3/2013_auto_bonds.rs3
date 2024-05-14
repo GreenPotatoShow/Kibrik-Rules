@@ -1,0 +1,46 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="19" relname="span">Автомобиль Джеймса Бонда продадут на благотворительном аукционе в Дубае\n\nАвтомобиль Джеймса Бонда продадут в рамках Дубайского международного кинофестиваля,</segment>
+		<segment id="18" parent="17" relname="background">который состоится в начале декабря,</segment>
+		<segment id="20" parent="22" relname="span">сообщает сайт \"Русские Эмираты\" со ссылкой на местные СМИ.\n\nАвтомобиль Бонда Aston Martin Vanquish - единственная машина,</segment>
+		<segment id="21" parent="20" relname="elaboration">выпущенная специально в честь 50-летия существования бондианы.</segment>
+		<segment id="24" parent="26" relname="joint">Во внешней и внутренней отделке используются серебряные элементы с символикой последнего фильма Skyfall,</segment>
+		<segment id="25" parent="26" relname="joint">отмечает РИА \"Новости\".\n\nПомимо автомобиля, на благотворительном аукционе \"Один вечер может изменить много жизней\" будут проданы VIP-билеты на премьерный показ нового фильма с участием Скарлетт Йоханссон \"Капитан Америка 2\".</segment>
+		<segment id="28" parent="32" relname="span">Актриса является послом международной благотворительной организации Oxfam,</segment>
+		<segment id="29" parent="31" relname="joint">которая проводит аукцион.\n\nТех, кто не может позволить себе купить автомобиль,</segment>
+		<segment id="30" parent="31" relname="joint">на аукционе тоже ждут.</segment>
+		<segment id="34" parent="36" relname="span">С молотка уйдут билеты на премьерные показы нового фильма об агенте 007 и другие памятные вещи,</segment>
+		<segment id="35" parent="34" relname="background">которые запомнились по разным фильмам о Бонде в течение 50 лет.</segment>
+		<segment id="37" parent="39" relname="span">Вырученные деньги предназначены</segment>
+		<segment id="38" parent="37" relname="purpose">для помощи жителям Сирии,</segment>
+		<segment id="40" parent="42" relname="span">покинувшим свои дома</segment>
+		<segment id="41" parent="40" relname="cause-effect">из-за кризиса</segment>
+		<segment id="43" parent="42" relname="cause-effect">.\n\nДесятый ежегодный кинофестиваль пройдет в Дубае с 6 по 14 декабря.\n\nИсточник: https://www.newsru.com/auto/25Nov2013/bonds.html\n</segment>
+		<group id="33" type="multinuc" parent="47" relname="joint"/>
+		<group id="27" type="multinuc" parent="33" relname="joint"/>
+		<group id="23" type="multinuc" parent="27" relname="joint"/>
+		<group id="19" type="span" parent="23" relname="comparison"/>
+		<group id="22" type="span" parent="23" relname="comparison"/>
+		<group id="26" type="multinuc" parent="27" relname="joint"/>
+		<group id="32" type="span" parent="33" relname="joint"/>
+		<group id="31" type="multinuc" parent="28" relname="elaboration"/>
+		<group id="46" type="multinuc" parent="47" relname="joint"/>
+		<group id="36" type="span" parent="46" relname="joint"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="39" type="span" parent="45" relname="span"/>
+		<group id="44" type="span" parent="39" relname="elaboration"/>
+		<group id="42" type="span" parent="44" relname="span"/>
+		<group id="47" type="multinuc"/>
+	</body>
+</rst>

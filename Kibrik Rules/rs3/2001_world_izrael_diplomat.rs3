@@ -1,0 +1,30 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="10" parent="14" relname="joint">Израильские солдаты обстреляли машину с иорданскими дипломатами\n\nИзраильские солдаты открыли в четверг огонь по машине с иорданскими дипломатами на КПП Эрез (БейтХанун) на севере сектора Газа,</segment>
+		<segment id="11" parent="12" relname="attribution">передает ИТАР-ТАСС.\n\nПосол Иордании при Палестинской национальной администрации Джумаа аль-Абади заявил журналистам,</segment>
+		<segment id="12" parent="13" relname="span">что в автомобиле с иорданскими дипломатическими номерами находились два сотрудника посольства, направлявшихся на родину.</segment>
+		<segment id="15" parent="19" relname="contrast">К счастью, во время стрельбы они не пострадали,</segment>
+		<segment id="16" parent="18" relname="joint">но были вынуждены отказаться от попытки пересечь границу</segment>
+		<segment id="17" parent="18" relname="joint">и вернулись в Газу.</segment>
+		<segment id="21" parent="24" relname="attribution">Посол Иордании сообщил,</segment>
+		<segment id="22" parent="24" relname="span">что информировал МИД королевства об этом инциденте,</segment>
+		<segment id="23" parent="22" relname="cause-effect">причины которого остаются неизвестными.\n\nИсточник: https://www.newsru.com/world/09Nov2001/izrael_diplomat.html\n</segment>
+		<group id="20" type="multinuc" parent="26" relname="joint"/>
+		<group id="14" type="multinuc" parent="20" relname="contrast"/>
+		<group id="13" type="span" parent="14" relname="joint"/>
+		<group id="19" type="multinuc" parent="20" relname="contrast"/>
+		<group id="18" type="multinuc" parent="19" relname="contrast"/>
+		<group id="25" type="span" parent="26" relname="joint"/>
+		<group id="24" type="span" parent="25" relname="span"/>
+		<group id="26" type="multinuc"/>
+	</body>
+</rst>

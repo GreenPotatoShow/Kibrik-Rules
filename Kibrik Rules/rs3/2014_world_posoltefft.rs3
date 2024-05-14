@@ -1,0 +1,52 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="20" relname="span">Обама официально предложил кандидатуру Теффта в качестве посла США в РФ\n\nПрезидент США Барак Обама официально выдвинул</segment>
+		<segment id="19" parent="18" relname="elaboration">кандидатуру кадрового американского дипломата Джона Фрэнсиса Теффта на пост посла Соединенных Штатов в Москве.</segment>
+		<segment id="21" parent="22" relname="attribution">Белый дом сообщил об этом вечером в четверг, 10 июля,</segment>
+		<segment id="22" parent="23" relname="span">объявляя о целом ряде кадровых решений главы американской администрации.\n\nНа днях стало известно, что Москва уже дала согласие на будущую работу Теффта во главе американской дипмиссии.</segment>
+		<segment id="25" parent="30" relname="purpose">Для того, чтобы занять этот пост,</segment>
+		<segment id="26" parent="30" relname="sequence">дипломату предстоит еще пройти утверждение в сенате Конгресса США.\n\nКак указывает Белый дом,</segment>
+		<segment id="27" parent="29" relname="sequence">в прошлом Теффт был послом на Украине, в Грузии и Литве,</segment>
+		<segment id="28" parent="29" relname="sequence">а еще ранее работал заместителем посла в России Томаса Пикеринга.</segment>
+		<segment id="32" parent="35" relname="cause-effect">С ноября 1996 по сентябрь 1997 года он уже фактически возглавлял посольство США в России в качестве поверенного в делах.\n\nКроме того, за плечами 64-летнего Теффта работа и на многих других ответственных постах в центральном аппарате Госдепартамента в Вашингтоне и за пределами США, включая Рим, Будапешт и Иерусалим.\n\nВ этой связи многие американские наблюдатели предостерегают против скоропалительных выводов о том,</segment>
+		<segment id="33" parent="35" relname="span">будто его назначение - это попытка Белого дома \"насолить\" России,</segment>
+		<segment id="34" parent="33" relname="condition">отправив в Москву человека, работавшего ранее в Киеве и Тбилиси,</segment>
+		<segment id="37" parent="36" relname="attribution">отмечает ИТАР-ТАСС.\n\nОт Теффта ждут спокойной и неброской профессиональной работы,</segment>
+		<segment id="39" parent="46" relname="attribution">хотя все и признают,</segment>
+		<segment id="40" parent="41" relname="condition">что при нынешнем состоянии американо-российских отношений</segment>
+		<segment id="41" parent="42" relname="span">вести ее ему будет заведомо нелегко.\n\nДо нынешнего назначения Теффт работал уже не в Госдепартаменте, а в исследовательской корпорации \"Рэнд\",</segment>
+		<segment id="43" parent="45" relname="joint">где в качестве исполнительного директора возглавлял международный форум лидеров бизнеса.\n\nТеффт женат,</segment>
+		<segment id="44" parent="45" relname="joint">у него две взрослые дочери.\n\nИсточник: https://www.newsru.com/world/11Jul2014/posoltefft.html\n</segment>
+		<group id="24" type="multinuc" parent="50" relname="joint"/>
+		<group id="20" type="span" parent="24" relname="sequence"/>
+		<group id="23" type="span" parent="24" relname="sequence"/>
+		<group id="49" type="multinuc" parent="50" relname="joint"/>
+		<group id="31" type="span" parent="49" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="span"/>
+		<group id="29" type="multinuc" parent="30" relname="sequence"/>
+		<group id="48" type="span" parent="49" relname="joint"/>
+		<group id="38" type="span" parent="48" relname="span"/>
+		<group id="36" type="span" parent="38" relname="span"/>
+		<group id="35" type="span" parent="36" relname="span"/>
+		<group id="47" type="span" parent="38" relname="concession"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="42" type="span" parent="46" relname="joint"/>
+		<group id="45" type="multinuc" parent="46" relname="joint"/>
+		<group id="50" type="multinuc"/>
+	</body>
+</rst>

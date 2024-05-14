@@ -1,0 +1,73 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="29" parent="33" relname="span">\"Действовать чрезвычайно решительно\": Обама решает в Белом доме судьбу Сирии\n\nСовещание,</segment>
+		<segment id="32" parent="29" relname="evidence">посвященное рассмотрению ситуации в Сирии в свете сообщений о применении ранее на этой неделе химического оружия в восточном предместье Дамаска, проводит в Белом доме с членами правительства США президент Барак Обама.</segment>
+		<segment id="34" parent="42" relname="joint">Накануне была усилена группировка ВМФ в Средиземном море,</segment>
+		<segment id="35" parent="36" relname="attribution">и СМИ заговорили о том,</segment>
+		<segment id="36" parent="37" relname="span">что вопрос может быть решен в пользу силовой операции.\n\n\"У нас имеется ряд возможных вариантов,</segment>
+		<segment id="38" parent="40" relname="span">и мы намерены действовать чрезвычайно решительно,</segment>
+		<segment id="39" parent="38" relname="purpose">чтобы решения, которые мы принимаем, соответствовали нашим национальным интересам, а также нашей оценке того, что способно содействовать достижению нашей цели в Сирии\",</segment>
+		<segment id="43" parent="45" relname="span">- заявил в связи журналистам представитель Белого дома.\n\n\"Президент отдал разведывательному сообществу распоряжение собрать факты и улики\",</segment>
+		<segment id="44" parent="43" relname="purpose">чтобы Вашингтон мог определить, что произошло в Сирии в минувшую среду,</segment>
+		<segment id="46" parent="45" relname="attribution">отметил представитель Белого дома.</segment>
+		<segment id="50" parent="55" relname="attribution">Оппозиция утверждает,</segment>
+		<segment id="51" parent="54" relname="cause-effect">что в пригороде Дамаска войска режима Башара Асада применили химическое оружие,</segment>
+		<segment id="52" parent="54" relname="sequence">в результате атаки погибли 1300 человек.\n\nКак напоминает ИТАР-ТАСС,</segment>
+		<segment id="53" parent="54" relname="sequence">специальное совещание на эту же тему прошло в Белом доме и в четверг.</segment>
+		<segment id="57" parent="81" relname="span">Однако Обама на нем не присутствовал.</segment>
+		<segment id="58" parent="60" relname="span">В заседании участвовали, в частности, госсекретарь США Джон Керри, шеф Пентагона Чак Хейгел, директор ЦРУ Джон Бреннан и другие ближайшие помощники главы государства, занимающиеся вопросами национальной безопасности и внешней политики.\n\</segment>
+		<segment id="59" parent="58" relname="elaboration">nКомментируя в пятницу эти действия администрации США,</segment>
+		<segment id="61" parent="62" relname="attribution">заместитель пресс-секретаря Белого дома Джош Эрнест сообщил,</segment>
+		<segment id="62" parent="63" relname="span">что Вашингтон не собирается направлять в Сирию наземные войска.</segment>
+		<segment id="65" parent="66" relname="attribution">США считают,</segment>
+		<segment id="66" parent="67" relname="span">что это не соответствует интересам их национальной безопасности,</segment>
+		<segment id="68" parent="67" relname="attribution">пояснил Эрнест.</segment>
+		<segment id="71" parent="73" relname="span">В то же время оказание помощи сирийской оппозиции,</segment>
+		<segment id="72" parent="71" relname="elaboration">по выражению Эрнеста,</segment>
+		<segment id="74" parent="75" relname="joint">будет и дальше идти \"по восходящей траектории\".</segment>
+		<segment id="76" parent="78" relname="span">США резервируют за собой и другие возможные шаги в Сирии, в том числе военного характера,</segment>
+		<segment id="77" parent="76" relname="attribution">отметил официальный представитель Белого дома.\n\nИсточник: https://www.newsru.com/world/24Aug2013/obamasyria.html\n</segment>
+		<group id="49" type="span" parent="83" relname="joint"/>
+		<group id="33" type="span" parent="48" relname="preparation"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="42" type="multinuc" parent="48" relname="span"/>
+		<group id="41" type="multinuc" parent="42" relname="joint"/>
+		<group id="37" type="span" parent="41" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="47" type="span" parent="42" relname="attribution"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="56" type="span" parent="82" relname="contrast"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="81" type="span" parent="82" relname="contrast"/>
+		<group id="80" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="70" type="span" parent="80" relname="joint"/>
+		<group id="64" type="multinuc" parent="70" relname="span"/>
+		<group id="60" type="span" parent="64" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="69" type="span" parent="64" relname="interpretation-evaluation"/>
+		<group id="67" type="span" parent="69" relname="span"/>
+		<group id="79" type="span" parent="80" relname="joint"/>
+		<group id="75" type="multinuc" parent="79" relname="span"/>
+		<group id="73" type="span" parent="75" relname="joint"/>
+		<group id="78" type="span" parent="75" relname="elaboration"/>
+		<group id="83" type="multinuc"/>
+	</body>
+</rst>

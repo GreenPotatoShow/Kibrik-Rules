@@ -1,0 +1,86 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="38" parent="42" relname="span">Французский премьер осудил Депардье за \"налоговое бегство\" в Бельгию\n\nПремьер-министр Франции Жан-Марк Эро выступил накануне с резкой критикой тех, кто обратился в налоговое бегство из Франции и,</segment>
+		<segment id="39" parent="40" relname="attribution">по словам премьера,</segment>
+		<segment id="40" parent="41" relname="span">\"хочет обогатиться еще больше\" и \"не быть солидарным с остальными французами\".</segment>
+		<segment id="43" parent="45" relname="span">Такое заявление Жан-Марк Эро сделал в ходе пресс-конференции,</segment>
+		<segment id="44" parent="43" relname="elaboration">посвященной вопросам бедности,</segment>
+		<segment id="46" parent="45" relname="attribution">сообщает RFI.\n\</segment>
+		<segment id="49" parent="52" relname="attribution">nНапомним, накануне появилось сообщение,</segment>
+		<segment id="50" parent="52" relname="span">что один из самых высокооплачиваемых французских актеров Жерар Депардье переехал жить в Бельгию,</segment>
+		<segment id="51" parent="50" relname="purpose">чтобы избежать новых налоговых мер, принятых правительством Олланда.</segment>
+		<segment id="54" parent="58" relname="joint">Закон вступит в силу в 2013 году.\n\n\"Переезжать за границу я считаю довольно жалким.</segment>
+		<segment id="55" parent="57" relname="joint">Быть французом означает любить свою страну</segment>
+		<segment id="56" parent="57" relname="joint">и помогать ей встать на ноги,</segment>
+		<segment id="59" parent="58" relname="attribution">- заявил Эйро.</segment>
+		<segment id="62" parent="66" relname="span">- Такое мало патриотическое поведение встречается нередко.</segment>
+		<segment id="63" parent="65" relname="contrast">Я предпочитаю обратиться с призывов к солидарности,</segment>
+		<segment id="64" parent="65" relname="contrast">а не проводить новый закон\",</segment>
+		<segment id="67" parent="66" relname="attribution">- добавил он</segment>
+		<segment id="69" parent="100" relname="preparation">.\n\</segment>
+		<segment id="70" parent="73" relname="attribution">nКак отмечает издание,</segment>
+		<segment id="71" parent="72" relname="attribution">эти слова означают,</segment>
+		<segment id="72" parent="73" relname="span">что людей, пытающихся уклониться от уплаты налогов во Франции, преследовать не будут.</segment>
+		<segment id="75" parent="77" relname="span">Никакого закона в этом отношении приниматься не будет,</segment>
+		<segment id="76" parent="75" relname="cause-effect">так как принять такой закон означает попирать республиканские свободы:</segment>
+		<segment id="78" parent="84" relname="joint">право человека жить там,</segment>
+		<segment id="79" parent="83" relname="joint">где он считает нужным,</segment>
+		<segment id="80" parent="82" relname="joint">или там, где ему нравится,</segment>
+		<segment id="81" parent="82" relname="joint">а обратиться с призывом к таким людям этого не делать,</segment>
+		<segment id="85" parent="87" relname="span">а поступить по совести премьер-министр может,</segment>
+		<segment id="86" parent="85" relname="cause-effect">что он и сделал в отношении Жерара Депардье.\n\nМежду тем знаменитый актер стал не первым французом,</segment>
+		<segment id="88" parent="92" relname="span">который решил покинуть страну</segment>
+		<segment id="89" parent="91" relname="span">из-за введенного правительством социалистов налога на роскошь,</segment>
+		<segment id="90" parent="89" relname="elaboration">который составляет 75%.</segment>
+		<segment id="95" parent="97" relname="span">Ранее также поступил самый богатый француз, 63-летний глава компании LMVH Бернар Арно.</segment>
+		<segment id="96" parent="95" relname="elaboration">Он, как и Депардье, подал заявление на получение бельгийского гражданства.\n\nИсточник: https://www.newsru.com/cinema/12Dec2012/dprd.html\n</segment>
+		<group id="48" type="span" parent="104" relname="joint"/>
+		<group id="42" type="span" parent="47" relname="cause-effect"/>
+		<group id="41" type="span" parent="38" relname="interpretation-evaluation"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="61" type="multinuc" parent="103" relname="joint"/>
+		<group id="53" type="span" parent="61" relname="joint"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="58" type="multinuc" parent="60" relname="span"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="102" type="multinuc" parent="103" relname="joint"/>
+		<group id="68" type="span" parent="102" relname="joint"/>
+		<group id="66" type="span" parent="68" relname="span"/>
+		<group id="65" type="multinuc" parent="62" relname="elaboration"/>
+		<group id="101" type="span" parent="102" relname="joint"/>
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="74" type="span" parent="100" relname="joint"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="77" type="span" parent="99" relname="span"/>
+		<group id="98" type="multinuc" parent="77" relname="elaboration"/>
+		<group id="94" type="multinuc" parent="98" relname="joint"/>
+		<group id="84" type="multinuc" parent="94" relname="contrast"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="82" type="multinuc" parent="83" relname="joint"/>
+		<group id="93" type="span" parent="94" relname="contrast"/>
+		<group id="87" type="span" parent="93" relname="span"/>
+		<group id="92" type="span" parent="87" relname="elaboration"/>
+		<group id="91" type="span" parent="88" relname="cause-effect"/>
+		<group id="97" type="span" parent="98" relname="joint"/>
+		<group id="104" type="multinuc"/>
+	</body>
+</rst>

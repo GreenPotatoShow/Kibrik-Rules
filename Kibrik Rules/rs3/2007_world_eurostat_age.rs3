@@ -1,0 +1,31 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="10" parent="25" relname="preparation">В Европе к середине века средняя продолжительность жизни женщин превысит 80 лет\n\</segment>
+		<segment id="11" parent="19" relname="joint">nК 2050 году продолжительность жизни во всех 27 странах нынешнего Европейского Союза (ЕС) будет превышать 80 лет,</segment>
+		<segment id="12" parent="17" relname="attribution">говорится в пресс-релизе статистического агентства Eurostat,</segment>
+		<segment id="13" parent="17" relname="span">распространенном перед празднованием 8 марта.\n\nТакже ожидается, что в течение ближайших десятилетий среди европейских мужчин рост продолжительности жизни будет идти еще активнее.\n\nКак сообщает \"Интерфакс\",</segment>
+		<segment id="14" parent="16" relname="comparison">в 2005 году в странах ЕС средняя продолжительность жизни у женщин оценивалась в 81,5 лет,</segment>
+		<segment id="15" parent="16" relname="comparison">а у мужчин - в 75,4 лет.</segment>
+		<segment id="20" parent="22" relname="comparison">При этом наибольший разрыв - 12 лет - наблюдался в Латвии и Литве,</segment>
+		<segment id="21" parent="22" relname="comparison">тогда как наименьший - 4 года - был отмечен в Великобритании, Нидерландах, Швеции и на Мальте.</segment>
+		<segment id="23" parent="24" relname="comparison">В среднем, разрыв по этим показателям в ЕС составляет около шести лет.\n\nНаибольшая средняя продолжительность жизни среди женщин к 2050 году будет во Франции (89,1 лет), Италии (88,8) и Бельгии (88,3).\n\nИсточник: https://www.newsru.com/world/06Mar2007/eurostat_age.html\n</segment>
+		<group id="25" type="multinuc" parent="26" relname="span"/>
+		<group id="19" type="multinuc" parent="25" relname="joint"/>
+		<group id="18" type="span" parent="19" relname="joint"/>
+		<group id="17" type="span" parent="18" relname="span"/>
+		<group id="16" type="multinuc" parent="13" relname="elaboration"/>
+		<group id="24" type="multinuc" parent="25" relname="joint"/>
+		<group id="22" type="multinuc" parent="24" relname="comparison"/>
+		<group id="26" type="span"/>
+	</body>
+</rst>

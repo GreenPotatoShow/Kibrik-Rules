@@ -1,0 +1,58 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="22" relname="cause-effect">Послание Медведеву обернулось для сотовых операторов проверками\n\nПисьмо операторов президенту Дмитрию Медведеву о распределении частот LCE по конкурсу</segment>
+		<segment id="22" parent="23" relname="span">привело лишь к ужесточению контроля в отношении \"большой тройки\" со стороны территориальных управлений Роскомнадзора.\n\</segment>
+		<segment id="24" parent="25" relname="attribution">nКак пишет РБК daily,</segment>
+		<segment id="25" parent="26" relname="span">Роскомнадзор уже нашел нарушения у МТС и \"МегаФона\" в Воронежской и Волгоградской областях.</segment>
+		<segment id="27" parent="31" relname="span">Они касаются использования частот GSM и незаконной эксплуатации базовых станций.</segment>
+		<segment id="28" parent="30" relname="span">В ряде случаев возбуждены дела по привлечению менеджмента операторов к административной ответственности.\n\nНачало проверок совпало с обращением,</segment>
+		<segment id="29" parent="28" relname="elaboration">которое в конце июля МТС, \"Вымпелком\" и \"МегаФон\" направили на имя Дмитрия Медведева.</segment>
+		<segment id="32" parent="38" relname="joint">Операторы просили его обеспечить прозрачность распределения частот для сетей связи четвертого поколения</segment>
+		<segment id="33" parent="37" relname="span">и выражали опасения, что их могут получить операторы,</segment>
+		<segment id="34" parent="36" relname="joint">не имеющие средств и опыта работы.\n\nРанее министр обороны Анатолий Сердюков предложил</segment>
+		<segment id="35" parent="36" relname="joint">передать часть частот для сетей LTE \"дочке\" Минобороны \"Воентелеком\".\n\nПомощник руководителя Роскомнадзора Михаил Воробьев не отмечает увеличения количества проверок в отношении операторов \"большой тройки\" со стороны ведомства.\n\nПроцедура ввода в эксплуатацию объекта связи настолько сложна,</segment>
+		<segment id="39" parent="41" relname="contrast">что де-факто операторы зачастую сначала запускают базовую станцию с \"базовым набором\" разрешений,</segment>
+		<segment id="40" parent="41" relname="contrast">а потом собирают остальные разрешительные документы.\n\n</segment>
+		<segment id="45" parent="46" relname="condition">\"В противном случае запуск одной станции может занять год и более,</segment>
+		<segment id="46" parent="47" relname="span">что в нынешней конкурентной ситуации недопустимо.</segment>
+		<segment id="48" parent="52" relname="same-unit">Так что</segment>
+		<segment id="49" parent="50" relname="condition">при наличии серьезной политической воли</segment>
+		<segment id="50" parent="51" relname="span">можно остановить деятельность любого крупного оператора.</segment>
+		<segment id="53" parent="52" relname="elaboration">Другое дело, что делать этого, конечно же, никто не будет\",</segment>
+		<segment id="56" parent="55" relname="attribution">- говорит независимый эксперт по юридическим вопросам в области телекоммуникаций Антон Богатов.\n\nИсточник: https://www.newsru.com/finance/18Aug2010/lte.html\n</segment>
+		<group id="23" type="span" parent="58" relname="preparation"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="44" type="span" parent="58" relname="span"/>
+		<group id="26" type="span" parent="43" relname="preparation"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="31" type="span" parent="43" relname="joint"/>
+		<group id="30" type="span" parent="27" relname="elaboration"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="38" type="multinuc" parent="41" relname="cause-effect"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="36" type="multinuc" parent="33" relname="condition"/>
+		<group id="41" type="multinuc" parent="42" relname="span"/>
+		<group id="57" type="span" parent="44" relname="elaboration"/>
+		<group id="55" type="span" parent="57" relname="span"/>
+		<group id="47" type="span" parent="54" relname="cause-effect"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="52" type="multinuc" parent="54" relname="span"/>
+		<group id="51" type="span" parent="52" relname="same-unit"/>
+		<group id="59" type="span"/>
+	</body>
+</rst>

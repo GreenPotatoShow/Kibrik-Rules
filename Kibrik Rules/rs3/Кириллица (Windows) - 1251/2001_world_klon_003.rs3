@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="67" relname="preparation">США собирается клонировать людей\n\</segment>
+		<segment id="25" parent="66" relname="preparation">nОжидается, что сегодня в Соединенных Штатах будет официально объявлено о начале первого крупномасштабного эксперимента по клонированию людей.</segment>
+		<segment id="26" parent="27" relname="attribution">Ученые обещают,</segment>
+		<segment id="27" parent="28" relname="span">что первая генетическая копия человека появится уже в следующем году.</segment>
+		<segment id="29" parent="28" relname="elaboration">Начало эксперимента намечено на ноябрь.</segment>
+		<segment id="31" parent="33" relname="span">Однако точное место его проведения пока не известно,</segment>
+		<segment id="32" parent="31" relname="attribution">передает НТВ.\n\nВо многих странах, включая США и Россию,</segment>
+		<segment id="34" parent="35" relname="same-unit">действуют запреты на клонирование человеческих эмбрионов.</segment>
+		<segment id="37" parent="38" relname="attribution">Руководители проекта не исключают,</segment>
+		<segment id="38" parent="39" relname="span">что эксперимент будет проведен в одной из средиземноморских стран.</segment>
+		<segment id="40" parent="41" relname="condition">Если в такой возможности ученым будет отказано,</segment>
+		<segment id="41" parent="42" relname="span">то группа готова работать в открытом море на специально оборудованном судне.\n\nУченые собираются подробнее рассказать о своих планах уже сегодня на открывающейся в Вашингтоне конференции по вопросам клонирования.</segment>
+		<segment id="43" parent="45" relname="sequence">Международной группой ученых руководит бывший профессор,</segment>
+		<segment id="44" parent="45" relname="sequence">а ныне глава медицинской корпорации, производящей лекарство от бесплодия, Пан Завос.\n\</segment>
+		<segment id="46" parent="52" relname="span">nВ эксперименте примут участие около 200 семейных пар, страдающих бесплодием.</segment>
+		<segment id="47" parent="50" relname="attribution">По словам ученых,</segment>
+		<segment id="48" parent="50" relname="span">все они хорошо понимают</segment>
+		<segment id="49" parent="48" relname="cause-effect">- с каким риском связаны попытки клонирования.</segment>
+		<segment id="53" parent="54" relname="attribution">Ученые еще не сообщили</segment>
+		<segment id="54" parent="55" relname="span">- какой способ они избрали,</segment>
+		<segment id="56" parent="57" relname="contrast">но, скорее всего, ими будет использована процедура, схожая с той, что применялась при клонировании овцы Долли.</segment>
+		<segment id="58" parent="60" relname="span">Однако у животных, появившихся на свет в результате подобных экспериментов, были отмечены многочисленные отклонения,</segment>
+		<segment id="59" parent="58" relname="elaboration">которые нередко приводили к ранней смерти.\n\nИсточник: https://www.newsru.com/world/07Aug2001/klon.html\n</segment>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="66" type="multinuc" parent="67" relname="span"/>
+		<group id="36" type="multinuc" parent="66" relname="joint"/>
+		<group id="30" type="span" parent="36" relname="contrast"/>
+		<group id="28" type="span" parent="30" relname="span"/>
+		<group id="35" type="multinuc" parent="36" relname="contrast"/>
+		<group id="33" type="span" parent="35" relname="same-unit"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="39" type="span" parent="65" relname="span"/>
+		<group id="64" type="multinuc" parent="39" relname="elaboration"/>
+		<group id="42" type="span" parent="64" relname="joint"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="45" type="multinuc" parent="62" relname="preparation"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="52" type="span" parent="62" relname="joint"/>
+		<group id="51" type="span" parent="46" relname="interpretation-evaluation"/>
+		<group id="50" type="span" parent="51" relname="span"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="57" type="multinuc" parent="61" relname="contrast"/>
+		<group id="55" type="span" parent="57" relname="contrast"/>
+		<group id="60" type="span" parent="61" relname="contrast"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

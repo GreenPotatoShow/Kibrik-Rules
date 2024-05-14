@@ -1,0 +1,68 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="27" relname="span">Сергей Федоров отказался играть за сборную России на Олимпиаде\n\nВыступающего за клуб Национальной хоккейной лиги \"Коламбус Блю Джэкетс\" Сергея Федорова не будет в составе сборной России на зимних Олимпийских играх в итальянском Турине,</segment>
+		<segment id="26" parent="25" relname="elaboration">которая пройдет в феврале следующего года.</segment>
+		<segment id="28" parent="30" relname="span">О своем решении хоккеист объявил через американскую агентскую фирму AMJ,</segment>
+		<segment id="29" parent="28" relname="elaboration">которая представляет интересы Федорова.\n\</segment>
+		<segment id="31" parent="33" relname="span">nПо словам центрфорварда,</segment>
+		<segment id="32" parent="31" relname="elaboration">которому во вторник исполнилось 36 лет,</segment>
+		<segment id="34" parent="36" relname="joint">ему необходимо залечить старые травмы</segment>
+		<segment id="35" parent="36" relname="joint">и побыстрее освоиться в клубе,</segment>
+		<segment id="37" parent="36" relname="background">куда он недавно перешел из другой команды НХЛ \"Анахайм Майти Дакс\".\n\n</segment>
+		<segment id="41" parent="42" relname="attribution">\"Я не думаю,</segment>
+		<segment id="42" parent="43" relname="span">что мне стоит откладывать решение по поводу участия в Олимпиаде\",</segment>
+		<segment id="44" parent="43" relname="attribution">- цитирует Федорова ИТАР-ТАСС.</segment>
+		<segment id="48" parent="51" relname="attribution">Он отметил,</segment>
+		<segment id="49" parent="51" relname="span">что \"был бы рад представлять свою страну в Италии\"</segment>
+		<segment id="50" parent="49" relname="background">(впрочем, еще в 2000 году Федоров стал гражданином США),</segment>
+		<segment id="53" parent="64" relname="attribution">однако считает,</segment>
+		<segment id="54" parent="58" relname="same-unit">что на данный момент самое важное для него</segment>
+		<segment id="55" parent="57" relname="span">- \"продолжить работать,</segment>
+		<segment id="56" parent="55" relname="purpose">чтобы быть здоровым на сто процентов\".\n\n\"Не думаю,</segment>
+		<segment id="59" parent="61" relname="span">что в связи с этим мое участие в Олимпиаде,</segment>
+		<segment id="60" parent="59" relname="elaboration">являющейся скоротечным и интенсивным турниром,</segment>
+		<segment id="62" parent="63" relname="span">было бы наилучшим решением\",</segment>
+		<segment id="66" parent="68" relname="sequence">- добавил Федоров.\n\nВ НХЛ Федоров выступает с 1990 года.</segment>
+		<segment id="67" parent="68" relname="sequence">С тех пор за российскую сборную он играл только трижды - в розыгрыше Кубка мира-96 и на Олимпиадах-98 и 2002.\n\nИсточник: https://www.newsru.com/sport/14Dec2005/fedor_off.html\n</segment>
+		<group id="47" type="span" parent="71" relname="span"/>
+		<group id="27" type="span" parent="46" relname="preparation"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="40" type="span" parent="46" relname="span"/>
+		<group id="30" type="span" parent="40" relname="span"/>
+		<group id="39" type="span" parent="30" relname="elaboration"/>
+		<group id="33" type="span" parent="38" relname="attribution"/>
+		<group id="38" type="span" parent="39" relname="span"/>
+		<group id="36" type="multinuc" parent="38" relname="span"/>
+		<group id="45" type="span" parent="40" relname="interpretation-evaluation"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="70" type="multinuc" parent="47" relname="interpretation-evaluation"/>
+		<group id="52" type="span" parent="70" relname="contrast"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="69" type="span" parent="70" relname="contrast"/>
+		<group id="65" type="span" parent="69" relname="span"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="58" type="multinuc" parent="64" relname="span"/>
+		<group id="57" type="span" parent="58" relname="same-unit"/>
+		<group id="63" type="span" parent="58" relname="interpretation-evaluation"/>
+		<group id="61" type="span" parent="62" relname="cause-effect"/>
+		<group id="68" type="multinuc" parent="65" relname="background"/>
+		<group id="71" type="span"/>
+	</body>
+</rst>

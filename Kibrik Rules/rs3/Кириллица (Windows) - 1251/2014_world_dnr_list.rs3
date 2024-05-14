@@ -1,0 +1,71 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="29" relname="span">Донецкие сепаратисты составляют списки своих пленных</segment>
+		<segment id="28" parent="27" relname="purpose">для обмена\n\</segment>
+		<segment id="30" parent="32" relname="span">nРуководство самопровозглашенной Донецкой народной республики приступило к подготовке обмена заложниками с украинской стороной в формате \"всех на всех\",</segment>
+		<segment id="31" parent="30" relname="attribution">заявил \"Интерфаксу\" в субботу первый вице-премьер ДНР Андрей Пургин.</segment>
+		<segment id="34" parent="38" relname="span">Накануне перемирие между сепаратистами и украинскими силовиками было продлено на 72 часа,</segment>
+		<segment id="35" parent="37" relname="span">одним из пунктов плана на ближайшее время значится \"освобождение всех заложников\".\n\nПургин подчеркнул,</segment>
+		<segment id="36" parent="35" relname="interpretation-evaluation">что договоренность об обмене пленными в формате \"всех на всех\" является наиболее значимой по итогам консультаций, состоявшихся накануне.</segment>
+		<segment id="39" parent="41" relname="joint">\"С нашей стороны подготовлены списки тех людей, что находятся в плену у украинских силовиков.</segment>
+		<segment id="40" parent="41" relname="joint">Списков с украинской стороны мы пока не видели\",</segment>
+		<segment id="42" parent="41" relname="attribution">- сказал представитель ДНР</segment>
+		<segment id="45" parent="74" relname="preparation">.\n\nТехнология обмена пока прорабатывается.</segment>
+		<segment id="46" parent="48" relname="span">\"В любом случае это наиболее значимый шаг на пути мирного урегулирования,</segment>
+		<segment id="47" parent="46" relname="cause-effect">потому как наличие пленных с обеих сторон резко осложняет этот процесс\",</segment>
+		<segment id="49" parent="48" relname="attribution">- подчеркнул представитель ДНР</segment>
+		<segment id="51" parent="52" relname="condition">.\n\nАнонимный источник сообщил \"Интерфаксу\",</segment>
+		<segment id="52" parent="53" relname="span">что обмены, скорее всего, будут производиться в несколько этапов.</segment>
+		<segment id="54" parent="55" relname="attribution">Сепаратисты рассчитывают,</segment>
+		<segment id="55" parent="56" relname="span">что \"обменять первые группы пленных удастся уже в ближайшие дни\".\n\nВ пятницу в Донецке прошел второй раунд консультаций по урегулированию ситуации на востоке Украины с участием представителей Киева, Луганской и Донецкой \"народных республик\", посольства России и ОБСЕ.\n\nПрезидент Украины 20 июня в рамках реализации своего мирного плана отдал приказ о прекращении огня на неделю всеми подразделениями Вооруженных сил, Национальной гвардии и пограничной службы.</segment>
+		<segment id="57" parent="63" relname="span">Такое решение было принято для того, чтобы сепаратисты, действующие в Донецкой и Луганской областях, могли сложить оружие.\n\nНедельное перемирие не оправдало ожиданий ни властей в Киеве, ни гражданского населения,</segment>
+		<segment id="58" parent="61" relname="cause-effect">поскольку весь период в регионе продолжалась стрельба с обеих сторон,</segment>
+		<segment id="59" parent="61" relname="joint">гибли военные и мирные люди,</segment>
+		<segment id="60" parent="61" relname="joint">а обстановка продолжала оставаться напряженной.</segment>
+		<segment id="64" parent="70" relname="comparison">Украинские сепаратисты обвиняли в нападениях военных,</segment>
+		<segment id="65" parent="68" relname="attribution">те же отвечали,</segment>
+		<segment id="66" parent="68" relname="joint">что отстреливаются,</segment>
+		<segment id="67" parent="68" relname="joint">а инициаторами стычек становятся как раз незаконно вооружившиеся граждане.\n\nИсточник: https://www.newsru.com/world/28Jun2014/dnr_list.html\n</segment>
+		<group id="33" type="span" parent="76" relname="preparation"/>
+		<group id="29" type="span" parent="33" relname="span"/>
+		<group id="32" type="span" parent="29" relname="elaboration"/>
+		<group id="76" type="multinuc" parent="77" relname="span"/>
+		<group id="44" type="span" parent="76" relname="joint"/>
+		<group id="38" type="span" parent="44" relname="span"/>
+		<group id="37" type="span" parent="34" relname="elaboration"/>
+		<group id="43" type="span" parent="38" relname="elaboration"/>
+		<group id="41" type="multinuc" parent="43" relname="span"/>
+		<group id="75" type="span" parent="76" relname="joint"/>
+		<group id="74" type="multinuc" parent="75" relname="span"/>
+		<group id="50" type="span" parent="74" relname="joint"/>
+		<group id="48" type="span" parent="50" relname="span"/>
+		<group id="73" type="span" parent="74" relname="joint"/>
+		<group id="53" type="span" parent="72" relname="preparation"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="56" type="span" parent="72" relname="span"/>
+		<group id="71" type="multinuc" parent="56" relname="elaboration"/>
+		<group id="63" type="span" parent="71" relname="joint"/>
+		<group id="62" type="span" parent="57" relname="cause-effect"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="69" type="span" parent="70" relname="comparison"/>
+		<group id="68" type="multinuc" parent="69" relname="span"/>
+		<group id="77" type="span"/>
+	</body>
+</rst>

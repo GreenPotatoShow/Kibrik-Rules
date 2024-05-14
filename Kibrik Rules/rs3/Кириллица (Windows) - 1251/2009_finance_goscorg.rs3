@@ -1,0 +1,65 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="25" relname="attribution">Вопреки указаниям Медведева</segment>
+		<segment id="25" parent="26" relname="span">в России создают еще одну госкорпорацию - геологическую\n\</segment>
+		<segment id="27" parent="31" relname="same-unit">nВ России,</segment>
+		<segment id="28" parent="29" relname="concession">несмотря на недавнюю жесткую критику со стороны президента Медведева,</segment>
+		<segment id="29" parent="30" relname="span">появится очередная госкорпорация — \"Росгеология\".</segment>
+		<segment id="32" parent="31" relname="elaboration">Ее создадут на базе \"Центргеологии\".</segment>
+		<segment id="34" parent="35" relname="attribution">Как сообщил министр природных ресурсов и экологии Юрий Трутнев,</segment>
+		<segment id="35" parent="36" relname="span">подготовительные работы должны завершиться в начале 2010 года,</segment>
+		<segment id="37" parent="39" relname="span">и все проекты уже направлены на согласование в федеральные органы исполнительной власти.\n\nГосударственный производственный холдинг \"Росгеология\" планируется создать на базе разрозненных государственных геологических предприятий в соответствии с проектом стратегии развития геологической отрасли до 2020 года,</segment>
+		<segment id="38" parent="37" relname="elaboration">подготовленной Минприроды.\n\</segment>
+		<segment id="41" parent="43" relname="span">nЗаявление Трутнева прозвучало на фоне жесткой критики со стороны президента Дмитрия Медведева,</segment>
+		<segment id="42" parent="41" relname="background">который заявил 12 ноября в послании Федеральному собранию,</segment>
+		<segment id="44" parent="45" relname="span">что госкорпорации являются бесперспективной формой собственности,</segment>
+		<segment id="46" parent="56" relname="span">призвал к независимому аудиту деятельности корпораций и крупных компаний с госучастием.\n\nСтруктуру попытался реабилитировать премьер-министр Владимир Путин:</segment>
+		<segment id="47" parent="49" relname="contrast">\"Госкорпорация — не хорошо,</segment>
+		<segment id="48" parent="49" relname="contrast">но и не плохо.</segment>
+		<segment id="50" parent="52" relname="joint">Это необходимость,</segment>
+		<segment id="51" parent="52" relname="joint">и это общая позиция руководства государства\",</segment>
+		<segment id="54" parent="53" relname="attribution">- цитирует Путина BusinessFM.\n\nПоначалу эксперты видели в критике госкорпораций атаку на главу \"Ростехнологий\"</segment>
+		<segment id="58" parent="60" relname="sequence">— ранее гендиректор госкорпорации Сергей Чемезов был выведен из состава президентской комиссии по инновациям,</segment>
+		<segment id="59" parent="60" relname="sequence">а помощник Медведева Аркадий Дворкович предполагал,</segment>
+		<segment id="61" parent="63" relname="joint">что \"Ростехнологии\" акционируют уже в 2010 году.\n\nОднако заявление Трутнева о создании на таком неблагоприятном фоне новой госкорпорации \"Росгеология\" подчеркивает,</segment>
+		<segment id="62" parent="63" relname="joint">что госкорпорации никуда не денутся.\n\nПолитолог Станислав Радкевич видит в этом развитие госкапиталистической модели по \"индонезийской модели\", т.е. по пути создания госкапитализма, в котором есть место и госкорпорациям.\n\nИсточник: https://www.newsru.com/finance/09Dec2009/goscorg.html\n</segment>
+		<group id="26" type="span" parent="67" relname="preparation"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="33" type="span" parent="66" relname="preparation"/>
+		<group id="31" type="multinuc" parent="33" relname="span"/>
+		<group id="30" type="span" parent="31" relname="same-unit"/>
+		<group id="66" type="multinuc" parent="67" relname="span"/>
+		<group id="40" type="multinuc" parent="66" relname="joint"/>
+		<group id="36" type="span" parent="40" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="65" type="multinuc" parent="66" relname="joint"/>
+		<group id="57" type="multinuc" parent="65" relname="joint"/>
+		<group id="45" type="span" parent="57" relname="joint"/>
+		<group id="43" type="span" parent="44" relname="attribution"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="55" type="span" parent="46" relname="interpretation-evaluation"/>
+		<group id="53" type="multinuc" parent="55" relname="span"/>
+		<group id="49" type="multinuc" parent="53" relname="joint"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="64" type="span" parent="65" relname="joint"/>
+		<group id="60" type="multinuc" parent="63" relname="attribution"/>
+		<group id="63" type="multinuc" parent="64" relname="span"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

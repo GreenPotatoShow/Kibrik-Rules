@@ -1,0 +1,45 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="20" relname="span">В Лондоне был продан уникальный автомобиль-подлодка Джеймса Бонда\n\nСпортивный автомобиль Lotus Esprit из фильма \"Шпион, который меня любил\" о Джеймсе\nБонде ушел с молотка в британской столице за 550 тысяч фунтов,</segment>
+		<segment id="17" parent="19" relname="span">сообщает ИТАР-ТАСС со ссылкой на аукционный дом RM Auctions,</segment>
+		<segment id="18" parent="17" relname="elaboration">который был организатором торгов.\n\</segment>
+		<segment id="21" parent="23" relname="span">nАвтомобиль,</segment>
+		<segment id="22" parent="21" relname="elaboration">за рулем которого сидел агент 007 в исполнении Роджера Мура,</segment>
+		<segment id="24" parent="23" relname="elaboration">известен тем, что помимо стрельбы всевозможными ракетами позволял его владельцу передвигаться не только по суше, но и под водой.\n\nЛот был продан несколько ниже оценочной стоимости,</segment>
+		<segment id="26" parent="25" relname="background">которая составляла от 1 млн до 1,5 млн долларов.\n\</segment>
+		<segment id="28" parent="30" relname="contrast">nВсего для съемок десятой части \"бондианы\" в 1977 году использовалось шесть автомобилей Lotus Esprit,</segment>
+		<segment id="29" parent="30" relname="contrast">однако только один из них был превращен в подлодку.</segment>
+		<segment id="32" parent="34" relname="span">Амфибию создали специалисты канадской компании Perry Submarines,</segment>
+		<segment id="33" parent="32" relname="elaboration">которые оснастили его \"корму\" выдвижной панелью с\nчетырьмя электродвигателями, подключенными к гребным винтам.\n\n\"Наш аукционный дом нередко продает уникальные автомобили, обладающие легендарным статусом\",</segment>
+		<segment id="35" parent="34" relname="attribution">- заявил в этой связи управляющий директор RM Auctions Макс Джирардо.</segment>
+		<segment id="38" parent="40" relname="span">\"Тем не\nменее, этот Lotus - машина совсем иного уровня,</segment>
+		<segment id="39" parent="38" relname="cause-effect">ведь она претендует на звание самого известного транспортного средства всех времен\",</segment>
+		<segment id="41" parent="40" relname="attribution">- отметил он.\n\nИсточник: https://www.newsru.com/auto/10Sep2013/007_submarine.html\n</segment>
+		<group id="20" type="span" parent="43" relname="preparation"/>
+		<group id="19" type="span" parent="16" relname="attribution"/>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="37" type="multinuc" parent="43" relname="span"/>
+		<group id="31" type="multinuc" parent="37" relname="joint"/>
+		<group id="27" type="span" parent="31" relname="joint"/>
+		<group id="25" type="span" parent="27" relname="span"/>
+		<group id="23" type="span" parent="25" relname="span"/>
+		<group id="30" type="multinuc" parent="31" relname="joint"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="34" type="span" parent="36" relname="span"/>
+		<group id="42" type="span" parent="37" relname="elaboration"/>
+		<group id="40" type="span" parent="42" relname="span"/>
+		<group id="44" type="span"/>
+	</body>
+</rst>

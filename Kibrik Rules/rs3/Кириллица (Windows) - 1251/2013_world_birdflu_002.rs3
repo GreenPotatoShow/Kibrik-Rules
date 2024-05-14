@@ -1,0 +1,71 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="31" relname="span">Группа биологов решила</segment>
+		<segment id="28" parent="30" relname="joint">нарушить мораторий на исследования птичьего гриппа\n\nГруппа ученых объявила</segment>
+		<segment id="29" parent="30" relname="joint">об окончании моратория на исследования смертельно опасного для человека \"птичьего гриппа\" H5N1.</segment>
+		<segment id="32" parent="34" relname="span">Это объявление опубликовано в открытом письме,</segment>
+		<segment id="33" parent="32" relname="elaboration">появившемся в интернет-изданиях международных журналов Nature и Science за подписью 40 ведущих мировых учеых.\n\nВ состав группы входят исследователи США, Китая, Японии, Великобритании, Германии, Канады, Нидерландов и Италии,</segment>
+		<segment id="35" parent="34" relname="attribution">отмечает ИТАР-ТАСС.\n\n</segment>
+		<segment id="38" parent="40" relname="span">\"Мы понимаем, что эти исследования, в том числе работа над возбудителями инфекционных заболеваний, таит в себе риски,</segment>
+		<segment id="39" parent="38" relname="attribution">- говорится в письме.</segment>
+		<segment id="42" parent="44" relname="span">- Однако, поскольку в природе существует опасность появления вируса H5N1,</segment>
+		<segment id="43" parent="42" relname="interpretation-evaluation">положительное значение этой работы перевешивает риски\",</segment>
+		<segment id="45" parent="46" relname="attribution">- считают биологи</segment>
+		<segment id="46" parent="47" relname="span">.\n\nМораторий на исследование H5N1 был объявлен учеными в декабре 2011 года.</segment>
+		<segment id="49" parent="61" relname="span">Такое решение они приняли после того, как в научных центрах в США и Нидерландах была создана разновидность этого вируса,</segment>
+		<segment id="50" parent="52" relname="span">способная передаваться от человека к человеку.\n\nПодобный \"мутант\",</segment>
+		<segment id="51" parent="50" relname="condition">если он \"вырвется на свободу\",</segment>
+		<segment id="53" parent="59" relname="span">может вызвать пандемию,</segment>
+		<segment id="54" parent="58" relname="joint">от которой погибнут миллионы людей во всему миру, похожую на эпидемию гриппа-испанки в 1918-19 годах.\n\nВласти США засекретили данные этих исследований</segment>
+		<segment id="55" parent="56" relname="attribution">и объявили</segment>
+		<segment id="56" parent="57" relname="span">запрет на их продолжение на американской территории.</segment>
+		<segment id="62" parent="64" relname="span">Всемирная организация здравоохранения потребовала от ученых всего мира принять меры</segment>
+		<segment id="63" parent="62" relname="purpose">для обеспечения безопасности работ</segment>
+		<segment id="65" parent="67" relname="joint">.\n\nВирус H5N1 поражает птиц</segment>
+		<segment id="66" parent="67" relname="joint">и очень опасен для человека,</segment>
+		<segment id="68" parent="72" relname="span">смертность от заболевания составляет 60 процентов.\n\nЧисло людей, заболевших этой разновидностью гриппа, очень небольшое,</segment>
+		<segment id="69" parent="70" relname="cause-effect">так как он не передается от человека к человеку,</segment>
+		<segment id="70" parent="71" relname="span">и заражение в большинстве случаев происходит в результате передачи вируса от птицы к человеку.\n\nИсточник: https://www.newsru.com/world/24Jan2013/birdflu.html\n</segment>
+		<group id="41" type="span" parent="77" relname="joint"/>
+		<group id="37" type="span" parent="41" relname="span"/>
+		<group id="31" type="span" parent="36" relname="preparation"/>
+		<group id="30" type="multinuc" parent="27" relname="purpose"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="34" type="span" parent="36" relname="span"/>
+		<group id="40" type="span" parent="37" relname="attribution"/>
+		<group id="76" type="span" parent="77" relname="joint"/>
+		<group id="48" type="span" parent="76" relname="span"/>
+		<group id="44" type="span" parent="48" relname="span"/>
+		<group id="47" type="span" parent="44" relname="attribution"/>
+		<group id="75" type="multinuc" parent="48" relname="elaboration"/>
+		<group id="61" type="span" parent="75" relname="joint"/>
+		<group id="60" type="multinuc" parent="49" relname="elaboration"/>
+		<group id="52" type="span" parent="60" relname="joint"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="58" type="multinuc" parent="53" relname="cause-effect"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="64" type="span" parent="74" relname="span"/>
+		<group id="73" type="multinuc" parent="64" relname="cause-effect"/>
+		<group id="67" type="multinuc" parent="73" relname="comparison"/>
+		<group id="72" type="span" parent="73" relname="comparison"/>
+		<group id="71" type="span" parent="68" relname="cause-effect"/>
+		<group id="77" type="multinuc"/>
+	</body>
+</rst>

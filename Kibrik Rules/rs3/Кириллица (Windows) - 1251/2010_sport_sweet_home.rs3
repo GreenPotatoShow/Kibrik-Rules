@@ -1,0 +1,98 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="39" parent="43" relname="span">Травмированная бобслеистка Ирина Скворцова возвращается в Россию\n\nРоссийская бобслеистка Ирина Скворцова,</segment>
+		<segment id="40" parent="42" relname="joint">получившая в ноябре минувшего года тяжелые травмы во время тренировок в Баварии</segment>
+		<segment id="41" parent="42" relname="joint">и перенесшая там ряд сложнейших операций,</segment>
+		<segment id="44" parent="46" relname="span">вылетает из Мюнхена</segment>
+		<segment id="45" parent="44" relname="purpose">для продолжения лечения в Москву.\n\nСпецрейс с врачами Федерального медико-биологического агентства (ФМБА) прибудет в Мюнхен из российской столицы ориентировочно в середине дня.</segment>
+		<segment id="48" parent="47" relname="attribution">Об этом в понедельник в интервью ИТАР-ТАСС сообщил генеральный консул России в Мюнхене Андрей Грозов</segment>
+		<segment id="50" parent="111" relname="preparation">.\n\</segment>
+		<segment id="51" parent="56" relname="attribution">nПо его словам,</segment>
+		<segment id="52" parent="54" relname="span">точное время отлета будет зависеть от того,</segment>
+		<segment id="53" parent="52" relname="condition">когда будут готовы необходимые документы - медицинское заключение, история болезни,</segment>
+		<segment id="55" parent="56" relname="joint">и когда пройдет встреча лечащих российских и немецких врачей.</segment>
+		<segment id="58" parent="67" relname="attribution">По словам генконсула РФ,</segment>
+		<segment id="59" parent="61" relname="span">сейчас спортсменка и ее врачи \"находятся на пути в клинику в Мюнхене,</segment>
+		<segment id="60" parent="59" relname="background">где ее лечили,</segment>
+		<segment id="62" parent="65" relname="purpose">чтобы встретиться с медиками,</segment>
+		<segment id="63" parent="65" relname="joint">которые должны будут ее еще раз осмотреть,</segment>
+		<segment id="64" parent="65" relname="joint">дать рекомендации своим российским коллегам.\n\nСкворцова последнее время проходила реабилитацию в ортопедической клинике в Бернау.</segment>
+		<segment id="70" parent="73" relname="attribution">Грозов указал,</segment>
+		<segment id="71" parent="73" relname="joint">что представители российского генконсульства поддерживали постоянный контакт</segment>
+		<segment id="72" parent="73" relname="joint">и регулярно посещали Скворцову по месту лечения.\n\n</segment>
+		<segment id="75" parent="79" relname="joint">\"Сейчас она чувствует себя хорошо,</segment>
+		<segment id="76" parent="78" relname="span">и настроение у нее хорошее,</segment>
+		<segment id="77" parent="76" relname="cause-effect">поскольку она все-таки уезжает домой.</segment>
+		<segment id="80" parent="84" relname="sequence">Она уже тренируется.</segment>
+		<segment id="81" parent="83" relname="joint">Потихонечку развивает ногу</segment>
+		<segment id="82" parent="83" relname="joint">и тренируется ходить\",</segment>
+		<segment id="85" parent="84" relname="attribution">- отметил генконсул РФ.\n\</segment>
+		<segment id="88" parent="90" relname="span">nПо прибытии в Москву на самолете, оборудованном всем необходимым</segment>
+		<segment id="89" parent="88" relname="purpose">для транспортировки людей с тяжелыми повреждениями,</segment>
+		<segment id="91" parent="92" relname="span">22-летняя спортсменка будет доставлена в Федеральный медицинский биофизический центр имени А.И. Бурназяна.\n\</segment>
+		<segment id="93" parent="101" relname="joint">nБобслеистка Ирина Скворцова будет проходить реабилитацию в медико-биофизическом центре имени Бурназяна полностью за счет средств федерального бюджета\",</segment>
+		<segment id="94" parent="99" relname="cause-effect">- цитирует \"Интерфакс\" заявление официального представителя Минздравсоцразвития РФ.\n\n23 ноября на тренировках в Кенигзее</segment>
+		<segment id="95" parent="97" relname="span">в результате происшедшего по вине их организаторов столкновения российских мужской и женской двоек Скворцова,</segment>
+		<segment id="96" parent="95" relname="background">на которую пришелся основной удар,</segment>
+		<segment id="98" parent="99" relname="span">получила сложные травмы и множественные переломы.</segment>
+		<segment id="103" parent="107" relname="contrast">Первоначально врачи говорили о том, что у спортсменки может быть ампутирована нога.</segment>
+		<segment id="104" parent="106" relname="span">Однако опытным немецким медикам удалось ее сохранить</segment>
+		<segment id="105" parent="104" relname="cause-effect">в результате проведения серии сложнейших операций.\n\nИсточник: https://www.newsru.com/sport/13Sep2010/sweet_home.html\n</segment>
+		<group id="49" type="span" parent="112" relname="preparation"/>
+		<group id="47" type="multinuc" parent="49" relname="span"/>
+		<group id="43" type="span" parent="47" relname="joint"/>
+		<group id="42" type="multinuc" parent="39" relname="elaboration"/>
+		<group id="46" type="span" parent="47" relname="joint"/>
+		<group id="112" type="span" parent="113" relname="span"/>
+		<group id="111" type="multinuc" parent="112" relname="span"/>
+		<group id="69" type="multinuc" parent="111" relname="joint"/>
+		<group id="57" type="span" parent="69" relname="joint"/>
+		<group id="56" type="multinuc" parent="57" relname="span"/>
+		<group id="54" type="span" parent="56" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="61" type="span" parent="67" relname="span"/>
+		<group id="66" type="span" parent="61" relname="purpose"/>
+		<group id="65" type="multinuc" parent="66" relname="span"/>
+		<group id="110" type="span" parent="111" relname="joint"/>
+		<group id="74" type="span" parent="109" relname="preparation"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="109" type="span" parent="110" relname="span"/>
+		<group id="87" type="multinuc" parent="108" relname="preparation"/>
+		<group id="79" type="multinuc" parent="87" relname="joint"/>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="84" type="multinuc" parent="86" relname="span"/>
+		<group id="83" type="multinuc" parent="84" relname="sequence"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="102" type="multinuc" parent="107" relname="preparation"/>
+		<group id="92" type="span" parent="102" relname="joint"/>
+		<group id="90" type="span" parent="91" relname="condition"/>
+		<group id="101" type="multinuc" parent="102" relname="joint"/>
+		<group id="100" type="span" parent="101" relname="joint"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="97" type="span" parent="98" relname="cause-effect"/>
+		<group id="107" type="multinuc" parent="108" relname="span"/>
+		<group id="106" type="span" parent="107" relname="contrast"/>
+		<group id="113" type="span"/>
+	</body>
+</rst>

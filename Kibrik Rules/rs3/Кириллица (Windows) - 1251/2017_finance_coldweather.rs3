@@ -1,0 +1,80 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="comparison" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="35" relname="span">Центробанк допускает временное ускорение инфляции</segment>
+		<segment id="34" parent="33" relname="cause-effect">из-за холодной погоды\n\</segment>
+		<segment id="36" parent="38" relname="joint">nПоследствия холодной весны могут привести к временному ускорению инфляции со стороны предложения в ближайшие месяцы,</segment>
+		<segment id="37" parent="38" relname="joint">другим фактором инфляционного давления до конца текущего года станет оживление спроса.</segment>
+		<segment id="39" parent="43" relname="span">Подобное предупреждение,</segment>
+		<segment id="40" parent="41" relname="attribution">как передает \"Интерфакс\",</segment>
+		<segment id="41" parent="42" relname="span">содержится в бюллетене департамента исследований и прогнозирования ЦБ РФ \"О чем говорят тренды\".</segment>
+		<segment id="44" parent="43" relname="elaboration">Цены во втором полугодии могут расти выше уровня 4%-ной инфляции.\n\n</segment>
+		<segment id="47" parent="48" relname="cause-effect">\"Холодная погода и заморозки в мае</segment>
+		<segment id="48" parent="49" relname="span">привели к гибели части завязей цветковых растений и деревьев, менее активному опылению сельхозкультур и задержкам в севе.</segment>
+		<segment id="50" parent="51" relname="span">В результате неизбежны потери урожая плодоовощных культур и более позднее поступление нового урожая на рынок.</segment>
+		<segment id="52" parent="53" relname="attribution">Гидрометцентр России уже сообщил,</segment>
+		<segment id="53" parent="54" relname="span">что похолодание обернется снижением урожая фруктов и овощей,</segment>
+		<segment id="55" parent="60" relname="attribution">а по информации Росстата,</segment>
+		<segment id="56" parent="58" relname="span">засеянная сельхозорганизациями</segment>
+		<segment id="57" parent="56" relname="purpose">для выращивания овощей</segment>
+		<segment id="59" parent="58" relname="elaboration">площадь по состоянию на 1 мая 2017 года на 19% меньше, чем в 2016 году\",</segment>
+		<segment id="64" parent="63" relname="attribution">- отмечает регулятор.</segment>
+		<segment id="68" parent="69" relname="attribution">Поэтому, предупреждают аналитики ЦБ,</segment>
+		<segment id="69" parent="70" relname="span">возможно \"смещение благоприятной сезонности в динамике цен на плодоовощную продукцию на более позднее время, а также менее выраженный характер сезонности в III квартале\".\n\n\"На этом фоне сохраняются риски с точки зрения поддержания инфляции вблизи целевого уровня на среднесрочном горизонте\",</segment>
+		<segment id="71" parent="70" relname="attribution">- отмечается в документе.</segment>
+		<segment id="73" parent="75" relname="span">Напомним, в апреле сезонно сглаженная инфляция в годовом выражении также превысила целевые установки ЦБ</segment>
+		<segment id="74" parent="73" relname="cause-effect">из-за временного смещения сезонности в продовольственных ценах.\n\</segment>
+		<segment id="76" parent="79" relname="attribution">nОднако в ЦБ полагают,</segment>
+		<segment id="79" parent="80" relname="span">что такие временные благоприятные факторы замедления инфляции, как последствия укрепления рубля в январе-апреле 2017 года, могут продолжить свое действие как минимум до середины года.</segment>
+		<segment id="81" parent="85" relname="joint">Инфляционные ожидания населения и финансовых аналитиков продолжают снижаться,</segment>
+		<segment id="82" parent="84" relname="span">создавая более благоприятные условия</segment>
+		<segment id="83" parent="82" relname="purpose">для достижения целевых уровней по инфляции.\n\n\"Реализация этих рисков вряд ли сможет помешать достижению цели по инфляции в 2017 году.</segment>
+		<segment id="86" parent="88" relname="span">Однако возможный рост инфляционного давления во второй половине года может повысить риски</segment>
+		<segment id="87" parent="86" relname="purpose">для удержания инфляции вблизи цели на среднесрочном горизонте\",</segment>
+		<segment id="89" parent="88" relname="attribution">- подчеркивают эксперты.\n\nИсточник: https://www.newsru.com/finance/06Jun2017/coldweather.html\n</segment>
+		<group id="67" type="span" parent="95" relname="joint"/>
+		<group id="35" type="span" parent="66" relname="preparation"/>
+		<group id="66" type="multinuc" parent="67" relname="span"/>
+		<group id="46" type="multinuc" parent="66" relname="joint"/>
+		<group id="38" type="multinuc" parent="46" relname="joint"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="42" type="span" parent="39" relname="attribution"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="63" type="multinuc" parent="65" relname="span"/>
+		<group id="51" type="span" parent="63" relname="joint"/>
+		<group id="49" type="span" parent="50" relname="cause-effect"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="54" type="span" parent="62" relname="comparison"/>
+		<group id="61" type="span" parent="62" relname="comparison"/>
+		<group id="60" type="span" parent="61" relname="span"/>
+		<group id="58" type="span" parent="60" relname="span"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="72" type="span" parent="94" relname="joint"/>
+		<group id="70" type="span" parent="72" relname="span"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="75" type="span" parent="93" relname="contrast"/>
+		<group id="92" type="multinuc" parent="93" relname="contrast"/>
+		<group id="80" type="span" parent="92" relname="joint"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="85" type="multinuc" parent="91" relname="contrast"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="90" type="span" parent="91" relname="contrast"/>
+		<group id="88" type="span" parent="90" relname="span"/>
+		<group id="95" type="multinuc"/>
+	</body>
+</rst>

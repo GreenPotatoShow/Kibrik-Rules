@@ -1,0 +1,82 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="36" relname="attribution">СКР решил разочаровать Развозжаева:</segment>
+		<segment id="34" parent="36" relname="span">его отказ от признания и явки не важен\n\nОтказ оппозиционера Леонида Развозжаева от показаний не может помешать следствию установить истину в уголовном деле о подготовке к организации массовых беспорядков,</segment>
+		<segment id="35" parent="34" relname="attribution">заявили сегодня в СКР.</segment>
+		<segment id="38" parent="39" relname="attribution">Следователи подчеркивают,</segment>
+		<segment id="39" parent="40" relname="span">что в их распоряжении имеются куда более весомые факты.</segment>
+		<segment id="41" parent="42" relname="restatement">Какие именно - не уточняется.\n\n</segment>
+		<segment id="44" parent="47" relname="attribution">\"Если господин Развозжаев и его соратники думают,</segment>
+		<segment id="45" parent="46" relname="cause-effect">что их показания или отказ от них являются ключевыми по уголовному делу,</segment>
+		<segment id="46" parent="47" relname="span">то могу их разочаровать:</segment>
+		<segment id="49" parent="53" relname="span">у следствия достаточно других улик и доказательств, полученных и проверенных следственно-оперативным путем,</segment>
+		<segment id="50" parent="52" relname="span">которых будет достаточно</segment>
+		<segment id="51" parent="50" relname="purpose">для установления той самой истины,</segment>
+		<segment id="54" parent="53" relname="elaboration">о которой так много говорят сами фигуранты уголовного дела и их соратники\",</segment>
+		<segment id="57" parent="56" relname="attribution">- цитирует \"Интерфакс\" официального представителя ведомства Владимира Маркина.\n\nНакануне стало известно, что фигурант уголовного дела, возбужденного по ч.1 ст. 30 и ч. 1 ст. 212 УК РФ,</segment>
+		<segment id="59" parent="65" relname="span">официально отказался от ранее оформленной явки с повинной и признательных показаний.\n\nПредставитель СКР в свою очередь так прокомментировал дачу Развозжаевым признательных показаний и последующий отказ от них:</segment>
+		<segment id="60" parent="64" relname="joint">\"А как можно комментировать поступки людей, которые постоянно меняют свои показания</segment>
+		<segment id="61" parent="63" relname="contrast">и сегодня говорят одно,</segment>
+		<segment id="62" parent="63" relname="contrast">а через несколько дней кардинально противоположное?</segment>
+		<segment id="66" parent="72" relname="span">Чем, например, можно объяснить, почему супруга Развозжаева Ольга Смирнова 22 октября на допросе у следователя в качестве свидетеля в присутствии адвоката</segment>
+		<segment id="67" parent="71" relname="span">дает показания о том, что 19 октября ее муж был дома,</segment>
+		<segment id="68" parent="70" relname="joint">причем точно помнит, что это была пятница,</segment>
+		<segment id="69" parent="70" relname="joint">подробно рассказывает,</segment>
+		<segment id="73" parent="75" relname="joint">чем он занимался</segment>
+		<segment id="74" parent="75" relname="joint">и как общался с детьми,</segment>
+		<segment id="76" parent="90" relname="joint">а буквально через день она резко меняет свои показания</segment>
+		<segment id="77" parent="82" relname="attribution">и заявляет,</segment>
+		<segment id="78" parent="81" relname="attribution">что все это было не 19, а 12 октября?\"\n\nМаркин отметил также,</segment>
+		<segment id="79" parent="81" relname="span">что следствию остается только догадываться о том, что двигало Развозжаевым,</segment>
+		<segment id="80" parent="79" relname="elaboration">который \"сначала заявляет явку с повинной,</segment>
+		<segment id="84" parent="88" relname="joint">описывая подробности своих передвижений</segment>
+		<segment id="85" parent="87" relname="contrast">и при этом не делая следователю никаких заявлений ни о пытках, ни о других преступлениях,</segment>
+		<segment id="86" parent="87" relname="contrast">а потом, после определенных событий, он резко отказывается от показаний\".\n\nИсточник: https://www.newsru.com/russia/26Oct2012/raz.html\n</segment>
+		<group id="43" type="span" parent="94" relname="preparation"/>
+		<group id="37" type="span" parent="43" relname="span"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="42" type="multinuc" parent="37" relname="elaboration"/>
+		<group id="40" type="span" parent="42" relname="restatement"/>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="58" type="span" parent="94" relname="joint"/>
+		<group id="56" type="span" parent="58" relname="span"/>
+		<group id="48" type="span" parent="56" relname="span"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="55" type="span" parent="48" relname="elaboration"/>
+		<group id="53" type="span" parent="55" relname="span"/>
+		<group id="52" type="span" parent="49" relname="elaboration"/>
+		<group id="93" type="span" parent="94" relname="joint"/>
+		<group id="65" type="span" parent="92" relname="solutionhood"/>
+		<group id="64" type="multinuc" parent="59" relname="elaboration"/>
+		<group id="63" type="multinuc" parent="64" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="span"/>
+		<group id="72" type="span" parent="92" relname="joint"/>
+		<group id="71" type="span" parent="66" relname="elaboration"/>
+		<group id="70" type="multinuc" parent="67" relname="elaboration"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="75" type="multinuc" parent="91" relname="joint"/>
+		<group id="90" type="multinuc" parent="91" relname="joint"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="83" type="span" parent="89" relname="joint"/>
+		<group id="82" type="span" parent="83" relname="span"/>
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="88" type="multinuc" parent="89" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

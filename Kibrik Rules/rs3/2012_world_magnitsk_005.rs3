@@ -1,0 +1,83 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="41" relname="sequence">США раскритиковали суд над покойником в России:</segment>
+		<segment id="34" parent="36" relname="joint">преследовать нужно не Магнитского,</segment>
+		<segment id="35" parent="36" relname="joint">а виновных в его смерти\n\nВ Вашингтоне осудили решение российских властей</segment>
+		<segment id="37" parent="39" relname="span">возобновить уголовное преследование юриста фонда Hermitage Capital Сергея Магнитского,</segment>
+		<segment id="38" parent="37" relname="background">скончавшегося в 2009 году в СИЗО.</segment>
+		<segment id="42" parent="43" relname="sequence">С соответствующим заявлением выступил накануне американский Госдепартамент.\n\nВопрос об отношении официального Вашингтона к возобновлению дела умершего юриста был задан на ежедневной пресс-конференции 9 февраля.</segment>
+		<segment id="44" parent="47" relname="attribution">Ответ опубликован на официальном сайте ведомства,</segment>
+		<segment id="45" parent="47" relname="joint">сообщают \"Новые Известия\".\n\n\"Продолжение уголовного преследования Сергея Магнитского не служит никакой другой цели,</segment>
+		<segment id="46" parent="47" relname="joint">кроме как отвлечь внимание от обстоятельств этого трагического дела\",</segment>
+		<segment id="49" parent="48" relname="attribution">- говорится в заявлении</segment>
+		<segment id="51" parent="52" relname="attribution">.\n\nРанее во вторник пресс-служба фонда Hermitage Capital сообщила,</segment>
+		<segment id="52" parent="53" relname="span">что следователи планируют передать материалы дела Магнитского в суд.</segment>
+		<segment id="54" parent="56" relname="span">При этом фонд ссылался на письмо следователя МВД Бориса Кибиса,</segment>
+		<segment id="55" parent="54" relname="background">которое якобы получили родственники Магнитского и адвокаты Hermitage Capital.\n\n</segment>
+		<segment id="57" parent="59" relname="span">\"Мы видели сообщения в прессе насчет возобновления процесса по делу Магнитского\",</segment>
+		<segment id="58" parent="57" relname="attribution">- заявила на пресс-брифинге в четверг официальный представитель Госдепартамента США Виктория Нуланд.</segment>
+		<segment id="61" parent="62" relname="condition">Вместо того, чтобы судить юриста посмертно,</segment>
+		<segment id="62" parent="63" relname="span">США призывают Россию привлечь к ответственности лиц, причастных к его гибели,</segment>
+		<segment id="64" parent="67" relname="attribution">добавила она.\n\nСергей Магнитский,</segment>
+		<segment id="65" parent="67" relname="joint">обвинявшийся в уклонении от уплаты налогов,</segment>
+		<segment id="66" parent="67" relname="joint">умер в СИЗО \"Матросская тишина\" 16 ноября 2009 года.</segment>
+		<segment id="70" parent="69" relname="interpretation-evaluation">По официальной версии, причиной его смерти стала острая сердечно-сосудистая недостаточность.</segment>
+		<segment id="72" parent="74" relname="span">Родственники Магнитского винят тюремных врачей,</segment>
+		<segment id="73" parent="72" relname="elaboration">не оказавших заключенному своевременную медицинскую помощь.</segment>
+		<segment id="75" parent="78" relname="attribution">Правозащитники считают,</segment>
+		<segment id="76" parent="78" relname="span">что юриста забили насмерть сотрудники правоохранительных органов,</segment>
+		<segment id="77" parent="76" relname="elaboration">которых он обвинял в мошенничестве.\n\nПосле смерти юриста дело в отношении него было прекращено.</segment>
+		<segment id="80" parent="86" relname="span">Однако в конце августа 2011 года расследование возобновили.</segment>
+		<segment id="81" parent="85" relname="span">Следователи пояснили это позицией родственников погибшего,</segment>
+		<segment id="82" parent="83" relname="cause-effect">которые отказались давать согласие на прекращение уголовного дела,</segment>
+		<segment id="83" parent="84" relname="span">требуя реабилитации.</segment>
+		<segment id="87" parent="88" relname="joint">Родственники Магнитского возмущены беспрецедентным решением российских властей судить умершего человека.\n\nИсточник: https://www.newsru.com/world/10Feb2012/magnitsk.html\n</segment>
+		<group id="43" type="multinuc" parent="94" relname="preparation"/>
+		<group id="41" type="multinuc" parent="43" relname="sequence"/>
+		<group id="40" type="multinuc" parent="41" relname="sequence"/>
+		<group id="36" type="multinuc" parent="40" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="joint"/>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="50" type="span" parent="94" relname="joint"/>
+		<group id="48" type="span" parent="50" relname="span"/>
+		<group id="47" type="multinuc" parent="48" relname="span"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="53" type="span" parent="93" relname="joint"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="60" type="multinuc" parent="92" relname="joint"/>
+		<group id="56" type="span" parent="60" relname="joint"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="71" type="span" parent="91" relname="joint"/>
+		<group id="69" type="multinuc" parent="71" relname="span"/>
+		<group id="63" type="span" parent="69" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="joint"/>
+		<group id="67" type="multinuc" parent="68" relname="span"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="74" type="span" parent="89" relname="preparation"/>
+		<group id="89" type="multinuc" parent="90" relname="span"/>
+		<group id="79" type="span" parent="89" relname="contrast"/>
+		<group id="78" type="span" parent="79" relname="span"/>
+		<group id="88" type="multinuc" parent="89" relname="contrast"/>
+		<group id="86" type="span" parent="88" relname="joint"/>
+		<group id="85" type="span" parent="80" relname="elaboration"/>
+		<group id="84" type="span" parent="81" relname="elaboration"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

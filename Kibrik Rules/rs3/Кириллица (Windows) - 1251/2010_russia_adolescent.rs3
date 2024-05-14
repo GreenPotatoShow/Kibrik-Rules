@@ -1,0 +1,121 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="evidence" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="52" parent="54" relname="span">Подросток насмерть забил шестилетнего читинского мальчика за слово \"лох\"\n\nВ Чите разыскивают подельника 15-летнего подростка,</segment>
+		<segment id="53" parent="52" relname="background">который до смерти забил шестилетнего Аркадия Клейнбурда.</segment>
+		<segment id="55" parent="57" relname="span">О том, что убийца действовал не один,</segment>
+		<segment id="56" parent="55" relname="background">стало известно в среду порталу Life News.</segment>
+		<segment id="59" parent="60" relname="attribution">По его данным,</segment>
+		<segment id="60" parent="61" relname="span">оба подростка из благополучных семей, мать задержанного - предприниматель.\n\</segment>
+		<segment id="62" parent="70" relname="joint">nЗадержанный уже дал признательные показания</segment>
+		<segment id="63" parent="69" relname="span">и сейчас находится в СИЗО.</segment>
+		<segment id="64" parent="67" relname="attribution">Он утверждает,</segment>
+		<segment id="65" parent="67" relname="span">что мальчик оскорбил его грубым словом,</segment>
+		<segment id="66" parent="65" relname="cause-effect">в ответ на которое тот стал избивать малыша.</segment>
+		<segment id="73" parent="74" relname="attribution">Как рассказал порталу начальник следственного отдела по Центральному району Читы Андрей Беспечанский,</segment>
+		<segment id="74" parent="75" relname="span">на бесчеловечную жестокость подростка спровоцировало слово \"лох\".\n\n</segment>
+		<segment id="78" parent="80" relname="same-unit">\"Для расправы он отвел ребенка в сторону от домов, на заброшенную учебную полосу препятствий,</segment>
+		<segment id="79" parent="80" relname="same-unit">- туда, где редко ходят люди,</segment>
+		<segment id="82" parent="81" relname="attribution">- сказал следователь.</segment>
+		<segment id="85" parent="101" relname="span">- Он бил Аркадия по голове, по туловищу, по ногам.</segment>
+		<segment id="86" parent="91" relname="condition">Когда ребенок потерял сознание,</segment>
+		<segment id="87" parent="91" relname="joint">подросток сбросил его в яму</segment>
+		<segment id="88" parent="90" relname="span">и ушел,</segment>
+		<segment id="89" parent="88" relname="cause-effect">оставив умирать\".\n\</segment>
+		<segment id="93" parent="95" relname="span">nДело против подростка возбуждено по ч.2 ст.105 УК РФ</segment>
+		<segment id="94" parent="93" relname="elaboration">(убийство лица, заведомо для виновного находящегося в беспомощном состоянии),</segment>
+		<segment id="96" parent="97" relname="same-unit">ему назначена судебно-психиатрическая экспертиза.</segment>
+		<segment id="98" parent="97" relname="elaboration">Максимальное наказание по статье - 20 лет тюрьмы или пожизненное заключение.</segment>
+		<segment id="102" parent="104" relname="span">Но учитывая возраст обвиняемого</segment>
+		<segment id="103" parent="102" relname="elaboration">(летом ему исполняется 16 лет),</segment>
+		<segment id="105" parent="106" relname="attribution">ему может грозить максимум 10 лет лишения свободы.\n\nВ свою очередь, пресс-секретарь следственного управления Следственного комитета при прокуратуре РФ по Забайкальскому краю Зоя Некрасова рассказала,</segment>
+		<segment id="106" parent="107" relname="span">что задержанный характеризуется как скрытный и необщительный подросток.</segment>
+		<segment id="109" parent="113" relname="joint">Он предпочитал общаться не со сверстниками, а с детьми моложе себя.\n\nА со слов следователя следственного отдела Центрального района Читы Чингиса Дашиева,</segment>
+		<segment id="110" parent="112" relname="span">подозреваемый по имени Евгений состоит на учете в психоневрологическом диспансере,</segment>
+		<segment id="111" parent="110" relname="attribution">передает Zabinfo.ru.\n\</segment>
+		<segment id="114" parent="119" relname="attribution">nКак сообщалось ранее,</segment>
+		<segment id="115" parent="118" relname="cause-effect">мать ребенка в понедельник, 25 января, около 14:00 отправила сына предупредить бабушку, живущую в соседнем микрорайоне в поселке Каштак, о том,</segment>
+		<segment id="116" parent="118" relname="span">что он не пойдет на занятия в детское дошкольное учреждение \"Орнамент\",</segment>
+		<segment id="117" parent="116" relname="background">которое до этого регулярно посещал.</segment>
+		<segment id="122" parent="123" relname="contrast">Однако ни у бабушки, ни дома он не появился.\n\nВ 19:00 мать написала заявление о пропаже сына.</segment>
+		<segment id="125" parent="143" relname="joint">На поиски выехали сотрудники милиции, спасатели МЧС, бойцы ОМОНа, 100 солдат СибВО и восемь членов клуба любителей внедорожников \"Диверсант\".</segment>
+		<segment id="126" parent="127" relname="attribution">По данным \"Чита.ru\",</segment>
+		<segment id="127" parent="128" relname="span">в поисках также участвовали сотрудники пожарной службы и участники ночной игры \"Dozor\".\n\nТело ребенка было обнаружено на следующий день в окопе на полосе препятствий войсковой части.</segment>
+		<segment id="129" parent="141" relname="span">Часть расположена в 150-200 метрах от дома, где жил Аркадий.</segment>
+		<segment id="130" parent="140" relname="span">Экспертиза показала, что мальчик умер от травматического шока.\n\</segment>
+		<segment id="131" parent="139" relname="sequence">nИзвестно, что Аркадий на долгое время без разрешения старших из дома не отлучался,</segment>
+		<segment id="132" parent="138" relname="sequence">играл только во дворе,</segment>
+		<segment id="133" parent="137" relname="sequence">неоднократно ходил к бабушке</segment>
+		<segment id="134" parent="136" relname="joint">и хорошо знал к ней дорогу,</segment>
+		<segment id="135" parent="136" relname="joint">а также ходил за покупками в магазины.</segment>
+		<segment id="144" parent="145" relname="attribution">По данным прокуратуры,</segment>
+		<segment id="145" parent="146" relname="span">детский сад мальчик не посещал по причине заболевания.\n\nОтец ребенка в настоящее время отбывает наказание в исправительной колонии.</segment>
+		<segment id="147" parent="148" relname="joint">Связь с сыном он не поддерживал.\n\nИсточник: https://www.newsru.com/russia/27Jan2010/adolescent.html\n</segment>
+		<group id="84" type="multinuc" parent="152" relname="joint"/>
+		<group id="72" type="span" parent="84" relname="joint"/>
+		<group id="58" type="span" parent="72" relname="span"/>
+		<group id="54" type="span" parent="58" relname="span"/>
+		<group id="57" type="span" parent="54" relname="elaboration"/>
+		<group id="71" type="span" parent="58" relname="elaboration"/>
+		<group id="61" type="span" parent="71" relname="span"/>
+		<group id="70" type="multinuc" parent="61" relname="elaboration"/>
+		<group id="69" type="span" parent="70" relname="joint"/>
+		<group id="68" type="span" parent="63" relname="elaboration"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="81" type="span" parent="83" relname="span"/>
+		<group id="75" type="span" parent="81" relname="span"/>
+		<group id="80" type="multinuc" parent="75" relname="purpose"/>
+		<group id="151" type="multinuc" parent="152" relname="joint"/>
+		<group id="101" type="span" parent="151" relname="joint"/>
+		<group id="100" type="span" parent="85" relname="elaboration"/>
+		<group id="92" type="span" parent="100" relname="span"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="99" type="span" parent="92" relname="cause-effect"/>
+		<group id="97" type="multinuc" parent="99" relname="span"/>
+		<group id="95" type="span" parent="97" relname="same-unit"/>
+		<group id="150" type="multinuc" parent="151" relname="joint"/>
+		<group id="124" type="multinuc" parent="150" relname="joint"/>
+		<group id="108" type="multinuc" parent="124" relname="joint"/>
+		<group id="104" type="span" parent="108" relname="joint"/>
+		<group id="107" type="span" parent="108" relname="joint"/>
+		<group id="123" type="multinuc" parent="124" relname="joint"/>
+		<group id="121" type="span" parent="123" relname="contrast"/>
+		<group id="113" type="multinuc" parent="121" relname="span"/>
+		<group id="112" type="span" parent="113" relname="joint"/>
+		<group id="120" type="span" parent="113" relname="background"/>
+		<group id="119" type="span" parent="120" relname="span"/>
+		<group id="118" type="span" parent="119" relname="span"/>
+		<group id="149" type="multinuc" parent="150" relname="joint"/>
+		<group id="143" type="multinuc" parent="149" relname="joint"/>
+		<group id="142" type="multinuc" parent="143" relname="joint"/>
+		<group id="128" type="span" parent="142" relname="joint"/>
+		<group id="141" type="span" parent="142" relname="joint"/>
+		<group id="140" type="span" parent="129" relname="elaboration"/>
+		<group id="139" type="multinuc" parent="130" relname="evidence"/>
+		<group id="138" type="multinuc" parent="139" relname="sequence"/>
+		<group id="137" type="multinuc" parent="138" relname="sequence"/>
+		<group id="136" type="multinuc" parent="137" relname="sequence"/>
+		<group id="148" type="multinuc" parent="149" relname="joint"/>
+		<group id="146" type="span" parent="148" relname="joint"/>
+		<group id="152" type="multinuc"/>
+	</body>
+</rst>

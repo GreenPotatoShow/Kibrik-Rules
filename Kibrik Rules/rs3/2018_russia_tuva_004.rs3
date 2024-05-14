@@ -1,0 +1,27 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="8" parent="10" relname="span">В Туве обрушение на угольной шахте\n\nВ Республике Туве произошло обрушение на угольной шахте,</segment>
+		<segment id="9" parent="8" relname="attribution">сообщает республиканское управление МЧС.</segment>
+		<segment id="11" parent="14" relname="attribution">Позже спасатели сообщили,</segment>
+		<segment id="12" parent="14" relname="span">что под завалами оказался один человек.\n\nПо данным спасателей,</segment>
+		<segment id="13" parent="12" relname="elaboration">ЧП произошло на шахте в Тандинском районе, которой управляет ООО \"УК Межегейуголь\".</segment>
+		<segment id="16" parent="18" relname="joint">\"В 11:07 30.04.2018 года в оперативно-дежурную смену ЦУКС поступило сообщение по факту обрушения в шахте\",</segment>
+		<segment id="17" parent="18" relname="joint">- говорится в сообщении МЧС.\n\nНа месте происшествия задействован 21 человек и 3 единицы техники, из них от МЧС 15 человек.\n\n\"Межегейуголь\", входящий в группу \"Евраз\", управляет Межегейским месторождением в центральной части Тувы.\n\nИсточник: https://www.newsru.com/russia/30Apr2018/tuva.html\n</segment>
+		<group id="10" type="span" parent="19" relname="preparation"/>
+		<group id="19" type="multinuc" parent="20" relname="span"/>
+		<group id="15" type="span" parent="19" relname="joint"/>
+		<group id="14" type="span" parent="15" relname="span"/>
+		<group id="18" type="multinuc" parent="19" relname="joint"/>
+		<group id="20" type="span"/>
+	</body>
+</rst>

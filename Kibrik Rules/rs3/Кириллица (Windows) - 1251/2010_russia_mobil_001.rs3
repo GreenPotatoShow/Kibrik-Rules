@@ -1,0 +1,178 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="preparation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="79" parent="232" relname="preparation">Московская милиция придумала, как навсегда прекратить кражи мобильных телефонов\n\</segment>
+		<segment id="80" parent="88" relname="joint">nСотрудники столичной милиции предлагают оригинальный способ борьбы с такими распространенными в России преступлениями, как кражи мобильных телефонов.</segment>
+		<segment id="81" parent="86" relname="preparation">Правоохранительные органы выступили с предложением обязать операторов сотовой связи отключать украденные телефоны по заявлению пострадавших владельцев.</segment>
+		<segment id="82" parent="85" relname="attribution">Как сообщает РБК daily,</segment>
+		<segment id="83" parent="85" relname="joint">соответствующий законопроект готовит Мосгордума в сотрудничестве с ГУВД.\n\nПо статистике,</segment>
+		<segment id="84" parent="85" relname="joint">в каждом третьем ограблении на улице единственной добычей преступников становится сотовый телефон.</segment>
+		<segment id="89" parent="90" relname="attribution">По данным ФСИН,</segment>
+		<segment id="90" parent="91" relname="span">90% несовершеннолетних попадают в СИЗО за хищения мобильных телефонов.</segment>
+		<segment id="92" parent="94" relname="joint">Мобильник в России легко украсть, отобрать</segment>
+		<segment id="93" parent="94" relname="joint">и продать.</segment>
+		<segment id="95" parent="96" relname="condition">При торговле с рук</segment>
+		<segment id="96" parent="97" relname="span">телефонный аппарат стоит втрое дешевле.</segment>
+		<segment id="99" parent="101" relname="span">Число похищенных мобильников,</segment>
+		<segment id="100" parent="99" relname="elaboration">по неофициальным данным, в год достигает миллиона.\n\</segment>
+		<segment id="102" parent="103" relname="attribution">nКак сообщает \"Российская газета\",</segment>
+		<segment id="103" parent="104" relname="span">представители столичного ГУВД предложили депутатам внести изменения в 15-ю статью Федерального закона \"Об оперативно-розыскной деятельности\".</segment>
+		<segment id="108" parent="111" relname="attribution">Авторы законопроекта предлагают</segment>
+		<segment id="109" parent="111" relname="joint">расширить полномочия милиционеров.\n\nЕсли поправки будут приняты,</segment>
+		<segment id="110" parent="111" relname="joint">то в ходе расследования кражи мобильного телефона по запросу из милиции оператор связи будет обязан приостановить оказание своих услуг по ворованному сотовому.</segment>
+		<segment id="113" parent="112" relname="elaboration">В настоящее время владелец похищенного телефона может только заблокировать sim-карту.\n\</segment>
+		<segment id="115" parent="118" relname="attribution">nКак рассказал РБК daily председатель Мосгордумы Владимир Платонов,</segment>
+		<segment id="116" parent="118" relname="span">депутаты заинтересованы в том, чтобы создать такую систему,</segment>
+		<segment id="117" parent="116" relname="elaboration">при которой преступления было бы невыгодно совершать.</segment>
+		<segment id="120" parent="121" relname="attribution">По словам Платонова,</segment>
+		<segment id="121" parent="122" relname="span">в основу законопроекта будет положена идея идентификации мобильных аппаратов по уникальному серийному номеру IMEI.\n\nВ прошлом году обязательная регистрация IMEI всех мобильных телефонов была введена на Украине.</segment>
+		<segment id="123" parent="122" relname="purpose">Теперь для ввоза телефонов в страну необходимо получение разрешения Украинского государственного центра радиочастот на ввоз мобильников.</segment>
+		<segment id="126" parent="134" relname="joint">Все коды IMEI радиочастотных электронных устройств, эксплуатирующихся на Украине, вносятся в общую базу данных.</segment>
+		<segment id="127" parent="133" relname="comparison">\"Серые\" телефоны операторы сотовой связи не обслуживают.\n\nКак напоминает издание,</segment>
+		<segment id="128" parent="132" relname="contrast">два года назад аналогичный законопроект вносил в Госдуму Госсовет Татарстана,</segment>
+		<segment id="129" parent="131" relname="span">однако тогда крупнейшие операторы сотовой связи выступили против этой инициативы,</segment>
+		<segment id="130" parent="129" relname="cause-effect">посчитав ее слишком затратной.</segment>
+		<segment id="136" parent="141" relname="attribution">Кроме того, критики высказывали опасения,</segment>
+		<segment id="137" parent="141" relname="span">что благодаря такому контролю у правоохранительных органов и спецслужб</segment>
+		<segment id="138" parent="140" relname="span">появится возможность без всякого согласования прослушивать граждан в режиме онлайн.\n\</segment>
+		<segment id="139" parent="138" relname="elaboration">nВ 2008 году московская милиция выступала с инициативой запретить продажу мобильных телефонов на вторичном рынке,</segment>
+		<segment id="143" parent="153" relname="span">однако тогда это предложение так и не было поддержано</segment>
+		<segment id="144" parent="151" relname="attribution">.\n\nОператоры сотовой связи подтверждают,</segment>
+		<segment id="145" parent="151" relname="contrast">что техническая возможность блокировать номера абонентов с заданным IMEI есть.</segment>
+		<segment id="146" parent="150" relname="same-unit">Однако,</segment>
+		<segment id="147" parent="148" relname="attribution">как считают некоторые участники рынка мобильных телефонов,</segment>
+		<segment id="148" parent="149" relname="span">в настоящее время реализация подобной законодательной инициативы невозможна с правовой и с технической точек зрения.</segment>
+		<segment id="155" parent="157" relname="joint">Препятствием может стать тот факт, что отсутствуют правовые гарантии уникальности идентификатора,</segment>
+		<segment id="156" parent="157" relname="joint">кроме того, рынок перенасыщен \"серыми\" телефонами и телефонами с измененными идентификаторами.</segment>
+		<segment id="158" parent="164" relname="span">Многие производители также выпускают телефоны с идентичными идентификаторами.\n\nЗа мобильный телефон убивают\n\</segment>
+		<segment id="159" parent="163" relname="joint">nЧасто преступники не просто отбирают</segment>
+		<segment id="160" parent="162" relname="joint">или похищают сотовые телефоны,</segment>
+		<segment id="161" parent="162" relname="joint">но и убивают их владельцев.</segment>
+		<segment id="165" parent="167" relname="span">Так, в июле прошлого года в Пензе двое 16-летних местных жителей были арестованы по обвинению в убийстве ровесника,</segment>
+		<segment id="166" parent="165" relname="elaboration">которое было ими совершено с целью похищения мобильного телефона.\n\nВ апреле 2007 года в Челябинской области было расследовано дело о зверском убийстве подростка во дворе школы.</segment>
+		<segment id="168" parent="170" relname="joint">Убийцу - 19-летнего безработного местного жителя - заинтересовал сотовый телефон жертвы,</segment>
+		<segment id="169" parent="170" relname="joint">а совершить разбой ему посоветовала одна из школьниц.\n\nЛетом 2007 года Пензенский областной суд приговорил к 9,5 года колонии 16-летнего подростка за убийство 14-летнего школьника.</segment>
+		<segment id="172" parent="179" relname="attribution">Как установили следователи,</segment>
+		<segment id="173" parent="175" relname="span">обвиняемый,</segment>
+		<segment id="174" parent="173" relname="condition">пытаясь отнять мобильный телефон,</segment>
+		<segment id="176" parent="178" relname="sequence">нанес своей жертве смертельный удар кирпичом,</segment>
+		<segment id="177" parent="178" relname="sequence">а затем закопал труп в подвале.</segment>
+		<segment id="184" parent="205" relname="preparation">Экспертиза установила, что обвиняемый психически здоров.</segment>
+		<segment id="185" parent="202" relname="attribution">Между тем врачам подсудимый заявил,</segment>
+		<segment id="186" parent="196" relname="same-unit">что,</segment>
+		<segment id="187" parent="194" relname="condition">если бы ситуация повторилась,</segment>
+		<segment id="188" parent="190" relname="joint">он все равно бы пошел на убийство,</segment>
+		<segment id="189" parent="190" relname="joint">только закопал тело глубже.\n\nТем же летом Воронежский суд приговорил 15-летнего подростка к 10 годам лишения свободы</segment>
+		<segment id="191" parent="192" relname="span">за жестокое убийство 10-летнего мальчика,</segment>
+		<segment id="193" parent="192" relname="background">у которого убийца забрал телефон Siemens стоимостью 2,5 тысячи рублей,</segment>
+		<segment id="197" parent="201" relname="span">а труп закопал.\n\nВесной 2007 года в Амурской области милиция раскрыла убийство 11-летнего мальчика,</segment>
+		<segment id="198" parent="200" relname="span">который имел неосторожность похвастаться дорогим мобильником перед приятелями.\n\nВ марте 2007 года в Курской области ранее судимый мужчина расправился сразу с двумя подростками, 13 и 14 лет,</segment>
+		<segment id="199" parent="198" relname="purpose">чтобы завладеть телефоном одного из них.</segment>
+		<segment id="204" parent="205" relname="joint">Обеим жертвам преступник нанес множественные ножевые ранения.\n\n31 декабря 2006 года в Челябинске на балконе жилого дома были найдены тела молодой женщины и ее дочки.</segment>
+		<segment id="207" parent="216" relname="attribution">Как установили следователи,</segment>
+		<segment id="208" parent="216" relname="span">их убил 25-летний знакомый,</segment>
+		<segment id="209" parent="215" relname="sequence">чтобы скрыть кражу сотового телефона.\n\nВ марте 2006 году в Ульяновске девятиклассника одной из местных школ убил одноклассник, которому понравился его мобильный телефон.</segment>
+		<segment id="210" parent="213" relname="attribution">Как позже установило следствие,</segment>
+		<segment id="211" parent="213" relname="span">подросток назначил жертве встречу в недостроенном здании,</segment>
+		<segment id="212" parent="211" relname="background">где якобы он должен был продать свой сотовый.</segment>
+		<segment id="218" parent="221" relname="condition">Когда мальчик появился,</segment>
+		<segment id="219" parent="221" relname="sequence">одноклассник повалил его на землю</segment>
+		<segment id="220" parent="221" relname="sequence">и задушил.</segment>
+		<segment id="223" parent="224" relname="sequence">Похищенный телефон в тот же вечер убийца продал таксисту за 1200 рублей.\n\nИсточник: https://www.newsru.com/russia/09Nov2010/mobil.html\n</segment>
+		<group id="232" type="span" parent="233" relname="span"/>
+		<group id="88" type="multinuc" parent="231" relname="preparation"/>
+		<group id="87" type="span" parent="88" relname="joint"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="231" type="span" parent="232" relname="span"/>
+		<group id="107" type="span" parent="230" relname="preparation"/>
+		<group id="91" type="span" parent="106" relname="preparation"/>
+		<group id="106" type="multinuc" parent="107" relname="span"/>
+		<group id="98" type="span" parent="106" relname="joint"/>
+		<group id="94" type="multinuc" parent="98" relname="span"/>
+		<group id="97" type="span" parent="94" relname="elaboration"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="101" type="span" parent="105" relname="comparison"/>
+		<group id="104" type="span" parent="105" relname="comparison"/>
+		<group id="230" type="multinuc" parent="231" relname="span"/>
+		<group id="114" type="span" parent="230" relname="joint"/>
+		<group id="112" type="span" parent="114" relname="span"/>
+		<group id="111" type="multinuc" parent="112" relname="span"/>
+		<group id="229" type="multinuc" parent="230" relname="joint"/>
+		<group id="135" type="multinuc" parent="229" relname="joint"/>
+		<group id="125" type="multinuc" parent="135" relname="joint"/>
+		<group id="119" type="span" parent="125" relname="joint"/>
+		<group id="118" type="span" parent="119" relname="span"/>
+		<group id="124" type="span" parent="125" relname="joint"/>
+		<group id="122" type="span" parent="124" relname="span"/>
+		<group id="134" type="multinuc" parent="135" relname="joint"/>
+		<group id="133" type="multinuc" parent="134" relname="joint"/>
+		<group id="132" type="multinuc" parent="133" relname="comparison"/>
+		<group id="131" type="span" parent="132" relname="contrast"/>
+		<group id="228" type="multinuc" parent="229" relname="joint"/>
+		<group id="154" type="multinuc" parent="228" relname="joint"/>
+		<group id="142" type="span" parent="154" relname="contrast"/>
+		<group id="141" type="span" parent="142" relname="span"/>
+		<group id="140" type="span" parent="137" relname="elaboration"/>
+		<group id="153" type="span" parent="154" relname="contrast"/>
+		<group id="152" type="span" parent="143" relname="cause-effect"/>
+		<group id="151" type="multinuc" parent="152" relname="span"/>
+		<group id="150" type="multinuc" parent="151" relname="contrast"/>
+		<group id="149" type="span" parent="150" relname="same-unit"/>
+		<group id="227" type="multinuc" parent="228" relname="joint"/>
+		<group id="183" type="multinuc" parent="227" relname="joint"/>
+		<group id="157" type="multinuc" parent="183" relname="joint"/>
+		<group id="182" type="span" parent="183" relname="joint"/>
+		<group id="164" type="span" parent="182" relname="span"/>
+		<group id="163" type="multinuc" parent="158" relname="elaboration"/>
+		<group id="162" type="multinuc" parent="163" relname="joint"/>
+		<group id="181" type="span" parent="164" relname="elaboration"/>
+		<group id="171" type="multinuc" parent="181" relname="span"/>
+		<group id="167" type="span" parent="171" relname="joint"/>
+		<group id="170" type="multinuc" parent="171" relname="joint"/>
+		<group id="180" type="span" parent="171" relname="elaboration"/>
+		<group id="179" type="multinuc" parent="180" relname="span"/>
+		<group id="175" type="span" parent="179" relname="joint"/>
+		<group id="178" type="multinuc" parent="179" relname="joint"/>
+		<group id="226" type="multinuc" parent="227" relname="joint"/>
+		<group id="206" type="span" parent="226" relname="joint"/>
+		<group id="205" type="multinuc" parent="206" relname="span"/>
+		<group id="203" type="span" parent="205" relname="joint"/>
+		<group id="202" type="multinuc" parent="203" relname="span"/>
+		<group id="196" type="multinuc" parent="202" relname="joint"/>
+		<group id="195" type="span" parent="196" relname="same-unit"/>
+		<group id="194" type="span" parent="195" relname="span"/>
+		<group id="192" type="span" parent="194" relname="span"/>
+		<group id="190" type="multinuc" parent="191" relname="cause-effect"/>
+		<group id="201" type="span" parent="202" relname="joint"/>
+		<group id="200" type="span" parent="197" relname="elaboration"/>
+		<group id="225" type="multinuc" parent="226" relname="joint"/>
+		<group id="217" type="span" parent="225" relname="sequence"/>
+		<group id="216" type="span" parent="217" relname="span"/>
+		<group id="215" type="multinuc" parent="208" relname="purpose"/>
+		<group id="214" type="span" parent="215" relname="sequence"/>
+		<group id="213" type="span" parent="214" relname="span"/>
+		<group id="224" type="multinuc" parent="225" relname="sequence"/>
+		<group id="222" type="span" parent="224" relname="sequence"/>
+		<group id="221" type="multinuc" parent="222" relname="span"/>
+		<group id="233" type="span"/>
+	</body>
+</rst>

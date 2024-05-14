@@ -1,0 +1,81 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="purpose" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="31" parent="32" relname="attribution">Депутат  Законодательного собрания Санкт-Петербурга Виталий Милонов предложил</segment>
+		<segment id="32" parent="33" relname="span">ввести штрафы за создание в соцсетях поддельных аккаунтов, ведущихся от чужого лица.</segment>
+		<segment id="34" parent="33" relname="background">Об этом 17 января сообщает издание «Фонтанка.ру».\n Наказание за создание «фейковой» страницы может составить до десяти тысяч рублей для физических лиц и до 50 тысяч рублей для должностных лиц.</segment>
+		<segment id="36" parent="39" relname="purpose">Для этого,</segment>
+		<segment id="37" parent="38" relname="attribution">по мнению Милонова,</segment>
+		<segment id="38" parent="39" relname="span">должны быть внесены соответствующие изменения в Кодекс об административных правонарушениях</segment>
+		<segment id="41" parent="43" relname="span">.\n «Сегодня в террористической деятельности используются не только бомбы, но и информационные бомбы»,</segment>
+		<segment id="42" parent="41" relname="attribution">— заявил Милонов,</segment>
+		<segment id="44" parent="43" relname="elaboration">выступая на заседании возглавляемого им в заксобрании комитета по законодательству.</segment>
+		<segment id="47" parent="49" relname="restatement">В качестве примера ложных сведений, распространяющихся через «фейковые» страницы,</segment>
+		<segment id="48" parent="49" relname="restatement">депутат привел сообщения о якобы вводившихся в Москву «чеченских отрядах».</segment>
+		<segment id="50" parent="58" relname="same-unit">Их,</segment>
+		<segment id="51" parent="56" relname="attribution">по словам Милонова,</segment>
+		<segment id="52" parent="55" relname="attribution">во время выборов московского мэра в 2013 году от лица «одного из кандидатов» распространяли его «адепты».\n Как отмечает «Фонтанка.ру»</segment>
+		<segment id="53" parent="54" relname="attribution">в ходе обсуждения инициативы у коллег Виталия Милонова</segment>
+		<segment id="54" parent="55" relname="span">возникли сомнения относительно того, что считать «идентифицирующей учетной записью» (аккаунтом) в интернете.</segment>
+		<segment id="61" parent="62" relname="attribution">Депутаты отметили,</segment>
+		<segment id="62" parent="63" relname="span">что такого понятия в российском законодательстве не существует.</segment>
+		<segment id="64" parent="67" relname="attribution">Тем не менее, по данным РИА Новости,</segment>
+		<segment id="65" parent="67" relname="joint">инициатива была одобрена комитетом</segment>
+		<segment id="66" parent="67" relname="joint">и будет рассмотрена законодательным собранием Петербурга 22 января.</segment>
+		<segment id="69" parent="70" relname="condition">В случае своего утверждения,</segment>
+		<segment id="70" parent="71" relname="span">документ может быть внесен в Государственную думу.\n Действующее в России законодательство уже предполагает ответственность за распространение заведомо ложных сведений, порочащих честь или деловую репутацию.</segment>
+		<segment id="72" parent="74" relname="joint">Соответствующая статья («Клевета») существует в Уголовном кодексе</segment>
+		<segment id="73" parent="74" relname="joint">и предусматривает штраф за распространение ложных сведений «устно, письменно или в виде изображения».</segment>
+		<segment id="76" parent="80" relname="same-unit">Наказание за создание в интернете поддельных учетных записей для последующей публикации подобной информации, статьей не предусматривается.\n Ранее Виталий Милонов также предлагал</segment>
+		<segment id="77" parent="79" relname="span">ввести штрафы для СМИ</segment>
+		<segment id="78" parent="77" relname="cause-effect">за публикацию «фейковых» новостей.</segment>
+		<segment id="81" parent="83" relname="span">Судьба этого предложения осталась неизвестной</segment>
+		<segment id="82" parent="81" relname="elaboration">— о его рассмотрении или утверждении на федеральном уровне \n \n</segment>
+		<group id="35" type="span" parent="89" relname="span"/>
+		<group id="33" type="span" parent="35" relname="span"/>
+		<group id="88" type="multinuc" parent="35" relname="purpose"/>
+		<group id="60" type="multinuc" parent="88" relname="joint"/>
+		<group id="46" type="multinuc" parent="60" relname="joint"/>
+		<group id="40" type="span" parent="46" relname="joint"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="49" type="multinuc" parent="59" relname="restatement"/>
+		<group id="58" type="multinuc" parent="59" relname="restatement"/>
+		<group id="57" type="span" parent="58" relname="same-unit"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="63" type="span" parent="87" relname="contrast"/>
+		<group id="86" type="span" parent="87" relname="contrast"/>
+		<group id="68" type="span" parent="86" relname="span"/>
+		<group id="67" type="multinuc" parent="68" relname="span"/>
+		<group id="85" type="multinuc" parent="68" relname="elaboration"/>
+		<group id="75" type="multinuc" parent="85" relname="joint"/>
+		<group id="71" type="span" parent="75" relname="joint"/>
+		<group id="74" type="multinuc" parent="75" relname="joint"/>
+		<group id="84" type="span" parent="85" relname="joint"/>
+		<group id="80" type="multinuc" parent="84" relname="span"/>
+		<group id="79" type="span" parent="80" relname="same-unit"/>
+		<group id="83" type="span" parent="80" relname="interpretation-evaluation"/>
+		<group id="89" type="span"/>
+	</body>
+</rst>

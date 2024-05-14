@@ -1,0 +1,117 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="50" parent="54" relname="sequence">Конькобежка Ольга Граф принесла России бронзу - первую медаль Олимпиады\n\nРоссиянка Ольга Граф завоевала брозовую медаль Олимпиады на соревнованиях по конькобежному спорту на дистанции 3000 м.</segment>
+		<segment id="51" parent="53" relname="joint">Она пробежала ее с личным рекордом,</segment>
+		<segment id="52" parent="53" relname="joint">показав результат 4 мин. 3.47 сек.</segment>
+		<segment id="55" parent="57" relname="joint">Бронза Граф - первая награда сборной России на Играх в Сочи.\n\nОлимпийской чемпионкой стала Ирен Вюст из Голландии (4:00.34),</segment>
+		<segment id="56" parent="57" relname="joint">второй финишировала чешка Мартина Сабликова (4:01.95).\n\nВюст завоевала третью золотую медаль Олимпийских игр в карьере.</segment>
+		<segment id="58" parent="60" relname="sequence">Ранее она побеждала в Ванкувере на дистанции 1 500 м,</segment>
+		<segment id="59" parent="60" relname="sequence">а в Турине была первой в забеге на 3 000 м.\n\n- Дневник Олимпиады-2014.</segment>
+		<segment id="63" parent="65" relname="joint">Расписание и результаты соревнований\n\nСоревнования конькобежцев проходят в виде парных забегов,</segment>
+		<segment id="64" parent="65" relname="joint">и претендентов на медали обычно ставят в числе последних.</segment>
+		<segment id="66" parent="68" relname="sequence">Граф установила личный рекорд</segment>
+		<segment id="67" parent="68" relname="sequence">и вышла в лидеры после своего забега.</segment>
+		<segment id="69" parent="71" relname="sequence">Перед стартом последней пары, в которой бежала одна из фавориток - голландка де Йонг</segment>
+		<segment id="70" parent="71" relname="sequence">- россиянка занимала третье место в промежуточной таблице.</segment>
+		<segment id="72" parent="74" relname="joint">Де Йонг начала очень уверенно,</segment>
+		<segment id="73" parent="74" relname="joint">и до отметки в 1800 метров опережала время Граф.</segment>
+		<segment id="75" parent="76" relname="sequence">Доли секунды отделили от медали уже двоих россиян - лыжника Максима Вылегжанина и биатлониста Антона Шипулина.</segment>
+		<segment id="79" parent="85" relname="contrast">Казалось, так будет и в этот раз.</segment>
+		<segment id="80" parent="84" relname="joint">Однако на финише голландка \"сдулась\"</segment>
+		<segment id="81" parent="82" relname="attribution">и показала лишь восьмой результат.\n\nГраф после финиша рассказала,</segment>
+		<segment id="82" parent="83" relname="span">что ей помогло хладнокровие.</segment>
+		<segment id="86" parent="88" relname="joint">\"Хотела начать быстро,</segment>
+		<segment id="87" parent="88" relname="joint">проходить круги за 30 секунд.</segment>
+		<segment id="89" parent="90" relname="attribution">Но тренер Юрий Александрович Сивков сказал мне:</segment>
+		<segment id="90" parent="91" relname="span">\"Спокойно, беги, как умеешь\",</segment>
+		<segment id="92" parent="91" relname="attribution">- сказала она.</segment>
+		<segment id="99" parent="101" relname="span">- Постаралась добавить в конце.</segment>
+		<segment id="100" parent="99" relname="cause-effect">Впервые за долгое время бежала так хладнокровно.</segment>
+		<segment id="102" parent="104" relname="span">Здорово, что собралась с мыслями, нервами,</segment>
+		<segment id="103" parent="102" relname="cause-effect">так как надо было удержать скорость.</segment>
+		<segment id="105" parent="107" relname="span">Еще больше сил я потратила,</segment>
+		<segment id="106" parent="105" relname="condition">когда лежала на лавке после гонки.</segment>
+		<segment id="108" parent="110" relname="span">Следила, молила Бога,</segment>
+		<segment id="109" parent="108" relname="purpose">чтобы мое время удержалось на третьей позиции\".\n\nЕще одна россиянка Юлия Скокова показала 8-й результат (4:09.36),</segment>
+		<segment id="111" parent="110" relname="background">Екатерина Шихова - 20-я (4:14.97).\n\nУспех Ольги Граф вдохновил остальных членов сборной России.</segment>
+		<segment id="114" parent="113" relname="attribution">Об этом сообщил министр спорта России Виталий Мутко.\n\n\"Ура!</segment>
+		<segment id="116" parent="120" relname="span">От имени сборной по фристайлу</segment>
+		<segment id="117" parent="119" relname="span">- я сейчас с ними</segment>
+		<segment id="118" parent="117" relname="cause-effect">- поздравляю всю сборную страны с первой медалью.</segment>
+		<segment id="121" parent="124" relname="attribution">Сборная по фристайлу дисциплина слоупстайл говорит,</segment>
+		<segment id="122" parent="124" relname="joint">что хорошее начало,</segment>
+		<segment id="123" parent="124" relname="joint">и они вдохновлены.</segment>
+		<segment id="126" parent="130" relname="span">А я-то вообще вдохновлен!</segment>
+		<segment id="127" parent="129" relname="span">Всех поздравляю</segment>
+		<segment id="128" parent="127" relname="elaboration">!\" - сказал Мутко агентству \"Р-Спорт\" по телефону.\n\nОльга Граф родилась 15 июля 1983 года в Омске.</segment>
+		<segment id="132" parent="140" relname="span">В Кубке мира дебютировала в сезоне-2007/08.</segment>
+		<segment id="133" parent="135" relname="joint">Лучший результат - второе место в командной гонке в ноябре 2010 года на этапе в норвежском Хамаре,</segment>
+		<segment id="134" parent="135" relname="joint">в личных забегах - третье место в декабре 2012-го на этапе в Астане на 5000 м.\n\nЛучший результат на чемпионатах мира на отдельных дистанциях - четвертое место в марте 2012 года в голландском Херенвене.</segment>
+		<segment id="136" parent="138" relname="span">На чемпионате Европы 2013 года в Херенвене установила отечественный рекорд в классическом многоборье - 164,436 очка.</segment>
+		<segment id="137" parent="136" relname="elaboration">Многократная чемпионка России на дистанциях 3000 и 5000 м.\n\nИсточник: https://www.newsru.com/sport/09Feb2014/graf.html\n</segment>
+		<group id="98" type="multinuc" parent="146" relname="sequence"/>
+		<group id="62" type="multinuc" parent="98" relname="sequence"/>
+		<group id="54" type="multinuc" parent="62" relname="joint"/>
+		<group id="53" type="multinuc" parent="54" relname="sequence"/>
+		<group id="61" type="multinuc" parent="62" relname="joint"/>
+		<group id="57" type="multinuc" parent="61" relname="sequence"/>
+		<group id="60" type="multinuc" parent="61" relname="sequence"/>
+		<group id="97" type="multinuc" parent="98" relname="sequence"/>
+		<group id="65" type="multinuc" parent="97" relname="sequence"/>
+		<group id="96" type="multinuc" parent="97" relname="sequence"/>
+		<group id="78" type="multinuc" parent="96" relname="sequence"/>
+		<group id="68" type="multinuc" parent="78" relname="sequence"/>
+		<group id="77" type="multinuc" parent="78" relname="sequence"/>
+		<group id="71" type="multinuc" parent="77" relname="sequence"/>
+		<group id="76" type="multinuc" parent="77" relname="sequence"/>
+		<group id="74" type="multinuc" parent="76" relname="sequence"/>
+		<group id="95" type="span" parent="96" relname="sequence"/>
+		<group id="85" type="multinuc" parent="95" relname="span"/>
+		<group id="84" type="multinuc" parent="85" relname="contrast"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="94" type="multinuc" parent="85" relname="elaboration"/>
+		<group id="88" type="multinuc" parent="94" relname="contrast"/>
+		<group id="93" type="span" parent="94" relname="contrast"/>
+		<group id="91" type="span" parent="93" relname="span"/>
+		<group id="145" type="span" parent="146" relname="sequence"/>
+		<group id="101" type="span" parent="144" relname="preparation"/>
+		<group id="144" type="span" parent="145" relname="span"/>
+		<group id="104" type="span" parent="143" relname="preparation"/>
+		<group id="143" type="span" parent="144" relname="span"/>
+		<group id="115" type="span" parent="143" relname="span"/>
+		<group id="113" type="multinuc" parent="115" relname="span"/>
+		<group id="107" type="span" parent="113" relname="sequence"/>
+		<group id="112" type="span" parent="113" relname="sequence"/>
+		<group id="110" type="span" parent="112" relname="span"/>
+		<group id="142" type="span" parent="115" relname="background"/>
+		<group id="120" type="span" parent="142" relname="span"/>
+		<group id="119" type="span" parent="116" relname="elaboration"/>
+		<group id="141" type="span" parent="120" relname="elaboration"/>
+		<group id="131" type="multinuc" parent="140" relname="preparation"/>
+		<group id="125" type="span" parent="131" relname="joint"/>
+		<group id="124" type="multinuc" parent="125" relname="span"/>
+		<group id="130" type="span" parent="131" relname="joint"/>
+		<group id="129" type="span" parent="126" relname="elaboration"/>
+		<group id="140" type="span" parent="141" relname="span"/>
+		<group id="139" type="span" parent="132" relname="elaboration"/>
+		<group id="135" type="multinuc" parent="139" relname="span"/>
+		<group id="138" type="span" parent="135" relname="background"/>
+		<group id="146" type="multinuc"/>
+	</body>
+</rst>

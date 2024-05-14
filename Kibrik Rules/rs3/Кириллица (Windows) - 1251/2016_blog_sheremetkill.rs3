@@ -1,0 +1,95 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="40" parent="42" relname="span">Аркадий Бабченко: \"Вы зачем Пашу убили, уроды?\"\n\n\"Я понимаю,</segment>
+		<segment id="41" parent="40" relname="condition">когда убивают за журналистские антикоррупционные расследования.</segment>
+		<segment id="43" parent="46" relname="condition">Когда в результате твоей работы кто-то может лишиться с таким трудом награбленного бабла,</segment>
+		<segment id="44" parent="46" relname="span">потерять место у кормушки,</segment>
+		<segment id="45" parent="44" relname="condition">остаться без домика на Лазурном берегу\",</segment>
+		<segment id="49" parent="50" relname="attribution">- пишет журналист в Facebook</segment>
+		<segment id="50" parent="51" relname="span">в связи с убийством Павла Шеремета.\n\n</segment>
+		<segment id="53" parent="55" relname="span">\"Я понимаю,</segment>
+		<segment id="54" parent="53" relname="condition">когда убивают за журналистику, расследующую преступления властей.</segment>
+		<segment id="56" parent="57" relname="joint">Похищения, пытки, убийства, бессудные казни.</segment>
+		<segment id="58" parent="113" relname="preparation">Когда можно из кресла с высокими погонами уехать в \"Белый лебедь\" на пожизненное.</segment>
+		<segment id="59" parent="60" relname="attribution">Я понимаю,</segment>
+		<segment id="60" parent="61" relname="span">когда убивают адвокатов, защищающих жертв нацистских группировок и журналистов, об этих группировках пишущих.</segment>
+		<segment id="62" parent="64" relname="span">Понимаю, когда убивают свидетелей, политических конкурентов, оппозиционеров.</segment>
+		<segment id="63" parent="62" relname="interpretation-evaluation">Это все можно объяснить логикой.</segment>
+		<segment id="66" parent="67" relname="cause-effect">Да, звериной логикой, но - логикой\".\n\n\"Но я не понимаю,</segment>
+		<segment id="67" parent="68" relname="span">зачем убивают общественно-политических журналистов.</segment>
+		<segment id="69" parent="71" relname="joint">Ну вот убили вы политического журналиста Павла Шеремета,</segment>
+		<segment id="70" parent="71" relname="joint">и что?</segment>
+		<segment id="73" parent="75" relname="contrast">Я не знаю, кто именно \"вы\",</segment>
+		<segment id="74" parent="75" relname="contrast">но - вот и что теперь-то?\n\nКакую опасность вы устранили?</segment>
+		<segment id="76" parent="79" relname="solutionhood">Что изменится?</segment>
+		<segment id="77" parent="78" relname="solutionhood">Общественное мнение как-то поменяется?</segment>
+		<segment id="78" parent="79" relname="span">Что, свобода, которую он отстаивал, станет менее ценной в глазах тех, в чьих она является чуть ли не главнейшей ценностью?</segment>
+		<segment id="81" parent="85" relname="joint">Диктатура, которую он ненавидел</segment>
+		<segment id="82" parent="84" relname="joint">и с которой боролся</segment>
+		<segment id="83" parent="84" relname="joint">- и у себя в Беларуси, и в России, и в вынужденной эмиграции в Украину,</segment>
+		<segment id="86" parent="87" relname="span">- что, приобретет в чьих-то глазах какую-то привлекательность?</segment>
+		<segment id="88" parent="107" relname="solutionhood">Поменяется вектор развития страны, что ли?</segment>
+		<segment id="91" parent="99" relname="joint">Да, что-то мы лоханулись с этой Европой, давай, братцы, опять обратно под вассальство Московии - так, что ли?\n\nЧто, у кого-то в мозгах щелкнет выключатель</segment>
+		<segment id="92" parent="98" relname="span">и читатели и слушатели Павла,</segment>
+		<segment id="93" parent="96" relname="attribution">которые разделяли его мнение о том,</segment>
+		<segment id="94" parent="96" relname="joint">что свобода, права человека, демократия, честный бизнес, конкурентоспособный рынок, независимые суды, гражданское общество, верховенство закона, равенство, антиклерикализм, антифашизм, достоинство, честь, честность, совесть - все то, о чем он писал</segment>
+		<segment id="95" parent="96" relname="joint">и адептом и проповедником чего он бы,</segment>
+		<segment id="100" parent="106" relname="joint">- что, все это потеряет,</segment>
+		<segment id="101" parent="105" relname="joint">что ли, в глазах людей свою ценность</segment>
+		<segment id="102" parent="103" relname="attribution">и они решат,</segment>
+		<segment id="103" parent="104" relname="span">что рабство, покорность, шовинизм, кумовство и воровство лучше, что ли?\n\nВы зачем Пашу убили, уроды?\".\n\nИсточник: https://www.newsru.com/blog/21Jul2016/sheremetkill.html\n</segment>
+		<group id="52" type="span" parent="116" relname="joint"/>
+		<group id="48" type="span" parent="52" relname="span"/>
+		<group id="42" type="span" parent="48" relname="span"/>
+		<group id="47" type="span" parent="42" relname="elaboration"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="51" type="span" parent="48" relname="attribution"/>
+		<group id="115" type="span" parent="116" relname="joint"/>
+		<group id="57" type="multinuc" parent="114" relname="preparation"/>
+		<group id="55" type="span" parent="57" relname="joint"/>
+		<group id="114" type="span" parent="115" relname="span"/>
+		<group id="113" type="multinuc" parent="114" relname="span"/>
+		<group id="65" type="span" parent="113" relname="joint"/>
+		<group id="61" type="span" parent="65" relname="span"/>
+		<group id="64" type="span" parent="61" relname="interpretation-evaluation"/>
+		<group id="112" type="span" parent="113" relname="joint"/>
+		<group id="72" type="span" parent="111" relname="solutionhood"/>
+		<group id="68" type="span" parent="71" relname="solutionhood"/>
+		<group id="71" type="multinuc" parent="72" relname="span"/>
+		<group id="111" type="span" parent="112" relname="span"/>
+		<group id="75" type="multinuc" parent="110" relname="solutionhood"/>
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="80" type="span" parent="109" relname="solutionhood"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="109" type="span" parent="110" relname="span"/>
+		<group id="87" type="span" parent="108" relname="solutionhood"/>
+		<group id="85" type="multinuc" parent="86" relname="cause-effect"/>
+		<group id="84" type="multinuc" parent="85" relname="joint"/>
+		<group id="108" type="span" parent="109" relname="span"/>
+		<group id="107" type="span" parent="108" relname="span"/>
+		<group id="99" type="multinuc" parent="106" relname="solutionhood"/>
+		<group id="98" type="span" parent="99" relname="joint"/>
+		<group id="97" type="span" parent="92" relname="elaboration"/>
+		<group id="96" type="multinuc" parent="97" relname="span"/>
+		<group id="106" type="multinuc" parent="107" relname="span"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="104" type="span" parent="105" relname="joint"/>
+		<group id="116" type="multinuc"/>
+	</body>
+</rst>

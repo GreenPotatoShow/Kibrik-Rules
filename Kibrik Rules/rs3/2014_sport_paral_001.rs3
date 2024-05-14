@@ -1,0 +1,31 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="11" parent="28" relname="preparation">Рушан Миннегулов завоевал для России шестое золото Паралимпиады\n\nВ третий день зимней Паралимпиады в Сочи</segment>
+		<segment id="12" parent="16" relname="span">россиянин Рушан Миннегулов стал чемпионом в лыжной гонке на 20 км классическим стилем среди спортсменов с физическими особенностями в категории стоя.\n\nОн опередил на 36 секунд серебряного призера Илку Туомисто из Финляндии и на 49,5 - соотечественника Владислава Лекомцева, ставшего третьим.\n\nМиннегулов принес России шестое золото Игр,</segment>
+		<segment id="15" parent="12" relname="elaboration">Лекомцев, ранее победивший в биатлонной гонке в гонке на 7,5 км, - 21-ю медаль.</segment>
+		<segment id="17" parent="19" relname="span">Сборная России уверенно лидирует в медальном зачете Паралимпиады.</segment>
+		<segment id="18" parent="17" relname="elaboration">На ее счету - 6 золотых, 8 серебряных и 6 бронзовых наград.</segment>
+		<segment id="21" parent="27" relname="joint">Второе место занимает Украина.\n\nРанее в понедельник отечественная горнолыжница Александра Францева завоевала серебро в супергиганте среди слабовидящих.</segment>
+		<segment id="22" parent="24" relname="span">Победила британка Келли Галахер,</segment>
+		<segment id="23" parent="22" relname="condition">опередив хозяйку трассы всего на 0,22 секунды.</segment>
+		<segment id="25" parent="26" relname="sequence">Призовую тройку замкнула британка Джейдж Этерингтон.\n\nОтметим, что в субботу Францева выиграла бронзовую награду в скоростном спуске.\n\nИсточник: https://www.newsru.com/sport/10Mar2014/paral.html\n</segment>
+		<group id="28" type="multinuc" parent="29" relname="span"/>
+		<group id="20" type="span" parent="28" relname="joint"/>
+		<group id="16" type="span" parent="20" relname="span"/>
+		<group id="19" type="span" parent="16" relname="elaboration"/>
+		<group id="27" type="multinuc" parent="28" relname="joint"/>
+		<group id="26" type="multinuc" parent="27" relname="joint"/>
+		<group id="24" type="span" parent="26" relname="sequence"/>
+		<group id="29" type="span"/>
+	</body>
+</rst>

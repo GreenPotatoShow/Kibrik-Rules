@@ -1,0 +1,34 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="11" parent="16" relname="preparation">Звонок о якобы заложенном в одной из столичных школ взрывном устройстве не подтвердился\n\nАнонимный звонок о якобы заложенном в 158-й школе столицы взрывном устройстве не подтвердился.</segment>
+		<segment id="12" parent="15" relname="attribution">Как сообщает РИА \"Новости\",</segment>
+		<segment id="13" parent="14" relname="condition">после тщательного осмотра здания</segment>
+		<segment id="14" parent="15" relname="span">взрывчатое вещество обнаружено не было.</segment>
+		<segment id="18" parent="19" relname="sequence">В настоящее время занятия в школе возобновлены.\n\nТревожный сигнал поступил на пульт дежурного по городу около 10:15 по московскому времени.</segment>
+		<segment id="20" parent="24" relname="joint">На место происшествия немедленно прибыли спасатели и кинолог со специально обученной собакой.</segment>
+		<segment id="21" parent="23" relname="span">Все школьники и учителя были немедленно эвакуированы из здания.\n\nСейчас оперативники пытаются установить личность звонившего.\n\</segment>
+		<segment id="22" parent="21" relname="elaboration">nЗа минувшие сутки это уже третье проявление телефонного терроризма.</segment>
+		<segment id="25" parent="27" relname="span">Накануне днем поступил звонок о якобы заложенном взрывном устройстве на заводе \"Вилс\", на улице Горбунова.</segment>
+		<segment id="26" parent="25" relname="elaboration">К вечеру неизвестный предупредил о готовящемся взрыве в кинотеатре \"Байконур\".\n\nИсточник: https://www.newsru.com/russia/04Sep2001/school2.html\n</segment>
+		<group id="19" type="multinuc" parent="29" relname="joint"/>
+		<group id="17" type="span" parent="19" relname="sequence"/>
+		<group id="16" type="span" parent="17" relname="span"/>
+		<group id="15" type="span" parent="16" relname="span"/>
+		<group id="28" type="multinuc" parent="29" relname="joint"/>
+		<group id="24" type="multinuc" parent="28" relname="joint"/>
+		<group id="23" type="span" parent="24" relname="joint"/>
+		<group id="27" type="span" parent="28" relname="joint"/>
+		<group id="29" type="multinuc"/>
+	</body>
+</rst>

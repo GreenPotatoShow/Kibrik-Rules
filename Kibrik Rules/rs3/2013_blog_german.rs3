@@ -1,0 +1,48 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="condition" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="17" parent="19" relname="span">Олег Дорман: \"Герман\"\n\n\"Больше ни перед кем не встану.\n\nОн не был самый близкий мне режиссер,</segment>
+		<segment id="18" parent="17" relname="elaboration">он больше всего любил \"Сатирикон\", а я \"Ночи\" и \"Восемь с половиной\",</segment>
+		<segment id="20" parent="26" relname="span">и в сегодняшнем горе мне нужно это сказать,</segment>
+		<segment id="21" parent="25" relname="joint">раз уж я понял, что не могу молчать,</segment>
+		<segment id="22" parent="23" relname="condition">не справляюсь,</segment>
+		<segment id="23" parent="24" relname="span">хочу словами завалить страшную боль, как могилу цветами.</segment>
+		<segment id="28" parent="32" relname="contrast">Потому что что бы я там ни любил больше,</segment>
+		<segment id="29" parent="31" relname="joint">а он меньше,</segment>
+		<segment id="30" parent="31" relname="joint">я преклонялся перед ним всегда,</segment>
+		<segment id="33" parent="45" relname="joint">преклонялся,</segment>
+		<segment id="34" parent="37" relname="interpretation-evaluation">понимая, что сам я не знаю,</segment>
+		<segment id="35" parent="37" relname="span">как осуществить то, что я люблю,</segment>
+		<segment id="36" parent="35" relname="condition">уклоняюсь от битвы,</segment>
+		<segment id="39" parent="43" relname="span">а он - великий рыцарь,</segment>
+		<segment id="40" parent="42" relname="span">который вызвал жизнь на сражение,</segment>
+		<segment id="41" parent="40" relname="purpose">чтобы победить.\"\n\nИсточник: https://www.newsru.com/blog/21Feb2013/german.html\n</segment>
+		<group id="27" type="multinuc" parent="47" relname="span"/>
+		<group id="19" type="span" parent="27" relname="joint"/>
+		<group id="26" type="span" parent="27" relname="joint"/>
+		<group id="25" type="multinuc" parent="20" relname="elaboration"/>
+		<group id="24" type="span" parent="25" relname="joint"/>
+		<group id="46" type="span" parent="27" relname="cause-effect"/>
+		<group id="32" type="multinuc" parent="46" relname="span"/>
+		<group id="31" type="multinuc" parent="32" relname="contrast"/>
+		<group id="45" type="multinuc" parent="32" relname="elaboration"/>
+		<group id="44" type="multinuc" parent="45" relname="joint"/>
+		<group id="38" type="span" parent="44" relname="contrast"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="43" type="span" parent="44" relname="contrast"/>
+		<group id="42" type="span" parent="39" relname="elaboration"/>
+		<group id="47" type="span"/>
+	</body>
+</rst>

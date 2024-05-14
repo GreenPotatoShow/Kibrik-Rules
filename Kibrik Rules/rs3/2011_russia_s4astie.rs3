@@ -1,0 +1,75 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="evidence" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="30" parent="37" relname="preparation">Названы самые счастливые профессии в России.</segment>
+		<segment id="31" parent="37" relname="span">Самые несчастные - сисадмины\n\nСамыми счастливыми людьми в России чувствуют себя психологи и менеджеры по продажам, а наиболее несчастными - системные администраторы.</segment>
+		<segment id="32" parent="36" relname="joint">Такие данные получили социологи исследовательского центра рекрутингового портала Superjob.ru,</segment>
+		<segment id="33" parent="35" relname="comparison">опросившие 5000 респондентов, - по 100 представителей 50 различных профессий.\n\nНа вопрос о том, считают ли они себя счастливыми людьми,</segment>
+		<segment id="34" parent="35" relname="comparison">утвердительно ответили 89% психологов.</segment>
+		<segment id="39" parent="41" relname="span">Второе место рейтинга занимают менеджеры по продажам</segment>
+		<segment id="40" parent="39" relname="cause-effect">- из них довольны жизнью 83%.</segment>
+		<segment id="42" parent="48" relname="joint">Замыкают тройку лидеров архитекторы, аудиторы, прорабы и менеджеры по маркетингу с показателем 82%,</segment>
+		<segment id="43" parent="47" relname="span">пишут \"Ведомости\".\n\nМеньше прочих удовлетворены системные администраторы</segment>
+		<segment id="44" parent="46" relname="joint">- четверть (24%) представителей этой профессии не чувствуют себя счастливыми,</segment>
+		<segment id="45" parent="46" relname="joint">проектировщики (22%) и работники охраны (21%) - вторая и третья позиции в рейтинге самых несчастливых сотрудников.</segment>
+		<segment id="49" parent="55" relname="contrast">Судя по комментариям в анкетах, радоваться жизни им мешают проблемы на службе, отсутствие собственного жилья или неурядицы в семье.\n\</segment>
+		<segment id="50" parent="53" relname="attribution">nОднако психологи считают,</segment>
+		<segment id="51" parent="53" relname="span">что сисадминов несчастными делает их оторванность от реальности,</segment>
+		<segment id="52" parent="51" relname="elaboration">которая выдергивает их из идеального виртуального мира.\n\</segment>
+		<segment id="59" parent="62" relname="attribution">nСогласно опросу ФОМ,</segment>
+		<segment id="60" parent="62" relname="span">проводившемуся в конце июня,</segment>
+		<segment id="61" parent="60" relname="purpose">для россиян счастье – это в первую очередь здоровье, свое и своих близких (27%).</segment>
+		<segment id="64" parent="66" relname="comparison">Наличие крепкой семьи, детей – обязательное условие для счастья 22% опрошенных.</segment>
+		<segment id="65" parent="66" relname="comparison">Еще 18% назвали благополучие и спокойствие в семье.</segment>
+		<segment id="67" parent="72" relname="attribution">Столько же респондентов уточнили,</segment>
+		<segment id="68" parent="72" relname="span">что важно именно материальное благополучие.\n\nНесчастливыми же,</segment>
+		<segment id="69" parent="70" relname="attribution">по опросам ВЦИОМ,</segment>
+		<segment id="70" parent="71" relname="span">россиян заставляет чувствовать себя бедность, низкий уровень доходов (22%), болезни и старость (10%), тяжелая жизнь (7%),</segment>
+		<segment id="74" parent="78" relname="span">сложные жизненные обстоятельства (6%).\n\n5% несчастны,</segment>
+		<segment id="75" parent="77" relname="contrast">так как не имеют хорошей работы,</segment>
+		<segment id="76" parent="77" relname="contrast">столько же - из-за одиночества.</segment>
+		<segment id="82" parent="84" relname="span">Однако большинство - 44% - вообще не знают, почему же они несчастливы.\n\nЗа последний год уровень счастья россиян снизился с 72% до 67%</segment>
+		<segment id="83" parent="82" relname="cause-effect">- именно столько наших соотечественников ощущают себя скорее счастливыми, чем несчастливыми.\n\nИсточник: https://www.newsru.com/russia/12Jul2011/s4astie.html\n</segment>
+		<group id="58" type="multinuc" parent="86" relname="joint"/>
+		<group id="38" type="span" parent="58" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="36" type="multinuc" parent="31" relname="evidence"/>
+		<group id="35" type="multinuc" parent="36" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="41" type="span" parent="57" relname="joint"/>
+		<group id="56" type="multinuc" parent="57" relname="joint"/>
+		<group id="48" type="multinuc" parent="56" relname="comparison"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="46" type="multinuc" parent="43" relname="elaboration"/>
+		<group id="55" type="multinuc" parent="56" relname="comparison"/>
+		<group id="54" type="span" parent="55" relname="contrast"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="85" type="multinuc" parent="86" relname="joint"/>
+		<group id="81" type="multinuc" parent="85" relname="contrast"/>
+		<group id="63" type="span" parent="81" relname="comparison"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="80" type="multinuc" parent="81" relname="comparison"/>
+		<group id="66" type="multinuc" parent="80" relname="comparison"/>
+		<group id="79" type="multinuc" parent="80" relname="comparison"/>
+		<group id="73" type="span" parent="79" relname="comparison"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="71" type="span" parent="68" relname="elaboration"/>
+		<group id="78" type="span" parent="79" relname="comparison"/>
+		<group id="77" type="multinuc" parent="74" relname="cause-effect"/>
+		<group id="84" type="span" parent="85" relname="contrast"/>
+		<group id="86" type="multinuc"/>
+	</body>
+</rst>

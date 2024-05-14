@@ -1,0 +1,88 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="37" parent="40" relname="attribution">В НАТО исследовали российскую пропаганду:</segment>
+		<segment id="38" parent="40" relname="span">60% аккаунтов на русском объявлено ботами\n\nЦентр стратегических коммуникаций НАТО Stratcom объявил</segment>
+		<segment id="39" parent="38" relname="cause-effect">ботами 60% русскоязычных аккаунтов в Twitter.</segment>
+		<segment id="42" parent="45" relname="attribution">По оценке экспертов,</segment>
+		<segment id="45" parent="46" relname="span">с августа по октябрь этого года около 70% русскоязычных записей, посвященных присутствию НАТО в Прибалтике и Польше, было сгенерировано ботами.</segment>
+		<segment id="47" parent="48" relname="joint">Доклад опубликован на сайте Stratcom.\n\n\"В общем и целом 60% активных русскоязычных аккаунтов были в большинстве случаев автоматизированы\",</segment>
+		<segment id="49" parent="48" relname="attribution">- отмечается в исследовании под названием Robotrolling.</segment>
+		<segment id="52" parent="53" relname="purpose">Для сравнения</segment>
+		<segment id="53" parent="54" relname="span">- в англоязычном сегменте Twitter в аналогичный период специальными программами было создано лишь около 52% всех сообщений.</segment>
+		<segment id="55" parent="61" relname="comparison">При этом примерно за 39% учетных записей стояли боты,</segment>
+		<segment id="56" parent="58" relname="span">отмечает DW.\n\nРост активности при генерировании записей наблюдался</segment>
+		<segment id="57" parent="56" relname="elaboration">при проведении Североатлантическим альянсом маневров в регионе - таких как Steadfast Pyramid 2017 и Steadfast Pinnacle 2017 в Латвии или учения военизированной добровольческой организации Kaitseliit - Sibul 2017 в Эстонии.\n\nАвторы исследования проанализировали 6200 твитов,</segment>
+		<segment id="59" parent="58" relname="background">каждый третий из которых был на русском языке.</segment>
+		<segment id="62" parent="64" relname="span">Общее число активных пользователей составляло 3500.</segment>
+		<segment id="63" parent="62" relname="elaboration">Выборка касалась лишь сообщений, в которых шла речь о военной активности НАТО в регионе, \"и не характерна для Twitter в целом\",</segment>
+		<segment id="65" parent="64" relname="attribution">отмечают в Центре стратегических коммуникаций.</segment>
+		<segment id="69" parent="72" relname="attribution">В методологической части авторы доклада не поясняют,</segment>
+		<segment id="70" parent="72" relname="joint">на основании каких критериев разграничивали сообщения, создаваемые пользователями,</segment>
+		<segment id="71" parent="72" relname="joint">и те, которые размещались ботами.\n\n</segment>
+		<segment id="74" parent="76" relname="span">\"Политические силы используют ботов в социальных медиа,</segment>
+		<segment id="75" parent="74" relname="purpose">чтобы манипулировать общественным мнением о региональной геополитике\",</segment>
+		<segment id="77" parent="76" relname="attribution">- цитирует доклад РИА \"Новости\".\n\nСпонсорами центра Stratcom выступают Эстония, Италия, Польша, Германия, Литва и Великобритания.</segment>
+		<segment id="79" parent="103" relname="comparison">Содействие центру оказывают Финляндия, США и Нидерланды.\n\nБорцы с пропагандой получат более миллиона евро в год\n\</segment>
+		<segment id="80" parent="82" relname="span">nРуководство Евросоюза приняло решение о выделении 1,1 млн евро в год оперативной рабочей группе по стратегическим вопросам East Stratcom Task Force,</segment>
+		<segment id="81" parent="80" relname="elaboration">которая занимается противодействием российской дезинформации.</segment>
+		<segment id="83" parent="85" relname="span">Эти средства будут выделяться как минимум в течение трех лет с 2018 года.\n\nДо недавнего времени оперативная рабочая группа по стратегическим вопросам,</segment>
+		<segment id="84" parent="83" relname="elaboration">в которой на постоянной основе работают 14 сотрудников из разных стран Европы,</segment>
+		<segment id="86" parent="87" relname="joint">финансировалась из бюджета, предназначенного для стратегических коммуникаций ЕС.</segment>
+		<segment id="89" parent="101" relname="span">Ожидается, что дополнительное финансирование пойдет на улучшение процесса мониторинга российских СМИ</segment>
+		<segment id="90" parent="94" relname="span">.\n\nВ настоящее время East Stratcom Task Force,</segment>
+		<segment id="91" parent="93" relname="span">созданная ЕС в 2015 году</segment>
+		<segment id="92" parent="91" relname="purpose">в целях противодействия продолжающейся кампании по дезинформации со стороны России,</segment>
+		<segment id="95" parent="99" relname="span">публикует еженедельные \"обзоры дезинформации\",</segment>
+		<segment id="96" parent="98" relname="joint">которые представляют собой подборки материалов о случаях искажения или манипуляции фактами в материалах российских СМИ.\n\nСо следующего года East Stratcom Task Force от рассказа о конкретных примерах распространения искаженных фактов перейдет к анализу того, как распространяются</segment>
+		<segment id="97" parent="98" relname="joint">и меняются информационные сигналы, посылаемые прокремлевскими СМИ.\n\nИсточник: https://www.newsru.com/world/25Nov2017/trollingnato.html\n</segment>
+		<group id="51" type="multinuc" parent="106" relname="preparation"/>
+		<group id="41" type="span" parent="51" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="48" type="multinuc" parent="50" relname="span"/>
+		<group id="46" type="span" parent="48" relname="joint"/>
+		<group id="106" type="multinuc" parent="107" relname="span"/>
+		<group id="68" type="multinuc" parent="106" relname="joint"/>
+		<group id="54" type="span" parent="68" relname="joint"/>
+		<group id="67" type="span" parent="68" relname="joint"/>
+		<group id="61" type="multinuc" parent="67" relname="span"/>
+		<group id="60" type="span" parent="61" relname="comparison"/>
+		<group id="58" type="span" parent="60" relname="span"/>
+		<group id="66" type="span" parent="61" relname="elaboration"/>
+		<group id="64" type="span" parent="66" relname="span"/>
+		<group id="105" type="multinuc" parent="106" relname="joint"/>
+		<group id="73" type="span" parent="105" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="104" type="multinuc" parent="105" relname="joint"/>
+		<group id="78" type="span" parent="104" relname="joint"/>
+		<group id="76" type="span" parent="78" relname="span"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="102" type="multinuc" parent="103" relname="comparison"/>
+		<group id="88" type="multinuc" parent="102" relname="joint"/>
+		<group id="82" type="span" parent="88" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="joint"/>
+		<group id="85" type="span" parent="87" relname="joint"/>
+		<group id="101" type="span" parent="102" relname="joint"/>
+		<group id="100" type="multinuc" parent="89" relname="elaboration"/>
+		<group id="94" type="span" parent="100" relname="joint"/>
+		<group id="93" type="span" parent="90" relname="elaboration"/>
+		<group id="99" type="span" parent="100" relname="joint"/>
+		<group id="98" type="multinuc" parent="95" relname="elaboration"/>
+		<group id="107" type="span"/>
+	</body>
+</rst>

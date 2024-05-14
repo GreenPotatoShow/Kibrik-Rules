@@ -1,0 +1,50 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="18" parent="22" relname="sequence">Самый непробиваемый голкипер премьер-лиги попал в автомобильную аварию\n\nСергей Козко, основной голкипер казанского \"Рубина\",</segment>
+		<segment id="19" parent="21" relname="joint">в воскресенье попал в автомобильную аварию</segment>
+		<segment id="20" parent="21" relname="joint">и госпитализирован в 15-ю городскую больницу.</segment>
+		<segment id="23" parent="22" relname="attribution">Об этом сообщает ИТАР-ТАСС со ссылкой на пресс-службу клуба.</segment>
+		<segment id="25" parent="27" relname="span">Авария произошла рано утром на следующий день после победного для \"Рубина\" матча с ярославским \"Шинником\",</segment>
+		<segment id="26" parent="25" relname="elaboration">в котором Козко сохранил свои ворота в неприкосновенности.</segment>
+		<segment id="28" parent="30" relname="contrast">Обстоятельства этого дорожного происшествия пока не известны.\n\nПо предварительным данным, полученные травмы не представляют угрозы для жизни спортсмена,</segment>
+		<segment id="29" parent="30" relname="contrast">но у него поврежден позвоночник.</segment>
+		<segment id="32" parent="34" relname="contrast">Врачи в настоящий момент оценивают состояние здоровья голкипера как удовлетворительное,</segment>
+		<segment id="33" parent="34" relname="contrast">однако вряд ли стоит рассчитывать на быстрое возвращение Сергея в строй.\n\nВ дебютном для казанского клуба чемпионате российской футбольной премьер-лиги Козко защищал ворота \"Рубина\" во всех сыгранных матчах.</segment>
+		<segment id="35" parent="39" relname="span">Он показал стабильное мастерство,</segment>
+		<segment id="36" parent="38" relname="joint">в 24 играх пропустил 21 мяч</segment>
+		<segment id="37" parent="38" relname="joint">и на данный момент является самым непробиваемым голкипером в премьер-лиге.\n\nСейчас \"Рубин\" делит в турнирной таблице российского футбольного первенства второе-третье места с московским \"Динамо\",</segment>
+		<segment id="40" parent="39" relname="elaboration">отставая от лидирующего ЦСКА всего на пять очков.</segment>
+		<segment id="42" parent="46" relname="comparison">До окончания чемпионата казанцам осталось провести шесть матчей,</segment>
+		<segment id="43" parent="45" relname="span">подопечные Курбана Бердыева вполне бы могли набрать в них необходимое количество очков</segment>
+		<segment id="44" parent="43" relname="purpose">для попадания в тройку призеров.\n\nИсточник: https://www.newsru.com/sport/15Sep2003/5836378644.html\n</segment>
+		<group id="24" type="span" parent="49" relname="preparation"/>
+		<group id="22" type="multinuc" parent="24" relname="span"/>
+		<group id="21" type="multinuc" parent="22" relname="sequence"/>
+		<group id="49" type="multinuc" parent="50" relname="span"/>
+		<group id="31" type="span" parent="49" relname="joint"/>
+		<group id="27" type="span" parent="31" relname="span"/>
+		<group id="30" type="multinuc" parent="27" relname="elaboration"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="34" type="multinuc" parent="48" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="joint"/>
+		<group id="41" type="span" parent="47" relname="span"/>
+		<group id="39" type="span" parent="41" relname="span"/>
+		<group id="38" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="46" type="multinuc" parent="41" relname="elaboration"/>
+		<group id="45" type="span" parent="46" relname="comparison"/>
+		<group id="50" type="span"/>
+	</body>
+</rst>

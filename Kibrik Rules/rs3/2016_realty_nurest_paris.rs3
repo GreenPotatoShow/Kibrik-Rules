@@ -1,0 +1,66 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="25" parent="29" relname="span">Лондонский ресторан для натуристов планирует переехать в Париж\n\nВо французской столице уже в сентябре может открыться первый в стране \"голый ресторан\",</segment>
+		<segment id="26" parent="28" relname="joint">посетители которого сидят за столами без одежды</segment>
+		<segment id="27" parent="28" relname="joint">и питаются исключительно здоровой пищей.</segment>
+		<segment id="30" parent="29" relname="attribution">Об этом местной редакции The Local поведал один из источников на рынке.</segment>
+		<segment id="32" parent="36" relname="contrast">Пока это скорее на уровне слухов,</segment>
+		<segment id="33" parent="35" relname="span">но ввиду успеха аналогичного заведения в Лондоне,</segment>
+		<segment id="34" parent="33" relname="elaboration">открывшегося в июне, это лишь вопрос времени.\n\n\"В Париже будет так же, как в Лондоне.</segment>
+		<segment id="37" parent="39" relname="span">Вернуться к началу:</segment>
+		<segment id="38" parent="37" relname="elaboration">никаких мобильных телефонов, все натуральное, свечи, сырые органические продукты\",</segment>
+		<segment id="40" parent="42" relname="span">- поделился планами источник издания.\n\nКак известно, эта концепция уже доказала свою популярность в Великобритании,</segment>
+		<segment id="41" parent="40" relname="elaboration">где столики в столичном ресторане под названием Bunyadi забронировали на лето более 40 тысяч человек.</segment>
+		<segment id="44" parent="46" relname="span">Многие из них, кто уже там побывал, делились хвалебными отзывами,</segment>
+		<segment id="45" parent="44" relname="condition">рассказывая о необычном \"опыте освобождения\".\n\</segment>
+		<segment id="47" parent="49" relname="span">nТакой ажиотаж в Лондоне объяснить несложно:</segment>
+		<segment id="48" parent="47" relname="elaboration">экстравагантный ресторан, как ожидается, проработает лишь до середины августа.</segment>
+		<segment id="50" parent="51" relname="sequence">После чего его, вероятно, попробуют перевезти на французскую почву.\n\n</segment>
+		<segment id="52" parent="55" relname="attribution">\"Мы думаем,</segment>
+		<segment id="53" parent="55" relname="span">французам понравится,</segment>
+		<segment id="54" parent="53" relname="cause-effect">ведь в этой стране много натуристов.</segment>
+		<segment id="57" parent="58" relname="joint">Кроме того, Париж - это самое подходящее место для любых ресторанов\",</segment>
+		<segment id="59" parent="58" relname="attribution">- отметил представитель лондонского заведения.\n\nНапомним, что \"голые рестораны\" уже есть в Японии и США.</segment>
+		<segment id="61" parent="65" relname="span">Аналогичное заведение планируется открыть в Милане.</segment>
+		<segment id="62" parent="63" relname="attribution">Авторы подобных проектов подчеркивают,</segment>
+		<segment id="63" parent="64" relname="span">что их рестораны не имеют \"ничего общего с сексом, свингерством или чем-то в этом роде\".\n\nИсточник: https://www.newsru.com/realty/08Aug2016/nurest_paris.html\n</segment>
+		<group id="31" type="span" parent="70" relname="preparation"/>
+		<group id="29" type="span" parent="31" relname="span"/>
+		<group id="28" type="multinuc" parent="25" relname="elaboration"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="36" type="multinuc" parent="69" relname="preparation"/>
+		<group id="35" type="span" parent="36" relname="contrast"/>
+		<group id="69" type="span" parent="70" relname="span"/>
+		<group id="43" type="multinuc" parent="68" relname="preparation"/>
+		<group id="39" type="span" parent="43" relname="same-unit"/>
+		<group id="42" type="span" parent="43" relname="same-unit"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="46" type="span" parent="68" relname="span"/>
+		<group id="67" type="span" parent="46" relname="elaboration"/>
+		<group id="51" type="multinuc" parent="67" relname="span"/>
+		<group id="49" type="span" parent="51" relname="sequence"/>
+		<group id="66" type="multinuc" parent="51" relname="elaboration"/>
+		<group id="60" type="span" parent="66" relname="joint"/>
+		<group id="58" type="multinuc" parent="60" relname="span"/>
+		<group id="56" type="span" parent="58" relname="joint"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="65" type="span" parent="66" relname="joint"/>
+		<group id="64" type="span" parent="61" relname="elaboration"/>
+		<group id="71" type="span"/>
+	</body>
+</rst>

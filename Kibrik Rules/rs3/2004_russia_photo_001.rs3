@@ -1,0 +1,27 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="9" parent="22" relname="preparation">Обрушение аквапарка - ФОТО с места трагедии\n\nЗДЕСЬ вся ХРОНИКА событий, произошедших после обрушения аквапарка.\n\nОбрушение 5 000 тысяч кв.м. бетонных и стеклянных конструкций купола \"Трансвааль-парка\" в Москве произошло в субботу в 19 часов 15 минут 43 секунды по московскому времени.</segment>
+		<segment id="10" parent="12" relname="span">Этот момент с точностью до секунды был зафиксирован видеокамерами внутреннего наблюдения.\n\nВсю минувшую ночь спасатели извлекали погибших и пострадавших из-под обрушившейся крыши аквапарка.\n\nКупол накрыл всю водную часть комплекса,</segment>
+		<segment id="11" parent="10" relname="elaboration">где под завалами могут находиться десятки людей.</segment>
+		<segment id="13" parent="21" relname="joint">Погибших может быть около 60.\n\nПервые свидетельства очевидцев обрушения купола парка: страх, крики, много крови и раненых.\n\nСреди 362 человек, находившихся в зоне поражения, было много детей.</segment>
+		<segment id="14" parent="20" relname="joint">Число раненых детей - более 30 человек.\n\nПервые ИМЕНА погибших и раненых стали известны уже через несколько часов после трагедии.\n\</segment>
+		<segment id="15" parent="17" relname="joint">nНесмотря на то, что в спасательной операции принимают участие все спасательные службы Москвы и области,</segment>
+		<segment id="16" parent="17" relname="joint">разбор завалов может продлиться до ночи воскресенья.\n\nЗдесь можно узнать все телефоны \"горячих линий\".\n\nУголовное дело по факту трагедии в аквапарке было возбуждено через несколько часов после ЧП.</segment>
+		<segment id="18" parent="17" relname="elaboration">Следствие рассматривает семь версий обрушения купола.\n\nСправка: 'Трансвааль-парк' в Ясеневе.\n\nИсточник: https://www.newsru.com/russia/15Feb2004/photo.html\n</segment>
+		<group id="22" type="multinuc" parent="23" relname="span"/>
+		<group id="12" type="span" parent="22" relname="joint"/>
+		<group id="21" type="multinuc" parent="22" relname="joint"/>
+		<group id="20" type="multinuc" parent="21" relname="joint"/>
+		<group id="19" type="span" parent="20" relname="joint"/>
+		<group id="17" type="multinuc" parent="19" relname="span"/>
+		<group id="23" type="span"/>
+	</body>
+</rst>

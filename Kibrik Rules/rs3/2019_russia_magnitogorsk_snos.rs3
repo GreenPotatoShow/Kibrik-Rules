@@ -1,0 +1,103 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="43" parent="52" relname="preparation">Два подъезда пострадавшего от взрыва дома в Магнитогорске будут снесены.</segment>
+		<segment id="44" parent="46" relname="span">Фонд помощи жертвам трагедии увеличен на треть\n\nДва подъезда жилого дома в Магнитогорске,</segment>
+		<segment id="45" parent="44" relname="background">частично обрушившегося в результате взрыва газа 31 декабря,</segment>
+		<segment id="47" parent="51" relname="joint">будут снесены,</segment>
+		<segment id="48" parent="50" relname="span">передает \"Интерфакс\" со ссылкой на пресс-службу губернатора Челябинской области Бориса Дубровского.\n\n\"Седьмой и восьмой подъезды будут снесены,</segment>
+		<segment id="49" parent="48" relname="elaboration">на объекте со вчерашнего дня ведутся подготовительные работы по демонтажу.</segment>
+		<segment id="54" parent="56" relname="span">Проведенная экспертиза рекомендует на время демонтажа отселить жителей пятого и шестого подъездов.</segment>
+		<segment id="55" parent="54" relname="interpretation-evaluation">Это будет выполнено\",</segment>
+		<segment id="57" parent="56" relname="attribution">- сообщили в пресс-службе.\n\</segment>
+		<segment id="60" parent="61" relname="cause-effect">nПредполагается, что после завершения демонтажа двух подъездов дома будет проведена еще одна проверка всех оставшихся подъездов,</segment>
+		<segment id="61" parent="62" relname="span">по итогам которой будет принято решение о дальнейшей судьбе дома.</segment>
+		<segment id="63" parent="67" relname="comparison">Пока же жители пятого и шестого подъездов могут в течение нескольких дней зайти в квартиры за вещами, которые потребуются им на время работ по демонтажу двух соседних подъездов.\n\nСообщается также,</segment>
+		<segment id="66" parent="67" relname="comparison">что 6 января в остальных подъездах дома, которые не пострадали при взрыве, планируется запустить лифты.\n\n</segment>
+		<segment id="68" parent="70" relname="span">\"Сегодня в доме N 164 по проспекту Карла Маркса будут запущены лифты: с 10:00 мск - с девятого по двенадцатый подъезд; до 15:00 мск - с первого по четвертый подъезд\",</segment>
+		<segment id="69" parent="68" relname="attribution">- приводит ТАСС слова представителя пресс-службы главы региона</segment>
+		<segment id="73" parent="81" relname="joint">.\n\n- Пострадавший от взрыва в Магнитогорске дом вновь подключат к газоснабжению\n\</segment>
+		<segment id="74" parent="78" relname="same-unit">nОбъем выплат пострадавшим</segment>
+		<segment id="75" parent="76" relname="condition">при взрыве</segment>
+		<segment id="76" parent="77" relname="span">будет увеличен более чем на треть\n\nВ пресс-службе губернатора Челябинской области также сообщили,</segment>
+		<segment id="79" parent="80" relname="joint">что по решению главы региона объем выплат пострадавшим при взрыве дома из бюджета Челябинской области будет увеличен с 66 до 93 млн рублей.\n\n</segment>
+		<segment id="82" parent="86" relname="span">\"Решением Бориса Дубровского объем региональных выплат пострадавшим при трагедии в Магнитогорске увеличен до 93 млн рублей\",</segment>
+		<segment id="83" parent="84" relname="attribution">- говорится в сообщении</segment>
+		<segment id="84" parent="85" relname="span">.\n\nРанее Дубровский утвердил размеры материальной помощи, которую окажет региональное правительство семьям погибших и пострадавшим при обрушении.</segment>
+		<segment id="87" parent="91" relname="span">1 млн рублей планировалось выплатить членам семей погибших, 400 тыс. рублей - гражданам,</segment>
+		<segment id="88" parent="90" relname="joint">получившим тяжкий или средний вред здоровью и 200 тыс. рублей</segment>
+		<segment id="89" parent="90" relname="joint">- получившим легкий вред здоровью.</segment>
+		<segment id="92" parent="93" relname="joint">Также материальная помощь в размере до 500 тыс. рублей должна быть оказана утратившим имущество.\n\nПодъезд дома в Магнитогорске обрушился утром 31 декабря.</segment>
+		<segment id="94" parent="98" relname="joint">В первые часы после трагедии были спасены 18 человек,</segment>
+		<segment id="95" parent="97" relname="span">еще шестерых, том числе двоих детей, сотрудники МЧС спасли</segment>
+		<segment id="96" parent="95" relname="condition">в ходе дальнейшего разбора завалов.</segment>
+		<segment id="99" parent="101" relname="joint">Госпитализированы пять человек;</segment>
+		<segment id="100" parent="101" relname="joint">их состояние стабильно.</segment>
+		<segment id="103" parent="105" relname="sequence">Кроме того спасатели обнаружили 11-месячного младенца, который провел под завалами более 35 часов.</segment>
+		<segment id="104" parent="105" relname="sequence">Ребенка эвакуировали в московский центр детской хирургии и травматологии.</segment>
+		<segment id="106" parent="107" relname="attribution">Вечером 3 января МЧС сообщило</segment>
+		<segment id="107" parent="108" relname="span">о завершении поисково-спасательной операции.</segment>
+		<segment id="110" parent="111" relname="attribution">По официальной версии,</segment>
+		<segment id="111" parent="112" relname="span">причиной трагедии послужил взрыв бытового газа.</segment>
+		<segment id="113" parent="115" relname="joint">Жертвами взрыва стали 39 человек (СПИСОК).\n\nВ воскресенье, 6 января, в Магнитогорске пройдут похороны 11 жертв трагедии,</segment>
+		<segment id="114" parent="115" relname="joint">а еще одного погибшего похоронят в понедельник.</segment>
+		<segment id="117" parent="116" relname="attribution">Об этом сообщили ТАСС в пресс-службе мэрии города.\n\nИсточник: https://www.newsru.com/russia/06Jan2019/magnitogorsk_snos.html\n</segment>
+		<group id="59" type="multinuc" parent="125" relname="joint"/>
+		<group id="53" type="span" parent="59" relname="joint"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="46" type="span" parent="52" relname="joint"/>
+		<group id="51" type="multinuc" parent="52" relname="joint"/>
+		<group id="50" type="span" parent="51" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="56" type="span" parent="58" relname="span"/>
+		<group id="124" type="multinuc" parent="125" relname="joint"/>
+		<group id="72" type="multinuc" parent="124" relname="joint"/>
+		<group id="62" type="span" parent="72" relname="joint"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="67" type="multinuc" parent="71" relname="span"/>
+		<group id="70" type="span" parent="67" relname="elaboration"/>
+		<group id="123" type="multinuc" parent="124" relname="joint"/>
+		<group id="81" type="multinuc" parent="123" relname="joint"/>
+		<group id="80" type="multinuc" parent="81" relname="joint"/>
+		<group id="78" type="multinuc" parent="80" relname="joint"/>
+		<group id="77" type="span" parent="78" relname="same-unit"/>
+		<group id="122" type="multinuc" parent="123" relname="joint"/>
+		<group id="86" type="span" parent="122" relname="joint"/>
+		<group id="85" type="span" parent="82" relname="attribution"/>
+		<group id="121" type="multinuc" parent="122" relname="joint"/>
+		<group id="93" type="multinuc" parent="121" relname="joint"/>
+		<group id="91" type="span" parent="93" relname="joint"/>
+		<group id="90" type="multinuc" parent="87" relname="elaboration"/>
+		<group id="120" type="multinuc" parent="121" relname="joint"/>
+		<group id="102" type="multinuc" parent="120" relname="joint"/>
+		<group id="98" type="multinuc" parent="102" relname="sequence"/>
+		<group id="97" type="span" parent="98" relname="joint"/>
+		<group id="101" type="multinuc" parent="102" relname="sequence"/>
+		<group id="119" type="multinuc" parent="120" relname="joint"/>
+		<group id="109" type="multinuc" parent="119" relname="sequence"/>
+		<group id="105" type="multinuc" parent="109" relname="sequence"/>
+		<group id="108" type="span" parent="109" relname="sequence"/>
+		<group id="118" type="span" parent="119" relname="sequence"/>
+		<group id="116" type="span" parent="118" relname="span"/>
+		<group id="112" type="span" parent="116" relname="span"/>
+		<group id="115" type="multinuc" parent="112" relname="elaboration"/>
+		<group id="125" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,98 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="40" parent="42" relname="span">Телеведущего BBC,</segment>
+		<segment id="41" parent="40" relname="elaboration">который в эфире признался в убийстве любовника,</segment>
+		<segment id="43" parent="44" relname="joint">осудили условно\n\n71-летний телеведущий BBC Рэй Гослинг,</segment>
+		<segment id="45" parent="47" relname="joint">публично признавшийся в убийстве своего тяжелобольного любовника,</segment>
+		<segment id="46" parent="47" relname="joint">приговорен к условному заключению.</segment>
+		<segment id="49" parent="55" relname="sequence">Гослинг сделал свое признание в одной из передач в феврале,</segment>
+		<segment id="50" parent="54" relname="sequence">однако затем отказался от своих слов.</segment>
+		<segment id="51" parent="53" relname="sequence">Во вторник магистратский суд британского города Ноттингема признал его виновным в напрасной трате времени полиции.\n\nКак передает сайт BBC,</segment>
+		<segment id="52" parent="53" relname="sequence">ведущий приговорен к условному заключению сроком на 90 суток.</segment>
+		<segment id="56" parent="57" relname="attribution">Между тем AFP сообщает,</segment>
+		<segment id="57" parent="58" relname="span">что неудачный \"розыгрыш\" стоил Гослингу максимального наказания, предусмотренного за подобные проступки,</segment>
+		<segment id="59" parent="60" relname="same-unit">- шесть месяцев.</segment>
+		<segment id="61" parent="60" relname="elaboration">Сам Гослинг признал свою вину в минувшую пятницу.</segment>
+		<segment id="64" parent="65" relname="attribution">\"Мой адвокат сказал мне,</segment>
+		<segment id="65" parent="66" relname="span">что технически я виновен\",</segment>
+		<segment id="67" parent="66" relname="attribution">- сказал он</segment>
+		<segment id="69" parent="74" relname="attribution">.\n\nГослинг также признался,</segment>
+		<segment id="70" parent="74" relname="span">что его даже не было в стране,</segment>
+		<segment id="71" parent="72" relname="condition">когда тот человек, о котором он рассказывал,</segment>
+		<segment id="72" parent="73" relname="span">умер.</segment>
+		<segment id="76" parent="79" relname="attribution">В то же время он заявил,</segment>
+		<segment id="77" parent="79" relname="span">что сделал бы это,</segment>
+		<segment id="78" parent="77" relname="cause-effect">так как между ними был заключен соответствующий пакт.\n\</segment>
+		<segment id="81" parent="83" relname="span">nНапомним, признания Гослинга прозвучали в документальной программе Би-би-си \"Наизнанку\" о так называемых убийствах из милосердия,</segment>
+		<segment id="82" parent="81" relname="background">вышедшей в эфир 15 февраля.</segment>
+		<segment id="84" parent="85" relname="attribution">Как поведал тогда Гослинг,</segment>
+		<segment id="85" parent="86" relname="span">он попросил доктора оставить его со своим любовником, больным СПИДом,</segment>
+		<segment id="87" parent="92" relname="condition">а когда тот ушел,</segment>
+		<segment id="88" parent="92" relname="joint">взял подушку</segment>
+		<segment id="89" parent="91" relname="span">и душил молодого человека,</segment>
+		<segment id="90" parent="89" relname="condition">пока он не умер.</segment>
+		<segment id="96" parent="97" relname="attribution">По словам Гослинга,</segment>
+		<segment id="97" parent="98" relname="span">инцидент произошел примерно 30 лет назад.</segment>
+		<segment id="99" parent="100" relname="joint">При этом ведущий не упомянул ни имени убитого, ни названия больницы.\n\nПризнание пожилого мужчины сразу оказалось в центре внимания британской общественности.</segment>
+		<segment id="101" parent="109" relname="sequence">Сразу после выхода программы в эфир Гослинг был арестован,</segment>
+		<segment id="102" parent="104" relname="sequence">полиция начала расследование.\n\nКак подсчитали позднее,</segment>
+		<segment id="103" parent="104" relname="sequence">судебные разбирательства заняли 1800 часов</segment>
+		<segment id="105" parent="107" relname="span">и обошлись британским стражам порядка более чем в 45 тыс. фунтов (почти 70 тыс. долларов).\n\nТеперь помимо условного срока Гослингу предстоит возместить ущерб,</segment>
+		<segment id="106" parent="105" relname="cause-effect">связанный с оплатой судебных издержек в размере 200 фунтов стерлингов.\n\nИсточник: https://www.newsru.com/world/15Sep2010/gosling.html\n</segment>
+		<group id="48" type="multinuc" parent="115" relname="preparation"/>
+		<group id="44" type="multinuc" parent="48" relname="joint"/>
+		<group id="42" type="span" parent="44" relname="joint"/>
+		<group id="47" type="multinuc" parent="48" relname="joint"/>
+		<group id="115" type="multinuc" parent="116" relname="span"/>
+		<group id="63" type="multinuc" parent="115" relname="joint"/>
+		<group id="55" type="multinuc" parent="63" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="sequence"/>
+		<group id="53" type="multinuc" parent="54" relname="sequence"/>
+		<group id="62" type="span" parent="63" relname="joint"/>
+		<group id="60" type="multinuc" parent="62" relname="span"/>
+		<group id="58" type="span" parent="60" relname="same-unit"/>
+		<group id="114" type="multinuc" parent="115" relname="joint"/>
+		<group id="68" type="span" parent="114" relname="sequence"/>
+		<group id="66" type="span" parent="68" relname="span"/>
+		<group id="113" type="span" parent="114" relname="sequence"/>
+		<group id="75" type="span" parent="112" relname="preparation"/>
+		<group id="74" type="span" parent="75" relname="span"/>
+		<group id="73" type="span" parent="70" relname="background"/>
+		<group id="112" type="multinuc" parent="113" relname="span"/>
+		<group id="80" type="span" parent="112" relname="sequence"/>
+		<group id="79" type="span" parent="80" relname="span"/>
+		<group id="111" type="multinuc" parent="112" relname="sequence"/>
+		<group id="95" type="multinuc" parent="111" relname="sequence"/>
+		<group id="83" type="span" parent="95" relname="sequence"/>
+		<group id="94" type="multinuc" parent="95" relname="sequence"/>
+		<group id="86" type="span" parent="94" relname="contrast"/>
+		<group id="93" type="span" parent="94" relname="contrast"/>
+		<group id="92" type="multinuc" parent="93" relname="span"/>
+		<group id="91" type="span" parent="92" relname="joint"/>
+		<group id="110" type="multinuc" parent="111" relname="sequence"/>
+		<group id="100" type="multinuc" parent="110" relname="sequence"/>
+		<group id="98" type="span" parent="100" relname="joint"/>
+		<group id="109" type="multinuc" parent="110" relname="sequence"/>
+		<group id="108" type="multinuc" parent="109" relname="sequence"/>
+		<group id="104" type="multinuc" parent="108" relname="joint"/>
+		<group id="107" type="span" parent="108" relname="joint"/>
+		<group id="116" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="comparison">Почти 40% новостей в рунете - дословные перепечатки с популярных ресурсов\n\nВ первом полугодии 2008 года в рунете было опубликовано 13,1 млн новостей,</segment>
+		<segment id="20" parent="21" relname="comparison">тогда как за весь 2007 год их появилось 18,5 млн.</segment>
+		<segment id="22" parent="24" relname="comparison">Количество новостей на конец 2008 года составит 28,9 млн,</segment>
+		<segment id="23" parent="24" relname="comparison">что превзойдет прошлогодний показатель более чем в полтора раза.</segment>
+		<segment id="26" parent="29" relname="interpretation-evaluation">Примечательно, что</segment>
+		<segment id="29" parent="30" relname="span">почти 40% опубликованных текстов - дословные перепечатки с других ресурсов, сообщается в исследовании Webscan Technologies.\n\</segment>
+		<segment id="32" parent="36" relname="comparison">nПримечательно, что темпы увеличения объемов новостного контента в рунете почти вдвое опережают увеличение числа пользователей Сети среди россиян.</segment>
+		<segment id="33" parent="35" relname="comparison">На конец 2007 года на каждого пользователя приходилось 0,6 новости,</segment>
+		<segment id="34" parent="35" relname="comparison">а на конец 2008 года этот показатель составит примерно 0,7 новости на одного пользователя.</segment>
+		<segment id="38" parent="39" relname="condition">Однако если предполагаемый прирост числа пользователей интернета из числа россиян составит около 30%,</segment>
+		<segment id="39" parent="40" relname="span">то увеличение количества новостей, по прогнозам Webscan Technologies, достигнет 56%.\n\</segment>
+		<segment id="41" parent="42" relname="span">nПри этом говорить о значительном росте новостного контента с точки зрения оригинального содержания не приходится.</segment>
+		<segment id="43" parent="50" relname="attribution">По данным, полученным Webscan Technologies в ходе исследования,</segment>
+		<segment id="44" parent="50" relname="comparison">не менее 38% новостей являются дословными перепечатками с других ресурсов</segment>
+		<segment id="45" parent="49" relname="span">.\n\nСо 100 самых цитируемых ресурсов рунета за первое полугодие 2008 года было перепечатано порядка 233 тысяч новостей,</segment>
+		<segment id="46" parent="48" relname="comparison">которые были вторично размещены с различной степенью повторяемости примерно на 18,5 тысячах площадок.\n\nТаким образом, увеличение объема публикуемых в русскоязычном интернете новостей происходит в первую очередь за счет так называемого \"информационного шума\",</segment>
+		<segment id="47" parent="48" relname="comparison">тогда как количество новостных поводов увеличивается незначительно.\n\nИсточник: https://www.newsru.com/hitech/01Aug2008/news.html\n</segment>
+		<group id="37" type="multinuc" parent="53" relname="contrast"/>
+		<group id="31" type="multinuc" parent="37" relname="comparison"/>
+		<group id="25" type="span" parent="31" relname="joint"/>
+		<group id="21" type="multinuc" parent="25" relname="span"/>
+		<group id="24" type="multinuc" parent="21" relname="interpretation-evaluation"/>
+		<group id="30" type="span" parent="31" relname="joint"/>
+		<group id="36" type="multinuc" parent="37" relname="comparison"/>
+		<group id="35" type="multinuc" parent="36" relname="comparison"/>
+		<group id="52" type="span" parent="53" relname="contrast"/>
+		<group id="42" type="span" parent="51" relname="cause-effect"/>
+		<group id="40" type="span" parent="41" relname="condition"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="50" type="multinuc" parent="51" relname="span"/>
+		<group id="49" type="span" parent="50" relname="comparison"/>
+		<group id="48" type="multinuc" parent="45" relname="elaboration"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

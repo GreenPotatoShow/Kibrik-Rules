@@ -1,0 +1,130 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="54" parent="57" relname="attribution">Веллитон считает</segment>
+		<segment id="55" parent="57" relname="span">свою дисквалификацию политическим решением\n\nНападающий московского футбольного клуба \"Спартак\" Веллитон,</segment>
+		<segment id="56" parent="55" relname="elaboration">дисквалифицированный на шесть матчей за нанесение тяжелой травмы голкиперу московского ЦСКА и национальной сборной России Игорю Акинфееву,</segment>
+		<segment id="59" parent="61" relname="span">был шокирован решением КДК РФС.\n\n\"В среду после утренней тренировки мне позвонили из клуба</segment>
+		<segment id="60" parent="59" relname="background">- я заранее об этом просил,</segment>
+		<segment id="63" parent="62" relname="attribution">- рассказал бразилец в интервью \"Советскому спорту\".</segment>
+		<segment id="65" parent="69" relname="span">- Первая реакция,</segment>
+		<segment id="66" parent="67" relname="condition">когда услышал о шести матчах,</segment>
+		<segment id="67" parent="68" relname="span">– шок и разочарование.</segment>
+		<segment id="70" parent="72" relname="span">У меня и сейчас не хватает слов,</segment>
+		<segment id="71" parent="70" relname="purpose">чтобы описать, что я чувствую\".\n\</segment>
+		<segment id="74" parent="76" relname="joint">nНапомним, что основной голкипер сборной России получил тяжелую травму колена в матче 22-го тура со \"Спартаком\" в результате столкновения с бразильским форвардом</segment>
+		<segment id="75" parent="76" relname="joint">и выбыл из строя на полгода в преддверии важнейших отборочных игр Евро-2012.</segment>
+		<segment id="77" parent="81" relname="joint">Эпизод, приведший к травме Акинфеева,</segment>
+		<segment id="78" parent="80" relname="span">и реакция на него официальных лиц обоих клубов</segment>
+		<segment id="79" parent="78" relname="interpretation-evaluation">вызвали крупный скандал и большой общественный резонанс.\n\n\"Наказания вообще не должно было быть,</segment>
+		<segment id="82" parent="81" relname="attribution">- полагает Веллитон.</segment>
+		<segment id="86" parent="87" relname="attribution">- Сами члены КДК признали</segment>
+		<segment id="87" parent="88" relname="span">наше столкновение игровым моментом.</segment>
+		<segment id="89" parent="90" relname="joint">Я уж не говорю про массу других экспертов и специалистов.</segment>
+		<segment id="91" parent="95" relname="span">Могу лишь высказать одно мнение после всего случившегося</segment>
+		<segment id="92" parent="94" relname="span">- это политическое решение,</segment>
+		<segment id="93" parent="92" relname="elaboration">которое не имеет ничего общего с футболом\".\n\</segment>
+		<segment id="96" parent="101" relname="attribution">nСразу после матча генеральный директор ЦСКА Роман Бабаев заявил журналистам,</segment>
+		<segment id="97" parent="101" relname="span">что Веллитон - \"настоящий подонок\",</segment>
+		<segment id="98" parent="100" relname="joint">который не первый раз атакует исподтишка,</segment>
+		<segment id="99" parent="100" relname="joint">и посоветовал ему осторожнее ходить по улицам.</segment>
+		<segment id="105" parent="111" relname="restatement">В ответ главный тренер \"Спартака\" Валерий Карпин подал в прокуратуру Москвы заявление на Бабаева по факту призыва к насилию</segment>
+		<segment id="106" parent="108" relname="joint">.\n\n\"Если бы я знал, что Акинфеев упадет</segment>
+		<segment id="107" parent="108" relname="joint">и получит такую нелепую травму,</segment>
+		<segment id="109" parent="110" relname="span">я постарался бы уйти от столкновения.</segment>
+		<segment id="112" parent="114" relname="contrast">Но я, к сожалению, не предсказатель.</segment>
+		<segment id="113" parent="114" relname="contrast">А футбол - не шахматы, а контактный вид спорта,</segment>
+		<segment id="116" parent="115" relname="attribution">- заявил форвард в интервью газете.</segment>
+		<segment id="118" parent="131" relname="cause-effect">- Мы сами выбираем свой путь в жизни.</segment>
+		<segment id="119" parent="121" relname="joint">Поэтому я всегда бился, бьюсь</segment>
+		<segment id="120" parent="121" relname="joint">и буду биться до конца.</segment>
+		<segment id="122" parent="124" relname="joint">Считаю это обязательным качеством для спортсмена</segment>
+		<segment id="123" parent="124" relname="joint">и не могу иначе.</segment>
+		<segment id="125" parent="129" relname="joint">В футболе нельзя быть размазней,</segment>
+		<segment id="126" parent="128" relname="joint">избегать стыков</segment>
+		<segment id="127" parent="128" relname="joint">и убирать ноги в борьбе\".\n\</segment>
+		<segment id="133" parent="143" relname="joint">nОтметим, что в 2009 году после аналогичного столкновения с Веллитоном получил тяжелую травму (осколочный перелом скулы со смещением) вратарь столичного \"Динамо\" Владимир Габулов.</segment>
+		<segment id="134" parent="140" relname="span">Бразилец,</segment>
+		<segment id="135" parent="139" relname="joint">ставший в 2010 году с 19 голами лучшим бомбардиром чемпионата России,</segment>
+		<segment id="136" parent="138" relname="joint">тогда дисквалификации избежал.\n\nФК \"Спартак-Москва\" подал апелляцию на решение КДК РФС,</segment>
+		<segment id="137" parent="138" relname="joint">сочтя его \"вопиюще несправедливым\" и носящим незаконный характер.\n\n\"Создан прецедент, которого не знала история советского и российского футбола,</segment>
+		<segment id="141" parent="140" relname="attribution">- говорится в заявлении \"красно-белых\".</segment>
+		<segment id="144" parent="152" relname="span">- Опаснейший и вопиющий.</segment>
+		<segment id="145" parent="146" relname="cause-effect">На основании заявления трех клубов была притянута за уши, по нашему мнению, статья 94, пункт 4 дисциплинарного регламента РФС,</segment>
+		<segment id="146" parent="147" relname="span">в результате чего незаслуженно пострадал \"Спартак\" и Веллитон.</segment>
+		<segment id="148" parent="149" relname="attribution">Иными словами, КДК РФС ужесточил решение, вынесенное арбитром,</segment>
+		<segment id="149" parent="150" relname="span">что явно противоречит рекомендациям ФИФА и УЕФА\".\n\nИсточник: https://www.newsru.com/sport/09Sep2011/vellit.html\n</segment>
+		<group id="64" type="span" parent="157" relname="preparation"/>
+		<group id="62" type="multinuc" parent="64" relname="span"/>
+		<group id="58" type="span" parent="62" relname="sequence"/>
+		<group id="57" type="span" parent="58" relname="span"/>
+		<group id="61" type="span" parent="62" relname="sequence"/>
+		<group id="157" type="multinuc" parent="158" relname="span"/>
+		<group id="85" type="span" parent="157" relname="joint"/>
+		<group id="73" type="span" parent="84" relname="solutionhood"/>
+		<group id="69" type="span" parent="73" relname="span"/>
+		<group id="68" type="span" parent="65" relname="condition"/>
+		<group id="72" type="span" parent="69" relname="elaboration"/>
+		<group id="84" type="multinuc" parent="85" relname="span"/>
+		<group id="76" type="multinuc" parent="84" relname="joint"/>
+		<group id="83" type="span" parent="84" relname="joint"/>
+		<group id="81" type="multinuc" parent="83" relname="span"/>
+		<group id="80" type="span" parent="81" relname="joint"/>
+		<group id="156" type="multinuc" parent="157" relname="joint"/>
+		<group id="104" type="multinuc" parent="156" relname="joint"/>
+		<group id="90" type="multinuc" parent="104" relname="joint"/>
+		<group id="88" type="span" parent="90" relname="joint"/>
+		<group id="103" type="multinuc" parent="104" relname="joint"/>
+		<group id="95" type="span" parent="103" relname="joint"/>
+		<group id="94" type="span" parent="91" relname="cause-effect"/>
+		<group id="102" type="span" parent="103" relname="joint"/>
+		<group id="101" type="span" parent="102" relname="span"/>
+		<group id="100" type="multinuc" parent="97" relname="elaboration"/>
+		<group id="155" type="multinuc" parent="156" relname="joint"/>
+		<group id="117" type="span" parent="155" relname="joint"/>
+		<group id="115" type="multinuc" parent="117" relname="span"/>
+		<group id="111" type="multinuc" parent="115" relname="contrast"/>
+		<group id="110" type="span" parent="111" relname="restatement"/>
+		<group id="108" type="multinuc" parent="109" relname="condition"/>
+		<group id="114" type="multinuc" parent="115" relname="contrast"/>
+		<group id="154" type="multinuc" parent="155" relname="joint"/>
+		<group id="132" type="span" parent="154" relname="joint"/>
+		<group id="131" type="span" parent="132" relname="span"/>
+		<group id="121" type="multinuc" parent="131" relname="span"/>
+		<group id="130" type="multinuc" parent="121" relname="interpretation-evaluation"/>
+		<group id="124" type="multinuc" parent="130" relname="joint"/>
+		<group id="129" type="multinuc" parent="130" relname="joint"/>
+		<group id="128" type="multinuc" parent="129" relname="joint"/>
+		<group id="153" type="multinuc" parent="154" relname="joint"/>
+		<group id="143" type="multinuc" parent="153" relname="joint"/>
+		<group id="142" type="span" parent="143" relname="joint"/>
+		<group id="140" type="span" parent="142" relname="span"/>
+		<group id="139" type="multinuc" parent="134" relname="elaboration"/>
+		<group id="138" type="multinuc" parent="139" relname="joint"/>
+		<group id="152" type="span" parent="153" relname="joint"/>
+		<group id="151" type="multinuc" parent="144" relname="elaboration"/>
+		<group id="147" type="span" parent="151" relname="joint"/>
+		<group id="150" type="span" parent="151" relname="joint"/>
+		<group id="158" type="span"/>
+	</body>
+</rst>

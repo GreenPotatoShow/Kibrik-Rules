@@ -1,0 +1,79 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="37" relname="joint">\"Газпром\" доволен действующим газовым контрактом с Украиной\n\n\"Газпром\" устраивает действующий контракт на поставки российского газа Украине,</segment>
+		<segment id="34" parent="36" relname="span">сообщил официальный представитель российского газового холдинга Сергей Куприянов.\n\nУкраина с весны прошлого года добивается пересмотра формулы цены на газ,</segment>
+		<segment id="35" parent="34" relname="background">считая, что та формула, которая заложена в газовых соглашениях РФ и Украины от 2009 года,</segment>
+		<segment id="40" parent="37" relname="interpretation-evaluation">является несправедливой.\n\</segment>
+		<segment id="42" parent="43" relname="attribution">nНа прошлой неделе премьер-министр Украины говорил,</segment>
+		<segment id="43" parent="44" relname="span">что Украина и Россия начали переговоры по пересмотру формулы.</segment>
+		<segment id="45" parent="48" relname="attribution">Вице-премьер, министр социальной политики Украины Сергей Тигипко заявлял,</segment>
+		<segment id="46" parent="48" relname="comparison">что Украина добивается пересмотра формулы цены на российский газ для того, чтобы выйти на среднеевропейский уровень цен,</segment>
+		<segment id="47" parent="48" relname="comparison">напоминает РИА \"Новости\".\n\n\"Нами создана эффективно работающая долгосрочная контрактная база при поставках газа на Украину.</segment>
+		<segment id="50" parent="52" relname="joint">Контракт рыночный</segment>
+		<segment id="51" parent="52" relname="joint">и отвечает всем современным международным требованиям ведения газового бизнеса\",</segment>
+		<segment id="53" parent="57" relname="span">- заявил в ответ Куприянов.\n\nДоговоренности о создании группы,</segment>
+		<segment id="54" parent="55" relname="purpose">призванной скорректировать условия ценообразования на газ, заложенные в соглашении между \"Нафтогазом\" и \"Газпромом\" в 2009 году,</segment>
+		<segment id="55" parent="56" relname="span">были достигнуты во время переговоров Януковича и Медведева в Киеве 26 апреля.\n\</segment>
+		<segment id="59" parent="64" relname="condition">nПо представленным на переговорах расчетам кабинета министров Украины,</segment>
+		<segment id="60" parent="64" relname="span">в четвертом квартале 2011 года цена за тысячу кубометров газа для конечного потребителя может достигнуть 510 долларов</segment>
+		<segment id="61" parent="63" relname="joint">с учетом, с одной стороны, 100-долларовой скидки,</segment>
+		<segment id="62" parent="63" relname="joint">а с другой - НДС и транспортировки.\n\</segment>
+		<segment id="66" parent="67" relname="attribution">nПо данным СМИ Украины,</segment>
+		<segment id="67" parent="68" relname="span">позиция украинской стороны в ходе работы переговорной группы будет заключаться в следующем:</segment>
+		<segment id="69" parent="68" relname="elaboration">\"Справедливая цена на газ для Украины - это немецкая цена минус транзит и минус 100-долларовая скидка за пребывание на территории страны Черноморского флота РФ\".</segment>
+		<segment id="71" parent="73" relname="span">Речь также может идти о снижении коэффициента за объем потребляемого газа, о сезонных скидках, а также об изменении тарифа за хранение.\n\</segment>
+		<segment id="72" parent="71" relname="elaboration">nВполне возможно, что другим вариантом решения вопроса может рассматриваться замена базового значения формулы расчета цены.</segment>
+		<segment id="74" parent="88" relname="span">С января 2009 года по сегодняшний день базовая цена в формуле определена в 450 долларов.</segment>
+		<segment id="75" parent="78" relname="attribution">Украинская сторона считает,</segment>
+		<segment id="78" parent="79" relname="span">что объективная базовая цена в формуле должна составлять 179 долларов за тысячу кубометров.\n\nЯнукович и Медведев 21 апреля 2010 года в Харькове подписали соглашение о продлении срока пребывания ЧФ РФ в Крыму после 2017 года на 25 лет (до 2042 года) с возможным продлением еще на пять лет.</segment>
+		<segment id="80" parent="82" relname="span">В обмен на это Украина получила скидку</segment>
+		<segment id="81" parent="80" relname="condition">при закупках российского газа на 100 долларов за одну тысячу кубометров.</segment>
+		<segment id="83" parent="85" relname="span">Украинская оппозиция резко критикует Харьковские соглашения,</segment>
+		<segment id="84" parent="83" relname="elaboration">усматривая в них ущемление национального суверенитета Украины.\n\nИсточник: https://www.newsru.com/finance/28Apr2011/gazukr.html\n</segment>
+		<group id="41" type="span" parent="95" relname="joint"/>
+		<group id="37" type="multinuc" parent="41" relname="span"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="44" type="span" parent="93" relname="preparation"/>
+		<group id="93" type="multinuc" parent="94" relname="span"/>
+		<group id="49" type="span" parent="93" relname="joint"/>
+		<group id="48" type="multinuc" parent="49" relname="span"/>
+		<group id="92" type="multinuc" parent="93" relname="joint"/>
+		<group id="58" type="multinuc" parent="92" relname="joint"/>
+		<group id="52" type="multinuc" parent="58" relname="joint"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="56" type="span" parent="53" relname="purpose"/>
+		<group id="91" type="multinuc" parent="92" relname="joint"/>
+		<group id="65" type="span" parent="91" relname="comparison"/>
+		<group id="64" type="span" parent="65" relname="span"/>
+		<group id="63" type="multinuc" parent="60" relname="condition"/>
+		<group id="90" type="multinuc" parent="91" relname="comparison"/>
+		<group id="70" type="span" parent="90" relname="joint"/>
+		<group id="68" type="span" parent="70" relname="span"/>
+		<group id="89" type="multinuc" parent="90" relname="joint"/>
+		<group id="73" type="span" parent="89" relname="joint"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="87" type="multinuc" parent="74" relname="elaboration"/>
+		<group id="79" type="span" parent="87" relname="comparison"/>
+		<group id="86" type="multinuc" parent="87" relname="comparison"/>
+		<group id="82" type="span" parent="86" relname="comparison"/>
+		<group id="85" type="span" parent="86" relname="comparison"/>
+		<group id="95" type="multinuc"/>
+	</body>
+</rst>

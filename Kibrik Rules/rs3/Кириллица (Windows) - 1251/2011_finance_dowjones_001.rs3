@@ -1,0 +1,59 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="23" relname="attribution">Индексу Доу-Джонса исполнилось 115 лет\n\nДнем индекса Доу-Джонса объявили</segment>
+		<segment id="23" parent="24" relname="span">четверг власти крупнейшего мегаполиса США.</segment>
+		<segment id="25" parent="27" relname="span">Именно в Нью-Йорке он появился на свет 115 лет назад.\n\nИндекс Доу-Джонса был создан редактором газеты Wall Street Journal Чарльзом Доу и его коллегой, статистиком Эдвардом Джонсом,</segment>
+		<segment id="26" parent="25" relname="background">26 мая 1896 года</segment>
+		<segment id="28" parent="30" relname="joint">на основе акций 12 ведущих американских корпораций</segment>
+		<segment id="29" parent="30" relname="joint">и сегодня является наиболее известным рыночным барометром в мире.\n\nПоследние 83 года он высчитывается на основе курсов акций 30 крупнейших американских компаний, представленных на Уолл-стрит,</segment>
+		<segment id="33" parent="32" relname="attribution">сообщает ИТАР-ТАСС.\n\nЛишь одна из компаний-учредителей индекса - General Electric - продолжает и по сей день входить в легендарную \"тридцатку\".</segment>
+		<segment id="35" parent="39" relname="span">Многие из составляющих индекс компаний не имеют прямого отношения к традиционным отраслям тяжелой промышленности,</segment>
+		<segment id="36" parent="38" relname="span">как это было свыше 100 лет назад,</segment>
+		<segment id="37" parent="36" relname="elaboration">когда в индекс входили девять железнодорожных и две индустриальные компании.\n\nСейчас промышленные компании можно пересчитать буквально по пальцам.</segment>
+		<segment id="40" parent="42" relname="span">Преобладают же в списке банки и финансовые конгломераты,</segment>
+		<segment id="41" parent="40" relname="elaboration">компании из сферы обслуживания, пищевые и фармацевтические фирмы, компьютерные и телекоммуникационные компании.\n\</segment>
+		<segment id="44" parent="47" relname="attribution">nПо словам исполнительного директора компании Dow Jones Indexes Джона Престбо,</segment>
+		<segment id="45" parent="47" relname="span">говорить сегодня о фондовом рынке,</segment>
+		<segment id="46" parent="45" relname="condition">не упоминая индекс Доу-Джонса,</segment>
+		<segment id="49" parent="53" relname="same-unit">- то же самое,</segment>
+		<segment id="50" parent="52" relname="span">что говорить о погоде,</segment>
+		<segment id="51" parent="50" relname="condition">не упоминая температуры.</segment>
+		<segment id="54" parent="56" relname="span">С момента своего появления индекс стал \"неотъемлемой частью жизни в Америке,</segment>
+		<segment id="55" parent="54" relname="elaboration">превратился в золотой стандарт, которым измеряют экономическое здоровье и процветание\",</segment>
+		<segment id="59" parent="58" relname="attribution">сказал Престбо.\n\nИсточник: https://www.newsru.com/finance/26May2011/dowjones.html\n</segment>
+		<group id="34" type="span" parent="62" relname="joint"/>
+		<group id="32" type="span" parent="34" relname="span"/>
+		<group id="24" type="span" parent="31" relname="preparation"/>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="27" type="span" parent="31" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="joint"/>
+		<group id="61" type="span" parent="62" relname="joint"/>
+		<group id="43" type="multinuc" parent="61" relname="span"/>
+		<group id="39" type="span" parent="43" relname="joint"/>
+		<group id="38" type="span" parent="35" relname="elaboration"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="60" type="span" parent="43" relname="elaboration"/>
+		<group id="58" type="multinuc" parent="60" relname="span"/>
+		<group id="48" type="span" parent="58" relname="comparison"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="57" type="span" parent="58" relname="comparison"/>
+		<group id="53" type="multinuc" parent="57" relname="span"/>
+		<group id="52" type="span" parent="53" relname="same-unit"/>
+		<group id="56" type="span" parent="53" relname="elaboration"/>
+		<group id="62" type="multinuc"/>
+	</body>
+</rst>

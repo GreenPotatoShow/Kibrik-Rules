@@ -1,0 +1,84 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="background" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="34" parent="97" relname="preparation">Гафта выписывают из больницы после перенесенной экстренной операции\n\</segment>
+		<segment id="35" parent="39" relname="span">nИзвестный актер Валентин Гафт,</segment>
+		<segment id="36" parent="38" relname="joint">перенесший экстренную операцию,</segment>
+		<segment id="37" parent="38" relname="joint">в пятницу будет выписан из Боткинской больницы,</segment>
+		<segment id="40" parent="39" relname="attribution">сообщил руководитель столичного департамента здравоохранения Георгий Голухов.\n\n\"Гафт готовится к выписке из Боткинской больницы.</segment>
+		<segment id="42" parent="48" relname="contrast">Актер поступил в медучреждение в тяжелейшем состоянии,</segment>
+		<segment id="43" parent="47" relname="span">но благодаря профессионализму врачей,</segment>
+		<segment id="44" parent="46" relname="joint">которые успешно провели сложнейшую эндоскопическую операцию,</segment>
+		<segment id="45" parent="46" relname="joint">показал хорошую динамику выздоровления\",</segment>
+		<segment id="50" parent="51" relname="attribution">- цитирует его \"Интерфакс\".\n\nВ свою очередь главный врач больницы Алексей Шабунин отметил,</segment>
+		<segment id="51" parent="52" relname="span">что добиться таких результатов позволило применение высокотехнологичных методов лечения.\n\n</segment>
+		<segment id="53" parent="55" relname="joint">\"Больница была оснащена эндоскопической, хирургической, диагностической техникой по программе модернизации столичного здравоохранения.</segment>
+		<segment id="54" parent="55" relname="joint">Это позволило врачам добиться быстрого выздоровления известного актера\",</segment>
+		<segment id="56" parent="57" relname="attribution">- отметил он</segment>
+		<segment id="57" parent="58" relname="span">.\n\</segment>
+		<segment id="60" parent="62" relname="joint">nНапомним, Валентин Гафт был госпитализирован в реанимацию Боткинской больницы 14 марта в тяжелом состоянии.</segment>
+		<segment id="61" parent="62" relname="joint">Врачи больницы успешно провели актеру экстренную эндоскопическую операцию.</segment>
+		<segment id="63" parent="65" relname="span">18 марта Гафта перевели из реанимации в отделение</segment>
+		<segment id="64" parent="63" relname="purpose">для реабилитации.\n\nВ октябре 2011 года Гафт уже попадал в больницу,</segment>
+		<segment id="66" parent="67" relname="span">тогда он провел четверо суток в отделении кардиологии НИИ скорой помощи им. Склифосовского в Москве.</segment>
+		<segment id="68" parent="72" relname="sequence">Тогда он ушел из больницы,</segment>
+		<segment id="69" parent="71" relname="joint">не дождавшись документов о выписке,</segment>
+		<segment id="70" parent="71" relname="joint">и тут же вернулся на сцену.\n\nВалентин Иосифович Гафт - Народный артист РСФСР.</segment>
+		<segment id="73" parent="72" relname="background">Он родился 2 сентября 1935 года в Москве.</segment>
+		<segment id="75" parent="79" relname="span">В 1957 году Валентин Гафт окончил Школу-студию МХАТ,</segment>
+		<segment id="76" parent="78" relname="span">по окончании дебютировал на сцене Театра им. Моссовета,</segment>
+		<segment id="77" parent="76" relname="elaboration">через некоторое время - в Театре на Малой Бронной.</segment>
+		<segment id="80" parent="81" relname="sequence">Дебютировал в кино в 1956 году в фильме \"Убийство на улице Данте\".</segment>
+		<segment id="82" parent="84" relname="joint">В \"Современнике\" служит с 1969 года.\n\nГафт снялся во многих советских фильмах,</segment>
+		<segment id="83" parent="84" relname="joint">ставших классикой: это \"Чародеи\", \"Здравствуйте, я ваша тетя\", \"Семнадцать мгновений весны\", \"Забытая мелодия для флейты\", \"Жизнь Клима Самгина\" и др.\n\n22 апреля 2010 года состоялась всероссийская премьера фильма Никиты Михалкова \"Утомленные солнцем.</segment>
+		<segment id="85" parent="84" relname="elaboration">Предстояние\", в котором Валентин Гафт сыграл яркую эпизодическую роль.</segment>
+		<segment id="87" parent="89" relname="span">На следующий день после премьеры актер был госпитализирован с сильными болями в желудке</segment>
+		<segment id="88" parent="87" relname="elaboration">- выяснилось, что язва дала осложнения.\n\nИсточник: https://www.newsru.com/cinema/27Mar2014/gaft.html\n</segment>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="49" type="multinuc" parent="97" relname="joint"/>
+		<group id="41" type="span" parent="49" relname="joint"/>
+		<group id="39" type="span" parent="41" relname="span"/>
+		<group id="38" type="multinuc" parent="35" relname="elaboration"/>
+		<group id="48" type="multinuc" parent="49" relname="joint"/>
+		<group id="47" type="span" parent="48" relname="contrast"/>
+		<group id="46" type="multinuc" parent="43" relname="elaboration"/>
+		<group id="96" type="span" parent="97" relname="joint"/>
+		<group id="52" type="span" parent="96" relname="span"/>
+		<group id="95" type="multinuc" parent="52" relname="purpose"/>
+		<group id="59" type="span" parent="95" relname="joint"/>
+		<group id="55" type="multinuc" parent="59" relname="span"/>
+		<group id="58" type="span" parent="55" relname="attribution"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="62" type="multinuc" parent="94" relname="sequence"/>
+		<group id="93" type="multinuc" parent="94" relname="sequence"/>
+		<group id="67" type="span" parent="93" relname="sequence"/>
+		<group id="65" type="span" parent="66" relname="cause-effect"/>
+		<group id="92" type="multinuc" parent="93" relname="sequence"/>
+		<group id="74" type="span" parent="92" relname="sequence"/>
+		<group id="72" type="multinuc" parent="74" relname="span"/>
+		<group id="71" type="multinuc" parent="72" relname="sequence"/>
+		<group id="91" type="multinuc" parent="92" relname="sequence"/>
+		<group id="81" type="multinuc" parent="91" relname="joint"/>
+		<group id="79" type="span" parent="81" relname="sequence"/>
+		<group id="78" type="span" parent="75" relname="elaboration"/>
+		<group id="90" type="span" parent="91" relname="joint"/>
+		<group id="86" type="span" parent="90" relname="span"/>
+		<group id="84" type="multinuc" parent="86" relname="span"/>
+		<group id="89" type="span" parent="86" relname="elaboration"/>
+		<group id="98" type="span"/>
+	</body>
+</rst>

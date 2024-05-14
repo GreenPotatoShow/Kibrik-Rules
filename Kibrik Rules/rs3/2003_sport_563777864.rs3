@@ -1,0 +1,51 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="19" parent="21" relname="span">'Феррари' представит новый болид в Имоле\n\nКонюшня 'Феррари' намерена использовать новый болид на очередном этапе чемпионата мира по автогонкам в классе 'Формула-1' в Сан-Марино,</segment>
+		<segment id="20" parent="19" relname="elaboration">который намечен на 20 апреля.</segment>
+		<segment id="22" parent="24" relname="span">Об этом недвусмысленно заявил босс 'Скудерии' Жан Тодт в понедельник в интервью итальянскому спортивному изданию Gazzetta dello Sport.\n\n'Если не случится ничего непредвиденного,</segment>
+		<segment id="23" parent="22" relname="background">вы увидите новый F2003-GA уже на автодроме в Имоле',</segment>
+		<segment id="26" parent="25" relname="attribution">- пообещал Тодт.</segment>
+		<segment id="28" parent="30" relname="span">Итальянские автопроизводители возлагают большие надежды на этот дебют,</segment>
+		<segment id="29" parent="28" relname="attribution">сообщает Reuters.</segment>
+		<segment id="32" parent="35" relname="attribution">По их мнению,</segment>
+		<segment id="33" parent="35" relname="span">новый болид должен помочь 'Феррари' справиться со спадом,</segment>
+		<segment id="34" parent="33" relname="elaboration">который переживает команда на старте сезона.\n\nНакануне череда разочарований пополнилась сходами с трассы обоих пилотов 'Феррари' во время гран-при Бразилии.</segment>
+		<segment id="37" parent="39" relname="sequence">Напомним, что Михаэль Шумахер врезался в отбойник на 26-м круге,</segment>
+		<segment id="38" parent="39" relname="sequence">а Рубенс Барикелло 20-ю кругами позже был вынужден прервать свое участие в домашнем этапе из-за проблем с двигателем.\n\n'Во вторник и среду в ходе тестов в Мюджелло мы проверим 'состояние здоровья' нового F2003-GA,</segment>
+		<segment id="40" parent="39" relname="attribution">- заявил пятикратный чемпион мира после гран-при Бразилии.</segment>
+		<segment id="43" parent="45" relname="joint">- Впереди еще 13 гонок,</segment>
+		<segment id="44" parent="45" relname="joint">и нам не стоит делать трагедии из неудачного старта.</segment>
+		<segment id="46" parent="50" relname="span">Ведь все только начинается.</segment>
+		<segment id="47" parent="49" relname="span">Пока можно констатировать, что наши конкуренты сделали большой шаг вперед по сравнению с прошлым сезоном.</segment>
+		<segment id="48" parent="47" relname="elaboration">Скоро мы сделаем свой'.\n\nИсточник: https://www.newsru.com/sport/07Apr2003/563777864.html\n</segment>
+		<group id="31" type="span" parent="53" relname="joint"/>
+		<group id="27" type="span" parent="31" relname="span"/>
+		<group id="25" type="multinuc" parent="27" relname="span"/>
+		<group id="21" type="span" parent="25" relname="joint"/>
+		<group id="24" type="span" parent="25" relname="joint"/>
+		<group id="30" type="span" parent="27" relname="attribution"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="42" type="multinuc" parent="52" relname="joint"/>
+		<group id="36" type="span" parent="42" relname="joint"/>
+		<group id="35" type="span" parent="36" relname="span"/>
+		<group id="41" type="span" parent="42" relname="joint"/>
+		<group id="39" type="multinuc" parent="41" relname="span"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="45" type="multinuc" parent="51" relname="span"/>
+		<group id="50" type="span" parent="45" relname="cause-effect"/>
+		<group id="49" type="span" parent="46" relname="elaboration"/>
+		<group id="53" type="multinuc"/>
+	</body>
+</rst>

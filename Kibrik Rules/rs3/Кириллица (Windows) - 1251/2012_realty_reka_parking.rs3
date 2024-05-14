@@ -1,0 +1,86 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="contrast" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="35" parent="37" relname="sequence">На Москве-реке появится 40 плавучих паркингов с тремя ярусами\n\nСтоличные власти вернулись к идее создания плавучих парковок.\nВ схему размещения водных объектов в городе, подготовленную НИиПИ генплана Москвы,</segment>
+		<segment id="36" parent="37" relname="sequence">вошли участки примерно под 40 трехъярусных паркингов на Москве-реке.\n\nКак пишут \"Известия\",</segment>
+		<segment id="38" parent="39" relname="attribution">со ссылкой на замдиректора института Олега Баевского,</segment>
+		<segment id="39" parent="40" relname="span">каждый плавучий паркинг будет рассчитан примерно на 100 машино-мест.</segment>
+		<segment id="42" parent="43" relname="cause-effect">Некоторые участки под парковки находятся вблизи станций метро и вокзалов,</segment>
+		<segment id="43" parent="44" relname="span">что фактически делает их перехватывающими.</segment>
+		<segment id="46" parent="47" relname="attribution">Так, согласно схеме размещения,</segment>
+		<segment id="47" parent="48" relname="span">плавучие стоянки могут появиться у станций \"Киевская\", \"Парк Культуры\" и \"Таганская\".</segment>
+		<segment id="49" parent="50" relname="attribution">Как утверждают в НИиПИ,</segment>
+		<segment id="50" parent="51" relname="span">проектом уже заинтересовались российские инвесторы.\n\nСтоит отметить, что не все плавучие парковки будут общедоступны.</segment>
+		<segment id="52" parent="51" relname="elaboration">Около половины из них будут предназначены для посетителей дебаркадеров - плавучих ресторанов и гостиниц.</segment>
+		<segment id="54" parent="58" relname="span">\"Мы рассчитывали, что водные объекты будут объединяться в тройки\",</segment>
+		<segment id="55" parent="56" relname="attribution">- пояснил Олег Баевский.\n\nРанее сообщалось,</segment>
+		<segment id="56" parent="57" relname="span">что до 2018-го в Москве планируется возвести около 200 дебаркадеров с гостиницами и ресторанами.\n\</segment>
+		<segment id="59" parent="61" relname="contrast">nНапомним, идея решить проблему с нехваткой стоянок в Москве с помощью плавучих конструкций родилась у столичных властей еще во времена Юрия Лужкова.</segment>
+		<segment id="60" parent="61" relname="contrast">Однако тогда все проекты остались на уровне обсуждений.</segment>
+		<segment id="62" parent="66" relname="same-unit">В 2011 году, уже при Сергее Собянине,</segment>
+		<segment id="63" parent="64" relname="attribution">мэрия объявила о том,</segment>
+		<segment id="64" parent="65" relname="span">что первую плавучую парковку на 120 машино-мест построят за счет города в районе Воробьевской набережной.</segment>
+		<segment id="67" parent="71" relname="joint">Власти были готовы отдать за ее создание более 100 миллионов рублей.</segment>
+		<segment id="68" parent="70" relname="contrast">Был даже объявлен конкурс,</segment>
+		<segment id="69" parent="70" relname="contrast">но идею так и не реализовали.</segment>
+		<segment id="73" parent="80" relname="attribution">Против выступил Департамент природопользования,</segment>
+		<segment id="74" parent="75" relname="attribution">заявив,</segment>
+		<segment id="75" parent="76" relname="span">что побережье Москвы-реки в этом месте является частью природоохранной территории</segment>
+		<segment id="77" parent="78" relname="attribution">.\n\nКак рассказали в Москомстройинвесте,</segment>
+		<segment id="78" parent="79" relname="span">на сегодняшний день существует типовой проект строительства парковки на дебаркадере ориентировочной емкостью 150 машино-мест.\n\n\"В Москве много участков, где размещение парковок возможно только на водных объектах.</segment>
+		<segment id="82" parent="84" relname="span">Например, у гостиницы и бизнес-центра \"Балчуг\" на Раушской набережной, куда ежедневно приезжает огромное количество людей\",</segment>
+		<segment id="83" parent="82" relname="attribution">- рассказала пресс-секретарь ведомства Татьяна Косарева.\n\</segment>
+		<segment id="86" parent="91" relname="attribution">nПо ее словам,</segment>
+		<segment id="87" parent="91" relname="contrast">плавучие парковки запланированы как стационарные,</segment>
+		<segment id="88" parent="89" relname="condition">однако при необходимости</segment>
+		<segment id="89" parent="90" relname="span">теоретически могут быть передвинуты в другое место.</segment>
+		<segment id="93" parent="92" relname="elaboration">Это может быть сделано, к примеру, на период проведения массовых мероприятий, таких как чемпионат мира по футболу - 2018.\n\nИсточник: https://www.newsru.com/realty/30Nov2012/reka_parking.html\n</segment>
+		<group id="45" type="span" parent="100" relname="preparation"/>
+		<group id="41" type="multinuc" parent="45" relname="span"/>
+		<group id="37" type="multinuc" parent="41" relname="sequence"/>
+		<group id="40" type="span" parent="41" relname="sequence"/>
+		<group id="44" type="span" parent="41" relname="elaboration"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="48" type="span" parent="99" relname="preparation"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="53" type="span" parent="98" relname="preparation"/>
+		<group id="51" type="span" parent="53" relname="span"/>
+		<group id="98" type="multinuc" parent="99" relname="span"/>
+		<group id="58" type="span" parent="98" relname="joint"/>
+		<group id="57" type="span" parent="54" relname="attribution"/>
+		<group id="97" type="span" parent="98" relname="joint"/>
+		<group id="61" type="multinuc" parent="96" relname="preparation"/>
+		<group id="96" type="multinuc" parent="97" relname="span"/>
+		<group id="72" type="multinuc" parent="96" relname="joint"/>
+		<group id="66" type="multinuc" parent="72" relname="sequence"/>
+		<group id="65" type="span" parent="66" relname="same-unit"/>
+		<group id="71" type="multinuc" parent="72" relname="sequence"/>
+		<group id="70" type="multinuc" parent="71" relname="joint"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="85" type="span" parent="95" relname="joint"/>
+		<group id="81" type="span" parent="85" relname="span"/>
+		<group id="80" type="multinuc" parent="81" relname="span"/>
+		<group id="76" type="span" parent="80" relname="joint"/>
+		<group id="79" type="span" parent="80" relname="joint"/>
+		<group id="84" type="span" parent="81" relname="elaboration"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="92" type="span" parent="94" relname="span"/>
+		<group id="91" type="multinuc" parent="92" relname="span"/>
+		<group id="90" type="span" parent="91" relname="contrast"/>
+		<group id="101" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,42 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="40" relname="preparation">Китайская художница составила 12-метровую картину из шелухи семечек\n\nВ Китае из шелухи семечек составляют настоящие шедевры искусства.</segment>
+		<segment id="16" parent="20" relname="span">Лу Баучи из Пекина потратила на отделку одной картины два года жизни.</segment>
+		<segment id="17" parent="19" relname="comparison">Итоговый 12-метровый шедевр - это уменьшенная копия древней китайской фрески,</segment>
+		<segment id="18" parent="19" relname="comparison">сообщает NEWSru.ua со ссылкой на ТСН.\n\nИз шелухи китаянка выложила более 900 персонажей и сотни деревьев.\n\</segment>
+		<segment id="21" parent="22" relname="attribution">nАвтор говорит,</segment>
+		<segment id="22" parent="23" relname="span">что шелухой рисовать труднее, чем красками.</segment>
+		<segment id="24" parent="26" relname="span">Много времени уходит на то,</segment>
+		<segment id="25" parent="24" relname="purpose">чтобы правильно подобрать размер и цвет шелухи.\n\nКартины из шелухи подсолнечника Лу Баучи составляет уже 20 лет.</segment>
+		<segment id="28" parent="32" relname="joint">На ее произведения в городе существует большой спрос.\n\</segment>
+		<segment id="29" parent="31" relname="span">nНапомним, что американец Ник Джорджиу использует старые газеты и книги</segment>
+		<segment id="30" parent="29" relname="purpose">для создания скульптур и художественных инсталляций.</segment>
+		<segment id="33" parent="37" relname="span">А японский креативщик Хароши создает необычные скульптуры,</segment>
+		<segment id="34" parent="36" relname="span">используя старые, вышедшие из строя доски</segment>
+		<segment id="35" parent="34" relname="purpose">для скейтборда.\n\nИсточник: https://www.newsru.com/cinema/13Apr2012/semki.html\n</segment>
+		<group id="40" type="multinuc" parent="41" relname="span"/>
+		<group id="20" type="span" parent="40" relname="joint"/>
+		<group id="19" type="multinuc" parent="16" relname="elaboration"/>
+		<group id="39" type="multinuc" parent="40" relname="joint"/>
+		<group id="27" type="span" parent="39" relname="joint"/>
+		<group id="23" type="span" parent="27" relname="span"/>
+		<group id="26" type="span" parent="23" relname="elaboration"/>
+		<group id="38" type="multinuc" parent="39" relname="joint"/>
+		<group id="32" type="multinuc" parent="38" relname="joint"/>
+		<group id="31" type="span" parent="32" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="joint"/>
+		<group id="36" type="span" parent="33" relname="elaboration"/>
+		<group id="41" type="span"/>
+	</body>
+</rst>

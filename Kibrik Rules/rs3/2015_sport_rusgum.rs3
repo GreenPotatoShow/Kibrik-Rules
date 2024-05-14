@@ -1,0 +1,42 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="17" relname="span">Общекомандный зачет чемпионата Европы по художественной гимнастике выиграли россиянки\n\nСборная России по художественной гимнастике завоевала шесть золотых медалей из семи возможных на чемпионате Европы в Минске,</segment>
+		<segment id="16" parent="15" relname="elaboration">выиграв неофициальный общекомандный зачет турнира,</segment>
+		<segment id="18" parent="20" relname="joint">сообщает \"Р-Спорт\".\n\nРоссиянки Яна Кудрявцева, Маргарита Мамун и Александра Солдатова стали победительницами командного многоборья,</segment>
+		<segment id="19" parent="20" relname="joint">опередив команды Белоруссии и Украины.\n\nВ отдельных видах Мамун выиграла упражнение с обручем,</segment>
+		<segment id="22" parent="21" relname="interpretation-evaluation">Солдатова в этом виде из-за потери предмета стала седьмой.</segment>
+		<segment id="24" parent="30" relname="sequence">Кудрявцева и Мамун заняли первое и второе места соответственно в упражнении с мячом.\n\</segment>
+		<segment id="25" parent="29" relname="joint">nВ упражнении с булавами первой стала Кудрявцева,</segment>
+		<segment id="26" parent="28" relname="joint">Солдатова дважды уронила предмет</segment>
+		<segment id="27" parent="28" relname="joint">и осталась восьмой.</segment>
+		<segment id="31" parent="33" relname="joint">В упражнении с лентой выиграла Кудрявцева,</segment>
+		<segment id="32" parent="33" relname="joint">а Мамун, потеряв предмет, стала пятой.\n\</segment>
+		<segment id="34" parent="38" relname="span">nВ групповых упражнениях в этом году команды были представлены юниорскими составами.</segment>
+		<segment id="35" parent="37" relname="joint">Россиянки Екатерина Федорова, Анастасия Калабина, Мария Кравцова, Ксения Полякова, Ангелина Шкатова одержали победу в групповом многоборье в субботу.\n\nВ воскресенье в упражнении с пятью мячами команда заняла второе место,</segment>
+		<segment id="36" parent="37" relname="joint">уступив хозяйкам ковра белорускам.\n\nИсточник: https://www.newsru.com/sport/03May2015/rusgum.html\n</segment>
+		<group id="23" type="span" parent="41" relname="joint"/>
+		<group id="21" type="span" parent="23" relname="span"/>
+		<group id="17" type="span" parent="20" relname="preparation"/>
+		<group id="20" type="multinuc" parent="21" relname="span"/>
+		<group id="40" type="multinuc" parent="41" relname="joint"/>
+		<group id="30" type="multinuc" parent="40" relname="sequence"/>
+		<group id="29" type="multinuc" parent="30" relname="sequence"/>
+		<group id="28" type="multinuc" parent="29" relname="joint"/>
+		<group id="39" type="multinuc" parent="40" relname="sequence"/>
+		<group id="33" type="multinuc" parent="39" relname="comparison"/>
+		<group id="38" type="span" parent="39" relname="comparison"/>
+		<group id="37" type="multinuc" parent="34" relname="elaboration"/>
+		<group id="41" type="multinuc"/>
+	</body>
+</rst>

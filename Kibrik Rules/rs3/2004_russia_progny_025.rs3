@@ -1,0 +1,63 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="24" parent="26" relname="joint">В Москве будет тепло</segment>
+		<segment id="25" parent="26" relname="joint">и солнечно\n\nТеплая и солнечная погода в столичном регионе привела к ухудшению экологической ситуации,</segment>
+		<segment id="27" parent="28" relname="cause-effect">сообщили в Росгидромете.\n\nВ пятницу в течение дня в Москве и области будет небольшая облачность,</segment>
+		<segment id="28" parent="29" relname="span">осадков не ожидается.</segment>
+		<segment id="31" parent="39" relname="contrast">К полудню воздух в столице прогреется до плюс 3-5 градусов, по области - до плюс 1-6.</segment>
+		<segment id="32" parent="34" relname="span">Но утром, предупреждают синоптики,</segment>
+		<segment id="33" parent="32" relname="interpretation-evaluation">еще довольно прохладно.</segment>
+		<segment id="35" parent="37" relname="span">Сейчас в столице минус 4-6,</segment>
+		<segment id="36" parent="35" relname="elaboration">в Подмосковье столбик термометра показывает от 4 до 9 градусов мороза.\n\</segment>
+		<segment id="40" parent="41" relname="attribution">nПо словам метеорологов,</segment>
+		<segment id="41" parent="42" relname="span">сегодня московский регион находится на юго-восточной периферии скандинавского антициклона.</segment>
+		<segment id="43" parent="47" relname="span">Сухая и почти безветренная погода,</segment>
+		<segment id="44" parent="45" relname="cause-effect">которая держится в столице уже почти неделю,</segment>
+		<segment id="45" parent="46" relname="span">привела к ухудшению экологической обстановки в городе,</segment>
+		<segment id="48" parent="47" relname="attribution">передает ИТАР-ТАСС</segment>
+		<segment id="51" parent="55" relname="same-unit">.\n\nСегодня,</segment>
+		<segment id="52" parent="53" relname="attribution">по прогнозу Росгидромета,</segment>
+		<segment id="53" parent="54" relname="span">уровень загрязнения атмосферы в Москве ожидается повышенным.</segment>
+		<segment id="56" parent="58" relname="span">Накануне Росгидромет рекомендовал столичным предприятиям сократить промышленные выбросы на 15-20%.</segment>
+		<segment id="57" parent="56" relname="interpretation-evaluation">Это ограничение будет действовать до 10:00 мск.\n\nНе лучшим образом влияние антициклона сказывается и на самочувствии метеозависимых людей.</segment>
+		<segment id="60" parent="64" relname="span">Атмосферное давление сегодня довольно высокое.</segment>
+		<segment id="61" parent="62" relname="attribution">Медики предупреждают,</segment>
+		<segment id="62" parent="63" relname="span">что особенно внимательно к своему здоровью следует отнестись людям, страдающим сердечно-сосудистыми заболеваниями.\n\nИсточник: https://www.newsru.com/russia/12Mar2004/progny.html\n</segment>
+		<group id="30" type="multinuc" parent="67" relname="preparation"/>
+		<group id="26" type="multinuc" parent="30" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="67" type="multinuc" parent="68" relname="span"/>
+		<group id="39" type="multinuc" parent="67" relname="joint"/>
+		<group id="38" type="span" parent="39" relname="contrast"/>
+		<group id="34" type="span" parent="38" relname="span"/>
+		<group id="37" type="span" parent="34" relname="elaboration"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="50" type="span" parent="66" relname="joint"/>
+		<group id="42" type="span" parent="50" relname="span"/>
+		<group id="49" type="span" parent="42" relname="elaboration"/>
+		<group id="47" type="span" parent="49" relname="span"/>
+		<group id="46" type="span" parent="43" relname="elaboration"/>
+		<group id="65" type="multinuc" parent="66" relname="joint"/>
+		<group id="59" type="multinuc" parent="65" relname="joint"/>
+		<group id="55" type="multinuc" parent="59" relname="joint"/>
+		<group id="54" type="span" parent="55" relname="same-unit"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="64" type="span" parent="65" relname="joint"/>
+		<group id="63" type="span" parent="60" relname="elaboration"/>
+		<group id="68" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,37 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="13" parent="15" relname="span">Жак Рогге угрожает ФИФА исключением футбола из олимпийской программы\n\nРуководство Международного олимпийского комитета (МОК) сократит количество сборных-участниц олимпийского футбольного турнира,</segment>
+		<segment id="14" parent="13" relname="condition">если Международная федерация футбольных ассоциаций (ФИФА) снизит возрастной ценз игроков.</segment>
+		<segment id="16" parent="15" relname="attribution">Об этом заявил президент МОК Жак Рогге</segment>
+		<segment id="18" parent="32" relname="joint">.\n\nСейчас ФИФА рассматривает возможность снижения возрастного лимита футболистов-участников олимпийского турнира с 23 лет до 21.</segment>
+		<segment id="19" parent="30" relname="attribution">По мнению Рогге,</segment>
+		<segment id="20" parent="21" relname="cause-effect">такое изменение скажется в отрицательную сторону на качестве турнира.\n\nРогге подчеркнул,</segment>
+		<segment id="21" parent="22" relname="span">что уже предупредил президента ФИФА Йозефа Блаттера о возможности подобных ответных действий</segment>
+		<segment id="23" parent="25" relname="span">.\n\nЕсли ФИФА ослушается,</segment>
+		<segment id="24" parent="23" relname="attribution">заявил президент МОК,</segment>
+		<segment id="26" parent="28" relname="joint">то уже на Олимпиаде-2012 в Лондоне будут играть не 16, а 12 команд,</segment>
+		<segment id="27" parent="28" relname="joint">или вовсе футбольный турнир будет исключен из олимпийской программы,</segment>
+		<segment id="33" parent="32" relname="attribution">сообщает ИТАР-ТАСС.\n\nИсточник: https://www.newsru.com/sport/13Jun2009/fifa.html\n</segment>
+		<group id="17" type="span" parent="35" relname="joint"/>
+		<group id="15" type="span" parent="17" relname="span"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="32" type="multinuc" parent="34" relname="span"/>
+		<group id="31" type="span" parent="32" relname="joint"/>
+		<group id="30" type="multinuc" parent="31" relname="span"/>
+		<group id="22" type="span" parent="30" relname="joint"/>
+		<group id="29" type="span" parent="30" relname="joint"/>
+		<group id="25" type="span" parent="28" relname="attribution"/>
+		<group id="28" type="multinuc" parent="29" relname="span"/>
+		<group id="35" type="multinuc"/>
+	</body>
+</rst>

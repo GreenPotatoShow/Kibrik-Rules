@@ -1,0 +1,39 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="15" parent="19" relname="joint">В Урус-Мартановском районе Чечни уничтожены боевики из группы Умарова\n\nВ Урус-Мартановской районе Чечни сотрудники полка спецназа имени Ахмада Кадырова уничтожили группу боевиков,</segment>
+		<segment id="18" parent="19" relname="joint">сообщает в субботу пресс-служба МВД России.\n\n\"В 06:40 мск у села Рошни-Чу группа боевиков, передвигавшихся на автомашине ВАЗ-2107, оказала ожесточенное сопротивление сотрудникам милиции,</segment>
+		<segment id="20" parent="21" relname="span">в результате все трое находившихся в автомобиле бандитов были убиты\",</segment>
+		<segment id="22" parent="23" relname="attribution">- сообщили \"Интерфаксу\" в пресс-службе МВД РФ.\n\nПо данным ведомства,</segment>
+		<segment id="23" parent="24" relname="span">все преступники входили в группу так называемого полевого командира Доку Умарова.</segment>
+		<segment id="25" parent="37" relname="joint">На месте боестолкновения у боевиков изъяты три автомата, два пистолета, три гаранатомета, приборы для бесшумной стрельбы, большое количество детонаторов.\n\n</segment>
+		<segment id="26" parent="30" relname="span">\"Один из убитых боевиков в настоящее время опознан</segment>
+		<segment id="27" parent="29" relname="joint">- это ранее находящийся в розыске</segment>
+		<segment id="28" parent="29" relname="joint">и совершивший в составе бандгруппы нападение на село Рошни-Чу,</segment>
+		<segment id="31" parent="32" relname="span">в результате которого погиб глава администрации района\",</segment>
+		<segment id="33" parent="34" relname="attribution">-сообщили в пресс-службе</segment>
+		<segment id="34" parent="35" relname="span">.\n\n\"Потерь среди сотрудников правоохранительных органов нет\",</segment>
+		<segment id="40" parent="39" relname="attribution">- добавили собеседники агентства.\n\nИсточник: https://www.newsru.com/russia/07Oct2006/boeviki.html\n</segment>
+		<group id="39" type="multinuc" parent="41" relname="span"/>
+		<group id="21" type="span" parent="39" relname="joint"/>
+		<group id="19" type="multinuc" parent="20" relname="cause-effect"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="24" type="span" parent="38" relname="span"/>
+		<group id="37" type="multinuc" parent="24" relname="elaboration"/>
+		<group id="36" type="span" parent="37" relname="joint"/>
+		<group id="32" type="span" parent="36" relname="span"/>
+		<group id="30" type="span" parent="31" relname="cause-effect"/>
+		<group id="29" type="multinuc" parent="26" relname="elaboration"/>
+		<group id="35" type="span" parent="32" relname="attribution"/>
+		<group id="41" type="span"/>
+	</body>
+</rst>

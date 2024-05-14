@@ -1,0 +1,34 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="11" parent="17" relname="joint">Анатолий Берштейн: \"Возвращение на круги своя\"\n\n\"Как последовательно, но верно возвращается на круги своя то немногое, что успел сделать Дмитрий Медведев на посту президента:</segment>
+		<segment id="12" parent="14" relname="span">и время, и либерализация законодательства</segment>
+		<segment id="13" parent="12" relname="elaboration">(во всяком случае, на практике), конкретная статья о клевете,</segment>
+		<segment id="15" parent="16" relname="same-unit">теперь вот возраст чиновников.</segment>
+		<segment id="18" parent="28" relname="span">Как же это все унизительно.</segment>
+		<segment id="19" parent="21" relname="span">За какие такие \"президентские\" коврижки люди готовы к тому,</segment>
+		<segment id="20" parent="19" relname="purpose">чтобы о них вытирали ноги.</segment>
+		<segment id="22" parent="26" relname="joint">Да, собственно, ведь дело даже не в этом – а в имени в истории.</segment>
+		<segment id="23" parent="25" relname="span">И его не жалко</segment>
+		<segment id="24" parent="23" relname="cause-effect">ради временных амбиций.\"\n\nИсточник: https://www.newsru.com/blog/05Sep2012/visrorii.html\n</segment>
+		<group id="17" type="multinuc" parent="29" relname="span"/>
+		<group id="16" type="multinuc" parent="17" relname="joint"/>
+		<group id="14" type="span" parent="16" relname="same-unit"/>
+		<group id="28" type="span" parent="17" relname="elaboration"/>
+		<group id="27" type="multinuc" parent="18" relname="elaboration"/>
+		<group id="21" type="span" parent="27" relname="contrast"/>
+		<group id="26" type="multinuc" parent="27" relname="contrast"/>
+		<group id="25" type="span" parent="26" relname="joint"/>
+		<group id="29" type="span"/>
+	</body>
+</rst>

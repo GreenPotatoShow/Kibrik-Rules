@@ -1,0 +1,36 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="12" parent="14" relname="span">Обстрел главной мечети в городе Эль-Куфа: 40 погибших, 60 раненых\n\nГлавная мечеть иракского города Эль-Куфа подверглась в четверг артиллерийскому обстрелу.</segment>
+		<segment id="13" parent="12" relname="attribution">Об этом сообщает РИА \"Новости\" со ссылкой на катарский спутниковый телеканал Al-Jazeera.\n\nВ момент обстрела мечеть была заполнена людьми.</segment>
+		<segment id="15" parent="17" relname="joint">В результате 40 человек погибли,</segment>
+		<segment id="16" parent="17" relname="joint">еще 60 - получили ранения.</segment>
+		<segment id="18" parent="20" relname="span">К месту инцидента направлены машины \"скорой помощи\",</segment>
+		<segment id="19" parent="18" relname="purpose">чтобы доставить раненых в городские больницы</segment>
+		<segment id="21" parent="27" relname="span">.\n\nЭль-Куфа находится недалеко от Неджефа,</segment>
+		<segment id="22" parent="26" relname="sequence">где уже три недели продолжаются бои между американцами и сторонниками радикального лидера Муктады ас-Садра.\n\nМинистр внутренних дел Ирака заявил Reuters,</segment>
+		<segment id="23" parent="25" relname="span">что в мечети находились сотни сторонников Муктады ас-Садра,</segment>
+		<segment id="24" parent="23" relname="elaboration">которые планировали бросок в расположенный поблизости Неджеф.\n\nПока неизвестно, кем был произведен обстрел.</segment>
+		<segment id="30" parent="31" relname="joint">Сторонники Муктады ас-Садра в интервью Reuters обвинили в обстреле мечети американские военные силы.\n\nИсточник: https://www.newsru.com/world/26Aug2004/iraq.html\n</segment>
+		<group id="14" type="span" parent="31" relname="preparation"/>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="29" type="multinuc" parent="31" relname="joint"/>
+		<group id="17" type="multinuc" parent="29" relname="joint"/>
+		<group id="28" type="multinuc" parent="29" relname="joint"/>
+		<group id="20" type="span" parent="28" relname="joint"/>
+		<group id="27" type="span" parent="28" relname="joint"/>
+		<group id="26" type="multinuc" parent="21" relname="elaboration"/>
+		<group id="25" type="span" parent="26" relname="sequence"/>
+		<group id="32" type="span"/>
+	</body>
+</rst>

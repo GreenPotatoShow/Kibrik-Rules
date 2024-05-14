@@ -1,0 +1,84 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="35" relname="joint">Правнук Сталина собирается попросить политического убежища в США\n\nПравнук Иосифа Сталина, Виссарион Джугашвили,</segment>
+		<segment id="34" parent="35" relname="joint">собирается попросить политического убежища в США.</segment>
+		<segment id="36" parent="38" relname="sequence">Заявление об этом он намерен подать 5 марта - в день 50-летней годовщины смерти своего предка,</segment>
+		<segment id="37" parent="38" relname="sequence">сообщает AFP со ссылкой на канадскую газету La Presse.\n\nВ интервью, данном в Нью-Йорке,</segment>
+		<segment id="39" parent="44" relname="attribution">37-летний Виссарион Джугашвили рассказал,</segment>
+		<segment id="40" parent="44" relname="span">что он принял такое решение в декабре прошлого года,</segment>
+		<segment id="41" parent="43" relname="joint">после того как был избит неизвестными у подъезда дома в Тбилиси,</segment>
+		<segment id="42" parent="43" relname="joint">где он жил со своей женой и двумя сыновьями.\n\n\"Невозможно жить в Грузии с моей фамилией.</segment>
+		<segment id="48" parent="52" relname="joint">Вот уже 10 лет нам угрожают,</segment>
+		<segment id="49" parent="51" relname="span">уже 10 лет люди нам звонят,</segment>
+		<segment id="50" parent="49" relname="purpose">чтобы оскорбить нас.</segment>
+		<segment id="53" parent="52" relname="interpretation-evaluation">С нас хватит\",</segment>
+		<segment id="55" parent="72" relname="attribution">- заявил молодой человек франкоязычной канадской газете.\n\nВиссарион Джугашвили,</segment>
+		<segment id="56" parent="72" relname="joint">прибывший в США в качестве туриста</segment>
+		<segment id="57" parent="63" relname="same-unit">и уже несколько недель проживающий в Нью-Йорке,</segment>
+		<segment id="58" parent="60" relname="joint">собирается подать прошение о предоставлении ему убежища в среду,</segment>
+		<segment id="59" parent="60" relname="joint">по истечении срока въездной визы.\n\nРежиссер-документалист по образованию, потомок вождя хочет осуществить свою \"американскую мечту\":</segment>
+		<segment id="61" parent="62" relname="sequence">снимать фильмы.</segment>
+		<segment id="64" parent="70" relname="span">Такой возможности в Грузии у него нет,</segment>
+		<segment id="65" parent="68" relname="cause-effect">так как фамилия Джугашвили,</segment>
+		<segment id="66" parent="67" relname="attribution">по его словам,</segment>
+		<segment id="67" parent="68" relname="span">закрывает перед ним двери всех кинопрокатчиков.\n\n</segment>
+		<segment id="75" parent="78" relname="attribution">\"Я думаю,</segment>
+		<segment id="76" parent="78" relname="joint">что здесь можно жить свободно,</segment>
+		<segment id="77" parent="78" relname="joint">и талант здесь значит больше, чем фамилия.</segment>
+		<segment id="80" parent="82" relname="joint">Я хочу быть личностью</segment>
+		<segment id="81" parent="82" relname="joint">и говорить то, что хочу сказать\",</segment>
+		<segment id="83" parent="85" relname="span">- подчеркнул Виссарион Джугашвили.\n\nЭто уже второй член семьи Иосифа Сталина,</segment>
+		<segment id="84" parent="83" relname="background">просящий убежище в Соединенных Штатах.</segment>
+		<segment id="86" parent="90" relname="same-unit">Дочь диктатора, Светлана Аллилуева,</segment>
+		<segment id="87" parent="89" relname="joint">покинула СССР в 1966 году,</segment>
+		<segment id="88" parent="89" relname="joint">и с тех пор живет в США.\n\nИсточник: https://www.newsru.com/world/03Mar2003/great_grandson.html\n</segment>
+		<group id="47" type="span" parent="95" relname="joint"/>
+		<group id="35" type="multinuc" parent="46" relname="preparation"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="38" type="multinuc" parent="46" relname="joint"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="43" type="multinuc" parent="40" relname="background"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="74" type="span" parent="94" relname="joint"/>
+		<group id="54" type="span" parent="73" relname="preparation"/>
+		<group id="52" type="multinuc" parent="54" relname="span"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="63" type="multinuc" parent="71" relname="span"/>
+		<group id="62" type="multinuc" parent="63" relname="same-unit"/>
+		<group id="60" type="multinuc" parent="62" relname="sequence"/>
+		<group id="70" type="span" parent="63" relname="elaboration"/>
+		<group id="69" type="span" parent="64" relname="cause-effect"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="93" type="multinuc" parent="94" relname="joint"/>
+		<group id="79" type="span" parent="93" relname="joint"/>
+		<group id="78" type="multinuc" parent="79" relname="span"/>
+		<group id="92" type="span" parent="93" relname="joint"/>
+		<group id="82" type="multinuc" parent="92" relname="span"/>
+		<group id="91" type="span" parent="82" relname="attribution"/>
+		<group id="85" type="span" parent="91" relname="span"/>
+		<group id="90" type="multinuc" parent="85" relname="background"/>
+		<group id="89" type="multinuc" parent="90" relname="same-unit"/>
+		<group id="95" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,77 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="30" parent="33" relname="preparation">В столице Исландии демонстранты требуют отставки правительства.</segment>
+		<segment id="31" parent="33" relname="span">Полиция применила силу\n\nВ столице Исландии Рейкьявике акция протеста против действий властей по борьбе с экономическим кризисом завершилась столкновениями.</segment>
+		<segment id="32" parent="31" relname="elaboration">По меньшей мере пять человек получили ранения.\n\nНесколько сотен протестующих собрались у здания главного отделения полиции города с требованием освободить одного из задержанных на предыдущей демонстрации,</segment>
+		<segment id="35" parent="37" relname="span">сообщает ВВС.\n\nСтолкновения начались,</segment>
+		<segment id="36" parent="35" relname="condition">когда полиция применила перцовый аэрозоль и дубинки после того, как некоторые попытались штурмовать здание.</segment>
+		<segment id="39" parent="47" relname="sequence">Демонстранты забрасывали полицейский участок камнями и яйцами,</segment>
+		<segment id="40" parent="42" relname="joint">били окна</segment>
+		<segment id="41" parent="42" relname="joint">и пытались ворваться внутрь.\n\nЗадержанного мужчину, освобождения которого они добивались,</segment>
+		<segment id="43" parent="45" relname="span">выпустили после того, как был заплачен штраф.\n\nГруппа митингующих направилась к зданию парламента,</segment>
+		<segment id="44" parent="43" relname="purpose">чтобы потребовать отставки правительства.</segment>
+		<segment id="48" parent="50" relname="joint">Демонстранты также потребовали предотвратить экономический коллапс страны</segment>
+		<segment id="49" parent="50" relname="joint">и предпринять меры для поддержки граждан.\n\n\"Народ больше не доверяет правительству,</segment>
+		<segment id="51" parent="50" relname="cause-effect">власти потеряли свою легитимность\",</segment>
+		<segment id="53" parent="52" relname="attribution">- заявил на митинге перед зданием парламента один из организаторов демонстраций Хордур Торфасон.\n\</segment>
+		<segment id="57" parent="65" relname="joint">nОдин из демонстрантов взобрался на здание парламента,</segment>
+		<segment id="58" parent="64" relname="same-unit">на балкон,</segment>
+		<segment id="59" parent="63" relname="joint">с которого обычно выступает премьер,</segment>
+		<segment id="60" parent="62" relname="joint">обращаясь к народу</segment>
+		<segment id="61" parent="62" relname="joint">и повесил там баннер с лозунгом \"Продается Исландия.</segment>
+		<segment id="66" parent="65" relname="elaboration">Стоимость €2,1 млрд\".</segment>
+		<segment id="68" parent="70" relname="joint">Именно такую сумму получила Исландия в качестве кредита от МВФ.\n\nИсландия - одна из первых стран Европы,</segment>
+		<segment id="69" parent="70" relname="joint">где финансовый кризис дал жестко знать о себе.\n\nЗа последний год исландская крона потеряла почти половину своей стоимости.</segment>
+		<segment id="71" parent="77" relname="span">В октябре власти Исландии были вынуждены пойти на национализацию трех крупнейших банков страны,</segment>
+		<segment id="72" parent="75" relname="cause-effect">поскольку те уже не могли самостоятельно погасить гигантские займы,</segment>
+		<segment id="73" parent="75" relname="span">взятые на развитие бизнеса за рубежом.\n\nВ 1990-е годы исландские финансовые институты активно инвестировали за границей суммы,</segment>
+		<segment id="74" parent="73" relname="elaboration">в несколько раз превышающие ВВП страны,</segment>
+		<segment id="78" parent="82" relname="joint">но с наступлением кризиса оказались на грани банкротства.\n\nИсландия, с населением всего в 300 тысяч человек,</segment>
+		<segment id="79" parent="81" relname="joint">стала первой западной страной, которая получила кредит Международного валютного фонда с 1976 года.\n\nЧтобы остаться на плаву,</segment>
+		<segment id="80" parent="81" relname="joint">правительство страны одолжило у МВФ и четырех стран Северной Европы 4,6 млрд долларов.\n\nИсточник: https://www.newsru.com/world/23Nov2008/isl.html\n</segment>
+		<group id="56" type="multinuc" parent="86" relname="joint"/>
+		<group id="38" type="multinuc" parent="56" relname="joint"/>
+		<group id="34" type="span" parent="38" relname="sequence"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="37" type="span" parent="38" relname="sequence"/>
+		<group id="55" type="multinuc" parent="56" relname="joint"/>
+		<group id="47" type="multinuc" parent="55" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="sequence"/>
+		<group id="42" type="multinuc" parent="46" relname="sequence"/>
+		<group id="45" type="span" parent="46" relname="sequence"/>
+		<group id="54" type="span" parent="55" relname="joint"/>
+		<group id="52" type="span" parent="54" relname="span"/>
+		<group id="50" type="multinuc" parent="52" relname="span"/>
+		<group id="85" type="span" parent="86" relname="joint"/>
+		<group id="67" type="span" parent="84" relname="preparation"/>
+		<group id="65" type="multinuc" parent="67" relname="span"/>
+		<group id="64" type="multinuc" parent="65" relname="joint"/>
+		<group id="63" type="multinuc" parent="64" relname="same-unit"/>
+		<group id="62" type="multinuc" parent="63" relname="joint"/>
+		<group id="84" type="multinuc" parent="85" relname="span"/>
+		<group id="70" type="multinuc" parent="84" relname="joint"/>
+		<group id="83" type="multinuc" parent="84" relname="joint"/>
+		<group id="77" type="span" parent="83" relname="contrast"/>
+		<group id="76" type="span" parent="71" relname="cause-effect"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="82" type="multinuc" parent="83" relname="contrast"/>
+		<group id="81" type="multinuc" parent="82" relname="joint"/>
+		<group id="86" type="multinuc"/>
+	</body>
+</rst>

@@ -1,0 +1,84 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="33" parent="35" relname="span">Франция вспомнила, что у Асада есть орден Почетного легиона.</segment>
+		<segment id="34" parent="33" relname="elaboration">Награду отберут\n\</segment>
+		<segment id="36" parent="38" relname="span">nФранцузские власти инициировали процедуру лишения президента Сирии Башара Асада ордена Почетного легиона,</segment>
+		<segment id="37" parent="36" relname="background">которым он был награжден в 2001 году тогдашним главой республики Жаком Шираком,</segment>
+		<segment id="39" parent="38" relname="attribution">сообщает агентство Reuters.</segment>
+		<segment id="42" parent="46" relname="joint">Принадлежность к этому ордену является во Франции высшим знаком отличия и почета,</segment>
+		<segment id="43" parent="45" relname="span">а прием в члены ордена осуществляется за выдающиеся военные или гражданские заслуги.\n\nAFP со ссылкой на источник в Елисейском дворце подтвердило:</segment>
+		<segment id="44" parent="43" relname="elaboration">\"Процедура отзыва ордена Почетного легиона в отношении Башара Асада действительно начата\" (цитата по ТАСС).\n\nНа отзыве награды Асада французские власти ограничиваться, судя по всему, не собираются.</segment>
+		<segment id="47" parent="48" relname="attribution">По данным Reuters,</segment>
+		<segment id="48" parent="49" relname="span">правительство действующего президента Эмманюэля Макрона намерено пересмотреть всю процедуру присвоения ордена Почетного легиона</segment>
+		<segment id="50" parent="57" relname="attribution">.\n\nАгентство напоминает,</segment>
+		<segment id="51" parent="52" relname="attribution">что в октябре прошлого года Макрон объявил</segment>
+		<segment id="52" parent="53" relname="span">о решении лишить ордена американского кинопродюсера Харви Вайнштейна,</segment>
+		<segment id="54" parent="56" relname="span">оказавшегося в центре громкого скандала</segment>
+		<segment id="55" parent="54" relname="cause-effect">из-за обвинений в сексуальных домогательствах.</segment>
+		<segment id="60" parent="66" relname="contrast">\"Он получил эту награду,</segment>
+		<segment id="61" parent="65" relname="span">но я хочу,</segment>
+		<segment id="62" parent="64" relname="span">учитывая, что его действия порочат честь,</segment>
+		<segment id="63" parent="62" relname="purpose">чтобы мы сделали выводы\",</segment>
+		<segment id="67" parent="69" relname="span">- указал тогда лидер Франции.\n\nОтметим, что Асад был удостоен Большого креста ордена Почетного легиона в 2001 году,</segment>
+		<segment id="68" parent="67" relname="elaboration">когда спустя год после своего избрания на высший государственный пост он прибыл с официальным визитом во Францию.</segment>
+		<segment id="71" parent="77" relname="joint">Жак Ширак лично вручил сирийскому лидеру высшую государственную награду в Елисейском дворце.\n\nВ 2011 году, впрочем, отношения Парижа и Дамаска начали портиться.</segment>
+		<segment id="72" parent="76" relname="joint">Франция обвинила Асада в преступлениях против собственного народа</segment>
+		<segment id="73" parent="75" relname="span">и пошла на полный разрыв дипломатических отношений с Сирией,</segment>
+		<segment id="74" parent="73" relname="condition">настаивая на отставке ее президента.</segment>
+		<segment id="78" parent="80" relname="sequence">В марте 2012 года из Дамаска был отозван посол Франции,</segment>
+		<segment id="79" parent="80" relname="sequence">после чего была закрыта и сама дипмиссия.\n\</segment>
+		<segment id="81" parent="80" relname="background">nВ последние годы отношение Франции к Башару Асаду приобрело еще более враждебный оттенок.</segment>
+		<segment id="83" parent="84" relname="interpretation-evaluation">Примечательно, что</segment>
+		<segment id="84" parent="85" relname="span">решение о лишении его ордена Почетного легиона озвучено спустя два дня после ракетного обстрела Сирии коалицией США, Франции и Великобритании.</segment>
+		<segment id="86" parent="85" relname="elaboration">Западные страны представляли эту операцию как возмездие за химическую атаку в городе Дума,</segment>
+		<segment id="88" parent="87" relname="elaboration">якобы устроенную режимом Асада.\n\nИсточник: https://www.newsru.com/world/17Apr2018/returntosender.html\n</segment>
+		<group id="41" type="multinuc" parent="94" relname="preparation"/>
+		<group id="35" type="span" parent="41" relname="joint"/>
+		<group id="40" type="span" parent="41" relname="joint"/>
+		<group id="38" type="span" parent="40" relname="span"/>
+		<group id="94" type="multinuc" parent="95" relname="span"/>
+		<group id="46" type="multinuc" parent="94" relname="joint"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="93" type="span" parent="94" relname="joint"/>
+		<group id="59" type="span" parent="92" relname="preparation"/>
+		<group id="49" type="span" parent="58" relname="attribution"/>
+		<group id="58" type="span" parent="59" relname="span"/>
+		<group id="57" type="span" parent="58" relname="span"/>
+		<group id="53" type="span" parent="57" relname="span"/>
+		<group id="56" type="span" parent="53" relname="elaboration"/>
+		<group id="92" type="multinuc" parent="93" relname="span"/>
+		<group id="70" type="multinuc" parent="92" relname="sequence"/>
+		<group id="66" type="multinuc" parent="70" relname="sequence"/>
+		<group id="65" type="span" parent="66" relname="contrast"/>
+		<group id="64" type="span" parent="61" relname="cause-effect"/>
+		<group id="69" type="span" parent="70" relname="sequence"/>
+		<group id="91" type="multinuc" parent="92" relname="sequence"/>
+		<group id="77" type="multinuc" parent="91" relname="sequence"/>
+		<group id="76" type="multinuc" parent="77" relname="joint"/>
+		<group id="75" type="span" parent="76" relname="joint"/>
+		<group id="90" type="span" parent="91" relname="sequence"/>
+		<group id="82" type="span" parent="90" relname="span"/>
+		<group id="80" type="multinuc" parent="82" relname="span"/>
+		<group id="89" type="span" parent="82" relname="background"/>
+		<group id="87" type="span" parent="89" relname="span"/>
+		<group id="85" type="span" parent="87" relname="span"/>
+		<group id="95" type="span"/>
+	</body>
+</rst>

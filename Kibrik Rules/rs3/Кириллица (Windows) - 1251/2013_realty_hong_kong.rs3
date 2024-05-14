@@ -1,0 +1,69 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="26" parent="28" relname="span">Блеск и нищета Гонконга:</segment>
+		<segment id="27" parent="26" relname="elaboration">100 тысяч жителей крошечных каморок самого дорогого города Азии\n\nПравозащитники из Society for Community Organization (SOco) опубликовали душераздирающие фотографии бедных семей, живущих в крошечных комнатах в трущобах Гонконга - одного из самых богатых городов Азии.\n\nНа фотографиях, сделанных сверху, видны старые обшарпанные боксы размером всего два на три метра.</segment>
+		<segment id="29" parent="33" relname="span">Они заставлены предметами первой необходимости</segment>
+		<segment id="30" parent="32" relname="span">- кровать, стул, столик, печка</segment>
+		<segment id="31" parent="30" relname="purpose">для приготовления пищи.</segment>
+		<segment id="34" parent="35" relname="cause-effect">Для полок места, как правило, не хватает,</segment>
+		<segment id="35" parent="36" relname="span">поэтому вещи и предметы развешаны на облупленных стенах.\n\n- Трущобы в Мумбаи обложат \"выгоняющим\" жителей налогом\n\</segment>
+		<segment id="38" parent="71" relname="preparation">nИ в таких условиях живут тысячи бедных семей.</segment>
+		<segment id="39" parent="43" relname="same-unit">Пожилые люди, работающие и безработные мужчины и женщины ютятся на этих клочках жилплощади,</segment>
+		<segment id="40" parent="42" relname="span">не имея достаточного дохода,</segment>
+		<segment id="41" parent="40" relname="purpose">чтобы оплатить аренду более пригодного жилья.</segment>
+		<segment id="44" parent="46" relname="span">Напомним, что Гонконг - один из главных в мире лидеров по росту цен на недвижимость,</segment>
+		<segment id="45" parent="44" relname="elaboration">часто возглавляющий этот рейтинг.</segment>
+		<segment id="47" parent="52" relname="attribution">По данным МВФ,</segment>
+		<segment id="48" parent="50" relname="comparison">за первые десять месяцев 2012 года цены на местном рынке повысились на 23%,</segment>
+		<segment id="49" parent="50" relname="comparison">а с начала мирового финансового обвала 2008 года</segment>
+		<segment id="51" parent="52" relname="span">- они удвоились.\n\</segment>
+		<segment id="54" parent="56" relname="span">nКак передает NYDailyNews.com,</segment>
+		<segment id="55" parent="54" relname="elaboration">фотографии были сделаны в бедных районах Гонконга - Sham Shui Po, Yau Tsim Mong Kowloon City,</segment>
+		<segment id="57" parent="61" relname="same-unit">но,</segment>
+		<segment id="58" parent="59" relname="attribution">по данным SOco,</segment>
+		<segment id="59" parent="60" relname="span">в таких условиях живут порядка 100 тысяч человек по всему городу с населением 7 миллионов человек.</segment>
+		<segment id="62" parent="64" relname="span">На фоне таких чудовищных проблем с жильем гонконгцев в город в поисках лучшей жизни постоянно прибывают безработные из Китая.\n\</segment>
+		<segment id="63" parent="62" relname="interpretation-evaluation">nНапомним, что в самом Китае ситуация в городах не лучше.</segment>
+		<segment id="65" parent="64" relname="elaboration">Там молодые рабочие и студенты живут в каморках 2х2 метра.\n\nИсточник: https://www.newsru.com/realty/26Feb2013/hong_kong.html\n</segment>
+		<group id="28" type="span" parent="73" relname="preparation"/>
+		<group id="73" type="multinuc" parent="74" relname="span"/>
+		<group id="37" type="span" parent="73" relname="joint"/>
+		<group id="33" type="span" parent="37" relname="span"/>
+		<group id="32" type="span" parent="29" relname="purpose"/>
+		<group id="36" type="span" parent="33" relname="purpose"/>
+		<group id="72" type="span" parent="73" relname="joint"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="43" type="multinuc" parent="71" relname="span"/>
+		<group id="42" type="span" parent="43" relname="same-unit"/>
+		<group id="70" type="span" parent="43" relname="evidence"/>
+		<group id="46" type="span" parent="69" relname="preparation"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="53" type="span" parent="69" relname="comparison"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="50" type="multinuc" parent="51" relname="cause-effect"/>
+		<group id="68" type="multinuc" parent="69" relname="comparison"/>
+		<group id="56" type="span" parent="68" relname="contrast"/>
+		<group id="67" type="span" parent="68" relname="contrast"/>
+		<group id="61" type="multinuc" parent="67" relname="span"/>
+		<group id="60" type="span" parent="61" relname="same-unit"/>
+		<group id="66" type="span" parent="61" relname="evidence"/>
+		<group id="64" type="span" parent="66" relname="span"/>
+		<group id="74" type="span"/>
+	</body>
+</rst>

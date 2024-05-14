@@ -1,0 +1,47 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="purpose" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="16" parent="25" relname="preparation">Биатлонистку Глазырину после долгих разбирательств дисквалифицировали за допинг\n\nМеждународный союз биатлонистов (IBU) объявил о дисквалификации на два года за нарушение антидопинговых правил российской биатлонистки Екатерины Глазыриной.</segment>
+		<segment id="17" parent="18" relname="attribution">Антидопинговая комиссия IBU постановила,</segment>
+		<segment id="18" parent="19" relname="span">что она виновна в применении неуказанного запрещенного вещества.\n\</segment>
+		<segment id="20" parent="23" relname="attribution">nКак сообщается в пресс-релизе Международного союза биатлонистов (IBU),</segment>
+		<segment id="21" parent="23" relname="span">срок дисквалификации спортсменки отсчитывается с 24 апреля 2018 года.\n\nВсе ее результаты с 19 декабря 2013 года по 10 февраля 2017 года подлежат аннулированию.\n\nГлазырина в феврале прошлого года была временно отстранена от международных соревнований</segment>
+		<segment id="22" parent="21" relname="purpose">на основании результатов расследования, проведенного независимой комиссией Всемирного антидопингового агентства (WADA) под руководством Ричарда Макларена.</segment>
+		<segment id="27" parent="36" relname="attribution">Позднее Екатерину отстранили и от внутрироссийских стартов.\n\nВ связи с решением IBU о дисквалификации Глазыриной Союз биатлонистов России (СБР) официально заявил</segment>
+		<segment id="28" parent="36" relname="sequence">о своем несогласии с выводами комиссии</segment>
+		<segment id="29" parent="30" relname="attribution">и намерении отстаивать права и репутацию спортсменки в Спортивном арбитражном суде (CAS).\n\n\"СБР обращает внимание,</segment>
+		<segment id="30" parent="31" relname="span">что в разбирательствах по делу о нарушении российской спортсменкой антидопинговых правил,</segment>
+		<segment id="32" parent="34" relname="span">длившихся два с половиной года,</segment>
+		<segment id="33" parent="32" relname="condition">с момента первого слушания не появилось новых данных.</segment>
+		<segment id="38" parent="40" relname="joint">Итоговое решение по делу Екатерины Глазыриной основано исключительно на показаниях информатора WADA Григория Родченкова,</segment>
+		<segment id="39" parent="40" relname="joint">подлинность и объективность которых была многократно и успешно оспорена в слушаниях по делам других российских спортсменов\",</segment>
+		<segment id="41" parent="40" relname="attribution">- говорится в заявлении.\n\nИсточник: https://www.newsru.com/sport/04May2018/ekaterina.html\n</segment>
+		<group id="26" type="span" parent="44" relname="joint"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="19" type="span" parent="25" relname="span"/>
+		<group id="24" type="span" parent="19" relname="elaboration"/>
+		<group id="23" type="span" parent="24" relname="span"/>
+		<group id="43" type="multinuc" parent="44" relname="joint"/>
+		<group id="37" type="span" parent="43" relname="joint"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="35" type="span" parent="36" relname="sequence"/>
+		<group id="31" type="span" parent="35" relname="span"/>
+		<group id="34" type="span" parent="31" relname="background"/>
+		<group id="42" type="span" parent="43" relname="joint"/>
+		<group id="40" type="multinuc" parent="42" relname="span"/>
+		<group id="44" type="multinuc"/>
+	</body>
+</rst>

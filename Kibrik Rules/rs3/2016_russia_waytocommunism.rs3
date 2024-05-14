@@ -1,0 +1,69 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="joint" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="background" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="27" parent="31" relname="sequence">Землю IKEA в Химках арестовали по старому делу колхоза \"Путь к коммунизму\"\n\nНа участок земли в Химках, где построен бизнес-центр \"Химки Бизнес Парк\",</segment>
+		<segment id="28" parent="30" relname="span">до 31 августа наложен арест в рамках уголовного дела о мошенничестве в особо крупном размере,</segment>
+		<segment id="29" parent="28" relname="elaboration">с которым связаны прошедшие сегодня обыски в главном московском офисе компании IKEA.</segment>
+		<segment id="32" parent="36" relname="span">Об этом сообщает ТАСС со ссылкой на пресс-секретаря Мособлсуда Наталью Осипову.\n\n\"Химкинский городской суд наложил по ходатайству следователя обеспечительный арест,</segment>
+		<segment id="33" parent="35" relname="span">сегодня Мособлсуд подтвердил законность данного решения,</segment>
+		<segment id="34" parent="33" relname="elaboration">уточнив, что арест наложен до 31 августа\",</segment>
+		<segment id="38" parent="40" relname="joint">- отметила представитель суда.\n\nПо истечении этого срока арест будет автоматически снят</segment>
+		<segment id="39" parent="40" relname="joint">или следователь обратится в суд с ходатайством о его продлении.\n\nТеперь этот земельный участок 16,5 гектаров может использоваться,</segment>
+		<segment id="41" parent="42" relname="contrast">но никаких юридических сделок с ним проводить нельзя.</segment>
+		<segment id="44" parent="50" relname="joint">Кадастровая стоимость участка оценивается почти в 975 млн рублей</segment>
+		<segment id="45" parent="48" relname="attribution">.\n\nИсточник РАПСИ сообщил,</segment>
+		<segment id="46" parent="48" relname="span">что обыски в офисе IKEA в Химках связаны с уголовным делом о мошенничестве в особо крупном размере,</segment>
+		<segment id="47" parent="46" relname="background">ранее возбужденном правоохранительными органами в отношении руководителей шведского концерна.\n\</segment>
+		<segment id="51" parent="52" relname="attribution">nПо словам адвоката IKEA Семена Шевченко,</segment>
+		<segment id="52" parent="53" relname="span">речь идет о \"судебном споре о земельном участке\" с КСХП (коллективное сельскохозяйственное предприятие) \"Химки\", который длится уже более 20 лет.</segment>
+		<segment id="54" parent="62" relname="joint">Правоохранители искали документы 1993 года по земле.\n\nСледствие постарается доказать,</segment>
+		<segment id="55" parent="60" relname="attribution">сказала адвокат КСХП \"Химки\" Наталия Весельницкая,</segment>
+		<segment id="56" parent="59" relname="condition">что шведский концерн при подписании договоров на землю</segment>
+		<segment id="57" parent="59" relname="span">использовал подложные документы,</segment>
+		<segment id="58" parent="57" relname="condition">находясь в сговоре с администрацией Химки.\n\nВ апреле управление УМВД России по городскому округу Химки возбудило уголовное дело по части 4 статьи 159 УК РФ (\"Мошенничество в особо крупном размере\") в отношении руководителей ИКЕА.</segment>
+		<segment id="63" parent="66" relname="attribution">Управление УМВД России по городскому округу Химки выяснило,</segment>
+		<segment id="64" parent="66" relname="span">что некое близкое к ИКЕА лицо подделало выписку из протокола заседания КСХП \"Химки\" (правопреемник колхоза \"Путь к коммунизму\", которому ранее принадлежала земля) от 23 августа 1993 года.\n\nПо данным РАПСИ,</segment>
+		<segment id="65" parent="64" relname="background">подложные документы, использованные ИКЕА в судах и для оформления права собственности на спорный участок, датированы 1993 годом,</segment>
+		<segment id="68" parent="70" relname="span">но при этом содержат ссылки на события после 1993 года.\n\nВ 2015 году суд пришел к выводу,</segment>
+		<segment id="69" parent="68" relname="background">что изначально участком владело именно сельхозпредприятие,</segment>
+		<segment id="71" parent="72" relname="contrast">однако представители российской \"дочки\" шведского концерна сослались на копию протокола собрания, из которой следует, что колхозники сами в 1993 году отказались от своей земли.\n\nВ июне 2016 года Верховный суд РФ подтвердил право IKEA на пользование землей.\n\nИсточник: https://www.newsru.com/russia/09Aug2016/waytocommunism.html\n</segment>
+		<group id="43" type="multinuc" parent="77" relname="joint"/>
+		<group id="37" type="span" parent="43" relname="sequence"/>
+		<group id="31" type="multinuc" parent="36" relname="preparation"/>
+		<group id="30" type="span" parent="31" relname="sequence"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="35" type="span" parent="32" relname="elaboration"/>
+		<group id="42" type="multinuc" parent="43" relname="sequence"/>
+		<group id="40" type="multinuc" parent="42" relname="contrast"/>
+		<group id="76" type="multinuc" parent="77" relname="joint"/>
+		<group id="50" type="multinuc" parent="76" relname="joint"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="48" type="span" parent="49" relname="span"/>
+		<group id="75" type="span" parent="76" relname="joint"/>
+		<group id="53" type="span" parent="74" relname="preparation"/>
+		<group id="74" type="multinuc" parent="75" relname="span"/>
+		<group id="62" type="multinuc" parent="74" relname="joint"/>
+		<group id="61" type="span" parent="62" relname="joint"/>
+		<group id="60" type="span" parent="61" relname="span"/>
+		<group id="59" type="span" parent="60" relname="span"/>
+		<group id="73" type="multinuc" parent="74" relname="joint"/>
+		<group id="67" type="span" parent="73" relname="contrast"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="72" type="multinuc" parent="73" relname="contrast"/>
+		<group id="70" type="span" parent="72" relname="contrast"/>
+		<group id="77" type="multinuc"/>
+	</body>
+</rst>

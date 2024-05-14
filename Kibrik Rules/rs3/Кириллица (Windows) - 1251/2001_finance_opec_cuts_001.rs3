@@ -1,0 +1,56 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="same-unit" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="cause-effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="21" parent="25" relname="span">ОПЕК готовится к сокращению поставок в марте\n\nОрганизация стран - экспортеров нефти (ОПЕК), вероятно, все же примет решение о сокращении поставок сырья на своей мартовской конференции,</segment>
+		<segment id="22" parent="24" relname="span">которая пройдет в Вене.</segment>
+		<segment id="23" parent="22" relname="cause-effect">Причиной очередного сокращения нефтедобычи станет попытка компенсировать ожидаемое весной снижение спроса в северном полушарии,</segment>
+		<segment id="26" parent="25" relname="attribution">сообщил представитель ОПЕК, близкий к министерству нефтяной промышленности Саудовской Аравии</segment>
+		<segment id="28" parent="34" relname="same-unit">.\n\</segment>
+		<segment id="29" parent="30" relname="attribution">nПо его словам,</segment>
+		<segment id="30" parent="31" relname="span">к такому шагу ОПЕК вынуждают сокращение потребления нефти и увеличение запасов, особенно в США,</segment>
+		<segment id="32" parent="31" relname="attribution">передает агентство Bloomberg.</segment>
+		<segment id="36" parent="37" relname="attribution">Президент картеля Шакиб Халиль ранее объявил о том,</segment>
+		<segment id="37" parent="38" relname="span">что ОПЕК планирует стабилизировать цены на сырье на отметке 25 долларов за баррель</segment>
+		<segment id="39" parent="47" relname="same-unit">.\n\</segment>
+		<segment id="40" parent="41" relname="attribution">nКак заявил Кейтаро Сугхара,</segment>
+		<segment id="41" parent="42" relname="span">представитель японской компании Idemitsu Kosan, добывающей нефть в Персидском заливе,</segment>
+		<segment id="43" parent="44" relname="attribution">\"мы ожидаем,</segment>
+		<segment id="44" parent="45" relname="span">что ОПЕК сократит экспорт примерно на 1 млн. баррелей в сутки.</segment>
+		<segment id="48" parent="49" relname="condition">Если они этого не сделают,</segment>
+		<segment id="49" parent="50" relname="span">цены упадут\".\n\</segment>
+		<segment id="51" parent="55" relname="span">nМежду тем, помимо грядущего сокращения поставок нефти ОПЕК,</segment>
+		<segment id="52" parent="53" relname="attribution">наблюдатели отмечают,</segment>
+		<segment id="53" parent="54" relname="span">что уже в ближайшее время возможно сокращение поставок из Ирака вследствие бомбардировок этой страны, проведенных ВВС США и Великобритании.\n\nИсточник: https://www.newsru.com/finance/19Feb2001/opec_cuts.html\n</segment>
+		<group id="35" type="multinuc" parent="59" relname="joint"/>
+		<group id="27" type="span" parent="35" relname="restatement"/>
+		<group id="25" type="span" parent="27" relname="span"/>
+		<group id="24" type="span" parent="21" relname="elaboration"/>
+		<group id="34" type="multinuc" parent="35" relname="restatement"/>
+		<group id="33" type="span" parent="34" relname="same-unit"/>
+		<group id="31" type="span" parent="33" relname="span"/>
+		<group id="58" type="multinuc" parent="59" relname="joint"/>
+		<group id="38" type="span" parent="58" relname="joint"/>
+		<group id="57" type="multinuc" parent="58" relname="joint"/>
+		<group id="47" type="multinuc" parent="57" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="same-unit"/>
+		<group id="42" type="span" parent="45" relname="attribution"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="50" type="span" parent="55" relname="condition"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="54" type="span" parent="51" relname="elaboration"/>
+		<group id="59" type="multinuc"/>
+	</body>
+</rst>

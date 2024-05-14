@@ -1,0 +1,98 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="elaboration" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="40" parent="42" relname="span">Северокорейский  лидер Ким Чен Ын подобрал замену своему дяде Чан Сон Тхэку,</segment>
+		<segment id="41" parent="40" relname="background">казненному в декабре 2013 года за коррупцию.</segment>
+		<segment id="43" parent="46" relname="attribution">Как сообщает южнокорейская газета «Чосон ильбо»,</segment>
+		<segment id="44" parent="46" relname="span">его место занял О Гык Рёль</segment>
+		<segment id="45" parent="44" relname="background">(O Kuk-ryol; иногда его имя в соответствии с корейским произношением пишется как О Гын Нёль),</segment>
+		<segment id="48" parent="56" relname="same-unit">который,</segment>
+		<segment id="49" parent="50" relname="attribution">по данным Sino-NK,</segment>
+		<segment id="50" parent="51" relname="span">считается другом детства прежнего руководителя КНДР Ким Чен Ира.\n По данным «Чосон ильбо»,</segment>
+		<segment id="52" parent="54" relname="span">в обязанности О Гык Рёля войдет управление финансами Государственного комитета обороны (ГКО) — высшего органа военной власти,</segment>
+		<segment id="53" parent="52" relname="elaboration">который возглавляет Ким Чен Ын.</segment>
+		<segment id="58" parent="67" relname="preparation">Сам О Гык Рёль является зампредом ГКО.</segment>
+		<segment id="59" parent="67" relname="joint">Теперь он будет отвечать за обеспечение экономики валютой, а также за развитие свободной экономической зоны в городе Синыйджу.</segment>
+		<segment id="60" parent="64" relname="span">Ранее этими проектами занимался Чан Сон Тхэк.\n Кроме того, утверждает издание,</segment>
+		<segment id="61" parent="63" relname="span">в ведение О Гык Рёля вернут развитие морского порта Расон</segment>
+		<segment id="62" parent="61" relname="background">(иногда читается как Насон - прим. «Ленты.ру») на северо-востоке КНДР,</segment>
+		<segment id="65" parent="66" relname="joint">а также курирование экспорта морепродуктов и развития золотодобычи.</segment>
+		<segment id="69" parent="74" relname="attribution">По сведениям «Чосон ильбо»,</segment>
+		<segment id="70" parent="72" relname="span">Чан Сон Тхэк контролировал эти направления с 2010 года</segment>
+		<segment id="71" parent="70" relname="elaboration">.\n О Гык Рёль занимает тот же пост,</segment>
+		<segment id="73" parent="74" relname="comparison">что и Чан Сон Тхэк до своей казни.</segment>
+		<segment id="76" parent="80" relname="comparison">В то время как дядю северокорейского лидера в последнее время называли вторым лицом в государстве,</segment>
+		<segment id="77" parent="79" relname="span">О Гык Рёлю такую же степень влиятельности приписывали еще в 2010 году</segment>
+		<segment id="78" parent="77" relname="attribution">(об этом, например, писала The Christian Science Monitor).</segment>
+		<segment id="82" parent="88" relname="span">Этот статус О Гык Рёль потерял с ростом влияния Чан Сон Тхэка,</segment>
+		<segment id="83" parent="86" relname="attribution">утверждает «Чосон ильбо»</segment>
+		<segment id="84" parent="86" relname="span">.\n О Гык Рёль родился в 1931 году в семье участника антияпонского подполья О Чжун Хупа (O Jung Hup),</segment>
+		<segment id="85" parent="84" relname="background">который, по разным данным, приходился ему отцом или дядей.</segment>
+		<segment id="89" parent="97" relname="sequence">Против японских колонизаторов О Чжун Хуп сражался бок о бок с основателем КНДР Ким Ир Сеном.</segment>
+		<segment id="90" parent="94" relname="same-unit">Впоследствии,</segment>
+		<segment id="91" parent="92" relname="cause-effect">из-за близости двух семей,</segment>
+		<segment id="92" parent="93" relname="span">О Гык Рёль подружился с Ким Чен Иром.\n В 1979 году О Гык Рёль получил пост начальника генштаба северокорейской армии,</segment>
+		<segment id="95" parent="94" relname="background">на котором продержался до конца 1980-х.</segment>
+		<segment id="98" parent="100" relname="span">В 2009 году он вернулся на политическую сцену,</segment>
+		<segment id="99" parent="98" relname="condition">получив должность зампреда ГКО</segment>
+		<segment id="101" parent="102" relname="cause-effect">.\n О Гык Рёль стал не первым,</segment>
+		<segment id="102" parent="103" relname="span">кому перешли полномочия Чан Сон Тхэка.</segment>
+		<segment id="105" parent="107" relname="span">Ранее в январе сообщалось, что младшая сестра северокорейского лидера Ким Ё Чжон возглавила 54-й отдел Трудовой партии Кореи.</segment>
+		<segment id="106" parent="105" relname="elaboration">Основной задачей этого органа является снабжение армии.</segment>
+		<segment id="108" parent="107" relname="interpretation-evaluation">Считается, что курировал его именно дядя Ким Чен Ына.\n \n</segment>
+		<group id="42" type="span" parent="115" relname="preparation"/>
+		<group id="115" type="multinuc" parent="116" relname="span"/>
+		<group id="57" type="span" parent="115" relname="joint"/>
+		<group id="47" type="span" parent="57" relname="span"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="56" type="multinuc" parent="47" relname="elaboration"/>
+		<group id="55" type="span" parent="56" relname="same-unit"/>
+		<group id="51" type="span" parent="54" relname="attribution"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="114" type="multinuc" parent="115" relname="joint"/>
+		<group id="68" type="span" parent="114" relname="sequence"/>
+		<group id="67" type="multinuc" parent="68" relname="span"/>
+		<group id="66" type="multinuc" parent="67" relname="joint"/>
+		<group id="64" type="span" parent="66" relname="joint"/>
+		<group id="63" type="span" parent="60" relname="elaboration"/>
+		<group id="113" type="multinuc" parent="114" relname="sequence"/>
+		<group id="81" type="multinuc" parent="113" relname="sequence"/>
+		<group id="75" type="span" parent="81" relname="comparison"/>
+		<group id="74" type="multinuc" parent="75" relname="span"/>
+		<group id="72" type="span" parent="74" relname="comparison"/>
+		<group id="80" type="multinuc" parent="81" relname="comparison"/>
+		<group id="79" type="span" parent="80" relname="comparison"/>
+		<group id="112" type="multinuc" parent="113" relname="sequence"/>
+		<group id="88" type="span" parent="112" relname="joint"/>
+		<group id="87" type="span" parent="82" relname="elaboration"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="111" type="multinuc" parent="112" relname="joint"/>
+		<group id="97" type="multinuc" parent="111" relname="sequence"/>
+		<group id="96" type="span" parent="97" relname="sequence"/>
+		<group id="94" type="multinuc" parent="96" relname="span"/>
+		<group id="93" type="span" parent="94" relname="same-unit"/>
+		<group id="110" type="multinuc" parent="111" relname="sequence"/>
+		<group id="104" type="span" parent="110" relname="sequence"/>
+		<group id="100" type="span" parent="104" relname="span"/>
+		<group id="103" type="span" parent="100" relname="background"/>
+		<group id="109" type="span" parent="110" relname="sequence"/>
+		<group id="107" type="span" parent="109" relname="span"/>
+		<group id="116" type="span"/>
+	</body>
+</rst>

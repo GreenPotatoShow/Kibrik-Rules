@@ -1,0 +1,60 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="cause-effect" type="rst" />
+			<rel name="antithesis" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="condition" type="rst" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="preparation" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="22" parent="23" relname="attribution">Абсолютно легальный пиратский сайт обнаружился на Карибах\n\nНа острове Антигуа открылся \"совершенно легальный пиратский интернет-сервис\".\nАдминистрация сайта утверждает,</segment>
+		<segment id="23" parent="24" relname="span">что в закромах имеется полторы тысячи кинофильмов и 50 тысяч музыкальных композиций.</segment>
+		<segment id="25" parent="27" relname="span">Желающие их скачать должны оформить подписку стоимостью 9,95 доллара в месяц.\n\nПравообладатели не получат с нее ни копейки</segment>
+		<segment id="26" parent="25" relname="cause-effect">благодаря своеобразному законодательству маленького государства Антигуа и Барбуда,</segment>
+		<segment id="28" parent="29" relname="restatement">сообщает Компьюлента.\n\nДело в том, что эта страна не принимает участия в Международном соглашении по торговым аспектам прав интеллектуальной собственности (TRIPS),</segment>
+		<segment id="30" parent="36" relname="span">потому что так и не смогла договориться с Всемирной торговой организацией по поводу своих обязательств в рамках Общего соглашения по торговле услугами (GATS).\n\nВ 2004 году ВТО постановила,</segment>
+		<segment id="31" parent="33" relname="span">что США нарушили GATS,</segment>
+		<segment id="32" parent="31" relname="condition">запретив виртуальным казино, базирующимся на Антигуа,</segment>
+		<segment id="34" parent="35" relname="same-unit">выйти на американский рынок.</segment>
+		<segment id="39" parent="47" relname="contrast">Соединенные Штаты должны были выплатить 21 млн долларов компенсации,</segment>
+		<segment id="40" parent="46" relname="span">но отказались это сделать</segment>
+		<segment id="41" parent="45" relname="same-unit">.\n\</segment>
+		<segment id="42" parent="43" relname="attribution">nВ связи с этим власти республики Антигуа и Барбуда заявили,</segment>
+		<segment id="43" parent="44" relname="span">что GATS фактически потеряло свою силу.</segment>
+		<segment id="48" parent="50" relname="contrast">ВТО с этим не согласна,</segment>
+		<segment id="49" parent="50" relname="contrast">однако законопослушный Zookz придерживается точки зрения своего правительства.\n\nМежду прочим, в России аналогичный сервис тоже имеется — это MP3Sparks (бывший пресловутый AllOfMP3).</segment>
+		<segment id="51" parent="55" relname="span">Поскольку Россия не является членом ВТО</segment>
+		<segment id="52" parent="54" relname="restatement">(несмотря на 16 лет безуспешного обивания порогов),</segment>
+		<segment id="53" parent="54" relname="restatement">TRIPS не имеет силы и на террритории РФ.\n\nХотя в 2003 году Россия подписала Римскую конвенцию об охране прав артистов-исполнителей,</segment>
+		<segment id="56" parent="57" relname="span">отечественные роялти-агентства (\"организации по управлению правами на коллективной основе\") так и не заключили договоров ни с одним из зарубежных коллег.</segment>
+		<segment id="61" parent="62" relname="span">В результате российские исполнители не получают гонораров от использования их музыки за рубежом, и наоборот.\n\nИсточник: https://www.newsru.com/hitech/13Jul2009/antigua.html\n</segment>
+		<group id="60" type="multinuc" parent="61" relname="cause-effect"/>
+		<group id="38" type="span" parent="60" relname="joint"/>
+		<group id="24" type="span" parent="37" relname="preparation"/>
+		<group id="37" type="span" parent="38" relname="span"/>
+		<group id="29" type="multinuc" parent="37" relname="span"/>
+		<group id="27" type="span" parent="29" relname="restatement"/>
+		<group id="36" type="span" parent="29" relname="cause-effect"/>
+		<group id="35" type="multinuc" parent="30" relname="cause-effect"/>
+		<group id="33" type="span" parent="35" relname="same-unit"/>
+		<group id="59" type="multinuc" parent="60" relname="joint"/>
+		<group id="47" type="multinuc" parent="59" relname="joint"/>
+		<group id="46" type="span" parent="47" relname="contrast"/>
+		<group id="45" type="multinuc" parent="40" relname="cause-effect"/>
+		<group id="44" type="span" parent="45" relname="same-unit"/>
+		<group id="58" type="span" parent="59" relname="joint"/>
+		<group id="50" type="multinuc" parent="58" relname="span"/>
+		<group id="57" type="span" parent="50" relname="cause-effect"/>
+		<group id="55" type="span" parent="56" relname="cause-effect"/>
+		<group id="54" type="multinuc" parent="51" relname="concession"/>
+		<group id="62" type="span"/>
+	</body>
+</rst>

@@ -1,0 +1,85 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="attribution" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+		</relations>
+	</header>
+	<body>
+		<segment id="35" parent="39" relname="sequence">'Блэйзерс' устремились в погоню за 'Сакраменто'\n\n'Портленд Трэйл Блэйзерс' продолжают побеждать в регулярном чемпионате НБА.</segment>
+		<segment id="36" parent="38" relname="span">В очередном матче 'Портленд' выиграл у 'Нью-Йорка' - 92:89.\n\nОдним из главных действующих лиц этого матча стал защитник 'Блэйзерс' Бонзи Уэллс,</segment>
+		<segment id="37" parent="36" relname="background">который принес своей команде 22 очка.</segment>
+		<segment id="40" parent="42" relname="joint">Таким образом, команда из штата Орегон победила в 11-м матче из последних 12-ти</segment>
+		<segment id="41" parent="42" relname="joint">и теперь отстает от лидера своего дивизиона - 'Сакраменто' всего на 4 победы,</segment>
+		<segment id="44" parent="43" relname="attribution">сообщает Reuters.</segment>
+		<segment id="46" parent="48" relname="span">Впрочем, в этом матче победу могли одержать и нью-йоркцы.</segment>
+		<segment id="47" parent="46" relname="elaboration">Виновником их поражения стал Аллан Хьюстон.</segment>
+		<segment id="49" parent="99" relname="sequence">Лидер 'Никс' смазал решающий двухочковый бросок за три секунды до финальной сирены.</segment>
+		<segment id="50" parent="52" relname="contrast">Затем баскетболисты 'Никс' сфолили,</segment>
+		<segment id="51" parent="52" relname="contrast">но на последний трехочковый у них не хватило времени.\n\nА 'Сакраменто', между тем, не сбавляет оборотов.</segment>
+		<segment id="53" parent="97" relname="sequence">На этот раз подопечные бывшего тренера 'Портленда' Рика Адельмана повергли в нокаут 'Майами' - 96:70.</segment>
+		<segment id="54" parent="57" relname="condition">Без Криса Уэббера,</segment>
+		<segment id="55" parent="57" relname="span">полномочия лидера перешли к защитнику Майку Бибби,</segment>
+		<segment id="56" parent="55" relname="background">который в этой встрече стал самым результативным - 22 очка.</segment>
+		<segment id="59" parent="65" relname="span">Неплохо в состав 'Кингз' вписался и Джим Джэксон,</segment>
+		<segment id="60" parent="64" relname="joint">который добавил в общую копилку еще 14 очков</segment>
+		<segment id="61" parent="63" relname="span">.\n\nВ Торонто Джамал Машбурн не имел особых проблем с защитой 'Торонто',</segment>
+		<segment id="62" parent="61" relname="background">принеся своим 'Шершням' 22 очка.</segment>
+		<segment id="66" parent="68" relname="span">Неплохо сыграл и Дэвид Уэсли,</segment>
+		<segment id="67" parent="66" relname="elaboration">набрав 20.</segment>
+		<segment id="70" parent="80" relname="span">'Торонто' без Винса Картера проигрывает десятый матч подряд.</segment>
+		<segment id="71" parent="73" relname="span">В Лос-Анджелесе французский разыгрывающий 'Сан-Антонио' Тони Паркер повел за собой команду в матче против 'Клипперс',</segment>
+		<segment id="72" parent="71" relname="elaboration">который 'Сперс' выиграли 94:86.</segment>
+		<segment id="74" parent="76" relname="comparison">На счету Паркера 26 очков,</segment>
+		<segment id="75" parent="76" relname="comparison">а лидер 'Сан-Антонио' Тим Данкан набрал 24.</segment>
+		<segment id="77" parent="78" relname="joint">Кроме того, на счету центрового техасской команды 14 подборов, шесть передач и пять блок-шотов.\n\nИ, наконец, о 'Лейкерс', которые постепенно уходят с последнего места в своем дивизионе.</segment>
+		<segment id="81" parent="93" relname="span">На этот раз Шакил О'Нил и Коби Брайант играючи разобрались с 'Финиксом'.</segment>
+		<segment id="82" parent="88" relname="sequence">О'Нил принес команде 36 очков</segment>
+		<segment id="83" parent="87" relname="sequence">и сделал 16 подборов,</segment>
+		<segment id="84" parent="86" relname="sequence">а Брайант набрал 31 очко</segment>
+		<segment id="85" parent="86" relname="sequence">и записал в актив 12 подборов.</segment>
+		<segment id="89" parent="91" relname="span">После победы со счетом 109:97, 'Лейкерс' вышли на пятое место в Тихоокеанском дивизионе,</segment>
+		<segment id="90" parent="89" relname="elaboration">обогнав 'Голден Стэйт'.\n\nИсточник: https://www.newsru.com/sport/06Jan2003/pornyrecap.html\n</segment>
+		<group id="45" type="span" parent="100" relname="preparation"/>
+		<group id="43" type="span" parent="45" relname="span"/>
+		<group id="39" type="multinuc" parent="43" relname="span"/>
+		<group id="38" type="span" parent="39" relname="sequence"/>
+		<group id="42" type="multinuc" parent="39" relname="elaboration"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="48" type="span" parent="99" relname="preparation"/>
+		<group id="99" type="multinuc" parent="100" relname="span"/>
+		<group id="98" type="span" parent="99" relname="sequence"/>
+		<group id="52" type="multinuc" parent="97" relname="preparation"/>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="96" type="span" parent="97" relname="sequence"/>
+		<group id="58" type="span" parent="95" relname="preparation"/>
+		<group id="57" type="span" parent="58" relname="span"/>
+		<group id="95" type="multinuc" parent="96" relname="span"/>
+		<group id="69" type="multinuc" parent="95" relname="joint"/>
+		<group id="65" type="span" parent="69" relname="sequence"/>
+		<group id="64" type="multinuc" parent="59" relname="elaboration"/>
+		<group id="63" type="span" parent="64" relname="joint"/>
+		<group id="68" type="span" parent="69" relname="sequence"/>
+		<group id="94" type="multinuc" parent="95" relname="joint"/>
+		<group id="80" type="span" parent="94" relname="sequence"/>
+		<group id="79" type="multinuc" parent="70" relname="elaboration"/>
+		<group id="73" type="span" parent="79" relname="joint"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="76" type="multinuc" parent="78" relname="joint"/>
+		<group id="93" type="span" parent="94" relname="sequence"/>
+		<group id="92" type="multinuc" parent="81" relname="elaboration"/>
+		<group id="88" type="multinuc" parent="92" relname="sequence"/>
+		<group id="87" type="multinuc" parent="88" relname="sequence"/>
+		<group id="86" type="multinuc" parent="87" relname="sequence"/>
+		<group id="91" type="span" parent="92" relname="sequence"/>
+		<group id="101" type="span"/>
+	</body>
+</rst>
