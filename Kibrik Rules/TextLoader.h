@@ -1,6 +1,7 @@
 #pragma once
 #include "KNKernel.h"
 #include "Rs3TreeSegment.h"
+#include "WordShell.h"
 
 #include <string>
 #include <list>
@@ -10,9 +11,11 @@ class TextLoader
 {
 public:
 	TextLoader(std::string fileName);
-	~TextLoader();
+	//~TextLoader();
 
-	const std::list<IKNWordShell*> getEntities() const;
+	const std::wstring getText() const;
+	const std::string getFileName() const;
+	const std::list<WordShell*> getEntities() const;
 	//Расстояние между двумя сущностями в клаузах (количество глаголов между ними)
 	//first, second - позиция начала первой и второй сущности (номер символа, с которого начинается сущность)
 	int linearDistance(int first, int second) const;
@@ -25,11 +28,11 @@ public:
 	int rhetoricalDistance(int first, int second) const;
 
 	//Коэффициент активации
-	double activationСoeff(int first, int second, bool isFirstProtagonist, int sizeOfChain) const;
+	double activationCoeff(WordShell* antecedent, WordShell* referent, int sizeOfChain) const;
 private:
 	std::string fileName;
-	std::string text;
-	std::list<IKNWordShell*> entities;
+	std::wstring text;
+	std::list<WordShell*> entities;
 	IKNManager* manager;
 	IKNEngine* engine;
 	std::map<int, Rs3TreeSegment*> RSTNodes;

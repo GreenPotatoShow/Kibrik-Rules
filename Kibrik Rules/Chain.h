@@ -1,16 +1,17 @@
 #pragma once
 #include "KNKernel.h"
+#include "WordShell.h"
 
 #include <vector>
 class Chain
 {
 public:
 	Chain(int id);
-	std::vector<IKNWordShell*> getWords() const;
+	std::vector<WordShell*> getWords() const;
 	int getId() const;
-	void pushBackToWords(IKNWordShell* word);
+	void pushBackToWords(WordShell* word);
 private:
 	int id;
-	std::vector<IKNWordShell*> words;
+	std::vector<WordShell*> words;
 };
 

@@ -71,8 +71,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>"F:\!Документы\CL\Kibrik Rules\Kibrik Rules\lib_PubInterfaces\src\PublicInterfaces";$(IncludePath)</IncludePath>
-    <LibraryPath>F:\!Документы\CL\Kibrik Rules\Kibrik Rules\lib_PubInterfaces\src;$(LibraryPath)</LibraryPath>
+    <IncludePath>F:\!Документы\CL\Kibrik Rules\Kibrik Rules\nlohmann;F:\!Документы\CL\Kibrik Rules\Kibrik Rules\lib_PubInterfaces\src\PublicInterfaces;$(IncludePath)</IncludePath>
+    <LibraryPath>F:\!Документы\CL\Kibrik Rules\Kibrik Rules\nlohmann;F:\!Документы\CL\Kibrik Rules\Kibrik Rules\lib_PubInterfaces\src;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -80,12 +80,12 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>F:\!Документы\CL\Kibrik Rules\Kibrik Rules\lib_PubInterfaces\src\PublicInterfaces;C:\Users\OneSmiLe\Documents\CL\Kibrik Rules\Kibrik Rules\lib_PubInterfaces\src\PublicInterfaces;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>F:\!Документы\CL\Kibrik Rules\Kibrik Rules\json;F:\!Документы\CL\Kibrik Rules\Kibrik Rules\json\include;F:\!Документы\CL\Kibrik Rules\Kibrik Rules\json\include\nlohmann;F:\!Документы\CL\Kibrik Rules\Kibrik Rules\lib_PubInterfaces\src\PublicInterfaces;C:\Users\OneSmiLe\Documents\CL\Kibrik Rules\Kibrik Rules\lib_PubInterfaces\src\PublicInterfaces;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\OneSmiLe\Documents\CL\Kibrik Rules\Kibrik Rules\lib_PubInterfaces\src;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>F:\!Документы\CL\Kibrik Rules\Kibrik Rules\json\include\nlohmann;F:\!Документы\CL\Kibrik Rules\Kibrik Rules\json;C:\Users\OneSmiLe\Documents\CL\Kibrik Rules\Kibrik Rules\lib_PubInterfaces\src;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>klan.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -139,22 +139,29 @@
   <ItemGroup>
     <ClCompile Include="App.cpp" />
     <ClCompile Include="Chain.cpp" />
+    <ClCompile Include="JSONCreator.cpp" />
     <ClCompile Include="Kibrik Rules.cpp" />
     <ClCompile Include="Rs3Tree.cpp" />
     <ClCompile Include="Rs3TreeSegment.cpp" />
     <ClCompile Include="TextLoader.cpp" />
     <ClCompile Include="TextProcessor.cpp" />
     <ClCompile Include="TreeCreator.cpp" />
+    <ClCompile Include="WordShell.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="App.h" />
     <ClInclude Include="Chain.h" />
+    <ClInclude Include="JSONCreator.h" />
     <ClInclude Include="macros.h" />
     <ClInclude Include="Rs3Tree.h" />
     <ClInclude Include="Rs3TreeSegment.h" />
     <ClInclude Include="TextLoader.h" />
     <ClInclude Include="TextProcessor.h" />
     <ClInclude Include="TreeCreator.h" />
+    <ClInclude Include="WordShell.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".editorconfig" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

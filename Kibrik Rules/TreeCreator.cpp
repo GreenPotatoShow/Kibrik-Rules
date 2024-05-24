@@ -9,6 +9,11 @@
 #include <string>
 #include <map>
 
+#include <codecvt>
+#include <locale>
+#include <windows.h>
+#include <stringapiset.h>
+
 TreeCreator::TreeCreator(std::string fileName) {
 	int indexBegin;
 	int indexEnd;
@@ -24,26 +29,26 @@ TreeCreator::TreeCreator(std::string fileName) {
 	std::map<int, Rs3Tree*> createdTreeNodes;
 	std::map<int, Rs3TreeSegment*> RSTNodes;
 	setlocale(LC_ALL, "Russian");
-	std::ifstream file;
-	std::string line;
+	std::wifstream file;
+    file.imbue(std::locale(file.getloc(), new std::codecvt_utf8<wchar_t>));
+	std::wstring line;
 	fileName = fileName.substr(0, fileName.size() - 4);
 	file.open(RS3_DIRECTORY + fileName + ".rs3");
-	while(line.find("<body>")==std::string::npos) {
+	while(line.find(L"<body>")==std::string::npos) {
 		getline(file, line);
 	}
 	getline(file, line);
-	while (line.find("</body>") == std::string::npos) {
-		indexBegin =line.find(">");
+	while (line.find(L"</body>") == std::string::npos) {
+		indexBegin =line.find(L">");
 		if (line[indexBegin - 1] != '/' ) { //segment
-			indexEnd = line.find("<", indexBegin + 1);
-			id=std::stoi(line.substr(line.find("id=\"") + 4, line.find("\"", line.find("id=\"") + 4) - line.find("id=\"") + 4));
-			//std::cout << id << "\n";
+			indexEnd = line.find(L"<", indexBegin + 1);
+			id=std::stoi(line.substr(line.find(L"id=\"") + 4, line.find(L"\"", line.find(L"id=\"") + 4) - line.find(L"id=\"") + 4));
 			if (createdTreeNodes[id] == nullptr) { createdTreeNodes[id] = new Rs3Tree; }
 			RSTNodes[id] = new Rs3TreeSegment(createdTreeNodes[id], lastLineIndex + 1, indexEnd - indexBegin);
 			createdTreeNodes[id] = RSTNodes[id];
 			createdTreeNodes[id]->setId(id);
-			if (line.find("parent=\"") != std::string::npos) {
-				parent = std::stoi(line.substr(line.find("parent=\"") + 8, line.find("\"", line.find("parent=\"") + 8) - line.find("parent=\"") + 8));
+			if (line.find(L"parent=\"") != std::string::npos) {
+				parent = std::stoi(line.substr(line.find(L"parent=\"") + 8, line.find(L"\"", line.find(L"parent=\"") + 8) - line.find(L"parent=\"") + 8));
 				if (createdTreeNodes[parent] == nullptr) { createdTreeNodes[parent] = new Rs3Tree; }
 				createdTreeNodes[id]->setChildOf(createdTreeNodes[parent]);
 				createdTreeNodes[parent]->setId(parent);
@@ -54,12 +59,12 @@ TreeCreator::TreeCreator(std::string fileName) {
 			lastLineIndex += indexEnd - indexBegin;
 		}
 		else { //group
-			id = std::stoi(line.substr(line.find("id=\"") + 4, line.find("\"", line.find("id=\"") + 4) - line.find("id=\"") + 4));
+			id = std::stoi(line.substr(line.find(L"id=\"") + 4, line.find(L"\"", line.find(L"id=\"") + 4) - line.find(L"id=\"") + 4));
 			if (createdTreeNodes[id] == nullptr) { createdTreeNodes[id] = new Rs3Tree; }
 			createdTreeNodes[id] = new Rs3Tree(*createdTreeNodes[id]);
 			createdTreeNodes[id]->setId(id);
-			if (line.find("parent=\"") != std::string::npos) {
-				parent = std::stoi(line.substr(line.find("parent=\"") + 8, line.find("\"", line.find("parent=\"") + 8) - line.find("parent=\"") + 8));
+			if (line.find(L"parent=\"") != std::string::npos) {
+				parent = std::stoi(line.substr(line.find(L"parent=\"") + 8, line.find(L"\"", line.find(L"parent=\"") + 8) - line.find(L"parent=\"") + 8));
 				if (createdTreeNodes[parent] == nullptr) { createdTreeNodes[parent] = new Rs3Tree; }
 				createdTreeNodes[id]->setChildOf(createdTreeNodes[parent]);
 				createdTreeNodes[parent]->setId(parent);
@@ -70,7 +75,6 @@ TreeCreator::TreeCreator(std::string fileName) {
 		}
 		getline(file, line);
 	}
-	//std::cout << lastLineIndex;
 	this->RSTNodes = RSTNodes;
 	file.close();
 }

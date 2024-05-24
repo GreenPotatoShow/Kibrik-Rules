@@ -9,9 +9,7 @@ public:
 	Rs3Tree(int id);
 	Rs3Tree() : Rs3Tree(0) {};
 	Rs3Tree(const Rs3Tree& rs3tree);
-	~Rs3Tree();
 
-	//bool operator<(const Rs3Tree& right);
 
 	void setId(int id);
 	int getId();

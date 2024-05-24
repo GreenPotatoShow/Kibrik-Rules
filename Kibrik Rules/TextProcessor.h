@@ -10,7 +10,7 @@ class TextProcessor
 {
 public:
 	TextProcessor(const TextLoader& textLoader);
-
+	~TextProcessor();
 private:
 	std::vector<Chain> chains;
 };

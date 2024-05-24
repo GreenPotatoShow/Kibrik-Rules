@@ -39,6 +39,12 @@
     <ClCompile Include="TreeCreator.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="WordShell.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="JSONCreator.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="App.h">
@@ -65,5 +71,14 @@
     <ClInclude Include="TreeCreator.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="WordShell.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="JSONCreator.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".editorconfig" />
   </ItemGroup>
 </Project>
