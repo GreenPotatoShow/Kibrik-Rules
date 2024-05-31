@@ -15,35 +15,35 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="30" parent="32" relname="span">Минимум оплаты труда повысят 1 октября,</segment>
-		<segment id="31" parent="30" relname="concession">несмотря на протест Совета Федерации\n\nПредседатель Совета Федерации Сергей Миронов заверил,</segment>
-		<segment id="33" parent="35" relname="span">что с 1 октября минимальный размер оплаты труда будет повышен,</segment>
-		<segment id="34" parent="33" relname="concession">несмотря на то, что 26 июня Совет Федерации отклонил соответствующий законопроект, принятый Госдумой</segment>
-		<segment id="37" parent="38" relname="attribution">.\n\nСпикер Совфеда на встрече с депутатами собрания Калужской области пояснил,</segment>
-		<segment id="38" parent="39" relname="span">что сенаторы отклонили закон о повышении МРОТ с нынешних 450 рублей до 600</segment>
-		<segment id="40" parent="42" relname="span">не потому, что возражал против его увеличения,</segment>
-		<segment id="41" parent="40" relname="cause-effect">а потому что закон был \"юридически не проработан\".\n\</segment>
-		<segment id="45" parent="48" relname="attribution">nКак пояснил Миронов,</segment>
-		<segment id="46" parent="48" relname="span">редакция Госдумы внесла бы противоречия в политику регионов:</segment>
-		<segment id="47" parent="46" relname="elaboration">в разных субъектах Федерации размер МРОТ был бы разным.</segment>
-		<segment id="50" parent="49" relname="interpretation-evaluation">\"Так что благое желание повысить оплату было невыполнимо юридически\",</segment>
-		<segment id="52" parent="51" relname="attribution">- пояснил Миронов</segment>
-		<segment id="54" parent="56" relname="contrast">.\n\nНапример, работники организаций, зарегистрированных в одном субъекте РФ,</segment>
-		<segment id="55" parent="56" relname="contrast">но осуществляющие деятельность на территории субъекта с повышенным МРОТ,</segment>
-		<segment id="57" parent="59" relname="span">будут иметь возможность обращаться в суды</segment>
-		<segment id="58" parent="57" relname="purpose">для восстановления социальной справедливости,</segment>
-		<segment id="60" parent="61" relname="joint">а требования компенсировать эту разницу будут обращены к федеральному бюджету.\n\</segment>
-		<segment id="63" parent="71" relname="same-unit">nКроме того,</segment>
-		<segment id="64" parent="66" relname="joint">как установили сенаторы,</segment>
-		<segment id="65" parent="66" relname="joint">работодатели,</segment>
-		<segment id="67" parent="69" relname="joint">не участвующие в соответствующих соглашениях об установлении более высокого уровня минимальной заработной платы,</segment>
-		<segment id="68" parent="69" relname="joint">будут обращаться в суд с требованием не распространять на них действие регионального закона о более высокой величине МРОТ</segment>
-		<segment id="72" parent="75" relname="attribution">.\n\nМиронов сообщил,</segment>
-		<segment id="73" parent="75" relname="joint">что сейчас работает согласительная комиссия,</segment>
-		<segment id="74" parent="75" relname="joint">и на первом же осеннем заседании Совета Федерации 24 сентября палата примет доработанный вариант закона.</segment>
-		<segment id="77" parent="79" relname="span">\"Я это гарантирую\",</segment>
-		<segment id="78" parent="77" relname="attribution">- заверил он.</segment>
-		<segment id="80" parent="79" relname="elaboration">Закон вступит в силу 1 октября.\n\nИсточник: https://www.newsru.com/finance/09Jul2003/mrot.html\n</segment>
+		<segment id="30" parent="32" relname="span">РњРёРЅРёРјСѓРј РѕРїР»Р°С‚С‹ С‚СЂСѓРґР° РїРѕРІС‹СЃСЏС‚ 1 РѕРєС‚СЏР±СЂСЏ,</segment>
+		<segment id="31" parent="30" relname="concession">РЅРµСЃРјРѕС‚СЂСЏ РЅР° РїСЂРѕС‚РµСЃС‚ РЎРѕРІРµС‚Р° Р¤РµРґРµСЂР°С†РёРё\n\nРџСЂРµРґСЃРµРґР°С‚РµР»СЊ РЎРѕРІРµС‚Р° Р¤РµРґРµСЂР°С†РёРё РЎРµСЂРіРµР№ РњРёСЂРѕРЅРѕРІ Р·Р°РІРµСЂРёР»,</segment>
+		<segment id="33" parent="35" relname="span">С‡С‚Рѕ СЃ 1 РѕРєС‚СЏР±СЂСЏ РјРёРЅРёРјР°Р»СЊРЅС‹Р№ СЂР°Р·РјРµСЂ РѕРїР»Р°С‚С‹ С‚СЂСѓРґР° Р±СѓРґРµС‚ РїРѕРІС‹С€РµРЅ,</segment>
+		<segment id="34" parent="33" relname="concession">РЅРµСЃРјРѕС‚СЂСЏ РЅР° С‚Рѕ, С‡С‚Рѕ 26 РёСЋРЅСЏ РЎРѕРІРµС‚ Р¤РµРґРµСЂР°С†РёРё РѕС‚РєР»РѕРЅРёР» СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓСЋС‰РёР№ Р·Р°РєРѕРЅРѕРїСЂРѕРµРєС‚, РїСЂРёРЅСЏС‚С‹Р№ Р“РѕСЃРґСѓРјРѕР№</segment>
+		<segment id="37" parent="38" relname="attribution">.\n\nРЎРїРёРєРµСЂ РЎРѕРІС„РµРґР° РЅР° РІСЃС‚СЂРµС‡Рµ СЃ РґРµРїСѓС‚Р°С‚Р°РјРё СЃРѕР±СЂР°РЅРёСЏ РљР°Р»СѓР¶СЃРєРѕР№ РѕР±Р»Р°СЃС‚Рё РїРѕСЏСЃРЅРёР»,</segment>
+		<segment id="38" parent="39" relname="span">С‡С‚Рѕ СЃРµРЅР°С‚РѕСЂС‹ РѕС‚РєР»РѕРЅРёР»Рё Р·Р°РєРѕРЅ Рѕ РїРѕРІС‹С€РµРЅРёРё РњР РћРў СЃ РЅС‹РЅРµС€РЅРёС… 450 СЂСѓР±Р»РµР№ РґРѕ 600</segment>
+		<segment id="40" parent="42" relname="span">РЅРµ РїРѕС‚РѕРјСѓ, С‡С‚Рѕ РІРѕР·СЂР°Р¶Р°Р» РїСЂРѕС‚РёРІ РµРіРѕ СѓРІРµР»РёС‡РµРЅРёСЏ,</segment>
+		<segment id="41" parent="40" relname="cause-effect">Р° РїРѕС‚РѕРјСѓ С‡С‚Рѕ Р·Р°РєРѕРЅ Р±С‹Р» \"СЋСЂРёРґРёС‡РµСЃРєРё РЅРµ РїСЂРѕСЂР°Р±РѕС‚Р°РЅ\".\n\</segment>
+		<segment id="45" parent="48" relname="attribution">nРљР°Рє РїРѕСЏСЃРЅРёР» РњРёСЂРѕРЅРѕРІ,</segment>
+		<segment id="46" parent="48" relname="span">СЂРµРґР°РєС†РёСЏ Р“РѕСЃРґСѓРјС‹ РІРЅРµСЃР»Р° Р±С‹ РїСЂРѕС‚РёРІРѕСЂРµС‡РёСЏ РІ РїРѕР»РёС‚РёРєСѓ СЂРµРіРёРѕРЅРѕРІ:</segment>
+		<segment id="47" parent="46" relname="elaboration">РІ СЂР°Р·РЅС‹С… СЃСѓР±СЉРµРєС‚Р°С… Р¤РµРґРµСЂР°С†РёРё СЂР°Р·РјРµСЂ РњР РћРў Р±С‹Р» Р±С‹ СЂР°Р·РЅС‹Рј.</segment>
+		<segment id="50" parent="49" relname="interpretation-evaluation">\"РўР°Рє С‡С‚Рѕ Р±Р»Р°РіРѕРµ Р¶РµР»Р°РЅРёРµ РїРѕРІС‹СЃРёС‚СЊ РѕРїР»Р°С‚Сѓ Р±С‹Р»Рѕ РЅРµРІС‹РїРѕР»РЅРёРјРѕ СЋСЂРёРґРёС‡РµСЃРєРё\",</segment>
+		<segment id="52" parent="51" relname="attribution">- РїРѕСЏСЃРЅРёР» РњРёСЂРѕРЅРѕРІ</segment>
+		<segment id="54" parent="56" relname="contrast">.\n\nРќР°РїСЂРёРјРµСЂ, СЂР°Р±РѕС‚РЅРёРєРё РѕСЂРіР°РЅРёР·Р°С†РёР№, Р·Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°РЅРЅС‹С… РІ РѕРґРЅРѕРј СЃСѓР±СЉРµРєС‚Рµ Р Р¤,</segment>
+		<segment id="55" parent="56" relname="contrast">РЅРѕ РѕСЃСѓС‰РµСЃС‚РІР»СЏСЋС‰РёРµ РґРµСЏС‚РµР»СЊРЅРѕСЃС‚СЊ РЅР° С‚РµСЂСЂРёС‚РѕСЂРёРё СЃСѓР±СЉРµРєС‚Р° СЃ РїРѕРІС‹С€РµРЅРЅС‹Рј РњР РћРў,</segment>
+		<segment id="57" parent="59" relname="span">Р±СѓРґСѓС‚ РёРјРµС‚СЊ РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ РѕР±СЂР°С‰Р°С‚СЊСЃСЏ РІ СЃСѓРґС‹</segment>
+		<segment id="58" parent="57" relname="purpose">РґР»СЏ РІРѕСЃСЃС‚Р°РЅРѕРІР»РµРЅРёСЏ СЃРѕС†РёР°Р»СЊРЅРѕР№ СЃРїСЂР°РІРµРґР»РёРІРѕСЃС‚Рё,</segment>
+		<segment id="60" parent="61" relname="joint">Р° С‚СЂРµР±РѕРІР°РЅРёСЏ РєРѕРјРїРµРЅСЃРёСЂРѕРІР°С‚СЊ СЌС‚Сѓ СЂР°Р·РЅРёС†Сѓ Р±СѓРґСѓС‚ РѕР±СЂР°С‰РµРЅС‹ Рє С„РµРґРµСЂР°Р»СЊРЅРѕРјСѓ Р±СЋРґР¶РµС‚Сѓ.\n\</segment>
+		<segment id="63" parent="71" relname="same-unit">nРљСЂРѕРјРµ С‚РѕРіРѕ,</segment>
+		<segment id="64" parent="66" relname="joint">РєР°Рє СѓСЃС‚Р°РЅРѕРІРёР»Рё СЃРµРЅР°С‚РѕСЂС‹,</segment>
+		<segment id="65" parent="66" relname="joint">СЂР°Р±РѕС‚РѕРґР°С‚РµР»Рё,</segment>
+		<segment id="67" parent="69" relname="joint">РЅРµ СѓС‡Р°СЃС‚РІСѓСЋС‰РёРµ РІ СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓСЋС‰РёС… СЃРѕРіР»Р°С€РµРЅРёСЏС… РѕР± СѓСЃС‚Р°РЅРѕРІР»РµРЅРёРё Р±РѕР»РµРµ РІС‹СЃРѕРєРѕРіРѕ СѓСЂРѕРІРЅСЏ РјРёРЅРёРјР°Р»СЊРЅРѕР№ Р·Р°СЂР°Р±РѕС‚РЅРѕР№ РїР»Р°С‚С‹,</segment>
+		<segment id="68" parent="69" relname="joint">Р±СѓРґСѓС‚ РѕР±СЂР°С‰Р°С‚СЊСЃСЏ РІ СЃСѓРґ СЃ С‚СЂРµР±РѕРІР°РЅРёРµРј РЅРµ СЂР°СЃРїСЂРѕСЃС‚СЂР°РЅСЏС‚СЊ РЅР° РЅРёС… РґРµР№СЃС‚РІРёРµ СЂРµРіРёРѕРЅР°Р»СЊРЅРѕРіРѕ Р·Р°РєРѕРЅР° Рѕ Р±РѕР»РµРµ РІС‹СЃРѕРєРѕР№ РІРµР»РёС‡РёРЅРµ РњР РћРў</segment>
+		<segment id="72" parent="75" relname="attribution">.\n\nРњРёСЂРѕРЅРѕРІ СЃРѕРѕР±С‰РёР»,</segment>
+		<segment id="73" parent="75" relname="joint">С‡С‚Рѕ СЃРµР№С‡Р°СЃ СЂР°Р±РѕС‚Р°РµС‚ СЃРѕРіР»Р°СЃРёС‚РµР»СЊРЅР°СЏ РєРѕРјРёСЃСЃРёСЏ,</segment>
+		<segment id="74" parent="75" relname="joint">Рё РЅР° РїРµСЂРІРѕРј Р¶Рµ РѕСЃРµРЅРЅРµРј Р·Р°СЃРµРґР°РЅРёРё РЎРѕРІРµС‚Р° Р¤РµРґРµСЂР°С†РёРё 24 СЃРµРЅС‚СЏР±СЂСЏ РїР°Р»Р°С‚Р° РїСЂРёРјРµС‚ РґРѕСЂР°Р±РѕС‚Р°РЅРЅС‹Р№ РІР°СЂРёР°РЅС‚ Р·Р°РєРѕРЅР°.</segment>
+		<segment id="77" parent="79" relname="span">\"РЇ СЌС‚Рѕ РіР°СЂР°РЅС‚РёСЂСѓСЋ\",</segment>
+		<segment id="78" parent="77" relname="attribution">- Р·Р°РІРµСЂРёР» РѕРЅ.</segment>
+		<segment id="80" parent="79" relname="elaboration">Р—Р°РєРѕРЅ РІСЃС‚СѓРїРёС‚ РІ СЃРёР»Сѓ 1 РѕРєС‚СЏР±СЂСЏ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/finance/09Jul2003/mrot.html\n</segment>
 		<group id="44" type="multinuc" parent="86" relname="joint"/>
 		<group id="36" type="span" parent="44" relname="joint"/>
 		<group id="32" type="span" parent="35" relname="attribution"/>

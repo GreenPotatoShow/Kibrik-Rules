@@ -17,28 +17,28 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="23" parent="25" relname="span">Шведские футболисты,</segment>
-		<segment id="24" parent="23" relname="condition">забыв об игре,</segment>
-		<segment id="26" parent="30" relname="span">бросились в погоню за вором\n\nФутбольный матч,</segment>
-		<segment id="27" parent="29" relname="span">который состоялся в крохотном шведском городе Греббестад</segment>
-		<segment id="28" parent="27" relname="elaboration">(население - всего полторы тысячи человек),</segment>
-		<segment id="32" parent="34" relname="span">был прерван</segment>
-		<segment id="33" parent="32" relname="cause-effect">из-за вора,</segment>
-		<segment id="35" parent="34" relname="attribution">пишет The Local.se.\n\</segment>
-		<segment id="38" parent="44" relname="span">nКогда до финального свистка оставалось 15 минут,</segment>
-		<segment id="39" parent="43" relname="joint">один из запасных игроков заметил,</segment>
-		<segment id="40" parent="42" relname="joint">как из раздевалки команды выходит подозрительный человек сумкой,</segment>
-		<segment id="41" parent="42" relname="joint">и поднял тревогу.\n\</segment>
-		<segment id="45" parent="63" relname="span">nВ погоню за похитителем бросились не только участники действа, но и некоторые из болельщиков.</segment>
-		<segment id="46" parent="48" relname="joint">В итоге незадачливый воришка бросил \"добычу\"</segment>
-		<segment id="47" parent="48" relname="joint">и удрал в лес</segment>
-		<segment id="49" parent="50" relname="cause-effect">.\n\nПолиция ехать на \"горячий\" звонок не спешила,</segment>
-		<segment id="50" parent="51" relname="span">поэтому спортсменам пришлось \"разруливать\" ситуацию самостоятельно.\n\</segment>
-		<segment id="53" parent="61" relname="span">nВ итоге один из футболистов самостоятельно поймал злоумышленника.</segment>
-		<segment id="54" parent="56" relname="joint">\"Быстрые\" представители власти прибыли на место \"преступления\" примерно через час,</segment>
-		<segment id="55" parent="56" relname="joint">обнаружив в брошенной сумке бумажники и мобильные телефоны участников встречи.\n\</segment>
-		<segment id="57" parent="59" relname="contrast">nВ итоге команда хозяев выиграла матч со счетом 3:2,</segment>
-		<segment id="58" parent="59" relname="contrast">но что-то подсказывает, что эту игру общественность запомнит не из-за спортивной составляющей.\n\nИсточник: https://www.newsru.com/sport/29Jul2013/swe.html\n</segment>
+		<segment id="23" parent="25" relname="span">РЁРІРµРґСЃРєРёРµ С„СѓС‚Р±РѕР»РёСЃС‚С‹,</segment>
+		<segment id="24" parent="23" relname="condition">Р·Р°Р±С‹РІ РѕР± РёРіСЂРµ,</segment>
+		<segment id="26" parent="30" relname="span">Р±СЂРѕСЃРёР»РёСЃСЊ РІ РїРѕРіРѕРЅСЋ Р·Р° РІРѕСЂРѕРј\n\nР¤СѓС‚Р±РѕР»СЊРЅС‹Р№ РјР°С‚С‡,</segment>
+		<segment id="27" parent="29" relname="span">РєРѕС‚РѕСЂС‹Р№ СЃРѕСЃС‚РѕСЏР»СЃСЏ РІ РєСЂРѕС…РѕС‚РЅРѕРј С€РІРµРґСЃРєРѕРј РіРѕСЂРѕРґРµ Р“СЂРµР±Р±РµСЃС‚Р°Рґ</segment>
+		<segment id="28" parent="27" relname="elaboration">(РЅР°СЃРµР»РµРЅРёРµ - РІСЃРµРіРѕ РїРѕР»С‚РѕСЂС‹ С‚С‹СЃСЏС‡Рё С‡РµР»РѕРІРµРє),</segment>
+		<segment id="32" parent="34" relname="span">Р±С‹Р» РїСЂРµСЂРІР°РЅ</segment>
+		<segment id="33" parent="32" relname="cause-effect">РёР·-Р·Р° РІРѕСЂР°,</segment>
+		<segment id="35" parent="34" relname="attribution">РїРёС€РµС‚ The Local.se.\n\</segment>
+		<segment id="38" parent="44" relname="span">nРљРѕРіРґР° РґРѕ С„РёРЅР°Р»СЊРЅРѕРіРѕ СЃРІРёСЃС‚РєР° РѕСЃС‚Р°РІР°Р»РѕСЃСЊ 15 РјРёРЅСѓС‚,</segment>
+		<segment id="39" parent="43" relname="joint">РѕРґРёРЅ РёР· Р·Р°РїР°СЃРЅС‹С… РёРіСЂРѕРєРѕРІ Р·Р°РјРµС‚РёР»,</segment>
+		<segment id="40" parent="42" relname="joint">РєР°Рє РёР· СЂР°Р·РґРµРІР°Р»РєРё РєРѕРјР°РЅРґС‹ РІС‹С…РѕРґРёС‚ РїРѕРґРѕР·СЂРёС‚РµР»СЊРЅС‹Р№ С‡РµР»РѕРІРµРє СЃСѓРјРєРѕР№,</segment>
+		<segment id="41" parent="42" relname="joint">Рё РїРѕРґРЅСЏР» С‚СЂРµРІРѕРіСѓ.\n\</segment>
+		<segment id="45" parent="63" relname="span">nР’ РїРѕРіРѕРЅСЋ Р·Р° РїРѕС…РёС‚РёС‚РµР»РµРј Р±СЂРѕСЃРёР»РёСЃСЊ РЅРµ С‚РѕР»СЊРєРѕ СѓС‡Р°СЃС‚РЅРёРєРё РґРµР№СЃС‚РІР°, РЅРѕ Рё РЅРµРєРѕС‚РѕСЂС‹Рµ РёР· Р±РѕР»РµР»СЊС‰РёРєРѕРІ.</segment>
+		<segment id="46" parent="48" relname="joint">Р’ РёС‚РѕРіРµ РЅРµР·Р°РґР°С‡Р»РёРІС‹Р№ РІРѕСЂРёС€РєР° Р±СЂРѕСЃРёР» \"РґРѕР±С‹С‡Сѓ\"</segment>
+		<segment id="47" parent="48" relname="joint">Рё СѓРґСЂР°Р» РІ Р»РµСЃ</segment>
+		<segment id="49" parent="50" relname="cause-effect">.\n\nРџРѕР»РёС†РёСЏ РµС…Р°С‚СЊ РЅР° \"РіРѕСЂСЏС‡РёР№\" Р·РІРѕРЅРѕРє РЅРµ СЃРїРµС€РёР»Р°,</segment>
+		<segment id="50" parent="51" relname="span">РїРѕСЌС‚РѕРјСѓ СЃРїРѕСЂС‚СЃРјРµРЅР°Рј РїСЂРёС€Р»РѕСЃСЊ \"СЂР°Р·СЂСѓР»РёРІР°С‚СЊ\" СЃРёС‚СѓР°С†РёСЋ СЃР°РјРѕСЃС‚РѕСЏС‚РµР»СЊРЅРѕ.\n\</segment>
+		<segment id="53" parent="61" relname="span">nР’ РёС‚РѕРіРµ РѕРґРёРЅ РёР· С„СѓС‚Р±РѕР»РёСЃС‚РѕРІ СЃР°РјРѕСЃС‚РѕСЏС‚РµР»СЊРЅРѕ РїРѕР№РјР°Р» Р·Р»РѕСѓРјС‹С€Р»РµРЅРЅРёРєР°.</segment>
+		<segment id="54" parent="56" relname="joint">\"Р‘С‹СЃС‚СЂС‹Рµ\" РїСЂРµРґСЃС‚Р°РІРёС‚РµР»Рё РІР»Р°СЃС‚Рё РїСЂРёР±С‹Р»Рё РЅР° РјРµСЃС‚Рѕ \"РїСЂРµСЃС‚СѓРїР»РµРЅРёСЏ\" РїСЂРёРјРµСЂРЅРѕ С‡РµСЂРµР· С‡Р°СЃ,</segment>
+		<segment id="55" parent="56" relname="joint">РѕР±РЅР°СЂСѓР¶РёРІ РІ Р±СЂРѕС€РµРЅРЅРѕР№ СЃСѓРјРєРµ Р±СѓРјР°Р¶РЅРёРєРё Рё РјРѕР±РёР»СЊРЅС‹Рµ С‚РµР»РµС„РѕРЅС‹ СѓС‡Р°СЃС‚РЅРёРєРѕРІ РІСЃС‚СЂРµС‡Рё.\n\</segment>
+		<segment id="57" parent="59" relname="contrast">nР’ РёС‚РѕРіРµ РєРѕРјР°РЅРґР° С…РѕР·СЏРµРІ РІС‹РёРіСЂР°Р»Р° РјР°С‚С‡ СЃРѕ СЃС‡РµС‚РѕРј 3:2,</segment>
+		<segment id="58" parent="59" relname="contrast">РЅРѕ С‡С‚Рѕ-С‚Рѕ РїРѕРґСЃРєР°Р·С‹РІР°РµС‚, С‡С‚Рѕ СЌС‚Сѓ РёРіСЂСѓ РѕР±С‰РµСЃС‚РІРµРЅРЅРѕСЃС‚СЊ Р·Р°РїРѕРјРЅРёС‚ РЅРµ РёР·-Р·Р° СЃРїРѕСЂС‚РёРІРЅРѕР№ СЃРѕСЃС‚Р°РІР»СЏСЋС‰РµР№.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/sport/29Jul2013/swe.html\n</segment>
 		<group id="37" type="multinuc" parent="64" relname="preparation"/>
 		<group id="31" type="multinuc" parent="37" relname="same-unit"/>
 		<group id="25" type="span" parent="31" relname="joint"/>

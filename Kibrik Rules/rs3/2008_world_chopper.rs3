@@ -10,15 +10,15 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="10" parent="12" relname="span">Вертолет потерпел катастрофу на западе Канады:</segment>
-		<segment id="11" parent="10" relname="elaboration">четверо погибли\n\nЧетыре человека погибли в результате катастрофы небольшого вертолета на западе Канады.\n\</segment>
-		<segment id="13" parent="16" relname="attribution">nКак уточнил представитель департамента транспортной безопасности Билл Ервуд,</segment>
-		<segment id="14" parent="16" relname="joint">жертвами инцидента стали пилот, два пассажира вертолета,</segment>
-		<segment id="15" parent="16" relname="joint">а также человек, находившийся на земле.\n\</segment>
-		<segment id="18" parent="21" relname="condition">nПри посадке</segment>
-		<segment id="19" parent="21" relname="joint">вертолет рухнул примерно с 30-метровой высоты</segment>
-		<segment id="20" parent="21" relname="joint">и загорелся,</segment>
-		<segment id="23" parent="24" relname="joint">передает ИТАР-ТАСС.\n\nПричины катастрофы выясняются.\n\nИсточник: https://www.newsru.com/world/14May2008/chopper.html\n</segment>
+		<segment id="10" parent="12" relname="span">Р’РµСЂС‚РѕР»РµС‚ РїРѕС‚РµСЂРїРµР» РєР°С‚Р°СЃС‚СЂРѕС„Сѓ РЅР° Р·Р°РїР°РґРµ РљР°РЅР°РґС‹:</segment>
+		<segment id="11" parent="10" relname="elaboration">С‡РµС‚РІРµСЂРѕ РїРѕРіРёР±Р»Рё\n\nР§РµС‚С‹СЂРµ С‡РµР»РѕРІРµРєР° РїРѕРіРёР±Р»Рё РІ СЂРµР·СѓР»СЊС‚Р°С‚Рµ РєР°С‚Р°СЃС‚СЂРѕС„С‹ РЅРµР±РѕР»СЊС€РѕРіРѕ РІРµСЂС‚РѕР»РµС‚Р° РЅР° Р·Р°РїР°РґРµ РљР°РЅР°РґС‹.\n\</segment>
+		<segment id="13" parent="16" relname="attribution">nРљР°Рє СѓС‚РѕС‡РЅРёР» РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊ РґРµРїР°СЂС‚Р°РјРµРЅС‚Р° С‚СЂР°РЅСЃРїРѕСЂС‚РЅРѕР№ Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё Р‘РёР»Р» Р•СЂРІСѓРґ,</segment>
+		<segment id="14" parent="16" relname="joint">Р¶РµСЂС‚РІР°РјРё РёРЅС†РёРґРµРЅС‚Р° СЃС‚Р°Р»Рё РїРёР»РѕС‚, РґРІР° РїР°СЃСЃР°Р¶РёСЂР° РІРµСЂС‚РѕР»РµС‚Р°,</segment>
+		<segment id="15" parent="16" relname="joint">Р° С‚Р°РєР¶Рµ С‡РµР»РѕРІРµРє, РЅР°С…РѕРґРёРІС€РёР№СЃСЏ РЅР° Р·РµРјР»Рµ.\n\</segment>
+		<segment id="18" parent="21" relname="condition">nРџСЂРё РїРѕСЃР°РґРєРµ</segment>
+		<segment id="19" parent="21" relname="joint">РІРµСЂС‚РѕР»РµС‚ СЂСѓС…РЅСѓР» РїСЂРёРјРµСЂРЅРѕ СЃ 30-РјРµС‚СЂРѕРІРѕР№ РІС‹СЃРѕС‚С‹</segment>
+		<segment id="20" parent="21" relname="joint">Рё Р·Р°РіРѕСЂРµР»СЃСЏ,</segment>
+		<segment id="23" parent="24" relname="joint">РїРµСЂРµРґР°РµС‚ РРўРђР -РўРђРЎРЎ.\n\nРџСЂРёС‡РёРЅС‹ РєР°С‚Р°СЃС‚СЂРѕС„С‹ РІС‹СЏСЃРЅСЏСЋС‚СЃСЏ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/14May2008/chopper.html\n</segment>
 		<group id="12" type="span" parent="26" relname="joint"/>
 		<group id="25" type="multinuc" parent="26" relname="joint"/>
 		<group id="17" type="span" parent="25" relname="sequence"/>

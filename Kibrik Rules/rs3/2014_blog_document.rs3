@@ -12,21 +12,21 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="16" parent="43" relname="solutionhood">Лео Воронин: \"Разоблачили бандеровцев?\"\n\n\"Это все, что нашлось на бандеровцев?</segment>
-		<segment id="17" parent="19" relname="span">Сомневаюсь.</segment>
-		<segment id="18" parent="17" relname="elaboration">Это самые «страшные» документы из тех, что хранятся в архиве?</segment>
-		<segment id="20" parent="22" relname="span">Тоже сомневаюсь.</segment>
-		<segment id="21" parent="20" relname="elaboration">Это те документы, которые можно рассекретить?</segment>
-		<segment id="23" parent="26" relname="attribution">Еще больше сомневаюсь</segment>
-		<segment id="24" parent="26" relname="joint">– 70 лет уже прошло,</segment>
-		<segment id="25" parent="26" relname="joint">какие могут быть тайны?</segment>
-		<segment id="28" parent="27" relname="interpretation-evaluation">Это то, что успели наспех нарыть, под актуальную PR-акцию?</segment>
-		<segment id="30" parent="34" relname="span">Вот здесь уже не сомневаюсь.\n\</segment>
-		<segment id="31" parent="32" relname="attribution">nИ боюсь,</segment>
-		<segment id="32" parent="33" relname="span">результат у этой пропагандистской акции может быть прямо противоположный тому, чего хочет добиться власть.</segment>
-		<segment id="35" parent="37" relname="span">Власти нужно,</segment>
-		<segment id="36" parent="35" relname="purpose">чтобы слово \"бандеровцы\" было крепко накрепко привязано к понятиям \"военные преступники\", \"каратели\", \"пособники фашистов\"?</segment>
-		<segment id="38" parent="39" relname="span">Ну, так занимайтесь этим на регулярной основе\".\n\nИсточник: https://www.newsru.com/blog/03Apr2014/document.html\n</segment>
+		<segment id="16" parent="43" relname="solutionhood">Р›РµРѕ Р’РѕСЂРѕРЅРёРЅ: \"Р Р°Р·РѕР±Р»Р°С‡РёР»Рё Р±Р°РЅРґРµСЂРѕРІС†РµРІ?\"\n\n\"Р­С‚Рѕ РІСЃРµ, С‡С‚Рѕ РЅР°С€Р»РѕСЃСЊ РЅР° Р±Р°РЅРґРµСЂРѕРІС†РµРІ?</segment>
+		<segment id="17" parent="19" relname="span">РЎРѕРјРЅРµРІР°СЋСЃСЊ.</segment>
+		<segment id="18" parent="17" relname="elaboration">Р­С‚Рѕ СЃР°РјС‹Рµ В«СЃС‚СЂР°С€РЅС‹РµВ» РґРѕРєСѓРјРµРЅС‚С‹ РёР· С‚РµС…, С‡С‚Рѕ С…СЂР°РЅСЏС‚СЃСЏ РІ Р°СЂС…РёРІРµ?</segment>
+		<segment id="20" parent="22" relname="span">РўРѕР¶Рµ СЃРѕРјРЅРµРІР°СЋСЃСЊ.</segment>
+		<segment id="21" parent="20" relname="elaboration">Р­С‚Рѕ С‚Рµ РґРѕРєСѓРјРµРЅС‚С‹, РєРѕС‚РѕСЂС‹Рµ РјРѕР¶РЅРѕ СЂР°СЃСЃРµРєСЂРµС‚РёС‚СЊ?</segment>
+		<segment id="23" parent="26" relname="attribution">Р•С‰Рµ Р±РѕР»СЊС€Рµ СЃРѕРјРЅРµРІР°СЋСЃСЊ</segment>
+		<segment id="24" parent="26" relname="joint">вЂ“ 70 Р»РµС‚ СѓР¶Рµ РїСЂРѕС€Р»Рѕ,</segment>
+		<segment id="25" parent="26" relname="joint">РєР°РєРёРµ РјРѕРіСѓС‚ Р±С‹С‚СЊ С‚Р°Р№РЅС‹?</segment>
+		<segment id="28" parent="27" relname="interpretation-evaluation">Р­С‚Рѕ С‚Рѕ, С‡С‚Рѕ СѓСЃРїРµР»Рё РЅР°СЃРїРµС… РЅР°СЂС‹С‚СЊ, РїРѕРґ Р°РєС‚СѓР°Р»СЊРЅСѓСЋ PR-Р°РєС†РёСЋ?</segment>
+		<segment id="30" parent="34" relname="span">Р’РѕС‚ Р·РґРµСЃСЊ СѓР¶Рµ РЅРµ СЃРѕРјРЅРµРІР°СЋСЃСЊ.\n\</segment>
+		<segment id="31" parent="32" relname="attribution">nР Р±РѕСЋСЃСЊ,</segment>
+		<segment id="32" parent="33" relname="span">СЂРµР·СѓР»СЊС‚Р°С‚ Сѓ СЌС‚РѕР№ РїСЂРѕРїР°РіР°РЅРґРёСЃС‚СЃРєРѕР№ Р°РєС†РёРё РјРѕР¶РµС‚ Р±С‹С‚СЊ РїСЂСЏРјРѕ РїСЂРѕС‚РёРІРѕРїРѕР»РѕР¶РЅС‹Р№ С‚РѕРјСѓ, С‡РµРіРѕ С…РѕС‡РµС‚ РґРѕР±РёС‚СЊСЃСЏ РІР»Р°СЃС‚СЊ.</segment>
+		<segment id="35" parent="37" relname="span">Р’Р»Р°СЃС‚Рё РЅСѓР¶РЅРѕ,</segment>
+		<segment id="36" parent="35" relname="purpose">С‡С‚РѕР±С‹ СЃР»РѕРІРѕ \"Р±Р°РЅРґРµСЂРѕРІС†С‹\" Р±С‹Р»Рѕ РєСЂРµРїРєРѕ РЅР°РєСЂРµРїРєРѕ РїСЂРёРІСЏР·Р°РЅРѕ Рє РїРѕРЅСЏС‚РёСЏРј \"РІРѕРµРЅРЅС‹Рµ РїСЂРµСЃС‚СѓРїРЅРёРєРё\", \"РєР°СЂР°С‚РµР»Рё\", \"РїРѕСЃРѕР±РЅРёРєРё С„Р°С€РёСЃС‚РѕРІ\"?</segment>
+		<segment id="38" parent="39" relname="span">РќСѓ, С‚Р°Рє Р·Р°РЅРёРјР°Р№С‚РµСЃСЊ СЌС‚РёРј РЅР° СЂРµРіСѓР»СЏСЂРЅРѕР№ РѕСЃРЅРѕРІРµ\".\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/blog/03Apr2014/document.html\n</segment>
 		<group id="43" type="span" parent="44" relname="span"/>
 		<group id="19" type="span" parent="42" relname="solutionhood"/>
 		<group id="42" type="span" parent="43" relname="span"/>

@@ -12,22 +12,22 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="17" parent="18" relname="condition">В Москве при пожаре на Ярославском вокзале</segment>
-		<segment id="18" parent="19" relname="span">один человек погиб,</segment>
-		<segment id="20" parent="21" relname="joint">еще один серьезно пострадал\n\</segment>
-		<segment id="22" parent="26" relname="same-unit">nВ Москве</segment>
-		<segment id="23" parent="24" relname="condition">при пожаре на Ярославском вокзале</segment>
-		<segment id="24" parent="25" relname="span">один человек погиб,</segment>
-		<segment id="27" parent="28" relname="joint">еще один серьезно пострадал.</segment>
-		<segment id="29" parent="30" relname="condition">При осмотре мусоропровода</segment>
-		<segment id="30" parent="31" relname="span">выяснилось, что в результате возгорания погиб один человек, предположительно, бомж.</segment>
-		<segment id="32" parent="34" relname="span">Еще один находившийся рядом бомж получил серьезные ожоги</segment>
+		<segment id="17" parent="18" relname="condition">Р’ РњРѕСЃРєРІРµ РїСЂРё РїРѕР¶Р°СЂРµ РЅР° РЇСЂРѕСЃР»Р°РІСЃРєРѕРј РІРѕРєР·Р°Р»Рµ</segment>
+		<segment id="18" parent="19" relname="span">РѕРґРёРЅ С‡РµР»РѕРІРµРє РїРѕРіРёР±,</segment>
+		<segment id="20" parent="21" relname="joint">РµС‰Рµ РѕРґРёРЅ СЃРµСЂСЊРµР·РЅРѕ РїРѕСЃС‚СЂР°РґР°Р»\n\</segment>
+		<segment id="22" parent="26" relname="same-unit">nР’ РњРѕСЃРєРІРµ</segment>
+		<segment id="23" parent="24" relname="condition">РїСЂРё РїРѕР¶Р°СЂРµ РЅР° РЇСЂРѕСЃР»Р°РІСЃРєРѕРј РІРѕРєР·Р°Р»Рµ</segment>
+		<segment id="24" parent="25" relname="span">РѕРґРёРЅ С‡РµР»РѕРІРµРє РїРѕРіРёР±,</segment>
+		<segment id="27" parent="28" relname="joint">РµС‰Рµ РѕРґРёРЅ СЃРµСЂСЊРµР·РЅРѕ РїРѕСЃС‚СЂР°РґР°Р».</segment>
+		<segment id="29" parent="30" relname="condition">РџСЂРё РѕСЃРјРѕС‚СЂРµ РјСѓСЃРѕСЂРѕРїСЂРѕРІРѕРґР°</segment>
+		<segment id="30" parent="31" relname="span">РІС‹СЏСЃРЅРёР»РѕСЃСЊ, С‡С‚Рѕ РІ СЂРµР·СѓР»СЊС‚Р°С‚Рµ РІРѕР·РіРѕСЂР°РЅРёСЏ РїРѕРіРёР± РѕРґРёРЅ С‡РµР»РѕРІРµРє, РїСЂРµРґРїРѕР»РѕР¶РёС‚РµР»СЊРЅРѕ, Р±РѕРјР¶.</segment>
+		<segment id="32" parent="34" relname="span">Р•С‰Рµ РѕРґРёРЅ РЅР°С…РѕРґРёРІС€РёР№СЃСЏ СЂСЏРґРѕРј Р±РѕРјР¶ РїРѕР»СѓС‡РёР» СЃРµСЂСЊРµР·РЅС‹Рµ РѕР¶РѕРіРё</segment>
 		<segment id="33" parent="32" relname="cause-effect">.\n\</segment>
-		<segment id="37" parent="41" relname="same-unit">nКак сообщает НТВ со ссылкой на \"Интерфакс\",</segment>
-		<segment id="38" parent="39" relname="attribution">в Управлении государственной противопожарной службы сообщили,</segment>
-		<segment id="39" parent="40" relname="span">что сигнал о незначительном возгорании в мусоропроводе здания вокзала поступил на пульт дежурного \"01\" около 1:00 по московскому времени.</segment>
-		<segment id="42" parent="44" relname="span">Прибывшие на место пожарные быстро потушили пламя.</segment>
-		<segment id="43" parent="42" relname="elaboration">На месте происшествия работает оперативно-следственная группа.\n\nИсточник: https://www.newsru.com/russia/02Mar2001/bomgi.html\n</segment>
+		<segment id="37" parent="41" relname="same-unit">nРљР°Рє СЃРѕРѕР±С‰Р°РµС‚ РќРўР’ СЃРѕ СЃСЃС‹Р»РєРѕР№ РЅР° \"РРЅС‚РµСЂС„Р°РєСЃ\",</segment>
+		<segment id="38" parent="39" relname="attribution">РІ РЈРїСЂР°РІР»РµРЅРёРё РіРѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅРѕР№ РїСЂРѕС‚РёРІРѕРїРѕР¶Р°СЂРЅРѕР№ СЃР»СѓР¶Р±С‹ СЃРѕРѕР±С‰РёР»Рё,</segment>
+		<segment id="39" parent="40" relname="span">С‡С‚Рѕ СЃРёРіРЅР°Р» Рѕ РЅРµР·РЅР°С‡РёС‚РµР»СЊРЅРѕРј РІРѕР·РіРѕСЂР°РЅРёРё РІ РјСѓСЃРѕСЂРѕРїСЂРѕРІРѕРґРµ Р·РґР°РЅРёСЏ РІРѕРєР·Р°Р»Р° РїРѕСЃС‚СѓРїРёР» РЅР° РїСѓР»СЊС‚ РґРµР¶СѓСЂРЅРѕРіРѕ \"01\" РѕРєРѕР»Рѕ 1:00 РїРѕ РјРѕСЃРєРѕРІСЃРєРѕРјСѓ РІСЂРµРјРµРЅРё.</segment>
+		<segment id="42" parent="44" relname="span">РџСЂРёР±С‹РІС€РёРµ РЅР° РјРµСЃС‚Рѕ РїРѕР¶Р°СЂРЅС‹Рµ Р±С‹СЃС‚СЂРѕ РїРѕС‚СѓС€РёР»Рё РїР»Р°РјСЏ.</segment>
+		<segment id="43" parent="42" relname="elaboration">РќР° РјРµСЃС‚Рµ РїСЂРѕРёСЃС€РµСЃС‚РІРёСЏ СЂР°Р±РѕС‚Р°РµС‚ РѕРїРµСЂР°С‚РёРІРЅРѕ-СЃР»РµРґСЃС‚РІРµРЅРЅР°СЏ РіСЂСѓРїРїР°.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/02Mar2001/bomgi.html\n</segment>
 		<group id="21" type="multinuc" parent="46" relname="preparation"/>
 		<group id="19" type="span" parent="21" relname="joint"/>
 		<group id="46" type="multinuc" parent="47" relname="span"/>

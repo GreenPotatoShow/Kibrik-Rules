@@ -16,40 +16,40 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="36" parent="38" relname="span">Трое детей выпали из сломавшегося аттракциона \"Колобок\" в московском парке \"Сокольники\"\n\nТрое детей получили травмы</segment>
-		<segment id="37" parent="36" relname="condition">при падении с аттракциона в столичном парке \"Сокольники\",</segment>
-		<segment id="39" parent="38" relname="attribution">сообщили ТАСС в департаменте здравоохранения Москвы.</segment>
-		<segment id="41" parent="43" relname="span">Двое детей доставлены в травмпункт,</segment>
-		<segment id="42" parent="41" relname="elaboration">один - в больницу.</segment>
-		<segment id="44" parent="45" relname="condition">\"Состояние оценивается как средней степени тяжести, ближе к удовлетворительному,</segment>
-		<segment id="45" parent="46" relname="span">угрозы для жизни нет\",</segment>
-		<segment id="47" parent="46" relname="attribution">- сообщил собеседник агентства</segment>
-		<segment id="50" parent="53" relname="attribution">.\n\nВ парке \"Сокольники\" радиостанции \"Говорит Москва\" рассказали,</segment>
-		<segment id="51" parent="52" relname="cause-effect">что на аттракционе \"Колобок\" сломался болт оси крепления кабины,</segment>
-		<segment id="52" parent="53" relname="span">в результате кабина просела с высоты 20 см.</segment>
-		<segment id="55" parent="59" relname="contrast">Последовала автоматическая остановка аттракциона,</segment>
-		<segment id="56" parent="58" relname="span">но персонал арендатора площадки нарушил технику безопасности</segment>
-		<segment id="57" parent="56" relname="condition">при эвакуации посетителей</segment>
+		<segment id="36" parent="38" relname="span">РўСЂРѕРµ РґРµС‚РµР№ РІС‹РїР°Р»Рё РёР· СЃР»РѕРјР°РІС€РµРіРѕСЃСЏ Р°С‚С‚СЂР°РєС†РёРѕРЅР° \"РљРѕР»РѕР±РѕРє\" РІ РјРѕСЃРєРѕРІСЃРєРѕРј РїР°СЂРєРµ \"РЎРѕРєРѕР»СЊРЅРёРєРё\"\n\nРўСЂРѕРµ РґРµС‚РµР№ РїРѕР»СѓС‡РёР»Рё С‚СЂР°РІРјС‹</segment>
+		<segment id="37" parent="36" relname="condition">РїСЂРё РїР°РґРµРЅРёРё СЃ Р°С‚С‚СЂР°РєС†РёРѕРЅР° РІ СЃС‚РѕР»РёС‡РЅРѕРј РїР°СЂРєРµ \"РЎРѕРєРѕР»СЊРЅРёРєРё\",</segment>
+		<segment id="39" parent="38" relname="attribution">СЃРѕРѕР±С‰РёР»Рё РўРђРЎРЎ РІ РґРµРїР°СЂС‚Р°РјРµРЅС‚Рµ Р·РґСЂР°РІРѕРѕС…СЂР°РЅРµРЅРёСЏ РњРѕСЃРєРІС‹.</segment>
+		<segment id="41" parent="43" relname="span">Р”РІРѕРµ РґРµС‚РµР№ РґРѕСЃС‚Р°РІР»РµРЅС‹ РІ С‚СЂР°РІРјРїСѓРЅРєС‚,</segment>
+		<segment id="42" parent="41" relname="elaboration">РѕРґРёРЅ - РІ Р±РѕР»СЊРЅРёС†Сѓ.</segment>
+		<segment id="44" parent="45" relname="condition">\"РЎРѕСЃС‚РѕСЏРЅРёРµ РѕС†РµРЅРёРІР°РµС‚СЃСЏ РєР°Рє СЃСЂРµРґРЅРµР№ СЃС‚РµРїРµРЅРё С‚СЏР¶РµСЃС‚Рё, Р±Р»РёР¶Рµ Рє СѓРґРѕРІР»РµС‚РІРѕСЂРёС‚РµР»СЊРЅРѕРјСѓ,</segment>
+		<segment id="45" parent="46" relname="span">СѓРіСЂРѕР·С‹ РґР»СЏ Р¶РёР·РЅРё РЅРµС‚\",</segment>
+		<segment id="47" parent="46" relname="attribution">- СЃРѕРѕР±С‰РёР» СЃРѕР±РµСЃРµРґРЅРёРє Р°РіРµРЅС‚СЃС‚РІР°</segment>
+		<segment id="50" parent="53" relname="attribution">.\n\nР’ РїР°СЂРєРµ \"РЎРѕРєРѕР»СЊРЅРёРєРё\" СЂР°РґРёРѕСЃС‚Р°РЅС†РёРё \"Р“РѕРІРѕСЂРёС‚ РњРѕСЃРєРІР°\" СЂР°СЃСЃРєР°Р·Р°Р»Рё,</segment>
+		<segment id="51" parent="52" relname="cause-effect">С‡С‚Рѕ РЅР° Р°С‚С‚СЂР°РєС†РёРѕРЅРµ \"РљРѕР»РѕР±РѕРє\" СЃР»РѕРјР°Р»СЃСЏ Р±РѕР»С‚ РѕСЃРё РєСЂРµРїР»РµРЅРёСЏ РєР°Р±РёРЅС‹,</segment>
+		<segment id="52" parent="53" relname="span">РІ СЂРµР·СѓР»СЊС‚Р°С‚Рµ РєР°Р±РёРЅР° РїСЂРѕСЃРµР»Р° СЃ РІС‹СЃРѕС‚С‹ 20 СЃРј.</segment>
+		<segment id="55" parent="59" relname="contrast">РџРѕСЃР»РµРґРѕРІР°Р»Р° Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєР°СЏ РѕСЃС‚Р°РЅРѕРІРєР° Р°С‚С‚СЂР°РєС†РёРѕРЅР°,</segment>
+		<segment id="56" parent="58" relname="span">РЅРѕ РїРµСЂСЃРѕРЅР°Р» Р°СЂРµРЅРґР°С‚РѕСЂР° РїР»РѕС‰Р°РґРєРё РЅР°СЂСѓС€РёР» С‚РµС…РЅРёРєСѓ Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё</segment>
+		<segment id="57" parent="56" relname="condition">РїСЂРё СЌРІР°РєСѓР°С†РёРё РїРѕСЃРµС‚РёС‚РµР»РµР№</segment>
 		<segment id="60" parent="59" relname="cause-effect">.\n\</segment>
-		<segment id="64" parent="70" relname="sequence">nПо данным Telegram-канала Baza, дети повисли вниз головой.</segment>
-		<segment id="65" parent="67" relname="joint">Страховочные тросы самопроизвольно отстегнулись,</segment>
-		<segment id="66" parent="67" relname="joint">и дети упали.</segment>
-		<segment id="68" parent="69" relname="joint">Двое получили ушибы мягких тканей, третий - легкое сотрясение мозга.</segment>
-		<segment id="71" parent="79" relname="span">По предварительным данным, пострадавшим от 11 до 13 лет.\n\</segment>
-		<segment id="72" parent="74" relname="span">nПо словам мамы одной из девочек,</segment>
-		<segment id="73" parent="72" relname="elaboration">она слышала \"странный, неестественный металлический скрежет\",</segment>
-		<segment id="75" parent="77" relname="span">который усиливался,</segment>
-		<segment id="76" parent="75" relname="condition">когда \"Колобок\" набирал обороты.</segment>
-		<segment id="80" parent="82" relname="joint">В последний раз аттракцион проверяли в апреле</segment>
-		<segment id="81" parent="82" relname="joint">и тогда поломок не обнаружили,</segment>
-		<segment id="83" parent="84" relname="sequence">пишет Baza.</segment>
-		<segment id="85" parent="88" relname="condition">\"Колобок\" закрыли,</segment>
-		<segment id="86" parent="88" relname="joint">создана рабочая группа для выяснения всех подробностей,</segment>
-		<segment id="87" parent="88" relname="joint">полиция изучает аттракцион.\n\</segment>
-		<segment id="90" parent="94" relname="joint">nПо факту инцидента возбуждено уголовное дело,</segment>
-		<segment id="91" parent="93" relname="span">сообщили в столичном управлении Следственного комитета РФ,</segment>
-		<segment id="92" parent="91" relname="condition">не уточнив конкретную статью Уголовного кодекса.</segment>
-		<segment id="95" parent="96" relname="joint">Объединение административно-технических инспекций (ОАТИ) столицы вместе со службами департамента культуры в течение двух суток внепланово проверят техническое состояние и разрешительную документацию аттракционов во всех парках Москвы.\n\n\"Колобок\" представляет собой круглую вертящуюся конструкцию с кабинками по бокам, которые крутятся вокруг своей оси.\n\nИсточник: https://www.newsru.com/russia/22Jun2019/kolobok.html\n</segment>
+		<segment id="64" parent="70" relname="sequence">nРџРѕ РґР°РЅРЅС‹Рј Telegram-РєР°РЅР°Р»Р° Baza, РґРµС‚Рё РїРѕРІРёСЃР»Рё РІРЅРёР· РіРѕР»РѕРІРѕР№.</segment>
+		<segment id="65" parent="67" relname="joint">РЎС‚СЂР°С…РѕРІРѕС‡РЅС‹Рµ С‚СЂРѕСЃС‹ СЃР°РјРѕРїСЂРѕРёР·РІРѕР»СЊРЅРѕ РѕС‚СЃС‚РµРіРЅСѓР»РёСЃСЊ,</segment>
+		<segment id="66" parent="67" relname="joint">Рё РґРµС‚Рё СѓРїР°Р»Рё.</segment>
+		<segment id="68" parent="69" relname="joint">Р”РІРѕРµ РїРѕР»СѓС‡РёР»Рё СѓС€РёР±С‹ РјСЏРіРєРёС… С‚РєР°РЅРµР№, С‚СЂРµС‚РёР№ - Р»РµРіРєРѕРµ СЃРѕС‚СЂСЏСЃРµРЅРёРµ РјРѕР·РіР°.</segment>
+		<segment id="71" parent="79" relname="span">РџРѕ РїСЂРµРґРІР°СЂРёС‚РµР»СЊРЅС‹Рј РґР°РЅРЅС‹Рј, РїРѕСЃС‚СЂР°РґР°РІС€РёРј РѕС‚ 11 РґРѕ 13 Р»РµС‚.\n\</segment>
+		<segment id="72" parent="74" relname="span">nРџРѕ СЃР»РѕРІР°Рј РјР°РјС‹ РѕРґРЅРѕР№ РёР· РґРµРІРѕС‡РµРє,</segment>
+		<segment id="73" parent="72" relname="elaboration">РѕРЅР° СЃР»С‹С€Р°Р»Р° \"СЃС‚СЂР°РЅРЅС‹Р№, РЅРµРµСЃС‚РµСЃС‚РІРµРЅРЅС‹Р№ РјРµС‚Р°Р»Р»РёС‡РµСЃРєРёР№ СЃРєСЂРµР¶РµС‚\",</segment>
+		<segment id="75" parent="77" relname="span">РєРѕС‚РѕСЂС‹Р№ СѓСЃРёР»РёРІР°Р»СЃСЏ,</segment>
+		<segment id="76" parent="75" relname="condition">РєРѕРіРґР° \"РљРѕР»РѕР±РѕРє\" РЅР°Р±РёСЂР°Р» РѕР±РѕСЂРѕС‚С‹.</segment>
+		<segment id="80" parent="82" relname="joint">Р’ РїРѕСЃР»РµРґРЅРёР№ СЂР°Р· Р°С‚С‚СЂР°РєС†РёРѕРЅ РїСЂРѕРІРµСЂСЏР»Рё РІ Р°РїСЂРµР»Рµ</segment>
+		<segment id="81" parent="82" relname="joint">Рё С‚РѕРіРґР° РїРѕР»РѕРјРѕРє РЅРµ РѕР±РЅР°СЂСѓР¶РёР»Рё,</segment>
+		<segment id="83" parent="84" relname="sequence">РїРёС€РµС‚ Baza.</segment>
+		<segment id="85" parent="88" relname="condition">\"РљРѕР»РѕР±РѕРє\" Р·Р°РєСЂС‹Р»Рё,</segment>
+		<segment id="86" parent="88" relname="joint">СЃРѕР·РґР°РЅР° СЂР°Р±РѕС‡Р°СЏ РіСЂСѓРїРїР° РґР»СЏ РІС‹СЏСЃРЅРµРЅРёСЏ РІСЃРµС… РїРѕРґСЂРѕР±РЅРѕСЃС‚РµР№,</segment>
+		<segment id="87" parent="88" relname="joint">РїРѕР»РёС†РёСЏ РёР·СѓС‡Р°РµС‚ Р°С‚С‚СЂР°РєС†РёРѕРЅ.\n\</segment>
+		<segment id="90" parent="94" relname="joint">nРџРѕ С„Р°РєС‚Сѓ РёРЅС†РёРґРµРЅС‚Р° РІРѕР·Р±СѓР¶РґРµРЅРѕ СѓРіРѕР»РѕРІРЅРѕРµ РґРµР»Рѕ,</segment>
+		<segment id="91" parent="93" relname="span">СЃРѕРѕР±С‰РёР»Рё РІ СЃС‚РѕР»РёС‡РЅРѕРј СѓРїСЂР°РІР»РµРЅРёРё РЎР»РµРґСЃС‚РІРµРЅРЅРѕРіРѕ РєРѕРјРёС‚РµС‚Р° Р Р¤,</segment>
+		<segment id="92" parent="91" relname="condition">РЅРµ СѓС‚РѕС‡РЅРёРІ РєРѕРЅРєСЂРµС‚РЅСѓСЋ СЃС‚Р°С‚СЊСЋ РЈРіРѕР»РѕРІРЅРѕРіРѕ РєРѕРґРµРєСЃР°.</segment>
+		<segment id="95" parent="96" relname="joint">РћР±СЉРµРґРёРЅРµРЅРёРµ Р°РґРјРёРЅРёСЃС‚СЂР°С‚РёРІРЅРѕ-С‚РµС…РЅРёС‡РµСЃРєРёС… РёРЅСЃРїРµРєС†РёР№ (РћРђРўР) СЃС‚РѕР»РёС†С‹ РІРјРµСЃС‚Рµ СЃРѕ СЃР»СѓР¶Р±Р°РјРё РґРµРїР°СЂС‚Р°РјРµРЅС‚Р° РєСѓР»СЊС‚СѓСЂС‹ РІ С‚РµС‡РµРЅРёРµ РґРІСѓС… СЃСѓС‚РѕРє РІРЅРµРїР»Р°РЅРѕРІРѕ РїСЂРѕРІРµСЂСЏС‚ С‚РµС…РЅРёС‡РµСЃРєРѕРµ СЃРѕСЃС‚РѕСЏРЅРёРµ Рё СЂР°Р·СЂРµС€РёС‚РµР»СЊРЅСѓСЋ РґРѕРєСѓРјРµРЅС‚Р°С†РёСЋ Р°С‚С‚СЂР°РєС†РёРѕРЅРѕРІ РІРѕ РІСЃРµС… РїР°СЂРєР°С… РњРѕСЃРєРІС‹.\n\n\"РљРѕР»РѕР±РѕРє\" РїСЂРµРґСЃС‚Р°РІР»СЏРµС‚ СЃРѕР±РѕР№ РєСЂСѓРіР»СѓСЋ РІРµСЂС‚СЏС‰СѓСЋСЃСЏ РєРѕРЅСЃС‚СЂСѓРєС†РёСЋ СЃ РєР°Р±РёРЅРєР°РјРё РїРѕ Р±РѕРєР°Рј, РєРѕС‚РѕСЂС‹Рµ РєСЂСѓС‚СЏС‚СЃСЏ РІРѕРєСЂСѓРі СЃРІРѕРµР№ РѕСЃРё.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/22Jun2019/kolobok.html\n</segment>
 		<group id="40" type="span" parent="103" relname="preparation"/>
 		<group id="38" type="span" parent="40" relname="span"/>
 		<group id="103" type="multinuc" parent="104" relname="span"/>

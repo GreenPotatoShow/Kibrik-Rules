@@ -12,17 +12,17 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="12" parent="31" relname="preparation">В Ираке под Самаррой взорван железнодорожный поезд\n\</segment>
-		<segment id="13" parent="30" relname="preparation">nВ Ираке в воскресенье взорван железнодорожный поезд, следовавший по маршруту Самарра - Мосул.</segment>
-		<segment id="14" parent="17" relname="attribution">Как сообщил вечером в воскресенье телеканал Al-Arabia,</segment>
-		<segment id="15" parent="17" relname="span">мощный взрыв прогремел,</segment>
-		<segment id="16" parent="15" relname="condition">когда поезд проезжал пригород Самарры.\n\</segment>
-		<segment id="19" parent="23" relname="same-unit">nПосле взрыва,</segment>
-		<segment id="20" parent="21" relname="attribution">согласно данным телеканала Al-Arabia,</segment>
-		<segment id="21" parent="22" relname="span">восемь вагонов сошли с рельсов.</segment>
-		<segment id="25" parent="29" relname="span">О жертвах информация не поступала,</segment>
-		<segment id="26" parent="28" relname="span">сообщает РИА 'Новости'.\n\nПо мнению иракского железнодорожного руководства,</segment>
-		<segment id="27" parent="26" relname="purpose">на восстановление движения поездов по данному маршруту потребуется не менее пяти дней.\n\nИсточник: https://www.newsru.com/world/08Dec2003/trainiraq.html\n</segment>
+		<segment id="12" parent="31" relname="preparation">Р’ РСЂР°РєРµ РїРѕРґ РЎР°РјР°СЂСЂРѕР№ РІР·РѕСЂРІР°РЅ Р¶РµР»РµР·РЅРѕРґРѕСЂРѕР¶РЅС‹Р№ РїРѕРµР·Рґ\n\</segment>
+		<segment id="13" parent="30" relname="preparation">nР’ РСЂР°РєРµ РІ РІРѕСЃРєСЂРµСЃРµРЅСЊРµ РІР·РѕСЂРІР°РЅ Р¶РµР»РµР·РЅРѕРґРѕСЂРѕР¶РЅС‹Р№ РїРѕРµР·Рґ, СЃР»РµРґРѕРІР°РІС€РёР№ РїРѕ РјР°СЂС€СЂСѓС‚Сѓ РЎР°РјР°СЂСЂР° - РњРѕСЃСѓР».</segment>
+		<segment id="14" parent="17" relname="attribution">РљР°Рє СЃРѕРѕР±С‰РёР» РІРµС‡РµСЂРѕРј РІ РІРѕСЃРєСЂРµСЃРµРЅСЊРµ С‚РµР»РµРєР°РЅР°Р» Al-Arabia,</segment>
+		<segment id="15" parent="17" relname="span">РјРѕС‰РЅС‹Р№ РІР·СЂС‹РІ РїСЂРѕРіСЂРµРјРµР»,</segment>
+		<segment id="16" parent="15" relname="condition">РєРѕРіРґР° РїРѕРµР·Рґ РїСЂРѕРµР·Р¶Р°Р» РїСЂРёРіРѕСЂРѕРґ РЎР°РјР°СЂСЂС‹.\n\</segment>
+		<segment id="19" parent="23" relname="same-unit">nРџРѕСЃР»Рµ РІР·СЂС‹РІР°,</segment>
+		<segment id="20" parent="21" relname="attribution">СЃРѕРіР»Р°СЃРЅРѕ РґР°РЅРЅС‹Рј С‚РµР»РµРєР°РЅР°Р»Р° Al-Arabia,</segment>
+		<segment id="21" parent="22" relname="span">РІРѕСЃРµРјСЊ РІР°РіРѕРЅРѕРІ СЃРѕС€Р»Рё СЃ СЂРµР»СЊСЃРѕРІ.</segment>
+		<segment id="25" parent="29" relname="span">Рћ Р¶РµСЂС‚РІР°С… РёРЅС„РѕСЂРјР°С†РёСЏ РЅРµ РїРѕСЃС‚СѓРїР°Р»Р°,</segment>
+		<segment id="26" parent="28" relname="span">СЃРѕРѕР±С‰Р°РµС‚ Р РРђ 'РќРѕРІРѕСЃС‚Рё'.\n\nРџРѕ РјРЅРµРЅРёСЋ РёСЂР°РєСЃРєРѕРіРѕ Р¶РµР»РµР·РЅРѕРґРѕСЂРѕР¶РЅРѕРіРѕ СЂСѓРєРѕРІРѕРґСЃС‚РІР°,</segment>
+		<segment id="27" parent="26" relname="purpose">РЅР° РІРѕСЃСЃС‚Р°РЅРѕРІР»РµРЅРёРµ РґРІРёР¶РµРЅРёСЏ РїРѕРµР·РґРѕРІ РїРѕ РґР°РЅРЅРѕРјСѓ РјР°СЂС€СЂСѓС‚Сѓ РїРѕС‚СЂРµР±СѓРµС‚СЃСЏ РЅРµ РјРµРЅРµРµ РїСЏС‚Рё РґРЅРµР№.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/08Dec2003/trainiraq.html\n</segment>
 		<group id="31" type="span" parent="32" relname="span"/>
 		<group id="30" type="span" parent="31" relname="span"/>
 		<group id="24" type="span" parent="30" relname="span"/>

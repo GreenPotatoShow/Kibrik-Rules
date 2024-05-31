@@ -1,7 +1,7 @@
 #pragma once
 #include "Rs3Tree.h"
 
-//класс-наследник от Rs3Tree, здесь хранятся segments. 
+//РєР»Р°СЃСЃ-РЅР°СЃР»РµРґРЅРёРє РѕС‚ Rs3Tree, Р·РґРµСЃСЊ С…СЂР°РЅСЏС‚СЃСЏ segments. 
 
 class Rs3TreeSegment : public Rs3Tree
 {
@@ -15,7 +15,7 @@ public:
 	int getRangeBegin();
 	int getRangeEnd();
 private:
-	int characterRangeBegin; //индекс начала фрагмента текста в этом узле
-	int characterRangeEnd; //индекс конца фрагмента текста в этом узле
+	int characterRangeBegin; //РёРЅРґРµРєСЃ РЅР°С‡Р°Р»Р° С„СЂР°РіРјРµРЅС‚Р° С‚РµРєСЃС‚Р° РІ СЌС‚РѕРј СѓР·Р»Рµ
+	int characterRangeEnd; //РёРЅРґРµРєСЃ РєРѕРЅС†Р° С„СЂР°РіРјРµРЅС‚Р° С‚РµРєСЃС‚Р° РІ СЌС‚РѕРј СѓР·Р»Рµ
 };
 

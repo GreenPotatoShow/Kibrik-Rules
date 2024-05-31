@@ -9,15 +9,15 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="10" parent="12" relname="joint">Во Франции произошел взрыв в жилом доме,</segment>
-		<segment id="11" parent="12" relname="joint">есть пострадавшие\n\nСильный взрыв прогремел в жилом доме в городе Нонанкур (департамент Эр) на севере Франции,</segment>
-		<segment id="13" parent="12" relname="attribution">передает РИА \"Новости\".</segment>
-		<segment id="15" parent="18" relname="attribution">По данным телеканала BFMTV,</segment>
-		<segment id="16" parent="18" relname="joint">пять человек получили ранения,</segment>
-		<segment id="17" parent="18" relname="joint">несколько могут находиться под завалами.\n\</segment>
-		<segment id="20" parent="23" relname="attribution">nПо предварительным данным,</segment>
-		<segment id="21" parent="23" relname="joint">причиной взрыв могла стать утечка газа.\n\nИз дома были эвакуированы около 30 жителей.\n\nНа место выехали спасатели,</segment>
-		<segment id="22" parent="23" relname="joint">направлены четыре вертолета.\n\nИсточник: https://www.newsru.com/world/23Apr2016/frblast.html\n</segment>
+		<segment id="10" parent="12" relname="joint">Р’Рѕ Р¤СЂР°РЅС†РёРё РїСЂРѕРёР·РѕС€РµР» РІР·СЂС‹РІ РІ Р¶РёР»РѕРј РґРѕРјРµ,</segment>
+		<segment id="11" parent="12" relname="joint">РµСЃС‚СЊ РїРѕСЃС‚СЂР°РґР°РІС€РёРµ\n\nРЎРёР»СЊРЅС‹Р№ РІР·СЂС‹РІ РїСЂРѕРіСЂРµРјРµР» РІ Р¶РёР»РѕРј РґРѕРјРµ РІ РіРѕСЂРѕРґРµ РќРѕРЅР°РЅРєСѓСЂ (РґРµРїР°СЂС‚Р°РјРµРЅС‚ Р­СЂ) РЅР° СЃРµРІРµСЂРµ Р¤СЂР°РЅС†РёРё,</segment>
+		<segment id="13" parent="12" relname="attribution">РїРµСЂРµРґР°РµС‚ Р РРђ \"РќРѕРІРѕСЃС‚Рё\".</segment>
+		<segment id="15" parent="18" relname="attribution">РџРѕ РґР°РЅРЅС‹Рј С‚РµР»РµРєР°РЅР°Р»Р° BFMTV,</segment>
+		<segment id="16" parent="18" relname="joint">РїСЏС‚СЊ С‡РµР»РѕРІРµРє РїРѕР»СѓС‡РёР»Рё СЂР°РЅРµРЅРёСЏ,</segment>
+		<segment id="17" parent="18" relname="joint">РЅРµСЃРєРѕР»СЊРєРѕ РјРѕРіСѓС‚ РЅР°С…РѕРґРёС‚СЊСЃСЏ РїРѕРґ Р·Р°РІР°Р»Р°РјРё.\n\</segment>
+		<segment id="20" parent="23" relname="attribution">nРџРѕ РїСЂРµРґРІР°СЂРёС‚РµР»СЊРЅС‹Рј РґР°РЅРЅС‹Рј,</segment>
+		<segment id="21" parent="23" relname="joint">РїСЂРёС‡РёРЅРѕР№ РІР·СЂС‹РІ РјРѕРіР»Р° СЃС‚Р°С‚СЊ СѓС‚РµС‡РєР° РіР°Р·Р°.\n\nРР· РґРѕРјР° Р±С‹Р»Рё СЌРІР°РєСѓРёСЂРѕРІР°РЅС‹ РѕРєРѕР»Рѕ 30 Р¶РёС‚РµР»РµР№.\n\nРќР° РјРµСЃС‚Рѕ РІС‹РµС…Р°Р»Рё СЃРїР°СЃР°С‚РµР»Рё,</segment>
+		<segment id="22" parent="23" relname="joint">РЅР°РїСЂР°РІР»РµРЅС‹ С‡РµС‚С‹СЂРµ РІРµСЂС‚РѕР»РµС‚Р°.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/23Apr2016/frblast.html\n</segment>
 		<group id="14" type="span" parent="25" relname="preparation"/>
 		<group id="12" type="multinuc" parent="14" relname="span"/>
 		<group id="25" type="multinuc" parent="26" relname="span"/>

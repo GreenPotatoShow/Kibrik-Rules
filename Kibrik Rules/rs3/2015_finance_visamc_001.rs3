@@ -20,56 +20,56 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="52" parent="54" relname="span">Visa не успевает перевести обработку операций по картам в Россию\n\nVisa не успевает перевести российский трафик на обработку в Национальную систему платежных карт до 31 марта,</segment>
-		<segment id="53" parent="52" relname="attribution">рассказали \"Ведомости\" со ссылкой на банковский источник.</segment>
-		<segment id="55" parent="56" relname="attribution">Участники рынка считают,</segment>
-		<segment id="56" parent="57" relname="span">что к 1 апреля не успеет никто - ни НСПК, ни Visa, ни MasterCard.</segment>
-		<segment id="58" parent="59" relname="condition">\"Пока даже до проверки клиринга не дошли,</segment>
-		<segment id="59" parent="60" relname="span">протестировали только каналы связи\",</segment>
-		<segment id="61" parent="60" relname="attribution">- рассказал источник газете</segment>
-		<segment id="64" parent="149" relname="preparation">.\n\nЗакон обязывает все международные платежные системы передать внутрироссийские транзакции на обработку в НСПК до 31 марта.</segment>
-		<segment id="65" parent="66" relname="condition">Если этого не будет сделано,</segment>
-		<segment id="66" parent="67" relname="span">платежная система уплачивает обеспечительный взнос,</segment>
-		<segment id="68" parent="69" relname="span">предупредил представитель ЦБ.</segment>
-		<segment id="70" parent="74" relname="joint">Размер обеспечения привязан к обороту по картам системы,</segment>
-		<segment id="73" parent="74" relname="joint">Morgan Stanley оценивал его в 950 долларов млн для Visa и 500 млн - для MasterCard.\n\</segment>
-		<segment id="76" parent="82" relname="joint">nТакие условия работы платежных систем в России законодатели установили</segment>
-		<segment id="77" parent="81" relname="span">после того, как весной 2014 года Visa и MasterCard</segment>
-		<segment id="78" parent="79" relname="cause-effect">из-за западных санкций</segment>
-		<segment id="79" parent="80" relname="span">заморозили операции по картам ряда российских банков.</segment>
-		<segment id="83" parent="87" relname="sequence">MasterCard заключила договор с Национальной системой платежных карт о переводе транзакций по картам MasterCard на процессинг НСПК в конце минувшего года,</segment>
-		<segment id="84" parent="86" relname="restatement">о чем Банк России уведомил 12 января.\n\nУ тех, кто не успевает перевести транзакции,</segment>
-		<segment id="85" parent="86" relname="restatement">есть два варианта,</segment>
-		<segment id="88" parent="87" relname="attribution">говорит замминистра финансов Алексей Моисеев:</segment>
-		<segment id="90" parent="94" relname="span">дерегистрироваться как платежная система</segment>
-		<segment id="91" parent="93" relname="contrast">(это не обязательно означает уход из России,</segment>
-		<segment id="92" parent="93" relname="contrast">но серьезно осложнит работу)</segment>
-		<segment id="95" parent="111" relname="sequence">либо внести депозит на время до завершения перехода.\n\nVisa во вторник, 24 марта,</segment>
-		<segment id="96" parent="104" relname="span">опубликовала заявление,</segment>
-		<segment id="97" parent="102" relname="attribution">в котором указала,</segment>
-		<segment id="98" parent="100" relname="span">что активно работает с НСПК и ЦБ над завершением полного перевода внутрироссийских транзакций,</segment>
-		<segment id="99" parent="98" relname="purpose">чтобы российские банки, торгово-сервисные предприятия и держатели карт не заметили изменений в работе карт Visa.\n\nMasterCard в партнерстве с НСПК</segment>
-		<segment id="101" parent="102" relname="joint">продолжает поэтапно переводить внутрироссийские транзакции на процессинг в НСПК в соответствии со сроками, определенными законодательством,</segment>
-		<segment id="105" parent="107" relname="span">заявил представитель MasterCard.\n\nСкорее всего, после 1 апреля будет переходный период,</segment>
-		<segment id="106" parent="105" relname="elaboration">в течение которого транзакции по картам МПС будут передаваться на обслуживание в НСПК,</segment>
-		<segment id="108" parent="109" relname="sequence">предполагает сотрудник банка из топ-10.</segment>
-		<segment id="115" parent="116" relname="attribution">Он рассказал,</segment>
-		<segment id="116" parent="117" relname="span">что по картам MasterCard банк сейчас проводит пилотный проект,</segment>
-		<segment id="118" parent="119" relname="cause-effect">однако с Visa банк только начал тестовые операции,</segment>
-		<segment id="119" parent="120" relname="span">после чего уже будет запускаться пилот.</segment>
-		<segment id="122" parent="129" relname="attribution">По его мнению,</segment>
-		<segment id="123" parent="128" relname="cause-effect">не все банки успели провести пилотный проект даже с картами Mastercard,</segment>
-		<segment id="124" parent="128" relname="same-unit">поэтому,</segment>
-		<segment id="125" parent="126" relname="attribution">предполагает он,</segment>
-		<segment id="126" parent="127" relname="span">не все российские транзакции этой МПС с 31 марта будут обслуживаться в НСПК.</segment>
-		<segment id="131" parent="133" relname="span">Visa потребуется еще примерно два месяца</segment>
-		<segment id="132" parent="131" relname="purpose">для перевода транзакций на НСПК,</segment>
-		<segment id="134" parent="138" relname="joint">оценивает сотрудник одной из платежных систем</segment>
-		<segment id="135" parent="136" relname="attribution">.\n\nЦБ в прошлую пятницу заявлял о том,</segment>
-		<segment id="136" parent="137" relname="span">что из 67 банков - участников МПС в Центральном федеральном округе подключено 60.</segment>
-		<segment id="140" parent="144" relname="joint">Депозиты с 31 марта будут вносить American Express, JCB и China Union Pay и другие,</segment>
-		<segment id="141" parent="142" relname="attribution">напоминает Обаева:</segment>
-		<segment id="142" parent="143" relname="span">они будут подключаться к НСПК позже, в соответствии с актами ЦБ, до 31 декабря.\n\nИсточник: https://www.newsru.com/finance/26Mar2015/visamc.html\n</segment>
+		<segment id="52" parent="54" relname="span">Visa РЅРµ СѓСЃРїРµРІР°РµС‚ РїРµСЂРµРІРµСЃС‚Рё РѕР±СЂР°Р±РѕС‚РєСѓ РѕРїРµСЂР°С†РёР№ РїРѕ РєР°СЂС‚Р°Рј РІ Р РѕСЃСЃРёСЋ\n\nVisa РЅРµ СѓСЃРїРµРІР°РµС‚ РїРµСЂРµРІРµСЃС‚Рё СЂРѕСЃСЃРёР№СЃРєРёР№ С‚СЂР°С„РёРє РЅР° РѕР±СЂР°Р±РѕС‚РєСѓ РІ РќР°С†РёРѕРЅР°Р»СЊРЅСѓСЋ СЃРёСЃС‚РµРјСѓ РїР»Р°С‚РµР¶РЅС‹С… РєР°СЂС‚ РґРѕ 31 РјР°СЂС‚Р°,</segment>
+		<segment id="53" parent="52" relname="attribution">СЂР°СЃСЃРєР°Р·Р°Р»Рё \"Р’РµРґРѕРјРѕСЃС‚Рё\" СЃРѕ СЃСЃС‹Р»РєРѕР№ РЅР° Р±Р°РЅРєРѕРІСЃРєРёР№ РёСЃС‚РѕС‡РЅРёРє.</segment>
+		<segment id="55" parent="56" relname="attribution">РЈС‡Р°СЃС‚РЅРёРєРё СЂС‹РЅРєР° СЃС‡РёС‚Р°СЋС‚,</segment>
+		<segment id="56" parent="57" relname="span">С‡С‚Рѕ Рє 1 Р°РїСЂРµР»СЏ РЅРµ СѓСЃРїРµРµС‚ РЅРёРєС‚Рѕ - РЅРё РќРЎРџРљ, РЅРё Visa, РЅРё MasterCard.</segment>
+		<segment id="58" parent="59" relname="condition">\"РџРѕРєР° РґР°Р¶Рµ РґРѕ РїСЂРѕРІРµСЂРєРё РєР»РёСЂРёРЅРіР° РЅРµ РґРѕС€Р»Рё,</segment>
+		<segment id="59" parent="60" relname="span">РїСЂРѕС‚РµСЃС‚РёСЂРѕРІР°Р»Рё С‚РѕР»СЊРєРѕ РєР°РЅР°Р»С‹ СЃРІСЏР·Рё\",</segment>
+		<segment id="61" parent="60" relname="attribution">- СЂР°СЃСЃРєР°Р·Р°Р» РёСЃС‚РѕС‡РЅРёРє РіР°Р·РµС‚Рµ</segment>
+		<segment id="64" parent="149" relname="preparation">.\n\nР—Р°РєРѕРЅ РѕР±СЏР·С‹РІР°РµС‚ РІСЃРµ РјРµР¶РґСѓРЅР°СЂРѕРґРЅС‹Рµ РїР»Р°С‚РµР¶РЅС‹Рµ СЃРёСЃС‚РµРјС‹ РїРµСЂРµРґР°С‚СЊ РІРЅСѓС‚СЂРёСЂРѕСЃСЃРёР№СЃРєРёРµ С‚СЂР°РЅР·Р°РєС†РёРё РЅР° РѕР±СЂР°Р±РѕС‚РєСѓ РІ РќРЎРџРљ РґРѕ 31 РјР°СЂС‚Р°.</segment>
+		<segment id="65" parent="66" relname="condition">Р•СЃР»Рё СЌС‚РѕРіРѕ РЅРµ Р±СѓРґРµС‚ СЃРґРµР»Р°РЅРѕ,</segment>
+		<segment id="66" parent="67" relname="span">РїР»Р°С‚РµР¶РЅР°СЏ СЃРёСЃС‚РµРјР° СѓРїР»Р°С‡РёРІР°РµС‚ РѕР±РµСЃРїРµС‡РёС‚РµР»СЊРЅС‹Р№ РІР·РЅРѕСЃ,</segment>
+		<segment id="68" parent="69" relname="span">РїСЂРµРґСѓРїСЂРµРґРёР» РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊ Р¦Р‘.</segment>
+		<segment id="70" parent="74" relname="joint">Р Р°Р·РјРµСЂ РѕР±РµСЃРїРµС‡РµРЅРёСЏ РїСЂРёРІСЏР·Р°РЅ Рє РѕР±РѕСЂРѕС‚Сѓ РїРѕ РєР°СЂС‚Р°Рј СЃРёСЃС‚РµРјС‹,</segment>
+		<segment id="73" parent="74" relname="joint">Morgan Stanley РѕС†РµРЅРёРІР°Р» РµРіРѕ РІ 950 РґРѕР»Р»Р°СЂРѕРІ РјР»РЅ РґР»СЏ Visa Рё 500 РјР»РЅ - РґР»СЏ MasterCard.\n\</segment>
+		<segment id="76" parent="82" relname="joint">nРўР°РєРёРµ СѓСЃР»РѕРІРёСЏ СЂР°Р±РѕС‚С‹ РїР»Р°С‚РµР¶РЅС‹С… СЃРёСЃС‚РµРј РІ Р РѕСЃСЃРёРё Р·Р°РєРѕРЅРѕРґР°С‚РµР»Рё СѓСЃС‚Р°РЅРѕРІРёР»Рё</segment>
+		<segment id="77" parent="81" relname="span">РїРѕСЃР»Рµ С‚РѕРіРѕ, РєР°Рє РІРµСЃРЅРѕР№ 2014 РіРѕРґР° Visa Рё MasterCard</segment>
+		<segment id="78" parent="79" relname="cause-effect">РёР·-Р·Р° Р·Р°РїР°РґРЅС‹С… СЃР°РЅРєС†РёР№</segment>
+		<segment id="79" parent="80" relname="span">Р·Р°РјРѕСЂРѕР·РёР»Рё РѕРїРµСЂР°С†РёРё РїРѕ РєР°СЂС‚Р°Рј СЂСЏРґР° СЂРѕСЃСЃРёР№СЃРєРёС… Р±Р°РЅРєРѕРІ.</segment>
+		<segment id="83" parent="87" relname="sequence">MasterCard Р·Р°РєР»СЋС‡РёР»Р° РґРѕРіРѕРІРѕСЂ СЃ РќР°С†РёРѕРЅР°Р»СЊРЅРѕР№ СЃРёСЃС‚РµРјРѕР№ РїР»Р°С‚РµР¶РЅС‹С… РєР°СЂС‚ Рѕ РїРµСЂРµРІРѕРґРµ С‚СЂР°РЅР·Р°РєС†РёР№ РїРѕ РєР°СЂС‚Р°Рј MasterCard РЅР° РїСЂРѕС†РµСЃСЃРёРЅРі РќРЎРџРљ РІ РєРѕРЅС†Рµ РјРёРЅСѓРІС€РµРіРѕ РіРѕРґР°,</segment>
+		<segment id="84" parent="86" relname="restatement">Рѕ С‡РµРј Р‘Р°РЅРє Р РѕСЃСЃРёРё СѓРІРµРґРѕРјРёР» 12 СЏРЅРІР°СЂСЏ.\n\nРЈ С‚РµС…, РєС‚Рѕ РЅРµ СѓСЃРїРµРІР°РµС‚ РїРµСЂРµРІРµСЃС‚Рё С‚СЂР°РЅР·Р°РєС†РёРё,</segment>
+		<segment id="85" parent="86" relname="restatement">РµСЃС‚СЊ РґРІР° РІР°СЂРёР°РЅС‚Р°,</segment>
+		<segment id="88" parent="87" relname="attribution">РіРѕРІРѕСЂРёС‚ Р·Р°РјРјРёРЅРёСЃС‚СЂР° С„РёРЅР°РЅСЃРѕРІ РђР»РµРєСЃРµР№ РњРѕРёСЃРµРµРІ:</segment>
+		<segment id="90" parent="94" relname="span">РґРµСЂРµРіРёСЃС‚СЂРёСЂРѕРІР°С‚СЊСЃСЏ РєР°Рє РїР»Р°С‚РµР¶РЅР°СЏ СЃРёСЃС‚РµРјР°</segment>
+		<segment id="91" parent="93" relname="contrast">(СЌС‚Рѕ РЅРµ РѕР±СЏР·Р°С‚РµР»СЊРЅРѕ РѕР·РЅР°С‡Р°РµС‚ СѓС…РѕРґ РёР· Р РѕСЃСЃРёРё,</segment>
+		<segment id="92" parent="93" relname="contrast">РЅРѕ СЃРµСЂСЊРµР·РЅРѕ РѕСЃР»РѕР¶РЅРёС‚ СЂР°Р±РѕС‚Сѓ)</segment>
+		<segment id="95" parent="111" relname="sequence">Р»РёР±Рѕ РІРЅРµСЃС‚Рё РґРµРїРѕР·РёС‚ РЅР° РІСЂРµРјСЏ РґРѕ Р·Р°РІРµСЂС€РµРЅРёСЏ РїРµСЂРµС…РѕРґР°.\n\nVisa РІРѕ РІС‚РѕСЂРЅРёРє, 24 РјР°СЂС‚Р°,</segment>
+		<segment id="96" parent="104" relname="span">РѕРїСѓР±Р»РёРєРѕРІР°Р»Р° Р·Р°СЏРІР»РµРЅРёРµ,</segment>
+		<segment id="97" parent="102" relname="attribution">РІ РєРѕС‚РѕСЂРѕРј СѓРєР°Р·Р°Р»Р°,</segment>
+		<segment id="98" parent="100" relname="span">С‡С‚Рѕ Р°РєС‚РёРІРЅРѕ СЂР°Р±РѕС‚Р°РµС‚ СЃ РќРЎРџРљ Рё Р¦Р‘ РЅР°Рґ Р·Р°РІРµСЂС€РµРЅРёРµРј РїРѕР»РЅРѕРіРѕ РїРµСЂРµРІРѕРґР° РІРЅСѓС‚СЂРёСЂРѕСЃСЃРёР№СЃРєРёС… С‚СЂР°РЅР·Р°РєС†РёР№,</segment>
+		<segment id="99" parent="98" relname="purpose">С‡С‚РѕР±С‹ СЂРѕСЃСЃРёР№СЃРєРёРµ Р±Р°РЅРєРё, С‚РѕСЂРіРѕРІРѕ-СЃРµСЂРІРёСЃРЅС‹Рµ РїСЂРµРґРїСЂРёСЏС‚РёСЏ Рё РґРµСЂР¶Р°С‚РµР»Рё РєР°СЂС‚ РЅРµ Р·Р°РјРµС‚РёР»Рё РёР·РјРµРЅРµРЅРёР№ РІ СЂР°Р±РѕС‚Рµ РєР°СЂС‚ Visa.\n\nMasterCard РІ РїР°СЂС‚РЅРµСЂСЃС‚РІРµ СЃ РќРЎРџРљ</segment>
+		<segment id="101" parent="102" relname="joint">РїСЂРѕРґРѕР»Р¶Р°РµС‚ РїРѕСЌС‚Р°РїРЅРѕ РїРµСЂРµРІРѕРґРёС‚СЊ РІРЅСѓС‚СЂРёСЂРѕСЃСЃРёР№СЃРєРёРµ С‚СЂР°РЅР·Р°РєС†РёРё РЅР° РїСЂРѕС†РµСЃСЃРёРЅРі РІ РќРЎРџРљ РІ СЃРѕРѕС‚РІРµС‚СЃС‚РІРёРё СЃРѕ СЃСЂРѕРєР°РјРё, РѕРїСЂРµРґРµР»РµРЅРЅС‹РјРё Р·Р°РєРѕРЅРѕРґР°С‚РµР»СЊСЃС‚РІРѕРј,</segment>
+		<segment id="105" parent="107" relname="span">Р·Р°СЏРІРёР» РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊ MasterCard.\n\nРЎРєРѕСЂРµРµ РІСЃРµРіРѕ, РїРѕСЃР»Рµ 1 Р°РїСЂРµР»СЏ Р±СѓРґРµС‚ РїРµСЂРµС…РѕРґРЅС‹Р№ РїРµСЂРёРѕРґ,</segment>
+		<segment id="106" parent="105" relname="elaboration">РІ С‚РµС‡РµРЅРёРµ РєРѕС‚РѕСЂРѕРіРѕ С‚СЂР°РЅР·Р°РєС†РёРё РїРѕ РєР°СЂС‚Р°Рј РњРџРЎ Р±СѓРґСѓС‚ РїРµСЂРµРґР°РІР°С‚СЊСЃСЏ РЅР° РѕР±СЃР»СѓР¶РёРІР°РЅРёРµ РІ РќРЎРџРљ,</segment>
+		<segment id="108" parent="109" relname="sequence">РїСЂРµРґРїРѕР»Р°РіР°РµС‚ СЃРѕС‚СЂСѓРґРЅРёРє Р±Р°РЅРєР° РёР· С‚РѕРї-10.</segment>
+		<segment id="115" parent="116" relname="attribution">РћРЅ СЂР°СЃСЃРєР°Р·Р°Р»,</segment>
+		<segment id="116" parent="117" relname="span">С‡С‚Рѕ РїРѕ РєР°СЂС‚Р°Рј MasterCard Р±Р°РЅРє СЃРµР№С‡Р°СЃ РїСЂРѕРІРѕРґРёС‚ РїРёР»РѕС‚РЅС‹Р№ РїСЂРѕРµРєС‚,</segment>
+		<segment id="118" parent="119" relname="cause-effect">РѕРґРЅР°РєРѕ СЃ Visa Р±Р°РЅРє С‚РѕР»СЊРєРѕ РЅР°С‡Р°Р» С‚РµСЃС‚РѕРІС‹Рµ РѕРїРµСЂР°С†РёРё,</segment>
+		<segment id="119" parent="120" relname="span">РїРѕСЃР»Рµ С‡РµРіРѕ СѓР¶Рµ Р±СѓРґРµС‚ Р·Р°РїСѓСЃРєР°С‚СЊСЃСЏ РїРёР»РѕС‚.</segment>
+		<segment id="122" parent="129" relname="attribution">РџРѕ РµРіРѕ РјРЅРµРЅРёСЋ,</segment>
+		<segment id="123" parent="128" relname="cause-effect">РЅРµ РІСЃРµ Р±Р°РЅРєРё СѓСЃРїРµР»Рё РїСЂРѕРІРµСЃС‚Рё РїРёР»РѕС‚РЅС‹Р№ РїСЂРѕРµРєС‚ РґР°Р¶Рµ СЃ РєР°СЂС‚Р°РјРё Mastercard,</segment>
+		<segment id="124" parent="128" relname="same-unit">РїРѕСЌС‚РѕРјСѓ,</segment>
+		<segment id="125" parent="126" relname="attribution">РїСЂРµРґРїРѕР»Р°РіР°РµС‚ РѕРЅ,</segment>
+		<segment id="126" parent="127" relname="span">РЅРµ РІСЃРµ СЂРѕСЃСЃРёР№СЃРєРёРµ С‚СЂР°РЅР·Р°РєС†РёРё СЌС‚РѕР№ РњРџРЎ СЃ 31 РјР°СЂС‚Р° Р±СѓРґСѓС‚ РѕР±СЃР»СѓР¶РёРІР°С‚СЊСЃСЏ РІ РќРЎРџРљ.</segment>
+		<segment id="131" parent="133" relname="span">Visa РїРѕС‚СЂРµР±СѓРµС‚СЃСЏ РµС‰Рµ РїСЂРёРјРµСЂРЅРѕ РґРІР° РјРµСЃСЏС†Р°</segment>
+		<segment id="132" parent="131" relname="purpose">РґР»СЏ РїРµСЂРµРІРѕРґР° С‚СЂР°РЅР·Р°РєС†РёР№ РЅР° РќРЎРџРљ,</segment>
+		<segment id="134" parent="138" relname="joint">РѕС†РµРЅРёРІР°РµС‚ СЃРѕС‚СЂСѓРґРЅРёРє РѕРґРЅРѕР№ РёР· РїР»Р°С‚РµР¶РЅС‹С… СЃРёСЃС‚РµРј</segment>
+		<segment id="135" parent="136" relname="attribution">.\n\nР¦Р‘ РІ РїСЂРѕС€Р»СѓСЋ РїСЏС‚РЅРёС†Сѓ Р·Р°СЏРІР»СЏР» Рѕ С‚РѕРј,</segment>
+		<segment id="136" parent="137" relname="span">С‡С‚Рѕ РёР· 67 Р±Р°РЅРєРѕРІ - СѓС‡Р°СЃС‚РЅРёРєРѕРІ РњРџРЎ РІ Р¦РµРЅС‚СЂР°Р»СЊРЅРѕРј С„РµРґРµСЂР°Р»СЊРЅРѕРј РѕРєСЂСѓРіРµ РїРѕРґРєР»СЋС‡РµРЅРѕ 60.</segment>
+		<segment id="140" parent="144" relname="joint">Р”РµРїРѕР·РёС‚С‹ СЃ 31 РјР°СЂС‚Р° Р±СѓРґСѓС‚ РІРЅРѕСЃРёС‚СЊ American Express, JCB Рё China Union Pay Рё РґСЂСѓРіРёРµ,</segment>
+		<segment id="141" parent="142" relname="attribution">РЅР°РїРѕРјРёРЅР°РµС‚ РћР±Р°РµРІР°:</segment>
+		<segment id="142" parent="143" relname="span">РѕРЅРё Р±СѓРґСѓС‚ РїРѕРґРєР»СЋС‡Р°С‚СЊСЃСЏ Рє РќРЎРџРљ РїРѕР·Р¶Рµ, РІ СЃРѕРѕС‚РІРµС‚СЃС‚РІРёРё СЃ Р°РєС‚Р°РјРё Р¦Р‘, РґРѕ 31 РґРµРєР°Р±СЂСЏ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/finance/26Mar2015/visamc.html\n</segment>
 		<group id="54" type="span" parent="151" relname="preparation"/>
 		<group id="151" type="span" parent="152" relname="span"/>
 		<group id="63" type="multinuc" parent="150" relname="preparation"/>

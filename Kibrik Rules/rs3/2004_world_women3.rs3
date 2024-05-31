@@ -13,24 +13,24 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="19" parent="21" relname="span">В Германии женщина прошла 100 км от автосервиса до дома,</segment>
-		<segment id="20" parent="19" relname="cause-effect">решив, что муж уехал без нее\n\</segment>
-		<segment id="22" parent="28" relname="span">nВ Германии женщина прошла около 100 км от автосервиса до дома,</segment>
-		<segment id="23" parent="26" relname="cause-effect">поскольку подумала, что муж бросил ее на стоянке</segment>
-		<segment id="24" parent="25" relname="cause-effect">и уехал без нее.\n\nКак выяснилось позже,</segment>
-		<segment id="25" parent="26" relname="span">немка просто не заметила свою машину на стоянке у сервиса,</segment>
-		<segment id="29" parent="28" relname="attribution">сообщает Ananova.</segment>
-		<segment id="32" parent="38" relname="same-unit">Между тем ее муж, тщетно дожидавшийся ее в автомобиле,</segment>
-		<segment id="33" parent="36" relname="attribution">решил,</segment>
-		<segment id="34" parent="36" relname="joint">что с супругой что-то случилось,</segment>
-		<segment id="35" parent="36" relname="joint">и сообщил об исчезновении в полицию.\n\nОднако помощь представителей правопорядка не потребовалась.</segment>
-		<segment id="39" parent="43" relname="sequence">Через 15 часов жена, крайне уставшая и задыхающаяся от долгой ходьбы,</segment>
-		<segment id="40" parent="42" relname="span">и при этом крайне разгневанная,</segment>
-		<segment id="41" parent="40" relname="cause-effect">дошла до дома.\n\</segment>
-		<segment id="44" parent="46" relname="joint">nОна так рассердилась</segment>
-		<segment id="45" parent="46" relname="joint">и обиделась на своего супруга,</segment>
-		<segment id="47" parent="48" relname="cause-effect">что он бросил ее на стоянке вдали от дома,</segment>
-		<segment id="48" parent="49" relname="span">что решила добраться до родного городка самостоятельно.\n\nИсточник: https://www.newsru.com/world/16Jun2004/women3.html\n</segment>
+		<segment id="19" parent="21" relname="span">Р’ Р“РµСЂРјР°РЅРёРё Р¶РµРЅС‰РёРЅР° РїСЂРѕС€Р»Р° 100 РєРј РѕС‚ Р°РІС‚РѕСЃРµСЂРІРёСЃР° РґРѕ РґРѕРјР°,</segment>
+		<segment id="20" parent="19" relname="cause-effect">СЂРµС€РёРІ, С‡С‚Рѕ РјСѓР¶ СѓРµС…Р°Р» Р±РµР· РЅРµРµ\n\</segment>
+		<segment id="22" parent="28" relname="span">nР’ Р“РµСЂРјР°РЅРёРё Р¶РµРЅС‰РёРЅР° РїСЂРѕС€Р»Р° РѕРєРѕР»Рѕ 100 РєРј РѕС‚ Р°РІС‚РѕСЃРµСЂРІРёСЃР° РґРѕ РґРѕРјР°,</segment>
+		<segment id="23" parent="26" relname="cause-effect">РїРѕСЃРєРѕР»СЊРєСѓ РїРѕРґСѓРјР°Р»Р°, С‡С‚Рѕ РјСѓР¶ Р±СЂРѕСЃРёР» РµРµ РЅР° СЃС‚РѕСЏРЅРєРµ</segment>
+		<segment id="24" parent="25" relname="cause-effect">Рё СѓРµС…Р°Р» Р±РµР· РЅРµРµ.\n\nРљР°Рє РІС‹СЏСЃРЅРёР»РѕСЃСЊ РїРѕР·Р¶Рµ,</segment>
+		<segment id="25" parent="26" relname="span">РЅРµРјРєР° РїСЂРѕСЃС‚Рѕ РЅРµ Р·Р°РјРµС‚РёР»Р° СЃРІРѕСЋ РјР°С€РёРЅСѓ РЅР° СЃС‚РѕСЏРЅРєРµ Сѓ СЃРµСЂРІРёСЃР°,</segment>
+		<segment id="29" parent="28" relname="attribution">СЃРѕРѕР±С‰Р°РµС‚ Ananova.</segment>
+		<segment id="32" parent="38" relname="same-unit">РњРµР¶РґСѓ С‚РµРј РµРµ РјСѓР¶, С‚С‰РµС‚РЅРѕ РґРѕР¶РёРґР°РІС€РёР№СЃСЏ РµРµ РІ Р°РІС‚РѕРјРѕР±РёР»Рµ,</segment>
+		<segment id="33" parent="36" relname="attribution">СЂРµС€РёР»,</segment>
+		<segment id="34" parent="36" relname="joint">С‡С‚Рѕ СЃ СЃСѓРїСЂСѓРіРѕР№ С‡С‚Рѕ-С‚Рѕ СЃР»СѓС‡РёР»РѕСЃСЊ,</segment>
+		<segment id="35" parent="36" relname="joint">Рё СЃРѕРѕР±С‰РёР» РѕР± РёСЃС‡РµР·РЅРѕРІРµРЅРёРё РІ РїРѕР»РёС†РёСЋ.\n\nРћРґРЅР°РєРѕ РїРѕРјРѕС‰СЊ РїСЂРµРґСЃС‚Р°РІРёС‚РµР»РµР№ РїСЂР°РІРѕРїРѕСЂСЏРґРєР° РЅРµ РїРѕС‚СЂРµР±РѕРІР°Р»Р°СЃСЊ.</segment>
+		<segment id="39" parent="43" relname="sequence">Р§РµСЂРµР· 15 С‡Р°СЃРѕРІ Р¶РµРЅР°, РєСЂР°Р№РЅРµ СѓСЃС‚Р°РІС€Р°СЏ Рё Р·Р°РґС‹С…Р°СЋС‰Р°СЏСЃСЏ РѕС‚ РґРѕР»РіРѕР№ С…РѕРґСЊР±С‹,</segment>
+		<segment id="40" parent="42" relname="span">Рё РїСЂРё СЌС‚РѕРј РєСЂР°Р№РЅРµ СЂР°Р·РіРЅРµРІР°РЅРЅР°СЏ,</segment>
+		<segment id="41" parent="40" relname="cause-effect">РґРѕС€Р»Р° РґРѕ РґРѕРјР°.\n\</segment>
+		<segment id="44" parent="46" relname="joint">nРћРЅР° С‚Р°Рє СЂР°СЃСЃРµСЂРґРёР»Р°СЃСЊ</segment>
+		<segment id="45" parent="46" relname="joint">Рё РѕР±РёРґРµР»Р°СЃСЊ РЅР° СЃРІРѕРµРіРѕ СЃСѓРїСЂСѓРіР°,</segment>
+		<segment id="47" parent="48" relname="cause-effect">С‡С‚Рѕ РѕРЅ Р±СЂРѕСЃРёР» РµРµ РЅР° СЃС‚РѕСЏРЅРєРµ РІРґР°Р»Рё РѕС‚ РґРѕРјР°,</segment>
+		<segment id="48" parent="49" relname="span">С‡С‚Рѕ СЂРµС€РёР»Р° РґРѕР±СЂР°С‚СЊСЃСЏ РґРѕ СЂРѕРґРЅРѕРіРѕ РіРѕСЂРѕРґРєР° СЃР°РјРѕСЃС‚РѕСЏС‚РµР»СЊРЅРѕ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/16Jun2004/women3.html\n</segment>
 		<group id="31" type="multinuc" parent="53" relname="comparison"/>
 		<group id="21" type="span" parent="31" relname="comparison"/>
 		<group id="30" type="span" parent="31" relname="comparison"/>

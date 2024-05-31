@@ -11,16 +11,16 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="11" parent="17" relname="joint">Анатолий Берштейн: \"Возвращение на круги своя\"\n\n\"Как последовательно, но верно возвращается на круги своя то немногое, что успел сделать Дмитрий Медведев на посту президента:</segment>
-		<segment id="12" parent="14" relname="span">и время, и либерализация законодательства</segment>
-		<segment id="13" parent="12" relname="elaboration">(во всяком случае, на практике), конкретная статья о клевете,</segment>
-		<segment id="15" parent="16" relname="same-unit">теперь вот возраст чиновников.</segment>
-		<segment id="18" parent="28" relname="span">Как же это все унизительно.</segment>
-		<segment id="19" parent="21" relname="span">За какие такие \"президентские\" коврижки люди готовы к тому,</segment>
-		<segment id="20" parent="19" relname="purpose">чтобы о них вытирали ноги.</segment>
-		<segment id="22" parent="26" relname="joint">Да, собственно, ведь дело даже не в этом – а в имени в истории.</segment>
-		<segment id="23" parent="25" relname="span">И его не жалко</segment>
-		<segment id="24" parent="23" relname="cause-effect">ради временных амбиций.\"\n\nИсточник: https://www.newsru.com/blog/05Sep2012/visrorii.html\n</segment>
+		<segment id="11" parent="17" relname="joint">РђРЅР°С‚РѕР»РёР№ Р‘РµСЂС€С‚РµР№РЅ: \"Р’РѕР·РІСЂР°С‰РµРЅРёРµ РЅР° РєСЂСѓРіРё СЃРІРѕСЏ\"\n\n\"РљР°Рє РїРѕСЃР»РµРґРѕРІР°С‚РµР»СЊРЅРѕ, РЅРѕ РІРµСЂРЅРѕ РІРѕР·РІСЂР°С‰Р°РµС‚СЃСЏ РЅР° РєСЂСѓРіРё СЃРІРѕСЏ С‚Рѕ РЅРµРјРЅРѕРіРѕРµ, С‡С‚Рѕ СѓСЃРїРµР» СЃРґРµР»Р°С‚СЊ Р”РјРёС‚СЂРёР№ РњРµРґРІРµРґРµРІ РЅР° РїРѕСЃС‚Сѓ РїСЂРµР·РёРґРµРЅС‚Р°:</segment>
+		<segment id="12" parent="14" relname="span">Рё РІСЂРµРјСЏ, Рё Р»РёР±РµСЂР°Р»РёР·Р°С†РёСЏ Р·Р°РєРѕРЅРѕРґР°С‚РµР»СЊСЃС‚РІР°</segment>
+		<segment id="13" parent="12" relname="elaboration">(РІРѕ РІСЃСЏРєРѕРј СЃР»СѓС‡Р°Рµ, РЅР° РїСЂР°РєС‚РёРєРµ), РєРѕРЅРєСЂРµС‚РЅР°СЏ СЃС‚Р°С‚СЊСЏ Рѕ РєР»РµРІРµС‚Рµ,</segment>
+		<segment id="15" parent="16" relname="same-unit">С‚РµРїРµСЂСЊ РІРѕС‚ РІРѕР·СЂР°СЃС‚ С‡РёРЅРѕРІРЅРёРєРѕРІ.</segment>
+		<segment id="18" parent="28" relname="span">РљР°Рє Р¶Рµ СЌС‚Рѕ РІСЃРµ СѓРЅРёР·РёС‚РµР»СЊРЅРѕ.</segment>
+		<segment id="19" parent="21" relname="span">Р—Р° РєР°РєРёРµ С‚Р°РєРёРµ \"РїСЂРµР·РёРґРµРЅС‚СЃРєРёРµ\" РєРѕРІСЂРёР¶РєРё Р»СЋРґРё РіРѕС‚РѕРІС‹ Рє С‚РѕРјСѓ,</segment>
+		<segment id="20" parent="19" relname="purpose">С‡С‚РѕР±С‹ Рѕ РЅРёС… РІС‹С‚РёСЂР°Р»Рё РЅРѕРіРё.</segment>
+		<segment id="22" parent="26" relname="joint">Р”Р°, СЃРѕР±СЃС‚РІРµРЅРЅРѕ, РІРµРґСЊ РґРµР»Рѕ РґР°Р¶Рµ РЅРµ РІ СЌС‚РѕРј вЂ“ Р° РІ РёРјРµРЅРё РІ РёСЃС‚РѕСЂРёРё.</segment>
+		<segment id="23" parent="25" relname="span">Р РµРіРѕ РЅРµ Р¶Р°Р»РєРѕ</segment>
+		<segment id="24" parent="23" relname="cause-effect">СЂР°РґРё РІСЂРµРјРµРЅРЅС‹С… Р°РјР±РёС†РёР№.\"\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/blog/05Sep2012/visrorii.html\n</segment>
 		<group id="17" type="multinuc" parent="29" relname="span"/>
 		<group id="16" type="multinuc" parent="17" relname="joint"/>
 		<group id="14" type="span" parent="16" relname="same-unit"/>

@@ -10,14 +10,14 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="9" parent="22" relname="preparation">Транспортный туннель в центре Москвы залит водой\n\</segment>
-		<segment id="10" parent="21" relname="preparation">nВ четверг утром оказался подтоплен водой автомобильный туннель под улицей Новый Арбат в центре Москвы.</segment>
-		<segment id="11" parent="12" relname="attribution">ГИБДД сообщает,</segment>
-		<segment id="12" parent="13" relname="span">что вода в туннель начала поступать примерно в 7:30 из колодцев, расположенных на проезжей части,</segment>
-		<segment id="14" parent="20" relname="span">сообщает \"Интерфакс\".\n\</segment>
-		<segment id="15" parent="16" relname="cause-effect">nИз-за этого сейчас на участке Садового кольца от Смоленской площади до улицы Новый Арбат скопилась огромная пробка,</segment>
-		<segment id="16" parent="17" relname="span">движение автотранспорта затруднено.\n\nНа месте уже работают аварийные бригады,</segment>
-		<segment id="18" parent="17" relname="cause-effect">причины происшедшего выясняются.\n\nИсточник: https://www.newsru.com/russia/12Jul2001/moscow_tunn.html\n</segment>
+		<segment id="9" parent="22" relname="preparation">РўСЂР°РЅСЃРїРѕСЂС‚РЅС‹Р№ С‚СѓРЅРЅРµР»СЊ РІ С†РµРЅС‚СЂРµ РњРѕСЃРєРІС‹ Р·Р°Р»РёС‚ РІРѕРґРѕР№\n\</segment>
+		<segment id="10" parent="21" relname="preparation">nР’ С‡РµС‚РІРµСЂРі СѓС‚СЂРѕРј РѕРєР°Р·Р°Р»СЃСЏ РїРѕРґС‚РѕРїР»РµРЅ РІРѕРґРѕР№ Р°РІС‚РѕРјРѕР±РёР»СЊРЅС‹Р№ С‚СѓРЅРЅРµР»СЊ РїРѕРґ СѓР»РёС†РµР№ РќРѕРІС‹Р№ РђСЂР±Р°С‚ РІ С†РµРЅС‚СЂРµ РњРѕСЃРєРІС‹.</segment>
+		<segment id="11" parent="12" relname="attribution">Р“РР‘Р”Р” СЃРѕРѕР±С‰Р°РµС‚,</segment>
+		<segment id="12" parent="13" relname="span">С‡С‚Рѕ РІРѕРґР° РІ С‚СѓРЅРЅРµР»СЊ РЅР°С‡Р°Р»Р° РїРѕСЃС‚СѓРїР°С‚СЊ РїСЂРёРјРµСЂРЅРѕ РІ 7:30 РёР· РєРѕР»РѕРґС†РµРІ, СЂР°СЃРїРѕР»РѕР¶РµРЅРЅС‹С… РЅР° РїСЂРѕРµР·Р¶РµР№ С‡Р°СЃС‚Рё,</segment>
+		<segment id="14" parent="20" relname="span">СЃРѕРѕР±С‰Р°РµС‚ \"РРЅС‚РµСЂС„Р°РєСЃ\".\n\</segment>
+		<segment id="15" parent="16" relname="cause-effect">nРР·-Р·Р° СЌС‚РѕРіРѕ СЃРµР№С‡Р°СЃ РЅР° СѓС‡Р°СЃС‚РєРµ РЎР°РґРѕРІРѕРіРѕ РєРѕР»СЊС†Р° РѕС‚ РЎРјРѕР»РµРЅСЃРєРѕР№ РїР»РѕС‰Р°РґРё РґРѕ СѓР»РёС†С‹ РќРѕРІС‹Р№ РђСЂР±Р°С‚ СЃРєРѕРїРёР»Р°СЃСЊ РѕРіСЂРѕРјРЅР°СЏ РїСЂРѕР±РєР°,</segment>
+		<segment id="16" parent="17" relname="span">РґРІРёР¶РµРЅРёРµ Р°РІС‚РѕС‚СЂР°РЅСЃРїРѕСЂС‚Р° Р·Р°С‚СЂСѓРґРЅРµРЅРѕ.\n\nРќР° РјРµСЃС‚Рµ СѓР¶Рµ СЂР°Р±РѕС‚Р°СЋС‚ Р°РІР°СЂРёР№РЅС‹Рµ Р±СЂРёРіР°РґС‹,</segment>
+		<segment id="18" parent="17" relname="cause-effect">РїСЂРёС‡РёРЅС‹ РїСЂРѕРёСЃС€РµРґС€РµРіРѕ РІС‹СЏСЃРЅСЏСЋС‚СЃСЏ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/12Jul2001/moscow_tunn.html\n</segment>
 		<group id="22" type="span" parent="23" relname="span"/>
 		<group id="21" type="multinuc" parent="22" relname="span"/>
 		<group id="13" type="span" parent="21" relname="joint"/>

@@ -14,26 +14,26 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="21" parent="58" relname="preparation">В смартфонах Samsung обнаружили опасную уязвимость\n\</segment>
-		<segment id="22" parent="23" relname="attribution">nСпециалисты Национального института стандартов и технологий США (NIST) сообщили</segment>
-		<segment id="23" parent="24" relname="span">о серьезной уязвимости в программном обеспечении смартфонов Samsung и, в частности, в функции Find My Mobile,</segment>
-		<segment id="25" parent="24" relname="attribution">сообщает портал Onliner.\n\nСервис Find My Mobile представляет собой аналог сервисов Android Device Manager и Find My iPhone.</segment>
-		<segment id="27" parent="29" relname="joint">С его помощью пользователи могут удаленно заблокировать смартфон</segment>
-		<segment id="28" parent="29" relname="joint">или отследить его местоположение.\n\</segment>
-		<segment id="31" parent="34" relname="attribution">nЭксперты установили,</segment>
-		<segment id="32" parent="34" relname="span">что система не проверяет источник данных о ключе безопасности,</segment>
-		<segment id="33" parent="32" relname="purpose">необходимом для управления смартфоном и передаваемом через сеть.</segment>
-		<segment id="36" parent="40" relname="joint">Эта уязвимость дает хакерам потенциальную возможность удаленно заблокировать смартфон жертвы,</segment>
-		<segment id="37" parent="39" relname="joint">позвонить с него</segment>
-		<segment id="38" parent="39" relname="joint">или даже удалить с него все файлы.</segment>
-		<segment id="42" parent="48" relname="joint">Специалисты оценили опасность обнаруженного бага в 7,8 балла из 10,</segment>
-		<segment id="43" parent="47" relname="span">а возможность его эксплуатации оценивается в максимальные 10 баллов.\n\nОдин из экспертов NIST по имени Мохамед Басет разместил на YouTube видеоролик,</segment>
-		<segment id="44" parent="45" relname="attribution">в котором продемонстрировал,</segment>
-		<segment id="45" parent="46" relname="span">как именно можно получить доступ к устройству с включенной функцией Find My Mobile.\n\</segment>
-		<segment id="49" parent="51" relname="contrast">nКомпания Samsung получила уведомление об обнаруженной ошибке,</segment>
-		<segment id="50" parent="51" relname="contrast">однако пока ее представители никак не прокомментировали ситуацию.</segment>
-		<segment id="52" parent="53" relname="condition">Тем, кто опасается вторжения хакеров,</segment>
-		<segment id="53" parent="54" relname="span">специалисты рекомендуют отключить функцию удаленного поиска и управления смартфоном до устранения уязвимости.\n\nИсточник: https://www.newsru.com/hitech/28Oct2014/samsunghack.html\n</segment>
+		<segment id="21" parent="58" relname="preparation">Р’ СЃРјР°СЂС‚С„РѕРЅР°С… Samsung РѕР±РЅР°СЂСѓР¶РёР»Рё РѕРїР°СЃРЅСѓСЋ СѓСЏР·РІРёРјРѕСЃС‚СЊ\n\</segment>
+		<segment id="22" parent="23" relname="attribution">nРЎРїРµС†РёР°Р»РёСЃС‚С‹ РќР°С†РёРѕРЅР°Р»СЊРЅРѕРіРѕ РёРЅСЃС‚РёС‚СѓС‚Р° СЃС‚Р°РЅРґР°СЂС‚РѕРІ Рё С‚РµС…РЅРѕР»РѕРіРёР№ РЎРЁРђ (NIST) СЃРѕРѕР±С‰РёР»Рё</segment>
+		<segment id="23" parent="24" relname="span">Рѕ СЃРµСЂСЊРµР·РЅРѕР№ СѓСЏР·РІРёРјРѕСЃС‚Рё РІ РїСЂРѕРіСЂР°РјРјРЅРѕРј РѕР±РµСЃРїРµС‡РµРЅРёРё СЃРјР°СЂС‚С„РѕРЅРѕРІ Samsung Рё, РІ С‡Р°СЃС‚РЅРѕСЃС‚Рё, РІ С„СѓРЅРєС†РёРё Find My Mobile,</segment>
+		<segment id="25" parent="24" relname="attribution">СЃРѕРѕР±С‰Р°РµС‚ РїРѕСЂС‚Р°Р» Onliner.\n\nРЎРµСЂРІРёСЃ Find My Mobile РїСЂРµРґСЃС‚Р°РІР»СЏРµС‚ СЃРѕР±РѕР№ Р°РЅР°Р»РѕРі СЃРµСЂРІРёСЃРѕРІ Android Device Manager Рё Find My iPhone.</segment>
+		<segment id="27" parent="29" relname="joint">РЎ РµРіРѕ РїРѕРјРѕС‰СЊСЋ РїРѕР»СЊР·РѕРІР°С‚РµР»Рё РјРѕРіСѓС‚ СѓРґР°Р»РµРЅРЅРѕ Р·Р°Р±Р»РѕРєРёСЂРѕРІР°С‚СЊ СЃРјР°СЂС‚С„РѕРЅ</segment>
+		<segment id="28" parent="29" relname="joint">РёР»Рё РѕС‚СЃР»РµРґРёС‚СЊ РµРіРѕ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёРµ.\n\</segment>
+		<segment id="31" parent="34" relname="attribution">nР­РєСЃРїРµСЂС‚С‹ СѓСЃС‚Р°РЅРѕРІРёР»Рё,</segment>
+		<segment id="32" parent="34" relname="span">С‡С‚Рѕ СЃРёСЃС‚РµРјР° РЅРµ РїСЂРѕРІРµСЂСЏРµС‚ РёСЃС‚РѕС‡РЅРёРє РґР°РЅРЅС‹С… Рѕ РєР»СЋС‡Рµ Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё,</segment>
+		<segment id="33" parent="32" relname="purpose">РЅРµРѕР±С…РѕРґРёРјРѕРј РґР»СЏ СѓРїСЂР°РІР»РµРЅРёСЏ СЃРјР°СЂС‚С„РѕРЅРѕРј Рё РїРµСЂРµРґР°РІР°РµРјРѕРј С‡РµСЂРµР· СЃРµС‚СЊ.</segment>
+		<segment id="36" parent="40" relname="joint">Р­С‚Р° СѓСЏР·РІРёРјРѕСЃС‚СЊ РґР°РµС‚ С…Р°РєРµСЂР°Рј РїРѕС‚РµРЅС†РёР°Р»СЊРЅСѓСЋ РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ СѓРґР°Р»РµРЅРЅРѕ Р·Р°Р±Р»РѕРєРёСЂРѕРІР°С‚СЊ СЃРјР°СЂС‚С„РѕРЅ Р¶РµСЂС‚РІС‹,</segment>
+		<segment id="37" parent="39" relname="joint">РїРѕР·РІРѕРЅРёС‚СЊ СЃ РЅРµРіРѕ</segment>
+		<segment id="38" parent="39" relname="joint">РёР»Рё РґР°Р¶Рµ СѓРґР°Р»РёС‚СЊ СЃ РЅРµРіРѕ РІСЃРµ С„Р°Р№Р»С‹.</segment>
+		<segment id="42" parent="48" relname="joint">РЎРїРµС†РёР°Р»РёСЃС‚С‹ РѕС†РµРЅРёР»Рё РѕРїР°СЃРЅРѕСЃС‚СЊ РѕР±РЅР°СЂСѓР¶РµРЅРЅРѕРіРѕ Р±Р°РіР° РІ 7,8 Р±Р°Р»Р»Р° РёР· 10,</segment>
+		<segment id="43" parent="47" relname="span">Р° РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ РµРіРѕ СЌРєСЃРїР»СѓР°С‚Р°С†РёРё РѕС†РµРЅРёРІР°РµС‚СЃСЏ РІ РјР°РєСЃРёРјР°Р»СЊРЅС‹Рµ 10 Р±Р°Р»Р»РѕРІ.\n\nРћРґРёРЅ РёР· СЌРєСЃРїРµСЂС‚РѕРІ NIST РїРѕ РёРјРµРЅРё РњРѕС…Р°РјРµРґ Р‘Р°СЃРµС‚ СЂР°Р·РјРµСЃС‚РёР» РЅР° YouTube РІРёРґРµРѕСЂРѕР»РёРє,</segment>
+		<segment id="44" parent="45" relname="attribution">РІ РєРѕС‚РѕСЂРѕРј РїСЂРѕРґРµРјРѕРЅСЃС‚СЂРёСЂРѕРІР°Р»,</segment>
+		<segment id="45" parent="46" relname="span">РєР°Рє РёРјРµРЅРЅРѕ РјРѕР¶РЅРѕ РїРѕР»СѓС‡РёС‚СЊ РґРѕСЃС‚СѓРї Рє СѓСЃС‚СЂРѕР№СЃС‚РІСѓ СЃ РІРєР»СЋС‡РµРЅРЅРѕР№ С„СѓРЅРєС†РёРµР№ Find My Mobile.\n\</segment>
+		<segment id="49" parent="51" relname="contrast">nРљРѕРјРїР°РЅРёСЏ Samsung РїРѕР»СѓС‡РёР»Р° СѓРІРµРґРѕРјР»РµРЅРёРµ РѕР± РѕР±РЅР°СЂСѓР¶РµРЅРЅРѕР№ РѕС€РёР±РєРµ,</segment>
+		<segment id="50" parent="51" relname="contrast">РѕРґРЅР°РєРѕ РїРѕРєР° РµРµ РїСЂРµРґСЃС‚Р°РІРёС‚РµР»Рё РЅРёРєР°Рє РЅРµ РїСЂРѕРєРѕРјРјРµРЅС‚РёСЂРѕРІР°Р»Рё СЃРёС‚СѓР°С†РёСЋ.</segment>
+		<segment id="52" parent="53" relname="condition">РўРµРј, РєС‚Рѕ РѕРїР°СЃР°РµС‚СЃСЏ РІС‚РѕСЂР¶РµРЅРёСЏ С…Р°РєРµСЂРѕРІ,</segment>
+		<segment id="53" parent="54" relname="span">СЃРїРµС†РёР°Р»РёСЃС‚С‹ СЂРµРєРѕРјРµРЅРґСѓСЋС‚ РѕС‚РєР»СЋС‡РёС‚СЊ С„СѓРЅРєС†РёСЋ СѓРґР°Р»РµРЅРЅРѕРіРѕ РїРѕРёСЃРєР° Рё СѓРїСЂР°РІР»РµРЅРёСЏ СЃРјР°СЂС‚С„РѕРЅРѕРј РґРѕ СѓСЃС‚СЂР°РЅРµРЅРёСЏ СѓСЏР·РІРёРјРѕСЃС‚Рё.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/hitech/28Oct2014/samsunghack.html\n</segment>
 		<group id="58" type="multinuc" parent="59" relname="span"/>
 		<group id="30" type="multinuc" parent="58" relname="joint"/>
 		<group id="26" type="span" parent="30" relname="joint"/>

@@ -7,11 +7,11 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="6" parent="14" relname="sequence">\"Урал-Грейт\" вышел в финал\n\</segment>
-		<segment id="7" parent="13" relname="span">nВ Санкт-Петербурге закончился групповой отборочный турнир розыгрыша Кубка России по баскетболу.</segment>
-		<segment id="8" parent="10" relname="span">Вице-чемпион страны пермский \"Урал-Грейт\" уверенно обыграл питерский \"Спартак\" 75:55,</segment>
-		<segment id="9" parent="8" relname="elaboration">уступивший, кстати, и подмосковному клубу \"Химки\".</segment>
-		<segment id="11" parent="12" relname="sequence">Теперь и \"Урал-Грейт\", и \"Химки\" встретятся в финале Кубка, который состоится в начале октября в Сочи.\n\nИсточник: https://www.newsru.com/sport/04Sep2000/ural.html\n</segment>
+		<segment id="6" parent="14" relname="sequence">\"РЈСЂР°Р»-Р“СЂРµР№С‚\" РІС‹С€РµР» РІ С„РёРЅР°Р»\n\</segment>
+		<segment id="7" parent="13" relname="span">nР’ РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРіРµ Р·Р°РєРѕРЅС‡РёР»СЃСЏ РіСЂСѓРїРїРѕРІРѕР№ РѕС‚Р±РѕСЂРѕС‡РЅС‹Р№ С‚СѓСЂРЅРёСЂ СЂРѕР·С‹РіСЂС‹С€Р° РљСѓР±РєР° Р РѕСЃСЃРёРё РїРѕ Р±Р°СЃРєРµС‚Р±РѕР»Сѓ.</segment>
+		<segment id="8" parent="10" relname="span">Р’РёС†Рµ-С‡РµРјРїРёРѕРЅ СЃС‚СЂР°РЅС‹ РїРµСЂРјСЃРєРёР№ \"РЈСЂР°Р»-Р“СЂРµР№С‚\" СѓРІРµСЂРµРЅРЅРѕ РѕР±С‹РіСЂР°Р» РїРёС‚РµСЂСЃРєРёР№ \"РЎРїР°СЂС‚Р°Рє\" 75:55,</segment>
+		<segment id="9" parent="8" relname="elaboration">СѓСЃС‚СѓРїРёРІС€РёР№, РєСЃС‚Р°С‚Рё, Рё РїРѕРґРјРѕСЃРєРѕРІРЅРѕРјСѓ РєР»СѓР±Сѓ \"РҐРёРјРєРё\".</segment>
+		<segment id="11" parent="12" relname="sequence">РўРµРїРµСЂСЊ Рё \"РЈСЂР°Р»-Р“СЂРµР№С‚\", Рё \"РҐРёРјРєРё\" РІСЃС‚СЂРµС‚СЏС‚СЃСЏ РІ С„РёРЅР°Р»Рµ РљСѓР±РєР°, РєРѕС‚РѕСЂС‹Р№ СЃРѕСЃС‚РѕРёС‚СЃСЏ РІ РЅР°С‡Р°Р»Рµ РѕРєС‚СЏР±СЂСЏ РІ РЎРѕС‡Рё.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/sport/04Sep2000/ural.html\n</segment>
 		<group id="13" type="span" parent="14" relname="sequence"/>
 		<group id="12" type="multinuc" parent="7" relname="elaboration"/>
 		<group id="10" type="span" parent="12" relname="sequence"/>

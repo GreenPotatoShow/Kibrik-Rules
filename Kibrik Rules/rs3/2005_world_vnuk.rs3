@@ -10,14 +10,14 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="9" parent="22" relname="preparation">У Ющенко родился внук\n\</segment>
-		<segment id="10" parent="22" relname="span">nВ понедельник старшая дочь Виктора Ющенко Виталина родила мальчика.\n\</segment>
-		<segment id="11" parent="12" relname="attribution">nКак сообщает пресс-служба Виктора Ющенко,</segment>
-		<segment id="12" parent="13" relname="span">роды прошли в одном из киевском роддомов.\n\nВес новорожденного - 3,340 кг,</segment>
-		<segment id="14" parent="16" relname="sequence">рост - 52 см.\n\nМалыша назвали в честь деда - Виктором.\n\nМать и сын чувствуют себя хорошо</segment>
-		<segment id="15" parent="16" relname="sequence">.\n\nВиктор Ющенко стал дедом во второй раз.</segment>
-		<segment id="17" parent="19" relname="span">У Виталины уже есть дочь.\n\n25 марта 2004 года у Виктора Ющенко родился сын Тарас.</segment>
-		<segment id="18" parent="17" relname="elaboration">Всего у него пятеро детей - сыновья Андрей и Тарас, три дочери - Виталина, София и Христина.\n\nИсточник: https://www.newsru.com/world/03Jan2005/vnuk.html\n</segment>
+		<segment id="9" parent="22" relname="preparation">РЈ Р®С‰РµРЅРєРѕ СЂРѕРґРёР»СЃСЏ РІРЅСѓРє\n\</segment>
+		<segment id="10" parent="22" relname="span">nР’ РїРѕРЅРµРґРµР»СЊРЅРёРє СЃС‚Р°СЂС€Р°СЏ РґРѕС‡СЊ Р’РёРєС‚РѕСЂР° Р®С‰РµРЅРєРѕ Р’РёС‚Р°Р»РёРЅР° СЂРѕРґРёР»Р° РјР°Р»СЊС‡РёРєР°.\n\</segment>
+		<segment id="11" parent="12" relname="attribution">nРљР°Рє СЃРѕРѕР±С‰Р°РµС‚ РїСЂРµСЃСЃ-СЃР»СѓР¶Р±Р° Р’РёРєС‚РѕСЂР° Р®С‰РµРЅРєРѕ,</segment>
+		<segment id="12" parent="13" relname="span">СЂРѕРґС‹ РїСЂРѕС€Р»Рё РІ РѕРґРЅРѕРј РёР· РєРёРµРІСЃРєРѕРј СЂРѕРґРґРѕРјРѕРІ.\n\nР’РµСЃ РЅРѕРІРѕСЂРѕР¶РґРµРЅРЅРѕРіРѕ - 3,340 РєРі,</segment>
+		<segment id="14" parent="16" relname="sequence">СЂРѕСЃС‚ - 52 СЃРј.\n\nРњР°Р»С‹С€Р° РЅР°Р·РІР°Р»Рё РІ С‡РµСЃС‚СЊ РґРµРґР° - Р’РёРєС‚РѕСЂРѕРј.\n\nРњР°С‚СЊ Рё СЃС‹РЅ С‡СѓРІСЃС‚РІСѓСЋС‚ СЃРµР±СЏ С…РѕСЂРѕС€Рѕ</segment>
+		<segment id="15" parent="16" relname="sequence">.\n\nР’РёРєС‚РѕСЂ Р®С‰РµРЅРєРѕ СЃС‚Р°Р» РґРµРґРѕРј РІРѕ РІС‚РѕСЂРѕР№ СЂР°Р·.</segment>
+		<segment id="17" parent="19" relname="span">РЈ Р’РёС‚Р°Р»РёРЅС‹ СѓР¶Рµ РµСЃС‚СЊ РґРѕС‡СЊ.\n\n25 РјР°СЂС‚Р° 2004 РіРѕРґР° Сѓ Р’РёРєС‚РѕСЂР° Р®С‰РµРЅРєРѕ СЂРѕРґРёР»СЃСЏ СЃС‹РЅ РўР°СЂР°СЃ.</segment>
+		<segment id="18" parent="17" relname="elaboration">Р’СЃРµРіРѕ Сѓ РЅРµРіРѕ РїСЏС‚РµСЂРѕ РґРµС‚РµР№ - СЃС‹РЅРѕРІСЊСЏ РђРЅРґСЂРµР№ Рё РўР°СЂР°СЃ, С‚СЂРё РґРѕС‡РµСЂРё - Р’РёС‚Р°Р»РёРЅР°, РЎРѕС„РёСЏ Рё РҐСЂРёСЃС‚РёРЅР°.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/03Jan2005/vnuk.html\n</segment>
 		<group id="22" type="span" parent="23" relname="span"/>
 		<group id="21" type="multinuc" parent="10" relname="elaboration"/>
 		<group id="13" type="span" parent="21" relname="sequence"/>

@@ -12,27 +12,27 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="22" parent="61" relname="preparation">На первомайские праздники в Москве немного похолодает\n\</segment>
-		<segment id="23" parent="25" relname="span">nВ столичном регионе в четверг ожидаются кратковременные дожди,</segment>
-		<segment id="24" parent="23" relname="attribution">сообщили в Московском Гидрометеобюро.</segment>
-		<segment id="26" parent="25" relname="elaboration">Ночью температура воздуха в столице составит плюс 6-8 градусов, по области - плюс 4-9.</segment>
-		<segment id="28" parent="30" relname="span">Днем в Москве будет 15-17 градусов выше нуля,</segment>
-		<segment id="29" parent="28" relname="elaboration">в Подмосковье - 13-18 тепла.</segment>
-		<segment id="31" parent="32" relname="joint">Ветер юго-восточный, 3-8 метров в секунду.\n\nА к выходным в Москве немного похолодает.</segment>
-		<segment id="33" parent="34" relname="span">Так, незначительное похолодание ожидается в первые дни мая.</segment>
-		<segment id="35" parent="37" relname="span">\"1 и 2 мая ожидается небольшое понижение температуры.</segment>
-		<segment id="36" parent="35" relname="elaboration">Днем термометр будет находиться на отметке около 8-11 градусов\",</segment>
-		<segment id="38" parent="39" relname="attribution">- сообщили в среду \"Интерфаксу\" в Гидрометеобюро Москвы и Московской области.\n\nПо данным метеорологов,</segment>
-		<segment id="39" parent="40" relname="span">также понизится температура в ночные часы.</segment>
-		<segment id="42" parent="44" relname="joint">В ночь с 30 апреля на 1 мая в Москве будет от 2 до 7 градусов,</segment>
-		<segment id="43" parent="44" relname="joint">в ночь с 1 на 2 мая температура может опуститься до нуля градусов.</segment>
-		<segment id="45" parent="47" relname="span">С 3 мая температура в городе начнет повышаться,</segment>
-		<segment id="46" parent="45" relname="attribution">сообщает \"Интерфакс\".\n\</segment>
-		<segment id="49" parent="55" relname="same-unit">nВ целом в предстоящие дни,</segment>
-		<segment id="50" parent="53" relname="attribution">сообщают синоптики,</segment>
-		<segment id="51" parent="53" relname="joint">в столице будет переменная облачность,</segment>
-		<segment id="52" parent="53" relname="joint">пройдут кратковременные дожди.</segment>
-		<segment id="56" parent="57" relname="joint">До конца месяца в дневные часы температура будет достигать в среднем 16 градусов.\n\nИсточник: https://www.newsru.com/russia/28Apr2005/pogoda.html\n</segment>
+		<segment id="22" parent="61" relname="preparation">РќР° РїРµСЂРІРѕРјР°Р№СЃРєРёРµ РїСЂР°Р·РґРЅРёРєРё РІ РњРѕСЃРєРІРµ РЅРµРјРЅРѕРіРѕ РїРѕС…РѕР»РѕРґР°РµС‚\n\</segment>
+		<segment id="23" parent="25" relname="span">nР’ СЃС‚РѕР»РёС‡РЅРѕРј СЂРµРіРёРѕРЅРµ РІ С‡РµС‚РІРµСЂРі РѕР¶РёРґР°СЋС‚СЃСЏ РєСЂР°С‚РєРѕРІСЂРµРјРµРЅРЅС‹Рµ РґРѕР¶РґРё,</segment>
+		<segment id="24" parent="23" relname="attribution">СЃРѕРѕР±С‰РёР»Рё РІ РњРѕСЃРєРѕРІСЃРєРѕРј Р“РёРґСЂРѕРјРµС‚РµРѕР±СЋСЂРѕ.</segment>
+		<segment id="26" parent="25" relname="elaboration">РќРѕС‡СЊСЋ С‚РµРјРїРµСЂР°С‚СѓСЂР° РІРѕР·РґСѓС…Р° РІ СЃС‚РѕР»РёС†Рµ СЃРѕСЃС‚Р°РІРёС‚ РїР»СЋСЃ 6-8 РіСЂР°РґСѓСЃРѕРІ, РїРѕ РѕР±Р»Р°СЃС‚Рё - РїР»СЋСЃ 4-9.</segment>
+		<segment id="28" parent="30" relname="span">Р”РЅРµРј РІ РњРѕСЃРєРІРµ Р±СѓРґРµС‚ 15-17 РіСЂР°РґСѓСЃРѕРІ РІС‹С€Рµ РЅСѓР»СЏ,</segment>
+		<segment id="29" parent="28" relname="elaboration">РІ РџРѕРґРјРѕСЃРєРѕРІСЊРµ - 13-18 С‚РµРїР»Р°.</segment>
+		<segment id="31" parent="32" relname="joint">Р’РµС‚РµСЂ СЋРіРѕ-РІРѕСЃС‚РѕС‡РЅС‹Р№, 3-8 РјРµС‚СЂРѕРІ РІ СЃРµРєСѓРЅРґСѓ.\n\nРђ Рє РІС‹С…РѕРґРЅС‹Рј РІ РњРѕСЃРєРІРµ РЅРµРјРЅРѕРіРѕ РїРѕС…РѕР»РѕРґР°РµС‚.</segment>
+		<segment id="33" parent="34" relname="span">РўР°Рє, РЅРµР·РЅР°С‡РёС‚РµР»СЊРЅРѕРµ РїРѕС…РѕР»РѕРґР°РЅРёРµ РѕР¶РёРґР°РµС‚СЃСЏ РІ РїРµСЂРІС‹Рµ РґРЅРё РјР°СЏ.</segment>
+		<segment id="35" parent="37" relname="span">\"1 Рё 2 РјР°СЏ РѕР¶РёРґР°РµС‚СЃСЏ РЅРµР±РѕР»СЊС€РѕРµ РїРѕРЅРёР¶РµРЅРёРµ С‚РµРјРїРµСЂР°С‚СѓСЂС‹.</segment>
+		<segment id="36" parent="35" relname="elaboration">Р”РЅРµРј С‚РµСЂРјРѕРјРµС‚СЂ Р±СѓРґРµС‚ РЅР°С…РѕРґРёС‚СЊСЃСЏ РЅР° РѕС‚РјРµС‚РєРµ РѕРєРѕР»Рѕ 8-11 РіСЂР°РґСѓСЃРѕРІ\",</segment>
+		<segment id="38" parent="39" relname="attribution">- СЃРѕРѕР±С‰РёР»Рё РІ СЃСЂРµРґСѓ \"РРЅС‚РµСЂС„Р°РєСЃСѓ\" РІ Р“РёРґСЂРѕРјРµС‚РµРѕР±СЋСЂРѕ РњРѕСЃРєРІС‹ Рё РњРѕСЃРєРѕРІСЃРєРѕР№ РѕР±Р»Р°СЃС‚Рё.\n\nРџРѕ РґР°РЅРЅС‹Рј РјРµС‚РµРѕСЂРѕР»РѕРіРѕРІ,</segment>
+		<segment id="39" parent="40" relname="span">С‚Р°РєР¶Рµ РїРѕРЅРёР·РёС‚СЃСЏ С‚РµРјРїРµСЂР°С‚СѓСЂР° РІ РЅРѕС‡РЅС‹Рµ С‡Р°СЃС‹.</segment>
+		<segment id="42" parent="44" relname="joint">Р’ РЅРѕС‡СЊ СЃ 30 Р°РїСЂРµР»СЏ РЅР° 1 РјР°СЏ РІ РњРѕСЃРєРІРµ Р±СѓРґРµС‚ РѕС‚ 2 РґРѕ 7 РіСЂР°РґСѓСЃРѕРІ,</segment>
+		<segment id="43" parent="44" relname="joint">РІ РЅРѕС‡СЊ СЃ 1 РЅР° 2 РјР°СЏ С‚РµРјРїРµСЂР°С‚СѓСЂР° РјРѕР¶РµС‚ РѕРїСѓСЃС‚РёС‚СЊСЃСЏ РґРѕ РЅСѓР»СЏ РіСЂР°РґСѓСЃРѕРІ.</segment>
+		<segment id="45" parent="47" relname="span">РЎ 3 РјР°СЏ С‚РµРјРїРµСЂР°С‚СѓСЂР° РІ РіРѕСЂРѕРґРµ РЅР°С‡РЅРµС‚ РїРѕРІС‹С€Р°С‚СЊСЃСЏ,</segment>
+		<segment id="46" parent="45" relname="attribution">СЃРѕРѕР±С‰Р°РµС‚ \"РРЅС‚РµСЂС„Р°РєСЃ\".\n\</segment>
+		<segment id="49" parent="55" relname="same-unit">nР’ С†РµР»РѕРј РІ РїСЂРµРґСЃС‚РѕСЏС‰РёРµ РґРЅРё,</segment>
+		<segment id="50" parent="53" relname="attribution">СЃРѕРѕР±С‰Р°СЋС‚ СЃРёРЅРѕРїС‚РёРєРё,</segment>
+		<segment id="51" parent="53" relname="joint">РІ СЃС‚РѕР»РёС†Рµ Р±СѓРґРµС‚ РїРµСЂРµРјРµРЅРЅР°СЏ РѕР±Р»Р°С‡РЅРѕСЃС‚СЊ,</segment>
+		<segment id="52" parent="53" relname="joint">РїСЂРѕР№РґСѓС‚ РєСЂР°С‚РєРѕРІСЂРµРјРµРЅРЅС‹Рµ РґРѕР¶РґРё.</segment>
+		<segment id="56" parent="57" relname="joint">Р”Рѕ РєРѕРЅС†Р° РјРµСЃСЏС†Р° РІ РґРЅРµРІРЅС‹Рµ С‡Р°СЃС‹ С‚РµРјРїРµСЂР°С‚СѓСЂР° Р±СѓРґРµС‚ РґРѕСЃС‚РёРіР°С‚СЊ РІ СЃСЂРµРґРЅРµРј 16 РіСЂР°РґСѓСЃРѕРІ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/28Apr2005/pogoda.html\n</segment>
 		<group id="61" type="multinuc" parent="62" relname="span"/>
 		<group id="27" type="span" parent="61" relname="joint"/>
 		<group id="25" type="span" parent="27" relname="span"/>

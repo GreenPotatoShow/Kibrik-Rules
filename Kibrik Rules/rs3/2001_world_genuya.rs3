@@ -12,28 +12,28 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="23" parent="27" relname="sequence">Буш и Путин встретятся в Генуе 22 июля\n\nВладимир Путин и Джордж Буш определили дату очередной встречи.</segment>
-		<segment id="24" parent="26" relname="span">Она состоятся 22 июля в Генуе,</segment>
-		<segment id="25" parent="24" relname="attribution">заявил агентству ИТАР-ТАСС представитель Белого дома Шон Маккормак.</segment>
-		<segment id="28" parent="27" relname="elaboration">Накануне президенты переговорили по телефону десять минут.</segment>
-		<segment id="30" parent="51" relname="preparation">Разговор состоялся по инициативе Кремля.</segment>
-		<segment id="31" parent="33" relname="joint">Во время беседы главы государств</segment>
-		<segment id="32" parent="33" relname="joint">и договорились о времени встречи и вопросах, которые они будут обсуждать.\n\</segment>
-		<segment id="34" parent="37" relname="attribution">nПо словам Маккормака,</segment>
-		<segment id="35" parent="37" relname="span">Путин и Буш с нетерпением ожидают эту встречу,</segment>
-		<segment id="36" parent="35" relname="elaboration">на которой собираются обсудить вопросы стратегической стабильности, экономики, региональные и некоторые другие проблемы.</segment>
-		<segment id="40" parent="44" relname="span">Оба президента еще раз выразили друг другу благодарность за недавнюю встречу в Словении.</segment>
-		<segment id="41" parent="42" relname="attribution">Как сказал Маккормак,</segment>
-		<segment id="42" parent="43" relname="span">собеседники вспоминали эту встречу \"с теплотой\".</segment>
-		<segment id="45" parent="46" relname="attribution">Оба они считают,</segment>
-		<segment id="46" parent="47" relname="span">что на ней \"была заложена хорошая основа для конструктивного взаимодействия по развитию двусторонних отношений\",</segment>
-		<segment id="48" parent="47" relname="attribution">сказал представитель Белого дома.</segment>
-		<segment id="54" parent="56" relname="span">Ранее пресс-секретарь Джорджа Буша Ари Флайшер,</segment>
-		<segment id="55" parent="54" relname="background">находящийся вместе с ним в штате Мэн,</segment>
-		<segment id="57" parent="56" relname="attribution">рассказал журналистам,</segment>
-		<segment id="59" parent="60" relname="span">что в разговоре президентов затрагивалась тема противоракетной обороны.</segment>
-		<segment id="61" parent="63" relname="span">Решено было продолжать консультации.</segment>
-		<segment id="62" parent="61" relname="elaboration">Обсуждались также кризис в Македонии и вопрос отмены санкций против Ирака.\n\nИсточник: https://www.newsru.com/world/07Jul2001/genuya.html\n</segment>
+		<segment id="23" parent="27" relname="sequence">Р‘СѓС€ Рё РџСѓС‚РёРЅ РІСЃС‚СЂРµС‚СЏС‚СЃСЏ РІ Р“РµРЅСѓРµ 22 РёСЋР»СЏ\n\nР’Р»Р°РґРёРјРёСЂ РџСѓС‚РёРЅ Рё Р”Р¶РѕСЂРґР¶ Р‘СѓС€ РѕРїСЂРµРґРµР»РёР»Рё РґР°С‚Сѓ РѕС‡РµСЂРµРґРЅРѕР№ РІСЃС‚СЂРµС‡Рё.</segment>
+		<segment id="24" parent="26" relname="span">РћРЅР° СЃРѕСЃС‚РѕСЏС‚СЃСЏ 22 РёСЋР»СЏ РІ Р“РµРЅСѓРµ,</segment>
+		<segment id="25" parent="24" relname="attribution">Р·Р°СЏРІРёР» Р°РіРµРЅС‚СЃС‚РІСѓ РРўРђР -РўРђРЎРЎ РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊ Р‘РµР»РѕРіРѕ РґРѕРјР° РЁРѕРЅ РњР°РєРєРѕСЂРјР°Рє.</segment>
+		<segment id="28" parent="27" relname="elaboration">РќР°РєР°РЅСѓРЅРµ РїСЂРµР·РёРґРµРЅС‚С‹ РїРµСЂРµРіРѕРІРѕСЂРёР»Рё РїРѕ С‚РµР»РµС„РѕРЅСѓ РґРµСЃСЏС‚СЊ РјРёРЅСѓС‚.</segment>
+		<segment id="30" parent="51" relname="preparation">Р Р°Р·РіРѕРІРѕСЂ СЃРѕСЃС‚РѕСЏР»СЃСЏ РїРѕ РёРЅРёС†РёР°С‚РёРІРµ РљСЂРµРјР»СЏ.</segment>
+		<segment id="31" parent="33" relname="joint">Р’Рѕ РІСЂРµРјСЏ Р±РµСЃРµРґС‹ РіР»Р°РІС‹ РіРѕСЃСѓРґР°СЂСЃС‚РІ</segment>
+		<segment id="32" parent="33" relname="joint">Рё РґРѕРіРѕРІРѕСЂРёР»РёСЃСЊ Рѕ РІСЂРµРјРµРЅРё РІСЃС‚СЂРµС‡Рё Рё РІРѕРїСЂРѕСЃР°С…, РєРѕС‚РѕСЂС‹Рµ РѕРЅРё Р±СѓРґСѓС‚ РѕР±СЃСѓР¶РґР°С‚СЊ.\n\</segment>
+		<segment id="34" parent="37" relname="attribution">nРџРѕ СЃР»РѕРІР°Рј РњР°РєРєРѕСЂРјР°РєР°,</segment>
+		<segment id="35" parent="37" relname="span">РџСѓС‚РёРЅ Рё Р‘СѓС€ СЃ РЅРµС‚РµСЂРїРµРЅРёРµРј РѕР¶РёРґР°СЋС‚ СЌС‚Сѓ РІСЃС‚СЂРµС‡Сѓ,</segment>
+		<segment id="36" parent="35" relname="elaboration">РЅР° РєРѕС‚РѕСЂРѕР№ СЃРѕР±РёСЂР°СЋС‚СЃСЏ РѕР±СЃСѓРґРёС‚СЊ РІРѕРїСЂРѕСЃС‹ СЃС‚СЂР°С‚РµРіРёС‡РµСЃРєРѕР№ СЃС‚Р°Р±РёР»СЊРЅРѕСЃС‚Рё, СЌРєРѕРЅРѕРјРёРєРё, СЂРµРіРёРѕРЅР°Р»СЊРЅС‹Рµ Рё РЅРµРєРѕС‚РѕСЂС‹Рµ РґСЂСѓРіРёРµ РїСЂРѕР±Р»РµРјС‹.</segment>
+		<segment id="40" parent="44" relname="span">РћР±Р° РїСЂРµР·РёРґРµРЅС‚Р° РµС‰Рµ СЂР°Р· РІС‹СЂР°Р·РёР»Рё РґСЂСѓРі РґСЂСѓРіСѓ Р±Р»Р°РіРѕРґР°СЂРЅРѕСЃС‚СЊ Р·Р° РЅРµРґР°РІРЅСЋСЋ РІСЃС‚СЂРµС‡Сѓ РІ РЎР»РѕРІРµРЅРёРё.</segment>
+		<segment id="41" parent="42" relname="attribution">РљР°Рє СЃРєР°Р·Р°Р» РњР°РєРєРѕСЂРјР°Рє,</segment>
+		<segment id="42" parent="43" relname="span">СЃРѕР±РµСЃРµРґРЅРёРєРё РІСЃРїРѕРјРёРЅР°Р»Рё СЌС‚Сѓ РІСЃС‚СЂРµС‡Сѓ \"СЃ С‚РµРїР»РѕС‚РѕР№\".</segment>
+		<segment id="45" parent="46" relname="attribution">РћР±Р° РѕРЅРё СЃС‡РёС‚Р°СЋС‚,</segment>
+		<segment id="46" parent="47" relname="span">С‡С‚Рѕ РЅР° РЅРµР№ \"Р±С‹Р»Р° Р·Р°Р»РѕР¶РµРЅР° С…РѕСЂРѕС€Р°СЏ РѕСЃРЅРѕРІР° РґР»СЏ РєРѕРЅСЃС‚СЂСѓРєС‚РёРІРЅРѕРіРѕ РІР·Р°РёРјРѕРґРµР№СЃС‚РІРёСЏ РїРѕ СЂР°Р·РІРёС‚РёСЋ РґРІСѓСЃС‚РѕСЂРѕРЅРЅРёС… РѕС‚РЅРѕС€РµРЅРёР№\",</segment>
+		<segment id="48" parent="47" relname="attribution">СЃРєР°Р·Р°Р» РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊ Р‘РµР»РѕРіРѕ РґРѕРјР°.</segment>
+		<segment id="54" parent="56" relname="span">Р Р°РЅРµРµ РїСЂРµСЃСЃ-СЃРµРєСЂРµС‚Р°СЂСЊ Р”Р¶РѕСЂРґР¶Р° Р‘СѓС€Р° РђСЂРё Р¤Р»Р°Р№С€РµСЂ,</segment>
+		<segment id="55" parent="54" relname="background">РЅР°С…РѕРґСЏС‰РёР№СЃСЏ РІРјРµСЃС‚Рµ СЃ РЅРёРј РІ С€С‚Р°С‚Рµ РњСЌРЅ,</segment>
+		<segment id="57" parent="56" relname="attribution">СЂР°СЃСЃРєР°Р·Р°Р» Р¶СѓСЂРЅР°Р»РёСЃС‚Р°Рј,</segment>
+		<segment id="59" parent="60" relname="span">С‡С‚Рѕ РІ СЂР°Р·РіРѕРІРѕСЂРµ РїСЂРµР·РёРґРµРЅС‚РѕРІ Р·Р°С‚СЂР°РіРёРІР°Р»Р°СЃСЊ С‚РµРјР° РїСЂРѕС‚РёРІРѕСЂР°РєРµС‚РЅРѕР№ РѕР±РѕСЂРѕРЅС‹.</segment>
+		<segment id="61" parent="63" relname="span">Р РµС€РµРЅРѕ Р±С‹Р»Рѕ РїСЂРѕРґРѕР»Р¶Р°С‚СЊ РєРѕРЅСЃСѓР»СЊС‚Р°С†РёРё.</segment>
+		<segment id="62" parent="61" relname="elaboration">РћР±СЃСѓР¶РґР°Р»РёСЃСЊ С‚Р°РєР¶Рµ РєСЂРёР·РёСЃ РІ РњР°РєРµРґРѕРЅРёРё Рё РІРѕРїСЂРѕСЃ РѕС‚РјРµРЅС‹ СЃР°РЅРєС†РёР№ РїСЂРѕС‚РёРІ РСЂР°РєР°.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/07Jul2001/genuya.html\n</segment>
 		<group id="53" type="span" parent="65" relname="span"/>
 		<group id="29" type="span" parent="52" relname="preparation"/>
 		<group id="27" type="multinuc" parent="29" relname="span"/>

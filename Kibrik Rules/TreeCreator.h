@@ -8,7 +8,7 @@ class TreeCreator
 {
 public:
 	TreeCreator(std::string fileName);
-	std::map<int, Rs3TreeSegment*> getRSTNods();
+	std::map<int, Rs3TreeSegment*> getRSTNodes();
 private:
 	std::map<int, Rs3TreeSegment*> RSTNodes;
 };

@@ -1,4 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
+#define _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS
+
 
 #include "TextLoader.h"
 #include "TreeCreator.h"
@@ -13,18 +15,17 @@
 #include <iostream>
 #include <map>
 #include <algorithm>
-#include <codecvt>
-#include <locale>
-#include <windows.h>
-#include <stringapiset.h>
+#include <locale.h>
 #include <cstdlib>
+#include <codecvt>
+
 
 bool isEntity(const IKNWordShell* wordShell) {
     const char* noun = "Сущ";
 	const char* pronoun = "Мест-Сущ";
 	IKNWord* iknWord = wordShell->GetWord();
 	auto partSpeech = iknWord->GetPartSpeech();
-    std::string SPartSpeech = std::string(partSpeech);
+    //std::string SPartSpeech = std::string(partSpeech);
 	//std::cout << wordShell->GetForm() << " " << iknWord->GetPartSpeech() << "\n";
 	return ((*partSpeech == *noun) || (*partSpeech == *pronoun));
 }
@@ -63,7 +64,7 @@ void findActor(std::list < WordShell*> &list) {
 }
 
 TextLoader::TextLoader(std::string fileName) {
-	setlocale(LC_ALL, "Russian");
+    setlocale(LC_ALL, "");
 	char* oProperty = new char[500];
 	uint lastPosId = 0;
 	uint* end_pos = new uint;
@@ -71,9 +72,9 @@ TextLoader::TextLoader(std::string fileName) {
 	position = 0;
 	uint* len=new uint;
 	std::wstring word, stringForSentence;
-    std::wstring textStr, line;
-	std::wifstream file;
-    file.imbue(std::locale(file.getloc(), new std::codecvt_utf8<wchar_t>));
+    std::string textStr, line;
+	std::ifstream file;
+
 	bool isEndOfSentence;
 	bool isPassive = false;
 	this->fileName = fileName;
@@ -82,29 +83,42 @@ TextLoader::TextLoader(std::string fileName) {
 		getline(file, line);
 		textStr += line;
 	}
-	this->text = textStr;
-
-    const wchar_t* textWchar =textStr.c_str();
 
 
+    std::wstring_convert<std::codecvt_utf8<wchar_t>> myconv;
+    std::wstring wtextStr = myconv.from_bytes(textStr);
+	this->text = wtextStr;
+
+
+
+
+
+
+
+    /////////////////////////////////////////////////////////////////
+    const wchar_t* input = wtextStr.c_str();
     // Count required buffer size (plus one for null-terminator).
-    size_t size = (wcslen(textWchar) + 1) * sizeof(wchar_t);
-    char* text = new char[size];
+    size_t size = (wcslen(input) + 1) * sizeof(wchar_t);
+    char* buffer = new char[size];
+#ifdef __STDC_LIB_EXT1__
+    // wcstombs_s is only guaranteed to be available if __STDC_LIB_EXT1__ is defined
+    size_t convertedSize;
+    std::wcstombs_s(&convertedSize, buffer, size, input, size);
+#else
+    std::wcstombs(buffer, input, size);
+#endif
 
-    #ifdef __STDC_LIB_EXT1__
-        // wcstombs_s is only guaranteed to be available if __STDC_LIB_EXT1__ is defined
-        size_t convertedSize;
-        std::wcstombs_s(&convertedSize, buffer, size, input, size);
-    #else
-        std::wcstombs(text, textWchar, size);
-    #endif
+    /////////////////////////////////////////////////////////////////
 
 
+
+
+    char* textChar = const_cast<char*>(buffer);
 
 	this->manager= GenerateAPIManager();
 	this->manager->Create();
 	this->engine = manager->GetEngine();
-	this->engine->Run(text, 0, len);
+	this->engine->Run(textChar, 0, len);
 
 	//ищем сущности
 	std::list<WordShell*> entities;
@@ -168,12 +182,12 @@ TextLoader::TextLoader(std::string fileName) {
 		}
 	}
 	TreeCreator treeCreator(fileName);
-	this-> RSTNodes=treeCreator.getRSTNods();
+	this-> RSTNodes=treeCreator.getRSTNodes();
 
 	delete len;
+    delete[] buffer;
 	delete[] oProperty;
 	delete end_pos;
-    delete[] text;
 	file.close();
 }
 
@@ -191,6 +205,10 @@ const std::wstring TextLoader::getText() const {
 
 const std::string TextLoader::getFileName() const {
 	return this->fileName;
+}
+
+const std::map<int, Rs3TreeSegment*> TextLoader::getRSTNodes() const {
+    return this->RSTNodes;
 }
 
 int TextLoader::linearDistance(int first, int second) const{
@@ -253,6 +271,7 @@ int TextLoader::rhetoricalDistance(int first, int second) const {
 	std::vector<int> idsGoingUp;
 	Rs3Tree* nodeForFirst=new Rs3Tree;
 	Rs3Tree* nodeForSecond = new Rs3Tree;
+
 	for (const auto& pairobj : this->RSTNodes) {
 		if ((first >= pairobj.second->getRangeBegin()) && (first <= pairobj.second->getRangeEnd())) {
 			*nodeForFirst=*pairobj.second;
@@ -277,8 +296,8 @@ int TextLoader::rhetoricalDistance(int first, int second) const {
 
 	value += std::find(idsGoingUp.begin(), idsGoingUp.end(), commonNodeId)- idsGoingUp.begin();
 
-	delete nodeForFirst;
-	delete nodeForSecond;
+	//delete nodeForFirst;
+	//delete nodeForSecond;
 	return value;
 }
 
@@ -288,7 +307,7 @@ double TextLoader::activationCoeff(WordShell* antecedent, WordShell* referent, i
 	//проверим род
 	char* oProperty1 = new char[500];
 	char* oProperty2 = new char[500];
-	antecedent->getWordShell()->GetPropertyAsString(oProperty1); //посвящен прш,стр,но,мр,ед;прш,стр,од,мр,ед;
+	antecedent->getWordShell()->GetPropertyAsString(oProperty1); 
 	referent->getWordShell()->GetPropertyAsString(oProperty2);
 	std::string morphs1 = std::string(oProperty1);
 	std::string morphs2 = std::string(oProperty2);

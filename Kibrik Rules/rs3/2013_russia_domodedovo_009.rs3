@@ -13,22 +13,22 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="17" parent="19" relname="span">Сотни клиентов авиакомпании \"КолАвиа\" застряли в \"Домодедово\"\n\nНесколько сотен российских туристов, которые должны вылететь на отдых в Шарм-эш-Шейх, Барселону и Анталию,</segment>
-		<segment id="18" parent="17" relname="cause-effect">не могут вылететь по причине задержек рейсов авиакомпании \"КолАвиа\",</segment>
-		<segment id="20" parent="19" relname="attribution">сообщили \"Интерфаксу\" представители российских туркомпаний.</segment>
-		<segment id="22" parent="25" relname="attribution">Застрявшие в \"Домодедово\" туристы пишут,</segment>
-		<segment id="23" parent="25" relname="joint">что их не кормят</segment>
-		<segment id="24" parent="25" relname="joint">и ничего не говорят.\n\</segment>
-		<segment id="27" parent="28" relname="attribution">nКак следует из табло вылета,</segment>
-		<segment id="28" parent="29" relname="span">произошла задержка примерно 5-7 рейсов,</segment>
-		<segment id="30" parent="32" relname="span">а время задержки составляет от 6 до 17 часов.\n\</segment>
-		<segment id="31" parent="30" relname="elaboration">nКомментарии самой авиакомпании получить не удалось.\n\</segment>
-		<segment id="35" parent="39" relname="joint">nПри этом в социальных сетях несколько пассажиров разместили информацию о том,</segment>
-		<segment id="36" parent="38" relname="joint">что их не кормят</segment>
-		<segment id="37" parent="38" relname="joint">и ничего не сообщают им о конкретном времени вылета.\n\nКак отметили в пресс-службе аэропорта,</segment>
-		<segment id="40" parent="44" relname="joint">\"Домодедово\" работает в штатном режиме</segment>
-		<segment id="41" parent="43" relname="span">и готов выпустить самолеты с российскими туристами в любое время,</segment>
-		<segment id="42" parent="41" relname="condition">когда будет готова авиакомпания.\n\nИсточник: https://www.newsru.com/russia/16Jun2013/domodedovo.html\n</segment>
+		<segment id="17" parent="19" relname="span">РЎРѕС‚РЅРё РєР»РёРµРЅС‚РѕРІ Р°РІРёР°РєРѕРјРїР°РЅРёРё \"РљРѕР»РђРІРёР°\" Р·Р°СЃС‚СЂСЏР»Рё РІ \"Р”РѕРјРѕРґРµРґРѕРІРѕ\"\n\nРќРµСЃРєРѕР»СЊРєРѕ СЃРѕС‚РµРЅ СЂРѕСЃСЃРёР№СЃРєРёС… С‚СѓСЂРёСЃС‚РѕРІ, РєРѕС‚РѕСЂС‹Рµ РґРѕР»Р¶РЅС‹ РІС‹Р»РµС‚РµС‚СЊ РЅР° РѕС‚РґС‹С… РІ РЁР°СЂРј-СЌС€-РЁРµР№С…, Р‘Р°СЂСЃРµР»РѕРЅСѓ Рё РђРЅС‚Р°Р»РёСЋ,</segment>
+		<segment id="18" parent="17" relname="cause-effect">РЅРµ РјРѕРіСѓС‚ РІС‹Р»РµС‚РµС‚СЊ РїРѕ РїСЂРёС‡РёРЅРµ Р·Р°РґРµСЂР¶РµРє СЂРµР№СЃРѕРІ Р°РІРёР°РєРѕРјРїР°РЅРёРё \"РљРѕР»РђРІРёР°\",</segment>
+		<segment id="20" parent="19" relname="attribution">СЃРѕРѕР±С‰РёР»Рё \"РРЅС‚РµСЂС„Р°РєСЃСѓ\" РїСЂРµРґСЃС‚Р°РІРёС‚РµР»Рё СЂРѕСЃСЃРёР№СЃРєРёС… С‚СѓСЂРєРѕРјРїР°РЅРёР№.</segment>
+		<segment id="22" parent="25" relname="attribution">Р—Р°СЃС‚СЂСЏРІС€РёРµ РІ \"Р”РѕРјРѕРґРµРґРѕРІРѕ\" С‚СѓСЂРёСЃС‚С‹ РїРёС€СѓС‚,</segment>
+		<segment id="23" parent="25" relname="joint">С‡С‚Рѕ РёС… РЅРµ РєРѕСЂРјСЏС‚</segment>
+		<segment id="24" parent="25" relname="joint">Рё РЅРёС‡РµРіРѕ РЅРµ РіРѕРІРѕСЂСЏС‚.\n\</segment>
+		<segment id="27" parent="28" relname="attribution">nРљР°Рє СЃР»РµРґСѓРµС‚ РёР· С‚Р°Р±Р»Рѕ РІС‹Р»РµС‚Р°,</segment>
+		<segment id="28" parent="29" relname="span">РїСЂРѕРёР·РѕС€Р»Р° Р·Р°РґРµСЂР¶РєР° РїСЂРёРјРµСЂРЅРѕ 5-7 СЂРµР№СЃРѕРІ,</segment>
+		<segment id="30" parent="32" relname="span">Р° РІСЂРµРјСЏ Р·Р°РґРµСЂР¶РєРё СЃРѕСЃС‚Р°РІР»СЏРµС‚ РѕС‚ 6 РґРѕ 17 С‡Р°СЃРѕРІ.\n\</segment>
+		<segment id="31" parent="30" relname="elaboration">nРљРѕРјРјРµРЅС‚Р°СЂРёРё СЃР°РјРѕР№ Р°РІРёР°РєРѕРјРїР°РЅРёРё РїРѕР»СѓС‡РёС‚СЊ РЅРµ СѓРґР°Р»РѕСЃСЊ.\n\</segment>
+		<segment id="35" parent="39" relname="joint">nРџСЂРё СЌС‚РѕРј РІ СЃРѕС†РёР°Р»СЊРЅС‹С… СЃРµС‚СЏС… РЅРµСЃРєРѕР»СЊРєРѕ РїР°СЃСЃР°Р¶РёСЂРѕРІ СЂР°Р·РјРµСЃС‚РёР»Рё РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚РѕРј,</segment>
+		<segment id="36" parent="38" relname="joint">С‡С‚Рѕ РёС… РЅРµ РєРѕСЂРјСЏС‚</segment>
+		<segment id="37" parent="38" relname="joint">Рё РЅРёС‡РµРіРѕ РЅРµ СЃРѕРѕР±С‰Р°СЋС‚ РёРј Рѕ РєРѕРЅРєСЂРµС‚РЅРѕРј РІСЂРµРјРµРЅРё РІС‹Р»РµС‚Р°.\n\nРљР°Рє РѕС‚РјРµС‚РёР»Рё РІ РїСЂРµСЃСЃ-СЃР»СѓР¶Р±Рµ Р°СЌСЂРѕРїРѕСЂС‚Р°,</segment>
+		<segment id="40" parent="44" relname="joint">\"Р”РѕРјРѕРґРµРґРѕРІРѕ\" СЂР°Р±РѕС‚Р°РµС‚ РІ С€С‚Р°С‚РЅРѕРј СЂРµР¶РёРјРµ</segment>
+		<segment id="41" parent="43" relname="span">Рё РіРѕС‚РѕРІ РІС‹РїСѓСЃС‚РёС‚СЊ СЃР°РјРѕР»РµС‚С‹ СЃ СЂРѕСЃСЃРёР№СЃРєРёРјРё С‚СѓСЂРёСЃС‚Р°РјРё РІ Р»СЋР±РѕРµ РІСЂРµРјСЏ,</segment>
+		<segment id="42" parent="41" relname="condition">РєРѕРіРґР° Р±СѓРґРµС‚ РіРѕС‚РѕРІР° Р°РІРёР°РєРѕРјРїР°РЅРёСЏ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/16Jun2013/domodedovo.html\n</segment>
 		<group id="21" type="span" parent="46" relname="preparation"/>
 		<group id="19" type="span" parent="21" relname="span"/>
 		<group id="46" type="multinuc" parent="47" relname="span"/>

@@ -18,56 +18,56 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="52" parent="53" relname="cause-effect">Хакеры  из России попытались «подставить» специалиста по информационной безопасности Брайана Кребса (Brian Krebs),</segment>
-		<segment id="53" parent="54" relname="span">заказав на его адрес доставку героина.</segment>
-		<segment id="55" parent="54" relname="attribution">Об этом в своем блоге рассказал сам Кребс.\n</segment>
-		<segment id="57" parent="60" relname="attribution">По словам Кребса,</segment>
-		<segment id="58" parent="60" relname="span">идея с героином исходила от администратора русскоязычного форума thecc.bz,</segment>
-		<segment id="59" parent="58" relname="elaboration">который скрывается под псевдонимами Flycracker, Fly и MUXACC1 (от русского «муха»).</segment>
-		<segment id="62" parent="64" relname="joint">Сам форум предназначен для лиц, занимающихся мошенничеством и кражей данных граждан.</segment>
-		<segment id="63" parent="64" relname="joint">Flycracker 14 июля предложил пользователям пожертвовать деньги в фонд «Кребсу на наркотики».</segment>
-		<segment id="66" parent="70" relname="span">Сбор средств осуществлялся через «биткоины» — криптовалюту,</segment>
-		<segment id="67" parent="69" relname="joint">позволяющую анонимно хранить</segment>
-		<segment id="68" parent="69" relname="joint">и передавать деньги.\n Пользователи форума собрали два «биткоина» (около двухсот долларов).</segment>
-		<segment id="71" parent="73" relname="span">На эти деньги в анонимном магазине Silk Road было заказано 12 пакетиков с героином</segment>
-		<segment id="72" parent="71" relname="elaboration">(продавец бесплатно прилагал два дополнительных пакетика при покупке десяти).</segment>
-		<segment id="75" parent="76" relname="attribution">После этого администратор форума написал остальным пользователям,</segment>
-		<segment id="76" parent="77" relname="span">что «во вторник в 3 дня будет доставлено по назначению».</segment>
-		<segment id="78" parent="84" relname="joint">Он попросил кого-нибудь из пользователей позвонить в полицию от лица соседей</segment>
-		<segment id="79" parent="82" relname="attribution">и предупредить,</segment>
-		<segment id="80" parent="82" relname="joint">что Кребс получит посылку с наркотиками.\n Сам Кребс, однако, присутствовал на форуме</segment>
-		<segment id="81" parent="82" relname="joint">и следил за тем, как пользователи пытаются «подставить» его.</segment>
-		<segment id="86" parent="88" relname="joint">Он сам обратился в правоохранительные органы</segment>
-		<segment id="87" parent="88" relname="joint">и рассказал об этой схеме.</segment>
-		<segment id="89" parent="93" relname="span">Сама посылка,</segment>
-		<segment id="90" parent="91" relname="attribution">по его словам,</segment>
-		<segment id="91" parent="92" relname="span">пришла 29 июля, на день раньше заявленного Flycracker.</segment>
-		<segment id="96" parent="103" relname="preparation">В ней оказался майский номер журнала Chicago Confidential, к задней обложке которого были прикреплены пакетики с белым веществом.</segment>
-		<segment id="97" parent="98" relname="attribution">Кребс пишет,</segment>
-		<segment id="98" parent="99" relname="span">что продавец расфасовал купленный героин в 13 пакетиков вместо 12.</segment>
-		<segment id="100" parent="102" relname="contrast">Специалист решил изучить содержимое одного из них,</segment>
-		<segment id="101" parent="102" relname="contrast">но у него не было инструментов, позволяющих точно сказать, что там был героин.\n</segment>
-		<segment id="106" parent="108" relname="span">Вызванный им полицейский также не смог установить содержимое пакетиков,</segment>
-		<segment id="107" parent="106" relname="cause-effect">так как в его наборе тестов на наркотики не оказалось теста на героин.</segment>
-		<segment id="109" parent="115" relname="sequence">Кребс пообещал</segment>
-		<segment id="110" parent="113" relname="attribution">позднее уточнить,</segment>
-		<segment id="111" parent="113" relname="span">что именно ему прислали.\n Брайан Кребс — популярный эксперт,</segment>
-		<segment id="112" parent="111" relname="elaboration">рассказывающий в своем блоге о сетевых угрозах и действиях хакеров.</segment>
-		<segment id="117" parent="119" relname="span">Он посвятил несколько постов владельцу платежной системы Chronopay Павлу Врублевскому,</segment>
-		<segment id="118" parent="117" relname="background">которого обвиняли в организации атаки на сайт конкурента, компании Assist</segment>
-		<segment id="120" parent="119" relname="elaboration">(из-за этой атаки пострадал «Аэрофлот»).</segment>
-		<segment id="122" parent="128" relname="span">Кребс, в частности, анализировал утекшую переписку Врублевского с партнерами,</segment>
-		<segment id="123" parent="127" relname="span">в которой, предположительно, обсуждались хакерские атаки</segment>
-		<segment id="124" parent="126" relname="span">.\n «Биткоины»,</segment>
-		<segment id="125" parent="124" relname="cause-effect">благодаря независимости и анонимности использования,</segment>
-		<segment id="129" parent="131" relname="span">зачастую применяются</segment>
-		<segment id="130" parent="129" relname="condition">при купле-продаже наркотиков и других запрещенных товаров.</segment>
-		<segment id="133" parent="135" relname="contrast">Долгое время за один «биткоин» давали не больше доллара,</segment>
-		<segment id="134" parent="135" relname="contrast">но затем курс валюты стал резко расти.</segment>
-		<segment id="138" parent="140" relname="comparison">В марте 2013 года одна денежная единица стоила уже 40 долларов,</segment>
-		<segment id="139" parent="140" relname="comparison">а в апреле достигла отметки в 266 долларов.</segment>
-		<segment id="141" parent="143" relname="span">Впоследствии последовал обвал курса.</segment>
-		<segment id="142" parent="141" relname="elaboration">Сейчас один «биткоин» стоит около 100 долларов.\n \n</segment>
+		<segment id="52" parent="53" relname="cause-effect">РҐР°РєРµСЂС‹  РёР· Р РѕСЃСЃРёРё РїРѕРїС‹С‚Р°Р»РёСЃСЊ В«РїРѕРґСЃС‚Р°РІРёС‚СЊВ» СЃРїРµС†РёР°Р»РёСЃС‚Р° РїРѕ РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕР№ Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё Р‘СЂР°Р№Р°РЅР° РљСЂРµР±СЃР° (Brian Krebs),</segment>
+		<segment id="53" parent="54" relname="span">Р·Р°РєР°Р·Р°РІ РЅР° РµРіРѕ Р°РґСЂРµСЃ РґРѕСЃС‚Р°РІРєСѓ РіРµСЂРѕРёРЅР°.</segment>
+		<segment id="55" parent="54" relname="attribution">РћР± СЌС‚РѕРј РІ СЃРІРѕРµРј Р±Р»РѕРіРµ СЂР°СЃСЃРєР°Р·Р°Р» СЃР°Рј РљСЂРµР±СЃ.\n</segment>
+		<segment id="57" parent="60" relname="attribution">РџРѕ СЃР»РѕРІР°Рј РљСЂРµР±СЃР°,</segment>
+		<segment id="58" parent="60" relname="span">РёРґРµСЏ СЃ РіРµСЂРѕРёРЅРѕРј РёСЃС…РѕРґРёР»Р° РѕС‚ Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂР° СЂСѓСЃСЃРєРѕСЏР·С‹С‡РЅРѕРіРѕ С„РѕСЂСѓРјР° thecc.bz,</segment>
+		<segment id="59" parent="58" relname="elaboration">РєРѕС‚РѕСЂС‹Р№ СЃРєСЂС‹РІР°РµС‚СЃСЏ РїРѕРґ РїСЃРµРІРґРѕРЅРёРјР°РјРё Flycracker, Fly Рё MUXACC1 (РѕС‚ СЂСѓСЃСЃРєРѕРіРѕ В«РјСѓС…Р°В»).</segment>
+		<segment id="62" parent="64" relname="joint">РЎР°Рј С„РѕСЂСѓРј РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ Р»РёС†, Р·Р°РЅРёРјР°СЋС‰РёС…СЃСЏ РјРѕС€РµРЅРЅРёС‡РµСЃС‚РІРѕРј Рё РєСЂР°Р¶РµР№ РґР°РЅРЅС‹С… РіСЂР°Р¶РґР°РЅ.</segment>
+		<segment id="63" parent="64" relname="joint">Flycracker 14 РёСЋР»СЏ РїСЂРµРґР»РѕР¶РёР» РїРѕР»СЊР·РѕРІР°С‚РµР»СЏРј РїРѕР¶РµСЂС‚РІРѕРІР°С‚СЊ РґРµРЅСЊРіРё РІ С„РѕРЅРґ В«РљСЂРµР±СЃСѓ РЅР° РЅР°СЂРєРѕС‚РёРєРёВ».</segment>
+		<segment id="66" parent="70" relname="span">РЎР±РѕСЂ СЃСЂРµРґСЃС‚РІ РѕСЃСѓС‰РµСЃС‚РІР»СЏР»СЃСЏ С‡РµСЂРµР· В«Р±РёС‚РєРѕРёРЅС‹В» вЂ” РєСЂРёРїС‚РѕРІР°Р»СЋС‚Сѓ,</segment>
+		<segment id="67" parent="69" relname="joint">РїРѕР·РІРѕР»СЏСЋС‰СѓСЋ Р°РЅРѕРЅРёРјРЅРѕ С…СЂР°РЅРёС‚СЊ</segment>
+		<segment id="68" parent="69" relname="joint">Рё РїРµСЂРµРґР°РІР°С‚СЊ РґРµРЅСЊРіРё.\n РџРѕР»СЊР·РѕРІР°С‚РµР»Рё С„РѕСЂСѓРјР° СЃРѕР±СЂР°Р»Рё РґРІР° В«Р±РёС‚РєРѕРёРЅР°В» (РѕРєРѕР»Рѕ РґРІСѓС…СЃРѕС‚ РґРѕР»Р»Р°СЂРѕРІ).</segment>
+		<segment id="71" parent="73" relname="span">РќР° СЌС‚Рё РґРµРЅСЊРіРё РІ Р°РЅРѕРЅРёРјРЅРѕРј РјР°РіР°Р·РёРЅРµ Silk Road Р±С‹Р»Рѕ Р·Р°РєР°Р·Р°РЅРѕ 12 РїР°РєРµС‚РёРєРѕРІ СЃ РіРµСЂРѕРёРЅРѕРј</segment>
+		<segment id="72" parent="71" relname="elaboration">(РїСЂРѕРґР°РІРµС† Р±РµСЃРїР»Р°С‚РЅРѕ РїСЂРёР»Р°РіР°Р» РґРІР° РґРѕРїРѕР»РЅРёС‚РµР»СЊРЅС‹С… РїР°РєРµС‚РёРєР° РїСЂРё РїРѕРєСѓРїРєРµ РґРµСЃСЏС‚Рё).</segment>
+		<segment id="75" parent="76" relname="attribution">РџРѕСЃР»Рµ СЌС‚РѕРіРѕ Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂ С„РѕСЂСѓРјР° РЅР°РїРёСЃР°Р» РѕСЃС‚Р°Р»СЊРЅС‹Рј РїРѕР»СЊР·РѕРІР°С‚РµР»СЏРј,</segment>
+		<segment id="76" parent="77" relname="span">С‡С‚Рѕ В«РІРѕ РІС‚РѕСЂРЅРёРє РІ 3 РґРЅСЏ Р±СѓРґРµС‚ РґРѕСЃС‚Р°РІР»РµРЅРѕ РїРѕ РЅР°Р·РЅР°С‡РµРЅРёСЋВ».</segment>
+		<segment id="78" parent="84" relname="joint">РћРЅ РїРѕРїСЂРѕСЃРёР» РєРѕРіРѕ-РЅРёР±СѓРґСЊ РёР· РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№ РїРѕР·РІРѕРЅРёС‚СЊ РІ РїРѕР»РёС†РёСЋ РѕС‚ Р»РёС†Р° СЃРѕСЃРµРґРµР№</segment>
+		<segment id="79" parent="82" relname="attribution">Рё РїСЂРµРґСѓРїСЂРµРґРёС‚СЊ,</segment>
+		<segment id="80" parent="82" relname="joint">С‡С‚Рѕ РљСЂРµР±СЃ РїРѕР»СѓС‡РёС‚ РїРѕСЃС‹Р»РєСѓ СЃ РЅР°СЂРєРѕС‚РёРєР°РјРё.\n РЎР°Рј РљСЂРµР±СЃ, РѕРґРЅР°РєРѕ, РїСЂРёСЃСѓС‚СЃС‚РІРѕРІР°Р» РЅР° С„РѕСЂСѓРјРµ</segment>
+		<segment id="81" parent="82" relname="joint">Рё СЃР»РµРґРёР» Р·Р° С‚РµРј, РєР°Рє РїРѕР»СЊР·РѕРІР°С‚РµР»Рё РїС‹С‚Р°СЋС‚СЃСЏ В«РїРѕРґСЃС‚Р°РІРёС‚СЊВ» РµРіРѕ.</segment>
+		<segment id="86" parent="88" relname="joint">РћРЅ СЃР°Рј РѕР±СЂР°С‚РёР»СЃСЏ РІ РїСЂР°РІРѕРѕС…СЂР°РЅРёС‚РµР»СЊРЅС‹Рµ РѕСЂРіР°РЅС‹</segment>
+		<segment id="87" parent="88" relname="joint">Рё СЂР°СЃСЃРєР°Р·Р°Р» РѕР± СЌС‚РѕР№ СЃС…РµРјРµ.</segment>
+		<segment id="89" parent="93" relname="span">РЎР°РјР° РїРѕСЃС‹Р»РєР°,</segment>
+		<segment id="90" parent="91" relname="attribution">РїРѕ РµРіРѕ СЃР»РѕРІР°Рј,</segment>
+		<segment id="91" parent="92" relname="span">РїСЂРёС€Р»Р° 29 РёСЋР»СЏ, РЅР° РґРµРЅСЊ СЂР°РЅСЊС€Рµ Р·Р°СЏРІР»РµРЅРЅРѕРіРѕ Flycracker.</segment>
+		<segment id="96" parent="103" relname="preparation">Р’ РЅРµР№ РѕРєР°Р·Р°Р»СЃСЏ РјР°Р№СЃРєРёР№ РЅРѕРјРµСЂ Р¶СѓСЂРЅР°Р»Р° Chicago Confidential, Рє Р·Р°РґРЅРµР№ РѕР±Р»РѕР¶РєРµ РєРѕС‚РѕСЂРѕРіРѕ Р±С‹Р»Рё РїСЂРёРєСЂРµРїР»РµРЅС‹ РїР°РєРµС‚РёРєРё СЃ Р±РµР»С‹Рј РІРµС‰РµСЃС‚РІРѕРј.</segment>
+		<segment id="97" parent="98" relname="attribution">РљСЂРµР±СЃ РїРёС€РµС‚,</segment>
+		<segment id="98" parent="99" relname="span">С‡С‚Рѕ РїСЂРѕРґР°РІРµС† СЂР°СЃС„Р°СЃРѕРІР°Р» РєСѓРїР»РµРЅРЅС‹Р№ РіРµСЂРѕРёРЅ РІ 13 РїР°РєРµС‚РёРєРѕРІ РІРјРµСЃС‚Рѕ 12.</segment>
+		<segment id="100" parent="102" relname="contrast">РЎРїРµС†РёР°Р»РёСЃС‚ СЂРµС€РёР» РёР·СѓС‡РёС‚СЊ СЃРѕРґРµСЂР¶РёРјРѕРµ РѕРґРЅРѕРіРѕ РёР· РЅРёС…,</segment>
+		<segment id="101" parent="102" relname="contrast">РЅРѕ Сѓ РЅРµРіРѕ РЅРµ Р±С‹Р»Рѕ РёРЅСЃС‚СЂСѓРјРµРЅС‚РѕРІ, РїРѕР·РІРѕР»СЏСЋС‰РёС… С‚РѕС‡РЅРѕ СЃРєР°Р·Р°С‚СЊ, С‡С‚Рѕ С‚Р°Рј Р±С‹Р» РіРµСЂРѕРёРЅ.\n</segment>
+		<segment id="106" parent="108" relname="span">Р’С‹Р·РІР°РЅРЅС‹Р№ РёРј РїРѕР»РёС†РµР№СЃРєРёР№ С‚Р°РєР¶Рµ РЅРµ СЃРјРѕРі СѓСЃС‚Р°РЅРѕРІРёС‚СЊ СЃРѕРґРµСЂР¶РёРјРѕРµ РїР°РєРµС‚РёРєРѕРІ,</segment>
+		<segment id="107" parent="106" relname="cause-effect">С‚Р°Рє РєР°Рє РІ РµРіРѕ РЅР°Р±РѕСЂРµ С‚РµСЃС‚РѕРІ РЅР° РЅР°СЂРєРѕС‚РёРєРё РЅРµ РѕРєР°Р·Р°Р»РѕСЃСЊ С‚РµСЃС‚Р° РЅР° РіРµСЂРѕРёРЅ.</segment>
+		<segment id="109" parent="115" relname="sequence">РљСЂРµР±СЃ РїРѕРѕР±РµС‰Р°Р»</segment>
+		<segment id="110" parent="113" relname="attribution">РїРѕР·РґРЅРµРµ СѓС‚РѕС‡РЅРёС‚СЊ,</segment>
+		<segment id="111" parent="113" relname="span">С‡С‚Рѕ РёРјРµРЅРЅРѕ РµРјСѓ РїСЂРёСЃР»Р°Р»Рё.\n Р‘СЂР°Р№Р°РЅ РљСЂРµР±СЃ вЂ” РїРѕРїСѓР»СЏСЂРЅС‹Р№ СЌРєСЃРїРµСЂС‚,</segment>
+		<segment id="112" parent="111" relname="elaboration">СЂР°СЃСЃРєР°Р·С‹РІР°СЋС‰РёР№ РІ СЃРІРѕРµРј Р±Р»РѕРіРµ Рѕ СЃРµС‚РµРІС‹С… СѓРіСЂРѕР·Р°С… Рё РґРµР№СЃС‚РІРёСЏС… С…Р°РєРµСЂРѕРІ.</segment>
+		<segment id="117" parent="119" relname="span">РћРЅ РїРѕСЃРІСЏС‚РёР» РЅРµСЃРєРѕР»СЊРєРѕ РїРѕСЃС‚РѕРІ РІР»Р°РґРµР»СЊС†Сѓ РїР»Р°С‚РµР¶РЅРѕР№ СЃРёСЃС‚РµРјС‹ Chronopay РџР°РІР»Сѓ Р’СЂСѓР±Р»РµРІСЃРєРѕРјСѓ,</segment>
+		<segment id="118" parent="117" relname="background">РєРѕС‚РѕСЂРѕРіРѕ РѕР±РІРёРЅСЏР»Рё РІ РѕСЂРіР°РЅРёР·Р°С†РёРё Р°С‚Р°РєРё РЅР° СЃР°Р№С‚ РєРѕРЅРєСѓСЂРµРЅС‚Р°, РєРѕРјРїР°РЅРёРё Assist</segment>
+		<segment id="120" parent="119" relname="elaboration">(РёР·-Р·Р° СЌС‚РѕР№ Р°С‚Р°РєРё РїРѕСЃС‚СЂР°РґР°Р» В«РђСЌСЂРѕС„Р»РѕС‚В»).</segment>
+		<segment id="122" parent="128" relname="span">РљСЂРµР±СЃ, РІ С‡Р°СЃС‚РЅРѕСЃС‚Рё, Р°РЅР°Р»РёР·РёСЂРѕРІР°Р» СѓС‚РµРєС€СѓСЋ РїРµСЂРµРїРёСЃРєСѓ Р’СЂСѓР±Р»РµРІСЃРєРѕРіРѕ СЃ РїР°СЂС‚РЅРµСЂР°РјРё,</segment>
+		<segment id="123" parent="127" relname="span">РІ РєРѕС‚РѕСЂРѕР№, РїСЂРµРґРїРѕР»РѕР¶РёС‚РµР»СЊРЅРѕ, РѕР±СЃСѓР¶РґР°Р»РёСЃСЊ С…Р°РєРµСЂСЃРєРёРµ Р°С‚Р°РєРё</segment>
+		<segment id="124" parent="126" relname="span">.\n В«Р‘РёС‚РєРѕРёРЅС‹В»,</segment>
+		<segment id="125" parent="124" relname="cause-effect">Р±Р»Р°РіРѕРґР°СЂСЏ РЅРµР·Р°РІРёСЃРёРјРѕСЃС‚Рё Рё Р°РЅРѕРЅРёРјРЅРѕСЃС‚Рё РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ,</segment>
+		<segment id="129" parent="131" relname="span">Р·Р°С‡Р°СЃС‚СѓСЋ РїСЂРёРјРµРЅСЏСЋС‚СЃСЏ</segment>
+		<segment id="130" parent="129" relname="condition">РїСЂРё РєСѓРїР»Рµ-РїСЂРѕРґР°Р¶Рµ РЅР°СЂРєРѕС‚РёРєРѕРІ Рё РґСЂСѓРіРёС… Р·Р°РїСЂРµС‰РµРЅРЅС‹С… С‚РѕРІР°СЂРѕРІ.</segment>
+		<segment id="133" parent="135" relname="contrast">Р”РѕР»РіРѕРµ РІСЂРµРјСЏ Р·Р° РѕРґРёРЅ В«Р±РёС‚РєРѕРёРЅВ» РґР°РІР°Р»Рё РЅРµ Р±РѕР»СЊС€Рµ РґРѕР»Р»Р°СЂР°,</segment>
+		<segment id="134" parent="135" relname="contrast">РЅРѕ Р·Р°С‚РµРј РєСѓСЂСЃ РІР°Р»СЋС‚С‹ СЃС‚Р°Р» СЂРµР·РєРѕ СЂР°СЃС‚Рё.</segment>
+		<segment id="138" parent="140" relname="comparison">Р’ РјР°СЂС‚Рµ 2013 РіРѕРґР° РѕРґРЅР° РґРµРЅРµР¶РЅР°СЏ РµРґРёРЅРёС†Р° СЃС‚РѕРёР»Р° СѓР¶Рµ 40 РґРѕР»Р»Р°СЂРѕРІ,</segment>
+		<segment id="139" parent="140" relname="comparison">Р° РІ Р°РїСЂРµР»Рµ РґРѕСЃС‚РёРіР»Р° РѕС‚РјРµС‚РєРё РІ 266 РґРѕР»Р»Р°СЂРѕРІ.</segment>
+		<segment id="141" parent="143" relname="span">Р’РїРѕСЃР»РµРґСЃС‚РІРёРё РїРѕСЃР»РµРґРѕРІР°Р» РѕР±РІР°Р» РєСѓСЂСЃР°.</segment>
+		<segment id="142" parent="141" relname="elaboration">РЎРµР№С‡Р°СЃ РѕРґРёРЅ В«Р±РёС‚РєРѕРёРЅВ» СЃС‚РѕРёС‚ РѕРєРѕР»Рѕ 100 РґРѕР»Р»Р°СЂРѕРІ.\n \n</segment>
 		<group id="56" type="span" parent="151" relname="preparation"/>
 		<group id="54" type="span" parent="56" relname="span"/>
 		<group id="151" type="span" parent="152" relname="span"/>

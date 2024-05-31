@@ -20,84 +20,84 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="79" parent="232" relname="preparation">Леонид Волков: \"ФСБ предлагает расшифровывать весь интернет-трафик россиян\"\n\n\"1.</segment>
-		<segment id="80" parent="88" relname="span">До ФСБ дошло, наконец, что \"пакет Яровой\" полностью бессмысленен.</segment>
-		<segment id="81" parent="83" relname="joint">Потому что сейчас доля шифрованного трафика в Рунете больше 50%</segment>
-		<segment id="82" parent="83" relname="joint">и стремительно растет.</segment>
-		<segment id="84" parent="86" relname="span">А \"пакет Яровой\" предполагает хранение миллионов тонн этого шифрованного трафика</segment>
-		<segment id="85" parent="84" relname="condition">без возможности его расшифровать\",</segment>
-		<segment id="89" parent="90" relname="attribution">- пишет политик в Facebook,</segment>
-		<segment id="90" parent="91" relname="span">комментируя предложение ФСБ по дешифровке всего интернет-трафика россиян.\n\n\"2.</segment>
-		<segment id="93" parent="107" relname="span">Путь, который они предлагают, называется \"государственный MiTM\".</segment>
-		<segment id="94" parent="96" relname="span">MiTM = man-in-the-middle = \"человек посередине\" - это вид хакерской атаки,</segment>
-		<segment id="95" parent="94" relname="elaboration">который заключается в том, что злоумышленник П встраивается в шифрованный канал между абонентами А и Б,</segment>
-		<segment id="97" parent="99" relname="restatement">и когда А и Б думают,</segment>
-		<segment id="98" parent="99" relname="restatement">что шифруют сообщения друг другу,</segment>
-		<segment id="100" parent="104" relname="sequence">на самом деле они шифруют их все в адрес П, который вскрывает их,</segment>
-		<segment id="101" parent="103" relname="joint">а потом перешифровывает</segment>
-		<segment id="102" parent="103" relname="joint">и отправляет дальше.\n\n3.</segment>
-		<segment id="108" parent="112" relname="span">Очень наглядно показывает ход их мысли и уровень представлений о жизни.</segment>
-		<segment id="109" parent="110" relname="solutionhood">Помните из детства книжки про Владимира Ильича и жандармов и суровую царскую цензуру с перлюстрацией и чернила из молока?</segment>
-		<segment id="110" parent="111" relname="span">Вот это в точности оно и есть.</segment>
-		<segment id="113" parent="115" relname="joint">Хотят все письма вскрывать</segment>
-		<segment id="114" parent="115" relname="joint">и читать,</segment>
-		<segment id="116" parent="118" relname="span">а потом конверты заклеивать так,</segment>
-		<segment id="117" parent="116" relname="purpose">чтобы нельзя было догадаться, что письмо читали.</segment>
-		<segment id="120" parent="119" relname="elaboration">Цифровая перлюстрация.</segment>
-		<segment id="122" parent="124" relname="contrast">Сейчас тотальная перлюстрация положена в отношении писем, которые идут с зоны и на зону.</segment>
-		<segment id="123" parent="124" relname="contrast">Но для ФСБ, детей вертухаев, - вся страна это зона.\n\n4.</segment>
-		<segment id="125" parent="124" relname="elaboration">Проблемка заключается в том, что (см. пункт 2) MiTM - это вид хакерской атаки.</segment>
-		<segment id="129" parent="139" relname="span">Для всего используемого в интернете ПО попытка подмена сертификата</segment>
-		<segment id="130" parent="138" relname="joint">для перешифровки контента выглядит именно</segment>
-		<segment id="131" parent="137" relname="span">и только так и реакция (автоматическая) будет соответствующей:</segment>
-		<segment id="132" parent="135" relname="condition">как только операционная система или браузер выявят,</segment>
-		<segment id="133" parent="134" relname="condition">что предъявлен поддельный сертификат,</segment>
-		<segment id="134" parent="135" relname="span">они его тут же забанят.</segment>
-		<segment id="140" parent="141" relname="interpretation-evaluation">(Это я конечно очень грубо,</segment>
-		<segment id="141" parent="142" relname="span">не вдаваясь в технические детали.</segment>
-		<segment id="143" parent="145" relname="span">Ну и нельзя исключать, что ФСБ пойдет договариваться,</segment>
-		<segment id="144" parent="143" relname="purpose">чтобы их сертификат предустанавливался в списки доверенных</segment>
-		<segment id="146" parent="145" relname="attribution">- это предмет для отдельного разговора).</segment>
-		<segment id="148" parent="149" relname="restatement">То есть работать все это не будет.\n\n5.</segment>
-		<segment id="152" parent="154" relname="span">Пример:</segment>
-		<segment id="153" parent="152" relname="elaboration">в декабре 2015 года в Казахстане пытались реализовать эту схему.</segment>
-		<segment id="155" parent="158" relname="attribution">\"КазТелеком\" бодро объявил абонентам,</segment>
-		<segment id="156" parent="158" relname="joint">что они все обязаны установить себе государственный сертификат</segment>
-		<segment id="157" parent="158" relname="joint">и с 1 января 2016 года весь трафик будет шифроваться на него.</segment>
-		<segment id="160" parent="162" relname="joint">Через пару дней, однако, это сообщение с сайта \"КазТелекома\" исчезло</segment>
-		<segment id="161" parent="162" relname="joint">и было объяснено \"технической ошибкой\".</segment>
-		<segment id="164" parent="170" relname="span">Очевидно, потому что нашелся умный человек,</segment>
-		<segment id="165" parent="168" relname="attribution">который объяснил,</segment>
-		<segment id="166" parent="167" relname="condition">что через неделю после того, как у всех абонентов появится \"государственный сертификат\",</segment>
-		<segment id="167" parent="168" relname="span">интернет в Казахстане просто перестанет работать.\n\n6.</segment>
-		<segment id="173" parent="196" relname="preparation">Прозвучали важные три буквы: DPI (deep packet inspection - глубокий анализ пакетов).</segment>
-		<segment id="174" parent="175" relname="attribution">ФСБ говорит:</segment>
-		<segment id="175" parent="176" relname="span">хотим не просто расшифровывать трафик \"на лету\",</segment>
-		<segment id="177" parent="181" relname="restatement">но и делать DPI,</segment>
-		<segment id="178" parent="180" relname="span">то есть в онлайн-режиме искать слова \"бомба\", \"Путин\", \"жулики и воры\", \"дача Медведева\", \"Крым\", \"Володин - гей\", \"покемоны\", \"Чайка\" и другие,</segment>
-		<segment id="179" parent="178" relname="elaboration">которые в данный момент времени признаны угрожающими основам конституционного строя и национальной безопасности Российской Федерации.</segment>
-		<segment id="183" parent="195" relname="span">Хорошо известно, чьи уши торчат за DPI:</segment>
-		<segment id="184" parent="186" relname="joint">это главный \"национал-патриот\" Рунета Игорь Ашманов (сопредседатель партии \"Великое Отечество\", политической структуры НОДа)</segment>
-		<segment id="185" parent="186" relname="joint">и супруга его Наталья Касперская.</segment>
-		<segment id="187" parent="189" relname="joint">У них есть софт для DPI</segment>
-		<segment id="188" parent="189" relname="joint">и для семантического анализа,</segment>
-		<segment id="190" parent="192" relname="joint">они очень давно с ним носятся</segment>
-		<segment id="191" parent="192" relname="joint">и мечтают продать государству и подороже.\n\n7.</segment>
-		<segment id="198" parent="225" relname="preparation">РЕЗЮМЕ.</segment>
-		<segment id="199" parent="203" relname="joint">У меня для вас только хорошие новости.\n\n- \"Пакет Яровой\" в нынешнем виде будет похоронен;</segment>
-		<segment id="200" parent="201" relname="attribution">ФСБ признает,</segment>
-		<segment id="201" parent="202" relname="span">что он абсолютно лишен смысла;\n\n- Предлагаемое вместо него решение звучит многократно более дешево и разумно,</segment>
-		<segment id="204" parent="206" relname="span">но при этом не будет работать все равно</segment>
-		<segment id="205" parent="204" relname="elaboration">(что хорошо для всех нас),</segment>
-		<segment id="208" parent="211" relname="condition">а если и будет работать,</segment>
-		<segment id="209" parent="211" relname="span">то будет легко обходиться</segment>
-		<segment id="210" parent="209" relname="elaboration">(защититься от MiTM нетрудно);\n\n- В битву за распил государственных денег, выделяемых на \"контроль за интернетом\", включаются новые силы:</segment>
-		<segment id="214" parent="215" relname="condition">если \"пакет Яровой\" в изначальном виде отвечал бизнес-интересам производителей СОРМа и группы Чемезова,</segment>
-		<segment id="215" parent="216" relname="span">то предложения ФСБ им резко противоречат,</segment>
-		<segment id="217" parent="223" relname="span">тут совсем другие бенефициары</segment>
-		<segment id="218" parent="220" relname="span">;\n\n- Пока они будут между собой драться</segment>
-		<segment id="219" parent="218" relname="elaboration">(возможно, с применением огнестрельного оружия),</segment>
-		<segment id="221" parent="222" relname="joint">с интернетом не будет происходить ничего плохого\".\n\nИсточник: https://www.newsru.com/blog/22Sep2016/fsbtrafik.html\n</segment>
+		<segment id="79" parent="232" relname="preparation">Р›РµРѕРЅРёРґ Р’РѕР»РєРѕРІ: \"Р¤РЎР‘ РїСЂРµРґР»Р°РіР°РµС‚ СЂР°СЃС€РёС„СЂРѕРІС‹РІР°С‚СЊ РІРµСЃСЊ РёРЅС‚РµСЂРЅРµС‚-С‚СЂР°С„РёРє СЂРѕСЃСЃРёСЏРЅ\"\n\n\"1.</segment>
+		<segment id="80" parent="88" relname="span">Р”Рѕ Р¤РЎР‘ РґРѕС€Р»Рѕ, РЅР°РєРѕРЅРµС†, С‡С‚Рѕ \"РїР°РєРµС‚ РЇСЂРѕРІРѕР№\" РїРѕР»РЅРѕСЃС‚СЊСЋ Р±РµСЃСЃРјС‹СЃР»РµРЅРµРЅ.</segment>
+		<segment id="81" parent="83" relname="joint">РџРѕС‚РѕРјСѓ С‡С‚Рѕ СЃРµР№С‡Р°СЃ РґРѕР»СЏ С€РёС„СЂРѕРІР°РЅРЅРѕРіРѕ С‚СЂР°С„РёРєР° РІ Р СѓРЅРµС‚Рµ Р±РѕР»СЊС€Рµ 50%</segment>
+		<segment id="82" parent="83" relname="joint">Рё СЃС‚СЂРµРјРёС‚РµР»СЊРЅРѕ СЂР°СЃС‚РµС‚.</segment>
+		<segment id="84" parent="86" relname="span">Рђ \"РїР°РєРµС‚ РЇСЂРѕРІРѕР№\" РїСЂРµРґРїРѕР»Р°РіР°РµС‚ С…СЂР°РЅРµРЅРёРµ РјРёР»Р»РёРѕРЅРѕРІ С‚РѕРЅРЅ СЌС‚РѕРіРѕ С€РёС„СЂРѕРІР°РЅРЅРѕРіРѕ С‚СЂР°С„РёРєР°</segment>
+		<segment id="85" parent="84" relname="condition">Р±РµР· РІРѕР·РјРѕР¶РЅРѕСЃС‚Рё РµРіРѕ СЂР°СЃС€РёС„СЂРѕРІР°С‚СЊ\",</segment>
+		<segment id="89" parent="90" relname="attribution">- РїРёС€РµС‚ РїРѕР»РёС‚РёРє РІ Facebook,</segment>
+		<segment id="90" parent="91" relname="span">РєРѕРјРјРµРЅС‚РёСЂСѓСЏ РїСЂРµРґР»РѕР¶РµРЅРёРµ Р¤РЎР‘ РїРѕ РґРµС€РёС„СЂРѕРІРєРµ РІСЃРµРіРѕ РёРЅС‚РµСЂРЅРµС‚-С‚СЂР°С„РёРєР° СЂРѕСЃСЃРёСЏРЅ.\n\n\"2.</segment>
+		<segment id="93" parent="107" relname="span">РџСѓС‚СЊ, РєРѕС‚РѕСЂС‹Р№ РѕРЅРё РїСЂРµРґР»Р°РіР°СЋС‚, РЅР°Р·С‹РІР°РµС‚СЃСЏ \"РіРѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅС‹Р№ MiTM\".</segment>
+		<segment id="94" parent="96" relname="span">MiTM = man-in-the-middle = \"С‡РµР»РѕРІРµРє РїРѕСЃРµСЂРµРґРёРЅРµ\" - СЌС‚Рѕ РІРёРґ С…Р°РєРµСЂСЃРєРѕР№ Р°С‚Р°РєРё,</segment>
+		<segment id="95" parent="94" relname="elaboration">РєРѕС‚РѕСЂС‹Р№ Р·Р°РєР»СЋС‡Р°РµС‚СЃСЏ РІ С‚РѕРј, С‡С‚Рѕ Р·Р»РѕСѓРјС‹С€Р»РµРЅРЅРёРє Рџ РІСЃС‚СЂР°РёРІР°РµС‚СЃСЏ РІ С€РёС„СЂРѕРІР°РЅРЅС‹Р№ РєР°РЅР°Р» РјРµР¶РґСѓ Р°Р±РѕРЅРµРЅС‚Р°РјРё Рђ Рё Р‘,</segment>
+		<segment id="97" parent="99" relname="restatement">Рё РєРѕРіРґР° Рђ Рё Р‘ РґСѓРјР°СЋС‚,</segment>
+		<segment id="98" parent="99" relname="restatement">С‡С‚Рѕ С€РёС„СЂСѓСЋС‚ СЃРѕРѕР±С‰РµРЅРёСЏ РґСЂСѓРі РґСЂСѓРіСѓ,</segment>
+		<segment id="100" parent="104" relname="sequence">РЅР° СЃР°РјРѕРј РґРµР»Рµ РѕРЅРё С€РёС„СЂСѓСЋС‚ РёС… РІСЃРµ РІ Р°РґСЂРµСЃ Рџ, РєРѕС‚РѕСЂС‹Р№ РІСЃРєСЂС‹РІР°РµС‚ РёС…,</segment>
+		<segment id="101" parent="103" relname="joint">Р° РїРѕС‚РѕРј РїРµСЂРµС€РёС„СЂРѕРІС‹РІР°РµС‚</segment>
+		<segment id="102" parent="103" relname="joint">Рё РѕС‚РїСЂР°РІР»СЏРµС‚ РґР°Р»СЊС€Рµ.\n\n3.</segment>
+		<segment id="108" parent="112" relname="span">РћС‡РµРЅСЊ РЅР°РіР»СЏРґРЅРѕ РїРѕРєР°Р·С‹РІР°РµС‚ С…РѕРґ РёС… РјС‹СЃР»Рё Рё СѓСЂРѕРІРµРЅСЊ РїСЂРµРґСЃС‚Р°РІР»РµРЅРёР№ Рѕ Р¶РёР·РЅРё.</segment>
+		<segment id="109" parent="110" relname="solutionhood">РџРѕРјРЅРёС‚Рµ РёР· РґРµС‚СЃС‚РІР° РєРЅРёР¶РєРё РїСЂРѕ Р’Р»Р°РґРёРјРёСЂР° РР»СЊРёС‡Р° Рё Р¶Р°РЅРґР°СЂРјРѕРІ Рё СЃСѓСЂРѕРІСѓСЋ С†Р°СЂСЃРєСѓСЋ С†РµРЅР·СѓСЂСѓ СЃ РїРµСЂР»СЋСЃС‚СЂР°С†РёРµР№ Рё С‡РµСЂРЅРёР»Р° РёР· РјРѕР»РѕРєР°?</segment>
+		<segment id="110" parent="111" relname="span">Р’РѕС‚ СЌС‚Рѕ РІ С‚РѕС‡РЅРѕСЃС‚Рё РѕРЅРѕ Рё РµСЃС‚СЊ.</segment>
+		<segment id="113" parent="115" relname="joint">РҐРѕС‚СЏС‚ РІСЃРµ РїРёСЃСЊРјР° РІСЃРєСЂС‹РІР°С‚СЊ</segment>
+		<segment id="114" parent="115" relname="joint">Рё С‡РёС‚Р°С‚СЊ,</segment>
+		<segment id="116" parent="118" relname="span">Р° РїРѕС‚РѕРј РєРѕРЅРІРµСЂС‚С‹ Р·Р°РєР»РµРёРІР°С‚СЊ С‚Р°Рє,</segment>
+		<segment id="117" parent="116" relname="purpose">С‡С‚РѕР±С‹ РЅРµР»СЊР·СЏ Р±С‹Р»Рѕ РґРѕРіР°РґР°С‚СЊСЃСЏ, С‡С‚Рѕ РїРёСЃСЊРјРѕ С‡РёС‚Р°Р»Рё.</segment>
+		<segment id="120" parent="119" relname="elaboration">Р¦РёС„СЂРѕРІР°СЏ РїРµСЂР»СЋСЃС‚СЂР°С†РёСЏ.</segment>
+		<segment id="122" parent="124" relname="contrast">РЎРµР№С‡Р°СЃ С‚РѕС‚Р°Р»СЊРЅР°СЏ РїРµСЂР»СЋСЃС‚СЂР°С†РёСЏ РїРѕР»РѕР¶РµРЅР° РІ РѕС‚РЅРѕС€РµРЅРёРё РїРёСЃРµРј, РєРѕС‚РѕСЂС‹Рµ РёРґСѓС‚ СЃ Р·РѕРЅС‹ Рё РЅР° Р·РѕРЅСѓ.</segment>
+		<segment id="123" parent="124" relname="contrast">РќРѕ РґР»СЏ Р¤РЎР‘, РґРµС‚РµР№ РІРµСЂС‚СѓС…Р°РµРІ, - РІСЃСЏ СЃС‚СЂР°РЅР° СЌС‚Рѕ Р·РѕРЅР°.\n\n4.</segment>
+		<segment id="125" parent="124" relname="elaboration">РџСЂРѕР±Р»РµРјРєР° Р·Р°РєР»СЋС‡Р°РµС‚СЃСЏ РІ С‚РѕРј, С‡С‚Рѕ (СЃРј. РїСѓРЅРєС‚ 2) MiTM - СЌС‚Рѕ РІРёРґ С…Р°РєРµСЂСЃРєРѕР№ Р°С‚Р°РєРё.</segment>
+		<segment id="129" parent="139" relname="span">Р”Р»СЏ РІСЃРµРіРѕ РёСЃРїРѕР»СЊР·СѓРµРјРѕРіРѕ РІ РёРЅС‚РµСЂРЅРµС‚Рµ РџРћ РїРѕРїС‹С‚РєР° РїРѕРґРјРµРЅР° СЃРµСЂС‚РёС„РёРєР°С‚Р°</segment>
+		<segment id="130" parent="138" relname="joint">РґР»СЏ РїРµСЂРµС€РёС„СЂРѕРІРєРё РєРѕРЅС‚РµРЅС‚Р° РІС‹РіР»СЏРґРёС‚ РёРјРµРЅРЅРѕ</segment>
+		<segment id="131" parent="137" relname="span">Рё С‚РѕР»СЊРєРѕ С‚Р°Рє Рё СЂРµР°РєС†РёСЏ (Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєР°СЏ) Р±СѓРґРµС‚ СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓСЋС‰РµР№:</segment>
+		<segment id="132" parent="135" relname="condition">РєР°Рє С‚РѕР»СЊРєРѕ РѕРїРµСЂР°С†РёРѕРЅРЅР°СЏ СЃРёСЃС‚РµРјР° РёР»Рё Р±СЂР°СѓР·РµСЂ РІС‹СЏРІСЏС‚,</segment>
+		<segment id="133" parent="134" relname="condition">С‡С‚Рѕ РїСЂРµРґСЉСЏРІР»РµРЅ РїРѕРґРґРµР»СЊРЅС‹Р№ СЃРµСЂС‚РёС„РёРєР°С‚,</segment>
+		<segment id="134" parent="135" relname="span">РѕРЅРё РµРіРѕ С‚СѓС‚ Р¶Рµ Р·Р°Р±Р°РЅСЏС‚.</segment>
+		<segment id="140" parent="141" relname="interpretation-evaluation">(Р­С‚Рѕ СЏ РєРѕРЅРµС‡РЅРѕ РѕС‡РµРЅСЊ РіСЂСѓР±Рѕ,</segment>
+		<segment id="141" parent="142" relname="span">РЅРµ РІРґР°РІР°СЏСЃСЊ РІ С‚РµС…РЅРёС‡РµСЃРєРёРµ РґРµС‚Р°Р»Рё.</segment>
+		<segment id="143" parent="145" relname="span">РќСѓ Рё РЅРµР»СЊР·СЏ РёСЃРєР»СЋС‡Р°С‚СЊ, С‡С‚Рѕ Р¤РЎР‘ РїРѕР№РґРµС‚ РґРѕРіРѕРІР°СЂРёРІР°С‚СЊСЃСЏ,</segment>
+		<segment id="144" parent="143" relname="purpose">С‡С‚РѕР±С‹ РёС… СЃРµСЂС‚РёС„РёРєР°С‚ РїСЂРµРґСѓСЃС‚Р°РЅР°РІР»РёРІР°Р»СЃСЏ РІ СЃРїРёСЃРєРё РґРѕРІРµСЂРµРЅРЅС‹С…</segment>
+		<segment id="146" parent="145" relname="attribution">- СЌС‚Рѕ РїСЂРµРґРјРµС‚ РґР»СЏ РѕС‚РґРµР»СЊРЅРѕРіРѕ СЂР°Р·РіРѕРІРѕСЂР°).</segment>
+		<segment id="148" parent="149" relname="restatement">РўРѕ РµСЃС‚СЊ СЂР°Р±РѕС‚Р°С‚СЊ РІСЃРµ СЌС‚Рѕ РЅРµ Р±СѓРґРµС‚.\n\n5.</segment>
+		<segment id="152" parent="154" relname="span">РџСЂРёРјРµСЂ:</segment>
+		<segment id="153" parent="152" relname="elaboration">РІ РґРµРєР°Р±СЂРµ 2015 РіРѕРґР° РІ РљР°Р·Р°С…СЃС‚Р°РЅРµ РїС‹С‚Р°Р»РёСЃСЊ СЂРµР°Р»РёР·РѕРІР°С‚СЊ СЌС‚Сѓ СЃС…РµРјСѓ.</segment>
+		<segment id="155" parent="158" relname="attribution">\"РљР°Р·РўРµР»РµРєРѕРј\" Р±РѕРґСЂРѕ РѕР±СЉСЏРІРёР» Р°Р±РѕРЅРµРЅС‚Р°Рј,</segment>
+		<segment id="156" parent="158" relname="joint">С‡С‚Рѕ РѕРЅРё РІСЃРµ РѕР±СЏР·Р°РЅС‹ СѓСЃС‚Р°РЅРѕРІРёС‚СЊ СЃРµР±Рµ РіРѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅС‹Р№ СЃРµСЂС‚РёС„РёРєР°С‚</segment>
+		<segment id="157" parent="158" relname="joint">Рё СЃ 1 СЏРЅРІР°СЂСЏ 2016 РіРѕРґР° РІРµСЃСЊ С‚СЂР°С„РёРє Р±СѓРґРµС‚ С€РёС„СЂРѕРІР°С‚СЊСЃСЏ РЅР° РЅРµРіРѕ.</segment>
+		<segment id="160" parent="162" relname="joint">Р§РµСЂРµР· РїР°СЂСѓ РґРЅРµР№, РѕРґРЅР°РєРѕ, СЌС‚Рѕ СЃРѕРѕР±С‰РµРЅРёРµ СЃ СЃР°Р№С‚Р° \"РљР°Р·РўРµР»РµРєРѕРјР°\" РёСЃС‡РµР·Р»Рѕ</segment>
+		<segment id="161" parent="162" relname="joint">Рё Р±С‹Р»Рѕ РѕР±СЉСЏСЃРЅРµРЅРѕ \"С‚РµС…РЅРёС‡РµСЃРєРѕР№ РѕС€РёР±РєРѕР№\".</segment>
+		<segment id="164" parent="170" relname="span">РћС‡РµРІРёРґРЅРѕ, РїРѕС‚РѕРјСѓ С‡С‚Рѕ РЅР°С€РµР»СЃСЏ СѓРјРЅС‹Р№ С‡РµР»РѕРІРµРє,</segment>
+		<segment id="165" parent="168" relname="attribution">РєРѕС‚РѕСЂС‹Р№ РѕР±СЉСЏСЃРЅРёР»,</segment>
+		<segment id="166" parent="167" relname="condition">С‡С‚Рѕ С‡РµСЂРµР· РЅРµРґРµР»СЋ РїРѕСЃР»Рµ С‚РѕРіРѕ, РєР°Рє Сѓ РІСЃРµС… Р°Р±РѕРЅРµРЅС‚РѕРІ РїРѕСЏРІРёС‚СЃСЏ \"РіРѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅС‹Р№ СЃРµСЂС‚РёС„РёРєР°С‚\",</segment>
+		<segment id="167" parent="168" relname="span">РёРЅС‚РµСЂРЅРµС‚ РІ РљР°Р·Р°С…СЃС‚Р°РЅРµ РїСЂРѕСЃС‚Рѕ РїРµСЂРµСЃС‚Р°РЅРµС‚ СЂР°Р±РѕС‚Р°С‚СЊ.\n\n6.</segment>
+		<segment id="173" parent="196" relname="preparation">РџСЂРѕР·РІСѓС‡Р°Р»Рё РІР°Р¶РЅС‹Рµ С‚СЂРё Р±СѓРєРІС‹: DPI (deep packet inspection - РіР»СѓР±РѕРєРёР№ Р°РЅР°Р»РёР· РїР°РєРµС‚РѕРІ).</segment>
+		<segment id="174" parent="175" relname="attribution">Р¤РЎР‘ РіРѕРІРѕСЂРёС‚:</segment>
+		<segment id="175" parent="176" relname="span">С…РѕС‚РёРј РЅРµ РїСЂРѕСЃС‚Рѕ СЂР°СЃС€РёС„СЂРѕРІС‹РІР°С‚СЊ С‚СЂР°С„РёРє \"РЅР° Р»РµС‚Сѓ\",</segment>
+		<segment id="177" parent="181" relname="restatement">РЅРѕ Рё РґРµР»Р°С‚СЊ DPI,</segment>
+		<segment id="178" parent="180" relname="span">С‚Рѕ РµСЃС‚СЊ РІ РѕРЅР»Р°Р№РЅ-СЂРµР¶РёРјРµ РёСЃРєР°С‚СЊ СЃР»РѕРІР° \"Р±РѕРјР±Р°\", \"РџСѓС‚РёРЅ\", \"Р¶СѓР»РёРєРё Рё РІРѕСЂС‹\", \"РґР°С‡Р° РњРµРґРІРµРґРµРІР°\", \"РљСЂС‹Рј\", \"Р’РѕР»РѕРґРёРЅ - РіРµР№\", \"РїРѕРєРµРјРѕРЅС‹\", \"Р§Р°Р№РєР°\" Рё РґСЂСѓРіРёРµ,</segment>
+		<segment id="179" parent="178" relname="elaboration">РєРѕС‚РѕСЂС‹Рµ РІ РґР°РЅРЅС‹Р№ РјРѕРјРµРЅС‚ РІСЂРµРјРµРЅРё РїСЂРёР·РЅР°РЅС‹ СѓРіСЂРѕР¶Р°СЋС‰РёРјРё РѕСЃРЅРѕРІР°Рј РєРѕРЅСЃС‚РёС‚СѓС†РёРѕРЅРЅРѕРіРѕ СЃС‚СЂРѕСЏ Рё РЅР°С†РёРѕРЅР°Р»СЊРЅРѕР№ Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё Р РѕСЃСЃРёР№СЃРєРѕР№ Р¤РµРґРµСЂР°С†РёРё.</segment>
+		<segment id="183" parent="195" relname="span">РҐРѕСЂРѕС€Рѕ РёР·РІРµСЃС‚РЅРѕ, С‡СЊРё СѓС€Рё С‚РѕСЂС‡Р°С‚ Р·Р° DPI:</segment>
+		<segment id="184" parent="186" relname="joint">СЌС‚Рѕ РіР»Р°РІРЅС‹Р№ \"РЅР°С†РёРѕРЅР°Р»-РїР°С‚СЂРёРѕС‚\" Р СѓРЅРµС‚Р° РРіРѕСЂСЊ РђС€РјР°РЅРѕРІ (СЃРѕРїСЂРµРґСЃРµРґР°С‚РµР»СЊ РїР°СЂС‚РёРё \"Р’РµР»РёРєРѕРµ РћС‚РµС‡РµСЃС‚РІРѕ\", РїРѕР»РёС‚РёС‡РµСЃРєРѕР№ СЃС‚СЂСѓРєС‚СѓСЂС‹ РќРћР”Р°)</segment>
+		<segment id="185" parent="186" relname="joint">Рё СЃСѓРїСЂСѓРіР° РµРіРѕ РќР°С‚Р°Р»СЊСЏ РљР°СЃРїРµСЂСЃРєР°СЏ.</segment>
+		<segment id="187" parent="189" relname="joint">РЈ РЅРёС… РµСЃС‚СЊ СЃРѕС„С‚ РґР»СЏ DPI</segment>
+		<segment id="188" parent="189" relname="joint">Рё РґР»СЏ СЃРµРјР°РЅС‚РёС‡РµСЃРєРѕРіРѕ Р°РЅР°Р»РёР·Р°,</segment>
+		<segment id="190" parent="192" relname="joint">РѕРЅРё РѕС‡РµРЅСЊ РґР°РІРЅРѕ СЃ РЅРёРј РЅРѕСЃСЏС‚СЃСЏ</segment>
+		<segment id="191" parent="192" relname="joint">Рё РјРµС‡С‚Р°СЋС‚ РїСЂРѕРґР°С‚СЊ РіРѕСЃСѓРґР°СЂСЃС‚РІСѓ Рё РїРѕРґРѕСЂРѕР¶Рµ.\n\n7.</segment>
+		<segment id="198" parent="225" relname="preparation">Р Р•Р—Р®РњР•.</segment>
+		<segment id="199" parent="203" relname="joint">РЈ РјРµРЅСЏ РґР»СЏ РІР°СЃ С‚РѕР»СЊРєРѕ С…РѕСЂРѕС€РёРµ РЅРѕРІРѕСЃС‚Рё.\n\n- \"РџР°РєРµС‚ РЇСЂРѕРІРѕР№\" РІ РЅС‹РЅРµС€РЅРµРј РІРёРґРµ Р±СѓРґРµС‚ РїРѕС…РѕСЂРѕРЅРµРЅ;</segment>
+		<segment id="200" parent="201" relname="attribution">Р¤РЎР‘ РїСЂРёР·РЅР°РµС‚,</segment>
+		<segment id="201" parent="202" relname="span">С‡С‚Рѕ РѕРЅ Р°Р±СЃРѕР»СЋС‚РЅРѕ Р»РёС€РµРЅ СЃРјС‹СЃР»Р°;\n\n- РџСЂРµРґР»Р°РіР°РµРјРѕРµ РІРјРµСЃС‚Рѕ РЅРµРіРѕ СЂРµС€РµРЅРёРµ Р·РІСѓС‡РёС‚ РјРЅРѕРіРѕРєСЂР°С‚РЅРѕ Р±РѕР»РµРµ РґРµС€РµРІРѕ Рё СЂР°Р·СѓРјРЅРѕ,</segment>
+		<segment id="204" parent="206" relname="span">РЅРѕ РїСЂРё СЌС‚РѕРј РЅРµ Р±СѓРґРµС‚ СЂР°Р±РѕС‚Р°С‚СЊ РІСЃРµ СЂР°РІРЅРѕ</segment>
+		<segment id="205" parent="204" relname="elaboration">(С‡С‚Рѕ С…РѕСЂРѕС€Рѕ РґР»СЏ РІСЃРµС… РЅР°СЃ),</segment>
+		<segment id="208" parent="211" relname="condition">Р° РµСЃР»Рё Рё Р±СѓРґРµС‚ СЂР°Р±РѕС‚Р°С‚СЊ,</segment>
+		<segment id="209" parent="211" relname="span">С‚Рѕ Р±СѓРґРµС‚ Р»РµРіРєРѕ РѕР±С…РѕРґРёС‚СЊСЃСЏ</segment>
+		<segment id="210" parent="209" relname="elaboration">(Р·Р°С‰РёС‚РёС‚СЊСЃСЏ РѕС‚ MiTM РЅРµС‚СЂСѓРґРЅРѕ);\n\n- Р’ Р±РёС‚РІСѓ Р·Р° СЂР°СЃРїРёР» РіРѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅС‹С… РґРµРЅРµРі, РІС‹РґРµР»СЏРµРјС‹С… РЅР° \"РєРѕРЅС‚СЂРѕР»СЊ Р·Р° РёРЅС‚РµСЂРЅРµС‚РѕРј\", РІРєР»СЋС‡Р°СЋС‚СЃСЏ РЅРѕРІС‹Рµ СЃРёР»С‹:</segment>
+		<segment id="214" parent="215" relname="condition">РµСЃР»Рё \"РїР°РєРµС‚ РЇСЂРѕРІРѕР№\" РІ РёР·РЅР°С‡Р°Р»СЊРЅРѕРј РІРёРґРµ РѕС‚РІРµС‡Р°Р» Р±РёР·РЅРµСЃ-РёРЅС‚РµСЂРµСЃР°Рј РїСЂРѕРёР·РІРѕРґРёС‚РµР»РµР№ РЎРћР РњР° Рё РіСЂСѓРїРїС‹ Р§РµРјРµР·РѕРІР°,</segment>
+		<segment id="215" parent="216" relname="span">С‚Рѕ РїСЂРµРґР»РѕР¶РµРЅРёСЏ Р¤РЎР‘ РёРј СЂРµР·РєРѕ РїСЂРѕС‚РёРІРѕСЂРµС‡Р°С‚,</segment>
+		<segment id="217" parent="223" relname="span">С‚СѓС‚ СЃРѕРІСЃРµРј РґСЂСѓРіРёРµ Р±РµРЅРµС„РёС†РёР°СЂС‹</segment>
+		<segment id="218" parent="220" relname="span">;\n\n- РџРѕРєР° РѕРЅРё Р±СѓРґСѓС‚ РјРµР¶РґСѓ СЃРѕР±РѕР№ РґСЂР°С‚СЊСЃСЏ</segment>
+		<segment id="219" parent="218" relname="elaboration">(РІРѕР·РјРѕР¶РЅРѕ, СЃ РїСЂРёРјРµРЅРµРЅРёРµРј РѕРіРЅРµСЃС‚СЂРµР»СЊРЅРѕРіРѕ РѕСЂСѓР¶РёСЏ),</segment>
+		<segment id="221" parent="222" relname="joint">СЃ РёРЅС‚РµСЂРЅРµС‚РѕРј РЅРµ Р±СѓРґРµС‚ РїСЂРѕРёСЃС…РѕРґРёС‚СЊ РЅРёС‡РµРіРѕ РїР»РѕС…РѕРіРѕ\".\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/blog/22Sep2016/fsbtrafik.html\n</segment>
 		<group id="232" type="multinuc" parent="233" relname="span"/>
 		<group id="92" type="span" parent="232" relname="joint"/>
 		<group id="88" type="span" parent="92" relname="span"/>

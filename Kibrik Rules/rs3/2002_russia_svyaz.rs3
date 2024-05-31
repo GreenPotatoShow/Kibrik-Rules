@@ -15,53 +15,53 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="49" parent="55" relname="joint">ФСБ передала террористам рацию\n\nКонтакт с террористами поддерживается постоянно.</segment>
-		<segment id="50" parent="52" relname="span">Переговоры ведут специалисты-переговорщики по мобильной связи и рации,</segment>
-		<segment id="51" parent="50" relname="elaboration">которую передали террористам.</segment>
-		<segment id="53" parent="52" relname="attribution">Об этом журналистам сообщил официальный представитель штаба ФСБ Сергей Игнатченко.\n\n\"Переговоры будут продолжаться столько, сколько нужно\" для освобождения заложников\",</segment>
-		<segment id="56" parent="57" relname="attribution">- заявил он</segment>
+		<segment id="49" parent="55" relname="joint">Р¤РЎР‘ РїРµСЂРµРґР°Р»Р° С‚РµСЂСЂРѕСЂРёСЃС‚Р°Рј СЂР°С†РёСЋ\n\nРљРѕРЅС‚Р°РєС‚ СЃ С‚РµСЂСЂРѕСЂРёСЃС‚Р°РјРё РїРѕРґРґРµСЂР¶РёРІР°РµС‚СЃСЏ РїРѕСЃС‚РѕСЏРЅРЅРѕ.</segment>
+		<segment id="50" parent="52" relname="span">РџРµСЂРµРіРѕРІРѕСЂС‹ РІРµРґСѓС‚ СЃРїРµС†РёР°Р»РёСЃС‚С‹-РїРµСЂРµРіРѕРІРѕСЂС‰РёРєРё РїРѕ РјРѕР±РёР»СЊРЅРѕР№ СЃРІСЏР·Рё Рё СЂР°С†РёРё,</segment>
+		<segment id="51" parent="50" relname="elaboration">РєРѕС‚РѕСЂСѓСЋ РїРµСЂРµРґР°Р»Рё С‚РµСЂСЂРѕСЂРёСЃС‚Р°Рј.</segment>
+		<segment id="53" parent="52" relname="attribution">РћР± СЌС‚РѕРј Р¶СѓСЂРЅР°Р»РёСЃС‚Р°Рј СЃРѕРѕР±С‰РёР» РѕС„РёС†РёР°Р»СЊРЅС‹Р№ РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊ С€С‚Р°Р±Р° Р¤РЎР‘ РЎРµСЂРіРµР№ РРіРЅР°С‚С‡РµРЅРєРѕ.\n\n\"РџРµСЂРµРіРѕРІРѕСЂС‹ Р±СѓРґСѓС‚ РїСЂРѕРґРѕР»Р¶Р°С‚СЊСЃСЏ СЃС‚РѕР»СЊРєРѕ, СЃРєРѕР»СЊРєРѕ РЅСѓР¶РЅРѕ\" РґР»СЏ РѕСЃРІРѕР±РѕР¶РґРµРЅРёСЏ Р·Р°Р»РѕР¶РЅРёРєРѕРІ\",</segment>
+		<segment id="56" parent="57" relname="attribution">- Р·Р°СЏРІРёР» РѕРЅ</segment>
 		<segment id="57" parent="58" relname="span">.\n\</segment>
-		<segment id="60" parent="63" relname="attribution">nПо словам Игнатченко,</segment>
-		<segment id="61" parent="63" relname="span">выдвинутое террористами первоначально требование остается основным</segment>
-		<segment id="62" parent="61" relname="cause-effect">- это вывод российских войск из Чечне.</segment>
-		<segment id="65" parent="67" relname="span">\"Остальным требованиям я бы ни придавал особого значения\",</segment>
-		<segment id="66" parent="65" relname="attribution">- сказал он,</segment>
-		<segment id="68" parent="71" relname="attribution">отметив,</segment>
-		<segment id="69" parent="70" relname="attribution">что, по оценке штаба,</segment>
-		<segment id="70" parent="71" relname="span">\"это затягивание времени и ничего существенного\".\n\</segment>
-		<segment id="75" parent="78" relname="attribution">nНапример, пояснил представитель штаба,</segment>
-		<segment id="76" parent="77" relname="attribution">одним из требований было выставить пикет с плакатами.\n\nСергей Игнатченко сообщил также,</segment>
-		<segment id="77" parent="78" relname="span">что две девушки бежали из здания Театрального центра \"по собственной инициативе\".</segment>
-		<segment id="80" parent="90" relname="span">При этом террористы произвели по ним два выстрела из гранатомета.</segment>
-		<segment id="81" parent="83" relname="joint">\"Сотрудник спецназа получил легкое ранение,</segment>
-		<segment id="82" parent="83" relname="joint">жизнь его вне опасности\",</segment>
-		<segment id="84" parent="87" relname="attribution">- сказал представитель штаба.\n\nОдна из девушек, которая выпрыгнула из окна,</segment>
-		<segment id="85" parent="87" relname="joint">получила первую медицинскую помощь</segment>
-		<segment id="86" parent="87" relname="joint">и ее уже забрали родители.</segment>
-		<segment id="92" parent="95" relname="attribution">С девушками провели беседу психологи.\n\nИгнатченко сообщил,</segment>
-		<segment id="93" parent="95" relname="span">что находящимся в Театральноим центре заложникам помощь оказывают врачи-граждане Иордании,</segment>
-		<segment id="94" parent="93" relname="background">которые \"практиковались в Москве\".\n\</segment>
-		<segment id="97" parent="98" relname="joint">nВ разрешении ситуации с заложниками возникла пауза\n\</segment>
-		<segment id="99" parent="103" relname="same-unit">nТеррористы,</segment>
-		<segment id="102" parent="103" relname="same-unit">захватившие вечером в среду здание ДК ГПЗ, постоянно перемещаются внутри здания.</segment>
-		<segment id="104" parent="106" relname="span">Об этом сообщил \"Интерфаксу\" в четверг информированный источник в оперативном штабе.\n\nИсточник отметил высокую боевую подготовку террористов.</segment>
-		<segment id="105" parent="104" relname="elaboration">В частности, среди них были замечены несколько снайперов, внимательно наблюдающих из окон ДК за близлежащей территорией.\n\</segment>
-		<segment id="108" parent="112" relname="same-unit">nВместе с тем,</segment>
-		<segment id="109" parent="110" relname="attribution">по его словам,</segment>
-		<segment id="110" parent="111" relname="span">в работе по разрешению ситуации возникла пауза.</segment>
-		<segment id="113" parent="115" relname="restatement">\"Такое впечатление, что бандиты чего-то ждут.</segment>
-		<segment id="114" parent="115" relname="restatement">Либо какой-то команды, либо каких-либо активных действий со стороны правоохранительных органов\",</segment>
-		<segment id="116" parent="127" relname="attribution">- пояснил собеседник агентства.\n\nСвое мнение от подтвердил тем,</segment>
-		<segment id="117" parent="119" relname="span">что террористы специально требуют</segment>
-		<segment id="118" parent="117" relname="purpose">для переговоров людей, которым сложно прибыть к ДК ГПЗ.</segment>
-		<segment id="120" parent="119" relname="elaboration">В частности, террористам заранее было известно, что журналистка Анна Политковская,</segment>
-		<segment id="122" parent="121" relname="background">которую они потребовали для переговоров,</segment>
-		<segment id="124" parent="126" relname="span">в настоящее время находится в заграничной поездке</segment>
+		<segment id="60" parent="63" relname="attribution">nРџРѕ СЃР»РѕРІР°Рј РРіРЅР°С‚С‡РµРЅРєРѕ,</segment>
+		<segment id="61" parent="63" relname="span">РІС‹РґРІРёРЅСѓС‚РѕРµ С‚РµСЂСЂРѕСЂРёСЃС‚Р°РјРё РїРµСЂРІРѕРЅР°С‡Р°Р»СЊРЅРѕ С‚СЂРµР±РѕРІР°РЅРёРµ РѕСЃС‚Р°РµС‚СЃСЏ РѕСЃРЅРѕРІРЅС‹Рј</segment>
+		<segment id="62" parent="61" relname="cause-effect">- СЌС‚Рѕ РІС‹РІРѕРґ СЂРѕСЃСЃРёР№СЃРєРёС… РІРѕР№СЃРє РёР· Р§РµС‡РЅРµ.</segment>
+		<segment id="65" parent="67" relname="span">\"РћСЃС‚Р°Р»СЊРЅС‹Рј С‚СЂРµР±РѕРІР°РЅРёСЏРј СЏ Р±С‹ РЅРё РїСЂРёРґР°РІР°Р» РѕСЃРѕР±РѕРіРѕ Р·РЅР°С‡РµРЅРёСЏ\",</segment>
+		<segment id="66" parent="65" relname="attribution">- СЃРєР°Р·Р°Р» РѕРЅ,</segment>
+		<segment id="68" parent="71" relname="attribution">РѕС‚РјРµС‚РёРІ,</segment>
+		<segment id="69" parent="70" relname="attribution">С‡С‚Рѕ, РїРѕ РѕС†РµРЅРєРµ С€С‚Р°Р±Р°,</segment>
+		<segment id="70" parent="71" relname="span">\"СЌС‚Рѕ Р·Р°С‚СЏРіРёРІР°РЅРёРµ РІСЂРµРјРµРЅРё Рё РЅРёС‡РµРіРѕ СЃСѓС‰РµСЃС‚РІРµРЅРЅРѕРіРѕ\".\n\</segment>
+		<segment id="75" parent="78" relname="attribution">nРќР°РїСЂРёРјРµСЂ, РїРѕСЏСЃРЅРёР» РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊ С€С‚Р°Р±Р°,</segment>
+		<segment id="76" parent="77" relname="attribution">РѕРґРЅРёРј РёР· С‚СЂРµР±РѕРІР°РЅРёР№ Р±С‹Р»Рѕ РІС‹СЃС‚Р°РІРёС‚СЊ РїРёРєРµС‚ СЃ РїР»Р°РєР°С‚Р°РјРё.\n\nРЎРµСЂРіРµР№ РРіРЅР°С‚С‡РµРЅРєРѕ СЃРѕРѕР±С‰РёР» С‚Р°РєР¶Рµ,</segment>
+		<segment id="77" parent="78" relname="span">С‡С‚Рѕ РґРІРµ РґРµРІСѓС€РєРё Р±РµР¶Р°Р»Рё РёР· Р·РґР°РЅРёСЏ РўРµР°С‚СЂР°Р»СЊРЅРѕРіРѕ С†РµРЅС‚СЂР° \"РїРѕ СЃРѕР±СЃС‚РІРµРЅРЅРѕР№ РёРЅРёС†РёР°С‚РёРІРµ\".</segment>
+		<segment id="80" parent="90" relname="span">РџСЂРё СЌС‚РѕРј С‚РµСЂСЂРѕСЂРёСЃС‚С‹ РїСЂРѕРёР·РІРµР»Рё РїРѕ РЅРёРј РґРІР° РІС‹СЃС‚СЂРµР»Р° РёР· РіСЂР°РЅР°С‚РѕРјРµС‚Р°.</segment>
+		<segment id="81" parent="83" relname="joint">\"РЎРѕС‚СЂСѓРґРЅРёРє СЃРїРµС†РЅР°Р·Р° РїРѕР»СѓС‡РёР» Р»РµРіРєРѕРµ СЂР°РЅРµРЅРёРµ,</segment>
+		<segment id="82" parent="83" relname="joint">Р¶РёР·РЅСЊ РµРіРѕ РІРЅРµ РѕРїР°СЃРЅРѕСЃС‚Рё\",</segment>
+		<segment id="84" parent="87" relname="attribution">- СЃРєР°Р·Р°Р» РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊ С€С‚Р°Р±Р°.\n\nРћРґРЅР° РёР· РґРµРІСѓС€РµРє, РєРѕС‚РѕСЂР°СЏ РІС‹РїСЂС‹РіРЅСѓР»Р° РёР· РѕРєРЅР°,</segment>
+		<segment id="85" parent="87" relname="joint">РїРѕР»СѓС‡РёР»Р° РїРµСЂРІСѓСЋ РјРµРґРёС†РёРЅСЃРєСѓСЋ РїРѕРјРѕС‰СЊ</segment>
+		<segment id="86" parent="87" relname="joint">Рё РµРµ СѓР¶Рµ Р·Р°Р±СЂР°Р»Рё СЂРѕРґРёС‚РµР»Рё.</segment>
+		<segment id="92" parent="95" relname="attribution">РЎ РґРµРІСѓС€РєР°РјРё РїСЂРѕРІРµР»Рё Р±РµСЃРµРґСѓ РїСЃРёС…РѕР»РѕРіРё.\n\nРРіРЅР°С‚С‡РµРЅРєРѕ СЃРѕРѕР±С‰РёР»,</segment>
+		<segment id="93" parent="95" relname="span">С‡С‚Рѕ РЅР°С…РѕРґСЏС‰РёРјСЃСЏ РІ РўРµР°С‚СЂР°Р»СЊРЅРѕРёРј С†РµРЅС‚СЂРµ Р·Р°Р»РѕР¶РЅРёРєР°Рј РїРѕРјРѕС‰СЊ РѕРєР°Р·С‹РІР°СЋС‚ РІСЂР°С‡Рё-РіСЂР°Р¶РґР°РЅРµ РРѕСЂРґР°РЅРёРё,</segment>
+		<segment id="94" parent="93" relname="background">РєРѕС‚РѕСЂС‹Рµ \"РїСЂР°РєС‚РёРєРѕРІР°Р»РёСЃСЊ РІ РњРѕСЃРєРІРµ\".\n\</segment>
+		<segment id="97" parent="98" relname="joint">nР’ СЂР°Р·СЂРµС€РµРЅРёРё СЃРёС‚СѓР°С†РёРё СЃ Р·Р°Р»РѕР¶РЅРёРєР°РјРё РІРѕР·РЅРёРєР»Р° РїР°СѓР·Р°\n\</segment>
+		<segment id="99" parent="103" relname="same-unit">nРўРµСЂСЂРѕСЂРёСЃС‚С‹,</segment>
+		<segment id="102" parent="103" relname="same-unit">Р·Р°С…РІР°С‚РёРІС€РёРµ РІРµС‡РµСЂРѕРј РІ СЃСЂРµРґСѓ Р·РґР°РЅРёРµ Р”Рљ Р“РџР—, РїРѕСЃС‚РѕСЏРЅРЅРѕ РїРµСЂРµРјРµС‰Р°СЋС‚СЃСЏ РІРЅСѓС‚СЂРё Р·РґР°РЅРёСЏ.</segment>
+		<segment id="104" parent="106" relname="span">РћР± СЌС‚РѕРј СЃРѕРѕР±С‰РёР» \"РРЅС‚РµСЂС„Р°РєСЃСѓ\" РІ С‡РµС‚РІРµСЂРі РёРЅС„РѕСЂРјРёСЂРѕРІР°РЅРЅС‹Р№ РёСЃС‚РѕС‡РЅРёРє РІ РѕРїРµСЂР°С‚РёРІРЅРѕРј С€С‚Р°Р±Рµ.\n\nРСЃС‚РѕС‡РЅРёРє РѕС‚РјРµС‚РёР» РІС‹СЃРѕРєСѓСЋ Р±РѕРµРІСѓСЋ РїРѕРґРіРѕС‚РѕРІРєСѓ С‚РµСЂСЂРѕСЂРёСЃС‚РѕРІ.</segment>
+		<segment id="105" parent="104" relname="elaboration">Р’ С‡Р°СЃС‚РЅРѕСЃС‚Рё, СЃСЂРµРґРё РЅРёС… Р±С‹Р»Рё Р·Р°РјРµС‡РµРЅС‹ РЅРµСЃРєРѕР»СЊРєРѕ СЃРЅР°Р№РїРµСЂРѕРІ, РІРЅРёРјР°С‚РµР»СЊРЅРѕ РЅР°Р±Р»СЋРґР°СЋС‰РёС… РёР· РѕРєРѕРЅ Р”Рљ Р·Р° Р±Р»РёР·Р»РµР¶Р°С‰РµР№ С‚РµСЂСЂРёС‚РѕСЂРёРµР№.\n\</segment>
+		<segment id="108" parent="112" relname="same-unit">nР’РјРµСЃС‚Рµ СЃ С‚РµРј,</segment>
+		<segment id="109" parent="110" relname="attribution">РїРѕ РµРіРѕ СЃР»РѕРІР°Рј,</segment>
+		<segment id="110" parent="111" relname="span">РІ СЂР°Р±РѕС‚Рµ РїРѕ СЂР°Р·СЂРµС€РµРЅРёСЋ СЃРёС‚СѓР°С†РёРё РІРѕР·РЅРёРєР»Р° РїР°СѓР·Р°.</segment>
+		<segment id="113" parent="115" relname="restatement">\"РўР°РєРѕРµ РІРїРµС‡Р°С‚Р»РµРЅРёРµ, С‡С‚Рѕ Р±Р°РЅРґРёС‚С‹ С‡РµРіРѕ-С‚Рѕ Р¶РґСѓС‚.</segment>
+		<segment id="114" parent="115" relname="restatement">Р›РёР±Рѕ РєР°РєРѕР№-С‚Рѕ РєРѕРјР°РЅРґС‹, Р»РёР±Рѕ РєР°РєРёС…-Р»РёР±Рѕ Р°РєС‚РёРІРЅС‹С… РґРµР№СЃС‚РІРёР№ СЃРѕ СЃС‚РѕСЂРѕРЅС‹ РїСЂР°РІРѕРѕС…СЂР°РЅРёС‚РµР»СЊРЅС‹С… РѕСЂРіР°РЅРѕРІ\",</segment>
+		<segment id="116" parent="127" relname="attribution">- РїРѕСЏСЃРЅРёР» СЃРѕР±РµСЃРµРґРЅРёРє Р°РіРµРЅС‚СЃС‚РІР°.\n\nРЎРІРѕРµ РјРЅРµРЅРёРµ РѕС‚ РїРѕРґС‚РІРµСЂРґРёР» С‚РµРј,</segment>
+		<segment id="117" parent="119" relname="span">С‡С‚Рѕ С‚РµСЂСЂРѕСЂРёСЃС‚С‹ СЃРїРµС†РёР°Р»СЊРЅРѕ С‚СЂРµР±СѓСЋС‚</segment>
+		<segment id="118" parent="117" relname="purpose">РґР»СЏ РїРµСЂРµРіРѕРІРѕСЂРѕРІ Р»СЋРґРµР№, РєРѕС‚РѕСЂС‹Рј СЃР»РѕР¶РЅРѕ РїСЂРёР±С‹С‚СЊ Рє Р”Рљ Р“РџР—.</segment>
+		<segment id="120" parent="119" relname="elaboration">Р’ С‡Р°СЃС‚РЅРѕСЃС‚Рё, С‚РµСЂСЂРѕСЂРёСЃС‚Р°Рј Р·Р°СЂР°РЅРµРµ Р±С‹Р»Рѕ РёР·РІРµСЃС‚РЅРѕ, С‡С‚Рѕ Р¶СѓСЂРЅР°Р»РёСЃС‚РєР° РђРЅРЅР° РџРѕР»РёС‚РєРѕРІСЃРєР°СЏ,</segment>
+		<segment id="122" parent="121" relname="background">РєРѕС‚РѕСЂСѓСЋ РѕРЅРё РїРѕС‚СЂРµР±РѕРІР°Р»Рё РґР»СЏ РїРµСЂРµРіРѕРІРѕСЂРѕРІ,</segment>
+		<segment id="124" parent="126" relname="span">РІ РЅР°СЃС‚РѕСЏС‰РµРµ РІСЂРµРјСЏ РЅР°С…РѕРґРёС‚СЃСЏ РІ Р·Р°РіСЂР°РЅРёС‡РЅРѕР№ РїРѕРµР·РґРєРµ</segment>
 		<segment id="125" parent="124" relname="elaboration">.\n\</segment>
-		<segment id="130" parent="136" relname="joint">nВместе с тем, в оперативном штабе продолжают поиск возможности контактов с террористами.</segment>
-		<segment id="131" parent="133" relname="span">В оперативный штаб прибывают иностранные дипломаты,</segment>
-		<segment id="132" parent="131" relname="elaboration">которые могут быть сторонами переговорного процесса,</segment>
-		<segment id="134" parent="133" relname="attribution">отметил источник.\n\nИсточник: https://www.newsru.com/russia/24Oct2002/svyaz.html\n</segment>
+		<segment id="130" parent="136" relname="joint">nР’РјРµСЃС‚Рµ СЃ С‚РµРј, РІ РѕРїРµСЂР°С‚РёРІРЅРѕРј С€С‚Р°Р±Рµ РїСЂРѕРґРѕР»Р¶Р°СЋС‚ РїРѕРёСЃРє РІРѕР·РјРѕР¶РЅРѕСЃС‚Рё РєРѕРЅС‚Р°РєС‚РѕРІ СЃ С‚РµСЂСЂРѕСЂРёСЃС‚Р°РјРё.</segment>
+		<segment id="131" parent="133" relname="span">Р’ РѕРїРµСЂР°С‚РёРІРЅС‹Р№ С€С‚Р°Р± РїСЂРёР±С‹РІР°СЋС‚ РёРЅРѕСЃС‚СЂР°РЅРЅС‹Рµ РґРёРїР»РѕРјР°С‚С‹,</segment>
+		<segment id="132" parent="131" relname="elaboration">РєРѕС‚РѕСЂС‹Рµ РјРѕРіСѓС‚ Р±С‹С‚СЊ СЃС‚РѕСЂРѕРЅР°РјРё РїРµСЂРµРіРѕРІРѕСЂРЅРѕРіРѕ РїСЂРѕС†РµСЃСЃР°,</segment>
+		<segment id="134" parent="133" relname="attribution">РѕС‚РјРµС‚РёР» РёСЃС‚РѕС‡РЅРёРє.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/24Oct2002/svyaz.html\n</segment>
 		<group id="59" type="span" parent="143" relname="joint"/>
 		<group id="55" type="multinuc" parent="59" relname="span"/>
 		<group id="54" type="span" parent="55" relname="joint"/>

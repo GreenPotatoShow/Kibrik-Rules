@@ -12,16 +12,16 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="11" parent="13" relname="span">Гражданка Австрии,</segment>
-		<segment id="12" parent="11" relname="background">побывавшая в заложниках,</segment>
-		<segment id="14" parent="16" relname="span">скончалась от воспаления легких\n\nГражданка Австрии Эмилия Предова-Узунова,</segment>
-		<segment id="15" parent="14" relname="elaboration">находившаяся в числе заложников в Москве,</segment>
-		<segment id="17" parent="18" relname="sequence">скончалась в воскресенье.</segment>
-		<segment id="20" parent="25" relname="attribution">Об этом сообщили в Министерстве иностранных дел Австрии со ссылкой на информацию, полученную от посла Австрии в России Франца Цеде.\n\nПо данным посла,</segment>
-		<segment id="21" parent="25" relname="joint">гражданка Австрии не выдержала трехдневного заточения в качестве заложницы</segment>
-		<segment id="22" parent="24" relname="span">и умерла от воспаления легких,</segment>
-		<segment id="23" parent="22" relname="elaboration">полученном в результате нехватки медицинской помощи в ДК на Дубровке,</segment>
-		<segment id="27" parent="26" relname="attribution">сообщает РИА \"Новости\".\n\nИсточник: https://www.newsru.com/russia/27Oct2002/avst.html\n</segment>
+		<segment id="11" parent="13" relname="span">Р“СЂР°Р¶РґР°РЅРєР° РђРІСЃС‚СЂРёРё,</segment>
+		<segment id="12" parent="11" relname="background">РїРѕР±С‹РІР°РІС€Р°СЏ РІ Р·Р°Р»РѕР¶РЅРёРєР°С…,</segment>
+		<segment id="14" parent="16" relname="span">СЃРєРѕРЅС‡Р°Р»Р°СЃСЊ РѕС‚ РІРѕСЃРїР°Р»РµРЅРёСЏ Р»РµРіРєРёС…\n\nР“СЂР°Р¶РґР°РЅРєР° РђРІСЃС‚СЂРёРё Р­РјРёР»РёСЏ РџСЂРµРґРѕРІР°-РЈР·СѓРЅРѕРІР°,</segment>
+		<segment id="15" parent="14" relname="elaboration">РЅР°С…РѕРґРёРІС€Р°СЏСЃСЏ РІ С‡РёСЃР»Рµ Р·Р°Р»РѕР¶РЅРёРєРѕРІ РІ РњРѕСЃРєРІРµ,</segment>
+		<segment id="17" parent="18" relname="sequence">СЃРєРѕРЅС‡Р°Р»Р°СЃСЊ РІ РІРѕСЃРєСЂРµСЃРµРЅСЊРµ.</segment>
+		<segment id="20" parent="25" relname="attribution">РћР± СЌС‚РѕРј СЃРѕРѕР±С‰РёР»Рё РІ РњРёРЅРёСЃС‚РµСЂСЃС‚РІРµ РёРЅРѕСЃС‚СЂР°РЅРЅС‹С… РґРµР» РђРІСЃС‚СЂРёРё СЃРѕ СЃСЃС‹Р»РєРѕР№ РЅР° РёРЅС„РѕСЂРјР°С†РёСЋ, РїРѕР»СѓС‡РµРЅРЅСѓСЋ РѕС‚ РїРѕСЃР»Р° РђРІСЃС‚СЂРёРё РІ Р РѕСЃСЃРёРё Р¤СЂР°РЅС†Р° Р¦РµРґРµ.\n\nРџРѕ РґР°РЅРЅС‹Рј РїРѕСЃР»Р°,</segment>
+		<segment id="21" parent="25" relname="joint">РіСЂР°Р¶РґР°РЅРєР° РђРІСЃС‚СЂРёРё РЅРµ РІС‹РґРµСЂР¶Р°Р»Р° С‚СЂРµС…РґРЅРµРІРЅРѕРіРѕ Р·Р°С‚РѕС‡РµРЅРёСЏ РІ РєР°С‡РµСЃС‚РІРµ Р·Р°Р»РѕР¶РЅРёС†С‹</segment>
+		<segment id="22" parent="24" relname="span">Рё СѓРјРµСЂР»Р° РѕС‚ РІРѕСЃРїР°Р»РµРЅРёСЏ Р»РµРіРєРёС…,</segment>
+		<segment id="23" parent="22" relname="elaboration">РїРѕР»СѓС‡РµРЅРЅРѕРј РІ СЂРµР·СѓР»СЊС‚Р°С‚Рµ РЅРµС…РІР°С‚РєРё РјРµРґРёС†РёРЅСЃРєРѕР№ РїРѕРјРѕС‰Рё РІ Р”Рљ РЅР° Р”СѓР±СЂРѕРІРєРµ,</segment>
+		<segment id="27" parent="26" relname="attribution">СЃРѕРѕР±С‰Р°РµС‚ Р РРђ \"РќРѕРІРѕСЃС‚Рё\".\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/27Oct2002/avst.html\n</segment>
 		<group id="19" type="span" parent="28" relname="preparation"/>
 		<group id="13" type="span" parent="19" relname="span"/>
 		<group id="18" type="multinuc" parent="13" relname="elaboration"/>

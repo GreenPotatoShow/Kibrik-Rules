@@ -16,34 +16,34 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="29" parent="31" relname="span">Перу требует от Японии экстрадиции экс-президента Альберто Фухимори\n\nПеруанский посол в Японии отозван сегодня в Лиму</segment>
-		<segment id="30" parent="29" relname="purpose">для консультаций,</segment>
-		<segment id="32" parent="31" relname="attribution">сообщает Reuters.</segment>
-		<segment id="34" parent="38" relname="span">Это произошло на фоне разговоров о намерении перуанского правительства</segment>
-		<segment id="35" parent="37" relname="span">официально потребовать от Японии экстрадиции экс-президента Перу Альберто Фухимори,</segment>
-		<segment id="36" parent="35" relname="elaboration">которого обвиняют во многих преступлениях.</segment>
-		<segment id="39" parent="38" relname="elaboration">Пока не известно, какие именно консультации будут проведены с послом Луисом Маккиавельо.</segment>
-		<segment id="41" parent="55" relname="joint">Об этом МИД Перу объявит в ближайшее время.\n\nХотя формального запроса об экстрадиции Фухимори еще не было,</segment>
-		<segment id="42" parent="53" relname="attribution">многие политики в Лиме уже не раз заявляли,</segment>
-		<segment id="43" parent="53" relname="joint">то Япония должна пойти навстречу Перу</segment>
-		<segment id="44" parent="52" relname="span">и выдать экс-президента,</segment>
-		<segment id="45" parent="51" relname="span">который должен предстать перед судом по обвинениям в коррупции и злоупотреблении властью вместе со своим ближайшим помощником Владимиро Монтесиносом,</segment>
-		<segment id="46" parent="50" relname="same-unit">который выдан Перу Венесуэлой несколько дней назад.\n\nПеруанцы также ждут,</segment>
-		<segment id="47" parent="49" relname="span">что во время допросов Монтесинос может раскрыть многие подробности грязных дел,</segment>
-		<segment id="48" parent="47" relname="elaboration">в которые был вовлечен Фухимори.\n\</segment>
-		<segment id="57" parent="67" relname="joint">nСейчас Альберто Фухимори живет в Токио</segment>
-		<segment id="58" parent="59" relname="attribution">и пишет мемуары,</segment>
-		<segment id="59" parent="60" relname="span">которые будут скоро изданы на японском языке.\n\nЯпонский МИД не раз уже отвергал возможность выдачи Альберто Фухимори,</segment>
-		<segment id="61" parent="62" relname="same-unit">заявляя,</segment>
-		<segment id="63" parent="65" relname="span">что у Японии нет ни таких намерений, ни правовой базы,</segment>
-		<segment id="64" parent="63" relname="cause-effect">так как по закону японцы не могут быть экстрадированы в другую страну,</segment>
-		<segment id="68" parent="70" relname="span">а Фухимори,</segment>
-		<segment id="69" parent="68" relname="concession">хотя и является уроженцем Перу,</segment>
-		<segment id="71" parent="73" relname="span">считается гражданином Японии,</segment>
-		<segment id="72" parent="71" relname="cause-effect">поскольку его имя внесено в японский фамильный реестр уже после эмиграции родителей в Латинскую Америку</segment>
-		<segment id="75" parent="78" relname="condition">.\n\nВ любом случае,</segment>
-		<segment id="76" parent="77" relname="attribution">как напоминает Reuters,</segment>
-		<segment id="77" parent="78" relname="span">две страны не имеют соглашения об взаимной выдаче преступников.\n\nИсточник: https://www.newsru.com/world/27Jun2001/extrad.html\n</segment>
+		<segment id="29" parent="31" relname="span">РџРµСЂСѓ С‚СЂРµР±СѓРµС‚ РѕС‚ РЇРїРѕРЅРёРё СЌРєСЃС‚СЂР°РґРёС†РёРё СЌРєСЃ-РїСЂРµР·РёРґРµРЅС‚Р° РђР»СЊР±РµСЂС‚Рѕ Р¤СѓС…РёРјРѕСЂРё\n\nРџРµСЂСѓР°РЅСЃРєРёР№ РїРѕСЃРѕР» РІ РЇРїРѕРЅРёРё РѕС‚РѕР·РІР°РЅ СЃРµРіРѕРґРЅСЏ РІ Р›РёРјСѓ</segment>
+		<segment id="30" parent="29" relname="purpose">РґР»СЏ РєРѕРЅСЃСѓР»СЊС‚Р°С†РёР№,</segment>
+		<segment id="32" parent="31" relname="attribution">СЃРѕРѕР±С‰Р°РµС‚ Reuters.</segment>
+		<segment id="34" parent="38" relname="span">Р­С‚Рѕ РїСЂРѕРёР·РѕС€Р»Рѕ РЅР° С„РѕРЅРµ СЂР°Р·РіРѕРІРѕСЂРѕРІ Рѕ РЅР°РјРµСЂРµРЅРёРё РїРµСЂСѓР°РЅСЃРєРѕРіРѕ РїСЂР°РІРёС‚РµР»СЊСЃС‚РІР°</segment>
+		<segment id="35" parent="37" relname="span">РѕС„РёС†РёР°Р»СЊРЅРѕ РїРѕС‚СЂРµР±РѕРІР°С‚СЊ РѕС‚ РЇРїРѕРЅРёРё СЌРєСЃС‚СЂР°РґРёС†РёРё СЌРєСЃ-РїСЂРµР·РёРґРµРЅС‚Р° РџРµСЂСѓ РђР»СЊР±РµСЂС‚Рѕ Р¤СѓС…РёРјРѕСЂРё,</segment>
+		<segment id="36" parent="35" relname="elaboration">РєРѕС‚РѕСЂРѕРіРѕ РѕР±РІРёРЅСЏСЋС‚ РІРѕ РјРЅРѕРіРёС… РїСЂРµСЃС‚СѓРїР»РµРЅРёСЏС….</segment>
+		<segment id="39" parent="38" relname="elaboration">РџРѕРєР° РЅРµ РёР·РІРµСЃС‚РЅРѕ, РєР°РєРёРµ РёРјРµРЅРЅРѕ РєРѕРЅСЃСѓР»СЊС‚Р°С†РёРё Р±СѓРґСѓС‚ РїСЂРѕРІРµРґРµРЅС‹ СЃ РїРѕСЃР»РѕРј Р›СѓРёСЃРѕРј РњР°РєРєРёР°РІРµР»СЊРѕ.</segment>
+		<segment id="41" parent="55" relname="joint">РћР± СЌС‚РѕРј РњРР” РџРµСЂСѓ РѕР±СЉСЏРІРёС‚ РІ Р±Р»РёР¶Р°Р№С€РµРµ РІСЂРµРјСЏ.\n\nРҐРѕС‚СЏ С„РѕСЂРјР°Р»СЊРЅРѕРіРѕ Р·Р°РїСЂРѕСЃР° РѕР± СЌРєСЃС‚СЂР°РґРёС†РёРё Р¤СѓС…РёРјРѕСЂРё РµС‰Рµ РЅРµ Р±С‹Р»Рѕ,</segment>
+		<segment id="42" parent="53" relname="attribution">РјРЅРѕРіРёРµ РїРѕР»РёС‚РёРєРё РІ Р›РёРјРµ СѓР¶Рµ РЅРµ СЂР°Р· Р·Р°СЏРІР»СЏР»Рё,</segment>
+		<segment id="43" parent="53" relname="joint">С‚Рѕ РЇРїРѕРЅРёСЏ РґРѕР»Р¶РЅР° РїРѕР№С‚Рё РЅР°РІСЃС‚СЂРµС‡Сѓ РџРµСЂСѓ</segment>
+		<segment id="44" parent="52" relname="span">Рё РІС‹РґР°С‚СЊ СЌРєСЃ-РїСЂРµР·РёРґРµРЅС‚Р°,</segment>
+		<segment id="45" parent="51" relname="span">РєРѕС‚РѕСЂС‹Р№ РґРѕР»Р¶РµРЅ РїСЂРµРґСЃС‚Р°С‚СЊ РїРµСЂРµРґ СЃСѓРґРѕРј РїРѕ РѕР±РІРёРЅРµРЅРёСЏРј РІ РєРѕСЂСЂСѓРїС†РёРё Рё Р·Р»РѕСѓРїРѕС‚СЂРµР±Р»РµРЅРёРё РІР»Р°СЃС‚СЊСЋ РІРјРµСЃС‚Рµ СЃРѕ СЃРІРѕРёРј Р±Р»РёР¶Р°Р№С€РёРј РїРѕРјРѕС‰РЅРёРєРѕРј Р’Р»Р°РґРёРјРёСЂРѕ РњРѕРЅС‚РµСЃРёРЅРѕСЃРѕРј,</segment>
+		<segment id="46" parent="50" relname="same-unit">РєРѕС‚РѕСЂС‹Р№ РІС‹РґР°РЅ РџРµСЂСѓ Р’РµРЅРµСЃСѓСЌР»РѕР№ РЅРµСЃРєРѕР»СЊРєРѕ РґРЅРµР№ РЅР°Р·Р°Рґ.\n\nРџРµСЂСѓР°РЅС†С‹ С‚Р°РєР¶Рµ Р¶РґСѓС‚,</segment>
+		<segment id="47" parent="49" relname="span">С‡С‚Рѕ РІРѕ РІСЂРµРјСЏ РґРѕРїСЂРѕСЃРѕРІ РњРѕРЅС‚РµСЃРёРЅРѕСЃ РјРѕР¶РµС‚ СЂР°СЃРєСЂС‹С‚СЊ РјРЅРѕРіРёРµ РїРѕРґСЂРѕР±РЅРѕСЃС‚Рё РіСЂСЏР·РЅС‹С… РґРµР»,</segment>
+		<segment id="48" parent="47" relname="elaboration">РІ РєРѕС‚РѕСЂС‹Рµ Р±С‹Р» РІРѕРІР»РµС‡РµРЅ Р¤СѓС…РёРјРѕСЂРё.\n\</segment>
+		<segment id="57" parent="67" relname="joint">nРЎРµР№С‡Р°СЃ РђР»СЊР±РµСЂС‚Рѕ Р¤СѓС…РёРјРѕСЂРё Р¶РёРІРµС‚ РІ РўРѕРєРёРѕ</segment>
+		<segment id="58" parent="59" relname="attribution">Рё РїРёС€РµС‚ РјРµРјСѓР°СЂС‹,</segment>
+		<segment id="59" parent="60" relname="span">РєРѕС‚РѕСЂС‹Рµ Р±СѓРґСѓС‚ СЃРєРѕСЂРѕ РёР·РґР°РЅС‹ РЅР° СЏРїРѕРЅСЃРєРѕРј СЏР·С‹РєРµ.\n\nРЇРїРѕРЅСЃРєРёР№ РњРР” РЅРµ СЂР°Р· СѓР¶Рµ РѕС‚РІРµСЂРіР°Р» РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ РІС‹РґР°С‡Рё РђР»СЊР±РµСЂС‚Рѕ Р¤СѓС…РёРјРѕСЂРё,</segment>
+		<segment id="61" parent="62" relname="same-unit">Р·Р°СЏРІР»СЏСЏ,</segment>
+		<segment id="63" parent="65" relname="span">С‡С‚Рѕ Сѓ РЇРїРѕРЅРёРё РЅРµС‚ РЅРё С‚Р°РєРёС… РЅР°РјРµСЂРµРЅРёР№, РЅРё РїСЂР°РІРѕРІРѕР№ Р±Р°Р·С‹,</segment>
+		<segment id="64" parent="63" relname="cause-effect">С‚Р°Рє РєР°Рє РїРѕ Р·Р°РєРѕРЅСѓ СЏРїРѕРЅС†С‹ РЅРµ РјРѕРіСѓС‚ Р±С‹С‚СЊ СЌРєСЃС‚СЂР°РґРёСЂРѕРІР°РЅС‹ РІ РґСЂСѓРіСѓСЋ СЃС‚СЂР°РЅСѓ,</segment>
+		<segment id="68" parent="70" relname="span">Р° Р¤СѓС…РёРјРѕСЂРё,</segment>
+		<segment id="69" parent="68" relname="concession">С…РѕС‚СЏ Рё СЏРІР»СЏРµС‚СЃСЏ СѓСЂРѕР¶РµРЅС†РµРј РџРµСЂСѓ,</segment>
+		<segment id="71" parent="73" relname="span">СЃС‡РёС‚Р°РµС‚СЃСЏ РіСЂР°Р¶РґР°РЅРёРЅРѕРј РЇРїРѕРЅРёРё,</segment>
+		<segment id="72" parent="71" relname="cause-effect">РїРѕСЃРєРѕР»СЊРєСѓ РµРіРѕ РёРјСЏ РІРЅРµСЃРµРЅРѕ РІ СЏРїРѕРЅСЃРєРёР№ С„Р°РјРёР»СЊРЅС‹Р№ СЂРµРµСЃС‚СЂ СѓР¶Рµ РїРѕСЃР»Рµ СЌРјРёРіСЂР°С†РёРё СЂРѕРґРёС‚РµР»РµР№ РІ Р›Р°С‚РёРЅСЃРєСѓСЋ РђРјРµСЂРёРєСѓ</segment>
+		<segment id="75" parent="78" relname="condition">.\n\nР’ Р»СЋР±РѕРј СЃР»СѓС‡Р°Рµ,</segment>
+		<segment id="76" parent="77" relname="attribution">РєР°Рє РЅР°РїРѕРјРёРЅР°РµС‚ Reuters,</segment>
+		<segment id="77" parent="78" relname="span">РґРІРµ СЃС‚СЂР°РЅС‹ РЅРµ РёРјРµСЋС‚ СЃРѕРіР»Р°С€РµРЅРёСЏ РѕР± РІР·Р°РёРјРЅРѕР№ РІС‹РґР°С‡Рµ РїСЂРµСЃС‚СѓРїРЅРёРєРѕРІ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/27Jun2001/extrad.html\n</segment>
 		<group id="33" type="span" parent="82" relname="preparation"/>
 		<group id="31" type="span" parent="33" relname="span"/>
 		<group id="82" type="multinuc" parent="83" relname="span"/>

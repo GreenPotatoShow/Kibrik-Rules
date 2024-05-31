@@ -9,15 +9,15 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="10" parent="11" relname="attribution">Олег Козырев: \"Цукерберг, не дружи с диктаторами\"\n\n\"Основатель Фейсбук видимо не знает,</segment>
-		<segment id="11" parent="12" relname="span">что в России принята куча дискриминационных законов в отношении Интернета.</segment>
-		<segment id="13" parent="25" relname="joint">По этим законам можно спокойно посадить за решетку любого блогера, любого журналиста.</segment>
-		<segment id="14" parent="23" relname="preparation">И в прошлые-то годы в России регулярно возбуждались уголовные дела против блогеров.</segment>
-		<segment id="15" parent="19" relname="span">В общем, на Фейсбуке создана страница,</segment>
-		<segment id="16" parent="18" relname="joint">призывающая Цукерберга одуматься</segment>
-		<segment id="17" parent="18" relname="joint">и отменить встречи с российскими чиновниками.</segment>
-		<segment id="20" parent="22" relname="span">Пусть лучше встретится с блогерами,</segment>
-		<segment id="21" parent="20" relname="elaboration">которые и будут страдать от действий чиновников.\"\n\nИсточник: https://www.newsru.com/blog/27Sep2012/zuckerberg.html\n</segment>
+		<segment id="10" parent="11" relname="attribution">РћР»РµРі РљРѕР·С‹СЂРµРІ: \"Р¦СѓРєРµСЂР±РµСЂРі, РЅРµ РґСЂСѓР¶Рё СЃ РґРёРєС‚Р°С‚РѕСЂР°РјРё\"\n\n\"РћСЃРЅРѕРІР°С‚РµР»СЊ Р¤РµР№СЃР±СѓРє РІРёРґРёРјРѕ РЅРµ Р·РЅР°РµС‚,</segment>
+		<segment id="11" parent="12" relname="span">С‡С‚Рѕ РІ Р РѕСЃСЃРёРё РїСЂРёРЅСЏС‚Р° РєСѓС‡Р° РґРёСЃРєСЂРёРјРёРЅР°С†РёРѕРЅРЅС‹С… Р·Р°РєРѕРЅРѕРІ РІ РѕС‚РЅРѕС€РµРЅРёРё РРЅС‚РµСЂРЅРµС‚Р°.</segment>
+		<segment id="13" parent="25" relname="joint">РџРѕ СЌС‚РёРј Р·Р°РєРѕРЅР°Рј РјРѕР¶РЅРѕ СЃРїРѕРєРѕР№РЅРѕ РїРѕСЃР°РґРёС‚СЊ Р·Р° СЂРµС€РµС‚РєСѓ Р»СЋР±РѕРіРѕ Р±Р»РѕРіРµСЂР°, Р»СЋР±РѕРіРѕ Р¶СѓСЂРЅР°Р»РёСЃС‚Р°.</segment>
+		<segment id="14" parent="23" relname="preparation">Р РІ РїСЂРѕС€Р»С‹Рµ-С‚Рѕ РіРѕРґС‹ РІ Р РѕСЃСЃРёРё СЂРµРіСѓР»СЏСЂРЅРѕ РІРѕР·Р±СѓР¶РґР°Р»РёСЃСЊ СѓРіРѕР»РѕРІРЅС‹Рµ РґРµР»Р° РїСЂРѕС‚РёРІ Р±Р»РѕРіРµСЂРѕРІ.</segment>
+		<segment id="15" parent="19" relname="span">Р’ РѕР±С‰РµРј, РЅР° Р¤РµР№СЃР±СѓРєРµ СЃРѕР·РґР°РЅР° СЃС‚СЂР°РЅРёС†Р°,</segment>
+		<segment id="16" parent="18" relname="joint">РїСЂРёР·С‹РІР°СЋС‰Р°СЏ Р¦СѓРєРµСЂР±РµСЂРіР° РѕРґСѓРјР°С‚СЊСЃСЏ</segment>
+		<segment id="17" parent="18" relname="joint">Рё РѕС‚РјРµРЅРёС‚СЊ РІСЃС‚СЂРµС‡Рё СЃ СЂРѕСЃСЃРёР№СЃРєРёРјРё С‡РёРЅРѕРІРЅРёРєР°РјРё.</segment>
+		<segment id="20" parent="22" relname="span">РџСѓСЃС‚СЊ Р»СѓС‡С€Рµ РІСЃС‚СЂРµС‚РёС‚СЃСЏ СЃ Р±Р»РѕРіРµСЂР°РјРё,</segment>
+		<segment id="21" parent="20" relname="elaboration">РєРѕС‚РѕСЂС‹Рµ Рё Р±СѓРґСѓС‚ СЃС‚СЂР°РґР°С‚СЊ РѕС‚ РґРµР№СЃС‚РІРёР№ С‡РёРЅРѕРІРЅРёРєРѕРІ.\"\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/blog/27Sep2012/zuckerberg.html\n</segment>
 		<group id="12" type="span" parent="26" relname="span"/>
 		<group id="25" type="multinuc" parent="12" relname="elaboration"/>
 		<group id="24" type="span" parent="25" relname="joint"/>

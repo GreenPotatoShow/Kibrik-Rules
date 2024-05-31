@@ -12,21 +12,21 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="16" parent="18" relname="span">В аэропорту Стамбула сильно повредили самолет,</segment>
-		<segment id="17" parent="16" relname="elaboration">который должен был лететь в Казань\n\</segment>
-		<segment id="19" parent="21" relname="span">nВ аэропорту Стамбула сегодня наземная техника повредила самолет Ту-154,</segment>
-		<segment id="20" parent="19" relname="purpose">готовившийся вылететь в Казань.</segment>
-		<segment id="22" parent="24" relname="span">Из России в Турцию направлен резервный борт,</segment>
-		<segment id="23" parent="22" relname="elaboration">который заберет пассажиров,</segment>
-		<segment id="25" parent="26" relname="joint">сообщает ИТАР-ТАСС со ссылкой на Росавиацию.\n\n\"Самолет Ту-154 авиакомпании \"Татарстан\" должен был вылететь в Казань.</segment>
-		<segment id="27" parent="31" relname="span">Еще на перроне наземная техника повредила левое крыло самолета,</segment>
-		<segment id="28" parent="30" relname="comparison">причем настолько сильно,</segment>
-		<segment id="29" parent="30" relname="comparison">что из лайнера выплеснулся керосин\",</segment>
-		<segment id="32" parent="33" relname="attribution">- сказал представитель ведомства.\n\nНа борту находились 72 пассажира,</segment>
-		<segment id="33" parent="34" relname="span">никто не пострадал.</segment>
-		<segment id="35" parent="39" relname="span">Угроза возгорания была ликвидирована.</segment>
-		<segment id="36" parent="38" relname="span">Из столицы Татарстана в аэропорт имени Ататюрка вылетел Boeing-737,</segment>
-		<segment id="37" parent="36" relname="elaboration">который доставит пассажиров в Казань.\n\nИсточник: https://www.newsru.com/world/29Jul2011/istanbul.html\n</segment>
+		<segment id="16" parent="18" relname="span">Р’ Р°СЌСЂРѕРїРѕСЂС‚Сѓ РЎС‚Р°РјР±СѓР»Р° СЃРёР»СЊРЅРѕ РїРѕРІСЂРµРґРёР»Рё СЃР°РјРѕР»РµС‚,</segment>
+		<segment id="17" parent="16" relname="elaboration">РєРѕС‚РѕСЂС‹Р№ РґРѕР»Р¶РµРЅ Р±С‹Р» Р»РµС‚РµС‚СЊ РІ РљР°Р·Р°РЅСЊ\n\</segment>
+		<segment id="19" parent="21" relname="span">nР’ Р°СЌСЂРѕРїРѕСЂС‚Сѓ РЎС‚Р°РјР±СѓР»Р° СЃРµРіРѕРґРЅСЏ РЅР°Р·РµРјРЅР°СЏ С‚РµС…РЅРёРєР° РїРѕРІСЂРµРґРёР»Р° СЃР°РјРѕР»РµС‚ РўСѓ-154,</segment>
+		<segment id="20" parent="19" relname="purpose">РіРѕС‚РѕРІРёРІС€РёР№СЃСЏ РІС‹Р»РµС‚РµС‚СЊ РІ РљР°Р·Р°РЅСЊ.</segment>
+		<segment id="22" parent="24" relname="span">РР· Р РѕСЃСЃРёРё РІ РўСѓСЂС†РёСЋ РЅР°РїСЂР°РІР»РµРЅ СЂРµР·РµСЂРІРЅС‹Р№ Р±РѕСЂС‚,</segment>
+		<segment id="23" parent="22" relname="elaboration">РєРѕС‚РѕСЂС‹Р№ Р·Р°Р±РµСЂРµС‚ РїР°СЃСЃР°Р¶РёСЂРѕРІ,</segment>
+		<segment id="25" parent="26" relname="joint">СЃРѕРѕР±С‰Р°РµС‚ РРўРђР -РўРђРЎРЎ СЃРѕ СЃСЃС‹Р»РєРѕР№ РЅР° Р РѕСЃР°РІРёР°С†РёСЋ.\n\n\"РЎР°РјРѕР»РµС‚ РўСѓ-154 Р°РІРёР°РєРѕРјРїР°РЅРёРё \"РўР°С‚Р°СЂСЃС‚Р°РЅ\" РґРѕР»Р¶РµРЅ Р±С‹Р» РІС‹Р»РµС‚РµС‚СЊ РІ РљР°Р·Р°РЅСЊ.</segment>
+		<segment id="27" parent="31" relname="span">Р•С‰Рµ РЅР° РїРµСЂСЂРѕРЅРµ РЅР°Р·РµРјРЅР°СЏ С‚РµС…РЅРёРєР° РїРѕРІСЂРµРґРёР»Р° Р»РµРІРѕРµ РєСЂС‹Р»Рѕ СЃР°РјРѕР»РµС‚Р°,</segment>
+		<segment id="28" parent="30" relname="comparison">РїСЂРёС‡РµРј РЅР°СЃС‚РѕР»СЊРєРѕ СЃРёР»СЊРЅРѕ,</segment>
+		<segment id="29" parent="30" relname="comparison">С‡С‚Рѕ РёР· Р»Р°Р№РЅРµСЂР° РІС‹РїР»РµСЃРЅСѓР»СЃСЏ РєРµСЂРѕСЃРёРЅ\",</segment>
+		<segment id="32" parent="33" relname="attribution">- СЃРєР°Р·Р°Р» РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊ РІРµРґРѕРјСЃС‚РІР°.\n\nРќР° Р±РѕСЂС‚Сѓ РЅР°С…РѕРґРёР»РёСЃСЊ 72 РїР°СЃСЃР°Р¶РёСЂР°,</segment>
+		<segment id="33" parent="34" relname="span">РЅРёРєС‚Рѕ РЅРµ РїРѕСЃС‚СЂР°РґР°Р».</segment>
+		<segment id="35" parent="39" relname="span">РЈРіСЂРѕР·Р° РІРѕР·РіРѕСЂР°РЅРёСЏ Р±С‹Р»Р° Р»РёРєРІРёРґРёСЂРѕРІР°РЅР°.</segment>
+		<segment id="36" parent="38" relname="span">РР· СЃС‚РѕР»РёС†С‹ РўР°С‚Р°СЂСЃС‚Р°РЅР° РІ Р°СЌСЂРѕРїРѕСЂС‚ РёРјРµРЅРё РђС‚Р°С‚СЋСЂРєР° РІС‹Р»РµС‚РµР» Boeing-737,</segment>
+		<segment id="37" parent="36" relname="elaboration">РєРѕС‚РѕСЂС‹Р№ РґРѕСЃС‚Р°РІРёС‚ РїР°СЃСЃР°Р¶РёСЂРѕРІ РІ РљР°Р·Р°РЅСЊ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/29Jul2011/istanbul.html\n</segment>
 		<group id="18" type="span" parent="43" relname="preparation"/>
 		<group id="43" type="span" parent="44" relname="span"/>
 		<group id="21" type="span" parent="43" relname="span"/>

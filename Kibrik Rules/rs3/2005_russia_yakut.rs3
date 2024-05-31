@@ -12,16 +12,16 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="11" parent="13" relname="span">Пожар полностью уничтожил школу в Якутии\n\nПожар полностью уничтожил в пятницу школу в якутском селе Ардахтах Среднеколымского района.</segment>
-		<segment id="12" parent="11" relname="attribution">Об этом сообщил сегодня ИТАР-ТАСС оперативный дежурный Дальневосточного регионального центра МЧС.</segment>
-		<segment id="14" parent="16" relname="span">Жертв и пострадавших нет.\n\nПо предварительным данным,</segment>
-		<segment id="15" parent="14" relname="cause-effect">пожар произошел в результате нарушения правил техники безопасности при проведении сварочных работ.</segment>
-		<segment id="17" parent="18" relname="cause-effect">В селе нет пожарной части,</segment>
-		<segment id="18" parent="19" relname="span">поэтому здание не удалось отстоять от огня,</segment>
-		<segment id="20" parent="22" relname="joint">оно сгорело до основания.\n\nПо оценкам специалистов,</segment>
-		<segment id="21" parent="22" relname="joint">ущерб превышает 11,5 млн рублей.</segment>
-		<segment id="23" parent="22" relname="elaboration">Школа была рассчитана на 110 учащихся.</segment>
-		<segment id="26" parent="27" relname="joint">Ведется расследование причин и обстоятельств происшествия.\n\nИсточник: https://www.newsru.com/russia/13Aug2005/yakut.html\n</segment>
+		<segment id="11" parent="13" relname="span">РџРѕР¶Р°СЂ РїРѕР»РЅРѕСЃС‚СЊСЋ СѓРЅРёС‡С‚РѕР¶РёР» С€РєРѕР»Сѓ РІ РЇРєСѓС‚РёРё\n\nРџРѕР¶Р°СЂ РїРѕР»РЅРѕСЃС‚СЊСЋ СѓРЅРёС‡С‚РѕР¶РёР» РІ РїСЏС‚РЅРёС†Сѓ С€РєРѕР»Сѓ РІ СЏРєСѓС‚СЃРєРѕРј СЃРµР»Рµ РђСЂРґР°С…С‚Р°С… РЎСЂРµРґРЅРµРєРѕР»С‹РјСЃРєРѕРіРѕ СЂР°Р№РѕРЅР°.</segment>
+		<segment id="12" parent="11" relname="attribution">РћР± СЌС‚РѕРј СЃРѕРѕР±С‰РёР» СЃРµРіРѕРґРЅСЏ РРўРђР -РўРђРЎРЎ РѕРїРµСЂР°С‚РёРІРЅС‹Р№ РґРµР¶СѓСЂРЅС‹Р№ Р”Р°Р»СЊРЅРµРІРѕСЃС‚РѕС‡РЅРѕРіРѕ СЂРµРіРёРѕРЅР°Р»СЊРЅРѕРіРѕ С†РµРЅС‚СЂР° РњР§РЎ.</segment>
+		<segment id="14" parent="16" relname="span">Р–РµСЂС‚РІ Рё РїРѕСЃС‚СЂР°РґР°РІС€РёС… РЅРµС‚.\n\nРџРѕ РїСЂРµРґРІР°СЂРёС‚РµР»СЊРЅС‹Рј РґР°РЅРЅС‹Рј,</segment>
+		<segment id="15" parent="14" relname="cause-effect">РїРѕР¶Р°СЂ РїСЂРѕРёР·РѕС€РµР» РІ СЂРµР·СѓР»СЊС‚Р°С‚Рµ РЅР°СЂСѓС€РµРЅРёСЏ РїСЂР°РІРёР» С‚РµС…РЅРёРєРё Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё РїСЂРё РїСЂРѕРІРµРґРµРЅРёРё СЃРІР°СЂРѕС‡РЅС‹С… СЂР°Р±РѕС‚.</segment>
+		<segment id="17" parent="18" relname="cause-effect">Р’ СЃРµР»Рµ РЅРµС‚ РїРѕР¶Р°СЂРЅРѕР№ С‡Р°СЃС‚Рё,</segment>
+		<segment id="18" parent="19" relname="span">РїРѕСЌС‚РѕРјСѓ Р·РґР°РЅРёРµ РЅРµ СѓРґР°Р»РѕСЃСЊ РѕС‚СЃС‚РѕСЏС‚СЊ РѕС‚ РѕРіРЅСЏ,</segment>
+		<segment id="20" parent="22" relname="joint">РѕРЅРѕ СЃРіРѕСЂРµР»Рѕ РґРѕ РѕСЃРЅРѕРІР°РЅРёСЏ.\n\nРџРѕ РѕС†РµРЅРєР°Рј СЃРїРµС†РёР°Р»РёСЃС‚РѕРІ,</segment>
+		<segment id="21" parent="22" relname="joint">СѓС‰РµСЂР± РїСЂРµРІС‹С€Р°РµС‚ 11,5 РјР»РЅ СЂСѓР±Р»РµР№.</segment>
+		<segment id="23" parent="22" relname="elaboration">РЁРєРѕР»Р° Р±С‹Р»Р° СЂР°СЃСЃС‡РёС‚Р°РЅР° РЅР° 110 СѓС‡Р°С‰РёС…СЃСЏ.</segment>
+		<segment id="26" parent="27" relname="joint">Р’РµРґРµС‚СЃСЏ СЂР°СЃСЃР»РµРґРѕРІР°РЅРёРµ РїСЂРёС‡РёРЅ Рё РѕР±СЃС‚РѕСЏС‚РµР»СЊСЃС‚РІ РїСЂРѕРёСЃС€РµСЃС‚РІРёСЏ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/13Aug2005/yakut.html\n</segment>
 		<group id="13" type="span" parent="28" relname="preparation"/>
 		<group id="28" type="span" parent="29" relname="span"/>
 		<group id="16" type="span" parent="28" relname="span"/>

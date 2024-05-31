@@ -17,40 +17,40 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="35" parent="37" relname="span">Посольство РФ в Риме проверяет информацию о россиянах, пострадавших</segment>
-		<segment id="36" parent="35" relname="condition">при землетрясении\n\</segment>
-		<segment id="38" parent="39" relname="attribution">nПосольство России в Риме проверяет информацию итальянских СМИ о том,</segment>
-		<segment id="39" parent="40" relname="span">что кто-то из россиян мог пострадать в результате землетрясения в центральной части Италии,</segment>
-		<segment id="41" parent="40" relname="attribution">передает \"Интерфакс\".\n\n</segment>
-		<segment id="44" parent="46" relname="span">\"Мы проверяем возможность того, что кто-то из наших соотечественников мог пострадать,</segment>
-		<segment id="45" parent="44" relname="cause-effect">так как в итальянских СМИ такая информация звучит.</segment>
-		<segment id="47" parent="46" relname="elaboration">Пока неизвестны ни имена, ни фамилии\",</segment>
-		<segment id="49" parent="48" relname="attribution">- заявил вице-консул посольства РФ в Италии Сергей Поздняков.</segment>
-		<segment id="52" parent="64" relname="same-unit">В то же время,</segment>
-		<segment id="53" parent="62" relname="attribution">по официальным данным департамента гражданской обороны Италии,</segment>
-		<segment id="54" parent="62" relname="joint">россиян среди пострадавших нет</segment>
-		<segment id="55" parent="60" relname="attribution">.\n\nСтоит отметить, что МЧС России заявляет</segment>
-		<segment id="56" parent="60" relname="joint">о готовности выполнить поручение главы государства Дмитрия Медведева</segment>
-		<segment id="57" parent="59" relname="span">и оказать помощь Италии</segment>
-		<segment id="58" parent="57" relname="purpose">для ликвидации последствий землетрясения.</segment>
-		<segment id="65" parent="78" relname="attribution">Как сообщила начальник Управления информации МЧС Ирина Андрианова,</segment>
-		<segment id="66" parent="68" relname="span">министр по чрезвычайным ситуациям Сергей Шойгу связался со своими итальянским коллегой - главой департамента гражданской защиты Совета министров Италии Гуидо Бертолазо,</segment>
-		<segment id="67" parent="66" relname="elaboration">который находится в зоне бедствия</segment>
-		<segment id="69" parent="74" relname="attribution">.\n\n\"Шойгу предложил</segment>
-		<segment id="70" parent="74" relname="joint">оказать всю необходимую помощь</segment>
-		<segment id="71" parent="73" relname="span">- направить в район землетрясения российских спасателей, кинологов, психологов и экспертов с необходимой мобильной лабораторией и оборудованием</segment>
-		<segment id="72" parent="71" relname="purpose">для определения устойчивости здания, попавших в зону землетрясения\",</segment>
-		<segment id="76" parent="75" relname="attribution">- рассказала Андрианова.\n\</segment>
-		<segment id="80" parent="98" relname="span">nНапомним, что в ночь на понедельник в итальянской области Абруццо произошло сильнейшее землетрясение.</segment>
-		<segment id="81" parent="82" relname="attribution">По данным итальянских сейсмологов,</segment>
-		<segment id="82" parent="83" relname="span">магнитуда подземных толчков достигала 6,3 балла по шкале Рихтера.</segment>
-		<segment id="84" parent="85" relname="cause-effect">В результате землетрясения множество домов разрушено,</segment>
-		<segment id="85" parent="86" relname="span">растет число погибших.</segment>
-		<segment id="88" parent="90" relname="comparison">По последним данным, число жертв трагедии превысило 50 человек,</segment>
-		<segment id="89" parent="90" relname="comparison">среди них не менее 5 - дети.</segment>
-		<segment id="91" parent="92" relname="joint">Еще сотня человек числятся пропавшими без вести.</segment>
-		<segment id="93" parent="95" relname="span">Среди жертв есть иностранцы</segment>
-		<segment id="94" parent="93" relname="attribution">- сообщается о двух погибших гражданках Македонии.\n\nИсточник: https://www.newsru.com/world/06Apr2009/rus_ital.html\n</segment>
+		<segment id="35" parent="37" relname="span">РџРѕСЃРѕР»СЊСЃС‚РІРѕ Р Р¤ РІ Р РёРјРµ РїСЂРѕРІРµСЂСЏРµС‚ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ СЂРѕСЃСЃРёСЏРЅР°С…, РїРѕСЃС‚СЂР°РґР°РІС€РёС…</segment>
+		<segment id="36" parent="35" relname="condition">РїСЂРё Р·РµРјР»РµС‚СЂСЏСЃРµРЅРёРё\n\</segment>
+		<segment id="38" parent="39" relname="attribution">nРџРѕСЃРѕР»СЊСЃС‚РІРѕ Р РѕСЃСЃРёРё РІ Р РёРјРµ РїСЂРѕРІРµСЂСЏРµС‚ РёРЅС„РѕСЂРјР°С†РёСЋ РёС‚Р°Р»СЊСЏРЅСЃРєРёС… РЎРњР Рѕ С‚РѕРј,</segment>
+		<segment id="39" parent="40" relname="span">С‡С‚Рѕ РєС‚Рѕ-С‚Рѕ РёР· СЂРѕСЃСЃРёСЏРЅ РјРѕРі РїРѕСЃС‚СЂР°РґР°С‚СЊ РІ СЂРµР·СѓР»СЊС‚Р°С‚Рµ Р·РµРјР»РµС‚СЂСЏСЃРµРЅРёСЏ РІ С†РµРЅС‚СЂР°Р»СЊРЅРѕР№ С‡Р°СЃС‚Рё РС‚Р°Р»РёРё,</segment>
+		<segment id="41" parent="40" relname="attribution">РїРµСЂРµРґР°РµС‚ \"РРЅС‚РµСЂС„Р°РєСЃ\".\n\n</segment>
+		<segment id="44" parent="46" relname="span">\"РњС‹ РїСЂРѕРІРµСЂСЏРµРј РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ С‚РѕРіРѕ, С‡С‚Рѕ РєС‚Рѕ-С‚Рѕ РёР· РЅР°С€РёС… СЃРѕРѕС‚РµС‡РµСЃС‚РІРµРЅРЅРёРєРѕРІ РјРѕРі РїРѕСЃС‚СЂР°РґР°С‚СЊ,</segment>
+		<segment id="45" parent="44" relname="cause-effect">С‚Р°Рє РєР°Рє РІ РёС‚Р°Р»СЊСЏРЅСЃРєРёС… РЎРњР С‚Р°РєР°СЏ РёРЅС„РѕСЂРјР°С†РёСЏ Р·РІСѓС‡РёС‚.</segment>
+		<segment id="47" parent="46" relname="elaboration">РџРѕРєР° РЅРµРёР·РІРµСЃС‚РЅС‹ РЅРё РёРјРµРЅР°, РЅРё С„Р°РјРёР»РёРё\",</segment>
+		<segment id="49" parent="48" relname="attribution">- Р·Р°СЏРІРёР» РІРёС†Рµ-РєРѕРЅСЃСѓР» РїРѕСЃРѕР»СЊСЃС‚РІР° Р Р¤ РІ РС‚Р°Р»РёРё РЎРµСЂРіРµР№ РџРѕР·РґРЅСЏРєРѕРІ.</segment>
+		<segment id="52" parent="64" relname="same-unit">Р’ С‚Рѕ Р¶Рµ РІСЂРµРјСЏ,</segment>
+		<segment id="53" parent="62" relname="attribution">РїРѕ РѕС„РёС†РёР°Р»СЊРЅС‹Рј РґР°РЅРЅС‹Рј РґРµРїР°СЂС‚Р°РјРµРЅС‚Р° РіСЂР°Р¶РґР°РЅСЃРєРѕР№ РѕР±РѕСЂРѕРЅС‹ РС‚Р°Р»РёРё,</segment>
+		<segment id="54" parent="62" relname="joint">СЂРѕСЃСЃРёСЏРЅ СЃСЂРµРґРё РїРѕСЃС‚СЂР°РґР°РІС€РёС… РЅРµС‚</segment>
+		<segment id="55" parent="60" relname="attribution">.\n\nРЎС‚РѕРёС‚ РѕС‚РјРµС‚РёС‚СЊ, С‡С‚Рѕ РњР§РЎ Р РѕСЃСЃРёРё Р·Р°СЏРІР»СЏРµС‚</segment>
+		<segment id="56" parent="60" relname="joint">Рѕ РіРѕС‚РѕРІРЅРѕСЃС‚Рё РІС‹РїРѕР»РЅРёС‚СЊ РїРѕСЂСѓС‡РµРЅРёРµ РіР»Р°РІС‹ РіРѕСЃСѓРґР°СЂСЃС‚РІР° Р”РјРёС‚СЂРёСЏ РњРµРґРІРµРґРµРІР°</segment>
+		<segment id="57" parent="59" relname="span">Рё РѕРєР°Р·Р°С‚СЊ РїРѕРјРѕС‰СЊ РС‚Р°Р»РёРё</segment>
+		<segment id="58" parent="57" relname="purpose">РґР»СЏ Р»РёРєРІРёРґР°С†РёРё РїРѕСЃР»РµРґСЃС‚РІРёР№ Р·РµРјР»РµС‚СЂСЏСЃРµРЅРёСЏ.</segment>
+		<segment id="65" parent="78" relname="attribution">РљР°Рє СЃРѕРѕР±С‰РёР»Р° РЅР°С‡Р°Р»СЊРЅРёРє РЈРїСЂР°РІР»РµРЅРёСЏ РёРЅС„РѕСЂРјР°С†РёРё РњР§РЎ РСЂРёРЅР° РђРЅРґСЂРёР°РЅРѕРІР°,</segment>
+		<segment id="66" parent="68" relname="span">РјРёРЅРёСЃС‚СЂ РїРѕ С‡СЂРµР·РІС‹С‡Р°Р№РЅС‹Рј СЃРёС‚СѓР°С†РёСЏРј РЎРµСЂРіРµР№ РЁРѕР№РіСѓ СЃРІСЏР·Р°Р»СЃСЏ СЃРѕ СЃРІРѕРёРјРё РёС‚Р°Р»СЊСЏРЅСЃРєРёРј РєРѕР»Р»РµРіРѕР№ - РіР»Р°РІРѕР№ РґРµРїР°СЂС‚Р°РјРµРЅС‚Р° РіСЂР°Р¶РґР°РЅСЃРєРѕР№ Р·Р°С‰РёС‚С‹ РЎРѕРІРµС‚Р° РјРёРЅРёСЃС‚СЂРѕРІ РС‚Р°Р»РёРё Р“СѓРёРґРѕ Р‘РµСЂС‚РѕР»Р°Р·Рѕ,</segment>
+		<segment id="67" parent="66" relname="elaboration">РєРѕС‚РѕСЂС‹Р№ РЅР°С…РѕРґРёС‚СЃСЏ РІ Р·РѕРЅРµ Р±РµРґСЃС‚РІРёСЏ</segment>
+		<segment id="69" parent="74" relname="attribution">.\n\n\"РЁРѕР№РіСѓ РїСЂРµРґР»РѕР¶РёР»</segment>
+		<segment id="70" parent="74" relname="joint">РѕРєР°Р·Р°С‚СЊ РІСЃСЋ РЅРµРѕР±С…РѕРґРёРјСѓСЋ РїРѕРјРѕС‰СЊ</segment>
+		<segment id="71" parent="73" relname="span">- РЅР°РїСЂР°РІРёС‚СЊ РІ СЂР°Р№РѕРЅ Р·РµРјР»РµС‚СЂСЏСЃРµРЅРёСЏ СЂРѕСЃСЃРёР№СЃРєРёС… СЃРїР°СЃР°С‚РµР»РµР№, РєРёРЅРѕР»РѕРіРѕРІ, РїСЃРёС…РѕР»РѕРіРѕРІ Рё СЌРєСЃРїРµСЂС‚РѕРІ СЃ РЅРµРѕР±С…РѕРґРёРјРѕР№ РјРѕР±РёР»СЊРЅРѕР№ Р»Р°Р±РѕСЂР°С‚РѕСЂРёРµР№ Рё РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµРј</segment>
+		<segment id="72" parent="71" relname="purpose">РґР»СЏ РѕРїСЂРµРґРµР»РµРЅРёСЏ СѓСЃС‚РѕР№С‡РёРІРѕСЃС‚Рё Р·РґР°РЅРёСЏ, РїРѕРїР°РІС€РёС… РІ Р·РѕРЅСѓ Р·РµРјР»РµС‚СЂСЏСЃРµРЅРёСЏ\",</segment>
+		<segment id="76" parent="75" relname="attribution">- СЂР°СЃСЃРєР°Р·Р°Р»Р° РђРЅРґСЂРёР°РЅРѕРІР°.\n\</segment>
+		<segment id="80" parent="98" relname="span">nРќР°РїРѕРјРЅРёРј, С‡С‚Рѕ РІ РЅРѕС‡СЊ РЅР° РїРѕРЅРµРґРµР»СЊРЅРёРє РІ РёС‚Р°Р»СЊСЏРЅСЃРєРѕР№ РѕР±Р»Р°СЃС‚Рё РђР±СЂСѓС†С†Рѕ РїСЂРѕРёР·РѕС€Р»Рѕ СЃРёР»СЊРЅРµР№С€РµРµ Р·РµРјР»РµС‚СЂСЏСЃРµРЅРёРµ.</segment>
+		<segment id="81" parent="82" relname="attribution">РџРѕ РґР°РЅРЅС‹Рј РёС‚Р°Р»СЊСЏРЅСЃРєРёС… СЃРµР№СЃРјРѕР»РѕРіРѕРІ,</segment>
+		<segment id="82" parent="83" relname="span">РјР°РіРЅРёС‚СѓРґР° РїРѕРґР·РµРјРЅС‹С… С‚РѕР»С‡РєРѕРІ РґРѕСЃС‚РёРіР°Р»Р° 6,3 Р±Р°Р»Р»Р° РїРѕ С€РєР°Р»Рµ Р РёС…С‚РµСЂР°.</segment>
+		<segment id="84" parent="85" relname="cause-effect">Р’ СЂРµР·СѓР»СЊС‚Р°С‚Рµ Р·РµРјР»РµС‚СЂСЏСЃРµРЅРёСЏ РјРЅРѕР¶РµСЃС‚РІРѕ РґРѕРјРѕРІ СЂР°Р·СЂСѓС€РµРЅРѕ,</segment>
+		<segment id="85" parent="86" relname="span">СЂР°СЃС‚РµС‚ С‡РёСЃР»Рѕ РїРѕРіРёР±С€РёС….</segment>
+		<segment id="88" parent="90" relname="comparison">РџРѕ РїРѕСЃР»РµРґРЅРёРј РґР°РЅРЅС‹Рј, С‡РёСЃР»Рѕ Р¶РµСЂС‚РІ С‚СЂР°РіРµРґРёРё РїСЂРµРІС‹СЃРёР»Рѕ 50 С‡РµР»РѕРІРµРє,</segment>
+		<segment id="89" parent="90" relname="comparison">СЃСЂРµРґРё РЅРёС… РЅРµ РјРµРЅРµРµ 5 - РґРµС‚Рё.</segment>
+		<segment id="91" parent="92" relname="joint">Р•С‰Рµ СЃРѕС‚РЅСЏ С‡РµР»РѕРІРµРє С‡РёСЃР»СЏС‚СЃСЏ РїСЂРѕРїР°РІС€РёРјРё Р±РµР· РІРµСЃС‚Рё.</segment>
+		<segment id="93" parent="95" relname="span">РЎСЂРµРґРё Р¶РµСЂС‚РІ РµСЃС‚СЊ РёРЅРѕСЃС‚СЂР°РЅС†С‹</segment>
+		<segment id="94" parent="93" relname="attribution">- СЃРѕРѕР±С‰Р°РµС‚СЃСЏ Рѕ РґРІСѓС… РїРѕРіРёР±С€РёС… РіСЂР°Р¶РґР°РЅРєР°С… РњР°РєРµРґРѕРЅРёРё.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/06Apr2009/rus_ital.html\n</segment>
 		<group id="51" type="multinuc" parent="100" relname="preparation"/>
 		<group id="43" type="multinuc" parent="51" relname="comparison"/>
 		<group id="37" type="span" parent="43" relname="joint"/>

@@ -9,17 +9,17 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="12" parent="16" relname="joint">На западе Англии перевернулся автобус,</segment>
-		<segment id="13" parent="14" relname="cause-effect">травмированы 48 человек\n\nНа западе Англии, в графстве Корнуолл,</segment>
-		<segment id="14" parent="15" relname="span">сегодня ночью перевернулся автобус.\n\</segment>
-		<segment id="17" parent="19" relname="span">nВ результате ДТП получили травмы 48 человек,</segment>
-		<segment id="18" parent="17" relname="elaboration">один из них в тяжелом состоянии.</segment>
-		<segment id="21" parent="23" relname="span">Об этом сообщила местная полиция.\n\nДТП произошло</segment>
-		<segment id="22" parent="21" relname="cause-effect">из-за образовавшейся гололедицы на дороге,</segment>
-		<segment id="24" parent="23" relname="elaboration">передает ИТАР-ТАСС.\n\nНа месте происшествия работают полиция, пожарные, машины скорой помощи.</segment>
-		<segment id="27" parent="31" relname="joint">Эвакуировать раненых помогает вертолет,</segment>
-		<segment id="28" parent="30" relname="span">отмечает Sky News.\n\nПо предварительным данным, в автобусе находились жители западной части графства,</segment>
-		<segment id="29" parent="28" relname="elaboration">совершавшие однодневную поездку на фестиваль рождественских огней в Маусхоул.\n\nИсточник: https://www.newsru.com/world/23Dec2009/engbus.html\n</segment>
+		<segment id="12" parent="16" relname="joint">РќР° Р·Р°РїР°РґРµ РђРЅРіР»РёРё РїРµСЂРµРІРµСЂРЅСѓР»СЃСЏ Р°РІС‚РѕР±СѓСЃ,</segment>
+		<segment id="13" parent="14" relname="cause-effect">С‚СЂР°РІРјРёСЂРѕРІР°РЅС‹ 48 С‡РµР»РѕРІРµРє\n\nРќР° Р·Р°РїР°РґРµ РђРЅРіР»РёРё, РІ РіСЂР°С„СЃС‚РІРµ РљРѕСЂРЅСѓРѕР»Р»,</segment>
+		<segment id="14" parent="15" relname="span">СЃРµРіРѕРґРЅСЏ РЅРѕС‡СЊСЋ РїРµСЂРµРІРµСЂРЅСѓР»СЃСЏ Р°РІС‚РѕР±СѓСЃ.\n\</segment>
+		<segment id="17" parent="19" relname="span">nР’ СЂРµР·СѓР»СЊС‚Р°С‚Рµ Р”РўРџ РїРѕР»СѓС‡РёР»Рё С‚СЂР°РІРјС‹ 48 С‡РµР»РѕРІРµРє,</segment>
+		<segment id="18" parent="17" relname="elaboration">РѕРґРёРЅ РёР· РЅРёС… РІ С‚СЏР¶РµР»РѕРј СЃРѕСЃС‚РѕСЏРЅРёРё.</segment>
+		<segment id="21" parent="23" relname="span">РћР± СЌС‚РѕРј СЃРѕРѕР±С‰РёР»Р° РјРµСЃС‚РЅР°СЏ РїРѕР»РёС†РёСЏ.\n\nР”РўРџ РїСЂРѕРёР·РѕС€Р»Рѕ</segment>
+		<segment id="22" parent="21" relname="cause-effect">РёР·-Р·Р° РѕР±СЂР°Р·РѕРІР°РІС€РµР№СЃСЏ РіРѕР»РѕР»РµРґРёС†С‹ РЅР° РґРѕСЂРѕРіРµ,</segment>
+		<segment id="24" parent="23" relname="elaboration">РїРµСЂРµРґР°РµС‚ РРўРђР -РўРђРЎРЎ.\n\nРќР° РјРµСЃС‚Рµ РїСЂРѕРёСЃС€РµСЃС‚РІРёСЏ СЂР°Р±РѕС‚Р°СЋС‚ РїРѕР»РёС†РёСЏ, РїРѕР¶Р°СЂРЅС‹Рµ, РјР°С€РёРЅС‹ СЃРєРѕСЂРѕР№ РїРѕРјРѕС‰Рё.</segment>
+		<segment id="27" parent="31" relname="joint">Р­РІР°РєСѓРёСЂРѕРІР°С‚СЊ СЂР°РЅРµРЅС‹С… РїРѕРјРѕРіР°РµС‚ РІРµСЂС‚РѕР»РµС‚,</segment>
+		<segment id="28" parent="30" relname="span">РѕС‚РјРµС‡Р°РµС‚ Sky News.\n\nРџРѕ РїСЂРµРґРІР°СЂРёС‚РµР»СЊРЅС‹Рј РґР°РЅРЅС‹Рј, РІ Р°РІС‚РѕР±СѓСЃРµ РЅР°С…РѕРґРёР»РёСЃСЊ Р¶РёС‚РµР»Рё Р·Р°РїР°РґРЅРѕР№ С‡Р°СЃС‚Рё РіСЂР°С„СЃС‚РІР°,</segment>
+		<segment id="29" parent="28" relname="elaboration">СЃРѕРІРµСЂС€Р°РІС€РёРµ РѕРґРЅРѕРґРЅРµРІРЅСѓСЋ РїРѕРµР·РґРєСѓ РЅР° С„РµСЃС‚РёРІР°Р»СЊ СЂРѕР¶РґРµСЃС‚РІРµРЅСЃРєРёС… РѕРіРЅРµР№ РІ РњР°СѓСЃС…РѕСѓР».\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/23Dec2009/engbus.html\n</segment>
 		<group id="26" type="multinuc" parent="32" relname="joint"/>
 		<group id="20" type="span" parent="26" relname="joint"/>
 		<group id="16" type="multinuc" parent="20" relname="span"/>

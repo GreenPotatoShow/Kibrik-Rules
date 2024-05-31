@@ -12,23 +12,23 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="18" parent="22" relname="joint">Всю ночь в Москве будет идти мокрый снег\n\nНочью в столице будет идти мокрый снег,</segment>
-		<segment id="19" parent="21" relname="span">сообщили в четверг в Гидрометеобюро Москвы и Московской области.\n\nПричиной осадков станет атлантический циклон,</segment>
-		<segment id="20" parent="19" relname="background">господствующий на севере европейской части России.</segment>
-		<segment id="23" parent="27" relname="span">Именно он принес в столичный регион теплый и влажный воздух.\n\n</segment>
-		<segment id="24" parent="26" relname="span">\"Теплый воздух приходит на территорию московского региона порциями,</segment>
-		<segment id="25" parent="24" relname="elaboration">каждая из них сопровождается осадками\",</segment>
-		<segment id="28" parent="27" relname="attribution">- отметил представитель метеобюро</segment>
-		<segment id="31" parent="35" relname="same-unit">.\n\nОднако,</segment>
-		<segment id="32" parent="33" relname="attribution">по данным синоптиков,</segment>
-		<segment id="33" parent="34" relname="span">изменения в атмосфере вряд ли принесут обильные снегопады.</segment>
-		<segment id="36" parent="38" relname="span">Вечером и ночью в Москве выпадет всего 1-3 мм осадков.</segment>
-		<segment id="37" parent="36" relname="elaboration">Утром в пятницу в Москве возможны туманы.\n\nВ ночь на пятницу в городе будет от минус 1 до плюс 1 градуса, по области - от минус 4 до плюс 1 градуса.</segment>
-		<segment id="39" parent="41" relname="comparison">Будет преобладать юго-западный ветер,</segment>
-		<segment id="40" parent="41" relname="comparison">ближе к утру он сменится на северо-западный,</segment>
-		<segment id="42" parent="46" relname="joint">сообщает \"Интерфакс\".\n\nВ первой половине дня в пятницу в Москве сохранится такая же погода,</segment>
-		<segment id="43" parent="45" relname="joint">будет облачно,</segment>
-		<segment id="44" parent="45" relname="joint">температура будет колебаться в районе 0 градусов.\n\nИсточник: https://www.newsru.com/russia/05Feb2004/snow.html\n</segment>
+		<segment id="18" parent="22" relname="joint">Р’СЃСЋ РЅРѕС‡СЊ РІ РњРѕСЃРєРІРµ Р±СѓРґРµС‚ РёРґС‚Рё РјРѕРєСЂС‹Р№ СЃРЅРµРі\n\nРќРѕС‡СЊСЋ РІ СЃС‚РѕР»РёС†Рµ Р±СѓРґРµС‚ РёРґС‚Рё РјРѕРєСЂС‹Р№ СЃРЅРµРі,</segment>
+		<segment id="19" parent="21" relname="span">СЃРѕРѕР±С‰РёР»Рё РІ С‡РµС‚РІРµСЂРі РІ Р“РёРґСЂРѕРјРµС‚РµРѕР±СЋСЂРѕ РњРѕСЃРєРІС‹ Рё РњРѕСЃРєРѕРІСЃРєРѕР№ РѕР±Р»Р°СЃС‚Рё.\n\nРџСЂРёС‡РёРЅРѕР№ РѕСЃР°РґРєРѕРІ СЃС‚Р°РЅРµС‚ Р°С‚Р»Р°РЅС‚РёС‡РµСЃРєРёР№ С†РёРєР»РѕРЅ,</segment>
+		<segment id="20" parent="19" relname="background">РіРѕСЃРїРѕРґСЃС‚РІСѓСЋС‰РёР№ РЅР° СЃРµРІРµСЂРµ РµРІСЂРѕРїРµР№СЃРєРѕР№ С‡Р°СЃС‚Рё Р РѕСЃСЃРёРё.</segment>
+		<segment id="23" parent="27" relname="span">РРјРµРЅРЅРѕ РѕРЅ РїСЂРёРЅРµСЃ РІ СЃС‚РѕР»РёС‡РЅС‹Р№ СЂРµРіРёРѕРЅ С‚РµРїР»С‹Р№ Рё РІР»Р°Р¶РЅС‹Р№ РІРѕР·РґСѓС….\n\n</segment>
+		<segment id="24" parent="26" relname="span">\"РўРµРїР»С‹Р№ РІРѕР·РґСѓС… РїСЂРёС…РѕРґРёС‚ РЅР° С‚РµСЂСЂРёС‚РѕСЂРёСЋ РјРѕСЃРєРѕРІСЃРєРѕРіРѕ СЂРµРіРёРѕРЅР° РїРѕСЂС†РёСЏРјРё,</segment>
+		<segment id="25" parent="24" relname="elaboration">РєР°Р¶РґР°СЏ РёР· РЅРёС… СЃРѕРїСЂРѕРІРѕР¶РґР°РµС‚СЃСЏ РѕСЃР°РґРєР°РјРё\",</segment>
+		<segment id="28" parent="27" relname="attribution">- РѕС‚РјРµС‚РёР» РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊ РјРµС‚РµРѕР±СЋСЂРѕ</segment>
+		<segment id="31" parent="35" relname="same-unit">.\n\nРћРґРЅР°РєРѕ,</segment>
+		<segment id="32" parent="33" relname="attribution">РїРѕ РґР°РЅРЅС‹Рј СЃРёРЅРѕРїС‚РёРєРѕРІ,</segment>
+		<segment id="33" parent="34" relname="span">РёР·РјРµРЅРµРЅРёСЏ РІ Р°С‚РјРѕСЃС„РµСЂРµ РІСЂСЏРґ Р»Рё РїСЂРёРЅРµСЃСѓС‚ РѕР±РёР»СЊРЅС‹Рµ СЃРЅРµРіРѕРїР°РґС‹.</segment>
+		<segment id="36" parent="38" relname="span">Р’РµС‡РµСЂРѕРј Рё РЅРѕС‡СЊСЋ РІ РњРѕСЃРєРІРµ РІС‹РїР°РґРµС‚ РІСЃРµРіРѕ 1-3 РјРј РѕСЃР°РґРєРѕРІ.</segment>
+		<segment id="37" parent="36" relname="elaboration">РЈС‚СЂРѕРј РІ РїСЏС‚РЅРёС†Сѓ РІ РњРѕСЃРєРІРµ РІРѕР·РјРѕР¶РЅС‹ С‚СѓРјР°РЅС‹.\n\nР’ РЅРѕС‡СЊ РЅР° РїСЏС‚РЅРёС†Сѓ РІ РіРѕСЂРѕРґРµ Р±СѓРґРµС‚ РѕС‚ РјРёРЅСѓСЃ 1 РґРѕ РїР»СЋСЃ 1 РіСЂР°РґСѓСЃР°, РїРѕ РѕР±Р»Р°СЃС‚Рё - РѕС‚ РјРёРЅСѓСЃ 4 РґРѕ РїР»СЋСЃ 1 РіСЂР°РґСѓСЃР°.</segment>
+		<segment id="39" parent="41" relname="comparison">Р‘СѓРґРµС‚ РїСЂРµРѕР±Р»Р°РґР°С‚СЊ СЋРіРѕ-Р·Р°РїР°РґРЅС‹Р№ РІРµС‚РµСЂ,</segment>
+		<segment id="40" parent="41" relname="comparison">Р±Р»РёР¶Рµ Рє СѓС‚СЂСѓ РѕРЅ СЃРјРµРЅРёС‚СЃСЏ РЅР° СЃРµРІРµСЂРѕ-Р·Р°РїР°РґРЅС‹Р№,</segment>
+		<segment id="42" parent="46" relname="joint">СЃРѕРѕР±С‰Р°РµС‚ \"РРЅС‚РµСЂС„Р°РєСЃ\".\n\nР’ РїРµСЂРІРѕР№ РїРѕР»РѕРІРёРЅРµ РґРЅСЏ РІ РїСЏС‚РЅРёС†Сѓ РІ РњРѕСЃРєРІРµ СЃРѕС…СЂР°РЅРёС‚СЃСЏ С‚Р°РєР°СЏ Р¶Рµ РїРѕРіРѕРґР°,</segment>
+		<segment id="43" parent="45" relname="joint">Р±СѓРґРµС‚ РѕР±Р»Р°С‡РЅРѕ,</segment>
+		<segment id="44" parent="45" relname="joint">С‚РµРјРїРµСЂР°С‚СѓСЂР° Р±СѓРґРµС‚ РєРѕР»РµР±Р°С‚СЊСЃСЏ РІ СЂР°Р№РѕРЅРµ 0 РіСЂР°РґСѓСЃРѕРІ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/05Feb2004/snow.html\n</segment>
 		<group id="30" type="span" parent="50" relname="joint"/>
 		<group id="22" type="multinuc" parent="30" relname="span"/>
 		<group id="21" type="span" parent="22" relname="joint"/>

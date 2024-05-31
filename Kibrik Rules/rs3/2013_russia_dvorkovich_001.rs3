@@ -13,25 +13,25 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="20" parent="22" relname="sequence">У брата вице-премьера украли сумку с документами\n\nНеизвестные в центре Москвы обокрали предпринимателя Михаила Дворковича, брата вице-премьера РФ Аркадия Дворковича,</segment>
-		<segment id="21" parent="22" relname="sequence">из его машины похитили сумку с документами,</segment>
-		<segment id="23" parent="22" relname="attribution">сообщает РИА \"Новости\".\n\n</segment>
-		<segment id="25" parent="27" relname="span">\"Михаил Дворкович сегодня утром обратился в полицию с сообщением о краже из его автомобиля в центре Москвы\",</segment>
-		<segment id="26" parent="25" relname="attribution">- сказал собеседник агентства.</segment>
-		<segment id="29" parent="32" relname="attribution">Сам Дворкович рассказал о происшествии в Twitter,</segment>
-		<segment id="30" parent="31" relname="attribution">пожаловался,</segment>
-		<segment id="31" parent="32" relname="span">что полицейских пришлось ждать долго:</segment>
-		<segment id="34" parent="36" relname="joint">\"Приехала ППС, нахамили</segment>
-		<segment id="35" parent="36" relname="joint">и уехали\".\n\nКакие документы были украдены,</segment>
-		<segment id="37" parent="39" relname="span">пока неясно.\n\nВ пресс-службе столичного главка МВД подтвердили факт подачи заявления,</segment>
-		<segment id="38" parent="37" relname="condition">не уточняя личность заявителя.</segment>
-		<segment id="42" parent="50" relname="joint">\"Сегодня в 06:00 в службу \"02\" обратился гражданин</segment>
-		<segment id="43" parent="44" relname="attribution">и сообщил,</segment>
-		<segment id="44" parent="45" relname="span">что по адресу Краснопресненская набережная,</segment>
-		<segment id="46" parent="48" relname="joint">дом 14 неизвестные разбили стекло в его автомобиле Land Rover</segment>
-		<segment id="47" parent="48" relname="joint">и совершили кражу сумки с документами\",</segment>
-		<segment id="51" parent="52" relname="attribution">- сказал сотрудник пресс-службы.</segment>
-		<segment id="52" parent="53" relname="span">Сейчас решается вопрос о возбуждении уголовного дела.\n\nИсточник: https://www.newsru.com/russia/13Apr2013/dvorkovich.html\n</segment>
+		<segment id="20" parent="22" relname="sequence">РЈ Р±СЂР°С‚Р° РІРёС†Рµ-РїСЂРµРјСЊРµСЂР° СѓРєСЂР°Р»Рё СЃСѓРјРєСѓ СЃ РґРѕРєСѓРјРµРЅС‚Р°РјРё\n\nРќРµРёР·РІРµСЃС‚РЅС‹Рµ РІ С†РµРЅС‚СЂРµ РњРѕСЃРєРІС‹ РѕР±РѕРєСЂР°Р»Рё РїСЂРµРґРїСЂРёРЅРёРјР°С‚РµР»СЏ РњРёС…Р°РёР»Р° Р”РІРѕСЂРєРѕРІРёС‡Р°, Р±СЂР°С‚Р° РІРёС†Рµ-РїСЂРµРјСЊРµСЂР° Р Р¤ РђСЂРєР°РґРёСЏ Р”РІРѕСЂРєРѕРІРёС‡Р°,</segment>
+		<segment id="21" parent="22" relname="sequence">РёР· РµРіРѕ РјР°С€РёРЅС‹ РїРѕС…РёС‚РёР»Рё СЃСѓРјРєСѓ СЃ РґРѕРєСѓРјРµРЅС‚Р°РјРё,</segment>
+		<segment id="23" parent="22" relname="attribution">СЃРѕРѕР±С‰Р°РµС‚ Р РРђ \"РќРѕРІРѕСЃС‚Рё\".\n\n</segment>
+		<segment id="25" parent="27" relname="span">\"РњРёС…Р°РёР» Р”РІРѕСЂРєРѕРІРёС‡ СЃРµРіРѕРґРЅСЏ СѓС‚СЂРѕРј РѕР±СЂР°С‚РёР»СЃСЏ РІ РїРѕР»РёС†РёСЋ СЃ СЃРѕРѕР±С‰РµРЅРёРµРј Рѕ РєСЂР°Р¶Рµ РёР· РµРіРѕ Р°РІС‚РѕРјРѕР±РёР»СЏ РІ С†РµРЅС‚СЂРµ РњРѕСЃРєРІС‹\",</segment>
+		<segment id="26" parent="25" relname="attribution">- СЃРєР°Р·Р°Р» СЃРѕР±РµСЃРµРґРЅРёРє Р°РіРµРЅС‚СЃС‚РІР°.</segment>
+		<segment id="29" parent="32" relname="attribution">РЎР°Рј Р”РІРѕСЂРєРѕРІРёС‡ СЂР°СЃСЃРєР°Р·Р°Р» Рѕ РїСЂРѕРёСЃС€РµСЃС‚РІРёРё РІ Twitter,</segment>
+		<segment id="30" parent="31" relname="attribution">РїРѕР¶Р°Р»РѕРІР°Р»СЃСЏ,</segment>
+		<segment id="31" parent="32" relname="span">С‡С‚Рѕ РїРѕР»РёС†РµР№СЃРєРёС… РїСЂРёС€Р»РѕСЃСЊ Р¶РґР°С‚СЊ РґРѕР»РіРѕ:</segment>
+		<segment id="34" parent="36" relname="joint">\"РџСЂРёРµС…Р°Р»Р° РџРџРЎ, РЅР°С…Р°РјРёР»Рё</segment>
+		<segment id="35" parent="36" relname="joint">Рё СѓРµС…Р°Р»Рё\".\n\nРљР°РєРёРµ РґРѕРєСѓРјРµРЅС‚С‹ Р±С‹Р»Рё СѓРєСЂР°РґРµРЅС‹,</segment>
+		<segment id="37" parent="39" relname="span">РїРѕРєР° РЅРµСЏСЃРЅРѕ.\n\nР’ РїСЂРµСЃСЃ-СЃР»СѓР¶Р±Рµ СЃС‚РѕР»РёС‡РЅРѕРіРѕ РіР»Р°РІРєР° РњР’Р” РїРѕРґС‚РІРµСЂРґРёР»Рё С„Р°РєС‚ РїРѕРґР°С‡Рё Р·Р°СЏРІР»РµРЅРёСЏ,</segment>
+		<segment id="38" parent="37" relname="condition">РЅРµ СѓС‚РѕС‡РЅСЏСЏ Р»РёС‡РЅРѕСЃС‚СЊ Р·Р°СЏРІРёС‚РµР»СЏ.</segment>
+		<segment id="42" parent="50" relname="joint">\"РЎРµРіРѕРґРЅСЏ РІ 06:00 РІ СЃР»СѓР¶Р±Сѓ \"02\" РѕР±СЂР°С‚РёР»СЃСЏ РіСЂР°Р¶РґР°РЅРёРЅ</segment>
+		<segment id="43" parent="44" relname="attribution">Рё СЃРѕРѕР±С‰РёР»,</segment>
+		<segment id="44" parent="45" relname="span">С‡С‚Рѕ РїРѕ Р°РґСЂРµСЃСѓ РљСЂР°СЃРЅРѕРїСЂРµСЃРЅРµРЅСЃРєР°СЏ РЅР°Р±РµСЂРµР¶РЅР°СЏ,</segment>
+		<segment id="46" parent="48" relname="joint">РґРѕРј 14 РЅРµРёР·РІРµСЃС‚РЅС‹Рµ СЂР°Р·Р±РёР»Рё СЃС‚РµРєР»Рѕ РІ РµРіРѕ Р°РІС‚РѕРјРѕР±РёР»Рµ Land Rover</segment>
+		<segment id="47" parent="48" relname="joint">Рё СЃРѕРІРµСЂС€РёР»Рё РєСЂР°Р¶Сѓ СЃСѓРјРєРё СЃ РґРѕРєСѓРјРµРЅС‚Р°РјРё\",</segment>
+		<segment id="51" parent="52" relname="attribution">- СЃРєР°Р·Р°Р» СЃРѕС‚СЂСѓРґРЅРёРє РїСЂРµСЃСЃ-СЃР»СѓР¶Р±С‹.</segment>
+		<segment id="52" parent="53" relname="span">РЎРµР№С‡Р°СЃ СЂРµС€Р°РµС‚СЃСЏ РІРѕРїСЂРѕСЃ Рѕ РІРѕР·Р±СѓР¶РґРµРЅРёРё СѓРіРѕР»РѕРІРЅРѕРіРѕ РґРµР»Р°.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/13Apr2013/dvorkovich.html\n</segment>
 		<group id="28" type="multinuc" parent="56" relname="sequence"/>
 		<group id="24" type="span" parent="28" relname="sequence"/>
 		<group id="22" type="multinuc" parent="24" relname="span"/>

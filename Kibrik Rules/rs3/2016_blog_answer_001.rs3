@@ -14,28 +14,28 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="23" parent="25" relname="joint">Екатерина Винокурова: \"Чтобы город поехал</segment>
-		<segment id="24" parent="25" relname="joint">и пошел,</segment>
-		<segment id="26" parent="30" relname="span">надо,</segment>
-		<segment id="27" parent="29" relname="joint">чтобы самостоятельно поехал</segment>
-		<segment id="28" parent="29" relname="joint">и пошел один человек\"\n\n</segment>
-		<segment id="32" parent="33" relname="condition">\"Знаете, Григорий,</segment>
-		<segment id="33" parent="34" relname="span">я тоже хочу очень friendly город.</segment>
-		<segment id="35" parent="43" relname="same-unit">Начнем,</segment>
-		<segment id="36" parent="38" relname="span">если Вы не возражаете, с Вашего и моего любимого центра.\n\nНапример, была у меня такая любимая улица Арбат,</segment>
-		<segment id="37" parent="36" relname="elaboration">по которой как раз хотелось ходить,</segment>
-		<segment id="39" parent="41" relname="joint">чтобы на людей посмотреть,</segment>
-		<segment id="40" parent="41" relname="joint">себя показать.</segment>
-		<segment id="44" parent="50" relname="joint">Там можно было ностальгически улыбнуться стене Цоя,</segment>
-		<segment id="45" parent="49" relname="joint">помечтать однажды заказать конный портрет в полный рост,</segment>
-		<segment id="46" parent="48" relname="joint">улыбнуться нелепым ушанкам-сувенирам</segment>
-		<segment id="47" parent="48" relname="joint">и вспомнить неформальную юность.</segment>
-		<segment id="51" parent="50" relname="elaboration">Не помню, была ли там плитка или брусчатка.\n\nСейчас Арбат мертв.</segment>
-		<segment id="53" parent="59" relname="span">Нет ни художников, ни музыкантов, ни уличных веранд, ни туристов.</segment>
-		<segment id="54" parent="58" relname="span">Что-то вечно копают.</segment>
-		<segment id="55" parent="57" relname="comparison">Наверное, там положили очень экологичную мостовую,</segment>
-		<segment id="56" parent="57" relname="comparison">только идти по ней совершенно неохота.\n\nПерейдем на Тверскую.</segment>
-		<segment id="60" parent="59" relname="elaboration">Знаете, Григорий, Тверская никогда не была местом, где гуляют\".\n\nИсточник: https://www.newsru.com/blog/17Jun2016/answer.html\n</segment>
+		<segment id="23" parent="25" relname="joint">Р•РєР°С‚РµСЂРёРЅР° Р’РёРЅРѕРєСѓСЂРѕРІР°: \"Р§С‚РѕР±С‹ РіРѕСЂРѕРґ РїРѕРµС…Р°Р»</segment>
+		<segment id="24" parent="25" relname="joint">Рё РїРѕС€РµР»,</segment>
+		<segment id="26" parent="30" relname="span">РЅР°РґРѕ,</segment>
+		<segment id="27" parent="29" relname="joint">С‡С‚РѕР±С‹ СЃР°РјРѕСЃС‚РѕСЏС‚РµР»СЊРЅРѕ РїРѕРµС…Р°Р»</segment>
+		<segment id="28" parent="29" relname="joint">Рё РїРѕС€РµР» РѕРґРёРЅ С‡РµР»РѕРІРµРє\"\n\n</segment>
+		<segment id="32" parent="33" relname="condition">\"Р—РЅР°РµС‚Рµ, Р“СЂРёРіРѕСЂРёР№,</segment>
+		<segment id="33" parent="34" relname="span">СЏ С‚РѕР¶Рµ С…РѕС‡Сѓ РѕС‡РµРЅСЊ friendly РіРѕСЂРѕРґ.</segment>
+		<segment id="35" parent="43" relname="same-unit">РќР°С‡РЅРµРј,</segment>
+		<segment id="36" parent="38" relname="span">РµСЃР»Рё Р’С‹ РЅРµ РІРѕР·СЂР°Р¶Р°РµС‚Рµ, СЃ Р’Р°С€РµРіРѕ Рё РјРѕРµРіРѕ Р»СЋР±РёРјРѕРіРѕ С†РµРЅС‚СЂР°.\n\nРќР°РїСЂРёРјРµСЂ, Р±С‹Р»Р° Сѓ РјРµРЅСЏ С‚Р°РєР°СЏ Р»СЋР±РёРјР°СЏ СѓР»РёС†Р° РђСЂР±Р°С‚,</segment>
+		<segment id="37" parent="36" relname="elaboration">РїРѕ РєРѕС‚РѕСЂРѕР№ РєР°Рє СЂР°Р· С…РѕС‚РµР»РѕСЃСЊ С…РѕРґРёС‚СЊ,</segment>
+		<segment id="39" parent="41" relname="joint">С‡С‚РѕР±С‹ РЅР° Р»СЋРґРµР№ РїРѕСЃРјРѕС‚СЂРµС‚СЊ,</segment>
+		<segment id="40" parent="41" relname="joint">СЃРµР±СЏ РїРѕРєР°Р·Р°С‚СЊ.</segment>
+		<segment id="44" parent="50" relname="joint">РўР°Рј РјРѕР¶РЅРѕ Р±С‹Р»Рѕ РЅРѕСЃС‚Р°Р»СЊРіРёС‡РµСЃРєРё СѓР»С‹Р±РЅСѓС‚СЊСЃСЏ СЃС‚РµРЅРµ Р¦РѕСЏ,</segment>
+		<segment id="45" parent="49" relname="joint">РїРѕРјРµС‡С‚Р°С‚СЊ РѕРґРЅР°Р¶РґС‹ Р·Р°РєР°Р·Р°С‚СЊ РєРѕРЅРЅС‹Р№ РїРѕСЂС‚СЂРµС‚ РІ РїРѕР»РЅС‹Р№ СЂРѕСЃС‚,</segment>
+		<segment id="46" parent="48" relname="joint">СѓР»С‹Р±РЅСѓС‚СЊСЃСЏ РЅРµР»РµРїС‹Рј СѓС€Р°РЅРєР°Рј-СЃСѓРІРµРЅРёСЂР°Рј</segment>
+		<segment id="47" parent="48" relname="joint">Рё РІСЃРїРѕРјРЅРёС‚СЊ РЅРµС„РѕСЂРјР°Р»СЊРЅСѓСЋ СЋРЅРѕСЃС‚СЊ.</segment>
+		<segment id="51" parent="50" relname="elaboration">РќРµ РїРѕРјРЅСЋ, Р±С‹Р»Р° Р»Рё С‚Р°Рј РїР»РёС‚РєР° РёР»Рё Р±СЂСѓСЃС‡Р°С‚РєР°.\n\nРЎРµР№С‡Р°СЃ РђСЂР±Р°С‚ РјРµСЂС‚РІ.</segment>
+		<segment id="53" parent="59" relname="span">РќРµС‚ РЅРё С…СѓРґРѕР¶РЅРёРєРѕРІ, РЅРё РјСѓР·С‹РєР°РЅС‚РѕРІ, РЅРё СѓР»РёС‡РЅС‹С… РІРµСЂР°РЅРґ, РЅРё С‚СѓСЂРёСЃС‚РѕРІ.</segment>
+		<segment id="54" parent="58" relname="span">Р§С‚Рѕ-С‚Рѕ РІРµС‡РЅРѕ РєРѕРїР°СЋС‚.</segment>
+		<segment id="55" parent="57" relname="comparison">РќР°РІРµСЂРЅРѕРµ, С‚Р°Рј РїРѕР»РѕР¶РёР»Рё РѕС‡РµРЅСЊ СЌРєРѕР»РѕРіРёС‡РЅСѓСЋ РјРѕСЃС‚РѕРІСѓСЋ,</segment>
+		<segment id="56" parent="57" relname="comparison">С‚РѕР»СЊРєРѕ РёРґС‚Рё РїРѕ РЅРµР№ СЃРѕРІРµСЂС€РµРЅРЅРѕ РЅРµРѕС…РѕС‚Р°.\n\nРџРµСЂРµР№РґРµРј РЅР° РўРІРµСЂСЃРєСѓСЋ.</segment>
+		<segment id="60" parent="59" relname="elaboration">Р—РЅР°РµС‚Рµ, Р“СЂРёРіРѕСЂРёР№, РўРІРµСЂСЃРєР°СЏ РЅРёРєРѕРіРґР° РЅРµ Р±С‹Р»Р° РјРµСЃС‚РѕРј, РіРґРµ РіСѓР»СЏСЋС‚\".\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/blog/17Jun2016/answer.html\n</segment>
 		<group id="31" type="span" parent="64" relname="preparation"/>
 		<group id="25" type="multinuc" parent="31" relname="span"/>
 		<group id="30" type="span" parent="25" relname="purpose"/>

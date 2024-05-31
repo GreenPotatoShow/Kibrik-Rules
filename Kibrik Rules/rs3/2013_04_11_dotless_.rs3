@@ -18,45 +18,45 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="40" parent="43" relname="attribution">Компания  Google заявила</segment>
-		<segment id="41" parent="43" relname="span">о своих планах превратить домен .search,</segment>
-		<segment id="42" parent="41" relname="elaboration">на который ранее подала заявку, в бесточечный домен http://search/.</segment>
-		<segment id="45" parent="47" relname="span">Об этом сообщил портал TechCrunch.\n О своих намерениях поисковик известил письмом организацию ICANN,</segment>
-		<segment id="46" parent="45" relname="purpose">занимающуюся регулированием вопросов функционирования Интернета.</segment>
-		<segment id="49" parent="52" relname="attribution">Google подчеркнул,</segment>
-		<segment id="50" parent="52" relname="span">что не собирается использовать домен только</segment>
-		<segment id="51" parent="50" relname="purpose">для своих нужд.</segment>
-		<segment id="54" parent="55" relname="attribution">Напротив, компания пообещала</segment>
-		<segment id="55" parent="56" relname="span">перенаправлять запросы с него на поисковые сервисы по выбору пользователя.</segment>
-		<segment id="58" parent="62" relname="comparison">О реакции представителей ICANN на публикацию письма и его содержание пока неизвестно</segment>
-		<segment id="59" parent="60" relname="attribution">.\n Ранее ICANN высказалась</segment>
-		<segment id="60" parent="61" relname="span">против бесточечных доменов.</segment>
-		<segment id="63" parent="62" relname="cause-effect">С точки зрения организации, такие адреса могут оказаться недоступными для некоторых пользователей.</segment>
-		<segment id="65" parent="77" relname="span">Мнения экспертов индустрии на этот счет разделились.</segment>
-		<segment id="66" parent="67" relname="attribution">Большинство из них соглашается,</segment>
-		<segment id="67" parent="68" relname="span">что бесточечные домены могут привести к таким проблемам, как недоступность почтовых SMTP-серверов.</segment>
-		<segment id="69" parent="75" relname="same-unit">В то же время,</segment>
-		<segment id="70" parent="73" relname="attribution">на форумах ICANN</segment>
-		<segment id="71" parent="73" relname="span">появилось много призывов не создавать «ненужные запреты».\n В 2012 году компания Google подала 100 заявок на доменные зоны первого уровня,</segment>
-		<segment id="72" parent="71" relname="elaboration">среди которых такие адреса как .google, .gmail, .youtube, .android, а также .lol, .wow, .love и другие.</segment>
-		<segment id="78" parent="81" relname="attribution">В письме ICANN поисковик пообещал</segment>
-		<segment id="79" parent="81" relname="span">также открыть для других компаний домены .cloud, .blog и .app в случае,</segment>
-		<segment id="80" parent="79" relname="condition">если ему предоставят права на них.</segment>
-		<segment id="83" parent="84" relname="purpose">Для будущего менеджмента подобных «открытых» доменов и предоставления к ним доступа</segment>
-		<segment id="84" parent="85" relname="span">Google создал отдельное подразделение Charleston Road Registry,</segment>
-		<segment id="86" parent="85" relname="elaboration">от имени которого и было отправлено письмо</segment>
-		<segment id="88" parent="102" relname="span">.\n ICANN открыла прием заявок на домены первого уровня в начале 2012 года.</segment>
-		<segment id="89" parent="93" relname="span">Всего организация получила почти две тысячи предложений от более чем 500 компаний.</segment>
-		<segment id="90" parent="92" relname="span">ICANN занята рассмотрением заявок,</segment>
-		<segment id="91" parent="90" relname="condition">выбирая, кому она предоставит права на доменные имена.</segment>
-		<segment id="94" parent="100" relname="span">Информация о заявках содержится в открытом доступе.\n</segment>
-		<segment id="95" parent="97" relname="joint">Принятая на сегодняшний день структура доменных имен состоит из домена первого (верхнего) уровня</segment>
-		<segment id="96" parent="97" relname="joint">и отделенного от него точкой домена второго уровня (наименование сайта или организации).</segment>
-		<segment id="98" parent="97" relname="elaboration">Домены верхнего уровня до нововведений ICANN делились на стандартные (.com, .net., .org и некоторые другие), инфраструктурные (.arpa) и региональные (например, .ru, .ua, .uk и прочие, закрепленные за конкретными странами).</segment>
-		<segment id="105" parent="106" relname="cause-effect">Благодаря инициативе ICANN</segment>
-		<segment id="106" parent="107" relname="span">список имен первого уровня значительно расширится.</segment>
-		<segment id="108" parent="110" relname="joint">В то же время, бесточечные домены пока не классифицируются ICANN</segment>
-		<segment id="109" parent="110" relname="joint">и не рассматриваются ей для массового пользования.\n \n</segment>
+		<segment id="40" parent="43" relname="attribution">РљРѕРјРїР°РЅРёСЏ  Google Р·Р°СЏРІРёР»Р°</segment>
+		<segment id="41" parent="43" relname="span">Рѕ СЃРІРѕРёС… РїР»Р°РЅР°С… РїСЂРµРІСЂР°С‚РёС‚СЊ РґРѕРјРµРЅ .search,</segment>
+		<segment id="42" parent="41" relname="elaboration">РЅР° РєРѕС‚РѕСЂС‹Р№ СЂР°РЅРµРµ РїРѕРґР°Р»Р° Р·Р°СЏРІРєСѓ, РІ Р±РµСЃС‚РѕС‡РµС‡РЅС‹Р№ РґРѕРјРµРЅ http://search/.</segment>
+		<segment id="45" parent="47" relname="span">РћР± СЌС‚РѕРј СЃРѕРѕР±С‰РёР» РїРѕСЂС‚Р°Р» TechCrunch.\n Рћ СЃРІРѕРёС… РЅР°РјРµСЂРµРЅРёСЏС… РїРѕРёСЃРєРѕРІРёРє РёР·РІРµСЃС‚РёР» РїРёСЃСЊРјРѕРј РѕСЂРіР°РЅРёР·Р°С†РёСЋ ICANN,</segment>
+		<segment id="46" parent="45" relname="purpose">Р·Р°РЅРёРјР°СЋС‰СѓСЋСЃСЏ СЂРµРіСѓР»РёСЂРѕРІР°РЅРёРµРј РІРѕРїСЂРѕСЃРѕРІ С„СѓРЅРєС†РёРѕРЅРёСЂРѕРІР°РЅРёСЏ РРЅС‚РµСЂРЅРµС‚Р°.</segment>
+		<segment id="49" parent="52" relname="attribution">Google РїРѕРґС‡РµСЂРєРЅСѓР»,</segment>
+		<segment id="50" parent="52" relname="span">С‡С‚Рѕ РЅРµ СЃРѕР±РёСЂР°РµС‚СЃСЏ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РґРѕРјРµРЅ С‚РѕР»СЊРєРѕ</segment>
+		<segment id="51" parent="50" relname="purpose">РґР»СЏ СЃРІРѕРёС… РЅСѓР¶Рґ.</segment>
+		<segment id="54" parent="55" relname="attribution">РќР°РїСЂРѕС‚РёРІ, РєРѕРјРїР°РЅРёСЏ РїРѕРѕР±РµС‰Р°Р»Р°</segment>
+		<segment id="55" parent="56" relname="span">РїРµСЂРµРЅР°РїСЂР°РІР»СЏС‚СЊ Р·Р°РїСЂРѕСЃС‹ СЃ РЅРµРіРѕ РЅР° РїРѕРёСЃРєРѕРІС‹Рµ СЃРµСЂРІРёСЃС‹ РїРѕ РІС‹Р±РѕСЂСѓ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ.</segment>
+		<segment id="58" parent="62" relname="comparison">Рћ СЂРµР°РєС†РёРё РїСЂРµРґСЃС‚Р°РІРёС‚РµР»РµР№ ICANN РЅР° РїСѓР±Р»РёРєР°С†РёСЋ РїРёСЃСЊРјР° Рё РµРіРѕ СЃРѕРґРµСЂР¶Р°РЅРёРµ РїРѕРєР° РЅРµРёР·РІРµСЃС‚РЅРѕ</segment>
+		<segment id="59" parent="60" relname="attribution">.\n Р Р°РЅРµРµ ICANN РІС‹СЃРєР°Р·Р°Р»Р°СЃСЊ</segment>
+		<segment id="60" parent="61" relname="span">РїСЂРѕС‚РёРІ Р±РµСЃС‚РѕС‡РµС‡РЅС‹С… РґРѕРјРµРЅРѕРІ.</segment>
+		<segment id="63" parent="62" relname="cause-effect">РЎ С‚РѕС‡РєРё Р·СЂРµРЅРёСЏ РѕСЂРіР°РЅРёР·Р°С†РёРё, С‚Р°РєРёРµ Р°РґСЂРµСЃР° РјРѕРіСѓС‚ РѕРєР°Р·Р°С‚СЊСЃСЏ РЅРµРґРѕСЃС‚СѓРїРЅС‹РјРё РґР»СЏ РЅРµРєРѕС‚РѕСЂС‹С… РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№.</segment>
+		<segment id="65" parent="77" relname="span">РњРЅРµРЅРёСЏ СЌРєСЃРїРµСЂС‚РѕРІ РёРЅРґСѓСЃС‚СЂРёРё РЅР° СЌС‚РѕС‚ СЃС‡РµС‚ СЂР°Р·РґРµР»РёР»РёСЃСЊ.</segment>
+		<segment id="66" parent="67" relname="attribution">Р‘РѕР»СЊС€РёРЅСЃС‚РІРѕ РёР· РЅРёС… СЃРѕРіР»Р°С€Р°РµС‚СЃСЏ,</segment>
+		<segment id="67" parent="68" relname="span">С‡С‚Рѕ Р±РµСЃС‚РѕС‡РµС‡РЅС‹Рµ РґРѕРјРµРЅС‹ РјРѕРіСѓС‚ РїСЂРёРІРµСЃС‚Рё Рє С‚Р°РєРёРј РїСЂРѕР±Р»РµРјР°Рј, РєР°Рє РЅРµРґРѕСЃС‚СѓРїРЅРѕСЃС‚СЊ РїРѕС‡С‚РѕРІС‹С… SMTP-СЃРµСЂРІРµСЂРѕРІ.</segment>
+		<segment id="69" parent="75" relname="same-unit">Р’ С‚Рѕ Р¶Рµ РІСЂРµРјСЏ,</segment>
+		<segment id="70" parent="73" relname="attribution">РЅР° С„РѕСЂСѓРјР°С… ICANN</segment>
+		<segment id="71" parent="73" relname="span">РїРѕСЏРІРёР»РѕСЃСЊ РјРЅРѕРіРѕ РїСЂРёР·С‹РІРѕРІ РЅРµ СЃРѕР·РґР°РІР°С‚СЊ В«РЅРµРЅСѓР¶РЅС‹Рµ Р·Р°РїСЂРµС‚С‹В».\n Р’ 2012 РіРѕРґСѓ РєРѕРјРїР°РЅРёСЏ Google РїРѕРґР°Р»Р° 100 Р·Р°СЏРІРѕРє РЅР° РґРѕРјРµРЅРЅС‹Рµ Р·РѕРЅС‹ РїРµСЂРІРѕРіРѕ СѓСЂРѕРІРЅСЏ,</segment>
+		<segment id="72" parent="71" relname="elaboration">СЃСЂРµРґРё РєРѕС‚РѕСЂС‹С… С‚Р°РєРёРµ Р°РґСЂРµСЃР° РєР°Рє .google, .gmail, .youtube, .android, Р° С‚Р°РєР¶Рµ .lol, .wow, .love Рё РґСЂСѓРіРёРµ.</segment>
+		<segment id="78" parent="81" relname="attribution">Р’ РїРёСЃСЊРјРµ ICANN РїРѕРёСЃРєРѕРІРёРє РїРѕРѕР±РµС‰Р°Р»</segment>
+		<segment id="79" parent="81" relname="span">С‚Р°РєР¶Рµ РѕС‚РєСЂС‹С‚СЊ РґР»СЏ РґСЂСѓРіРёС… РєРѕРјРїР°РЅРёР№ РґРѕРјРµРЅС‹ .cloud, .blog Рё .app РІ СЃР»СѓС‡Р°Рµ,</segment>
+		<segment id="80" parent="79" relname="condition">РµСЃР»Рё РµРјСѓ РїСЂРµРґРѕСЃС‚Р°РІСЏС‚ РїСЂР°РІР° РЅР° РЅРёС….</segment>
+		<segment id="83" parent="84" relname="purpose">Р”Р»СЏ Р±СѓРґСѓС‰РµРіРѕ РјРµРЅРµРґР¶РјРµРЅС‚Р° РїРѕРґРѕР±РЅС‹С… В«РѕС‚РєСЂС‹С‚С‹С…В» РґРѕРјРµРЅРѕРІ Рё РїСЂРµРґРѕСЃС‚Р°РІР»РµРЅРёСЏ Рє РЅРёРј РґРѕСЃС‚СѓРїР°</segment>
+		<segment id="84" parent="85" relname="span">Google СЃРѕР·РґР°Р» РѕС‚РґРµР»СЊРЅРѕРµ РїРѕРґСЂР°Р·РґРµР»РµРЅРёРµ Charleston Road Registry,</segment>
+		<segment id="86" parent="85" relname="elaboration">РѕС‚ РёРјРµРЅРё РєРѕС‚РѕСЂРѕРіРѕ Рё Р±С‹Р»Рѕ РѕС‚РїСЂР°РІР»РµРЅРѕ РїРёСЃСЊРјРѕ</segment>
+		<segment id="88" parent="102" relname="span">.\n ICANN РѕС‚РєСЂС‹Р»Р° РїСЂРёРµРј Р·Р°СЏРІРѕРє РЅР° РґРѕРјРµРЅС‹ РїРµСЂРІРѕРіРѕ СѓСЂРѕРІРЅСЏ РІ РЅР°С‡Р°Р»Рµ 2012 РіРѕРґР°.</segment>
+		<segment id="89" parent="93" relname="span">Р’СЃРµРіРѕ РѕСЂРіР°РЅРёР·Р°С†РёСЏ РїРѕР»СѓС‡РёР»Р° РїРѕС‡С‚Рё РґРІРµ С‚С‹СЃСЏС‡Рё РїСЂРµРґР»РѕР¶РµРЅРёР№ РѕС‚ Р±РѕР»РµРµ С‡РµРј 500 РєРѕРјРїР°РЅРёР№.</segment>
+		<segment id="90" parent="92" relname="span">ICANN Р·Р°РЅСЏС‚Р° СЂР°СЃСЃРјРѕС‚СЂРµРЅРёРµРј Р·Р°СЏРІРѕРє,</segment>
+		<segment id="91" parent="90" relname="condition">РІС‹Р±РёСЂР°СЏ, РєРѕРјСѓ РѕРЅР° РїСЂРµРґРѕСЃС‚Р°РІРёС‚ РїСЂР°РІР° РЅР° РґРѕРјРµРЅРЅС‹Рµ РёРјРµРЅР°.</segment>
+		<segment id="94" parent="100" relname="span">РРЅС„РѕСЂРјР°С†РёСЏ Рѕ Р·Р°СЏРІРєР°С… СЃРѕРґРµСЂР¶РёС‚СЃСЏ РІ РѕС‚РєСЂС‹С‚РѕРј РґРѕСЃС‚СѓРїРµ.\n</segment>
+		<segment id="95" parent="97" relname="joint">РџСЂРёРЅСЏС‚Р°СЏ РЅР° СЃРµРіРѕРґРЅСЏС€РЅРёР№ РґРµРЅСЊ СЃС‚СЂСѓРєС‚СѓСЂР° РґРѕРјРµРЅРЅС‹С… РёРјРµРЅ СЃРѕСЃС‚РѕРёС‚ РёР· РґРѕРјРµРЅР° РїРµСЂРІРѕРіРѕ (РІРµСЂС…РЅРµРіРѕ) СѓСЂРѕРІРЅСЏ</segment>
+		<segment id="96" parent="97" relname="joint">Рё РѕС‚РґРµР»РµРЅРЅРѕРіРѕ РѕС‚ РЅРµРіРѕ С‚РѕС‡РєРѕР№ РґРѕРјРµРЅР° РІС‚РѕСЂРѕРіРѕ СѓСЂРѕРІРЅСЏ (РЅР°РёРјРµРЅРѕРІР°РЅРёРµ СЃР°Р№С‚Р° РёР»Рё РѕСЂРіР°РЅРёР·Р°С†РёРё).</segment>
+		<segment id="98" parent="97" relname="elaboration">Р”РѕРјРµРЅС‹ РІРµСЂС…РЅРµРіРѕ СѓСЂРѕРІРЅСЏ РґРѕ РЅРѕРІРѕРІРІРµРґРµРЅРёР№ ICANN РґРµР»РёР»РёСЃСЊ РЅР° СЃС‚Р°РЅРґР°СЂС‚РЅС‹Рµ (.com, .net., .org Рё РЅРµРєРѕС‚РѕСЂС‹Рµ РґСЂСѓРіРёРµ), РёРЅС„СЂР°СЃС‚СЂСѓРєС‚СѓСЂРЅС‹Рµ (.arpa) Рё СЂРµРіРёРѕРЅР°Р»СЊРЅС‹Рµ (РЅР°РїСЂРёРјРµСЂ, .ru, .ua, .uk Рё РїСЂРѕС‡РёРµ, Р·Р°РєСЂРµРїР»РµРЅРЅС‹Рµ Р·Р° РєРѕРЅРєСЂРµС‚РЅС‹РјРё СЃС‚СЂР°РЅР°РјРё).</segment>
+		<segment id="105" parent="106" relname="cause-effect">Р‘Р»Р°РіРѕРґР°СЂСЏ РёРЅРёС†РёР°С‚РёРІРµ ICANN</segment>
+		<segment id="106" parent="107" relname="span">СЃРїРёСЃРѕРє РёРјРµРЅ РїРµСЂРІРѕРіРѕ СѓСЂРѕРІРЅСЏ Р·РЅР°С‡РёС‚РµР»СЊРЅРѕ СЂР°СЃС€РёСЂРёС‚СЃСЏ.</segment>
+		<segment id="108" parent="110" relname="joint">Р’ С‚Рѕ Р¶Рµ РІСЂРµРјСЏ, Р±РµСЃС‚РѕС‡РµС‡РЅС‹Рµ РґРѕРјРµРЅС‹ РїРѕРєР° РЅРµ РєР»Р°СЃСЃРёС„РёС†РёСЂСѓСЋС‚СЃСЏ ICANN</segment>
+		<segment id="109" parent="110" relname="joint">Рё РЅРµ СЂР°СЃСЃРјР°С‚СЂРёРІР°СЋС‚СЃСЏ РµР№ РґР»СЏ РјР°СЃСЃРѕРІРѕРіРѕ РїРѕР»СЊР·РѕРІР°РЅРёСЏ.\n \n</segment>
 		<group id="48" type="span" parent="115" relname="preparation"/>
 		<group id="44" type="span" parent="48" relname="span"/>
 		<group id="43" type="span" parent="44" relname="span"/>

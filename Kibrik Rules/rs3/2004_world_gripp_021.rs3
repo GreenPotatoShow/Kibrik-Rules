@@ -17,25 +17,25 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="20" parent="22" relname="span">В Сингапуре отстреливают ворон,</segment>
-		<segment id="21" parent="20" relname="cause-effect">опасаясь \"птичьего гриппа\"\n\nСингапур приступил к массовому уничтожению ворон,</segment>
-		<segment id="23" parent="22" relname="cause-effect">опасаясь, что они могут быть переносчиками \"птичьего гриппа\",</segment>
-		<segment id="25" parent="24" relname="attribution">сообщает ИТАР-ТАСС.</segment>
-		<segment id="27" parent="34" relname="concession">Хотя таких случаев не зафиксировано,</segment>
-		<segment id="28" parent="34" relname="span">там активизируется их ликвидация.\n\nСингапур,</segment>
-		<segment id="29" parent="33" relname="joint">где чистоплотность фактически является государственной идеологией</segment>
-		<segment id="30" parent="31" relname="cause-effect">и за плевок на улице можно угодить в полицию,</segment>
-		<segment id="31" parent="32" relname="span">ведет с воронами войну уже много лет.</segment>
-		<segment id="36" parent="40" relname="span">Она то утихает,</segment>
-		<segment id="37" parent="39" relname="span">то разгорается с новой силой,</segment>
-		<segment id="38" parent="37" relname="condition">особенно, когда возникает угроза проникновения какой-нибудь инфекции.</segment>
-		<segment id="41" parent="43" relname="span">Предыдущий раз этим птицам не повезло</segment>
-		<segment id="42" parent="41" relname="cause-effect">из-за вспышки атипичной пневмонии весной 2003 года.\n\</segment>
-		<segment id="44" parent="43" relname="purpose">nДля расправы с пернатыми загрязнителями привлекаются снайперы из местных секций по стрельбе.</segment>
-		<segment id="46" parent="51" relname="attribution">По данным агентства,</segment>
-		<segment id="47" parent="51" relname="comparison">в течение последних трех лет в городе-государстве было убито порядка 90 тыс. ворон,</segment>
-		<segment id="48" parent="50" relname="contrast">теперь их осталось менее 30 тысяч.\n\n\"Птичьего гриппа\" в Сингапуре пока нет,</segment>
-		<segment id="49" parent="50" relname="contrast">но на случай появления вируса у правительства уже разработан план экстренной ликвидации свыше 2 млн кур на семи имеющихся в стране птицефермах.\n\nИсточник: https://www.newsru.com/world/29Jan2004/gripp.html\n</segment>
+		<segment id="20" parent="22" relname="span">Р’ РЎРёРЅРіР°РїСѓСЂРµ РѕС‚СЃС‚СЂРµР»РёРІР°СЋС‚ РІРѕСЂРѕРЅ,</segment>
+		<segment id="21" parent="20" relname="cause-effect">РѕРїР°СЃР°СЏСЃСЊ \"РїС‚РёС‡СЊРµРіРѕ РіСЂРёРїРїР°\"\n\nРЎРёРЅРіР°РїСѓСЂ РїСЂРёСЃС‚СѓРїРёР» Рє РјР°СЃСЃРѕРІРѕРјСѓ СѓРЅРёС‡С‚РѕР¶РµРЅРёСЋ РІРѕСЂРѕРЅ,</segment>
+		<segment id="23" parent="22" relname="cause-effect">РѕРїР°СЃР°СЏСЃСЊ, С‡С‚Рѕ РѕРЅРё РјРѕРіСѓС‚ Р±С‹С‚СЊ РїРµСЂРµРЅРѕСЃС‡РёРєР°РјРё \"РїС‚РёС‡СЊРµРіРѕ РіСЂРёРїРїР°\",</segment>
+		<segment id="25" parent="24" relname="attribution">СЃРѕРѕР±С‰Р°РµС‚ РРўРђР -РўРђРЎРЎ.</segment>
+		<segment id="27" parent="34" relname="concession">РҐРѕС‚СЏ С‚Р°РєРёС… СЃР»СѓС‡Р°РµРІ РЅРµ Р·Р°С„РёРєСЃРёСЂРѕРІР°РЅРѕ,</segment>
+		<segment id="28" parent="34" relname="span">С‚Р°Рј Р°РєС‚РёРІРёР·РёСЂСѓРµС‚СЃСЏ РёС… Р»РёРєРІРёРґР°С†РёСЏ.\n\nРЎРёРЅРіР°РїСѓСЂ,</segment>
+		<segment id="29" parent="33" relname="joint">РіРґРµ С‡РёСЃС‚РѕРїР»РѕС‚РЅРѕСЃС‚СЊ С„Р°РєС‚РёС‡РµСЃРєРё СЏРІР»СЏРµС‚СЃСЏ РіРѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅРѕР№ РёРґРµРѕР»РѕРіРёРµР№</segment>
+		<segment id="30" parent="31" relname="cause-effect">Рё Р·Р° РїР»РµРІРѕРє РЅР° СѓР»РёС†Рµ РјРѕР¶РЅРѕ СѓРіРѕРґРёС‚СЊ РІ РїРѕР»РёС†РёСЋ,</segment>
+		<segment id="31" parent="32" relname="span">РІРµРґРµС‚ СЃ РІРѕСЂРѕРЅР°РјРё РІРѕР№РЅСѓ СѓР¶Рµ РјРЅРѕРіРѕ Р»РµС‚.</segment>
+		<segment id="36" parent="40" relname="span">РћРЅР° С‚Рѕ СѓС‚РёС…Р°РµС‚,</segment>
+		<segment id="37" parent="39" relname="span">С‚Рѕ СЂР°Р·РіРѕСЂР°РµС‚СЃСЏ СЃ РЅРѕРІРѕР№ СЃРёР»РѕР№,</segment>
+		<segment id="38" parent="37" relname="condition">РѕСЃРѕР±РµРЅРЅРѕ, РєРѕРіРґР° РІРѕР·РЅРёРєР°РµС‚ СѓРіСЂРѕР·Р° РїСЂРѕРЅРёРєРЅРѕРІРµРЅРёСЏ РєР°РєРѕР№-РЅРёР±СѓРґСЊ РёРЅС„РµРєС†РёРё.</segment>
+		<segment id="41" parent="43" relname="span">РџСЂРµРґС‹РґСѓС‰РёР№ СЂР°Р· СЌС‚РёРј РїС‚РёС†Р°Рј РЅРµ РїРѕРІРµР·Р»Рѕ</segment>
+		<segment id="42" parent="41" relname="cause-effect">РёР·-Р·Р° РІСЃРїС‹С€РєРё Р°С‚РёРїРёС‡РЅРѕР№ РїРЅРµРІРјРѕРЅРёРё РІРµСЃРЅРѕР№ 2003 РіРѕРґР°.\n\</segment>
+		<segment id="44" parent="43" relname="purpose">nР”Р»СЏ СЂР°СЃРїСЂР°РІС‹ СЃ РїРµСЂРЅР°С‚С‹РјРё Р·Р°РіСЂСЏР·РЅРёС‚РµР»СЏРјРё РїСЂРёРІР»РµРєР°СЋС‚СЃСЏ СЃРЅР°Р№РїРµСЂС‹ РёР· РјРµСЃС‚РЅС‹С… СЃРµРєС†РёР№ РїРѕ СЃС‚СЂРµР»СЊР±Рµ.</segment>
+		<segment id="46" parent="51" relname="attribution">РџРѕ РґР°РЅРЅС‹Рј Р°РіРµРЅС‚СЃС‚РІР°,</segment>
+		<segment id="47" parent="51" relname="comparison">РІ С‚РµС‡РµРЅРёРµ РїРѕСЃР»РµРґРЅРёС… С‚СЂРµС… Р»РµС‚ РІ РіРѕСЂРѕРґРµ-РіРѕСЃСѓРґР°СЂСЃС‚РІРµ Р±С‹Р»Рѕ СѓР±РёС‚Рѕ РїРѕСЂСЏРґРєР° 90 С‚С‹СЃ. РІРѕСЂРѕРЅ,</segment>
+		<segment id="48" parent="50" relname="contrast">С‚РµРїРµСЂСЊ РёС… РѕСЃС‚Р°Р»РѕСЃСЊ РјРµРЅРµРµ 30 С‚С‹СЃСЏС‡.\n\n\"РџС‚РёС‡СЊРµРіРѕ РіСЂРёРїРїР°\" РІ РЎРёРЅРіР°РїСѓСЂРµ РїРѕРєР° РЅРµС‚,</segment>
+		<segment id="49" parent="50" relname="contrast">РЅРѕ РЅР° СЃР»СѓС‡Р°Р№ РїРѕСЏРІР»РµРЅРёСЏ РІРёСЂСѓСЃР° Сѓ РїСЂР°РІРёС‚РµР»СЊСЃС‚РІР° СѓР¶Рµ СЂР°Р·СЂР°Р±РѕС‚Р°РЅ РїР»Р°РЅ СЌРєСЃС‚СЂРµРЅРЅРѕР№ Р»РёРєРІРёРґР°С†РёРё СЃРІС‹С€Рµ 2 РјР»РЅ РєСѓСЂ РЅР° СЃРµРјРё РёРјРµСЋС‰РёС…СЃСЏ РІ СЃС‚СЂР°РЅРµ РїС‚РёС†РµС„РµСЂРјР°С….\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/29Jan2004/gripp.html\n</segment>
 		<group id="26" type="span" parent="56" relname="span"/>
 		<group id="24" type="span" parent="26" relname="span"/>
 		<group id="22" type="span" parent="24" relname="span"/>

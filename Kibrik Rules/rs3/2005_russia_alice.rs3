@@ -14,40 +14,40 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="35" parent="39" relname="joint">В Петербурге сгорел складской терминал,</segment>
-		<segment id="36" parent="38" relname="joint">пострадали трое пожарных,</segment>
-		<segment id="37" parent="38" relname="joint">еще один пропал\n\</segment>
-		<segment id="40" parent="42" relname="span">nВ Санкт-Петербурге во вторник вечером загорелся склад фирмы \"Элис\",</segment>
-		<segment id="41" parent="40" relname="elaboration">расположенный в промышленной зоне \"Парнас\" на северной окраине города.\n\</segment>
-		<segment id="43" parent="45" relname="span">nПри тушении пожара,</segment>
-		<segment id="44" parent="43" relname="elaboration">которому был присвоен пятый,</segment>
-		<segment id="46" parent="52" relname="span">наивысший уровень сложности,</segment>
-		<segment id="47" parent="51" relname="joint">пострадали трое пожарных,</segment>
-		<segment id="48" parent="50" relname="joint">двое из которых госпитализированы,</segment>
-		<segment id="49" parent="50" relname="joint">один от госпитализации отказался.</segment>
-		<segment id="55" parent="57" relname="span">Ведутся поиски еще одного пожарного,</segment>
-		<segment id="56" parent="55" relname="attribution">сообщили \"Интерфаксу\" в управлении МЧС по Санкт-Петербургу.</segment>
-		<segment id="58" parent="59" relname="joint">\"Сейчас ведутся поиски пропавшего при тушении пожарного\",</segment>
-		<segment id="60" parent="59" relname="attribution">- сказал представитель МЧС.</segment>
-		<segment id="63" parent="70" relname="attribution">По информации \"Интерфакса\",</segment>
-		<segment id="64" parent="65" relname="condition">во время тушения пропал один пожарный из 34-й пожарной части Санкт-Петербурга.\n\n\"Сообщение о пожаре на складе фирмы \"Элис\",</segment>
-		<segment id="65" parent="66" relname="span">где, в частности, хранятся ковровые покрытия,</segment>
-		<segment id="67" parent="69" relname="sequence">поступил в 20:04 по московскому времени,</segment>
-		<segment id="68" parent="69" relname="sequence">в 20:58 пожару присвоен наивысший уровень сложности.</segment>
-		<segment id="72" parent="73" relname="cause-effect">Загорелся склад размером 20 на 30 метров,</segment>
-		<segment id="73" parent="74" relname="span">произошло обрушение перекрытий.</segment>
-		<segment id="75" parent="74" relname="elaboration">По предварительным данным, пожарные могли пострадать во время обрушения перекрытий\",</segment>
-		<segment id="77" parent="76" relname="attribution">- отметили в управлении МЧС.\n\nПозднее площадь пожара многократно увеличилась.</segment>
-		<segment id="79" parent="83" relname="sequence">\"Площадь пожара увеличилась до 2,5 тыс. квадратных метров.</segment>
-		<segment id="80" parent="82" relname="span">Огонь распространился на другие складские помещения, находящиеся под одной крышей с помещением, где расположен очаг\", - сообщили \"Интерфаксу\" в управлении МЧС по Петербургу.\n\nВ тушении пожара принимали участие 30 пожарных расчетов.</segment>
-		<segment id="81" parent="80" relname="elaboration">Пожар удалось локализовать только около 01:00 среды.</segment>
-		<segment id="84" parent="83" relname="attribution">Об этом \"Интерфаксу\" сообщили в главном управлении МЧС по Санкт-Петербургу.</segment>
-		<segment id="86" parent="90" relname="span">В настоящее время продолжается проливка обрушившегося в результате пожара здания.\n\</segment>
-		<segment id="87" parent="88" relname="cause-effect">nПо информации представителя МЧС,</segment>
-		<segment id="88" parent="89" relname="span">в результате пожара выгорело порядка 6 тыс. квадратных метров площади.</segment>
-		<segment id="91" parent="93" relname="span">По предварительным данным,</segment>
-		<segment id="92" parent="91" relname="cause-effect">причиной пожара стал поджог.</segment>
-		<segment id="94" parent="93" relname="elaboration">Личность владельца сгоревшего ангара пока не установлена.\n\nИсточник: https://www.newsru.com/russia/21Jun2005/alice.html\n</segment>
+		<segment id="35" parent="39" relname="joint">Р’ РџРµС‚РµСЂР±СѓСЂРіРµ СЃРіРѕСЂРµР» СЃРєР»Р°РґСЃРєРѕР№ С‚РµСЂРјРёРЅР°Р»,</segment>
+		<segment id="36" parent="38" relname="joint">РїРѕСЃС‚СЂР°РґР°Р»Рё С‚СЂРѕРµ РїРѕР¶Р°СЂРЅС‹С…,</segment>
+		<segment id="37" parent="38" relname="joint">РµС‰Рµ РѕРґРёРЅ РїСЂРѕРїР°Р»\n\</segment>
+		<segment id="40" parent="42" relname="span">nР’ РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРіРµ РІРѕ РІС‚РѕСЂРЅРёРє РІРµС‡РµСЂРѕРј Р·Р°РіРѕСЂРµР»СЃСЏ СЃРєР»Р°Рґ С„РёСЂРјС‹ \"Р­Р»РёСЃ\",</segment>
+		<segment id="41" parent="40" relname="elaboration">СЂР°СЃРїРѕР»РѕР¶РµРЅРЅС‹Р№ РІ РїСЂРѕРјС‹С€Р»РµРЅРЅРѕР№ Р·РѕРЅРµ \"РџР°СЂРЅР°СЃ\" РЅР° СЃРµРІРµСЂРЅРѕР№ РѕРєСЂР°РёРЅРµ РіРѕСЂРѕРґР°.\n\</segment>
+		<segment id="43" parent="45" relname="span">nРџСЂРё С‚СѓС€РµРЅРёРё РїРѕР¶Р°СЂР°,</segment>
+		<segment id="44" parent="43" relname="elaboration">РєРѕС‚РѕСЂРѕРјСѓ Р±С‹Р» РїСЂРёСЃРІРѕРµРЅ РїСЏС‚С‹Р№,</segment>
+		<segment id="46" parent="52" relname="span">РЅР°РёРІС‹СЃС€РёР№ СѓСЂРѕРІРµРЅСЊ СЃР»РѕР¶РЅРѕСЃС‚Рё,</segment>
+		<segment id="47" parent="51" relname="joint">РїРѕСЃС‚СЂР°РґР°Р»Рё С‚СЂРѕРµ РїРѕР¶Р°СЂРЅС‹С…,</segment>
+		<segment id="48" parent="50" relname="joint">РґРІРѕРµ РёР· РєРѕС‚РѕСЂС‹С… РіРѕСЃРїРёС‚Р°Р»РёР·РёСЂРѕРІР°РЅС‹,</segment>
+		<segment id="49" parent="50" relname="joint">РѕРґРёРЅ РѕС‚ РіРѕСЃРїРёС‚Р°Р»РёР·Р°С†РёРё РѕС‚РєР°Р·Р°Р»СЃСЏ.</segment>
+		<segment id="55" parent="57" relname="span">Р’РµРґСѓС‚СЃСЏ РїРѕРёСЃРєРё РµС‰Рµ РѕРґРЅРѕРіРѕ РїРѕР¶Р°СЂРЅРѕРіРѕ,</segment>
+		<segment id="56" parent="55" relname="attribution">СЃРѕРѕР±С‰РёР»Рё \"РРЅС‚РµСЂС„Р°РєСЃСѓ\" РІ СѓРїСЂР°РІР»РµРЅРёРё РњР§РЎ РїРѕ РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРіСѓ.</segment>
+		<segment id="58" parent="59" relname="joint">\"РЎРµР№С‡Р°СЃ РІРµРґСѓС‚СЃСЏ РїРѕРёСЃРєРё РїСЂРѕРїР°РІС€РµРіРѕ РїСЂРё С‚СѓС€РµРЅРёРё РїРѕР¶Р°СЂРЅРѕРіРѕ\",</segment>
+		<segment id="60" parent="59" relname="attribution">- СЃРєР°Р·Р°Р» РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊ РњР§РЎ.</segment>
+		<segment id="63" parent="70" relname="attribution">РџРѕ РёРЅС„РѕСЂРјР°С†РёРё \"РРЅС‚РµСЂС„Р°РєСЃР°\",</segment>
+		<segment id="64" parent="65" relname="condition">РІРѕ РІСЂРµРјСЏ С‚СѓС€РµРЅРёСЏ РїСЂРѕРїР°Р» РѕРґРёРЅ РїРѕР¶Р°СЂРЅС‹Р№ РёР· 34-Р№ РїРѕР¶Р°СЂРЅРѕР№ С‡Р°СЃС‚Рё РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРіР°.\n\n\"РЎРѕРѕР±С‰РµРЅРёРµ Рѕ РїРѕР¶Р°СЂРµ РЅР° СЃРєР»Р°РґРµ С„РёСЂРјС‹ \"Р­Р»РёСЃ\",</segment>
+		<segment id="65" parent="66" relname="span">РіРґРµ, РІ С‡Р°СЃС‚РЅРѕСЃС‚Рё, С…СЂР°РЅСЏС‚СЃСЏ РєРѕРІСЂРѕРІС‹Рµ РїРѕРєСЂС‹С‚РёСЏ,</segment>
+		<segment id="67" parent="69" relname="sequence">РїРѕСЃС‚СѓРїРёР» РІ 20:04 РїРѕ РјРѕСЃРєРѕРІСЃРєРѕРјСѓ РІСЂРµРјРµРЅРё,</segment>
+		<segment id="68" parent="69" relname="sequence">РІ 20:58 РїРѕР¶Р°СЂСѓ РїСЂРёСЃРІРѕРµРЅ РЅР°РёРІС‹СЃС€РёР№ СѓСЂРѕРІРµРЅСЊ СЃР»РѕР¶РЅРѕСЃС‚Рё.</segment>
+		<segment id="72" parent="73" relname="cause-effect">Р—Р°РіРѕСЂРµР»СЃСЏ СЃРєР»Р°Рґ СЂР°Р·РјРµСЂРѕРј 20 РЅР° 30 РјРµС‚СЂРѕРІ,</segment>
+		<segment id="73" parent="74" relname="span">РїСЂРѕРёР·РѕС€Р»Рѕ РѕР±СЂСѓС€РµРЅРёРµ РїРµСЂРµРєСЂС‹С‚РёР№.</segment>
+		<segment id="75" parent="74" relname="elaboration">РџРѕ РїСЂРµРґРІР°СЂРёС‚РµР»СЊРЅС‹Рј РґР°РЅРЅС‹Рј, РїРѕР¶Р°СЂРЅС‹Рµ РјРѕРіР»Рё РїРѕСЃС‚СЂР°РґР°С‚СЊ РІРѕ РІСЂРµРјСЏ РѕР±СЂСѓС€РµРЅРёСЏ РїРµСЂРµРєСЂС‹С‚РёР№\",</segment>
+		<segment id="77" parent="76" relname="attribution">- РѕС‚РјРµС‚РёР»Рё РІ СѓРїСЂР°РІР»РµРЅРёРё РњР§РЎ.\n\nРџРѕР·РґРЅРµРµ РїР»РѕС‰Р°РґСЊ РїРѕР¶Р°СЂР° РјРЅРѕРіРѕРєСЂР°С‚РЅРѕ СѓРІРµР»РёС‡РёР»Р°СЃСЊ.</segment>
+		<segment id="79" parent="83" relname="sequence">\"РџР»РѕС‰Р°РґСЊ РїРѕР¶Р°СЂР° СѓРІРµР»РёС‡РёР»Р°СЃСЊ РґРѕ 2,5 С‚С‹СЃ. РєРІР°РґСЂР°С‚РЅС‹С… РјРµС‚СЂРѕРІ.</segment>
+		<segment id="80" parent="82" relname="span">РћРіРѕРЅСЊ СЂР°СЃРїСЂРѕСЃС‚СЂР°РЅРёР»СЃСЏ РЅР° РґСЂСѓРіРёРµ СЃРєР»Р°РґСЃРєРёРµ РїРѕРјРµС‰РµРЅРёСЏ, РЅР°С…РѕРґСЏС‰РёРµСЃСЏ РїРѕРґ РѕРґРЅРѕР№ РєСЂС‹С€РµР№ СЃ РїРѕРјРµС‰РµРЅРёРµРј, РіРґРµ СЂР°СЃРїРѕР»РѕР¶РµРЅ РѕС‡Р°Рі\", - СЃРѕРѕР±С‰РёР»Рё \"РРЅС‚РµСЂС„Р°РєСЃСѓ\" РІ СѓРїСЂР°РІР»РµРЅРёРё РњР§РЎ РїРѕ РџРµС‚РµСЂР±СѓСЂРіСѓ.\n\nР’ С‚СѓС€РµРЅРёРё РїРѕР¶Р°СЂР° РїСЂРёРЅРёРјР°Р»Рё СѓС‡Р°СЃС‚РёРµ 30 РїРѕР¶Р°СЂРЅС‹С… СЂР°СЃС‡РµС‚РѕРІ.</segment>
+		<segment id="81" parent="80" relname="elaboration">РџРѕР¶Р°СЂ СѓРґР°Р»РѕСЃСЊ Р»РѕРєР°Р»РёР·РѕРІР°С‚СЊ С‚РѕР»СЊРєРѕ РѕРєРѕР»Рѕ 01:00 СЃСЂРµРґС‹.</segment>
+		<segment id="84" parent="83" relname="attribution">РћР± СЌС‚РѕРј \"РРЅС‚РµСЂС„Р°РєСЃСѓ\" СЃРѕРѕР±С‰РёР»Рё РІ РіР»Р°РІРЅРѕРј СѓРїСЂР°РІР»РµРЅРёРё РњР§РЎ РїРѕ РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРіСѓ.</segment>
+		<segment id="86" parent="90" relname="span">Р’ РЅР°СЃС‚РѕСЏС‰РµРµ РІСЂРµРјСЏ РїСЂРѕРґРѕР»Р¶Р°РµС‚СЃСЏ РїСЂРѕР»РёРІРєР° РѕР±СЂСѓС€РёРІС€РµРіРѕСЃСЏ РІ СЂРµР·СѓР»СЊС‚Р°С‚Рµ РїРѕР¶Р°СЂР° Р·РґР°РЅРёСЏ.\n\</segment>
+		<segment id="87" parent="88" relname="cause-effect">nРџРѕ РёРЅС„РѕСЂРјР°С†РёРё РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЏ РњР§РЎ,</segment>
+		<segment id="88" parent="89" relname="span">РІ СЂРµР·СѓР»СЊС‚Р°С‚Рµ РїРѕР¶Р°СЂР° РІС‹РіРѕСЂРµР»Рѕ РїРѕСЂСЏРґРєР° 6 С‚С‹СЃ. РєРІР°РґСЂР°С‚РЅС‹С… РјРµС‚СЂРѕРІ РїР»РѕС‰Р°РґРё.</segment>
+		<segment id="91" parent="93" relname="span">РџРѕ РїСЂРµРґРІР°СЂРёС‚РµР»СЊРЅС‹Рј РґР°РЅРЅС‹Рј,</segment>
+		<segment id="92" parent="91" relname="cause-effect">РїСЂРёС‡РёРЅРѕР№ РїРѕР¶Р°СЂР° СЃС‚Р°Р» РїРѕРґР¶РѕРі.</segment>
+		<segment id="94" parent="93" relname="elaboration">Р›РёС‡РЅРѕСЃС‚СЊ РІР»Р°РґРµР»СЊС†Р° СЃРіРѕСЂРµРІС€РµРіРѕ Р°РЅРіР°СЂР° РїРѕРєР° РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅР°.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/21Jun2005/alice.html\n</segment>
 		<group id="39" type="multinuc" parent="100" relname="preparation"/>
 		<group id="38" type="multinuc" parent="39" relname="joint"/>
 		<group id="100" type="multinuc" parent="101" relname="span"/>

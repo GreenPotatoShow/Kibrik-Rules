@@ -16,35 +16,35 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="30" parent="32" relname="span">Депутат Госдумы Оксана Пушкина заразилась коронавирусом\n\nДепутат Государственной думы от партии \"Единая Россия\" Оксана Пушкина заразилась новым типом коронавируса.</segment>
-		<segment id="31" parent="30" relname="attribution">Об этом она сообщила в своем телеграм-канале.\n\n</segment>
-		<segment id="33" parent="37" relname="span">\"Сегодня на пленарке Вячеслав Володин сообщил о двух новых заболевших коронавирусом депутатах.</segment>
-		<segment id="34" parent="36" relname="span">Раскрою половину интриги</segment>
-		<segment id="35" parent="34" relname="cause-effect">- я одна из этих депутатов\",</segment>
-		<segment id="38" parent="42" relname="sequence">- рассказала Пушкина.\n\nВ последний месяц депутат,</segment>
-		<segment id="39" parent="40" relname="attribution">по ее словам,</segment>
-		<segment id="40" parent="41" relname="span">активно \"волонтерила на передовой\":</segment>
-		<segment id="43" parent="45" relname="joint">посещала больницы</segment>
-		<segment id="44" parent="45" relname="joint">и развозила средства индивидуальной защиты для врачей в рамках проекта \"Мы вместе\", запущенного Общероссийским народным фронтом,</segment>
-		<segment id="46" parent="45" relname="attribution">созданным по инициативе Владимира Путина.</segment>
-		<segment id="50" parent="52" relname="contrast">\"Масочный режим прилежно соблюдала,</segment>
-		<segment id="51" parent="52" relname="contrast">но вирус все-таки подцепила\",</segment>
-		<segment id="53" parent="52" relname="attribution">- сказала Оксана Пушкина.\n\</segment>
-		<segment id="55" parent="60" relname="attribution">nПо словам депутата,</segment>
-		<segment id="56" parent="60" relname="joint">она переносит COVID-19 бессимптомно,</segment>
-		<segment id="57" parent="59" relname="joint">изменения в легких минимальны,</segment>
-		<segment id="58" parent="59" relname="joint">температуры нет.</segment>
-		<segment id="62" parent="63" relname="condition">\"Если бы не тест</segment>
-		<segment id="63" parent="64" relname="span">- никогда бы не подумала, что болею.</segment>
-		<segment id="65" parent="67" relname="span">Поэтому надеюсь уже совсем скоро вернуться в строй</segment>
-		<segment id="66" parent="65" relname="cause-effect">- закон о профилактике домашнего насилия сам себя не примет\",</segment>
-		<segment id="69" parent="70" relname="attribution">- добавила она.\n\nРанее в среду председатель Госдумы Вячеслав Володин рассказал</segment>
-		<segment id="70" parent="71" relname="span">о пяти депутатах с подтвержденным COVID-19.</segment>
-		<segment id="73" parent="81" relname="sequence">С диагнозом были госпитализированы парламентарии от КПРФ Леонид Калашников и Дмитрий Новиков, а также депутат \"Единой России\" Светлана Максимова.</segment>
-		<segment id="74" parent="80" relname="sequence">Еще два депутата проходят лечение на дому.</segment>
-		<segment id="75" parent="79" relname="span">Калашников позднее выписался из больницы</segment>
-		<segment id="76" parent="77" relname="condition">при условии дальнейшего соблюдения самоизоляции в течение двух недель,</segment>
-		<segment id="77" parent="78" relname="span">передает РИА \"Новости\".\n\nИсточник: https://www.newsru.com/russia/13May2020/pushkina.html\n</segment>
+		<segment id="30" parent="32" relname="span">Р”РµРїСѓС‚Р°С‚ Р“РѕСЃРґСѓРјС‹ РћРєСЃР°РЅР° РџСѓС€РєРёРЅР° Р·Р°СЂР°Р·РёР»Р°СЃСЊ РєРѕСЂРѕРЅР°РІРёСЂСѓСЃРѕРј\n\nР”РµРїСѓС‚Р°С‚ Р“РѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅРѕР№ РґСѓРјС‹ РѕС‚ РїР°СЂС‚РёРё \"Р•РґРёРЅР°СЏ Р РѕСЃСЃРёСЏ\" РћРєСЃР°РЅР° РџСѓС€РєРёРЅР° Р·Р°СЂР°Р·РёР»Р°СЃСЊ РЅРѕРІС‹Рј С‚РёРїРѕРј РєРѕСЂРѕРЅР°РІРёСЂСѓСЃР°.</segment>
+		<segment id="31" parent="30" relname="attribution">РћР± СЌС‚РѕРј РѕРЅР° СЃРѕРѕР±С‰РёР»Р° РІ СЃРІРѕРµРј С‚РµР»РµРіСЂР°Рј-РєР°РЅР°Р»Рµ.\n\n</segment>
+		<segment id="33" parent="37" relname="span">\"РЎРµРіРѕРґРЅСЏ РЅР° РїР»РµРЅР°СЂРєРµ Р’СЏС‡РµСЃР»Р°РІ Р’РѕР»РѕРґРёРЅ СЃРѕРѕР±С‰РёР» Рѕ РґРІСѓС… РЅРѕРІС‹С… Р·Р°Р±РѕР»РµРІС€РёС… РєРѕСЂРѕРЅР°РІРёСЂСѓСЃРѕРј РґРµРїСѓС‚Р°С‚Р°С….</segment>
+		<segment id="34" parent="36" relname="span">Р Р°СЃРєСЂРѕСЋ РїРѕР»РѕРІРёРЅСѓ РёРЅС‚СЂРёРіРё</segment>
+		<segment id="35" parent="34" relname="cause-effect">- СЏ РѕРґРЅР° РёР· СЌС‚РёС… РґРµРїСѓС‚Р°С‚РѕРІ\",</segment>
+		<segment id="38" parent="42" relname="sequence">- СЂР°СЃСЃРєР°Р·Р°Р»Р° РџСѓС€РєРёРЅР°.\n\nР’ РїРѕСЃР»РµРґРЅРёР№ РјРµСЃСЏС† РґРµРїСѓС‚Р°С‚,</segment>
+		<segment id="39" parent="40" relname="attribution">РїРѕ РµРµ СЃР»РѕРІР°Рј,</segment>
+		<segment id="40" parent="41" relname="span">Р°РєС‚РёРІРЅРѕ \"РІРѕР»РѕРЅС‚РµСЂРёР»Р° РЅР° РїРµСЂРµРґРѕРІРѕР№\":</segment>
+		<segment id="43" parent="45" relname="joint">РїРѕСЃРµС‰Р°Р»Р° Р±РѕР»СЊРЅРёС†С‹</segment>
+		<segment id="44" parent="45" relname="joint">Рё СЂР°Р·РІРѕР·РёР»Р° СЃСЂРµРґСЃС‚РІР° РёРЅРґРёРІРёРґСѓР°Р»СЊРЅРѕР№ Р·Р°С‰РёС‚С‹ РґР»СЏ РІСЂР°С‡РµР№ РІ СЂР°РјРєР°С… РїСЂРѕРµРєС‚Р° \"РњС‹ РІРјРµСЃС‚Рµ\", Р·Р°РїСѓС‰РµРЅРЅРѕРіРѕ РћР±С‰РµСЂРѕСЃСЃРёР№СЃРєРёРј РЅР°СЂРѕРґРЅС‹Рј С„СЂРѕРЅС‚РѕРј,</segment>
+		<segment id="46" parent="45" relname="attribution">СЃРѕР·РґР°РЅРЅС‹Рј РїРѕ РёРЅРёС†РёР°С‚РёРІРµ Р’Р»Р°РґРёРјРёСЂР° РџСѓС‚РёРЅР°.</segment>
+		<segment id="50" parent="52" relname="contrast">\"РњР°СЃРѕС‡РЅС‹Р№ СЂРµР¶РёРј РїСЂРёР»РµР¶РЅРѕ СЃРѕР±Р»СЋРґР°Р»Р°,</segment>
+		<segment id="51" parent="52" relname="contrast">РЅРѕ РІРёСЂСѓСЃ РІСЃРµ-С‚Р°РєРё РїРѕРґС†РµРїРёР»Р°\",</segment>
+		<segment id="53" parent="52" relname="attribution">- СЃРєР°Р·Р°Р»Р° РћРєСЃР°РЅР° РџСѓС€РєРёРЅР°.\n\</segment>
+		<segment id="55" parent="60" relname="attribution">nРџРѕ СЃР»РѕРІР°Рј РґРµРїСѓС‚Р°С‚Р°,</segment>
+		<segment id="56" parent="60" relname="joint">РѕРЅР° РїРµСЂРµРЅРѕСЃРёС‚ COVID-19 Р±РµСЃСЃРёРјРїС‚РѕРјРЅРѕ,</segment>
+		<segment id="57" parent="59" relname="joint">РёР·РјРµРЅРµРЅРёСЏ РІ Р»РµРіРєРёС… РјРёРЅРёРјР°Р»СЊРЅС‹,</segment>
+		<segment id="58" parent="59" relname="joint">С‚РµРјРїРµСЂР°С‚СѓСЂС‹ РЅРµС‚.</segment>
+		<segment id="62" parent="63" relname="condition">\"Р•СЃР»Рё Р±С‹ РЅРµ С‚РµСЃС‚</segment>
+		<segment id="63" parent="64" relname="span">- РЅРёРєРѕРіРґР° Р±С‹ РЅРµ РїРѕРґСѓРјР°Р»Р°, С‡С‚Рѕ Р±РѕР»РµСЋ.</segment>
+		<segment id="65" parent="67" relname="span">РџРѕСЌС‚РѕРјСѓ РЅР°РґРµСЋСЃСЊ СѓР¶Рµ СЃРѕРІСЃРµРј СЃРєРѕСЂРѕ РІРµСЂРЅСѓС‚СЊСЃСЏ РІ СЃС‚СЂРѕР№</segment>
+		<segment id="66" parent="65" relname="cause-effect">- Р·Р°РєРѕРЅ Рѕ РїСЂРѕС„РёР»Р°РєС‚РёРєРµ РґРѕРјР°С€РЅРµРіРѕ РЅР°СЃРёР»РёСЏ СЃР°Рј СЃРµР±СЏ РЅРµ РїСЂРёРјРµС‚\",</segment>
+		<segment id="69" parent="70" relname="attribution">- РґРѕР±Р°РІРёР»Р° РѕРЅР°.\n\nР Р°РЅРµРµ РІ СЃСЂРµРґСѓ РїСЂРµРґСЃРµРґР°С‚РµР»СЊ Р“РѕСЃРґСѓРјС‹ Р’СЏС‡РµСЃР»Р°РІ Р’РѕР»РѕРґРёРЅ СЂР°СЃСЃРєР°Р·Р°Р»</segment>
+		<segment id="70" parent="71" relname="span">Рѕ РїСЏС‚Рё РґРµРїСѓС‚Р°С‚Р°С… СЃ РїРѕРґС‚РІРµСЂР¶РґРµРЅРЅС‹Рј COVID-19.</segment>
+		<segment id="73" parent="81" relname="sequence">РЎ РґРёР°РіРЅРѕР·РѕРј Р±С‹Р»Рё РіРѕСЃРїРёС‚Р°Р»РёР·РёСЂРѕРІР°РЅС‹ РїР°СЂР»Р°РјРµРЅС‚Р°СЂРёРё РѕС‚ РљРџР Р¤ Р›РµРѕРЅРёРґ РљР°Р»Р°С€РЅРёРєРѕРІ Рё Р”РјРёС‚СЂРёР№ РќРѕРІРёРєРѕРІ, Р° С‚Р°РєР¶Рµ РґРµРїСѓС‚Р°С‚ \"Р•РґРёРЅРѕР№ Р РѕСЃСЃРёРё\" РЎРІРµС‚Р»Р°РЅР° РњР°РєСЃРёРјРѕРІР°.</segment>
+		<segment id="74" parent="80" relname="sequence">Р•С‰Рµ РґРІР° РґРµРїСѓС‚Р°С‚Р° РїСЂРѕС…РѕРґСЏС‚ Р»РµС‡РµРЅРёРµ РЅР° РґРѕРјСѓ.</segment>
+		<segment id="75" parent="79" relname="span">РљР°Р»Р°С€РЅРёРєРѕРІ РїРѕР·РґРЅРµРµ РІС‹РїРёСЃР°Р»СЃСЏ РёР· Р±РѕР»СЊРЅРёС†С‹</segment>
+		<segment id="76" parent="77" relname="condition">РїСЂРё СѓСЃР»РѕРІРёРё РґР°Р»СЊРЅРµР№С€РµРіРѕ СЃРѕР±Р»СЋРґРµРЅРёСЏ СЃР°РјРѕРёР·РѕР»СЏС†РёРё РІ С‚РµС‡РµРЅРёРµ РґРІСѓС… РЅРµРґРµР»СЊ,</segment>
+		<segment id="77" parent="78" relname="span">РїРµСЂРµРґР°РµС‚ Р РРђ \"РќРѕРІРѕСЃС‚Рё\".\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/13May2020/pushkina.html\n</segment>
 		<group id="32" type="span" parent="85" relname="preparation"/>
 		<group id="85" type="multinuc" parent="86" relname="span"/>
 		<group id="49" type="multinuc" parent="85" relname="joint"/>

@@ -18,27 +18,27 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="22" parent="24" relname="span">Крестьянин умер,</segment>
-		<segment id="23" parent="22" relname="condition">решив, что с переходом на евро потерял состояние\n\</segment>
-		<segment id="25" parent="27" relname="joint">nЕсли в Европе переход на единую валюту евро состоялся без заметных потрясений</segment>
-		<segment id="26" parent="27" relname="joint">и граждане ворчат лишь на рост цен,</segment>
-		<segment id="28" parent="30" relname="span">то для жителя далекой Гвинеи-Бисау это событие обернулось трагедией.\n\nКак передает РИА \"Новости\",</segment>
-		<segment id="29" parent="28" relname="attribution">грустную историю рассказали в субботу бельгийские СМИ.</segment>
-		<segment id="32" parent="34" relname="comparison">Пожилой крестьянин хранил сбережения не в банке,</segment>
-		<segment id="33" parent="34" relname="comparison">а как водится в Африке - в \"чулке\".</segment>
-		<segment id="35" parent="36" relname="joint">И не в национальной валюте, а во французских франках - 100 тыс. франков или в переводе - 15 тыс. 245 евро.</segment>
-		<segment id="37" parent="59" relname="span">Огромное состояние.\n\</segment>
-		<segment id="38" parent="42" relname="same-unit">nВ один прекрасный день,</segment>
-		<segment id="39" parent="40" relname="cause-effect">решив купить скотину и напитки,</segment>
-		<segment id="40" parent="41" relname="span">он обнаружил, что никто из торговцев не берет французские франки.</segment>
-		<segment id="43" parent="47" relname="span">А португальский коммерсант,</segment>
-		<segment id="44" parent="45" relname="attribution">к которому он пришел в конце концов, объяснил,</segment>
-		<segment id="45" parent="46" relname="span">что в Европе давно новые деньги,</segment>
-		<segment id="48" parent="50" relname="sequence">а его франки превратились в пустые бумажки.\n\nКрестьянина хватил удар,</segment>
-		<segment id="49" parent="50" relname="sequence">и скоро он умер.</segment>
-		<segment id="52" parent="56" relname="joint">Португалец либо не знал,</segment>
-		<segment id="53" parent="54" relname="attribution">либо просто не сказал бедняге,</segment>
-		<segment id="54" parent="55" relname="span">что в центральных банках стран ЕС можно поменять старую валюту на новую еще по меньшей мере десять лет.\n\nИсточник: https://www.newsru.com/world/28Dec2002/gk.html\n</segment>
+		<segment id="22" parent="24" relname="span">РљСЂРµСЃС‚СЊСЏРЅРёРЅ СѓРјРµСЂ,</segment>
+		<segment id="23" parent="22" relname="condition">СЂРµС€РёРІ, С‡С‚Рѕ СЃ РїРµСЂРµС…РѕРґРѕРј РЅР° РµРІСЂРѕ РїРѕС‚РµСЂСЏР» СЃРѕСЃС‚РѕСЏРЅРёРµ\n\</segment>
+		<segment id="25" parent="27" relname="joint">nР•СЃР»Рё РІ Р•РІСЂРѕРїРµ РїРµСЂРµС…РѕРґ РЅР° РµРґРёРЅСѓСЋ РІР°Р»СЋС‚Сѓ РµРІСЂРѕ СЃРѕСЃС‚РѕСЏР»СЃСЏ Р±РµР· Р·Р°РјРµС‚РЅС‹С… РїРѕС‚СЂСЏСЃРµРЅРёР№</segment>
+		<segment id="26" parent="27" relname="joint">Рё РіСЂР°Р¶РґР°РЅРµ РІРѕСЂС‡Р°С‚ Р»РёС€СЊ РЅР° СЂРѕСЃС‚ С†РµРЅ,</segment>
+		<segment id="28" parent="30" relname="span">С‚Рѕ РґР»СЏ Р¶РёС‚РµР»СЏ РґР°Р»РµРєРѕР№ Р“РІРёРЅРµРё-Р‘РёСЃР°Сѓ СЌС‚Рѕ СЃРѕР±С‹С‚РёРµ РѕР±РµСЂРЅСѓР»РѕСЃСЊ С‚СЂР°РіРµРґРёРµР№.\n\nРљР°Рє РїРµСЂРµРґР°РµС‚ Р РРђ \"РќРѕРІРѕСЃС‚Рё\",</segment>
+		<segment id="29" parent="28" relname="attribution">РіСЂСѓСЃС‚РЅСѓСЋ РёСЃС‚РѕСЂРёСЋ СЂР°СЃСЃРєР°Р·Р°Р»Рё РІ СЃСѓР±Р±РѕС‚Сѓ Р±РµР»СЊРіРёР№СЃРєРёРµ РЎРњР.</segment>
+		<segment id="32" parent="34" relname="comparison">РџРѕР¶РёР»РѕР№ РєСЂРµСЃС‚СЊСЏРЅРёРЅ С…СЂР°РЅРёР» СЃР±РµСЂРµР¶РµРЅРёСЏ РЅРµ РІ Р±Р°РЅРєРµ,</segment>
+		<segment id="33" parent="34" relname="comparison">Р° РєР°Рє РІРѕРґРёС‚СЃСЏ РІ РђС„СЂРёРєРµ - РІ \"С‡СѓР»РєРµ\".</segment>
+		<segment id="35" parent="36" relname="joint">Р РЅРµ РІ РЅР°С†РёРѕРЅР°Р»СЊРЅРѕР№ РІР°Р»СЋС‚Рµ, Р° РІРѕ С„СЂР°РЅС†СѓР·СЃРєРёС… С„СЂР°РЅРєР°С… - 100 С‚С‹СЃ. С„СЂР°РЅРєРѕРІ РёР»Рё РІ РїРµСЂРµРІРѕРґРµ - 15 С‚С‹СЃ. 245 РµРІСЂРѕ.</segment>
+		<segment id="37" parent="59" relname="span">РћРіСЂРѕРјРЅРѕРµ СЃРѕСЃС‚РѕСЏРЅРёРµ.\n\</segment>
+		<segment id="38" parent="42" relname="same-unit">nР’ РѕРґРёРЅ РїСЂРµРєСЂР°СЃРЅС‹Р№ РґРµРЅСЊ,</segment>
+		<segment id="39" parent="40" relname="cause-effect">СЂРµС€РёРІ РєСѓРїРёС‚СЊ СЃРєРѕС‚РёРЅСѓ Рё РЅР°РїРёС‚РєРё,</segment>
+		<segment id="40" parent="41" relname="span">РѕРЅ РѕР±РЅР°СЂСѓР¶РёР», С‡С‚Рѕ РЅРёРєС‚Рѕ РёР· С‚РѕСЂРіРѕРІС†РµРІ РЅРµ Р±РµСЂРµС‚ С„СЂР°РЅС†СѓР·СЃРєРёРµ С„СЂР°РЅРєРё.</segment>
+		<segment id="43" parent="47" relname="span">Рђ РїРѕСЂС‚СѓРіР°Р»СЊСЃРєРёР№ РєРѕРјРјРµСЂСЃР°РЅС‚,</segment>
+		<segment id="44" parent="45" relname="attribution">Рє РєРѕС‚РѕСЂРѕРјСѓ РѕРЅ РїСЂРёС€РµР» РІ РєРѕРЅС†Рµ РєРѕРЅС†РѕРІ, РѕР±СЉСЏСЃРЅРёР»,</segment>
+		<segment id="45" parent="46" relname="span">С‡С‚Рѕ РІ Р•РІСЂРѕРїРµ РґР°РІРЅРѕ РЅРѕРІС‹Рµ РґРµРЅСЊРіРё,</segment>
+		<segment id="48" parent="50" relname="sequence">Р° РµРіРѕ С„СЂР°РЅРєРё РїСЂРµРІСЂР°С‚РёР»РёСЃСЊ РІ РїСѓСЃС‚С‹Рµ Р±СѓРјР°Р¶РєРё.\n\nРљСЂРµСЃС‚СЊСЏРЅРёРЅР° С…РІР°С‚РёР» СѓРґР°СЂ,</segment>
+		<segment id="49" parent="50" relname="sequence">Рё СЃРєРѕСЂРѕ РѕРЅ СѓРјРµСЂ.</segment>
+		<segment id="52" parent="56" relname="joint">РџРѕСЂС‚СѓРіР°Р»РµС† Р»РёР±Рѕ РЅРµ Р·РЅР°Р»,</segment>
+		<segment id="53" parent="54" relname="attribution">Р»РёР±Рѕ РїСЂРѕСЃС‚Рѕ РЅРµ СЃРєР°Р·Р°Р» Р±РµРґРЅСЏРіРµ,</segment>
+		<segment id="54" parent="55" relname="span">С‡С‚Рѕ РІ С†РµРЅС‚СЂР°Р»СЊРЅС‹С… Р±Р°РЅРєР°С… СЃС‚СЂР°РЅ Р•РЎ РјРѕР¶РЅРѕ РїРѕРјРµРЅСЏС‚СЊ СЃС‚Р°СЂСѓСЋ РІР°Р»СЋС‚Сѓ РЅР° РЅРѕРІСѓСЋ РµС‰Рµ РїРѕ РјРµРЅСЊС€РµР№ РјРµСЂРµ РґРµСЃСЏС‚СЊ Р»РµС‚.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/28Dec2002/gk.html\n</segment>
 		<group id="24" type="span" parent="61" relname="preparation"/>
 		<group id="61" type="multinuc" parent="62" relname="span"/>
 		<group id="31" type="span" parent="61" relname="joint"/>

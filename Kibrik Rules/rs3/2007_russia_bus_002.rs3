@@ -11,27 +11,27 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="22" parent="32" relname="span">В Ростовской области перевернулся автобус:</segment>
-		<segment id="23" parent="25" relname="joint">один человек погиб,</segment>
-		<segment id="24" parent="25" relname="joint">21 ранен\n\nВ Ростовской области перевернулся рейсовый автобус,</segment>
-		<segment id="26" parent="28" relname="joint">один человек погиб,</segment>
-		<segment id="27" parent="28" relname="joint">21 ранен,</segment>
-		<segment id="29" parent="28" relname="attribution">сообщил сотрудник пресс-службы областного управления МЧС.</segment>
-		<segment id="33" parent="35" relname="span">\"Авария произошла в ночь на вторник в 25 километрах севернее города Каменска\",</segment>
-		<segment id="34" parent="33" relname="attribution">- сказал представитель МЧС.\n\</segment>
-		<segment id="37" parent="42" relname="attribution">nПо его словам,</segment>
-		<segment id="38" parent="42" relname="span">в автобусе находилось 50 человек, в том числе два водителя.</segment>
-		<segment id="39" parent="41" relname="span">Одна пассажирка погибла,</segment>
-		<segment id="40" parent="39" relname="attribution">сказал представитель МЧС.</segment>
-		<segment id="44" parent="56" relname="sequence">\"11 человек доставлены в центральную районную больницу в поселок Глубокий и десять человек - в больницу города Каменск-Шахтинский\",</segment>
-		<segment id="45" parent="48" relname="attribution">- добавил представитель пресс-службы.\n\nПо предварительным данным,</segment>
-		<segment id="46" parent="48" relname="joint">водитель превысил скорость,</segment>
-		<segment id="47" parent="48" relname="joint">не справился с управлением,</segment>
-		<segment id="50" parent="52" relname="span">в результате чего в 1:15 по московскому времени автобус опрокинулся,</segment>
-		<segment id="51" parent="50" relname="attribution">сказал сотрудник пресс-службы,</segment>
-		<segment id="53" parent="52" relname="attribution">передает РИА \"Новости\".\n\nАвтобус следовал по маршруту Ростов-на-Дону - Вешенская.</segment>
-		<segment id="57" parent="59" relname="joint">Тех пассажиров, которые не пострадали при аварии,</segment>
-		<segment id="58" parent="59" relname="joint">пересадили на другой автобус.\n\nИсточник: https://www.newsru.com/russia/04Sep2007/bus.html\n</segment>
+		<segment id="22" parent="32" relname="span">Р’ Р РѕСЃС‚РѕРІСЃРєРѕР№ РѕР±Р»Р°СЃС‚Рё РїРµСЂРµРІРµСЂРЅСѓР»СЃСЏ Р°РІС‚РѕР±СѓСЃ:</segment>
+		<segment id="23" parent="25" relname="joint">РѕРґРёРЅ С‡РµР»РѕРІРµРє РїРѕРіРёР±,</segment>
+		<segment id="24" parent="25" relname="joint">21 СЂР°РЅРµРЅ\n\nР’ Р РѕСЃС‚РѕРІСЃРєРѕР№ РѕР±Р»Р°СЃС‚Рё РїРµСЂРµРІРµСЂРЅСѓР»СЃСЏ СЂРµР№СЃРѕРІС‹Р№ Р°РІС‚РѕР±СѓСЃ,</segment>
+		<segment id="26" parent="28" relname="joint">РѕРґРёРЅ С‡РµР»РѕРІРµРє РїРѕРіРёР±,</segment>
+		<segment id="27" parent="28" relname="joint">21 СЂР°РЅРµРЅ,</segment>
+		<segment id="29" parent="28" relname="attribution">СЃРѕРѕР±С‰РёР» СЃРѕС‚СЂСѓРґРЅРёРє РїСЂРµСЃСЃ-СЃР»СѓР¶Р±С‹ РѕР±Р»Р°СЃС‚РЅРѕРіРѕ СѓРїСЂР°РІР»РµРЅРёСЏ РњР§РЎ.</segment>
+		<segment id="33" parent="35" relname="span">\"РђРІР°СЂРёСЏ РїСЂРѕРёР·РѕС€Р»Р° РІ РЅРѕС‡СЊ РЅР° РІС‚РѕСЂРЅРёРє РІ 25 РєРёР»РѕРјРµС‚СЂР°С… СЃРµРІРµСЂРЅРµРµ РіРѕСЂРѕРґР° РљР°РјРµРЅСЃРєР°\",</segment>
+		<segment id="34" parent="33" relname="attribution">- СЃРєР°Р·Р°Р» РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊ РњР§РЎ.\n\</segment>
+		<segment id="37" parent="42" relname="attribution">nРџРѕ РµРіРѕ СЃР»РѕРІР°Рј,</segment>
+		<segment id="38" parent="42" relname="span">РІ Р°РІС‚РѕР±СѓСЃРµ РЅР°С…РѕРґРёР»РѕСЃСЊ 50 С‡РµР»РѕРІРµРє, РІ С‚РѕРј С‡РёСЃР»Рµ РґРІР° РІРѕРґРёС‚РµР»СЏ.</segment>
+		<segment id="39" parent="41" relname="span">РћРґРЅР° РїР°СЃСЃР°Р¶РёСЂРєР° РїРѕРіРёР±Р»Р°,</segment>
+		<segment id="40" parent="39" relname="attribution">СЃРєР°Р·Р°Р» РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊ РњР§РЎ.</segment>
+		<segment id="44" parent="56" relname="sequence">\"11 С‡РµР»РѕРІРµРє РґРѕСЃС‚Р°РІР»РµРЅС‹ РІ С†РµРЅС‚СЂР°Р»СЊРЅСѓСЋ СЂР°Р№РѕРЅРЅСѓСЋ Р±РѕР»СЊРЅРёС†Сѓ РІ РїРѕСЃРµР»РѕРє Р“Р»СѓР±РѕРєРёР№ Рё РґРµСЃСЏС‚СЊ С‡РµР»РѕРІРµРє - РІ Р±РѕР»СЊРЅРёС†Сѓ РіРѕСЂРѕРґР° РљР°РјРµРЅСЃРє-РЁР°С…С‚РёРЅСЃРєРёР№\",</segment>
+		<segment id="45" parent="48" relname="attribution">- РґРѕР±Р°РІРёР» РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊ РїСЂРµСЃСЃ-СЃР»СѓР¶Р±С‹.\n\nРџРѕ РїСЂРµРґРІР°СЂРёС‚РµР»СЊРЅС‹Рј РґР°РЅРЅС‹Рј,</segment>
+		<segment id="46" parent="48" relname="joint">РІРѕРґРёС‚РµР»СЊ РїСЂРµРІС‹СЃРёР» СЃРєРѕСЂРѕСЃС‚СЊ,</segment>
+		<segment id="47" parent="48" relname="joint">РЅРµ СЃРїСЂР°РІРёР»СЃСЏ СЃ СѓРїСЂР°РІР»РµРЅРёРµРј,</segment>
+		<segment id="50" parent="52" relname="span">РІ СЂРµР·СѓР»СЊС‚Р°С‚Рµ С‡РµРіРѕ РІ 1:15 РїРѕ РјРѕСЃРєРѕРІСЃРєРѕРјСѓ РІСЂРµРјРµРЅРё Р°РІС‚РѕР±СѓСЃ РѕРїСЂРѕРєРёРЅСѓР»СЃСЏ,</segment>
+		<segment id="51" parent="50" relname="attribution">СЃРєР°Р·Р°Р» СЃРѕС‚СЂСѓРґРЅРёРє РїСЂРµСЃСЃ-СЃР»СѓР¶Р±С‹,</segment>
+		<segment id="53" parent="52" relname="attribution">РїРµСЂРµРґР°РµС‚ Р РРђ \"РќРѕРІРѕСЃС‚Рё\".\n\nРђРІС‚РѕР±СѓСЃ СЃР»РµРґРѕРІР°Р» РїРѕ РјР°СЂС€СЂСѓС‚Сѓ Р РѕСЃС‚РѕРІ-РЅР°-Р”РѕРЅСѓ - Р’РµС€РµРЅСЃРєР°СЏ.</segment>
+		<segment id="57" parent="59" relname="joint">РўРµС… РїР°СЃСЃР°Р¶РёСЂРѕРІ, РєРѕС‚РѕСЂС‹Рµ РЅРµ РїРѕСЃС‚СЂР°РґР°Р»Рё РїСЂРё Р°РІР°СЂРёРё,</segment>
+		<segment id="58" parent="59" relname="joint">РїРµСЂРµСЃР°РґРёР»Рё РЅР° РґСЂСѓРіРѕР№ Р°РІС‚РѕР±СѓСЃ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/04Sep2007/bus.html\n</segment>
 		<group id="36" type="multinuc" parent="62" relname="sequence"/>
 		<group id="32" type="span" parent="36" relname="sequence"/>
 		<group id="31" type="multinuc" parent="22" relname="elaboration"/>

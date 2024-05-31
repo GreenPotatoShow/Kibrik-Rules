@@ -19,37 +19,37 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="32" parent="34" relname="span">Самый \"худой\" дом Нью-Йорка снова ищет хозяина.</segment>
-		<segment id="33" parent="32" relname="background">За год подорожал вдвое\n\</segment>
-		<segment id="35" parent="37" relname="span">nСамый узкий в дом в Нью-Йорке,</segment>
-		<segment id="36" parent="35" relname="background">в котором когда-то жил знаменитый актер Кэри Грант,</segment>
-		<segment id="38" parent="39" relname="same-unit">выставлен на продажу за колоссальные 4,3 млн долларов.</segment>
-		<segment id="40" parent="42" relname="span">Это вдвое больше суммы,</segment>
-		<segment id="41" parent="40" relname="background">за которую он был продан всего лишь год назад,</segment>
-		<segment id="43" parent="44" relname="same-unit">пишет Prian.ru со ссылкой на Daily Mail.\n\nТрудно представить, какого рода изменения могли бы оправдать столь завышенную стоимость дома.</segment>
-		<segment id="47" parent="48" relname="attribution">Тем не менее, агент по недвижимости компании The Millay House утверждает,</segment>
-		<segment id="48" parent="49" relname="span">что дом был тщательно отреставрирован.</segment>
-		<segment id="50" parent="52" relname="joint">Кроме того, богатая история и популярность среди туристов помогут в его продаже.\n\nПомимо Кэрри Гранта, эта недвижимость, построенная в середине 19 века, принадлежала актеру Джону Берримору, поэтессе Эдне Сэнт-Винсент,</segment>
-		<segment id="51" parent="52" relname="joint">а также аниматору Уильяму Стейгу.</segment>
-		<segment id="53" parent="55" relname="span">Никто из них, по всей видимости, не страдал клаустрофобией.\n\</segment>
-		<segment id="54" parent="53" relname="background">nВ 1950 году дом находился на грани сноса.</segment>
-		<segment id="56" parent="57" relname="cause-effect">Однако за него вступились влиятельные люди,</segment>
-		<segment id="57" parent="58" relname="span">и в результате разрушенными оказались дома по соседству.</segment>
-		<segment id="59" parent="60" relname="concession">Несмотря на такое бурное прошлое,</segment>
-		<segment id="60" parent="61" relname="span">будущее этого объекта выглядит весьма стабильным.</segment>
-		<segment id="62" parent="64" relname="comparison">В 2000 году его продали за 1,6 млн долларов,</segment>
-		<segment id="63" parent="64" relname="comparison">а в 2010-м - уже за 2,1 млн долларов.</segment>
-		<segment id="65" parent="69" relname="span">Сегодня владельцы запрашивают за него 4,3 млн долларов.\n\</segment>
-		<segment id="66" parent="67" relname="purpose">nДабы оправдать столь резкий скачок в цене,</segment>
-		<segment id="67" parent="68" relname="span">риелтор детально описал процесс реставрации:</segment>
-		<segment id="70" parent="72" relname="joint">\"Полы полностью восстановлены от трещин</segment>
-		<segment id="71" parent="72" relname="joint">и отделаны старинным дубом.</segment>
-		<segment id="73" parent="75" relname="joint">На кухне - мебель из белого дуба, изготовленная на заказ в столярной мастерской,</segment>
-		<segment id="74" parent="75" relname="joint">столешницы и панели выполнены из итальянского мрамора.</segment>
-		<segment id="77" parent="81" relname="span">В ванной комнате есть окно и выходящий в сад балкон.</segment>
-		<segment id="78" parent="80" relname="joint">Сама ванная имеет изысканный дизайн</segment>
-		<segment id="79" parent="80" relname="joint">и отделана мозаичной плиткой и итальянским мрамором\".\n\n\"Современные вещи, например, система кондиционирования, стиральная и посудомоечная машина, а также новые батареи были гармонично интегрированы в интерьер\",</segment>
-		<segment id="91" parent="90" relname="attribution">- подчеркивает маклер.\n\nИсточник: https://www.newsru.com/realty/24May2011/grant_thinhouse.html\n</segment>
+		<segment id="32" parent="34" relname="span">РЎР°РјС‹Р№ \"С…СѓРґРѕР№\" РґРѕРј РќСЊСЋ-Р™РѕСЂРєР° СЃРЅРѕРІР° РёС‰РµС‚ С…РѕР·СЏРёРЅР°.</segment>
+		<segment id="33" parent="32" relname="background">Р—Р° РіРѕРґ РїРѕРґРѕСЂРѕР¶Р°Р» РІРґРІРѕРµ\n\</segment>
+		<segment id="35" parent="37" relname="span">nРЎР°РјС‹Р№ СѓР·РєРёР№ РІ РґРѕРј РІ РќСЊСЋ-Р™РѕСЂРєРµ,</segment>
+		<segment id="36" parent="35" relname="background">РІ РєРѕС‚РѕСЂРѕРј РєРѕРіРґР°-С‚Рѕ Р¶РёР» Р·РЅР°РјРµРЅРёС‚С‹Р№ Р°РєС‚РµСЂ РљСЌСЂРё Р“СЂР°РЅС‚,</segment>
+		<segment id="38" parent="39" relname="same-unit">РІС‹СЃС‚Р°РІР»РµРЅ РЅР° РїСЂРѕРґР°Р¶Сѓ Р·Р° РєРѕР»РѕСЃСЃР°Р»СЊРЅС‹Рµ 4,3 РјР»РЅ РґРѕР»Р»Р°СЂРѕРІ.</segment>
+		<segment id="40" parent="42" relname="span">Р­С‚Рѕ РІРґРІРѕРµ Р±РѕР»СЊС€Рµ СЃСѓРјРјС‹,</segment>
+		<segment id="41" parent="40" relname="background">Р·Р° РєРѕС‚РѕСЂСѓСЋ РѕРЅ Р±С‹Р» РїСЂРѕРґР°РЅ РІСЃРµРіРѕ Р»РёС€СЊ РіРѕРґ РЅР°Р·Р°Рґ,</segment>
+		<segment id="43" parent="44" relname="same-unit">РїРёС€РµС‚ Prian.ru СЃРѕ СЃСЃС‹Р»РєРѕР№ РЅР° Daily Mail.\n\nРўСЂСѓРґРЅРѕ РїСЂРµРґСЃС‚Р°РІРёС‚СЊ, РєР°РєРѕРіРѕ СЂРѕРґР° РёР·РјРµРЅРµРЅРёСЏ РјРѕРіР»Рё Р±С‹ РѕРїСЂР°РІРґР°С‚СЊ СЃС‚РѕР»СЊ Р·Р°РІС‹С€РµРЅРЅСѓСЋ СЃС‚РѕРёРјРѕСЃС‚СЊ РґРѕРјР°.</segment>
+		<segment id="47" parent="48" relname="attribution">РўРµРј РЅРµ РјРµРЅРµРµ, Р°РіРµРЅС‚ РїРѕ РЅРµРґРІРёР¶РёРјРѕСЃС‚Рё РєРѕРјРїР°РЅРёРё The Millay House СѓС‚РІРµСЂР¶РґР°РµС‚,</segment>
+		<segment id="48" parent="49" relname="span">С‡С‚Рѕ РґРѕРј Р±С‹Р» С‚С‰Р°С‚РµР»СЊРЅРѕ РѕС‚СЂРµСЃС‚Р°РІСЂРёСЂРѕРІР°РЅ.</segment>
+		<segment id="50" parent="52" relname="joint">РљСЂРѕРјРµ С‚РѕРіРѕ, Р±РѕРіР°С‚Р°СЏ РёСЃС‚РѕСЂРёСЏ Рё РїРѕРїСѓР»СЏСЂРЅРѕСЃС‚СЊ СЃСЂРµРґРё С‚СѓСЂРёСЃС‚РѕРІ РїРѕРјРѕРіСѓС‚ РІ РµРіРѕ РїСЂРѕРґР°Р¶Рµ.\n\nРџРѕРјРёРјРѕ РљСЌСЂСЂРё Р“СЂР°РЅС‚Р°, СЌС‚Р° РЅРµРґРІРёР¶РёРјРѕСЃС‚СЊ, РїРѕСЃС‚СЂРѕРµРЅРЅР°СЏ РІ СЃРµСЂРµРґРёРЅРµ 19 РІРµРєР°, РїСЂРёРЅР°РґР»РµР¶Р°Р»Р° Р°РєС‚РµСЂСѓ Р”Р¶РѕРЅСѓ Р‘РµСЂСЂРёРјРѕСЂСѓ, РїРѕСЌС‚РµСЃСЃРµ Р­РґРЅРµ РЎСЌРЅС‚-Р’РёРЅСЃРµРЅС‚,</segment>
+		<segment id="51" parent="52" relname="joint">Р° С‚Р°РєР¶Рµ Р°РЅРёРјР°С‚РѕСЂСѓ РЈРёР»СЊСЏРјСѓ РЎС‚РµР№РіСѓ.</segment>
+		<segment id="53" parent="55" relname="span">РќРёРєС‚Рѕ РёР· РЅРёС…, РїРѕ РІСЃРµР№ РІРёРґРёРјРѕСЃС‚Рё, РЅРµ СЃС‚СЂР°РґР°Р» РєР»Р°СѓСЃС‚СЂРѕС„РѕР±РёРµР№.\n\</segment>
+		<segment id="54" parent="53" relname="background">nР’ 1950 РіРѕРґСѓ РґРѕРј РЅР°С…РѕРґРёР»СЃСЏ РЅР° РіСЂР°РЅРё СЃРЅРѕСЃР°.</segment>
+		<segment id="56" parent="57" relname="cause-effect">РћРґРЅР°РєРѕ Р·Р° РЅРµРіРѕ РІСЃС‚СѓРїРёР»РёСЃСЊ РІР»РёСЏС‚РµР»СЊРЅС‹Рµ Р»СЋРґРё,</segment>
+		<segment id="57" parent="58" relname="span">Рё РІ СЂРµР·СѓР»СЊС‚Р°С‚Рµ СЂР°Р·СЂСѓС€РµРЅРЅС‹РјРё РѕРєР°Р·Р°Р»РёСЃСЊ РґРѕРјР° РїРѕ СЃРѕСЃРµРґСЃС‚РІСѓ.</segment>
+		<segment id="59" parent="60" relname="concession">РќРµСЃРјРѕС‚СЂСЏ РЅР° С‚Р°РєРѕРµ Р±СѓСЂРЅРѕРµ РїСЂРѕС€Р»РѕРµ,</segment>
+		<segment id="60" parent="61" relname="span">Р±СѓРґСѓС‰РµРµ СЌС‚РѕРіРѕ РѕР±СЉРµРєС‚Р° РІС‹РіР»СЏРґРёС‚ РІРµСЃСЊРјР° СЃС‚Р°Р±РёР»СЊРЅС‹Рј.</segment>
+		<segment id="62" parent="64" relname="comparison">Р’ 2000 РіРѕРґСѓ РµРіРѕ РїСЂРѕРґР°Р»Рё Р·Р° 1,6 РјР»РЅ РґРѕР»Р»Р°СЂРѕРІ,</segment>
+		<segment id="63" parent="64" relname="comparison">Р° РІ 2010-Рј - СѓР¶Рµ Р·Р° 2,1 РјР»РЅ РґРѕР»Р»Р°СЂРѕРІ.</segment>
+		<segment id="65" parent="69" relname="span">РЎРµРіРѕРґРЅСЏ РІР»Р°РґРµР»СЊС†С‹ Р·Р°РїСЂР°С€РёРІР°СЋС‚ Р·Р° РЅРµРіРѕ 4,3 РјР»РЅ РґРѕР»Р»Р°СЂРѕРІ.\n\</segment>
+		<segment id="66" parent="67" relname="purpose">nР”Р°Р±С‹ РѕРїСЂР°РІРґР°С‚СЊ СЃС‚РѕР»СЊ СЂРµР·РєРёР№ СЃРєР°С‡РѕРє РІ С†РµРЅРµ,</segment>
+		<segment id="67" parent="68" relname="span">СЂРёРµР»С‚РѕСЂ РґРµС‚Р°Р»СЊРЅРѕ РѕРїРёСЃР°Р» РїСЂРѕС†РµСЃСЃ СЂРµСЃС‚Р°РІСЂР°С†РёРё:</segment>
+		<segment id="70" parent="72" relname="joint">\"РџРѕР»С‹ РїРѕР»РЅРѕСЃС‚СЊСЋ РІРѕСЃСЃС‚Р°РЅРѕРІР»РµРЅС‹ РѕС‚ С‚СЂРµС‰РёРЅ</segment>
+		<segment id="71" parent="72" relname="joint">Рё РѕС‚РґРµР»Р°РЅС‹ СЃС‚Р°СЂРёРЅРЅС‹Рј РґСѓР±РѕРј.</segment>
+		<segment id="73" parent="75" relname="joint">РќР° РєСѓС…РЅРµ - РјРµР±РµР»СЊ РёР· Р±РµР»РѕРіРѕ РґСѓР±Р°, РёР·РіРѕС‚РѕРІР»РµРЅРЅР°СЏ РЅР° Р·Р°РєР°Р· РІ СЃС‚РѕР»СЏСЂРЅРѕР№ РјР°СЃС‚РµСЂСЃРєРѕР№,</segment>
+		<segment id="74" parent="75" relname="joint">СЃС‚РѕР»РµС€РЅРёС†С‹ Рё РїР°РЅРµР»Рё РІС‹РїРѕР»РЅРµРЅС‹ РёР· РёС‚Р°Р»СЊСЏРЅСЃРєРѕРіРѕ РјСЂР°РјРѕСЂР°.</segment>
+		<segment id="77" parent="81" relname="span">Р’ РІР°РЅРЅРѕР№ РєРѕРјРЅР°С‚Рµ РµСЃС‚СЊ РѕРєРЅРѕ Рё РІС‹С…РѕРґСЏС‰РёР№ РІ СЃР°Рґ Р±Р°Р»РєРѕРЅ.</segment>
+		<segment id="78" parent="80" relname="joint">РЎР°РјР° РІР°РЅРЅР°СЏ РёРјРµРµС‚ РёР·С‹СЃРєР°РЅРЅС‹Р№ РґРёР·Р°Р№РЅ</segment>
+		<segment id="79" parent="80" relname="joint">Рё РѕС‚РґРµР»Р°РЅР° РјРѕР·Р°РёС‡РЅРѕР№ РїР»РёС‚РєРѕР№ Рё РёС‚Р°Р»СЊСЏРЅСЃРєРёРј РјСЂР°РјРѕСЂРѕРј\".\n\n\"РЎРѕРІСЂРµРјРµРЅРЅС‹Рµ РІРµС‰Рё, РЅР°РїСЂРёРјРµСЂ, СЃРёСЃС‚РµРјР° РєРѕРЅРґРёС†РёРѕРЅРёСЂРѕРІР°РЅРёСЏ, СЃС‚РёСЂР°Р»СЊРЅР°СЏ Рё РїРѕСЃСѓРґРѕРјРѕРµС‡РЅР°СЏ РјР°С€РёРЅР°, Р° С‚Р°РєР¶Рµ РЅРѕРІС‹Рµ Р±Р°С‚Р°СЂРµРё Р±С‹Р»Рё РіР°СЂРјРѕРЅРёС‡РЅРѕ РёРЅС‚РµРіСЂРёСЂРѕРІР°РЅС‹ РІ РёРЅС‚РµСЂСЊРµСЂ\",</segment>
+		<segment id="91" parent="90" relname="attribution">- РїРѕРґС‡РµСЂРєРёРІР°РµС‚ РјР°РєР»РµСЂ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/realty/24May2011/grant_thinhouse.html\n</segment>
 		<group id="90" type="multinuc" parent="92" relname="span"/>
 		<group id="46" type="span" parent="90" relname="joint"/>
 		<group id="34" type="span" parent="45" relname="preparation"/>

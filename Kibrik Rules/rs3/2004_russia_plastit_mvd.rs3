@@ -11,13 +11,13 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="8" parent="10" relname="span">В спортзале школы взрывался пластит, принесенный боевиками,</segment>
-		<segment id="9" parent="8" relname="attribution">утверждают в МВД\n\</segment>
-		<segment id="11" parent="19" relname="span">nПоследние взрывы в бесланской школе являлись взрывами пластита, принесенного боевиками,</segment>
-		<segment id="12" parent="17" relname="attribution">сообщили в МВД Северной Осетии.\n\nПо данным республиканского МВД,</segment>
-		<segment id="13" parent="17" relname="span">взрывы произошли самопроизвольно в результате пожара,</segment>
-		<segment id="14" parent="15" relname="cause-effect">вспыхнувшего в спортзале.\n\nПри этом в МВД подчеркнули,</segment>
-		<segment id="15" parent="16" relname="span">что к этому времени людей в спортзале уже не было.\n\nИсточник: https://www.newsru.com/russia/03Sep2004/plastit_mvd.html\n</segment>
+		<segment id="8" parent="10" relname="span">Р’ СЃРїРѕСЂС‚Р·Р°Р»Рµ С€РєРѕР»С‹ РІР·СЂС‹РІР°Р»СЃСЏ РїР»Р°СЃС‚РёС‚, РїСЂРёРЅРµСЃРµРЅРЅС‹Р№ Р±РѕРµРІРёРєР°РјРё,</segment>
+		<segment id="9" parent="8" relname="attribution">СѓС‚РІРµСЂР¶РґР°СЋС‚ РІ РњР’Р”\n\</segment>
+		<segment id="11" parent="19" relname="span">nРџРѕСЃР»РµРґРЅРёРµ РІР·СЂС‹РІС‹ РІ Р±РµСЃР»Р°РЅСЃРєРѕР№ С€РєРѕР»Рµ СЏРІР»СЏР»РёСЃСЊ РІР·СЂС‹РІР°РјРё РїР»Р°СЃС‚РёС‚Р°, РїСЂРёРЅРµСЃРµРЅРЅРѕРіРѕ Р±РѕРµРІРёРєР°РјРё,</segment>
+		<segment id="12" parent="17" relname="attribution">СЃРѕРѕР±С‰РёР»Рё РІ РњР’Р” РЎРµРІРµСЂРЅРѕР№ РћСЃРµС‚РёРё.\n\nРџРѕ РґР°РЅРЅС‹Рј СЂРµСЃРїСѓР±Р»РёРєР°РЅСЃРєРѕРіРѕ РњР’Р”,</segment>
+		<segment id="13" parent="17" relname="span">РІР·СЂС‹РІС‹ РїСЂРѕРёР·РѕС€Р»Рё СЃР°РјРѕРїСЂРѕРёР·РІРѕР»СЊРЅРѕ РІ СЂРµР·СѓР»СЊС‚Р°С‚Рµ РїРѕР¶Р°СЂР°,</segment>
+		<segment id="14" parent="15" relname="cause-effect">РІСЃРїС‹С…РЅСѓРІС€РµРіРѕ РІ СЃРїРѕСЂС‚Р·Р°Р»Рµ.\n\nРџСЂРё СЌС‚РѕРј РІ РњР’Р” РїРѕРґС‡РµСЂРєРЅСѓР»Рё,</segment>
+		<segment id="15" parent="16" relname="span">С‡С‚Рѕ Рє СЌС‚РѕРјСѓ РІСЂРµРјРµРЅРё Р»СЋРґРµР№ РІ СЃРїРѕСЂС‚Р·Р°Р»Рµ СѓР¶Рµ РЅРµ Р±С‹Р»Рѕ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/03Sep2004/plastit_mvd.html\n</segment>
 		<group id="10" type="span" parent="19" relname="preparation"/>
 		<group id="19" type="span" parent="20" relname="span"/>
 		<group id="18" type="span" parent="11" relname="elaboration"/>

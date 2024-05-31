@@ -14,33 +14,33 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="29" parent="33" relname="joint">Правительство России сегодня обсуждает модернизацию системы образования страны\n\nОткрывая заседание,</segment>
-		<segment id="30" parent="31" relname="attribution">премьер-министр сказал,</segment>
-		<segment id="31" parent="32" relname="span">что реформа образования затрагивает непосредственно каждого гражданина.</segment>
-		<segment id="34" parent="35" relname="attribution">Михаил Касьянов также заметил,</segment>
-		<segment id="35" parent="36" relname="span">что одним из ключевых вопросов сегодняшнего заседания станет обсуждение платного образования.\n\</segment>
-		<segment id="37" parent="40" relname="attribution">nКак сообщает РБК,</segment>
-		<segment id="38" parent="39" relname="attribution">глава правительства также сообщил,</segment>
-		<segment id="39" parent="40" relname="span">что многих родителей волнует целый спектр проблем бытового характера, в частности, вопрос о том, какие школьные услуги и мероприятия должны быть платными - завтраки, охрана, ремонт или что-то иное.\n\</segment>
-		<segment id="43" parent="46" relname="attribution">nКак указал Касьянов,</segment>
-		<segment id="44" parent="45" relname="attribution">большинство родителей в ходе анонимных опросов подтверждают,</segment>
-		<segment id="45" parent="46" relname="span">что платят очень во многих случаях.</segment>
-		<segment id="48" parent="52" relname="same-unit">В связи с этим,</segment>
-		<segment id="49" parent="50" relname="attribution">подчеркнул премьер,</segment>
-		<segment id="50" parent="51" relname="span">возникает законный вопрос:</segment>
-		<segment id="53" parent="52" relname="elaboration">какая часть среднего образования в России является на самом деле бесплатной?</segment>
-		<segment id="56" parent="60" relname="span">Уровень финансирования,</segment>
-		<segment id="57" parent="58" relname="attribution">сказал Касьянов,</segment>
-		<segment id="58" parent="59" relname="span">выходит на приемлемый уровень,</segment>
-		<segment id="63" parent="64" relname="joint">и это также необходимо учитывать при рассмотрении вопроса \"о платности\" образования в средней школе.\n\</segment>
-		<segment id="65" parent="70" relname="attribution">nКак сообщил сегодня министр образования РФ Владимир Филиппов,</segment>
-		<segment id="66" parent="70" relname="span">докладывая о концепции модернизации образования на заседании Правительства России,</segment>
-		<segment id="67" parent="69" relname="comparison">в стране через три года будут введена система единого государственного экзамена,</segment>
-		<segment id="68" parent="69" relname="comparison">а через шесть лет - 12-летнее среднее образование.</segment>
-		<segment id="72" parent="78" relname="span">Доклад министра был одобрен на заседании правительства.</segment>
-		<segment id="73" parent="74" relname="attribution">По словам Филиппова,</segment>
-		<segment id="74" parent="75" relname="span">единый госэкзамен предполагается ввести с лета 2004 года.</segment>
-		<segment id="76" parent="75" relname="elaboration">Перед этим проект должен быть одобрен в 15 субъектах РФ.\n\nИсточник: https://www.newsru.com/russia/25Oct2001/education.html\n</segment>
+		<segment id="29" parent="33" relname="joint">РџСЂР°РІРёС‚РµР»СЊСЃС‚РІРѕ Р РѕСЃСЃРёРё СЃРµРіРѕРґРЅСЏ РѕР±СЃСѓР¶РґР°РµС‚ РјРѕРґРµСЂРЅРёР·Р°С†РёСЋ СЃРёСЃС‚РµРјС‹ РѕР±СЂР°Р·РѕРІР°РЅРёСЏ СЃС‚СЂР°РЅС‹\n\nРћС‚РєСЂС‹РІР°СЏ Р·Р°СЃРµРґР°РЅРёРµ,</segment>
+		<segment id="30" parent="31" relname="attribution">РїСЂРµРјСЊРµСЂ-РјРёРЅРёСЃС‚СЂ СЃРєР°Р·Р°Р»,</segment>
+		<segment id="31" parent="32" relname="span">С‡С‚Рѕ СЂРµС„РѕСЂРјР° РѕР±СЂР°Р·РѕРІР°РЅРёСЏ Р·Р°С‚СЂР°РіРёРІР°РµС‚ РЅРµРїРѕСЃСЂРµРґСЃС‚РІРµРЅРЅРѕ РєР°Р¶РґРѕРіРѕ РіСЂР°Р¶РґР°РЅРёРЅР°.</segment>
+		<segment id="34" parent="35" relname="attribution">РњРёС…Р°РёР» РљР°СЃСЊСЏРЅРѕРІ С‚Р°РєР¶Рµ Р·Р°РјРµС‚РёР»,</segment>
+		<segment id="35" parent="36" relname="span">С‡С‚Рѕ РѕРґРЅРёРј РёР· РєР»СЋС‡РµРІС‹С… РІРѕРїСЂРѕСЃРѕРІ СЃРµРіРѕРґРЅСЏС€РЅРµРіРѕ Р·Р°СЃРµРґР°РЅРёСЏ СЃС‚Р°РЅРµС‚ РѕР±СЃСѓР¶РґРµРЅРёРµ РїР»Р°С‚РЅРѕРіРѕ РѕР±СЂР°Р·РѕРІР°РЅРёСЏ.\n\</segment>
+		<segment id="37" parent="40" relname="attribution">nРљР°Рє СЃРѕРѕР±С‰Р°РµС‚ Р Р‘Рљ,</segment>
+		<segment id="38" parent="39" relname="attribution">РіР»Р°РІР° РїСЂР°РІРёС‚РµР»СЊСЃС‚РІР° С‚Р°РєР¶Рµ СЃРѕРѕР±С‰РёР»,</segment>
+		<segment id="39" parent="40" relname="span">С‡С‚Рѕ РјРЅРѕРіРёС… СЂРѕРґРёС‚РµР»РµР№ РІРѕР»РЅСѓРµС‚ С†РµР»С‹Р№ СЃРїРµРєС‚СЂ РїСЂРѕР±Р»РµРј Р±С‹С‚РѕРІРѕРіРѕ С…Р°СЂР°РєС‚РµСЂР°, РІ С‡Р°СЃС‚РЅРѕСЃС‚Рё, РІРѕРїСЂРѕСЃ Рѕ С‚РѕРј, РєР°РєРёРµ С€РєРѕР»СЊРЅС‹Рµ СѓСЃР»СѓРіРё Рё РјРµСЂРѕРїСЂРёСЏС‚РёСЏ РґРѕР»Р¶РЅС‹ Р±С‹С‚СЊ РїР»Р°С‚РЅС‹РјРё - Р·Р°РІС‚СЂР°РєРё, РѕС…СЂР°РЅР°, СЂРµРјРѕРЅС‚ РёР»Рё С‡С‚Рѕ-С‚Рѕ РёРЅРѕРµ.\n\</segment>
+		<segment id="43" parent="46" relname="attribution">nРљР°Рє СѓРєР°Р·Р°Р» РљР°СЃСЊСЏРЅРѕРІ,</segment>
+		<segment id="44" parent="45" relname="attribution">Р±РѕР»СЊС€РёРЅСЃС‚РІРѕ СЂРѕРґРёС‚РµР»РµР№ РІ С…РѕРґРµ Р°РЅРѕРЅРёРјРЅС‹С… РѕРїСЂРѕСЃРѕРІ РїРѕРґС‚РІРµСЂР¶РґР°СЋС‚,</segment>
+		<segment id="45" parent="46" relname="span">С‡С‚Рѕ РїР»Р°С‚СЏС‚ РѕС‡РµРЅСЊ РІРѕ РјРЅРѕРіРёС… СЃР»СѓС‡Р°СЏС….</segment>
+		<segment id="48" parent="52" relname="same-unit">Р’ СЃРІСЏР·Рё СЃ СЌС‚РёРј,</segment>
+		<segment id="49" parent="50" relname="attribution">РїРѕРґС‡РµСЂРєРЅСѓР» РїСЂРµРјСЊРµСЂ,</segment>
+		<segment id="50" parent="51" relname="span">РІРѕР·РЅРёРєР°РµС‚ Р·Р°РєРѕРЅРЅС‹Р№ РІРѕРїСЂРѕСЃ:</segment>
+		<segment id="53" parent="52" relname="elaboration">РєР°РєР°СЏ С‡Р°СЃС‚СЊ СЃСЂРµРґРЅРµРіРѕ РѕР±СЂР°Р·РѕРІР°РЅРёСЏ РІ Р РѕСЃСЃРёРё СЏРІР»СЏРµС‚СЃСЏ РЅР° СЃР°РјРѕРј РґРµР»Рµ Р±РµСЃРїР»Р°С‚РЅРѕР№?</segment>
+		<segment id="56" parent="60" relname="span">РЈСЂРѕРІРµРЅСЊ С„РёРЅР°РЅСЃРёСЂРѕРІР°РЅРёСЏ,</segment>
+		<segment id="57" parent="58" relname="attribution">СЃРєР°Р·Р°Р» РљР°СЃСЊСЏРЅРѕРІ,</segment>
+		<segment id="58" parent="59" relname="span">РІС‹С…РѕРґРёС‚ РЅР° РїСЂРёРµРјР»РµРјС‹Р№ СѓСЂРѕРІРµРЅСЊ,</segment>
+		<segment id="63" parent="64" relname="joint">Рё СЌС‚Рѕ С‚Р°РєР¶Рµ РЅРµРѕР±С…РѕРґРёРјРѕ СѓС‡РёС‚С‹РІР°С‚СЊ РїСЂРё СЂР°СЃСЃРјРѕС‚СЂРµРЅРёРё РІРѕРїСЂРѕСЃР° \"Рѕ РїР»Р°С‚РЅРѕСЃС‚Рё\" РѕР±СЂР°Р·РѕРІР°РЅРёСЏ РІ СЃСЂРµРґРЅРµР№ С€РєРѕР»Рµ.\n\</segment>
+		<segment id="65" parent="70" relname="attribution">nРљР°Рє СЃРѕРѕР±С‰РёР» СЃРµРіРѕРґРЅСЏ РјРёРЅРёСЃС‚СЂ РѕР±СЂР°Р·РѕРІР°РЅРёСЏ Р Р¤ Р’Р»Р°РґРёРјРёСЂ Р¤РёР»РёРїРїРѕРІ,</segment>
+		<segment id="66" parent="70" relname="span">РґРѕРєР»Р°РґС‹РІР°СЏ Рѕ РєРѕРЅС†РµРїС†РёРё РјРѕРґРµСЂРЅРёР·Р°С†РёРё РѕР±СЂР°Р·РѕРІР°РЅРёСЏ РЅР° Р·Р°СЃРµРґР°РЅРёРё РџСЂР°РІРёС‚РµР»СЊСЃС‚РІР° Р РѕСЃСЃРёРё,</segment>
+		<segment id="67" parent="69" relname="comparison">РІ СЃС‚СЂР°РЅРµ С‡РµСЂРµР· С‚СЂРё РіРѕРґР° Р±СѓРґСѓС‚ РІРІРµРґРµРЅР° СЃРёСЃС‚РµРјР° РµРґРёРЅРѕРіРѕ РіРѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅРѕРіРѕ СЌРєР·Р°РјРµРЅР°,</segment>
+		<segment id="68" parent="69" relname="comparison">Р° С‡РµСЂРµР· С€РµСЃС‚СЊ Р»РµС‚ - 12-Р»РµС‚РЅРµРµ СЃСЂРµРґРЅРµРµ РѕР±СЂР°Р·РѕРІР°РЅРёРµ.</segment>
+		<segment id="72" parent="78" relname="span">Р”РѕРєР»Р°Рґ РјРёРЅРёСЃС‚СЂР° Р±С‹Р» РѕРґРѕР±СЂРµРЅ РЅР° Р·Р°СЃРµРґР°РЅРёРё РїСЂР°РІРёС‚РµР»СЊСЃС‚РІР°.</segment>
+		<segment id="73" parent="74" relname="attribution">РџРѕ СЃР»РѕРІР°Рј Р¤РёР»РёРїРїРѕРІР°,</segment>
+		<segment id="74" parent="75" relname="span">РµРґРёРЅС‹Р№ РіРѕСЃСЌРєР·Р°РјРµРЅ РїСЂРµРґРїРѕР»Р°РіР°РµС‚СЃСЏ РІРІРµСЃС‚Рё СЃ Р»РµС‚Р° 2004 РіРѕРґР°.</segment>
+		<segment id="76" parent="75" relname="elaboration">РџРµСЂРµРґ СЌС‚РёРј РїСЂРѕРµРєС‚ РґРѕР»Р¶РµРЅ Р±С‹С‚СЊ РѕРґРѕР±СЂРµРЅ РІ 15 СЃСѓР±СЉРµРєС‚Р°С… Р Р¤.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/25Oct2001/education.html\n</segment>
 		<group id="33" type="multinuc" parent="82" relname="preparation"/>
 		<group id="32" type="span" parent="33" relname="joint"/>
 		<group id="82" type="multinuc" parent="83" relname="span"/>

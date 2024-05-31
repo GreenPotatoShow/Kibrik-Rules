@@ -10,18 +10,18 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="13" parent="16" relname="preparation">20 столитровых бочек с ядовитым веществом найдены в Самарской области\n\nОколо 1,5 т ядовитого вещества найдено в Волжском районе Самарской области.</segment>
-		<segment id="14" parent="16" relname="joint">В среду вечером о находке 20 столитровых бочек, сделанной в Черноречье (пригород Самары),</segment>
-		<segment id="15" parent="16" relname="joint">сообщили местные жители.\n\n\"Бочки со знаками треугольника, обозначающего яд, были обнаружены плотно закрытыми в лесополосе района\",</segment>
-		<segment id="18" parent="17" relname="attribution">- сообщил \"Интерфаксу\" представитель областного ГО и ЧС.\n\n</segment>
-		<segment id="20" parent="22" relname="span">\"Пока никакой угрозы окружающей среде или населению нет.</segment>
-		<segment id="21" parent="20" relname="elaboration">Бочки остаются на месте.</segment>
-		<segment id="23" parent="25" relname="span">Территория ограждена.</segment>
-		<segment id="24" parent="23" relname="elaboration">На месте работают наши специалисты\",</segment>
-		<segment id="27" parent="26" relname="attribution">- сказал он.\n\</segment>
-		<segment id="29" parent="33" relname="sequence">nВ настоящее время устанавливается хозяин бочек,</segment>
-		<segment id="30" parent="32" relname="joint">выясняется, как они попали в лес</segment>
-		<segment id="31" parent="32" relname="joint">и представляют ли опасность.\n\nИсточник: https://www.newsru.com/russia/14Oct2005/bochki.html\n</segment>
+		<segment id="13" parent="16" relname="preparation">20 СЃС‚РѕР»РёС‚СЂРѕРІС‹С… Р±РѕС‡РµРє СЃ СЏРґРѕРІРёС‚С‹Рј РІРµС‰РµСЃС‚РІРѕРј РЅР°Р№РґРµРЅС‹ РІ РЎР°РјР°СЂСЃРєРѕР№ РѕР±Р»Р°СЃС‚Рё\n\nРћРєРѕР»Рѕ 1,5 С‚ СЏРґРѕРІРёС‚РѕРіРѕ РІРµС‰РµСЃС‚РІР° РЅР°Р№РґРµРЅРѕ РІ Р’РѕР»Р¶СЃРєРѕРј СЂР°Р№РѕРЅРµ РЎР°РјР°СЂСЃРєРѕР№ РѕР±Р»Р°СЃС‚Рё.</segment>
+		<segment id="14" parent="16" relname="joint">Р’ СЃСЂРµРґСѓ РІРµС‡РµСЂРѕРј Рѕ РЅР°С…РѕРґРєРµ 20 СЃС‚РѕР»РёС‚СЂРѕРІС‹С… Р±РѕС‡РµРє, СЃРґРµР»Р°РЅРЅРѕР№ РІ Р§РµСЂРЅРѕСЂРµС‡СЊРµ (РїСЂРёРіРѕСЂРѕРґ РЎР°РјР°СЂС‹),</segment>
+		<segment id="15" parent="16" relname="joint">СЃРѕРѕР±С‰РёР»Рё РјРµСЃС‚РЅС‹Рµ Р¶РёС‚РµР»Рё.\n\n\"Р‘РѕС‡РєРё СЃРѕ Р·РЅР°РєР°РјРё С‚СЂРµСѓРіРѕР»СЊРЅРёРєР°, РѕР±РѕР·РЅР°С‡Р°СЋС‰РµРіРѕ СЏРґ, Р±С‹Р»Рё РѕР±РЅР°СЂСѓР¶РµРЅС‹ РїР»РѕС‚РЅРѕ Р·Р°РєСЂС‹С‚С‹РјРё РІ Р»РµСЃРѕРїРѕР»РѕСЃРµ СЂР°Р№РѕРЅР°\",</segment>
+		<segment id="18" parent="17" relname="attribution">- СЃРѕРѕР±С‰РёР» \"РРЅС‚РµСЂС„Р°РєСЃСѓ\" РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊ РѕР±Р»Р°СЃС‚РЅРѕРіРѕ Р“Рћ Рё Р§РЎ.\n\n</segment>
+		<segment id="20" parent="22" relname="span">\"РџРѕРєР° РЅРёРєР°РєРѕР№ СѓРіСЂРѕР·С‹ РѕРєСЂСѓР¶Р°СЋС‰РµР№ СЃСЂРµРґРµ РёР»Рё РЅР°СЃРµР»РµРЅРёСЋ РЅРµС‚.</segment>
+		<segment id="21" parent="20" relname="elaboration">Р‘РѕС‡РєРё РѕСЃС‚Р°СЋС‚СЃСЏ РЅР° РјРµСЃС‚Рµ.</segment>
+		<segment id="23" parent="25" relname="span">РўРµСЂСЂРёС‚РѕСЂРёСЏ РѕРіСЂР°Р¶РґРµРЅР°.</segment>
+		<segment id="24" parent="23" relname="elaboration">РќР° РјРµСЃС‚Рµ СЂР°Р±РѕС‚Р°СЋС‚ РЅР°С€Рё СЃРїРµС†РёР°Р»РёСЃС‚С‹\",</segment>
+		<segment id="27" parent="26" relname="attribution">- СЃРєР°Р·Р°Р» РѕРЅ.\n\</segment>
+		<segment id="29" parent="33" relname="sequence">nР’ РЅР°СЃС‚РѕСЏС‰РµРµ РІСЂРµРјСЏ СѓСЃС‚Р°РЅР°РІР»РёРІР°РµС‚СЃСЏ С…РѕР·СЏРёРЅ Р±РѕС‡РµРє,</segment>
+		<segment id="30" parent="32" relname="joint">РІС‹СЏСЃРЅСЏРµС‚СЃСЏ, РєР°Рє РѕРЅРё РїРѕРїР°Р»Рё РІ Р»РµСЃ</segment>
+		<segment id="31" parent="32" relname="joint">Рё РїСЂРµРґСЃС‚Р°РІР»СЏСЋС‚ Р»Рё РѕРїР°СЃРЅРѕСЃС‚СЊ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/14Oct2005/bochki.html\n</segment>
 		<group id="19" type="span" parent="35" relname="joint"/>
 		<group id="17" type="span" parent="19" relname="span"/>
 		<group id="16" type="multinuc" parent="17" relname="span"/>

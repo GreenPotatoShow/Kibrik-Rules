@@ -15,49 +15,49 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="44" parent="47" relname="attribution">Трамп назвал \"смехотворными\" сообщения о вмешательстве хакеров, связанных с РФ, в выборы в США\n\nИзбранный президент США Дональд Трамп заявил,</segment>
-		<segment id="45" parent="46" relname="attribution">что не верит докладам американских спецслужб о том,</segment>
-		<segment id="46" parent="47" relname="span">что на выборах ему оказывали помощь хакеры, связанные с российскими властями.</segment>
-		<segment id="49" parent="53" relname="same-unit">Об этом,</segment>
-		<segment id="50" parent="51" relname="attribution">как сообщает агентство Reuters,</segment>
-		<segment id="51" parent="52" relname="span">он заявил в интервью телекомпании Fox News.</segment>
-		<segment id="55" parent="56" relname="attribution">\"Я думаю,</segment>
-		<segment id="56" parent="57" relname="span">это смехотворно.</segment>
-		<segment id="58" parent="57" relname="interpretation-evaluation">Думаю, это еще одно оправдание (со стороны спецслужб).</segment>
-		<segment id="60" parent="59" relname="interpretation-evaluation">Я этому не верю\",</segment>
-		<segment id="62" parent="61" relname="attribution">- сказал Трамп</segment>
-		<segment id="64" parent="71" relname="attribution">.\n\nНакануне в американских СМИ появились сообщения о том,</segment>
-		<segment id="65" parent="66" relname="attribution">что ЦРУ заключило в секретном докладе,</segment>
-		<segment id="66" parent="67" relname="span">что Россия вмешалась в выборы президента США в 2016 году,</segment>
-		<segment id="68" parent="70" relname="joint">в большей степени чтобы помочь Трампу одержать победу,</segment>
-		<segment id="69" parent="70" relname="joint">а не просто подорвать доверие к избирательной системе в целом.\n\</segment>
-		<segment id="73" parent="82" relname="attribution">nПо данным прессы,</segment>
-		<segment id="74" parent="76" relname="span">ЦРУ установило людей, связанных с российскими властями,</segment>
-		<segment id="75" parent="74" relname="elaboration">которые организовывали передачу похищенных хакерами данных сайту Wikileaks.\n\nВ частности, в пятницу газета The New York Times опубликовала статью,</segment>
-		<segment id="77" parent="80" relname="attribution">в которой сообщила,</segment>
-		<segment id="78" parent="79" relname="attribution">что многие сотрудники разведки и бывшие участники кампании Клинтон считают,</segment>
-		<segment id="79" parent="80" relname="span">что основным мотивом российской стороны был срыв президентской кампании в США.</segment>
-		<segment id="84" parent="98" relname="span">Организаторы хакерских атак также пытались рассорить сторонников внутри партий.</segment>
-		<segment id="85" parent="94" relname="attribution">В результате русские были не меньше других удивлены,</segment>
-		<segment id="86" parent="94" relname="joint">что победил Трамп,</segment>
-		<segment id="87" parent="92" relname="attribution">говорилось в статье со ссылкой на чиновников администрации США.\n\nГазета The Washington Post, в свою очередь, сообщила,</segment>
-		<segment id="88" parent="92" relname="same-unit">что,</segment>
-		<segment id="89" parent="90" relname="attribution">по мнению сотрудников спецслужб США,</segment>
-		<segment id="90" parent="91" relname="span">связанные с РФ хакеры пытались оказать поддержку Трампу на выборах</segment>
-		<segment id="96" parent="97" relname="joint">.\n\nПереходная команда Трампа сразу же опровергла выводы ЦРУ.</segment>
-		<segment id="99" parent="100" relname="attribution">\"Это те же люди, которые заявили,</segment>
-		<segment id="100" parent="101" relname="span">что у Саддама Хуссейна есть оружие массового уничтожения.</segment>
-		<segment id="102" parent="101" relname="elaboration">Выборы давно завершились одной из самых больших побед Коллегии выборщиков в истории.</segment>
-		<segment id="104" parent="106" relname="joint">Пришло время двигаться дальше</segment>
-		<segment id="105" parent="106" relname="joint">и сделать Америку вновь великой\",</segment>
-		<segment id="107" parent="106" relname="attribution">- говорилось в заявлении соратников избранного президента.</segment>
-		<segment id="110" parent="114" relname="joint">Ранее Трамп неоднократно опровергал предположения о вмешательстве России в выборы в Соединенных Штатах.\n\nНапомним,</segment>
-		<segment id="111" parent="112" relname="attribution">в преддверии президентских выборов руководство США неоднократно высказывало предположения о том,</segment>
-		<segment id="112" parent="113" relname="span">что сервера Демократической партии взломали хакеры, связанные с российскими властями.</segment>
-		<segment id="115" parent="116" relname="attribution">По мнению Вашингтона,</segment>
-		<segment id="116" parent="117" relname="span">Россия таким образом пыталась повлиять на итоги голосования в пользу Трампа.</segment>
-		<segment id="118" parent="120" relname="span">Впрочем, никаких доказательств представлено не было.</segment>
-		<segment id="119" parent="118" relname="elaboration">В Москве обвинения называли голословными.\n\nИсточник: https://www.newsru.com/world/11Dec2016/trump_4.html\n</segment>
+		<segment id="44" parent="47" relname="attribution">РўСЂР°РјРї РЅР°Р·РІР°Р» \"СЃРјРµС…РѕС‚РІРѕСЂРЅС‹РјРё\" СЃРѕРѕР±С‰РµРЅРёСЏ Рѕ РІРјРµС€Р°С‚РµР»СЊСЃС‚РІРµ С…Р°РєРµСЂРѕРІ, СЃРІСЏР·Р°РЅРЅС‹С… СЃ Р Р¤, РІ РІС‹Р±РѕСЂС‹ РІ РЎРЁРђ\n\nРР·Р±СЂР°РЅРЅС‹Р№ РїСЂРµР·РёРґРµРЅС‚ РЎРЁРђ Р”РѕРЅР°Р»СЊРґ РўСЂР°РјРї Р·Р°СЏРІРёР»,</segment>
+		<segment id="45" parent="46" relname="attribution">С‡С‚Рѕ РЅРµ РІРµСЂРёС‚ РґРѕРєР»Р°РґР°Рј Р°РјРµСЂРёРєР°РЅСЃРєРёС… СЃРїРµС†СЃР»СѓР¶Р± Рѕ С‚РѕРј,</segment>
+		<segment id="46" parent="47" relname="span">С‡С‚Рѕ РЅР° РІС‹Р±РѕСЂР°С… РµРјСѓ РѕРєР°Р·С‹РІР°Р»Рё РїРѕРјРѕС‰СЊ С…Р°РєРµСЂС‹, СЃРІСЏР·Р°РЅРЅС‹Рµ СЃ СЂРѕСЃСЃРёР№СЃРєРёРјРё РІР»Р°СЃС‚СЏРјРё.</segment>
+		<segment id="49" parent="53" relname="same-unit">РћР± СЌС‚РѕРј,</segment>
+		<segment id="50" parent="51" relname="attribution">РєР°Рє СЃРѕРѕР±С‰Р°РµС‚ Р°РіРµРЅС‚СЃС‚РІРѕ Reuters,</segment>
+		<segment id="51" parent="52" relname="span">РѕРЅ Р·Р°СЏРІРёР» РІ РёРЅС‚РµСЂРІСЊСЋ С‚РµР»РµРєРѕРјРїР°РЅРёРё Fox News.</segment>
+		<segment id="55" parent="56" relname="attribution">\"РЇ РґСѓРјР°СЋ,</segment>
+		<segment id="56" parent="57" relname="span">СЌС‚Рѕ СЃРјРµС…РѕС‚РІРѕСЂРЅРѕ.</segment>
+		<segment id="58" parent="57" relname="interpretation-evaluation">Р”СѓРјР°СЋ, СЌС‚Рѕ РµС‰Рµ РѕРґРЅРѕ РѕРїСЂР°РІРґР°РЅРёРµ (СЃРѕ СЃС‚РѕСЂРѕРЅС‹ СЃРїРµС†СЃР»СѓР¶Р±).</segment>
+		<segment id="60" parent="59" relname="interpretation-evaluation">РЇ СЌС‚РѕРјСѓ РЅРµ РІРµСЂСЋ\",</segment>
+		<segment id="62" parent="61" relname="attribution">- СЃРєР°Р·Р°Р» РўСЂР°РјРї</segment>
+		<segment id="64" parent="71" relname="attribution">.\n\nРќР°РєР°РЅСѓРЅРµ РІ Р°РјРµСЂРёРєР°РЅСЃРєРёС… РЎРњР РїРѕСЏРІРёР»РёСЃСЊ СЃРѕРѕР±С‰РµРЅРёСЏ Рѕ С‚РѕРј,</segment>
+		<segment id="65" parent="66" relname="attribution">С‡С‚Рѕ Р¦Р РЈ Р·Р°РєР»СЋС‡РёР»Рѕ РІ СЃРµРєСЂРµС‚РЅРѕРј РґРѕРєР»Р°РґРµ,</segment>
+		<segment id="66" parent="67" relname="span">С‡С‚Рѕ Р РѕСЃСЃРёСЏ РІРјРµС€Р°Р»Р°СЃСЊ РІ РІС‹Р±РѕСЂС‹ РїСЂРµР·РёРґРµРЅС‚Р° РЎРЁРђ РІ 2016 РіРѕРґСѓ,</segment>
+		<segment id="68" parent="70" relname="joint">РІ Р±РѕР»СЊС€РµР№ СЃС‚РµРїРµРЅРё С‡С‚РѕР±С‹ РїРѕРјРѕС‡СЊ РўСЂР°РјРїСѓ РѕРґРµСЂР¶Р°С‚СЊ РїРѕР±РµРґСѓ,</segment>
+		<segment id="69" parent="70" relname="joint">Р° РЅРµ РїСЂРѕСЃС‚Рѕ РїРѕРґРѕСЂРІР°С‚СЊ РґРѕРІРµСЂРёРµ Рє РёР·Р±РёСЂР°С‚РµР»СЊРЅРѕР№ СЃРёСЃС‚РµРјРµ РІ С†РµР»РѕРј.\n\</segment>
+		<segment id="73" parent="82" relname="attribution">nРџРѕ РґР°РЅРЅС‹Рј РїСЂРµСЃСЃС‹,</segment>
+		<segment id="74" parent="76" relname="span">Р¦Р РЈ СѓСЃС‚Р°РЅРѕРІРёР»Рѕ Р»СЋРґРµР№, СЃРІСЏР·Р°РЅРЅС‹С… СЃ СЂРѕСЃСЃРёР№СЃРєРёРјРё РІР»Р°СЃС‚СЏРјРё,</segment>
+		<segment id="75" parent="74" relname="elaboration">РєРѕС‚РѕСЂС‹Рµ РѕСЂРіР°РЅРёР·РѕРІС‹РІР°Р»Рё РїРµСЂРµРґР°С‡Сѓ РїРѕС…РёС‰РµРЅРЅС‹С… С…Р°РєРµСЂР°РјРё РґР°РЅРЅС‹С… СЃР°Р№С‚Сѓ Wikileaks.\n\nР’ С‡Р°СЃС‚РЅРѕСЃС‚Рё, РІ РїСЏС‚РЅРёС†Сѓ РіР°Р·РµС‚Р° The New York Times РѕРїСѓР±Р»РёРєРѕРІР°Р»Р° СЃС‚Р°С‚СЊСЋ,</segment>
+		<segment id="77" parent="80" relname="attribution">РІ РєРѕС‚РѕСЂРѕР№ СЃРѕРѕР±С‰РёР»Р°,</segment>
+		<segment id="78" parent="79" relname="attribution">С‡С‚Рѕ РјРЅРѕРіРёРµ СЃРѕС‚СЂСѓРґРЅРёРєРё СЂР°Р·РІРµРґРєРё Рё Р±С‹РІС€РёРµ СѓС‡Р°СЃС‚РЅРёРєРё РєР°РјРїР°РЅРёРё РљР»РёРЅС‚РѕРЅ СЃС‡РёС‚Р°СЋС‚,</segment>
+		<segment id="79" parent="80" relname="span">С‡С‚Рѕ РѕСЃРЅРѕРІРЅС‹Рј РјРѕС‚РёРІРѕРј СЂРѕСЃСЃРёР№СЃРєРѕР№ СЃС‚РѕСЂРѕРЅС‹ Р±С‹Р» СЃСЂС‹РІ РїСЂРµР·РёРґРµРЅС‚СЃРєРѕР№ РєР°РјРїР°РЅРёРё РІ РЎРЁРђ.</segment>
+		<segment id="84" parent="98" relname="span">РћСЂРіР°РЅРёР·Р°С‚РѕСЂС‹ С…Р°РєРµСЂСЃРєРёС… Р°С‚Р°Рє С‚Р°РєР¶Рµ РїС‹С‚Р°Р»РёСЃСЊ СЂР°СЃСЃРѕСЂРёС‚СЊ СЃС‚РѕСЂРѕРЅРЅРёРєРѕРІ РІРЅСѓС‚СЂРё РїР°СЂС‚РёР№.</segment>
+		<segment id="85" parent="94" relname="attribution">Р’ СЂРµР·СѓР»СЊС‚Р°С‚Рµ СЂСѓСЃСЃРєРёРµ Р±С‹Р»Рё РЅРµ РјРµРЅСЊС€Рµ РґСЂСѓРіРёС… СѓРґРёРІР»РµРЅС‹,</segment>
+		<segment id="86" parent="94" relname="joint">С‡С‚Рѕ РїРѕР±РµРґРёР» РўСЂР°РјРї,</segment>
+		<segment id="87" parent="92" relname="attribution">РіРѕРІРѕСЂРёР»РѕСЃСЊ РІ СЃС‚Р°С‚СЊРµ СЃРѕ СЃСЃС‹Р»РєРѕР№ РЅР° С‡РёРЅРѕРІРЅРёРєРѕРІ Р°РґРјРёРЅРёСЃС‚СЂР°С†РёРё РЎРЁРђ.\n\nР“Р°Р·РµС‚Р° The Washington Post, РІ СЃРІРѕСЋ РѕС‡РµСЂРµРґСЊ, СЃРѕРѕР±С‰РёР»Р°,</segment>
+		<segment id="88" parent="92" relname="same-unit">С‡С‚Рѕ,</segment>
+		<segment id="89" parent="90" relname="attribution">РїРѕ РјРЅРµРЅРёСЋ СЃРѕС‚СЂСѓРґРЅРёРєРѕРІ СЃРїРµС†СЃР»СѓР¶Р± РЎРЁРђ,</segment>
+		<segment id="90" parent="91" relname="span">СЃРІСЏР·Р°РЅРЅС‹Рµ СЃ Р Р¤ С…Р°РєРµСЂС‹ РїС‹С‚Р°Р»РёСЃСЊ РѕРєР°Р·Р°С‚СЊ РїРѕРґРґРµСЂР¶РєСѓ РўСЂР°РјРїСѓ РЅР° РІС‹Р±РѕСЂР°С…</segment>
+		<segment id="96" parent="97" relname="joint">.\n\nРџРµСЂРµС…РѕРґРЅР°СЏ РєРѕРјР°РЅРґР° РўСЂР°РјРїР° СЃСЂР°Р·Сѓ Р¶Рµ РѕРїСЂРѕРІРµСЂРіР»Р° РІС‹РІРѕРґС‹ Р¦Р РЈ.</segment>
+		<segment id="99" parent="100" relname="attribution">\"Р­С‚Рѕ С‚Рµ Р¶Рµ Р»СЋРґРё, РєРѕС‚РѕСЂС‹Рµ Р·Р°СЏРІРёР»Рё,</segment>
+		<segment id="100" parent="101" relname="span">С‡С‚Рѕ Сѓ РЎР°РґРґР°РјР° РҐСѓСЃСЃРµР№РЅР° РµСЃС‚СЊ РѕСЂСѓР¶РёРµ РјР°СЃСЃРѕРІРѕРіРѕ СѓРЅРёС‡С‚РѕР¶РµРЅРёСЏ.</segment>
+		<segment id="102" parent="101" relname="elaboration">Р’С‹Р±РѕСЂС‹ РґР°РІРЅРѕ Р·Р°РІРµСЂС€РёР»РёСЃСЊ РѕРґРЅРѕР№ РёР· СЃР°РјС‹С… Р±РѕР»СЊС€РёС… РїРѕР±РµРґ РљРѕР»Р»РµРіРёРё РІС‹Р±РѕСЂС‰РёРєРѕРІ РІ РёСЃС‚РѕСЂРёРё.</segment>
+		<segment id="104" parent="106" relname="joint">РџСЂРёС€Р»Рѕ РІСЂРµРјСЏ РґРІРёРіР°С‚СЊСЃСЏ РґР°Р»СЊС€Рµ</segment>
+		<segment id="105" parent="106" relname="joint">Рё СЃРґРµР»Р°С‚СЊ РђРјРµСЂРёРєСѓ РІРЅРѕРІСЊ РІРµР»РёРєРѕР№\",</segment>
+		<segment id="107" parent="106" relname="attribution">- РіРѕРІРѕСЂРёР»РѕСЃСЊ РІ Р·Р°СЏРІР»РµРЅРёРё СЃРѕСЂР°С‚РЅРёРєРѕРІ РёР·Р±СЂР°РЅРЅРѕРіРѕ РїСЂРµР·РёРґРµРЅС‚Р°.</segment>
+		<segment id="110" parent="114" relname="joint">Р Р°РЅРµРµ РўСЂР°РјРї РЅРµРѕРґРЅРѕРєСЂР°С‚РЅРѕ РѕРїСЂРѕРІРµСЂРіР°Р» РїСЂРµРґРїРѕР»РѕР¶РµРЅРёСЏ Рѕ РІРјРµС€Р°С‚РµР»СЊСЃС‚РІРµ Р РѕСЃСЃРёРё РІ РІС‹Р±РѕСЂС‹ РІ РЎРѕРµРґРёРЅРµРЅРЅС‹С… РЁС‚Р°С‚Р°С….\n\nРќР°РїРѕРјРЅРёРј,</segment>
+		<segment id="111" parent="112" relname="attribution">РІ РїСЂРµРґРґРІРµСЂРёРё РїСЂРµР·РёРґРµРЅС‚СЃРєРёС… РІС‹Р±РѕСЂРѕРІ СЂСѓРєРѕРІРѕРґСЃС‚РІРѕ РЎРЁРђ РЅРµРѕРґРЅРѕРєСЂР°С‚РЅРѕ РІС‹СЃРєР°Р·С‹РІР°Р»Рѕ РїСЂРµРґРїРѕР»РѕР¶РµРЅРёСЏ Рѕ С‚РѕРј,</segment>
+		<segment id="112" parent="113" relname="span">С‡С‚Рѕ СЃРµСЂРІРµСЂР° Р”РµРјРѕРєСЂР°С‚РёС‡РµСЃРєРѕР№ РїР°СЂС‚РёРё РІР·Р»РѕРјР°Р»Рё С…Р°РєРµСЂС‹, СЃРІСЏР·Р°РЅРЅС‹Рµ СЃ СЂРѕСЃСЃРёР№СЃРєРёРјРё РІР»Р°СЃС‚СЏРјРё.</segment>
+		<segment id="115" parent="116" relname="attribution">РџРѕ РјРЅРµРЅРёСЋ Р’Р°С€РёРЅРіС‚РѕРЅР°,</segment>
+		<segment id="116" parent="117" relname="span">Р РѕСЃСЃРёСЏ С‚Р°РєРёРј РѕР±СЂР°Р·РѕРј РїС‹С‚Р°Р»Р°СЃСЊ РїРѕРІР»РёСЏС‚СЊ РЅР° РёС‚РѕРіРё РіРѕР»РѕСЃРѕРІР°РЅРёСЏ РІ РїРѕР»СЊР·Сѓ РўСЂР°РјРїР°.</segment>
+		<segment id="118" parent="120" relname="span">Р’РїСЂРѕС‡РµРј, РЅРёРєР°РєРёС… РґРѕРєР°Р·Р°С‚РµР»СЊСЃС‚РІ РїСЂРµРґСЃС‚Р°РІР»РµРЅРѕ РЅРµ Р±С‹Р»Рѕ.</segment>
+		<segment id="119" parent="118" relname="elaboration">Р’ РњРѕСЃРєРІРµ РѕР±РІРёРЅРµРЅРёСЏ РЅР°Р·С‹РІР°Р»Рё РіРѕР»РѕСЃР»РѕРІРЅС‹РјРё.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/11Dec2016/trump_4.html\n</segment>
 		<group id="54" type="span" parent="127" relname="preparation"/>
 		<group id="48" type="span" parent="54" relname="span"/>
 		<group id="47" type="span" parent="48" relname="span"/>

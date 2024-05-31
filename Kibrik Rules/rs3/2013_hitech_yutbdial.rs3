@@ -14,34 +14,34 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="29" parent="31" relname="span">YouTube создаст конкурента \"яблочному\" сервису домашнего потокового вещания AirPlay\n\nYouTube ведет разработку DIAL (Discovery and Lanuch) — открытого протокола для беспроводного управления мультимедийным контентом, похожего на сервис AirPlay для устройств Apple,</segment>
-		<segment id="30" parent="29" relname="attribution">сообщают Вести.Ru.</segment>
-		<segment id="32" parent="38" relname="contrast">DIAL при этом не просто дублирует картинку с одного устройства на другое,</segment>
-		<segment id="33" parent="37" relname="span">а позволяет управлять ими</segment>
-		<segment id="34" parent="36" relname="joint">при помощи одного и того же приложения.\n\nОсновным партнером видеосервиса Google</segment>
-		<segment id="35" parent="36" relname="joint">при работе над этим проектом стал популярный в США и Канаде сервис онлайн-проката Netflix.</segment>
-		<segment id="40" parent="43" relname="attribution">Как говорят представители NetFlix,</segment>
-		<segment id="41" parent="43" relname="joint">объединение сил с YouTube позволит им в кратчайшие сроки развить новую платформу</segment>
-		<segment id="42" parent="43" relname="joint">и сделать ее наиболее популярной среди пользователей</segment>
-		<segment id="45" parent="53" relname="span">.\n\nDIAL работает так:</segment>
-		<segment id="46" parent="52" relname="sequence">пользователь запускает на смартфоне или другом устройстве приложение Netflix,</segment>
-		<segment id="47" parent="51" relname="sequence">потом сканирует сеть на предмет совместимых смарт-ТВ или телеприставок,</segment>
-		<segment id="48" parent="50" relname="sequence">подключается к ним</segment>
-		<segment id="49" parent="50" relname="sequence">и через такую же программу на большом экране выбирает фильмы для просмотра.</segment>
-		<segment id="54" parent="56" relname="span">Также можно запускать веб-приложения,</segment>
-		<segment id="55" parent="54" relname="condition">если их поддерживает устройство.\n\nNetflix уже некоторое время экспериментирует с концепцией второго экрана.</segment>
-		<segment id="57" parent="59" relname="joint">Пользователи могут листать каталог на своем смартфоне</segment>
-		<segment id="58" parent="59" relname="joint">и запускать на фильмы на консоли PlayStation 3,</segment>
-		<segment id="60" parent="61" relname="contrast">но перед этим им нужно вручную открыть приложения на обоих устройствах.</segment>
-		<segment id="62" parent="66" relname="contrast">DIAL все эти действия выполняет автоматически.\n\nВпервые DIAL был показан публике на выставке CES в начале января,</segment>
-		<segment id="63" parent="65" relname="span">однако более подробная информация о механизме работы этого сервиса стала доступна лишь сейчас.\n\nКроме того, по данным издания Gigaom,</segment>
-		<segment id="64" parent="63" relname="elaboration">YouTube и Netflix уже заручились поддержкой ключевых производителей (Samsung, Sony) и контент-платформ (Hulu, BBC).</segment>
-		<segment id="67" parent="69" relname="span">Поддержка DIAL, например, уже есть в телеприставке Google TV последнего поколения.\n\nК числу конкурентов AirPlay можно отнести стандарт Miracast,</segment>
-		<segment id="68" parent="67" relname="elaboration">который в сентябре 2011 года утвердила организация Wi-Fi Alliance.</segment>
-		<segment id="70" parent="73" relname="condition">Основанный на Wi-Fi Direct,</segment>
-		<segment id="71" parent="73" relname="span">он тоже позволяет передавать данные с одного устройства напрямую,</segment>
-		<segment id="72" parent="71" relname="condition">без подключения к беспроводной сети.</segment>
-		<segment id="75" parent="74" relname="elaboration">Поддержка этого протокола была включена в операционную систему Android 4.2 (Jelly Bean).\n\nИсточник: https://www.newsru.com/hitech/24Jan2013/yutbdial.html\n</segment>
+		<segment id="29" parent="31" relname="span">YouTube СЃРѕР·РґР°СЃС‚ РєРѕРЅРєСѓСЂРµРЅС‚Р° \"СЏР±Р»РѕС‡РЅРѕРјСѓ\" СЃРµСЂРІРёСЃСѓ РґРѕРјР°С€РЅРµРіРѕ РїРѕС‚РѕРєРѕРІРѕРіРѕ РІРµС‰Р°РЅРёСЏ AirPlay\n\nYouTube РІРµРґРµС‚ СЂР°Р·СЂР°Р±РѕС‚РєСѓ DIAL (Discovery and Lanuch) вЂ” РѕС‚РєСЂС‹С‚РѕРіРѕ РїСЂРѕС‚РѕРєРѕР»Р° РґР»СЏ Р±РµСЃРїСЂРѕРІРѕРґРЅРѕРіРѕ СѓРїСЂР°РІР»РµРЅРёСЏ РјСѓР»СЊС‚РёРјРµРґРёР№РЅС‹Рј РєРѕРЅС‚РµРЅС‚РѕРј, РїРѕС…РѕР¶РµРіРѕ РЅР° СЃРµСЂРІРёСЃ AirPlay РґР»СЏ СѓСЃС‚СЂРѕР№СЃС‚РІ Apple,</segment>
+		<segment id="30" parent="29" relname="attribution">СЃРѕРѕР±С‰Р°СЋС‚ Р’РµСЃС‚Рё.Ru.</segment>
+		<segment id="32" parent="38" relname="contrast">DIAL РїСЂРё СЌС‚РѕРј РЅРµ РїСЂРѕСЃС‚Рѕ РґСѓР±Р»РёСЂСѓРµС‚ РєР°СЂС‚РёРЅРєСѓ СЃ РѕРґРЅРѕРіРѕ СѓСЃС‚СЂРѕР№СЃС‚РІР° РЅР° РґСЂСѓРіРѕРµ,</segment>
+		<segment id="33" parent="37" relname="span">Р° РїРѕР·РІРѕР»СЏРµС‚ СѓРїСЂР°РІР»СЏС‚СЊ РёРјРё</segment>
+		<segment id="34" parent="36" relname="joint">РїСЂРё РїРѕРјРѕС‰Рё РѕРґРЅРѕРіРѕ Рё С‚РѕРіРѕ Р¶Рµ РїСЂРёР»РѕР¶РµРЅРёСЏ.\n\nРћСЃРЅРѕРІРЅС‹Рј РїР°СЂС‚РЅРµСЂРѕРј РІРёРґРµРѕСЃРµСЂРІРёСЃР° Google</segment>
+		<segment id="35" parent="36" relname="joint">РїСЂРё СЂР°Р±РѕС‚Рµ РЅР°Рґ СЌС‚РёРј РїСЂРѕРµРєС‚РѕРј СЃС‚Р°Р» РїРѕРїСѓР»СЏСЂРЅС‹Р№ РІ РЎРЁРђ Рё РљР°РЅР°РґРµ СЃРµСЂРІРёСЃ РѕРЅР»Р°Р№РЅ-РїСЂРѕРєР°С‚Р° Netflix.</segment>
+		<segment id="40" parent="43" relname="attribution">РљР°Рє РіРѕРІРѕСЂСЏС‚ РїСЂРµРґСЃС‚Р°РІРёС‚РµР»Рё NetFlix,</segment>
+		<segment id="41" parent="43" relname="joint">РѕР±СЉРµРґРёРЅРµРЅРёРµ СЃРёР» СЃ YouTube РїРѕР·РІРѕР»РёС‚ РёРј РІ РєСЂР°С‚С‡Р°Р№С€РёРµ СЃСЂРѕРєРё СЂР°Р·РІРёС‚СЊ РЅРѕРІСѓСЋ РїР»Р°С‚С„РѕСЂРјСѓ</segment>
+		<segment id="42" parent="43" relname="joint">Рё СЃРґРµР»Р°С‚СЊ РµРµ РЅР°РёР±РѕР»РµРµ РїРѕРїСѓР»СЏСЂРЅРѕР№ СЃСЂРµРґРё РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№</segment>
+		<segment id="45" parent="53" relname="span">.\n\nDIAL СЂР°Р±РѕС‚Р°РµС‚ С‚Р°Рє:</segment>
+		<segment id="46" parent="52" relname="sequence">РїРѕР»СЊР·РѕРІР°С‚РµР»СЊ Р·Р°РїСѓСЃРєР°РµС‚ РЅР° СЃРјР°СЂС‚С„РѕРЅРµ РёР»Рё РґСЂСѓРіРѕРј СѓСЃС‚СЂРѕР№СЃС‚РІРµ РїСЂРёР»РѕР¶РµРЅРёРµ Netflix,</segment>
+		<segment id="47" parent="51" relname="sequence">РїРѕС‚РѕРј СЃРєР°РЅРёСЂСѓРµС‚ СЃРµС‚СЊ РЅР° РїСЂРµРґРјРµС‚ СЃРѕРІРјРµСЃС‚РёРјС‹С… СЃРјР°СЂС‚-РўР’ РёР»Рё С‚РµР»РµРїСЂРёСЃС‚Р°РІРѕРє,</segment>
+		<segment id="48" parent="50" relname="sequence">РїРѕРґРєР»СЋС‡Р°РµС‚СЃСЏ Рє РЅРёРј</segment>
+		<segment id="49" parent="50" relname="sequence">Рё С‡РµСЂРµР· С‚Р°РєСѓСЋ Р¶Рµ РїСЂРѕРіСЂР°РјРјСѓ РЅР° Р±РѕР»СЊС€РѕРј СЌРєСЂР°РЅРµ РІС‹Р±РёСЂР°РµС‚ С„РёР»СЊРјС‹ РґР»СЏ РїСЂРѕСЃРјРѕС‚СЂР°.</segment>
+		<segment id="54" parent="56" relname="span">РўР°РєР¶Рµ РјРѕР¶РЅРѕ Р·Р°РїСѓСЃРєР°С‚СЊ РІРµР±-РїСЂРёР»РѕР¶РµРЅРёСЏ,</segment>
+		<segment id="55" parent="54" relname="condition">РµСЃР»Рё РёС… РїРѕРґРґРµСЂР¶РёРІР°РµС‚ СѓСЃС‚СЂРѕР№СЃС‚РІРѕ.\n\nNetflix СѓР¶Рµ РЅРµРєРѕС‚РѕСЂРѕРµ РІСЂРµРјСЏ СЌРєСЃРїРµСЂРёРјРµРЅС‚РёСЂСѓРµС‚ СЃ РєРѕРЅС†РµРїС†РёРµР№ РІС‚РѕСЂРѕРіРѕ СЌРєСЂР°РЅР°.</segment>
+		<segment id="57" parent="59" relname="joint">РџРѕР»СЊР·РѕРІР°С‚РµР»Рё РјРѕРіСѓС‚ Р»РёСЃС‚Р°С‚СЊ РєР°С‚Р°Р»РѕРі РЅР° СЃРІРѕРµРј СЃРјР°СЂС‚С„РѕРЅРµ</segment>
+		<segment id="58" parent="59" relname="joint">Рё Р·Р°РїСѓСЃРєР°С‚СЊ РЅР° С„РёР»СЊРјС‹ РЅР° РєРѕРЅСЃРѕР»Рё PlayStation 3,</segment>
+		<segment id="60" parent="61" relname="contrast">РЅРѕ РїРµСЂРµРґ СЌС‚РёРј РёРј РЅСѓР¶РЅРѕ РІСЂСѓС‡РЅСѓСЋ РѕС‚РєСЂС‹С‚СЊ РїСЂРёР»РѕР¶РµРЅРёСЏ РЅР° РѕР±РѕРёС… СѓСЃС‚СЂРѕР№СЃС‚РІР°С….</segment>
+		<segment id="62" parent="66" relname="contrast">DIAL РІСЃРµ СЌС‚Рё РґРµР№СЃС‚РІРёСЏ РІС‹РїРѕР»РЅСЏРµС‚ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё.\n\nР’РїРµСЂРІС‹Рµ DIAL Р±С‹Р» РїРѕРєР°Р·Р°РЅ РїСѓР±Р»РёРєРµ РЅР° РІС‹СЃС‚Р°РІРєРµ CES РІ РЅР°С‡Р°Р»Рµ СЏРЅРІР°СЂСЏ,</segment>
+		<segment id="63" parent="65" relname="span">РѕРґРЅР°РєРѕ Р±РѕР»РµРµ РїРѕРґСЂРѕР±РЅР°СЏ РёРЅС„РѕСЂРјР°С†РёСЏ Рѕ РјРµС…Р°РЅРёР·РјРµ СЂР°Р±РѕС‚С‹ СЌС‚РѕРіРѕ СЃРµСЂРІРёСЃР° СЃС‚Р°Р»Р° РґРѕСЃС‚СѓРїРЅР° Р»РёС€СЊ СЃРµР№С‡Р°СЃ.\n\nРљСЂРѕРјРµ С‚РѕРіРѕ, РїРѕ РґР°РЅРЅС‹Рј РёР·РґР°РЅРёСЏ Gigaom,</segment>
+		<segment id="64" parent="63" relname="elaboration">YouTube Рё Netflix СѓР¶Рµ Р·Р°СЂСѓС‡РёР»РёСЃСЊ РїРѕРґРґРµСЂР¶РєРѕР№ РєР»СЋС‡РµРІС‹С… РїСЂРѕРёР·РІРѕРґРёС‚РµР»РµР№ (Samsung, Sony) Рё РєРѕРЅС‚РµРЅС‚-РїР»Р°С‚С„РѕСЂРј (Hulu, BBC).</segment>
+		<segment id="67" parent="69" relname="span">РџРѕРґРґРµСЂР¶РєР° DIAL, РЅР°РїСЂРёРјРµСЂ, СѓР¶Рµ РµСЃС‚СЊ РІ С‚РµР»РµРїСЂРёСЃС‚Р°РІРєРµ Google TV РїРѕСЃР»РµРґРЅРµРіРѕ РїРѕРєРѕР»РµРЅРёСЏ.\n\nРљ С‡РёСЃР»Сѓ РєРѕРЅРєСѓСЂРµРЅС‚РѕРІ AirPlay РјРѕР¶РЅРѕ РѕС‚РЅРµСЃС‚Рё СЃС‚Р°РЅРґР°СЂС‚ Miracast,</segment>
+		<segment id="68" parent="67" relname="elaboration">РєРѕС‚РѕСЂС‹Р№ РІ СЃРµРЅС‚СЏР±СЂРµ 2011 РіРѕРґР° СѓС‚РІРµСЂРґРёР»Р° РѕСЂРіР°РЅРёР·Р°С†РёСЏ Wi-Fi Alliance.</segment>
+		<segment id="70" parent="73" relname="condition">РћСЃРЅРѕРІР°РЅРЅС‹Р№ РЅР° Wi-Fi Direct,</segment>
+		<segment id="71" parent="73" relname="span">РѕРЅ С‚РѕР¶Рµ РїРѕР·РІРѕР»СЏРµС‚ РїРµСЂРµРґР°РІР°С‚СЊ РґР°РЅРЅС‹Рµ СЃ РѕРґРЅРѕРіРѕ СѓСЃС‚СЂРѕР№СЃС‚РІР° РЅР°РїСЂСЏРјСѓСЋ,</segment>
+		<segment id="72" parent="71" relname="condition">Р±РµР· РїРѕРґРєР»СЋС‡РµРЅРёСЏ Рє Р±РµСЃРїСЂРѕРІРѕРґРЅРѕР№ СЃРµС‚Рё.</segment>
+		<segment id="75" parent="74" relname="elaboration">РџРѕРґРґРµСЂР¶РєР° СЌС‚РѕРіРѕ РїСЂРѕС‚РѕРєРѕР»Р° Р±С‹Р»Р° РІРєР»СЋС‡РµРЅР° РІ РѕРїРµСЂР°С†РёРѕРЅРЅСѓСЋ СЃРёСЃС‚РµРјСѓ Android 4.2 (Jelly Bean).\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/hitech/24Jan2013/yutbdial.html\n</segment>
 		<group id="39" type="span" parent="82" relname="preparation"/>
 		<group id="31" type="span" parent="38" relname="preparation"/>
 		<group id="38" type="multinuc" parent="39" relname="span"/>

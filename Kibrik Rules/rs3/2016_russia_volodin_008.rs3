@@ -17,45 +17,45 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="40" parent="42" relname="span">Спикер Госдумы Володин \"запретил\" Навальному участвовать в выборах,</segment>
-		<segment id="41" parent="40" relname="elaboration">забыв про решение Верховного суда\n\nГлава Фонда борьбы с коррупцией Алексей Навальный,</segment>
-		<segment id="43" parent="45" relname="span">объявивший о желании участвовать в выборах президента в 2018 году,</segment>
-		<segment id="44" parent="43" relname="cause-effect">не может баллотироваться на пост главы государства,</segment>
-		<segment id="47" parent="49" relname="span">следует из заявления спикера Государственной думы Вячеслава Володина,</segment>
-		<segment id="48" parent="47" relname="elaboration">которого цитирует газета \"Ведомости\".\n\n\"Его намерение должно в первую очередь опираться на закон.</segment>
-		<segment id="51" parent="52" relname="condition">Если закон ему позволяет,</segment>
-		<segment id="52" parent="53" relname="span">тогда можно о чем-то рассуждать.</segment>
-		<segment id="54" parent="55" relname="condition">А когда закон не позволяет,</segment>
-		<segment id="55" parent="56" relname="span">зачем людей-то вводить в заблуждение</segment>
+		<segment id="40" parent="42" relname="span">РЎРїРёРєРµСЂ Р“РѕСЃРґСѓРјС‹ Р’РѕР»РѕРґРёРЅ \"Р·Р°РїСЂРµС‚РёР»\" РќР°РІР°Р»СЊРЅРѕРјСѓ СѓС‡Р°СЃС‚РІРѕРІР°С‚СЊ РІ РІС‹Р±РѕСЂР°С…,</segment>
+		<segment id="41" parent="40" relname="elaboration">Р·Р°Р±С‹РІ РїСЂРѕ СЂРµС€РµРЅРёРµ Р’РµСЂС…РѕРІРЅРѕРіРѕ СЃСѓРґР°\n\nР“Р»Р°РІР° Р¤РѕРЅРґР° Р±РѕСЂСЊР±С‹ СЃ РєРѕСЂСЂСѓРїС†РёРµР№ РђР»РµРєСЃРµР№ РќР°РІР°Р»СЊРЅС‹Р№,</segment>
+		<segment id="43" parent="45" relname="span">РѕР±СЉСЏРІРёРІС€РёР№ Рѕ Р¶РµР»Р°РЅРёРё СѓС‡Р°СЃС‚РІРѕРІР°С‚СЊ РІ РІС‹Р±РѕСЂР°С… РїСЂРµР·РёРґРµРЅС‚Р° РІ 2018 РіРѕРґСѓ,</segment>
+		<segment id="44" parent="43" relname="cause-effect">РЅРµ РјРѕР¶РµС‚ Р±Р°Р»Р»РѕС‚РёСЂРѕРІР°С‚СЊСЃСЏ РЅР° РїРѕСЃС‚ РіР»Р°РІС‹ РіРѕСЃСѓРґР°СЂСЃС‚РІР°,</segment>
+		<segment id="47" parent="49" relname="span">СЃР»РµРґСѓРµС‚ РёР· Р·Р°СЏРІР»РµРЅРёСЏ СЃРїРёРєРµСЂР° Р“РѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅРѕР№ РґСѓРјС‹ Р’СЏС‡РµСЃР»Р°РІР° Р’РѕР»РѕРґРёРЅР°,</segment>
+		<segment id="48" parent="47" relname="elaboration">РєРѕС‚РѕСЂРѕРіРѕ С†РёС‚РёСЂСѓРµС‚ РіР°Р·РµС‚Р° \"Р’РµРґРѕРјРѕСЃС‚Рё\".\n\n\"Р•РіРѕ РЅР°РјРµСЂРµРЅРёРµ РґРѕР»Р¶РЅРѕ РІ РїРµСЂРІСѓСЋ РѕС‡РµСЂРµРґСЊ РѕРїРёСЂР°С‚СЊСЃСЏ РЅР° Р·Р°РєРѕРЅ.</segment>
+		<segment id="51" parent="52" relname="condition">Р•СЃР»Рё Р·Р°РєРѕРЅ РµРјСѓ РїРѕР·РІРѕР»СЏРµС‚,</segment>
+		<segment id="52" parent="53" relname="span">С‚РѕРіРґР° РјРѕР¶РЅРѕ Рѕ С‡РµРј-С‚Рѕ СЂР°СЃСЃСѓР¶РґР°С‚СЊ.</segment>
+		<segment id="54" parent="55" relname="condition">Рђ РєРѕРіРґР° Р·Р°РєРѕРЅ РЅРµ РїРѕР·РІРѕР»СЏРµС‚,</segment>
+		<segment id="55" parent="56" relname="span">Р·Р°С‡РµРј Р»СЋРґРµР№-С‚Рѕ РІРІРѕРґРёС‚СЊ РІ Р·Р°Р±Р»СѓР¶РґРµРЅРёРµ</segment>
 		<segment id="57" parent="58" relname="span">?\"</segment>
-		<segment id="60" parent="59" relname="attribution">- сказал Володин,</segment>
-		<segment id="62" parent="66" relname="contrast">не называя имени и фамилии оппозиционера,</segment>
-		<segment id="63" parent="64" relname="attribution">а лишь используя местоимения.\n\nНавальный объявил</segment>
-		<segment id="64" parent="65" relname="span">о намерении участвовать в выборах 13 декабря.</segment>
-		<segment id="67" parent="68" relname="span">Право баллотироваться он получил после решения Верховного суда РФ.</segment>
-		<segment id="69" parent="73" relname="span">В сентябре Верховный суд,</segment>
-		<segment id="70" parent="72" relname="joint">исполняя решение Европейского суда по правам человека,</segment>
-		<segment id="71" parent="72" relname="joint">отменил приговор оппозиционеру по \"делу \"Кировлеса\".\n\n- Песков ответил на вопрос о выдвижении \"абсолютного либерала\" Путина на выборы 2018 года\n\nПо этому делу глава Фонда борьбы с коррупцией был осужден по тяжкой статье,</segment>
-		<segment id="74" parent="75" relname="span">что не позволяло ему участвовать в выборах.</segment>
-		<segment id="76" parent="84" relname="span">Условный срок по \"делу Yves Rocher\" не брался в расчет,</segment>
-		<segment id="77" parent="79" relname="span">поскольку приговор выносился по статье средней тяжести,</segment>
-		<segment id="78" parent="77" relname="elaboration">которая не мешает выдвижению.\n\nКак сообщают \"Ведомости\",</segment>
-		<segment id="80" parent="81" relname="attribution">на замечание журналиста,</segment>
-		<segment id="81" parent="82" relname="span">что Навальный может избираться,</segment>
-		<segment id="85" parent="92" relname="attribution">Володин сказал:</segment>
-		<segment id="86" parent="90" relname="span">\"Я не готов трактовать в вашей трактовке.</segment>
-		<segment id="87" parent="88" relname="condition">Потому что если закон у нас сегодня соблюдается,</segment>
-		<segment id="88" parent="89" relname="span">тогда надо исходить из этого.</segment>
-		<segment id="91" parent="92" relname="span">Тогда ему надо мечтать о другом, а не о выборах.</segment>
-		<segment id="94" parent="97" relname="condition">А если мы начинаем это прикручивать к решениям, которые приняты где-то,</segment>
-		<segment id="95" parent="97" relname="span">и потом ссылать на эту норму</segment>
-		<segment id="96" parent="95" relname="interpretation-evaluation">- то можно многое обсуждать</segment>
-		<segment id="99" parent="100" relname="attribution">и договориться до не пойми чего\".\n\nРанее пресс-секретарь президента Дмитрий Песков сказал,</segment>
-		<segment id="100" parent="101" relname="span">что в Кремле \"никак\" не относятся к выдвижению Навального.</segment>
-		<segment id="109" parent="114" relname="attribution">Однако кремлевский источник агентства Bloomberg,</segment>
-		<segment id="110" parent="113" relname="attribution">участвовавший в обсуждении вопроса участия оппозиционера в выборах, сообщил,</segment>
-		<segment id="111" parent="113" relname="span">что власти РФ положительно смотрят на намерения Навального,</segment>
-		<segment id="112" parent="111" relname="cause-effect">поскольку это поможет легитимизировать сами выборы.\n\nИсточник: https://www.newsru.com/russia/21Dec2016/volodin.html\n</segment>
+		<segment id="60" parent="59" relname="attribution">- СЃРєР°Р·Р°Р» Р’РѕР»РѕРґРёРЅ,</segment>
+		<segment id="62" parent="66" relname="contrast">РЅРµ РЅР°Р·С‹РІР°СЏ РёРјРµРЅРё Рё С„Р°РјРёР»РёРё РѕРїРїРѕР·РёС†РёРѕРЅРµСЂР°,</segment>
+		<segment id="63" parent="64" relname="attribution">Р° Р»РёС€СЊ РёСЃРїРѕР»СЊР·СѓСЏ РјРµСЃС‚РѕРёРјРµРЅРёСЏ.\n\nРќР°РІР°Р»СЊРЅС‹Р№ РѕР±СЉСЏРІРёР»</segment>
+		<segment id="64" parent="65" relname="span">Рѕ РЅР°РјРµСЂРµРЅРёРё СѓС‡Р°СЃС‚РІРѕРІР°С‚СЊ РІ РІС‹Р±РѕСЂР°С… 13 РґРµРєР°Р±СЂСЏ.</segment>
+		<segment id="67" parent="68" relname="span">РџСЂР°РІРѕ Р±Р°Р»Р»РѕС‚РёСЂРѕРІР°С‚СЊСЃСЏ РѕРЅ РїРѕР»СѓС‡РёР» РїРѕСЃР»Рµ СЂРµС€РµРЅРёСЏ Р’РµСЂС…РѕРІРЅРѕРіРѕ СЃСѓРґР° Р Р¤.</segment>
+		<segment id="69" parent="73" relname="span">Р’ СЃРµРЅС‚СЏР±СЂРµ Р’РµСЂС…РѕРІРЅС‹Р№ СЃСѓРґ,</segment>
+		<segment id="70" parent="72" relname="joint">РёСЃРїРѕР»РЅСЏСЏ СЂРµС€РµРЅРёРµ Р•РІСЂРѕРїРµР№СЃРєРѕРіРѕ СЃСѓРґР° РїРѕ РїСЂР°РІР°Рј С‡РµР»РѕРІРµРєР°,</segment>
+		<segment id="71" parent="72" relname="joint">РѕС‚РјРµРЅРёР» РїСЂРёРіРѕРІРѕСЂ РѕРїРїРѕР·РёС†РёРѕРЅРµСЂСѓ РїРѕ \"РґРµР»Сѓ \"РљРёСЂРѕРІР»РµСЃР°\".\n\n- РџРµСЃРєРѕРІ РѕС‚РІРµС‚РёР» РЅР° РІРѕРїСЂРѕСЃ Рѕ РІС‹РґРІРёР¶РµРЅРёРё \"Р°Р±СЃРѕР»СЋС‚РЅРѕРіРѕ Р»РёР±РµСЂР°Р»Р°\" РџСѓС‚РёРЅР° РЅР° РІС‹Р±РѕСЂС‹ 2018 РіРѕРґР°\n\nРџРѕ СЌС‚РѕРјСѓ РґРµР»Сѓ РіР»Р°РІР° Р¤РѕРЅРґР° Р±РѕСЂСЊР±С‹ СЃ РєРѕСЂСЂСѓРїС†РёРµР№ Р±С‹Р» РѕСЃСѓР¶РґРµРЅ РїРѕ С‚СЏР¶РєРѕР№ СЃС‚Р°С‚СЊРµ,</segment>
+		<segment id="74" parent="75" relname="span">С‡С‚Рѕ РЅРµ РїРѕР·РІРѕР»СЏР»Рѕ РµРјСѓ СѓС‡Р°СЃС‚РІРѕРІР°С‚СЊ РІ РІС‹Р±РѕСЂР°С….</segment>
+		<segment id="76" parent="84" relname="span">РЈСЃР»РѕРІРЅС‹Р№ СЃСЂРѕРє РїРѕ \"РґРµР»Сѓ Yves Rocher\" РЅРµ Р±СЂР°Р»СЃСЏ РІ СЂР°СЃС‡РµС‚,</segment>
+		<segment id="77" parent="79" relname="span">РїРѕСЃРєРѕР»СЊРєСѓ РїСЂРёРіРѕРІРѕСЂ РІС‹РЅРѕСЃРёР»СЃСЏ РїРѕ СЃС‚Р°С‚СЊРµ СЃСЂРµРґРЅРµР№ С‚СЏР¶РµСЃС‚Рё,</segment>
+		<segment id="78" parent="77" relname="elaboration">РєРѕС‚РѕСЂР°СЏ РЅРµ РјРµС€Р°РµС‚ РІС‹РґРІРёР¶РµРЅРёСЋ.\n\nРљР°Рє СЃРѕРѕР±С‰Р°СЋС‚ \"Р’РµРґРѕРјРѕСЃС‚Рё\",</segment>
+		<segment id="80" parent="81" relname="attribution">РЅР° Р·Р°РјРµС‡Р°РЅРёРµ Р¶СѓСЂРЅР°Р»РёСЃС‚Р°,</segment>
+		<segment id="81" parent="82" relname="span">С‡С‚Рѕ РќР°РІР°Р»СЊРЅС‹Р№ РјРѕР¶РµС‚ РёР·Р±РёСЂР°С‚СЊСЃСЏ,</segment>
+		<segment id="85" parent="92" relname="attribution">Р’РѕР»РѕРґРёРЅ СЃРєР°Р·Р°Р»:</segment>
+		<segment id="86" parent="90" relname="span">\"РЇ РЅРµ РіРѕС‚РѕРІ С‚СЂР°РєС‚РѕРІР°С‚СЊ РІ РІР°С€РµР№ С‚СЂР°РєС‚РѕРІРєРµ.</segment>
+		<segment id="87" parent="88" relname="condition">РџРѕС‚РѕРјСѓ С‡С‚Рѕ РµСЃР»Рё Р·Р°РєРѕРЅ Сѓ РЅР°СЃ СЃРµРіРѕРґРЅСЏ СЃРѕР±Р»СЋРґР°РµС‚СЃСЏ,</segment>
+		<segment id="88" parent="89" relname="span">С‚РѕРіРґР° РЅР°РґРѕ РёСЃС…РѕРґРёС‚СЊ РёР· СЌС‚РѕРіРѕ.</segment>
+		<segment id="91" parent="92" relname="span">РўРѕРіРґР° РµРјСѓ РЅР°РґРѕ РјРµС‡С‚Р°С‚СЊ Рѕ РґСЂСѓРіРѕРј, Р° РЅРµ Рѕ РІС‹Р±РѕСЂР°С….</segment>
+		<segment id="94" parent="97" relname="condition">Рђ РµСЃР»Рё РјС‹ РЅР°С‡РёРЅР°РµРј СЌС‚Рѕ РїСЂРёРєСЂСѓС‡РёРІР°С‚СЊ Рє СЂРµС€РµРЅРёСЏРј, РєРѕС‚РѕСЂС‹Рµ РїСЂРёРЅСЏС‚С‹ РіРґРµ-С‚Рѕ,</segment>
+		<segment id="95" parent="97" relname="span">Рё РїРѕС‚РѕРј СЃСЃС‹Р»Р°С‚СЊ РЅР° СЌС‚Сѓ РЅРѕСЂРјСѓ</segment>
+		<segment id="96" parent="95" relname="interpretation-evaluation">- С‚Рѕ РјРѕР¶РЅРѕ РјРЅРѕРіРѕРµ РѕР±СЃСѓР¶РґР°С‚СЊ</segment>
+		<segment id="99" parent="100" relname="attribution">Рё РґРѕРіРѕРІРѕСЂРёС‚СЊСЃСЏ РґРѕ РЅРµ РїРѕР№РјРё С‡РµРіРѕ\".\n\nР Р°РЅРµРµ РїСЂРµСЃСЃ-СЃРµРєСЂРµС‚Р°СЂСЊ РїСЂРµР·РёРґРµРЅС‚Р° Р”РјРёС‚СЂРёР№ РџРµСЃРєРѕРІ СЃРєР°Р·Р°Р»,</segment>
+		<segment id="100" parent="101" relname="span">С‡С‚Рѕ РІ РљСЂРµРјР»Рµ \"РЅРёРєР°Рє\" РЅРµ РѕС‚РЅРѕСЃСЏС‚СЃСЏ Рє РІС‹РґРІРёР¶РµРЅРёСЋ РќР°РІР°Р»СЊРЅРѕРіРѕ.</segment>
+		<segment id="109" parent="114" relname="attribution">РћРґРЅР°РєРѕ РєСЂРµРјР»РµРІСЃРєРёР№ РёСЃС‚РѕС‡РЅРёРє Р°РіРµРЅС‚СЃС‚РІР° Bloomberg,</segment>
+		<segment id="110" parent="113" relname="attribution">СѓС‡Р°СЃС‚РІРѕРІР°РІС€РёР№ РІ РѕР±СЃСѓР¶РґРµРЅРёРё РІРѕРїСЂРѕСЃР° СѓС‡Р°СЃС‚РёСЏ РѕРїРїРѕР·РёС†РёРѕРЅРµСЂР° РІ РІС‹Р±РѕСЂР°С…, СЃРѕРѕР±С‰РёР»,</segment>
+		<segment id="111" parent="113" relname="span">С‡С‚Рѕ РІР»Р°СЃС‚Рё Р Р¤ РїРѕР»РѕР¶РёС‚РµР»СЊРЅРѕ СЃРјРѕС‚СЂСЏС‚ РЅР° РЅР°РјРµСЂРµРЅРёСЏ РќР°РІР°Р»СЊРЅРѕРіРѕ,</segment>
+		<segment id="112" parent="111" relname="cause-effect">РїРѕСЃРєРѕР»СЊРєСѓ СЌС‚Рѕ РїРѕРјРѕР¶РµС‚ Р»РµРіРёС‚РёРјРёР·РёСЂРѕРІР°С‚СЊ СЃР°РјРё РІС‹Р±РѕСЂС‹.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/21Dec2016/volodin.html\n</segment>
 		<group id="108" type="multinuc" parent="116" relname="contrast"/>
 		<group id="50" type="multinuc" parent="108" relname="joint"/>
 		<group id="46" type="span" parent="50" relname="joint"/>

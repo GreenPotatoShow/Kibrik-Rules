@@ -19,74 +19,74 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="70" parent="205" relname="preparation">\"Коммерсант\" узнал о конфликте пилотов за секунды до катастрофы в Ростове-на-Дону\n\</segment>
-		<segment id="71" parent="74" relname="condition">nПосле расшифровки данных параметрического и речевого самописцев Boeing 737-800,</segment>
-		<segment id="74" parent="75" relname="span">разбившегося в аэропорту Ростова-на-Дону 19 марта, версия об ошибке пилотов стала основной в расследовании авиакатастрофы.</segment>
-		<segment id="76" parent="79" relname="attribution">По словам источника \"Коммерсанта\",</segment>
-		<segment id="77" parent="78" relname="condition">после неудачного захода на посадку</segment>
-		<segment id="78" parent="79" relname="span">один из пилотов слишком сильно задрал нос судна,</segment>
-		<segment id="81" parent="85" relname="span">из-за чего в кабине произошел конфликт,</segment>
-		<segment id="82" parent="84" relname="span">который лишь усугубил ситуацию.\n\nВ МАК не смогли ни подтвердить,</segment>
-		<segment id="83" parent="82" relname="cause-effect">ни опровергнуть информацию,</segment>
-		<segment id="88" parent="91" relname="attribution">сообщает ТАСС.\n\nСогласно новым данным,</segment>
-		<segment id="89" parent="91" relname="contrast">экипаж рейса FZ981 дважды пытался произвести посадку в автоматическом режиме,</segment>
-		<segment id="90" parent="91" relname="contrast">но оба раза сделать это мешал шквалистый и постоянно меняющий свое направление ветер.</segment>
-		<segment id="94" parent="96" relname="span">Из-за погодных условий плохо работал автомат тяги,</segment>
-		<segment id="95" parent="94" relname="purpose">обеспечивающий движение самолета по заданной траектории снижения или подъема в режиме автопилота.\n\</segment>
-		<segment id="97" parent="98" relname="span">nВ связи с этим пилоты приняли решение уходить на очередной круг в ручном режиме.</segment>
-		<segment id="99" parent="103" relname="sequence">Находясь на высоте 270 метров один из пилотов нажал клавишу TOGA,</segment>
-		<segment id="100" parent="102" relname="span">задающую машине команду</segment>
-		<segment id="101" parent="100" relname="purpose">для ухода на второй круг,</segment>
-		<segment id="104" parent="105" relname="sequence">и взял управление на себя.</segment>
-		<segment id="106" parent="107" relname="contrast">Однако экипаж не учел специфику перехода Boeing 737 из режима посадки в режим набора высоты.\n\n</segment>
-		<segment id="109" parent="110" relname="condition">\"Дело в том, что при заходе на полосу под автопилотом</segment>
-		<segment id="110" parent="111" relname="span">лайнер находится в довольно сложной конфигурации:</segment>
-		<segment id="112" parent="116" relname="joint">его руль высоты отклонен на пикирование,</segment>
-		<segment id="113" parent="115" relname="span">а хвостовой стабилизатор при этом работает в противоположном направлении,</segment>
-		<segment id="114" parent="113" relname="condition">задирая нос машины.</segment>
-		<segment id="118" parent="125" relname="condition">Если уход на второй круг происходит в автоматическом режиме,</segment>
-		<segment id="119" parent="125" relname="span">положение всех рулей плавно меняет бортовой компьютер.</segment>
-		<segment id="120" parent="123" relname="condition">В случае же совершения этого маневра руками,</segment>
-		<segment id="121" parent="123" relname="joint">летчик инстинктивно тянет штурвал на себя,</segment>
-		<segment id="122" parent="123" relname="joint">ставя таким образом в положение набора высоты и руль, и стабилизатор.</segment>
-		<segment id="127" parent="129" relname="span">Кабрирующий момент усиливают убирающиеся после нажатия клавиши TOGA закрылки</segment>
-		<segment id="128" parent="127" relname="cause-effect">- в итоге Boeing вместо плавного набора высоты устремляется вверх в режиме истребителя\",</segment>
-		<segment id="130" parent="129" relname="attribution">- поясняет издание.\n\</segment>
-		<segment id="134" parent="135" relname="condition">nПилоты из-за усталости или отсутствия опыта</segment>
-		<segment id="135" parent="136" relname="span">этот маневр не распознали,</segment>
-		<segment id="137" parent="136" relname="attribution">считают эксперты.</segment>
-		<segment id="139" parent="146" relname="condition">А когда скорость самолета начала стремительно падать,</segment>
-		<segment id="140" parent="146" relname="span">в кабине произошел конфликт.\n\nУправляющий летчик,</segment>
-		<segment id="141" parent="145" relname="joint">продолжая подъем,</segment>
-		<segment id="142" parent="144" relname="span">пытался набрать скорость,</segment>
-		<segment id="143" parent="142" relname="condition">увеличив режим работы двигателей до взлетного.</segment>
-		<segment id="148" parent="149" relname="span">Его напарник начал кричать ему \"Стой!</segment>
-		<segment id="151" parent="152" relname="solutionhood">Куда?</segment>
-		<segment id="152" parent="153" relname="span">Стоять!</segment>
-		<segment id="154" parent="158" relname="joint">Стоять\"</segment>
-		<segment id="155" parent="157" relname="span">и одновременно отталкивал свой штурвал,</segment>
-		<segment id="156" parent="155" relname="condition">пытаясь опустить нос самолета.</segment>
-		<segment id="159" parent="160" relname="span">В результате управление судном \"разорвалось\".\n\</segment>
-		<segment id="162" parent="167" relname="attribution">nПо словам собеседника газеты,</segment>
-		<segment id="163" parent="165" relname="span">экипаж согласовал свои действия только тогда,</segment>
-		<segment id="164" parent="163" relname="condition">когда испытали ощущения, \"которые испытывает человек в падающем лифте\".</segment>
-		<segment id="166" parent="165" relname="elaboration">К этому времени неуправляемый самолет мчался к земле под углом 45 градусов со скоростью 325 километров в час.</segment>
-		<segment id="169" parent="171" relname="span">В оставшиеся несколько секунд оба пилота кричали от ужаса.\n\nРаспознать, кто именно совершил ошибку,</segment>
-		<segment id="170" parent="169" relname="condition">пока не удается:</segment>
-		<segment id="172" parent="174" relname="contrast">в последнем диалоги пилоты не упоминают должностей и имен,</segment>
-		<segment id="173" parent="174" relname="contrast">а их голоса оказались странным образом похожи.</segment>
-		<segment id="176" parent="179" relname="attribution">Специалисты не исключают,</segment>
-		<segment id="177" parent="179" relname="span">что для идентификации членов экипажа придется привлекать коллег погибших пилотов или их родственников.\n\nЛетевший из Дубая самолет Boeing 737-800 авиакомпании FlyDubai потерпел катастрофу рано утром 19 марта</segment>
-		<segment id="178" parent="177" relname="elaboration">при попытке сесть в аэропорту Ростова-на-Дону в сложных метеоусловиях.</segment>
-		<segment id="182" parent="187" relname="attribution">По предварительным данным,</segment>
-		<segment id="183" parent="187" relname="contrast">экипаж самолета дважды пытался зайти на посадку,</segment>
-		<segment id="184" parent="186" relname="joint">но безуспешно,</segment>
-		<segment id="185" parent="186" relname="joint">и два часа кружил над аэропортом.\n\</segment>
-		<segment id="189" parent="191" relname="span">nПри попытке уйти на очередной круг самолет рухнул возле взлетно-посадочной полосы,</segment>
-		<segment id="190" parent="189" relname="condition">разлетевшись на мелкие фрагменты.</segment>
-		<segment id="192" parent="196" relname="span">Все находившиеся на борту люди - 55 пассажиров и семь членов экипажа - погибли.\n\nОтметим, что ранее в СМИ озвучивалось предположение,</segment>
-		<segment id="193" parent="195" relname="span">что Boeing 737-800 не удалось вывести из пике</segment>
-		<segment id="194" parent="193" relname="cause-effect">из-за случайно нажатого пилотом кнюпеля.\n\nИсточник: https://www.newsru.com/russia/28Mar2016/conflictboeing.html\n</segment>
+		<segment id="70" parent="205" relname="preparation">\"РљРѕРјРјРµСЂСЃР°РЅС‚\" СѓР·РЅР°Р» Рѕ РєРѕРЅС„Р»РёРєС‚Рµ РїРёР»РѕС‚РѕРІ Р·Р° СЃРµРєСѓРЅРґС‹ РґРѕ РєР°С‚Р°СЃС‚СЂРѕС„С‹ РІ Р РѕСЃС‚РѕРІРµ-РЅР°-Р”РѕРЅСѓ\n\</segment>
+		<segment id="71" parent="74" relname="condition">nРџРѕСЃР»Рµ СЂР°СЃС€РёС„СЂРѕРІРєРё РґР°РЅРЅС‹С… РїР°СЂР°РјРµС‚СЂРёС‡РµСЃРєРѕРіРѕ Рё СЂРµС‡РµРІРѕРіРѕ СЃР°РјРѕРїРёСЃС†РµРІ Boeing 737-800,</segment>
+		<segment id="74" parent="75" relname="span">СЂР°Р·Р±РёРІС€РµРіРѕСЃСЏ РІ Р°СЌСЂРѕРїРѕСЂС‚Сѓ Р РѕСЃС‚РѕРІР°-РЅР°-Р”РѕРЅСѓ 19 РјР°СЂС‚Р°, РІРµСЂСЃРёСЏ РѕР± РѕС€РёР±РєРµ РїРёР»РѕС‚РѕРІ СЃС‚Р°Р»Р° РѕСЃРЅРѕРІРЅРѕР№ РІ СЂР°СЃСЃР»РµРґРѕРІР°РЅРёРё Р°РІРёР°РєР°С‚Р°СЃС‚СЂРѕС„С‹.</segment>
+		<segment id="76" parent="79" relname="attribution">РџРѕ СЃР»РѕРІР°Рј РёСЃС‚РѕС‡РЅРёРєР° \"РљРѕРјРјРµСЂСЃР°РЅС‚Р°\",</segment>
+		<segment id="77" parent="78" relname="condition">РїРѕСЃР»Рµ РЅРµСѓРґР°С‡РЅРѕРіРѕ Р·Р°С…РѕРґР° РЅР° РїРѕСЃР°РґРєСѓ</segment>
+		<segment id="78" parent="79" relname="span">РѕРґРёРЅ РёР· РїРёР»РѕС‚РѕРІ СЃР»РёС€РєРѕРј СЃРёР»СЊРЅРѕ Р·Р°РґСЂР°Р» РЅРѕСЃ СЃСѓРґРЅР°,</segment>
+		<segment id="81" parent="85" relname="span">РёР·-Р·Р° С‡РµРіРѕ РІ РєР°Р±РёРЅРµ РїСЂРѕРёР·РѕС€РµР» РєРѕРЅС„Р»РёРєС‚,</segment>
+		<segment id="82" parent="84" relname="span">РєРѕС‚РѕСЂС‹Р№ Р»РёС€СЊ СѓСЃСѓРіСѓР±РёР» СЃРёС‚СѓР°С†РёСЋ.\n\nР’ РњРђРљ РЅРµ СЃРјРѕРіР»Рё РЅРё РїРѕРґС‚РІРµСЂРґРёС‚СЊ,</segment>
+		<segment id="83" parent="82" relname="cause-effect">РЅРё РѕРїСЂРѕРІРµСЂРіРЅСѓС‚СЊ РёРЅС„РѕСЂРјР°С†РёСЋ,</segment>
+		<segment id="88" parent="91" relname="attribution">СЃРѕРѕР±С‰Р°РµС‚ РўРђРЎРЎ.\n\nРЎРѕРіР»Р°СЃРЅРѕ РЅРѕРІС‹Рј РґР°РЅРЅС‹Рј,</segment>
+		<segment id="89" parent="91" relname="contrast">СЌРєРёРїР°Р¶ СЂРµР№СЃР° FZ981 РґРІР°Р¶РґС‹ РїС‹С‚Р°Р»СЃСЏ РїСЂРѕРёР·РІРµСЃС‚Рё РїРѕСЃР°РґРєСѓ РІ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРѕРј СЂРµР¶РёРјРµ,</segment>
+		<segment id="90" parent="91" relname="contrast">РЅРѕ РѕР±Р° СЂР°Р·Р° СЃРґРµР»Р°С‚СЊ СЌС‚Рѕ РјРµС€Р°Р» С€РєРІР°Р»РёСЃС‚С‹Р№ Рё РїРѕСЃС‚РѕСЏРЅРЅРѕ РјРµРЅСЏСЋС‰РёР№ СЃРІРѕРµ РЅР°РїСЂР°РІР»РµРЅРёРµ РІРµС‚РµСЂ.</segment>
+		<segment id="94" parent="96" relname="span">РР·-Р·Р° РїРѕРіРѕРґРЅС‹С… СѓСЃР»РѕРІРёР№ РїР»РѕС…Рѕ СЂР°Р±РѕС‚Р°Р» Р°РІС‚РѕРјР°С‚ С‚СЏРіРё,</segment>
+		<segment id="95" parent="94" relname="purpose">РѕР±РµСЃРїРµС‡РёРІР°СЋС‰РёР№ РґРІРёР¶РµРЅРёРµ СЃР°РјРѕР»РµС‚Р° РїРѕ Р·Р°РґР°РЅРЅРѕР№ С‚СЂР°РµРєС‚РѕСЂРёРё СЃРЅРёР¶РµРЅРёСЏ РёР»Рё РїРѕРґСЉРµРјР° РІ СЂРµР¶РёРјРµ Р°РІС‚РѕРїРёР»РѕС‚Р°.\n\</segment>
+		<segment id="97" parent="98" relname="span">nР’ СЃРІСЏР·Рё СЃ СЌС‚РёРј РїРёР»РѕС‚С‹ РїСЂРёРЅСЏР»Рё СЂРµС€РµРЅРёРµ СѓС…РѕРґРёС‚СЊ РЅР° РѕС‡РµСЂРµРґРЅРѕР№ РєСЂСѓРі РІ СЂСѓС‡РЅРѕРј СЂРµР¶РёРјРµ.</segment>
+		<segment id="99" parent="103" relname="sequence">РќР°С…РѕРґСЏСЃСЊ РЅР° РІС‹СЃРѕС‚Рµ 270 РјРµС‚СЂРѕРІ РѕРґРёРЅ РёР· РїРёР»РѕС‚РѕРІ РЅР°Р¶Р°Р» РєР»Р°РІРёС€Сѓ TOGA,</segment>
+		<segment id="100" parent="102" relname="span">Р·Р°РґР°СЋС‰СѓСЋ РјР°С€РёРЅРµ РєРѕРјР°РЅРґСѓ</segment>
+		<segment id="101" parent="100" relname="purpose">РґР»СЏ СѓС…РѕРґР° РЅР° РІС‚РѕСЂРѕР№ РєСЂСѓРі,</segment>
+		<segment id="104" parent="105" relname="sequence">Рё РІР·СЏР» СѓРїСЂР°РІР»РµРЅРёРµ РЅР° СЃРµР±СЏ.</segment>
+		<segment id="106" parent="107" relname="contrast">РћРґРЅР°РєРѕ СЌРєРёРїР°Р¶ РЅРµ СѓС‡РµР» СЃРїРµС†РёС„РёРєСѓ РїРµСЂРµС…РѕРґР° Boeing 737 РёР· СЂРµР¶РёРјР° РїРѕСЃР°РґРєРё РІ СЂРµР¶РёРј РЅР°Р±РѕСЂР° РІС‹СЃРѕС‚С‹.\n\n</segment>
+		<segment id="109" parent="110" relname="condition">\"Р”РµР»Рѕ РІ С‚РѕРј, С‡С‚Рѕ РїСЂРё Р·Р°С…РѕРґРµ РЅР° РїРѕР»РѕСЃСѓ РїРѕРґ Р°РІС‚РѕРїРёР»РѕС‚РѕРј</segment>
+		<segment id="110" parent="111" relname="span">Р»Р°Р№РЅРµСЂ РЅР°С…РѕРґРёС‚СЃСЏ РІ РґРѕРІРѕР»СЊРЅРѕ СЃР»РѕР¶РЅРѕР№ РєРѕРЅС„РёРіСѓСЂР°С†РёРё:</segment>
+		<segment id="112" parent="116" relname="joint">РµРіРѕ СЂСѓР»СЊ РІС‹СЃРѕС‚С‹ РѕС‚РєР»РѕРЅРµРЅ РЅР° РїРёРєРёСЂРѕРІР°РЅРёРµ,</segment>
+		<segment id="113" parent="115" relname="span">Р° С…РІРѕСЃС‚РѕРІРѕР№ СЃС‚Р°Р±РёР»РёР·Р°С‚РѕСЂ РїСЂРё СЌС‚РѕРј СЂР°Р±РѕС‚Р°РµС‚ РІ РїСЂРѕС‚РёРІРѕРїРѕР»РѕР¶РЅРѕРј РЅР°РїСЂР°РІР»РµРЅРёРё,</segment>
+		<segment id="114" parent="113" relname="condition">Р·Р°РґРёСЂР°СЏ РЅРѕСЃ РјР°С€РёРЅС‹.</segment>
+		<segment id="118" parent="125" relname="condition">Р•СЃР»Рё СѓС…РѕРґ РЅР° РІС‚РѕСЂРѕР№ РєСЂСѓРі РїСЂРѕРёСЃС…РѕРґРёС‚ РІ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРѕРј СЂРµР¶РёРјРµ,</segment>
+		<segment id="119" parent="125" relname="span">РїРѕР»РѕР¶РµРЅРёРµ РІСЃРµС… СЂСѓР»РµР№ РїР»Р°РІРЅРѕ РјРµРЅСЏРµС‚ Р±РѕСЂС‚РѕРІРѕР№ РєРѕРјРїСЊСЋС‚РµСЂ.</segment>
+		<segment id="120" parent="123" relname="condition">Р’ СЃР»СѓС‡Р°Рµ Р¶Рµ СЃРѕРІРµСЂС€РµРЅРёСЏ СЌС‚РѕРіРѕ РјР°РЅРµРІСЂР° СЂСѓРєР°РјРё,</segment>
+		<segment id="121" parent="123" relname="joint">Р»РµС‚С‡РёРє РёРЅСЃС‚РёРЅРєС‚РёРІРЅРѕ С‚СЏРЅРµС‚ С€С‚СѓСЂРІР°Р» РЅР° СЃРµР±СЏ,</segment>
+		<segment id="122" parent="123" relname="joint">СЃС‚Р°РІСЏ С‚Р°РєРёРј РѕР±СЂР°Р·РѕРј РІ РїРѕР»РѕР¶РµРЅРёРµ РЅР°Р±РѕСЂР° РІС‹СЃРѕС‚С‹ Рё СЂСѓР»СЊ, Рё СЃС‚Р°Р±РёР»РёР·Р°С‚РѕСЂ.</segment>
+		<segment id="127" parent="129" relname="span">РљР°Р±СЂРёСЂСѓСЋС‰РёР№ РјРѕРјРµРЅС‚ СѓСЃРёР»РёРІР°СЋС‚ СѓР±РёСЂР°СЋС‰РёРµСЃСЏ РїРѕСЃР»Рµ РЅР°Р¶Р°С‚РёСЏ РєР»Р°РІРёС€Рё TOGA Р·Р°РєСЂС‹Р»РєРё</segment>
+		<segment id="128" parent="127" relname="cause-effect">- РІ РёС‚РѕРіРµ Boeing РІРјРµСЃС‚Рѕ РїР»Р°РІРЅРѕРіРѕ РЅР°Р±РѕСЂР° РІС‹СЃРѕС‚С‹ СѓСЃС‚СЂРµРјР»СЏРµС‚СЃСЏ РІРІРµСЂС… РІ СЂРµР¶РёРјРµ РёСЃС‚СЂРµР±РёС‚РµР»СЏ\",</segment>
+		<segment id="130" parent="129" relname="attribution">- РїРѕСЏСЃРЅСЏРµС‚ РёР·РґР°РЅРёРµ.\n\</segment>
+		<segment id="134" parent="135" relname="condition">nРџРёР»РѕС‚С‹ РёР·-Р·Р° СѓСЃС‚Р°Р»РѕСЃС‚Рё РёР»Рё РѕС‚СЃСѓС‚СЃС‚РІРёСЏ РѕРїС‹С‚Р°</segment>
+		<segment id="135" parent="136" relname="span">СЌС‚РѕС‚ РјР°РЅРµРІСЂ РЅРµ СЂР°СЃРїРѕР·РЅР°Р»Рё,</segment>
+		<segment id="137" parent="136" relname="attribution">СЃС‡РёС‚Р°СЋС‚ СЌРєСЃРїРµСЂС‚С‹.</segment>
+		<segment id="139" parent="146" relname="condition">Рђ РєРѕРіРґР° СЃРєРѕСЂРѕСЃС‚СЊ СЃР°РјРѕР»РµС‚Р° РЅР°С‡Р°Р»Р° СЃС‚СЂРµРјРёС‚РµР»СЊРЅРѕ РїР°РґР°С‚СЊ,</segment>
+		<segment id="140" parent="146" relname="span">РІ РєР°Р±РёРЅРµ РїСЂРѕРёР·РѕС€РµР» РєРѕРЅС„Р»РёРєС‚.\n\nРЈРїСЂР°РІР»СЏСЋС‰РёР№ Р»РµС‚С‡РёРє,</segment>
+		<segment id="141" parent="145" relname="joint">РїСЂРѕРґРѕР»Р¶Р°СЏ РїРѕРґСЉРµРј,</segment>
+		<segment id="142" parent="144" relname="span">РїС‹С‚Р°Р»СЃСЏ РЅР°Р±СЂР°С‚СЊ СЃРєРѕСЂРѕСЃС‚СЊ,</segment>
+		<segment id="143" parent="142" relname="condition">СѓРІРµР»РёС‡РёРІ СЂРµР¶РёРј СЂР°Р±РѕС‚С‹ РґРІРёРіР°С‚РµР»РµР№ РґРѕ РІР·Р»РµС‚РЅРѕРіРѕ.</segment>
+		<segment id="148" parent="149" relname="span">Р•РіРѕ РЅР°РїР°СЂРЅРёРє РЅР°С‡Р°Р» РєСЂРёС‡Р°С‚СЊ РµРјСѓ \"РЎС‚РѕР№!</segment>
+		<segment id="151" parent="152" relname="solutionhood">РљСѓРґР°?</segment>
+		<segment id="152" parent="153" relname="span">РЎС‚РѕСЏС‚СЊ!</segment>
+		<segment id="154" parent="158" relname="joint">РЎС‚РѕСЏС‚СЊ\"</segment>
+		<segment id="155" parent="157" relname="span">Рё РѕРґРЅРѕРІСЂРµРјРµРЅРЅРѕ РѕС‚С‚Р°Р»РєРёРІР°Р» СЃРІРѕР№ С€С‚СѓСЂРІР°Р»,</segment>
+		<segment id="156" parent="155" relname="condition">РїС‹С‚Р°СЏСЃСЊ РѕРїСѓСЃС‚РёС‚СЊ РЅРѕСЃ СЃР°РјРѕР»РµС‚Р°.</segment>
+		<segment id="159" parent="160" relname="span">Р’ СЂРµР·СѓР»СЊС‚Р°С‚Рµ СѓРїСЂР°РІР»РµРЅРёРµ СЃСѓРґРЅРѕРј \"СЂР°Р·РѕСЂРІР°Р»РѕСЃСЊ\".\n\</segment>
+		<segment id="162" parent="167" relname="attribution">nРџРѕ СЃР»РѕРІР°Рј СЃРѕР±РµСЃРµРґРЅРёРєР° РіР°Р·РµС‚С‹,</segment>
+		<segment id="163" parent="165" relname="span">СЌРєРёРїР°Р¶ СЃРѕРіР»Р°СЃРѕРІР°Р» СЃРІРѕРё РґРµР№СЃС‚РІРёСЏ С‚РѕР»СЊРєРѕ С‚РѕРіРґР°,</segment>
+		<segment id="164" parent="163" relname="condition">РєРѕРіРґР° РёСЃРїС‹С‚Р°Р»Рё РѕС‰СѓС‰РµРЅРёСЏ, \"РєРѕС‚РѕСЂС‹Рµ РёСЃРїС‹С‚С‹РІР°РµС‚ С‡РµР»РѕРІРµРє РІ РїР°РґР°СЋС‰РµРј Р»РёС„С‚Рµ\".</segment>
+		<segment id="166" parent="165" relname="elaboration">Рљ СЌС‚РѕРјСѓ РІСЂРµРјРµРЅРё РЅРµСѓРїСЂР°РІР»СЏРµРјС‹Р№ СЃР°РјРѕР»РµС‚ РјС‡Р°Р»СЃСЏ Рє Р·РµРјР»Рµ РїРѕРґ СѓРіР»РѕРј 45 РіСЂР°РґСѓСЃРѕРІ СЃРѕ СЃРєРѕСЂРѕСЃС‚СЊСЋ 325 РєРёР»РѕРјРµС‚СЂРѕРІ РІ С‡Р°СЃ.</segment>
+		<segment id="169" parent="171" relname="span">Р’ РѕСЃС‚Р°РІС€РёРµСЃСЏ РЅРµСЃРєРѕР»СЊРєРѕ СЃРµРєСѓРЅРґ РѕР±Р° РїРёР»РѕС‚Р° РєСЂРёС‡Р°Р»Рё РѕС‚ СѓР¶Р°СЃР°.\n\nР Р°СЃРїРѕР·РЅР°С‚СЊ, РєС‚Рѕ РёРјРµРЅРЅРѕ СЃРѕРІРµСЂС€РёР» РѕС€РёР±РєСѓ,</segment>
+		<segment id="170" parent="169" relname="condition">РїРѕРєР° РЅРµ СѓРґР°РµС‚СЃСЏ:</segment>
+		<segment id="172" parent="174" relname="contrast">РІ РїРѕСЃР»РµРґРЅРµРј РґРёР°Р»РѕРіРё РїРёР»РѕС‚С‹ РЅРµ СѓРїРѕРјРёРЅР°СЋС‚ РґРѕР»Р¶РЅРѕСЃС‚РµР№ Рё РёРјРµРЅ,</segment>
+		<segment id="173" parent="174" relname="contrast">Р° РёС… РіРѕР»РѕСЃР° РѕРєР°Р·Р°Р»РёСЃСЊ СЃС‚СЂР°РЅРЅС‹Рј РѕР±СЂР°Р·РѕРј РїРѕС…РѕР¶Рё.</segment>
+		<segment id="176" parent="179" relname="attribution">РЎРїРµС†РёР°Р»РёСЃС‚С‹ РЅРµ РёСЃРєР»СЋС‡Р°СЋС‚,</segment>
+		<segment id="177" parent="179" relname="span">С‡С‚Рѕ РґР»СЏ РёРґРµРЅС‚РёС„РёРєР°С†РёРё С‡Р»РµРЅРѕРІ СЌРєРёРїР°Р¶Р° РїСЂРёРґРµС‚СЃСЏ РїСЂРёРІР»РµРєР°С‚СЊ РєРѕР»Р»РµРі РїРѕРіРёР±С€РёС… РїРёР»РѕС‚РѕРІ РёР»Рё РёС… СЂРѕРґСЃС‚РІРµРЅРЅРёРєРѕРІ.\n\nР›РµС‚РµРІС€РёР№ РёР· Р”СѓР±Р°СЏ СЃР°РјРѕР»РµС‚ Boeing 737-800 Р°РІРёР°РєРѕРјРїР°РЅРёРё FlyDubai РїРѕС‚РµСЂРїРµР» РєР°С‚Р°СЃС‚СЂРѕС„Сѓ СЂР°РЅРѕ СѓС‚СЂРѕРј 19 РјР°СЂС‚Р°</segment>
+		<segment id="178" parent="177" relname="elaboration">РїСЂРё РїРѕРїС‹С‚РєРµ СЃРµСЃС‚СЊ РІ Р°СЌСЂРѕРїРѕСЂС‚Сѓ Р РѕСЃС‚РѕРІР°-РЅР°-Р”РѕРЅСѓ РІ СЃР»РѕР¶РЅС‹С… РјРµС‚РµРѕСѓСЃР»РѕРІРёСЏС….</segment>
+		<segment id="182" parent="187" relname="attribution">РџРѕ РїСЂРµРґРІР°СЂРёС‚РµР»СЊРЅС‹Рј РґР°РЅРЅС‹Рј,</segment>
+		<segment id="183" parent="187" relname="contrast">СЌРєРёРїР°Р¶ СЃР°РјРѕР»РµС‚Р° РґРІР°Р¶РґС‹ РїС‹С‚Р°Р»СЃСЏ Р·Р°Р№С‚Рё РЅР° РїРѕСЃР°РґРєСѓ,</segment>
+		<segment id="184" parent="186" relname="joint">РЅРѕ Р±РµР·СѓСЃРїРµС€РЅРѕ,</segment>
+		<segment id="185" parent="186" relname="joint">Рё РґРІР° С‡Р°СЃР° РєСЂСѓР¶РёР» РЅР°Рґ Р°СЌСЂРѕРїРѕСЂС‚РѕРј.\n\</segment>
+		<segment id="189" parent="191" relname="span">nРџСЂРё РїРѕРїС‹С‚РєРµ СѓР№С‚Рё РЅР° РѕС‡РµСЂРµРґРЅРѕР№ РєСЂСѓРі СЃР°РјРѕР»РµС‚ СЂСѓС…РЅСѓР» РІРѕР·Р»Рµ РІР·Р»РµС‚РЅРѕ-РїРѕСЃР°РґРѕС‡РЅРѕР№ РїРѕР»РѕСЃС‹,</segment>
+		<segment id="190" parent="189" relname="condition">СЂР°Р·Р»РµС‚РµРІС€РёСЃСЊ РЅР° РјРµР»РєРёРµ С„СЂР°РіРјРµРЅС‚С‹.</segment>
+		<segment id="192" parent="196" relname="span">Р’СЃРµ РЅР°С…РѕРґРёРІС€РёРµСЃСЏ РЅР° Р±РѕСЂС‚Сѓ Р»СЋРґРё - 55 РїР°СЃСЃР°Р¶РёСЂРѕРІ Рё СЃРµРјСЊ С‡Р»РµРЅРѕРІ СЌРєРёРїР°Р¶Р° - РїРѕРіРёР±Р»Рё.\n\nРћС‚РјРµС‚РёРј, С‡С‚Рѕ СЂР°РЅРµРµ РІ РЎРњР РѕР·РІСѓС‡РёРІР°Р»РѕСЃСЊ РїСЂРµРґРїРѕР»РѕР¶РµРЅРёРµ,</segment>
+		<segment id="193" parent="195" relname="span">С‡С‚Рѕ Boeing 737-800 РЅРµ СѓРґР°Р»РѕСЃСЊ РІС‹РІРµСЃС‚Рё РёР· РїРёРєРµ</segment>
+		<segment id="194" parent="193" relname="cause-effect">РёР·-Р·Р° СЃР»СѓС‡Р°Р№РЅРѕ РЅР°Р¶Р°С‚РѕРіРѕ РїРёР»РѕС‚РѕРј РєРЅСЋРїРµР»СЏ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/28Mar2016/conflictboeing.html\n</segment>
 		<group id="205" type="multinuc" parent="206" relname="span"/>
 		<group id="93" type="multinuc" parent="205" relname="sequence"/>
 		<group id="87" type="span" parent="93" relname="sequence"/>

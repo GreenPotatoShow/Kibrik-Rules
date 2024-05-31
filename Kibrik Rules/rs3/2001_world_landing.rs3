@@ -11,16 +11,16 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="11" parent="13" relname="span">Самолет авиакомпании British Airways,</segment>
-		<segment id="12" parent="11" relname="elaboration">летевший в Тель-Авив,</segment>
-		<segment id="14" parent="16" relname="span">изменил маршрут\n\nСамолет British Airways,</segment>
-		<segment id="15" parent="14" relname="elaboration">летевший в Тель-Авив,</segment>
-		<segment id="17" parent="18" relname="sequence">изменил маршрут,</segment>
-		<segment id="20" parent="19" relname="attribution">сообщает \"Интерфакс\".</segment>
-		<segment id="22" parent="24" relname="span">Руководство британской авиакомпании приняло дополнительные меры безопасности после катастрофы российского Ту-154 над Черным морем.\n\nBoeing-777,</segment>
-		<segment id="23" parent="22" relname="background">летевший из Лондона в Тель-Авив,</segment>
-		<segment id="25" parent="26" relname="same-unit">совершил незапланированную посадку на Кипре.</segment>
-		<segment id="27" parent="26" relname="elaboration">Это один из 17 еженедельных рейсов между Лондоном и Тель-Авивом.\n\nИсточник: https://www.newsru.com/world/04Oct2001/landing.html\n</segment>
+		<segment id="11" parent="13" relname="span">РЎР°РјРѕР»РµС‚ Р°РІРёР°РєРѕРјРїР°РЅРёРё British Airways,</segment>
+		<segment id="12" parent="11" relname="elaboration">Р»РµС‚РµРІС€РёР№ РІ РўРµР»СЊ-РђРІРёРІ,</segment>
+		<segment id="14" parent="16" relname="span">РёР·РјРµРЅРёР» РјР°СЂС€СЂСѓС‚\n\nРЎР°РјРѕР»РµС‚ British Airways,</segment>
+		<segment id="15" parent="14" relname="elaboration">Р»РµС‚РµРІС€РёР№ РІ РўРµР»СЊ-РђРІРёРІ,</segment>
+		<segment id="17" parent="18" relname="sequence">РёР·РјРµРЅРёР» РјР°СЂС€СЂСѓС‚,</segment>
+		<segment id="20" parent="19" relname="attribution">СЃРѕРѕР±С‰Р°РµС‚ \"РРЅС‚РµСЂС„Р°РєСЃ\".</segment>
+		<segment id="22" parent="24" relname="span">Р СѓРєРѕРІРѕРґСЃС‚РІРѕ Р±СЂРёС‚Р°РЅСЃРєРѕР№ Р°РІРёР°РєРѕРјРїР°РЅРёРё РїСЂРёРЅСЏР»Рѕ РґРѕРїРѕР»РЅРёС‚РµР»СЊРЅС‹Рµ РјРµСЂС‹ Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё РїРѕСЃР»Рµ РєР°С‚Р°СЃС‚СЂРѕС„С‹ СЂРѕСЃСЃРёР№СЃРєРѕРіРѕ РўСѓ-154 РЅР°Рґ Р§РµСЂРЅС‹Рј РјРѕСЂРµРј.\n\nBoeing-777,</segment>
+		<segment id="23" parent="22" relname="background">Р»РµС‚РµРІС€РёР№ РёР· Р›РѕРЅРґРѕРЅР° РІ РўРµР»СЊ-РђРІРёРІ,</segment>
+		<segment id="25" parent="26" relname="same-unit">СЃРѕРІРµСЂС€РёР» РЅРµР·Р°РїР»Р°РЅРёСЂРѕРІР°РЅРЅСѓСЋ РїРѕСЃР°РґРєСѓ РЅР° РљРёРїСЂРµ.</segment>
+		<segment id="27" parent="26" relname="elaboration">Р­С‚Рѕ РѕРґРёРЅ РёР· 17 РµР¶РµРЅРµРґРµР»СЊРЅС‹С… СЂРµР№СЃРѕРІ РјРµР¶РґСѓ Р›РѕРЅРґРѕРЅРѕРј Рё РўРµР»СЊ-РђРІРёРІРѕРј.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/04Oct2001/landing.html\n</segment>
 		<group id="21" type="span" parent="29" relname="joint"/>
 		<group id="19" type="multinuc" parent="21" relname="span"/>
 		<group id="13" type="span" parent="19" relname="sequence"/>

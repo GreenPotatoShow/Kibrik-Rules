@@ -1,5 +1,5 @@
 #pragma once
 
-#define INPUT_DIRECTORY		"texts/" //папка со входными текстами
-#define RS3_DIRECTORY	"rs3/"  //папка с риторическими деревьями
-#define JSON_DIRECTORY "my_jsons/" //папка куда складывать json
+#define INPUT_DIRECTORY		"texts/" //РїР°РїРєР° СЃРѕ РІС…РѕРґРЅС‹РјРё С‚РµРєСЃС‚Р°РјРё
+#define RS3_DIRECTORY	"rs3/"  //РїР°РїРєР° СЃ СЂРёС‚РѕСЂРёС‡РµСЃРєРёРјРё РґРµСЂРµРІСЊСЏРјРё
+#define JSON_DIRECTORY "my_jsons/" //РїР°РїРєР° РєСѓРґР° СЃРєР»Р°РґС‹РІР°С‚СЊ json

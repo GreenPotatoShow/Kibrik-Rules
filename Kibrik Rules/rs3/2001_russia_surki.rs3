@@ -8,14 +8,14 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="9" parent="11" relname="span">В Татарстане из Красной книги исчезли сурки\n\nВ Татарстане перестанут охранять сурков,</segment>
-		<segment id="10" parent="9" relname="cause-effect">потому что это животное решено исключить из Красной книги.</segment>
-		<segment id="12" parent="18" relname="joint">Соответствующее разрешение уже получено в Министерстве экологии и природных ресурсов республики,</segment>
-		<segment id="13" parent="17" relname="joint">передает Regions.Ru.\n\nCейчас на территории Татарстана обитает около 20 тыс. сурков,</segment>
-		<segment id="14" parent="16" relname="joint">они быстро размножаются</segment>
-		<segment id="15" parent="16" relname="joint">и охранять их больше нет необходимости.</segment>
-		<segment id="19" parent="21" relname="span">Предполагается, что скоро из Красной книги исчезнут и серые куропатки,</segment>
-		<segment id="20" parent="19" relname="elaboration">численность которых достигла почти 200 тысяч.\n\nИсточник: https://www.newsru.com/russia/27Jun2001/surki.html\n</segment>
+		<segment id="9" parent="11" relname="span">Р’ РўР°С‚Р°СЂСЃС‚Р°РЅРµ РёР· РљСЂР°СЃРЅРѕР№ РєРЅРёРіРё РёСЃС‡РµР·Р»Рё СЃСѓСЂРєРё\n\nР’ РўР°С‚Р°СЂСЃС‚Р°РЅРµ РїРµСЂРµСЃС‚Р°РЅСѓС‚ РѕС…СЂР°РЅСЏС‚СЊ СЃСѓСЂРєРѕРІ,</segment>
+		<segment id="10" parent="9" relname="cause-effect">РїРѕС‚РѕРјСѓ С‡С‚Рѕ СЌС‚Рѕ Р¶РёРІРѕС‚РЅРѕРµ СЂРµС€РµРЅРѕ РёСЃРєР»СЋС‡РёС‚СЊ РёР· РљСЂР°СЃРЅРѕР№ РєРЅРёРіРё.</segment>
+		<segment id="12" parent="18" relname="joint">РЎРѕРѕС‚РІРµС‚СЃС‚РІСѓСЋС‰РµРµ СЂР°Р·СЂРµС€РµРЅРёРµ СѓР¶Рµ РїРѕР»СѓС‡РµРЅРѕ РІ РњРёРЅРёСЃС‚РµСЂСЃС‚РІРµ СЌРєРѕР»РѕРіРёРё Рё РїСЂРёСЂРѕРґРЅС‹С… СЂРµСЃСѓСЂСЃРѕРІ СЂРµСЃРїСѓР±Р»РёРєРё,</segment>
+		<segment id="13" parent="17" relname="joint">РїРµСЂРµРґР°РµС‚ Regions.Ru.\n\nCРµР№С‡Р°СЃ РЅР° С‚РµСЂСЂРёС‚РѕСЂРёРё РўР°С‚Р°СЂСЃС‚Р°РЅР° РѕР±РёС‚Р°РµС‚ РѕРєРѕР»Рѕ 20 С‚С‹СЃ. СЃСѓСЂРєРѕРІ,</segment>
+		<segment id="14" parent="16" relname="joint">РѕРЅРё Р±С‹СЃС‚СЂРѕ СЂР°Р·РјРЅРѕР¶Р°СЋС‚СЃСЏ</segment>
+		<segment id="15" parent="16" relname="joint">Рё РѕС…СЂР°РЅСЏС‚СЊ РёС… Р±РѕР»СЊС€Рµ РЅРµС‚ РЅРµРѕР±С…РѕРґРёРјРѕСЃС‚Рё.</segment>
+		<segment id="19" parent="21" relname="span">РџСЂРµРґРїРѕР»Р°РіР°РµС‚СЃСЏ, С‡С‚Рѕ СЃРєРѕСЂРѕ РёР· РљСЂР°СЃРЅРѕР№ РєРЅРёРіРё РёСЃС‡РµР·РЅСѓС‚ Рё СЃРµСЂС‹Рµ РєСѓСЂРѕРїР°С‚РєРё,</segment>
+		<segment id="20" parent="19" relname="elaboration">С‡РёСЃР»РµРЅРЅРѕСЃС‚СЊ РєРѕС‚РѕСЂС‹С… РґРѕСЃС‚РёРіР»Р° РїРѕС‡С‚Рё 200 С‚С‹СЃСЏС‡.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/27Jun2001/surki.html\n</segment>
 		<group id="11" type="span" parent="23" relname="span"/>
 		<group id="22" type="multinuc" parent="11" relname="elaboration"/>
 		<group id="18" type="multinuc" parent="22" relname="joint"/>

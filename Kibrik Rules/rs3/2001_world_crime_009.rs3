@@ -11,16 +11,16 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="11" parent="29" relname="comparison">Учащийся средней школы в США погиб от выстрелов своего приятеля\n\</segment>
-		<segment id="12" parent="28" relname="sequence">nСемнадцатилетний учащийся средней школы в американском городе Гэри в штате Индиана погиб в пятницу после того, как в него выстрелил его приятель.</segment>
-		<segment id="13" parent="16" relname="attribution">По данным телекомпании CNN,</segment>
-		<segment id="14" parent="16" relname="sequence">инцидент произошел на автостоянке, находящейся вблизи школы,</segment>
-		<segment id="15" parent="16" relname="sequence">вскоре после того, как в классах начались уроки.</segment>
-		<segment id="18" parent="19" relname="attribution">Как сообщили в местной полиции,</segment>
-		<segment id="19" parent="20" relname="span">подозреваемый в совершении преступления задержан.</segment>
-		<segment id="21" parent="23" relname="sequence">Ему также 17 лет</segment>
-		<segment id="22" parent="23" relname="sequence">и ранее он обучался в той же школе.</segment>
-		<segment id="24" parent="23" relname="elaboration">Полиция начала расследование.\n\nИсточник: https://www.newsru.com/world/30Mar2001/crime.html\n</segment>
+		<segment id="11" parent="29" relname="comparison">РЈС‡Р°С‰РёР№СЃСЏ СЃСЂРµРґРЅРµР№ С€РєРѕР»С‹ РІ РЎРЁРђ РїРѕРіРёР± РѕС‚ РІС‹СЃС‚СЂРµР»РѕРІ СЃРІРѕРµРіРѕ РїСЂРёСЏС‚РµР»СЏ\n\</segment>
+		<segment id="12" parent="28" relname="sequence">nРЎРµРјРЅР°РґС†Р°С‚РёР»РµС‚РЅРёР№ СѓС‡Р°С‰РёР№СЃСЏ СЃСЂРµРґРЅРµР№ С€РєРѕР»С‹ РІ Р°РјРµСЂРёРєР°РЅСЃРєРѕРј РіРѕСЂРѕРґРµ Р“СЌСЂРё РІ С€С‚Р°С‚Рµ РРЅРґРёР°РЅР° РїРѕРіРёР± РІ РїСЏС‚РЅРёС†Сѓ РїРѕСЃР»Рµ С‚РѕРіРѕ, РєР°Рє РІ РЅРµРіРѕ РІС‹СЃС‚СЂРµР»РёР» РµРіРѕ РїСЂРёСЏС‚РµР»СЊ.</segment>
+		<segment id="13" parent="16" relname="attribution">РџРѕ РґР°РЅРЅС‹Рј С‚РµР»РµРєРѕРјРїР°РЅРёРё CNN,</segment>
+		<segment id="14" parent="16" relname="sequence">РёРЅС†РёРґРµРЅС‚ РїСЂРѕРёР·РѕС€РµР» РЅР° Р°РІС‚РѕСЃС‚РѕСЏРЅРєРµ, РЅР°С…РѕРґСЏС‰РµР№СЃСЏ РІР±Р»РёР·Рё С€РєРѕР»С‹,</segment>
+		<segment id="15" parent="16" relname="sequence">РІСЃРєРѕСЂРµ РїРѕСЃР»Рµ С‚РѕРіРѕ, РєР°Рє РІ РєР»Р°СЃСЃР°С… РЅР°С‡Р°Р»РёСЃСЊ СѓСЂРѕРєРё.</segment>
+		<segment id="18" parent="19" relname="attribution">РљР°Рє СЃРѕРѕР±С‰РёР»Рё РІ РјРµСЃС‚РЅРѕР№ РїРѕР»РёС†РёРё,</segment>
+		<segment id="19" parent="20" relname="span">РїРѕРґРѕР·СЂРµРІР°РµРјС‹Р№ РІ СЃРѕРІРµСЂС€РµРЅРёРё РїСЂРµСЃС‚СѓРїР»РµРЅРёСЏ Р·Р°РґРµСЂР¶Р°РЅ.</segment>
+		<segment id="21" parent="23" relname="sequence">Р•РјСѓ С‚Р°РєР¶Рµ 17 Р»РµС‚</segment>
+		<segment id="22" parent="23" relname="sequence">Рё СЂР°РЅРµРµ РѕРЅ РѕР±СѓС‡Р°Р»СЃСЏ РІ С‚РѕР№ Р¶Рµ С€РєРѕР»Рµ.</segment>
+		<segment id="24" parent="23" relname="elaboration">РџРѕР»РёС†РёСЏ РЅР°С‡Р°Р»Р° СЂР°СЃСЃР»РµРґРѕРІР°РЅРёРµ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/30Mar2001/crime.html\n</segment>
 		<group id="28" type="multinuc" parent="29" relname="comparison"/>
 		<group id="27" type="span" parent="28" relname="sequence"/>
 		<group id="17" type="span" parent="26" relname="preparation"/>

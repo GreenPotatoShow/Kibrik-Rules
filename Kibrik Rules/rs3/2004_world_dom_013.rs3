@@ -12,15 +12,15 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="10" parent="12" relname="span">В Египте обрушился многоквартирный дом</segment>
-		<segment id="11" parent="10" relname="elaboration">- 5 человек погибли\n\</segment>
-		<segment id="13" parent="17" relname="same-unit">nВ Египте обрушился пятиэтажный многоквартирный дом,</segment>
-		<segment id="14" parent="16" relname="joint">пять человек погибли,</segment>
-		<segment id="15" parent="16" relname="joint">17 получили ранения.</segment>
-		<segment id="18" parent="22" relname="sequence">На месте происшествия работают спасатели,</segment>
-		<segment id="19" parent="20" relname="attribution">передает АР.\n\nПо информации Министерства внутренних дел Египта,</segment>
-		<segment id="20" parent="21" relname="span">здание располагалось в районе города Асван, в 685 км к югу от Каира.</segment>
-		<segment id="24" parent="23" relname="cause-effect">Причины происшествия выясняются.\n\nИсточник: https://www.newsru.com/world/22Jun2004/dom.html\n</segment>
+		<segment id="10" parent="12" relname="span">Р’ Р•РіРёРїС‚Рµ РѕР±СЂСѓС€РёР»СЃСЏ РјРЅРѕРіРѕРєРІР°СЂС‚РёСЂРЅС‹Р№ РґРѕРј</segment>
+		<segment id="11" parent="10" relname="elaboration">- 5 С‡РµР»РѕРІРµРє РїРѕРіРёР±Р»Рё\n\</segment>
+		<segment id="13" parent="17" relname="same-unit">nР’ Р•РіРёРїС‚Рµ РѕР±СЂСѓС€РёР»СЃСЏ РїСЏС‚РёСЌС‚Р°Р¶РЅС‹Р№ РјРЅРѕРіРѕРєРІР°СЂС‚РёСЂРЅС‹Р№ РґРѕРј,</segment>
+		<segment id="14" parent="16" relname="joint">РїСЏС‚СЊ С‡РµР»РѕРІРµРє РїРѕРіРёР±Р»Рё,</segment>
+		<segment id="15" parent="16" relname="joint">17 РїРѕР»СѓС‡РёР»Рё СЂР°РЅРµРЅРёСЏ.</segment>
+		<segment id="18" parent="22" relname="sequence">РќР° РјРµСЃС‚Рµ РїСЂРѕРёСЃС€РµСЃС‚РІРёСЏ СЂР°Р±РѕС‚Р°СЋС‚ СЃРїР°СЃР°С‚РµР»Рё,</segment>
+		<segment id="19" parent="20" relname="attribution">РїРµСЂРµРґР°РµС‚ РђР .\n\nРџРѕ РёРЅС„РѕСЂРјР°С†РёРё РњРёРЅРёСЃС‚РµСЂСЃС‚РІР° РІРЅСѓС‚СЂРµРЅРЅРёС… РґРµР» Р•РіРёРїС‚Р°,</segment>
+		<segment id="20" parent="21" relname="span">Р·РґР°РЅРёРµ СЂР°СЃРїРѕР»Р°РіР°Р»РѕСЃСЊ РІ СЂР°Р№РѕРЅРµ РіРѕСЂРѕРґР° РђСЃРІР°РЅ, РІ 685 РєРј Рє СЋРіСѓ РѕС‚ РљР°РёСЂР°.</segment>
+		<segment id="24" parent="23" relname="cause-effect">РџСЂРёС‡РёРЅС‹ РїСЂРѕРёСЃС€РµСЃС‚РІРёСЏ РІС‹СЏСЃРЅСЏСЋС‚СЃСЏ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/22Jun2004/dom.html\n</segment>
 		<group id="12" type="span" parent="25" relname="preparation"/>
 		<group id="25" type="span" parent="26" relname="span"/>
 		<group id="23" type="span" parent="25" relname="span"/>

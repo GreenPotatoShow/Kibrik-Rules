@@ -14,26 +14,26 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="21" parent="23" relname="span">В Москве ожидается до +2 градусов\n\</segment>
-		<segment id="22" parent="21" relname="elaboration">nВ нескольких районах Москвы в четверг термометр покажет плюсовую температуру.</segment>
-		<segment id="24" parent="25" relname="attribution">Как сообщили в Росгидромете,</segment>
-		<segment id="25" parent="26" relname="span">ближе к полудню столбик термометра кое-где переберется с минусовых отметок на плюсовые:</segment>
-		<segment id="27" parent="29" relname="comparison">в Москве он покажет до плюс 1, по области - минус 3 - плюс 2.\n\nСейчас в Москве минус 3-5 градусов,</segment>
-		<segment id="28" parent="29" relname="comparison">в ее окрестностях - минус 3-8.</segment>
-		<segment id="30" parent="32" relname="contrast">Весь день будет пасмурным,</segment>
-		<segment id="31" parent="32" relname="contrast">но снега синоптики не ожидают,</segment>
-		<segment id="35" parent="34" relname="attribution">сообщает ИТАР-ТАСС.</segment>
-		<segment id="38" parent="40" relname="comparison">Между тем на дорогах сохранится сильный гололед,</segment>
-		<segment id="39" parent="40" relname="comparison">тогда как южный ветер усилится до 3-8 м/с.\n\nОтносительно теплая,</segment>
-		<segment id="41" parent="43" relname="span">но пасмурная погода с повышенной влажностью и невысоким содержанием кислорода в воздухе</segment>
-		<segment id="42" parent="41" relname="purpose">может вызвать дискомфорт, одышку и снижение работоспособности как у метеозависимых, так и у практически здоровых людей.</segment>
-		<segment id="44" parent="48" relname="joint">Медики советуют избегать серьезных нагрузок</segment>
-		<segment id="45" parent="47" relname="span">и принимать витамины</segment>
-		<segment id="46" parent="45" relname="purpose">для поддержания тонуса</segment>
+		<segment id="21" parent="23" relname="span">Р’ РњРѕСЃРєРІРµ РѕР¶РёРґР°РµС‚СЃСЏ РґРѕ +2 РіСЂР°РґСѓСЃРѕРІ\n\</segment>
+		<segment id="22" parent="21" relname="elaboration">nР’ РЅРµСЃРєРѕР»СЊРєРёС… СЂР°Р№РѕРЅР°С… РњРѕСЃРєРІС‹ РІ С‡РµС‚РІРµСЂРі С‚РµСЂРјРѕРјРµС‚СЂ РїРѕРєР°Р¶РµС‚ РїР»СЋСЃРѕРІСѓСЋ С‚РµРјРїРµСЂР°С‚СѓСЂСѓ.</segment>
+		<segment id="24" parent="25" relname="attribution">РљР°Рє СЃРѕРѕР±С‰РёР»Рё РІ Р РѕСЃРіРёРґСЂРѕРјРµС‚Рµ,</segment>
+		<segment id="25" parent="26" relname="span">Р±Р»РёР¶Рµ Рє РїРѕР»СѓРґРЅСЋ СЃС‚РѕР»Р±РёРє С‚РµСЂРјРѕРјРµС‚СЂР° РєРѕРµ-РіРґРµ РїРµСЂРµР±РµСЂРµС‚СЃСЏ СЃ РјРёРЅСѓСЃРѕРІС‹С… РѕС‚РјРµС‚РѕРє РЅР° РїР»СЋСЃРѕРІС‹Рµ:</segment>
+		<segment id="27" parent="29" relname="comparison">РІ РњРѕСЃРєРІРµ РѕРЅ РїРѕРєР°Р¶РµС‚ РґРѕ РїР»СЋСЃ 1, РїРѕ РѕР±Р»Р°СЃС‚Рё - РјРёРЅСѓСЃ 3 - РїР»СЋСЃ 2.\n\nРЎРµР№С‡Р°СЃ РІ РњРѕСЃРєРІРµ РјРёРЅСѓСЃ 3-5 РіСЂР°РґСѓСЃРѕРІ,</segment>
+		<segment id="28" parent="29" relname="comparison">РІ РµРµ РѕРєСЂРµСЃС‚РЅРѕСЃС‚СЏС… - РјРёРЅСѓСЃ 3-8.</segment>
+		<segment id="30" parent="32" relname="contrast">Р’РµСЃСЊ РґРµРЅСЊ Р±СѓРґРµС‚ РїР°СЃРјСѓСЂРЅС‹Рј,</segment>
+		<segment id="31" parent="32" relname="contrast">РЅРѕ СЃРЅРµРіР° СЃРёРЅРѕРїС‚РёРєРё РЅРµ РѕР¶РёРґР°СЋС‚,</segment>
+		<segment id="35" parent="34" relname="attribution">СЃРѕРѕР±С‰Р°РµС‚ РРўРђР -РўРђРЎРЎ.</segment>
+		<segment id="38" parent="40" relname="comparison">РњРµР¶РґСѓ С‚РµРј РЅР° РґРѕСЂРѕРіР°С… СЃРѕС…СЂР°РЅРёС‚СЃСЏ СЃРёР»СЊРЅС‹Р№ РіРѕР»РѕР»РµРґ,</segment>
+		<segment id="39" parent="40" relname="comparison">С‚РѕРіРґР° РєР°Рє СЋР¶РЅС‹Р№ РІРµС‚РµСЂ СѓСЃРёР»РёС‚СЃСЏ РґРѕ 3-8 Рј/СЃ.\n\nРћС‚РЅРѕСЃРёС‚РµР»СЊРЅРѕ С‚РµРїР»Р°СЏ,</segment>
+		<segment id="41" parent="43" relname="span">РЅРѕ РїР°СЃРјСѓСЂРЅР°СЏ РїРѕРіРѕРґР° СЃ РїРѕРІС‹С€РµРЅРЅРѕР№ РІР»Р°Р¶РЅРѕСЃС‚СЊСЋ Рё РЅРµРІС‹СЃРѕРєРёРј СЃРѕРґРµСЂР¶Р°РЅРёРµРј РєРёСЃР»РѕСЂРѕРґР° РІ РІРѕР·РґСѓС…Рµ</segment>
+		<segment id="42" parent="41" relname="purpose">РјРѕР¶РµС‚ РІС‹Р·РІР°С‚СЊ РґРёСЃРєРѕРјС„РѕСЂС‚, РѕРґС‹С€РєСѓ Рё СЃРЅРёР¶РµРЅРёРµ СЂР°Р±РѕС‚РѕСЃРїРѕСЃРѕР±РЅРѕСЃС‚Рё РєР°Рє Сѓ РјРµС‚РµРѕР·Р°РІРёСЃРёРјС‹С…, С‚Р°Рє Рё Сѓ РїСЂР°РєС‚РёС‡РµСЃРєРё Р·РґРѕСЂРѕРІС‹С… Р»СЋРґРµР№.</segment>
+		<segment id="44" parent="48" relname="joint">РњРµРґРёРєРё СЃРѕРІРµС‚СѓСЋС‚ РёР·Р±РµРіР°С‚СЊ СЃРµСЂСЊРµР·РЅС‹С… РЅР°РіСЂСѓР·РѕРє</segment>
+		<segment id="45" parent="47" relname="span">Рё РїСЂРёРЅРёРјР°С‚СЊ РІРёС‚Р°РјРёРЅС‹</segment>
+		<segment id="46" parent="45" relname="purpose">РґР»СЏ РїРѕРґРґРµСЂР¶Р°РЅРёСЏ С‚РѕРЅСѓСЃР°</segment>
 		<segment id="49" parent="50" relname="same-unit">.\n\</segment>
-		<segment id="51" parent="50" relname="elaboration">nТакая погода продержится до конца последней недели зимы.</segment>
-		<segment id="55" parent="56" relname="attribution">Но синоптики обещают,</segment>
-		<segment id="56" parent="57" relname="span">что в первые же дни марта население столичного региона порадует настоящее весеннее солнце.\n\nИсточник: https://www.newsru.com/russia/26Feb2004/progny.html\n</segment>
+		<segment id="51" parent="50" relname="elaboration">nРўР°РєР°СЏ РїРѕРіРѕРґР° РїСЂРѕРґРµСЂР¶РёС‚СЃСЏ РґРѕ РєРѕРЅС†Р° РїРѕСЃР»РµРґРЅРµР№ РЅРµРґРµР»Рё Р·РёРјС‹.</segment>
+		<segment id="55" parent="56" relname="attribution">РќРѕ СЃРёРЅРѕРїС‚РёРєРё РѕР±РµС‰Р°СЋС‚,</segment>
+		<segment id="56" parent="57" relname="span">С‡С‚Рѕ РІ РїРµСЂРІС‹Рµ Р¶Рµ РґРЅРё РјР°СЂС‚Р° РЅР°СЃРµР»РµРЅРёРµ СЃС‚РѕР»РёС‡РЅРѕРіРѕ СЂРµРіРёРѕРЅР° РїРѕСЂР°РґСѓРµС‚ РЅР°СЃС‚РѕСЏС‰РµРµ РІРµСЃРµРЅРЅРµРµ СЃРѕР»РЅС†Рµ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/26Feb2004/progny.html\n</segment>
 		<group id="37" type="span" parent="59" relname="comparison"/>
 		<group id="23" type="span" parent="36" relname="preparation"/>
 		<group id="36" type="span" parent="37" relname="span"/>

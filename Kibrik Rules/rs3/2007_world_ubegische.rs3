@@ -12,21 +12,21 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="16" parent="18" relname="span">Гражданин России попросил убежища в Эстонии\n\nДепартамент гражданства и миграции Эстонии рассматривает ходатайство гражданина России о предоставлении убежища в этой стране,</segment>
-		<segment id="17" parent="16" relname="attribution">пишет в среду эстонская газета SL Ohtuleht</segment>
-		<segment id="19" parent="23" relname="joint">.\n\nГражданин России попросил убежища в Эстонии в марте при пересечении границы,</segment>
-		<segment id="20" parent="22" relname="joint">сообщает издание со ссылкой на представителя Департамент гражданства и миграции,</segment>
-		<segment id="21" parent="22" relname="joint">передает \"Интефакс\".</segment>
-		<segment id="25" parent="27" relname="joint">\"Ходатайство рассматривается,</segment>
-		<segment id="26" parent="27" relname="joint">решение еще не принято\",</segment>
-		<segment id="28" parent="27" relname="attribution">- заявил пресс-секретарь департамента Анне-Маарья Олей.\n\</segment>
-		<segment id="30" parent="40" relname="span">nОна отказалась комментировать этот случай,</segment>
-		<segment id="31" parent="39" relname="same-unit">так как согласно закону о беженцах,</segment>
-		<segment id="32" parent="38" relname="joint">все информация о предоставлении убежища</segment>
-		<segment id="33" parent="37" relname="same-unit">и сведения о желающем его получить являются конфиденциальными.\n\nПо данным департамента,</segment>
-		<segment id="34" parent="36" relname="contrast">в апреле убежища попросили также два гражданина Белоруссии,</segment>
-		<segment id="35" parent="36" relname="contrast">но они позже сами отозвали свои прошения.</segment>
-		<segment id="41" parent="40" relname="cause-effect">Причины отзыва также не сообщаются.\n\nИсточник: https://www.newsru.com/world/20Jun2007/ubegische.html\n</segment>
+		<segment id="16" parent="18" relname="span">Р“СЂР°Р¶РґР°РЅРёРЅ Р РѕСЃСЃРёРё РїРѕРїСЂРѕСЃРёР» СѓР±РµР¶РёС‰Р° РІ Р­СЃС‚РѕРЅРёРё\n\nР”РµРїР°СЂС‚Р°РјРµРЅС‚ РіСЂР°Р¶РґР°РЅСЃС‚РІР° Рё РјРёРіСЂР°С†РёРё Р­СЃС‚РѕРЅРёРё СЂР°СЃСЃРјР°С‚СЂРёРІР°РµС‚ С…РѕРґР°С‚Р°Р№СЃС‚РІРѕ РіСЂР°Р¶РґР°РЅРёРЅР° Р РѕСЃСЃРёРё Рѕ РїСЂРµРґРѕСЃС‚Р°РІР»РµРЅРёРё СѓР±РµР¶РёС‰Р° РІ СЌС‚РѕР№ СЃС‚СЂР°РЅРµ,</segment>
+		<segment id="17" parent="16" relname="attribution">РїРёС€РµС‚ РІ СЃСЂРµРґСѓ СЌСЃС‚РѕРЅСЃРєР°СЏ РіР°Р·РµС‚Р° SL Ohtuleht</segment>
+		<segment id="19" parent="23" relname="joint">.\n\nР“СЂР°Р¶РґР°РЅРёРЅ Р РѕСЃСЃРёРё РїРѕРїСЂРѕСЃРёР» СѓР±РµР¶РёС‰Р° РІ Р­СЃС‚РѕРЅРёРё РІ РјР°СЂС‚Рµ РїСЂРё РїРµСЂРµСЃРµС‡РµРЅРёРё РіСЂР°РЅРёС†С‹,</segment>
+		<segment id="20" parent="22" relname="joint">СЃРѕРѕР±С‰Р°РµС‚ РёР·РґР°РЅРёРµ СЃРѕ СЃСЃС‹Р»РєРѕР№ РЅР° РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЏ Р”РµРїР°СЂС‚Р°РјРµРЅС‚ РіСЂР°Р¶РґР°РЅСЃС‚РІР° Рё РјРёРіСЂР°С†РёРё,</segment>
+		<segment id="21" parent="22" relname="joint">РїРµСЂРµРґР°РµС‚ \"РРЅС‚РµС„Р°РєСЃ\".</segment>
+		<segment id="25" parent="27" relname="joint">\"РҐРѕРґР°С‚Р°Р№СЃС‚РІРѕ СЂР°СЃСЃРјР°С‚СЂРёРІР°РµС‚СЃСЏ,</segment>
+		<segment id="26" parent="27" relname="joint">СЂРµС€РµРЅРёРµ РµС‰Рµ РЅРµ РїСЂРёРЅСЏС‚Рѕ\",</segment>
+		<segment id="28" parent="27" relname="attribution">- Р·Р°СЏРІРёР» РїСЂРµСЃСЃ-СЃРµРєСЂРµС‚Р°СЂСЊ РґРµРїР°СЂС‚Р°РјРµРЅС‚Р° РђРЅРЅРµ-РњР°Р°СЂСЊСЏ РћР»РµР№.\n\</segment>
+		<segment id="30" parent="40" relname="span">nРћРЅР° РѕС‚РєР°Р·Р°Р»Р°СЃСЊ РєРѕРјРјРµРЅС‚РёСЂРѕРІР°С‚СЊ СЌС‚РѕС‚ СЃР»СѓС‡Р°Р№,</segment>
+		<segment id="31" parent="39" relname="same-unit">С‚Р°Рє РєР°Рє СЃРѕРіР»Р°СЃРЅРѕ Р·Р°РєРѕРЅСѓ Рѕ Р±РµР¶РµРЅС†Р°С…,</segment>
+		<segment id="32" parent="38" relname="joint">РІСЃРµ РёРЅС„РѕСЂРјР°С†РёСЏ Рѕ РїСЂРµРґРѕСЃС‚Р°РІР»РµРЅРёРё СѓР±РµР¶РёС‰Р°</segment>
+		<segment id="33" parent="37" relname="same-unit">Рё СЃРІРµРґРµРЅРёСЏ Рѕ Р¶РµР»Р°СЋС‰РµРј РµРіРѕ РїРѕР»СѓС‡РёС‚СЊ СЏРІР»СЏСЋС‚СЃСЏ РєРѕРЅС„РёРґРµРЅС†РёР°Р»СЊРЅС‹РјРё.\n\nРџРѕ РґР°РЅРЅС‹Рј РґРµРїР°СЂС‚Р°РјРµРЅС‚Р°,</segment>
+		<segment id="34" parent="36" relname="contrast">РІ Р°РїСЂРµР»Рµ СѓР±РµР¶РёС‰Р° РїРѕРїСЂРѕСЃРёР»Рё С‚Р°РєР¶Рµ РґРІР° РіСЂР°Р¶РґР°РЅРёРЅР° Р‘РµР»РѕСЂСѓСЃСЃРёРё,</segment>
+		<segment id="35" parent="36" relname="contrast">РЅРѕ РѕРЅРё РїРѕР·Р¶Рµ СЃР°РјРё РѕС‚РѕР·РІР°Р»Рё СЃРІРѕРё РїСЂРѕС€РµРЅРёСЏ.</segment>
+		<segment id="41" parent="40" relname="cause-effect">РџСЂРёС‡РёРЅС‹ РѕС‚Р·С‹РІР° С‚Р°РєР¶Рµ РЅРµ СЃРѕРѕР±С‰Р°СЋС‚СЃСЏ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/20Jun2007/ubegische.html\n</segment>
 		<group id="24" type="multinuc" parent="43" relname="preparation"/>
 		<group id="18" type="span" parent="24" relname="joint"/>
 		<group id="23" type="multinuc" parent="24" relname="joint"/>

@@ -8,14 +8,14 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="9" parent="13" relname="sequence">На Кубке Азии по футболу сборная Китая разгромила индонезийцев 4:0\n\nСтрелка секундомера не успела пробежать первый круг,</segment>
-		<segment id="10" parent="12" relname="span">а счет в матче был уже открыт:</segment>
-		<segment id="11" parent="10" relname="elaboration">отличился Ли Минг.</segment>
-		<segment id="14" parent="16" relname="comparison">Через 6 минут Шен Си с пенальти удваивает преимущество китайцев,</segment>
-		<segment id="15" parent="16" relname="comparison">а на исходе первой трети тайма Ян Чен сделал счет 3:0.</segment>
-		<segment id="17" parent="19" relname="sequence">Затем бомбардиры взяли длительный перерыв,</segment>
-		<segment id="18" parent="19" relname="sequence">и лишь за минуту до финального свистка арбитра Ки Хонг забил четвертый мяч 4:0.\nПозднее состоится еще один матч Кубка Азии.</segment>
-		<segment id="22" parent="21" relname="elaboration">Сборная Южной Кореи померится силами с командой Кувейта.\n\nИсточник: https://www.newsru.com/sport/16Oct2000/asiancup.html\n</segment>
+		<segment id="9" parent="13" relname="sequence">РќР° РљСѓР±РєРµ РђР·РёРё РїРѕ С„СѓС‚Р±РѕР»Сѓ СЃР±РѕСЂРЅР°СЏ РљРёС‚Р°СЏ СЂР°Р·РіСЂРѕРјРёР»Р° РёРЅРґРѕРЅРµР·РёР№С†РµРІ 4:0\n\nРЎС‚СЂРµР»РєР° СЃРµРєСѓРЅРґРѕРјРµСЂР° РЅРµ СѓСЃРїРµР»Р° РїСЂРѕР±РµР¶Р°С‚СЊ РїРµСЂРІС‹Р№ РєСЂСѓРі,</segment>
+		<segment id="10" parent="12" relname="span">Р° СЃС‡РµС‚ РІ РјР°С‚С‡Рµ Р±С‹Р» СѓР¶Рµ РѕС‚РєСЂС‹С‚:</segment>
+		<segment id="11" parent="10" relname="elaboration">РѕС‚Р»РёС‡РёР»СЃСЏ Р›Рё РњРёРЅРі.</segment>
+		<segment id="14" parent="16" relname="comparison">Р§РµСЂРµР· 6 РјРёРЅСѓС‚ РЁРµРЅ РЎРё СЃ РїРµРЅР°Р»СЊС‚Рё СѓРґРІР°РёРІР°РµС‚ РїСЂРµРёРјСѓС‰РµСЃС‚РІРѕ РєРёС‚Р°Р№С†РµРІ,</segment>
+		<segment id="15" parent="16" relname="comparison">Р° РЅР° РёСЃС…РѕРґРµ РїРµСЂРІРѕР№ С‚СЂРµС‚Рё С‚Р°Р№РјР° РЇРЅ Р§РµРЅ СЃРґРµР»Р°Р» СЃС‡РµС‚ 3:0.</segment>
+		<segment id="17" parent="19" relname="sequence">Р—Р°С‚РµРј Р±РѕРјР±Р°СЂРґРёСЂС‹ РІР·СЏР»Рё РґР»РёС‚РµР»СЊРЅС‹Р№ РїРµСЂРµСЂС‹РІ,</segment>
+		<segment id="18" parent="19" relname="sequence">Рё Р»РёС€СЊ Р·Р° РјРёРЅСѓС‚Сѓ РґРѕ С„РёРЅР°Р»СЊРЅРѕРіРѕ СЃРІРёСЃС‚РєР° Р°СЂР±РёС‚СЂР° РљРё РҐРѕРЅРі Р·Р°Р±РёР» С‡РµС‚РІРµСЂС‚С‹Р№ РјСЏС‡ 4:0.\nРџРѕР·РґРЅРµРµ СЃРѕСЃС‚РѕРёС‚СЃСЏ РµС‰Рµ РѕРґРёРЅ РјР°С‚С‡ РљСѓР±РєР° РђР·РёРё.</segment>
+		<segment id="22" parent="21" relname="elaboration">РЎР±РѕСЂРЅР°СЏ Р®Р¶РЅРѕР№ РљРѕСЂРµРё РїРѕРјРµСЂРёС‚СЃСЏ СЃРёР»Р°РјРё СЃ РєРѕРјР°РЅРґРѕР№ РљСѓРІРµР№С‚Р°.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/sport/16Oct2000/asiancup.html\n</segment>
 		<group id="21" type="multinuc" parent="23" relname="span"/>
 		<group id="13" type="multinuc" parent="21" relname="sequence"/>
 		<group id="12" type="span" parent="13" relname="sequence"/>

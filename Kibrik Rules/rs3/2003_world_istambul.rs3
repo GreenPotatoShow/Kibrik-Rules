@@ -12,16 +12,16 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="11" parent="12" relname="cause-effect">В отеле и ресторане McDonald's в Стамбуле прогремели два взрыва\n\nВо вторник в крупнейшем городе Турции Стамбуле раздались несколько взрывов,</segment>
-		<segment id="12" parent="13" relname="span">в результате которых были повреждены ресторан McDonald's и принадлежащий правительству отель,</segment>
-		<segment id="14" parent="13" relname="attribution">сообщает Reuters со ссылкой на Анатолийское информационное агентство.\n\nПо информации агентства,</segment>
-		<segment id="16" parent="18" relname="span">в результате взрыва в McDonald's,</segment>
-		<segment id="17" parent="16" relname="background">который располагается в районе Сиркеци,</segment>
-		<segment id="19" parent="21" relname="joint">вылетели окна</segment>
-		<segment id="20" parent="21" relname="joint">и были повреждены двери.</segment>
-		<segment id="24" parent="25" relname="condition">Пока данных о пострадавших нет.\n\nРанее в холле стамбульского отеля, в котором проживают судьи и гражданские служащие,</segment>
-		<segment id="25" parent="26" relname="span">взорвалась бомба.</segment>
-		<segment id="27" parent="26" relname="elaboration">Никто не пострадал.\n\nПока никто не взял на себя ответственность за взрывы.\n\nИсточник: https://www.newsru.com/world/15Apr2003/istambul.html\n</segment>
+		<segment id="11" parent="12" relname="cause-effect">Р’ РѕС‚РµР»Рµ Рё СЂРµСЃС‚РѕСЂР°РЅРµ McDonald's РІ РЎС‚Р°РјР±СѓР»Рµ РїСЂРѕРіСЂРµРјРµР»Рё РґРІР° РІР·СЂС‹РІР°\n\nР’Рѕ РІС‚РѕСЂРЅРёРє РІ РєСЂСѓРїРЅРµР№С€РµРј РіРѕСЂРѕРґРµ РўСѓСЂС†РёРё РЎС‚Р°РјР±СѓР»Рµ СЂР°Р·РґР°Р»РёСЃСЊ РЅРµСЃРєРѕР»СЊРєРѕ РІР·СЂС‹РІРѕРІ,</segment>
+		<segment id="12" parent="13" relname="span">РІ СЂРµР·СѓР»СЊС‚Р°С‚Рµ РєРѕС‚РѕСЂС‹С… Р±С‹Р»Рё РїРѕРІСЂРµР¶РґРµРЅС‹ СЂРµСЃС‚РѕСЂР°РЅ McDonald's Рё РїСЂРёРЅР°РґР»РµР¶Р°С‰РёР№ РїСЂР°РІРёС‚РµР»СЊСЃС‚РІСѓ РѕС‚РµР»СЊ,</segment>
+		<segment id="14" parent="13" relname="attribution">СЃРѕРѕР±С‰Р°РµС‚ Reuters СЃРѕ СЃСЃС‹Р»РєРѕР№ РЅР° РђРЅР°С‚РѕР»РёР№СЃРєРѕРµ РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕРµ Р°РіРµРЅС‚СЃС‚РІРѕ.\n\nРџРѕ РёРЅС„РѕСЂРјР°С†РёРё Р°РіРµРЅС‚СЃС‚РІР°,</segment>
+		<segment id="16" parent="18" relname="span">РІ СЂРµР·СѓР»СЊС‚Р°С‚Рµ РІР·СЂС‹РІР° РІ McDonald's,</segment>
+		<segment id="17" parent="16" relname="background">РєРѕС‚РѕСЂС‹Р№ СЂР°СЃРїРѕР»Р°РіР°РµС‚СЃСЏ РІ СЂР°Р№РѕРЅРµ РЎРёСЂРєРµС†Рё,</segment>
+		<segment id="19" parent="21" relname="joint">РІС‹Р»РµС‚РµР»Рё РѕРєРЅР°</segment>
+		<segment id="20" parent="21" relname="joint">Рё Р±С‹Р»Рё РїРѕРІСЂРµР¶РґРµРЅС‹ РґРІРµСЂРё.</segment>
+		<segment id="24" parent="25" relname="condition">РџРѕРєР° РґР°РЅРЅС‹С… Рѕ РїРѕСЃС‚СЂР°РґР°РІС€РёС… РЅРµС‚.\n\nР Р°РЅРµРµ РІ С…РѕР»Р»Рµ СЃС‚Р°РјР±СѓР»СЊСЃРєРѕРіРѕ РѕС‚РµР»СЏ, РІ РєРѕС‚РѕСЂРѕРј РїСЂРѕР¶РёРІР°СЋС‚ СЃСѓРґСЊРё Рё РіСЂР°Р¶РґР°РЅСЃРєРёРµ СЃР»СѓР¶Р°С‰РёРµ,</segment>
+		<segment id="25" parent="26" relname="span">РІР·РѕСЂРІР°Р»Р°СЃСЊ Р±РѕРјР±Р°.</segment>
+		<segment id="27" parent="26" relname="elaboration">РќРёРєС‚Рѕ РЅРµ РїРѕСЃС‚СЂР°РґР°Р».\n\nРџРѕРєР° РЅРёРєС‚Рѕ РЅРµ РІР·СЏР» РЅР° СЃРµР±СЏ РѕС‚РІРµС‚СЃС‚РІРµРЅРЅРѕСЃС‚СЊ Р·Р° РІР·СЂС‹РІС‹.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/15Apr2003/istambul.html\n</segment>
 		<group id="23" type="span" parent="29" relname="span"/>
 		<group id="15" type="span" parent="22" relname="cause-effect"/>
 		<group id="13" type="span" parent="15" relname="span"/>

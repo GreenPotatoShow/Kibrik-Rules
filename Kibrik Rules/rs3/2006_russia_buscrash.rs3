@@ -16,35 +16,35 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="30" parent="32" relname="span">Под Красноярском перевернулся автобус со школьниками:</segment>
-		<segment id="31" parent="30" relname="elaboration">есть раненые\n\nПод Красноярском в четверг перевернулся автобус, в котором ехали школьники.</segment>
-		<segment id="33" parent="39" relname="sequence">Автобус ПАЗ ехал из Дивногорска в Красноярск.</segment>
-		<segment id="34" parent="38" relname="span">В автобусе находились 9-классники 63-й школы Кировского района Красноярска,</segment>
-		<segment id="35" parent="37" relname="joint">которые отмечали \"последний звонок\"</segment>
-		<segment id="36" parent="37" relname="joint">и ездили на смотровую площадку Дивногорской ГЭС.</segment>
-		<segment id="41" parent="43" relname="span">Всего в автобусе находились 21 школьник, четверо родителей, учителя и девушка-милиционер Кировского РОВД.\n\</segment>
-		<segment id="42" parent="41" relname="elaboration">nВнезапно ехавший впереди автобуса грузовой автомобиль \"ЗиЛ\" остановился.</segment>
-		<segment id="45" parent="49" relname="joint">Водитель автобуса для предотвращения столкновения</segment>
-		<segment id="46" parent="48" relname="span">выехал на встречную полосу,</segment>
-		<segment id="47" parent="46" relname="elaboration">по которой на высокой скорости мчалась иномарка.</segment>
-		<segment id="50" parent="51" relname="span">Произошло лобовое столкновение.</segment>
-		<segment id="52" parent="58" relname="same-unit">В результате,</segment>
-		<segment id="53" parent="56" relname="attribution">по словам очевидцев,</segment>
-		<segment id="54" parent="56" relname="sequence">автобус перевернулся два раза</segment>
-		<segment id="55" parent="56" relname="sequence">и упал в кювет.\n\</segment>
-		<segment id="60" parent="63" relname="cause-effect">nПо предварительной информации,</segment>
-		<segment id="61" parent="63" relname="span">в результате аварии серьезно пострадала классный руководитель</segment>
-		<segment id="62" parent="61" relname="cause-effect">- у нее перелом позвоночника.</segment>
-		<segment id="65" parent="67" relname="joint">Остальные пассажиры автобуса получили ушибы, царапины</segment>
-		<segment id="66" parent="67" relname="joint">и испытали сильный шок.\n\</segment>
-		<segment id="69" parent="74" relname="attribution">nПо неподтвержденной информации,</segment>
-		<segment id="70" parent="72" relname="joint">люди, находившиеся в иномарке, получили тяжелейшие травмы,</segment>
-		<segment id="71" parent="72" relname="joint">есть погибшие,</segment>
-		<segment id="73" parent="74" relname="comparison">сообщает радиостанция \"Авто-Радио\" Красноярск.\n\nНа место аварии выезжало руководство ГАИ Дивногорска и начальник ГУВД края Александр Горовой.</segment>
-		<segment id="76" parent="77" relname="purpose">Для перевозки детей домой</segment>
-		<segment id="77" parent="78" relname="span">на место ДТП подъехал автобус,</segment>
-		<segment id="79" parent="81" relname="span">однако некоторые школьники категорически отказались ехать,</segment>
-		<segment id="80" parent="79" relname="cause-effect">заявив, что пойдут пешком.\n\nИсточник: https://www.newsru.com/russia/25May2006/buscrash.html\n</segment>
+		<segment id="30" parent="32" relname="span">РџРѕРґ РљСЂР°СЃРЅРѕСЏСЂСЃРєРѕРј РїРµСЂРµРІРµСЂРЅСѓР»СЃСЏ Р°РІС‚РѕР±СѓСЃ СЃРѕ С€РєРѕР»СЊРЅРёРєР°РјРё:</segment>
+		<segment id="31" parent="30" relname="elaboration">РµСЃС‚СЊ СЂР°РЅРµРЅС‹Рµ\n\nРџРѕРґ РљСЂР°СЃРЅРѕСЏСЂСЃРєРѕРј РІ С‡РµС‚РІРµСЂРі РїРµСЂРµРІРµСЂРЅСѓР»СЃСЏ Р°РІС‚РѕР±СѓСЃ, РІ РєРѕС‚РѕСЂРѕРј РµС…Р°Р»Рё С€РєРѕР»СЊРЅРёРєРё.</segment>
+		<segment id="33" parent="39" relname="sequence">РђРІС‚РѕР±СѓСЃ РџРђР— РµС…Р°Р» РёР· Р”РёРІРЅРѕРіРѕСЂСЃРєР° РІ РљСЂР°СЃРЅРѕСЏСЂСЃРє.</segment>
+		<segment id="34" parent="38" relname="span">Р’ Р°РІС‚РѕР±СѓСЃРµ РЅР°С…РѕРґРёР»РёСЃСЊ 9-РєР»Р°СЃСЃРЅРёРєРё 63-Р№ С€РєРѕР»С‹ РљРёСЂРѕРІСЃРєРѕРіРѕ СЂР°Р№РѕРЅР° РљСЂР°СЃРЅРѕСЏСЂСЃРєР°,</segment>
+		<segment id="35" parent="37" relname="joint">РєРѕС‚РѕСЂС‹Рµ РѕС‚РјРµС‡Р°Р»Рё \"РїРѕСЃР»РµРґРЅРёР№ Р·РІРѕРЅРѕРє\"</segment>
+		<segment id="36" parent="37" relname="joint">Рё РµР·РґРёР»Рё РЅР° СЃРјРѕС‚СЂРѕРІСѓСЋ РїР»РѕС‰Р°РґРєСѓ Р”РёРІРЅРѕРіРѕСЂСЃРєРѕР№ Р“Р­РЎ.</segment>
+		<segment id="41" parent="43" relname="span">Р’СЃРµРіРѕ РІ Р°РІС‚РѕР±СѓСЃРµ РЅР°С…РѕРґРёР»РёСЃСЊ 21 С€РєРѕР»СЊРЅРёРє, С‡РµС‚РІРµСЂРѕ СЂРѕРґРёС‚РµР»РµР№, СѓС‡РёС‚РµР»СЏ Рё РґРµРІСѓС€РєР°-РјРёР»РёС†РёРѕРЅРµСЂ РљРёСЂРѕРІСЃРєРѕРіРѕ Р РћР’Р”.\n\</segment>
+		<segment id="42" parent="41" relname="elaboration">nР’РЅРµР·Р°РїРЅРѕ РµС…Р°РІС€РёР№ РІРїРµСЂРµРґРё Р°РІС‚РѕР±СѓСЃР° РіСЂСѓР·РѕРІРѕР№ Р°РІС‚РѕРјРѕР±РёР»СЊ \"Р—РёР›\" РѕСЃС‚Р°РЅРѕРІРёР»СЃСЏ.</segment>
+		<segment id="45" parent="49" relname="joint">Р’РѕРґРёС‚РµР»СЊ Р°РІС‚РѕР±СѓСЃР° РґР»СЏ РїСЂРµРґРѕС‚РІСЂР°С‰РµРЅРёСЏ СЃС‚РѕР»РєРЅРѕРІРµРЅРёСЏ</segment>
+		<segment id="46" parent="48" relname="span">РІС‹РµС…Р°Р» РЅР° РІСЃС‚СЂРµС‡РЅСѓСЋ РїРѕР»РѕСЃСѓ,</segment>
+		<segment id="47" parent="46" relname="elaboration">РїРѕ РєРѕС‚РѕСЂРѕР№ РЅР° РІС‹СЃРѕРєРѕР№ СЃРєРѕСЂРѕСЃС‚Рё РјС‡Р°Р»Р°СЃСЊ РёРЅРѕРјР°СЂРєР°.</segment>
+		<segment id="50" parent="51" relname="span">РџСЂРѕРёР·РѕС€Р»Рѕ Р»РѕР±РѕРІРѕРµ СЃС‚РѕР»РєРЅРѕРІРµРЅРёРµ.</segment>
+		<segment id="52" parent="58" relname="same-unit">Р’ СЂРµР·СѓР»СЊС‚Р°С‚Рµ,</segment>
+		<segment id="53" parent="56" relname="attribution">РїРѕ СЃР»РѕРІР°Рј РѕС‡РµРІРёРґС†РµРІ,</segment>
+		<segment id="54" parent="56" relname="sequence">Р°РІС‚РѕР±СѓСЃ РїРµСЂРµРІРµСЂРЅСѓР»СЃСЏ РґРІР° СЂР°Р·Р°</segment>
+		<segment id="55" parent="56" relname="sequence">Рё СѓРїР°Р» РІ РєСЋРІРµС‚.\n\</segment>
+		<segment id="60" parent="63" relname="cause-effect">nРџРѕ РїСЂРµРґРІР°СЂРёС‚РµР»СЊРЅРѕР№ РёРЅС„РѕСЂРјР°С†РёРё,</segment>
+		<segment id="61" parent="63" relname="span">РІ СЂРµР·СѓР»СЊС‚Р°С‚Рµ Р°РІР°СЂРёРё СЃРµСЂСЊРµР·РЅРѕ РїРѕСЃС‚СЂР°РґР°Р»Р° РєР»Р°СЃСЃРЅС‹Р№ СЂСѓРєРѕРІРѕРґРёС‚РµР»СЊ</segment>
+		<segment id="62" parent="61" relname="cause-effect">- Сѓ РЅРµРµ РїРµСЂРµР»РѕРј РїРѕР·РІРѕРЅРѕС‡РЅРёРєР°.</segment>
+		<segment id="65" parent="67" relname="joint">РћСЃС‚Р°Р»СЊРЅС‹Рµ РїР°СЃСЃР°Р¶РёСЂС‹ Р°РІС‚РѕР±СѓСЃР° РїРѕР»СѓС‡РёР»Рё СѓС€РёР±С‹, С†Р°СЂР°РїРёРЅС‹</segment>
+		<segment id="66" parent="67" relname="joint">Рё РёСЃРїС‹С‚Р°Р»Рё СЃРёР»СЊРЅС‹Р№ С€РѕРє.\n\</segment>
+		<segment id="69" parent="74" relname="attribution">nРџРѕ РЅРµРїРѕРґС‚РІРµСЂР¶РґРµРЅРЅРѕР№ РёРЅС„РѕСЂРјР°С†РёРё,</segment>
+		<segment id="70" parent="72" relname="joint">Р»СЋРґРё, РЅР°С…РѕРґРёРІС€РёРµСЃСЏ РІ РёРЅРѕРјР°СЂРєРµ, РїРѕР»СѓС‡РёР»Рё С‚СЏР¶РµР»РµР№С€РёРµ С‚СЂР°РІРјС‹,</segment>
+		<segment id="71" parent="72" relname="joint">РµСЃС‚СЊ РїРѕРіРёР±С€РёРµ,</segment>
+		<segment id="73" parent="74" relname="comparison">СЃРѕРѕР±С‰Р°РµС‚ СЂР°РґРёРѕСЃС‚Р°РЅС†РёСЏ \"РђРІС‚Рѕ-Р Р°РґРёРѕ\" РљСЂР°СЃРЅРѕСЏСЂСЃРє.\n\nРќР° РјРµСЃС‚Рѕ Р°РІР°СЂРёРё РІС‹РµР·Р¶Р°Р»Рѕ СЂСѓРєРѕРІРѕРґСЃС‚РІРѕ Р“РђР Р”РёРІРЅРѕРіРѕСЂСЃРєР° Рё РЅР°С‡Р°Р»СЊРЅРёРє Р“РЈР’Р” РєСЂР°СЏ РђР»РµРєСЃР°РЅРґСЂ Р“РѕСЂРѕРІРѕР№.</segment>
+		<segment id="76" parent="77" relname="purpose">Р”Р»СЏ РїРµСЂРµРІРѕР·РєРё РґРµС‚РµР№ РґРѕРјРѕР№</segment>
+		<segment id="77" parent="78" relname="span">РЅР° РјРµСЃС‚Рѕ Р”РўРџ РїРѕРґСЉРµС…Р°Р» Р°РІС‚РѕР±СѓСЃ,</segment>
+		<segment id="79" parent="81" relname="span">РѕРґРЅР°РєРѕ РЅРµРєРѕС‚РѕСЂС‹Рµ С€РєРѕР»СЊРЅРёРєРё РєР°С‚РµРіРѕСЂРёС‡РµСЃРєРё РѕС‚РєР°Р·Р°Р»РёСЃСЊ РµС…Р°С‚СЊ,</segment>
+		<segment id="80" parent="79" relname="cause-effect">Р·Р°СЏРІРёРІ, С‡С‚Рѕ РїРѕР№РґСѓС‚ РїРµС€РєРѕРј.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/25May2006/buscrash.html\n</segment>
 		<group id="44" type="multinuc" parent="86" relname="sequence"/>
 		<group id="40" type="multinuc" parent="44" relname="sequence"/>
 		<group id="32" type="span" parent="40" relname="sequence"/>

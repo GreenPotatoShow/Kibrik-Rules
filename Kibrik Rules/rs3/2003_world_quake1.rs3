@@ -11,19 +11,19 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="14" parent="16" relname="restatement">Сильное землетрясение произошло в Иране,</segment>
-		<segment id="15" parent="16" relname="restatement">есть разрушения\n\</segment>
-		<segment id="17" parent="23" relname="joint">nНа юго-западе Ирана произошло сильное землетрясение,</segment>
-		<segment id="18" parent="22" relname="joint">есть разрушения,</segment>
-		<segment id="19" parent="21" relname="span">данных о жертвах пока не поступало</segment>
+		<segment id="14" parent="16" relname="restatement">РЎРёР»СЊРЅРѕРµ Р·РµРјР»РµС‚СЂСЏСЃРµРЅРёРµ РїСЂРѕРёР·РѕС€Р»Рѕ РІ РСЂР°РЅРµ,</segment>
+		<segment id="15" parent="16" relname="restatement">РµСЃС‚СЊ СЂР°Р·СЂСѓС€РµРЅРёСЏ\n\</segment>
+		<segment id="17" parent="23" relname="joint">nРќР° СЋРіРѕ-Р·Р°РїР°РґРµ РСЂР°РЅР° РїСЂРѕРёР·РѕС€Р»Рѕ СЃРёР»СЊРЅРѕРµ Р·РµРјР»РµС‚СЂСЏСЃРµРЅРёРµ,</segment>
+		<segment id="18" parent="22" relname="joint">РµСЃС‚СЊ СЂР°Р·СЂСѓС€РµРЅРёСЏ,</segment>
+		<segment id="19" parent="21" relname="span">РґР°РЅРЅС‹С… Рѕ Р¶РµСЂС‚РІР°С… РїРѕРєР° РЅРµ РїРѕСЃС‚СѓРїР°Р»Рѕ</segment>
 		<segment id="20" parent="19" relname="cause-effect">.\n\</segment>
-		<segment id="24" parent="26" relname="span">nКак сообщил в пятницу геофизический центр Тегеранского университета,</segment>
-		<segment id="25" parent="24" relname="elaboration">мощность подземных толчков, зафиксированных в пяти километрах от города Масджед Солейман (провинция Хузестан) в четверг вечером,</segment>
-		<segment id="27" parent="31" relname="span">составила 4,9 балла по шкале Рихтера.\n\nЭпицентр землетрясения</segment>
-		<segment id="28" parent="30" relname="span">пришелся на другой населенный пункт - Заман Абад,</segment>
-		<segment id="29" parent="28" relname="elaboration">в котором разрушены некоторые из жилых домов,</segment>
-		<segment id="33" parent="35" relname="contrast">сообщает РИА \"Новости\".\n\nДо настоящего момента сообщений о жертвах не поступало,</segment>
-		<segment id="34" parent="35" relname="contrast">однако спасательные службы и больницы Масджед Солеймана приведены в полную готовность.\n\nИсточник: https://www.newsru.com/world/12Dec2003/quake1.html\n</segment>
+		<segment id="24" parent="26" relname="span">nРљР°Рє СЃРѕРѕР±С‰РёР» РІ РїСЏС‚РЅРёС†Сѓ РіРµРѕС„РёР·РёС‡РµСЃРєРёР№ С†РµРЅС‚СЂ РўРµРіРµСЂР°РЅСЃРєРѕРіРѕ СѓРЅРёРІРµСЂСЃРёС‚РµС‚Р°,</segment>
+		<segment id="25" parent="24" relname="elaboration">РјРѕС‰РЅРѕСЃС‚СЊ РїРѕРґР·РµРјРЅС‹С… С‚РѕР»С‡РєРѕРІ, Р·Р°С„РёРєСЃРёСЂРѕРІР°РЅРЅС‹С… РІ РїСЏС‚Рё РєРёР»РѕРјРµС‚СЂР°С… РѕС‚ РіРѕСЂРѕРґР° РњР°СЃРґР¶РµРґ РЎРѕР»РµР№РјР°РЅ (РїСЂРѕРІРёРЅС†РёСЏ РҐСѓР·РµСЃС‚Р°РЅ) РІ С‡РµС‚РІРµСЂРі РІРµС‡РµСЂРѕРј,</segment>
+		<segment id="27" parent="31" relname="span">СЃРѕСЃС‚Р°РІРёР»Р° 4,9 Р±Р°Р»Р»Р° РїРѕ С€РєР°Р»Рµ Р РёС…С‚РµСЂР°.\n\nР­РїРёС†РµРЅС‚СЂ Р·РµРјР»РµС‚СЂСЏСЃРµРЅРёСЏ</segment>
+		<segment id="28" parent="30" relname="span">РїСЂРёС€РµР»СЃСЏ РЅР° РґСЂСѓРіРѕР№ РЅР°СЃРµР»РµРЅРЅС‹Р№ РїСѓРЅРєС‚ - Р—Р°РјР°РЅ РђР±Р°Рґ,</segment>
+		<segment id="29" parent="28" relname="elaboration">РІ РєРѕС‚РѕСЂРѕРј СЂР°Р·СЂСѓС€РµРЅС‹ РЅРµРєРѕС‚РѕСЂС‹Рµ РёР· Р¶РёР»С‹С… РґРѕРјРѕРІ,</segment>
+		<segment id="33" parent="35" relname="contrast">СЃРѕРѕР±С‰Р°РµС‚ Р РРђ \"РќРѕРІРѕСЃС‚Рё\".\n\nР”Рѕ РЅР°СЃС‚РѕСЏС‰РµРіРѕ РјРѕРјРµРЅС‚Р° СЃРѕРѕР±С‰РµРЅРёР№ Рѕ Р¶РµСЂС‚РІР°С… РЅРµ РїРѕСЃС‚СѓРїР°Р»Рѕ,</segment>
+		<segment id="34" parent="35" relname="contrast">РѕРґРЅР°РєРѕ СЃРїР°СЃР°С‚РµР»СЊРЅС‹Рµ СЃР»СѓР¶Р±С‹ Рё Р±РѕР»СЊРЅРёС†С‹ РњР°СЃРґР¶РµРґ РЎРѕР»РµР№РјР°РЅР° РїСЂРёРІРµРґРµРЅС‹ РІ РїРѕР»РЅСѓСЋ РіРѕС‚РѕРІРЅРѕСЃС‚СЊ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/12Dec2003/quake1.html\n</segment>
 		<group id="16" type="multinuc" parent="37" relname="preparation"/>
 		<group id="37" type="multinuc" parent="38" relname="span"/>
 		<group id="23" type="multinuc" parent="37" relname="joint"/>

@@ -38,12 +38,14 @@ TextProcessor::TextProcessor(const TextLoader &textLoader) {
             currentEntityFromChain = chain.getWords().back();
 
             currentCA = textLoader.activationCoeff(currentEntityFromChain, currentEntity, chain.getWords().size());
+
             if (currentCA >= maxCA) {
+
                 maxCA = currentCA;
                 bestCAChainID = chain.getId();
             }
         }
-        if (maxCA >= 0.7) {
+        if (maxCA >= 0.5) {
             this->chains[bestCAChainID].pushBackToWords(currentEntity);
         }
         else {
@@ -54,13 +56,14 @@ TextProcessor::TextProcessor(const TextLoader &textLoader) {
         maxCA = -5;
         bestCAChainID = -1;
     }
-    for (auto& chain : this->chains) {
-        std::cout << "\n" << chain.getId() << ". ";
-        for (auto word : chain.getWords()) {
-            std::cout << word->getWordShell()->GetForm() << " ";
-        }
-    }
+    //for (auto& chain : this->chains) {
+    //    std::cout << "\n" << chain.getId() << ". ";
+    //    for (auto word : chain.getWords()) {
+    //        std::cout << word->getWordShell()->GetForm() << " ";
+    //    }
+    //}
 	JSONCreator jsonCreator(this->chains, textLoader.getText(), textLoader.getFileName());
+    std::cout << textLoader.getFileName() << "\n";
 }
 
 TextProcessor::~TextProcessor() {

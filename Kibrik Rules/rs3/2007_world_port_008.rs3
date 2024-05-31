@@ -9,13 +9,13 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="8" parent="10" relname="span">В Хайфском заливе столкнулись два судна,</segment>
-		<segment id="9" parent="8" relname="elaboration">есть пострадавшие\n\nГреческое пассажирское судно столкнулось в ночь на пятницу с израильским грузовым кораблем на расстоянии трех километров от Хайфского порта.</segment>
-		<segment id="11" parent="15" relname="joint">В результате столкновения израильское судно затонуло,</segment>
-		<segment id="12" parent="14" relname="joint">члены экипажа были вынуждены прыгать в воду.\n\n11 человек были спасены,</segment>
-		<segment id="13" parent="14" relname="joint">двое числятся пропавшими без вести,</segment>
-		<segment id="16" parent="15" relname="attribution">сообщает NEWSru Israel.</segment>
-		<segment id="19" parent="18" relname="elaboration">Служба скорой помощи \"Маген Давид Адом\" в Хайфе была приведена в состояние повышенной готовности.\n\nИсточник: https://www.newsru.com/world/31Aug2007/port.html\n</segment>
+		<segment id="8" parent="10" relname="span">Р’ РҐР°Р№С„СЃРєРѕРј Р·Р°Р»РёРІРµ СЃС‚РѕР»РєРЅСѓР»РёСЃСЊ РґРІР° СЃСѓРґРЅР°,</segment>
+		<segment id="9" parent="8" relname="elaboration">РµСЃС‚СЊ РїРѕСЃС‚СЂР°РґР°РІС€РёРµ\n\nР“СЂРµС‡РµСЃРєРѕРµ РїР°СЃСЃР°Р¶РёСЂСЃРєРѕРµ СЃСѓРґРЅРѕ СЃС‚РѕР»РєРЅСѓР»РѕСЃСЊ РІ РЅРѕС‡СЊ РЅР° РїСЏС‚РЅРёС†Сѓ СЃ РёР·СЂР°РёР»СЊСЃРєРёРј РіСЂСѓР·РѕРІС‹Рј РєРѕСЂР°Р±Р»РµРј РЅР° СЂР°СЃСЃС‚РѕСЏРЅРёРё С‚СЂРµС… РєРёР»РѕРјРµС‚СЂРѕРІ РѕС‚ РҐР°Р№С„СЃРєРѕРіРѕ РїРѕСЂС‚Р°.</segment>
+		<segment id="11" parent="15" relname="joint">Р’ СЂРµР·СѓР»СЊС‚Р°С‚Рµ СЃС‚РѕР»РєРЅРѕРІРµРЅРёСЏ РёР·СЂР°РёР»СЊСЃРєРѕРµ СЃСѓРґРЅРѕ Р·Р°С‚РѕРЅСѓР»Рѕ,</segment>
+		<segment id="12" parent="14" relname="joint">С‡Р»РµРЅС‹ СЌРєРёРїР°Р¶Р° Р±С‹Р»Рё РІС‹РЅСѓР¶РґРµРЅС‹ РїСЂС‹РіР°С‚СЊ РІ РІРѕРґСѓ.\n\n11 С‡РµР»РѕРІРµРє Р±С‹Р»Рё СЃРїР°СЃРµРЅС‹,</segment>
+		<segment id="13" parent="14" relname="joint">РґРІРѕРµ С‡РёСЃР»СЏС‚СЃСЏ РїСЂРѕРїР°РІС€РёРјРё Р±РµР· РІРµСЃС‚Рё,</segment>
+		<segment id="16" parent="15" relname="attribution">СЃРѕРѕР±С‰Р°РµС‚ NEWSru Israel.</segment>
+		<segment id="19" parent="18" relname="elaboration">РЎР»СѓР¶Р±Р° СЃРєРѕСЂРѕР№ РїРѕРјРѕС‰Рё \"РњР°РіРµРЅ Р”Р°РІРёРґ РђРґРѕРј\" РІ РҐР°Р№С„Рµ Р±С‹Р»Р° РїСЂРёРІРµРґРµРЅР° РІ СЃРѕСЃС‚РѕСЏРЅРёРµ РїРѕРІС‹С€РµРЅРЅРѕР№ РіРѕС‚РѕРІРЅРѕСЃС‚Рё.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/31Aug2007/port.html\n</segment>
 		<group id="18" type="span" parent="20" relname="span"/>
 		<group id="10" type="span" parent="17" relname="cause-effect"/>
 		<group id="17" type="span" parent="18" relname="span"/>

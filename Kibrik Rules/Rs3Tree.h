@@ -1,7 +1,7 @@
 #pragma once
 #include<vector>
 
-//узел rs3 дерева (базовый класс). Здесь хранятся group и отсюда наследуются segment
+//СѓР·РµР» rs3 РґРµСЂРµРІР° (Р±Р°Р·РѕРІС‹Р№ РєР»Р°СЃСЃ). Р—РґРµСЃСЊ С…СЂР°РЅСЏС‚СЃСЏ group Рё РѕС‚СЃСЋРґР° РЅР°СЃР»РµРґСѓСЋС‚СЃСЏ segment
 
 class Rs3Tree
 {
@@ -15,7 +15,7 @@ public:
 	int getId();
 	Rs3Tree* getParent();
 
-	void setChildOf(Rs3Tree* parent); //сделать узел parent родителем
+	void setChildOf(Rs3Tree* parent); //СЃРґРµР»Р°С‚СЊ СѓР·РµР» parent СЂРѕРґРёС‚РµР»РµРј
 
 private:
 	int id;

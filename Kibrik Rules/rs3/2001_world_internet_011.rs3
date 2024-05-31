@@ -13,26 +13,26 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="21" parent="24" relname="condition">При подготовке атак в США</segment>
-		<segment id="22" parent="24" relname="span">террористы использовали интернет</segment>
-		<segment id="23" parent="22" relname="purpose">для координации действий\n\nСледователи ФБР в США установили,</segment>
-		<segment id="26" parent="28" relname="span">что для координации своих действий</segment>
-		<segment id="27" parent="26" relname="attribution">террористы,</segment>
-		<segment id="29" parent="28" relname="elaboration">организовавшие атаки в Нью-Йорке и Вашингтоне,</segment>
-		<segment id="31" parent="32" relname="same-unit">широко использовали интернет,</segment>
-		<segment id="34" parent="33" relname="attribution">сообщает ABCNews.</segment>
-		<segment id="36" parent="38" relname="joint">\"Они пользовались интернетом,</segment>
-		<segment id="37" parent="38" relname="joint">и пользовались им очень активно\",</segment>
-		<segment id="39" parent="40" relname="attribution">- заявил представитель ФБР,</segment>
-		<segment id="40" parent="41" relname="span">возглавляющий \"компьютерную\" часть расследования.\n\</segment>
-		<segment id="43" parent="48" relname="attribution">nПо словам следователя,</segment>
-		<segment id="44" parent="48" relname="span">в распоряжении ФБР есть сотни незашифрованных сообщений, которыми обменивались террористы более чем за месяц до атаки.\n\nВ e-mail террористов,</segment>
-		<segment id="45" parent="47" relname="joint">часть которых написана на арабском, а часть на английском,</segment>
-		<segment id="46" parent="47" relname="joint">есть и существенные доказательства.\n\nВ интернет террористы входили из общественных библиотек и с домашних компьютеров.</segment>
-		<segment id="50" parent="52" relname="span">В расследовании агентам ФБР помогли провайдеры,</segment>
-		<segment id="51" parent="50" relname="elaboration">которые оперативно предоставили всю запрошенную информацию.\n\nПредставитель ФБР сообщил также,</segment>
-		<segment id="53" parent="55" relname="joint">что в ходе следствия у ряда подозреваемых в причастности к терактам изъяты компьютеры,</segment>
-		<segment id="54" parent="55" relname="joint">и сейчас изучается содержащаяся на них информация.\n\nИсточник: https://www.newsru.com/world/20Sep2001/internet.html\n</segment>
+		<segment id="21" parent="24" relname="condition">РџСЂРё РїРѕРґРіРѕС‚РѕРІРєРµ Р°С‚Р°Рє РІ РЎРЁРђ</segment>
+		<segment id="22" parent="24" relname="span">С‚РµСЂСЂРѕСЂРёСЃС‚С‹ РёСЃРїРѕР»СЊР·РѕРІР°Р»Рё РёРЅС‚РµСЂРЅРµС‚</segment>
+		<segment id="23" parent="22" relname="purpose">РґР»СЏ РєРѕРѕСЂРґРёРЅР°С†РёРё РґРµР№СЃС‚РІРёР№\n\nРЎР»РµРґРѕРІР°С‚РµР»Рё Р¤Р‘Р  РІ РЎРЁРђ СѓСЃС‚Р°РЅРѕРІРёР»Рё,</segment>
+		<segment id="26" parent="28" relname="span">С‡С‚Рѕ РґР»СЏ РєРѕРѕСЂРґРёРЅР°С†РёРё СЃРІРѕРёС… РґРµР№СЃС‚РІРёР№</segment>
+		<segment id="27" parent="26" relname="attribution">С‚РµСЂСЂРѕСЂРёСЃС‚С‹,</segment>
+		<segment id="29" parent="28" relname="elaboration">РѕСЂРіР°РЅРёР·РѕРІР°РІС€РёРµ Р°С‚Р°РєРё РІ РќСЊСЋ-Р™РѕСЂРєРµ Рё Р’Р°С€РёРЅРіС‚РѕРЅРµ,</segment>
+		<segment id="31" parent="32" relname="same-unit">С€РёСЂРѕРєРѕ РёСЃРїРѕР»СЊР·РѕРІР°Р»Рё РёРЅС‚РµСЂРЅРµС‚,</segment>
+		<segment id="34" parent="33" relname="attribution">СЃРѕРѕР±С‰Р°РµС‚ ABCNews.</segment>
+		<segment id="36" parent="38" relname="joint">\"РћРЅРё РїРѕР»СЊР·РѕРІР°Р»РёСЃСЊ РёРЅС‚РµСЂРЅРµС‚РѕРј,</segment>
+		<segment id="37" parent="38" relname="joint">Рё РїРѕР»СЊР·РѕРІР°Р»РёСЃСЊ РёРј РѕС‡РµРЅСЊ Р°РєС‚РёРІРЅРѕ\",</segment>
+		<segment id="39" parent="40" relname="attribution">- Р·Р°СЏРІРёР» РїСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊ Р¤Р‘Р ,</segment>
+		<segment id="40" parent="41" relname="span">РІРѕР·РіР»Р°РІР»СЏСЋС‰РёР№ \"РєРѕРјРїСЊСЋС‚РµСЂРЅСѓСЋ\" С‡Р°СЃС‚СЊ СЂР°СЃСЃР»РµРґРѕРІР°РЅРёСЏ.\n\</segment>
+		<segment id="43" parent="48" relname="attribution">nРџРѕ СЃР»РѕРІР°Рј СЃР»РµРґРѕРІР°С‚РµР»СЏ,</segment>
+		<segment id="44" parent="48" relname="span">РІ СЂР°СЃРїРѕСЂСЏР¶РµРЅРёРё Р¤Р‘Р  РµСЃС‚СЊ СЃРѕС‚РЅРё РЅРµР·Р°С€РёС„СЂРѕРІР°РЅРЅС‹С… СЃРѕРѕР±С‰РµРЅРёР№, РєРѕС‚РѕСЂС‹РјРё РѕР±РјРµРЅРёРІР°Р»РёСЃСЊ С‚РµСЂСЂРѕСЂРёСЃС‚С‹ Р±РѕР»РµРµ С‡РµРј Р·Р° РјРµСЃСЏС† РґРѕ Р°С‚Р°РєРё.\n\nР’ e-mail С‚РµСЂСЂРѕСЂРёСЃС‚РѕРІ,</segment>
+		<segment id="45" parent="47" relname="joint">С‡Р°СЃС‚СЊ РєРѕС‚РѕСЂС‹С… РЅР°РїРёСЃР°РЅР° РЅР° Р°СЂР°Р±СЃРєРѕРј, Р° С‡Р°СЃС‚СЊ РЅР° Р°РЅРіР»РёР№СЃРєРѕРј,</segment>
+		<segment id="46" parent="47" relname="joint">РµСЃС‚СЊ Рё СЃСѓС‰РµСЃС‚РІРµРЅРЅС‹Рµ РґРѕРєР°Р·Р°С‚РµР»СЊСЃС‚РІР°.\n\nР’ РёРЅС‚РµСЂРЅРµС‚ С‚РµСЂСЂРѕСЂРёСЃС‚С‹ РІС…РѕРґРёР»Рё РёР· РѕР±С‰РµСЃС‚РІРµРЅРЅС‹С… Р±РёР±Р»РёРѕС‚РµРє Рё СЃ РґРѕРјР°С€РЅРёС… РєРѕРјРїСЊСЋС‚РµСЂРѕРІ.</segment>
+		<segment id="50" parent="52" relname="span">Р’ СЂР°СЃСЃР»РµРґРѕРІР°РЅРёРё Р°РіРµРЅС‚Р°Рј Р¤Р‘Р  РїРѕРјРѕРіР»Рё РїСЂРѕРІР°Р№РґРµСЂС‹,</segment>
+		<segment id="51" parent="50" relname="elaboration">РєРѕС‚РѕСЂС‹Рµ РѕРїРµСЂР°С‚РёРІРЅРѕ РїСЂРµРґРѕСЃС‚Р°РІРёР»Рё РІСЃСЋ Р·Р°РїСЂРѕС€РµРЅРЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ.\n\nРџСЂРµРґСЃС‚Р°РІРёС‚РµР»СЊ Р¤Р‘Р  СЃРѕРѕР±С‰РёР» С‚Р°РєР¶Рµ,</segment>
+		<segment id="53" parent="55" relname="joint">С‡С‚Рѕ РІ С…РѕРґРµ СЃР»РµРґСЃС‚РІРёСЏ Сѓ СЂСЏРґР° РїРѕРґРѕР·СЂРµРІР°РµРјС‹С… РІ РїСЂРёС‡Р°СЃС‚РЅРѕСЃС‚Рё Рє С‚РµСЂР°РєС‚Р°Рј РёР·СЉСЏС‚С‹ РєРѕРјРїСЊСЋС‚РµСЂС‹,</segment>
+		<segment id="54" parent="55" relname="joint">Рё СЃРµР№С‡Р°СЃ РёР·СѓС‡Р°РµС‚СЃСЏ СЃРѕРґРµСЂР¶Р°С‰Р°СЏСЃСЏ РЅР° РЅРёС… РёРЅС„РѕСЂРјР°С†РёСЏ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/20Sep2001/internet.html\n</segment>
 		<group id="35" type="span" parent="58" relname="preparation"/>
 		<group id="33" type="span" parent="35" relname="span"/>
 		<group id="25" type="span" parent="33" relname="span"/>

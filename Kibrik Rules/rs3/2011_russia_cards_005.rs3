@@ -21,170 +21,170 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="166" parent="173" relname="attribution">Cтудент рассказал в своем блоге о практике в Госдуме:</segment>
-		<segment id="167" parent="169" relname="joint">депутаты злоупотребляют казной</segment>
-		<segment id="168" parent="169" relname="joint">и играют в карты на заседаниях\n\nСтудент-блоггер одного из московских вузов,</segment>
-		<segment id="170" parent="172" relname="sequence">пишущий в ЖЖ под ником yeenzo,</segment>
-		<segment id="171" parent="172" relname="sequence">поделился в своем интернет-дневнике впечатлениями от недели, проведенной на практике \"в одной из святынь российской государственности – Государственной Думе\",</segment>
-		<segment id="175" parent="174" relname="attribution">сообщает информационное агентство \"Новый регион\".</segment>
-		<segment id="177" parent="183" relname="span">Оно ссылается на запись в блоге,</segment>
-		<segment id="178" parent="182" relname="same-unit">которая, однако, теперь закрыта для просмотра</segment>
-		<segment id="179" parent="180" relname="attribution">.\n\nПрактикант признался,</segment>
-		<segment id="180" parent="181" relname="span">что в ходе порученной ему проверки документов о поездках парламентариев он нашел немало интересного.</segment>
-		<segment id="184" parent="191" relname="attribution">Блоггер утверждает,</segment>
-		<segment id="185" parent="187" relname="span">что ряд депутатов любят ездить по своим личным делам</segment>
-		<segment id="186" parent="185" relname="cause-effect">за счет бюджетных средств.</segment>
-		<segment id="188" parent="190" relname="joint">А некоторые из них умудряются потратить в аэропорту 50 тысяч рублей в ожидании своего рейса,</segment>
-		<segment id="189" parent="190" relname="joint">отмечает практикант.\n\n\"Я попал в кабинет по транспортному обеспечению депутатов.</segment>
-		<segment id="194" parent="212" relname="span">Это такой отдел, который принимает счета от РЖД и авиакомпаний за перевозку наших депутатов.</segment>
-		<segment id="195" parent="201" relname="joint">Эти счета мы должны тщательно проанализировать,</segment>
-		<segment id="196" parent="200" relname="sequence">проверить,</segment>
-		<segment id="197" parent="199" relname="joint">занести в компьютерную базу,</segment>
-		<segment id="198" parent="199" relname="joint">отнести на визу начальнику и потом в бухгалтерию.</segment>
-		<segment id="202" parent="206" relname="sequence">Работа не сложная, но немного рутинная\".\n\n\"Мы просто берем реестр с депутатами со счетом и суммами,</segment>
-		<segment id="203" parent="205" relname="sequence">а затем сверяем его с нашим списком депутатов,</segment>
-		<segment id="204" parent="205" relname="sequence">попутно вылавливая баги.</segment>
-		<segment id="207" parent="206" relname="elaboration">В первую очередь нужно ловить серьезные - отсутствие обязательных приложений, печати, штампы, росписи на всех документах, контрольную сумму.</segment>
-		<segment id="209" parent="210" relname="joint">Далее ищем баги поменьше\".\n\nТакие нарушения были обнаружены в первый же день.</segment>
-		<segment id="213" parent="215" relname="joint">\"Например, некоторые депутаты пытаются протащить по своему удостоверению кого-то из своих друзей</segment>
-		<segment id="214" parent="215" relname="joint">или и вовсе летать туда, куда бесплатный проезд им не положен, - за рубеж.</segment>
-		<segment id="216" parent="218" relname="joint">В этом случае спорную позицию необходимо вычеркнуть,</segment>
-		<segment id="217" parent="218" relname="joint">а сумму пересчитать заново\",</segment>
-		<segment id="220" parent="219" relname="attribution">- пишет автор.</segment>
-		<segment id="224" parent="299" relname="preparation">\"Вообще в этих счетах проходит много интересного\",</segment>
-		<segment id="225" parent="298" relname="attribution">- утверждает он.\n\n</segment>
-		<segment id="226" parent="243" relname="preparation">\"Например, наше все Иосиф Кобзон летал в Калининград на свой концерт для региональной администрации за счет Думы.</segment>
-		<segment id="227" parent="243" relname="joint">Хоркина - домой к родственникам,</segment>
-		<segment id="228" parent="242" relname="span">тоже думским бюджетом злоупотребляет.</segment>
-		<segment id="229" parent="231" relname="span">В списках проходят депутаты с одинаковой фамилией.</segment>
-		<segment id="230" parent="229" relname="elaboration">Там частенько сидят отец и сын одновременно.</segment>
-		<segment id="232" parent="240" relname="span">Средняя сумма счета 3 миллиона.</segment>
-		<segment id="233" parent="235" relname="span">Еще некоторые депутаты умудряются прос*ать до 50 штук,</segment>
-		<segment id="234" parent="233" relname="condition">тупо в терминале дожидаясь своего рейса\".\n\</segment>
-		<segment id="236" parent="237" relname="attribution">nПо признанию студента-практиканта,</segment>
-		<segment id="237" parent="238" relname="span">\"иногда Государственная Дума вызывает когнитивный диссонанс\": \"В холле второго здания торгуют книгами про плохого Путина, про Ходорковского, про компромат на Россию от WikiLeaks, разоблачения высших чиновников и т.д.</segment>
-		<segment id="245" parent="247" relname="contrast">Про Навального не нашел,</segment>
-		<segment id="246" parent="247" relname="contrast">но, думаю, тоже скоро появится\".\n\n\"Торгуют дорогим алкоголем в ларьках - Black Label за 1700 рублей литр.</segment>
-		<segment id="248" parent="254" relname="span">Еще есть ювелирная лавка, где продают иконы, пасхальные яйца, мягкие игрушки, кольца, и все - божественной красоты\".\n\n\"В переходе первого этажа есть курилка</segment>
-		<segment id="249" parent="253" relname="same-unit">(по ходу, единственная на два здания),</segment>
-		<segment id="250" parent="252" relname="joint">еще там проходит сельскохозяйственная выставка,</segment>
-		<segment id="251" parent="252" relname="joint">продают саженцы, семена, инвентарь.</segment>
-		<segment id="255" parent="259" relname="joint">Дорого, правда.</segment>
-		<segment id="256" parent="258" relname="span">Очень дорого.</segment>
-		<segment id="257" parent="256" relname="elaboration">Петуния 400 рублей.</segment>
-		<segment id="262" parent="271" relname="preparation">На нашем рынке такая же 39 рублей...</segment>
-		<segment id="263" parent="267" relname="span">По другую сторону идет фотовыставка Русской православной церкви – иконы, патриархи, храмы\".\n\n\"Вообще Русская православная церковь глубоко засела в Государственной Думе</segment>
-		<segment id="264" parent="266" relname="joint">- во всех кабинетах иконы, много церковных лавок,</segment>
-		<segment id="265" parent="266" relname="joint">каждый день священника какого-нибудь видишь\",</segment>
-		<segment id="268" parent="270" relname="contrast">– отметил блоггер.\n\nНа заседаниях играют в карты, а также в любимую игрушку президента.</segment>
-		<segment id="269" parent="270" relname="contrast">Но картежников среди них нет\n\nОднако больше всего негативных впечатлений студент получил от посещения заседания Государственной Думы:</segment>
-		<segment id="274" parent="282" relname="span">\"Сегодня были на заседании ГД, прямо в зале.</segment>
-		<segment id="275" parent="277" relname="joint">Посещение строго лимитируется по времени,</segment>
-		<segment id="276" parent="277" relname="joint">и на входе в зал шмонают сильнее, чем на входе в здание.</segment>
-		<segment id="278" parent="280" relname="joint">У нас сразу на входе забрали телефоны и фотоаппараты ФСОшники,</segment>
-		<segment id="279" parent="280" relname="joint">и, как оказалось, неспроста.</segment>
-		<segment id="283" parent="287" relname="span">То, что мы там увидели,</segment>
-		<segment id="284" parent="286" relname="span">у всех вызвало недоуменное WTF</segment>
-		<segment id="285" parent="284" relname="elaboration">(от англ. What the f*ck?!)\".\n\n</segment>
-		<segment id="288" parent="292" relname="contrast">\"То, что депутаты расп***яи, мы, конечно, знали,</segment>
-		<segment id="289" parent="291" relname="span">но чтоб настолько...</segment>
-		<segment id="290" parent="289" relname="interpretation-evaluation">Такого расп***яйства я не видел нигде\",</segment>
-		<segment id="293" parent="294" relname="span">– возмущается студент.\n\n</segment>
-		<segment id="301" parent="303" relname="joint">\"Зал полон меньше чем на четверть,</segment>
-		<segment id="302" parent="303" relname="joint">а те, кто есть, заняты чем угодно, кроме собственно заседания и законов.</segment>
-		<segment id="304" parent="316" relname="joint">Все свободно ходят по залу,</segment>
-		<segment id="305" parent="315" relname="sequence">болтают друг с другом,</segment>
-		<segment id="306" parent="308" relname="joint">кто-то читает газеты,</segment>
-		<segment id="307" parent="308" relname="joint">на задних рядах вообще играют в карты.</segment>
-		<segment id="309" parent="311" relname="span">Едросня играет в айпады.</segment>
-		<segment id="310" parent="309" relname="interpretation-evaluation">Везде царит атмосфера долбо**изма и расп***яйства,</segment>
-		<segment id="313" parent="314" relname="joint">даже в кресле председателя Морозова.</segment>
-		<segment id="317" parent="333" relname="joint">Он вообще просто че-то унылым голосом читает, и все.</segment>
-		<segment id="318" parent="328" relname="sequence">В нужный момент по его команде все просто подходят к своим местам</segment>
-		<segment id="319" parent="321" relname="sequence">и нажимают на кнопочки,</segment>
-		<segment id="320" parent="321" relname="sequence">потом снова занимаются своими делами\", – описывает увиденное практикант.\n\n</segment>
-		<segment id="322" parent="321" relname="interpretation-evaluation">\"Все это грустно и стыдно.</segment>
-		<segment id="324" parent="323" relname="interpretation-evaluation">Стыдно за все это.</segment>
-		<segment id="326" parent="325" relname="interpretation-evaluation">Это не парламент, а офисная курилка\",</segment>
-		<segment id="329" parent="328" relname="attribution">– считает блоггер.\n\nВ Государственной Думе успели отреагировать на выступление практиканта,</segment>
-		<segment id="331" parent="330" relname="attribution">передает РИА \"Новости\".</segment>
-		<segment id="336" parent="350" relname="joint">Там прокомментировали его сообщение</segment>
-		<segment id="339" parent="348" relname="condition">и, если верить самому студенту,</segment>
-		<segment id="340" parent="347" relname="attribution">прогнали его с практики.\n\nВ нижней палате парламента признают,</segment>
-		<segment id="341" parent="343" relname="joint">что не каждый законопроект депутаты слушают внимательно</segment>
-		<segment id="342" parent="343" relname="joint">и иногда отвлекаются на чтение и пользование интернетом,</segment>
-		<segment id="344" parent="346" relname="span">но подчеркивают, что в карты на заседаниях никто не играет.\n\n\"Я лично не видел ни разу,</segment>
-		<segment id="345" parent="344" relname="purpose">чтобы кто-то из депутатов во время пленарного заседания играл в карты.</segment>
-		<segment id="351" parent="353" relname="joint">Да, кто-то читает газету,</segment>
-		<segment id="352" parent="353" relname="joint">кто-то смотрит свой планшет,</segment>
-		<segment id="354" parent="368" relname="contrast">в интернете копается,</segment>
-		<segment id="355" parent="367" relname="span">но чтобы в карты играли</segment>
-		<segment id="356" parent="366" relname="span">- я такого не видел\",</segment>
-		<segment id="357" parent="364" relname="attribution">- сказал агентству депутат от ЛДПР Сергей Иванов,</segment>
-		<segment id="358" parent="364" relname="span">член комиссии по мандатным вопросам и вопросам депутатской этики,</segment>
-		<segment id="359" parent="363" relname="span">которая оценивает поведение депутатов в зале пленарных заседаний.\n\nИногда,</segment>
-		<segment id="360" parent="361" relname="condition">если депутату не интересен обсуждаемый вопрос,</segment>
-		<segment id="361" parent="362" relname="span">он занимается каким-то своим делом,</segment>
-		<segment id="370" parent="369" relname="attribution">отметил Иванов.</segment>
-		<segment id="373" parent="374" relname="attribution">По его словам,</segment>
-		<segment id="374" parent="375" relname="span">мало найдется людей, которые являются специалистами во всех обсуждающихся в Государственной Думе темах,</segment>
-		<segment id="376" parent="385" relname="attribution">однако в целом, по его мнению,</segment>
-		<segment id="377" parent="385" relname="joint">законопроекты касаются любого,</segment>
-		<segment id="378" parent="384" relname="joint">и депутат вполне может делать какие-то замечания</segment>
-		<segment id="379" parent="383" relname="span">и следить за ходом обсуждения.\n\n\"Есть, конечно, например, техрегламенты,</segment>
-		<segment id="380" parent="382" relname="span">где нужно быть очень узким специалистом,</segment>
-		<segment id="381" parent="380" relname="purpose">чтобы знать, правильно ли написана температура пастеризации молока\",</segment>
-		<segment id="388" parent="403" relname="attribution">- сказал Иванов</segment>
-		<segment id="389" parent="395" relname="joint">.\n\nПарламентские журналисты, имеющие доступ в зал пленарных заседаний,</segment>
-		<segment id="390" parent="392" relname="span">также ни разу не видели,</segment>
-		<segment id="391" parent="390" relname="purpose">чтобы депутаты в зале играли в карты.\n\n\"В карты чтобы играли</segment>
-		<segment id="393" parent="394" relname="span">- не видел ни разу.</segment>
-		<segment id="396" parent="400" relname="joint">Видел, как на iPad в шахматы играют,</segment>
-		<segment id="397" parent="399" relname="joint">- да, а так, чтобы откровенно в карты,</segment>
-		<segment id="398" parent="399" relname="joint">- нет\",</segment>
-		<segment id="402" parent="401" relname="attribution">- сказал агентству один из маститых парламентских корреспондентов.\n\nДепутат от \"Справедливой России\", член комиссии палаты по мандатным вопросам и вопросам депутатской этики</segment>
-		<segment id="406" parent="410" relname="joint">Михаил Емельянов призывает не дискредитировать Государственную Думу без оснований.\n\n\"Не надо демонизировать</segment>
-		<segment id="407" parent="409" relname="span">и дискредитировать Думу,</segment>
-		<segment id="408" parent="407" relname="cause-effect">особенно там, где для этого нет оснований.</segment>
-		<segment id="411" parent="413" relname="span">Иногда коллеги дают реальные основания,</segment>
-		<segment id="412" parent="411" relname="purpose">чтобы осуждать Думу,</segment>
-		<segment id="414" parent="415" relname="contrast">но дополнительных сочинять не надо\",</segment>
-		<segment id="417" parent="416" relname="attribution">- сказал Емельянов.\n\</segment>
-		<segment id="420" parent="455" relname="attribution">nОн отметил,</segment>
-		<segment id="421" parent="423" relname="span">что ни разу за все время своей работы в парламенте не видел,</segment>
-		<segment id="422" parent="421" relname="purpose">чтобы кто-то из депутатов брал карты.\n\n\"Бывают законопроекты, выдвинутые отдельными депутатами или отдельной фракцией,</segment>
-		<segment id="424" parent="444" relname="span">которые заведомо, как бы помягче сказать,</segment>
-		<segment id="425" parent="442" relname="condition">если не глупы,</segment>
-		<segment id="426" parent="440" relname="span">то по крайней мере абсурдны,</segment>
-		<segment id="427" parent="439" relname="contrast">которые не вызывают никакого интереса, абсолютно популистские законопроекты.</segment>
-		<segment id="428" parent="430" relname="span">Но по регламенту палаты депутаты должны их рассматривать\",</segment>
-		<segment id="429" parent="428" relname="attribution">- заявил собеседник агентства</segment>
-		<segment id="431" parent="436" relname="attribution">.\n\nЕмельянов считает,</segment>
-		<segment id="432" parent="436" relname="span">что нельзя осуждать депутата,</segment>
-		<segment id="433" parent="434" relname="condition">который при обсуждении пустого законопроекта</segment>
-		<segment id="434" parent="435" relname="span">взял почитать газету</segment>
-		<segment id="441" parent="442" relname="joint">или перекинулся несколькими словами с коллегой.\n\n\"Когда было обсуждение бюджета или закона о политике</segment>
-		<segment id="446" parent="448" relname="span">- я что-то не видел скучающих лиц или людей, занимающихся пустой болтовней\",</segment>
-		<segment id="447" parent="446" relname="attribution">- сказал он.\n\nВечером сам автор записи разместил сообщение,</segment>
-		<segment id="449" parent="448" relname="attribution">в котором заявил,</segment>
-		<segment id="452" parent="454" relname="span">что с практики его выгнали</segment>
-		<segment id="453" parent="452" relname="cause-effect">без объяснения причин.</segment>
-		<segment id="457" parent="461" relname="contrast">Из института его, скорее всего, не исключат,</segment>
-		<segment id="458" parent="460" relname="span">а для продолжения практики переведут в другое место,</segment>
-		<segment id="459" parent="458" relname="elaboration">которое будет в секрете.</segment>
-		<segment id="463" parent="466" relname="attribution">Блоггер также заявил,</segment>
-		<segment id="464" parent="466" relname="contrast">что находится на позитиве,</segment>
-		<segment id="465" parent="466" relname="contrast">но при этом решил все-таки крепко злоупотребить алкогольными напитками.\n\</segment>
-		<segment id="469" parent="471" relname="contrast">nАвторы комментариев выразили сомнение в целесообразности последнего деяния,</segment>
-		<segment id="470" parent="471" relname="contrast">а некоторые из них призвали его раскрыть злополучную запись,</segment>
-		<segment id="472" parent="478" relname="span">на что блоггер никак не отреагировал,</segment>
-		<segment id="473" parent="476" relname="solutionhood">из чего можно предположить, что студент \"мужественно\" скрыл ее от глаз публики.\n\</segment>
-		<segment id="474" parent="475" relname="attribution">nНапомним,</segment>
-		<segment id="475" parent="476" relname="span">призвать депутатов к порядку на заседаниях безуспешно пытался президент Дмитрий Медведев.</segment>
-		<segment id="480" parent="479" relname="elaboration">Известно, в частности, о наличии \"дежурных\" депутатов, которые по предварительной договоренности голосуют за отсутствующих коллег,</segment>
-		<segment id="482" parent="486" relname="joint">проходя вдоль выделенного им ряда</segment>
-		<segment id="483" parent="485" relname="span">и нажимая на клавиши машин</segment>
-		<segment id="484" parent="483" relname="purpose">для голосования.\n\nИсточник: https://www.newsru.com/russia/24May2011/cards.html\n</segment>
+		<segment id="166" parent="173" relname="attribution">CС‚СѓРґРµРЅС‚ СЂР°СЃСЃРєР°Р·Р°Р» РІ СЃРІРѕРµРј Р±Р»РѕРіРµ Рѕ РїСЂР°РєС‚РёРєРµ РІ Р“РѕСЃРґСѓРјРµ:</segment>
+		<segment id="167" parent="169" relname="joint">РґРµРїСѓС‚Р°С‚С‹ Р·Р»РѕСѓРїРѕС‚СЂРµР±Р»СЏСЋС‚ РєР°Р·РЅРѕР№</segment>
+		<segment id="168" parent="169" relname="joint">Рё РёРіСЂР°СЋС‚ РІ РєР°СЂС‚С‹ РЅР° Р·Р°СЃРµРґР°РЅРёСЏС…\n\nРЎС‚СѓРґРµРЅС‚-Р±Р»РѕРіРіРµСЂ РѕРґРЅРѕРіРѕ РёР· РјРѕСЃРєРѕРІСЃРєРёС… РІСѓР·РѕРІ,</segment>
+		<segment id="170" parent="172" relname="sequence">РїРёС€СѓС‰РёР№ РІ Р–Р– РїРѕРґ РЅРёРєРѕРј yeenzo,</segment>
+		<segment id="171" parent="172" relname="sequence">РїРѕРґРµР»РёР»СЃСЏ РІ СЃРІРѕРµРј РёРЅС‚РµСЂРЅРµС‚-РґРЅРµРІРЅРёРєРµ РІРїРµС‡Р°С‚Р»РµРЅРёСЏРјРё РѕС‚ РЅРµРґРµР»Рё, РїСЂРѕРІРµРґРµРЅРЅРѕР№ РЅР° РїСЂР°РєС‚РёРєРµ \"РІ РѕРґРЅРѕР№ РёР· СЃРІСЏС‚С‹РЅСЊ СЂРѕСЃСЃРёР№СЃРєРѕР№ РіРѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅРѕСЃС‚Рё вЂ“ Р“РѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅРѕР№ Р”СѓРјРµ\",</segment>
+		<segment id="175" parent="174" relname="attribution">СЃРѕРѕР±С‰Р°РµС‚ РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕРµ Р°РіРµРЅС‚СЃС‚РІРѕ \"РќРѕРІС‹Р№ СЂРµРіРёРѕРЅ\".</segment>
+		<segment id="177" parent="183" relname="span">РћРЅРѕ СЃСЃС‹Р»Р°РµС‚СЃСЏ РЅР° Р·Р°РїРёСЃСЊ РІ Р±Р»РѕРіРµ,</segment>
+		<segment id="178" parent="182" relname="same-unit">РєРѕС‚РѕСЂР°СЏ, РѕРґРЅР°РєРѕ, С‚РµРїРµСЂСЊ Р·Р°РєСЂС‹С‚Р° РґР»СЏ РїСЂРѕСЃРјРѕС‚СЂР°</segment>
+		<segment id="179" parent="180" relname="attribution">.\n\nРџСЂР°РєС‚РёРєР°РЅС‚ РїСЂРёР·РЅР°Р»СЃСЏ,</segment>
+		<segment id="180" parent="181" relname="span">С‡С‚Рѕ РІ С…РѕРґРµ РїРѕСЂСѓС‡РµРЅРЅРѕР№ РµРјСѓ РїСЂРѕРІРµСЂРєРё РґРѕРєСѓРјРµРЅС‚РѕРІ Рѕ РїРѕРµР·РґРєР°С… РїР°СЂР»Р°РјРµРЅС‚Р°СЂРёРµРІ РѕРЅ РЅР°С€РµР» РЅРµРјР°Р»Рѕ РёРЅС‚РµСЂРµСЃРЅРѕРіРѕ.</segment>
+		<segment id="184" parent="191" relname="attribution">Р‘Р»РѕРіРіРµСЂ СѓС‚РІРµСЂР¶РґР°РµС‚,</segment>
+		<segment id="185" parent="187" relname="span">С‡С‚Рѕ СЂСЏРґ РґРµРїСѓС‚Р°С‚РѕРІ Р»СЋР±СЏС‚ РµР·РґРёС‚СЊ РїРѕ СЃРІРѕРёРј Р»РёС‡РЅС‹Рј РґРµР»Р°Рј</segment>
+		<segment id="186" parent="185" relname="cause-effect">Р·Р° СЃС‡РµС‚ Р±СЋРґР¶РµС‚РЅС‹С… СЃСЂРµРґСЃС‚РІ.</segment>
+		<segment id="188" parent="190" relname="joint">Рђ РЅРµРєРѕС‚РѕСЂС‹Рµ РёР· РЅРёС… СѓРјСѓРґСЂСЏСЋС‚СЃСЏ РїРѕС‚СЂР°С‚РёС‚СЊ РІ Р°СЌСЂРѕРїРѕСЂС‚Сѓ 50 С‚С‹СЃСЏС‡ СЂСѓР±Р»РµР№ РІ РѕР¶РёРґР°РЅРёРё СЃРІРѕРµРіРѕ СЂРµР№СЃР°,</segment>
+		<segment id="189" parent="190" relname="joint">РѕС‚РјРµС‡Р°РµС‚ РїСЂР°РєС‚РёРєР°РЅС‚.\n\n\"РЇ РїРѕРїР°Р» РІ РєР°Р±РёРЅРµС‚ РїРѕ С‚СЂР°РЅСЃРїРѕСЂС‚РЅРѕРјСѓ РѕР±РµСЃРїРµС‡РµРЅРёСЋ РґРµРїСѓС‚Р°С‚РѕРІ.</segment>
+		<segment id="194" parent="212" relname="span">Р­С‚Рѕ С‚Р°РєРѕР№ РѕС‚РґРµР», РєРѕС‚РѕСЂС‹Р№ РїСЂРёРЅРёРјР°РµС‚ СЃС‡РµС‚Р° РѕС‚ Р Р–Р” Рё Р°РІРёР°РєРѕРјРїР°РЅРёР№ Р·Р° РїРµСЂРµРІРѕР·РєСѓ РЅР°С€РёС… РґРµРїСѓС‚Р°С‚РѕРІ.</segment>
+		<segment id="195" parent="201" relname="joint">Р­С‚Рё СЃС‡РµС‚Р° РјС‹ РґРѕР»Р¶РЅС‹ С‚С‰Р°С‚РµР»СЊРЅРѕ РїСЂРѕР°РЅР°Р»РёР·РёСЂРѕРІР°С‚СЊ,</segment>
+		<segment id="196" parent="200" relname="sequence">РїСЂРѕРІРµСЂРёС‚СЊ,</segment>
+		<segment id="197" parent="199" relname="joint">Р·Р°РЅРµСЃС‚Рё РІ РєРѕРјРїСЊСЋС‚РµСЂРЅСѓСЋ Р±Р°Р·Сѓ,</segment>
+		<segment id="198" parent="199" relname="joint">РѕС‚РЅРµСЃС‚Рё РЅР° РІРёР·Сѓ РЅР°С‡Р°Р»СЊРЅРёРєСѓ Рё РїРѕС‚РѕРј РІ Р±СѓС…РіР°Р»С‚РµСЂРёСЋ.</segment>
+		<segment id="202" parent="206" relname="sequence">Р Р°Р±РѕС‚Р° РЅРµ СЃР»РѕР¶РЅР°СЏ, РЅРѕ РЅРµРјРЅРѕРіРѕ СЂСѓС‚РёРЅРЅР°СЏ\".\n\n\"РњС‹ РїСЂРѕСЃС‚Рѕ Р±РµСЂРµРј СЂРµРµСЃС‚СЂ СЃ РґРµРїСѓС‚Р°С‚Р°РјРё СЃРѕ СЃС‡РµС‚РѕРј Рё СЃСѓРјРјР°РјРё,</segment>
+		<segment id="203" parent="205" relname="sequence">Р° Р·Р°С‚РµРј СЃРІРµСЂСЏРµРј РµРіРѕ СЃ РЅР°С€РёРј СЃРїРёСЃРєРѕРј РґРµРїСѓС‚Р°С‚РѕРІ,</segment>
+		<segment id="204" parent="205" relname="sequence">РїРѕРїСѓС‚РЅРѕ РІС‹Р»Р°РІР»РёРІР°СЏ Р±Р°РіРё.</segment>
+		<segment id="207" parent="206" relname="elaboration">Р’ РїРµСЂРІСѓСЋ РѕС‡РµСЂРµРґСЊ РЅСѓР¶РЅРѕ Р»РѕРІРёС‚СЊ СЃРµСЂСЊРµР·РЅС‹Рµ - РѕС‚СЃСѓС‚СЃС‚РІРёРµ РѕР±СЏР·Р°С‚РµР»СЊРЅС‹С… РїСЂРёР»РѕР¶РµРЅРёР№, РїРµС‡Р°С‚Рё, С€С‚Р°РјРїС‹, СЂРѕСЃРїРёСЃРё РЅР° РІСЃРµС… РґРѕРєСѓРјРµРЅС‚Р°С…, РєРѕРЅС‚СЂРѕР»СЊРЅСѓСЋ СЃСѓРјРјСѓ.</segment>
+		<segment id="209" parent="210" relname="joint">Р”Р°Р»РµРµ РёС‰РµРј Р±Р°РіРё РїРѕРјРµРЅСЊС€Рµ\".\n\nРўР°РєРёРµ РЅР°СЂСѓС€РµРЅРёСЏ Р±С‹Р»Рё РѕР±РЅР°СЂСѓР¶РµРЅС‹ РІ РїРµСЂРІС‹Р№ Р¶Рµ РґРµРЅСЊ.</segment>
+		<segment id="213" parent="215" relname="joint">\"РќР°РїСЂРёРјРµСЂ, РЅРµРєРѕС‚РѕСЂС‹Рµ РґРµРїСѓС‚Р°С‚С‹ РїС‹С‚Р°СЋС‚СЃСЏ РїСЂРѕС‚Р°С‰РёС‚СЊ РїРѕ СЃРІРѕРµРјСѓ СѓРґРѕСЃС‚РѕРІРµСЂРµРЅРёСЋ РєРѕРіРѕ-С‚Рѕ РёР· СЃРІРѕРёС… РґСЂСѓР·РµР№</segment>
+		<segment id="214" parent="215" relname="joint">РёР»Рё Рё РІРѕРІСЃРµ Р»РµС‚Р°С‚СЊ С‚СѓРґР°, РєСѓРґР° Р±РµСЃРїР»Р°С‚РЅС‹Р№ РїСЂРѕРµР·Рґ РёРј РЅРµ РїРѕР»РѕР¶РµРЅ, - Р·Р° СЂСѓР±РµР¶.</segment>
+		<segment id="216" parent="218" relname="joint">Р’ СЌС‚РѕРј СЃР»СѓС‡Р°Рµ СЃРїРѕСЂРЅСѓСЋ РїРѕР·РёС†РёСЋ РЅРµРѕР±С…РѕРґРёРјРѕ РІС‹С‡РµСЂРєРЅСѓС‚СЊ,</segment>
+		<segment id="217" parent="218" relname="joint">Р° СЃСѓРјРјСѓ РїРµСЂРµСЃС‡РёС‚Р°С‚СЊ Р·Р°РЅРѕРІРѕ\",</segment>
+		<segment id="220" parent="219" relname="attribution">- РїРёС€РµС‚ Р°РІС‚РѕСЂ.</segment>
+		<segment id="224" parent="299" relname="preparation">\"Р’РѕРѕР±С‰Рµ РІ СЌС‚РёС… СЃС‡РµС‚Р°С… РїСЂРѕС…РѕРґРёС‚ РјРЅРѕРіРѕ РёРЅС‚РµСЂРµСЃРЅРѕРіРѕ\",</segment>
+		<segment id="225" parent="298" relname="attribution">- СѓС‚РІРµСЂР¶РґР°РµС‚ РѕРЅ.\n\n</segment>
+		<segment id="226" parent="243" relname="preparation">\"РќР°РїСЂРёРјРµСЂ, РЅР°С€Рµ РІСЃРµ РРѕСЃРёС„ РљРѕР±Р·РѕРЅ Р»РµС‚Р°Р» РІ РљР°Р»РёРЅРёРЅРіСЂР°Рґ РЅР° СЃРІРѕР№ РєРѕРЅС†РµСЂС‚ РґР»СЏ СЂРµРіРёРѕРЅР°Р»СЊРЅРѕР№ Р°РґРјРёРЅРёСЃС‚СЂР°С†РёРё Р·Р° СЃС‡РµС‚ Р”СѓРјС‹.</segment>
+		<segment id="227" parent="243" relname="joint">РҐРѕСЂРєРёРЅР° - РґРѕРјРѕР№ Рє СЂРѕРґСЃС‚РІРµРЅРЅРёРєР°Рј,</segment>
+		<segment id="228" parent="242" relname="span">С‚РѕР¶Рµ РґСѓРјСЃРєРёРј Р±СЋРґР¶РµС‚РѕРј Р·Р»РѕСѓРїРѕС‚СЂРµР±Р»СЏРµС‚.</segment>
+		<segment id="229" parent="231" relname="span">Р’ СЃРїРёСЃРєР°С… РїСЂРѕС…РѕРґСЏС‚ РґРµРїСѓС‚Р°С‚С‹ СЃ РѕРґРёРЅР°РєРѕРІРѕР№ С„Р°РјРёР»РёРµР№.</segment>
+		<segment id="230" parent="229" relname="elaboration">РўР°Рј С‡Р°СЃС‚РµРЅСЊРєРѕ СЃРёРґСЏС‚ РѕС‚РµС† Рё СЃС‹РЅ РѕРґРЅРѕРІСЂРµРјРµРЅРЅРѕ.</segment>
+		<segment id="232" parent="240" relname="span">РЎСЂРµРґРЅСЏСЏ СЃСѓРјРјР° СЃС‡РµС‚Р° 3 РјРёР»Р»РёРѕРЅР°.</segment>
+		<segment id="233" parent="235" relname="span">Р•С‰Рµ РЅРµРєРѕС‚РѕСЂС‹Рµ РґРµРїСѓС‚Р°С‚С‹ СѓРјСѓРґСЂСЏСЋС‚СЃСЏ РїСЂРѕСЃ*Р°С‚СЊ РґРѕ 50 С€С‚СѓРє,</segment>
+		<segment id="234" parent="233" relname="condition">С‚СѓРїРѕ РІ С‚РµСЂРјРёРЅР°Р»Рµ РґРѕР¶РёРґР°СЏСЃСЊ СЃРІРѕРµРіРѕ СЂРµР№СЃР°\".\n\</segment>
+		<segment id="236" parent="237" relname="attribution">nРџРѕ РїСЂРёР·РЅР°РЅРёСЋ СЃС‚СѓРґРµРЅС‚Р°-РїСЂР°РєС‚РёРєР°РЅС‚Р°,</segment>
+		<segment id="237" parent="238" relname="span">\"РёРЅРѕРіРґР° Р“РѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅР°СЏ Р”СѓРјР° РІС‹Р·С‹РІР°РµС‚ РєРѕРіРЅРёС‚РёРІРЅС‹Р№ РґРёСЃСЃРѕРЅР°РЅСЃ\": \"Р’ С…РѕР»Р»Рµ РІС‚РѕСЂРѕРіРѕ Р·РґР°РЅРёСЏ С‚РѕСЂРіСѓСЋС‚ РєРЅРёРіР°РјРё РїСЂРѕ РїР»РѕС…РѕРіРѕ РџСѓС‚РёРЅР°, РїСЂРѕ РҐРѕРґРѕСЂРєРѕРІСЃРєРѕРіРѕ, РїСЂРѕ РєРѕРјРїСЂРѕРјР°С‚ РЅР° Р РѕСЃСЃРёСЋ РѕС‚ WikiLeaks, СЂР°Р·РѕР±Р»Р°С‡РµРЅРёСЏ РІС‹СЃС€РёС… С‡РёРЅРѕРІРЅРёРєРѕРІ Рё С‚.Рґ.</segment>
+		<segment id="245" parent="247" relname="contrast">РџСЂРѕ РќР°РІР°Р»СЊРЅРѕРіРѕ РЅРµ РЅР°С€РµР»,</segment>
+		<segment id="246" parent="247" relname="contrast">РЅРѕ, РґСѓРјР°СЋ, С‚РѕР¶Рµ СЃРєРѕСЂРѕ РїРѕСЏРІРёС‚СЃСЏ\".\n\n\"РўРѕСЂРіСѓСЋС‚ РґРѕСЂРѕРіРёРј Р°Р»РєРѕРіРѕР»РµРј РІ Р»Р°СЂСЊРєР°С… - Black Label Р·Р° 1700 СЂСѓР±Р»РµР№ Р»РёС‚СЂ.</segment>
+		<segment id="248" parent="254" relname="span">Р•С‰Рµ РµСЃС‚СЊ СЋРІРµР»РёСЂРЅР°СЏ Р»Р°РІРєР°, РіРґРµ РїСЂРѕРґР°СЋС‚ РёРєРѕРЅС‹, РїР°СЃС…Р°Р»СЊРЅС‹Рµ СЏР№С†Р°, РјСЏРіРєРёРµ РёРіСЂСѓС€РєРё, РєРѕР»СЊС†Р°, Рё РІСЃРµ - Р±РѕР¶РµСЃС‚РІРµРЅРЅРѕР№ РєСЂР°СЃРѕС‚С‹\".\n\n\"Р’ РїРµСЂРµС…РѕРґРµ РїРµСЂРІРѕРіРѕ СЌС‚Р°Р¶Р° РµСЃС‚СЊ РєСѓСЂРёР»РєР°</segment>
+		<segment id="249" parent="253" relname="same-unit">(РїРѕ С…РѕРґСѓ, РµРґРёРЅСЃС‚РІРµРЅРЅР°СЏ РЅР° РґРІР° Р·РґР°РЅРёСЏ),</segment>
+		<segment id="250" parent="252" relname="joint">РµС‰Рµ С‚Р°Рј РїСЂРѕС…РѕРґРёС‚ СЃРµР»СЊСЃРєРѕС…РѕР·СЏР№СЃС‚РІРµРЅРЅР°СЏ РІС‹СЃС‚Р°РІРєР°,</segment>
+		<segment id="251" parent="252" relname="joint">РїСЂРѕРґР°СЋС‚ СЃР°Р¶РµРЅС†С‹, СЃРµРјРµРЅР°, РёРЅРІРµРЅС‚Р°СЂСЊ.</segment>
+		<segment id="255" parent="259" relname="joint">Р”РѕСЂРѕРіРѕ, РїСЂР°РІРґР°.</segment>
+		<segment id="256" parent="258" relname="span">РћС‡РµРЅСЊ РґРѕСЂРѕРіРѕ.</segment>
+		<segment id="257" parent="256" relname="elaboration">РџРµС‚СѓРЅРёСЏ 400 СЂСѓР±Р»РµР№.</segment>
+		<segment id="262" parent="271" relname="preparation">РќР° РЅР°С€РµРј СЂС‹РЅРєРµ С‚Р°РєР°СЏ Р¶Рµ 39 СЂСѓР±Р»РµР№...</segment>
+		<segment id="263" parent="267" relname="span">РџРѕ РґСЂСѓРіСѓСЋ СЃС‚РѕСЂРѕРЅСѓ РёРґРµС‚ С„РѕС‚РѕРІС‹СЃС‚Р°РІРєР° Р СѓСЃСЃРєРѕР№ РїСЂР°РІРѕСЃР»Р°РІРЅРѕР№ С†РµСЂРєРІРё вЂ“ РёРєРѕРЅС‹, РїР°С‚СЂРёР°СЂС…Рё, С…СЂР°РјС‹\".\n\n\"Р’РѕРѕР±С‰Рµ Р СѓСЃСЃРєР°СЏ РїСЂР°РІРѕСЃР»Р°РІРЅР°СЏ С†РµСЂРєРѕРІСЊ РіР»СѓР±РѕРєРѕ Р·Р°СЃРµР»Р° РІ Р“РѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅРѕР№ Р”СѓРјРµ</segment>
+		<segment id="264" parent="266" relname="joint">- РІРѕ РІСЃРµС… РєР°Р±РёРЅРµС‚Р°С… РёРєРѕРЅС‹, РјРЅРѕРіРѕ С†РµСЂРєРѕРІРЅС‹С… Р»Р°РІРѕРє,</segment>
+		<segment id="265" parent="266" relname="joint">РєР°Р¶РґС‹Р№ РґРµРЅСЊ СЃРІСЏС‰РµРЅРЅРёРєР° РєР°РєРѕРіРѕ-РЅРёР±СѓРґСЊ РІРёРґРёС€СЊ\",</segment>
+		<segment id="268" parent="270" relname="contrast">вЂ“ РѕС‚РјРµС‚РёР» Р±Р»РѕРіРіРµСЂ.\n\nРќР° Р·Р°СЃРµРґР°РЅРёСЏС… РёРіСЂР°СЋС‚ РІ РєР°СЂС‚С‹, Р° С‚Р°РєР¶Рµ РІ Р»СЋР±РёРјСѓСЋ РёРіСЂСѓС€РєСѓ РїСЂРµР·РёРґРµРЅС‚Р°.</segment>
+		<segment id="269" parent="270" relname="contrast">РќРѕ РєР°СЂС‚РµР¶РЅРёРєРѕРІ СЃСЂРµРґРё РЅРёС… РЅРµС‚\n\nРћРґРЅР°РєРѕ Р±РѕР»СЊС€Рµ РІСЃРµРіРѕ РЅРµРіР°С‚РёРІРЅС‹С… РІРїРµС‡Р°С‚Р»РµРЅРёР№ СЃС‚СѓРґРµРЅС‚ РїРѕР»СѓС‡РёР» РѕС‚ РїРѕСЃРµС‰РµРЅРёСЏ Р·Р°СЃРµРґР°РЅРёСЏ Р“РѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅРѕР№ Р”СѓРјС‹:</segment>
+		<segment id="274" parent="282" relname="span">\"РЎРµРіРѕРґРЅСЏ Р±С‹Р»Рё РЅР° Р·Р°СЃРµРґР°РЅРёРё Р“Р”, РїСЂСЏРјРѕ РІ Р·Р°Р»Рµ.</segment>
+		<segment id="275" parent="277" relname="joint">РџРѕСЃРµС‰РµРЅРёРµ СЃС‚СЂРѕРіРѕ Р»РёРјРёС‚РёСЂСѓРµС‚СЃСЏ РїРѕ РІСЂРµРјРµРЅРё,</segment>
+		<segment id="276" parent="277" relname="joint">Рё РЅР° РІС…РѕРґРµ РІ Р·Р°Р» С€РјРѕРЅР°СЋС‚ СЃРёР»СЊРЅРµРµ, С‡РµРј РЅР° РІС…РѕРґРµ РІ Р·РґР°РЅРёРµ.</segment>
+		<segment id="278" parent="280" relname="joint">РЈ РЅР°СЃ СЃСЂР°Р·Сѓ РЅР° РІС…РѕРґРµ Р·Р°Р±СЂР°Р»Рё С‚РµР»РµС„РѕРЅС‹ Рё С„РѕС‚РѕР°РїРїР°СЂР°С‚С‹ Р¤РЎРћС€РЅРёРєРё,</segment>
+		<segment id="279" parent="280" relname="joint">Рё, РєР°Рє РѕРєР°Р·Р°Р»РѕСЃСЊ, РЅРµСЃРїСЂРѕСЃС‚Р°.</segment>
+		<segment id="283" parent="287" relname="span">РўРѕ, С‡С‚Рѕ РјС‹ С‚Р°Рј СѓРІРёРґРµР»Рё,</segment>
+		<segment id="284" parent="286" relname="span">Сѓ РІСЃРµС… РІС‹Р·РІР°Р»Рѕ РЅРµРґРѕСѓРјРµРЅРЅРѕРµ WTF</segment>
+		<segment id="285" parent="284" relname="elaboration">(РѕС‚ Р°РЅРіР». What the f*ck?!)\".\n\n</segment>
+		<segment id="288" parent="292" relname="contrast">\"РўРѕ, С‡С‚Рѕ РґРµРїСѓС‚Р°С‚С‹ СЂР°СЃРї***СЏРё, РјС‹, РєРѕРЅРµС‡РЅРѕ, Р·РЅР°Р»Рё,</segment>
+		<segment id="289" parent="291" relname="span">РЅРѕ С‡С‚РѕР± РЅР°СЃС‚РѕР»СЊРєРѕ...</segment>
+		<segment id="290" parent="289" relname="interpretation-evaluation">РўР°РєРѕРіРѕ СЂР°СЃРї***СЏР№СЃС‚РІР° СЏ РЅРµ РІРёРґРµР» РЅРёРіРґРµ\",</segment>
+		<segment id="293" parent="294" relname="span">вЂ“ РІРѕР·РјСѓС‰Р°РµС‚СЃСЏ СЃС‚СѓРґРµРЅС‚.\n\n</segment>
+		<segment id="301" parent="303" relname="joint">\"Р—Р°Р» РїРѕР»РѕРЅ РјРµРЅСЊС€Рµ С‡РµРј РЅР° С‡РµС‚РІРµСЂС‚СЊ,</segment>
+		<segment id="302" parent="303" relname="joint">Р° С‚Рµ, РєС‚Рѕ РµСЃС‚СЊ, Р·Р°РЅСЏС‚С‹ С‡РµРј СѓРіРѕРґРЅРѕ, РєСЂРѕРјРµ СЃРѕР±СЃС‚РІРµРЅРЅРѕ Р·Р°СЃРµРґР°РЅРёСЏ Рё Р·Р°РєРѕРЅРѕРІ.</segment>
+		<segment id="304" parent="316" relname="joint">Р’СЃРµ СЃРІРѕР±РѕРґРЅРѕ С…РѕРґСЏС‚ РїРѕ Р·Р°Р»Сѓ,</segment>
+		<segment id="305" parent="315" relname="sequence">Р±РѕР»С‚Р°СЋС‚ РґСЂСѓРі СЃ РґСЂСѓРіРѕРј,</segment>
+		<segment id="306" parent="308" relname="joint">РєС‚Рѕ-С‚Рѕ С‡РёС‚Р°РµС‚ РіР°Р·РµС‚С‹,</segment>
+		<segment id="307" parent="308" relname="joint">РЅР° Р·Р°РґРЅРёС… СЂСЏРґР°С… РІРѕРѕР±С‰Рµ РёРіСЂР°СЋС‚ РІ РєР°СЂС‚С‹.</segment>
+		<segment id="309" parent="311" relname="span">Р•РґСЂРѕСЃРЅСЏ РёРіСЂР°РµС‚ РІ Р°Р№РїР°РґС‹.</segment>
+		<segment id="310" parent="309" relname="interpretation-evaluation">Р’РµР·РґРµ С†Р°СЂРёС‚ Р°С‚РјРѕСЃС„РµСЂР° РґРѕР»Р±Рѕ**РёР·РјР° Рё СЂР°СЃРї***СЏР№СЃС‚РІР°,</segment>
+		<segment id="313" parent="314" relname="joint">РґР°Р¶Рµ РІ РєСЂРµСЃР»Рµ РїСЂРµРґСЃРµРґР°С‚РµР»СЏ РњРѕСЂРѕР·РѕРІР°.</segment>
+		<segment id="317" parent="333" relname="joint">РћРЅ РІРѕРѕР±С‰Рµ РїСЂРѕСЃС‚Рѕ С‡Рµ-С‚Рѕ СѓРЅС‹Р»С‹Рј РіРѕР»РѕСЃРѕРј С‡РёС‚Р°РµС‚, Рё РІСЃРµ.</segment>
+		<segment id="318" parent="328" relname="sequence">Р’ РЅСѓР¶РЅС‹Р№ РјРѕРјРµРЅС‚ РїРѕ РµРіРѕ РєРѕРјР°РЅРґРµ РІСЃРµ РїСЂРѕСЃС‚Рѕ РїРѕРґС…РѕРґСЏС‚ Рє СЃРІРѕРёРј РјРµСЃС‚Р°Рј</segment>
+		<segment id="319" parent="321" relname="sequence">Рё РЅР°Р¶РёРјР°СЋС‚ РЅР° РєРЅРѕРїРѕС‡РєРё,</segment>
+		<segment id="320" parent="321" relname="sequence">РїРѕС‚РѕРј СЃРЅРѕРІР° Р·Р°РЅРёРјР°СЋС‚СЃСЏ СЃРІРѕРёРјРё РґРµР»Р°РјРё\", вЂ“ РѕРїРёСЃС‹РІР°РµС‚ СѓРІРёРґРµРЅРЅРѕРµ РїСЂР°РєС‚РёРєР°РЅС‚.\n\n</segment>
+		<segment id="322" parent="321" relname="interpretation-evaluation">\"Р’СЃРµ СЌС‚Рѕ РіСЂСѓСЃС‚РЅРѕ Рё СЃС‚С‹РґРЅРѕ.</segment>
+		<segment id="324" parent="323" relname="interpretation-evaluation">РЎС‚С‹РґРЅРѕ Р·Р° РІСЃРµ СЌС‚Рѕ.</segment>
+		<segment id="326" parent="325" relname="interpretation-evaluation">Р­С‚Рѕ РЅРµ РїР°СЂР»Р°РјРµРЅС‚, Р° РѕС„РёСЃРЅР°СЏ РєСѓСЂРёР»РєР°\",</segment>
+		<segment id="329" parent="328" relname="attribution">вЂ“ СЃС‡РёС‚Р°РµС‚ Р±Р»РѕРіРіРµСЂ.\n\nР’ Р“РѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅРѕР№ Р”СѓРјРµ СѓСЃРїРµР»Рё РѕС‚СЂРµР°РіРёСЂРѕРІР°С‚СЊ РЅР° РІС‹СЃС‚СѓРїР»РµРЅРёРµ РїСЂР°РєС‚РёРєР°РЅС‚Р°,</segment>
+		<segment id="331" parent="330" relname="attribution">РїРµСЂРµРґР°РµС‚ Р РРђ \"РќРѕРІРѕСЃС‚Рё\".</segment>
+		<segment id="336" parent="350" relname="joint">РўР°Рј РїСЂРѕРєРѕРјРјРµРЅС‚РёСЂРѕРІР°Р»Рё РµРіРѕ СЃРѕРѕР±С‰РµРЅРёРµ</segment>
+		<segment id="339" parent="348" relname="condition">Рё, РµСЃР»Рё РІРµСЂРёС‚СЊ СЃР°РјРѕРјСѓ СЃС‚СѓРґРµРЅС‚Сѓ,</segment>
+		<segment id="340" parent="347" relname="attribution">РїСЂРѕРіРЅР°Р»Рё РµРіРѕ СЃ РїСЂР°РєС‚РёРєРё.\n\nР’ РЅРёР¶РЅРµР№ РїР°Р»Р°С‚Рµ РїР°СЂР»Р°РјРµРЅС‚Р° РїСЂРёР·РЅР°СЋС‚,</segment>
+		<segment id="341" parent="343" relname="joint">С‡С‚Рѕ РЅРµ РєР°Р¶РґС‹Р№ Р·Р°РєРѕРЅРѕРїСЂРѕРµРєС‚ РґРµРїСѓС‚Р°С‚С‹ СЃР»СѓС€Р°СЋС‚ РІРЅРёРјР°С‚РµР»СЊРЅРѕ</segment>
+		<segment id="342" parent="343" relname="joint">Рё РёРЅРѕРіРґР° РѕС‚РІР»РµРєР°СЋС‚СЃСЏ РЅР° С‡С‚РµРЅРёРµ Рё РїРѕР»СЊР·РѕРІР°РЅРёРµ РёРЅС‚РµСЂРЅРµС‚РѕРј,</segment>
+		<segment id="344" parent="346" relname="span">РЅРѕ РїРѕРґС‡РµСЂРєРёРІР°СЋС‚, С‡С‚Рѕ РІ РєР°СЂС‚С‹ РЅР° Р·Р°СЃРµРґР°РЅРёСЏС… РЅРёРєС‚Рѕ РЅРµ РёРіСЂР°РµС‚.\n\n\"РЇ Р»РёС‡РЅРѕ РЅРµ РІРёРґРµР» РЅРё СЂР°Р·Сѓ,</segment>
+		<segment id="345" parent="344" relname="purpose">С‡С‚РѕР±С‹ РєС‚Рѕ-С‚Рѕ РёР· РґРµРїСѓС‚Р°С‚РѕРІ РІРѕ РІСЂРµРјСЏ РїР»РµРЅР°СЂРЅРѕРіРѕ Р·Р°СЃРµРґР°РЅРёСЏ РёРіСЂР°Р» РІ РєР°СЂС‚С‹.</segment>
+		<segment id="351" parent="353" relname="joint">Р”Р°, РєС‚Рѕ-С‚Рѕ С‡РёС‚Р°РµС‚ РіР°Р·РµС‚Сѓ,</segment>
+		<segment id="352" parent="353" relname="joint">РєС‚Рѕ-С‚Рѕ СЃРјРѕС‚СЂРёС‚ СЃРІРѕР№ РїР»Р°РЅС€РµС‚,</segment>
+		<segment id="354" parent="368" relname="contrast">РІ РёРЅС‚РµСЂРЅРµС‚Рµ РєРѕРїР°РµС‚СЃСЏ,</segment>
+		<segment id="355" parent="367" relname="span">РЅРѕ С‡С‚РѕР±С‹ РІ РєР°СЂС‚С‹ РёРіСЂР°Р»Рё</segment>
+		<segment id="356" parent="366" relname="span">- СЏ С‚Р°РєРѕРіРѕ РЅРµ РІРёРґРµР»\",</segment>
+		<segment id="357" parent="364" relname="attribution">- СЃРєР°Р·Р°Р» Р°РіРµРЅС‚СЃС‚РІСѓ РґРµРїСѓС‚Р°С‚ РѕС‚ Р›Р”РџР  РЎРµСЂРіРµР№ РРІР°РЅРѕРІ,</segment>
+		<segment id="358" parent="364" relname="span">С‡Р»РµРЅ РєРѕРјРёСЃСЃРёРё РїРѕ РјР°РЅРґР°С‚РЅС‹Рј РІРѕРїСЂРѕСЃР°Рј Рё РІРѕРїСЂРѕСЃР°Рј РґРµРїСѓС‚Р°С‚СЃРєРѕР№ СЌС‚РёРєРё,</segment>
+		<segment id="359" parent="363" relname="span">РєРѕС‚РѕСЂР°СЏ РѕС†РµРЅРёРІР°РµС‚ РїРѕРІРµРґРµРЅРёРµ РґРµРїСѓС‚Р°С‚РѕРІ РІ Р·Р°Р»Рµ РїР»РµРЅР°СЂРЅС‹С… Р·Р°СЃРµРґР°РЅРёР№.\n\nРРЅРѕРіРґР°,</segment>
+		<segment id="360" parent="361" relname="condition">РµСЃР»Рё РґРµРїСѓС‚Р°С‚Сѓ РЅРµ РёРЅС‚РµСЂРµСЃРµРЅ РѕР±СЃСѓР¶РґР°РµРјС‹Р№ РІРѕРїСЂРѕСЃ,</segment>
+		<segment id="361" parent="362" relname="span">РѕРЅ Р·Р°РЅРёРјР°РµС‚СЃСЏ РєР°РєРёРј-С‚Рѕ СЃРІРѕРёРј РґРµР»РѕРј,</segment>
+		<segment id="370" parent="369" relname="attribution">РѕС‚РјРµС‚РёР» РРІР°РЅРѕРІ.</segment>
+		<segment id="373" parent="374" relname="attribution">РџРѕ РµРіРѕ СЃР»РѕРІР°Рј,</segment>
+		<segment id="374" parent="375" relname="span">РјР°Р»Рѕ РЅР°Р№РґРµС‚СЃСЏ Р»СЋРґРµР№, РєРѕС‚РѕСЂС‹Рµ СЏРІР»СЏСЋС‚СЃСЏ СЃРїРµС†РёР°Р»РёСЃС‚Р°РјРё РІРѕ РІСЃРµС… РѕР±СЃСѓР¶РґР°СЋС‰РёС…СЃСЏ РІ Р“РѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅРѕР№ Р”СѓРјРµ С‚РµРјР°С…,</segment>
+		<segment id="376" parent="385" relname="attribution">РѕРґРЅР°РєРѕ РІ С†РµР»РѕРј, РїРѕ РµРіРѕ РјРЅРµРЅРёСЋ,</segment>
+		<segment id="377" parent="385" relname="joint">Р·Р°РєРѕРЅРѕРїСЂРѕРµРєС‚С‹ РєР°СЃР°СЋС‚СЃСЏ Р»СЋР±РѕРіРѕ,</segment>
+		<segment id="378" parent="384" relname="joint">Рё РґРµРїСѓС‚Р°С‚ РІРїРѕР»РЅРµ РјРѕР¶РµС‚ РґРµР»Р°С‚СЊ РєР°РєРёРµ-С‚Рѕ Р·Р°РјРµС‡Р°РЅРёСЏ</segment>
+		<segment id="379" parent="383" relname="span">Рё СЃР»РµРґРёС‚СЊ Р·Р° С…РѕРґРѕРј РѕР±СЃСѓР¶РґРµРЅРёСЏ.\n\n\"Р•СЃС‚СЊ, РєРѕРЅРµС‡РЅРѕ, РЅР°РїСЂРёРјРµСЂ, С‚РµС…СЂРµРіР»Р°РјРµРЅС‚С‹,</segment>
+		<segment id="380" parent="382" relname="span">РіРґРµ РЅСѓР¶РЅРѕ Р±С‹С‚СЊ РѕС‡РµРЅСЊ СѓР·РєРёРј СЃРїРµС†РёР°Р»РёСЃС‚РѕРј,</segment>
+		<segment id="381" parent="380" relname="purpose">С‡С‚РѕР±С‹ Р·РЅР°С‚СЊ, РїСЂР°РІРёР»СЊРЅРѕ Р»Рё РЅР°РїРёСЃР°РЅР° С‚РµРјРїРµСЂР°С‚СѓСЂР° РїР°СЃС‚РµСЂРёР·Р°С†РёРё РјРѕР»РѕРєР°\",</segment>
+		<segment id="388" parent="403" relname="attribution">- СЃРєР°Р·Р°Р» РРІР°РЅРѕРІ</segment>
+		<segment id="389" parent="395" relname="joint">.\n\nРџР°СЂР»Р°РјРµРЅС‚СЃРєРёРµ Р¶СѓСЂРЅР°Р»РёСЃС‚С‹, РёРјРµСЋС‰РёРµ РґРѕСЃС‚СѓРї РІ Р·Р°Р» РїР»РµРЅР°СЂРЅС‹С… Р·Р°СЃРµРґР°РЅРёР№,</segment>
+		<segment id="390" parent="392" relname="span">С‚Р°РєР¶Рµ РЅРё СЂР°Р·Сѓ РЅРµ РІРёРґРµР»Рё,</segment>
+		<segment id="391" parent="390" relname="purpose">С‡С‚РѕР±С‹ РґРµРїСѓС‚Р°С‚С‹ РІ Р·Р°Р»Рµ РёРіСЂР°Р»Рё РІ РєР°СЂС‚С‹.\n\n\"Р’ РєР°СЂС‚С‹ С‡С‚РѕР±С‹ РёРіСЂР°Р»Рё</segment>
+		<segment id="393" parent="394" relname="span">- РЅРµ РІРёРґРµР» РЅРё СЂР°Р·Сѓ.</segment>
+		<segment id="396" parent="400" relname="joint">Р’РёРґРµР», РєР°Рє РЅР° iPad РІ С€Р°С…РјР°С‚С‹ РёРіСЂР°СЋС‚,</segment>
+		<segment id="397" parent="399" relname="joint">- РґР°, Р° С‚Р°Рє, С‡С‚РѕР±С‹ РѕС‚РєСЂРѕРІРµРЅРЅРѕ РІ РєР°СЂС‚С‹,</segment>
+		<segment id="398" parent="399" relname="joint">- РЅРµС‚\",</segment>
+		<segment id="402" parent="401" relname="attribution">- СЃРєР°Р·Р°Р» Р°РіРµРЅС‚СЃС‚РІСѓ РѕРґРёРЅ РёР· РјР°СЃС‚РёС‚С‹С… РїР°СЂР»Р°РјРµРЅС‚СЃРєРёС… РєРѕСЂСЂРµСЃРїРѕРЅРґРµРЅС‚РѕРІ.\n\nР”РµРїСѓС‚Р°С‚ РѕС‚ \"РЎРїСЂР°РІРµРґР»РёРІРѕР№ Р РѕСЃСЃРёРё\", С‡Р»РµРЅ РєРѕРјРёСЃСЃРёРё РїР°Р»Р°С‚С‹ РїРѕ РјР°РЅРґР°С‚РЅС‹Рј РІРѕРїСЂРѕСЃР°Рј Рё РІРѕРїСЂРѕСЃР°Рј РґРµРїСѓС‚Р°С‚СЃРєРѕР№ СЌС‚РёРєРё</segment>
+		<segment id="406" parent="410" relname="joint">РњРёС…Р°РёР» Р•РјРµР»СЊСЏРЅРѕРІ РїСЂРёР·С‹РІР°РµС‚ РЅРµ РґРёСЃРєСЂРµРґРёС‚РёСЂРѕРІР°С‚СЊ Р“РѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅСѓСЋ Р”СѓРјСѓ Р±РµР· РѕСЃРЅРѕРІР°РЅРёР№.\n\n\"РќРµ РЅР°РґРѕ РґРµРјРѕРЅРёР·РёСЂРѕРІР°С‚СЊ</segment>
+		<segment id="407" parent="409" relname="span">Рё РґРёСЃРєСЂРµРґРёС‚РёСЂРѕРІР°С‚СЊ Р”СѓРјСѓ,</segment>
+		<segment id="408" parent="407" relname="cause-effect">РѕСЃРѕР±РµРЅРЅРѕ С‚Р°Рј, РіРґРµ РґР»СЏ СЌС‚РѕРіРѕ РЅРµС‚ РѕСЃРЅРѕРІР°РЅРёР№.</segment>
+		<segment id="411" parent="413" relname="span">РРЅРѕРіРґР° РєРѕР»Р»РµРіРё РґР°СЋС‚ СЂРµР°Р»СЊРЅС‹Рµ РѕСЃРЅРѕРІР°РЅРёСЏ,</segment>
+		<segment id="412" parent="411" relname="purpose">С‡С‚РѕР±С‹ РѕСЃСѓР¶РґР°С‚СЊ Р”СѓРјСѓ,</segment>
+		<segment id="414" parent="415" relname="contrast">РЅРѕ РґРѕРїРѕР»РЅРёС‚РµР»СЊРЅС‹С… СЃРѕС‡РёРЅСЏС‚СЊ РЅРµ РЅР°РґРѕ\",</segment>
+		<segment id="417" parent="416" relname="attribution">- СЃРєР°Р·Р°Р» Р•РјРµР»СЊСЏРЅРѕРІ.\n\</segment>
+		<segment id="420" parent="455" relname="attribution">nРћРЅ РѕС‚РјРµС‚РёР»,</segment>
+		<segment id="421" parent="423" relname="span">С‡С‚Рѕ РЅРё СЂР°Р·Сѓ Р·Р° РІСЃРµ РІСЂРµРјСЏ СЃРІРѕРµР№ СЂР°Р±РѕС‚С‹ РІ РїР°СЂР»Р°РјРµРЅС‚Рµ РЅРµ РІРёРґРµР»,</segment>
+		<segment id="422" parent="421" relname="purpose">С‡С‚РѕР±С‹ РєС‚Рѕ-С‚Рѕ РёР· РґРµРїСѓС‚Р°С‚РѕРІ Р±СЂР°Р» РєР°СЂС‚С‹.\n\n\"Р‘С‹РІР°СЋС‚ Р·Р°РєРѕРЅРѕРїСЂРѕРµРєС‚С‹, РІС‹РґРІРёРЅСѓС‚С‹Рµ РѕС‚РґРµР»СЊРЅС‹РјРё РґРµРїСѓС‚Р°С‚Р°РјРё РёР»Рё РѕС‚РґРµР»СЊРЅРѕР№ С„СЂР°РєС†РёРµР№,</segment>
+		<segment id="424" parent="444" relname="span">РєРѕС‚РѕСЂС‹Рµ Р·Р°РІРµРґРѕРјРѕ, РєР°Рє Р±С‹ РїРѕРјСЏРіС‡Рµ СЃРєР°Р·Р°С‚СЊ,</segment>
+		<segment id="425" parent="442" relname="condition">РµСЃР»Рё РЅРµ РіР»СѓРїС‹,</segment>
+		<segment id="426" parent="440" relname="span">С‚Рѕ РїРѕ РєСЂР°Р№РЅРµР№ РјРµСЂРµ Р°Р±СЃСѓСЂРґРЅС‹,</segment>
+		<segment id="427" parent="439" relname="contrast">РєРѕС‚РѕСЂС‹Рµ РЅРµ РІС‹Р·С‹РІР°СЋС‚ РЅРёРєР°РєРѕРіРѕ РёРЅС‚РµСЂРµСЃР°, Р°Р±СЃРѕР»СЋС‚РЅРѕ РїРѕРїСѓР»РёСЃС‚СЃРєРёРµ Р·Р°РєРѕРЅРѕРїСЂРѕРµРєС‚С‹.</segment>
+		<segment id="428" parent="430" relname="span">РќРѕ РїРѕ СЂРµРіР»Р°РјРµРЅС‚Сѓ РїР°Р»Р°С‚С‹ РґРµРїСѓС‚Р°С‚С‹ РґРѕР»Р¶РЅС‹ РёС… СЂР°СЃСЃРјР°С‚СЂРёРІР°С‚СЊ\",</segment>
+		<segment id="429" parent="428" relname="attribution">- Р·Р°СЏРІРёР» СЃРѕР±РµСЃРµРґРЅРёРє Р°РіРµРЅС‚СЃС‚РІР°</segment>
+		<segment id="431" parent="436" relname="attribution">.\n\nР•РјРµР»СЊСЏРЅРѕРІ СЃС‡РёС‚Р°РµС‚,</segment>
+		<segment id="432" parent="436" relname="span">С‡С‚Рѕ РЅРµР»СЊР·СЏ РѕСЃСѓР¶РґР°С‚СЊ РґРµРїСѓС‚Р°С‚Р°,</segment>
+		<segment id="433" parent="434" relname="condition">РєРѕС‚РѕСЂС‹Р№ РїСЂРё РѕР±СЃСѓР¶РґРµРЅРёРё РїСѓСЃС‚РѕРіРѕ Р·Р°РєРѕРЅРѕРїСЂРѕРµРєС‚Р°</segment>
+		<segment id="434" parent="435" relname="span">РІР·СЏР» РїРѕС‡РёС‚Р°С‚СЊ РіР°Р·РµС‚Сѓ</segment>
+		<segment id="441" parent="442" relname="joint">РёР»Рё РїРµСЂРµРєРёРЅСѓР»СЃСЏ РЅРµСЃРєРѕР»СЊРєРёРјРё СЃР»РѕРІР°РјРё СЃ РєРѕР»Р»РµРіРѕР№.\n\n\"РљРѕРіРґР° Р±С‹Р»Рѕ РѕР±СЃСѓР¶РґРµРЅРёРµ Р±СЋРґР¶РµС‚Р° РёР»Рё Р·Р°РєРѕРЅР° Рѕ РїРѕР»РёС‚РёРєРµ</segment>
+		<segment id="446" parent="448" relname="span">- СЏ С‡С‚Рѕ-С‚Рѕ РЅРµ РІРёРґРµР» СЃРєСѓС‡Р°СЋС‰РёС… Р»РёС† РёР»Рё Р»СЋРґРµР№, Р·Р°РЅРёРјР°СЋС‰РёС…СЃСЏ РїСѓСЃС‚РѕР№ Р±РѕР»С‚РѕРІРЅРµР№\",</segment>
+		<segment id="447" parent="446" relname="attribution">- СЃРєР°Р·Р°Р» РѕРЅ.\n\nР’РµС‡РµСЂРѕРј СЃР°Рј Р°РІС‚РѕСЂ Р·Р°РїРёСЃРё СЂР°Р·РјРµСЃС‚РёР» СЃРѕРѕР±С‰РµРЅРёРµ,</segment>
+		<segment id="449" parent="448" relname="attribution">РІ РєРѕС‚РѕСЂРѕРј Р·Р°СЏРІРёР»,</segment>
+		<segment id="452" parent="454" relname="span">С‡С‚Рѕ СЃ РїСЂР°РєС‚РёРєРё РµРіРѕ РІС‹РіРЅР°Р»Рё</segment>
+		<segment id="453" parent="452" relname="cause-effect">Р±РµР· РѕР±СЉСЏСЃРЅРµРЅРёСЏ РїСЂРёС‡РёРЅ.</segment>
+		<segment id="457" parent="461" relname="contrast">РР· РёРЅСЃС‚РёС‚СѓС‚Р° РµРіРѕ, СЃРєРѕСЂРµРµ РІСЃРµРіРѕ, РЅРµ РёСЃРєР»СЋС‡Р°С‚,</segment>
+		<segment id="458" parent="460" relname="span">Р° РґР»СЏ РїСЂРѕРґРѕР»Р¶РµРЅРёСЏ РїСЂР°РєС‚РёРєРё РїРµСЂРµРІРµРґСѓС‚ РІ РґСЂСѓРіРѕРµ РјРµСЃС‚Рѕ,</segment>
+		<segment id="459" parent="458" relname="elaboration">РєРѕС‚РѕСЂРѕРµ Р±СѓРґРµС‚ РІ СЃРµРєСЂРµС‚Рµ.</segment>
+		<segment id="463" parent="466" relname="attribution">Р‘Р»РѕРіРіРµСЂ С‚Р°РєР¶Рµ Р·Р°СЏРІРёР»,</segment>
+		<segment id="464" parent="466" relname="contrast">С‡С‚Рѕ РЅР°С…РѕРґРёС‚СЃСЏ РЅР° РїРѕР·РёС‚РёРІРµ,</segment>
+		<segment id="465" parent="466" relname="contrast">РЅРѕ РїСЂРё СЌС‚РѕРј СЂРµС€РёР» РІСЃРµ-С‚Р°РєРё РєСЂРµРїРєРѕ Р·Р»РѕСѓРїРѕС‚СЂРµР±РёС‚СЊ Р°Р»РєРѕРіРѕР»СЊРЅС‹РјРё РЅР°РїРёС‚РєР°РјРё.\n\</segment>
+		<segment id="469" parent="471" relname="contrast">nРђРІС‚РѕСЂС‹ РєРѕРјРјРµРЅС‚Р°СЂРёРµРІ РІС‹СЂР°Р·РёР»Рё СЃРѕРјРЅРµРЅРёРµ РІ С†РµР»РµСЃРѕРѕР±СЂР°Р·РЅРѕСЃС‚Рё РїРѕСЃР»РµРґРЅРµРіРѕ РґРµСЏРЅРёСЏ,</segment>
+		<segment id="470" parent="471" relname="contrast">Р° РЅРµРєРѕС‚РѕСЂС‹Рµ РёР· РЅРёС… РїСЂРёР·РІР°Р»Рё РµРіРѕ СЂР°СЃРєСЂС‹С‚СЊ Р·Р»РѕРїРѕР»СѓС‡РЅСѓСЋ Р·Р°РїРёСЃСЊ,</segment>
+		<segment id="472" parent="478" relname="span">РЅР° С‡С‚Рѕ Р±Р»РѕРіРіРµСЂ РЅРёРєР°Рє РЅРµ РѕС‚СЂРµР°РіРёСЂРѕРІР°Р»,</segment>
+		<segment id="473" parent="476" relname="solutionhood">РёР· С‡РµРіРѕ РјРѕР¶РЅРѕ РїСЂРµРґРїРѕР»РѕР¶РёС‚СЊ, С‡С‚Рѕ СЃС‚СѓРґРµРЅС‚ \"РјСѓР¶РµСЃС‚РІРµРЅРЅРѕ\" СЃРєСЂС‹Р» РµРµ РѕС‚ РіР»Р°Р· РїСѓР±Р»РёРєРё.\n\</segment>
+		<segment id="474" parent="475" relname="attribution">nРќР°РїРѕРјРЅРёРј,</segment>
+		<segment id="475" parent="476" relname="span">РїСЂРёР·РІР°С‚СЊ РґРµРїСѓС‚Р°С‚РѕРІ Рє РїРѕСЂСЏРґРєСѓ РЅР° Р·Р°СЃРµРґР°РЅРёСЏС… Р±РµР·СѓСЃРїРµС€РЅРѕ РїС‹С‚Р°Р»СЃСЏ РїСЂРµР·РёРґРµРЅС‚ Р”РјРёС‚СЂРёР№ РњРµРґРІРµРґРµРІ.</segment>
+		<segment id="480" parent="479" relname="elaboration">РР·РІРµСЃС‚РЅРѕ, РІ С‡Р°СЃС‚РЅРѕСЃС‚Рё, Рѕ РЅР°Р»РёС‡РёРё \"РґРµР¶СѓСЂРЅС‹С…\" РґРµРїСѓС‚Р°С‚РѕРІ, РєРѕС‚РѕСЂС‹Рµ РїРѕ РїСЂРµРґРІР°СЂРёС‚РµР»СЊРЅРѕР№ РґРѕРіРѕРІРѕСЂРµРЅРЅРѕСЃС‚Рё РіРѕР»РѕСЃСѓСЋС‚ Р·Р° РѕС‚СЃСѓС‚СЃС‚РІСѓСЋС‰РёС… РєРѕР»Р»РµРі,</segment>
+		<segment id="482" parent="486" relname="joint">РїСЂРѕС…РѕРґСЏ РІРґРѕР»СЊ РІС‹РґРµР»РµРЅРЅРѕРіРѕ РёРј СЂСЏРґР°</segment>
+		<segment id="483" parent="485" relname="span">Рё РЅР°Р¶РёРјР°СЏ РЅР° РєР»Р°РІРёС€Рё РјР°С€РёРЅ</segment>
+		<segment id="484" parent="483" relname="purpose">РґР»СЏ РіРѕР»РѕСЃРѕРІР°РЅРёСЏ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/24May2011/cards.html\n</segment>
 		<group id="176" type="span" parent="493" relname="preparation"/>
 		<group id="174" type="span" parent="176" relname="span"/>
 		<group id="173" type="multinuc" parent="174" relname="span"/>

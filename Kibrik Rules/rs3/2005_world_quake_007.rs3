@@ -11,16 +11,16 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="11" parent="19" relname="joint">На Тайване произошло землетрясение силой 5,3 балла\n\nЗемлетрясение силой 5,3 балла по шкале Рихтера зафиксировано во вторник у восточного побережья Тайваня.</segment>
-		<segment id="12" parent="16" relname="same-unit">Его очаг,</segment>
-		<segment id="13" parent="14" relname="attribution">по сообщениям из Тайбэя,</segment>
-		<segment id="14" parent="15" relname="span">находился в 44 км от города</segment>
-		<segment id="17" parent="16" relname="elaboration">Хуалянь на глубине 38 км под морским дном.</segment>
-		<segment id="20" parent="22" relname="span">Сведений о жертвах и разрушениях не поступало,</segment>
-		<segment id="21" parent="20" relname="elaboration">отмечает РИА \"Новости\".\n\nКрупнейший китайский остров расположен в сейсмически активной зоне Восточной Азии на стыке тектонических плит в Тихом океане.</segment>
-		<segment id="24" parent="25" relname="cause-effect">В 1999 году подземные толчки силой 7,6 балла</segment>
-		<segment id="25" parent="26" relname="span">вызвали на Тайване значительные разрушения</segment>
-		<segment id="27" parent="26" relname="elaboration">- погибли 2400 жителей.\n\nИсточник: https://www.newsru.com/world/11Jan2005/quake.html\n</segment>
+		<segment id="11" parent="19" relname="joint">РќР° РўР°Р№РІР°РЅРµ РїСЂРѕРёР·РѕС€Р»Рѕ Р·РµРјР»РµС‚СЂСЏСЃРµРЅРёРµ СЃРёР»РѕР№ 5,3 Р±Р°Р»Р»Р°\n\nР—РµРјР»РµС‚СЂСЏСЃРµРЅРёРµ СЃРёР»РѕР№ 5,3 Р±Р°Р»Р»Р° РїРѕ С€РєР°Р»Рµ Р РёС…С‚РµСЂР° Р·Р°С„РёРєСЃРёСЂРѕРІР°РЅРѕ РІРѕ РІС‚РѕСЂРЅРёРє Сѓ РІРѕСЃС‚РѕС‡РЅРѕРіРѕ РїРѕР±РµСЂРµР¶СЊСЏ РўР°Р№РІР°РЅСЏ.</segment>
+		<segment id="12" parent="16" relname="same-unit">Р•РіРѕ РѕС‡Р°Рі,</segment>
+		<segment id="13" parent="14" relname="attribution">РїРѕ СЃРѕРѕР±С‰РµРЅРёСЏРј РёР· РўР°Р№Р±СЌСЏ,</segment>
+		<segment id="14" parent="15" relname="span">РЅР°С…РѕРґРёР»СЃСЏ РІ 44 РєРј РѕС‚ РіРѕСЂРѕРґР°</segment>
+		<segment id="17" parent="16" relname="elaboration">РҐСѓР°Р»СЏРЅСЊ РЅР° РіР»СѓР±РёРЅРµ 38 РєРј РїРѕРґ РјРѕСЂСЃРєРёРј РґРЅРѕРј.</segment>
+		<segment id="20" parent="22" relname="span">РЎРІРµРґРµРЅРёР№ Рѕ Р¶РµСЂС‚РІР°С… Рё СЂР°Р·СЂСѓС€РµРЅРёСЏС… РЅРµ РїРѕСЃС‚СѓРїР°Р»Рѕ,</segment>
+		<segment id="21" parent="20" relname="elaboration">РѕС‚РјРµС‡Р°РµС‚ Р РРђ \"РќРѕРІРѕСЃС‚Рё\".\n\nРљСЂСѓРїРЅРµР№С€РёР№ РєРёС‚Р°Р№СЃРєРёР№ РѕСЃС‚СЂРѕРІ СЂР°СЃРїРѕР»РѕР¶РµРЅ РІ СЃРµР№СЃРјРёС‡РµСЃРєРё Р°РєС‚РёРІРЅРѕР№ Р·РѕРЅРµ Р’РѕСЃС‚РѕС‡РЅРѕР№ РђР·РёРё РЅР° СЃС‚С‹РєРµ С‚РµРєС‚РѕРЅРёС‡РµСЃРєРёС… РїР»РёС‚ РІ РўРёС…РѕРј РѕРєРµР°РЅРµ.</segment>
+		<segment id="24" parent="25" relname="cause-effect">Р’ 1999 РіРѕРґСѓ РїРѕРґР·РµРјРЅС‹Рµ С‚РѕР»С‡РєРё СЃРёР»РѕР№ 7,6 Р±Р°Р»Р»Р°</segment>
+		<segment id="25" parent="26" relname="span">РІС‹Р·РІР°Р»Рё РЅР° РўР°Р№РІР°РЅРµ Р·РЅР°С‡РёС‚РµР»СЊРЅС‹Рµ СЂР°Р·СЂСѓС€РµРЅРёСЏ</segment>
+		<segment id="27" parent="26" relname="elaboration">- РїРѕРіРёР±Р»Рё 2400 Р¶РёС‚РµР»РµР№.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/11Jan2005/quake.html\n</segment>
 		<group id="23" type="multinuc" parent="29" relname="span"/>
 		<group id="19" type="multinuc" parent="23" relname="joint"/>
 		<group id="18" type="span" parent="19" relname="joint"/>

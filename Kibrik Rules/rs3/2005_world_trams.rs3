@@ -10,14 +10,14 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="9" parent="11" relname="span">В Харькове столкнулись два трамвая: 8 пострадавших\n\nВ Дзержинском районе Харькова столкнулись два трамвая,</segment>
-		<segment id="10" parent="9" relname="elaboration">пострадали восемь человек.</segment>
-		<segment id="12" parent="21" relname="preparation">Инцидент произошел в воскресенье,</segment>
-		<segment id="13" parent="20" relname="attribution">сообщает РИА \"Новости\".\n\nПо предварительным данным,</segment>
-		<segment id="14" parent="15" relname="cause-effect">из-за технической неисправности</segment>
-		<segment id="15" parent="16" relname="span">трамвай вынесло на встречную колею,</segment>
-		<segment id="17" parent="19" relname="sequence">сообщили в понедельник в пресс-службе МЧС Украины.\n\nВсе пострадавшие были доставлены в больницу</segment>
-		<segment id="18" parent="19" relname="sequence">и после оказания помощи отпущены домой.\n\nПодробности инцидента уточняются.\n\nИсточник: https://www.newsru.com/world/11Jul2005/trams.html\n</segment>
+		<segment id="9" parent="11" relname="span">Р’ РҐР°СЂСЊРєРѕРІРµ СЃС‚РѕР»РєРЅСѓР»РёСЃСЊ РґРІР° С‚СЂР°РјРІР°СЏ: 8 РїРѕСЃС‚СЂР°РґР°РІС€РёС…\n\nР’ Р”Р·РµСЂР¶РёРЅСЃРєРѕРј СЂР°Р№РѕРЅРµ РҐР°СЂСЊРєРѕРІР° СЃС‚РѕР»РєРЅСѓР»РёСЃСЊ РґРІР° С‚СЂР°РјРІР°СЏ,</segment>
+		<segment id="10" parent="9" relname="elaboration">РїРѕСЃС‚СЂР°РґР°Р»Рё РІРѕСЃРµРјСЊ С‡РµР»РѕРІРµРє.</segment>
+		<segment id="12" parent="21" relname="preparation">РРЅС†РёРґРµРЅС‚ РїСЂРѕРёР·РѕС€РµР» РІ РІРѕСЃРєСЂРµСЃРµРЅСЊРµ,</segment>
+		<segment id="13" parent="20" relname="attribution">СЃРѕРѕР±С‰Р°РµС‚ Р РРђ \"РќРѕРІРѕСЃС‚Рё\".\n\nРџРѕ РїСЂРµРґРІР°СЂРёС‚РµР»СЊРЅС‹Рј РґР°РЅРЅС‹Рј,</segment>
+		<segment id="14" parent="15" relname="cause-effect">РёР·-Р·Р° С‚РµС…РЅРёС‡РµСЃРєРѕР№ РЅРµРёСЃРїСЂР°РІРЅРѕСЃС‚Рё</segment>
+		<segment id="15" parent="16" relname="span">С‚СЂР°РјРІР°Р№ РІС‹РЅРµСЃР»Рѕ РЅР° РІСЃС‚СЂРµС‡РЅСѓСЋ РєРѕР»РµСЋ,</segment>
+		<segment id="17" parent="19" relname="sequence">СЃРѕРѕР±С‰РёР»Рё РІ РїРѕРЅРµРґРµР»СЊРЅРёРє РІ РїСЂРµСЃСЃ-СЃР»СѓР¶Р±Рµ РњР§РЎ РЈРєСЂР°РёРЅС‹.\n\nР’СЃРµ РїРѕСЃС‚СЂР°РґР°РІС€РёРµ Р±С‹Р»Рё РґРѕСЃС‚Р°РІР»РµРЅС‹ РІ Р±РѕР»СЊРЅРёС†Сѓ</segment>
+		<segment id="18" parent="19" relname="sequence">Рё РїРѕСЃР»Рµ РѕРєР°Р·Р°РЅРёСЏ РїРѕРјРѕС‰Рё РѕС‚РїСѓС‰РµРЅС‹ РґРѕРјРѕР№.\n\nРџРѕРґСЂРѕР±РЅРѕСЃС‚Рё РёРЅС†РёРґРµРЅС‚Р° СѓС‚РѕС‡РЅСЏСЋС‚СЃСЏ.\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/world/11Jul2005/trams.html\n</segment>
 		<group id="11" type="span" parent="22" relname="preparation"/>
 		<group id="22" type="span" parent="23" relname="span"/>
 		<group id="21" type="span" parent="22" relname="span"/>

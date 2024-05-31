@@ -12,21 +12,21 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="16" parent="43" relname="preparation">Восемь человек погибли при столкновении двух грузовиков и микроавтобуса на скоростном диаметре в Петербурге\n\</segment>
-		<segment id="17" parent="18" relname="cause-effect">nВосемь человек погибли</segment>
-		<segment id="18" parent="19" relname="span">в результате столкновения трех автомобилей на участке Западного скоростного диаметра (ЗСД) в Курортном районе Санкт-Петербурга,</segment>
-		<segment id="20" parent="21" relname="comparison">сообщается на сайте ГУ МВД по Санкт-Петербургу и Ленинградской области.\n\nДТП произошло около 18:00 на 36-м километре ЗСД.</segment>
-		<segment id="22" parent="26" relname="span">Грузовик Iveco столкнулся с двигавшимся в попутном направлении грузовиком Scania,</segment>
-		<segment id="23" parent="25" relname="joint">который выехал на встречную полосу</segment>
-		<segment id="24" parent="25" relname="joint">и столкнулся с микроавтобусом Hyundai Starex.</segment>
-		<segment id="27" parent="26" relname="elaboration">Оба автомобиля загорелись.\n\nПогибли семь пассажиров и водитель микроавтобуса.</segment>
-		<segment id="29" parent="31" relname="joint">Водитель Iveco госпитализирован в тяжелом состоянии,</segment>
-		<segment id="30" parent="31" relname="joint">третий водитель не пострадал.</segment>
-		<segment id="32" parent="34" relname="span">По факту ДТП возбуждено уголовное дело по части 5 статьи 264 УК РФ</segment>
-		<segment id="33" parent="32" relname="elaboration">(нарушение правил дорожного движения и эксплуатации транспортных средств,</segment>
-		<segment id="35" parent="36" relname="same-unit">повлекшее по неосторожности смерть человека)</segment>
-		<segment id="37" parent="38" relname="joint">.\n\nРегиональное управление ГИБДД проводит проверку по факту аварии,</segment>
-		<segment id="40" parent="39" relname="attribution">передает РИА \"Новости\".\n\nИсточник: https://www.newsru.com/russia/27Oct2018/zsd.html\n</segment>
+		<segment id="16" parent="43" relname="preparation">Р’РѕСЃРµРјСЊ С‡РµР»РѕРІРµРє РїРѕРіРёР±Р»Рё РїСЂРё СЃС‚РѕР»РєРЅРѕРІРµРЅРёРё РґРІСѓС… РіСЂСѓР·РѕРІРёРєРѕРІ Рё РјРёРєСЂРѕР°РІС‚РѕР±СѓСЃР° РЅР° СЃРєРѕСЂРѕСЃС‚РЅРѕРј РґРёР°РјРµС‚СЂРµ РІ РџРµС‚РµСЂР±СѓСЂРіРµ\n\</segment>
+		<segment id="17" parent="18" relname="cause-effect">nР’РѕСЃРµРјСЊ С‡РµР»РѕРІРµРє РїРѕРіРёР±Р»Рё</segment>
+		<segment id="18" parent="19" relname="span">РІ СЂРµР·СѓР»СЊС‚Р°С‚Рµ СЃС‚РѕР»РєРЅРѕРІРµРЅРёСЏ С‚СЂРµС… Р°РІС‚РѕРјРѕР±РёР»РµР№ РЅР° СѓС‡Р°СЃС‚РєРµ Р—Р°РїР°РґРЅРѕРіРѕ СЃРєРѕСЂРѕСЃС‚РЅРѕРіРѕ РґРёР°РјРµС‚СЂР° (Р—РЎР”) РІ РљСѓСЂРѕСЂС‚РЅРѕРј СЂР°Р№РѕРЅРµ РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРіР°,</segment>
+		<segment id="20" parent="21" relname="comparison">СЃРѕРѕР±С‰Р°РµС‚СЃСЏ РЅР° СЃР°Р№С‚Рµ Р“РЈ РњР’Р” РїРѕ РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРіСѓ Рё Р›РµРЅРёРЅРіСЂР°РґСЃРєРѕР№ РѕР±Р»Р°СЃС‚Рё.\n\nР”РўРџ РїСЂРѕРёР·РѕС€Р»Рѕ РѕРєРѕР»Рѕ 18:00 РЅР° 36-Рј РєРёР»РѕРјРµС‚СЂРµ Р—РЎР”.</segment>
+		<segment id="22" parent="26" relname="span">Р“СЂСѓР·РѕРІРёРє Iveco СЃС‚РѕР»РєРЅСѓР»СЃСЏ СЃ РґРІРёРіР°РІС€РёРјСЃСЏ РІ РїРѕРїСѓС‚РЅРѕРј РЅР°РїСЂР°РІР»РµРЅРёРё РіСЂСѓР·РѕРІРёРєРѕРј Scania,</segment>
+		<segment id="23" parent="25" relname="joint">РєРѕС‚РѕСЂС‹Р№ РІС‹РµС…Р°Р» РЅР° РІСЃС‚СЂРµС‡РЅСѓСЋ РїРѕР»РѕСЃСѓ</segment>
+		<segment id="24" parent="25" relname="joint">Рё СЃС‚РѕР»РєРЅСѓР»СЃСЏ СЃ РјРёРєСЂРѕР°РІС‚РѕР±СѓСЃРѕРј Hyundai Starex.</segment>
+		<segment id="27" parent="26" relname="elaboration">РћР±Р° Р°РІС‚РѕРјРѕР±РёР»СЏ Р·Р°РіРѕСЂРµР»РёСЃСЊ.\n\nРџРѕРіРёР±Р»Рё СЃРµРјСЊ РїР°СЃСЃР°Р¶РёСЂРѕРІ Рё РІРѕРґРёС‚РµР»СЊ РјРёРєСЂРѕР°РІС‚РѕР±СѓСЃР°.</segment>
+		<segment id="29" parent="31" relname="joint">Р’РѕРґРёС‚РµР»СЊ Iveco РіРѕСЃРїРёС‚Р°Р»РёР·РёСЂРѕРІР°РЅ РІ С‚СЏР¶РµР»РѕРј СЃРѕСЃС‚РѕСЏРЅРёРё,</segment>
+		<segment id="30" parent="31" relname="joint">С‚СЂРµС‚РёР№ РІРѕРґРёС‚РµР»СЊ РЅРµ РїРѕСЃС‚СЂР°РґР°Р».</segment>
+		<segment id="32" parent="34" relname="span">РџРѕ С„Р°РєС‚Сѓ Р”РўРџ РІРѕР·Р±СѓР¶РґРµРЅРѕ СѓРіРѕР»РѕРІРЅРѕРµ РґРµР»Рѕ РїРѕ С‡Р°СЃС‚Рё 5 СЃС‚Р°С‚СЊРё 264 РЈРљ Р Р¤</segment>
+		<segment id="33" parent="32" relname="elaboration">(РЅР°СЂСѓС€РµРЅРёРµ РїСЂР°РІРёР» РґРѕСЂРѕР¶РЅРѕРіРѕ РґРІРёР¶РµРЅРёСЏ Рё СЌРєСЃРїР»СѓР°С‚Р°С†РёРё С‚СЂР°РЅСЃРїРѕСЂС‚РЅС‹С… СЃСЂРµРґСЃС‚РІ,</segment>
+		<segment id="35" parent="36" relname="same-unit">РїРѕРІР»РµРєС€РµРµ РїРѕ РЅРµРѕСЃС‚РѕСЂРѕР¶РЅРѕСЃС‚Рё СЃРјРµСЂС‚СЊ С‡РµР»РѕРІРµРєР°)</segment>
+		<segment id="37" parent="38" relname="joint">.\n\nР РµРіРёРѕРЅР°Р»СЊРЅРѕРµ СѓРїСЂР°РІР»РµРЅРёРµ Р“РР‘Р”Р” РїСЂРѕРІРѕРґРёС‚ РїСЂРѕРІРµСЂРєСѓ РїРѕ С„Р°РєС‚Сѓ Р°РІР°СЂРёРё,</segment>
+		<segment id="40" parent="39" relname="attribution">РїРµСЂРµРґР°РµС‚ Р РРђ \"РќРѕРІРѕСЃС‚Рё\".\n\nРСЃС‚РѕС‡РЅРёРє: https://www.newsru.com/russia/27Oct2018/zsd.html\n</segment>
 		<group id="43" type="multinuc" parent="44" relname="span"/>
 		<group id="21" type="multinuc" parent="43" relname="joint"/>
 		<group id="19" type="span" parent="21" relname="comparison"/>
