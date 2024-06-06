@@ -191,9 +191,11 @@ TextLoader::TextLoader(std::string fileName) {
 	file.close();
 }
 
-//TextLoader::~TextLoader() {
-//	this->manager->Release();
-//}
+TextLoader::~TextLoader() {
+	this->manager->Release();
+    this->entities.clear();
+    this->RSTNodes.clear();
+}
 
 const std::list<WordShell*> TextLoader::getEntities() const{
 	return this->entities;

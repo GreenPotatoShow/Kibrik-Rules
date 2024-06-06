@@ -11,7 +11,7 @@ class TextLoader
 {
 public:
 	TextLoader(std::string fileName);
-	//~TextLoader();
+	~TextLoader();
 
 	const std::wstring getText() const;
 	const std::string getFileName() const;

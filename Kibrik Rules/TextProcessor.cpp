@@ -2,6 +2,7 @@
 #include "Chain.h"
 #include "WordShell.h"
 #include "JSONCreator.h"
+#include "macros.h"
 
 
 #include "KNKernel.h"
@@ -45,7 +46,7 @@ TextProcessor::TextProcessor(const TextLoader &textLoader) {
                 bestCAChainID = chain.getId();
             }
         }
-        if (maxCA >= 0.5) {
+        if (maxCA >=LIMIT_COEF_OF_ACTIVATION) {
             this->chains[bestCAChainID].pushBackToWords(currentEntity);
         }
         else {
@@ -63,7 +64,7 @@ TextProcessor::TextProcessor(const TextLoader &textLoader) {
     //    }
     //}
 	JSONCreator jsonCreator(this->chains, textLoader.getText(), textLoader.getFileName());
-    std::cout << textLoader.getFileName() << "\n";
+    //std::cout << textLoader.getFileName() << "\n";
 }
 
 TextProcessor::~TextProcessor() {
